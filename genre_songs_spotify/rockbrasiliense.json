@@ -1,0 +1,657 @@
+[
+  {
+    "title": "Mulher de fases",
+    "artist": "Raimundos",
+    "isrc": "BRWMB9900522"
+  },
+  {
+    "title": "Má Influência",
+    "artist": "Dona Cislene",
+    "isrc": "BR8GH1400002"
+  },
+  {
+    "title": "Até Quando Esperar",
+    "artist": "Plebe Rude",
+    "isrc": "BREMI8500018"
+  },
+  {
+    "title": "Cada um por Si",
+    "artist": "Alarmes",
+    "isrc": "BXAIQ1600003"
+  },
+  {
+    "title": "Oi :)",
+    "artist": "Lupa",
+    "isrc": "BXVFC1900001"
+  },
+  {
+    "title": "Tempo Perdido",
+    "artist": "Legião Urbana",
+    "isrc": "BREMI8600025"
+  },
+  {
+    "title": "Entrelaços",
+    "artist": "Scalene",
+    "isrc": "BRRGE1601495"
+  },
+  {
+    "title": "Te Presenteio Com a Fúria",
+    "artist": "Trampa",
+    "isrc": "BRF8H0800001"
+  },
+  {
+    "title": "Sobreviver",
+    "artist": "ETNO",
+    "isrc": "BRTRB1523203"
+  },
+  {
+    "title": "Primeiros Erros (Chove) (feat. Kiko Zambianchi) - Ao Vivo",
+    "artist": "Capital Inicial, Kiko Zambianchi",
+    "isrc": "BRBMG0000511"
+  },
+  {
+    "title": "Luz Vermelha",
+    "artist": "Toro",
+    "isrc": "US7VG1790588"
+  },
+  {
+    "title": "O Tempo",
+    "artist": "Móveis Coloniais de Acaju",
+    "isrc": "BRTPA0900005"
+  },
+  {
+    "title": "Coexistência do Caos",
+    "artist": "D.F.C.",
+    "isrc": "GB-SMU-31-52579"
+  },
+  {
+    "title": "Linhas Tortas",
+    "artist": "Mariana Camelo",
+    "isrc": "USL4R2361382"
+  },
+  {
+    "title": "O Mapa da Mina",
+    "artist": "Rumbora",
+    "isrc": "QZ5AB1879706"
+  },
+  {
+    "title": "Dose de Café",
+    "artist": "Jambalaia",
+    "isrc": "BXPEJ1500002"
+  },
+  {
+    "title": "Maria Bonita",
+    "artist": "Imortal Joe",
+    "isrc": "BXPEJ2400002"
+  },
+  {
+    "title": "Café Amargo",
+    "artist": "Joe Silhueta, Gaivota Naves",
+    "isrc": "BXGHN1800005"
+  },
+  {
+    "title": "Cem Mil Flores",
+    "artist": "Darshan",
+    "isrc": "GBLFP1844618"
+  },
+  {
+    "title": "Aquela",
+    "artist": "Little Quail and The Mad Birds",
+    "isrc": "BRGTN1700029"
+  },
+  {
+    "title": "Djorous",
+    "artist": "Maskavo Roots",
+    "isrc": "BRSME9800207"
+  },
+  {
+    "title": "Contradições - Ao Vivo",
+    "artist": "Distintos Filhos",
+    "isrc": "BR6T92300014"
+  },
+  {
+    "title": "Metric",
+    "artist": "Horta Project",
+    "isrc": "BX18V2100002"
+  },
+  {
+    "title": "Nunca Mais Monotonia",
+    "artist": "Bois de Gerião",
+    "isrc": "BRA0V0600002"
+  },
+  {
+    "title": "O Mito do Herói",
+    "artist": "Aloizio",
+    "isrc": "BROH31500009"
+  },
+  {
+    "title": "Um Dia Normal (Super Herói)",
+    "artist": "Rocan, Seu Jorge",
+    "isrc": "BROLY1700001"
+  },
+  {
+    "title": "Desapareceu",
+    "artist": "Massay",
+    "isrc": "BRME31500001"
+  },
+  {
+    "title": "Te Ver Superar (feat. Dilsinho) - ALF SÁ Remix",
+    "artist": "Alf Sá, Jota Quest, Dilsinho",
+    "isrc": "BRSME2201601"
+  },
+  {
+    "title": "Resistência",
+    "artist": "Eufohria",
+    "isrc": "BRI3D1500019"
+  },
+  {
+    "title": "Setembro",
+    "artist": "Profissão de Urubu",
+    "isrc": "BXBUJ1500002"
+  },
+  {
+    "title": "Until I Drown",
+    "artist": "Calvet",
+    "isrc": "US7VG1474066"
+  },
+  {
+    "title": "Um Só Coração",
+    "artist": "Hellena",
+    "isrc": "BRH1D1300005"
+  },
+  {
+    "title": "Everbreathe",
+    "artist": "Deceivers",
+    "isrc": "BR-SD1-04-00071"
+  },
+  {
+    "title": "Armadilha",
+    "artist": "Finis Africae",
+    "isrc": "BREMI8700287"
+  },
+  {
+    "title": "Fogueira de Natal",
+    "artist": "Dado Villa-Lobos",
+    "isrc": "BRROC1700002"
+  },
+  {
+    "title": "Judite",
+    "artist": "The Neves, Paulo Rogerio",
+    "isrc": "BXMRR1400003"
+  },
+  {
+    "title": "Temporada dos Ipês",
+    "artist": "Marimbondo",
+    "isrc": "QZNJV2363160"
+  },
+  {
+    "title": "Ano Ruim",
+    "artist": "Dissonicos",
+    "isrc": "BRA0V1700004"
+  },
+  {
+    "title": "Prezado Gerúndio",
+    "artist": "Felipe K E Os Vetores",
+    "isrc": "ushm21940204"
+  },
+  {
+    "title": "Ordered to Thrash",
+    "artist": "Violator",
+    "isrc": "BRC770600044"
+  },
+  {
+    "title": "Sem Resposta",
+    "artist": "Verônica Não Veio",
+    "isrc": "BXFT01600003"
+  },
+  {
+    "title": "A Carta",
+    "artist": "Lost in Hate",
+    "isrc": "BRFXO1400001"
+  },
+  {
+    "title": "Um Gigante",
+    "artist": "Brazilian Blues Band",
+    "isrc": "BXCW21900003"
+  },
+  {
+    "title": "Calça jeans",
+    "artist": "Marrakitá",
+    "isrc": "BRS731500001"
+  },
+  {
+    "title": "Todas As Coisas do Mundo",
+    "artist": "Mariana Camelo & Os Mutais",
+    "isrc": "BR3M71200007"
+  },
+  {
+    "title": "Brinde",
+    "artist": "My Last Bike",
+    "isrc": "QZHZ32021653"
+  },
+  {
+    "title": "Os Normais",
+    "artist": "Metrópole Locomotiva",
+    "isrc": "BRDKJ1200004"
+  },
+  {
+    "title": "Bem Vindo ao Meu Mundo",
+    "artist": "Di Boresti",
+    "isrc": "BXR6Y1700001"
+  },
+  {
+    "title": "Crowded Sky",
+    "artist": "Bad Salad",
+    "isrc": "BRHTZ1200001"
+  },
+  {
+    "title": "Tudo Certo, Tudo Errado",
+    "artist": "Daniela Firme",
+    "isrc": "BXDPA1800012"
+  },
+  {
+    "title": "Curtindo A Vida Adoidado",
+    "artist": "Super Stereo Surf",
+    "isrc": "GBLFP1845148"
+  },
+  {
+    "title": "Hoje",
+    "artist": "Banda Catedral",
+    "isrc": "QZ5AB1628250"
+  },
+  {
+    "title": "Azul Baião",
+    "artist": "Cores Raras",
+    "isrc": "BRHW31400008"
+  },
+  {
+    "title": "Antraz",
+    "artist": "Detrito Federal",
+    "isrc": "GBSMU3121680"
+  },
+  {
+    "title": "The Necklace",
+    "artist": "Evil Rock",
+    "isrc": "BR0BF1300003"
+  },
+  {
+    "title": "Praxe",
+    "artist": "Frequência",
+    "isrc": "QZDA41926239"
+  },
+  {
+    "title": "Cantigas",
+    "artist": "Macunas",
+    "isrc": "BRHAZ1300003"
+  },
+  {
+    "title": "Utopia",
+    "artist": "Malice",
+    "isrc": "BXUF71900007"
+  },
+  {
+    "title": "Chama o vendedor",
+    "artist": "Na Lata",
+    "isrc": "BR3UB1300001"
+  },
+  {
+    "title": "Não Venha Me Dizer",
+    "artist": "Os Fabulosos Viralatas",
+    "isrc": "QZHZ42089916"
+  },
+  {
+    "title": "Quando Eu Te Procurar Não Tente Se Esconder",
+    "artist": "Planalto Central",
+    "isrc": "BXDE21400008"
+  },
+  {
+    "title": "Wanna Coffee",
+    "artist": "Projeto Macaco",
+    "isrc": "ushm91472338"
+  },
+  {
+    "title": "Cinza",
+    "artist": "Santa Apache",
+    "isrc": "BRI3D1600001"
+  },
+  {
+    "title": "A mais pedida (feat. Érika Martins)",
+    "artist": "Raimundos, Érika Martins",
+    "isrc": "BRWMB9900516"
+  },
+  {
+    "title": "Ego",
+    "artist": "Dona Cislene",
+    "isrc": "BR8GH1400003"
+  },
+  {
+    "title": "Mas Não Sei",
+    "artist": "Alarmes",
+    "isrc": "BXAIQ1600008"
+  },
+  {
+    "title": "Proteção",
+    "artist": "Plebe Rude",
+    "isrc": "BREMI8500016"
+  },
+  {
+    "title": "Bixinho",
+    "artist": "Lupa",
+    "isrc": "BXVFC1900006"
+  },
+  {
+    "title": "Amanheceu",
+    "artist": "Scalene",
+    "isrc": "BR6TO1300007"
+  },
+  {
+    "title": "Será",
+    "artist": "Legião Urbana",
+    "isrc": "BREMI8400036"
+  },
+  {
+    "title": "Você",
+    "artist": "Trampa",
+    "isrc": "BRDFQ1600001"
+  },
+  {
+    "title": "Revolução Silenciosa",
+    "artist": "ETNO",
+    "isrc": "BRTFA0900004"
+  },
+  {
+    "title": "Miragem",
+    "artist": "Toro",
+    "isrc": "US7VG1790591"
+  },
+  {
+    "title": "Não Olhe Pra Trás (feat. Lenine) - Ao Vivo",
+    "artist": "Capital Inicial, Lenine",
+    "isrc": "BRSME1500717"
+  },
+  {
+    "title": "Dois Sorrisos",
+    "artist": "Móveis Coloniais de Acaju, Leoni, André Gonzales, Beto Mejía, Eduardo Borém, Paulo Rogério, Esdras Nogueira, Gabriel Coaracy, Fabrício Ofuji, Fabio Pedroza, Alexandre Bursztyn, BC Araújo",
+    "isrc": "BR33V1200002"
+  },
+  {
+    "title": "O Virus do Peculato",
+    "artist": "D.F.C.",
+    "isrc": "GBSMU3198453"
+  },
+  {
+    "title": "Teu Mundo",
+    "artist": "Mariana Camelo",
+    "isrc": "uscgj2096300"
+  },
+  {
+    "title": "Skaô",
+    "artist": "Rumbora",
+    "isrc": "QZ5AB1631051"
+  },
+  {
+    "title": "Fissura",
+    "artist": "Jambalaia",
+    "isrc": "BXPEJ2300001"
+  },
+  {
+    "title": "Somos Todos Um",
+    "artist": "Imortal Joe",
+    "isrc": "BXPEJ2000007"
+  },
+  {
+    "title": "Ícaro",
+    "artist": "Joe Silhueta",
+    "isrc": "BXGHN1800007"
+  },
+  {
+    "title": "Passos Falsos",
+    "artist": "Darshan",
+    "isrc": "GBLFP1844620"
+  },
+  {
+    "title": "Família Que Briga Unida Permanece Unida",
+    "artist": "Little Quail and The Mad Birds",
+    "isrc": "BRGTN1700021"
+  },
+  {
+    "title": "Tempestade",
+    "artist": "Maskavo Roots",
+    "isrc": "BRWMB9802172"
+  },
+  {
+    "title": "Contradições",
+    "artist": "Distintos Filhos",
+    "isrc": "BR6T91700004"
+  },
+  {
+    "title": "Pulse",
+    "artist": "Horta Project",
+    "isrc": "QZNJW2107373"
+  },
+  {
+    "title": "O Dia Mais Frio da Década",
+    "artist": "Bois de Gerião",
+    "isrc": "BRA0V0600014"
+  },
+  {
+    "title": "respirar",
+    "artist": "Aloizio, LOWS",
+    "isrc": "BRTRB2401427"
+  },
+  {
+    "title": "Nada Pode Me Parar",
+    "artist": "Rocan",
+    "isrc": "US7VG1511120"
+  },
+  {
+    "title": "O Que Restou",
+    "artist": "Massay",
+    "isrc": "BRME31400001"
+  },
+  {
+    "title": "Através do Espelho",
+    "artist": "Alf Sá, Black Alien",
+    "isrc": "BRLZ11600019"
+  },
+  {
+    "title": "Há Saída",
+    "artist": "Eufohria",
+    "isrc": "BRI3D1700013"
+  },
+  {
+    "title": "Até",
+    "artist": "Profissão de Urubu",
+    "isrc": "BXBUJ1500001"
+  },
+  {
+    "title": "Reckless Night",
+    "artist": "Calvet",
+    "isrc": "BXO7I1700001"
+  },
+  {
+    "title": "Contra a Maré",
+    "artist": "Hellena, Gustavo Bertoni",
+    "isrc": "BRH1D1300003"
+  },
+  {
+    "title": "Bitter",
+    "artist": "Deceivers",
+    "isrc": "GBSMU1929670"
+  },
+  {
+    "title": "El secreto de las 12",
+    "artist": "Finis Africae",
+    "isrc": "ES5151200896"
+  },
+  {
+    "title": "Dias",
+    "artist": "Dado Villa-Lobos",
+    "isrc": "BRROC0500021"
+  },
+  {
+    "title": "Falar de Amor",
+    "artist": "The Neves",
+    "isrc": "BXMRR1400008"
+  },
+  {
+    "title": "Enredo",
+    "artist": "Marimbondo",
+    "isrc": "QZNJY2159302"
+  },
+  {
+    "title": "Adulto Mais Adulto",
+    "artist": "Dissonicos",
+    "isrc": "BRA0V1700001"
+  },
+  {
+    "title": "Sob o Sol",
+    "artist": "Felipe K E Os Vetores",
+    "isrc": "usdy41999838"
+  },
+  {
+    "title": "Addicted to Mosh",
+    "artist": "Violator",
+    "isrc": "BRC770600042"
+  },
+  {
+    "title": "Andarilho",
+    "artist": "Verônica Não Veio",
+    "isrc": "US7VG2073665"
+  },
+  {
+    "title": "Acredite em Você",
+    "artist": "Lost in Hate",
+    "isrc": "BRFXO1400004"
+  },
+  {
+    "title": "Cachaça, Fumaça e Rock'N Roll",
+    "artist": "Brazilian Blues Band",
+    "isrc": "BXCW21900001"
+  },
+  {
+    "title": "Dois caseiros",
+    "artist": "Marrakitá",
+    "isrc": "BRS731500004"
+  },
+  {
+    "title": "Me lambe",
+    "artist": "Raimundos",
+    "isrc": "BRWMB9900521"
+  },
+  {
+    "title": "90",
+    "artist": "Dona Cislene",
+    "isrc": "BR8GH1400015"
+  },
+  {
+    "title": "Tempo Bom",
+    "artist": "Alarmes",
+    "isrc": "BXAIQ1600012"
+  },
+  {
+    "title": "Até Quando Esperar - Ao Vivo",
+    "artist": "Plebe Rude",
+    "isrc": "BRE8T1100035"
+  },
+  {
+    "title": "Melhor Não Fazer Nada",
+    "artist": "Lupa",
+    "isrc": "BXLYM2200005"
+  },
+  {
+    "title": "Surreal",
+    "artist": "Scalene",
+    "isrc": "BR6TO1300014"
+  },
+  {
+    "title": "Eduardo E Mônica",
+    "artist": "Legião Urbana",
+    "isrc": "BREMI8600023"
+  },
+  {
+    "title": "Haiti",
+    "artist": "Trampa",
+    "isrc": "BRF8H0800009"
+  },
+  {
+    "title": "A Mesma Dor",
+    "artist": "ETNO",
+    "isrc": "BRTFA0900002"
+  },
+  {
+    "title": "Apneia",
+    "artist": "Toro",
+    "isrc": "US7VG1790590"
+  },
+  {
+    "title": "Natasha - Ao Vivo",
+    "artist": "Capital Inicial",
+    "isrc": "BRSME0800358"
+  },
+  {
+    "title": "Não Chora",
+    "artist": "Móveis Coloniais de Acaju",
+    "isrc": "BR33V1300013"
+  },
+  {
+    "title": "Welcome Fernando",
+    "artist": "D.F.C.",
+    "isrc": "GB-SMU-31-52582"
+  },
+  {
+    "title": "Quebrando as Leis",
+    "artist": "Mariana Camelo",
+    "isrc": "BR3M71800001"
+  },
+  {
+    "title": "Freio de Mão",
+    "artist": "Rumbora",
+    "isrc": "BRLZ10300001"
+  },
+  {
+    "title": "Poeira",
+    "artist": "Jambalaia",
+    "isrc": "BXPEJ1500008"
+  },
+  {
+    "title": "Consciência Verde",
+    "artist": "Imortal Joe",
+    "isrc": "BXPEJ2400001"
+  },
+  {
+    "title": "Tropicalipse",
+    "artist": "Joe Silhueta, Guilherme Cobelo",
+    "isrc": "BXGHN2100006"
+  },
+  {
+    "title": "Descontrole",
+    "artist": "Darshan",
+    "isrc": "GBLFP1844623"
+  },
+  {
+    "title": "Essa Menina",
+    "artist": "Little Quail and The Mad Birds",
+    "isrc": "BRGTN1700027"
+  },
+  {
+    "title": "Tempestade (feat. Samuel Rosa)",
+    "artist": "Maskavo Roots, Samuel Rosa",
+    "isrc": "BRSME9800216"
+  },
+  {
+    "title": "Deixa Acabar",
+    "artist": "Distintos Filhos",
+    "isrc": "BRUQ81100013"
+  },
+  {
+    "title": "Tesourinha Paulicéia",
+    "artist": "Horta Project, Muntchako, Camarones Orquestra Guitarrística, Engrenagem",
+    "isrc": "QZW9L2204570"
+  },
+  {
+    "title": "Já é Tarde",
+    "artist": "Bois de Gerião",
+    "isrc": "BRA0V0300003"
+  }
+]

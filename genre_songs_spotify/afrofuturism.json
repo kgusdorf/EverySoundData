@@ -1,0 +1,982 @@
+[
+  {
+    "title": "Crust",
+    "artist": "Flying Lotus",
+    "isrc": "GBBPW2100108"
+  },
+  {
+    "title": "Contact",
+    "artist": "Kelela",
+    "isrc": "GBBPW2200067"
+  },
+  {
+    "title": "Selfish Soul - ODESZA Remix",
+    "artist": "Sudan Archives, ODESZA",
+    "isrc": "US2S72249035"
+  },
+  {
+    "title": "Them Changes",
+    "artist": "Thundercat",
+    "isrc": "US25X1090547"
+  },
+  {
+    "title": "Cranes in the Sky",
+    "artist": "Solange",
+    "isrc": "USSM11607807"
+  },
+  {
+    "title": "Shine a Light",
+    "artist": "Shabazz Palaces, Thaddillac",
+    "isrc": "USSUB1721003"
+  },
+  {
+    "title": "GUILTY",
+    "artist": "Moor Mother, Lonnie Holley, Raia Was",
+    "isrc": "USEP42261001"
+  },
+  {
+    "title": "Tiny Garden",
+    "artist": "Jamila Woods, duendita",
+    "isrc": "US38Y2344202"
+  },
+  {
+    "title": "Two Weeks",
+    "artist": "FKA twigs",
+    "isrc": "GBBKS1400227"
+  },
+  {
+    "title": "Dream State",
+    "artist": "Kamasi Washington, André 3000",
+    "isrc": "UK7MC2400007"
+  },
+  {
+    "title": "Tapestry from an Asteroid",
+    "artist": "Sun Ra",
+    "isrc": "USCXG1400394"
+  },
+  {
+    "title": "Didn't Cha Know",
+    "artist": "Erykah Badu",
+    "isrc": "USMO10001020"
+  },
+  {
+    "title": "Make Me Feel",
+    "artist": "Janelle Monáe",
+    "isrc": "USAT21800745"
+  },
+  {
+    "title": "My Queen Is Albertina Sisulu",
+    "artist": "Sons Of Kemet",
+    "isrc": "USUM71714091"
+  },
+  {
+    "title": "Borealis",
+    "artist": "Jlin, Björk",
+    "isrc": "USA2B2319243"
+  },
+  {
+    "title": "wicked dreams",
+    "artist": "Klein",
+    "isrc": "QZS7J2426078"
+  },
+  {
+    "title": "Turiya & Ramakrishna",
+    "artist": "Alice Coltrane",
+    "isrc": "USMC17049551"
+  },
+  {
+    "title": "Meet Me At Sachas",
+    "artist": "Space Afrika",
+    "isrc": "QZJCP2100022"
+  },
+  {
+    "title": "Rebirth Of Slick (Cool Like Dat)",
+    "artist": "Digable Planets",
+    "isrc": "USEM39300099"
+  },
+  {
+    "title": "Burn",
+    "artist": "OSHUN",
+    "isrc": "QZ5AB1771810"
+  },
+  {
+    "title": "Wait a Minute!",
+    "artist": "WILLOW",
+    "isrc": "QMJMT1500801"
+  },
+  {
+    "title": "Peach",
+    "artist": "Kevin Abstract",
+    "isrc": "USRC11901127"
+  },
+  {
+    "title": "Follow Me - Skeptical Remix",
+    "artist": "Steve Spacek, Skeptical",
+    "isrc": "GB4HG1900026"
+  },
+  {
+    "title": "Andreaen Sand Dunes",
+    "artist": "Drexciya",
+    "isrc": "DEF279912903"
+  },
+  {
+    "title": "Amma Jerusalem School",
+    "artist": "Matana Roberts",
+    "isrc": "CACQ21309809"
+  },
+  {
+    "title": "LABYRINTH",
+    "artist": "Chino Amobi",
+    "isrc": "QZTAS2312871"
+  },
+  {
+    "title": "Drive Me Crazy (Radio)",
+    "artist": "E L U C I D",
+    "isrc": "USA560509529"
+  },
+  {
+    "title": "Rosebuds",
+    "artist": "Sa-ra Creative Partners",
+    "isrc": "US36T0731306"
+  },
+  {
+    "title": "Sequence 04",
+    "artist": "Hieroglyphic Being",
+    "isrc": "GBSGM1600345"
+  },
+  {
+    "title": "Blue Flowers",
+    "artist": "Dr. Octagon",
+    "isrc": "GBAQH9600200"
+  },
+  {
+    "title": "When Will I See You Again?",
+    "artist": "Idris Ackamoor, The Pyramids",
+    "isrc": "DEG932001262"
+  },
+  {
+    "title": "Dark Red",
+    "artist": "Steve Lacy",
+    "isrc": "GBKPL1778015"
+  },
+  {
+    "title": "Mashita",
+    "artist": "Mansur Brown",
+    "isrc": "GB5P51800313"
+  },
+  {
+    "title": "Give Up The Funk (Tear The Roof Off The Sucker)",
+    "artist": "Parliament",
+    "isrc": "USPR37800052"
+  },
+  {
+    "title": "Mastermind",
+    "artist": "Deltron 3030, Del The Funky Homosapien, Dan The Automator, Kid Koala",
+    "isrc": "US25T0892641"
+  },
+  {
+    "title": "Starlight - Echospace Unreleased Mix",
+    "artist": "Model 500",
+    "isrc": "GB-QLP-08-00502"
+  },
+  {
+    "title": "Bussifame",
+    "artist": "Dawn Richard",
+    "isrc": "USMRG2175604"
+  },
+  {
+    "title": "Porridge",
+    "artist": "Onipa",
+    "isrc": "UKZ4J2100503"
+  },
+  {
+    "title": "A2Byo",
+    "artist": "Suzi Analogue",
+    "isrc": "USUYG1165916"
+  },
+  {
+    "title": "I Am A Part Of The Wonder",
+    "artist": "Lonnie Holley, Moor Mother",
+    "isrc": "US38Y2243702"
+  },
+  {
+    "title": "Circuitous",
+    "artist": "Afrikan Sciences",
+    "isrc": "DEX260992498"
+  },
+  {
+    "title": "QueenS",
+    "artist": "THEESatisfaction",
+    "isrc": "USSUB1296004"
+  },
+  {
+    "title": "Green Garden",
+    "artist": "Laura Mvula",
+    "isrc": "GBARL1202269"
+  },
+  {
+    "title": "SMT",
+    "artist": "Pierre Kwenders",
+    "isrc": "CAAA12120514"
+  },
+  {
+    "title": "Pain & Pleasure (feat. VANYFOX & Fédération Internationale du Bruit)",
+    "artist": "Moonshine, Amaal Nuux, Aluna, Vanyfox, Fédération Internationale du Bruit",
+    "isrc": "CA5092300401"
+  },
+  {
+    "title": "Out In The Streets",
+    "artist": "Africa HiTech, Mark Pritchard",
+    "isrc": "GBBPW1100068"
+  },
+  {
+    "title": "The Lust With-IN",
+    "artist": "Jamal Moss",
+    "isrc": "UK8261900888"
+  },
+  {
+    "title": "Simé Love",
+    "artist": "Dowdelin",
+    "isrc": "FRO5P2100350"
+  },
+  {
+    "title": "The Bells",
+    "artist": "Jeff Mills",
+    "isrc": "USAX10000249"
+  },
+  {
+    "title": "I Am Invisible",
+    "artist": "Wizard Apprentice",
+    "isrc": "uscgh1917228"
+  },
+  {
+    "title": "Fully Lost, Fully Found (From \"Nanny\" Original Soundtrack)",
+    "artist": "YATTA",
+    "isrc": "QZTB92268487"
+  },
+  {
+    "title": "Transitions",
+    "artist": "Faizal Mostrixx",
+    "isrc": "DETP62200076"
+  },
+  {
+    "title": "Vibrations From The Serengeti II",
+    "artist": "Africans with Mainframes",
+    "isrc": "GBBCK1500821"
+  },
+  {
+    "title": "Nunk - New Wave Funk",
+    "artist": "Warp 9",
+    "isrc": "CAU118303796"
+  },
+  {
+    "title": "Pack Jam - Remastered 12\" Remix",
+    "artist": "Jonzun Crew",
+    "isrc": "USTB10500055"
+  },
+  {
+    "title": "Miles",
+    "artist": "Christelle Bofale",
+    "isrc": "QMFD42000001"
+  },
+  {
+    "title": "Boungie",
+    "artist": "Blackpocket",
+    "isrc": "GBSZM0700023"
+  },
+  {
+    "title": "Sator Arepo",
+    "artist": "Judgitzu",
+    "isrc": "UGA262300098"
+  },
+  {
+    "title": "The Phoenix",
+    "artist": "Fhloston Paradigm",
+    "isrc": "GBLZC1400009"
+  },
+  {
+    "title": "Waste of Sin",
+    "artist": "Kaleo Sansaa",
+    "isrc": "QZLBC2312378"
+  },
+  {
+    "title": "Lisa Bonet",
+    "artist": "Ras G & The Afrikan Space Program",
+    "isrc": "GBKMS0910037"
+  },
+  {
+    "title": "Mothership Connection (Star Child) - Live",
+    "artist": "Parliament Funkadelic",
+    "isrc": "GB-SMU-47-16622"
+  },
+  {
+    "title": "Detroit Steel - Plant43 Remix",
+    "artist": "Blixaboy, Plant43",
+    "isrc": "GBJU21700363"
+  },
+  {
+    "title": "Praises",
+    "artist": "Sleep Sinatra",
+    "isrc": "QZTB72295720"
+  },
+  {
+    "title": "Grey Matter",
+    "artist": "Divine Styler",
+    "isrc": "USGI10100006"
+  },
+  {
+    "title": "Celestial Blues",
+    "artist": "Gary Bartz Ntu Troop",
+    "isrc": "USC4R1704816"
+  },
+  {
+    "title": "Mist :: Missed",
+    "artist": "Mourning [A] BLKstar",
+    "isrc": "USA2B2055188"
+  },
+  {
+    "title": "Mostra",
+    "artist": "DJ Khalab",
+    "isrc": "UKEZZ1700042"
+  },
+  {
+    "title": "Death of the Space Wizard",
+    "artist": "Scott Xylo, Udo",
+    "isrc": "FRX202008283"
+  },
+  {
+    "title": "Heaven",
+    "artist": "AKUA",
+    "isrc": "QM24S1906332"
+  },
+  {
+    "title": "Hood Closed to Gentrifiers",
+    "artist": "BRYCE DETROIT",
+    "isrc": "QZNWW2068470"
+  },
+  {
+    "title": "Let's Go Krazy",
+    "artist": "CX Kidtronik, Nic Endo, Alec Empire (Atari Teenage Riot Mix)",
+    "isrc": "US2S71328004"
+  },
+  {
+    "title": "Sons of Creation",
+    "artist": "Cameron Graves",
+    "isrc": "US5761906603"
+  },
+  {
+    "title": "Abundance",
+    "artist": "Charm Taylor",
+    "isrc": "QZNMU2284685"
+  },
+  {
+    "title": "Anaphase",
+    "artist": "DA-10",
+    "isrc": "GB76B1301002"
+  },
+  {
+    "title": "Dengele (Makuta Club)",
+    "artist": "DJ Jigüe, Alva",
+    "isrc": "USUG11700101"
+  },
+  {
+    "title": "Light Years",
+    "artist": "Damon Davis, Tonina",
+    "isrc": "QZB4J1848899"
+  },
+  {
+    "title": "Funny (Hiphop)",
+    "artist": "Eagle Nebula",
+    "isrc": "CAK470809402"
+  },
+  {
+    "title": "Fala Comigo",
+    "artist": "Gato Preto, Flavia Coelho, Rey Sapiens",
+    "isrc": "FR59R1919153"
+  },
+  {
+    "title": "Xy-moch",
+    "artist": "Griot Galaxy",
+    "isrc": "US3JJ1900043"
+  },
+  {
+    "title": "Knitted Crown",
+    "artist": "Hprizm",
+    "isrc": "USA2B1802198"
+  },
+  {
+    "title": "Bombolong",
+    "artist": "Ibaaku",
+    "isrc": "FR9W12341036"
+  },
+  {
+    "title": "#icu",
+    "artist": "JAI/MAHL",
+    "isrc": "SGA901888014"
+  },
+  {
+    "title": "Corner Store Bodega Bop",
+    "artist": "John Morrison",
+    "isrc": "QMFME1560449"
+  },
+  {
+    "title": "Meu Sol",
+    "artist": "Jonathan Ferr, Rashid, ÀVUÀ",
+    "isrc": "BRRGE2200852"
+  },
+  {
+    "title": "To the Beach",
+    "artist": "LEKIDDO - Lord of The Lobsters!",
+    "isrc": "GBFMG0800050"
+  },
+  {
+    "title": "Be Safe",
+    "artist": "Lulu James",
+    "isrc": "GBARL1202071"
+  },
+  {
+    "title": "Breakthrough #Dtownhump",
+    "artist": "Medicine Man Revival, The Texas Gentlemen, RC & The Gritz",
+    "isrc": "QZCE61836155"
+  },
+  {
+    "title": "Ghetto Bèlè",
+    "artist": "Noss Dj",
+    "isrc": "QZFP51999291"
+  },
+  {
+    "title": "Pulled and Twisted",
+    "artist": "Onyx Ashanti",
+    "isrc": "ushm91344891"
+  },
+  {
+    "title": "REWIND",
+    "artist": "Orrin",
+    "isrc": "QZMEV2454507"
+  },
+  {
+    "title": "Now Be The Time",
+    "artist": "Oy",
+    "isrc": "CH4132200172"
+  },
+  {
+    "title": "Beat Bop - Edit",
+    "artist": "Rammellzee, K-Rob",
+    "isrc": "USAR11100210"
+  },
+  {
+    "title": "Qualified",
+    "artist": "Sammus, Open Mike Eagle, Arch Thompson",
+    "isrc": "USA2B1605376"
+  },
+  {
+    "title": "Rock It Ina Dub",
+    "artist": "Scientist, Hempress Sativa",
+    "isrc": "TCADJ1771702"
+  },
+  {
+    "title": "Kambo - Lechuga Zafiro Remix",
+    "artist": "Sun Yufka, Lechuga Zafiro",
+    "isrc": "FR96X1751784"
+  },
+  {
+    "title": "Never Catch Me",
+    "artist": "Flying Lotus, Kendrick Lamar",
+    "isrc": "GBBPW1400157"
+  },
+  {
+    "title": "Happy Ending",
+    "artist": "Kelela",
+    "isrc": "GBBPW2200062"
+  },
+  {
+    "title": "Selfish Soul",
+    "artist": "Sudan Archives",
+    "isrc": "US2S72249005"
+  },
+  {
+    "title": "Losing You",
+    "artist": "Solange",
+    "isrc": "USME31201358"
+  },
+  {
+    "title": "Forerunner Foray",
+    "artist": "Shabazz Palaces",
+    "isrc": "USSUB1404402"
+  },
+  {
+    "title": "Walk On By",
+    "artist": "Thundercat, Kendrick Lamar",
+    "isrc": "US25X1090542"
+  },
+  {
+    "title": "The Blues Remembers Everything the Country Forgot",
+    "artist": "Moor Mother, billy woods, Wolf Weston",
+    "isrc": "QMFMF2000104"
+  },
+  {
+    "title": "Holy",
+    "artist": "Jamila Woods",
+    "isrc": "US38Y1731218"
+  },
+  {
+    "title": "cellophane",
+    "artist": "FKA twigs",
+    "isrc": "UK7MC1900009"
+  },
+  {
+    "title": "Get Lit",
+    "artist": "Kamasi Washington, George Clinton, D Smoke",
+    "isrc": "UK7MC2400005"
+  },
+  {
+    "title": "Hour of Parting",
+    "artist": "Sun Ra",
+    "isrc": "USCXG1400143"
+  },
+  {
+    "title": "On & On",
+    "artist": "Erykah Badu",
+    "isrc": "USUR19700556"
+  },
+  {
+    "title": "To Never Forget The Source",
+    "artist": "Sons Of Kemet",
+    "isrc": "USUM72023596"
+  },
+  {
+    "title": "I Like That",
+    "artist": "Janelle Monáe",
+    "isrc": "USAT21800756"
+  },
+  {
+    "title": "The Precision Of Infinity",
+    "artist": "Jlin, Philip Glass",
+    "isrc": "USA2B2319253"
+  },
+  {
+    "title": "No More Shubz",
+    "artist": "Klein",
+    "isrc": "QZ93L2055558"
+  },
+  {
+    "title": "Journey In Satchidananda",
+    "artist": "Alice Coltrane, Pharoah Sanders",
+    "isrc": "USMC17052076"
+  },
+  {
+    "title": "Honest Labour (feat. HforSpirit)",
+    "artist": "Space Afrika, HforSpirit",
+    "isrc": "QZJCP2100029"
+  },
+  {
+    "title": "Blessings on Blessings",
+    "artist": "OSHUN",
+    "isrc": "QZ5AB1804520"
+  },
+  {
+    "title": "Where I'm From",
+    "artist": "Digable Planets",
+    "isrc": "USEM39200371"
+  },
+  {
+    "title": "Tennessee (feat. Lil Nas X)",
+    "artist": "Kevin Abstract, Lil Nas X",
+    "isrc": "USRC12401064"
+  },
+  {
+    "title": "Another Like This - Radio Edit, Shy One Remix",
+    "artist": "Steve Spacek, Yazmin Lacey, Shy One",
+    "isrc": "FR2X42233856"
+  },
+  {
+    "title": "Black Sea",
+    "artist": "Drexciya",
+    "isrc": "NLL561304941"
+  },
+  {
+    "title": "symptom of life",
+    "artist": "WILLOW",
+    "isrc": "QZQAY2437569"
+  },
+  {
+    "title": "we said",
+    "artist": "Matana Roberts",
+    "isrc": "CACQ22317001"
+  },
+  {
+    "title": "BLACKOUT",
+    "artist": "Chino Amobi",
+    "isrc": "USA2B1701262"
+  },
+  {
+    "title": "Old Magic",
+    "artist": "E L U C I D",
+    "isrc": "QM6MZ2229297"
+  },
+  {
+    "title": "Hey Love",
+    "artist": "Sa-ra Creative Partners",
+    "isrc": "US36T0731302"
+  },
+  {
+    "title": "Ashrams",
+    "artist": "Hieroglyphic Being, Sarathy Korwar, Shabaka",
+    "isrc": "GBCFB1700296"
+  },
+  {
+    "title": "Earth People",
+    "artist": "Dr. Octagon",
+    "isrc": "GBAQH9600206"
+  },
+  {
+    "title": "Rhapsody In Berlin",
+    "artist": "Idris Ackamoor, The Pyramids",
+    "isrc": "DEG931600811"
+  },
+  {
+    "title": "It's My Time",
+    "artist": "Mansur Brown",
+    "isrc": "QM24S2006475"
+  },
+  {
+    "title": "Flash Light",
+    "artist": "Parliament",
+    "isrc": "USUMG7710009"
+  },
+  {
+    "title": "Bad Habit",
+    "artist": "Steve Lacy",
+    "isrc": "USRC12201440"
+  },
+  {
+    "title": "3030",
+    "artist": "Deltron 3030, Del The Funky Homosapien, Dan The Automator, Kid Koala",
+    "isrc": "US25T0892633"
+  },
+  {
+    "title": "The Chase - Smooth Mix",
+    "artist": "Model 500",
+    "isrc": "BEZ350800002"
+  },
+  {
+    "title": "Renegades",
+    "artist": "Dawn Richard",
+    "isrc": "GB2DZ1600031"
+  },
+  {
+    "title": "Fire (Edit) - Mixed",
+    "artist": "Onipa",
+    "isrc": "DEG932102025"
+  },
+  {
+    "title": "Deserve Betta",
+    "artist": "Suzi Analogue, DJ Taye, Opal Hoyt",
+    "isrc": "QM24S1701109"
+  },
+  {
+    "title": "Oh Me, Oh My",
+    "artist": "Lonnie Holley, Michael Stipe",
+    "isrc": "US38Y2243703"
+  },
+  {
+    "title": "Lillian",
+    "artist": "Afrikan Sciences",
+    "isrc": "USCGJ2401862"
+  },
+  {
+    "title": "EarthEE",
+    "artist": "THEESatisfaction",
+    "isrc": "USSUB1408407"
+  },
+  {
+    "title": "Got Me",
+    "artist": "Laura Mvula",
+    "isrc": "GBAHS2100121"
+  },
+  {
+    "title": "Mardi Gras",
+    "artist": "Pierre Kwenders, Jacobus",
+    "isrc": "CAZ841400047"
+  },
+  {
+    "title": "Woah",
+    "artist": "Moonshine, Ahadadream",
+    "isrc": "CAK472103311"
+  },
+  {
+    "title": "Cyclic Sun",
+    "artist": "Africa HiTech, Mark Pritchard",
+    "isrc": "GBBPW1100075"
+  },
+  {
+    "title": "Spiral Galaxies with 2 Cores",
+    "artist": "Jamal Moss, Kink",
+    "isrc": "SGA902088054"
+  },
+  {
+    "title": "Boaty cruisy",
+    "artist": "Dowdelin",
+    "isrc": "FR05P1800214"
+  },
+  {
+    "title": "The Bells - Blue Potential Version",
+    "artist": "Jeff Mills",
+    "isrc": "FR47T0500010"
+  },
+  {
+    "title": "Sensuality",
+    "artist": "Wizard Apprentice",
+    "isrc": "uscgh1917229"
+  },
+  {
+    "title": "Blues",
+    "artist": "YATTA",
+    "isrc": "GBHLW1902019"
+  },
+  {
+    "title": "In My Soul",
+    "artist": "Faizal Mostrixx, Karun",
+    "isrc": "GBMCZ0601418"
+  },
+  {
+    "title": "Anachronistic",
+    "artist": "Africans with Mainframes",
+    "isrc": "GBBCK1600959"
+  },
+  {
+    "title": "Light Years Away",
+    "artist": "Warp 9",
+    "isrc": "CAU118303797"
+  },
+  {
+    "title": "Space Cowboy",
+    "artist": "Jonzun Crew",
+    "isrc": "USTB10300342"
+  },
+  {
+    "title": "Origami Dreams",
+    "artist": "Christelle Bofale",
+    "isrc": "QMFD41900020"
+  },
+  {
+    "title": "In Da Back Room",
+    "artist": "Blackpocket, Steve Spacek",
+    "isrc": "GBSZM1900594"
+  },
+  {
+    "title": "L'or Des Fous",
+    "artist": "Judgitzu",
+    "isrc": "UGA262300092"
+  },
+  {
+    "title": "...Hours",
+    "artist": "Fhloston Paradigm, Puerto Rican Space Program",
+    "isrc": "USQY51752579"
+  },
+  {
+    "title": "My Body My Home",
+    "artist": "Kaleo Sansaa",
+    "isrc": "DEXS92100036"
+  },
+  {
+    "title": "Time Will Heal…",
+    "artist": "Ras G & The Afrikan Space Program",
+    "isrc": "GBKMS0910036"
+  },
+  {
+    "title": "Do That Stuff - Live",
+    "artist": "Parliament Funkadelic",
+    "isrc": "GB-SMU-47-16624"
+  },
+  {
+    "title": "Artic",
+    "artist": "Blixaboy",
+    "isrc": "GBJU21600255"
+  },
+  {
+    "title": "FLASHFLOODS",
+    "artist": "Sleep Sinatra, Talaj",
+    "isrc": "QZHNB2201524"
+  },
+  {
+    "title": "In a World of U",
+    "artist": "Divine Styler",
+    "isrc": "USWB11202587"
+  },
+  {
+    "title": "Uhuru Sasa",
+    "artist": "Gary Bartz Ntu Troop",
+    "isrc": "USC4R1704814"
+  },
+  {
+    "title": "Black Balloons Reprise",
+    "artist": "Flying Lotus, Denzel Curry",
+    "isrc": "GBBPW1900062"
+  },
+  {
+    "title": "Happy Ending - A.G Remix",
+    "artist": "Kelela, A.G",
+    "isrc": "GBBPW2300332"
+  },
+  {
+    "title": "Come Meh Way",
+    "artist": "Sudan Archives",
+    "isrc": "US2S71790002"
+  },
+  {
+    "title": "Almeda",
+    "artist": "Solange",
+    "isrc": "USSM11901227"
+  },
+  {
+    "title": "An echo from the hosts that profess infinitum",
+    "artist": "Shabazz Palaces",
+    "isrc": "USSUB1190002"
+  },
+  {
+    "title": "No More Lies",
+    "artist": "Thundercat, Tame Impala",
+    "isrc": "GBCFB2300163"
+  },
+  {
+    "title": "ALL THE MONEY",
+    "artist": "Moor Mother, Alya Al Sultani",
+    "isrc": "USEP42261002"
+  },
+  {
+    "title": "Practice",
+    "artist": "Jamila Woods, Saba",
+    "isrc": "US38Y2344203"
+  },
+  {
+    "title": "tears in the club (feat. the weeknd)",
+    "artist": "FKA twigs, The Weeknd",
+    "isrc": "USAT22108057"
+  },
+  {
+    "title": "Asha The First",
+    "artist": "Kamasi Washington, Thundercat, Taj Austin, Ras Austin",
+    "isrc": "UK7MC2400003"
+  },
+  {
+    "title": "Dreaming",
+    "artist": "Sun Ra",
+    "isrc": "GBACF1822009"
+  },
+  {
+    "title": "Hustle",
+    "artist": "Sons Of Kemet, Kojey Radical",
+    "isrc": "USUM72023528"
+  },
+  {
+    "title": "Float (feat. Seun Kuti & Egypt 80)",
+    "artist": "Janelle Monáe, Seun Kuti, Egypt 80",
+    "isrc": "USAT22222009"
+  },
+  {
+    "title": "Next Lifetime",
+    "artist": "Erykah Badu",
+    "isrc": "USUR19902259"
+  },
+  {
+    "title": "Speed Of Darkness",
+    "artist": "Jlin",
+    "isrc": "USA2B2319244"
+  },
+  {
+    "title": "Claim It",
+    "artist": "Klein",
+    "isrc": "GBCMQ1900029"
+  },
+  {
+    "title": "Wisdom Eye",
+    "artist": "Alice Coltrane",
+    "isrc": "USWB10107368"
+  },
+  {
+    "title": "Uwëm/Creātiōn",
+    "artist": "Space Afrika",
+    "isrc": "USA2Z1810673"
+  },
+  {
+    "title": "My World",
+    "artist": "OSHUN, Jorja Smith",
+    "isrc": "QZ5AB1890719"
+  },
+  {
+    "title": "Jettin'",
+    "artist": "Digable Planets",
+    "isrc": "USCA29401318"
+  },
+  {
+    "title": "Waiting 4 You",
+    "artist": "Steve Spacek",
+    "isrc": "GB5P51900291"
+  },
+  {
+    "title": "Empty",
+    "artist": "Kevin Abstract",
+    "isrc": "USUYG1118113"
+  },
+  {
+    "title": "Species of the Pod",
+    "artist": "Drexciya",
+    "isrc": "DEF279912902"
+  },
+  {
+    "title": "t r a n s p a r e n t s o u l feat. Travis Barker",
+    "artist": "WILLOW, Travis Barker",
+    "isrc": "QMJMT2103571"
+  },
+  {
+    "title": "unbeknownst",
+    "artist": "Matana Roberts",
+    "isrc": "CACQ22317003"
+  },
+  {
+    "title": "NEGATIVE FIRE III",
+    "artist": "Chino Amobi",
+    "isrc": "USA2B1701260"
+  },
+  {
+    "title": "Bunny Chow",
+    "artist": "E L U C I D",
+    "isrc": "QM6MZ2229296"
+  },
+  {
+    "title": "Glorious",
+    "artist": "Sa-ra Creative Partners",
+    "isrc": "US36T0731303"
+  },
+  {
+    "title": "The Doctrines Of Swedenborg",
+    "artist": "Hieroglyphic Being, Sarathy Korwar, Shabaka",
+    "isrc": "GBCFB1700293"
+  },
+  {
+    "title": "3000",
+    "artist": "Dr. Octagon",
+    "isrc": "GBAQH9600202"
+  },
+  {
+    "title": "Whispering Tenderness",
+    "artist": "Idris Ackamoor, The Pyramids",
+    "isrc": "DEG931600814"
+  },
+  {
+    "title": "Back South",
+    "artist": "Mansur Brown",
+    "isrc": "GB5P51800314"
+  },
+  {
+    "title": "Atomic Dog World Tour Remix",
+    "artist": "Parliament, Anderson .Paak, Mary J. Blige",
+    "isrc": "USRC11903602"
+  },
+  {
+    "title": "Positive Contact",
+    "artist": "Deltron 3030, Del The Funky Homosapien, Dan The Automator, Kid Koala",
+    "isrc": "US25T0892636"
+  }
+]

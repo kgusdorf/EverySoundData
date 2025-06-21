@@ -1,0 +1,682 @@
+[
+  {
+    "title": "The Enchanted Sea",
+    "artist": "Martin Denny",
+    "isrc": "USCA20802502"
+  },
+  {
+    "title": "Tropicando",
+    "artist": "Les Baxter, 101 Strings Orchestra",
+    "isrc": "CAM460426716"
+  },
+  {
+    "title": "Chant Of The Moon",
+    "artist": "Robert Drasnin",
+    "isrc": "US5970510390"
+  },
+  {
+    "title": "Beyond the Sea",
+    "artist": "Bobby Darin",
+    "isrc": "USEW10000026"
+  },
+  {
+    "title": "Something's Gotta Give",
+    "artist": "Sammy Davis Jr.",
+    "isrc": "USMC15587523"
+  },
+  {
+    "title": "Everybody Loves Somebody",
+    "artist": "Dean Martin",
+    "isrc": "USQX91301936"
+  },
+  {
+    "title": "Yellow Bird",
+    "artist": "Arthur Lyman",
+    "isrc": "FR4HR2211332"
+  },
+  {
+    "title": "Mucha Muchacha",
+    "artist": "Esquivel!",
+    "isrc": "MXF019501431"
+  },
+  {
+    "title": "Comin' Home Baby",
+    "artist": "Mel Tormé",
+    "isrc": "USAT20200991"
+  },
+  {
+    "title": "Somethin' Stupid",
+    "artist": "Frank Sinatra, Nancy Sinatra",
+    "isrc": "USRH10800988"
+  },
+  {
+    "title": "Alika - Remastered 1996",
+    "artist": "Webley Edwards",
+    "isrc": "USCA29501168"
+  },
+  {
+    "title": "The Millionaire's Holiday",
+    "artist": "Combustible Edison",
+    "isrc": "USSUB0310393"
+  },
+  {
+    "title": "Danke Schoen",
+    "artist": "Wayne Newton",
+    "isrc": "USCA28900271"
+  },
+  {
+    "title": "Ladyfingers",
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "isrc": "USSE90321084"
+  },
+  {
+    "title": "L-O-V-E",
+    "artist": "Nat King Cole",
+    "isrc": "USCA29000091"
+  },
+  {
+    "title": "Alone Together",
+    "artist": "Jackie Gleason",
+    "isrc": "USCA28700568"
+  },
+  {
+    "title": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
+    "artist": "Perry Como, Mitchell Ayres & His Orchestra, The Ray Charles Singers",
+    "isrc": "USRC15704667"
+  },
+  {
+    "title": "Kalua",
+    "artist": "Billy Mure, Billy Mure Orchestra",
+    "isrc": "UKJE71800173"
+  },
+  {
+    "title": "Gopher",
+    "artist": "Yma Sumac",
+    "isrc": "GBBLY0604989"
+  },
+  {
+    "title": "Body and Soul",
+    "artist": "Tony Bennett, Amy Winehouse",
+    "isrc": "USSM11104355"
+  },
+  {
+    "title": "Água de Beber",
+    "artist": "Astrud Gilberto, Antônio Carlos Jobim",
+    "isrc": "USPR36500060"
+  },
+  {
+    "title": "What The World Needs Now Is Love",
+    "artist": "Burt Bacharach",
+    "isrc": "USAM16700355"
+  },
+  {
+    "title": "Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",
+    "artist": "Doris Day, Frank DeVol & His Orchestra",
+    "isrc": "USSM10028130"
+  },
+  {
+    "title": "Pistol Packin' Mama - Single Version",
+    "artist": "Bing Crosby, The Andrews Sisters, Vic Schoen & His Orchestra",
+    "isrc": "USMC14303197"
+  },
+  {
+    "title": "I Don't Want To Set The World On Fire",
+    "artist": "The Ink Spots",
+    "isrc": "USMC14147359"
+  },
+  {
+    "title": "Dancing Silhouette",
+    "artist": "Harry Breuer, Jean-Jacques Perrey",
+    "isrc": "FR19F7600040"
+  },
+  {
+    "title": "We Open in Venice",
+    "artist": "The Rat Pack",
+    "isrc": "USRE10401029"
+  },
+  {
+    "title": "Return to Moorea",
+    "artist": "Martini Kings",
+    "isrc": "ushm90711730"
+  },
+  {
+    "title": "A Wink and a Smile",
+    "artist": "Harry Connick, Jr.",
+    "isrc": "USSM19303766"
+  },
+  {
+    "title": "Feeling Good",
+    "artist": "Michael Bublé",
+    "isrc": "USRE10401889"
+  },
+  {
+    "title": "In the Mood - Live",
+    "artist": "Glenn Miller",
+    "isrc": "USBB10300929"
+  },
+  {
+    "title": "Spider",
+    "artist": "Kenny Sasaki & The Tiki Boys",
+    "isrc": "ushm91394834"
+  },
+  {
+    "title": "Sympathique",
+    "artist": "Pink Martini",
+    "isrc": "USHNZ0400003"
+  },
+  {
+    "title": "The Glory of Love",
+    "artist": "Jimmy Durante",
+    "isrc": "USWB19901660"
+  },
+  {
+    "title": "Exotica",
+    "artist": "Don Tiki",
+    "isrc": "QZDA81806765"
+  },
+  {
+    "title": "Colors of Hawaiki",
+    "artist": "Ìxtahuele",
+    "isrc": "SEWRL1400402"
+  },
+  {
+    "title": "Too Marvelous For Words",
+    "artist": "Nat King Cole Trio",
+    "isrc": "USCA29200253"
+  },
+  {
+    "title": "Sandy Samba",
+    "artist": "The Tiki Delights",
+    "isrc": "USKKN1301003"
+  },
+  {
+    "title": "Lehua",
+    "artist": "Milt Raskin & His Exotic Percussion Orchestra",
+    "isrc": "US3L61479186"
+  },
+  {
+    "title": "The Peanut Vendor - 2003 Remaster",
+    "artist": "Jack Costanzo",
+    "isrc": "USEM30300004"
+  },
+  {
+    "title": "The Girl With the Raven Hair",
+    "artist": "Exotik-A-GoGo",
+    "isrc": "QM78G1500010"
+  },
+  {
+    "title": "Murder on Molokai",
+    "artist": "Creepxotica",
+    "isrc": "US33H1300158"
+  },
+  {
+    "title": "Sherry",
+    "artist": "Frankie Valli & The Four Seasons",
+    "isrc": "USRH10175197"
+  },
+  {
+    "title": "Emotions",
+    "artist": "Brenda Lee",
+    "isrc": "USMC16009492"
+  },
+  {
+    "title": "Civilization",
+    "artist": "Danny Kaye",
+    "isrc": "DES201773302"
+  },
+  {
+    "title": "Krakatoa",
+    "artist": "Clouseaux",
+    "isrc": "USA370693417"
+  },
+  {
+    "title": "I Wan'na Be Like You (The Monkey Song) - From \"The Jungle Book\" / Soundtrack Version",
+    "artist": "Louis Prima, Phil Harris, Bruce Reitherman",
+    "isrc": "USWD10321764"
+  },
+  {
+    "title": "THESE BOOTS ARE MADE FOR WALKIN’",
+    "artist": "Nancy Sinatra",
+    "isrc": "TCJPW2380681"
+  },
+  {
+    "title": "Can't Take My Eyes off You",
+    "artist": "Frankie Valli",
+    "isrc": "USRH11000238"
+  },
+  {
+    "title": "Sea Breeze (Puamana)",
+    "artist": "The Mary Kaye Trio",
+    "isrc": "USA371210512"
+  },
+  {
+    "title": "Trees",
+    "artist": "Dean Elliott And His Big Band",
+    "isrc": "USCA20807488"
+  },
+  {
+    "title": "El Cumbanchero (Guaracha-Fast Rhumba) - Remastered",
+    "artist": "Don Swan",
+    "isrc": "USEM39500223"
+  },
+  {
+    "title": "The Hidden Village (feat. Crazy Al, DJ Bonebrake & Gary Brandin)",
+    "artist": "The Hula Girls",
+    "isrc": "ushm81015182"
+  },
+  {
+    "title": "Marooned On Space Atoll 13",
+    "artist": "Ding Dong Devils",
+    "isrc": "ushm81472996"
+  },
+  {
+    "title": "Tiki Hut",
+    "artist": "Miles Corbin",
+    "isrc": "USA370330816"
+  },
+  {
+    "title": "Willow Weep For Me - 1996 Digital Remaster",
+    "artist": "Muzzy Marcellino",
+    "isrc": "USEM39500238"
+  },
+  {
+    "title": "Un Sueño",
+    "artist": "The Manakooras",
+    "isrc": "QZNT32200061"
+  },
+  {
+    "title": "Poinciana",
+    "artist": "Alika Lyman Group",
+    "isrc": "uscgj1493567"
+  },
+  {
+    "title": "The Girl From Ipanema / Meditation",
+    "artist": "Denny McLain",
+    "isrc": "USCA29601356"
+  },
+  {
+    "title": "Shangri-La",
+    "artist": "Robert Maxwell",
+    "isrc": "USCK30701110"
+  },
+  {
+    "title": "Tahitian Love Song",
+    "artist": "Paul Page, Jerry Byrd, Rainbow Trio",
+    "isrc": "SEWRL1600704"
+  },
+  {
+    "title": "Kaulana O Hilo Hanakahi",
+    "artist": "The Rene Paulo Group",
+    "isrc": "QMBZ91607212"
+  },
+  {
+    "title": "Aquarius/Let The Sunshine In",
+    "artist": "Henry Jerome",
+    "isrc": "USEM39700177"
+  },
+  {
+    "title": "El Manicero",
+    "artist": "Bo Axelzon & His Exotic Sounds",
+    "isrc": "SEWRL9600205"
+  },
+  {
+    "title": "That Old Hawaiian Moon",
+    "artist": "The Hilo Hi-Flyers",
+    "isrc": "USHM22003244"
+  },
+  {
+    "title": "Into Space",
+    "artist": "Russ Garcia",
+    "isrc": "USCA20803813"
+  },
+  {
+    "title": "Misirlou - Remastered 1995",
+    "artist": "Martin Denny",
+    "isrc": "USEM39500215"
+  },
+  {
+    "title": "Lunar Rhapsody",
+    "artist": "Les Baxter",
+    "isrc": "DEUD92376914"
+  },
+  {
+    "title": "Orinoco",
+    "artist": "Robert Drasnin",
+    "isrc": "US5970510393"
+  },
+  {
+    "title": "All Of You",
+    "artist": "Sammy Davis Jr.",
+    "isrc": "USMC15446725"
+  },
+  {
+    "title": "Dream Lover - 2006 Remaster",
+    "artist": "Bobby Darin",
+    "isrc": "USEE10609102"
+  },
+  {
+    "title": "That's Amore",
+    "artist": "Dean Martin",
+    "isrc": "USCA25300027"
+  },
+  {
+    "title": "Dahil Sayo",
+    "artist": "Arthur Lyman",
+    "isrc": "QMFMG1554622"
+  },
+  {
+    "title": "Mini Skirt",
+    "artist": "Esquivel!",
+    "isrc": "MXF019701229"
+  },
+  {
+    "title": "They Can't Take That Away from Me (2012 - Remaster)",
+    "artist": "Mel Tormé",
+    "isrc": "USSA48630089"
+  },
+  {
+    "title": "Maiji Girl",
+    "artist": "Webley Edwards",
+    "isrc": "GBN8H2037321"
+  },
+  {
+    "title": "Fly Me To The Moon (In Other Words)",
+    "artist": "Frank Sinatra, Count Basie",
+    "isrc": "USRH10800836"
+  },
+  {
+    "title": "Carnival Of Souls",
+    "artist": "Combustible Edison",
+    "isrc": "USSUB0310399"
+  },
+  {
+    "title": "Remember When",
+    "artist": "Wayne Newton",
+    "isrc": "USCA28900634"
+  },
+  {
+    "title": "Once In A While",
+    "artist": "Jackie Gleason",
+    "isrc": "USCA28700577"
+  },
+  {
+    "title": "Unforgettable",
+    "artist": "Nat King Cole",
+    "isrc": "USCA25100005"
+  },
+  {
+    "title": "Mae",
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "isrc": "QM4221500166"
+  },
+  {
+    "title": "Don't Let The Stars Get In Your Eyes",
+    "artist": "Perry Como",
+    "isrc": "USRC15204649"
+  },
+  {
+    "title": "Petticoats of Portugal",
+    "artist": "Billy Mure, Billy Mure Orchestra",
+    "isrc": "UKJE71800160"
+  },
+  {
+    "title": "Malambo No. 1",
+    "artist": "Yma Sumac",
+    "isrc": "DEUD92302206"
+  },
+  {
+    "title": "The Way You Look Tonight",
+    "artist": "Tony Bennett",
+    "isrc": "USSM19700978"
+  },
+  {
+    "title": "Fly Me To The Moon",
+    "artist": "Astrud Gilberto",
+    "isrc": "USPR36409921"
+  },
+  {
+    "title": "I'll Never Fall In Love Again - Live In Toronto, Ontario At Massey Hall / June 16, 1999",
+    "artist": "Burt Bacharach, Elvis Costello",
+    "isrc": "USNLC9900002"
+  },
+  {
+    "title": "Perhaps, Perhaps, Perhaps",
+    "artist": "Doris Day",
+    "isrc": "USSM16400981"
+  },
+  {
+    "title": "Ac-Cent-Tchu-Ate The Positive",
+    "artist": "Bing Crosby, The Andrews Sisters, Vic Schoen & His Orchestra",
+    "isrc": "USMC14403685"
+  },
+  {
+    "title": "Maybe",
+    "artist": "The Ink Spots",
+    "isrc": "USMC14047355"
+  },
+  {
+    "title": "Bal Campagnard",
+    "artist": "Harry Breuer, Jean-Jacques Perrey",
+    "isrc": "FR19F7015630"
+  },
+  {
+    "title": "You're Gonna Love Yourself",
+    "artist": "The Rat Pack, Dean Martin, Frank Sinatra, Sammy Davis Jr.",
+    "isrc": "SEWDL0453008"
+  },
+  {
+    "title": "Zou Bisou Bisou",
+    "artist": "Martini Kings",
+    "isrc": "ushm81254029"
+  },
+  {
+    "title": "It Had to Be You (Big Band and Vocals)",
+    "artist": "Harry Connick, Jr.",
+    "isrc": "USSM18900491"
+  },
+  {
+    "title": "Home",
+    "artist": "Michael Bublé",
+    "isrc": "USRE10401888"
+  },
+  {
+    "title": "Moonlight Serenade",
+    "artist": "Glenn Miller",
+    "isrc": "USBB10200877"
+  },
+  {
+    "title": "Jasmine",
+    "artist": "Kenny Sasaki & The Tiki Boys",
+    "isrc": "ushm22301450"
+  },
+  {
+    "title": "Où est ma tête?",
+    "artist": "Pink Martini, China Forbes",
+    "isrc": "USHNZ0900073"
+  },
+  {
+    "title": "Smile (From United Artists Film \"Modern Times\")",
+    "artist": "Jimmy Durante",
+    "isrc": "USWB19901655"
+  },
+  {
+    "title": "An Occasional Man",
+    "artist": "Don Tiki",
+    "isrc": "QZDA81806766"
+  },
+  {
+    "title": "Mareld 2021",
+    "artist": "Ìxtahuele",
+    "isrc": "SEWRL2000301"
+  },
+  {
+    "title": "'Deed I Do - Remastered 1993",
+    "artist": "Nat King Cole Trio",
+    "isrc": "USCA29301068"
+  },
+  {
+    "title": "Bali Safari",
+    "artist": "The Tiki Delights",
+    "isrc": "USKKN1301004"
+  },
+  {
+    "title": "Kapu",
+    "artist": "Milt Raskin & His Exotic Percussion Orchestra",
+    "isrc": "US3L61479179"
+  },
+  {
+    "title": "El Diablito",
+    "artist": "Jack Costanzo",
+    "isrc": "AUXN22344320"
+  },
+  {
+    "title": "Moon Hawk",
+    "artist": "Exotik-A-GoGo",
+    "isrc": "QM78G1500002"
+  },
+  {
+    "title": "Haunted Hula",
+    "artist": "Creepxotica, The Creepy Creeps",
+    "isrc": "US33H1200224"
+  },
+  {
+    "title": "Beggin'",
+    "artist": "The Four Seasons",
+    "isrc": "USRH11400296"
+  },
+  {
+    "title": "Break It To Me Gently",
+    "artist": "Brenda Lee",
+    "isrc": "USMC16111044"
+  },
+  {
+    "title": "It's a Sin to Tell a Lie",
+    "artist": "Danny Kaye",
+    "isrc": "QMFMF1401717"
+  },
+  {
+    "title": "Martinique",
+    "artist": "Martin Denny",
+    "isrc": "USEM39000377"
+  },
+  {
+    "title": "Fruit Of Dreams",
+    "artist": "Les Baxter",
+    "isrc": "USCA20707415"
+  },
+  {
+    "title": "Enchantment",
+    "artist": "Robert Drasnin",
+    "isrc": "US5970510401"
+  },
+  {
+    "title": "The Candy Man",
+    "artist": "Sammy Davis Jr.",
+    "isrc": "USUR10000455"
+  },
+  {
+    "title": "Ain't That A Kick In The Head",
+    "artist": "Dean Martin",
+    "isrc": "USCA26000076"
+  },
+  {
+    "title": "Mack the Knife",
+    "artist": "Bobby Darin",
+    "isrc": "USEW10000025"
+  },
+  {
+    "title": "Kawohikukupulani",
+    "artist": "Arthur Lyman",
+    "isrc": "QM4TW1637388"
+  },
+  {
+    "title": "Latin-Esque",
+    "artist": "Esquivel!",
+    "isrc": "MXF019501426"
+  },
+  {
+    "title": "Putting on the Ritz",
+    "artist": "Mel Tormé",
+    "isrc": "USAT20200996"
+  },
+  {
+    "title": "A Visit to the Hawaiian Village",
+    "artist": "Webley Edwards",
+    "isrc": "AUXN22361421"
+  },
+  {
+    "title": "My Way",
+    "artist": "Frank Sinatra",
+    "isrc": "USRH10902101"
+  },
+  {
+    "title": "Theme From The Tiki Wonder Hour",
+    "artist": "Combustible Edison",
+    "isrc": "USSUB0310403"
+  },
+  {
+    "title": "But Not For Me - Digitally Remastered 99",
+    "artist": "Wayne Newton",
+    "isrc": "USCA29900127"
+  },
+  {
+    "title": "I'm In The Mood For Love - Remastered/1996",
+    "artist": "Jimmy McHugh, Jackie Gleason",
+    "isrc": "USCA29601833"
+  },
+  {
+    "title": "Orange Colored Sky",
+    "artist": "Nat King Cole",
+    "isrc": "USCA29101184"
+  },
+  {
+    "title": "Tangerine",
+    "artist": "Herb Alpert & The Tijuana Brass",
+    "isrc": "USSE90321078"
+  },
+  {
+    "title": "Papa Loves Mambo",
+    "artist": "Perry Como",
+    "isrc": "USRC15404658"
+  },
+  {
+    "title": "Latin Holiday",
+    "artist": "Billy Mure",
+    "isrc": "GBLGL0942746"
+  },
+  {
+    "title": "Bo Mambo",
+    "artist": "Yma Sumac",
+    "isrc": "DEUD92302207"
+  },
+  {
+    "title": "(I Left My Heart) In San Francisco",
+    "artist": "Tony Bennett",
+    "isrc": "USSM19909797"
+  },
+  {
+    "title": "Photograph",
+    "artist": "Astrud Gilberto",
+    "isrc": "USGR10110163"
+  },
+  {
+    "title": "This Guy's In Love With You",
+    "artist": "Burt Bacharach",
+    "isrc": "USAM16900349"
+  },
+  {
+    "title": "Dream a Little Dream of Me (with Paul Weston & His Music From Hollywood)",
+    "artist": "Doris Day, Paul Weston And His Orchestra",
+    "isrc": "USSM19907730"
+  },
+  {
+    "title": "You're The Top",
+    "artist": "Bing Crosby",
+    "isrc": "QMKQ51300142"
+  },
+  {
+    "title": "Russian Rump",
+    "artist": "Harry Breuer, Jean-Jacques Perrey",
+    "isrc": "FR19F7600100"
+  }
+]

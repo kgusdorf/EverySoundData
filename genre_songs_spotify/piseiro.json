@@ -1,0 +1,687 @@
+[
+  {
+    "title": "Rave e Bagaceira",
+    "artist": "Anderson & Vei da Pisadinha, Marquinhos Lima",
+    "isrc": "QZEQU2212223"
+  },
+  {
+    "title": "Ela Traiu",
+    "artist": "Forró do HF",
+    "isrc": "QZEQU2251386"
+  },
+  {
+    "title": "Bota pra Tora",
+    "artist": "Pisadinha do Vaqueiro",
+    "isrc": "QM3DF2202004"
+  },
+  {
+    "title": "Interestelar",
+    "artist": "Renanzin Pressão",
+    "isrc": "BCSUV2400501"
+  },
+  {
+    "title": "Bora Revoar",
+    "artist": "Victor Meira",
+    "isrc": "ESA112323298"
+  },
+  {
+    "title": "Não Precisa Negar",
+    "artist": "Josué Bom de Faixa",
+    "isrc": "DGA092353924"
+  },
+  {
+    "title": "Se Tu Amasse Eu",
+    "artist": "Diego Souza Pisadinha de Luxo, João Gomes",
+    "isrc": "BCSUV2100540"
+  },
+  {
+    "title": "Rolê da Disgrama",
+    "artist": "Piseiro do Barão",
+    "isrc": "QZHZ62168403"
+  },
+  {
+    "title": "Sextou",
+    "artist": "Biu do Piseiro, Pedrinho Forrozeiro",
+    "isrc": "QZEQU2218697"
+  },
+  {
+    "title": "Baile do Bruxo (Piseiro)",
+    "artist": "Japãozin, Tropa do Bruxo",
+    "isrc": "BCSUV2400221"
+  },
+  {
+    "title": "Piseiro e Balada",
+    "artist": "Hélio dos Teclados e Tiago Pisadinha",
+    "isrc": "QZEQU2250119"
+  },
+  {
+    "title": "Lua - Ao Vivo",
+    "artist": "Lucas Aboiador, Jonas Esticado",
+    "isrc": "BR8LU2300151"
+  },
+  {
+    "title": "Vai Sentir Falta de Mim",
+    "artist": "Fabinho Testado, Iguinho e Lulinha",
+    "isrc": "BCTOE2200136"
+  },
+  {
+    "title": "Ela Não Presta Hick",
+    "artist": "Pisada Di Muleke",
+    "isrc": "ESA112436095"
+  },
+  {
+    "title": "Forró e Desmantelo",
+    "artist": "Manim Vaqueiro",
+    "isrc": "BKFGT2300214"
+  },
+  {
+    "title": "Jeito Matuto",
+    "artist": "Edy e Nathan, Raí Saia Rodada",
+    "isrc": "BCNTG2100020"
+  },
+  {
+    "title": "Contatinho do Pai",
+    "artist": "Danilo Pisadinha",
+    "isrc": "QZNW72326362"
+  },
+  {
+    "title": "Ela Não Larga Eu",
+    "artist": "Fernando Pisadinha",
+    "isrc": "QZEQU2033039"
+  },
+  {
+    "title": "Ameaça",
+    "artist": "Paulo Pires, Mc Danny, Marcynho Sensação",
+    "isrc": "BCPL82000031"
+  },
+  {
+    "title": "Difícil de Separar",
+    "artist": "Guilherme Dantas, Manim Vaqueiro",
+    "isrc": "BXH382200001"
+  },
+  {
+    "title": "Como Vai Consertar",
+    "artist": "Rian Lucas, Iguinho e Lulinha",
+    "isrc": "BC5192300005"
+  },
+  {
+    "title": "Sento Rebolando",
+    "artist": "Pisada de Barão, MC Bruna Alves",
+    "isrc": "BRDP01900009"
+  },
+  {
+    "title": "Cê Vai Beber Vai Chorar Vai Ligar - Ao Vivo",
+    "artist": "Edinho Pakera O Barão Da Pisadinha",
+    "isrc": "QZMZ92121489"
+  },
+  {
+    "title": "Quem É o Louco Entre Nós",
+    "artist": "João Paulo Vaqueiro",
+    "isrc": "ESA112314600"
+  },
+  {
+    "title": "Não Me Meta Em Confusão",
+    "artist": "Nelson Nascimento",
+    "isrc": "BRQTZ1810268"
+  },
+  {
+    "title": "Lambada Safadim",
+    "artist": "Chinem O Safadim",
+    "isrc": "QZEQU2258019"
+  },
+  {
+    "title": "Vaqueiro Sabe Amar",
+    "artist": "Lipinho Chamega",
+    "isrc": "QZNJV2282849"
+  },
+  {
+    "title": "Disputa de Forró",
+    "artist": "Marquinhos Lima",
+    "isrc": "ESA112435999"
+  },
+  {
+    "title": "Ainda Tem Amor - Ao Vivo",
+    "artist": "Os Barões Da Pisadinha, Manu",
+    "isrc": "BXDW72300059"
+  },
+  {
+    "title": "Coração de Vaqueiro",
+    "artist": "João Gomes, Iguinho e Lulinha, Tarcísio do Acordeon",
+    "isrc": "BCTOE2400054"
+  },
+  {
+    "title": "Erro Gostoso",
+    "artist": "Pedrinho Pegação",
+    "isrc": "QZMZ92375637"
+  },
+  {
+    "title": "Brota Lá em Casa",
+    "artist": "O Rei Do Piseiro, Nêgo Jhá",
+    "isrc": "BXKN32300021"
+  },
+  {
+    "title": "Dançar Forró Beijando",
+    "artist": "Patrões da Pisadinha",
+    "isrc": "QZEQU2072264"
+  },
+  {
+    "title": "Me Libera ( feat. Banda Djavú & DJ Juninho Portugal)",
+    "artist": "Zé do Piseirão, Banda Djavú, DJ Juninho Portugal",
+    "isrc": "ESA112304453"
+  },
+  {
+    "title": "Brinquedinho de Motel",
+    "artist": "Pisada Forrozeira",
+    "isrc": "QZEQU1914337"
+  },
+  {
+    "title": "Impressionante / Bipolar / Brota No Set / Loucura Que Ela Fez Comigo / Sequencia De Macetada (Medley Vibe Do M.C 1.0)",
+    "artist": "Magno Costa",
+    "isrc": "USHM22440143"
+  },
+  {
+    "title": "Não Pode Se Apaixonar (A Danny Senta)",
+    "artist": "Baroas Da Pisadinha",
+    "isrc": "QZMZ92129003"
+  },
+  {
+    "title": "Dois Lados",
+    "artist": "Balões da Pisadinha",
+    "isrc": "QZHZ31958245"
+  },
+  {
+    "title": "Coração Não Vale Nada",
+    "artist": "Donny Silva",
+    "isrc": "BCSUV2400685"
+  },
+  {
+    "title": "A Perereca da Vizinha",
+    "artist": "Sky Love do Forró",
+    "isrc": "QZEQU2109677"
+  },
+  {
+    "title": "Fala Pro Seu Pai (Sou Favela)",
+    "artist": "Barões da Pisadinha",
+    "isrc": "BRQTZ1810265"
+  },
+  {
+    "title": "Você é tão Linda",
+    "artist": "Leozin do Piseiro",
+    "isrc": "BCSUV2100055"
+  },
+  {
+    "title": "Com ou Sem Mim",
+    "artist": "Dhéssica Rauana",
+    "isrc": "QZEQU2127905"
+  },
+  {
+    "title": "Saudade de Leve",
+    "artist": "João Neto Pegadão",
+    "isrc": "BCSUV2304488"
+  },
+  {
+    "title": "Sextou",
+    "artist": "Pisadinha kaceteira",
+    "isrc": "QZEQU2071488"
+  },
+  {
+    "title": "Padrão De Elegância",
+    "artist": "Vaqueiro Do Piseiro",
+    "isrc": "ITB881901924"
+  },
+  {
+    "title": "Coração Fudido",
+    "artist": "Arthur Lócio",
+    "isrc": "ILTON2401231"
+  },
+  {
+    "title": "Eu Vou pra Vaquejada",
+    "artist": "Piseiro do Vaqueiro, Thullio Milionário",
+    "isrc": "US7VG2070480"
+  },
+  {
+    "title": "212",
+    "artist": "Filipe Dominado",
+    "isrc": "US3DF2260277"
+  },
+  {
+    "title": "Baby Me Atende - Cover",
+    "artist": "O Galã do Piseiro",
+    "isrc": "QZHZ52198852"
+  },
+  {
+    "title": "Cinco Conto do Açai (Feat. vaqueiro desmantelado)",
+    "artist": "Du Lima",
+    "isrc": "ESA112302061"
+  },
+  {
+    "title": "Cadê Você? (feat. Jorge De Altinho)",
+    "artist": "Rico Henriques, Jorge De Altinho",
+    "isrc": "BXZJQ1900002"
+  },
+  {
+    "title": "My Love",
+    "artist": "Toinho O Piseiro",
+    "isrc": "QZEQU2026869"
+  },
+  {
+    "title": "Ai Eu Bebo",
+    "artist": "A Rainha do Piseiro",
+    "isrc": "QZEQU2024879"
+  },
+  {
+    "title": "A Casa Caiu",
+    "artist": "Bodim do Piseiro e Biel Rodrigues",
+    "isrc": "QZEQU2068216"
+  },
+  {
+    "title": "Com Ou Sem Mim",
+    "artist": "Bonde Do Piseiro",
+    "isrc": "USANG2087631"
+  },
+  {
+    "title": "Queimei a Língua",
+    "artist": "Cris Lima",
+    "isrc": "BR6TH2100004"
+  },
+  {
+    "title": "A Bebê Representa",
+    "artist": "Luan Douglas, Aldair Playboy, MC Mari",
+    "isrc": "BCSUV2100730"
+  },
+  {
+    "title": "Eu não tô ligando",
+    "artist": "Nadyana Oliveira, Mc Danny",
+    "isrc": "BCAMV2000065"
+  },
+  {
+    "title": "Emocionada",
+    "artist": "Nego Rainner",
+    "isrc": "BR8LU2400033"
+  },
+  {
+    "title": "Libera Ela - Ao Vivo",
+    "artist": "Rainha Do Piseiro",
+    "isrc": "QZ5AB2091240"
+  },
+  {
+    "title": "Peguei Minha Sanfona",
+    "artist": "Ramone Almeida & O Fera do Piseiro",
+    "isrc": "QZEQU2038908"
+  },
+  {
+    "title": "A Tua Sorte",
+    "artist": "Samuel Lima",
+    "isrc": "BX3CJ2000048"
+  },
+  {
+    "title": "Olha Ela",
+    "artist": "Sheik do Piseiro",
+    "isrc": "QZHZ51910379"
+  },
+  {
+    "title": "Dois Anjos",
+    "artist": "Toinho o Piseiro",
+    "isrc": "QZ5AB2089271"
+  },
+  {
+    "title": "Batendo Na Minha Cara Dando Tapa No Meu Popo - Bregadeira",
+    "artist": "Yuri e Will",
+    "isrc": "QZK6N2353788"
+  },
+  {
+    "title": "Elas Gostam de Gasolina",
+    "artist": "Anderson & Vei da Pisadinha",
+    "isrc": "QZEQU2209140"
+  },
+  {
+    "title": "Hoje Eu Vou pra Farra",
+    "artist": "Forró do HF",
+    "isrc": "QZEQU2251352"
+  },
+  {
+    "title": "Sua Recaída",
+    "artist": "Pisadinha do Vaqueiro",
+    "isrc": "QM3DF2202012"
+  },
+  {
+    "title": "Tira Esse Medo do Peito (feat. Pisadinha do Vaqueiro)",
+    "artist": "Victor Meira, Pisadinha do Vaqueiro",
+    "isrc": "QZEQU2224338"
+  },
+  {
+    "title": "Fuerte no Soy - In Piseiro",
+    "artist": "Renanzin Pressão",
+    "isrc": "BCSUV2400376"
+  },
+  {
+    "title": "Buiu",
+    "artist": "Diego Souza Pisadinha de Luxo",
+    "isrc": "BCTOE2200126"
+  },
+  {
+    "title": "Tadalafila",
+    "artist": "Piseiro do Barão, MDJAY",
+    "isrc": "BXKG22201388"
+  },
+  {
+    "title": "Cavuca Agora",
+    "artist": "Biu do Piseiro",
+    "isrc": "ESA112435928"
+  },
+  {
+    "title": "Deixa Eu Falar pra Você",
+    "artist": "Josué Bom de Faixa",
+    "isrc": "BCPAW2200002"
+  },
+  {
+    "title": "Olha Ela",
+    "artist": "Hélio dos Teclados e Tiago Pisadinha",
+    "isrc": "QZEQU2048000"
+  },
+  {
+    "title": "Pião de Vida Louca",
+    "artist": "Japãozin",
+    "isrc": "BCSUV2303160"
+  },
+  {
+    "title": "Amor Da Minha Vida",
+    "artist": "Lucas Aboiador",
+    "isrc": "BCPAW2200081"
+  },
+  {
+    "title": "Onda do Verão (feat. Deavele Santos & Juventude Forrozeira)",
+    "artist": "Pisada Di Muleke, Deavele Santos, Juventude Forrozeira",
+    "isrc": "QZEQU2247209"
+  },
+  {
+    "title": "Dona da Beleza - Ao Vivo",
+    "artist": "Fabinho Testado, João Gomes",
+    "isrc": "BCTOE2400039"
+  },
+  {
+    "title": "Diz a Verdade",
+    "artist": "Manim Vaqueiro",
+    "isrc": "BRVOR2300087"
+  },
+  {
+    "title": "Saudade da Fazenda",
+    "artist": "Edy e Nathan",
+    "isrc": "BCNTG2200028"
+  },
+  {
+    "title": "Joga a Rabetona",
+    "artist": "Danilo Pisadinha",
+    "isrc": "ESA112314486"
+  },
+  {
+    "title": "Tu Ta Querendo Ta",
+    "artist": "Fernando Pisadinha",
+    "isrc": "QZEQU2032679"
+  },
+  {
+    "title": "Tô Com Medo - Ao Vivo",
+    "artist": "Guilherme Dantas, Tarcísio do Acordeon",
+    "isrc": "BKH772400014"
+  },
+  {
+    "title": "De Pisadinha em Pisadinha",
+    "artist": "Paulo Pires",
+    "isrc": "BXGUI1800059"
+  },
+  {
+    "title": "@ Escondido",
+    "artist": "Rian Lucas, Manim Vaqueiro",
+    "isrc": "BC5192400001"
+  },
+  {
+    "title": "Rabetão no Chão",
+    "artist": "Pisada de Barão",
+    "isrc": "BRDP01900015"
+  },
+  {
+    "title": "Você Tá no Meu Stories",
+    "artist": "Edinho Pakera O Barão Da Pisadinha",
+    "isrc": "QZEQU2052251"
+  },
+  {
+    "title": "Cê Vem Me Buscar",
+    "artist": "João Paulo Vaqueiro",
+    "isrc": "ESA112314603"
+  },
+  {
+    "title": "Fazer Beber de Novo",
+    "artist": "Nelson Nascimento",
+    "isrc": "QZEQU2064844"
+  },
+  {
+    "title": "Ela Quer Me Provocar",
+    "artist": "Chinem O Safadim",
+    "isrc": "ESA112321537"
+  },
+  {
+    "title": "Bem Que Eu Te Avisei",
+    "artist": "Lipinho Chamega",
+    "isrc": "QZNJY2201696"
+  },
+  {
+    "title": "Saudade de um Piseiro",
+    "artist": "Marquinhos Lima, Tarcísio do Acordeon",
+    "isrc": "BCAMV2000068"
+  },
+  {
+    "title": "Colinho do Vaqueiro (Pocotó) - Ao Vivo",
+    "artist": "Os Barões Da Pisadinha, Pedro Paulo & Alex",
+    "isrc": "BXDW72300051"
+  },
+  {
+    "title": "Linda Demais",
+    "artist": "Pedrinho Pegação",
+    "isrc": "QZGLM1938573"
+  },
+  {
+    "title": "Dengo",
+    "artist": "João Gomes",
+    "isrc": "BCTOE2200032"
+  },
+  {
+    "title": "Bora pro Piseiro",
+    "artist": "O Rei Do Piseiro, Neto LX",
+    "isrc": "BXKN32100122"
+  },
+  {
+    "title": "Já Que Me Ensinou a Beber",
+    "artist": "Patrões da Pisadinha",
+    "isrc": "QZEQU2075730"
+  },
+  {
+    "title": "Sessão Privé",
+    "artist": "Zé do Piseirão",
+    "isrc": "NIKIT2100890"
+  },
+  {
+    "title": "Dois Lados",
+    "artist": "Pisada Forrozeira",
+    "isrc": "QZEQU1914352"
+  },
+  {
+    "title": "Buteco Terapia",
+    "artist": "Magno Costa, Jefferson Moraes",
+    "isrc": "BRAKJ1900013"
+  },
+  {
+    "title": "Esqueça-Me Se For Capaz",
+    "artist": "Baroas Da Pisadinha",
+    "isrc": "QZ5AB2201767"
+  },
+  {
+    "title": "Espaçosa Demais",
+    "artist": "Balões da Pisadinha",
+    "isrc": "QZHZ41970737"
+  },
+  {
+    "title": "Do Nada eu Apareço no Piseiro",
+    "artist": "Donny Silva, Vitor Fernandes",
+    "isrc": "BCAMV2000002"
+  },
+  {
+    "title": "Bate uma pra Mim",
+    "artist": "Sky Love do Forró",
+    "isrc": "QZEQU2109679"
+  },
+  {
+    "title": "Linguinha",
+    "artist": "Barões da Pisadinha",
+    "isrc": "BXCTR1900122"
+  },
+  {
+    "title": "Enlouquece o Pai",
+    "artist": "Leozin do Piseiro",
+    "isrc": "BCSUV2100056"
+  },
+  {
+    "title": "Amor Com Saudade",
+    "artist": "Dhéssica Rauana",
+    "isrc": "QZEQU2127904"
+  },
+  {
+    "title": "Da Cintura pra Baixo",
+    "artist": "João Neto Pegadão",
+    "isrc": "BCSUV2304380"
+  },
+  {
+    "title": "Sentada Desafiada",
+    "artist": "Pisadinha kaceteira",
+    "isrc": "QZEQU2071492"
+  },
+  {
+    "title": "Vem Mim Amar",
+    "artist": "Vaqueiro Do Piseiro",
+    "isrc": "ITB881901923"
+  },
+  {
+    "title": "Igual a mim só eu",
+    "artist": "Arthur Lócio, Vitor Fernandes",
+    "isrc": "BCAMV2000055"
+  },
+  {
+    "title": "Solinho Agressivo",
+    "artist": "Anderson & Vei da Pisadinha",
+    "isrc": "QZEQU2070229"
+  },
+  {
+    "title": "Vai Ter Muído",
+    "artist": "Forró do HF",
+    "isrc": "ESA112309387"
+  },
+  {
+    "title": "Toca o Meu Piseiro Ai",
+    "artist": "Pisadinha do Vaqueiro",
+    "isrc": "QM3DF2203151"
+  },
+  {
+    "title": "Tocando Piseiro Alto",
+    "artist": "Victor Meira",
+    "isrc": "QZEQU2246438"
+  },
+  {
+    "title": "Leão",
+    "artist": "Renanzin Pressão",
+    "isrc": "BC0BX2300001"
+  },
+  {
+    "title": "Novinha Desce Mais",
+    "artist": "Diego Souza Pisadinha de Luxo, Renanzin Pressão",
+    "isrc": "BCTOE2200158"
+  },
+  {
+    "title": "Quer Água?",
+    "artist": "Piseiro do Barão, Love Music, Clebinho No Beat",
+    "isrc": "BXKG22400664"
+  },
+  {
+    "title": "Aquece no Cacete",
+    "artist": "Biu do Piseiro",
+    "isrc": "QZEQU2032453"
+  },
+  {
+    "title": "A Loira a Morena e a Ruiva",
+    "artist": "Josué Bom de Faixa",
+    "isrc": "BCPAW2200089"
+  },
+  {
+    "title": "Postura de Patrão (feat. YAN CANTOR)",
+    "artist": "Hélio dos Teclados e Tiago Pisadinha, YAN CANTOR",
+    "isrc": "ESA112426833"
+  },
+  {
+    "title": "Bagaceiro Raiz",
+    "artist": "Japãozin, Iguinho e Lulinha",
+    "isrc": "BCSUV2304701"
+  },
+  {
+    "title": "Aprendi Ganhar Perdendo",
+    "artist": "Lucas Aboiador",
+    "isrc": "BKHYP2300111"
+  },
+  {
+    "title": "Karolina Vai no Chão",
+    "artist": "Pisada Di Muleke",
+    "isrc": "ESA112311007"
+  },
+  {
+    "title": "Balançado Gostosin",
+    "artist": "Fabinho Testado, Junior Vianna",
+    "isrc": "BCTOE2400079"
+  },
+  {
+    "title": "Se Quiser É Desse Jeito",
+    "artist": "Edy e Nathan",
+    "isrc": "BXQE22000015"
+  },
+  {
+    "title": "Sei Não",
+    "artist": "Manim Vaqueiro, Zé Vaqueiro",
+    "isrc": "BRVOR2300070"
+  },
+  {
+    "title": "Sentando pro Vaqueiro",
+    "artist": "Danilo Pisadinha",
+    "isrc": "ESA112314489"
+  },
+  {
+    "title": "O Espinhaço do Vei",
+    "artist": "Fernando Pisadinha",
+    "isrc": "QZEQU2033036"
+  },
+  {
+    "title": "Ligação Estranha - Ao Vivo",
+    "artist": "Guilherme Dantas, Dorgival Dantas",
+    "isrc": "BKH772400026"
+  },
+  {
+    "title": "To Liberado",
+    "artist": "Paulo Pires",
+    "isrc": "BCPL82000002"
+  },
+  {
+    "title": "A Verdade de Tudo",
+    "artist": "Rian Lucas, Fabinho Testado",
+    "isrc": "BC5192400005"
+  },
+  {
+    "title": "Impina o Rabetão",
+    "artist": "Pisada de Barão",
+    "isrc": "BRDP01900014"
+  },
+  {
+    "title": "Esse Foi Eu Ontem a Noite - Ao Vivo",
+    "artist": "Edinho Pakera O Barão Da Pisadinha",
+    "isrc": "QZNJV2236653"
+  },
+  {
+    "title": "Greve de Sono",
+    "artist": "João Paulo Vaqueiro",
+    "isrc": "QZEQU2047625"
+  }
+]

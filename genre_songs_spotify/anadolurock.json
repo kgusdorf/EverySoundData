@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Dinleyiverin Gari",
+    "artist": "Moğollar",
+    "isrc": "TR0070500969"
+  },
+  {
+    "title": "Bir Sevmek Bin Defa Ölmek Demekmiş",
+    "artist": "3 Hürel",
+    "isrc": "TR0280600342"
+  },
+  {
+    "title": "Seni Her Gördüğümde",
+    "artist": "Erkin Koray",
+    "isrc": "QMDA61513362"
+  },
+  {
+    "title": "Mavi Duvar",
+    "artist": "Haramiler",
+    "isrc": "TR0280601678"
+  },
+  {
+    "title": "Sözlerimi Geri Alamam",
+    "artist": "Bulutsuzluk Özlemi",
+    "isrc": "TR0280600201"
+  },
+  {
+    "title": "Bu Kalp Seni Unutur mu",
+    "artist": "Fikret Kızılok, Sibel Sezal",
+    "isrc": "TR0330600078"
+  },
+  {
+    "title": "Sessiz Gemi",
+    "artist": "Hümeyra",
+    "isrc": "TR0280602070"
+  },
+  {
+    "title": "Gurbet",
+    "artist": "Özdemir Erdoğan",
+    "isrc": "TR5940800070"
+  },
+  {
+    "title": "İyi Düşün Taşın",
+    "artist": "Mavi Işıklar",
+    "isrc": "TR0280602651"
+  },
+  {
+    "title": "Bu Son Olsun",
+    "artist": "Cem Karaca",
+    "isrc": "TR0801501069"
+  },
+  {
+    "title": "Kan ve Gül",
+    "artist": "Kıraç",
+    "isrc": "TR0110500187"
+  },
+  {
+    "title": "Bağrı Yanık Dostlara",
+    "artist": "Asu Maralman",
+    "isrc": "TR2611000906"
+  },
+  {
+    "title": "Elfida",
+    "artist": "Haluk Levent",
+    "isrc": "TR0190600372"
+  },
+  {
+    "title": "Düşler Sokağı",
+    "artist": "Feridun Düzağaç",
+    "isrc": "TR2170600672"
+  },
+  {
+    "title": "Bir Ayrılık Bir Yoksulluk Bir Ölüm",
+    "artist": "Ersen ve Dadaşlar",
+    "isrc": "TR2421400089"
+  },
+  {
+    "title": "Hasretinle Yandı Gönlüm",
+    "artist": "Edip Akbayram",
+    "isrc": "TR0090500122"
+  },
+  {
+    "title": "Bu Akşam Ölürüm",
+    "artist": "Murat Kekilli",
+    "isrc": "TR1160600343"
+  },
+  {
+    "title": "Bir Sevmek Bin Defa Ölmek Demekmiş",
+    "artist": "Barış Akarsu",
+    "isrc": "TR0220702460"
+  },
+  {
+    "title": "Sarı Laleler",
+    "artist": "MFÖ",
+    "isrc": "TR0010600058"
+  },
+  {
+    "title": "Aşkın Gözü Kör Mü",
+    "artist": "Rana Alagöz, Selçuk Alagöz",
+    "isrc": "TR0490600154"
+  },
+  {
+    "title": "Yeniden de Sevebiliriz... Akdeniz",
+    "artist": "Ayna",
+    "isrc": "TR0011600844"
+  },
+  {
+    "title": "Malabadi Köprüsü",
+    "artist": "Selçuk Alagöz",
+    "isrc": "TRAJY1511464"
+  },
+  {
+    "title": "Sevmek İstiyorum",
+    "artist": "Erkut Taçkın",
+    "isrc": "TR2610900687"
+  },
+  {
+    "title": "Saydim",
+    "artist": "Ogün Sanlısoy",
+    "isrc": "TRA160400036"
+  },
+  {
+    "title": "Gelevera Deresi",
+    "artist": "Kâzım Koyuncu, Şevval Sam",
+    "isrc": "TR2100600080"
+  },
+  {
+    "title": "Ölüyorum",
+    "artist": "Hayko Cepkin",
+    "isrc": "TRAAA0700012"
+  },
+  {
+    "title": "Zühtü",
+    "artist": "Esin Afşar",
+    "isrc": "TR0490700598"
+  },
+  {
+    "title": "Sen Gidince",
+    "artist": "Beyaz Kelebekler",
+    "isrc": "UKMVA1900151"
+  },
+  {
+    "title": "Bak",
+    "artist": "Pilli Bebek",
+    "isrc": "TR0280703587"
+  },
+  {
+    "title": "Ayrılık",
+    "artist": "Selda Bağcan",
+    "isrc": "TR7340800126"
+  },
+  {
+    "title": "Güller Ve Dudaklar",
+    "artist": "Bora Ayanoğlu",
+    "isrc": "TRAJY1407240"
+  },
+  {
+    "title": "Kim Ayırdı Sevenleri",
+    "artist": "Modern Folk Üçlüsü, Tanju Okan, Nilüfer",
+    "isrc": "TRAJY1408589"
+  },
+  {
+    "title": "Alla Beni Pulla Beni",
+    "artist": "Barış Manço",
+    "isrc": "TR0070501070"
+  },
+  {
+    "title": "Dörde Özlem",
+    "artist": "Cahit Berkay",
+    "isrc": "TR1590600238"
+  },
+  {
+    "title": "Yeni Bir Gün",
+    "artist": "Kurtalan Ekspres, Hayko Cepkin",
+    "isrc": "FR6V81749179"
+  },
+  {
+    "title": "Sultan-ı Yegah",
+    "artist": "Nur Yoldas",
+    "isrc": "TR2100600518"
+  },
+  {
+    "title": "Hal Hal",
+    "artist": "Nazan Şoray",
+    "isrc": "TR2610600271"
+  },
+  {
+    "title": "Arabacı",
+    "artist": "Korkut Koray",
+    "isrc": "TR1791400355"
+  },
+  {
+    "title": "Gözleri Kara Dilber",
+    "artist": "5 Adım",
+    "isrc": "TRAJY1511793"
+  },
+  {
+    "title": "Vurgunum",
+    "artist": "Murat Göğebakan",
+    "isrc": "TR0411202659"
+  },
+  {
+    "title": "Karakoyun",
+    "artist": "Cahit Oben",
+    "isrc": "TRAJY1512250"
+  },
+  {
+    "title": "Bir Ateşe Attın Beni",
+    "artist": "Kamuran Akkor",
+    "isrc": "TR0650600100"
+  },
+  {
+    "title": "Yaş Elli",
+    "artist": "Replikas",
+    "isrc": "TR0280601085"
+  },
+  {
+    "title": "Alyazmalım",
+    "artist": "Cahit Berkay",
+    "isrc": "TR0070501410"
+  },
+  {
+    "title": "Seviyorum",
+    "artist": "21. Peron, Maria Rita Epik",
+    "isrc": "TR2612002487"
+  },
+  {
+    "title": "Sen Evlisin",
+    "artist": "Gülden Karaböcek",
+    "isrc": "TR0420900882"
+  },
+  {
+    "title": "Fesuphanallah - Enstrümantal",
+    "artist": "Şençalar Kardeşler",
+    "isrc": "TR0380600553"
+  },
+  {
+    "title": "Her Şeyi Yak",
+    "artist": "Duman",
+    "isrc": "TR2150600412"
+  },
+  {
+    "title": "Dolana Ay Dolana",
+    "artist": "Mustafa Özkent",
+    "isrc": "TR1870600227"
+  },
+  {
+    "title": "Çökertme",
+    "artist": "Kardaslar",
+    "isrc": "TR1762300277"
+  },
+  {
+    "title": "East Breeze",
+    "artist": "Okay Temiz",
+    "isrc": "SEPQA1200278"
+  },
+  {
+    "title": "Türkülerle Gömün Beni",
+    "artist": "Derdiyoklar",
+    "isrc": "TR0430601095"
+  },
+  {
+    "title": "Yalnız Sen",
+    "artist": "Yırtık Uçurtma",
+    "isrc": "TRAPL1500192"
+  },
+  {
+    "title": "Leyla",
+    "artist": "Necati ve Saykolar",
+    "isrc": "TR4792000007"
+  },
+  {
+    "title": "Clouds in My Room",
+    "artist": "Reverie Falls On All",
+    "isrc": "usl4q1717396"
+  },
+  {
+    "title": "Cecen Kizi",
+    "artist": "Nathan Davis",
+    "isrc": "GBCTF0900018"
+  },
+  {
+    "title": "Perilerin Oyunu",
+    "artist": "Gültekin Kaan, Divan",
+    "isrc": "DEBL61375238"
+  },
+  {
+    "title": "Adimiz Miskindir Bizim",
+    "artist": "Mazhar Ve Fuat",
+    "isrc": "US2S71173007"
+  },
+  {
+    "title": "Yolum Seninle",
+    "artist": "Moğollar",
+    "isrc": "TR0070501477"
+  },
+  {
+    "title": "Sevenler Ağlarmış",
+    "artist": "3 Hürel",
+    "isrc": "TR0280602085"
+  },
+  {
+    "title": "Çöpçüler - 2022 Remastered",
+    "artist": "Erkin Koray",
+    "isrc": "TR3340700107"
+  },
+  {
+    "title": "Drama Köprüsü",
+    "artist": "Haramiler",
+    "isrc": "TR0280601680"
+  },
+  {
+    "title": "Rüzgar",
+    "artist": "Bulutsuzluk Özlemi",
+    "isrc": "TR0280803704"
+  },
+  {
+    "title": "Gönül",
+    "artist": "Fikret Kızılok",
+    "isrc": "TR0330600075"
+  },
+  {
+    "title": "Kördüğüm",
+    "artist": "Hümeyra",
+    "isrc": "TR0280602073"
+  },
+  {
+    "title": "Çayır Çimen Geze Geze",
+    "artist": "Mavi Işıklar",
+    "isrc": "TR0280602643"
+  },
+  {
+    "title": "Aç Kapıyı Gir İçeri",
+    "artist": "Özdemir Erdoğan",
+    "isrc": "TR5940800028"
+  },
+  {
+    "title": "Ceviz Ağacı",
+    "artist": "Cem Karaca",
+    "isrc": "TR0070500596"
+  },
+  {
+    "title": "Endamın Yeter",
+    "artist": "Kıraç",
+    "isrc": "TR0110500186"
+  },
+  {
+    "title": "Bal Gibi Olur",
+    "artist": "Asu Maralman",
+    "isrc": "TR0280602164"
+  },
+  {
+    "title": "Yollarda Bulurum Seni",
+    "artist": "Haluk Levent",
+    "isrc": "FR6V82476744"
+  },
+  {
+    "title": "Alev Alev",
+    "artist": "Feridun Düzağaç",
+    "isrc": "TR2170600669"
+  },
+  {
+    "title": "Kendim Ettim Kendim Buldum",
+    "artist": "Ersen ve Dadaşlar",
+    "isrc": "TR1671500058"
+  },
+  {
+    "title": "Aldırma Gönül",
+    "artist": "Edip Akbayram",
+    "isrc": "DEWP61700339"
+  },
+  {
+    "title": "Salını Salını",
+    "artist": "Murat Kekilli",
+    "isrc": "TR0320600070"
+  },
+  {
+    "title": "Islak Islak",
+    "artist": "Barış Akarsu",
+    "isrc": "TR0220500776"
+  },
+  {
+    "title": "Ele Güne Karşı",
+    "artist": "MFÖ",
+    "isrc": "TR3760600001"
+  },
+  {
+    "title": "Her Şey Bitmedi Bitemez",
+    "artist": "Rana Alagöz, Selçuk Alagöz",
+    "isrc": "TR0490600168"
+  },
+  {
+    "title": "Ölünce Sevemezsem Seni",
+    "artist": "Ayna",
+    "isrc": "TR0210600181"
+  },
+  {
+    "title": "Deliyim Seviyorum",
+    "artist": "Selçuk Alagöz",
+    "isrc": "TRAJY1511465"
+  },
+  {
+    "title": "Özlem",
+    "artist": "Erkut Taçkın",
+    "isrc": "TRAJY1407321"
+  },
+  {
+    "title": "Saydım",
+    "artist": "Ogün Sanlısoy",
+    "isrc": "TR0441210304"
+  },
+  {
+    "title": "Ben Seni Sevduğumi",
+    "artist": "Kâzım Koyuncu",
+    "isrc": "TR2100600075"
+  },
+  {
+    "title": "Dans Et",
+    "artist": "Hayko Cepkin",
+    "isrc": "TR0011800551"
+  },
+  {
+    "title": "Hacer Hanım",
+    "artist": "Esin Afşar",
+    "isrc": "TR0490900942"
+  },
+  {
+    "title": "Esmerim",
+    "artist": "Beyaz Kelebekler",
+    "isrc": "QM4TX1783563"
+  },
+  {
+    "title": "Olsun",
+    "artist": "Pilli Bebek",
+    "isrc": "TR0280703592"
+  },
+  {
+    "title": "Öyle Bir Yerdeyim ki",
+    "artist": "Selda Bağcan, Ahmet Kaya",
+    "isrc": "TR0380605261"
+  },
+  {
+    "title": "Elveda",
+    "artist": "Bora Ayanoğlu",
+    "isrc": "TR0491301454"
+  },
+  {
+    "title": "Gezsen Anadolu'yu",
+    "artist": "Modern Folk Üçlüsü",
+    "isrc": "TR2612103081"
+  },
+  {
+    "title": "Aynalı Kemer",
+    "artist": "Barış Manço",
+    "isrc": "TR0070502362"
+  },
+  {
+    "title": "Ölürüm Onsuz",
+    "artist": "Cahit Berkay",
+    "isrc": "GBSMU6692051"
+  },
+  {
+    "title": "Neredesin Sen",
+    "artist": "Kurtalan Ekspres, Duman",
+    "isrc": "TR0331309676"
+  },
+  {
+    "title": "Mihrimah",
+    "artist": "Nur Yoldas",
+    "isrc": "TR2100600509"
+  },
+  {
+    "title": "Sana Merhaba Dedim",
+    "artist": "Nazan Şoray",
+    "isrc": "TR2610600119"
+  },
+  {
+    "title": "Yalnızlar Rıhtımı",
+    "artist": "Korkut Koray",
+    "isrc": "TR1791400354"
+  },
+  {
+    "title": "Sevgiye Hasret",
+    "artist": "5 Adım",
+    "isrc": "TRAJY1511792"
+  },
+  {
+    "title": "Yaralı",
+    "artist": "Murat Göğebakan",
+    "isrc": "TR0952100001"
+  },
+  {
+    "title": "Selam Dostlar",
+    "artist": "Cahit Oben",
+    "isrc": "FR6V81544110"
+  },
+  {
+    "title": "Birşey Yapmalı",
+    "artist": "Moğollar",
+    "isrc": "TR0070500939"
+  },
+  {
+    "title": "Madalyonun Ters Yüzü",
+    "artist": "3 Hürel",
+    "isrc": "TR0280602086"
+  },
+  {
+    "title": "Öyle Bir Geçer Zaman ki",
+    "artist": "Erkin Koray",
+    "isrc": "TR2501701052"
+  },
+  {
+    "title": "Alın Yazısı",
+    "artist": "Haramiler",
+    "isrc": "TR0280601673"
+  },
+  {
+    "title": "Güneye Giderken",
+    "artist": "Bulutsuzluk Özlemi",
+    "isrc": "TR0280600219"
+  },
+  {
+    "title": "Farketmeden",
+    "artist": "Fikret Kızılok",
+    "isrc": "TR0330600372"
+  },
+  {
+    "title": "Sevdim Seni Bir Kere",
+    "artist": "Hümeyra",
+    "isrc": "TR0490600160"
+  },
+  {
+    "title": "Helvacı",
+    "artist": "Mavi Işıklar",
+    "isrc": "TR0280602641"
+  },
+  {
+    "title": "Pervane - Bana Ellerini Ver",
+    "artist": "Özdemir Erdoğan",
+    "isrc": "TR5941400005"
+  },
+  {
+    "title": "Resimdeki Gözyaşları",
+    "artist": "Cem Karaca",
+    "isrc": "TR0330600221"
+  },
+  {
+    "title": "100.Yıl Şarkısı",
+    "artist": "Kıraç",
+    "isrc": "TR0110700481"
+  },
+  {
+    "title": "Şarkılar Yazdım",
+    "artist": "Asu Maralman",
+    "isrc": "TR0280602166"
+  },
+  {
+    "title": "Sevenler Ağlarmış",
+    "artist": "Haluk Levent",
+    "isrc": "FR6V82490657"
+  },
+  {
+    "title": "F.D.",
+    "artist": "Feridun Düzağaç",
+    "isrc": "TR2170600667"
+  },
+  {
+    "title": "Derman Bulunmaz - Barış K Edit",
+    "artist": "Ersen ve Dadaşlar, Barış K",
+    "isrc": "USA2B2100768"
+  },
+  {
+    "title": "Gittin Gideli",
+    "artist": "Edip Akbayram",
+    "isrc": "TR0070500352"
+  },
+  {
+    "title": "Karagözlüm",
+    "artist": "Murat Kekilli",
+    "isrc": "TR0320600029"
+  },
+  {
+    "title": "Gözlerin - Yalancı Yarim",
+    "artist": "Barış Akarsu",
+    "isrc": "TR0220601932"
+  },
+  {
+    "title": "Sakın Gelme",
+    "artist": "MFÖ",
+    "isrc": "TR8571001455"
+  },
+  {
+    "title": "Her Şey Bitmiştir Artık",
+    "artist": "Rana Alagöz, Selçuk Alagöz",
+    "isrc": "TR0790702267"
+  },
+  {
+    "title": "Sen Unutma Beni",
+    "artist": "Ayna",
+    "isrc": "TR0011600847"
+  }
+]

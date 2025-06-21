@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Silence Speaks",
+    "artist": "While She Sleeps, Oli Sykes",
+    "isrc": "FR10S1764385"
+  },
+  {
+    "title": "Hollow",
+    "artist": "Heart Of A Coward",
+    "isrc": "US4E41525101"
+  },
+  {
+    "title": "Choke",
+    "artist": "Bury Tomorrow",
+    "isrc": "GBCKC1900023"
+  },
+  {
+    "title": "The End of All We Know",
+    "artist": "Bleed From Within",
+    "isrc": "GBDHC2013301"
+  },
+  {
+    "title": "Ardour",
+    "artist": "Devil Sold His Soul",
+    "isrc": "DED832000894"
+  },
+  {
+    "title": "Curse",
+    "artist": "Architects",
+    "isrc": "USEP42418001"
+  },
+  {
+    "title": "Hansha",
+    "artist": "Oceans Ate Alaska",
+    "isrc": "US5261722606"
+  },
+  {
+    "title": "Floodlights",
+    "artist": "Overthrone",
+    "isrc": "TCAEK1999327"
+  },
+  {
+    "title": "NWWM",
+    "artist": "Borders, Dropout Kings",
+    "isrc": "DEYO62200041"
+  },
+  {
+    "title": "Only Memories",
+    "artist": "Heart In Hand",
+    "isrc": "GBSOA1004001"
+  },
+  {
+    "title": "Freaks",
+    "artist": "Lotus Eater, Freddie Sunshine",
+    "isrc": "USHR21911708"
+  },
+  {
+    "title": "Hollow Heart",
+    "artist": "Where Oceans Burn",
+    "isrc": "QZFYW1997433"
+  },
+  {
+    "title": "Tyranny",
+    "artist": "AVIIRA",
+    "isrc": "TCADN1808999"
+  },
+  {
+    "title": "Sorry You're Not a Winner",
+    "artist": "Enter Shikari",
+    "isrc": "GBNPA0700007"
+  },
+  {
+    "title": "Low",
+    "artist": "Silent Screams",
+    "isrc": "DEA451710780"
+  },
+  {
+    "title": "Utopia",
+    "artist": "Napoleon",
+    "isrc": "UK2D51600047"
+  },
+  {
+    "title": "Tears Don't Fall",
+    "artist": "Bullet For My Valentine",
+    "isrc": "GBHQD0500017"
+  },
+  {
+    "title": "The Kids We Used To Be...",
+    "artist": "Your Demise",
+    "isrc": "GBEGS1000021"
+  },
+  {
+    "title": "Hail Mary",
+    "artist": "Confessions of a Traitor, Convictions",
+    "isrc": "US38J2419822"
+  },
+  {
+    "title": "R E S E T",
+    "artist": "Deference",
+    "isrc": "QZDA62446473"
+  },
+  {
+    "title": "Of Those Who Are Alive",
+    "artist": "Azriel",
+    "isrc": "GBSMU6194291"
+  },
+  {
+    "title": "Kool-Aid",
+    "artist": "Bring Me The Horizon",
+    "isrc": "GBARL2301975"
+  },
+  {
+    "title": "Under siege",
+    "artist": "The Eyes Of A Traitor",
+    "isrc": "FR1PP0801470"
+  },
+  {
+    "title": "Alone In A Room",
+    "artist": "Asking Alexandria",
+    "isrc": "USYFZ1791001"
+  },
+  {
+    "title": "The Bloodening",
+    "artist": "Johnny Truant",
+    "isrc": "CAD320500108"
+  },
+  {
+    "title": "Obsidian",
+    "artist": "Viscera",
+    "isrc": "QM7281905244"
+  },
+  {
+    "title": "As I Drown",
+    "artist": "The Defiled",
+    "isrc": "DED831300181"
+  },
+  {
+    "title": "Checkmate",
+    "artist": "Demoraliser",
+    "isrc": "GBSOA1205403"
+  },
+  {
+    "title": "Nothing Left",
+    "artist": "Rise To Remain",
+    "isrc": "GBAYE1100719"
+  },
+  {
+    "title": "Second Chance",
+    "artist": "Glamour Of The Kill",
+    "isrc": "USKO11301222"
+  },
+  {
+    "title": "Aftermath",
+    "artist": "Rolo Tomassi",
+    "isrc": "GBMLT1501071"
+  },
+  {
+    "title": "Brothers in Arms",
+    "artist": "This Is Colour",
+    "isrc": "QZCE61824890"
+  },
+  {
+    "title": "Blood Moon",
+    "artist": "Sunfall",
+    "isrc": "DEBZ72400131"
+  },
+  {
+    "title": "The Harp And Hellfire",
+    "artist": "Eternal Lord",
+    "isrc": "GBEGS0700040"
+  },
+  {
+    "title": "Love & Decay",
+    "artist": "Griever",
+    "isrc": "TCAEW2088247"
+  },
+  {
+    "title": "Sunlight",
+    "artist": "Shadows Chasing Ghosts",
+    "isrc": "GBQFG1000213"
+  },
+  {
+    "title": "Wake The Dead",
+    "artist": "With One Last Breath",
+    "isrc": "GBQFG1300414"
+  },
+  {
+    "title": "Cold",
+    "artist": "AxeWound",
+    "isrc": "GBARL1201042"
+  },
+  {
+    "title": "Anti-Fetish",
+    "artist": "VEXED",
+    "isrc": "ATN262319702"
+  },
+  {
+    "title": "Tyrants and Kings",
+    "artist": "Ravenface",
+    "isrc": "TCADW1860853"
+  },
+  {
+    "title": "They Told Me You Were Dead",
+    "artist": "Shaped By Fate",
+    "isrc": "GBNSF0700014"
+  },
+  {
+    "title": "The Days I'm Gone",
+    "artist": "The Dead Lay Waiting",
+    "isrc": "GBLXA1108110"
+  },
+  {
+    "title": "Anxiety",
+    "artist": "Vanity, C.J. McMahon",
+    "isrc": "GBMJG1607842"
+  },
+  {
+    "title": "Fleur De Lis",
+    "artist": "The Raven Age",
+    "isrc": "GBMA21889751"
+  },
+  {
+    "title": "Weathered",
+    "artist": "I, The Mapmaker",
+    "isrc": "GBKPL2083093"
+  },
+  {
+    "title": "Wildfire",
+    "artist": "Palmist",
+    "isrc": "GBMA21919846"
+  },
+  {
+    "title": "Nothing Left to Save",
+    "artist": "Avarus",
+    "isrc": "QZK6N2163364"
+  },
+  {
+    "title": "Filth",
+    "artist": "No Sin Evades His Gaze",
+    "isrc": "UK8QA1400004"
+  },
+  {
+    "title": "Distant Memories",
+    "artist": "End Of Daze",
+    "isrc": "QZDA41851681"
+  },
+  {
+    "title": "Pressure",
+    "artist": "7eventh Sea",
+    "isrc": "QZRP52361623"
+  },
+  {
+    "title": "Temperance",
+    "artist": "Values",
+    "isrc": "usa2p2031346"
+  },
+  {
+    "title": "Pit Talk",
+    "artist": "Dead Harts",
+    "isrc": "QMFMF1419626"
+  },
+  {
+    "title": "New Beginnings",
+    "artist": "As Flames Rise",
+    "isrc": "TCAEC1961515"
+  },
+  {
+    "title": "My Solitude, Your Hope - Single Version",
+    "artist": "High Rise",
+    "isrc": "GBKPL1934202"
+  },
+  {
+    "title": "Game Over",
+    "artist": "Pay No Respect",
+    "isrc": "GBPSR1000279"
+  },
+  {
+    "title": "Citizen",
+    "artist": "No Consequence",
+    "isrc": "QM4TW1512347"
+  },
+  {
+    "title": "Is It Really You?",
+    "artist": "Loathe",
+    "isrc": "DED831901370"
+  },
+  {
+    "title": "Cold Light",
+    "artist": "Eden Maine",
+    "isrc": "USA2P1230964"
+  },
+  {
+    "title": "Stigma",
+    "artist": "Thousand Thoughts",
+    "isrc": "UKGV82000042"
+  },
+  {
+    "title": "King of Nothing",
+    "artist": "Bury the Traitor",
+    "isrc": "QM2PV1675493"
+  },
+  {
+    "title": "Unaltered",
+    "artist": "The Soulless",
+    "isrc": "GBBPB0805664"
+  },
+  {
+    "title": "Blacklight",
+    "artist": "The Mechanist",
+    "isrc": "GBMJG2407557"
+  },
+  {
+    "title": "Nightmare",
+    "artist": "Cry For Silence",
+    "isrc": "GBEGS0700074"
+  },
+  {
+    "title": "The Reaper Waits",
+    "artist": "Mendeed",
+    "isrc": "DED830693611"
+  },
+  {
+    "title": "Godless",
+    "artist": "Centuries",
+    "isrc": "TCAFN2191619"
+  },
+  {
+    "title": "Realizationship",
+    "artist": "Skies in Motion",
+    "isrc": "ushm81716964"
+  },
+  {
+    "title": "For the Night",
+    "artist": "Arcite",
+    "isrc": "GBT9G1100193"
+  },
+  {
+    "title": "Motherfunk",
+    "artist": "In Search Of Sun",
+    "isrc": "GBUM71703553"
+  },
+  {
+    "title": "Unparalleled",
+    "artist": "Arkdown",
+    "isrc": "GBMJG2404168"
+  },
+  {
+    "title": "Forgotten Ghost",
+    "artist": "Bleed Again",
+    "isrc": "TCAFM2160372"
+  },
+  {
+    "title": "Regret",
+    "artist": "Darkest Days",
+    "isrc": "QZDA61879946"
+  },
+  {
+    "title": "Caffeinated Hate",
+    "artist": "Defining Lines",
+    "isrc": "GBMJG2411485"
+  },
+  {
+    "title": "Painted Picture",
+    "artist": "Doubts Cast Shadows",
+    "isrc": "GBMJG0900117"
+  },
+  {
+    "title": "I swim faster than jaws",
+    "artist": "Dreaming In Oceans",
+    "isrc": "GBEGS0800660"
+  },
+  {
+    "title": "Demons (feat. Lucas Woodland)",
+    "artist": "From Her Eyes, Lucas Woodland",
+    "isrc": "TCABX1484079"
+  },
+  {
+    "title": "Smokes",
+    "artist": "Hawk Eyes, Richard O'Brien",
+    "isrc": "DES371900180"
+  },
+  {
+    "title": "Victim",
+    "artist": "Interrogate",
+    "isrc": "ushm21069038"
+  },
+  {
+    "title": "...Meanwhile...Back On Earth",
+    "artist": "Lavondyss",
+    "isrc": "GBRDV0800019"
+  },
+  {
+    "title": "Hollow Hands",
+    "artist": "Lay Siege",
+    "isrc": "US94P1514903"
+  },
+  {
+    "title": "Ascend",
+    "artist": "OPIA",
+    "isrc": "TCADT1865736"
+  },
+  {
+    "title": "Faces Of Janus",
+    "artist": "Passengers",
+    "isrc": "QZWFG2305585"
+  },
+  {
+    "title": "Loveless Regret",
+    "artist": "Sharp End First",
+    "isrc": "GBNVS0700047"
+  },
+  {
+    "title": "Bad Trip",
+    "artist": "Skreamer",
+    "isrc": "GBMA21205736"
+  },
+  {
+    "title": "Feed Me A Stray Cat",
+    "artist": "TAKEN BY THE TIDE",
+    "isrc": "GBLFP1432715"
+  },
+  {
+    "title": "Standing on the Backs of Angels",
+    "artist": "Tenements",
+    "isrc": "GBMJG1812245"
+  },
+  {
+    "title": "Pretty Girls",
+    "artist": "This Is Menace, Jeff Walker (Carcass)",
+    "isrc": "GBSTV0700001"
+  },
+  {
+    "title": "Lifeline",
+    "artist": "Thrones",
+    "isrc": "TCACI1522750"
+  },
+  {
+    "title": "Mountains",
+    "artist": "Today They Are Older",
+    "isrc": "UKE4U1600017"
+  },
+  {
+    "title": "Only One",
+    "artist": "Vengeful Atonement",
+    "isrc": "QM4DW1727971"
+  },
+  {
+    "title": "Collapse",
+    "artist": "Heart Of A Coward",
+    "isrc": "TCADN1872255"
+  },
+  {
+    "title": "TO THE FLOWERS",
+    "artist": "While She Sleeps",
+    "isrc": "GBPVV2305371"
+  },
+  {
+    "title": "Man on Fire",
+    "artist": "Bury Tomorrow",
+    "isrc": "DED831400001"
+  },
+  {
+    "title": "I Am Damnation",
+    "artist": "Bleed From Within",
+    "isrc": "DED832100843"
+  },
+  {
+    "title": "Time",
+    "artist": "Devil Sold His Soul",
+    "isrc": "UK2D51300141"
+  },
+  {
+    "title": "Seeing Red",
+    "artist": "Architects",
+    "isrc": "USEP42359001"
+  },
+  {
+    "title": "Endless Hollow",
+    "artist": "Oceans Ate Alaska",
+    "isrc": "QZFYZ2445210"
+  },
+  {
+    "title": "Shaded Grey",
+    "artist": "Overthrone",
+    "isrc": "QZES52487899"
+  },
+  {
+    "title": "GODLESS",
+    "artist": "Borders, Cane Hill",
+    "isrc": "DEYO62200145"
+  },
+  {
+    "title": "A Beautiful White",
+    "artist": "Heart In Hand",
+    "isrc": "US4E41320202"
+  },
+  {
+    "title": "Obliterate (feat. Oli Sykes)",
+    "artist": "Lotus Eater, Oli Sykes",
+    "isrc": "USHR22111707"
+  },
+  {
+    "title": "The Only Home We Know",
+    "artist": "Where Oceans Burn",
+    "isrc": "QZHN52089860"
+  },
+  {
+    "title": "Misguided",
+    "artist": "AVIIRA",
+    "isrc": "TCAFU2171319"
+  },
+  {
+    "title": "(pls) set me on fire",
+    "artist": "Enter Shikari",
+    "isrc": "GBAJC2300005"
+  },
+  {
+    "title": "The Way We Were",
+    "artist": "Silent Screams",
+    "isrc": "GBRF91300501"
+  },
+  {
+    "title": "Brought Here to Suffer",
+    "artist": "Napoleon",
+    "isrc": "UK2D51600041"
+  },
+  {
+    "title": "Miles Away",
+    "artist": "Your Demise",
+    "isrc": "GBEGS1000017"
+  },
+  {
+    "title": "Your Betrayal",
+    "artist": "Bullet For My Valentine",
+    "isrc": "USJI11000030"
+  },
+  {
+    "title": "Fatal Frame",
+    "artist": "Confessions of a Traitor",
+    "isrc": "US38J2419821"
+  },
+  {
+    "title": "Body Count",
+    "artist": "Deference",
+    "isrc": "QZNWQ2045364"
+  },
+  {
+    "title": "Hold On",
+    "artist": "Azriel",
+    "isrc": "GBMJG0801392"
+  },
+  {
+    "title": "DArkSide",
+    "artist": "Bring Me The Horizon",
+    "isrc": "GBARL2301374"
+  },
+  {
+    "title": "Echoes",
+    "artist": "The Eyes Of A Traitor",
+    "isrc": "FR1PP0801530"
+  },
+  {
+    "title": "Not The American Average",
+    "artist": "Asking Alexandria",
+    "isrc": "USYFZ0902209"
+  },
+  {
+    "title": "I Love You Even Though You're A Zombie Now",
+    "artist": "Johnny Truant",
+    "isrc": "CAD320500107"
+  },
+  {
+    "title": "Lamb to the Slaughter",
+    "artist": "Viscera",
+    "isrc": "QM7281936967"
+  },
+  {
+    "title": "Call To Arms",
+    "artist": "The Defiled",
+    "isrc": "GBQ2C1000001"
+  },
+  {
+    "title": "Bitter Springs",
+    "artist": "Demoraliser",
+    "isrc": "USA371661035"
+  },
+  {
+    "title": "Enter Sandman",
+    "artist": "Rise To Remain",
+    "isrc": "GBAYE1200823"
+  },
+  {
+    "title": "Break",
+    "artist": "Glamour Of The Kill",
+    "isrc": "USKO11301221"
+  },
+  {
+    "title": "Rituals",
+    "artist": "Rolo Tomassi",
+    "isrc": "GBMLT1501072"
+  },
+  {
+    "title": "Superhero Returns",
+    "artist": "This Is Colour",
+    "isrc": "QZCE61824888"
+  },
+  {
+    "title": "Reapers",
+    "artist": "Sunfall, ten56.",
+    "isrc": "DEBZ72300174"
+  },
+  {
+    "title": "Destiny",
+    "artist": "Eternal Lord",
+    "isrc": "GBEGS0700039"
+  },
+  {
+    "title": "The Sickness in Me",
+    "artist": "Griever",
+    "isrc": "TCAEE1918879"
+  },
+  {
+    "title": "Girl in Sheep's Clothing",
+    "artist": "Shadows Chasing Ghosts",
+    "isrc": "GBQFG1000208"
+  },
+  {
+    "title": "I Taste The Poison",
+    "artist": "With One Last Breath",
+    "isrc": "GBQFG1300413"
+  },
+  {
+    "title": "Exorchrist",
+    "artist": "AxeWound",
+    "isrc": "GBARL1201046"
+  },
+  {
+    "title": "Hideous",
+    "artist": "VEXED",
+    "isrc": "ATN262095202"
+  },
+  {
+    "title": "Be Silent",
+    "artist": "Ravenface",
+    "isrc": "USQY51712754"
+  },
+  {
+    "title": "Turn To Dusk",
+    "artist": "Shaped By Fate",
+    "isrc": "GBMJG2311891"
+  },
+  {
+    "title": "Burnt To Ashes",
+    "artist": "The Dead Lay Waiting",
+    "isrc": "GBLXA1108106"
+  },
+  {
+    "title": "Exorcism",
+    "artist": "Vanity",
+    "isrc": "GBMJG1607843"
+  },
+  {
+    "title": "Angel In Disgrace",
+    "artist": "The Raven Age",
+    "isrc": "GMBA21490113"
+  },
+  {
+    "title": "Capsized",
+    "artist": "I, The Mapmaker",
+    "isrc": "USE831579929"
+  },
+  {
+    "title": "I Can't Stop (Falling in Love)",
+    "artist": "Palmist",
+    "isrc": "USCGH2435881"
+  },
+  {
+    "title": "Final Words",
+    "artist": "Avarus",
+    "isrc": "TCAEO1930315"
+  },
+  {
+    "title": "If Only to Fall",
+    "artist": "No Sin Evades His Gaze",
+    "isrc": "TCADA1747990"
+  },
+  {
+    "title": "Embers",
+    "artist": "End Of Daze",
+    "isrc": "QZDA71940754"
+  },
+  {
+    "title": "Betrayer",
+    "artist": "7eventh Sea",
+    "isrc": "QZFYZ2047512"
+  },
+  {
+    "title": "Wit",
+    "artist": "Values, Ben Ville",
+    "isrc": "USA2P2100244"
+  },
+  {
+    "title": "Stripptease",
+    "artist": "Dead Harts",
+    "isrc": "QMFMF1419630"
+  },
+  {
+    "title": "Rotten Branches",
+    "artist": "As Flames Rise",
+    "isrc": "TCAEC1961418"
+  },
+  {
+    "title": "Endeavours",
+    "artist": "High Rise",
+    "isrc": "GBKPL1934212"
+  },
+  {
+    "title": "This World Is Ours",
+    "artist": "Pay No Respect",
+    "isrc": "GBNSF1400025"
+  },
+  {
+    "title": "So Close to Nowhere",
+    "artist": "No Consequence",
+    "isrc": "GBTBS1200091"
+  },
+  {
+    "title": "Screaming",
+    "artist": "Loathe",
+    "isrc": "DED831901369"
+  },
+  {
+    "title": "The Hunter And The Hunted",
+    "artist": "Eden Maine",
+    "isrc": "GBHKY0400021"
+  },
+  {
+    "title": "Undone",
+    "artist": "Thousand Thoughts",
+    "isrc": "UKTUY2260304"
+  },
+  {
+    "title": "A.S.I.F",
+    "artist": "Bury the Traitor",
+    "isrc": "QZ4JJ1952764"
+  },
+  {
+    "title": "Passenger",
+    "artist": "Heart Of A Coward",
+    "isrc": "DEYO62300070"
+  },
+  {
+    "title": "SLEEPS SOCIETY",
+    "artist": "While She Sleeps",
+    "isrc": "GBUM72005067"
+  },
+  {
+    "title": "Abandon Us",
+    "artist": "Bury Tomorrow",
+    "isrc": "GBCKC2200019"
+  },
+  {
+    "title": "Levitate",
+    "artist": "Bleed From Within",
+    "isrc": "DED832200139"
+  },
+  {
+    "title": "Signal Fire",
+    "artist": "Devil Sold His Soul",
+    "isrc": "DED832000900"
+  },
+  {
+    "title": "Animals",
+    "artist": "Architects",
+    "isrc": "USEP42058010"
+  },
+  {
+    "title": "Metamorph",
+    "artist": "Oceans Ate Alaska",
+    "isrc": "US5262023908"
+  },
+  {
+    "title": "(G) H O S T S",
+    "artist": "Overthrone, Ben Ville",
+    "isrc": "TCAET2008699"
+  },
+  {
+    "title": "FADE TO BLACK",
+    "artist": "Borders",
+    "isrc": "DEYO62200032"
+  },
+  {
+    "title": "Almost There",
+    "artist": "Heart In Hand",
+    "isrc": "GBSOA1205502"
+  },
+  {
+    "title": "Yuck",
+    "artist": "Lotus Eater",
+    "isrc": "USHR21911703"
+  },
+  {
+    "title": "Dysmorphia",
+    "artist": "Where Oceans Burn",
+    "isrc": "DK4V62201102"
+  },
+  {
+    "title": "Psycho (Metal Cover)",
+    "artist": "AVIIRA",
+    "isrc": "TCADQ1838780"
+  },
+  {
+    "title": "The Void Stares Back",
+    "artist": "Enter Shikari, WARGASM (UK)",
+    "isrc": "GBAJC2200236"
+  },
+  {
+    "title": "Til There's Nothing Left",
+    "artist": "Silent Screams",
+    "isrc": "US6R21345860"
+  },
+  {
+    "title": "Afterlife",
+    "artist": "Napoleon",
+    "isrc": "UK2D51600042"
+  },
+  {
+    "title": "Burnt Tongues",
+    "artist": "Your Demise",
+    "isrc": "GBEGS0900002"
+  },
+  {
+    "title": "Peacekeeper",
+    "artist": "Confessions of a Traitor",
+    "isrc": "US38J2218905"
+  },
+  {
+    "title": "All These Things I Hate (Revolve Around Me)",
+    "artist": "Bullet For My Valentine",
+    "isrc": "GBHQD0500010"
+  },
+  {
+    "title": "Scavengers",
+    "artist": "Deference",
+    "isrc": "TCACW1776515"
+  },
+  {
+    "title": "Iscariot",
+    "artist": "Azriel",
+    "isrc": "GBSMU6194292"
+  },
+  {
+    "title": "Throne",
+    "artist": "Bring Me The Horizon",
+    "isrc": "GBARL1500770"
+  },
+  {
+    "title": "Come to My Senses",
+    "artist": "The Eyes Of A Traitor",
+    "isrc": "FR1PP1000360"
+  },
+  {
+    "title": "I Won't Give In",
+    "artist": "Asking Alexandria",
+    "isrc": "USYFZ1561601"
+  },
+  {
+    "title": "Realist Surrealist",
+    "artist": "Johnny Truant",
+    "isrc": "CAD320500109"
+  },
+  {
+    "title": "Sungazer",
+    "artist": "Viscera",
+    "isrc": "QM4TW2223802"
+  },
+  {
+    "title": "Five Minutes (2014)",
+    "artist": "The Defiled",
+    "isrc": "DED831401032"
+  },
+  {
+    "title": "Reap What You Sow",
+    "artist": "Demoraliser",
+    "isrc": "GBSOA1205408"
+  },
+  {
+    "title": "The Serpent",
+    "artist": "Rise To Remain",
+    "isrc": "GBAYE1100979"
+  },
+  {
+    "title": "Feeling Alive",
+    "artist": "Glamour Of The Kill",
+    "isrc": "uscgj1856739"
+  },
+  {
+    "title": "Cloaked",
+    "artist": "Rolo Tomassi",
+    "isrc": "USKO12100138"
+  }
+]

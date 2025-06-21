@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Neden",
+    "artist": "Jehan Barbur",
+    "isrc": "TR0200803720"
+  },
+  {
+    "title": "Geçmiyor Zaman",
+    "artist": "Nilipek.",
+    "isrc": "QM6N22324398"
+  },
+  {
+    "title": "Denize Doğru",
+    "artist": "Bülent Ortaçgil",
+    "isrc": "TR0281004321"
+  },
+  {
+    "title": "Küsmedim",
+    "artist": "Ezgi Aktan",
+    "isrc": "TR0281505367"
+  },
+  {
+    "title": "Zalım",
+    "artist": "Ceylan Ertem",
+    "isrc": "TR0361700225"
+  },
+  {
+    "title": "Gir Kanıma",
+    "artist": "Harun Kolçak",
+    "isrc": "TR0350600145"
+  },
+  {
+    "title": "Bu Kalp Seni Unutur mu",
+    "artist": "Fikret Kızılok, Sibel Sezal",
+    "isrc": "TR0330600078"
+  },
+  {
+    "title": "Bir Pazar Kahvaltısı",
+    "artist": "emre aydın, Model",
+    "isrc": "TR0011400362"
+  },
+  {
+    "title": "Beni Böyle Sevme",
+    "artist": "Hande Mehan",
+    "isrc": "FRS182154310"
+  },
+  {
+    "title": "Uğruna Savaşlar Verilmiş Gibisin",
+    "artist": "Yiğit Seferoğlu",
+    "isrc": "QZ8LD1989289"
+  },
+  {
+    "title": "Bi' Sen Varsın",
+    "artist": "Simge Pınar, Canozan",
+    "isrc": "TRUM72400068"
+  },
+  {
+    "title": "Ben Aptal mıyım",
+    "artist": "Nil Karaibrahimgil",
+    "isrc": "TRA160400007"
+  },
+  {
+    "title": "Olsun",
+    "artist": "Sertab Erener",
+    "isrc": "TR9491600190"
+  },
+  {
+    "title": "Nasıl Giderim",
+    "artist": "Güler Özince",
+    "isrc": "TR0012100253"
+  },
+  {
+    "title": "Ay Tenli Kadın",
+    "artist": "Ufuk Beydemir",
+    "isrc": "TRBFL1800004"
+  },
+  {
+    "title": "Yaşıyorum Sil Baştan",
+    "artist": "Ari Barokas",
+    "isrc": "TRBDY1803101"
+  },
+  {
+    "title": "Geceler Kara Tren",
+    "artist": "Nazan Öncel",
+    "isrc": "TR1290600181"
+  },
+  {
+    "title": "Yara",
+    "artist": "Kalben",
+    "isrc": "TRBDY1702105"
+  },
+  {
+    "title": "Gözlerinde Bi'yer",
+    "artist": "Salman Tin",
+    "isrc": "QM24S1839100"
+  },
+  {
+    "title": "Bir Sana Bir De Bana",
+    "artist": "Burcu Tatlıses",
+    "isrc": "FR96X1501574"
+  },
+  {
+    "title": "Bi' Fazla",
+    "artist": "Elçin Orçun, Birkan Nasuhoğlu",
+    "isrc": "TRA161800246"
+  },
+  {
+    "title": "Bekle Dedi Gitti - Çizik",
+    "artist": "Kaan Tangöze",
+    "isrc": "TR0281505320"
+  },
+  {
+    "title": "Anıları Yak",
+    "artist": "Burcu Güneş",
+    "isrc": "TR0012200617"
+  },
+  {
+    "title": "Aşık Olmak İstemem",
+    "artist": "Dolunay Obruk",
+    "isrc": "UKSME2000011"
+  },
+  {
+    "title": "Anıları Sakla",
+    "artist": "Batuhan Kordel",
+    "isrc": "TCAFJ2106195"
+  },
+  {
+    "title": "Hava Kararınca",
+    "artist": "Şenay Lambaoğlu",
+    "isrc": "TR0282206647"
+  },
+  {
+    "title": "Aşk Paylaşılmaz",
+    "artist": "Aydilge",
+    "isrc": "TR0061300248"
+  },
+  {
+    "title": "Tohumlar",
+    "artist": "Emre Akbay, No Land",
+    "isrc": "ushm21925059"
+  },
+  {
+    "title": "Kül",
+    "artist": "Cem Adrian, Mark Eliyahu",
+    "isrc": "TRA162100010"
+  },
+  {
+    "title": "Geldin",
+    "artist": "Mahmut Çınar",
+    "isrc": "TRBDY1804301"
+  },
+  {
+    "title": "Dipsiz Deniz",
+    "artist": "Genç Osman",
+    "isrc": "TR7802300016"
+  },
+  {
+    "title": "Beklerim Bilirsin",
+    "artist": "Kutay Uçar",
+    "isrc": "GBKQU1946259"
+  },
+  {
+    "title": "Değmez",
+    "artist": "Suzan Hacigarip",
+    "isrc": "TRBPU2101114"
+  },
+  {
+    "title": "Aşk Laftan Anlamaz",
+    "artist": "Kıvılcım Ural",
+    "isrc": "GB-SMU-28-05509"
+  },
+  {
+    "title": "Hep Bi' Tufan",
+    "artist": "Su Soley",
+    "isrc": "TRBJN1800001"
+  },
+  {
+    "title": "Kafamın İçi Bir Meyhane",
+    "artist": "Sera Savaş",
+    "isrc": "TRBDY2355301"
+  },
+  {
+    "title": "Gelevera Deresi",
+    "artist": "Kâzım Koyuncu, Şevval Sam",
+    "isrc": "TR2100600080"
+  },
+  {
+    "title": "Yerine Sevemem",
+    "artist": "Gökhan Kırdar",
+    "isrc": "TR0160500001"
+  },
+  {
+    "title": "Benim Ol Dedin",
+    "artist": "Barış Kocatürk",
+    "isrc": "QM4TX1896774"
+  },
+  {
+    "title": "Diva Yorgun",
+    "artist": "Melike Şahin",
+    "isrc": "TRBYM2000179"
+  },
+  {
+    "title": "Adam",
+    "artist": "Sibel Alaş",
+    "isrc": "TRA160000535"
+  },
+  {
+    "title": "Kör Kuyular",
+    "artist": "Vedat Özkaya, Çağan Şengül",
+    "isrc": "QZHN51905484"
+  },
+  {
+    "title": "Olmazlara İnat",
+    "artist": "Berkay Altunyay",
+    "isrc": "TRA162100607"
+  },
+  {
+    "title": "Dünyayı Durduran Şarkı (feat. Halil Sezai)",
+    "artist": "Çiğdem Erken, Halil Sezai",
+    "isrc": "TRA161500068"
+  },
+  {
+    "title": "Gelmesen de Beklerim",
+    "artist": "Emre Yıldırım",
+    "isrc": "QZES52091707"
+  },
+  {
+    "title": "Güzel Kız",
+    "artist": "Ahmet Hatipoğlu",
+    "isrc": "TRUM72200808"
+  },
+  {
+    "title": "Sonbaharda Sevmeye Sözün Var",
+    "artist": "Aslı Gökyokuş",
+    "isrc": "TRCDB2400001"
+  },
+  {
+    "title": "Amanın Yandım",
+    "artist": "Ozan Sarohan",
+    "isrc": "TRCAE2300153"
+  },
+  {
+    "title": "Su ve Ateş - Bilmezdim (Orijinal Film Müziği)",
+    "artist": "İrem Candar",
+    "isrc": "TR0331309596"
+  },
+  {
+    "title": "Senden Güzeli Mi Var",
+    "artist": "Emre Fel",
+    "isrc": "USA2P2355230"
+  },
+  {
+    "title": "Ressamın Şarkısı",
+    "artist": "Bekir Karahan, Alperen Tıkır",
+    "isrc": "QZDA61807584"
+  },
+  {
+    "title": "Sözüm Meclisten İçeri",
+    "artist": "Ali Meydanioğlu",
+    "isrc": "FR2X42369554"
+  },
+  {
+    "title": "Eyvallah",
+    "artist": "Deniz Arcak",
+    "isrc": "TR0010501040"
+  },
+  {
+    "title": "Hayat Budur",
+    "artist": "Demirhan Baylan, Ezgi Aktan",
+    "isrc": "TR9522100019"
+  },
+  {
+    "title": "Mucize",
+    "artist": "Özgün Semerci",
+    "isrc": "SEYOK1612514"
+  },
+  {
+    "title": "Moralim Çok Bozuk",
+    "artist": "Furkan Manav",
+    "isrc": "GBKQU1945031"
+  },
+  {
+    "title": "Buradan Uzaklara",
+    "artist": "Cenk Taner",
+    "isrc": "TR0280602350"
+  },
+  {
+    "title": "Değiştim",
+    "artist": "Efe Okka",
+    "isrc": "QZTB72234824"
+  },
+  {
+    "title": "Yalancılar Kahvesi",
+    "artist": "Barlas Tan Özemek",
+    "isrc": "TR0281805894"
+  },
+  {
+    "title": "Bekler İnsan",
+    "artist": "Ulku Aybala Sunat",
+    "isrc": "TR8471600026"
+  },
+  {
+    "title": "Kahverengi'nin Şarkısı",
+    "artist": "Hay Bin Kunduz",
+    "isrc": "GBSMU3145791"
+  },
+  {
+    "title": "Bir Avuç Su",
+    "artist": "Firat Akarsel",
+    "isrc": "QM6N22086419"
+  },
+  {
+    "title": "Uyanırsan",
+    "artist": "Kutad Alptürkan, Jehan Barbur",
+    "isrc": "TR2181518803"
+  },
+  {
+    "title": "Kara Tren",
+    "artist": "Yavuz Bingöl",
+    "isrc": "TR0660640526"
+  },
+  {
+    "title": "Damla Damla",
+    "artist": "Orhan Ölmez",
+    "isrc": "TR1780800364"
+  },
+  {
+    "title": "Talihim Yok Bahtım Kara",
+    "artist": "Zeynep Baksi Karatağ",
+    "isrc": "TR0331610561"
+  },
+  {
+    "title": "Patika",
+    "artist": "Selim Saraçoğlu",
+    "isrc": "TR9121500015"
+  },
+  {
+    "title": "Bizden Olur Mu?",
+    "artist": "Erden Erdoğan, Ezgi Erdoğan",
+    "isrc": "SE6XW2385493"
+  },
+  {
+    "title": "Var Olamaz Bu His",
+    "artist": "Ezgi Erdoğan",
+    "isrc": "SE6XX2273094"
+  },
+  {
+    "title": "Seviyoruz Hâlâ",
+    "artist": "Ayla Çelik, Hakan Altun",
+    "isrc": "TR0392100048"
+  },
+  {
+    "title": "Bul Beni",
+    "artist": "Esra Kayıkçı",
+    "isrc": "TR8471500144"
+  },
+  {
+    "title": "Başka Yok",
+    "artist": "Dilan Demirel",
+    "isrc": "TR0281705714"
+  },
+  {
+    "title": "Fasülyeden",
+    "artist": "Müfide Inselel",
+    "isrc": "TR0110500336"
+  },
+  {
+    "title": "Yazılamayanlar Aklımda",
+    "artist": "Derin Sarıyer",
+    "isrc": "TR2220900034"
+  },
+  {
+    "title": "Çok Sıkıldım (feat. Can Kazaz)",
+    "artist": "Can Dedeoğlu, Can Kazaz",
+    "isrc": "ushm81554527"
+  },
+  {
+    "title": "Vişneli Şarkı",
+    "artist": "Nihat Ünal",
+    "isrc": "QZDA41979176"
+  },
+  {
+    "title": "Own Spirit",
+    "artist": "Nilgun Ozer",
+    "isrc": "QZ9JZ1796636"
+  },
+  {
+    "title": "Selvi Boylum Al Yazmalım",
+    "artist": "Jehan Barbur",
+    "isrc": "TR0281705733"
+  },
+  {
+    "title": "Gözleri Aşka Gülen",
+    "artist": "Nilipek.",
+    "isrc": "QM4TW1831931"
+  },
+  {
+    "title": "Bu Su Hiç Durmaz",
+    "artist": "Bülent Ortaçgil, Selim Atakan, Gürol Ağırbaş, Cem Aksel, Tarık Sezer, Tahsin Endersoy, Leman Sam, Erkan Oğur",
+    "isrc": "TR5460700034"
+  },
+  {
+    "title": "Kuşlar",
+    "artist": "Ezgi Aktan",
+    "isrc": "TR0281505363"
+  },
+  {
+    "title": "El Adamı",
+    "artist": "Ceylan Ertem",
+    "isrc": "TRA161400218"
+  },
+  {
+    "title": "Yanımda Kal",
+    "artist": "Harun Kolçak, Gökhan Türkmen",
+    "isrc": "TR7801600598"
+  },
+  {
+    "title": "Sen Beni Unutamazsın",
+    "artist": "emre aydın",
+    "isrc": "TR0011601096"
+  },
+  {
+    "title": "Gönül",
+    "artist": "Fikret Kızılok",
+    "isrc": "TR0330600075"
+  },
+  {
+    "title": "Bir Kızıl Goncaya Benzer Dudağın",
+    "artist": "Hande Mehan",
+    "isrc": "QZMEQ2044657"
+  },
+  {
+    "title": "Kendimi Bulamıyorum",
+    "artist": "Yiğit Seferoğlu",
+    "isrc": "QZHNA1999227"
+  },
+  {
+    "title": "Unutama Beni",
+    "artist": "Simge Pınar",
+    "isrc": "TRUM72400202"
+  },
+  {
+    "title": "Kanatlarım Var Ruhumda",
+    "artist": "Nil Karaibrahimgil",
+    "isrc": "TRABT1300046"
+  },
+  {
+    "title": "Merkür Retrosu",
+    "artist": "Güler Özince",
+    "isrc": "USDY41742528"
+  },
+  {
+    "title": "Mecbursun",
+    "artist": "Sertab Erener",
+    "isrc": "TR7870900467"
+  },
+  {
+    "title": "HİÇ",
+    "artist": "Ufuk Beydemir",
+    "isrc": "TRBFL2100058"
+  },
+  {
+    "title": "Ömrümüz Yine Geçiyor",
+    "artist": "Ari Barokas",
+    "isrc": "TRBDY1803108"
+  },
+  {
+    "title": "Erkekler De Yanar",
+    "artist": "Nazan Öncel",
+    "isrc": "TR0531202785"
+  },
+  {
+    "title": "Sadece",
+    "artist": "Kalben",
+    "isrc": "TR0011600667"
+  },
+  {
+    "title": "Bir Yol Bulunur, Bir Son Bulunduysa (Akustik)",
+    "artist": "Salman Tin",
+    "isrc": "QM24S1900636"
+  },
+  {
+    "title": "Ay",
+    "artist": "Burcu Tatlıses",
+    "isrc": "FR96X1501575"
+  },
+  {
+    "title": "Okyanus - Live",
+    "artist": "Elçin Orçun",
+    "isrc": "QMBZ91926575"
+  },
+  {
+    "title": "Kalmak Türküsü",
+    "artist": "Kaan Tangöze",
+    "isrc": "TR0281505327"
+  },
+  {
+    "title": "Özledim",
+    "artist": "Dolunay Obruk",
+    "isrc": "UKSME2000006"
+  },
+  {
+    "title": "Oflaya Oflaya - Ceceli Versiyon",
+    "artist": "Burcu Güneş",
+    "isrc": "FR6V81601982"
+  },
+  {
+    "title": "Sıcak Şarap",
+    "artist": "Batuhan Kordel",
+    "isrc": "TCAEN1978775"
+  },
+  {
+    "title": "Uzun Hikaye",
+    "artist": "Şenay Lambaoğlu",
+    "isrc": "TR0282206609"
+  },
+  {
+    "title": "Kiralık Aşk (Sen misin İlacım?)",
+    "artist": "Aydilge",
+    "isrc": "TRAVR1500001"
+  },
+  {
+    "title": "Günler Boyu",
+    "artist": "Emre Akbay",
+    "isrc": "uscgj1663788"
+  },
+  {
+    "title": "Dünya Gözüyle",
+    "artist": "Mahmut Çınar",
+    "isrc": "TRBDY2130902"
+  },
+  {
+    "title": "Sen Benim Şarkılarımsın",
+    "artist": "Cem Adrian, Hande Mehan",
+    "isrc": "QZDA81810554"
+  },
+  {
+    "title": "Dilek Tutmak",
+    "artist": "Genç Osman",
+    "isrc": "TR7801700098"
+  },
+  {
+    "title": "ONA BENİ ANLAT",
+    "artist": "Kutay Uçar",
+    "isrc": "GBKQU2427497"
+  },
+  {
+    "title": "Yol",
+    "artist": "Suzan Hacigarip, Yasir Miy, Çağan Şengül",
+    "isrc": "FRX282133834"
+  },
+  {
+    "title": "Yalan Bunlar",
+    "artist": "Kıvılcım Ural",
+    "isrc": "QM6N22424847"
+  },
+  {
+    "title": "Bu Yaz - 2012 Canlı Performans",
+    "artist": "Su Soley",
+    "isrc": "TRBJN1800003"
+  },
+  {
+    "title": "Anlatsam Anlatamam",
+    "artist": "Sera Savaş",
+    "isrc": "QZES72171270"
+  },
+  {
+    "title": "Ben Seni Sevduğumi",
+    "artist": "Kâzım Koyuncu",
+    "isrc": "TR2100600075"
+  },
+  {
+    "title": "Üstüme Basıp Geçme",
+    "artist": "Gökhan Kırdar",
+    "isrc": "TR0140500087"
+  },
+  {
+    "title": "Sararmış Kağıt",
+    "artist": "Barış Kocatürk",
+    "isrc": "QMFME1921410"
+  },
+  {
+    "title": "Pusulam Rüzgar",
+    "artist": "Melike Şahin, Mert Demir",
+    "isrc": "USA2P2137860"
+  },
+  {
+    "title": "Bende Hüküm Sür",
+    "artist": "Sibel Alaş",
+    "isrc": "TRA160000537"
+  },
+  {
+    "title": "Meydan Yeri",
+    "artist": "Vedat Özkaya, Çağan Şengül",
+    "isrc": "QZES52064716"
+  },
+  {
+    "title": "Hediyem",
+    "artist": "Çiğdem Erken",
+    "isrc": "FR96X1675772"
+  },
+  {
+    "title": "Sevmedim Senin Kadar",
+    "artist": "Berkay Altunyay",
+    "isrc": "TRA162400089"
+  },
+  {
+    "title": "Acın Bile Tatlı",
+    "artist": "Emre Yıldırım",
+    "isrc": "QZES52091710"
+  },
+  {
+    "title": "Güz Rüzgarı",
+    "artist": "Ahmet Hatipoğlu",
+    "isrc": "FRX202408874"
+  },
+  {
+    "title": "Tüm Şehir Ağladı",
+    "artist": "Aslı Gökyokuş",
+    "isrc": "TRA160300531"
+  },
+  {
+    "title": "Gitme",
+    "artist": "Ozan Sarohan",
+    "isrc": "TCADO1855839"
+  },
+  {
+    "title": "Gül ile Akide",
+    "artist": "İrem Candar",
+    "isrc": "TRBDY1806506"
+  },
+  {
+    "title": "Veda Türküsü",
+    "artist": "Emre Fel",
+    "isrc": "USA2P2358514"
+  },
+  {
+    "title": "Napabilirdim",
+    "artist": "Ali Meydanioğlu",
+    "isrc": "FRX282430308"
+  },
+  {
+    "title": "Vurur",
+    "artist": "Deniz Arcak",
+    "isrc": "TR0200500378"
+  },
+  {
+    "title": "Gidersen",
+    "artist": "Jehan Barbur",
+    "isrc": "TR0200803715"
+  },
+  {
+    "title": "Gömülür",
+    "artist": "Nilipek.",
+    "isrc": "QM6P41551509"
+  },
+  {
+    "title": "Benimle Oynarmısın",
+    "artist": "Bülent Ortaçgil",
+    "isrc": "TR5460700091"
+  },
+  {
+    "title": "Sen",
+    "artist": "Ezgi Aktan",
+    "isrc": "TR0281505368"
+  },
+  {
+    "title": "Uçurtma",
+    "artist": "Ceylan Ertem",
+    "isrc": "TRA161500240"
+  },
+  {
+    "title": "Deli Et Beni",
+    "artist": "Harun Kolçak, Tuğba Yurt",
+    "isrc": "TR7801600599"
+  },
+  {
+    "title": "Hoşçakal",
+    "artist": "emre aydın",
+    "isrc": "TRA161000056"
+  },
+  {
+    "title": "Farketmeden",
+    "artist": "Fikret Kızılok",
+    "isrc": "TR0330600372"
+  },
+  {
+    "title": "Dermanım Yok",
+    "artist": "Hande Mehan",
+    "isrc": "USA2P2424094"
+  },
+  {
+    "title": "Bu Şehirde Sevecek Bi'şey Kalmadı - Akustik",
+    "artist": "Yiğit Seferoğlu",
+    "isrc": "QZHN91914334"
+  },
+  {
+    "title": "Gözünde Yaşıyorum (ft. Deniz Tekin) - Akustik",
+    "artist": "Simge Pınar, Deniz Tekin",
+    "isrc": "TRUM72300071"
+  },
+  {
+    "title": "Öyle Olsa",
+    "artist": "Güler Özince",
+    "isrc": "USHM91830305"
+  },
+  {
+    "title": "Seviyorum Sevmiyorum",
+    "artist": "Nil Karaibrahimgil",
+    "isrc": "TRA160800174"
+  },
+  {
+    "title": "İyileşiyorum",
+    "artist": "Sertab Erener",
+    "isrc": "TR9491300132"
+  },
+  {
+    "title": "Sarı Sarı Saçlar",
+    "artist": "Ufuk Beydemir",
+    "isrc": "QM6MZ2432201"
+  },
+  {
+    "title": "Yalnızlık Kanında Var",
+    "artist": "Ari Barokas",
+    "isrc": "TRBDY1803103"
+  },
+  {
+    "title": "Mühürledim Seni Kalbime (Bir Hadise Var)",
+    "artist": "Nazan Öncel",
+    "isrc": "TR1290600080"
+  },
+  {
+    "title": "Düşünürüm",
+    "artist": "Kalben",
+    "isrc": "FR10S2202574"
+  },
+  {
+    "title": "Kadıköy'den",
+    "artist": "Salman Tin",
+    "isrc": "DGA072182856"
+  },
+  {
+    "title": "Bir Tek Seni Sevdim",
+    "artist": "Burcu Tatlıses",
+    "isrc": "FR96X1501578"
+  },
+  {
+    "title": "Yolun Yarısı",
+    "artist": "Elçin Orçun, Hakan Vreskala",
+    "isrc": "TRAHZ2100280"
+  },
+  {
+    "title": "Sorma (Gain Sahne Performansı)",
+    "artist": "Kaan Tangöze",
+    "isrc": "QMFME2177640"
+  },
+  {
+    "title": "Istanbul Kafası",
+    "artist": "Dolunay Obruk",
+    "isrc": "UKSME2000015"
+  },
+  {
+    "title": "Sen ve Ben",
+    "artist": "Burcu Güneş",
+    "isrc": "FR96X2466777"
+  },
+  {
+    "title": "Dönme",
+    "artist": "Batuhan Kordel",
+    "isrc": "TCAEJ1920463"
+  },
+  {
+    "title": "Aman Avcı",
+    "artist": "Şenay Lambaoğlu",
+    "isrc": "TR0281906095"
+  },
+  {
+    "title": "Aşka Gel",
+    "artist": "Aydilge",
+    "isrc": "TR0061400084"
+  }
+]

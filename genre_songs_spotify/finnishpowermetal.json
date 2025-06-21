@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Diamonds and Rust",
+    "artist": "Thunderstone",
+    "isrc": "DED830370112"
+  },
+  {
+    "title": "The Wingman",
+    "artist": "Excalion",
+    "isrc": "DET270709801"
+  },
+  {
+    "title": "Angel Of Light",
+    "artist": "Dreamtale",
+    "isrc": "FISDO1100002"
+  },
+  {
+    "title": "Empty Room",
+    "artist": "Celesty",
+    "isrc": "DEBL60607377"
+  },
+  {
+    "title": "I Will Build You a Rome",
+    "artist": "Cain's Offering",
+    "isrc": "JPJ301501156"
+  },
+  {
+    "title": "Unchain the Rain",
+    "artist": "Altaria",
+    "isrc": "ATN262002001"
+  },
+  {
+    "title": "Master Them All",
+    "artist": "Burning Point",
+    "isrc": "DEU601606566"
+  },
+  {
+    "title": "Feed the Flame",
+    "artist": "Thaurorod",
+    "isrc": "DES371700047"
+  },
+  {
+    "title": "I Did It My Way",
+    "artist": "Revolution Renaissance",
+    "isrc": "ITG270800095"
+  },
+  {
+    "title": "Gone To The Wall",
+    "artist": "Twilightning",
+    "isrc": "FISFS0200109"
+  },
+  {
+    "title": "Wolf and the Moon",
+    "artist": "Leverage",
+    "isrc": "FIUM70901000"
+  },
+  {
+    "title": "Delusions of Grandeur",
+    "artist": "Frozen Land",
+    "isrc": "DER371805602"
+  },
+  {
+    "title": "Mysterious & Victorious",
+    "artist": "Astralion",
+    "isrc": "DET271214801"
+  },
+  {
+    "title": "Behind Blue Eyes - Acoustic",
+    "artist": "Kotipelto, Liimatainen",
+    "isrc": "DEH841200694"
+  },
+  {
+    "title": "SONGS THE NIGHT SINGS",
+    "artist": "The Dark Element",
+    "isrc": "ITG271900926"
+  },
+  {
+    "title": "We Don't Need Another Hero",
+    "artist": "Northern Kings",
+    "isrc": "FIWMA0700794"
+  },
+  {
+    "title": "Code Of The Samurai",
+    "artist": "Metal De Facto",
+    "isrc": "IT8SF2300328"
+  },
+  {
+    "title": "Come by the Hills",
+    "artist": "Symfonia",
+    "isrc": "DEH841100104"
+  },
+  {
+    "title": "Somebody's Watching Me",
+    "artist": "Warmen",
+    "isrc": "FISFS0500124"
+  },
+  {
+    "title": "At The Break Of Dawn (feat. Elize Ryd)",
+    "artist": "Arion, Elize Ryd",
+    "isrc": "FIRAN1600011"
+  },
+  {
+    "title": "Breathing Divinity",
+    "artist": "Jani Liimatainen, Bjorn \"Speed\" Strid",
+    "isrc": "ITG272200605"
+  },
+  {
+    "title": "Absolute Power",
+    "artist": "Cardiant",
+    "isrc": "FI3FC1726608"
+  },
+  {
+    "title": "Solitude's Bane",
+    "artist": "Gladenfold",
+    "isrc": "DE1AH2283806"
+  },
+  {
+    "title": "Lay All Your Love on Me",
+    "artist": "Amberian Dawn",
+    "isrc": "ATN262088009"
+  },
+  {
+    "title": "Tallulah",
+    "artist": "Sonata Arctica",
+    "isrc": "FISFS0200121"
+  },
+  {
+    "title": "I Spit On Your Grave",
+    "artist": "Sinergy",
+    "isrc": "DED830161301"
+  },
+  {
+    "title": "Eden",
+    "artist": "Battle Beast",
+    "isrc": "DED831802028"
+  },
+  {
+    "title": "Warrior Soul",
+    "artist": "Kiuas",
+    "isrc": "FISFS0500061"
+  },
+  {
+    "title": "Hunting High and Low",
+    "artist": "Stratovarius",
+    "isrc": "DEH841000203"
+  },
+  {
+    "title": "Winterider",
+    "artist": "Everfrost",
+    "isrc": "IT8SF1900115"
+  },
+  {
+    "title": "Beyond the Dark Sun",
+    "artist": "Wintersun",
+    "isrc": "DED830402132"
+  },
+  {
+    "title": "Taivas lyö tulta",
+    "artist": "Teräsbetoni",
+    "isrc": "FIWMA0500002"
+  },
+  {
+    "title": "Gone with the Wind",
+    "artist": "Nibiru Ordeal",
+    "isrc": "FI3FC1993902"
+  },
+  {
+    "title": "Hear My Call",
+    "artist": "Ari Koivunen",
+    "isrc": "FIBAR0700279"
+  },
+  {
+    "title": "Die By The Blade",
+    "artist": "Beast In Black",
+    "isrc": "DED831801693"
+  },
+  {
+    "title": "Eternal Damnation - Deluxe Edition",
+    "artist": "Ghost Machinery",
+    "isrc": "FIP271300063"
+  },
+  {
+    "title": "Sons of Riddermark",
+    "artist": "Battlelore",
+    "isrc": "ATN260312001"
+  },
+  {
+    "title": "Eye for an Eye",
+    "artist": "Virtuocity",
+    "isrc": "FIUM71900484"
+  },
+  {
+    "title": "Out Of My Mind (Tritonia 412) - Daniel Skyver Remix",
+    "artist": "Force Majeure, Daniel Skyver",
+    "isrc": "GBKQU2307903"
+  },
+  {
+    "title": "Freestyler",
+    "artist": "Battledragon",
+    "isrc": "QZAPG1876917"
+  },
+  {
+    "title": "Shadowsouls",
+    "artist": "Imperanon",
+    "isrc": "DED830471408"
+  },
+  {
+    "title": "Curtain of Darkness",
+    "artist": "Ultimatium",
+    "isrc": "SEYOK1513668"
+  },
+  {
+    "title": "Nemo",
+    "artist": "Nightwish",
+    "isrc": "DED830471903"
+  },
+  {
+    "title": "Legenda Taikamiekasta",
+    "artist": "Heavy Metal Perse",
+    "isrc": "GBSMU3095447"
+  },
+  {
+    "title": "Colder",
+    "artist": "Charon",
+    "isrc": "FISFS0500097"
+  },
+  {
+    "title": "Indian",
+    "artist": "Sturm und Drang",
+    "isrc": "FI3HM0700048"
+  },
+  {
+    "title": "Into the Light",
+    "artist": "Kenziner",
+    "isrc": "US4W79810533"
+  },
+  {
+    "title": "Skyride",
+    "artist": "Epicrenel",
+    "isrc": "FI3FC1309208"
+  },
+  {
+    "title": "La Isla Bonita",
+    "artist": "Twilight Guardians",
+    "isrc": "FISFS0500361"
+  },
+  {
+    "title": "Last Breath of Love",
+    "artist": "Elias Viljanen, Marco Hietala",
+    "isrc": "FIUM70900335"
+  },
+  {
+    "title": "Can't Kill Metal",
+    "artist": "Tombstone",
+    "isrc": "uscgj1920171"
+  },
+  {
+    "title": "Holding Our for a Hero",
+    "artist": "Enfarce",
+    "isrc": "FISH11400005"
+  },
+  {
+    "title": "To The Moon & Back",
+    "artist": "Shiraz Lane",
+    "isrc": "FIRAN1900059"
+  },
+  {
+    "title": "Voittamaton",
+    "artist": "Villieläin",
+    "isrc": "FIUM70801550"
+  },
+  {
+    "title": "Celestial Law",
+    "artist": "Celesti Alliance",
+    "isrc": "FINAT1900001"
+  },
+  {
+    "title": "Täältä tulee Sauruxet",
+    "artist": "SauruXet",
+    "isrc": "FI3LE1100001"
+  },
+  {
+    "title": "Scorched",
+    "artist": "Shear",
+    "isrc": "US94P1212103"
+  },
+  {
+    "title": "No wolves here",
+    "artist": "Masquerage",
+    "isrc": "FIMQG1800016"
+  },
+  {
+    "title": "Dream Domain",
+    "artist": "Sethian",
+    "isrc": "FIUM71301285"
+  },
+  {
+    "title": "Chronicler - 2022 Remake",
+    "artist": "Chronicler",
+    "isrc": "GX89G2282834"
+  },
+  {
+    "title": "Two Kingdoms War",
+    "artist": "Epileptica",
+    "isrc": "QZDA82441070"
+  },
+  {
+    "title": "A Candle in the Storm",
+    "artist": "Crow's Flight",
+    "isrc": "DEZ901900999"
+  },
+  {
+    "title": "Angels Crying - Metal Version",
+    "artist": "Hank J. Newman, Mikael Salo",
+    "isrc": "FI2HP1800004"
+  },
+  {
+    "title": "True Survivor",
+    "artist": "Invisible Enemy",
+    "isrc": "TCAEH1971106"
+  },
+  {
+    "title": "Return to the Caves",
+    "artist": "Kouzin Bedlam",
+    "isrc": "FI3FC1416408"
+  },
+  {
+    "title": "Torment of Vanity",
+    "artist": "Phoenix Titan",
+    "isrc": "FI3FC1933401"
+  },
+  {
+    "title": "The Lair",
+    "artist": "Solamnia",
+    "isrc": "uscgh1423752"
+  },
+  {
+    "title": "Reaching for the Sky Above",
+    "artist": "Star Insight",
+    "isrc": "FISTI2000014"
+  },
+  {
+    "title": "When The Empire Falls",
+    "artist": "When The Empire Falls",
+    "isrc": "FIUNG0700019"
+  },
+  {
+    "title": "Me, My Enemy",
+    "artist": "Thunderstone",
+    "isrc": "DED830274104"
+  },
+  {
+    "title": "I Am I",
+    "artist": "Excalion",
+    "isrc": "ITD292302485"
+  },
+  {
+    "title": "Battleheart - Single version",
+    "artist": "Dreamtale",
+    "isrc": "FIRKD2400001"
+  },
+  {
+    "title": "Lord Of Mortals",
+    "artist": "Celesty",
+    "isrc": "DEBL60607373"
+  },
+  {
+    "title": "Constellation of Tears",
+    "artist": "Cain's Offering",
+    "isrc": "JPJ301501158"
+  },
+  {
+    "title": "Diablo Rojo",
+    "artist": "Altaria",
+    "isrc": "DE1AH2284302"
+  },
+  {
+    "title": "In the Shadows",
+    "artist": "Burning Point",
+    "isrc": "DEU601505630"
+  },
+  {
+    "title": "Power",
+    "artist": "Thaurorod",
+    "isrc": "DES371700043"
+  },
+  {
+    "title": "Last Night On Earth",
+    "artist": "Revolution Renaissance",
+    "isrc": "ITG270800102"
+  },
+  {
+    "title": "Delirium Veil",
+    "artist": "Twilightning",
+    "isrc": "FISFS0200112"
+  },
+  {
+    "title": "Wind Of Morrigan",
+    "artist": "Leverage",
+    "isrc": "ITG271900508"
+  },
+  {
+    "title": "Loser's Game",
+    "artist": "Frozen Land",
+    "isrc": "DER371805601"
+  },
+  {
+    "title": "At the Edge of the World",
+    "artist": "Astralion",
+    "isrc": "DET271214803"
+  },
+  {
+    "title": "Black Diamond - Acoustic",
+    "artist": "Kotipelto, Liimatainen",
+    "isrc": "DEH841200692"
+  },
+  {
+    "title": "THE PALLBEARER WALKS ALONE",
+    "artist": "The Dark Element",
+    "isrc": "ITG271900931"
+  },
+  {
+    "title": "Take on Me",
+    "artist": "Northern Kings",
+    "isrc": "FIWMA0800967"
+  },
+  {
+    "title": "Slave To The Power",
+    "artist": "Metal De Facto",
+    "isrc": "IT8SF2300331"
+  },
+  {
+    "title": "Fields of Avalon",
+    "artist": "Symfonia",
+    "isrc": "DEH841100103"
+  },
+  {
+    "title": "Warmen Are Here For None",
+    "artist": "Warmen",
+    "isrc": "DE1AH2386801"
+  },
+  {
+    "title": "Unforgivable",
+    "artist": "Arion",
+    "isrc": "FIRAN1600012"
+  },
+  {
+    "title": "All Dreams Are Born to Die",
+    "artist": "Jani Liimatainen, Tony Kakko",
+    "isrc": "ITG272200606"
+  },
+  {
+    "title": "Justice Turns Into Revenge",
+    "artist": "Cardiant",
+    "isrc": "FI3FC1310001"
+  },
+  {
+    "title": "Starborn",
+    "artist": "Gladenfold",
+    "isrc": "ATN268003701"
+  },
+  {
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "Amberian Dawn",
+    "isrc": "ATN262220302"
+  },
+  {
+    "title": "I Have A Right",
+    "artist": "Sonata Arctica",
+    "isrc": "DED831200131"
+  },
+  {
+    "title": "Beware The Heavens",
+    "artist": "Sinergy",
+    "isrc": "DED839800765"
+  },
+  {
+    "title": "From the Anchorage",
+    "artist": "Kiuas",
+    "isrc": "QZES72486009"
+  },
+  {
+    "title": "King for a Day",
+    "artist": "Battle Beast",
+    "isrc": "DED831601546"
+  },
+  {
+    "title": "Black Diamond",
+    "artist": "Stratovarius",
+    "isrc": "DEA249700002"
+  },
+  {
+    "title": "Hacking To The Gate",
+    "artist": "Everfrost, ShiroNeko",
+    "isrc": "IT8SF2200123"
+  },
+  {
+    "title": "Land of Snow and Sorrow",
+    "artist": "Wintersun",
+    "isrc": "DED831200420"
+  },
+  {
+    "title": "Missä miehet ratsastaa",
+    "artist": "Teräsbetoni",
+    "isrc": "FIWMA0800057"
+  },
+  {
+    "title": "Demons & Angels",
+    "artist": "Nibiru Ordeal",
+    "isrc": "FI3FC1993905"
+  },
+  {
+    "title": "Angels Are Calling",
+    "artist": "Ari Koivunen",
+    "isrc": "FIBAR0700274"
+  },
+  {
+    "title": "Sweet True Lies",
+    "artist": "Beast In Black",
+    "isrc": "DED831801691"
+  },
+  {
+    "title": "Out for Blood - Deluxe Edition",
+    "artist": "Ghost Machinery",
+    "isrc": "FIP271300055"
+  },
+  {
+    "title": "Chambers of Fire",
+    "artist": "Battlelore",
+    "isrc": "ATN262211002"
+  },
+  {
+    "title": "Speed of Light",
+    "artist": "Virtuocity",
+    "isrc": "FIUM71900489"
+  },
+  {
+    "title": "Apocalyptic Hearts",
+    "artist": "Force Majeure",
+    "isrc": "DKQ4A1718802"
+  },
+  {
+    "title": "Bailando",
+    "artist": "Battledragon",
+    "isrc": "QZES51819437"
+  },
+  {
+    "title": "Rhythm of Pain",
+    "artist": "Imperanon",
+    "isrc": "DED830471407"
+  },
+  {
+    "title": "Vengeance",
+    "artist": "Ultimatium",
+    "isrc": "IT8SF2000242"
+  },
+  {
+    "title": "Wish I Had an Angel",
+    "artist": "Nightwish",
+    "isrc": "DED830471902"
+  },
+  {
+    "title": "Paha paavo",
+    "artist": "Heavy Metal Perse",
+    "isrc": "FIDM81200001"
+  },
+  {
+    "title": "Little Angel",
+    "artist": "Charon",
+    "isrc": "FIUM71001164"
+  },
+  {
+    "title": "A Million Nights",
+    "artist": "Sturm und Drang",
+    "isrc": "FI3HM0800160"
+  },
+  {
+    "title": "Future Signs",
+    "artist": "Kenziner",
+    "isrc": "US4W79810532"
+  },
+  {
+    "title": "Tool of the Devil",
+    "artist": "Thunderstone",
+    "isrc": "DED830583501"
+  },
+  {
+    "title": "Keitele",
+    "artist": "Excalion",
+    "isrc": "ITD292302479"
+  },
+  {
+    "title": "Tides of War",
+    "artist": "Dreamtale",
+    "isrc": "FISDO1300003"
+  },
+  {
+    "title": "Back In Time",
+    "artist": "Celesty",
+    "isrc": "DEBL60607379"
+  },
+  {
+    "title": "A Night to Forget",
+    "artist": "Cain's Offering",
+    "isrc": "JPJ301501155"
+  },
+  {
+    "title": "Without Warning",
+    "artist": "Altaria",
+    "isrc": "DE1AH2284303"
+  },
+  {
+    "title": "Into the Fire",
+    "artist": "Burning Point",
+    "isrc": "DEU601505843"
+  },
+  {
+    "title": "The Commonwealth Lives",
+    "artist": "Thaurorod",
+    "isrc": "DES371700044"
+  },
+  {
+    "title": "We Are Magic",
+    "artist": "Revolution Renaissance",
+    "isrc": "ITG270800096"
+  },
+  {
+    "title": "At The Forge",
+    "artist": "Twilightning",
+    "isrc": "FISFS0200110"
+  },
+  {
+    "title": "Superstition",
+    "artist": "Leverage",
+    "isrc": "FI3EM0600023"
+  },
+  {
+    "title": "Angels Crying",
+    "artist": "Frozen Land",
+    "isrc": "DER371805610"
+  },
+  {
+    "title": "Nightmares Never Give Up",
+    "artist": "Astralion",
+    "isrc": "DET271615905"
+  },
+  {
+    "title": "My Selene - Acoustic",
+    "artist": "Kotipelto, Liimatainen",
+    "isrc": "DEH841200693"
+  },
+  {
+    "title": "MY SWEET MYSTERY",
+    "artist": "The Dark Element",
+    "isrc": "ITG271700885"
+  },
+  {
+    "title": "Training Montage",
+    "artist": "Northern Kings",
+    "isrc": "FIWMA0800974"
+  },
+  {
+    "title": "Rise Amaterasu",
+    "artist": "Metal De Facto",
+    "isrc": "IT8SF2300336"
+  },
+  {
+    "title": "In Paradisum",
+    "artist": "Symfonia",
+    "isrc": "DEH841100109"
+  },
+  {
+    "title": "Salieri Strikes Back",
+    "artist": "Warmen",
+    "isrc": "FIUM70700194"
+  },
+  {
+    "title": "I'm Here To Save You",
+    "artist": "Arion",
+    "isrc": "FIRAN2000053"
+  },
+  {
+    "title": "Into the Fray",
+    "artist": "Jani Liimatainen, Timo Kotipelto",
+    "isrc": "ITG272200611"
+  },
+  {
+    "title": "Stars Upon Your Life",
+    "artist": "Cardiant",
+    "isrc": "FI3FC1392202"
+  },
+  {
+    "title": "Brothers",
+    "artist": "Gladenfold",
+    "isrc": "DEZ901900261"
+  },
+  {
+    "title": "SOS",
+    "artist": "Amberian Dawn",
+    "isrc": "ATN262220303"
+  }
+]

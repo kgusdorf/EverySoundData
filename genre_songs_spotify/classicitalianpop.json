@@ -1,0 +1,2412 @@
+[
+  {
+    "title": "Nell'aria",
+    "artist": "Marcella Bella",
+    "isrc": "ITM009901718"
+  },
+  {
+    "title": "L'ora dell'amore (Homburg)",
+    "artist": "I Camaleonti",
+    "isrc": "ITR006700031"
+  },
+  {
+    "title": "Riderà",
+    "artist": "Little Tony",
+    "isrc": "FR6V81073172"
+  },
+  {
+    "title": "Io ho in mente te",
+    "artist": "Equipe 84",
+    "isrc": "ITB006670510"
+  },
+  {
+    "title": "Liù",
+    "artist": "Alunni Del Sole",
+    "isrc": "ITB007870556"
+  },
+  {
+    "title": "Anima Mia",
+    "artist": "Cugini Di Campagna",
+    "isrc": "ITD569700250"
+  },
+  {
+    "title": "A chi (Hurt) - Remastered",
+    "artist": "Fausto Leali",
+    "isrc": "ITA646600280"
+  },
+  {
+    "title": "Sognando La California",
+    "artist": "Dik Dik",
+    "isrc": "USA370542124"
+  },
+  {
+    "title": "Ricominciamo",
+    "artist": "Adriano Pappalardo",
+    "isrc": "ITB007900666"
+  },
+  {
+    "title": "Troppo Bella (Per Restare Sola)",
+    "artist": "I Nuovi Angeli",
+    "isrc": "IT8007403450"
+  },
+  {
+    "title": "Maledetta primavera",
+    "artist": "Loretta Goggi",
+    "isrc": "ITQ008100011"
+  },
+  {
+    "title": "Miele",
+    "artist": "Il Giardino Dei Semplici",
+    "isrc": "USA370546603"
+  },
+  {
+    "title": "L'immensità",
+    "artist": "Don Backy",
+    "isrc": "ITA020800104"
+  },
+  {
+    "title": "Perdere l'amore",
+    "artist": "Massimo Ranieri",
+    "isrc": "ITQ008800011"
+  },
+  {
+    "title": "Lisa dagli occhi blu",
+    "artist": "Mario Tessuto",
+    "isrc": "ITR006900141"
+  },
+  {
+    "title": "Bella da morire",
+    "artist": "Homo Sapiens",
+    "isrc": "ITS040100313"
+  },
+  {
+    "title": "Calabrisella - Tradizionale",
+    "artist": "Mino Reitano",
+    "isrc": "ITD560903566"
+  },
+  {
+    "title": "Nessuno Mi Può Giudicare",
+    "artist": "Caterina Caselli",
+    "isrc": "ITR006600011"
+  },
+  {
+    "title": "Bandiera Gialla",
+    "artist": "Gianni Pettenati",
+    "isrc": "USA370535554"
+  },
+  {
+    "title": "Comprami",
+    "artist": "Viola Valentino",
+    "isrc": "ITR000790051"
+  },
+  {
+    "title": "Luglio",
+    "artist": "Riccardo Del Turco",
+    "isrc": "ITR006800011"
+  },
+  {
+    "title": "Abbronzatissima",
+    "artist": "Edoardo Vianello",
+    "isrc": "ITB008700449"
+  },
+  {
+    "title": "Amico è (Inno dell'amicizia)",
+    "artist": "Dario Baldan Bembo, Caterina Caselli",
+    "isrc": "ITR008201021"
+  },
+  {
+    "title": "Non voglio mica la luna",
+    "artist": "Fiordaliso",
+    "isrc": "ITB008670575"
+  },
+  {
+    "title": "Una ragazza in due (Down Comes the Rain)",
+    "artist": "I Giganti",
+    "isrc": "ITA646600304"
+  },
+  {
+    "title": "Splendido splendente",
+    "artist": "Donatella Rettore",
+    "isrc": "ITB007970564"
+  },
+  {
+    "title": "Mistero",
+    "artist": "Enrico Ruggeri",
+    "isrc": "ITR009300281"
+  },
+  {
+    "title": "La Bambola",
+    "artist": "Patty Pravo",
+    "isrc": "ITB006870616"
+  },
+  {
+    "title": "Luna - Remastered",
+    "artist": "Gianni Togni",
+    "isrc": "ITR001300280"
+  },
+  {
+    "title": "Portami a ballare",
+    "artist": "Luca Barbarossa",
+    "isrc": "ITD091100012"
+  },
+  {
+    "title": "Figli Delle Stelle",
+    "artist": "Alan Sorrenti",
+    "isrc": "ITD000500050"
+  },
+  {
+    "title": "Quando nasce un amore",
+    "artist": "Anna Oxa",
+    "isrc": "ITM009700600"
+  },
+  {
+    "title": "Piu' Ci Penso",
+    "artist": "Gianni Bella",
+    "isrc": "ITD569501170"
+  },
+  {
+    "title": "Una lacrima sul viso",
+    "artist": "Bobby Solo",
+    "isrc": "ITB006370663"
+  },
+  {
+    "title": "Quanto è bella lei",
+    "artist": "Gianni Nazzaro",
+    "isrc": "ITA619011314"
+  },
+  {
+    "title": "Zingara",
+    "artist": "Iva Zanicchi",
+    "isrc": "ITA646900195"
+  },
+  {
+    "title": "Bella senz'anima",
+    "artist": "Riccardo Cocciante",
+    "isrc": "ITB007401175"
+  },
+  {
+    "title": "Ti Sento",
+    "artist": "Matia Bazar",
+    "isrc": "ITPOO8500002"
+  },
+  {
+    "title": "Sapore di sale",
+    "artist": "Gino Paoli",
+    "isrc": "ITB006379623"
+  },
+  {
+    "title": "Un'estate al mare",
+    "artist": "Giuni Russo",
+    "isrc": "FR6V80433890"
+  },
+  {
+    "title": "Storie di tutti i giorni",
+    "artist": "Riccardo Fogli",
+    "isrc": "ITE010402428"
+  },
+  {
+    "title": "Vattene amore (feat. Amedeo Minghi)",
+    "artist": "Mietta, Amedeo Minghi",
+    "isrc": "ITD019000233"
+  },
+  {
+    "title": "Boccuccia di rosa",
+    "artist": "Johnny Dorelli",
+    "isrc": "DEXO42238379"
+  },
+  {
+    "title": "Stessa spiaggia stesso mare",
+    "artist": "Piero Focaccia",
+    "isrc": "ITA619704626"
+  },
+  {
+    "title": "Un'Estate Italiana (Notti Magiche)",
+    "artist": "Edoardo Bennato, Gianna Nannini",
+    "isrc": "ITZ040000602"
+  },
+  {
+    "title": "Se t'amo t'amo",
+    "artist": "Rosanna Fratello",
+    "isrc": "ITA619002936"
+  },
+  {
+    "title": "Nel blu dipinto di blu",
+    "artist": "Domenico Modugno",
+    "isrc": "ITD015800707"
+  },
+  {
+    "title": "Gli Occhi Verdi Dell'Amore",
+    "artist": "Renato Dei Profeti",
+    "isrc": "ITZ019900034"
+  },
+  {
+    "title": "Io che amo solo te",
+    "artist": "Sergio Endrigo",
+    "isrc": "ITB006300631"
+  },
+  {
+    "title": "Champagne",
+    "artist": "Peppino Di Capri",
+    "isrc": "FR6V80313952"
+  },
+  {
+    "title": "Minuetto",
+    "artist": "Mia Martini",
+    "isrc": "ITB007370550"
+  },
+  {
+    "title": "Pensiero D'Amore",
+    "artist": "Mal Dei Primitives",
+    "isrc": "ITS040600718"
+  },
+  {
+    "title": "Si può dare di più",
+    "artist": "Gianni Morandi, Enrico Ruggeri, Umberto Tozzi",
+    "isrc": "ITR008700171"
+  },
+  {
+    "title": "Amore fermati",
+    "artist": "Fred Bongusto",
+    "isrc": "ITA646300297"
+  },
+  {
+    "title": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
+    "artist": "Ron, Tosca",
+    "isrc": "ITQ009600331"
+  },
+  {
+    "title": "Io vagabondo (Che non sono altro)",
+    "artist": "Nomadi",
+    "isrc": "ITR009200111"
+  },
+  {
+    "title": "Occhi Neri Occhi Neri",
+    "artist": "Mal",
+    "isrc": "ITB006900728"
+  },
+  {
+    "title": "SU DI NOI",
+    "artist": "Pupo",
+    "isrc": "ITD560502861"
+  },
+  {
+    "title": "C'è Una Strana Espressione Nei Tuoi Occhi",
+    "artist": "The Rokes",
+    "isrc": "ITB006500590"
+  },
+  {
+    "title": "La Partita Di Pallone",
+    "artist": "Rita Pavone",
+    "isrc": "AUXN22311402"
+  },
+  {
+    "title": "Pazza",
+    "artist": "Loredana Bertè",
+    "isrc": "ITFJO2300010"
+  },
+  {
+    "title": "Quando quando quando",
+    "artist": "Tony Renis",
+    "isrc": "ITB006800736"
+  },
+  {
+    "title": "Uomini soli",
+    "artist": "Pooh",
+    "isrc": "ITR041200100"
+  },
+  {
+    "title": "Pugni chiusi",
+    "artist": "I Ribelli",
+    "isrc": "ITB006770528"
+  },
+  {
+    "title": "Cuando Calienta el Sol",
+    "artist": "Los Marcellos Ferial",
+    "isrc": "ITS040900047"
+  },
+  {
+    "title": "Amore Disperato - 2004 Remaster",
+    "artist": "Nada",
+    "isrc": "ITD000400067"
+  },
+  {
+    "title": "Il ballo di Simone",
+    "artist": "Giuliano e i notturni",
+    "isrc": "ITA646800306"
+  },
+  {
+    "title": "Sogna, Ragazzo, Sogna",
+    "artist": "Roberto Vecchioni",
+    "isrc": "ITD009900001"
+  },
+  {
+    "title": "A muso duro",
+    "artist": "Pierangelo Bertoli",
+    "isrc": "ITR007900111"
+  },
+  {
+    "title": "Mi sono innamorato di te",
+    "artist": "Luigi Tenco",
+    "isrc": "ITB006270517"
+  },
+  {
+    "title": "Era Lei",
+    "artist": "Michele Pecora",
+    "isrc": "ITZ019900048"
+  },
+  {
+    "title": "Sereno E'",
+    "artist": "Drupi",
+    "isrc": "ITB007470571"
+  },
+  {
+    "title": "Fiore Di Maggio",
+    "artist": "Fabio Concato",
+    "isrc": "IT7009403290"
+  },
+  {
+    "title": "Noi due per sempre",
+    "artist": "Dori Ghezzi, Wess",
+    "isrc": "ITB007370646"
+  },
+  {
+    "title": "Vivo sarai/Stayin' alive",
+    "artist": "I Profeti",
+    "isrc": "ITA619902444"
+  },
+  {
+    "title": "Firenze - Canzone triste",
+    "artist": "Ivan Graziani",
+    "isrc": "ITB008000789"
+  },
+  {
+    "title": "Remedios",
+    "artist": "Gabriella Ferri",
+    "isrc": "QMFMF2129324"
+  },
+  {
+    "title": "I migliori anni della nostra vita - Remastered 2019",
+    "artist": "Renato Zero",
+    "isrc": "ITH981800128"
+  },
+  {
+    "title": "Ritornerai",
+    "artist": "Bruno Lauzi",
+    "isrc": "ITR006300031"
+  },
+  {
+    "title": "Come Prima",
+    "artist": "Tony Dallara",
+    "isrc": "DEUE12430042"
+  },
+  {
+    "title": "Tutto il resto e' noia",
+    "artist": "Franco Califano",
+    "isrc": "ITB007770537"
+  },
+  {
+    "title": "Bimba dagli occhi verdi",
+    "artist": "I Teppisti dei Sogni",
+    "isrc": "ITQ740804116"
+  },
+  {
+    "title": "Cinque giorni",
+    "artist": "Michele Zarrillo",
+    "isrc": "ITB219900158"
+  },
+  {
+    "title": "Ho capito che ti amo",
+    "artist": "Wilma Goich",
+    "isrc": "ITB006470533"
+  },
+  {
+    "title": "Ho Visto Un Re",
+    "artist": "Enzo Jannacci",
+    "isrc": "ITB006800609"
+  },
+  {
+    "title": "Generale",
+    "artist": "Francesco De Gregori",
+    "isrc": "ITB007701007"
+  },
+  {
+    "title": "Chitarra romana",
+    "artist": "Claudio Villa",
+    "isrc": "ITD015803503"
+  },
+  {
+    "title": "Il mondo",
+    "artist": "Jimmy Fontana",
+    "isrc": "ITB006500604"
+  },
+  {
+    "title": "Eppur mi son scordato di te",
+    "artist": "Formula 3",
+    "isrc": "ITB007100796"
+  },
+  {
+    "title": "La mia banda suona il rock",
+    "artist": "Ivano Fossati",
+    "isrc": "ITB007900942"
+  },
+  {
+    "title": "Ancora",
+    "artist": "Eduardo De Crescenzo",
+    "isrc": "ITB008170506"
+  },
+  {
+    "title": "Teorema",
+    "artist": "Marco Ferradini",
+    "isrc": "USA370535357"
+  },
+  {
+    "title": "Tornero'",
+    "artist": "I Santo California",
+    "isrc": "USA370542553"
+  },
+  {
+    "title": "Cacao Meravigliao",
+    "artist": "Renzo Arbore, Paola Cortellesi, Nino Frassica",
+    "isrc": "ITE038800001"
+  },
+  {
+    "title": "1950",
+    "artist": "Amedeo Minghi",
+    "isrc": "IT0BZ8300115"
+  },
+  {
+    "title": "Bang Bang",
+    "artist": "I Corvi",
+    "isrc": "FR2X41537650"
+  },
+  {
+    "title": "Bambini",
+    "artist": "Paola Turci",
+    "isrc": "FR6V80408312"
+  },
+  {
+    "title": "Ma il cielo è sempre più blu",
+    "artist": "Rino Gaetano",
+    "isrc": "ITB008400575"
+  },
+  {
+    "title": "Milano E Vincenzo",
+    "artist": "Alberto Fortis",
+    "isrc": "IT7009101410"
+  },
+  {
+    "title": "L'appuntamento",
+    "artist": "Ornella Vanoni",
+    "isrc": "ITB007071645"
+  },
+  {
+    "title": "Io Ho in Mente Te",
+    "artist": "Maurizio Vandelli",
+    "isrc": "TCABM1362990"
+  },
+  {
+    "title": "Non Succederà Più - Remastered 2009",
+    "artist": "Claudia Mori, Adriano Celentano",
+    "isrc": "ITR050900002"
+  },
+  {
+    "title": "Ti Amo",
+    "artist": "Umberto Tozzi",
+    "isrc": "ITR007700021"
+  },
+  {
+    "title": "Mare mare",
+    "artist": "Luca Carboni",
+    "isrc": "ITB009100898"
+  },
+  {
+    "title": "Pietre",
+    "artist": "Gian Pieretti",
+    "isrc": "ITD560201459"
+  },
+  {
+    "title": "Il Pullover",
+    "artist": "Gianni Meccia",
+    "isrc": "ITD569700394"
+  },
+  {
+    "title": "Notte prima degli esami",
+    "artist": "Antonello Venditti",
+    "isrc": "ITG028400001"
+  },
+  {
+    "title": "L'Emozione Non Ha voce (Io Non So Parlar D'Amore)",
+    "artist": "Adriano Celentano",
+    "isrc": "ITR059900002"
+  },
+  {
+    "title": "Sotto questo sole",
+    "artist": "Francesco Baccini, Ladri Di Biciclette",
+    "isrc": "ITR009000061"
+  },
+  {
+    "title": "Bello e impossibile",
+    "artist": "Gianna Nannini",
+    "isrc": "ITB000900808"
+  },
+  {
+    "title": "Come Due Bambini - 2004 Remaster",
+    "artist": "La Bottega Dell'Arte",
+    "isrc": "ITD000400471"
+  },
+  {
+    "title": "Mariposa",
+    "artist": "Fiorella Mannoia",
+    "isrc": "ITAK72400001"
+  },
+  {
+    "title": "Tropicana",
+    "artist": "Gruppo Italiano",
+    "isrc": "ITB008570567"
+  },
+  {
+    "title": "Città vuota",
+    "artist": "Mina",
+    "isrc": "ITA646500132"
+  },
+  {
+    "title": "Sorprendimi",
+    "artist": "Stadio",
+    "isrc": "ITD000200054"
+  },
+  {
+    "title": "E, la vita la vita",
+    "artist": "Cochi e Renato",
+    "isrc": "ITZ040700018"
+  },
+  {
+    "title": "Un Corpo E Un'Anima",
+    "artist": "Wess",
+    "isrc": "USA370534841"
+  },
+  {
+    "title": "A chi",
+    "artist": "Paolo Mengoli",
+    "isrc": "DEP068100114"
+  },
+  {
+    "title": "Bella stronza",
+    "artist": "Marco Masini",
+    "isrc": "ITB009500587"
+  },
+  {
+    "title": "Questo piccolo grande amore",
+    "artist": "Claudio Baglioni",
+    "isrc": "ITB007200861"
+  },
+  {
+    "title": "Felicità (Happyness)",
+    "artist": "Al Bano, Romina Power",
+    "isrc": "ITG830800001"
+  },
+  {
+    "title": "E se qualcuno s'innamorerà di me (La playa)",
+    "artist": "Marisa Sannia",
+    "isrc": "ITD016803538"
+  },
+  {
+    "title": "Se Mi Vuoi Lasciare",
+    "artist": "Michele",
+    "isrc": "ITB006300898"
+  },
+  {
+    "title": "Caruso",
+    "artist": "Lucio Dalla",
+    "isrc": "ITB008600207"
+  },
+  {
+    "title": "Extraterrestre",
+    "artist": "Eugenio Finardi",
+    "isrc": "ITQ009000191"
+  },
+  {
+    "title": "Il mio canto libero",
+    "artist": "Lucio Battisti",
+    "isrc": "ITB001701090"
+  },
+  {
+    "title": "El Jardín Prohibido",
+    "artist": "Sandro Giacobbe",
+    "isrc": "ES5379900132"
+  },
+  {
+    "title": "Io non mi sento italiano",
+    "artist": "Giorgio Gaber",
+    "isrc": "ITR000200133"
+  },
+  {
+    "title": "Quella carezza della sera",
+    "artist": "New Trolls",
+    "isrc": "ITQ007800203"
+  },
+  {
+    "title": "Ti rockerò",
+    "artist": "Heather Parisi",
+    "isrc": "ITR008000361"
+  },
+  {
+    "title": "Una vespa in 2 (feat. Fiorello)",
+    "artist": "Orietta Berti, Fiorello",
+    "isrc": "ITG472400022"
+  },
+  {
+    "title": "Per Elisa",
+    "artist": "Alice",
+    "isrc": "ITD008100001"
+  },
+  {
+    "title": "Pregherei - Let The Day",
+    "artist": "Scialpi",
+    "isrc": "ITB008700541"
+  },
+  {
+    "title": "Call Me",
+    "artist": "Ivana Spagna",
+    "isrc": "ITM000102883"
+  },
+  {
+    "title": "Guarda che luna",
+    "artist": "Fred Buscaglione",
+    "isrc": "ITD015903495"
+  },
+  {
+    "title": "Se mi vuoi",
+    "artist": "Irene Grandi, Pino Daniele",
+    "isrc": "ITR009500231"
+  },
+  {
+    "title": "Giudizi universali",
+    "artist": "Samuele Bersani",
+    "isrc": "ITK009700011"
+  },
+  {
+    "title": "All'improvviso l'incoscienza",
+    "artist": "Roberto Soffici",
+    "isrc": "ITA619602198"
+  },
+  {
+    "title": "Meravigliosamente",
+    "artist": "I Cugini Di Campagna",
+    "isrc": "ITD560200428"
+  },
+  {
+    "title": "Cambiare",
+    "artist": "Alex Baroni",
+    "isrc": "ITA459700002"
+  },
+  {
+    "title": "Ti regalerò una rosa",
+    "artist": "Simone Cristicchi",
+    "isrc": "ITB000700064"
+  },
+  {
+    "title": "Legata a un granello di sabbia",
+    "artist": "Nico Fidenco",
+    "isrc": "ITB006100172"
+  },
+  {
+    "title": "Nata Libera",
+    "artist": "Leano Morelli",
+    "isrc": "IT7009914420"
+  },
+  {
+    "title": "Salirò",
+    "artist": "Daniele Silvestri",
+    "isrc": "ITC440200001"
+  },
+  {
+    "title": "Per Chi",
+    "artist": "Gens",
+    "isrc": "USA370543060"
+  },
+  {
+    "title": "Rock 'n' Roll Robot",
+    "artist": "Alberto Camerini",
+    "isrc": "ITM000001880"
+  },
+  {
+    "title": "Dedicato A Te",
+    "artist": "Le Vibrazioni",
+    "isrc": "ITB000300003"
+  },
+  {
+    "title": "Un sabato italiano",
+    "artist": "Sergio Caputo",
+    "isrc": "ITR008300191"
+  },
+  {
+    "title": "Self Control",
+    "artist": "Raf",
+    "isrc": "ITR008400531"
+  },
+  {
+    "title": "Sarà perché ti amo",
+    "artist": "Ricchi E Poveri",
+    "isrc": "USBI10000112"
+  },
+  {
+    "title": "La Cura",
+    "artist": "Franco Battiato",
+    "isrc": "IT7009609320"
+  },
+  {
+    "title": "Tanto pè cantà",
+    "artist": "Nino Manfredi",
+    "isrc": "ITB000200456"
+  },
+  {
+    "title": "Piccolo fiore",
+    "artist": "Enrico Musiani",
+    "isrc": "FR6V81075805"
+  },
+  {
+    "title": "Cirano",
+    "artist": "Francesco Guccini",
+    "isrc": "ITD009600062"
+  },
+  {
+    "title": "Ho scritto t'amo sulla sabbia",
+    "artist": "Franco IV e Franco I",
+    "isrc": "ITE010307380"
+  },
+  {
+    "title": "Scrivimi",
+    "artist": "Nino Buonocore",
+    "isrc": "ITD009000034"
+  },
+  {
+    "title": "La notte vola",
+    "artist": "Lorella Cuccarini",
+    "isrc": "ITZ038901253"
+  },
+  {
+    "title": "Quando m'innamoro",
+    "artist": "Anna Identici",
+    "isrc": "ITB006870744"
+  },
+  {
+    "title": "Il pescatore",
+    "artist": "Fabrizio De André",
+    "isrc": "ITB007071662"
+  },
+  {
+    "title": "Non Ci Sto",
+    "artist": "Syria",
+    "isrc": "ITE039600012"
+  },
+  {
+    "title": "Se adesso te ne vai",
+    "artist": "Massimo Di Cataldo",
+    "isrc": "ITM009500268"
+  },
+  {
+    "title": "Tutto quello che un uomo",
+    "artist": "Sergio Cammariere",
+    "isrc": "ITC930300001"
+  },
+  {
+    "title": "Primavera (You To Me Are Everything)",
+    "artist": "Marina Rei",
+    "isrc": "ITPOO9700059"
+  },
+  {
+    "title": "Come Pioveva",
+    "artist": "Beans",
+    "isrc": "ITQ740800077"
+  },
+  {
+    "title": "Occhi di sole",
+    "artist": "I Bisonti",
+    "isrc": "DEBL60934113"
+  },
+  {
+    "title": "L'italiano",
+    "artist": "Toto Cutugno",
+    "isrc": "ITB268300025"
+  },
+  {
+    "title": "Il nostro concerto",
+    "artist": "Umberto Bindi",
+    "isrc": "ITB006070567"
+  },
+  {
+    "title": "Come Foglie",
+    "artist": "Malika Ayane",
+    "isrc": "ITZ040800098"
+  },
+  {
+    "title": "Felicità",
+    "artist": "Al Bano And Romina Power",
+    "isrc": "USBI10000114"
+  },
+  {
+    "title": "Parole",
+    "artist": "Nico Dei Gabbiani",
+    "isrc": "USA370546879"
+  },
+  {
+    "title": "Tu Mi Rubi L'Anima",
+    "artist": "I Collage",
+    "isrc": "USA370545864"
+  },
+  {
+    "title": "Una Su 1.000.000",
+    "artist": "Alex Britti",
+    "isrc": "ITH000000600"
+  },
+  {
+    "title": "I Miei Giorni Felici",
+    "artist": "Santino Rocchetti",
+    "isrc": "USA370542174"
+  },
+  {
+    "title": "Voglia di morire",
+    "artist": "I Panda",
+    "isrc": "IT0900400017"
+  },
+  {
+    "title": "Semo gente de borgata",
+    "artist": "I Vianella",
+    "isrc": "ITB007901441"
+  },
+  {
+    "title": "Sott'er celo de Roma",
+    "artist": "Teddy Reno",
+    "isrc": "ITS041600300"
+  },
+  {
+    "title": "Un Po’ Di Cielo",
+    "artist": "Renato Rascel",
+    "isrc": "USA560676256"
+  },
+  {
+    "title": "Sarà quel che sarà",
+    "artist": "Tiziana Rivale",
+    "isrc": "ITA619603165"
+  },
+  {
+    "title": "Una zebra a pois / Tintarella di luna",
+    "artist": "Ivan Cattaneo",
+    "isrc": "ITR008100481"
+  },
+  {
+    "title": "Look for Sympathy",
+    "artist": "Luciano Rossi, William Blackaby, Glenn Herweijer, Ben Sumner, FFM",
+    "isrc": "GBLNL1700433"
+  },
+  {
+    "title": "Non ho l'età (Per amarti)",
+    "artist": "Gigliola Cinquetti",
+    "isrc": "ITR006400011"
+  },
+  {
+    "title": "Iris (Tra Le Tue Poesie)",
+    "artist": "Biagio Antonacci",
+    "isrc": "IT7009813540"
+  },
+  {
+    "title": "Voglia Di Mare",
+    "artist": "I Romans",
+    "isrc": "USA560761744"
+  },
+  {
+    "title": "50 Special",
+    "artist": "Lùnapop",
+    "isrc": "NLE880200019"
+  },
+  {
+    "title": "Innamorati a Milano",
+    "artist": "Memo Remigi",
+    "isrc": "ITA646501052"
+  },
+  {
+    "title": "Je So' Pazzo - Remastered 2008",
+    "artist": "Pino Daniele",
+    "isrc": "ITD000800061"
+  },
+  {
+    "title": "Che cossè l'amor - 2018 Remaster",
+    "artist": "Vinicio Capossela",
+    "isrc": "ITQ001800274"
+  },
+  {
+    "title": "Non si può morire dentro",
+    "artist": "Franco Tozzi",
+    "isrc": "ITA619313070"
+  },
+  {
+    "title": "Per un'ora d'amore (feat. Subsonica)",
+    "artist": "Antonella Ruggiero, Subsonica",
+    "isrc": "ITC850300041"
+  },
+  {
+    "title": "Brutta",
+    "artist": "Alessandro Canino",
+    "isrc": "ITA619902828"
+  },
+  {
+    "title": "La Descrizione Di Un Attimo",
+    "artist": "Tiromancino",
+    "isrc": "ITPOO0000010"
+  },
+  {
+    "title": "L Ultimo Bacio",
+    "artist": "Carmen Consoli",
+    "isrc": "IT7500000350"
+  },
+  {
+    "title": "Una storia disonesta",
+    "artist": "Stefano Rosso",
+    "isrc": "ITB007600681"
+  },
+  {
+    "title": "Il Solito Sesso",
+    "artist": "Max Gazzè",
+    "isrc": "DEBL61073899"
+  },
+  {
+    "title": "Il Mio Nome E' Mai Più",
+    "artist": "Piero Pelù",
+    "isrc": "ITB001800722"
+  },
+  {
+    "title": "Guaglione",
+    "artist": "Aurelio Fierro",
+    "isrc": "FRX282359469"
+  },
+  {
+    "title": "La Forza Della Vita",
+    "artist": "Paolo Vallesi",
+    "isrc": "ITZ049700182"
+  },
+  {
+    "title": "Sono tremendo",
+    "artist": "Rocky Roberts",
+    "isrc": "ITB006870554"
+  },
+  {
+    "title": "Chariot",
+    "artist": "Betty Curtis",
+    "isrc": "ITR006200041"
+  },
+  {
+    "title": "Come saprei",
+    "artist": "Giorgia",
+    "isrc": "IT00Y9900016"
+  },
+  {
+    "title": "La nave va",
+    "artist": "Aleandro Baldi",
+    "isrc": "ITR008600211"
+  },
+  {
+    "title": "Nina",
+    "artist": "Mario Castelnuovo",
+    "isrc": "ITB008300508"
+  },
+  {
+    "title": "Domo mia - Live",
+    "artist": "Tazenda",
+    "isrc": "FR6V80141375"
+  },
+  {
+    "title": "Mi Historia Entre Tus Dedos - Remastered 2020",
+    "artist": "Gianluca Grignani",
+    "isrc": "ITUM72000030"
+  },
+  {
+    "title": "Era bella (Nothin' Rhymed)",
+    "artist": "Renato E I Profeti",
+    "isrc": "ITR007100051"
+  },
+  {
+    "title": "Gli Occhi Miei",
+    "artist": "Dino",
+    "isrc": "USA560858441"
+  },
+  {
+    "title": "Parigi addio",
+    "artist": "Mino Vergnaghi",
+    "isrc": "ITA647801321"
+  },
+  {
+    "title": "Fango",
+    "artist": "Ricky Gianco",
+    "isrc": "ITB007901237"
+  },
+  {
+    "title": "La notte",
+    "artist": "Arisa",
+    "isrc": "ITQ001200002"
+  },
+  {
+    "title": "Non amarmi",
+    "artist": "Francesca Alotta, Aleandro Baldi",
+    "isrc": "ITB009270504"
+  },
+  {
+    "title": "Tu Vuo' Fa L'Americano - Vocal",
+    "artist": "Fiorello, Matt Damon, Jude Law, The Guy Barker International Quintet",
+    "isrc": "USSM19923599"
+  },
+  {
+    "title": "Tu Vuo Fà L'Americano",
+    "artist": "Renato Carosone",
+    "isrc": "ITD005700002"
+  },
+  {
+    "title": "Ciao Mare",
+    "artist": "Raoul Casadei",
+    "isrc": "ITB007370618"
+  },
+  {
+    "title": "La filanda (E`ou nao è)",
+    "artist": "Milva",
+    "isrc": "ITB007170526"
+  },
+  {
+    "title": "Mille volte",
+    "artist": "Nilla Pizzi",
+    "isrc": "CA5KR2135726"
+  },
+  {
+    "title": "Una bambolina che fa no no",
+    "artist": "I Quelli",
+    "isrc": "ITB006670629"
+  },
+  {
+    "title": "A casa di Luca",
+    "artist": "Silvia Salemi",
+    "isrc": "FRX451569491"
+  },
+  {
+    "title": "E' la vita",
+    "artist": "Marco Armani",
+    "isrc": "ITA619904072"
+  },
+  {
+    "title": "E Va' E Va'",
+    "artist": "Alberto Sordi",
+    "isrc": "ITE038100001"
+  },
+  {
+    "title": "Malafemmena",
+    "artist": "Roberto Murolo",
+    "isrc": "ITB006370569"
+  },
+  {
+    "title": "Angelo blu",
+    "artist": "Gepy e Gepy",
+    "isrc": "FR6V80585970"
+  },
+  {
+    "title": "Se Tu Vuoi",
+    "artist": "Flavia Fortunato",
+    "isrc": "DEP068800106"
+  },
+  {
+    "title": "E...",
+    "artist": "Vasco Rossi",
+    "isrc": "ITUM71700288"
+  },
+  {
+    "title": "Al di là",
+    "artist": "Luciano Tajoli",
+    "isrc": "ITA618005469"
+  },
+  {
+    "title": "Le ragazze di Gauguin",
+    "artist": "Grazia Di Michele",
+    "isrc": "ITQ008600031"
+  },
+  {
+    "title": "Carina - 2004 Remaster",
+    "artist": "Nicola Arigliano",
+    "isrc": "ITD000400022"
+  },
+  {
+    "title": "Balla",
+    "artist": "Umberto Rosario Balsamo",
+    "isrc": "IT8007903630"
+  },
+  {
+    "title": "Estate",
+    "artist": "Bruno Martino",
+    "isrc": "ITB007271239"
+  },
+  {
+    "title": "Mia",
+    "artist": "Gatto Panceri",
+    "isrc": "IT8009706780"
+  },
+  {
+    "title": "Chella lla'",
+    "artist": "Nino Taranto",
+    "isrc": "ITD015600520"
+  },
+  {
+    "title": "Vivere",
+    "artist": "Gerardina Trovato, Andrea Bocelli",
+    "isrc": "ITZ049700102"
+  },
+  {
+    "title": "Pedro",
+    "artist": "Raffaella Carrà",
+    "isrc": "ITM009900696"
+  },
+  {
+    "title": "Il Principe Ali",
+    "artist": "Gigi Proietti",
+    "isrc": "USWD10526538"
+  },
+  {
+    "title": "La ballata dell'uomo in piu",
+    "artist": "Peppino Gagliardi",
+    "isrc": "FR6V81304024"
+  },
+  {
+    "title": "Balla (New Vocal Version)",
+    "artist": "Umberto Balsamo",
+    "isrc": "ITB409500017"
+  },
+  {
+    "title": "Marina",
+    "artist": "Rocco Granata",
+    "isrc": "BEZ685900001"
+  },
+  {
+    "title": "El Corazon Es Un Gitano",
+    "artist": "Nicola Di Bari",
+    "isrc": "ITB007100136"
+  },
+  {
+    "title": "Bada Caterina",
+    "artist": "Carmen Villani",
+    "isrc": "USA370535326"
+  },
+  {
+    "title": "Donna felicita'",
+    "artist": "Nuovi Angeli",
+    "isrc": "ITZ019900314"
+  },
+  {
+    "title": "L'isola del tesoro",
+    "artist": "Lino Toffolo",
+    "isrc": "ITF732300053"
+  },
+  {
+    "title": "Eternità",
+    "artist": "I Camaleonti",
+    "isrc": "ITA619501383"
+  },
+  {
+    "title": "Montagne verdi",
+    "artist": "Marcella Bella",
+    "isrc": "ITR007200361"
+  },
+  {
+    "title": "Cuore matto",
+    "artist": "Little Tony",
+    "isrc": "ITB006770550"
+  },
+  {
+    "title": "Tutta mia la città",
+    "artist": "Equipe 84",
+    "isrc": "ITB006970513"
+  },
+  {
+    "title": "Concerto",
+    "artist": "Alunni Del Sole",
+    "isrc": "ITB007370561"
+  },
+  {
+    "title": "Io amo - 2003 Remaster",
+    "artist": "Fausto Leali",
+    "isrc": "ITE010308257"
+  },
+  {
+    "title": "Un' Altra Donna",
+    "artist": "Cugini Di Campagna",
+    "isrc": "ITD569700258"
+  },
+  {
+    "title": "L'Isola Di Wight",
+    "artist": "Dik Dik",
+    "isrc": "USA370542125"
+  },
+  {
+    "title": "The Genie",
+    "artist": "Adriano Pappalardo",
+    "isrc": "ITC040303490"
+  },
+  {
+    "title": "Donna felicita - Piano version",
+    "artist": "I Nuovi Angeli",
+    "isrc": "DEP068900106"
+  },
+  {
+    "title": "Tu ca nun chiagne",
+    "artist": "Il Giardino Dei Semplici",
+    "isrc": "ITD560200723"
+  },
+  {
+    "title": "Sognando",
+    "artist": "Don Backy",
+    "isrc": "ITA020800011"
+  },
+  {
+    "title": "Se bruciasse la città",
+    "artist": "Massimo Ranieri",
+    "isrc": "ITR006900011"
+  },
+  {
+    "title": "Gli occhi verdi dell'amore",
+    "artist": "Mario Tessuto",
+    "isrc": "ITA616902061"
+  },
+  {
+    "title": "Pieno d'amore",
+    "artist": "Loretta Goggi",
+    "isrc": "ITQ008200021"
+  },
+  {
+    "title": "Un'estate fa (Une belle histoire)",
+    "artist": "Homo Sapiens",
+    "isrc": "ITA647200429"
+  },
+  {
+    "title": "Una chitarra cento illusioni",
+    "artist": "Mino Reitano",
+    "isrc": "FR6V81983582"
+  },
+  {
+    "title": "Bandiera gialla",
+    "artist": "Gianni Pettenati",
+    "isrc": "ITD016600279"
+  },
+  {
+    "title": "Insieme A Te Non Ci Sto Più",
+    "artist": "Caterina Caselli",
+    "isrc": "ITR006800041"
+  },
+  {
+    "title": "Uno tranquillo",
+    "artist": "Riccardo Del Turco",
+    "isrc": "FR2X41674992"
+  },
+  {
+    "title": "Sola",
+    "artist": "Viola Valentino",
+    "isrc": "ITD560201307"
+  },
+  {
+    "title": "Guarda Come Dondolo",
+    "artist": "Edoardo Vianello",
+    "isrc": "ITB006200661"
+  },
+  {
+    "title": "TU COSA FAI STASERA",
+    "artist": "Dario Baldan Bembo",
+    "isrc": "USDY42465387"
+  },
+  {
+    "title": "Yo No Te Pido La Luna",
+    "artist": "Fiordaliso",
+    "isrc": "ITE019700583"
+  },
+  {
+    "title": "Peter Pan",
+    "artist": "Enrico Ruggeri",
+    "isrc": "ITR009100101"
+  },
+  {
+    "title": "Pensiero stupendo",
+    "artist": "Patty Pravo",
+    "isrc": "ITB007701035"
+  },
+  {
+    "title": "Tema",
+    "artist": "I Giganti",
+    "isrc": "ITA646600301"
+  },
+  {
+    "title": "Kobra",
+    "artist": "Donatella Rettore",
+    "isrc": "ITB008070637"
+  },
+  {
+    "title": "Giulia",
+    "artist": "Gianni Togni",
+    "isrc": "ITR008400501"
+  },
+  {
+    "title": "Via Margutta",
+    "artist": "Luca Barbarossa",
+    "isrc": "ITD091100016"
+  },
+  {
+    "title": "Un'emozione da poco",
+    "artist": "Anna Oxa",
+    "isrc": "ITB007800565"
+  },
+  {
+    "title": "Tu Sei L'Unica Donna Per Me - 2005 Remaster",
+    "artist": "Alan Sorrenti",
+    "isrc": "ITD000500059"
+  },
+  {
+    "title": "De Amor Ya No Se Muere",
+    "artist": "Gianni Bella",
+    "isrc": "ITD561400096"
+  },
+  {
+    "title": "Una Lacrima Sul Viso",
+    "artist": "Bobby Solo",
+    "isrc": "USA370534628"
+  },
+  {
+    "title": "A modo mio",
+    "artist": "Gianni Nazzaro",
+    "isrc": "ITA619011327"
+  },
+  {
+    "title": "Margherita",
+    "artist": "Riccardo Cocciante",
+    "isrc": "ITB007600636"
+  },
+  {
+    "title": "Non pensare a me",
+    "artist": "Iva Zanicchi",
+    "isrc": "ITA646700200"
+  },
+  {
+    "title": "Solo Tu - 1996 Digital Remaster",
+    "artist": "Matia Bazar",
+    "isrc": "ITPOO9600070"
+  },
+  {
+    "title": "Alghero",
+    "artist": "Giuni Russo",
+    "isrc": "FR6V80433887"
+  },
+  {
+    "title": "Il cielo in una stanza",
+    "artist": "Gino Paoli",
+    "isrc": "ITB008700476"
+  },
+  {
+    "title": "Per Lucia",
+    "artist": "Riccardo Fogli",
+    "isrc": "ITD560201283"
+  },
+  {
+    "title": "Canzoni",
+    "artist": "Mietta",
+    "isrc": "ITD019000241"
+  },
+  {
+    "title": "L'immensità",
+    "artist": "Johnny Dorelli",
+    "isrc": "ITR006700021"
+  },
+  {
+    "title": "Stessa Spiaggia Stesso Mare",
+    "artist": "Piero Focaccia",
+    "isrc": "USA370542944"
+  },
+  {
+    "title": "Il Tango Delle Capinere",
+    "artist": "Rosanna Fratello",
+    "isrc": "ITB007470609"
+  },
+  {
+    "title": "Viva la Mamma! - Version 2",
+    "artist": "Edoardo Bennato",
+    "isrc": "FR6V89603554"
+  },
+  {
+    "title": "Era Bella",
+    "artist": "Renato Dei Profeti",
+    "isrc": "ITZ010305101"
+  },
+  {
+    "title": "Canzone per te",
+    "artist": "Sergio Endrigo",
+    "isrc": "ITD010003182"
+  },
+  {
+    "title": "Meraviglioso",
+    "artist": "Domenico Modugno",
+    "isrc": "ITB007271147"
+  },
+  {
+    "title": "Roberta",
+    "artist": "Peppino Di Capri",
+    "isrc": "DEZZ42172615"
+  },
+  {
+    "title": "Furia",
+    "artist": "Mal Dei Primitives",
+    "isrc": "ITS040600507"
+  },
+  {
+    "title": "Fatti mandare dalla mamma a prendere il latte",
+    "artist": "Gianni Morandi",
+    "isrc": "ITB006200780"
+  },
+  {
+    "title": "Piccolo uomo",
+    "artist": "Mia Martini",
+    "isrc": "ITB007270532"
+  },
+  {
+    "title": "Una Rotonda Sul Mare",
+    "artist": "Fred Bongusto",
+    "isrc": "NLRD52346733"
+  },
+  {
+    "title": "Non abbiam bisogno di parole",
+    "artist": "Ron",
+    "isrc": "ITQ009200011"
+  },
+  {
+    "title": "Pensiero d'amore",
+    "artist": "Mal",
+    "isrc": "ITB006900684"
+  },
+  {
+    "title": "Io voglio vivere",
+    "artist": "Nomadi",
+    "isrc": "ITR000300023"
+  },
+  {
+    "title": "Che colpa abbiamo noi",
+    "artist": "The Rokes",
+    "isrc": "ITB006600638"
+  },
+  {
+    "title": "Datemi Un Martello",
+    "artist": "Rita Pavone",
+    "isrc": "AUXN22311403"
+  },
+  {
+    "title": "Forse",
+    "artist": "Pupo",
+    "isrc": "ITD560502870"
+  },
+  {
+    "title": "Nel Sole, Nel Vento, Nel Sorriso E Nel Pianto",
+    "artist": "I Ribelli",
+    "isrc": "ITB006870527"
+  },
+  {
+    "title": "Dammi solo un minuto - 2014 Remaster",
+    "artist": "Pooh",
+    "isrc": "ITR001400162"
+  },
+  {
+    "title": "Non sono una signora",
+    "artist": "Loredana Bertè",
+    "isrc": "ITR008200751"
+  },
+  {
+    "title": "Non Sei Mariù Stasera - Digital Remaster 2004",
+    "artist": "Tony Renis",
+    "isrc": "ITD000400097"
+  },
+  {
+    "title": "Cuando calienta el sol",
+    "artist": "Los Marcellos Ferial",
+    "isrc": "QM7281491135"
+  },
+  {
+    "title": "Ma Che Freddo Fa",
+    "artist": "Nada",
+    "isrc": "ITB006900687"
+  },
+  {
+    "title": "Ragazzina ragazzina",
+    "artist": "Giuliano e i notturni",
+    "isrc": "ITA646900929"
+  },
+  {
+    "title": "Samarcanda - 1997 Digital Remaster",
+    "artist": "Roberto Vecchioni",
+    "isrc": "ITK400600054"
+  },
+  {
+    "title": "Eppure soffia",
+    "artist": "Pierangelo Bertoli",
+    "isrc": "ITR007600121"
+  },
+  {
+    "title": "Lontano, lontano",
+    "artist": "Luigi Tenco",
+    "isrc": "ITB006600628"
+  },
+  {
+    "title": "Era lei",
+    "artist": "Michele Pecora",
+    "isrc": "TCAGW2323747"
+  },
+  {
+    "title": "Piccola e fragile",
+    "artist": "Drupi",
+    "isrc": "ITB007470613"
+  },
+  {
+    "title": "Un corpo e un'anima",
+    "artist": "Dori Ghezzi, Wess",
+    "isrc": "ITB007470684"
+  },
+  {
+    "title": "Domenica Bestiale",
+    "artist": "Fabio Concato",
+    "isrc": "IT7000300357"
+  },
+  {
+    "title": "Fiore di carta/How deep is your love",
+    "artist": "I Profeti",
+    "isrc": "ITA619902445"
+  },
+  {
+    "title": "Lugano addio",
+    "artist": "Ivan Graziani",
+    "isrc": "ITB007701049"
+  },
+  {
+    "title": "Dove sta zazà",
+    "artist": "Gabriella Ferri",
+    "isrc": "ITB007100749"
+  },
+  {
+    "title": "Cercami",
+    "artist": "Renato Zero",
+    "isrc": "ITH981000089"
+  },
+  {
+    "title": "La Tartaruga",
+    "artist": "Bruno Lauzi",
+    "isrc": "ITB007500886"
+  },
+  {
+    "title": "Norma",
+    "artist": "Tony Dallara",
+    "isrc": "DEUE12430047"
+  },
+  {
+    "title": "Io Non Piango",
+    "artist": "Franco Califano",
+    "isrc": "ITB007770546"
+  },
+  {
+    "title": "Salverò il mio amore",
+    "artist": "I Teppisti dei Sogni",
+    "isrc": "ITQ740804122"
+  },
+  {
+    "title": "Una rosa blu",
+    "artist": "Michele Zarrillo",
+    "isrc": "ITB219900156"
+  },
+  {
+    "title": "Le Colline Sono In Fiore",
+    "artist": "Wilma Goich",
+    "isrc": "ITD560201218"
+  },
+  {
+    "title": "Vengo Anch'Io No Tu No",
+    "artist": "Enzo Jannacci",
+    "isrc": "ITB008700488"
+  },
+  {
+    "title": "Rimmel",
+    "artist": "Francesco De Gregori",
+    "isrc": "ITB007401283"
+  },
+  {
+    "title": "Claudio Villa a mezza voce (Stornelli amorosi - Parte I)",
+    "artist": "Claudio Villa",
+    "isrc": "ITD015703536"
+  },
+  {
+    "title": "Con il nastro rosa",
+    "artist": "Formula 3",
+    "isrc": "ITA619301939"
+  },
+  {
+    "title": "Il Mondo",
+    "artist": "Jimmy Fontana",
+    "isrc": "USA370543209"
+  },
+  {
+    "title": "La costruzione di un amore",
+    "artist": "Ivano Fossati",
+    "isrc": "ITB008000668"
+  },
+  {
+    "title": "Mani",
+    "artist": "Eduardo De Crescenzo",
+    "isrc": "ITB008270503"
+  },
+  {
+    "title": "Schiavo Senza Catene",
+    "artist": "Marco Ferradini",
+    "isrc": "USA370535355"
+  },
+  {
+    "title": "Tornerò",
+    "artist": "I Santo California",
+    "isrc": "DEP067500105"
+  },
+  {
+    "title": "Piove",
+    "artist": "Renzo Arbore",
+    "isrc": "ITD150200160"
+  },
+  {
+    "title": "Ragazzo Di Strada",
+    "artist": "I Corvi",
+    "isrc": "USA370514208"
+  },
+  {
+    "title": "Cantare è d'amore",
+    "artist": "Amedeo Minghi",
+    "isrc": "ITQ019900116"
+  },
+  {
+    "title": "Gianna",
+    "artist": "Rino Gaetano",
+    "isrc": "ITB008400565"
+  },
+  {
+    "title": "Volo così",
+    "artist": "Paola Turci",
+    "isrc": "FR6V80408303"
+  },
+  {
+    "title": "Settembre",
+    "artist": "Alberto Fortis",
+    "isrc": "IT7009101430"
+  },
+  {
+    "title": "Bang Bang",
+    "artist": "Maurizio Vandelli",
+    "isrc": "TCABM1362971"
+  },
+  {
+    "title": "La voglia, la pazzia",
+    "artist": "Ornella Vanoni, Toquinho, Vinícius de Moraes",
+    "isrc": "ITR007601026"
+  },
+  {
+    "title": "Gloria",
+    "artist": "Umberto Tozzi",
+    "isrc": "ITR007900051"
+  },
+  {
+    "title": "Buonasera Dottore - New Mix Version",
+    "artist": "Claudia Mori",
+    "isrc": "ITR050900001"
+  },
+  {
+    "title": "Ci vuole un fisico bestiale",
+    "artist": "Luca Carboni",
+    "isrc": "ITB009100895"
+  },
+  {
+    "title": "Il Vento Dell'Est",
+    "artist": "Gian Pieretti",
+    "isrc": "USA370547033"
+  },
+  {
+    "title": "Patatina (Remastered)",
+    "artist": "Gianni Meccia",
+    "isrc": "CA5KR2009836"
+  },
+  {
+    "title": "Unica",
+    "artist": "Antonello Venditti",
+    "isrc": "ITG021100002"
+  },
+  {
+    "title": "Azzurro - Remastered",
+    "artist": "Adriano Celentano",
+    "isrc": "ITR051100024"
+  },
+  {
+    "title": "Le donne di Modena",
+    "artist": "Francesco Baccini",
+    "isrc": "ITR009000021"
+  },
+  {
+    "title": "Amore Nei Ricordi - 2004 Remaster",
+    "artist": "La Bottega Dell'Arte",
+    "isrc": "ITD000400472"
+  },
+  {
+    "title": "Sei Nell'Anima",
+    "artist": "Gianna Nannini",
+    "isrc": "ITUM70500274"
+  },
+  {
+    "title": "Anni ruggenti",
+    "artist": "Gruppo Italiano",
+    "isrc": "ITB008470543"
+  },
+  {
+    "title": "Quello che le donne non dicono",
+    "artist": "Fiorella Mannoia",
+    "isrc": "ITM000300416"
+  },
+  {
+    "title": "Ancora, ancora, ancora - Radio Edit (Mark Ronson Remix)",
+    "artist": "Mina, Mark Ronson",
+    "isrc": "ITQ002300649"
+  },
+  {
+    "title": "Un Giorno Mi Dirai",
+    "artist": "Stadio",
+    "isrc": "ITUM71501788"
+  },
+  {
+    "title": "Canzone intelligente",
+    "artist": "Cochi e Renato",
+    "isrc": "ITZ040700020"
+  },
+  {
+    "title": "I Miei Giorni Felici",
+    "artist": "Wess",
+    "isrc": "USA370534834"
+  },
+  {
+    "title": "Perché l'hai fatto",
+    "artist": "Paolo Mengoli",
+    "isrc": "FR2X41560391"
+  },
+  {
+    "title": "T'innamorerai",
+    "artist": "Marco Masini",
+    "isrc": "ITB009370502"
+  },
+  {
+    "title": "Strada facendo",
+    "artist": "Claudio Baglioni",
+    "isrc": "ITM000102727"
+  },
+  {
+    "title": "Sempre, Sempre - Version 2010",
+    "artist": "Al Bano",
+    "isrc": "DEUM71016760"
+  },
+  {
+    "title": "Casa bianca",
+    "artist": "Marisa Sannia",
+    "isrc": "ITD019900550"
+  },
+  {
+    "title": "Susan dei marinai",
+    "artist": "Michele",
+    "isrc": "ITA647100323"
+  },
+  {
+    "title": "Piazza Grande",
+    "artist": "Lucio Dalla, Rosalino Cellamare",
+    "isrc": "ITB007200841"
+  },
+  {
+    "title": "Patrizia",
+    "artist": "Eugenio Finardi",
+    "isrc": "ITD018103912"
+  },
+  {
+    "title": "Con il nastro rosa",
+    "artist": "Lucio Battisti",
+    "isrc": "ITB001700471"
+  },
+  {
+    "title": "Señora Mía",
+    "artist": "Sandro Giacobbe",
+    "isrc": "ES5379900130"
+  },
+  {
+    "title": "La Ballata Del Cerutti",
+    "artist": "Giorgio Gaber",
+    "isrc": "ITB006171907"
+  },
+  {
+    "title": "Aldebaran",
+    "artist": "New Trolls",
+    "isrc": "FR59R1604834"
+  },
+  {
+    "title": "Ceralacca",
+    "artist": "Heather Parisi",
+    "isrc": "IT8008307820"
+  },
+  {
+    "title": "Quando l'amore diventa poesia",
+    "artist": "Orietta Berti",
+    "isrc": "IT0060000007"
+  },
+  {
+    "title": "Una Notte Speciale",
+    "artist": "Alice",
+    "isrc": "ITD008100004"
+  },
+  {
+    "title": "Rockin'n'rollin'",
+    "artist": "Scialpi",
+    "isrc": "ITB008200763"
+  },
+  {
+    "title": "Easy Lady",
+    "artist": "Ivana Spagna",
+    "isrc": "ITM009901396"
+  },
+  {
+    "title": "Juke box",
+    "artist": "Fred Buscaglione",
+    "isrc": "ITD015802964"
+  },
+  {
+    "title": "Bruci la città",
+    "artist": "Irene Grandi",
+    "isrc": "ITR000700047"
+  },
+  {
+    "title": "Spaccacuore",
+    "artist": "Samuele Bersani",
+    "isrc": "ITB000200336"
+  },
+  {
+    "title": "Io ti voglio tanto bene",
+    "artist": "Roberto Soffici",
+    "isrc": "ITA619602199"
+  },
+  {
+    "title": "E' lei",
+    "artist": "I Cugini Di Campagna",
+    "isrc": "ITD560200139"
+  },
+  {
+    "title": "Posso Farcela",
+    "artist": "Alex Baroni",
+    "isrc": "USWD10526100"
+  },
+  {
+    "title": "Vorrei cantare come Biagio Antonacci",
+    "artist": "Simone Cristicchi",
+    "isrc": "ITB000500694"
+  },
+  {
+    "title": "Con Te Sulla Spiaggia",
+    "artist": "Nico Fidenco",
+    "isrc": "ITB006400198"
+  },
+  {
+    "title": "Se Un Giorno Non Mi Amassi Più",
+    "artist": "Leano Morelli",
+    "isrc": "IT7009914350"
+  },
+  {
+    "title": "Le cose in comune",
+    "artist": "Daniele Silvestri",
+    "isrc": "ITB009500576"
+  },
+  {
+    "title": "Per Chi (Festival Bar 1972)",
+    "artist": "Gens",
+    "isrc": "ITZ010609773"
+  },
+  {
+    "title": "Tanz bambolina",
+    "artist": "Alberto Camerini",
+    "isrc": "ITM000001888"
+  },
+  {
+    "title": "Bimba se sapessi",
+    "artist": "Sergio Caputo",
+    "isrc": "ITR008300311"
+  },
+  {
+    "title": "Vieni Da Me",
+    "artist": "Le Vibrazioni",
+    "isrc": "ITB000300074"
+  },
+  {
+    "title": "Infinito",
+    "artist": "Raf",
+    "isrc": "ITR000100039"
+  },
+  {
+    "title": "Roma Nun Fà La Stupida Stasera",
+    "artist": "Nino Manfredi, Manuel De Sica, Aldo Fabrizi, Lando Fiorini, Bice Valori, Ornella Vanoni",
+    "isrc": "ITB000200350"
+  },
+  {
+    "title": "Centro Di Gravità Permanente - Remastered 2021",
+    "artist": "Franco Battiato",
+    "isrc": "ITUM72001391"
+  },
+  {
+    "title": "Ma non tutta la vita",
+    "artist": "Ricchi E Poveri",
+    "isrc": "ITPT82400001"
+  },
+  {
+    "title": "Il tuo mondo",
+    "artist": "Enrico Musiani",
+    "isrc": "ITO151101537"
+  },
+  {
+    "title": "Vedi Cara - Remaster 1996",
+    "artist": "Francesco Guccini",
+    "isrc": "ITD009600131"
+  },
+  {
+    "title": "Sole",
+    "artist": "Franco IV e Franco I",
+    "isrc": "ITE011407777"
+  },
+  {
+    "title": "Rosanna",
+    "artist": "Nino Buonocore",
+    "isrc": "ITD008800002"
+  },
+  {
+    "title": "Un Bene Grande Così - 1994 Remastered",
+    "artist": "Anna Identici",
+    "isrc": "USA560765427"
+  },
+  {
+    "title": "Un altro amore no",
+    "artist": "Lorella Cuccarini",
+    "isrc": "ITF032100437"
+  },
+  {
+    "title": "Don Raffaè",
+    "artist": "Fabrizio De André",
+    "isrc": "ITB009070503"
+  },
+  {
+    "title": "Sei Tu",
+    "artist": "Syria",
+    "isrc": "ITE039700001"
+  },
+  {
+    "title": "Che Sarà Di Me",
+    "artist": "Massimo Di Cataldo",
+    "isrc": "ITM009500129"
+  },
+  {
+    "title": "Applausi",
+    "artist": "I Camaleonti",
+    "isrc": "USA370540167"
+  },
+  {
+    "title": "Canto Straniero",
+    "artist": "Marcella Bella",
+    "isrc": "ITD569300412"
+  },
+  {
+    "title": "Figli Di Pitagora",
+    "artist": "Gabry Ponte, Little Tony",
+    "isrc": "FR6V81296521"
+  },
+  {
+    "title": "29 Settembre",
+    "artist": "Equipe 84",
+    "isrc": "ITB006770523"
+  },
+  {
+    "title": "'A canzuncella",
+    "artist": "Alunni Del Sole",
+    "isrc": "ITB007770576"
+  },
+  {
+    "title": "Mi manchi",
+    "artist": "Fausto Leali",
+    "isrc": "ITA610908242"
+  },
+  {
+    "title": "Meravigliosamente",
+    "artist": "Cugini Di Campagna",
+    "isrc": "ITD569700257"
+  },
+  {
+    "title": "Senza Luce",
+    "artist": "Dik Dik",
+    "isrc": "USA370542132"
+  },
+  {
+    "title": "E' ancora giorno",
+    "artist": "Adriano Pappalardo",
+    "isrc": "ITB007200974"
+  },
+  {
+    "title": "Obladì obladà",
+    "artist": "I Nuovi Angeli",
+    "isrc": "ITX122015113"
+  },
+  {
+    "title": "Concerto in La Minore (Dedicato a lei)",
+    "artist": "Il Giardino Dei Semplici",
+    "isrc": "ITR007700481"
+  },
+  {
+    "title": "Canzone",
+    "artist": "Don Backy",
+    "isrc": "USA370542814"
+  },
+  {
+    "title": "Lisa Dagli Occhi Blu",
+    "artist": "Mario Tessuto",
+    "isrc": "ITD560200411"
+  },
+  {
+    "title": "Rose rosse",
+    "artist": "Massimo Ranieri",
+    "isrc": "ITR006900021"
+  },
+  {
+    "title": "L'aria del sabato sera",
+    "artist": "Loretta Goggi",
+    "isrc": "ITQ007900231"
+  },
+  {
+    "title": "Tornerai tornerò",
+    "artist": "Homo Sapiens",
+    "isrc": "FRX871517317"
+  },
+  {
+    "title": "Italia",
+    "artist": "Mino Reitano",
+    "isrc": "FR6V80475122"
+  },
+  {
+    "title": "La tramontana",
+    "artist": "Gianni Pettenati",
+    "isrc": "FRX871588543"
+  },
+  {
+    "title": "Perdono",
+    "artist": "Caterina Caselli",
+    "isrc": "ITR006600031"
+  },
+  {
+    "title": "Cosa hai messo nel caffè",
+    "artist": "Riccardo Del Turco",
+    "isrc": "FR2X41674991"
+  },
+  {
+    "title": "La bambola - Remix",
+    "artist": "Viola Valentino",
+    "isrc": "ITG231700023"
+  },
+  {
+    "title": "Amico è",
+    "artist": "Dario Baldan Bembo",
+    "isrc": "ITA619902843"
+  },
+  {
+    "title": "I Watussi",
+    "artist": "Edoardo Vianello",
+    "isrc": "ITB006379733"
+  },
+  {
+    "title": "Il Mare Più Grande Che C'è (I Love You Man)",
+    "artist": "Fiordaliso",
+    "isrc": "ITD009100046"
+  },
+  {
+    "title": "Polvere",
+    "artist": "Enrico Ruggeri",
+    "isrc": "ITR008300181"
+  },
+  {
+    "title": "Lasciati baciare con il Letkiss",
+    "artist": "I Giganti",
+    "isrc": "ITA646600412"
+  },
+  {
+    "title": "E dimmi che non vuoi morire",
+    "artist": "Patty Pravo",
+    "isrc": "ITA981203993"
+  },
+  {
+    "title": "Lamette",
+    "artist": "Donatella Rettore",
+    "isrc": "ITB008270564"
+  },
+  {
+    "title": "Semplice",
+    "artist": "Gianni Togni",
+    "isrc": "ITR008100131"
+  },
+  {
+    "title": "Fino in fondo",
+    "artist": "Luca Barbarossa, Raquel Del Rosario",
+    "isrc": "ITD091100001"
+  },
+  {
+    "title": "Ti lascerò",
+    "artist": "Anna Oxa, Fausto Leali",
+    "isrc": "ITM009700604"
+  },
+  {
+    "title": "Tu sei l'unica donna per me",
+    "artist": "Alan Sorrenti",
+    "isrc": "ITA619702370"
+  },
+  {
+    "title": "Non Si Puo' Morire Dentro",
+    "artist": "Gianni Bella",
+    "isrc": "ITD569501169"
+  },
+  {
+    "title": "'O sole mio",
+    "artist": "Bobby Solo",
+    "isrc": "ITC091200238"
+  },
+  {
+    "title": "Mi sono innamorato di mia moglie",
+    "artist": "Gianni Nazzaro",
+    "isrc": "ITA619011318"
+  },
+  {
+    "title": "Celeste nostalgia",
+    "artist": "Riccardo Cocciante",
+    "isrc": "ITB008100768"
+  },
+  {
+    "title": "Come ti vorrei - Remastered",
+    "artist": "Iva Zanicchi",
+    "isrc": "ITA646400184"
+  },
+  {
+    "title": "Stasera... Che Sera! - 1991 - Remaster",
+    "artist": "Matia Bazar",
+    "isrc": "ITD001100218"
+  },
+  {
+    "title": "Mediterranea",
+    "artist": "Giuni Russo",
+    "isrc": "ITR008401166"
+  },
+  {
+    "title": "Senza fine",
+    "artist": "Gino Paoli",
+    "isrc": "ITB006170537"
+  },
+  {
+    "title": "Malinconia",
+    "artist": "Riccardo Fogli",
+    "isrc": "ITE010401809"
+  },
+  {
+    "title": "Vattene amore",
+    "artist": "Mietta",
+    "isrc": "ITD019000238"
+  },
+  {
+    "title": "Love in Portofino",
+    "artist": "Johnny Dorelli",
+    "isrc": "ITR006300011"
+  },
+  {
+    "title": "Guarda che luna",
+    "artist": "Piero Focaccia",
+    "isrc": "ITA619704634"
+  },
+  {
+    "title": "Sono una donna, non sono una santa",
+    "artist": "Rosanna Fratello",
+    "isrc": "ITB007270792"
+  },
+  {
+    "title": "L'isola che non c'è",
+    "artist": "Edoardo Bennato",
+    "isrc": "ITB008070520"
+  },
+  {
+    "title": "Ho Difeso Il Mio Amore",
+    "artist": "Renato Dei Profeti",
+    "isrc": "ITZ010305012"
+  },
+  {
+    "title": "Lontano dagli occhi",
+    "artist": "Sergio Endrigo",
+    "isrc": "ITD010003181"
+  },
+  {
+    "title": "Tu si' 'na cosa grande",
+    "artist": "Domenico Modugno",
+    "isrc": "ITB006800624"
+  },
+  {
+    "title": "Saint-Tropez Twist",
+    "artist": "Peppino Di Capri",
+    "isrc": "DEZZ42172616"
+  },
+  {
+    "title": "Parlami D'Amore Mari",
+    "artist": "Mal Dei Primitives",
+    "isrc": "ITS040600720"
+  },
+  {
+    "title": "Scende la pioggia",
+    "artist": "Gianni Morandi",
+    "isrc": "ITB006800786"
+  },
+  {
+    "title": "Almeno tu nell'universo",
+    "artist": "Mia Martini",
+    "isrc": "ITB551110730"
+  },
+  {
+    "title": "Tre settimane da raccontare",
+    "artist": "Fred Bongusto",
+    "isrc": "ITA647300389"
+  },
+  {
+    "title": "Hai capito o no? - Live",
+    "artist": "Ron",
+    "isrc": "ITB008300357"
+  },
+  {
+    "title": "Furia",
+    "artist": "Mal",
+    "isrc": "ITF730902996"
+  },
+  {
+    "title": "Un pugno di sabbia",
+    "artist": "Nomadi",
+    "isrc": "ITR009900721"
+  },
+  {
+    "title": "E' la pioggia che va",
+    "artist": "The Rokes",
+    "isrc": "ITB006600671"
+  },
+  {
+    "title": "Cuore",
+    "artist": "Rita Pavone",
+    "isrc": "AUXN22311398"
+  },
+  {
+    "title": "Gelato Al Cioccolato",
+    "artist": "Pupo",
+    "isrc": "USA370635788"
+  },
+  {
+    "title": "La Nostra Favola",
+    "artist": "I Ribelli",
+    "isrc": "ITB006870588"
+  },
+  {
+    "title": "La donna del mio amico",
+    "artist": "Pooh",
+    "isrc": "ITR041200131"
+  },
+  {
+    "title": "Perché Perché - Digital Remaster 2004",
+    "artist": "Tony Renis",
+    "isrc": "ITD000400106"
+  },
+  {
+    "title": "Sei Diventata Nera",
+    "artist": "Los Marcellos Ferial",
+    "isrc": "ITB006470581"
+  },
+  {
+    "title": "Sei bellissima",
+    "artist": "Loredana Bertè",
+    "isrc": "ITR007500231"
+  },
+  {
+    "title": "Oggi sono tanto triste",
+    "artist": "Giuliano e i notturni",
+    "isrc": "ITA646800927"
+  },
+  {
+    "title": "Amore disperato",
+    "artist": "Nada",
+    "isrc": "ITE320800160"
+  },
+  {
+    "title": "Chiamami Ancora Amore",
+    "artist": "Roberto Vecchioni",
+    "isrc": "ITUM71100043"
+  },
+  {
+    "title": "Pescatore (feat. Fiorella Mannoia)",
+    "artist": "Pierangelo Bertoli, Fiorella Mannoia",
+    "isrc": "ITR008000381"
+  },
+  {
+    "title": "Ciao amore, ciao",
+    "artist": "Luigi Tenco",
+    "isrc": "ITB006700544"
+  },
+  {
+    "title": "Te Ne Vai",
+    "artist": "Michele Pecora",
+    "isrc": "USA370546255"
+  },
+  {
+    "title": "Vado via",
+    "artist": "Drupi",
+    "isrc": "ITB007470617"
+  },
+  {
+    "title": "Tu nella mia vita",
+    "artist": "Dori Ghezzi, Wess",
+    "isrc": "ITB007371094"
+  },
+  {
+    "title": "Io stavo con lei/I started a joke",
+    "artist": "I Profeti",
+    "isrc": "ITA619902438"
+  },
+  {
+    "title": "Rosalina",
+    "artist": "Fabio Concato",
+    "isrc": "IT7009100820"
+  },
+  {
+    "title": "Pigro",
+    "artist": "Ivan Graziani",
+    "isrc": "ITB007800978"
+  },
+  {
+    "title": "Te Regalo Mis Ojos",
+    "artist": "Gabriella Ferri",
+    "isrc": "QMFMF2129308"
+  },
+  {
+    "title": "Amore caro, amore bello",
+    "artist": "Bruno Lauzi",
+    "isrc": "ITB007100801"
+  },
+  {
+    "title": "Triangolo",
+    "artist": "Renato Zero",
+    "isrc": "ITB007800748"
+  },
+  {
+    "title": "Caterina",
+    "artist": "Tony Dallara",
+    "isrc": "DEUE12430068"
+  },
+  {
+    "title": "La mia libertà",
+    "artist": "Franco Califano",
+    "isrc": "ITB008170560"
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "title": "Coffee",
+    "artist": "Megan Nash",
+    "isrc": "CA5JA1700013"
+  },
+  {
+    "title": "The Change It Brings",
+    "artist": "Close Talker",
+    "isrc": "CAIFC1800003"
+  },
+  {
+    "title": "The Magician",
+    "artist": "Andy Shauf",
+    "isrc": "USEP41541003"
+  },
+  {
+    "title": "Prairie Girl",
+    "artist": "Rah Rah",
+    "isrc": "CAA171230080"
+  },
+  {
+    "title": "The Coming Storm",
+    "artist": "Bears in Hazenmore",
+    "isrc": "CAGLB1800002"
+  },
+  {
+    "title": "Generation Handclap",
+    "artist": "Library Voices",
+    "isrc": "CAND61100011"
+  },
+  {
+    "title": "Sheryl Crow",
+    "artist": "Nick Faye & the Deputies",
+    "isrc": "ushm21477966"
+  },
+  {
+    "title": "I Wonder Why",
+    "artist": "Kacy & Clayton, Marlon Williams",
+    "isrc": "US27Q2050407"
+  },
+  {
+    "title": "The Place I Left Behind",
+    "artist": "The Deep Dark Woods",
+    "isrc": "CASB11106502"
+  },
+  {
+    "title": "Martian Cigarettes",
+    "artist": "Trash Hawks",
+    "isrc": "QZHNC2101390"
+  },
+  {
+    "title": "Sunset Canyon",
+    "artist": "Foxwarren",
+    "isrc": "USEP41841008"
+  },
+  {
+    "title": "Let It Grow",
+    "artist": "Bombargo",
+    "isrc": "CAXA21500002"
+  },
+  {
+    "title": "So Seizure",
+    "artist": "Blue Youth",
+    "isrc": "QM4DW1845323"
+  },
+  {
+    "title": "Alex",
+    "artist": "Beach Body",
+    "isrc": "CA0WS2197004"
+  },
+  {
+    "title": "Voices",
+    "artist": "The Pistolwhips",
+    "isrc": "CAOW41600008"
+  },
+  {
+    "title": "In Hell I'll Be in Good Company",
+    "artist": "The Dead South",
+    "isrc": "CACA11404804"
+  },
+  {
+    "title": "She Moves",
+    "artist": "Volcanoless in Canada",
+    "isrc": "uscgh0731449"
+  },
+  {
+    "title": "Maybe I'm Lucky",
+    "artist": "Poor Nameless Boy",
+    "isrc": "CACM52300018"
+  },
+  {
+    "title": "Sleeping on the Blacktop",
+    "artist": "Colter Wall",
+    "isrc": "CA55J1542001"
+  },
+  {
+    "title": "Up All Night",
+    "artist": "Surf Dads",
+    "isrc": "CA9171600001"
+  },
+  {
+    "title": "Fighter's Spirit",
+    "artist": "Grovner",
+    "isrc": "QZDA51944693"
+  },
+  {
+    "title": "Some Fine Action",
+    "artist": "Slow Down, Molasses",
+    "isrc": "CA41R2000004"
+  },
+  {
+    "title": "It Isn't Criminal",
+    "artist": "The Great Fuss",
+    "isrc": "QZK6K2444128"
+  },
+  {
+    "title": "Edge Of The Water",
+    "artist": "Gunner & Smith",
+    "isrc": "QM4TW2490190"
+  },
+  {
+    "title": "I'll Take You To Another Side",
+    "artist": "Snake River",
+    "isrc": "QZHN92478537"
+  },
+  {
+    "title": "Is It Cheating",
+    "artist": "Belle Plaine, Colter Wall",
+    "isrc": "CA6EV1800005"
+  },
+  {
+    "title": "Fingertips",
+    "artist": "Dirty & the Perks",
+    "isrc": "CAHFT1800002"
+  },
+  {
+    "title": "Tip of My Tongue",
+    "artist": "The Wolfe",
+    "isrc": "CA4901600006"
+  },
+  {
+    "title": "Keeper",
+    "artist": "Reignwolf",
+    "isrc": "QMEZE1949993"
+  },
+  {
+    "title": "Little Fire",
+    "artist": "Too Soon Monsoon",
+    "isrc": "CACDC1700001"
+  },
+  {
+    "title": "Queen and the Fool",
+    "artist": "League of Wolves",
+    "isrc": "CAHBJ1900032"
+  },
+  {
+    "title": "Inebriated",
+    "artist": "Soft Cotton",
+    "isrc": "CAV4K1700003"
+  },
+  {
+    "title": "Jeu de mémoire",
+    "artist": "Étienne Fletcher",
+    "isrc": "QM9AA2100007"
+  },
+  {
+    "title": "Lucky Penny",
+    "artist": "Friends of Foes",
+    "isrc": "ushm91811746"
+  },
+  {
+    "title": "Jasper",
+    "artist": "Zachary Lucky",
+    "isrc": "QZFZ32483123"
+  },
+  {
+    "title": "Enter the Tempel",
+    "artist": "Del Suelo",
+    "isrc": "QZDA51857768"
+  },
+  {
+    "title": "Friends",
+    "artist": "Raeburn",
+    "isrc": "uscgj1955389"
+  },
+  {
+    "title": "Operator",
+    "artist": "Rymestone",
+    "isrc": "usl4q1909522"
+  },
+  {
+    "title": "A Stirstick's Prediction",
+    "artist": "Despistado",
+    "isrc": "USA6M0409601"
+  },
+  {
+    "title": "Unwound",
+    "artist": "Autopilot",
+    "isrc": "QZNJZ2300057"
+  },
+  {
+    "title": "Love & Art",
+    "artist": "Ritual Rabbits",
+    "isrc": "TCAEU2036983"
+  },
+  {
+    "title": "Sleeping at the Switch",
+    "artist": "Ghosts of Modern Man",
+    "isrc": "CASB40502701"
+  },
+  {
+    "title": "Heaven Help Me Through the Hard Times",
+    "artist": "The Karpinka Brothers",
+    "isrc": "CACM11530357"
+  },
+  {
+    "title": "Saloon",
+    "artist": "Steig",
+    "isrc": "QZAPG1754481"
+  },
+  {
+    "title": "Home",
+    "artist": "Vanessa Gauvin",
+    "isrc": "ushm21881404"
+  },
+  {
+    "title": "Wait For This",
+    "artist": "Maybe Smith",
+    "isrc": "CAEA30700269"
+  },
+  {
+    "title": "Am I Going To Die (Hot Windy Palms)",
+    "artist": "Ryan Hicks",
+    "isrc": "QZNWT2220428"
+  },
+  {
+    "title": "Love & Misery",
+    "artist": "Dead Levee",
+    "isrc": "QZNWW2377797"
+  },
+  {
+    "title": "I Learned How",
+    "artist": "Dagan Harding Band",
+    "isrc": "QZB4J1844336"
+  },
+  {
+    "title": "Let ‘em Talk",
+    "artist": "Rosie and the Riveters",
+    "isrc": "CA9Z61800002"
+  },
+  {
+    "title": "Cops Are Scary",
+    "artist": "BILLY BEAN",
+    "isrc": "uscgh1987175"
+  },
+  {
+    "title": "Dead Dogs",
+    "artist": "Carbon Dating Service",
+    "isrc": "CASW10810203"
+  },
+  {
+    "title": "Crash",
+    "artist": "Chunder Buffet",
+    "isrc": "QZHN41948383"
+  },
+  {
+    "title": "All of the Things",
+    "artist": "Cookin' with Grandma",
+    "isrc": "ushm91766655"
+  },
+  {
+    "title": "Lost in Memory",
+    "artist": "Dumb Angel",
+    "isrc": "CADQK1700008"
+  },
+  {
+    "title": "True Hearts",
+    "artist": "Foam Lake",
+    "isrc": "CAAA21204601"
+  },
+  {
+    "title": "Sick & Tired",
+    "artist": "Hearts & Knives",
+    "isrc": "CH6281000038"
+  },
+  {
+    "title": "Two Tons",
+    "artist": "Hook & Nail",
+    "isrc": "CAMC71800004"
+  },
+  {
+    "title": "Dreamcatcher",
+    "artist": "Hyv",
+    "isrc": "usdy41874542"
+  },
+  {
+    "title": "Hated It",
+    "artist": "Junior Pantherz",
+    "isrc": "CASA70815337"
+  },
+  {
+    "title": "You Are a Cyclone",
+    "artist": "Kirby Criddle",
+    "isrc": "CAM9B1400001"
+  },
+  {
+    "title": "Gleaming",
+    "artist": "Marentin Fehr",
+    "isrc": "QZDA81896392"
+  },
+  {
+    "title": "Heavy Metal Will Never Die",
+    "artist": "No Birds",
+    "isrc": "usx9p1034345"
+  },
+  {
+    "title": "Forest City",
+    "artist": "Picture Radio",
+    "isrc": "QZARB1856279"
+  },
+  {
+    "title": "How to Haiku",
+    "artist": "Pirate Fridays",
+    "isrc": "TCABL1347274"
+  },
+  {
+    "title": "(Ooh Baby) When I Can See Past The Shadows",
+    "artist": "Ride Til Dawn",
+    "isrc": "CA7922000008"
+  },
+  {
+    "title": "Modern Science",
+    "artist": "The Blood Lines",
+    "isrc": "usx9p0723843"
+  },
+  {
+    "title": "Firefight Lake",
+    "artist": "The Lazy MKs",
+    "isrc": "CA1SQ1000036"
+  },
+  {
+    "title": "Outside Source II",
+    "artist": "These Hands",
+    "isrc": "FR6V81428914"
+  },
+  {
+    "title": "Under the Living Skies",
+    "artist": "Violent Kin",
+    "isrc": "CA1KL1100012"
+  },
+  {
+    "title": "Out There (In the Wild)",
+    "artist": "Young Benjamins",
+    "isrc": "CA8071300002"
+  },
+  {
+    "title": "My Own Heart",
+    "artist": "Megan Nash",
+    "isrc": "CA6JR1800056"
+  },
+  {
+    "title": "Tall Boy",
+    "artist": "Close Talker, Wyatt C. Louis",
+    "isrc": "CAMHG2300005"
+  },
+  {
+    "title": "Quite Like You",
+    "artist": "Andy Shauf",
+    "isrc": "USEP41541006"
+  },
+  {
+    "title": "Chip Off The Heart",
+    "artist": "Rah Rah",
+    "isrc": "CAA171410042"
+  },
+  {
+    "title": "In Your Head",
+    "artist": "Bears in Hazenmore",
+    "isrc": "CAGLB1800005"
+  },
+  {
+    "title": "If Raymond Carver Were Born In The '90s",
+    "artist": "Library Voices",
+    "isrc": "CAND61100010"
+  },
+  {
+    "title": "Ex Pats",
+    "artist": "Nick Faye & the Deputies",
+    "isrc": "CAEAD1700008"
+  },
+  {
+    "title": "Devil's Daughter",
+    "artist": "Kacy & Clayton, Marlon Williams",
+    "isrc": "US27Q2050411"
+  },
+  {
+    "title": "Drifting on a Summer's Night",
+    "artist": "The Deep Dark Woods",
+    "isrc": "CASB11610007"
+  },
+  {
+    "title": "South Beach",
+    "artist": "Trash Hawks",
+    "isrc": "QZK6J2145740"
+  },
+  {
+    "title": "In Another Life",
+    "artist": "Foxwarren",
+    "isrc": "USEP41841004"
+  },
+  {
+    "title": "Oxygen",
+    "artist": "Bombargo",
+    "isrc": "CAXA21800004"
+  },
+  {
+    "title": "Black Lung",
+    "artist": "Blue Youth",
+    "isrc": "QM4DW1845320"
+  },
+  {
+    "title": "Curb Ciggiez",
+    "artist": "Beach Body",
+    "isrc": "QZDA51893609"
+  },
+  {
+    "title": "Stickbreaker",
+    "artist": "The Pistolwhips",
+    "isrc": "CAOW41600007"
+  },
+  {
+    "title": "Mexican Circus (March to the Holly Dome)",
+    "artist": "Volcanoless in Canada",
+    "isrc": "ushm80907248"
+  },
+  {
+    "title": "Leave Myself Behind",
+    "artist": "Poor Nameless Boy",
+    "isrc": "CACM51500010"
+  },
+  {
+    "title": "Banjo Odyssey",
+    "artist": "The Dead South",
+    "isrc": "CACA11404814"
+  },
+  {
+    "title": "Fall Apart",
+    "artist": "Surf Dads",
+    "isrc": "CA9171600002"
+  },
+  {
+    "title": "The Devil Wears a Suit and Tie",
+    "artist": "Colter Wall",
+    "isrc": "CA55J1542007"
+  },
+  {
+    "title": "After the Party",
+    "artist": "Grovner",
+    "isrc": "QZARB1889524"
+  },
+  {
+    "title": "I Need the Darkness",
+    "artist": "Slow Down, Molasses",
+    "isrc": "CA41R2000001"
+  },
+  {
+    "title": "Overdue",
+    "artist": "The Great Fuss",
+    "isrc": "QZES61932305"
+  },
+  {
+    "title": "Ease My Mind",
+    "artist": "Gunner & Smith",
+    "isrc": "uscgh1433671"
+  },
+  {
+    "title": "Hours I: Shadows Don't Hide Things Anymore",
+    "artist": "Snake River",
+    "isrc": "uscgj1713833"
+  },
+  {
+    "title": "Town to Town",
+    "artist": "Belle Plaine, Blake Berglund",
+    "isrc": "CA6EV1500001"
+  },
+  {
+    "title": "Old Machine",
+    "artist": "Dirty & the Perks",
+    "isrc": "CAHFT1800001"
+  },
+  {
+    "title": "The Sea and Me",
+    "artist": "The Wolfe",
+    "isrc": "CAI370576265"
+  },
+  {
+    "title": "Balance",
+    "artist": "Too Soon Monsoon",
+    "isrc": "CACDC1700002"
+  },
+  {
+    "title": "Black and Red",
+    "artist": "Reignwolf",
+    "isrc": "QMEZE1831569"
+  },
+  {
+    "title": "Never Be the Same Again",
+    "artist": "League of Wolves",
+    "isrc": "CAHBJ1800007"
+  },
+  {
+    "title": "Heavy",
+    "artist": "Soft Cotton",
+    "isrc": "CAV4K1700009"
+  },
+  {
+    "title": "Entre la mort et moi",
+    "artist": "Étienne Fletcher",
+    "isrc": "QM9AA2100004"
+  },
+  {
+    "title": "Winter",
+    "artist": "Friends of Foes",
+    "isrc": "ushm81647724"
+  },
+  {
+    "title": "No Shame in Working Hard",
+    "artist": "Zachary Lucky",
+    "isrc": "CAKOC1900002"
+  },
+  {
+    "title": "A Lust Supreme",
+    "artist": "Del Suelo",
+    "isrc": "QZDA51857763"
+  },
+  {
+    "title": "Don't Need That",
+    "artist": "Raeburn",
+    "isrc": "USCGH2410364"
+  },
+  {
+    "title": "Sorta Mellow",
+    "artist": "Rymestone",
+    "isrc": "usl4q1909525"
+  },
+  {
+    "title": "Bubbles",
+    "artist": "Despistado",
+    "isrc": "USA6M0409604"
+  },
+  {
+    "title": "Feverish Dreams",
+    "artist": "Autopilot",
+    "isrc": "QZW9K2271066"
+  },
+  {
+    "title": "So Long",
+    "artist": "Ritual Rabbits",
+    "isrc": "TCADT1846220"
+  },
+  {
+    "title": "Left a Mark",
+    "artist": "Ghosts of Modern Man",
+    "isrc": "CASB40502707"
+  },
+  {
+    "title": "Who Says Dreams Don't Come True",
+    "artist": "The Karpinka Brothers",
+    "isrc": "CACM11530354"
+  },
+  {
+    "title": "I Want You",
+    "artist": "Steig",
+    "isrc": "QZAPG1754479"
+  },
+  {
+    "title": "Devil Man",
+    "artist": "Vanessa Gauvin",
+    "isrc": "ushm21881403"
+  },
+  {
+    "title": "In The Woods",
+    "artist": "Maybe Smith",
+    "isrc": "CAEA30700280"
+  },
+  {
+    "title": "Kaleidoscope",
+    "artist": "Ryan Hicks",
+    "isrc": "CACBH2200062"
+  },
+  {
+    "title": "Nothing Good Comes Easy",
+    "artist": "Dead Levee",
+    "isrc": "QZFZ32243350"
+  },
+  {
+    "title": "To Be a Star",
+    "artist": "Dagan Harding Band",
+    "isrc": "QZB4J1844339"
+  },
+  {
+    "title": "Wait - Remastered",
+    "artist": "Megan Nash",
+    "isrc": "CA5JA1700012"
+  },
+  {
+    "title": "The Silence III",
+    "artist": "Close Talker",
+    "isrc": "CAMHG2300008"
+  },
+  {
+    "title": "Early to the Party",
+    "artist": "Andy Shauf",
+    "isrc": "USEP41541004"
+  },
+  {
+    "title": "Art & A Wife",
+    "artist": "Rah Rah",
+    "isrc": "CAA171230079"
+  },
+  {
+    "title": "Winter Air",
+    "artist": "Bears in Hazenmore, Megan Nash",
+    "isrc": "CAGLB1900001"
+  },
+  {
+    "title": "Regina I Don't Want To Fight",
+    "artist": "Library Voices",
+    "isrc": "CAND61100019"
+  },
+  {
+    "title": "Hold Me Back",
+    "artist": "Nick Faye & the Deputies",
+    "isrc": "CAEAD1700005"
+  },
+  {
+    "title": "Springtime Of The Year",
+    "artist": "Kacy & Clayton",
+    "isrc": "CAN9O1500014"
+  },
+  {
+    "title": "The Banks of the Lough Erne (feat. Erin Rae)",
+    "artist": "The Deep Dark Woods, Erin Rae",
+    "isrc": "QM4TX2447103"
+  },
+  {
+    "title": "Say So",
+    "artist": "Trash Hawks",
+    "isrc": "QZK6L2179135"
+  },
+  {
+    "title": "Fall Into A Dream",
+    "artist": "Foxwarren",
+    "isrc": "USEP41841009"
+  },
+  {
+    "title": "Pieces Of My Heart",
+    "artist": "Bombargo",
+    "isrc": "CAXA22400001"
+  },
+  {
+    "title": "Delusional // Unapologetic",
+    "artist": "Blue Youth",
+    "isrc": "QM4DW1845321"
+  },
+  {
+    "title": "Almost Summer",
+    "artist": "Beach Body",
+    "isrc": "CA0WS2197006"
+  },
+  {
+    "title": "Welcomes Worn",
+    "artist": "The Pistolwhips",
+    "isrc": "CAOW41600005"
+  },
+  {
+    "title": "House of Souls (Artistry VS Fame)",
+    "artist": "Volcanoless in Canada",
+    "isrc": "ushm80907249"
+  },
+  {
+    "title": "River & Trees",
+    "artist": "Poor Nameless Boy",
+    "isrc": "CACM51500004"
+  },
+  {
+    "title": "Broken Cowboy",
+    "artist": "The Dead South",
+    "isrc": "CASB11912906"
+  },
+  {
+    "title": "The Coast",
+    "artist": "Surf Dads",
+    "isrc": "UST8K1570736"
+  },
+  {
+    "title": "Cowpoke",
+    "artist": "Colter Wall",
+    "isrc": "QZLGF2000009"
+  },
+  {
+    "title": "Sometimes",
+    "artist": "Grovner",
+    "isrc": "QZARB1889523"
+  },
+  {
+    "title": "Street Haunting",
+    "artist": "Slow Down, Molasses",
+    "isrc": "CA41R2000006"
+  },
+  {
+    "title": "Terror in the Land!",
+    "artist": "The Great Fuss",
+    "isrc": "QZBRF1809374"
+  },
+  {
+    "title": "The Burning Days",
+    "artist": "Gunner & Smith",
+    "isrc": "uscgh1433672"
+  },
+  {
+    "title": "Hours III: Jeanie Says",
+    "artist": "Snake River",
+    "isrc": "uscgj1713826"
+  }
+]

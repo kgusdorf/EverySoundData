@@ -1,0 +1,972 @@
+[
+  {
+    "title": "Let's Go",
+    "artist": "JAXSON GAMBLE",
+    "isrc": "QZFZ22081286"
+  },
+  {
+    "title": "Dead Man Walking",
+    "artist": "WAR*HALL",
+    "isrc": "USA2P1834833"
+  },
+  {
+    "title": "Lions Inside",
+    "artist": "Valley Of Wolves",
+    "isrc": "US43C1604901"
+  },
+  {
+    "title": "I'm a Wanted Man",
+    "artist": "Royal Deluxe",
+    "isrc": "US43C1601053"
+  },
+  {
+    "title": "Chosen Ones",
+    "artist": "Mountains vs. Machines",
+    "isrc": "US43C1603527"
+  },
+  {
+    "title": "This Is My World",
+    "artist": "Esterly, Austin Jenckes",
+    "isrc": "TCACT1673917"
+  },
+  {
+    "title": "Eye Of The Storm",
+    "artist": "Watt White",
+    "isrc": "US3DF1712295"
+  },
+  {
+    "title": "Dogs of War",
+    "artist": "Blues Saraceno",
+    "isrc": "GBBPP1407204"
+  },
+  {
+    "title": "Another Level",
+    "artist": "Oh The Larceny",
+    "isrc": "US43C1609900"
+  },
+  {
+    "title": "Gladiator",
+    "artist": "Zayde Wølf",
+    "isrc": "TCADK1756746"
+  },
+  {
+    "title": "Play with Fire (feat. Yacht Money)",
+    "artist": "Sam Tinnesz, Yacht Money",
+    "isrc": "TCADC1794515"
+  },
+  {
+    "title": "The Mystic",
+    "artist": "Adam Jensen",
+    "isrc": "TCACT1605420"
+  },
+  {
+    "title": "Don't Stop the Devil",
+    "artist": "Dead Posey",
+    "isrc": "USQY51747081"
+  },
+  {
+    "title": "Dead Man Walking",
+    "artist": "City Wolf",
+    "isrc": "US3DF1938268"
+  },
+  {
+    "title": "Watch Me",
+    "artist": "The Phantoms",
+    "isrc": "USPSI1600003"
+  },
+  {
+    "title": "Can't Go to Hell",
+    "artist": "Sin Shake Sin",
+    "isrc": "ushm21425653"
+  },
+  {
+    "title": "Horns",
+    "artist": "Bryce Fox",
+    "isrc": "TCACN1612157"
+  },
+  {
+    "title": "I'm Dangerous",
+    "artist": "The EverLove",
+    "isrc": "US3DF1829729"
+  },
+  {
+    "title": "Fallout",
+    "artist": "UNSECRET, Neoni",
+    "isrc": "QM24S1922303"
+  },
+  {
+    "title": "For the Glory",
+    "artist": "All Good Things",
+    "isrc": "TCADG1790574"
+  },
+  {
+    "title": "Dead Man Walking",
+    "artist": "Chuxx Morris",
+    "isrc": "QZHN81905047"
+  },
+  {
+    "title": "Middle Finger",
+    "artist": "Bohnes",
+    "isrc": "USA2P1569490"
+  },
+  {
+    "title": "Hold On",
+    "artist": "Extreme Music",
+    "isrc": "GBBPP1509812"
+  },
+  {
+    "title": "Life of Sin",
+    "artist": "Nick Nolan",
+    "isrc": "GBBPP1407205"
+  },
+  {
+    "title": "Death of Me",
+    "artist": "SAINT PHNX",
+    "isrc": "GBKPL1828452"
+  },
+  {
+    "title": "Flesh and Bone",
+    "artist": "Black Math",
+    "isrc": "TCACT1668463"
+  },
+  {
+    "title": "The Hunted",
+    "artist": "The Rigs",
+    "isrc": "TCADI1767119"
+  },
+  {
+    "title": "Used to the Darkness",
+    "artist": "Des Rocs",
+    "isrc": "GBKPL1805608"
+  },
+  {
+    "title": "Bury Me Low",
+    "artist": "8 Graves",
+    "isrc": "GBKPL1824502"
+  },
+  {
+    "title": "Nothing Personal",
+    "artist": "Stella and the Storm",
+    "isrc": "ushm21729469"
+  },
+  {
+    "title": "I’m a Bad Man",
+    "artist": "Nine One One",
+    "isrc": "GBBPP1752240"
+  },
+  {
+    "title": "Prisoner",
+    "artist": "Raphael Lake, Aaron Levy, Daniel Ryan Murphy",
+    "isrc": "GBBPP1956619"
+  },
+  {
+    "title": "On The Rise",
+    "artist": "Generdyn, BELLSAINT",
+    "isrc": "US92U1901072"
+  },
+  {
+    "title": "The Burnin'",
+    "artist": "Nik Ammar",
+    "isrc": "TCABI1217374"
+  },
+  {
+    "title": "Too Old to Die Young",
+    "artist": "Brother Dege",
+    "isrc": "uscgh1055885"
+  },
+  {
+    "title": "Hey Boy in the Pines",
+    "artist": "Danny Farrant, Paul Rawson",
+    "isrc": "GBBPP1752248"
+  },
+  {
+    "title": "The Rising",
+    "artist": "Dallas Stars",
+    "isrc": "US3DF1609902"
+  },
+  {
+    "title": "I Like Trouble",
+    "artist": "Jailbreakers Ltd",
+    "isrc": "TCADA1700821"
+  },
+  {
+    "title": "Wicked Games",
+    "artist": "The Hot Damns",
+    "isrc": "QZFZ62127234"
+  },
+  {
+    "title": "Heavy Hands",
+    "artist": "C-Leb & the Kettle Black",
+    "isrc": "US3CR1401031"
+  },
+  {
+    "title": "Don't Fuck With Joe",
+    "artist": "The Blackwater Fever",
+    "isrc": "AUBW31200003"
+  },
+  {
+    "title": "Umbrella (Epic Trailer Version) [feat. JVZEL]",
+    "artist": "J2, JVZEL",
+    "isrc": "TCACH1519441"
+  },
+  {
+    "title": "Push Them over the Edge",
+    "artist": "Daniel Ryan Murphy, Jared Palomar, Anthony Sanudo",
+    "isrc": "GBBPP1956718"
+  },
+  {
+    "title": "Rebel Yell",
+    "artist": "Blakwall",
+    "isrc": "TCACO1643408"
+  },
+  {
+    "title": "Who’s Gonna Fix It",
+    "artist": "Daniel Farrant, Nick Kingsley",
+    "isrc": "GBBPP2059465"
+  },
+  {
+    "title": "The Number of the Beast",
+    "artist": "Shawn James & the Shapeshifters",
+    "isrc": "USHM21440888"
+  },
+  {
+    "title": "The Railroad",
+    "artist": "Goodnight, Texas",
+    "isrc": "QMNFW1200007"
+  },
+  {
+    "title": "Promiseland",
+    "artist": "Blue News",
+    "isrc": "ushm20671369"
+  },
+  {
+    "title": "Stay Gone For Good",
+    "artist": "The Blue News",
+    "isrc": "ushm21152959"
+  },
+  {
+    "title": "Same Old Story",
+    "artist": "The Blue News Project",
+    "isrc": "uscgh0719450"
+  },
+  {
+    "title": "Break the Mirror",
+    "artist": "Dark Country",
+    "isrc": "FIJ311700003"
+  },
+  {
+    "title": "Killing Love",
+    "artist": "Hatchets",
+    "isrc": "ushm21631127"
+  },
+  {
+    "title": "Here Comes the Thunder",
+    "artist": "Lee Richardson, Jonathan Murill, Tom Ford, James Cocozza, Sarah Norman",
+    "isrc": "GBBPP1854181"
+  },
+  {
+    "title": "After You (As Featured in Netflix Original Series \"Las Chicas del Cable\")",
+    "artist": "Louise Dowd, Shelley Harland",
+    "isrc": "USA2P2329278"
+  },
+  {
+    "title": "Money Jungle",
+    "artist": "Nicholas Tremulis",
+    "isrc": "uscgj0961872"
+  },
+  {
+    "title": "Finish Line",
+    "artist": "SATV Music",
+    "isrc": "USA2P1801417"
+  },
+  {
+    "title": "Land Of Sioux Pt.1 ( Santee )",
+    "artist": "Thomas Vent",
+    "isrc": "QZ5FN1895974"
+  },
+  {
+    "title": "Mating Season",
+    "artist": "Aaron Kaplan, Jamison Hollister",
+    "isrc": "GBBPP1853522"
+  },
+  {
+    "title": "Part of Me",
+    "artist": "American Wolves",
+    "isrc": "TCACM1655909"
+  },
+  {
+    "title": "Damage Is Done",
+    "artist": "Devin Hoffman, Jessica Kline, Bronson Levy",
+    "isrc": "GBBPP1855110"
+  },
+  {
+    "title": "You Guide Me Home",
+    "artist": "Jason Tarver, Thomas Greenwood",
+    "isrc": "GBBHR1900535"
+  },
+  {
+    "title": "White Cliffs",
+    "artist": "Andrew Britton, Jesse O'Mahoney",
+    "isrc": "USQY51529602"
+  },
+  {
+    "title": "Ready or Not (feat. Esthero)",
+    "artist": "Mischa \"Book\" Chillak, Esthero",
+    "isrc": "TCABX1485721"
+  },
+  {
+    "title": "Hell Yeah",
+    "artist": "Rev Theory",
+    "isrc": "USUM70811029"
+  },
+  {
+    "title": "Born to Win",
+    "artist": "Age Of Menace",
+    "isrc": "GBBPP1408707"
+  },
+  {
+    "title": "Leave Me Burning",
+    "artist": "Carlton Hayes, Martha Bean",
+    "isrc": "GBBPP1602111"
+  },
+  {
+    "title": "Crop Won't Ever Come",
+    "artist": "Robin Loxley, Jay Hawke",
+    "isrc": "TCABI1214339"
+  },
+  {
+    "title": "Rock Your World",
+    "artist": "Shanks Mansell",
+    "isrc": "GBBPP1407304"
+  },
+  {
+    "title": "Black Heart",
+    "artist": "Skinny Beanz",
+    "isrc": "GBBPP1750938"
+  },
+  {
+    "title": "King of the World",
+    "artist": "Kerim Gunes, Nicholas Ryness Hirsch, Virgil Howe",
+    "isrc": "GBBGL1202275"
+  },
+  {
+    "title": "Addicted to You",
+    "artist": "Matt Thomas, Ryan Keaton",
+    "isrc": "USA2P1452691"
+  },
+  {
+    "title": "Renegade",
+    "artist": "The Biggest Band in the World",
+    "isrc": "GBBPP1751385"
+  },
+  {
+    "title": "Salsa en la Calle",
+    "artist": "Sr Ortegon, Pana Black",
+    "isrc": "FRZPA1704430"
+  },
+  {
+    "title": "Rise",
+    "artist": "Something Clever",
+    "isrc": "TCACR1600508"
+  },
+  {
+    "title": "Pica Pica",
+    "artist": "SaraoMusic",
+    "isrc": "ES29S1761003"
+  },
+  {
+    "title": "Easily",
+    "artist": "Vitamin A",
+    "isrc": "US3DF1519684"
+  },
+  {
+    "title": "Vagabond",
+    "artist": "Kyle Moorman, Luis Maldonado, Billie Fingers, Bruce Fingers",
+    "isrc": "GBBGL1505567"
+  },
+  {
+    "title": "Fade Out",
+    "artist": "Nikol",
+    "isrc": "TCACO1668064"
+  },
+  {
+    "title": "Just You",
+    "artist": "James Warburton, Jade Pybus",
+    "isrc": "USAML1828901"
+  },
+  {
+    "title": "Magmatic",
+    "artist": "JC Lemay",
+    "isrc": "FR26F1100001"
+  },
+  {
+    "title": "New Morning",
+    "artist": "Alpha Rev",
+    "isrc": "USHR10924773"
+  },
+  {
+    "title": "Run Baby Run",
+    "artist": "Bustafunk, Roachford",
+    "isrc": "FRQ510100190"
+  },
+  {
+    "title": "All Upside Down",
+    "artist": "Danny Connors",
+    "isrc": "GBBPP1751086"
+  },
+  {
+    "title": "Spirit Of Calm - Original Mix",
+    "artist": "High Performance",
+    "isrc": "GBKQU1309173"
+  },
+  {
+    "title": "Do You Wanna Go?",
+    "artist": "James Homes, Robert Homes",
+    "isrc": "GBBGL1904563"
+  },
+  {
+    "title": "Gotta Go",
+    "artist": "James Jacob Farris, Jonas Sorman",
+    "isrc": "TCABU1425757"
+  },
+  {
+    "title": "Imagine",
+    "artist": "Jetty Rae",
+    "isrc": "QMWWY1100003"
+  },
+  {
+    "title": "Unbreakable",
+    "artist": "Justin Tapp",
+    "isrc": "US1ST1400445"
+  },
+  {
+    "title": "Sheer Murder",
+    "artist": "Keith Papworth and The Noveltones",
+    "isrc": "UKATG1601828"
+  },
+  {
+    "title": "I Won't Be a Rock Star",
+    "artist": "Kirk Hellie, Robert Anthony Navarro",
+    "isrc": "USA2P1543622"
+  },
+  {
+    "title": "Hard Love",
+    "artist": "Lou Pine",
+    "isrc": "TCACA1491157"
+  },
+  {
+    "title": "Hazy",
+    "artist": "Love Darling",
+    "isrc": "USTSK1000042"
+  },
+  {
+    "title": "Furniture",
+    "artist": "Mutants",
+    "isrc": "US9HX1000227"
+  },
+  {
+    "title": "Chill Jazz",
+    "artist": "Simon Leonard Thorpe, John Graham Donaldson",
+    "isrc": "QMGXA1414458"
+  },
+  {
+    "title": "Aløne - Drum & Bass Mix",
+    "artist": "The Death Beats, Sara Cruz",
+    "isrc": "GB8KE2305599"
+  },
+  {
+    "title": "Mania",
+    "artist": "The Last Year",
+    "isrc": "US4A61500001"
+  },
+  {
+    "title": "Symmetry of the Cemetery",
+    "artist": "Tombstone Three",
+    "isrc": "TCABI1217232"
+  },
+  {
+    "title": "Fluid Time",
+    "artist": "William Kingswood",
+    "isrc": "US1ST1713008"
+  },
+  {
+    "title": "Reckless",
+    "artist": "JAXSON GAMBLE",
+    "isrc": "USQY51764598"
+  },
+  {
+    "title": "King of the World",
+    "artist": "WAR*HALL",
+    "isrc": "US43C1609123"
+  },
+  {
+    "title": "Chosen One",
+    "artist": "Valley Of Wolves",
+    "isrc": "US43C1604895"
+  },
+  {
+    "title": "Bad",
+    "artist": "Royal Deluxe",
+    "isrc": "USA2P1919541"
+  },
+  {
+    "title": "Hero",
+    "artist": "Mountains vs. Machines",
+    "isrc": "US43C1608289"
+  },
+  {
+    "title": "Built for Pain",
+    "artist": "Esterly, Austin Jenckes",
+    "isrc": "USUPW1700030"
+  },
+  {
+    "title": "The River",
+    "artist": "Blues Saraceno",
+    "isrc": "GBBPP1645439"
+  },
+  {
+    "title": "This Is It",
+    "artist": "Oh The Larceny",
+    "isrc": "US43C1609912"
+  },
+  {
+    "title": "You're Gonna Know My Name",
+    "artist": "Watt White",
+    "isrc": "US3DF1722180"
+  },
+  {
+    "title": "Heroes",
+    "artist": "Zayde Wølf",
+    "isrc": "TCACM1664520"
+  },
+  {
+    "title": "Legends Are Made",
+    "artist": "Sam Tinnesz",
+    "isrc": "TCADD1751580"
+  },
+  {
+    "title": "Freak Show",
+    "artist": "Dead Posey",
+    "isrc": "USQY51747082"
+  },
+  {
+    "title": "Street Fight",
+    "artist": "Adam Jensen",
+    "isrc": "TCADK1717976"
+  },
+  {
+    "title": "Protector",
+    "artist": "City Wolf",
+    "isrc": "NLW6T1900035"
+  },
+  {
+    "title": "Made For This",
+    "artist": "The Phantoms",
+    "isrc": "USPS11700025"
+  },
+  {
+    "title": "Lunatics and Slaves",
+    "artist": "Sin Shake Sin",
+    "isrc": "ushm21425647"
+  },
+  {
+    "title": "Bodies",
+    "artist": "Bryce Fox",
+    "isrc": "QMEZE1949249"
+  },
+  {
+    "title": "Make Me Believe",
+    "artist": "The EverLove",
+    "isrc": "US3DF1829726"
+  },
+  {
+    "title": "Vendetta",
+    "artist": "UNSECRET, Krigarè",
+    "isrc": "QM24S1911718"
+  },
+  {
+    "title": "Survivor",
+    "artist": "All Good Things",
+    "isrc": "USDPK2000021"
+  },
+  {
+    "title": "Feelin' Good",
+    "artist": "Chuxx Morris",
+    "isrc": "TCADL1862158"
+  },
+  {
+    "title": "Raging on a Sunday",
+    "artist": "Bohnes",
+    "isrc": "GBKPL1826718"
+  },
+  {
+    "title": "Gunnin' for You",
+    "artist": "Nick Nolan",
+    "isrc": "TCABI1217236"
+  },
+  {
+    "title": "Save My Soul",
+    "artist": "Extreme Music",
+    "isrc": "GBBPP1502401"
+  },
+  {
+    "title": "Happy Place",
+    "artist": "SAINT PHNX",
+    "isrc": "USAT22102614"
+  },
+  {
+    "title": "New Game",
+    "artist": "Black Math",
+    "isrc": "QZ25C1700485"
+  },
+  {
+    "title": "Devil's Playground",
+    "artist": "The Rigs",
+    "isrc": "GBBPP1539801"
+  },
+  {
+    "title": "Let Me Live / Let Me Die",
+    "artist": "Des Rocs",
+    "isrc": "GBKPL1812549"
+  },
+  {
+    "title": "Numb",
+    "artist": "8 Graves",
+    "isrc": "GBKPL1832907"
+  },
+  {
+    "title": "Work It Out",
+    "artist": "Stella and the Storm",
+    "isrc": "ushm21729468"
+  },
+  {
+    "title": "Coming With the Hellfire",
+    "artist": "Nine One One",
+    "isrc": "GBBPP1752239"
+  },
+  {
+    "title": "Chosen (feat. Svrcina)",
+    "artist": "Generdyn, SVRCINA",
+    "isrc": "TCADG1795693"
+  },
+  {
+    "title": "Devil’s Gonna Come",
+    "artist": "Raphael Lake, Royal Baggs",
+    "isrc": "GBBPP1752243"
+  },
+  {
+    "title": "Thorn in My Side",
+    "artist": "Nik Ammar, Lucy Underhill, Michael Orchard",
+    "isrc": "GBBPP2058426"
+  },
+  {
+    "title": "Jet Black Hearse",
+    "artist": "Danny Farrant, Paul Rawson",
+    "isrc": "GBBPP1752244"
+  },
+  {
+    "title": "Hard Row to Hoe",
+    "artist": "Brother Dege",
+    "isrc": "uscgh1055883"
+  },
+  {
+    "title": "Last Goodbye",
+    "artist": "The Hot Damns, Smokey Jones",
+    "isrc": "QZFZ62176821"
+  },
+  {
+    "title": "Latch Key",
+    "artist": "C-Leb & the Kettle Black",
+    "isrc": "QMEU32011705"
+  },
+  {
+    "title": "Night Creeper",
+    "artist": "The Blackwater Fever",
+    "isrc": "UST8K1618020"
+  },
+  {
+    "title": "Muladhara (1st Chakra Root C - Lam) [Instrumental]",
+    "artist": "J2, Indian Trap, S. J. Jananiy",
+    "isrc": "TCAHI2372641"
+  },
+  {
+    "title": "We Turned out Alright",
+    "artist": "Daniel Ryan Murphy, Jared Palomar, Anthony Sanudo",
+    "isrc": "GBBPP1957011"
+  },
+  {
+    "title": "Knockin' on Heaven's Door",
+    "artist": "Blakwall",
+    "isrc": "TCACO1643402"
+  },
+  {
+    "title": "I’m on Fire",
+    "artist": "Daniel Farrant, Nick Kingsley",
+    "isrc": "GBBPP1751073"
+  },
+  {
+    "title": "Chapter IV: Omens",
+    "artist": "Shawn James & the Shapeshifters",
+    "isrc": "USHM21349924"
+  },
+  {
+    "title": "Old River",
+    "artist": "Blue News",
+    "isrc": "uscgh0946234"
+  },
+  {
+    "title": "Moonshiners",
+    "artist": "Goodnight, Texas",
+    "isrc": "QMWNZ1400007"
+  },
+  {
+    "title": "Pump It Up",
+    "artist": "The Blue News",
+    "isrc": "uscgh2170648"
+  },
+  {
+    "title": "Next Time",
+    "artist": "The Blue News Project",
+    "isrc": "uscgh0719451"
+  },
+  {
+    "title": "Sign of the Dog",
+    "artist": "Dark Country",
+    "isrc": "FIJ311600001"
+  },
+  {
+    "title": "Knock Down Hard Town",
+    "artist": "Hatchets",
+    "isrc": "ushm21631123"
+  },
+  {
+    "title": "I Lose Control",
+    "artist": "Lee Richardson, Jonathan Murrill, Tom Ford, James Cocozza, Alex Francis",
+    "isrc": "GBBPP2161329"
+  },
+  {
+    "title": "Call the Shots",
+    "artist": "Louise Dowd, Toni Halliday",
+    "isrc": "GBAXQ1630001"
+  },
+  {
+    "title": "Rattlesnake Shake",
+    "artist": "Nicholas Tremulis",
+    "isrc": "uscgj0961874"
+  },
+  {
+    "title": "Deeper - Female",
+    "artist": "SATV Music",
+    "isrc": "UKNFJ1901534"
+  },
+  {
+    "title": "West 64",
+    "artist": "Thomas Vent",
+    "isrc": "GBWUL1826035"
+  },
+  {
+    "title": "Time Rages On",
+    "artist": "Aaron Kaplan",
+    "isrc": "TCABM1376314"
+  },
+  {
+    "title": "It’s Going Down Undefeated",
+    "artist": "Devin Hoffman, Richard Vegas, Jessica Easley",
+    "isrc": "GBBPP1854106"
+  },
+  {
+    "title": "Believe in Me",
+    "artist": "Jason Tarver, Hugo Russo",
+    "isrc": "USAML1828905"
+  },
+  {
+    "title": "Put Your Coat On",
+    "artist": "Andrew Britton, Jesse O'Mahoney, Owen Lloyd",
+    "isrc": "USQY51578289"
+  },
+  {
+    "title": "Voices (Randy Orton)",
+    "artist": "Rev Theory",
+    "isrc": "QZQAY2364566"
+  },
+  {
+    "title": "Can't Help Me Now",
+    "artist": "Age Of Menace",
+    "isrc": "TCABD1227411"
+  },
+  {
+    "title": "I'm Free",
+    "artist": "Carlton Hayes, Martha Bean",
+    "isrc": "TCABU1425765"
+  },
+  {
+    "title": "Golden Touch",
+    "artist": "JAXSON GAMBLE",
+    "isrc": "USA2P2032628"
+  },
+  {
+    "title": "Bring That Fire",
+    "artist": "WAR*HALL",
+    "isrc": "US43C1614160"
+  },
+  {
+    "title": "Rule The World",
+    "artist": "Valley Of Wolves",
+    "isrc": "US43C1604912"
+  },
+  {
+    "title": "Dangerous",
+    "artist": "Royal Deluxe",
+    "isrc": "US43C1601047"
+  },
+  {
+    "title": "Next Level",
+    "artist": "Mountains vs. Machines",
+    "isrc": "US43C1612049"
+  },
+  {
+    "title": "Bad Man",
+    "artist": "Esterly, Austin Jenckes",
+    "isrc": "USUPW1700014"
+  },
+  {
+    "title": "The Devil You Know",
+    "artist": "Blues Saraceno",
+    "isrc": "GBBPP1854677"
+  },
+  {
+    "title": "Check It Out",
+    "artist": "Oh The Larceny",
+    "isrc": "US43C1603405"
+  },
+  {
+    "title": "Death Grip",
+    "artist": "Watt White",
+    "isrc": "SE5BU1932730"
+  },
+  {
+    "title": "Hustler",
+    "artist": "Zayde Wølf",
+    "isrc": "TCACS1643163"
+  },
+  {
+    "title": "She Went Bad",
+    "artist": "Dead Posey",
+    "isrc": "US43C1631652"
+  },
+  {
+    "title": "Hands Up",
+    "artist": "City Wolf",
+    "isrc": "US3DF1938264"
+  },
+  {
+    "title": "The Hunter",
+    "artist": "Adam Jensen",
+    "isrc": "TCADP1862508"
+  },
+  {
+    "title": "Unstoppable Now",
+    "artist": "The Phantoms",
+    "isrc": "USPS11800011"
+  },
+  {
+    "title": "Wolves",
+    "artist": "Sam Tinnesz, Silverberg",
+    "isrc": "TCADD1751585"
+  },
+  {
+    "title": "Nobody's Gonna Save My Soul",
+    "artist": "Sin Shake Sin",
+    "isrc": "QZFZ22052509"
+  },
+  {
+    "title": "Cruel",
+    "artist": "The EverLove",
+    "isrc": "US3DF1829725"
+  },
+  {
+    "title": "Golden Boy",
+    "artist": "Bryce Fox",
+    "isrc": "QZGLS2189244"
+  },
+  {
+    "title": "Revolution",
+    "artist": "UNSECRET, Ruelle",
+    "isrc": "QM24S1807139"
+  },
+  {
+    "title": "Brand New",
+    "artist": "Chuxx Morris",
+    "isrc": "TCADL1862156"
+  },
+  {
+    "title": "For The Glory (feat. Hollywood Undead)",
+    "artist": "All Good Things, Hollywood Undead",
+    "isrc": "USDPK2100026"
+  },
+  {
+    "title": "You've Created a Monster",
+    "artist": "Bohnes",
+    "isrc": "GBKPL2170055"
+  },
+  {
+    "title": "Hang 'em High",
+    "artist": "Nick Nolan",
+    "isrc": "TCABI1217233"
+  },
+  {
+    "title": "Don’t Try",
+    "artist": "Extreme Music",
+    "isrc": "GBBPP1602101"
+  },
+  {
+    "title": "King",
+    "artist": "SAINT PHNX",
+    "isrc": "GBKPL1672647"
+  },
+  {
+    "title": "Heat Stroke",
+    "artist": "Black Math",
+    "isrc": "TCACT1668460"
+  },
+  {
+    "title": "Run Baby Run",
+    "artist": "The Rigs",
+    "isrc": "TCACJ1537573"
+  },
+  {
+    "title": "Maybe, I",
+    "artist": "Des Rocs",
+    "isrc": "GBKPL1819627"
+  },
+  {
+    "title": "Better Off Dead",
+    "artist": "8 Graves",
+    "isrc": "GBKPL2087608"
+  },
+  {
+    "title": "Don't Let Me Down",
+    "artist": "Stella and the Storm",
+    "isrc": "ushm21729467"
+  },
+  {
+    "title": "Just Say",
+    "artist": "Nine One One",
+    "isrc": "GBBPP1646007"
+  },
+  {
+    "title": "Stand Alone (feat. Zayde Wølf)",
+    "artist": "Generdyn, Zayde Wølf",
+    "isrc": "TCADG1795719"
+  },
+  {
+    "title": "A Thought Is Haunting Me",
+    "artist": "Raphael Lake, Royal Baggs",
+    "isrc": "GBBPP1853455"
+  },
+  {
+    "title": "Diggin' my Own Grave",
+    "artist": "Nik Ammar",
+    "isrc": "TCABI1217237"
+  }
+]

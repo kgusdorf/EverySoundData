@@ -1,0 +1,787 @@
+[
+  {
+    "title": "Comancheria",
+    "artist": "Los Chikos del Maiz",
+    "isrc": "ES6081942303"
+  },
+  {
+    "title": "El Miedo Va a Cambiar de Bando",
+    "artist": "Riot Propaganda",
+    "isrc": "USCHR1328774"
+  },
+  {
+    "title": "Esclavos",
+    "artist": "Mala Praxis",
+    "isrc": "uscgj1897728"
+  },
+  {
+    "title": "Cristales Rotos",
+    "artist": "Sons of Aguirre, Scila",
+    "isrc": "ES71G1836045"
+  },
+  {
+    "title": "Tengo Que Irme",
+    "artist": "Charly Efe, Loren D, Los Chikos del Maiz",
+    "isrc": "ES6081540313"
+  },
+  {
+    "title": "Más",
+    "artist": "Día Sexto",
+    "isrc": "ESA012125989"
+  },
+  {
+    "title": "Español",
+    "artist": "Ciniko el Octavo Arte",
+    "isrc": "QZDA81937768"
+  },
+  {
+    "title": "Rojo Remedio",
+    "artist": "Ars Moris, Pablo Hasél, Ciniko",
+    "isrc": "TCAEJ1947211"
+  },
+  {
+    "title": "#RapSinCorte L",
+    "artist": "Foyone, Recycled J, Sceno, Sofía Gabanna, SpokSponha, ToteKing, Dollar Selmouni, EAZYBOI, Elio Toffana, FERNANDOCOSTA, Kase.O, Las Ninyas del Corro, Moneo, Ptazeta",
+    "isrc": "QZNJY2135844"
+  },
+  {
+    "title": "Brinda Con Nosotros",
+    "artist": "H Kanino, Sho-Hai, Ozhe",
+    "isrc": "ES6081740914"
+  },
+  {
+    "title": "Mazas y Catapultas",
+    "artist": "Kase.O",
+    "isrc": "ES6081641210"
+  },
+  {
+    "title": "Un Cachito de Luz - Versión Deluxe",
+    "artist": "SFDK, Lia Kali",
+    "isrc": "ES71G2314247"
+  },
+  {
+    "title": "Desértico",
+    "artist": "Gata Cattana",
+    "isrc": "ESA011715486"
+  },
+  {
+    "title": "Vasilon",
+    "artist": "Shotta, El Jincho, Gordo Master",
+    "isrc": "ES71G2100657"
+  },
+  {
+    "title": "Santa Bárbara Bendita",
+    "artist": "Arma X, K-Nalón, La Tarrancha",
+    "isrc": "QM7281880535"
+  },
+  {
+    "title": "Reproches",
+    "artist": "Ayax y Prok",
+    "isrc": "ESA011714577"
+  },
+  {
+    "title": "En la Boca del Lobo",
+    "artist": "IRA",
+    "isrc": "ES71G1829372"
+  },
+  {
+    "title": "Fuego y Rabia",
+    "artist": "Valtonyc, Charly Efe, Loren D",
+    "isrc": "ushm81790311"
+  },
+  {
+    "title": "King Class",
+    "artist": "935, Kane 935, Endikah, Sholis, Inze Brashier, Charlie Hijos Bastardos, Natos y Waor, Eneko, Mario Roma, Nerviozzo, Anhell Vil, Brawler, Ill Pekeño, Sho-Hai, Syla, Cheb Ruben, Paco, Marin -OLD Bucky Beats, Dago Rodriguez, Lone",
+    "isrc": "ES31E2404532"
+  },
+  {
+    "title": "Lo Real",
+    "artist": "Hard GZ, Nikone, Dualy",
+    "isrc": "ES94B2000216"
+  },
+  {
+    "title": "Los Borbones Son Unos Ladrones",
+    "artist": "FRANK T, Rapsusklei, Elphomega, Sara Hebe, Def Con Dos, Tribade, La Raíz, IRA, Los Chikos del Maiz, Machete en Boca, Noult, Homes Llúdriga, Clara Peya, Juan Pablo Balcazar, Roger Martinez, Antonio Torres, JazzWoman",
+    "isrc": "QM4TW1826027"
+  },
+  {
+    "title": "Adrenalina",
+    "artist": "Karlos Animal, Moscow Death Brigade, Dj Plan B",
+    "isrc": "ES71G2305546"
+  },
+  {
+    "title": "Chungo, Grande y Fuerte",
+    "artist": "Msias",
+    "isrc": "ESA011707005"
+  },
+  {
+    "title": "Dispárame",
+    "artist": "Calero LDN, Lendakaris Muertos, BOXINBOX",
+    "isrc": "ES5152100527"
+  },
+  {
+    "title": "Tobogan",
+    "artist": "ZOO",
+    "isrc": "ES71G2101298"
+  },
+  {
+    "title": "Urano",
+    "artist": "Santa Salut, Omar Varela, DJ Stuart",
+    "isrc": "CA5KR2057781"
+  },
+  {
+    "title": "Frases Cortas",
+    "artist": "SWIT EME, DENEK",
+    "isrc": "QMFMG2371682"
+  },
+  {
+    "title": "Bailando Con la Fea",
+    "artist": "Inkognito, Dj Bicho, Aerstame, Portavoz",
+    "isrc": "QZANL1770535"
+  },
+  {
+    "title": "Estar de Pie / Witralen",
+    "artist": "Deviolencia, Tata Barahona",
+    "isrc": "usl4q2084877"
+  },
+  {
+    "title": "Me Tiene Mal",
+    "artist": "Blake, Zaidbreak",
+    "isrc": "QMDA62218971"
+  },
+  {
+    "title": "Traidores",
+    "artist": "Salvaje Decibel, Stailok",
+    "isrc": "USUYG1055067"
+  },
+  {
+    "title": "Arrequetefú",
+    "artist": "Hermanos Bastardos, Losnietosdelferrer",
+    "isrc": "ES18B2300763"
+  },
+  {
+    "title": "15 años atrás",
+    "artist": "El Niño Snake",
+    "isrc": "ESA011810090"
+  },
+  {
+    "title": "Ni Felipe VI",
+    "artist": "Pablo Hasél",
+    "isrc": "QZGWX2134005"
+  },
+  {
+    "title": "¿dónde Está el Secreta?",
+    "artist": "F.R.A.C. (Fundación de Raperos Atípicos de Cádiz)",
+    "isrc": "QMBZ91997332"
+  },
+  {
+    "title": "Hace falta",
+    "artist": "Elgio",
+    "isrc": "ESA012046400"
+  },
+  {
+    "title": "Esté Donde Esté",
+    "artist": "Portavoz, DJ TEE, Cidtronyck",
+    "isrc": "ES71G1627211"
+  },
+  {
+    "title": "Cadena de Plata",
+    "artist": "Shesho",
+    "isrc": "QZMZ92469464"
+  },
+  {
+    "title": "Tuve que quemar",
+    "artist": "Sara Hebe",
+    "isrc": "ART0G1207385"
+  },
+  {
+    "title": "Pueblo en guerra",
+    "artist": "Zonyko, Profeta Marginal, La Clazze, Portavoz, MC Erko, DJ Cidtronyck, Michu MC",
+    "isrc": "SE6XX2197040"
+  },
+  {
+    "title": "Luz",
+    "artist": "Nyto Rukeli",
+    "isrc": "QZK6Q2250718"
+  },
+  {
+    "title": "La Rosa De Los Vientos",
+    "artist": "Makiza",
+    "isrc": "CLA229900157"
+  },
+  {
+    "title": "El tiempo en la ciudad",
+    "artist": "Panteras Negras",
+    "isrc": "FRX202299365"
+  },
+  {
+    "title": "La Sombra",
+    "artist": "Legua York, Dj Seltzer",
+    "isrc": "AEA0D1837767"
+  },
+  {
+    "title": "1977",
+    "artist": "Ana Tijoux",
+    "isrc": "CLEE20901888"
+  },
+  {
+    "title": "Ni Una Menos",
+    "artist": "Rebeca Lane",
+    "isrc": "US7VG1704800"
+  },
+  {
+    "title": "Nicotina 2",
+    "artist": "Ossian",
+    "isrc": "CH6541717141"
+  },
+  {
+    "title": "¿Terrorista Quién?",
+    "artist": "Naimad B",
+    "isrc": "MX2831726238"
+  },
+  {
+    "title": "Mi Primera Vez",
+    "artist": "Los Aldeanos, Silvito El Libre, Charly Mucharrima, Al2 El Aldeano, El B, Yamil Reyes (Dejavu)",
+    "isrc": "USUYG1058566"
+  },
+  {
+    "title": "Soy Pueblo",
+    "artist": "Facto",
+    "isrc": "US7VG1805924"
+  },
+  {
+    "title": "Tiempo",
+    "artist": "Bocafloja",
+    "isrc": "USHM91182687"
+  },
+  {
+    "title": "De Ambulante",
+    "artist": "Esemismo",
+    "isrc": "QZFZ62109543"
+  },
+  {
+    "title": "UNO DE LOS NUESTROS",
+    "artist": "Eskejes Herejes, K9RBE, Libra Loggia",
+    "isrc": "USA2P2338971"
+  },
+  {
+    "title": "Discúlpame",
+    "artist": "Ali Aka Mind, ALI Prod.",
+    "isrc": "US7VG1761452"
+  },
+  {
+    "title": "1952",
+    "artist": "El Franki",
+    "isrc": "ES71G2013624"
+  },
+  {
+    "title": "Sun & Dance",
+    "artist": "Mr. Pekeño, Javierrele",
+    "isrc": "ES71G2019250"
+  },
+  {
+    "title": "Está Mal!",
+    "artist": "Brigdada Hip Hop Clasista, Zonyko",
+    "isrc": "MX2831908998"
+  },
+  {
+    "title": "Del Amor Y La Lucha",
+    "artist": "Mentenguerra",
+    "isrc": "TCACC1419810"
+  },
+  {
+    "title": "Desde Dentro",
+    "artist": "Dante, Soge, Beret",
+    "isrc": "ES71G1927500"
+  },
+  {
+    "title": "Que Se Caigan las Caretas",
+    "artist": "Vilach, Dj K1K1",
+    "isrc": "QM7281805053"
+  },
+  {
+    "title": "Verdades Incómodas",
+    "artist": "Sox Aka Elkefal",
+    "isrc": "QZNWY2029512"
+  },
+  {
+    "title": "Madre Tierra y Amiga Calle",
+    "artist": "Coñoman",
+    "isrc": "QZHZ52224541"
+  },
+  {
+    "title": "Como le explico a mi hijo",
+    "artist": "K11, La Miri",
+    "isrc": "QZFZ32277962"
+  },
+  {
+    "title": "En Pie de Lucha, Ep. 06",
+    "artist": "Gran Om, Akil Ammar, Bungalo Dub, Mare, Mexikan Soundsystem, Obeja Negra, Tapacamino",
+    "isrc": "uscgh1964726"
+  },
+  {
+    "title": "Wanderlust",
+    "artist": "Crismo VC, Golpe el Ronin",
+    "isrc": "QZ5AB1865152"
+  },
+  {
+    "title": "Querer Querernos",
+    "artist": "Canserbero",
+    "isrc": "QZGLS2159979"
+  },
+  {
+    "title": "En Qué Estás",
+    "artist": "Pedro Mo",
+    "isrc": "ES71G1837623"
+  },
+  {
+    "title": "Bajo Su Voluntad",
+    "artist": "Guaja D",
+    "isrc": "CH6541778440"
+  },
+  {
+    "title": "Madre Esperame que Vuelvo - Remezcla",
+    "artist": "Frekuente",
+    "isrc": "QZHN92101663"
+  },
+  {
+    "title": "Raps Son Suenos",
+    "artist": "Meko, Morodo",
+    "isrc": "ES6080443711"
+  },
+  {
+    "title": "Me Largo",
+    "artist": "Sbrv",
+    "isrc": "TCAEC1968582"
+  },
+  {
+    "title": "Lutte",
+    "artist": "AYAX",
+    "isrc": "FRX281736018"
+  },
+  {
+    "title": "Que baje Dios y lo vea",
+    "artist": "Eseka",
+    "isrc": "QZDA52146863"
+  },
+  {
+    "title": "Gracias al funky existe el sol",
+    "artist": "Ika",
+    "isrc": "ESA012038163"
+  },
+  {
+    "title": "Nerón",
+    "artist": "Keke NDK",
+    "isrc": "SE6HN1944619"
+  },
+  {
+    "title": "Santiago Querido",
+    "artist": "Nava Rasa",
+    "isrc": "ARU681100015"
+  },
+  {
+    "title": "Keep It Burning",
+    "artist": "Sank",
+    "isrc": "ushm82080034"
+  },
+  {
+    "title": "Paraísos Artificiales",
+    "artist": "Los Chikos del Maiz, Laura",
+    "isrc": "ES6081441410"
+  },
+  {
+    "title": "El Peso del Tiempo",
+    "artist": "Riot Propaganda, Jerry Coke",
+    "isrc": "USCHR1328776"
+  },
+  {
+    "title": "Artillería Pesada",
+    "artist": "Mala Praxis",
+    "isrc": "usdy41915384"
+  },
+  {
+    "title": "Si Cojo el Fusil",
+    "artist": "Sons of Aguirre, Scila",
+    "isrc": "ES71G1948127"
+  },
+  {
+    "title": "El Día de Tu Boda (feat. Teko)",
+    "artist": "Charly Efe, Teko",
+    "isrc": "US6R21318114"
+  },
+  {
+    "title": "Bailar morghulis",
+    "artist": "Día Sexto",
+    "isrc": "ESA011972188"
+  },
+  {
+    "title": "Los Picapiedra",
+    "artist": "Ciniko el Octavo Arte, Lágrimas De Sangre",
+    "isrc": "QZFZ22177853"
+  },
+  {
+    "title": "Amor De Txakurra",
+    "artist": "Ars Moris, Calero LDN",
+    "isrc": "TCAEJ1947231"
+  },
+  {
+    "title": "3 SEGUNDOS",
+    "artist": "Foyone",
+    "isrc": "BK4DA2405326"
+  },
+  {
+    "title": "Soy del Valle",
+    "artist": "H Kanino, Ozhe",
+    "isrc": "ES6081740903"
+  },
+  {
+    "title": "Ringui Dingui - con SFDK",
+    "artist": "Kase.O, SFDK",
+    "isrc": "ES71G2119518"
+  },
+  {
+    "title": "Lisístrata",
+    "artist": "Gata Cattana",
+    "isrc": "ES1881501394"
+  },
+  {
+    "title": "Sin-Ceros",
+    "artist": "SFDK, Natos y Waor",
+    "isrc": "ES71G2304528"
+  },
+  {
+    "title": "Felicidad",
+    "artist": "Shotta, Morodo",
+    "isrc": "ES6081440216"
+  },
+  {
+    "title": "Palestina",
+    "artist": "Arma X",
+    "isrc": "ES7421172998"
+  },
+  {
+    "title": "Peligro",
+    "artist": "IRA",
+    "isrc": "ES71G1864826"
+  },
+  {
+    "title": "Guajiro",
+    "artist": "Ayax y Prok, Dollar Selmouni, DJ Keru",
+    "isrc": "ZZOPM2223328"
+  },
+  {
+    "title": "He Comprendido",
+    "artist": "Valtonyc, Balle",
+    "isrc": "uscgj1831540"
+  },
+  {
+    "title": "Comité de Olvidados",
+    "artist": "935, Natos y Waor, Recycled J",
+    "isrc": "ES71G2102451"
+  },
+  {
+    "title": "La gran obra maestra - 2018 Remaster",
+    "artist": "FRANK T",
+    "isrc": "ES5151802205"
+  },
+  {
+    "title": "Mortales",
+    "artist": "Hard GZ, Dualy",
+    "isrc": "ES94B2000120"
+  },
+  {
+    "title": "Jaque",
+    "artist": "Karlos Animal, K1ZA",
+    "isrc": "ES71G2402563"
+  },
+  {
+    "title": "Tú Estás Bautizada",
+    "artist": "Msias",
+    "isrc": "ESA011707010"
+  },
+  {
+    "title": "Mi Cruz",
+    "artist": "Calero LDN, SOTAN, Mayo 214",
+    "isrc": "QMFME2049107"
+  },
+  {
+    "title": "Sereno",
+    "artist": "ZOO, SFDK",
+    "isrc": "ES71G2101291"
+  },
+  {
+    "title": "90 Retro",
+    "artist": "Santa Salut",
+    "isrc": "QZDA41926486"
+  },
+  {
+    "title": "Maleduk2",
+    "artist": "SWIT EME, Blake, Zaidbreak",
+    "isrc": "QM6MZ2109255"
+  },
+  {
+    "title": "Damas & Caballeros",
+    "artist": "Inkognito, Dj Rockinn",
+    "isrc": "QZANL1770525"
+  },
+  {
+    "title": "No Creo en Nada 3",
+    "artist": "Deviolencia, Marmotas en el Bar",
+    "isrc": "usl4q2084886"
+  },
+  {
+    "title": "Lengua de Serpiente",
+    "artist": "Blake",
+    "isrc": "ES71G1837040"
+  },
+  {
+    "title": "Rebeldía Poblacional",
+    "artist": "Salvaje Decibel",
+    "isrc": "USUYG1055071"
+  },
+  {
+    "title": "Hijos de la destrucción",
+    "artist": "Hermanos Bastardos, Marmotas en el Bar",
+    "isrc": "ES18B1900253"
+  },
+  {
+    "title": "Tus Novias",
+    "artist": "El Niño Snake, ToteKing",
+    "isrc": "ESA011822960"
+  },
+  {
+    "title": "Nuestras Libertades",
+    "artist": "Pablo Hasél",
+    "isrc": "QZGWX2134464"
+  },
+  {
+    "title": "Odio Eterno al Fútbol Moderno",
+    "artist": "F.R.A.C. (Fundación de Raperos Atípicos de Cádiz), Emilio KPA",
+    "isrc": "QMBZ91997654"
+  },
+  {
+    "title": "Nietos de Argala",
+    "artist": "Elgio, Nyto Rukeli, Siker",
+    "isrc": "ESA012047145"
+  },
+  {
+    "title": "Escribo Rap Con R De Revolución",
+    "artist": "Portavoz, Cidtronyck",
+    "isrc": "ES71G1627219"
+  },
+  {
+    "title": "La Oportunidad",
+    "artist": "Shesho, Kijote Rah",
+    "isrc": "QZMZ92469465"
+  },
+  {
+    "title": "Asado de fa",
+    "artist": "Sara Hebe",
+    "isrc": "ART0G1207405"
+  },
+  {
+    "title": "Pinganos",
+    "artist": "Zonyko",
+    "isrc": "QZDFP1818471"
+  },
+  {
+    "title": "El inicio del fin",
+    "artist": "Nyto Rukeli, Gradozero",
+    "isrc": "QZRP42187061"
+  },
+  {
+    "title": "En Paro",
+    "artist": "Makiza",
+    "isrc": "CLA229900160"
+  },
+  {
+    "title": "El Regreso",
+    "artist": "Panteras Negras",
+    "isrc": "FRX202299372"
+  },
+  {
+    "title": "Amor de Pobre",
+    "artist": "Legua York",
+    "isrc": "AEA0D1837773"
+  },
+  {
+    "title": "Sacar la Voz",
+    "artist": "Ana Tijoux, Jorge Drexler",
+    "isrc": "US66W1101135"
+  },
+  {
+    "title": "Libre, Atrevida y Loca",
+    "artist": "Rebeca Lane, Miss Bolivia, Ali Gua Gua",
+    "isrc": "US7VG1680142"
+  },
+  {
+    "title": "Politicamente Incorrectos",
+    "artist": "Ossian, Sho-Hai",
+    "isrc": "CH6541702968"
+  },
+  {
+    "title": "Camilo Torres - Remasterizado",
+    "artist": "Naimad B",
+    "isrc": "MX2832132621"
+  },
+  {
+    "title": "A Veces Sueno",
+    "artist": "Los Aldeanos",
+    "isrc": "USUYG1058574"
+  },
+  {
+    "title": "De Niro",
+    "artist": "Facto, Crismo VC",
+    "isrc": "US7VG2247920"
+  },
+  {
+    "title": "Autonomo",
+    "artist": "Bocafloja",
+    "isrc": "USCGH0910383"
+  },
+  {
+    "title": "Imperium",
+    "artist": "Esemismo, Dabeat, Teyo, Deviolencia, Marmotas En El Bar.",
+    "isrc": "QZFZ62109561"
+  },
+  {
+    "title": "Black Perro",
+    "artist": "Eskejes Herejes",
+    "isrc": "ES71G2019255"
+  },
+  {
+    "title": "Criptobros",
+    "artist": "Los Chikos del Maiz",
+    "isrc": "ES71G2242435"
+  },
+  {
+    "title": "Hasta la Victoria Siempre",
+    "artist": "Riot Propaganda",
+    "isrc": "USCHR1328775"
+  },
+  {
+    "title": "Pandora",
+    "artist": "Mala Praxis",
+    "isrc": "ushm22179339"
+  },
+  {
+    "title": "Privilegiados",
+    "artist": "Sons of Aguirre, Scila, Dj Plan B, Guaja D",
+    "isrc": "ES71G1836048"
+  },
+  {
+    "title": "Peleando a la Contra",
+    "artist": "Charly Efe, Loren D",
+    "isrc": "ES6081540304"
+  },
+  {
+    "title": "No sé cómo decirte",
+    "artist": "Día Sexto",
+    "isrc": "ESA011801585"
+  },
+  {
+    "title": "Los Principios Del Fin",
+    "artist": "Ciniko el Octavo Arte",
+    "isrc": "QZDA81937764"
+  },
+  {
+    "title": "Rap De Combate (Intro)",
+    "artist": "Ars Moris",
+    "isrc": "TCAEJ1947202"
+  },
+  {
+    "title": "LUCES AZULES",
+    "artist": "Foyone",
+    "isrc": "BK4DA2406655"
+  },
+  {
+    "title": "Vidas al Límite",
+    "artist": "H Kanino",
+    "isrc": "ES6081341516"
+  },
+  {
+    "title": "Tiranosaurius Rex",
+    "artist": "Kase.O, Harto, Escandaloso Xpósito",
+    "isrc": "ES71G2059398"
+  },
+  {
+    "title": "Limonero",
+    "artist": "Gata Cattana",
+    "isrc": "ESA011715477"
+  },
+  {
+    "title": "El Blues Del Condenado",
+    "artist": "SFDK, Lia Kali",
+    "isrc": "ES71G2244627"
+  },
+  {
+    "title": "Mañana Estás Muerto",
+    "artist": "Shotta, ToteKing, Kaze",
+    "isrc": "US7VG2335699"
+  },
+  {
+    "title": "EL LAPSO",
+    "artist": "Arma X, JotaDejota",
+    "isrc": "QMBZ92346810"
+  },
+  {
+    "title": "Mantenlo Patriarcal",
+    "artist": "IRA",
+    "isrc": "ES71G1829912"
+  },
+  {
+    "title": "La Góndola",
+    "artist": "Ayax y Prok, Blasfem",
+    "isrc": "ZZOPM2223327"
+  },
+  {
+    "title": "Epd",
+    "artist": "Valtonyc",
+    "isrc": "uscgh2105595"
+  },
+  {
+    "title": "Un Pie en la Horca",
+    "artist": "935, Los Chikos del Maiz",
+    "isrc": "ES31E2201606"
+  },
+  {
+    "title": "Exito es un tomo",
+    "artist": "FRANK T",
+    "isrc": "ES6920300058"
+  },
+  {
+    "title": "Love",
+    "artist": "Hard GZ, Lupita's Friends, Lil GZ, Tee Amara",
+    "isrc": "ES81G1800009"
+  },
+  {
+    "title": "Venga lo que venga",
+    "artist": "Karlos Animal, Calero LDN, BOXINBOX",
+    "isrc": "ES71G2316780"
+  },
+  {
+    "title": "He Vuelto",
+    "artist": "Msias",
+    "isrc": "ESA011707004"
+  },
+  {
+    "title": "Nuestra Última Canción",
+    "artist": "Calero LDN",
+    "isrc": "ESA011714694"
+  },
+  {
+    "title": "Ventiladors",
+    "artist": "ZOO",
+    "isrc": "ES8021700043"
+  },
+  {
+    "title": "OASIS",
+    "artist": "Santa Salut",
+    "isrc": "QMDA62134136"
+  },
+  {
+    "title": "Full Vandal",
+    "artist": "SWIT EME, Kaissen",
+    "isrc": "QMFMF2385893"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Call the Police",
+    "artist": "Oblivians",
+    "isrc": "USA3D1210090"
+  },
+  {
+    "title": "There But for the Grace of God Go I",
+    "artist": "The Gories",
+    "isrc": "DE2A81010353"
+  },
+  {
+    "title": "Going Back To Memphis - Live",
+    "artist": "Soledad Brothers",
+    "isrc": "USDM30304040"
+  },
+  {
+    "title": "Sun Sinking Low",
+    "artist": "Mr. Airplane Man",
+    "isrc": "uscgj2168512"
+  },
+  {
+    "title": "Chains of Love",
+    "artist": "The Dirtbombs",
+    "isrc": "USA3D0400087"
+  },
+  {
+    "title": "Good Man",
+    "artist": "Heavy Trash",
+    "isrc": "GBSAL0962002"
+  },
+  {
+    "title": "Midnite Blues",
+    "artist": "The Detroit Cobras",
+    "isrc": "US3JJ1601036"
+  },
+  {
+    "title": "Mother of Earth - Remastered 2020",
+    "artist": "The Gun Club",
+    "isrc": "QZ9BY1900041"
+  },
+  {
+    "title": "Stormy Weather",
+    "artist": "Reigning Sound",
+    "isrc": "USMRG1969601"
+  },
+  {
+    "title": "Bellbottoms",
+    "artist": "The Jon Spencer Blues Explosion",
+    "isrc": "US2391611701"
+  },
+  {
+    "title": "Bruno's Night Out",
+    "artist": "Cheater Slicks",
+    "isrc": "TCABJ1283436"
+  },
+  {
+    "title": "Oh, Sinnerman",
+    "artist": "Black Diamond Heavies",
+    "isrc": "USA2B0857509"
+  },
+  {
+    "title": "Honey, I'm Too Old for You",
+    "artist": "Jack Oblivian",
+    "isrc": "USFP70921304"
+  },
+  {
+    "title": "Turn On The Panther",
+    "artist": "Immortal Lee County Killers",
+    "isrc": "US33R0511147"
+  },
+  {
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "isrc": "USVT10300001"
+  },
+  {
+    "title": "Nevermore Blues",
+    "artist": "Jon Spencer, Ray Verta",
+    "isrc": "GBLNL1101148"
+  },
+  {
+    "title": "Streamline Train",
+    "artist": "Tav Falco's Panther Burns",
+    "isrc": "USA3D0400567"
+  },
+  {
+    "title": "Memphis Chicken",
+    "artist": "Gibson Bros.",
+    "isrc": "US2860471338"
+  },
+  {
+    "title": "Another Way to Die",
+    "artist": "Jack White, Alicia Keys",
+    "isrc": "USJAY0800153"
+  },
+  {
+    "title": "Blackish Man",
+    "artist": "Speedball Baby",
+    "isrc": "US2860471311"
+  },
+  {
+    "title": "Peanuts",
+    "artist": "Kid Congo Powers",
+    "isrc": "USA3D2338202"
+  },
+  {
+    "title": "Ain't It Fun - Live",
+    "artist": "Rocket From The Tombs",
+    "isrc": "GBCKK1119604"
+  },
+  {
+    "title": "Lonely Boy",
+    "artist": "The Black Keys",
+    "isrc": "USNO11100273"
+  },
+  {
+    "title": "Two Wings Mambo - Live US 1992",
+    "artist": "Gallon Drunk",
+    "isrc": "GBJQR0700037"
+  },
+  {
+    "title": "Stop & Think It Over",
+    "artist": "Compulsive Gamblers",
+    "isrc": "US2860457205"
+  },
+  {
+    "title": "Log Bomb",
+    "artist": "Bob Log III",
+    "isrc": "USFP70400128"
+  },
+  {
+    "title": "Primary Baby",
+    "artist": "Jon Spencer & the HITmakers",
+    "isrc": "USA3D2236705"
+  },
+  {
+    "title": "Love and Desperation",
+    "artist": "Jeffrey Lee Pierce",
+    "isrc": "QZ9BY1900143"
+  },
+  {
+    "title": "I Know What I Am",
+    "artist": "Band Of Skulls",
+    "isrc": "USM880890141"
+  },
+  {
+    "title": "C'mon C'mon",
+    "artist": "The Von Bondies",
+    "isrc": "USRE10300969"
+  },
+  {
+    "title": "Watching My Baby Get Ready",
+    "artist": "Greg Oblivian & The Tip-Tops",
+    "isrc": "US2860451301"
+  },
+  {
+    "title": "There's an End",
+    "artist": "Holly Golightly",
+    "isrc": "GBGLR1300209"
+  },
+  {
+    "title": "La Araña",
+    "artist": "Kid Congo & the Pink Monkey Birds",
+    "isrc": "USA3D1600007"
+  },
+  {
+    "title": "Cigarette Daydreams",
+    "artist": "Cage The Elephant",
+    "isrc": "USRC11301169"
+  },
+  {
+    "title": "Dick Johnson",
+    "artist": "Pussy Galore",
+    "isrc": "US2398931307"
+  },
+  {
+    "title": "Frog Went a Courtin'",
+    "artist": "Flat Duo Jets",
+    "isrc": "US64J9710200"
+  },
+  {
+    "title": "We Had Love",
+    "artist": "Scientists",
+    "isrc": "GBMUA0600035"
+  },
+  {
+    "title": "Walking on My Grave",
+    "artist": "Dead Moon",
+    "isrc": "USQY51386388"
+  },
+  {
+    "title": "So Grey, So Green",
+    "artist": "The Bloody Hollies",
+    "isrc": "USA2B1110801"
+  },
+  {
+    "title": "Here I Am, Here I Always Am",
+    "artist": "Blacktop",
+    "isrc": "USA3D0400020"
+  },
+  {
+    "title": "Can't Fool With Me",
+    "artist": "The Spaceshits",
+    "isrc": "US2860456401"
+  },
+  {
+    "title": "'68",
+    "artist": "'68 Comeback",
+    "isrc": "USQY50971742"
+  },
+  {
+    "title": "Help You Ann",
+    "artist": "Lyres",
+    "isrc": "ES8591200367"
+  },
+  {
+    "title": "Everybody Sexareeno!",
+    "artist": "Les Sexareenos",
+    "isrc": "USQY50972815"
+  },
+  {
+    "title": "Goin' Cold",
+    "artist": "Bantam Rooster",
+    "isrc": "DE2A81010039"
+  },
+  {
+    "title": "Land of the Freak",
+    "artist": "King Khan and the Shrines",
+    "isrc": "USMRG1453204"
+  },
+  {
+    "title": "Burn It Off",
+    "artist": "Blues Explosion",
+    "isrc": "GBAJH0401623"
+  },
+  {
+    "title": "Beautiful Girl",
+    "artist": "Mark Sultan",
+    "isrc": "USA3D0700024"
+  },
+  {
+    "title": "Want You so Bad",
+    "artist": "Thee Shams",
+    "isrc": "USFP70400016"
+  },
+  {
+    "title": "Winn Coma",
+    "artist": "Boss Hog",
+    "isrc": "USGF19581101"
+  },
+  {
+    "title": "There Is An End",
+    "artist": "The Greenhornes, Holly Golightly",
+    "isrc": "USVT10500150"
+  },
+  {
+    "title": "Red Lights",
+    "artist": "Modey Lemon",
+    "isrc": "GBAJH0500301"
+  },
+  {
+    "title": "When I Get Mad",
+    "artist": "Reatards",
+    "isrc": "USA3U1110026"
+  },
+  {
+    "title": "Get Outta My Car",
+    "artist": "Hasil Adkins",
+    "isrc": "USGN30600095"
+  },
+  {
+    "title": "Blue Train Station",
+    "artist": "The Cynics",
+    "isrc": "USBZY0502801"
+  },
+  {
+    "title": "It's Alright",
+    "artist": "Supercharger",
+    "isrc": "USQY51323032"
+  },
+  {
+    "title": "20-20 Vision",
+    "artist": "Bassholes",
+    "isrc": "USQY50972214"
+  },
+  {
+    "title": "Love You So",
+    "artist": "The King Khan & BBQ Show",
+    "isrc": "USA3D0700101"
+  },
+  {
+    "title": "Bad Man",
+    "artist": "Greg Cartwright",
+    "isrc": "USP4B0910031"
+  },
+  {
+    "title": "Bow Down And Die",
+    "artist": "The Almighty Defenders",
+    "isrc": "USBWS0800088"
+  },
+  {
+    "title": "Bacon Fat",
+    "artist": "Andre Williams",
+    "isrc": "DEUE12393008"
+  },
+  {
+    "title": "I Took The Poison",
+    "artist": "Mystery Girls",
+    "isrc": "USA3D0810096"
+  },
+  {
+    "title": "Palaces of Montezuma",
+    "artist": "Grinderman",
+    "isrc": "GBAJH1000441"
+  },
+  {
+    "title": "You Gonna Get It",
+    "artist": "Coachwhips",
+    "isrc": "USA2Z1510286"
+  },
+  {
+    "title": "We're Gonna Get Married",
+    "artist": "The A-Bones, The 5.6.7.8's",
+    "isrc": "USA561254893"
+  },
+  {
+    "title": "Trip To The Clinic",
+    "artist": "Demon's Claws",
+    "isrc": "USA3D1010052"
+  },
+  {
+    "title": "Warm And Tender Love",
+    "artist": "Knoxville Girls",
+    "isrc": "USA3D0400425"
+  },
+  {
+    "title": "$4.95",
+    "artist": "The Lords of Altamont",
+    "isrc": "ITM462000347"
+  },
+  {
+    "title": "Playboys",
+    "artist": "The Deadly Snakes",
+    "isrc": "USA3D0400061"
+  },
+  {
+    "title": "(I Know) A Girl Called Jonny",
+    "artist": "Rowland S. Howard",
+    "isrc": "AULI00959840"
+  },
+  {
+    "title": "The Corner Man",
+    "artist": "Barrence Whitfield & The Savages",
+    "isrc": "USA361320801"
+  },
+  {
+    "title": "Golden Apples",
+    "artist": "Country Teasers",
+    "isrc": "USFP79932502"
+  },
+  {
+    "title": "Pepperpot",
+    "artist": "The Scientists",
+    "isrc": "TCABH1258580"
+  },
+  {
+    "title": "Princess & The Frog",
+    "artist": "The Jim Jones Revue",
+    "isrc": "USA2B1302431"
+  },
+  {
+    "title": "Lost Time Blues",
+    "artist": "The Chrome Cranks",
+    "isrc": "US9U71021605"
+  },
+  {
+    "title": "I Walk Alone",
+    "artist": "The Beguiled",
+    "isrc": "DE2A81010259"
+  },
+  {
+    "title": "Dead Cool",
+    "artist": "Chrome Cranks",
+    "isrc": "DE2A81010272"
+  },
+  {
+    "title": "Frankenstein",
+    "artist": "Subsonics",
+    "isrc": "USGHR9806403"
+  },
+  {
+    "title": "Now Now Now",
+    "artist": "The Wolfmanhattan Project",
+    "isrc": "USA3D1930102"
+  },
+  {
+    "title": "The Spectre",
+    "artist": "Royal Trux",
+    "isrc": "USFP71866204"
+  },
+  {
+    "title": "Pink Lemonade",
+    "artist": "DADDY LONG LEGS",
+    "isrc": "USY1R1965702"
+  },
+  {
+    "title": "Beautiful Dream",
+    "artist": "20 Miles",
+    "isrc": "USFP70235608"
+  },
+  {
+    "title": "Bad Man",
+    "artist": "Oblivians",
+    "isrc": "DE2A81010218"
+  },
+  {
+    "title": "Nitroglycerine",
+    "artist": "The Gories",
+    "isrc": "DE2A81010334"
+  },
+  {
+    "title": "Shakey Puddin'",
+    "artist": "Soledad Brothers",
+    "isrc": "US2860471305"
+  },
+  {
+    "title": "Commit a Crime",
+    "artist": "Mr. Airplane Man",
+    "isrc": "uscgj2168510"
+  },
+  {
+    "title": "I Can't Stop Thinking About It",
+    "artist": "The Dirtbombs",
+    "isrc": "USA3D0400302"
+  },
+  {
+    "title": "Gee, I really Love You",
+    "artist": "Heavy Trash",
+    "isrc": "GBSAL0962001"
+  },
+  {
+    "title": "Cha-Cha Twist",
+    "artist": "The Detroit Cobras",
+    "isrc": "US3JJ1601030"
+  },
+  {
+    "title": "Sex Beat",
+    "artist": "The Gun Club",
+    "isrc": "GBAAP0300127"
+  },
+  {
+    "title": "Never Coming Home",
+    "artist": "Reigning Sound",
+    "isrc": "USMRG1447002"
+  },
+  {
+    "title": "Very Rare",
+    "artist": "The Jon Spencer Blues Explosion",
+    "isrc": "US2391611704"
+  },
+  {
+    "title": "Refried Dreams",
+    "artist": "Cheater Slicks",
+    "isrc": "USA3D0400202"
+  },
+  {
+    "title": "Bidin' My Time",
+    "artist": "Black Diamond Heavies",
+    "isrc": "USA2B0857504"
+  },
+  {
+    "title": "Jealous Heart",
+    "artist": "Jack Oblivian",
+    "isrc": "USFP71126511"
+  },
+  {
+    "title": "Revolution Summer",
+    "artist": "Immortal Lee County Killers",
+    "isrc": "US33R0511148"
+  },
+  {
+    "title": "I Got The Hits",
+    "artist": "Jon Spencer",
+    "isrc": "USA3D1832910"
+  },
+  {
+    "title": "Dateless Night",
+    "artist": "Tav Falco's Panther Burns",
+    "isrc": "GBHBR0405641"
+  },
+  {
+    "title": "Barbara",
+    "artist": "Gibson Bros.",
+    "isrc": "US2860417602"
+  },
+  {
+    "title": "Lazaretto",
+    "artist": "Jack White",
+    "isrc": "USSM11401498"
+  },
+  {
+    "title": "Three Quarter Man",
+    "artist": "Speedball Baby",
+    "isrc": "USA3D0400115"
+  },
+  {
+    "title": "We're Going to Be Friends",
+    "artist": "The White Stripes",
+    "isrc": "GBBKS0100357"
+  },
+  {
+    "title": "Lauras Day",
+    "artist": "Kid Congo Powers, Julee Cruise, Khan",
+    "isrc": "DEQ121112121"
+  },
+  {
+    "title": "30 Seconds over Tokyo - Live",
+    "artist": "Rocket From The Tombs",
+    "isrc": "GBCKK1119608"
+  },
+  {
+    "title": "Just One More",
+    "artist": "Gallon Drunk",
+    "isrc": "GBJQR0700043"
+  },
+  {
+    "title": "Gold on the Ceiling",
+    "artist": "The Black Keys",
+    "isrc": "USNO11100275"
+  },
+  {
+    "title": "Sour and Vicious Man",
+    "artist": "Compulsive Gamblers",
+    "isrc": "USQY50967084"
+  },
+  {
+    "title": "Boob Scotch",
+    "artist": "Bob Log III",
+    "isrc": "USFP70400130"
+  },
+  {
+    "title": "Death Ray",
+    "artist": "Jon Spencer & the HITmakers",
+    "isrc": "USA3D2236703"
+  },
+  {
+    "title": "Hey Juana",
+    "artist": "Jeffrey Lee Pierce",
+    "isrc": "QZ9BY1900148"
+  },
+  {
+    "title": "Death By Diamonds And Pearls",
+    "artist": "Band Of Skulls",
+    "isrc": "USM880890144"
+  },
+  {
+    "title": "No Regrets",
+    "artist": "The Von Bondies",
+    "isrc": "USRE10301770"
+  },
+  {
+    "title": "Beside You (Swallows)",
+    "artist": "Greg Oblivian & The Tip-Tops",
+    "isrc": "US2860451305"
+  },
+  {
+    "title": "Tell Me Now So I Know",
+    "artist": "Holly Golightly",
+    "isrc": "GBGLR1300205"
+  },
+  {
+    "title": "Wicked World",
+    "artist": "Kid Congo & the Pink Monkey Birds",
+    "isrc": "USA3D2438902"
+  },
+  {
+    "title": "Yü Gung",
+    "artist": "Pussy Galore",
+    "isrc": "US2398841201"
+  },
+  {
+    "title": "Ain't No Rest For The Wicked - Original Version",
+    "artist": "Cage The Elephant",
+    "isrc": "GBGLM0700133"
+  },
+  {
+    "title": "Crazy Hazy Kisses",
+    "artist": "Flat Duo Jets",
+    "isrc": "USUM71410129"
+  },
+  {
+    "title": "Last Night",
+    "artist": "Scientists",
+    "isrc": "USCW61220703"
+  },
+  {
+    "title": "Dead Moon Night",
+    "artist": "Dead Moon",
+    "isrc": "USQY51386373"
+  },
+  {
+    "title": "Tired of This Shit",
+    "artist": "The Bloody Hollies",
+    "isrc": "US2860472109"
+  },
+  {
+    "title": "Tornado Love",
+    "artist": "Blacktop",
+    "isrc": "USA3D0400014"
+  },
+  {
+    "title": "C'mon Let's Suicide",
+    "artist": "The Spaceshits",
+    "isrc": "US2860456403"
+  },
+  {
+    "title": "My Babe",
+    "artist": "'68 Comeback",
+    "isrc": "US2860457403"
+  },
+  {
+    "title": "How Do You Know?",
+    "artist": "Lyres",
+    "isrc": "USX5G9408204"
+  },
+  {
+    "title": "(Oh Mom) Teach Me How to Uncle Willy",
+    "artist": "Les Sexareenos",
+    "isrc": "US2860463605"
+  },
+  {
+    "title": "You're the Sun",
+    "artist": "Bantam Rooster",
+    "isrc": "US2860465108"
+  },
+  {
+    "title": "No Regrets",
+    "artist": "King Khan and the Shrines",
+    "isrc": "USMRG1453207"
+  },
+  {
+    "title": "Damage",
+    "artist": "Blues Explosion",
+    "isrc": "GBAJH0401622"
+  },
+  {
+    "title": "Spinning Ceiling",
+    "artist": "Mark Sultan",
+    "isrc": "USA3D0700027"
+  },
+  {
+    "title": "If You Gotta Go",
+    "artist": "Thee Shams",
+    "isrc": "USFP70400013"
+  },
+  {
+    "title": "Ski Bunny",
+    "artist": "Boss Hog",
+    "isrc": "USGF19581104"
+  },
+  {
+    "title": "Three Faint Calls",
+    "artist": "The Greenhornes",
+    "isrc": "USTCF1001305"
+  },
+  {
+    "title": "Crows",
+    "artist": "Modey Lemon",
+    "isrc": "USA2M0301046"
+  },
+  {
+    "title": "You Fucked Up My Dreams",
+    "artist": "Reatards",
+    "isrc": "USA3U1110029"
+  },
+  {
+    "title": "No More Hot Dogs",
+    "artist": "Hasil Adkins",
+    "isrc": "USA370689426"
+  },
+  {
+    "title": "Baby, What's Wrong",
+    "artist": "The Cynics",
+    "isrc": "USBZY0720201"
+  },
+  {
+    "title": "You Irritate Me",
+    "artist": "Supercharger",
+    "isrc": "USQY51323034"
+  },
+  {
+    "title": "Live the Life",
+    "artist": "Oblivians",
+    "isrc": "DE2A81010201"
+  },
+  {
+    "title": "Thunderbird ESQ",
+    "artist": "The Gories",
+    "isrc": "DE2A81010333"
+  },
+  {
+    "title": "Break Em' On Down - Live",
+    "artist": "Soledad Brothers",
+    "isrc": "USDM30302040"
+  },
+  {
+    "title": "Moanin'",
+    "artist": "Mr. Airplane Man",
+    "isrc": "uscgj2168504"
+  },
+  {
+    "title": "Livin' for the City",
+    "artist": "The Dirtbombs",
+    "isrc": "USA3D0400092"
+  },
+  {
+    "title": "Double Line",
+    "artist": "Heavy Trash",
+    "isrc": "DKMFA0700502"
+  },
+  {
+    "title": "Shout Bamalama",
+    "artist": "The Detroit Cobras",
+    "isrc": "US3JJ1601028"
+  },
+  {
+    "title": "The Breaking Hands - Remastered 2023",
+    "artist": "The Gun Club",
+    "isrc": "QZ9BY2200018"
+  },
+  {
+    "title": "North Cackalacky Girl",
+    "artist": "Reigning Sound",
+    "isrc": "USMRG1447001"
+  },
+  {
+    "title": "Magical Colors",
+    "artist": "The Jon Spencer Blues Explosion",
+    "isrc": "USSE91032009"
+  },
+  {
+    "title": "I Think I'm Coming Down",
+    "artist": "Cheater Slicks",
+    "isrc": "USA3D0400199"
+  },
+  {
+    "title": "Make Love Time",
+    "artist": "Black Diamond Heavies",
+    "isrc": "USA2B0857508"
+  },
+  {
+    "title": "Girl on the Beach",
+    "artist": "Jack Oblivian",
+    "isrc": "USFP71126507"
+  },
+  {
+    "title": "Boom Boom",
+    "artist": "Immortal Lee County Killers",
+    "isrc": "US33R0511150"
+  },
+  {
+    "title": "Do The Trash Can",
+    "artist": "Jon Spencer",
+    "isrc": "USA3D1832901"
+  },
+  {
+    "title": "Pass the Hatchet",
+    "artist": "Tav Falco's Panther Burns",
+    "isrc": "GBHBR0405644"
+  },
+  {
+    "title": "Big Pine Boogie",
+    "artist": "Gibson Bros.",
+    "isrc": "USHZ71200091"
+  },
+  {
+    "title": "Love Is Blindness",
+    "artist": "Jack White",
+    "isrc": "USSM11201952"
+  },
+  {
+    "title": "Dangerous Trip",
+    "artist": "Speedball Baby",
+    "isrc": "USA3D0400556"
+  },
+  {
+    "title": "Blue Orchid",
+    "artist": "The White Stripes",
+    "isrc": "USVT10500076"
+  },
+  {
+    "title": "San José",
+    "artist": "Kid Congo Powers, Julee Cruise, Khan",
+    "isrc": "DEQ121112117"
+  },
+  {
+    "title": "So Cold - Live",
+    "artist": "Rocket From The Tombs",
+    "isrc": "GBCKK1119602"
+  },
+  {
+    "title": "You, the Night… and The Music",
+    "artist": "Gallon Drunk",
+    "isrc": "GBJQR0700045"
+  },
+  {
+    "title": "Howlin' for You",
+    "artist": "The Black Keys",
+    "isrc": "USNO11000079"
+  },
+  {
+    "title": "The Way I Feel About You",
+    "artist": "Compulsive Gamblers",
+    "isrc": "US2860457201"
+  },
+  {
+    "title": "Consuela DId It",
+    "artist": "Bob Log III",
+    "isrc": "USHM22440279"
+  },
+  {
+    "title": "Get It Right Now",
+    "artist": "Jon Spencer & the HITmakers",
+    "isrc": "USA3D2236702"
+  },
+  {
+    "title": "Wildweed",
+    "artist": "Jeffrey Lee Pierce",
+    "isrc": "QZ9BY1900150"
+  }
+]

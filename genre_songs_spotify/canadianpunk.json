@@ -1,0 +1,927 @@
+[
+  {
+    "title": "Fred's Got Slacks",
+    "artist": "The Flatliners",
+    "isrc": "CA1YI1000014"
+  },
+  {
+    "title": "Painful Reminder",
+    "artist": "SNFU",
+    "isrc": "USEP40317107"
+  },
+  {
+    "title": "Swedish Rat",
+    "artist": "Chixdiggit!",
+    "isrc": "USFW41176602"
+  },
+  {
+    "title": "Good Grief Retreat",
+    "artist": "Belvedere",
+    "isrc": "GBMUE2100007"
+  },
+  {
+    "title": "The King",
+    "artist": "Brutal Youth",
+    "isrc": "CASE11600015"
+  },
+  {
+    "title": "Back to the Motor League",
+    "artist": "Propagandhi",
+    "isrc": "QZ4JJ1647528"
+  },
+  {
+    "title": "Mid 20's Skateboarder",
+    "artist": "Pkew Pkew Pkew",
+    "isrc": "CAUM81600363"
+  },
+  {
+    "title": "Kamikaze Kids",
+    "artist": "The Penske File",
+    "isrc": "CASE11700147"
+  },
+  {
+    "title": "Surfin' on Heroiin",
+    "artist": "The Forgotten Rebels",
+    "isrc": "TCAGP2276722"
+  },
+  {
+    "title": "Ring of Fire = 4 Points",
+    "artist": "The Sainte Catherines",
+    "isrc": "USFW40670902"
+  },
+  {
+    "title": "Patios and Beer",
+    "artist": "Random KIlling",
+    "isrc": "USE830922061"
+  },
+  {
+    "title": "Out of Sync",
+    "artist": "Choke",
+    "isrc": "CAIRL2296201"
+  },
+  {
+    "title": "Blood red and forever blue",
+    "artist": "The Almighty Trigger Happy",
+    "isrc": "SEVQI9809002"
+  },
+  {
+    "title": "X",
+    "artist": "Ripcordz",
+    "isrc": "USA560680964"
+  },
+  {
+    "title": "Fuck You",
+    "artist": "The Subhumans",
+    "isrc": "US2B20810110"
+  },
+  {
+    "title": "I'll Take the Crab Juice",
+    "artist": "Deforesters",
+    "isrc": "CA1YI1700003"
+  },
+  {
+    "title": "That's Progress",
+    "artist": "D.O.A.",
+    "isrc": "US2B20407801"
+  },
+  {
+    "title": "Screamin' Fist",
+    "artist": "Viletones",
+    "isrc": "USA2B0603705"
+  },
+  {
+    "title": "I Am a Rifle",
+    "artist": "The Rebel Spell",
+    "isrc": "UST8K1673326"
+  },
+  {
+    "title": "Let's Shake",
+    "artist": "Teenage Head",
+    "isrc": "CAU118005050"
+  },
+  {
+    "title": "New York City",
+    "artist": "The Demics",
+    "isrc": "CAL359500003"
+  },
+  {
+    "title": "Tired of Waking Up Tired",
+    "artist": "The Diodes",
+    "isrc": "CAE247800006"
+  },
+  {
+    "title": "Half-Lit",
+    "artist": "Single Mothers",
+    "isrc": "GBBKS1400161"
+  },
+  {
+    "title": "Brad Nowell",
+    "artist": "Subb",
+    "isrc": "USA560566138"
+  },
+  {
+    "title": "The Jack",
+    "artist": "Dayglo Abortions",
+    "isrc": "USA560672250"
+  },
+  {
+    "title": "Evil Side",
+    "artist": "The Dirty Nil",
+    "isrc": "CADE71800674"
+  },
+  {
+    "title": "What Do You Want Me to Do?",
+    "artist": "Pointed Sticks",
+    "isrc": "CA4KE0610012"
+  },
+  {
+    "title": "Why",
+    "artist": "Reset",
+    "isrc": "USA370689117"
+  },
+  {
+    "title": "I Hear You Calling",
+    "artist": "Gob",
+    "isrc": "CAN110000033"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "The Planet Smashers",
+    "isrc": "USA370529483"
+  },
+  {
+    "title": "End in Sight",
+    "artist": "Knucklehead",
+    "isrc": "CALB81003301"
+  },
+  {
+    "title": "Snowball",
+    "artist": "d.b.s.",
+    "isrc": "QZHN32005848"
+  },
+  {
+    "title": "Napoleon Dynamite Complex",
+    "artist": "Wasted Potential",
+    "isrc": "QZHN72225690"
+  },
+  {
+    "title": "Scratches And Needles",
+    "artist": "The Nils",
+    "isrc": "USDBY0500256"
+  },
+  {
+    "title": "Escape Plan",
+    "artist": "Mobina Galore",
+    "isrc": "DETB41500571"
+  },
+  {
+    "title": "Wake The Dead",
+    "artist": "Comeback Kid",
+    "isrc": "USVIC0524603"
+  },
+  {
+    "title": "Be What You Want",
+    "artist": "Asexuals",
+    "isrc": "USDBY0500209"
+  },
+  {
+    "title": "The Other Shoe",
+    "artist": "Fucked Up",
+    "isrc": "USMTD1101502"
+  },
+  {
+    "title": "Hail Destroyer",
+    "artist": "Cancer Bats",
+    "isrc": "CAD320800013"
+  },
+  {
+    "title": "Return to Blood Beach",
+    "artist": "The Riptides",
+    "isrc": "usdy41739842"
+  },
+  {
+    "title": "Cost of Business",
+    "artist": "Heart Attack Kids",
+    "isrc": "QZHNA2484815"
+  },
+  {
+    "title": "Stain Gold",
+    "artist": "Snacks?",
+    "isrc": "QZHN72223696"
+  },
+  {
+    "title": "Quarantined",
+    "artist": "Career Suicide",
+    "isrc": "CADE60700126"
+  },
+  {
+    "title": "I Love Susan",
+    "artist": "The 222s",
+    "isrc": "TCABH1292177"
+  },
+  {
+    "title": "DVP",
+    "artist": "PUP",
+    "isrc": "USA6G1661502"
+  },
+  {
+    "title": "Some Things Never Fall",
+    "artist": "The Black Halos",
+    "isrc": "USSUB0252001"
+  },
+  {
+    "title": "The Signs of the Times",
+    "artist": "Crusades",
+    "isrc": "US4KC1333303"
+  },
+  {
+    "title": "Hotel Beds",
+    "artist": "We Were Sharks",
+    "isrc": "USVIC1774803"
+  },
+  {
+    "title": "Distant",
+    "artist": "Like Pacific",
+    "isrc": "USSTT1500182"
+  },
+  {
+    "title": "Superior Mirage",
+    "artist": "Metz",
+    "isrc": "USSUB2356005"
+  },
+  {
+    "title": "Now",
+    "artist": "Nomeansno",
+    "isrc": "US4N80500672"
+  },
+  {
+    "title": "Punk rock girl",
+    "artist": "The 3tards",
+    "isrc": "ushm90977842"
+  },
+  {
+    "title": "Something Wonderful",
+    "artist": "Seaway",
+    "isrc": "USSTT1700098"
+  },
+  {
+    "title": "Young Leaves",
+    "artist": "Attack in Black",
+    "isrc": "CADE70700002"
+  },
+  {
+    "title": "Tumbling Down",
+    "artist": "Bishops Green",
+    "isrc": "uscgj1353729"
+  },
+  {
+    "title": "Bad Timing",
+    "artist": "No Warning",
+    "isrc": "USWB10402404"
+  },
+  {
+    "title": "Nothing Special",
+    "artist": "illScarlett",
+    "isrc": "CAV160700037"
+  },
+  {
+    "title": "Juice",
+    "artist": "Dear Youth, Broadside, Oliver Baxxter",
+    "isrc": "QZNWP2250134"
+  },
+  {
+    "title": "Frisky Business",
+    "artist": "Daggermouth",
+    "isrc": "SEYOK1740770"
+  },
+  {
+    "title": "Red Flag",
+    "artist": "Billy Talent",
+    "isrc": "USAT20612281"
+  },
+  {
+    "title": "A Year In The Past, Forever In The Future",
+    "artist": "Grade",
+    "isrc": "USVIC9910906"
+  },
+  {
+    "title": "Trainwreck",
+    "artist": "Bring on the Storm",
+    "isrc": "USDY42486565"
+  },
+  {
+    "title": "Lockdown Lonely",
+    "artist": "McRackins",
+    "isrc": "USDHM2305547"
+  },
+  {
+    "title": "Right Brigade",
+    "artist": "Genetic Control",
+    "isrc": "USDBY0500168"
+  },
+  {
+    "title": "Shaky Sue",
+    "artist": "Mother's Children",
+    "isrc": "CADE60700804"
+  },
+  {
+    "title": "In Too Deep",
+    "artist": "Sum 41",
+    "isrc": "USIR20110114"
+  },
+  {
+    "title": "I've Got No Eggs",
+    "artist": "Pseudo",
+    "isrc": "QM4DW1872018"
+  },
+  {
+    "title": "Sleep",
+    "artist": "Pigment Vehicle",
+    "isrc": "CA4KE9810490"
+  },
+  {
+    "title": "Fatalist",
+    "artist": "Cursed",
+    "isrc": "CAG320400019"
+  },
+  {
+    "title": "I'm Just a Kid",
+    "artist": "Simple Plan",
+    "isrc": "USAT20111234"
+  },
+  {
+    "title": "Unconscious Melody",
+    "artist": "Preoccupations",
+    "isrc": "QMV8L1418902"
+  },
+  {
+    "title": "Skinhead Way of Life",
+    "artist": "Alternate Action",
+    "isrc": "uscgj1999433"
+  },
+  {
+    "title": "The Voyeur",
+    "artist": "Greys",
+    "isrc": "US22N1510901"
+  },
+  {
+    "title": "Get Loose",
+    "artist": "The Salads",
+    "isrc": "CAK180330001"
+  },
+  {
+    "title": "Paint the Town Red",
+    "artist": "The Mahones",
+    "isrc": "CAT241000133"
+  },
+  {
+    "title": "Syntax Error OK",
+    "artist": "Talk Show Host",
+    "isrc": "QZHN42183282"
+  },
+  {
+    "title": "More Than Ever",
+    "artist": "Chokehold",
+    "isrc": "USQY51575648"
+  },
+  {
+    "title": "Chip",
+    "artist": "The Real McKenzies",
+    "isrc": "USFW40873101"
+  },
+  {
+    "title": "Blood Blood Blood",
+    "artist": "The Creepshow",
+    "isrc": "CASE11700079"
+  },
+  {
+    "title": "Swear Jar",
+    "artist": "Rival Town",
+    "isrc": "QM6P42035380"
+  },
+  {
+    "title": "When Justice finally shines",
+    "artist": "Closet Monster",
+    "isrc": "uscgj1079662"
+  },
+  {
+    "title": "Messin' Around",
+    "artist": "The Mandates",
+    "isrc": "USQY51550593"
+  },
+  {
+    "title": "Piece By Piece",
+    "artist": "Painted Thin",
+    "isrc": "ushm90521200"
+  },
+  {
+    "title": "State Of Mind",
+    "artist": "Figure Four",
+    "isrc": "USTN10320116"
+  },
+  {
+    "title": "Overcome By...",
+    "artist": "swallowing shit",
+    "isrc": "QZ5AB1814683"
+  },
+  {
+    "title": "Time Warp",
+    "artist": "Loser Points",
+    "isrc": "QZK6L2037689"
+  },
+  {
+    "title": "Some Thai Fun",
+    "artist": "Humanifesto",
+    "isrc": "US89R1012494"
+  },
+  {
+    "title": "Big Mouth",
+    "artist": "Necking",
+    "isrc": "CAMA11918601"
+  },
+  {
+    "title": "You Never Know",
+    "artist": "Sectorseven",
+    "isrc": "CASA70100567"
+  },
+  {
+    "title": "I Hate Music",
+    "artist": "The K-Tels aka The Young Canadians",
+    "isrc": "CA4KE7910746"
+  },
+  {
+    "title": "Rock & Roll's a Hard Life",
+    "artist": "The Rock N Roll Rats",
+    "isrc": "uscgj1838257"
+  },
+  {
+    "title": "Waiting For My Man",
+    "artist": "The Scenics",
+    "isrc": "CASN70810051"
+  },
+  {
+    "title": "Monumental",
+    "artist": "The Flatliners",
+    "isrc": "USFW41074807"
+  },
+  {
+    "title": "Drunk On A Bike",
+    "artist": "SNFU",
+    "isrc": "USEP40317205"
+  },
+  {
+    "title": "Chupacabras",
+    "artist": "Chixdiggit!",
+    "isrc": "USFW40501604"
+  },
+  {
+    "title": "Elephant March",
+    "artist": "Belvedere",
+    "isrc": "GBMUE2100002"
+  },
+  {
+    "title": "Through the Teeth",
+    "artist": "Brutal Youth",
+    "isrc": "CASE12200036"
+  },
+  {
+    "title": "I Am a Rifle",
+    "artist": "Propagandhi",
+    "isrc": "QM4DW1574990"
+  },
+  {
+    "title": "Asshole Pandemic",
+    "artist": "Pkew Pkew Pkew",
+    "isrc": "CAUM81600361"
+  },
+  {
+    "title": "Bad Dreams",
+    "artist": "The Penske File",
+    "isrc": "CASE12300012"
+  },
+  {
+    "title": "Hello Hello (I'm Back Again)",
+    "artist": "The Forgotten Rebels",
+    "isrc": "TCAGP2276685"
+  },
+  {
+    "title": "I'd Rather Be Part of the Dying Bungee Scene",
+    "artist": "The Sainte Catherines",
+    "isrc": "USFW40670908"
+  },
+  {
+    "title": "Johnny Was a Punk",
+    "artist": "Random KIlling",
+    "isrc": "USE830922023"
+  },
+  {
+    "title": "In Reach",
+    "artist": "Choke",
+    "isrc": "CASB40500502"
+  },
+  {
+    "title": "Shit For Dessert",
+    "artist": "The Almighty Trigger Happy",
+    "isrc": "SEVQI9707102"
+  },
+  {
+    "title": "D'oh Canada",
+    "artist": "Ripcordz",
+    "isrc": "USA560680966"
+  },
+  {
+    "title": "Slave To My Dick",
+    "artist": "The Subhumans",
+    "isrc": "US2B20810112"
+  },
+  {
+    "title": "A Song for the Reptoids of Denver International Airport to Sing",
+    "artist": "Deforesters",
+    "isrc": "CA1YI1700002"
+  },
+  {
+    "title": "Taking Care of Business",
+    "artist": "D.O.A.",
+    "isrc": "CA4KE0910068"
+  },
+  {
+    "title": "Danger Boy",
+    "artist": "Viletones",
+    "isrc": "USA2B0603709"
+  },
+  {
+    "title": "Can't Fool Me",
+    "artist": "The Rebel Spell",
+    "isrc": "UST8K1673325"
+  },
+  {
+    "title": "Disgusteen",
+    "artist": "Teenage Head",
+    "isrc": "CAU118005056"
+  },
+  {
+    "title": "The 400 Blows",
+    "artist": "The Demics",
+    "isrc": "CAL359500005"
+  },
+  {
+    "title": "Red Rubber Ball",
+    "artist": "The Diodes",
+    "isrc": "CAE247700003"
+  },
+  {
+    "title": "Sad Dumb Game",
+    "artist": "Single Mothers",
+    "isrc": "CADE72201612"
+  },
+  {
+    "title": "Shottas",
+    "artist": "Subb",
+    "isrc": "CASE10900079"
+  },
+  {
+    "title": "I Used to Be in Love",
+    "artist": "Dayglo Abortions",
+    "isrc": "TCAEG1950844"
+  },
+  {
+    "title": "Doom Boy",
+    "artist": "The Dirty Nil",
+    "isrc": "CADE72001144"
+  },
+  {
+    "title": "Out of Luck",
+    "artist": "Pointed Sticks",
+    "isrc": "CA4KE0610015"
+  },
+  {
+    "title": "My Dream And I",
+    "artist": "Reset",
+    "isrc": "USA370689131"
+  },
+  {
+    "title": "Give Up The Grudge",
+    "artist": "Gob",
+    "isrc": "USAR10300007"
+  },
+  {
+    "title": "Can't Stop",
+    "artist": "The Planet Smashers",
+    "isrc": "CASE11900003"
+  },
+  {
+    "title": "Shelters",
+    "artist": "Knucklehead",
+    "isrc": "CALB80701411"
+  },
+  {
+    "title": "David O. Is a Nazi",
+    "artist": "d.b.s.",
+    "isrc": "CA4KE9810181"
+  },
+  {
+    "title": "Never Asked",
+    "artist": "Wasted Potential",
+    "isrc": "QZHN72225700"
+  },
+  {
+    "title": "River of Sadness",
+    "artist": "The Nils",
+    "isrc": "QMBZ92025161"
+  },
+  {
+    "title": "Dig Myself Out",
+    "artist": "Mobina Galore",
+    "isrc": "CALX01900006"
+  },
+  {
+    "title": "Do Yourself A Favor",
+    "artist": "Comeback Kid",
+    "isrc": "USVIC1049001"
+  },
+  {
+    "title": "Asexual",
+    "artist": "Asexuals",
+    "isrc": "USDBY0500217"
+  },
+  {
+    "title": "Queen of Hearts",
+    "artist": "Fucked Up",
+    "isrc": "USMTD1101500"
+  },
+  {
+    "title": "Sabotage",
+    "artist": "Cancer Bats",
+    "isrc": "CAD321000014"
+  },
+  {
+    "title": "Goodbye Hawaii",
+    "artist": "The Riptides",
+    "isrc": "ushm21770765"
+  },
+  {
+    "title": "CRAWL",
+    "artist": "Heart Attack Kids",
+    "isrc": "QZWFL2394870"
+  },
+  {
+    "title": "That's It",
+    "artist": "Snacks?",
+    "isrc": "QZHN72223691"
+  },
+  {
+    "title": "Recipe For Disaster",
+    "artist": "Career Suicide",
+    "isrc": "CADE60700035"
+  },
+  {
+    "title": "The First Studio Bomb",
+    "artist": "The 222s",
+    "isrc": "TCABH1292191"
+  },
+  {
+    "title": "Kids",
+    "artist": "PUP",
+    "isrc": "QMRSZ1802745"
+  },
+  {
+    "title": "Three Sheets to the Wind",
+    "artist": "The Black Halos",
+    "isrc": "US4D60501001"
+  },
+  {
+    "title": "The Torchbearer",
+    "artist": "Crusades",
+    "isrc": "US4KC1333302"
+  },
+  {
+    "title": "How to Lose Your Cool",
+    "artist": "We Were Sharks",
+    "isrc": "QMFMF1519581"
+  },
+  {
+    "title": "Had It Coming",
+    "artist": "Like Pacific",
+    "isrc": "USSTT1700193"
+  },
+  {
+    "title": "Light Your Way Home",
+    "artist": "Metz",
+    "isrc": "USSUB2356008"
+  },
+  {
+    "title": "It's Catching Up",
+    "artist": "Nomeansno",
+    "isrc": "US2B20407509"
+  },
+  {
+    "title": "Stuck On You",
+    "artist": "The 3tards",
+    "isrc": "CASG20610017"
+  },
+  {
+    "title": "Closer",
+    "artist": "Seaway",
+    "isrc": "USSTT1900012"
+  },
+  {
+    "title": "You're Such an Only Child - Live",
+    "artist": "Attack in Black",
+    "isrc": "CADE71800602"
+  },
+  {
+    "title": "Alone",
+    "artist": "Bishops Green",
+    "isrc": "uscgj1353732"
+  },
+  {
+    "title": "Behind These Walls",
+    "artist": "No Warning",
+    "isrc": "US2Y70803001"
+  },
+  {
+    "title": "One-A - New Mix - 2008",
+    "artist": "illScarlett",
+    "isrc": "CAIA10800013"
+  },
+  {
+    "title": "Dandelions",
+    "artist": "Dear Youth",
+    "isrc": "QM42K2035584"
+  },
+  {
+    "title": "Abracada Holmes",
+    "artist": "Daggermouth",
+    "isrc": "SEYOK1740764"
+  },
+  {
+    "title": "Rusted From the Rain",
+    "artist": "Billy Talent",
+    "isrc": "CAW110900044"
+  },
+  {
+    "title": "The Inefficiency Of Emotion",
+    "artist": "Grade",
+    "isrc": "USVIC9910901"
+  },
+  {
+    "title": "Decompose",
+    "artist": "Bring on the Storm",
+    "isrc": "FRS182145469"
+  },
+  {
+    "title": "Resuscitation of the Year",
+    "artist": "The Flatliners",
+    "isrc": "CADE70901255"
+  },
+  {
+    "title": "Don't Have The Cow",
+    "artist": "SNFU",
+    "isrc": "USDBY0600889"
+  },
+  {
+    "title": "Miso Ramen",
+    "artist": "Chixdiggit!",
+    "isrc": "USFW41176601"
+  },
+  {
+    "title": "Three's a Crowd",
+    "artist": "Belvedere",
+    "isrc": "usdy41665887"
+  },
+  {
+    "title": "Juice Cleanse",
+    "artist": "Brutal Youth",
+    "isrc": "CASE12200032"
+  },
+  {
+    "title": "Victory Lap",
+    "artist": "Propagandhi",
+    "isrc": "USEP41721001"
+  },
+  {
+    "title": "Hot Tub or Bust",
+    "artist": "Pkew Pkew Pkew",
+    "isrc": "CASE12300028"
+  },
+  {
+    "title": "Chorus Girl",
+    "artist": "The Penske File",
+    "isrc": "CASE12300013"
+  },
+  {
+    "title": "I Think of Her",
+    "artist": "The Forgotten Rebels",
+    "isrc": "TCAGQ2260949"
+  },
+  {
+    "title": "We Used To Be In Love",
+    "artist": "The Sainte Catherines",
+    "isrc": "CASE11000135"
+  },
+  {
+    "title": "Genocide",
+    "artist": "Random KIlling",
+    "isrc": "FR2X42394303"
+  },
+  {
+    "title": "Breathing Won't Come Easy",
+    "artist": "Choke",
+    "isrc": "CASB40502501"
+  },
+  {
+    "title": "Tango",
+    "artist": "The Almighty Trigger Happy",
+    "isrc": "SEVQI9707103"
+  },
+  {
+    "title": "Slide",
+    "artist": "Ripcordz",
+    "isrc": "CA4KE0210631"
+  },
+  {
+    "title": "Behind My Smile",
+    "artist": "The Subhumans",
+    "isrc": "US9HX1000071"
+  },
+  {
+    "title": "Municipal Geography Lesson",
+    "artist": "Deforesters",
+    "isrc": "CA1YI1700013"
+  },
+  {
+    "title": "The Enemy",
+    "artist": "D.O.A.",
+    "isrc": "CA4KE0310102"
+  },
+  {
+    "title": "Never Feel Sad",
+    "artist": "Viletones",
+    "isrc": "USA2B0603701"
+  },
+  {
+    "title": "Please Resist",
+    "artist": "The Rebel Spell",
+    "isrc": "UST8K1673327"
+  },
+  {
+    "title": "Somethin' On My Mind",
+    "artist": "Teenage Head",
+    "isrc": "CAU118005048"
+  },
+  {
+    "title": "I Wanna Know",
+    "artist": "The Demics",
+    "isrc": "CASP31248201"
+  },
+  {
+    "title": "Cat Walker",
+    "artist": "The Diodes",
+    "isrc": "CAAF10900378"
+  },
+  {
+    "title": "Winter Coats",
+    "artist": "Single Mothers",
+    "isrc": "USHTV1200013"
+  },
+  {
+    "title": "Outer Space",
+    "artist": "Subb, Mudie",
+    "isrc": "FRX282427240"
+  },
+  {
+    "title": "I Love My Mom",
+    "artist": "Dayglo Abortions",
+    "isrc": "CA08W1500461"
+  },
+  {
+    "title": "That's What Heaven Feels Like",
+    "artist": "The Dirty Nil",
+    "isrc": "CADE71800665"
+  },
+  {
+    "title": "Out Of Luck",
+    "artist": "Pointed Sticks",
+    "isrc": "GBAHW0500656"
+  },
+  {
+    "title": "Go Away",
+    "artist": "Reset",
+    "isrc": "USA370689118"
+  },
+  {
+    "title": "Oh! Ellin",
+    "artist": "Gob",
+    "isrc": "CAN110300141"
+  },
+  {
+    "title": "Blind",
+    "artist": "The Planet Smashers",
+    "isrc": "USA560442589"
+  },
+  {
+    "title": "Born in the Big City",
+    "artist": "Knucklehead",
+    "isrc": "CALB80701408"
+  }
+]

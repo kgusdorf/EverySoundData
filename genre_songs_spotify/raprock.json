@@ -1,0 +1,822 @@
+[
+  {
+    "title": "Butterfly",
+    "artist": "Crazy Town",
+    "isrc": "USSM19911429"
+  },
+  {
+    "title": "Youth of the Nation",
+    "artist": "P.O.D.",
+    "isrc": "USAT20106877"
+  },
+  {
+    "title": "Raise Hell",
+    "artist": "(Hed) P.E.",
+    "isrc": "USKO10407757"
+  },
+  {
+    "title": "Poison Well",
+    "artist": "Insolence",
+    "isrc": "USMV20100067"
+  },
+  {
+    "title": "Last Resort",
+    "artist": "Papa Roach",
+    "isrc": "USDW10021712"
+  },
+  {
+    "title": "Tangerine Sky",
+    "artist": "Kottonmouth Kings",
+    "isrc": "USCA20200879"
+  },
+  {
+    "title": "Loco",
+    "artist": "Coal Chamber",
+    "isrc": "NLA329780033"
+  },
+  {
+    "title": "Loose",
+    "artist": "Primer 55",
+    "isrc": "USAHB1000695"
+  },
+  {
+    "title": "God of Waar",
+    "artist": "Dirty Wormz",
+    "isrc": "ushm91222552"
+  },
+  {
+    "title": "Magnetic Mic Control",
+    "artist": "Phunk Junkeez",
+    "isrc": "USS1N0410155"
+  },
+  {
+    "title": "What You Got",
+    "artist": "Reveille",
+    "isrc": "AEA0D2256625"
+  },
+  {
+    "title": "Body Count's in the House",
+    "artist": "Body Count",
+    "isrc": "USWB10102379"
+  },
+  {
+    "title": "Killing In The Name",
+    "artist": "Rage Against The Machine",
+    "isrc": "USSM11205433"
+  },
+  {
+    "title": "Everywhere I Go",
+    "artist": "Hollywood Undead",
+    "isrc": "USUM70825240"
+  },
+  {
+    "title": "Don't Mean A Thing",
+    "artist": "Borialis",
+    "isrc": "USCA20300121"
+  },
+  {
+    "title": "Judgment Night",
+    "artist": "Biohazard, Onyx",
+    "isrc": "USSM10606386"
+  },
+  {
+    "title": "Amber",
+    "artist": "311",
+    "isrc": "USVR10100044"
+  },
+  {
+    "title": "What Have We Become",
+    "artist": "Dead Celebrity Status, Limore",
+    "isrc": "CA5CU1300245"
+  },
+  {
+    "title": "Insane in the Brain",
+    "artist": "Cypress Hill",
+    "isrc": "USSM19303133"
+  },
+  {
+    "title": "Sabotage",
+    "artist": "Beastie Boys",
+    "isrc": "USCA29400020"
+  },
+  {
+    "title": "America",
+    "artist": "Deuce",
+    "isrc": "USDPK1105003"
+  },
+  {
+    "title": "Remember the Name (feat. Styles of Beyond)",
+    "artist": "Fort Minor, Styles Of Beyond",
+    "isrc": "USWB10502457"
+  },
+  {
+    "title": "Barely Breathing (feat. Against The Current)",
+    "artist": "From Ashes to New, Against The Current, Chrissy Costanza",
+    "isrc": "USDPK2300151"
+  },
+  {
+    "title": "Pedal To The Metal",
+    "artist": "Mark Kasprzyk, Brian West, Kazzer",
+    "isrc": "USSM10209861"
+  },
+  {
+    "title": "Can't Stop Now",
+    "artist": "Southpaw Swagger",
+    "isrc": "TCAAQ1099766"
+  },
+  {
+    "title": "Freaks",
+    "artist": "Bionic Jive",
+    "isrc": "USIR10120052"
+  },
+  {
+    "title": "Not Promised Tomorrow",
+    "artist": "Stuck Mojo",
+    "isrc": "US4E40478801"
+  },
+  {
+    "title": "Get Naked",
+    "artist": "Methods of Mayhem, Fred Durst, George Clinton, Lil' Kim, Mix Master Mike",
+    "isrc": "USMC19989317"
+  },
+  {
+    "title": "Age of Panic",
+    "artist": "Senser",
+    "isrc": "GBKZT1410014"
+  },
+  {
+    "title": "Unfuck The World",
+    "artist": "Prophets Of Rage",
+    "isrc": "USC4R1706033"
+  },
+  {
+    "title": "Holy Man",
+    "artist": "One Minute Silence",
+    "isrc": "USVT10000003"
+  },
+  {
+    "title": "Heaven Is a Halfpipe (If I Die)",
+    "artist": "OPM",
+    "isrc": "USAT20002049"
+  },
+  {
+    "title": "Epinephrine",
+    "artist": "Genuflect",
+    "isrc": "ushm90791808"
+  },
+  {
+    "title": "The Bad Touch",
+    "artist": "Bloodhound Gang",
+    "isrc": "USIR19902530"
+  },
+  {
+    "title": "Somthin Wicked This Way Comes",
+    "artist": "Wolfpac",
+    "isrc": "uscgh0825511"
+  },
+  {
+    "title": "Hooligan",
+    "artist": "Big B",
+    "isrc": "USS1N0410023"
+  },
+  {
+    "title": "Nothing's What It Seems",
+    "artist": "Project Wyze",
+    "isrc": "CAC220100077"
+  },
+  {
+    "title": "Velocirapper",
+    "artist": "Xombie",
+    "isrc": "TCABY1418698"
+  },
+  {
+    "title": "Jump Around - 30 Years Remaster",
+    "artist": "House Of Pain",
+    "isrc": "USTB12100088"
+  },
+  {
+    "title": "Feel So Stupid (Table 9)",
+    "artist": "Darwin's Waiting Room",
+    "isrc": "USMC10110567"
+  },
+  {
+    "title": "No Light",
+    "artist": "3rd Strike",
+    "isrc": "USHR10110200"
+  },
+  {
+    "title": "In My Room",
+    "artist": "Insane Clown Posse",
+    "isrc": "US2X60400354"
+  },
+  {
+    "title": "Set It Off",
+    "artist": "Shuvel",
+    "isrc": "USIR10000905"
+  },
+  {
+    "title": "Nuthin Left",
+    "artist": "Judge D",
+    "isrc": "QM6XS1808219"
+  },
+  {
+    "title": "Santeria",
+    "artist": "Sublime",
+    "isrc": "USGA19649253"
+  },
+  {
+    "title": "My Suicide",
+    "artist": "Critical Bill",
+    "isrc": "USBHD0700706"
+  },
+  {
+    "title": "White Rabbit",
+    "artist": "Egypt Central",
+    "isrc": "US2D61120001"
+  },
+  {
+    "title": "Prozac",
+    "artist": "Five Foot Thick",
+    "isrc": "US4YS0400040"
+  },
+  {
+    "title": "Sicksong",
+    "artist": ".sPout.",
+    "isrc": "ATR700200202"
+  },
+  {
+    "title": "No Cops",
+    "artist": "The Dirtball",
+    "isrc": "QM6XS1808299"
+  },
+  {
+    "title": "At It Again",
+    "artist": "Johnny Richter",
+    "isrc": "USS1N1017202"
+  },
+  {
+    "title": "Scooby Snacks",
+    "artist": "Fun Lovin' Criminals",
+    "isrc": "GBAYE9500245"
+  },
+  {
+    "title": "Got It Goin' On",
+    "artist": "24-7 Spyz",
+    "isrc": "USAT20611998"
+  },
+  {
+    "title": "Pushing Me",
+    "artist": "Slaves on Dope",
+    "isrc": "CAJ229916960"
+  },
+  {
+    "title": "Let's Go",
+    "artist": "Travis Barker, Yelawolf, Twista, Busta Rhymes, Lil Jon",
+    "isrc": "USUM71101910"
+  },
+  {
+    "title": "Inside",
+    "artist": "Switched",
+    "isrc": "USA2P1345600"
+  },
+  {
+    "title": "Resistance",
+    "artist": "Powerflo",
+    "isrc": "CADE71700340"
+  },
+  {
+    "title": "Unmasked",
+    "artist": "9th Corner",
+    "isrc": "US38L0704762"
+  },
+  {
+    "title": "Jump the Bridge",
+    "artist": "Headplate",
+    "isrc": "SEVWR0200207"
+  },
+  {
+    "title": "The Bible Is Bullshit",
+    "artist": "Corporate Avenger",
+    "isrc": "USKO10100585"
+  },
+  {
+    "title": "Friends & Family",
+    "artist": "Trik Turner",
+    "isrc": "USRC10101391"
+  },
+  {
+    "title": "Greyhound Bus",
+    "artist": "Kongcrete",
+    "isrc": "USTC50808526"
+  },
+  {
+    "title": "Bruises",
+    "artist": "Unloco",
+    "isrc": "USMV20200186"
+  },
+  {
+    "title": "Double X Minus",
+    "artist": "Five Pointe O",
+    "isrc": "NLA320119651"
+  },
+  {
+    "title": "Medicated",
+    "artist": "Downthesun",
+    "isrc": "NLA320219897"
+  },
+  {
+    "title": "Diary 2",
+    "artist": "Factory 81",
+    "isrc": "QZHN31920367"
+  },
+  {
+    "title": "Pain",
+    "artist": "Stereomud",
+    "isrc": "USLR50100095"
+  },
+  {
+    "title": "Check Ya",
+    "artist": "From Zero",
+    "isrc": "USAR10100063"
+  },
+  {
+    "title": "PUNK TACTICS",
+    "artist": "Joey Valence & Brae",
+    "isrc": "TCAGD2268922"
+  },
+  {
+    "title": "General Admission",
+    "artist": "Mower",
+    "isrc": "USS1N0610059"
+  },
+  {
+    "title": "Pathetic",
+    "artist": "Five Bolt Main",
+    "isrc": "US3DF1601498"
+  },
+  {
+    "title": "Fever for the Flava",
+    "artist": "Hot Action Cop",
+    "isrc": "USAT20202677"
+  },
+  {
+    "title": "Little Pills",
+    "artist": "Kabosh",
+    "isrc": "USZHR0600035"
+  },
+  {
+    "title": "Caught Up In The System",
+    "artist": "SX-10",
+    "isrc": "USA370581749"
+  },
+  {
+    "title": "Contrasts",
+    "artist": "Number One Son",
+    "isrc": "GBEGS0900132"
+  },
+  {
+    "title": "Breathless",
+    "artist": "Lifer",
+    "isrc": "USUR10110294"
+  },
+  {
+    "title": "Put Up Or Shut Up - Original Version",
+    "artist": "Sunbomb",
+    "isrc": "CH6540810966"
+  },
+  {
+    "title": "U Again",
+    "artist": "EASTcide",
+    "isrc": "USA370318915"
+  },
+  {
+    "title": "Where Did You Go",
+    "artist": "Full Devil Jacket",
+    "isrc": "USIR29905530"
+  },
+  {
+    "title": "Broken Promises",
+    "artist": "Element Eighty",
+    "isrc": "USUR10300935"
+  },
+  {
+    "title": "Whiskey",
+    "artist": "Villebillies",
+    "isrc": "USUM70606605"
+  },
+  {
+    "title": "Boom",
+    "artist": "P.O.D.",
+    "isrc": "USAT20106875"
+  },
+  {
+    "title": "Bartender",
+    "artist": "(Hed) P.E.",
+    "isrc": "USJI10000265"
+  },
+  {
+    "title": "Death Threat",
+    "artist": "Insolence",
+    "isrc": "USMV20100065"
+  },
+  {
+    "title": "Toxic - Explicit Album Version",
+    "artist": "Crazy Town",
+    "isrc": "USSM19911425"
+  },
+  {
+    "title": "City 2 City",
+    "artist": "Kottonmouth Kings, Tech N9ne, Krizz Kaliko",
+    "isrc": "QM6XS1807740"
+  },
+  {
+    "title": "Sway",
+    "artist": "Coal Chamber",
+    "isrc": "NLA329780037"
+  },
+  {
+    "title": "Scars",
+    "artist": "Papa Roach",
+    "isrc": "USDW10400812"
+  },
+  {
+    "title": "Supa Freak Love",
+    "artist": "Primer 55",
+    "isrc": "USIR29905510"
+  },
+  {
+    "title": "Big Bad Azz",
+    "artist": "Dirty Wormz",
+    "isrc": "USBBR0900374"
+  },
+  {
+    "title": "The Quest",
+    "artist": "Phunk Junkeez",
+    "isrc": "US75M0801499"
+  },
+  {
+    "title": "Butterfly",
+    "artist": "Reveille",
+    "isrc": "USEE19900071"
+  },
+  {
+    "title": "Psychopath (feat. Joe Bad)",
+    "artist": "Body Count, Joe Bad",
+    "isrc": "GBDHC2446504"
+  },
+  {
+    "title": "Undead",
+    "artist": "Hollywood Undead",
+    "isrc": "USUM70826489"
+  },
+  {
+    "title": "Mightier Than The Sword - Edited",
+    "artist": "Borialis",
+    "isrc": "USCA20300119"
+  },
+  {
+    "title": "Bulls On Parade",
+    "artist": "Rage Against The Machine",
+    "isrc": "USSM19502563"
+  },
+  {
+    "title": "Shades of Grey - Remastered",
+    "artist": "Biohazard",
+    "isrc": "NLA329880387"
+  },
+  {
+    "title": "They Will Love You",
+    "artist": "Dead Celebrity Status",
+    "isrc": "CA5CU1300244"
+  },
+  {
+    "title": "Hits from the Bong",
+    "artist": "Cypress Hill",
+    "isrc": "USSM19303140"
+  },
+  {
+    "title": "Beautiful Disaster",
+    "artist": "311",
+    "isrc": "USCA19786867"
+  },
+  {
+    "title": "The One",
+    "artist": "Deuce",
+    "isrc": "USDPK1105005"
+  },
+  {
+    "title": "No Sleep Till Brooklyn",
+    "artist": "Beastie Boys",
+    "isrc": "USDJ28600008"
+  },
+  {
+    "title": "Panic",
+    "artist": "From Ashes to New",
+    "isrc": "USDPK2000008"
+  },
+  {
+    "title": "Fueled By Adrenaline",
+    "artist": "Kazzer",
+    "isrc": "CAL350500047"
+  },
+  {
+    "title": "Where'd You Go (feat. Holly Brook & Jonah Matranga)",
+    "artist": "Fort Minor, Holly Brook, Jonah Matranga",
+    "isrc": "USWB10504785"
+  },
+  {
+    "title": "Showdown",
+    "artist": "Southpaw Swagger",
+    "isrc": "US43C1000064"
+  },
+  {
+    "title": "I Shot Lucifer",
+    "artist": "Bionic Jive",
+    "isrc": "USIR10120055"
+  },
+  {
+    "title": "Rising",
+    "artist": "Stuck Mojo",
+    "isrc": "US4E40488805"
+  },
+  {
+    "title": "Crash",
+    "artist": "Methods of Mayhem",
+    "isrc": "USUM71901064"
+  },
+  {
+    "title": "States of Mind",
+    "artist": "Senser",
+    "isrc": "GBKZT1410011"
+  },
+  {
+    "title": "Prophets Of Rage",
+    "artist": "Prophets Of Rage",
+    "isrc": "QZ4YD1600001"
+  },
+  {
+    "title": "Rise And Shine",
+    "artist": "One Minute Silence",
+    "isrc": "USVT10000001"
+  },
+  {
+    "title": "El Capitan",
+    "artist": "OPM",
+    "isrc": "USAT20002272"
+  },
+  {
+    "title": "Potent",
+    "artist": "Genuflect",
+    "isrc": "ushm90791804"
+  },
+  {
+    "title": "Death Becomes Her",
+    "artist": "Wolfpac",
+    "isrc": "uscgh0825513"
+  },
+  {
+    "title": "Foxtrot Uniform Charlie Kilo",
+    "artist": "Bloodhound Gang",
+    "isrc": "USUM70500792"
+  },
+  {
+    "title": "Hangovers with You",
+    "artist": "Big B, Dirty Heads",
+    "isrc": "USS1N1368609"
+  },
+  {
+    "title": "Room To Breathe",
+    "artist": "Project Wyze",
+    "isrc": "CAC220100076"
+  },
+  {
+    "title": "Rotten Apple",
+    "artist": "Xombie",
+    "isrc": "TCABY1418703"
+  },
+  {
+    "title": "Live For The Moment",
+    "artist": "Darwin's Waiting Room",
+    "isrc": "USMC10110415"
+  },
+  {
+    "title": "Flow Heat",
+    "artist": "3rd Strike",
+    "isrc": "USHR10110212"
+  },
+  {
+    "title": "Top O' the Morning to Ya",
+    "artist": "House Of Pain",
+    "isrc": "USTB10300447"
+  },
+  {
+    "title": "Those Who Stand In Line",
+    "artist": "Shuvel",
+    "isrc": "USIR10001002"
+  },
+  {
+    "title": "Boogie Woogie Wu",
+    "artist": "Insane Clown Posse",
+    "isrc": "USIR29700347"
+  },
+  {
+    "title": "Devils Makin Deals",
+    "artist": "Judge D",
+    "isrc": "QM6XS1808222"
+  },
+  {
+    "title": "What I Got",
+    "artist": "Sublime",
+    "isrc": "USGA19649251"
+  },
+  {
+    "title": "Rock Like That",
+    "artist": "Critical Bill",
+    "isrc": "USZHR0600025"
+  },
+  {
+    "title": "Hunted",
+    "artist": "Egypt Central",
+    "isrc": "QZCC31800014"
+  },
+  {
+    "title": "Unfounded",
+    "artist": "Five Foot Thick",
+    "isrc": "US4YS0610013"
+  },
+  {
+    "title": "Drift (Drift)",
+    "artist": ".sPout.",
+    "isrc": "ATD730500003"
+  },
+  {
+    "title": "Moonshine Rhyme",
+    "artist": "The Dirtball",
+    "isrc": "QM6XS1808254"
+  },
+  {
+    "title": "Let's Go",
+    "artist": "Johnny Richter",
+    "isrc": "USS1N1017201"
+  },
+  {
+    "title": "The Fun Lovin' Criminal",
+    "artist": "Fun Lovin' Criminals",
+    "isrc": "GBAYE9500829"
+  },
+  {
+    "title": "Break the Chains",
+    "artist": "24-7 Spyz",
+    "isrc": "USAT20611994"
+  },
+  {
+    "title": "I Can't Die",
+    "artist": "Slaves on Dope",
+    "isrc": "CAJ229916970"
+  },
+  {
+    "title": "Let's Go - Ricky Luna Remix",
+    "artist": "Travis Barker, Yelawolf, Twista, Busta Rhymes, Lil Jon, Ricky Luna",
+    "isrc": "USUM71206406"
+  },
+  {
+    "title": "Renegade",
+    "artist": "(Hed) P.E.",
+    "isrc": "USS1N0910008"
+  },
+  {
+    "title": "Alive - Chris Lord-Alge Mix",
+    "artist": "P.O.D.",
+    "isrc": "USAT20106836"
+  },
+  {
+    "title": "1-2, 1-2 (feat. Sen Dog)",
+    "artist": "Insolence, Sen Dog",
+    "isrc": "USMV20100070"
+  },
+  {
+    "title": "Drowning",
+    "artist": "Crazy Town",
+    "isrc": "USSM10211634"
+  },
+  {
+    "title": "4-2-0",
+    "artist": "Kottonmouth Kings",
+    "isrc": "USCA20200866"
+  },
+  {
+    "title": "Fiend",
+    "artist": "Coal Chamber",
+    "isrc": "NLA320219714"
+  },
+  {
+    "title": "The Big F*** You",
+    "artist": "Primer 55",
+    "isrc": "USIR29905521"
+  },
+  {
+    "title": "Help",
+    "artist": "Papa Roach",
+    "isrc": "USDPK1700067"
+  },
+  {
+    "title": "Top Of The Food Chain",
+    "artist": "Dirty Wormz",
+    "isrc": "US38L0704088"
+  },
+  {
+    "title": "Adrenaline",
+    "artist": "Phunk Junkeez",
+    "isrc": "US75M0801505"
+  },
+  {
+    "title": "Look at Me Now",
+    "artist": "Reveille",
+    "isrc": "AEA0D2256626"
+  },
+  {
+    "title": "Institutionalized 2014",
+    "artist": "Body Count",
+    "isrc": "USYFZ1449307"
+  },
+  {
+    "title": "Holocaust - Edited",
+    "artist": "Borialis",
+    "isrc": "USCA20300120"
+  },
+  {
+    "title": "Bullet",
+    "artist": "Hollywood Undead",
+    "isrc": "USUM71102095"
+  },
+  {
+    "title": "Down for Life",
+    "artist": "Biohazard",
+    "isrc": "USWB10103969"
+  },
+  {
+    "title": "Guerrilla Radio",
+    "artist": "Rage Against The Machine",
+    "isrc": "USSM19919500"
+  },
+  {
+    "title": "We Fall, We Fall",
+    "artist": "Dead Celebrity Status",
+    "isrc": "CAH280418002"
+  },
+  {
+    "title": "All Mixed Up",
+    "artist": "311",
+    "isrc": "USVR10300144"
+  },
+  {
+    "title": "Let's Get It Crackin'",
+    "artist": "Deuce",
+    "isrc": "USDPK1105001"
+  },
+  {
+    "title": "Fight For Your Right",
+    "artist": "Beastie Boys",
+    "isrc": "USDJ28600007"
+  },
+  {
+    "title": "How I Could Just Kill a Man",
+    "artist": "Cypress Hill",
+    "isrc": "USSM19901632"
+  },
+  {
+    "title": "Nightmare",
+    "artist": "From Ashes to New",
+    "isrc": "USDPK2300001"
+  },
+  {
+    "title": "What I Got",
+    "artist": "Mark Kasprzyk, Thomas \"Tawgs\" Salter, Kazzer",
+    "isrc": "USSM10210566"
+  },
+  {
+    "title": "Believe Me (feat. Bobo & Styles of Beyond)",
+    "artist": "Fort Minor, Bobo, Styles Of Beyond",
+    "isrc": "USWB10504335"
+  },
+  {
+    "title": "Make the Party Loud",
+    "artist": "Southpaw Swagger",
+    "isrc": "TCAAQ1099771"
+  },
+  {
+    "title": "Pump",
+    "artist": "Bionic Jive",
+    "isrc": "USIR10120059"
+  },
+  {
+    "title": "(Here Comes) the Monster",
+    "artist": "Stuck Mojo",
+    "isrc": "US4E40483303"
+  },
+  {
+    "title": "Fight Song",
+    "artist": "Methods of Mayhem",
+    "isrc": "NLA321089934"
+  }
+]

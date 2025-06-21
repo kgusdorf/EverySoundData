@@ -1,0 +1,727 @@
+[
+  {
+    "title": "14 anos 9 meses",
+    "artist": "El Jefe De Sinaloa",
+    "isrc": "GBSMU0943336"
+  },
+  {
+    "title": "El Hijo Desobediente",
+    "artist": "Jorge Gamboa",
+    "isrc": "USZBG1112634"
+  },
+  {
+    "title": "El Preso De Culiacan",
+    "artist": "EL Periquito De Sinaloa",
+    "isrc": "GBSMU0951350"
+  },
+  {
+    "title": "Hay Veces Que El Pato Nada",
+    "artist": "Edgar Aguilar \"El Narquillo\"",
+    "isrc": "US3DF1321875"
+  },
+  {
+    "title": "Muerte de Chalino",
+    "artist": "El Monarca De Sinaloa",
+    "isrc": "QM7281674390"
+  },
+  {
+    "title": "Hasta Me Quede Dormido",
+    "artist": "El Apomeño De Sinaloa",
+    "isrc": "USJ3V1216982"
+  },
+  {
+    "title": "Corrido A Chalino",
+    "artist": "Leonel El Ranchero De Sinaloa",
+    "isrc": "USZBG1118235"
+  },
+  {
+    "title": "Querido Amigo",
+    "artist": "El Rojo De Sinaloa, Saul Viera El Gavilancillo",
+    "isrc": "QMBZ91309285"
+  },
+  {
+    "title": "Lupe Salazar",
+    "artist": "Almikar El Cazador, Leonel el Ranchero",
+    "isrc": "USDXS1904365"
+  },
+  {
+    "title": "Sere Un Borracho",
+    "artist": "Leonel Y Almikar \"Los Ases De Sinaloa\"",
+    "isrc": "TCAAR1072852"
+  },
+  {
+    "title": "Nieves de Sabores - Banda",
+    "artist": "Ramon Antonio El Diamante De Sinaloa",
+    "isrc": "QM7282095197"
+  },
+  {
+    "title": "Corr del Cien Muertes",
+    "artist": "A. Cano Chalinillo",
+    "isrc": "QM6DC1729912"
+  },
+  {
+    "title": "Voy A Tomarme Un Mezcal",
+    "artist": "Victor Carrisoza",
+    "isrc": "GBSMU0949249"
+  },
+  {
+    "title": "El Traile Blindado",
+    "artist": "Jorge Gamboa El Incomparable De Sinaloa",
+    "isrc": "USDXS1702759"
+  },
+  {
+    "title": "LA FUGA DEL ROJO",
+    "artist": "El Lince De La Sierra",
+    "isrc": "USZBG1117758"
+  },
+  {
+    "title": "La Ametralladora",
+    "artist": "Saul Viera El Gavilancillo, Chalino Sanchez",
+    "isrc": "USDXS2200220"
+  },
+  {
+    "title": "Los Tres Comandantes",
+    "artist": "El Incomparable de Sinaloa",
+    "isrc": "USDXS1907715"
+  },
+  {
+    "title": "Intercambio De Drogas",
+    "artist": "El Plebe De Sinaloa",
+    "isrc": "USZBG1115353"
+  },
+  {
+    "title": "El Cajoncito",
+    "artist": "El Heredero",
+    "isrc": "USZBG1206164"
+  },
+  {
+    "title": "Agua Que Miras Correr",
+    "artist": "Leonel El Ranchero Y Almikar El Cazador, El Gavilancillo Saul Viera, Leonel el Ranchero, Almikar El Cazador, Saul Viera El Gavilancillo",
+    "isrc": "USDXS2104661"
+  },
+  {
+    "title": "Cajita de Oro",
+    "artist": "El Gavilancillo",
+    "isrc": "USUSS1011006"
+  },
+  {
+    "title": "Maquina 501",
+    "artist": "Juan Palma",
+    "isrc": "QM6DC1524844"
+  },
+  {
+    "title": "Un Plebe y un Michoacano",
+    "artist": "El consentido de Sinaloa",
+    "isrc": "QM4TW1569280"
+  },
+  {
+    "title": "dile",
+    "artist": "El Lobito de Sinaloa",
+    "isrc": "QZ8252206939"
+  },
+  {
+    "title": "Tu Lo Decidiste",
+    "artist": "El Gallo De La Sierra",
+    "isrc": "US3DF1949595"
+  },
+  {
+    "title": "El Senor De Los Cielos",
+    "artist": "El Cartel Del Corrido",
+    "isrc": "QM6DC1523624"
+  },
+  {
+    "title": "La Entalladita",
+    "artist": "El Autentico De Sinaloa",
+    "isrc": "USZBG1110785"
+  },
+  {
+    "title": "Celoso",
+    "artist": "El Chalinillo",
+    "isrc": "USA560927099"
+  },
+  {
+    "title": "El Santo De Los Mafiosos",
+    "artist": "Lazaro Salazar El Barranqueno De Sinaloa",
+    "isrc": "USZBG1113193"
+  },
+  {
+    "title": "El Navegante",
+    "artist": "El Puma De Sinaloa",
+    "isrc": "USZBG1112393"
+  },
+  {
+    "title": "El Diablo en una Botella",
+    "artist": "Voces Del Rancho",
+    "isrc": "QM6P41500756"
+  },
+  {
+    "title": "El Chuma",
+    "artist": "Roman Coronado",
+    "isrc": "USZBG1113819"
+  },
+  {
+    "title": "Hace un Año",
+    "artist": "Leonel Y Almicar, La Rebelión Norteña",
+    "isrc": "QM6N21579501"
+  },
+  {
+    "title": "Nomás Por Ti Me Emborracho",
+    "artist": "Pedro y Manuel",
+    "isrc": "US9CY0900183"
+  },
+  {
+    "title": "La Cheyene Roja",
+    "artist": "Alexander El Jefe De Sinaloa",
+    "isrc": "QMBZ91309876"
+  },
+  {
+    "title": "Avioneta Colombiana",
+    "artist": "Nachito Ruiz",
+    "isrc": "QM6N21563435"
+  },
+  {
+    "title": "Fijate",
+    "artist": "Lombardo Higuera",
+    "isrc": "USDHM1011798"
+  },
+  {
+    "title": "Pakas De A Kilo",
+    "artist": "El Halcon De La Sierra",
+    "isrc": "US3DF1103732"
+  },
+  {
+    "title": "El Cartel",
+    "artist": "Leonel El Ranchero, Los Caballeros del Norte",
+    "isrc": "QZDQH2356260"
+  },
+  {
+    "title": "Gente Del Cartel",
+    "artist": "Jorge Morales El Jilguero, Peso Pluma",
+    "isrc": "FR96X2124004"
+  },
+  {
+    "title": "Chevrolet Cuatro por Cuatro",
+    "artist": "Los Dos Grandes De La Sierra",
+    "isrc": "QMDA71524920"
+  },
+  {
+    "title": "El Barco",
+    "artist": "Los Caneleros de Sinaloa",
+    "isrc": "GBSMU0943308"
+  },
+  {
+    "title": "El Compa May",
+    "artist": "Antonio Viera El Vale Del Sur",
+    "isrc": "US3DF1121348"
+  },
+  {
+    "title": "Cuando Me Dejes de Amar",
+    "artist": "Leonel y Almikar Los Ases De Sinaloa",
+    "isrc": "QM4TX1792330"
+  },
+  {
+    "title": "Catarino y Los Rurales",
+    "artist": "El As De La Sierra",
+    "isrc": "US3DF2142424"
+  },
+  {
+    "title": "Sinaloa Y Sus Ojos Verdes",
+    "artist": "Los Tremendos Del Norte",
+    "isrc": "US3DF1121299"
+  },
+  {
+    "title": "Los Nuevos Soldados",
+    "artist": "El Original De La Sierra",
+    "isrc": "QZHN31987782"
+  },
+  {
+    "title": "El Periquero",
+    "artist": "Dueto Los Caporales",
+    "isrc": "USZBG1116731"
+  },
+  {
+    "title": "El Quinto Mes del Ano",
+    "artist": "Los Ases De Sinaloa",
+    "isrc": "QM6MZ1848012"
+  },
+  {
+    "title": "Canejotes De La Yerba",
+    "artist": "Almikar El Casador De Sinaloa",
+    "isrc": "USZBG1118001"
+  },
+  {
+    "title": "El Encargo",
+    "artist": "Arley Perez",
+    "isrc": "QMEU31820939"
+  },
+  {
+    "title": "Popurrí: La Muerte de Manuelon / El Árbol",
+    "artist": "Mario \"El Cachorro\" Delgado, Panter Bélico",
+    "isrc": "USA2P2321640"
+  },
+  {
+    "title": "Ya Vives en Mi",
+    "artist": "Ricardo Cerda El Gavilan",
+    "isrc": "USDXS2101631"
+  },
+  {
+    "title": "Soy Troquero",
+    "artist": "Dueto Hermanos Higuera",
+    "isrc": "QZDQH1810815"
+  },
+  {
+    "title": "Esos Que Me Andan Buscando",
+    "artist": "Jesús Palma",
+    "isrc": "QM6N21495036"
+  },
+  {
+    "title": "Mi Caballo Ensillado",
+    "artist": "Los Llaneros De Guamuchil",
+    "isrc": "TCADI1767631"
+  },
+  {
+    "title": "Eliazar Diaz - En vivo",
+    "artist": "Adan Cuen",
+    "isrc": "QZES72416663"
+  },
+  {
+    "title": "El Diablo y el Federal",
+    "artist": "Leonel, Almikar",
+    "isrc": "QMDA71478112"
+  },
+  {
+    "title": "Doble Fondo",
+    "artist": "El Apomeno de Sinaloa & La Banda Sinaloense La Costena",
+    "isrc": "USJ3V1249010"
+  },
+  {
+    "title": "La Camioneta Roja",
+    "artist": "Los Gavilleros De La Sierra",
+    "isrc": "US3DF1121112"
+  },
+  {
+    "title": "Táctico",
+    "artist": "Martin Castillo, Herencia de Patrones",
+    "isrc": "US3DF2403394"
+  },
+  {
+    "title": "Mafioso Internacional",
+    "artist": "Leonel y Almikar",
+    "isrc": "QM7281762348"
+  },
+  {
+    "title": "Quiero Cantarte A Ti",
+    "artist": "Los Nuevos Cadetes",
+    "isrc": "US39K1710701"
+  },
+  {
+    "title": "El Amor En Carro",
+    "artist": "Julio Chaidez",
+    "isrc": "USK340800374"
+  },
+  {
+    "title": "El Plebe Y El Cholo",
+    "artist": "Rivas El Centauro",
+    "isrc": "US3DF1122724"
+  },
+  {
+    "title": "Roberto Ruiz",
+    "artist": "Ricardo Cerda",
+    "isrc": "USAM70747308"
+  },
+  {
+    "title": "El Empresario",
+    "artist": "Inteligencia Norteña",
+    "isrc": "FR10S1922475"
+  },
+  {
+    "title": "El Gambucino",
+    "artist": "Los Corseles De Durango",
+    "isrc": "US3DF1103089"
+  },
+  {
+    "title": "Nieves De Enero",
+    "artist": "Chalino Sanchez, Los Amables Del Norte",
+    "isrc": "MXF369231769"
+  },
+  {
+    "title": "El Palomito",
+    "artist": "Los Cadetes De Linares",
+    "isrc": "QM6DC1673316"
+  },
+  {
+    "title": "La Fuga de Mazatlán",
+    "artist": "El Marquez De Sinaloa",
+    "isrc": "US9CY1300749"
+  },
+  {
+    "title": "el cartel de la calle",
+    "artist": "El Jefe De Sinaloa",
+    "isrc": "GBSMU0943340"
+  },
+  {
+    "title": "Lino Rodarte",
+    "artist": "Jorge Gamboa",
+    "isrc": "USZBG1112630"
+  },
+  {
+    "title": "Trompiando la Bolsa",
+    "artist": "EL Periquito De Sinaloa",
+    "isrc": "QMBZ91309814"
+  },
+  {
+    "title": "El Kiosko",
+    "artist": "Edgar Aguilar \"El Narquillo\"",
+    "isrc": "US3DF1321870"
+  },
+  {
+    "title": "Rodrigo López",
+    "artist": "El Monarca De Sinaloa",
+    "isrc": "QM6MZ1772208"
+  },
+  {
+    "title": "Catarino y los Rurales",
+    "artist": "El Apomeño De Sinaloa",
+    "isrc": "USJ3V1216983"
+  },
+  {
+    "title": "Ni el Dinero Ni Nada",
+    "artist": "Leonel El Ranchero De Sinaloa",
+    "isrc": "QM7281759162"
+  },
+  {
+    "title": "Los Dos Pleves",
+    "artist": "El Rojo De Sinaloa",
+    "isrc": "USDXS1906807"
+  },
+  {
+    "title": "Rancho la Pavona",
+    "artist": "Almikar El Cazador, Leonel el Ranchero",
+    "isrc": "USDXS1904358"
+  },
+  {
+    "title": "Plebes Atrevidos",
+    "artist": "Leonel Y Almikar \"Los Ases De Sinaloa\"",
+    "isrc": "USZBG1118164"
+  },
+  {
+    "title": "El Callejero - Banda",
+    "artist": "Ramon Antonio El Diamante De Sinaloa",
+    "isrc": "QM7282095195"
+  },
+  {
+    "title": "La Que Se Fue",
+    "artist": "A. Cano Chalinillo",
+    "isrc": "QM6DC1729906"
+  },
+  {
+    "title": "El Guero Palma",
+    "artist": "Victor Carrisoza",
+    "isrc": "GBSMU0949241"
+  },
+  {
+    "title": "Reto a un Commandante",
+    "artist": "Jorge Gamboa El Incomparable De Sinaloa",
+    "isrc": "USDXS1702760"
+  },
+  {
+    "title": "Temible Cuerno De Chivo",
+    "artist": "El Lince De La Sierra",
+    "isrc": "USZBG1117762"
+  },
+  {
+    "title": "Las Tres Mujeres",
+    "artist": "Saul Viera El Gavilancillo",
+    "isrc": "QZZ972441684"
+  },
+  {
+    "title": "La Cosecha",
+    "artist": "El Incomparable de Sinaloa",
+    "isrc": "USDXS2200265"
+  },
+  {
+    "title": "El Asesino Del Aire",
+    "artist": "El Plebe De Sinaloa",
+    "isrc": "USZBG1202601"
+  },
+  {
+    "title": "Corrido del Chapo Guzman",
+    "artist": "El Heredero",
+    "isrc": "USZBG1204053"
+  },
+  {
+    "title": "El Disgusto",
+    "artist": "Leonel El Ranchero Y Almikar El Cazador, El Gavilancillo Saul Viera, Leonel el Ranchero, Almikar El Cazador, Saul Viera El Gavilancillo",
+    "isrc": "USDXS2104660"
+  },
+  {
+    "title": "20 Mujeres",
+    "artist": "El Gavilancillo",
+    "isrc": "USDXS2012389"
+  },
+  {
+    "title": "Fuga En La Sierra",
+    "artist": "Juan Palma",
+    "isrc": "QM6DC1524853"
+  },
+  {
+    "title": "Loqueamos en el Pantano",
+    "artist": "El consentido de Sinaloa",
+    "isrc": "QM4TW1569275"
+  },
+  {
+    "title": "Señora",
+    "artist": "El Lobito de Sinaloa",
+    "isrc": "US3DF1319428"
+  },
+  {
+    "title": "Por Una Mujer Bonita",
+    "artist": "El Gallo De La Sierra",
+    "isrc": "USA560834955"
+  },
+  {
+    "title": "La Avioneta Zesna",
+    "artist": "El Cartel Del Corrido",
+    "isrc": "QM6DC1523639"
+  },
+  {
+    "title": "Virgen Figueroa",
+    "artist": "El Autentico De Sinaloa",
+    "isrc": "USZBG1110802"
+  },
+  {
+    "title": "Solo Los Tontos",
+    "artist": "El Chalinillo",
+    "isrc": "USA560871671"
+  },
+  {
+    "title": "Coquio Castro",
+    "artist": "Lazaro Salazar El Barranqueno De Sinaloa",
+    "isrc": "USZBG1113279"
+  },
+  {
+    "title": "Traficantes Michoacanos",
+    "artist": "El Puma De Sinaloa",
+    "isrc": "USZBG1112396"
+  },
+  {
+    "title": "Corrido De Los Perez",
+    "artist": "Voces Del Rancho",
+    "isrc": "USEL10400311"
+  },
+  {
+    "title": "El Alacrán",
+    "artist": "Roman Coronado",
+    "isrc": "QM6N21905520"
+  },
+  {
+    "title": "Las Olas Se la Llevaron",
+    "artist": "Leonel Y Almicar, La Rebelión Norteña",
+    "isrc": "QM6N21579492"
+  },
+  {
+    "title": "Fui Valiente Fui el M Uno",
+    "artist": "Pedro y Manuel",
+    "isrc": "QMBZ91309216"
+  },
+  {
+    "title": "Ya Despues de Muerto",
+    "artist": "Alexander El Jefe De Sinaloa",
+    "isrc": "QMBZ91319257"
+  },
+  {
+    "title": "Ven Mi Corazón",
+    "artist": "Nachito Ruiz",
+    "isrc": "QM7281878359"
+  },
+  {
+    "title": "Un Reto A La Muerte",
+    "artist": "Lombardo Higuera",
+    "isrc": "USDHM1011792"
+  },
+  {
+    "title": "La Ametralladora",
+    "artist": "El Halcon De La Sierra",
+    "isrc": "US3DF1109714"
+  },
+  {
+    "title": "El Giro",
+    "artist": "Leonel El Ranchero, Los Caballeros del Norte",
+    "isrc": "QZDQH2356261"
+  },
+  {
+    "title": "El Diseñador",
+    "artist": "Jorge Morales El Jilguero",
+    "isrc": "QM6MZ2496915"
+  },
+  {
+    "title": "Echandome un Perico - Norteño",
+    "artist": "Los Dos Grandes De La Sierra",
+    "isrc": "QMDA71515091"
+  },
+  {
+    "title": "El Moreno",
+    "artist": "Los Caneleros de Sinaloa",
+    "isrc": "GBSMU0943302"
+  },
+  {
+    "title": "El Gavilan",
+    "artist": "Antonio Viera El Vale Del Sur",
+    "isrc": "US3DF1110148"
+  },
+  {
+    "title": "Una Noche Serena y Oscura",
+    "artist": "Leonel y Almikar Los Ases De Sinaloa",
+    "isrc": "QM4TX1792334"
+  },
+  {
+    "title": "De Esta Sierra a la Otra Sierra",
+    "artist": "El As De La Sierra",
+    "isrc": "US3DF2138971"
+  },
+  {
+    "title": "El Ayudante",
+    "artist": "Los Tremendos Del Norte",
+    "isrc": "US3DF1121294"
+  },
+  {
+    "title": "Mi Ultimo Deseo",
+    "artist": "El Original De La Sierra",
+    "isrc": "QMFMG1316428"
+  },
+  {
+    "title": "El Malandrin",
+    "artist": "Dueto Los Caporales",
+    "isrc": "USZBG1116733"
+  },
+  {
+    "title": "Pepito y Su Caballo",
+    "artist": "Los Ases De Sinaloa",
+    "isrc": "USJTQ1715906"
+  },
+  {
+    "title": "Donato Aguirre",
+    "artist": "El Jefe De Sinaloa",
+    "isrc": "GBSMU0943332"
+  },
+  {
+    "title": "La Mula Bronca",
+    "artist": "Jorge Gamboa",
+    "isrc": "QMDA61426003"
+  },
+  {
+    "title": "Bohemio de Aficion",
+    "artist": "EL Periquito De Sinaloa",
+    "isrc": "QMBZ91309812"
+  },
+  {
+    "title": "Jose Reyes",
+    "artist": "Edgar Aguilar \"El Narquillo\"",
+    "isrc": "US3DF1321878"
+  },
+  {
+    "title": "La Pajarera",
+    "artist": "El Monarca De Sinaloa",
+    "isrc": "QM6N21546476"
+  },
+  {
+    "title": "Quisiera Morir Dormido",
+    "artist": "El Apomeño De Sinaloa",
+    "isrc": "USJ3V1302808"
+  },
+  {
+    "title": "El Periquero",
+    "artist": "Leonel El Ranchero De Sinaloa",
+    "isrc": "USDXS2003190"
+  },
+  {
+    "title": "El de la 454",
+    "artist": "El Rojo De Sinaloa",
+    "isrc": "USDXS1909069"
+  },
+  {
+    "title": "El Choma",
+    "artist": "Almikar El Cazador, Leonel el Ranchero",
+    "isrc": "USDXS1904361"
+  },
+  {
+    "title": "Amor Prisionero",
+    "artist": "Leonel Y Almikar \"Los Ases De Sinaloa\"",
+    "isrc": "TCAAR1072837"
+  },
+  {
+    "title": "Torton Negro - Banda",
+    "artist": "Ramon Antonio El Diamante De Sinaloa",
+    "isrc": "QM7282095198"
+  },
+  {
+    "title": "El Albur de Tu Vida",
+    "artist": "A. Cano Chalinillo",
+    "isrc": "QM6DC1729904"
+  },
+  {
+    "title": "Mas Fuerte Que Mil Cadenas",
+    "artist": "Victor Carrisoza",
+    "isrc": "USZBG1111702"
+  },
+  {
+    "title": "100 Hectarias",
+    "artist": "Jorge Gamboa El Incomparable De Sinaloa",
+    "isrc": "USDXS1702758"
+  },
+  {
+    "title": "Los Grandes Del Contrabando",
+    "artist": "El Lince De La Sierra",
+    "isrc": "USZBG1117765"
+  },
+  {
+    "title": "Esa Fue Mi Novia",
+    "artist": "Saul Viera El Gavilancillo",
+    "isrc": "QZZ972441694"
+  },
+  {
+    "title": "Los Tres Gallos",
+    "artist": "El Incomparable de Sinaloa",
+    "isrc": "USDXS2200257"
+  },
+  {
+    "title": "El Pidio Pasos",
+    "artist": "El Plebe De Sinaloa",
+    "isrc": "USZBG1115351"
+  },
+  {
+    "title": "Poderoso El Viejo",
+    "artist": "El Heredero",
+    "isrc": "USZBG1204110"
+  },
+  {
+    "title": "Te Equivocaste",
+    "artist": "Leonel El Ranchero Y Almikar El Cazador, El Gavilancillo Saul Viera",
+    "isrc": "USDXS2104598"
+  },
+  {
+    "title": "La Tragedia de Saul Viera",
+    "artist": "El Gavilancillo",
+    "isrc": "USDXS2012387"
+  },
+  {
+    "title": "Que Casualidad",
+    "artist": "Juan Palma",
+    "isrc": "USA2P2118526"
+  },
+  {
+    "title": "El Pase de la Pantera",
+    "artist": "El consentido de Sinaloa",
+    "isrc": "QM4TW1569273"
+  },
+  {
+    "title": "Con Cartitas y Palabras",
+    "artist": "El Lobito de Sinaloa",
+    "isrc": "QM6N21817419"
+  },
+  {
+    "title": "Estrellas En Tus Ojos",
+    "artist": "El Gallo De La Sierra",
+    "isrc": "US3DF1949609"
+  }
+]

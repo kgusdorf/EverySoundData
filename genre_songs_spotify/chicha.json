@@ -1,0 +1,952 @@
+[
+  {
+    "title": "El Bicho",
+    "artist": "Los Beta 5",
+    "isrc": "QM6MZ1449349"
+  },
+  {
+    "title": "Primer Beso",
+    "artist": "Grupo Celeste",
+    "isrc": "FR10S2043481"
+  },
+  {
+    "title": "pedacito de mi vida",
+    "artist": "Los Diablos Rojos",
+    "isrc": "USZZR1301510"
+  },
+  {
+    "title": "Antahuara",
+    "artist": "Grupo Maravilla",
+    "isrc": "FR10S1600342"
+  },
+  {
+    "title": "Ya Se Ha Muerto Mi Abuelo",
+    "artist": "Juaneco Y Su Combo",
+    "isrc": "PEIF21101009"
+  },
+  {
+    "title": "Las Limeñas",
+    "artist": "Los Ilusionistas",
+    "isrc": "PECR31706066"
+  },
+  {
+    "title": "Quiero Emborracharme",
+    "artist": "Los Sander's de Ñaña",
+    "isrc": "ES71G2227616"
+  },
+  {
+    "title": "El Diablo",
+    "artist": "Compay Quinto",
+    "isrc": "ES71G1921427"
+  },
+  {
+    "title": "Sigo Esperando",
+    "artist": "Grupo Melodía",
+    "isrc": "PEGM20701002"
+  },
+  {
+    "title": "La Bocina",
+    "artist": "Los Girasoles",
+    "isrc": "ES5891901441"
+  },
+  {
+    "title": "Corazón Andino",
+    "artist": "Los Shapis",
+    "isrc": "ES71G2235168"
+  },
+  {
+    "title": "Ramo de Rosas",
+    "artist": "Los Pakines",
+    "isrc": "PEIF21101004"
+  },
+  {
+    "title": "Triste y Abandonado",
+    "artist": "Chacalón y la Nueva Crema",
+    "isrc": "ESA012269676"
+  },
+  {
+    "title": "Lobos al Escape",
+    "artist": "Los Orientales de Paramonga",
+    "isrc": "PEIF21101001"
+  },
+  {
+    "title": "No Se Puede Amar a Dos",
+    "artist": "Los Ecos",
+    "isrc": "PELE10700012"
+  },
+  {
+    "title": "Bola Bola En El Tres",
+    "artist": "Los Wembler's de Iquitos",
+    "isrc": "USDY50804053"
+  },
+  {
+    "title": "Lamento de un Preso",
+    "artist": "Chacal y sus Estrellas",
+    "isrc": "ESA012292036"
+  },
+  {
+    "title": "Jamás Impedirás",
+    "artist": "Enrique Delgado",
+    "isrc": "FRX991590714"
+  },
+  {
+    "title": "Guajira Sicodélica",
+    "artist": "Los Destellos",
+    "isrc": "FR96X1617486"
+  },
+  {
+    "title": "Vírgenes del Sol",
+    "artist": "Manzanita y su Conjunto",
+    "isrc": "PEIF21101011"
+  },
+  {
+    "title": "Lamento de Chullachaqui",
+    "artist": "Los Invasores de Progreso",
+    "isrc": "PEIF21509006"
+  },
+  {
+    "title": "El Divorcio",
+    "artist": "Vico y su Grupo Karicia",
+    "isrc": "QZHZ31957072"
+  },
+  {
+    "title": "El Teléfono",
+    "artist": "Pintura Roja",
+    "isrc": "FR10S1600302"
+  },
+  {
+    "title": "La Danza de los Mirlos (Cumbia de los Pajaritos)",
+    "artist": "Los Mirlos",
+    "isrc": "PEIF21101002"
+  },
+  {
+    "title": "Gregorio",
+    "artist": "Los Ovnis de Jorge Chambergo Porta",
+    "isrc": "FR10S1682673"
+  },
+  {
+    "title": "Juanita Linda",
+    "artist": "Grupo Naranja",
+    "isrc": "PECR31706115"
+  },
+  {
+    "title": "Enamorado",
+    "artist": "Grupo Alegría, Los Jinetes Del Amor",
+    "isrc": "ES71G2220863"
+  },
+  {
+    "title": "Don Jose",
+    "artist": "Los Ribereños",
+    "isrc": "ES71G2025911"
+  },
+  {
+    "title": "Orgulloso",
+    "artist": "El Súper Grupo",
+    "isrc": "FR96X2287591"
+  },
+  {
+    "title": "Lucerito",
+    "artist": "Los Topacios",
+    "isrc": "PECR31706131"
+  },
+  {
+    "title": "Mi Cariñito",
+    "artist": "Sonido 2000",
+    "isrc": "PEIF21509011"
+  },
+  {
+    "title": "Amor Incomparable",
+    "artist": "Grupo Guinda",
+    "isrc": "PECM61805167"
+  },
+  {
+    "title": "Mi Morena Rebelde",
+    "artist": "Eusebio y Su Banjo",
+    "isrc": "PEIF21101006"
+  },
+  {
+    "title": "Cariñito",
+    "artist": "Los Hijos del sol",
+    "isrc": "PEIF21616209"
+  },
+  {
+    "title": "Corazón, Corazón",
+    "artist": "Grupo Génesis",
+    "isrc": "PEIF21616142"
+  },
+  {
+    "title": "Liliana",
+    "artist": "Los Demonios del Mantaro",
+    "isrc": "USA371050385"
+  },
+  {
+    "title": "Linda Milita",
+    "artist": "Los Blue Kings de Ñaña",
+    "isrc": "US3DF2231272"
+  },
+  {
+    "title": "Sonido Amazonico",
+    "artist": "Chicha Libre",
+    "isrc": "USCNP0701701"
+  },
+  {
+    "title": "Sondiramá",
+    "artist": "Frente Cumbiero",
+    "isrc": "QZ5AB1984825"
+  },
+  {
+    "title": "La Chichera",
+    "artist": "Los Demonios de Corocochay",
+    "isrc": "ES5891901483"
+  },
+  {
+    "title": "Lamento en la Selva",
+    "artist": "Money Chicha",
+    "isrc": "ES8591600990"
+  },
+  {
+    "title": "Mix 1: Si Te Vas, Mujer de Mi Vida / Miro Arriba Miro Abajo / Larga Espera",
+    "artist": "Teodoro Arellano y su Grupo Cielo Gris",
+    "isrc": "QM6MZ1589464"
+  },
+  {
+    "title": "Amor de Arena",
+    "artist": "Toño y su Grupo Centella",
+    "isrc": "CACWV2046077"
+  },
+  {
+    "title": "Salvación",
+    "artist": "Los Miticos Del Ritmo, Quantic",
+    "isrc": "FRX202058475"
+  },
+  {
+    "title": "Huarochirana",
+    "artist": "Pascualillo Coronado",
+    "isrc": "US3DF2199740"
+  },
+  {
+    "title": "Bocanegra",
+    "artist": "Sonido Gallo Negro",
+    "isrc": "MX3741200037"
+  },
+  {
+    "title": "Quiero Amanecer",
+    "artist": "Bareto",
+    "isrc": "USJE61608025"
+  },
+  {
+    "title": "Cumbia Sobre el Mar",
+    "artist": "Cumbia All Stars",
+    "isrc": "PEBQ91717761"
+  },
+  {
+    "title": "El Poncho",
+    "artist": "Los Casmeños, Enrique Delgado",
+    "isrc": "ES71G2144037"
+  },
+  {
+    "title": "La Longuita",
+    "artist": "Sonido Verde de Moyobamba",
+    "isrc": "DENR92217003"
+  },
+  {
+    "title": "El Pitito",
+    "artist": "Los Yungas",
+    "isrc": "ES5891901443"
+  },
+  {
+    "title": "Cumbia Espacial",
+    "artist": "Ondatrópica",
+    "isrc": "GBUQH1200083"
+  },
+  {
+    "title": "Viene de Mi",
+    "artist": "La Yegros",
+    "isrc": "GBGLW1100074"
+  },
+  {
+    "title": "Thai Cumbia",
+    "artist": "Rolando Bruno",
+    "isrc": "CH6131593004"
+  },
+  {
+    "title": "Molienda",
+    "artist": "Malphino",
+    "isrc": "GBMYF1700122"
+  },
+  {
+    "title": "Hechicera",
+    "artist": "Grupo Centeno",
+    "isrc": "US7VG2190759"
+  },
+  {
+    "title": "Prende la Mecha",
+    "artist": "Anarkia Tropikal, Evelyn Cornejo, la Chusma Inkonciente, Lucho Bermúdez",
+    "isrc": "FR6V82342747"
+  },
+  {
+    "title": "Qué Puedo Hacer",
+    "artist": "Chacalon Jr",
+    "isrc": "ESA011583718"
+  },
+  {
+    "title": "Mar de Emociones",
+    "artist": "Afrosound",
+    "isrc": "COF010604068"
+  },
+  {
+    "title": "De Barrio",
+    "artist": "M.A.K.U SoundSystem",
+    "isrc": "DETP61600009"
+  },
+  {
+    "title": "Congo Jungle",
+    "artist": "Cumbia Cosmonauts",
+    "isrc": "USYBL1100139"
+  },
+  {
+    "title": "He Traicionado Tu Amor",
+    "artist": "Los Chapillacs, Pascualillo Coronado, el Rey de la Carretera Central",
+    "isrc": "QZMEP2063530"
+  },
+  {
+    "title": "La Verdolaga",
+    "artist": "Totó La Momposina",
+    "isrc": "ES71G1408153"
+  },
+  {
+    "title": "Cumbia Panadero",
+    "artist": "Sonido de la Frontera",
+    "isrc": "QM6N22173315"
+  },
+  {
+    "title": "Loca",
+    "artist": "Chico Trujillo",
+    "isrc": "ESAAI0255601"
+  },
+  {
+    "title": "El Casorio",
+    "artist": "Banda Conmoción",
+    "isrc": "QM4TX1870721"
+  },
+  {
+    "title": "Por Ahí",
+    "artist": "La Chamba",
+    "isrc": "QZES61819128"
+  },
+  {
+    "title": "Cumbia psicodélica",
+    "artist": "Hijos del monte",
+    "isrc": "GBSMU3810387"
+  },
+  {
+    "title": "Utrus Horas",
+    "artist": "Orchestra Baobab",
+    "isrc": "GBBGU0163001"
+  },
+  {
+    "title": "Cumbia Sobre El Mar",
+    "artist": "Trio Serenata",
+    "isrc": "USV351494561"
+  },
+  {
+    "title": "Mi Gran Noche",
+    "artist": "Aniceto y sus Fabulosos",
+    "isrc": "PEIF21101014"
+  },
+  {
+    "title": "Mi Lamento",
+    "artist": "Grupo Rosado",
+    "isrc": "QZHZ52204088"
+  },
+  {
+    "title": "Suavecito",
+    "artist": "Jaime Gale y Sus Profetas",
+    "isrc": "COF018803554"
+  },
+  {
+    "title": "Jinetes En El Cielo",
+    "artist": "Los Beltons",
+    "isrc": "PEIFP2100297"
+  },
+  {
+    "title": "Olvidate De Mi",
+    "artist": "‘La Mermelada' de Jose L. Carballo",
+    "isrc": "GBDTM1533704"
+  },
+  {
+    "title": "A 5 Años de Acá",
+    "artist": "Rolando Bruno Y Su Orquesta Midi",
+    "isrc": "CH6131572201"
+  },
+  {
+    "title": "Loquito por Ti",
+    "artist": "Armando Hernandez, El Combo Caribe",
+    "isrc": "COF019401058"
+  },
+  {
+    "title": "Anoche Soñé Contigo",
+    "artist": "Kevin Johansen",
+    "isrc": "ARFSB0700709"
+  },
+  {
+    "title": "Sembrando Café",
+    "artist": "Alberto Pacheco y su Conjunto",
+    "isrc": "AUXN22104714"
+  },
+  {
+    "title": "Cumbia sobre el río / Interludio",
+    "artist": "Celso Piña",
+    "isrc": "MXF160001112"
+  },
+  {
+    "title": "El Diario De Un Borracho",
+    "artist": "Aniceto Molina",
+    "isrc": "ARG991039928"
+  },
+  {
+    "title": "Los Caminos De La Vida",
+    "artist": "La Tropa Vallenata",
+    "isrc": "MXUM70801653"
+  },
+  {
+    "title": "Esperma y Ron",
+    "artist": "Los Guacharacos",
+    "isrc": "COF019401745"
+  },
+  {
+    "title": "Yo Tomo Licor",
+    "artist": "Amar Azul",
+    "isrc": "ARF060801841"
+  },
+  {
+    "title": "El Poncho",
+    "artist": "Los Rumbaney",
+    "isrc": "PEIF21101008"
+  },
+  {
+    "title": "Nunca me faltes",
+    "artist": "Antonio Rios",
+    "isrc": "ARF060601115"
+  },
+  {
+    "title": "Cumbia Del Carnaval",
+    "artist": "Betopey",
+    "isrc": "AUXN22325433"
+  },
+  {
+    "title": "Cumbia Cienguera",
+    "artist": "Conjunto Tipico Vallenato",
+    "isrc": "GBBGU0816006"
+  },
+  {
+    "title": "Zinzin",
+    "artist": "El Diablo",
+    "isrc": "FR6V80876931"
+  },
+  {
+    "title": "Lagrimas Negras",
+    "artist": "Fruko & Orquesta",
+    "isrc": "COF019501962"
+  },
+  {
+    "title": "Son de la Loma",
+    "artist": "Fruko Y Orquesta, Wilson Saoko",
+    "isrc": "COF019401217"
+  },
+  {
+    "title": "Cumbia Sobre el Mar",
+    "artist": "Los Caciques del Valle",
+    "isrc": "USZZR1012122"
+  },
+  {
+    "title": "Modulo Lunar",
+    "artist": "Los Beta 5",
+    "isrc": "ES5891901453"
+  },
+  {
+    "title": "Junto al Mar",
+    "artist": "Grupo Celeste",
+    "isrc": "FR10S2043473"
+  },
+  {
+    "title": "te espero en el cielo",
+    "artist": "Los Diablos Rojos",
+    "isrc": "USZZR1301511"
+  },
+  {
+    "title": "Amapola",
+    "artist": "Grupo Maravilla",
+    "isrc": "FR10S1600348"
+  },
+  {
+    "title": "Me Robaron Mi Runa Mula",
+    "artist": "Juaneco Y Su Combo",
+    "isrc": "PEIF21101003"
+  },
+  {
+    "title": "Colegiala",
+    "artist": "Los Ilusionistas",
+    "isrc": "USCNP1002804"
+  },
+  {
+    "title": "Te Quiero Mi Amor",
+    "artist": "Los Sander's de Ñaña",
+    "isrc": "ES71G2227619"
+  },
+  {
+    "title": "El Cumbanchero",
+    "artist": "Compay Quinto",
+    "isrc": "GBG5X1215104"
+  },
+  {
+    "title": "El Juramento",
+    "artist": "Grupo Melodía",
+    "isrc": "PEGM20701001"
+  },
+  {
+    "title": "La Vaca Blanca",
+    "artist": "Los Girasoles",
+    "isrc": "US3DF2240809"
+  },
+  {
+    "title": "A Donde Irás",
+    "artist": "Los Pakines",
+    "isrc": "ES71G1823968"
+  },
+  {
+    "title": "Solterito y Feliz",
+    "artist": "Chacalón y la Nueva Crema",
+    "isrc": "TCAFO2122911"
+  },
+  {
+    "title": "La Novia",
+    "artist": "Los Shapis",
+    "isrc": "FR2X41625107"
+  },
+  {
+    "title": "La Danza del Mono",
+    "artist": "Los Orientales de Paramonga",
+    "isrc": "PEIF21101005"
+  },
+  {
+    "title": "Tres Cruces",
+    "artist": "Los Ecos",
+    "isrc": "PELE10700026"
+  },
+  {
+    "title": "La Danza Del Petrolero",
+    "artist": "Los Wembler's de Iquitos",
+    "isrc": "USDY50804041"
+  },
+  {
+    "title": "Cada Día Te Quiero Más",
+    "artist": "Chacal y sus Estrellas",
+    "isrc": "ESA012292039"
+  },
+  {
+    "title": "Madre",
+    "artist": "Enrique Delgado",
+    "isrc": "FRX991590730"
+  },
+  {
+    "title": "Andino",
+    "artist": "Manzanita y su Conjunto",
+    "isrc": "PEIF21708009"
+  },
+  {
+    "title": "Elsa",
+    "artist": "Los Destellos",
+    "isrc": "FRX761537008"
+  },
+  {
+    "title": "Todos Juntos",
+    "artist": "Los Invasores de Progreso",
+    "isrc": "PEIF21101015"
+  },
+  {
+    "title": "Soledad",
+    "artist": "Vico y su Grupo Karicia",
+    "isrc": "QZHZ31957541"
+  },
+  {
+    "title": "Amor de Verano",
+    "artist": "Pintura Roja",
+    "isrc": "FR10S1600300"
+  },
+  {
+    "title": "Triste Desengaño",
+    "artist": "Los Ovnis de Jorge Chambergo Porta",
+    "isrc": "FR10S1682668"
+  },
+  {
+    "title": "La Danza de los Mirlos",
+    "artist": "Los Mirlos",
+    "isrc": "ARG991024977"
+  },
+  {
+    "title": "Ojitos Tristes",
+    "artist": "Grupo Naranja",
+    "isrc": "PECR31706116"
+  },
+  {
+    "title": "Voy a Olvidarte",
+    "artist": "Grupo Alegría",
+    "isrc": "QZXLZ2360248"
+  },
+  {
+    "title": "Don José",
+    "artist": "Los Ribereños",
+    "isrc": "ES71G1921219"
+  },
+  {
+    "title": "El Cartero",
+    "artist": "El Súper Grupo",
+    "isrc": "FR2X42241781"
+  },
+  {
+    "title": "Mi sufrimiento",
+    "artist": "Los Topacios",
+    "isrc": "US3DF2228872"
+  },
+  {
+    "title": "Te Espere Bajo la Lluvia",
+    "artist": "Sonido 2000",
+    "isrc": "PESD21501022"
+  },
+  {
+    "title": "Pedazo de Luna",
+    "artist": "Grupo Guinda",
+    "isrc": "PECM61805255"
+  },
+  {
+    "title": "Triste Melodía",
+    "artist": "Eusebio y Su Banjo",
+    "isrc": "PEIF21509016"
+  },
+  {
+    "title": "Let It Be",
+    "artist": "Los Hijos del sol",
+    "isrc": "USRAR1000738"
+  },
+  {
+    "title": "Te Casas en Privado",
+    "artist": "Grupo Génesis",
+    "isrc": "PEIF21616143"
+  },
+  {
+    "title": "La Chichera",
+    "artist": "Los Demonios del Mantaro",
+    "isrc": "ES5891901458"
+  },
+  {
+    "title": "El rey loco",
+    "artist": "Los Blue Kings de Ñaña",
+    "isrc": "US3DF2231271"
+  },
+  {
+    "title": "Gnosienne No.1",
+    "artist": "Chicha Libre",
+    "isrc": "USCNP0701714"
+  },
+  {
+    "title": "Chucusteady",
+    "artist": "Frente Cumbiero, Mad Professor",
+    "isrc": "US7VG1676553"
+  },
+  {
+    "title": "Cumbia del Puerto",
+    "artist": "Los Demonios de Corocochay, Benny del Solar",
+    "isrc": "QMFMF1387390"
+  },
+  {
+    "title": "Echo en Mexico",
+    "artist": "Money Chicha",
+    "isrc": "ES8591600992"
+  },
+  {
+    "title": "Mix 4: No Se por Que / Vuelve Mi Amor / Nuestro Adios / Mi Casita",
+    "artist": "Teodoro Arellano y su Grupo Cielo Gris",
+    "isrc": "QM6MZ1589467"
+  },
+  {
+    "title": "Donde Estás Amor",
+    "artist": "Toño y su Grupo Centella",
+    "isrc": "CACWV2046069"
+  },
+  {
+    "title": "Vampiro Sabanero",
+    "artist": "Los Miticos Del Ritmo, Quantic",
+    "isrc": "FRX202058476"
+  },
+  {
+    "title": "Clavelito",
+    "artist": "Pascualillo Coronado",
+    "isrc": "US3DF2199911"
+  },
+  {
+    "title": "El Mercado De Los Brujos",
+    "artist": "Sonido Gallo Negro",
+    "isrc": "MX3741200046"
+  },
+  {
+    "title": "Cariñito",
+    "artist": "Bareto",
+    "isrc": "USJE61300163"
+  },
+  {
+    "title": "Quiero Que Amanezca",
+    "artist": "Cumbia All Stars",
+    "isrc": "PESS11301002"
+  },
+  {
+    "title": "Espumita De Río",
+    "artist": "Los Casmeños, Enrique Delgado",
+    "isrc": "ES71G2124894"
+  },
+  {
+    "title": "La Cervecita",
+    "artist": "Sonido Verde de Moyobamba",
+    "isrc": "DENR92296002"
+  },
+  {
+    "title": "Corazon Andino",
+    "artist": "Los Yungas",
+    "isrc": "QM6DC1669379"
+  },
+  {
+    "title": "Hummingbird",
+    "artist": "Ondatrópica",
+    "isrc": "GBUQH1500237"
+  },
+  {
+    "title": "Chicha Roja",
+    "artist": "La Yegros, Gustavo Santaolalla",
+    "isrc": "GBUQH1500090"
+  },
+  {
+    "title": "El Brujito Ramon",
+    "artist": "Rolando Bruno",
+    "isrc": "CH6131593001"
+  },
+  {
+    "title": "Le Bella Isla",
+    "artist": "Malphino",
+    "isrc": "GBMYF1700137"
+  },
+  {
+    "title": "Siete Noches",
+    "artist": "Grupo Centeno",
+    "isrc": "ARF061800074"
+  },
+  {
+    "title": "Lola",
+    "artist": "Anarkia Tropikal, Michu MC, Chico Trujillo",
+    "isrc": "FR2X41735335"
+  },
+  {
+    "title": "Nos Queremos y Qué",
+    "artist": "Chacalon Jr",
+    "isrc": "ESA011540780"
+  },
+  {
+    "title": "La Danza de los Mirlos - Instrumental",
+    "artist": "Afrosound",
+    "isrc": "COF019500550"
+  },
+  {
+    "title": "Happy Hour",
+    "artist": "M.A.K.U SoundSystem",
+    "isrc": "DETP61600008"
+  },
+  {
+    "title": "Locoduro",
+    "artist": "Cumbia Cosmonauts",
+    "isrc": "FR10S1959489"
+  },
+  {
+    "title": "La Cumbia Delincuencial",
+    "artist": "Los Chapillacs",
+    "isrc": "QZMEP2063529"
+  },
+  {
+    "title": "A Mover la Cadera",
+    "artist": "Sonido de la Frontera",
+    "isrc": "QM6N22173310"
+  },
+  {
+    "title": "Yo Me Llamo Cumbia",
+    "artist": "Totó La Momposina",
+    "isrc": "GBZUM0900805"
+  },
+  {
+    "title": "Fuera de Mi Vida",
+    "artist": "Chico Trujillo",
+    "isrc": "CLEE21202842"
+  },
+  {
+    "title": "Amor sublime",
+    "artist": "Los Beta 5",
+    "isrc": "US3DF2229133"
+  },
+  {
+    "title": "Viento - Original Master Tapes",
+    "artist": "Grupo Celeste",
+    "isrc": "ES71G2331377"
+  },
+  {
+    "title": "El Primer Beso",
+    "artist": "Los Diablos Rojos",
+    "isrc": "FRX991593101"
+  },
+  {
+    "title": "A Sarita Colonia",
+    "artist": "Grupo Maravilla",
+    "isrc": "QZXLZ2360223"
+  },
+  {
+    "title": "Mujer Hilandera",
+    "artist": "Juaneco Y Su Combo",
+    "isrc": "PEIF21509003"
+  },
+  {
+    "title": "Enfermera",
+    "artist": "Los Ilusionistas",
+    "isrc": "PECR31706072"
+  },
+  {
+    "title": "Mujer de Mi Vida",
+    "artist": "Los Sander's de Ñaña",
+    "isrc": "ES71G2227625"
+  },
+  {
+    "title": "La Rumba del Chinito",
+    "artist": "Compay Quinto",
+    "isrc": "ES5891901432"
+  },
+  {
+    "title": "Para Anita",
+    "artist": "Grupo Melodía",
+    "isrc": "PEGM20701003"
+  },
+  {
+    "title": "Piedad (La Vaca Blanca)",
+    "artist": "Los Girasoles",
+    "isrc": "US3DF2240751"
+  },
+  {
+    "title": "Caramelo de Menta",
+    "artist": "Los Pakines",
+    "isrc": "PEIF21508001"
+  },
+  {
+    "title": "Tu Serás la Causa de Mi Muerte",
+    "artist": "Chacalón y la Nueva Crema",
+    "isrc": "ESA012269677"
+  },
+  {
+    "title": "Tienes Tu Dueño",
+    "artist": "Los Shapis",
+    "isrc": "FR2X41625113"
+  },
+  {
+    "title": "El Dragón / La Molienda",
+    "artist": "Los Orientales de Paramonga",
+    "isrc": "PEIF21705030"
+  },
+  {
+    "title": "Indolencia",
+    "artist": "Los Ecos",
+    "isrc": "PELE10800032"
+  },
+  {
+    "title": "Lamento Del Yacuruna",
+    "artist": "Los Wembler's de Iquitos",
+    "isrc": "USDY50804048"
+  },
+  {
+    "title": "Para Ti Yolita",
+    "artist": "Chacal y sus Estrellas",
+    "isrc": "ESA012292030"
+  },
+  {
+    "title": "Idolatría",
+    "artist": "Enrique Delgado",
+    "isrc": "FRX991590716"
+  },
+  {
+    "title": "Arre Caballito",
+    "artist": "Manzanita y su Conjunto",
+    "isrc": "PEIF21101007"
+  },
+  {
+    "title": "El Boogalo de los Destellos",
+    "artist": "Los Destellos",
+    "isrc": "FR96X1617505"
+  },
+  {
+    "title": "Cumbia Inca",
+    "artist": "Los Invasores de Progreso",
+    "isrc": "PEIF21702130"
+  },
+  {
+    "title": "Noche",
+    "artist": "Vico y su Grupo Karicia",
+    "isrc": "QZHZ31956743"
+  },
+  {
+    "title": "Jamás",
+    "artist": "Pintura Roja",
+    "isrc": "FR10S1600296"
+  },
+  {
+    "title": "Conflictos",
+    "artist": "Los Ovnis de Jorge Chambergo Porta",
+    "isrc": "FRX281720963"
+  },
+  {
+    "title": "Eres Mentirosa",
+    "artist": "Los Mirlos",
+    "isrc": "PEIF21203001"
+  },
+  {
+    "title": "Mix No. 1: Por un Caminito / Ojitos Tristes / Juanita Linda",
+    "artist": "Grupo Naranja, Martin López Jr",
+    "isrc": "PECR32003060"
+  },
+  {
+    "title": "Soy Solterito",
+    "artist": "Grupo Alegría",
+    "isrc": "QZXLZ2357115"
+  },
+  {
+    "title": "Silbando",
+    "artist": "Los Ribereños",
+    "isrc": "ES71G1921212"
+  },
+  {
+    "title": "No Supiste Comprender",
+    "artist": "El Súper Grupo",
+    "isrc": "FR96X2287593"
+  },
+  {
+    "title": "Seguire Sufriendo",
+    "artist": "Los Topacios",
+    "isrc": "PECR31706132"
+  },
+  {
+    "title": "Juraste Querrerme",
+    "artist": "Sonido 2000",
+    "isrc": "PESD21810092"
+  },
+  {
+    "title": "Mi Gran Amor",
+    "artist": "Grupo Guinda",
+    "isrc": "PECM61805230"
+  },
+  {
+    "title": "Mueve Tu Cinturita",
+    "artist": "Eusebio y Su Banjo",
+    "isrc": "PEIFP1900110"
+  }
+]

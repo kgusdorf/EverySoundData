@@ -1,0 +1,627 @@
+[
+  {
+    "title": "A Model of the Universe",
+    "artist": "Jóhann Jóhannsson",
+    "isrc": "USQ4E1401114"
+  },
+  {
+    "title": "The Ninth Legion",
+    "artist": "Atli Örvarsson",
+    "isrc": "GBAJC1100048"
+  },
+  {
+    "title": "Battlefield One",
+    "artist": "Johan Söderqvist, Patrik Andrén",
+    "isrc": "CAN111600506"
+  },
+  {
+    "title": "Destroyer Of Worlds",
+    "artist": "Ludwig Göransson",
+    "isrc": "USQ4E2204412"
+  },
+  {
+    "title": "A Long Way Back",
+    "artist": "Jon Ekstrand",
+    "isrc": "US5941407177"
+  },
+  {
+    "title": "The Lion Woman",
+    "artist": "Uno Helmersson",
+    "isrc": "GBKPL1788621"
+  },
+  {
+    "title": "Glimpse of Happiness",
+    "artist": "Panu Aaltio",
+    "isrc": "SEWVB0900513"
+  },
+  {
+    "title": "The Little Organ Book (Ich Ruf Zu Dir, Herr Jesu Christ)",
+    "artist": "Kristian Eidnes Andersen",
+    "isrc": "DKI4A1403005"
+  },
+  {
+    "title": "Vaktmästaren",
+    "artist": "Gaute Storaas",
+    "isrc": "SE2EI1100452"
+  },
+  {
+    "title": "Dear Departed",
+    "artist": "Pessi Levanto",
+    "isrc": "USL4R2353258"
+  },
+  {
+    "title": "At The Theatre",
+    "artist": "Jonas Struck",
+    "isrc": "DGA072209768"
+  },
+  {
+    "title": "Leaving Iceland Behind",
+    "artist": "Nicklas Schmidt, Dreamers' Circus",
+    "isrc": "GBKPL1978278"
+  },
+  {
+    "title": "Vetäytyminen",
+    "artist": "Lasse Enersen",
+    "isrc": "FITFR1700027"
+  },
+  {
+    "title": "Ezio's Family",
+    "artist": "Jesper Kyd, Assassin's Creed",
+    "isrc": "CA2BN0900078"
+  },
+  {
+    "title": "Prologue",
+    "artist": "Frans Bak",
+    "isrc": "GBUM71602418"
+  },
+  {
+    "title": "The Wave - Main Title",
+    "artist": "Magnus Beite",
+    "isrc": "NOFGG1521020"
+  },
+  {
+    "title": "Hothouse",
+    "artist": "Halfdan E, Jeppe Kaas",
+    "isrc": "DK1J31400505"
+  },
+  {
+    "title": "Laval the Lion",
+    "artist": "Anthony Lledo",
+    "isrc": "SEWVB1303301"
+  },
+  {
+    "title": "Arn & Cecilia",
+    "artist": "Tuomas Kantelinen",
+    "isrc": "SEVGT0706208"
+  },
+  {
+    "title": "Alley Cat - Fra Tv-serien \"Omkring Et Flygel\"",
+    "artist": "Bent Fabricius-Bjerre",
+    "isrc": "DKABA1104001"
+  },
+  {
+    "title": "Ski Ride",
+    "artist": "Trond Bjerknes",
+    "isrc": "SEWVB0900116"
+  },
+  {
+    "title": "Inger",
+    "artist": "Henrik Skram",
+    "isrc": "QZ5FN2274805"
+  },
+  {
+    "title": "Thelma (rulletekst)",
+    "artist": "Ola Fløttum",
+    "isrc": "QM7281775255"
+  },
+  {
+    "title": "Krøniken",
+    "artist": "Jacob Groth, Cello Art",
+    "isrc": "DKBV70606902"
+  },
+  {
+    "title": "Dina's Theme",
+    "artist": "Jeppe Kaas",
+    "isrc": "DK1J31504029"
+  },
+  {
+    "title": "End",
+    "artist": "Alex Somers, Sigur Rós",
+    "isrc": "GBKEE1700477"
+  },
+  {
+    "title": "Glänta",
+    "artist": "Matti Bye",
+    "isrc": "SE5ZV2108001"
+  },
+  {
+    "title": "Oslo Encounter",
+    "artist": "Anders Niska, Klas Wahl",
+    "isrc": "USQY51577984"
+  },
+  {
+    "title": "Guns (Pavane)",
+    "artist": "Bengt Nilsson",
+    "isrc": "GBMJG1300969"
+  },
+  {
+    "title": "A Blink",
+    "artist": "Klas Wahl",
+    "isrc": "SE6JD2012015"
+  },
+  {
+    "title": "Mythical Hero",
+    "artist": "Veigar Margeirsson",
+    "isrc": "US43C1200003"
+  },
+  {
+    "title": "Part 1",
+    "artist": "Joachim Holbek",
+    "isrc": "DK1J32000101"
+  },
+  {
+    "title": "The Chosen One",
+    "artist": "Flemming Nordkrog",
+    "isrc": "GBKPL1825648"
+  },
+  {
+    "title": "Maria Wern",
+    "artist": "Jean-Paul Wall",
+    "isrc": "GBSMU2546454"
+  },
+  {
+    "title": "Ouvertyr 1",
+    "artist": "Mattias Bärjed",
+    "isrc": "SEWBD0702501"
+  },
+  {
+    "title": "Riksteatret kommer til Elvestad",
+    "artist": "Eirik Myhr",
+    "isrc": "NODFF2205020"
+  },
+  {
+    "title": "The Thief Bunny Society",
+    "artist": "Per Störby Jutbring",
+    "isrc": "SEWAY1900301"
+  },
+  {
+    "title": "Fjorden Cowboys Suite",
+    "artist": "Olav Øyehaug",
+    "isrc": "NOMCQ1501060"
+  },
+  {
+    "title": "Adagio: Words of Love",
+    "artist": "Christer Christensson",
+    "isrc": "SEWVB1102517"
+  },
+  {
+    "title": "Dropparna",
+    "artist": "Erik Hjärpe, Petter Lindgard",
+    "isrc": "SEVQI1702818"
+  },
+  {
+    "title": "Richard Gets Shot – Opening Credits",
+    "artist": "Fredrik Emilson",
+    "isrc": "TCAAY1197824"
+  },
+  {
+    "title": "Lars' Legacy (feat. Jonas Wall, Carl Bagge, Karl Frid & Martin Höper)",
+    "artist": "Frid & Frid, Jonas Wall, Carl Bagge, Karl Frid, Martin Hoper",
+    "isrc": "SEWUG1400307"
+  },
+  {
+    "title": "Free Spirit",
+    "artist": "Hannu Honkonen, Gothic Storm",
+    "isrc": "GBEPU2247702"
+  },
+  {
+    "title": "Absolution",
+    "artist": "Hans Lundgren",
+    "isrc": "GBKPL1831278"
+  },
+  {
+    "title": "Ending - Beyond the Border Original Motion Picture Soundtrack",
+    "artist": "Henrik Lindström, Anton Ariki",
+    "isrc": "SE3SR1300119"
+  },
+  {
+    "title": "Emily's Theme",
+    "artist": "Henrik Åström",
+    "isrc": "QMDA72312448"
+  },
+  {
+    "title": "Sandström: Sueño Macabros: I. Caballos en el Mar",
+    "artist": "Jan Sandström, Christian Lindberg, Swedish Chamber Orchestra",
+    "isrc": "SE5XG2421473"
+  },
+  {
+    "title": "Alene på kajen",
+    "artist": "Jesper Mechlenburg",
+    "isrc": "DKWY41600301"
+  },
+  {
+    "title": "I rymden finns inga känslor",
+    "artist": "Josef Tuulse",
+    "isrc": "SEYOK1013282"
+  },
+  {
+    "title": "Everything Is An Illusion",
+    "artist": "Kaada",
+    "isrc": "NOBDY1801030"
+  },
+  {
+    "title": "Destiny",
+    "artist": "Karsten Fundal",
+    "isrc": "DK1J31700101"
+  },
+  {
+    "title": "Shoo",
+    "artist": "Klas Ehnemark",
+    "isrc": "usl4r2026899"
+  },
+  {
+    "title": "Heavy Wings",
+    "artist": "Krister Linder",
+    "isrc": "QMN8J1700215"
+  },
+  {
+    "title": "Man Falling",
+    "artist": "Kristian Selin Eidnes Andersen",
+    "isrc": "DK1J31508001"
+  },
+  {
+    "title": "Little Soldier",
+    "artist": "Kåre Bjerkø",
+    "isrc": "DKI4A0901008"
+  },
+  {
+    "title": "The Sound of Someone You Love . . .",
+    "artist": "Leif Jordansson",
+    "isrc": "SEYNI1100501"
+  },
+  {
+    "title": "Vatten",
+    "artist": "Martin Senter",
+    "isrc": "SEYOK1221194"
+  },
+  {
+    "title": "A Broken Skeleton Key",
+    "artist": "Peter von Poehl",
+    "isrc": "SEWWY0600105"
+  },
+  {
+    "title": "The Field",
+    "artist": "Rikard Borggård",
+    "isrc": "SEWVB1400310"
+  },
+  {
+    "title": "Concerto Borealis: Allegro ritmico -",
+    "artist": "Søren Hyldgaard, Jesper Juul Sorensen, Danish National Symphony Orchestra, Henrik Vagn Christensen",
+    "isrc": "DKFAA0602404"
+  },
+  {
+    "title": "Loppusota",
+    "artist": "Timo Hietala, Sinfonia Lahti, Kari Kriikku",
+    "isrc": "QZK6J2288155"
+  },
+  {
+    "title": "Emotional Freediving",
+    "artist": "Toni Martin Dobrzanski",
+    "isrc": "DKFD51871001"
+  },
+  {
+    "title": "Domestic Pressures",
+    "artist": "Jóhann Jóhannsson",
+    "isrc": "USQ4E1401094"
+  },
+  {
+    "title": "Eurovision Suite",
+    "artist": "Atli Örvarsson",
+    "isrc": "QZ8BZ2000241"
+  },
+  {
+    "title": "Battlefield V Legacy Theme",
+    "artist": "Johan Söderqvist, Patrik Andrén",
+    "isrc": "USLS51833305"
+  },
+  {
+    "title": "Goodnight, Earth",
+    "artist": "Jon Ekstrand",
+    "isrc": "US5941407174"
+  },
+  {
+    "title": "A Lowly Shoe Salesman",
+    "artist": "Ludwig Göransson",
+    "isrc": "USQ4E2204392"
+  },
+  {
+    "title": "Bobbi Jene",
+    "artist": "Uno Helmersson",
+    "isrc": "GBKPL1788864"
+  },
+  {
+    "title": "Raindrops",
+    "artist": "Panu Aaltio",
+    "isrc": "SEWVB1203114"
+  },
+  {
+    "title": "Vivarium",
+    "artist": "Kristian Eidnes Andersen",
+    "isrc": "USQX92001305"
+  },
+  {
+    "title": "Eftirmæli Stendr",
+    "artist": "Gaute Storaas, Bratislava Symphony Orchestra, Helene Bøksle",
+    "isrc": "NOY2H1601190"
+  },
+  {
+    "title": "The Innocents: Opening",
+    "artist": "Pessi Levanto",
+    "isrc": "GBRKQ2170920"
+  },
+  {
+    "title": "Apolonia Waltz Reflection",
+    "artist": "Jonas Struck",
+    "isrc": "DGA072209782"
+  },
+  {
+    "title": "Old Astrid",
+    "artist": "Nicklas Schmidt",
+    "isrc": "DEE861806624"
+  },
+  {
+    "title": "Rauha",
+    "artist": "Lasse Enersen",
+    "isrc": "FITFR1700030"
+  },
+  {
+    "title": "The Killing",
+    "artist": "Frans Bak, Josefine Cronholm",
+    "isrc": "GBUM71204603"
+  },
+  {
+    "title": "Main Title",
+    "artist": "Magnus Beite",
+    "isrc": "NOFGG1344020"
+  },
+  {
+    "title": "Aphelion",
+    "artist": "Jesper Kyd, Fired Earth Music",
+    "isrc": "GBD3V1100702"
+  },
+  {
+    "title": "Under Maanen",
+    "artist": "Halfdan E, Jeppe Kaas",
+    "isrc": "DK1J31400510"
+  },
+  {
+    "title": "Cragger",
+    "artist": "Anthony Lledo",
+    "isrc": "SEWVB1303305"
+  },
+  {
+    "title": "Längtan",
+    "artist": "Tuomas Kantelinen",
+    "isrc": "SEVGT0706205"
+  },
+  {
+    "title": "Matador",
+    "artist": "Bent Fabricius-Bjerre",
+    "isrc": "DKABA1100601"
+  },
+  {
+    "title": "Burning the Archive",
+    "artist": "Trond Bjerknes",
+    "isrc": "SEWVB0900106"
+  },
+  {
+    "title": "Rose",
+    "artist": "Henrik Skram",
+    "isrc": "QZ5FN2274818"
+  },
+  {
+    "title": "Blindern",
+    "artist": "Ola Fløttum",
+    "isrc": "QM7281775237"
+  },
+  {
+    "title": "The Scheme",
+    "artist": "Jacob Groth",
+    "isrc": "GBAJC1000157"
+  },
+  {
+    "title": "Rider til Dunark",
+    "artist": "Jeppe Kaas",
+    "isrc": "DK1J31504006"
+  },
+  {
+    "title": "Let You Down",
+    "artist": "Alex Somers",
+    "isrc": "USLS52230803"
+  },
+  {
+    "title": "Harmony Theme",
+    "artist": "Matti Bye",
+    "isrc": "QZ8BZ2101082"
+  },
+  {
+    "title": "Following the Trail",
+    "artist": "Anders Niska, Klas Wahl",
+    "isrc": "USQY51577993"
+  },
+  {
+    "title": "Funeral (Pavane)",
+    "artist": "Bengt Nilsson",
+    "isrc": "GBMJG1305603"
+  },
+  {
+    "title": "Staircase",
+    "artist": "Klas Wahl, Anders Paul Niska",
+    "isrc": "GBAZC1905002"
+  },
+  {
+    "title": "Inner Strength",
+    "artist": "Veigar Margeirsson",
+    "isrc": "US43C1200007"
+  },
+  {
+    "title": "Part 2",
+    "artist": "Joachim Holbek",
+    "isrc": "DK1J32000102"
+  },
+  {
+    "title": "Sofies Rejse",
+    "artist": "Flemming Nordkrog",
+    "isrc": "DK1J31400804"
+  },
+  {
+    "title": "Lasse och Maja smyger",
+    "artist": "Jean-Paul Wall",
+    "isrc": "GBSMU1871337"
+  },
+  {
+    "title": "Händelser vid vatten 1",
+    "artist": "Mattias Bärjed, Daniel Migdal, Dan Berglund",
+    "isrc": "SEYOK2301890"
+  },
+  {
+    "title": "Aftermath",
+    "artist": "Eirik Myhr",
+    "isrc": "NODFF1801140"
+  },
+  {
+    "title": "Dance Of The Diaper Fairy",
+    "artist": "Per Störby Jutbring",
+    "isrc": "SEWAY1400203"
+  },
+  {
+    "title": "New Joar Theme",
+    "artist": "Olav Øyehaug",
+    "isrc": "NOMCQ1601020"
+  },
+  {
+    "title": "Romance for a Wounded Soul",
+    "artist": "Christer Christensson",
+    "isrc": "SEWVB1102511"
+  },
+  {
+    "title": "Returning The Keys",
+    "artist": "Fredrik Emilson",
+    "isrc": "TCAAY1197900"
+  },
+  {
+    "title": "C Goes Psycho",
+    "artist": "Frid & Frid",
+    "isrc": "SEWUG1400305"
+  },
+  {
+    "title": "Forces of Attraction",
+    "artist": "Jóhann Jóhannsson",
+    "isrc": "USQ4E1401106"
+  },
+  {
+    "title": "Midnight in the Garden",
+    "artist": "Atli Örvarsson",
+    "isrc": "US5940904166"
+  },
+  {
+    "title": "Battlefield Classic Theme / Mayhem View",
+    "artist": "Johan Söderqvist, Patrik Andrén",
+    "isrc": "CAN111600520"
+  },
+  {
+    "title": "Godspeed, Doctor",
+    "artist": "Jon Ekstrand",
+    "isrc": "US5941407176"
+  },
+  {
+    "title": "Oppenheimer",
+    "artist": "Ludwig Göransson",
+    "isrc": "USQ4E2204413"
+  },
+  {
+    "title": "Study In Rituals, Pt. 2",
+    "artist": "Uno Helmersson, Mari Samuelsen, Hakon Samuelsen, TrondheimSolistene, Jesper Söderqvist",
+    "isrc": "GBUM71700643"
+  },
+  {
+    "title": "Tale of a Lake",
+    "artist": "Panu Aaltio",
+    "isrc": "GBKPL1663392"
+  },
+  {
+    "title": "Andreas Meets Martin",
+    "artist": "Kristian Eidnes Andersen",
+    "isrc": "QZ8BZ2202929"
+  },
+  {
+    "title": "Biskupin",
+    "artist": "Gaute Storaas, Bratislava Symphony Orchestra",
+    "isrc": "NOY2H1601080"
+  },
+  {
+    "title": "The Innocents: Ending",
+    "artist": "Pessi Levanto",
+    "isrc": "GBRKQ2170938"
+  },
+  {
+    "title": "Apolonia Waltz Prologue",
+    "artist": "Jonas Struck",
+    "isrc": "DGA072209767"
+  },
+  {
+    "title": "Bo's snedige planer",
+    "artist": "Nicklas Schmidt, Danish National Symphony Orchestra",
+    "isrc": "DKA9Z2204102"
+  },
+  {
+    "title": "Future",
+    "artist": "Lasse Enersen, Henri Vartio, Elle Márjá Eira, Morten Hyld Pettersen",
+    "isrc": "QZ8BZ2409123"
+  },
+  {
+    "title": "Parting",
+    "artist": "Frans Bak",
+    "isrc": "GB3TH2000002"
+  },
+  {
+    "title": "Ragnarok Main Title",
+    "artist": "Magnus Beite, Noteservice Wind Band, Reid Gilje",
+    "isrc": "NODGN1903090"
+  },
+  {
+    "title": "Earth",
+    "artist": "Jesper Kyd, Assassin's Creed",
+    "isrc": "CA2BN0900076"
+  },
+  {
+    "title": "En Arbejdsmelodi",
+    "artist": "Halfdan E, Jeppe Kaas",
+    "isrc": "DK1J31400514"
+  },
+  {
+    "title": "Playful Tribes",
+    "artist": "Anthony Lledo",
+    "isrc": "SEWVB1303303"
+  },
+  {
+    "title": "Adiago",
+    "artist": "Tuomas Kantelinen",
+    "isrc": "SEVGT0706209"
+  },
+  {
+    "title": "Flåklypa åpningstema",
+    "artist": "Bent Fabricius-Bjerre, Noteservice Wind Band, Reid Gilje",
+    "isrc": "NODGN1904110"
+  },
+  {
+    "title": "The Window Jumper",
+    "artist": "Trond Bjerknes",
+    "isrc": "SEWVB0900102"
+  },
+  {
+    "title": "The Visit",
+    "artist": "Henrik Skram",
+    "isrc": "QZ5FN2274812"
+  }
+]

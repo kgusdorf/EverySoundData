@@ -1,0 +1,612 @@
+[
+  {
+    "title": "Los Viejitos",
+    "artist": "Ke Cura Norteña",
+    "isrc": "QZ5AB1792216"
+  },
+  {
+    "title": "Baila Mi Cumbia (Norteño)",
+    "artist": "La Brazza Norteña",
+    "isrc": "QZDQH1828849"
+  },
+  {
+    "title": "La Pergola",
+    "artist": "Grupo PautAzul",
+    "isrc": "QZHN51928088"
+  },
+  {
+    "title": "El Besito",
+    "artist": "La Brissa",
+    "isrc": "QZK6J2032522"
+  },
+  {
+    "title": "Carita de Angel",
+    "artist": "Juan Leyva",
+    "isrc": "USDHM1910907"
+  },
+  {
+    "title": "La Vibora",
+    "artist": "Remolinos De Fabian Gomez",
+    "isrc": "USANG1401389"
+  },
+  {
+    "title": "Bailame",
+    "artist": "Grupo La Kinta",
+    "isrc": "US7VG1851786"
+  },
+  {
+    "title": "Caminando Y Bailando",
+    "artist": "Honor Del Norte, Contacto Norte",
+    "isrc": "US3DF2271658"
+  },
+  {
+    "title": "Tu Pum Pum / Rica y Apretadita",
+    "artist": "Grupo La Vibra",
+    "isrc": "US7VG1842627"
+  },
+  {
+    "title": "El Berem Bem Bem",
+    "artist": "Grupo Bacanora",
+    "isrc": "AEA0D1893495"
+  },
+  {
+    "title": "Rio Rebelde",
+    "artist": "Honorables",
+    "isrc": "QZQMB2102380"
+  },
+  {
+    "title": "Come On Baby",
+    "artist": "Grupo La Mira",
+    "isrc": "QM4TX2224198"
+  },
+  {
+    "title": "Canchame",
+    "artist": "Grupo La Kaña",
+    "isrc": "QZDQH2394630"
+  },
+  {
+    "title": "Telefono Ocupado",
+    "artist": "La Brissa",
+    "isrc": "USDHM1504682"
+  },
+  {
+    "title": "Carmen Miranda",
+    "artist": "Expresso Musical",
+    "isrc": "QZDQH2145824"
+  },
+  {
+    "title": "La Marejada Y El Mazo",
+    "artist": "Kecura Norteña",
+    "isrc": "QZK6Q2257057"
+  },
+  {
+    "title": "La Ramona",
+    "artist": "Los Ases de Durango",
+    "isrc": "QM6MZ1772273"
+  },
+  {
+    "title": "La Chuchis (Norteño)",
+    "artist": "Juan Ortega y Su Grupo",
+    "isrc": "QZDQH1828828"
+  },
+  {
+    "title": "Gringa",
+    "artist": "Sabor Norteño",
+    "isrc": "usdy41912307"
+  },
+  {
+    "title": "EL MAZO",
+    "artist": "El Señorón de la Cumbia Juan Ortega y su Grupo",
+    "isrc": "SE6I32189628"
+  },
+  {
+    "title": "La Colaless",
+    "artist": "Su Majestad La Brissa",
+    "isrc": "USDHM1901681"
+  },
+  {
+    "title": "Y Como Quieres Que Te Quiera",
+    "artist": "Fabian Gomez",
+    "isrc": "US3DF1106916"
+  },
+  {
+    "title": "Sigo extrañandote",
+    "artist": "Grupo Honorables",
+    "isrc": "ARC571500473"
+  },
+  {
+    "title": "La Casita",
+    "artist": "Hermanos Vega De Ramon Vega",
+    "isrc": "USDHM1911525"
+  },
+  {
+    "title": "La Noche Que Chicago Murio",
+    "artist": "Los Piza Quesos del Sabor",
+    "isrc": "RUA1H2003389"
+  },
+  {
+    "title": "Se Mamo el Becerro",
+    "artist": "Hnos. Vega",
+    "isrc": "USDHM1605147"
+  },
+  {
+    "title": "Cinco De Te",
+    "artist": "Tropocalisimo Apache Nueva Imagen",
+    "isrc": "US3DF1318702"
+  },
+  {
+    "title": "Toro Mambo (En Vivo)",
+    "artist": "Los Tramposos",
+    "isrc": "TCADT1831143"
+  },
+  {
+    "title": "La Feria de Cepillin",
+    "artist": "Loz Tirikumbia",
+    "isrc": "QZNJV2148907"
+  },
+  {
+    "title": "Poquito a Poco",
+    "artist": "Cornelio Vega Y Sus Arrieros",
+    "isrc": "USDHM1617037"
+  },
+  {
+    "title": "El Agua Clara",
+    "artist": "Contacto Norte",
+    "isrc": "QZ5AB1711733"
+  },
+  {
+    "title": "Contigo O Sin Ti",
+    "artist": "Hermanos Vega",
+    "isrc": "US3DF1439282"
+  },
+  {
+    "title": "No Me Tengas Lastima",
+    "artist": "Los Hermanos Vega",
+    "isrc": "US39K1708509"
+  },
+  {
+    "title": "El Borreguito",
+    "artist": "CONJUNTO MK",
+    "isrc": "QZHZ52140991"
+  },
+  {
+    "title": "Chapotea",
+    "artist": "Los Comandos Del Oeste",
+    "isrc": "QZDQH2150297"
+  },
+  {
+    "title": "La Vaca Loca",
+    "artist": "Conjunto La Duracion",
+    "isrc": "QZ93L1917244"
+  },
+  {
+    "title": "La Mini Mini",
+    "artist": "La Concentracion",
+    "isrc": "ushm91929507"
+  },
+  {
+    "title": "La Yaquesita",
+    "artist": "Los Renegados Del Norte",
+    "isrc": "TCADM1821297"
+  },
+  {
+    "title": "Negrita E´a E",
+    "artist": "Pautazul",
+    "isrc": "US7VG2214549"
+  },
+  {
+    "title": "Los Pajaritos Huapango",
+    "artist": "Loz Kompaz Del Rafa",
+    "isrc": "QZW9N2239146"
+  },
+  {
+    "title": "El Paso Del Caballito",
+    "artist": "Frecuencia Norteña",
+    "isrc": "AEA0Q2088984"
+  },
+  {
+    "title": "NACI DE BUENOS PADRES",
+    "artist": "Grupo La Tromba de Obregon, Alex Ramirez Y Su Grupo Profetas",
+    "isrc": "SE6A92155072"
+  },
+  {
+    "title": "Macorina/El Ahualulco",
+    "artist": "Grupo K-Belas",
+    "isrc": "QM4DW1873492"
+  },
+  {
+    "title": "Mi Trayectoria (Estudio)",
+    "artist": "Los Pennys",
+    "isrc": "USDHM1512041"
+  },
+  {
+    "title": "El Baile Del Diablo",
+    "artist": "Los Tipiqueños de Sonora",
+    "isrc": "QZDA42025224"
+  },
+  {
+    "title": "Al Gusto",
+    "artist": "Los Pikadientes De Caborca",
+    "isrc": "USSD10900348"
+  },
+  {
+    "title": "En La Barra",
+    "artist": "Grupo Laberinto",
+    "isrc": "MXF360235766"
+  },
+  {
+    "title": "Que Tristeza",
+    "artist": "Laberinto",
+    "isrc": "MXF331201230"
+  },
+  {
+    "title": "Mira oye",
+    "artist": "Los Tigrillos",
+    "isrc": "MXF160000528"
+  },
+  {
+    "title": "Linda Mujer (En Vivo)",
+    "artist": "Mayel y Su Plebada",
+    "isrc": "TCAHP2392413"
+  },
+  {
+    "title": "Tao, Tao",
+    "artist": "Control",
+    "isrc": "USEL19900389"
+  },
+  {
+    "title": "Me Gusta Bailar Contigo",
+    "artist": "Grupo Kbelas",
+    "isrc": "US7VG1692708"
+  },
+  {
+    "title": "El viejo Del Sombreron",
+    "artist": "GLT Grupo La Tromba",
+    "isrc": "GB-SMU-30-96348"
+  },
+  {
+    "title": "El Pulmòn",
+    "artist": "Contrafuego, Alex Ramirez Y Su Grupo Profetas",
+    "isrc": "USANG2264372"
+  },
+  {
+    "title": "El Manicero",
+    "artist": "Grupo Extenso",
+    "isrc": "USZBY0801064"
+  },
+  {
+    "title": "El Mojo El Bigote",
+    "artist": "Los Ases De Durango - Coleccion Musical",
+    "isrc": "US3DF1319127"
+  },
+  {
+    "title": "Un Siglo Sin Ti",
+    "artist": "Cornelio Vega Con Banda",
+    "isrc": "USDHM1616752"
+  },
+  {
+    "title": "Amor de Madre, Pt. 2",
+    "artist": "DCO",
+    "isrc": "FR2X41416349"
+  },
+  {
+    "title": "Me Aceptaste",
+    "artist": "Halcones Del Norte",
+    "isrc": "QZDQH2106726"
+  },
+  {
+    "title": "La Pergola",
+    "artist": "Los Dungas",
+    "isrc": "QZ5AB2028404"
+  },
+  {
+    "title": "El Bombón - En Vivo",
+    "artist": "Ke Cura Norteña",
+    "isrc": "QZ5AB1807179"
+  },
+  {
+    "title": "El Cocodrilo (Norteño)",
+    "artist": "La Brazza Norteña",
+    "isrc": "QZDQH1828872"
+  },
+  {
+    "title": "El Verano",
+    "artist": "Grupo PautAzul",
+    "isrc": "USANG2015927"
+  },
+  {
+    "title": "San Fernando",
+    "artist": "La Brissa",
+    "isrc": "QZK6J2032519"
+  },
+  {
+    "title": "La Pollerita",
+    "artist": "Juan Leyva",
+    "isrc": "USDHM1910905"
+  },
+  {
+    "title": "Tal Vez Sea Mejor",
+    "artist": "Remolinos De Fabian Gomez",
+    "isrc": "USANG1401381"
+  },
+  {
+    "title": "Morenita",
+    "artist": "Grupo La Kinta, Contacto Norte",
+    "isrc": "QZNJZ2138050"
+  },
+  {
+    "title": "La Loca",
+    "artist": "Honor Del Norte, Kecura Norteña",
+    "isrc": "US3DF2287804"
+  },
+  {
+    "title": "Mis Pies",
+    "artist": "Grupo La Vibra",
+    "isrc": "US7VG1842626"
+  },
+  {
+    "title": "La Cumbia Del Ajo",
+    "artist": "Grupo Bacanora",
+    "isrc": "AEA0D1893492"
+  },
+  {
+    "title": "Negra Catalina",
+    "artist": "Honorables",
+    "isrc": "QM6DC1740543"
+  },
+  {
+    "title": "Carmelita",
+    "artist": "Grupo La Mira",
+    "isrc": "QM6N22271031"
+  },
+  {
+    "title": "Bombon",
+    "artist": "Grupo La Kaña",
+    "isrc": "QZDQH2394883"
+  },
+  {
+    "title": "Suave Pa' Bailar",
+    "artist": "La Brissa, Martín Ramos",
+    "isrc": "USDHM1901520"
+  },
+  {
+    "title": "Muñequita",
+    "artist": "Expresso Musical",
+    "isrc": "QZDQH2145826"
+  },
+  {
+    "title": "Ay Lupita",
+    "artist": "Kecura Norteña",
+    "isrc": "GBSMU6747511"
+  },
+  {
+    "title": "Son Tus Perjumenes Mujer",
+    "artist": "Los Ases de Durango",
+    "isrc": "QM6MZ1772277"
+  },
+  {
+    "title": "La Hungara (Norteño)",
+    "artist": "Juan Ortega y Su Grupo",
+    "isrc": "QZDQH1828734"
+  },
+  {
+    "title": "La Catrina",
+    "artist": "Sabor Norteño",
+    "isrc": "uscgj2087320"
+  },
+  {
+    "title": "EL CHIPÓN CHIPÓN",
+    "artist": "El Señorón de la Cumbia Juan Ortega y su Grupo",
+    "isrc": "SE6SA2174907"
+  },
+  {
+    "title": "Viva el Amor",
+    "artist": "Su Majestad La Brissa",
+    "isrc": "QM7281723076"
+  },
+  {
+    "title": "La Picare ( Banda)",
+    "artist": "Fabian Gomez",
+    "isrc": "US3DF1106868"
+  },
+  {
+    "title": "Señales de amor",
+    "artist": "Grupo Honorables",
+    "isrc": "ARC571500476"
+  },
+  {
+    "title": "El Sonorense",
+    "artist": "Hermanos Vega De Ramon Vega",
+    "isrc": "USDHM1911583"
+  },
+  {
+    "title": "Mi Chica Angelica (En vivo)",
+    "artist": "Los Piza Quesos del Sabor",
+    "isrc": "QZDQH2258812"
+  },
+  {
+    "title": "Un Millón de Amigos",
+    "artist": "Hnos. Vega",
+    "isrc": "USDHM1605143"
+  },
+  {
+    "title": "Cuarenta Grados",
+    "artist": "Tropocalisimo Apache Nueva Imagen",
+    "isrc": "US3DF1318699"
+  },
+  {
+    "title": "San Felipe (En Vivo)",
+    "artist": "Los Tramposos",
+    "isrc": "TCADT1831086"
+  },
+  {
+    "title": "La Pantera Rosa Huapango",
+    "artist": "Loz Tirikumbia",
+    "isrc": "QZNJY2345778"
+  },
+  {
+    "title": "Y Como Es El",
+    "artist": "Cornelio Vega Y Sus Arrieros",
+    "isrc": "USDHM1617032"
+  },
+  {
+    "title": "La Bomba",
+    "artist": "Contacto Norte",
+    "isrc": "US7VG2250798"
+  },
+  {
+    "title": "La Gringa",
+    "artist": "Hermanos Vega",
+    "isrc": "US3DF1439283"
+  },
+  {
+    "title": "Esperanza Valero",
+    "artist": "Los Hermanos Vega",
+    "isrc": "US3DF1432318"
+  },
+  {
+    "title": "El Esquimal",
+    "artist": "CONJUNTO MK",
+    "isrc": "US7VG2409574"
+  },
+  {
+    "title": "Vamos a la Cumbia",
+    "artist": "Los Comandos Del Oeste",
+    "isrc": "QZDQH2150295"
+  },
+  {
+    "title": "La Vaca Loca - Live",
+    "artist": "Conjunto La Duracion",
+    "isrc": "QZ93L1962090"
+  },
+  {
+    "title": "Ojos Negros",
+    "artist": "Los Renegados Del Norte",
+    "isrc": "MXF149600231"
+  },
+  {
+    "title": "La Varita de Caña",
+    "artist": "La Concentracion",
+    "isrc": "ushm91929708"
+  },
+  {
+    "title": "La Pergola",
+    "artist": "Pautazul",
+    "isrc": "US7VG2214547"
+  },
+  {
+    "title": "Te Gusta el Taa",
+    "artist": "Loz Kompaz Del Rafa, Los Tramposos",
+    "isrc": "QZTPX2380760"
+  },
+  {
+    "title": "Son De Venado",
+    "artist": "Frecuencia Norteña",
+    "isrc": "AEA0Q2088975"
+  },
+  {
+    "title": "La Burra Orejona",
+    "artist": "Ke Cura Norteña",
+    "isrc": "QZ5AB1792215"
+  },
+  {
+    "title": "El Ultimo Rodeo (Norteño)",
+    "artist": "La Brazza Norteña",
+    "isrc": "QZDQH2203520"
+  },
+  {
+    "title": "La Calambrina",
+    "artist": "Grupo PautAzul",
+    "isrc": "USANG2015922"
+  },
+  {
+    "title": "Lucerito",
+    "artist": "La Brissa",
+    "isrc": "QZK6J2031416"
+  },
+  {
+    "title": "La Jalada",
+    "artist": "Juan Leyva",
+    "isrc": "USDHM1910913"
+  },
+  {
+    "title": "La Picare",
+    "artist": "Remolinos De Fabian Gomez",
+    "isrc": "USANG1401395"
+  },
+  {
+    "title": "Menea Menea",
+    "artist": "Grupo La Kinta",
+    "isrc": "US7VG1851790"
+  },
+  {
+    "title": "Notas De Sociedad",
+    "artist": "Honor Del Norte",
+    "isrc": "US3DF2277061"
+  },
+  {
+    "title": "La Cumbiamberita",
+    "artist": "Grupo La Vibra",
+    "isrc": "US7VG1992177"
+  },
+  {
+    "title": "El Dum Dum",
+    "artist": "Grupo Bacanora",
+    "isrc": "AEA0D1893501"
+  },
+  {
+    "title": "La Cadenita",
+    "artist": "Honorables",
+    "isrc": "QZQMB2102353"
+  },
+  {
+    "title": "Baila Este Ritmo",
+    "artist": "Grupo La Mira",
+    "isrc": "QMFME2155840"
+  },
+  {
+    "title": "Solo Tu",
+    "artist": "Grupo La Kaña, Sergio Mendivil Y Sus Huellas",
+    "isrc": "QZNJV2017898"
+  },
+  {
+    "title": "Aguardiente y Ron",
+    "artist": "La Brissa",
+    "isrc": "USDHM1422700"
+  },
+  {
+    "title": "Chica Angelical",
+    "artist": "Expresso Musical",
+    "isrc": "QZDQH2156712"
+  },
+  {
+    "title": "El bolero",
+    "artist": "Kecura Norteña",
+    "isrc": "GB-SMU-50-84002"
+  },
+  {
+    "title": "Los Cucos",
+    "artist": "Los Ases de Durango",
+    "isrc": "QM6N21701880"
+  },
+  {
+    "title": "La Tarara (Norteño)",
+    "artist": "Juan Ortega y Su Grupo",
+    "isrc": "QZDQH1828725"
+  },
+  {
+    "title": "La Máquina",
+    "artist": "Sabor Norteño",
+    "isrc": "usdy41912306"
+  },
+  {
+    "title": "QUE LEVANTE LA MANO",
+    "artist": "El Señorón de la Cumbia Juan Ortega y su Grupo",
+    "isrc": "SE6SA2108529"
+  },
+  {
+    "title": "Fiesta en Sonora",
+    "artist": "Su Majestad La Brissa, Los Ases de Durango, La Concentracion, Fabian Gomez, Tambora Ritmo Express, Grupo Laberinto, Grupo Bacanora, Pautazul",
+    "isrc": "QM6N22104789"
+  }
+]

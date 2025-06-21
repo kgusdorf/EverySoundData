@@ -1,0 +1,612 @@
+[
+  {
+    "title": "Lunes Por La Madrugada",
+    "artist": "Ibiza Pareo",
+    "isrc": "AR6B52300096"
+  },
+  {
+    "title": "Hablarme",
+    "artist": "MissLupe",
+    "isrc": "ARDV01900003"
+  },
+  {
+    "title": "Cicuta - Remix",
+    "artist": "Peces Raros, Trueno",
+    "isrc": "AR2642100044"
+  },
+  {
+    "title": "Cabeza",
+    "artist": "Fus Delei",
+    "isrc": "ARAB11900006"
+  },
+  {
+    "title": "Bailar Sola (feat. Florencia Lucena, Nahuel Barbero & Hernan Ortiz)",
+    "artist": "Valdes, Nahuel Barbero, Hernán Ortiz, Florencia Lucena",
+    "isrc": "ARWCG1600001"
+  },
+  {
+    "title": "De vos conmigo",
+    "artist": "Coiffeur",
+    "isrc": "SEYOK1525466"
+  },
+  {
+    "title": "Balanceo",
+    "artist": "Isla de los Estados",
+    "isrc": "ARC571602720"
+  },
+  {
+    "title": "Alaska",
+    "artist": "Laika Perra Rusa, FERMIN",
+    "isrc": "AR1JU2300009"
+  },
+  {
+    "title": "Declaración Jurada",
+    "artist": "Susi Pireli",
+    "isrc": "ARW861800051"
+  },
+  {
+    "title": "Ficción",
+    "artist": "Varese",
+    "isrc": "ARMZX2300001"
+  },
+  {
+    "title": "Escama de Vidrio",
+    "artist": "Marina Fages",
+    "isrc": "ARN602200002"
+  },
+  {
+    "title": "Protagonista",
+    "artist": "Clara Cava",
+    "isrc": "QZW9K2260745"
+  },
+  {
+    "title": "NT al sol",
+    "artist": "Melanie Williams, Paul Higgs, El Mundo Limon",
+    "isrc": "ARR092200296"
+  },
+  {
+    "title": "Agua Marfil",
+    "artist": "Usted Señalemelo",
+    "isrc": "US7VG1682156"
+  },
+  {
+    "title": "No Puedo Funcionar",
+    "artist": "DJs Pareja, MissLupe",
+    "isrc": "GBJX32158502"
+  },
+  {
+    "title": "Cuál Es Tu Núcleo",
+    "artist": "Proyecto Gomez Casa, CA7RIEL",
+    "isrc": "ARX2B2100005"
+  },
+  {
+    "title": "Amor de Antro",
+    "artist": "Joyaz",
+    "isrc": "ES71G2101272"
+  },
+  {
+    "title": "Todo Esto",
+    "artist": "Antuantu, Violeta García",
+    "isrc": "QZGLM2471303"
+  },
+  {
+    "title": "Reina",
+    "artist": "Agua Florida",
+    "isrc": "UKXN22048724"
+  },
+  {
+    "title": "Vibra Alta",
+    "artist": "CA7RIEL",
+    "isrc": "GBMA21880997"
+  },
+  {
+    "title": "QUEREME",
+    "artist": "LOUTA, WOS",
+    "isrc": "ARF102200177"
+  },
+  {
+    "title": "Al oeste",
+    "artist": "Juana Molina",
+    "isrc": "ARF901600111"
+  },
+  {
+    "title": "Centinela",
+    "artist": "Bsides",
+    "isrc": "ARC2C1900006"
+  },
+  {
+    "title": "Friccion",
+    "artist": "Firpolar",
+    "isrc": "ARBCE1900001"
+  },
+  {
+    "title": "Saturated (Cosmolar Remix)",
+    "artist": "La Danza de las Bestias, Cosmosolar",
+    "isrc": "usl4q1882821"
+  },
+  {
+    "title": "Macarena",
+    "artist": "TRAZANTE",
+    "isrc": "QZ5AB1886640"
+  },
+  {
+    "title": "Político o Rolling Stone",
+    "artist": "Galean, El príncipe idiota",
+    "isrc": "ARQ0D2400002"
+  },
+  {
+    "title": "Abón",
+    "artist": "Estupendo",
+    "isrc": "USHM22425755"
+  },
+  {
+    "title": "Uh",
+    "artist": "Jazmín Mazzuchelli",
+    "isrc": "ARHXW2202922"
+  },
+  {
+    "title": "Provoqué",
+    "artist": "La Femme D´Argent, FEMI",
+    "isrc": "QZGLS2315874"
+  },
+  {
+    "title": "Monaco - Pyura Remix",
+    "artist": "Pyura",
+    "isrc": "US7VG2415176"
+  },
+  {
+    "title": "Hoy No",
+    "artist": "Entre Rios",
+    "isrc": "ES6640500127"
+  },
+  {
+    "title": "Detrás de una Flor",
+    "artist": "Mueran Humanos",
+    "isrc": "GBMUA1900003"
+  },
+  {
+    "title": "Sol de Mañana",
+    "artist": "Vicerboy",
+    "isrc": "ARMJ11800001"
+  },
+  {
+    "title": "Tatuajes en la Espalda",
+    "artist": "Seba Toyos",
+    "isrc": "ARHXW2105909"
+  },
+  {
+    "title": "Sirena",
+    "artist": "Paz Asurabarrena",
+    "isrc": "QZGLS2010157"
+  },
+  {
+    "title": "Luces Sensacional",
+    "artist": "Los Látigos",
+    "isrc": "MX1000900036"
+  },
+  {
+    "title": "Ay Corazoncito",
+    "artist": "Tonolec",
+    "isrc": "ARC571500496"
+  },
+  {
+    "title": "Paisajes",
+    "artist": "Mamba Suite",
+    "isrc": "usl4r1927300"
+  },
+  {
+    "title": "Dame Lo Que Quieras",
+    "artist": "Indie J",
+    "isrc": "QZHZ31971629"
+  },
+  {
+    "title": "Irresponsables",
+    "artist": "Babasonicos",
+    "isrc": "ARUM70600587"
+  },
+  {
+    "title": "Bailando sucio",
+    "artist": "The Chica",
+    "isrc": "QMEZE1908577"
+  },
+  {
+    "title": "Vocales",
+    "artist": "HTML",
+    "isrc": "QZ5AB1942259"
+  },
+  {
+    "title": "Serena",
+    "artist": "Japón",
+    "isrc": "USL4R2318881"
+  },
+  {
+    "title": "Please Me",
+    "artist": "Poncho, Maxi Trusso",
+    "isrc": "ARF470900149"
+  },
+  {
+    "title": "Despertar a Tiempo",
+    "artist": "Paco Leiva, Moreu",
+    "isrc": "GBLFP2368206"
+  },
+  {
+    "title": "Dame un Talismán",
+    "artist": "Panchito Villa, Luca Bocci",
+    "isrc": "QMDA71802745"
+  },
+  {
+    "title": "Encuentros",
+    "artist": "Sobrenadar",
+    "isrc": "USA2P1421447"
+  },
+  {
+    "title": "Los Demás - Juan Hansen Remix",
+    "artist": "Programa, Juan Hansen",
+    "isrc": "ARTMV1900014"
+  },
+  {
+    "title": "Enero, Prendido Fuego",
+    "artist": "joa wav, Manuel Matarasso, Indie J",
+    "isrc": "QZFZ32057256"
+  },
+  {
+    "title": "Hiding Sun (Mixed)",
+    "artist": "Juan Hansen",
+    "isrc": "AUXN21919054"
+  },
+  {
+    "title": "Savna",
+    "artist": "SLNT",
+    "isrc": "ARRGV1700129"
+  },
+  {
+    "title": "En Lo Que Creo Me Convierto",
+    "artist": "Sof Tot",
+    "isrc": "ARO4W1800001"
+  },
+  {
+    "title": "Perfecta",
+    "artist": "Miranda!",
+    "isrc": "ARF840700407"
+  },
+  {
+    "title": "Abrojo",
+    "artist": "Morsa Light",
+    "isrc": "QZHZ31996794"
+  },
+  {
+    "title": "Hongo X Hongo",
+    "artist": "Faauna",
+    "isrc": "gbglw1100253"
+  },
+  {
+    "title": "Juegos del Puerto",
+    "artist": "Baro",
+    "isrc": "ARAB11900001"
+  },
+  {
+    "title": "The Process Of Disillusion",
+    "artist": "Lêndi Vexer",
+    "isrc": "ara950600009"
+  },
+  {
+    "title": "Lua",
+    "artist": "ONDRO, FIERA VERDE, MONTUNO",
+    "isrc": "QZHZ51950758"
+  },
+  {
+    "title": "Resonancia",
+    "artist": "Sol del Rio",
+    "isrc": "ARO4W1600002"
+  },
+  {
+    "title": "Hay que venir al Sur",
+    "artist": "Ibiza Pareo",
+    "isrc": "AR6B52300077"
+  },
+  {
+    "title": "Nuestros Besos",
+    "artist": "MissLupe",
+    "isrc": "ARY4P2300466"
+  },
+  {
+    "title": "Clara",
+    "artist": "Fus Delei",
+    "isrc": "ARAB11800013"
+  },
+  {
+    "title": "Cicuta",
+    "artist": "Peces Raros",
+    "isrc": "AR2642100001"
+  },
+  {
+    "title": "Cuando Se Apague Todo",
+    "artist": "Valdes, CA7RIEL",
+    "isrc": "AR6B52100074"
+  },
+  {
+    "title": "Buenos recuerdos",
+    "artist": "Coiffeur",
+    "isrc": "SEYOK1525463"
+  },
+  {
+    "title": "Tiene Que Parar Ahi",
+    "artist": "Isla de los Estados",
+    "isrc": "ARC571602576"
+  },
+  {
+    "title": "Atentado en la Pista",
+    "artist": "Laika Perra Rusa",
+    "isrc": "ARW9E1900001"
+  },
+  {
+    "title": "Bolsa de Mano",
+    "artist": "Susi Pireli",
+    "isrc": "ARW861800052"
+  },
+  {
+    "title": "Desorden",
+    "artist": "Varese",
+    "isrc": "ARMZX2200003"
+  },
+  {
+    "title": "Mi Casa En Llamas",
+    "artist": "Marina Fages, Eterna Inocencia",
+    "isrc": "ARN602300005"
+  },
+  {
+    "title": "Te Pense un Monton",
+    "artist": "Clara Cava",
+    "isrc": "QZNJZ2297488"
+  },
+  {
+    "title": "5A",
+    "artist": "Melanie Williams",
+    "isrc": "QM4TX1995783"
+  },
+  {
+    "title": "Pana",
+    "artist": "Usted Señalemelo",
+    "isrc": "ARZZ01700009"
+  },
+  {
+    "title": "Perfecto Radar",
+    "artist": "DJs Pareja",
+    "isrc": "AR7021500023"
+  },
+  {
+    "title": "Corazón Bitcrasheado",
+    "artist": "Proyecto Gomez Casa, Melanie Williams",
+    "isrc": "ARX2B2100001"
+  },
+  {
+    "title": "Salvaje",
+    "artist": "Joyaz",
+    "isrc": "ushm21863492"
+  },
+  {
+    "title": "Esta Situación",
+    "artist": "Antuantu, Violeta García",
+    "isrc": "QZGLM2471300"
+  },
+  {
+    "title": "Cardo o Ceniza",
+    "artist": "Agua Florida, Mariana Baraj",
+    "isrc": "UKXN22048733"
+  },
+  {
+    "title": "McFly",
+    "artist": "CA7RIEL",
+    "isrc": "GBMA21873233"
+  },
+  {
+    "title": "Paraguaya",
+    "artist": "Juana Molina",
+    "isrc": "ARF901600100"
+  },
+  {
+    "title": "AYER TE VI (feat. Zoe Gotusso)",
+    "artist": "LOUTA, Zoe Gotusso",
+    "isrc": "ARF101800284"
+  },
+  {
+    "title": "Panorama",
+    "artist": "Bsides",
+    "isrc": "ARC2C1900019"
+  },
+  {
+    "title": "Donde Habita el Fuego (Varese Remix)",
+    "artist": "Firpolar, Varese",
+    "isrc": "GBLFP1975978"
+  },
+  {
+    "title": "La Selva y la Suerte - Remix",
+    "artist": "La Danza de las Bestias, Laika Perra Rusa",
+    "isrc": "QZW9L2227656"
+  },
+  {
+    "title": "Por Fea",
+    "artist": "TRAZANTE",
+    "isrc": "QZ5AB1886642"
+  },
+  {
+    "title": "Rubí",
+    "artist": "Galean, Rocco Posca",
+    "isrc": "ARQ0D2300008"
+  },
+  {
+    "title": "Gatos Serie",
+    "artist": "Estupendo",
+    "isrc": "USHM22425753"
+  },
+  {
+    "title": "119",
+    "artist": "Jazmín Mazzuchelli",
+    "isrc": "ARHXW2101166"
+  },
+  {
+    "title": "Si No Estás",
+    "artist": "La Femme D´Argent",
+    "isrc": "AR6B51800267"
+  },
+  {
+    "title": "Hechizao - Pyura Remix",
+    "artist": "Pyura, Silvestre y La Naranja",
+    "isrc": "QZGLS2442190"
+  },
+  {
+    "title": "Litoral",
+    "artist": "Entre Rios",
+    "isrc": "ES6640400015"
+  },
+  {
+    "title": "Un Lugar Ideal",
+    "artist": "Mueran Humanos",
+    "isrc": "GBMUA1500039"
+  },
+  {
+    "title": "Fascinación",
+    "artist": "Vicerboy",
+    "isrc": "QZGLS1997760"
+  },
+  {
+    "title": "De Noche",
+    "artist": "Seba Toyos",
+    "isrc": "QZHN32007230"
+  },
+  {
+    "title": "Guerra",
+    "artist": "Paz Asurabarrena",
+    "isrc": "ARHXW2005600"
+  },
+  {
+    "title": "¿Cuál Es Tu Rock?",
+    "artist": "Los Látigos",
+    "isrc": "USNPD1215007"
+  },
+  {
+    "title": "Zamba para Olvidar",
+    "artist": "Tonolec",
+    "isrc": "ARC571500480"
+  },
+  {
+    "title": "Amaría - álbum edit",
+    "artist": "Mamba Suite",
+    "isrc": "QZTB22368430"
+  },
+  {
+    "title": "Juntos en el After",
+    "artist": "Indie J, Manuel Matarasso",
+    "isrc": "QZHN61968565"
+  },
+  {
+    "title": "El Ritmo de la Noche",
+    "artist": "The Chica",
+    "isrc": "GBLFP2237055"
+  },
+  {
+    "title": "Arido Espejismo",
+    "artist": "Ibiza Pareo",
+    "isrc": "AR6B51500076"
+  },
+  {
+    "title": "LIBERACIÓN",
+    "artist": "MissLupe",
+    "isrc": "QM4TW2075874"
+  },
+  {
+    "title": "Será Cuestión de Verse",
+    "artist": "Fus Delei",
+    "isrc": "uscgj1866151"
+  },
+  {
+    "title": "No Van a Parar",
+    "artist": "Peces Raros",
+    "isrc": "ES71G1855412"
+  },
+  {
+    "title": "ALGO MÁS.",
+    "artist": "Valdes",
+    "isrc": "AR6B51900064"
+  },
+  {
+    "title": "Mientras Tanto",
+    "artist": "Coiffeur",
+    "isrc": "CLLL21200136"
+  },
+  {
+    "title": "Gozo",
+    "artist": "Isla de los Estados",
+    "isrc": "ARC571602718"
+  },
+  {
+    "title": "Bum (Chocamos un Auto)",
+    "artist": "Laika Perra Rusa",
+    "isrc": "AR1JU2200013"
+  },
+  {
+    "title": "Subtítulo: Te Amo",
+    "artist": "Susi Pireli",
+    "isrc": "ARW862100001"
+  },
+  {
+    "title": "Fuera de Lugar",
+    "artist": "Varese",
+    "isrc": "ARMZX2300003"
+  },
+  {
+    "title": "Aguardiente",
+    "artist": "Marina Fages",
+    "isrc": "ARN602300002"
+  },
+  {
+    "title": "Precipicio",
+    "artist": "Clara Cava",
+    "isrc": "QZHZ62057157"
+  },
+  {
+    "title": "Somos 2",
+    "artist": "Melanie Williams",
+    "isrc": "QM4TX2138178"
+  },
+  {
+    "title": "Nuevo Comienzo",
+    "artist": "Usted Señalemelo",
+    "isrc": "CLPP22200064"
+  },
+  {
+    "title": "No Tomarán Acción",
+    "artist": "DJs Pareja",
+    "isrc": "AR7021500028"
+  },
+  {
+    "title": "Hay que dormir solo lo necesario",
+    "artist": "Proyecto Gomez Casa, CA7RIEL",
+    "isrc": "ARO4W1900005"
+  },
+  {
+    "title": "Egipto",
+    "artist": "Joyaz",
+    "isrc": "FR10S1429182"
+  },
+  {
+    "title": "No Soy una Robot",
+    "artist": "Antuantu",
+    "isrc": "USDY41960594"
+  },
+  {
+    "title": "Dejarte Llevar",
+    "artist": "Agua Florida",
+    "isrc": "usl4q1851225"
+  },
+  {
+    "title": "No Aterrizó",
+    "artist": "CA7RIEL",
+    "isrc": "GBMA21881005"
+  },
+  {
+    "title": "Un Día",
+    "artist": "Juana Molina",
+    "isrc": "ARF990800056"
+  }
+]

@@ -1,0 +1,787 @@
+[
+  {
+    "title": "New Fang",
+    "artist": "Them Crooked Vultures",
+    "isrc": "USRW30900005"
+  },
+  {
+    "title": "Hunger Strike",
+    "artist": "Temple Of The Dog",
+    "isrc": "USAM10000264"
+  },
+  {
+    "title": "River of Deceit",
+    "artist": "Mad Season",
+    "isrc": "USSM11207511"
+  },
+  {
+    "title": "Slither",
+    "artist": "Velvet Revolver",
+    "isrc": "USRC10400063"
+  },
+  {
+    "title": "Stone the Crow",
+    "artist": "DOWN",
+    "isrc": "USEE10182808"
+  },
+  {
+    "title": "Steady, As She Goes",
+    "artist": "The Raconteurs",
+    "isrc": "USVT10600052"
+  },
+  {
+    "title": "Red Sun",
+    "artist": "Black Country Communion, Joe Bonamassa, Jason Bonham, Glenn Hughes, Derek Sherinian",
+    "isrc": "USMH52401343"
+  },
+  {
+    "title": "Oh Yeah",
+    "artist": "Chickenfoot",
+    "isrc": "DEH840900050"
+  },
+  {
+    "title": "I Can't Hear You",
+    "artist": "The Dead Weather",
+    "isrc": "USWB11000583"
+  },
+  {
+    "title": "Breaks",
+    "artist": "Gone Is Gone",
+    "isrc": "DELK22000566"
+  },
+  {
+    "title": "Blood Moon",
+    "artist": "Giraffe Tongue Orchestra",
+    "isrc": "GBCEJ1600187"
+  },
+  {
+    "title": "Twin Peaks: Fire Walk with Me",
+    "artist": "Fantomas",
+    "isrc": "USA371371796"
+  },
+  {
+    "title": "Like a Stone",
+    "artist": "Audioslave",
+    "isrc": "USSM10211587"
+  },
+  {
+    "title": "Judith",
+    "artist": "A Perfect Circle",
+    "isrc": "USVI20000047"
+  },
+  {
+    "title": "Goodbye",
+    "artist": "Army of Anyone",
+    "isrc": "USCGH1013714"
+  },
+  {
+    "title": "Shake Your Blood (feat. Lemmy Kilmister)",
+    "artist": "Probot, Lemmy",
+    "isrc": "TCACH1523151"
+  },
+  {
+    "title": "Beggars & Hangers-On",
+    "artist": "Slash's Snakepit",
+    "isrc": "QZED51800003"
+  },
+  {
+    "title": "Sunshine Of Your Love",
+    "artist": "Cream",
+    "isrc": "GBA076700020"
+  },
+  {
+    "title": "Bela Lugosi's Dead",
+    "artist": "Dead Cross",
+    "isrc": "QM5WW1500455"
+  },
+  {
+    "title": "Unfuck The World",
+    "artist": "Prophets Of Rage",
+    "isrc": "USC4R1706033"
+  },
+  {
+    "title": "Can't Find My Way Home",
+    "artist": "Blind Faith",
+    "isrc": "NLF056990018"
+  },
+  {
+    "title": "The Stations",
+    "artist": "The Gutter Twins",
+    "isrc": "USSUB0776101"
+  },
+  {
+    "title": "Dead Skin",
+    "artist": "Duff McKagan's Loaded",
+    "isrc": "GBCBR1000394"
+  },
+  {
+    "title": "Missing You",
+    "artist": "Hagar Schon Aaronson Shrieve",
+    "isrc": "USIR10000986"
+  },
+  {
+    "title": "Jerk",
+    "artist": "Neurotic Outsiders",
+    "isrc": "USMV29600010"
+  },
+  {
+    "title": "Black Cat Moan",
+    "artist": "Beck, Bogert, Appice",
+    "isrc": "USSM19917554"
+  },
+  {
+    "title": "Broken Again",
+    "artist": "Another Animal",
+    "isrc": "USUM70747923"
+  },
+  {
+    "title": "Changing My Mind",
+    "artist": "Revolution Saints",
+    "isrc": "ITG272400019"
+  },
+  {
+    "title": "The Madness",
+    "artist": "Art of Anarchy",
+    "isrc": "US4E41741301"
+  },
+  {
+    "title": "Hello Hello",
+    "artist": "Talk Show",
+    "isrc": "USAT20103811"
+  },
+  {
+    "title": "Radioactive",
+    "artist": "The Firm",
+    "isrc": "USAT20902963"
+  },
+  {
+    "title": "Waiting In The Wings",
+    "artist": "BBM",
+    "isrc": "GBAAA9400405"
+  },
+  {
+    "title": "The Whole World's Watching",
+    "artist": "Walking Papers",
+    "isrc": "USHG91200016"
+  },
+  {
+    "title": "Drugs on the Bus",
+    "artist": "Crystal Fairy",
+    "isrc": "QM5WW1500289"
+  },
+  {
+    "title": "Staring Down the Dust (feat. Mark Lanegan)",
+    "artist": "Ten Commandos, Mark Lanegan",
+    "isrc": "USP6U1501000"
+  },
+  {
+    "title": "Why Dontcha",
+    "artist": "West, Bruce & Laing",
+    "isrc": "USSM19912662"
+  },
+  {
+    "title": "Future Warrior",
+    "artist": "Palms",
+    "isrc": "US6R21371992"
+  },
+  {
+    "title": "Our House",
+    "artist": "Crosby, Stills, Nash & Young",
+    "isrc": "USAT20901935"
+  },
+  {
+    "title": "I Am Your Country",
+    "artist": "Painted Shield",
+    "isrc": "QM6P42099109"
+  },
+  {
+    "title": "My Baby",
+    "artist": "Tres Mts.",
+    "isrc": "USXJD1000001"
+  },
+  {
+    "title": "End Of The Line",
+    "artist": "Traveling Wilburys",
+    "isrc": "GBLVT0700010"
+  },
+  {
+    "title": "Watch It Burn",
+    "artist": "Projected",
+    "isrc": "QMMJG1200003"
+  },
+  {
+    "title": "Radio King",
+    "artist": "Golden Smog",
+    "isrc": "USRY10325014"
+  },
+  {
+    "title": "Ingenue",
+    "artist": "Atoms For Peace",
+    "isrc": "GB4YG1200012"
+  },
+  {
+    "title": "Darkside",
+    "artist": "Mother's Army",
+    "isrc": "DEH841100267"
+  },
+  {
+    "title": "In Bad Dreams",
+    "artist": "Crippled Black Phoenix",
+    "isrc": "FR33T1743405"
+  },
+  {
+    "title": "Tonight",
+    "artist": "Living Loud",
+    "isrc": "AUTQ00400009"
+  },
+  {
+    "title": "Ghost Story - Remastered",
+    "artist": "Paice Ashton Lord, Ian Paice, Jon Lord",
+    "isrc": "DEH841800001"
+  },
+  {
+    "title": "Dashboard Jesus",
+    "artist": "Spys4Darwin",
+    "isrc": "usx9p0733882"
+  },
+  {
+    "title": "When the Heart Rules the Mind",
+    "artist": "GTR",
+    "isrc": "GBBLY1503607"
+  },
+  {
+    "title": "Friendly Fire",
+    "artist": "Tipton, Entwistle & Powell",
+    "isrc": "USQX91503170"
+  },
+  {
+    "title": "Heroes",
+    "artist": "Hollywood Vampires, Alice Cooper, Johnny Depp",
+    "isrc": "DEH841800959"
+  },
+  {
+    "title": "Mr. Oysterhead",
+    "artist": "Oysterhead",
+    "isrc": "USEE10100834"
+  },
+  {
+    "title": "No Knife",
+    "artist": "Chequered Past",
+    "isrc": "GBKYA0803079"
+  },
+  {
+    "title": "Heaven's in Here - 1999 Remaster",
+    "artist": "Tin Machine",
+    "isrc": "USJT19900233"
+  },
+  {
+    "title": "The Sides",
+    "artist": "Ataxia",
+    "isrc": "USRC20400042"
+  },
+  {
+    "title": "Mr. Alphabet Says",
+    "artist": "The Glove",
+    "isrc": "GBF068325250"
+  },
+  {
+    "title": "Raspberry Beret",
+    "artist": "Hindu Love Gods",
+    "isrc": "USRE10101690"
+  },
+  {
+    "title": "Never Said I Love You",
+    "artist": "Envy Of None",
+    "isrc": "GBCQV2101047"
+  },
+  {
+    "title": "Barrio (feat. Matt Skiba)",
+    "artist": "Teenage Time Killers, Matt Skiba",
+    "isrc": "USEK71526706"
+  },
+  {
+    "title": "Kind of a Girl",
+    "artist": "Tinted Windows",
+    "isrc": "USKFE0900101"
+  },
+  {
+    "title": "Too Blue",
+    "artist": "7 Worlds Collide",
+    "isrc": "GBARL0900465"
+  },
+  {
+    "title": "The Birds",
+    "artist": "Apparatjik, Lowell",
+    "isrc": "GB7TF1210136"
+  },
+  {
+    "title": "Another Brick In The Wall (Part 2) (feat. Layne Staley, Tom Morello, Stephen Perkins, Martyn LeNoble & Matt Serletic)",
+    "artist": "Class of '99, Layne Staley, Tom Morello, Stephen Perkins, Martyn Lenoble, Matt Serletic",
+    "isrc": "USSM19805491"
+  },
+  {
+    "title": "Home Thru Hell",
+    "artist": "Deap Lips, Deap Vally, The Flaming Lips",
+    "isrc": "GBCEJ1900265"
+  },
+  {
+    "title": "I Remember The Feeling",
+    "artist": "Dolenz, Jones, Boyce & Hart",
+    "isrc": "USUM71607002"
+  },
+  {
+    "title": "Alaska",
+    "artist": "Eyes Adrift",
+    "isrc": "GBCEJ0598843"
+  },
+  {
+    "title": "Johnny Delusional",
+    "artist": "FFS, Franz Ferdinand, Sparks",
+    "isrc": "GBCEL1500107"
+  },
+  {
+    "title": "Choking Victim",
+    "artist": "Fear and The Nervous System",
+    "isrc": "USA2P1272653"
+  },
+  {
+    "title": "Heartbeat",
+    "artist": "JJAMZ",
+    "isrc": "US3R21208603"
+  },
+  {
+    "title": "Bronx Sniper",
+    "artist": "Mister Heavenly",
+    "isrc": "USSUB1192601"
+  },
+  {
+    "title": "Headspin",
+    "artist": "Rock Star Supernova",
+    "isrc": "USSM10606204"
+  },
+  {
+    "title": "Michael",
+    "artist": "Son Of Sam",
+    "isrc": "USNRR0400387"
+  },
+  {
+    "title": "Miracle Worker",
+    "artist": "SuperHeavy",
+    "isrc": "GBUM71105446"
+  },
+  {
+    "title": "A Man In Conflict With Nature",
+    "artist": "Tex, Don & Charlie",
+    "isrc": "AUAYL1700002"
+  },
+  {
+    "title": "Yer Blues - Remastered 2018",
+    "artist": "The Dirty Mac",
+    "isrc": "USA171820021"
+  },
+  {
+    "title": "Kings Of No Hope",
+    "artist": "The Stereo",
+    "isrc": "QZ5FN2242036"
+  },
+  {
+    "title": "Dead End Friends",
+    "artist": "Them Crooked Vultures",
+    "isrc": "USRW30900006"
+  },
+  {
+    "title": "I Don't Know Anything",
+    "artist": "Mad Season",
+    "isrc": "USSM11207515"
+  },
+  {
+    "title": "Say Hello 2 Heaven",
+    "artist": "Temple Of The Dog",
+    "isrc": "USAM10000348"
+  },
+  {
+    "title": "Fall to Pieces",
+    "artist": "Velvet Revolver",
+    "isrc": "USRC10400142"
+  },
+  {
+    "title": "Bury Me In Smoke",
+    "artist": "DOWN",
+    "isrc": "USEE10182811"
+  },
+  {
+    "title": "Enlighten",
+    "artist": "Black Country Communion, Joe Bonamassa, Jason Bonham, Glenn Hughes, Derek Sherinian",
+    "isrc": "USMH52401341"
+  },
+  {
+    "title": "Salute Your Solution",
+    "artist": "The Raconteurs",
+    "isrc": "GBBKS0800208"
+  },
+  {
+    "title": "Something Going Wrong",
+    "artist": "Chickenfoot",
+    "isrc": "USKO11100920"
+  },
+  {
+    "title": "I Feel Love (Every Million Miles)",
+    "artist": "The Dead Weather",
+    "isrc": "US3JJ1500779"
+  },
+  {
+    "title": "Starlight",
+    "artist": "Gone Is Gone",
+    "isrc": "USEK71632802"
+  },
+  {
+    "title": "Adapt or Die",
+    "artist": "Giraffe Tongue Orchestra",
+    "isrc": "GBCEJ1600184"
+  },
+  {
+    "title": "The Godfather",
+    "artist": "Fantomas",
+    "isrc": "USA371371782"
+  },
+  {
+    "title": "The Outsider",
+    "artist": "A Perfect Circle",
+    "isrc": "USVI20301032"
+  },
+  {
+    "title": "It Doesn't Seem to Matter",
+    "artist": "Army of Anyone",
+    "isrc": "USCGH1013713"
+  },
+  {
+    "title": "I Am the Warlock (feat. Jack Black)",
+    "artist": "Probot, Jack Black",
+    "isrc": "TCACH1525258"
+  },
+  {
+    "title": "Be Yourself",
+    "artist": "Audioslave",
+    "isrc": "USIR10500509"
+  },
+  {
+    "title": "Neither Can I",
+    "artist": "Slash's Snakepit",
+    "isrc": "QZED51800001"
+  },
+  {
+    "title": "White Room",
+    "artist": "Cream",
+    "isrc": "GBA076800030"
+  },
+  {
+    "title": "Seizure and Desist",
+    "artist": "Dead Cross",
+    "isrc": "QM5WW1500451"
+  },
+  {
+    "title": "Prophets Of Rage",
+    "artist": "Prophets Of Rage",
+    "isrc": "QZ4YD1600001"
+  },
+  {
+    "title": "Well All Right",
+    "artist": "Blind Faith",
+    "isrc": "NLF056990019"
+  },
+  {
+    "title": "Idle Hands",
+    "artist": "The Gutter Twins",
+    "isrc": "USSUB0776105"
+  },
+  {
+    "title": "Flatline",
+    "artist": "Duff McKagan's Loaded",
+    "isrc": "US4E40957902"
+  },
+  {
+    "title": "Whiter Shade Of Pale",
+    "artist": "Hagar Schon Aaronson Shrieve",
+    "isrc": "USIR10000990"
+  },
+  {
+    "title": "Nasty Ho",
+    "artist": "Neurotic Outsiders",
+    "isrc": "USMV29600003"
+  },
+  {
+    "title": "Superstition",
+    "artist": "Beck, Bogert, Appice",
+    "isrc": "USSM19917557"
+  },
+  {
+    "title": "Left Behind",
+    "artist": "Another Animal",
+    "isrc": "USUM70747761"
+  },
+  {
+    "title": "When the Heartache Has Gone",
+    "artist": "Revolution Saints",
+    "isrc": "ITG272000136"
+  },
+  {
+    "title": "No Surrender",
+    "artist": "Art of Anarchy",
+    "isrc": "US4E41741304"
+  },
+  {
+    "title": "Ring Twice",
+    "artist": "Talk Show",
+    "isrc": "USAT20103810"
+  },
+  {
+    "title": "Satisfaction Guaranteed",
+    "artist": "The Firm",
+    "isrc": "USAT20902966"
+  },
+  {
+    "title": "City Of Gold",
+    "artist": "BBM",
+    "isrc": "GBAAA9400406"
+  },
+  {
+    "title": "Capital T",
+    "artist": "Walking Papers",
+    "isrc": "USHG91200023"
+  },
+  {
+    "title": "Chiseler",
+    "artist": "Crystal Fairy",
+    "isrc": "QM5WW1500288"
+  },
+  {
+    "title": "Outermost Sky",
+    "artist": "Ten Commandos",
+    "isrc": "USP6U1501002"
+  },
+  {
+    "title": "The Doctor",
+    "artist": "West, Bruce & Laing",
+    "isrc": "USSM19912664"
+  },
+  {
+    "title": "Patagonia",
+    "artist": "Palms",
+    "isrc": "US6R21371993"
+  },
+  {
+    "title": "Teach Your Children",
+    "artist": "Crosby, Stills, Nash & Young",
+    "isrc": "USAT20901709"
+  },
+  {
+    "title": "Time Machine",
+    "artist": "Painted Shield",
+    "isrc": "QM6P42091360"
+  },
+  {
+    "title": "Holes In The Road",
+    "artist": "Tres Mts.",
+    "isrc": "USXJD1000005"
+  },
+  {
+    "title": "Handle With Care",
+    "artist": "Traveling Wilburys",
+    "isrc": "GBLVT0700001"
+  },
+  {
+    "title": "Hello",
+    "artist": "Projected",
+    "isrc": "QMMJG1200002"
+  },
+  {
+    "title": "Please Tell My Brother",
+    "artist": "Golden Smog",
+    "isrc": "USRY10446012"
+  },
+  {
+    "title": "Before Your Very Eyes...",
+    "artist": "Atoms For Peace",
+    "isrc": "GB4YG1200010"
+  },
+  {
+    "title": "Dreamtime",
+    "artist": "Mother's Army",
+    "isrc": "DEH841100268"
+  },
+  {
+    "title": "No!, Pt. 1",
+    "artist": "Crippled Black Phoenix",
+    "isrc": "NLB931400141"
+  },
+  {
+    "title": "Last Chance",
+    "artist": "Living Loud",
+    "isrc": "AUTQ00400001"
+  },
+  {
+    "title": "Arabella (Oh Tell Me) - Remastered",
+    "artist": "Paice Ashton Lord, Ian Paice, Jon Lord",
+    "isrc": "DEH841800003"
+  },
+  {
+    "title": "Insomnia Station",
+    "artist": "Spys4Darwin",
+    "isrc": "usx9p0733881"
+  },
+  {
+    "title": "The Hunter",
+    "artist": "GTR",
+    "isrc": "GBBLY1503608"
+  },
+  {
+    "title": "Holy Man",
+    "artist": "Tipton, Entwistle & Powell",
+    "isrc": "USQX91503171"
+  },
+  {
+    "title": "School's out / Another Brick in the Wall Pt. 2",
+    "artist": "Hollywood Vampires, Joe Perry, Slash, Brian Johnson",
+    "isrc": "USUG11500823"
+  },
+  {
+    "title": "Oz Is Everfloating",
+    "artist": "Oysterhead",
+    "isrc": "USEE10100900"
+  },
+  {
+    "title": "No One Loves Me and Neither Do I",
+    "artist": "Them Crooked Vultures",
+    "isrc": "USRW30900003"
+  },
+  {
+    "title": "Wake Up",
+    "artist": "Mad Season",
+    "isrc": "USSM11207509"
+  },
+  {
+    "title": "Hunger Strike - 25th Anniversary Mix",
+    "artist": "Temple Of The Dog",
+    "isrc": "USUM71607186"
+  },
+  {
+    "title": "Dirty Little Thing",
+    "artist": "Velvet Revolver",
+    "isrc": "USRC10400147"
+  },
+  {
+    "title": "Lifer",
+    "artist": "DOWN",
+    "isrc": "USEE10182780"
+  },
+  {
+    "title": "With You I Go",
+    "artist": "Black Country Communion, Joe Bonamassa, Jason Bonham, Glenn Hughes, Derek Sherinian",
+    "isrc": "USMH52400828"
+  },
+  {
+    "title": "Soap on a Rope",
+    "artist": "Chickenfoot",
+    "isrc": "DEH840900048"
+  },
+  {
+    "title": "Level",
+    "artist": "The Raconteurs",
+    "isrc": "USVT10600070"
+  },
+  {
+    "title": "I Cut Like a Buffalo",
+    "artist": "The Dead Weather",
+    "isrc": "US3JJ0900004"
+  },
+  {
+    "title": "Violescent",
+    "artist": "Gone Is Gone",
+    "isrc": "USEK71632801"
+  },
+  {
+    "title": "Crucifixion",
+    "artist": "Giraffe Tongue Orchestra",
+    "isrc": "GBCEJ1600185"
+  },
+  {
+    "title": "Der Golem",
+    "artist": "Fantomas",
+    "isrc": "USA371371783"
+  },
+  {
+    "title": "A Better Place",
+    "artist": "Army of Anyone",
+    "isrc": "USCGH1013716"
+  },
+  {
+    "title": "Weak And Powerless",
+    "artist": "A Perfect Circle",
+    "isrc": "USVI20301027"
+  },
+  {
+    "title": "Red War (feat. Max Cavalera)",
+    "artist": "Probot, Max Cavalera",
+    "isrc": "TCACH1523150"
+  },
+  {
+    "title": "Show Me How to Live",
+    "artist": "Audioslave",
+    "isrc": "USSM10211589"
+  },
+  {
+    "title": "Serial Killer",
+    "artist": "Slash's Snakepit",
+    "isrc": "QZED51800023"
+  },
+  {
+    "title": "Church of the Motherfuckers",
+    "artist": "Dead Cross",
+    "isrc": "QM5WW1500460"
+  },
+  {
+    "title": "Strange Brew",
+    "artist": "Cream",
+    "isrc": "GBA076700010"
+  },
+  {
+    "title": "Living On The 110",
+    "artist": "Prophets Of Rage",
+    "isrc": "USC4R1706035"
+  },
+  {
+    "title": "Presence Of The Lord",
+    "artist": "Blind Faith",
+    "isrc": "NLF056990013"
+  },
+  {
+    "title": "Seven Stories Underground",
+    "artist": "The Gutter Twins",
+    "isrc": "USSUB0776108"
+  },
+  {
+    "title": "We Win",
+    "artist": "Duff McKagan's Loaded",
+    "isrc": "GBCBR1000378"
+  },
+  {
+    "title": "Top Of The Rock",
+    "artist": "Hagar Schon Aaronson Shrieve",
+    "isrc": "USIR10000985"
+  },
+  {
+    "title": "Angelina",
+    "artist": "Neurotic Outsiders",
+    "isrc": "USMV29600005"
+  },
+  {
+    "title": "Lady",
+    "artist": "Beck, Bogert, Appice",
+    "isrc": "USSM19917555"
+  },
+  {
+    "title": "Fade Away",
+    "artist": "Another Animal",
+    "isrc": "USUM70747757"
+  }
+]

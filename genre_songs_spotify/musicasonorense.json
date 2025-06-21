@@ -1,0 +1,732 @@
+[
+  {
+    "title": "Rio Rebelde",
+    "artist": "Honorables",
+    "isrc": "QZQMB2102380"
+  },
+  {
+    "title": "Los Viejitos",
+    "artist": "Ke Cura Norteña",
+    "isrc": "QZ5AB1792216"
+  },
+  {
+    "title": "El Amante Apasionado (Banda)",
+    "artist": "Banda La Sierreña",
+    "isrc": "QZDQH1827695"
+  },
+  {
+    "title": "Se Me Extravio El Corazon",
+    "artist": "Manuel El Indio Ortega",
+    "isrc": "US3DF2288949"
+  },
+  {
+    "title": "Telefono Ocupado",
+    "artist": "La Brissa",
+    "isrc": "USDHM1504682"
+  },
+  {
+    "title": "Canchame",
+    "artist": "Grupo La Kaña",
+    "isrc": "QZDQH2394630"
+  },
+  {
+    "title": "La Colaless",
+    "artist": "Su Majestad La Brissa",
+    "isrc": "USDHM1901681"
+  },
+  {
+    "title": "Etapas de Mi Vida",
+    "artist": "Ramon Vega",
+    "isrc": "USDHM1911416"
+  },
+  {
+    "title": "La Marejada Y El Mazo",
+    "artist": "Kecura Norteña",
+    "isrc": "QZK6Q2257057"
+  },
+  {
+    "title": "Gringa",
+    "artist": "Sabor Norteño",
+    "isrc": "usdy41912307"
+  },
+  {
+    "title": "Toro Mambo (En Vivo)",
+    "artist": "Los Tramposos",
+    "isrc": "TCADT1831143"
+  },
+  {
+    "title": "Jardín Olvidado - En Vivo",
+    "artist": "Tambora Ritmo Express, Oscar Calin",
+    "isrc": "QZQMB2107125"
+  },
+  {
+    "title": "Pajarillo",
+    "artist": "Cornelio Vega y Su Grupo",
+    "isrc": "US9CY1300680"
+  },
+  {
+    "title": "El Pirata (En Vivo)",
+    "artist": "Infiltrados",
+    "isrc": "US3DF1816566"
+  },
+  {
+    "title": "El Agua Clara",
+    "artist": "Contacto Norte",
+    "isrc": "QZ5AB1711733"
+  },
+  {
+    "title": "A Los Angeles Del Cielo - En Vivo",
+    "artist": "Banda El Capiro, Manuel El Indio Ortega",
+    "isrc": "QM3DF2299891"
+  },
+  {
+    "title": "Despertando en Otra Cama",
+    "artist": "Banda Triguera",
+    "isrc": "uscgj2195955"
+  },
+  {
+    "title": "Sagüita al Bat",
+    "artist": "Sheke En Blanco",
+    "isrc": "QZ5AB2395774"
+  },
+  {
+    "title": "Blancas Gaviotas",
+    "artist": "Chuy Vega",
+    "isrc": "QM4TW1748834"
+  },
+  {
+    "title": "Besame Besame",
+    "artist": "Los Reyes Del Ritmo Banda",
+    "isrc": "IELOI2228906"
+  },
+  {
+    "title": "Hombre De Palabra",
+    "artist": "Chuy Vega Jr, El Hijo Del Shaka",
+    "isrc": "QZQMB2105999"
+  },
+  {
+    "title": "Pongámonos de Acuerdo",
+    "artist": "Grupo Heroico, Oscar Calin",
+    "isrc": "QZTPX2181582"
+  },
+  {
+    "title": "El Alfa",
+    "artist": "Freddy Vega Jr.",
+    "isrc": "US3DF2272531"
+  },
+  {
+    "title": "Aunque Sea Mentira",
+    "artist": "BANDA TRES RIOS",
+    "isrc": "MXUM70700304"
+  },
+  {
+    "title": "Macorina/El Ahualulco",
+    "artist": "Grupo K-Belas",
+    "isrc": "QM4DW1873492"
+  },
+  {
+    "title": "La Loba",
+    "artist": "Los Zultannes Del Norte",
+    "isrc": "QZK6K2303838"
+  },
+  {
+    "title": "Sonora Y Sus Ojos Negros",
+    "artist": "Miguel Y Miguel",
+    "isrc": "USDS10601522"
+  },
+  {
+    "title": "Cuando No Estas Conmigo",
+    "artist": "Stylo Norteño",
+    "isrc": "QZGLM2466278"
+  },
+  {
+    "title": "El Foco - Version Ranchera",
+    "artist": "Los Alteños De La Sierra",
+    "isrc": "USUM71028579"
+  },
+  {
+    "title": "Al Agradecido",
+    "artist": "Los Sucesores De Obregón",
+    "isrc": "US3DF1110381"
+  },
+  {
+    "title": "90-60-90",
+    "artist": "Grupo La Bendicion",
+    "isrc": "QM6DC1662099"
+  },
+  {
+    "title": "Anillo Grabado - En Vivo",
+    "artist": "Los Tepokas, El Frizian",
+    "isrc": "ESA011781991"
+  },
+  {
+    "title": "Sin Ti",
+    "artist": "Roy Rosas",
+    "isrc": "MXF010700020"
+  },
+  {
+    "title": "Cumbia Del Río",
+    "artist": "Banda La Original Del Sol",
+    "isrc": "MX1760800027"
+  },
+  {
+    "title": "Ángel De La Noche / Quererte Jamás (En Vivo)",
+    "artist": "Grupo Destrampado, Manuel El Indio Ortega",
+    "isrc": "QZDQH2257833"
+  },
+  {
+    "title": "Va Pal Barrio",
+    "artist": "Oscar Calin, Doble Blindaje",
+    "isrc": "QZQMB2106772"
+  },
+  {
+    "title": "El de la Gorra La",
+    "artist": "Ricardo Amavizca",
+    "isrc": "QZDQH2398807"
+  },
+  {
+    "title": "Eleazar del Fierro",
+    "artist": "Eliseo Robles",
+    "isrc": "US3DF2068539"
+  },
+  {
+    "title": "Comandante 01",
+    "artist": "Dani Tapia",
+    "isrc": "QZQMB2105515"
+  },
+  {
+    "title": "Cuadros de Adobe (En Vivo)",
+    "artist": "Grupo Margen",
+    "isrc": "TCAFD2086421"
+  },
+  {
+    "title": "Quién Es Usted",
+    "artist": "Sergio Vega \"El Shaka\"",
+    "isrc": "USUM70959248"
+  },
+  {
+    "title": "El 3 Días",
+    "artist": "Jibaros RNV2, Dani Tapia",
+    "isrc": "QZHZ62073606"
+  },
+  {
+    "title": "Brindemos Por El Negocio",
+    "artist": "Banda la Retadora, Manuel El Indio Ortega",
+    "isrc": "QM6DC1603693"
+  },
+  {
+    "title": "Flor De Capomo",
+    "artist": "Carlos Y Jose",
+    "isrc": "MXF068400082"
+  },
+  {
+    "title": "Los Sufrimientos",
+    "artist": "El Dueto Sensacion",
+    "isrc": "US3DF1411081"
+  },
+  {
+    "title": "La Chica Del Boulevard",
+    "artist": "Grupo La Propuesta de Cd. Obregón",
+    "isrc": "GX3HH2296125"
+  },
+  {
+    "title": "El Mencho",
+    "artist": "Los De Sonora",
+    "isrc": "ESA011738577"
+  },
+  {
+    "title": "20/10",
+    "artist": "Grupo Alfa, El Frizian",
+    "isrc": "QZQMB2105583"
+  },
+  {
+    "title": "El Hijo Mayor",
+    "artist": "Grupo R",
+    "isrc": "QZQMB2104144"
+  },
+  {
+    "title": "En La Barra",
+    "artist": "Grupo Laberinto",
+    "isrc": "MXF360235766"
+  },
+  {
+    "title": "Vete Ya",
+    "artist": "Valentín Elizalde",
+    "isrc": "MXF110200833"
+  },
+  {
+    "title": "Las Llaves",
+    "artist": "Los vaqueros de sonora",
+    "isrc": "USANG2173568"
+  },
+  {
+    "title": "El Necio",
+    "artist": "Los Errantes Del Llano",
+    "isrc": "US3DF1612775"
+  },
+  {
+    "title": "Dos Seres Que Se Aman",
+    "artist": "Los Dos De La Sierra",
+    "isrc": "USZBG1200449"
+  },
+  {
+    "title": "Grandes Ligas",
+    "artist": "Lupillo Rivera, Alemán, Santa Fe Klan, Snoop Dogg, B-Real",
+    "isrc": "QM6MZ2143141"
+  },
+  {
+    "title": "Comandante Malick - En Vivo",
+    "artist": "Nuevo Frente",
+    "isrc": "US3DF2275913"
+  },
+  {
+    "title": "El Son De La Rabia - En Vivo",
+    "artist": "Banda Renovacion",
+    "isrc": "QM6DC1860118"
+  },
+  {
+    "title": "Mi Razón de Ser",
+    "artist": "Arranke",
+    "isrc": "US9CY1500555"
+  },
+  {
+    "title": "Que Tristeza",
+    "artist": "Laberinto",
+    "isrc": "MXF331201230"
+  },
+  {
+    "title": "Mentí",
+    "artist": "Rosendo Amparano",
+    "isrc": "US9CY1301114"
+  },
+  {
+    "title": "Cielo Azul, Cielo Nublado",
+    "artist": "Peligro Norteño",
+    "isrc": "MXUM71000563"
+  },
+  {
+    "title": "Cumbia del dengue",
+    "artist": "Los Shacales De Sonora",
+    "isrc": "US3DF1612632"
+  },
+  {
+    "title": "A Través del Vaso",
+    "artist": "Grupo Arranke",
+    "isrc": "QZ7FZ1700021"
+  },
+  {
+    "title": "Que Levante La Mano",
+    "artist": "Jesus \"El Flaco\" Elizalde",
+    "isrc": "MXUM70904189"
+  },
+  {
+    "title": "La Yaquecita",
+    "artist": "Las Canciones De Mi Estado Sonora",
+    "isrc": "US9CY1001289"
+  },
+  {
+    "title": "Así Te Enamoro",
+    "artist": "Par de Ases, Banda Pequeños Musical",
+    "isrc": "MX1611700259"
+  },
+  {
+    "title": "El Manicero",
+    "artist": "Grupo Extenso",
+    "isrc": "USZBY0801064"
+  },
+  {
+    "title": "Vestida De Color Rosa",
+    "artist": "Aguaprieta",
+    "isrc": "MXF399301076"
+  },
+  {
+    "title": "Gordito Country",
+    "artist": "Los Broncos de Sonora",
+    "isrc": "QM7282126489"
+  },
+  {
+    "title": "La Ford Bronco",
+    "artist": "Los Principales De Sonora",
+    "isrc": "US9CY1301166"
+  },
+  {
+    "title": "Pase y Pase",
+    "artist": "Sergio \"El Shaka\"",
+    "isrc": "MX2831904168"
+  },
+  {
+    "title": "Negra Catalina",
+    "artist": "Honorables",
+    "isrc": "QM6DC1740543"
+  },
+  {
+    "title": "El Bombón - En Vivo",
+    "artist": "Ke Cura Norteña",
+    "isrc": "QZ5AB1807179"
+  },
+  {
+    "title": "Los Polvos De Estos Caminos (Banda)",
+    "artist": "Banda La Sierreña",
+    "isrc": "QZDQH1827698"
+  },
+  {
+    "title": "Por El Bien De Los Dos - En Vivo",
+    "artist": "Manuel El Indio Ortega",
+    "isrc": "US3DF2288712"
+  },
+  {
+    "title": "Suave Pa' Bailar",
+    "artist": "La Brissa, Martín Ramos",
+    "isrc": "USDHM1901520"
+  },
+  {
+    "title": "Bombon",
+    "artist": "Grupo La Kaña",
+    "isrc": "QZDQH2394883"
+  },
+  {
+    "title": "Viva el Amor",
+    "artist": "Su Majestad La Brissa",
+    "isrc": "QM7281723076"
+  },
+  {
+    "title": "Paz en Este Amor",
+    "artist": "Ramon Vega",
+    "isrc": "USDHM1911422"
+  },
+  {
+    "title": "Ay Lupita",
+    "artist": "Kecura Norteña",
+    "isrc": "GBSMU6747511"
+  },
+  {
+    "title": "La Catrina",
+    "artist": "Sabor Norteño",
+    "isrc": "uscgj2087320"
+  },
+  {
+    "title": "La Pergola (En Vivo)",
+    "artist": "Los Tramposos",
+    "isrc": "TCADT1831140"
+  },
+  {
+    "title": "Ojos de Madera Vol 27 - Cover",
+    "artist": "Tambora Ritmo Express",
+    "isrc": "QZW9L2211826"
+  },
+  {
+    "title": "Roman Iriarte",
+    "artist": "Cornelio Vega y Su Grupo",
+    "isrc": "US9CY1300685"
+  },
+  {
+    "title": "Ven Y Ven (En Vivo)",
+    "artist": "Infiltrados",
+    "isrc": "US3DF1816571"
+  },
+  {
+    "title": "La Bomba",
+    "artist": "Contacto Norte",
+    "isrc": "US7VG2250798"
+  },
+  {
+    "title": "Mi Primer Amor - En Vivo",
+    "artist": "Banda El Capiro, Manuel El Indio Ortega",
+    "isrc": "QM3DF2299887"
+  },
+  {
+    "title": "Hasta las Chanclas",
+    "artist": "Banda Triguera",
+    "isrc": "ushm92112311"
+  },
+  {
+    "title": "Disculpe Usted",
+    "artist": "Sheke En Blanco",
+    "isrc": "QZNJZ2359193"
+  },
+  {
+    "title": "Palabras Hermosas",
+    "artist": "Chuy Vega",
+    "isrc": "QM6MZ1802608"
+  },
+  {
+    "title": "Vamos A La Playa",
+    "artist": "Los Reyes Del Ritmo Banda",
+    "isrc": "IELOI2228913"
+  },
+  {
+    "title": "La Loca",
+    "artist": "Chuy Vega Jr",
+    "isrc": "USDHM2300704"
+  },
+  {
+    "title": "Paso en Culiacán",
+    "artist": "Grupo Heroico",
+    "isrc": "QZ5AB2129402"
+  },
+  {
+    "title": "Un Velero Llamado Libertad",
+    "artist": "Freddy Vega Jr.",
+    "isrc": "US3DF2298248"
+  },
+  {
+    "title": "Obscuridad",
+    "artist": "BANDA TRES RIOS",
+    "isrc": "MXUM70600449"
+  },
+  {
+    "title": "El Capitan",
+    "artist": "Grupo K-Belas",
+    "isrc": "QM4DW1892085"
+  },
+  {
+    "title": "El Pito De Mi Carrito",
+    "artist": "Los Zultannes Del Norte",
+    "isrc": "US39K1630402"
+  },
+  {
+    "title": "Cruz De Madera",
+    "artist": "Miguel Y Miguel",
+    "isrc": "USDS10602051"
+  },
+  {
+    "title": "La Colales",
+    "artist": "Stylo Norteño",
+    "isrc": "US7VG1871898"
+  },
+  {
+    "title": "La Mas Bonita De Todas",
+    "artist": "Los Alteños De La Sierra",
+    "isrc": "US3DF1320610"
+  },
+  {
+    "title": "Emeterio Fierro",
+    "artist": "Los Sucesores De Obregón",
+    "isrc": "US3DF1110406"
+  },
+  {
+    "title": "El Bote De Cerveza",
+    "artist": "Grupo La Bendicion",
+    "isrc": "QM6DC1662102"
+  },
+  {
+    "title": "Chiquita Bonita - En Vivo",
+    "artist": "Los Tepokas",
+    "isrc": "USDXS2013384"
+  },
+  {
+    "title": "Renuncio A Mi Puesto - En Vivo",
+    "artist": "Roy Rosas",
+    "isrc": "QZQMB2104765"
+  },
+  {
+    "title": "Díganle",
+    "artist": "Banda La Original Del Sol",
+    "isrc": "MX1760800026"
+  },
+  {
+    "title": "Por Debajo Del Agua (En Vivo)",
+    "artist": "Grupo Destrampado, Oscar Toscano \"El Bocaguada\"",
+    "isrc": "QZDQH2257767"
+  },
+  {
+    "title": "Que de raro tiene",
+    "artist": "Oscar Calin",
+    "isrc": "QZNWY2382174"
+  },
+  {
+    "title": "El Dado",
+    "artist": "Ricardo Amavizca",
+    "isrc": "QZK6N1937050"
+  },
+  {
+    "title": "Ezequiel Rodriguez",
+    "artist": "Eliseo Robles",
+    "isrc": "USANG1911222"
+  },
+  {
+    "title": "Sonora Norte",
+    "artist": "Dani Tapia",
+    "isrc": "QZQMB2105431"
+  },
+  {
+    "title": "El Humaderon (En Vivo)",
+    "artist": "Grupo Margen",
+    "isrc": "TCAFD2086431"
+  },
+  {
+    "title": "Dueño de Ti",
+    "artist": "Sergio Vega \"El Shaka\"",
+    "isrc": "USSD10404179"
+  },
+  {
+    "title": "El 3 Días - En Vivo",
+    "artist": "Jibaros RNV2, Dani Tapia",
+    "isrc": "US7VG2191949"
+  },
+  {
+    "title": "Prietita",
+    "artist": "Banda la Retadora, Manuel El Indio Ortega",
+    "isrc": "QM6DC1603695"
+  },
+  {
+    "title": "Gozare Tus Recuerdos",
+    "artist": "El Dueto Sensacion",
+    "isrc": "US3DF1411082"
+  },
+  {
+    "title": "Amores Fingidos",
+    "artist": "Carlos Y Jose",
+    "isrc": "MXF068400081"
+  },
+  {
+    "title": "La Diabla La Lá - En Vivo",
+    "artist": "Grupo La Propuesta de Cd. Obregón",
+    "isrc": "GX5MX2251469"
+  },
+  {
+    "title": "No Quiero Perderte",
+    "artist": "Los De Sonora",
+    "isrc": "QZGLM2421863"
+  },
+  {
+    "title": "El Ultimo Adios - En VIvo",
+    "artist": "Grupo Alfa, Carín León",
+    "isrc": "USDXS2012030"
+  },
+  {
+    "title": "El Empresario",
+    "artist": "Grupo R",
+    "isrc": "MXD782100661"
+  },
+  {
+    "title": "El Indio Enamorado",
+    "artist": "Grupo Laberinto",
+    "isrc": "MXF360336061"
+  },
+  {
+    "title": "La Cadenita",
+    "artist": "Honorables",
+    "isrc": "QZQMB2102353"
+  },
+  {
+    "title": "La Burra Orejona",
+    "artist": "Ke Cura Norteña",
+    "isrc": "QZ5AB1792215"
+  },
+  {
+    "title": "El Tarachi (Banda)",
+    "artist": "Banda La Sierreña",
+    "isrc": "QZDQH1827708"
+  },
+  {
+    "title": "El Amante Apasionado",
+    "artist": "Manuel El Indio Ortega",
+    "isrc": "US3DF2288714"
+  },
+  {
+    "title": "Aguardiente y Ron",
+    "artist": "La Brissa",
+    "isrc": "USDHM1422700"
+  },
+  {
+    "title": "Solo Tu",
+    "artist": "Grupo La Kaña, Sergio Mendivil Y Sus Huellas",
+    "isrc": "QZNJV2017898"
+  },
+  {
+    "title": "Fiesta en Sonora",
+    "artist": "Su Majestad La Brissa, Los Ases de Durango, La Concentracion, Fabian Gomez, Tambora Ritmo Express, Grupo Laberinto, Grupo Bacanora, Pautazul",
+    "isrc": "QM6N22104789"
+  },
+  {
+    "title": "Concha del Alma",
+    "artist": "Ramon Vega, Los Hermanos Vega",
+    "isrc": "QMDA71388881"
+  },
+  {
+    "title": "El bolero",
+    "artist": "Kecura Norteña",
+    "isrc": "GB-SMU-50-84002"
+  },
+  {
+    "title": "La Máquina",
+    "artist": "Sabor Norteño",
+    "isrc": "usdy41912306"
+  },
+  {
+    "title": "Muñequita (En Vivo)",
+    "artist": "Los Tramposos",
+    "isrc": "TCADT1831118"
+  },
+  {
+    "title": "Suave para Bailar",
+    "artist": "Tambora Ritmo Express",
+    "isrc": "QZMZ92240862"
+  },
+  {
+    "title": "La Cosecha",
+    "artist": "Cornelio Vega y Su Grupo",
+    "isrc": "US9CY1300681"
+  },
+  {
+    "title": "Cuando Voy Pa Navojoa (En Vivo)",
+    "artist": "Infiltrados",
+    "isrc": "US3DF1816569"
+  },
+  {
+    "title": "El Rock del Sapo",
+    "artist": "Contacto Norte",
+    "isrc": "QZ5AB2013189"
+  },
+  {
+    "title": "El Caballo Bailador - En Vivo",
+    "artist": "Banda El Capiro, Manuel El Indio Ortega",
+    "isrc": "QM3DF2299885"
+  },
+  {
+    "title": "Como Loquitos",
+    "artist": "Banda Triguera",
+    "isrc": "QZ5AB1606515"
+  },
+  {
+    "title": "Sufro Porque Te Quiero",
+    "artist": "Sheke En Blanco",
+    "isrc": "QZNJZ2359204"
+  },
+  {
+    "title": "Mi Forma de Sentir",
+    "artist": "Chuy Vega",
+    "isrc": "US6R21471775"
+  },
+  {
+    "title": "El Cuento",
+    "artist": "Los Reyes Del Ritmo Banda",
+    "isrc": "IELOI2228905"
+  },
+  {
+    "title": "Quiereme",
+    "artist": "Chuy Vega Jr",
+    "isrc": "USDHM2300705"
+  },
+  {
+    "title": "Ch y la Pizza",
+    "artist": "Grupo Heroico",
+    "isrc": "QZW9N2237282"
+  },
+  {
+    "title": "Para Enamorarte",
+    "artist": "Freddy Vega Jr.",
+    "isrc": "MXH152100289"
+  },
+  {
+    "title": "Corrido A Fidel",
+    "artist": "BANDA TRES RIOS",
+    "isrc": "MXUM70600438"
+  },
+  {
+    "title": "El Panama Wes",
+    "artist": "Grupo K-Belas",
+    "isrc": "QZCE61802266"
+  }
+]

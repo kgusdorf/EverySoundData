@@ -1,0 +1,982 @@
+[
+  {
+    "title": "Bad Feeling",
+    "artist": "Tulenkey, Beeztrap KOTM",
+    "isrc": "QZ5AB2436231"
+  },
+  {
+    "title": "Tonga",
+    "artist": "Joey B, Sarkodie",
+    "isrc": "FR6V82184854"
+  },
+  {
+    "title": "Win",
+    "artist": "Kofi Mole, Kwesi Arthur",
+    "isrc": "FR2X42388244"
+  },
+  {
+    "title": "Green Means Go (feat. RJZ and Phyno)",
+    "artist": "Pappy Kojo, Phyno, RJZ",
+    "isrc": "ZA56E2100123"
+  },
+  {
+    "title": "Fameye",
+    "artist": "Lord Paper",
+    "isrc": "FRX201908041"
+  },
+  {
+    "title": "Notty",
+    "artist": "KRYMI",
+    "isrc": "FR59R2214321"
+  },
+  {
+    "title": "Timebomb",
+    "artist": "Samini, Wizkid",
+    "isrc": "ushm81391058"
+  },
+  {
+    "title": "Mood",
+    "artist": "Mr Drew",
+    "isrc": "FR59R2152880"
+  },
+  {
+    "title": "Down Flat",
+    "artist": "Kelvyn Boy",
+    "isrc": "US7VG2246776"
+  },
+  {
+    "title": "Plenty Evil",
+    "artist": "Cina Soul",
+    "isrc": "QZS7J2391286"
+  },
+  {
+    "title": "Wo Pɛ W'adeɛ Ayɛ",
+    "artist": "Akwaboah",
+    "isrc": "TCAFX2188366"
+  },
+  {
+    "title": "Midnight",
+    "artist": "Larruso",
+    "isrc": "QZNJY2242676"
+  },
+  {
+    "title": "2 Things",
+    "artist": "Sista Afia, Amerado",
+    "isrc": "QZMZ92430291"
+  },
+  {
+    "title": "Sober (Soo Bad)",
+    "artist": "Fameye, Patoranking",
+    "isrc": "QZGLM2416360"
+  },
+  {
+    "title": "E Choke",
+    "artist": "Sefa",
+    "isrc": "GBX722100200"
+  },
+  {
+    "title": "Tomorrow",
+    "artist": "M.anifest, Burna Boy",
+    "isrc": "FRX201912156"
+  },
+  {
+    "title": "Killing Me Softly",
+    "artist": "Adina Thembi, Kuami Eugene",
+    "isrc": "GBKPL1802997"
+  },
+  {
+    "title": "Obia Wone Master",
+    "artist": "Yaa Pono, Stonebwoy",
+    "isrc": "FR2X41805159"
+  },
+  {
+    "title": "Telemo",
+    "artist": "Gasmilla, Capasta",
+    "isrc": "FXX871522037"
+  },
+  {
+    "title": "Effiakuma Broken Heart",
+    "artist": "Kofi Kinaata",
+    "isrc": "FR9W12405680"
+  },
+  {
+    "title": "Broken Heart (feat. Kuami Eugene)",
+    "artist": "DJ Vyrusky, Kuami Eugene",
+    "isrc": "USUYG1507052"
+  },
+  {
+    "title": "Slow Down (feat. Wiz Kid)",
+    "artist": "R2Bees, Wizkid",
+    "isrc": "TCACM1691106"
+  },
+  {
+    "title": "Like I Do",
+    "artist": "Ground Up Chale, Kwesi Arthur, Quamina Mp",
+    "isrc": "US23A1501643"
+  },
+  {
+    "title": "You & the Devil",
+    "artist": "Donzy, Kofi Kinaata",
+    "isrc": "FR59R1884183"
+  },
+  {
+    "title": "Baajo",
+    "artist": "Kwesi Arthur, Joeboy",
+    "isrc": "US23A1515316"
+  },
+  {
+    "title": "Wo - Remix",
+    "artist": "Ras Kuuku, Kofi Kinaata",
+    "isrc": "FRX201825257"
+  },
+  {
+    "title": "Puul",
+    "artist": "Lasmid",
+    "isrc": "USA2P2406788"
+  },
+  {
+    "title": "Jennifer Lomotey",
+    "artist": "Kurl Songx, Sarkodie",
+    "isrc": "TCADC1760468"
+  },
+  {
+    "title": "Too Much",
+    "artist": "Kaakie",
+    "isrc": "TCACW1613302"
+  },
+  {
+    "title": "Into The Future",
+    "artist": "Stonebwoy",
+    "isrc": "ZAUM72300073"
+  },
+  {
+    "title": "Hossana",
+    "artist": "Shatta Wale, Burna Boy",
+    "isrc": "TCACX1746435"
+  },
+  {
+    "title": "Ammrika",
+    "artist": "Kojo Antwi",
+    "isrc": "DKFD50516028"
+  },
+  {
+    "title": "Touch It",
+    "artist": "KiDi",
+    "isrc": "USUYG1358397"
+  },
+  {
+    "title": "Somebody",
+    "artist": "Malcolm Nuna",
+    "isrc": "AUGBT2325079"
+  },
+  {
+    "title": "Terminator (feat. Young Jonn)",
+    "artist": "King Promise, Young Jonn",
+    "isrc": "GBARL2300820"
+  },
+  {
+    "title": "Jwe",
+    "artist": "Bisa Kdei",
+    "isrc": "TCACR1689553"
+  },
+  {
+    "title": "My Baby (feat. Joey B)",
+    "artist": "Magnom, Joey .B",
+    "isrc": "TCACY1715301"
+  },
+  {
+    "title": "Makoma",
+    "artist": "Becca",
+    "isrc": "USA2P2414313"
+  },
+  {
+    "title": "Sugarcane - Remix",
+    "artist": "Camidoh, Mayorkun, Darkoo, King Promise",
+    "isrc": "GBX722200156"
+  },
+  {
+    "title": "Poverty (Remix)",
+    "artist": "J.Derobie, Popcaan",
+    "isrc": "GBKPL1945652"
+  },
+  {
+    "title": "Goldigga",
+    "artist": "Samsney, Black Sherif",
+    "isrc": "QZNWZ2104307"
+  },
+  {
+    "title": "AKWAABA",
+    "artist": "GuiltyBeatz, Mr Eazi, Patapaa, Pappy Kojo",
+    "isrc": "US23A1500777"
+  },
+  {
+    "title": "Dripping",
+    "artist": "Mugeez, DJ Mic Smith, Kwesi Arthur",
+    "isrc": "TCAEO1922139"
+  },
+  {
+    "title": "Outside (Abonten)",
+    "artist": "DJ Breezy, Mugeez, Stonebwoy, Black Sherif, Kwesi Arthur, Smallgod",
+    "isrc": "TCAGH2245882"
+  },
+  {
+    "title": "Feeling Okay - Remix",
+    "artist": "Kwame Yogot, King Paluta",
+    "isrc": "QZNJV2472643"
+  },
+  {
+    "title": "Ekiki mi",
+    "artist": "Wisa Greid, Luta",
+    "isrc": "QZK6J2324725"
+  },
+  {
+    "title": "Saara",
+    "artist": "OV",
+    "isrc": "AUGBT2352729"
+  },
+  {
+    "title": "Medo (feat. Swanzy B)",
+    "artist": "Lord Kenya, Swanzy B",
+    "isrc": "ZA56E1503744"
+  },
+  {
+    "title": "Joy",
+    "artist": "D Jay, Black Sherif",
+    "isrc": "QZHN42016107"
+  },
+  {
+    "title": "TOTAL CHEAT",
+    "artist": "Fancy Gadam",
+    "isrc": "GB-SMU-44-06682"
+  },
+  {
+    "title": "Life Is a Movie",
+    "artist": "BRYAN THE MENSAH, Black Sherif",
+    "isrc": "GX3Q92191208"
+  },
+  {
+    "title": "Muntashi",
+    "artist": "Kirani Ayat, Kweku Smoke",
+    "isrc": "QZW9K2366601"
+  },
+  {
+    "title": "One Corner",
+    "artist": "Patapaa, Ras Cann, Mr. Loyalty",
+    "isrc": "FR96X1842180"
+  },
+  {
+    "title": "Back To Sender (Taamiawu)",
+    "artist": "Prince Bright, Stonebwoy",
+    "isrc": "QZS7J2457055"
+  },
+  {
+    "title": "Oil in my Head",
+    "artist": "Black Sherif",
+    "isrc": "USUYG1444862"
+  },
+  {
+    "title": "Asylum",
+    "artist": "Olivetheboy",
+    "isrc": "USQX92400566"
+  },
+  {
+    "title": "How Dare You",
+    "artist": "Herman Suede",
+    "isrc": "QZGLS2479076"
+  },
+  {
+    "title": "Adult Music",
+    "artist": "Kwabena Kwabena, SAMINI",
+    "isrc": "QZES82095709"
+  },
+  {
+    "title": "I Did Not Ask to Be Born",
+    "artist": "El Lomi",
+    "isrc": "QZFYY1918378"
+  },
+  {
+    "title": "Odo Nti",
+    "artist": "KillBeatz, King Promise, Ofori Amponsah",
+    "isrc": "QMGR32159369"
+  },
+  {
+    "title": "Runaway",
+    "artist": "Irene Logan, Asem",
+    "isrc": "TCAET2019493"
+  },
+  {
+    "title": "Poison",
+    "artist": "Ebony Reigns, Gatdoe",
+    "isrc": "QM4DW1786173"
+  },
+  {
+    "title": "Backa",
+    "artist": "DJ Mic Smith, Supa Gaeta, Haywaya, Hope Ramafalo",
+    "isrc": "QZSYP2350177"
+  },
+  {
+    "title": "Popping (feat. Ödartei, Odunsi (The Engine) and Darkovibes)",
+    "artist": "Kuvie, Odartei, Odunsi (The Engine), DarkoVibes",
+    "isrc": "ZA56E2000015"
+  },
+  {
+    "title": "Boogie Dance",
+    "artist": "KWAMZ",
+    "isrc": "GBAHT2300541"
+  },
+  {
+    "title": "Futuristic",
+    "artist": "Yung D3mz, Tera Kòrá",
+    "isrc": "QZS7J2336022"
+  },
+  {
+    "title": "Potato",
+    "artist": "DahLin Gage",
+    "isrc": "TCADU1887812"
+  },
+  {
+    "title": "Yawa No Dey",
+    "artist": "KaySo, Willy With D'Juice, Freddie Gambini",
+    "isrc": "QZTVM2203648"
+  },
+  {
+    "title": "Live Life",
+    "artist": "Amg Armani, Kelvyn Boy",
+    "isrc": "QZHZ52240169"
+  },
+  {
+    "title": "Agbelemi",
+    "artist": "Dancegod Lloyd, Article Wan",
+    "isrc": "GBLFP1910448"
+  },
+  {
+    "title": "Do the Dance",
+    "artist": "Eddie Khae",
+    "isrc": "SE5BU1739227"
+  },
+  {
+    "title": "Sing My Name",
+    "artist": "Willisbeatz, MzVee",
+    "isrc": "TCADD1722755"
+  },
+  {
+    "title": "Kupe Dance",
+    "artist": "A-Star",
+    "isrc": "TCADX1875263"
+  },
+  {
+    "title": "Gfg Drip",
+    "artist": "ManLikeStunna",
+    "isrc": "NL4NL2012153"
+  },
+  {
+    "title": "Ride",
+    "artist": "Maayaa, Worlasi",
+    "isrc": "QZES61995557"
+  },
+  {
+    "title": "Global",
+    "artist": "GhanaBoyz, Global boga",
+    "isrc": "TCAEP1909182"
+  },
+  {
+    "title": "Uncle Obama",
+    "artist": "Sister Deborah, Fokn Bois",
+    "isrc": "GHA091200001"
+  },
+  {
+    "title": "No Dullin’",
+    "artist": "Supa Gaeta, Ayüü",
+    "isrc": "QZQAY2436946"
+  },
+  {
+    "title": "Tides",
+    "artist": "Ria Boss",
+    "isrc": "ZA56E2200096"
+  },
+  {
+    "title": "TuWoNain (Throw Your Leg)",
+    "artist": "GHB2B, P. Montana",
+    "isrc": "GBX722000235"
+  },
+  {
+    "title": "Kili Kili",
+    "artist": "Phronesis",
+    "isrc": "QZK6G2008311"
+  },
+  {
+    "title": "Body - Remix",
+    "artist": "Mista Myles, Shatta Wale",
+    "isrc": "QZNJY2371222"
+  },
+  {
+    "title": "Woyaye (We Are Going)",
+    "artist": "Wiyaala",
+    "isrc": "FR9W11821639"
+  },
+  {
+    "title": "Samanta",
+    "artist": "Broni",
+    "isrc": "UKXN21925429"
+  },
+  {
+    "title": "My Kinda Girl",
+    "artist": "D-Black Da Ghana Bwouy",
+    "isrc": "USA2P1249840"
+  },
+  {
+    "title": "Guy Man",
+    "artist": "Joojo Addison",
+    "isrc": "QMGR31944542"
+  },
+  {
+    "title": "Dancehall God (feat. Lenji)",
+    "artist": "Slim Kofi, Lenji",
+    "isrc": "DKADG1900136"
+  },
+  {
+    "title": "Awerekyekyere - Father & Son - Remix",
+    "artist": "The Akwaboahs",
+    "isrc": "TCAFB2044239"
+  },
+  {
+    "title": "High Me",
+    "artist": "Moh",
+    "isrc": "ESA011858695"
+  },
+  {
+    "title": "Angels in Tibet",
+    "artist": "Amaarae",
+    "isrc": "USUG12302670"
+  },
+  {
+    "title": "Asheasi",
+    "artist": "SOLLO7",
+    "isrc": "QZ85M1927118"
+  },
+  {
+    "title": "Too Late",
+    "artist": "Sena Dagadu",
+    "isrc": "FR6V80902531"
+  },
+  {
+    "title": "Yengyi Yeni",
+    "artist": "Ama Slay, Fameye",
+    "isrc": "FR10S2194325"
+  },
+  {
+    "title": "Warning Shots (Freestyle)",
+    "artist": "Herman $uede",
+    "isrc": "QZK6N2199393"
+  },
+  {
+    "title": "You & I",
+    "artist": "Miyaki",
+    "isrc": "IELOI2155268"
+  },
+  {
+    "title": "Eha Ye De (Bebia Awo) (feat. S. K. Blinks)",
+    "artist": "S. K. Blinks",
+    "isrc": "TCAAX1129027"
+  },
+  {
+    "title": "Contort Yourself (Optimo Mix)",
+    "artist": "Twitch",
+    "isrc": "FR6T50712031"
+  },
+  {
+    "title": "Kom",
+    "artist": "Tulenkey",
+    "isrc": "QZNJX2381414"
+  },
+  {
+    "title": "COLD",
+    "artist": "Joey B, Sarkodie",
+    "isrc": "DGA062035372"
+  },
+  {
+    "title": "Don't Be Late",
+    "artist": "Kofi Mole",
+    "isrc": "TCAED1904314"
+  },
+  {
+    "title": "Ay3 Late (feat. Sarkodie)",
+    "artist": "Pappy Kojo, Sarkodie",
+    "isrc": "ZA56E1801302"
+  },
+  {
+    "title": "Dzigbordi",
+    "artist": "Lord Paper",
+    "isrc": "FRX201950372"
+  },
+  {
+    "title": "Dede",
+    "artist": "KRYMI",
+    "isrc": "TCADS1865931"
+  },
+  {
+    "title": "My Own",
+    "artist": "Samini",
+    "isrc": "USL4R1809914"
+  },
+  {
+    "title": "Sneaky",
+    "artist": "Mr Drew",
+    "isrc": "QZGLS2439547"
+  },
+  {
+    "title": "Tele",
+    "artist": "Kelvyn Boy, Crayon",
+    "isrc": "GBX722000483"
+  },
+  {
+    "title": "Waiting",
+    "artist": "Cina Soul, Camidoh",
+    "isrc": "QZW9K2275370"
+  },
+  {
+    "title": "Posti Me",
+    "artist": "Akwaboah",
+    "isrc": "TCAEW2046379"
+  },
+  {
+    "title": "Gi Dem (Remix)",
+    "artist": "Larruso, Shatta Wale, Samini",
+    "isrc": "QMGR32245805"
+  },
+  {
+    "title": "Slay Queen",
+    "artist": "Sista Afia",
+    "isrc": "QZGLM2132467"
+  },
+  {
+    "title": "Only You",
+    "artist": "Fameye",
+    "isrc": "QZ5AB2418826"
+  },
+  {
+    "title": "Fever",
+    "artist": "Sefa, DJ Tira, Sarkodie",
+    "isrc": "QMDA62101834"
+  },
+  {
+    "title": "Me Ne Woa",
+    "artist": "M.anifest, King Promise",
+    "isrc": "QZANL1729651"
+  },
+  {
+    "title": "Take Care of You",
+    "artist": "Adina Thembi, Stonebwoy",
+    "isrc": "GBKPL2084481"
+  },
+  {
+    "title": "STATEMENT",
+    "artist": "Yaa Pono",
+    "isrc": "QZYFZ2431766"
+  },
+  {
+    "title": "Charle Man",
+    "artist": "Gasmilla, KWAMZ, Flava",
+    "isrc": "FR2X41937216"
+  },
+  {
+    "title": "Auntie Ama",
+    "artist": "Kofi Kinaata",
+    "isrc": "FR9W12421352"
+  },
+  {
+    "title": "Body 2 Body (feat. KiDi & Camidoh)",
+    "artist": "DJ Vyrusky, KiDi, Camidoh",
+    "isrc": "USUYG1444855"
+  },
+  {
+    "title": "Pressing",
+    "artist": "Ground Up Chale, Lalid, Kweku Smoke",
+    "isrc": "US23A1555447"
+  },
+  {
+    "title": "Kiss Your Hand (feat. Wande Coal)",
+    "artist": "R2Bees, Wande Coal",
+    "isrc": "TCACM1691346"
+  },
+  {
+    "title": "Club",
+    "artist": "Donzy, Sarkodie, Piesie",
+    "isrc": "TCACQ1649800"
+  },
+  {
+    "title": "Fefe Ne Fe",
+    "artist": "Kwesi Arthur",
+    "isrc": "FR9W12409764"
+  },
+  {
+    "title": "Wo - You",
+    "artist": "Ras Kuuku",
+    "isrc": "FRX201831982"
+  },
+  {
+    "title": "Feeling",
+    "artist": "Kurl Songx, Ebony",
+    "isrc": "TCADI1768946"
+  },
+  {
+    "title": "Atele",
+    "artist": "Lasmid",
+    "isrc": "FRX872126415"
+  },
+  {
+    "title": "#Tpt (Toffee Pun Tongue)",
+    "artist": "Kaakie",
+    "isrc": "TCACW1613312"
+  },
+  {
+    "title": "EKELEBE (feat. ODUMODUBLVCK)",
+    "artist": "Stonebwoy, ODUMODUBLVCK",
+    "isrc": "US38Y2405515"
+  },
+  {
+    "title": "Taking Over",
+    "artist": "Shatta Wale, Captan, Addi Self, Joint 77",
+    "isrc": "TCACZ1715859"
+  },
+  {
+    "title": "Medofo Pa",
+    "artist": "Kojo Antwi",
+    "isrc": "DKFD50516052"
+  },
+  {
+    "title": "Touch It - Remix",
+    "artist": "KiDi, Tyga",
+    "isrc": "USUYG1410106"
+  },
+  {
+    "title": "Fallen",
+    "artist": "Malcolm Nuna, Vacs",
+    "isrc": "AUMEV2415719"
+  },
+  {
+    "title": "Mansa",
+    "artist": "Bisa Kdei",
+    "isrc": "TCACK1591628"
+  },
+  {
+    "title": "Terminator",
+    "artist": "King Promise",
+    "isrc": "GBARL2300512"
+  },
+  {
+    "title": "My Baby Fast",
+    "artist": "Magnom",
+    "isrc": "TCAGF2292008"
+  },
+  {
+    "title": "Gina",
+    "artist": "Becca, Kizz Daniel",
+    "isrc": "USUYG1226805"
+  },
+  {
+    "title": "Time",
+    "artist": "J.Derobie",
+    "isrc": "AUMEV2457812"
+  },
+  {
+    "title": "Sugarcane",
+    "artist": "Camidoh",
+    "isrc": "GBX722100766"
+  },
+  {
+    "title": "Kuacha",
+    "artist": "Samsney, Kelvyn Boy, Black Sherif, DarkoVibes",
+    "isrc": "QZES92213809"
+  },
+  {
+    "title": "All In",
+    "artist": "GuiltyBeatz, LADIPOE, NESTA",
+    "isrc": "QZS7J2380242"
+  },
+  {
+    "title": "Six In Da Morning",
+    "artist": "Mugeez",
+    "isrc": "GBLFP2031507"
+  },
+  {
+    "title": "Slow Down (feat. D-Black, Joey B & King Promise)",
+    "artist": "DJ Breezy, D-Black, Joey B, King Promise",
+    "isrc": "TCADC1769324"
+  },
+  {
+    "title": "Biibi Besi",
+    "artist": "Kwame Yogot, Kuami Eugene",
+    "isrc": "GBMA22120760"
+  },
+  {
+    "title": "Cocoa",
+    "artist": "Wisa Greid",
+    "isrc": "QZK6J2320551"
+  },
+  {
+    "title": "Want Me",
+    "artist": "OV, Stonebwoy",
+    "isrc": "GBMA21903885"
+  },
+  {
+    "title": "Sika Mpo Nfa Nεho",
+    "artist": "Lord Kenya",
+    "isrc": "DGA072297556"
+  },
+  {
+    "title": "Balance It",
+    "artist": "D Jay",
+    "isrc": "USA2P2211226"
+  },
+  {
+    "title": "Taaya for Me",
+    "artist": "Fancy Gadam",
+    "isrc": "QZTVM2353990"
+  },
+  {
+    "title": "Problem No Dey Finish",
+    "artist": "BRYAN THE MENSAH",
+    "isrc": "US23A1530633"
+  },
+  {
+    "title": "Affairs",
+    "artist": "Kirani Ayat, Fameye, Pure Akan",
+    "isrc": "QZGLS2355970"
+  },
+  {
+    "title": "Haters - The Journey Of Life",
+    "artist": "Patapaa, Wendy Shay, Twicy",
+    "isrc": "FRX452127266"
+  },
+  {
+    "title": "Small Thing",
+    "artist": "Prince Bright",
+    "isrc": "ushm91867196"
+  },
+  {
+    "title": "Second Sermon - Remix",
+    "artist": "Black Sherif, Burna Boy",
+    "isrc": "USUYG1403232"
+  },
+  {
+    "title": "One by One",
+    "artist": "Herman Suede",
+    "isrc": "QZK6N2015940"
+  },
+  {
+    "title": "GoodSin",
+    "artist": "Olivetheboy",
+    "isrc": "USQX92304969"
+  },
+  {
+    "title": "Aso",
+    "artist": "Kwabena Kwabena",
+    "isrc": "QZES92033204"
+  },
+  {
+    "title": "Joy",
+    "artist": "El Lomi",
+    "isrc": "QZARB1864568"
+  },
+  {
+    "title": "Million Style",
+    "artist": "KillBeatz, Stonebwoy",
+    "isrc": "QZSYP2470699"
+  },
+  {
+    "title": "Medowo",
+    "artist": "Irene Logan",
+    "isrc": "GBLFP1572753"
+  },
+  {
+    "title": "Konkonsa Police",
+    "artist": "Ebony Reigns",
+    "isrc": "TCADM1878064"
+  },
+  {
+    "title": "Jama",
+    "artist": "DJ Mic Smith, Patoranking, Shaker",
+    "isrc": "GBX721900106"
+  },
+  {
+    "title": "Energy (feat. B4Bonah and RJZ)",
+    "artist": "Kuvie, B4bonah, Rjz",
+    "isrc": "ZA56E2000010"
+  },
+  {
+    "title": "Confidence (feat. JMANI)",
+    "artist": "KWAMZ, JMANI",
+    "isrc": "GBAHT2300542"
+  },
+  {
+    "title": "Falling Again",
+    "artist": "Yung D3mz, Azanti",
+    "isrc": "QZS7J2380772"
+  },
+  {
+    "title": "50",
+    "artist": "Tulenkey, Medikal",
+    "isrc": "ZA41S2022187"
+  },
+  {
+    "title": "Sweetie Pie",
+    "artist": "Joey B, King Promise",
+    "isrc": "FRX281716601"
+  },
+  {
+    "title": "Mensah",
+    "artist": "Kofi Mole, Kwesi Arthur",
+    "isrc": "TCADX1852681"
+  },
+  {
+    "title": "Realer No (feat. Joey B)",
+    "artist": "Pappy Kojo, Joey B",
+    "isrc": "ZA56E2100375"
+  },
+  {
+    "title": "What Do Girls Really Want?",
+    "artist": "Lord Paper, Sefa, Coco Treyy, Freda Rhymz, Enam, Sister Deborah",
+    "isrc": "FR59R1988023"
+  },
+  {
+    "title": "Party Gbee",
+    "artist": "KRYMI, Kofi Mole, King Maaga",
+    "isrc": "FR10S2104080"
+  },
+  {
+    "title": "Linda",
+    "artist": "Samini",
+    "isrc": "usdy42063732"
+  },
+  {
+    "title": "Case - Remix",
+    "artist": "Mr Drew, Mophty",
+    "isrc": "QZPLR2329702"
+  },
+  {
+    "title": "Vero",
+    "artist": "Kelvyn Boy",
+    "isrc": "QZNJV2367668"
+  },
+  {
+    "title": "Feelings",
+    "artist": "Cina Soul, KiDi",
+    "isrc": "QZMEM2138867"
+  },
+  {
+    "title": "Obiaa",
+    "artist": "Akwaboah, Cina Soul",
+    "isrc": "TCAFX2188195"
+  },
+  {
+    "title": "Killy Killy (Remix)",
+    "artist": "Larruso, Stonebwoy, Kwesi Arthur, Paq",
+    "isrc": "QZD441901394"
+  },
+  {
+    "title": "Carry Go",
+    "artist": "Sista Afia",
+    "isrc": "US7VG2360656"
+  },
+  {
+    "title": "Not God - Remix",
+    "artist": "Fameye, Stonebwoy",
+    "isrc": "QZTPX2381066"
+  },
+  {
+    "title": "Shuga",
+    "artist": "Sefa, DopeNation",
+    "isrc": "GBX722000538"
+  },
+  {
+    "title": "Best for You",
+    "artist": "M.anifest, LADIPOE",
+    "isrc": "QMDA62181853"
+  },
+  {
+    "title": "Makoma",
+    "artist": "Adina Thembi, Sarkodie",
+    "isrc": "GBKPL1785879"
+  },
+  {
+    "title": "Lesbian Devotion",
+    "artist": "Yaa Pono",
+    "isrc": "GX3Q92171456"
+  },
+  {
+    "title": "3points",
+    "artist": "Gasmilla",
+    "isrc": "QZES61862772"
+  },
+  {
+    "title": "Take Away",
+    "artist": "Kofi Kinaata",
+    "isrc": "FR9W12421356"
+  },
+  {
+    "title": "Follow Who Know Road (feat. Kuami Eugene, DSL, st Lennon, Maya Blu & Kasar)",
+    "artist": "DJ Vyrusky, Kuami Eugene, DSL, st Lennon, Maya Blu, Kasar",
+    "isrc": "USUYG1542240"
+  },
+  {
+    "title": "On The Road (Far Gone)",
+    "artist": "Ground Up Chale, Alba Bwoy, Kimati",
+    "isrc": "US23A1558519"
+  },
+  {
+    "title": "Tonight",
+    "artist": "R2Bees",
+    "isrc": "FR96X1735561"
+  },
+  {
+    "title": "Y'eni Agye",
+    "artist": "Donzy, Kofi Kinaata",
+    "isrc": "DGA072211428"
+  },
+  {
+    "title": "Anthem",
+    "artist": "Kwesi Arthur",
+    "isrc": "TCADN1848592"
+  },
+  {
+    "title": "Sika",
+    "artist": "Ras Kuuku, Fameye",
+    "isrc": "FRX282212576"
+  },
+  {
+    "title": "Whistle",
+    "artist": "Kurl Songx, Sarkodie",
+    "isrc": "TCADF1722416"
+  },
+  {
+    "title": "Bad Boy",
+    "artist": "Lasmid",
+    "isrc": "QZNJX2309595"
+  },
+  {
+    "title": "DC Turn Up",
+    "artist": "Kaakie",
+    "isrc": "TCACW1613336"
+  },
+  {
+    "title": "Life & Money",
+    "artist": "Stonebwoy, Stormzy",
+    "isrc": "ZAUM72300067"
+  },
+  {
+    "title": "Ayoo",
+    "artist": "Shatta Wale",
+    "isrc": "TCACY1789538"
+  },
+  {
+    "title": "Densu",
+    "artist": "Kojo Antwi",
+    "isrc": "DKFD50516026"
+  },
+  {
+    "title": "Que Sera Sera",
+    "artist": "Malcolm Nuna, Dj Adwoa, Lisa Quama",
+    "isrc": "QZHN32042136"
+  }
+]

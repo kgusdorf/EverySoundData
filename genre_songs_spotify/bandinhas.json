@@ -1,0 +1,907 @@
+[
+  {
+    "title": "Caso Marcado",
+    "artist": "Danúbio Azul",
+    "isrc": "BRACT0600101"
+  },
+  {
+    "title": "No Banco do Carro",
+    "artist": "Flor da Serra",
+    "isrc": "BRACT1200015"
+  },
+  {
+    "title": "Vamos Mudar a Nossa História",
+    "artist": "Banda Eccos",
+    "isrc": "BRVR10600662"
+  },
+  {
+    "title": "ALMAS GÊMEAS",
+    "artist": "Grupo Momentos",
+    "isrc": "BRUSA0402123"
+  },
+  {
+    "title": "Por Toda Vida",
+    "artist": "Banda Modello",
+    "isrc": "BRVR10900461"
+  },
+  {
+    "title": "Perfume Barato",
+    "artist": "Rota Luminosa",
+    "isrc": "CA5KR2261980"
+  },
+  {
+    "title": "Nóis Combinou",
+    "artist": "Grupo Hello",
+    "isrc": "BXV961800109"
+  },
+  {
+    "title": "Endereço Errado",
+    "artist": "Banda Champion",
+    "isrc": "usl4q1987115"
+  },
+  {
+    "title": "Viúva Negra",
+    "artist": "Banda Real do Paraná",
+    "isrc": "BROCF0700390"
+  },
+  {
+    "title": "Química do Amor",
+    "artist": "Sétimo Sentido",
+    "isrc": "ushm91984404"
+  },
+  {
+    "title": "Apartamento Vazio",
+    "artist": "Banda Legal",
+    "isrc": "BRACT0400020"
+  },
+  {
+    "title": "Pot Pourri de Marcha: Casar Não É Comigo / Vou Pra Santa Catarina / Padre / Genro Bom / Faz Tempo Que Te Tenteio / Maria Tchá, Tchá, Tchá / Caramba! Que Baile Bom / Novela das Oito",
+    "artist": "Flávio Dalcin & Banda Ouro",
+    "isrc": "BRACT0600224"
+  },
+  {
+    "title": "Sem Amor Ninguém Vive",
+    "artist": "Som Sete",
+    "isrc": "BRVR10500002"
+  },
+  {
+    "title": "Te Quero Igual Cerveja - Cosmo Beer",
+    "artist": "Banda Cosmo Express",
+    "isrc": "BXN9K2200002"
+  },
+  {
+    "title": "Fofoca - Ao Vivo",
+    "artist": "Grupo Karisma",
+    "isrc": "BRIP50800948"
+  },
+  {
+    "title": "Eu, o Copo e a Solidão",
+    "artist": "Toque de Mágica",
+    "isrc": "BRUSA0600677"
+  },
+  {
+    "title": "Fiasco no Bar",
+    "artist": "Banda Flor Da Serra",
+    "isrc": "BRJDW2300036"
+  },
+  {
+    "title": "PASSEI O RODO (OH YES)",
+    "artist": "Corpo e Alma",
+    "isrc": "BRUSA7700697"
+  },
+  {
+    "title": "Cor de Caramelo",
+    "artist": "Milennium Cia Show",
+    "isrc": "BRILA0300292"
+  },
+  {
+    "title": "5 Dias",
+    "artist": "Porto do Som",
+    "isrc": "BRVR10700553"
+  },
+  {
+    "title": "Pra Que Brigar",
+    "artist": "Banda Mercosul",
+    "isrc": "USCGH2429549"
+  },
+  {
+    "title": "VEM ME AMAR",
+    "artist": "Banda Studio",
+    "isrc": "BRUSA0500513"
+  },
+  {
+    "title": "Rosas Vermelhas",
+    "artist": "Banda Céu e Cantos",
+    "isrc": "USHM92043560"
+  },
+  {
+    "title": "Eu de Você, Você de Mim!",
+    "artist": "Indústria Musical",
+    "isrc": "ushm22188503"
+  },
+  {
+    "title": "Batom 24 Horas",
+    "artist": "Champion",
+    "isrc": "BRVR11300574"
+  },
+  {
+    "title": "Lágrimas",
+    "artist": "Banda Motryz",
+    "isrc": "BRVR10500651"
+  },
+  {
+    "title": "Corretor",
+    "artist": "San Marino",
+    "isrc": "USMH92351673"
+  },
+  {
+    "title": "Delícia",
+    "artist": "Banda Danúbio Azul",
+    "isrc": "QZGLS2135290"
+  },
+  {
+    "title": "Eu Tô Legal",
+    "artist": "Grupo Momento",
+    "isrc": "BRACT1602840"
+  },
+  {
+    "title": "Se Não For por Amor",
+    "artist": "Banda Doce Pecado",
+    "isrc": "BRIP50700492"
+  },
+  {
+    "title": "Vou Pra Santa Catarina",
+    "artist": "Terceira Dimensão",
+    "isrc": "BRACT0701230"
+  },
+  {
+    "title": "Amiga.Com",
+    "artist": "Banda Passarela",
+    "isrc": "BRACT0700380"
+  },
+  {
+    "title": "A Lua e a Noite",
+    "artist": "Brilha Som",
+    "isrc": "BRVR10500722"
+  },
+  {
+    "title": "Você Merece o Oscar - Ao Vivo",
+    "artist": "Musical San Francisco",
+    "isrc": "BRF2G0900965"
+  },
+  {
+    "title": "Implorando Carinho",
+    "artist": "Banda Portal Da Serra, Corpo e Alma",
+    "isrc": "USHM22268816"
+  },
+  {
+    "title": "Diário de Verão",
+    "artist": "Banda KN",
+    "isrc": "BRACT0400055"
+  },
+  {
+    "title": "Pot Pourri: Senhorita / Perdoa / Primeiro Olhar",
+    "artist": "Sangue Latino",
+    "isrc": "BRACT0500795"
+  },
+  {
+    "title": "Pegando o Ônibus",
+    "artist": "Musical JM",
+    "isrc": "QZEQU2206830"
+  },
+  {
+    "title": "Do Outro Lado da Cidade",
+    "artist": "Os Atuais",
+    "isrc": "QM6MZ1574666"
+  },
+  {
+    "title": "Tudo bagunçado",
+    "artist": "Banda Nave Som",
+    "isrc": "USCGH2483537"
+  },
+  {
+    "title": "Amor ou Amigo",
+    "artist": "Banda G10",
+    "isrc": "QZ5AB2017497"
+  },
+  {
+    "title": "É Mais Que uma Mulher",
+    "artist": "Expressão Sul",
+    "isrc": "BREPE0600656"
+  },
+  {
+    "title": "Duas Vidas Em um Só Coração - Ao Vivo",
+    "artist": "Calmon",
+    "isrc": "QMDA71560311"
+  },
+  {
+    "title": "Heyo, Heyo",
+    "artist": "Os Montanari",
+    "isrc": "BREPE0300255"
+  },
+  {
+    "title": "Baby, Chama Que Eu Vou",
+    "artist": "Wilceu Pause & Banda",
+    "isrc": "BRVR10600347"
+  },
+  {
+    "title": "Prisionero de Tus Braços",
+    "artist": "Musical Calmon",
+    "isrc": "BRACT1603132"
+  },
+  {
+    "title": "Tô Bebendo Demais",
+    "artist": "Tchê Chaleira",
+    "isrc": "ushm21764758"
+  },
+  {
+    "title": "Só Falta Você",
+    "artist": "Orquestra La Montanara",
+    "isrc": "QMFME1537017"
+  },
+  {
+    "title": "Hochzeitsmarsch / Zigge-Zagge - Ao Vivo",
+    "artist": "Super Banda Choppão",
+    "isrc": "BRUSA0700414"
+  },
+  {
+    "title": "Disk Ceva",
+    "artist": "Banda Alma nova",
+    "isrc": "USCGH2250809"
+  },
+  {
+    "title": "Guardanapo",
+    "artist": "Rainha Musical",
+    "isrc": "BXV962200037"
+  },
+  {
+    "title": "Locutor",
+    "artist": "Banda Expressão Sul",
+    "isrc": "BRIP50700922"
+  },
+  {
+    "title": "Se Ainda Existe Amor",
+    "artist": "Banda Ébanos",
+    "isrc": "BRACT0600250"
+  },
+  {
+    "title": "No Fundo das Grota - Ao Vivo",
+    "artist": "Ivonir Machado, Baitaca",
+    "isrc": "BRQIZ1410213"
+  },
+  {
+    "title": "O CASAMENTO DA DORALICIA - AO VIVO",
+    "artist": "Grupo Minuano",
+    "isrc": "BRUSA0800056"
+  },
+  {
+    "title": "Preto e Branco",
+    "artist": "Turma do Bailão",
+    "isrc": "BXV961800161"
+  },
+  {
+    "title": "Amor De Rodeio - Ao Vivo",
+    "artist": "Talagaço",
+    "isrc": "BR77W1700002"
+  },
+  {
+    "title": "Preciso Te Falar",
+    "artist": "Banda San Marino",
+    "isrc": "BRACT0600566"
+  },
+  {
+    "title": "É Sábado o Dia",
+    "artist": "Tchê Barbaridade",
+    "isrc": "BRACT1601818"
+  },
+  {
+    "title": "CAPRICHA GAITEIRO",
+    "artist": "Garotos de Ouro",
+    "isrc": "BRUSA0801082"
+  },
+  {
+    "title": "Nada Mudou",
+    "artist": "Os Federais",
+    "isrc": "BRNYC1000136"
+  },
+  {
+    "title": "Marreca (A Dança da Marreca)",
+    "artist": "Banda Cavalinho",
+    "isrc": "BRVLS0000097"
+  },
+  {
+    "title": "Quando Eu Toco Eu Me Embodoco",
+    "artist": "Grupo Portal Gaúcho",
+    "isrc": "BRVR11400681"
+  },
+  {
+    "title": "BAILE À CAIPIRA",
+    "artist": "Baile de Kerb, Bandinha Cavalinho Branco",
+    "isrc": "BRUSA0901112"
+  },
+  {
+    "title": "Pot Pourri: Roda Morena / Nossa Vaneira - Ao Vivo",
+    "artist": "Alma Serrana",
+    "isrc": "BRAPI0600836"
+  },
+  {
+    "title": "Na Hora de Amar / Eu Era / Só pro Meu Prazer - Ao Vivo",
+    "artist": "Banda Vanera",
+    "isrc": "QZNJW2355658"
+  },
+  {
+    "title": "Você Me Tira do Ar",
+    "artist": "Champion",
+    "isrc": "BRACT0600730"
+  },
+  {
+    "title": "Centopéia do Chopp",
+    "artist": "Vox 3",
+    "isrc": "BRACT0800152"
+  },
+  {
+    "title": "Rancheira do Gringo",
+    "artist": "Os Futuristas",
+    "isrc": "BRACT0400553"
+  },
+  {
+    "title": "Hoje Quem Sofre É Você",
+    "artist": "Os Cometas",
+    "isrc": "BRIP51100015"
+  },
+  {
+    "title": "De Chão Batido",
+    "artist": "Os Serranos",
+    "isrc": "BRACT0300487"
+  },
+  {
+    "title": "Paraquedas",
+    "artist": "Furacão Da Vanera",
+    "isrc": "QT5AB1901012"
+  },
+  {
+    "title": "Praga",
+    "artist": "Sandro Coelho",
+    "isrc": "USX9P2334328"
+  },
+  {
+    "title": "Tô Voltando Pra Ficar",
+    "artist": "Tchê Garotos",
+    "isrc": "BRACT1604342"
+  },
+  {
+    "title": "Dez pras Seis - Ao Vivo",
+    "artist": "Estação Fandangueira",
+    "isrc": "BX3661800015"
+  },
+  {
+    "title": "Tordilho Negro",
+    "artist": "Walther Morais",
+    "isrc": "BRACT0701636"
+  },
+  {
+    "title": "Te Amo Mais Que Tudo",
+    "artist": "Musicamp",
+    "isrc": "BRVR10900384"
+  },
+  {
+    "title": "Além da Vida (Ao Vivo)",
+    "artist": "Grupo Sorriso Lindo",
+    "isrc": "ushm22063682"
+  },
+  {
+    "title": "Cuando Amas a Alguien",
+    "artist": "Banda 2001",
+    "isrc": "ARTWQ1500506"
+  },
+  {
+    "title": "Nosso Amor É Lindo",
+    "artist": "Vanderlei Rodrigo, Banda Planeta Som",
+    "isrc": "QZHZ31985787"
+  },
+  {
+    "title": "Morena",
+    "artist": "JJSV Julian e Juliano",
+    "isrc": "BR4QD2100001"
+  },
+  {
+    "title": "Barquinho",
+    "artist": "Grupo Tradição",
+    "isrc": "QZEQU2062353"
+  },
+  {
+    "title": "No Copo Ou Na Latinha - Ao Vivo",
+    "artist": "Portal Gaúcho",
+    "isrc": "BRACT0900126"
+  },
+  {
+    "title": "Vaneira, Suor, Emoção - Ao Vivo",
+    "artist": "Expresso Tchê",
+    "isrc": "BRUSA1701420"
+  },
+  {
+    "title": "Assino Com X - Ao Vivo",
+    "artist": "Gilberto e Gilmar, Zé Neto & Cristiano",
+    "isrc": "BXNT61800239"
+  },
+  {
+    "title": "Deus Me Livre",
+    "artist": "Portal do Sul, Althaír & Alexandre",
+    "isrc": "QZHZ31924358"
+  },
+  {
+    "title": "Buraco Fundo",
+    "artist": "Grupo Talagaço",
+    "isrc": "BKNKT2200197"
+  },
+  {
+    "title": "Aham - Ao Vivo",
+    "artist": "Sorriso Lindo",
+    "isrc": "US7VG1794307"
+  },
+  {
+    "title": "Tá Tudo Bem Que Nada - Faixa Bônus",
+    "artist": "Danúbio Azul",
+    "isrc": "BRACT0700874"
+  },
+  {
+    "title": "Carolina",
+    "artist": "Flor da Serra",
+    "isrc": "BRACT0300644"
+  },
+  {
+    "title": "Chega Agora",
+    "artist": "Banda Eccos",
+    "isrc": "QM4TW1858104"
+  },
+  {
+    "title": "ÁUDIO VAZADO",
+    "artist": "Grupo Momentos",
+    "isrc": "GBRKQ2114749"
+  },
+  {
+    "title": "Caso Complicado",
+    "artist": "Banda Modello",
+    "isrc": "BRVR10700339"
+  },
+  {
+    "title": "Ponto Final",
+    "artist": "Rota Luminosa",
+    "isrc": "BRVR11100083"
+  },
+  {
+    "title": "Mamma Maria",
+    "artist": "Grupo Hello",
+    "isrc": "BRUSA0400710"
+  },
+  {
+    "title": "Mês Que Vem a Gente Casa",
+    "artist": "Banda Champion",
+    "isrc": "BRVR11500633"
+  },
+  {
+    "title": "Ela Já Estava no Meu Travesseiro",
+    "artist": "Banda Real do Paraná",
+    "isrc": "BRVR10700445"
+  },
+  {
+    "title": "Fora de Controle",
+    "artist": "Sétimo Sentido",
+    "isrc": "USHM91971796"
+  },
+  {
+    "title": "Vidas Traçadas",
+    "artist": "Banda Legal",
+    "isrc": "BRACT0600398"
+  },
+  {
+    "title": "Te Chamo de Anjo",
+    "artist": "Flávio Dalcin & Banda Ouro",
+    "isrc": "BRACT0600214"
+  },
+  {
+    "title": "Espuma da Cerveja",
+    "artist": "Som Sete",
+    "isrc": "BRVR10600073"
+  },
+  {
+    "title": "Esconde o Coração",
+    "artist": "Banda Cosmo Express",
+    "isrc": "BXV962300064"
+  },
+  {
+    "title": "Te Amo e Não Te Quero",
+    "artist": "Grupo Karisma",
+    "isrc": "BRIP50700382"
+  },
+  {
+    "title": "Com Todos Menos Comigo",
+    "artist": "Toque de Mágica",
+    "isrc": "BRUSA0500699"
+  },
+  {
+    "title": "Saudade",
+    "artist": "Corpo & Alma",
+    "isrc": "BRACT1607699"
+  },
+  {
+    "title": "O Coração Alertou",
+    "artist": "Banda Flor Da Serra",
+    "isrc": "USHM22208500"
+  },
+  {
+    "title": "Me Leva Pra Tua Casa",
+    "artist": "Porto do Som",
+    "isrc": "BRVR10700551"
+  },
+  {
+    "title": "Suga Meu Mel",
+    "artist": "Milennium Cia Show",
+    "isrc": "BRILA0100375"
+  },
+  {
+    "title": "Amor Na Faculdade",
+    "artist": "Banda Mercosul",
+    "isrc": "USHM82347977"
+  },
+  {
+    "title": "Chuva de Verão",
+    "artist": "Banda Studio",
+    "isrc": "BRUSA0400865"
+  },
+  {
+    "title": "Toalha Branca",
+    "artist": "Banda Céu e Cantos",
+    "isrc": "USHM92043562"
+  },
+  {
+    "title": "Vem Tirar a Minha Liberdade",
+    "artist": "Indústria Musical",
+    "isrc": "uscgj2232803"
+  },
+  {
+    "title": "Você Me Tira do Ar",
+    "artist": "Champion",
+    "isrc": "BRVR11300575"
+  },
+  {
+    "title": "Lágrimas (ao vivo)",
+    "artist": "Banda Motryz",
+    "isrc": "BRVR10500638"
+  },
+  {
+    "title": "Palhaço Predileto",
+    "artist": "San Marino",
+    "isrc": "BX5EJ1900001"
+  },
+  {
+    "title": "O Dono do Bar",
+    "artist": "Banda Danúbio Azul",
+    "isrc": "QZW9M2339438"
+  },
+  {
+    "title": "Pot-Pourri: Abertura / Locutor Apaixonado / Menina Paixão / Bela Loirinha / Sol de Verão / Canção de Amor / Reprises de Amor / O Trem da Cidade / Vem Meu Amor",
+    "artist": "Grupo Momento",
+    "isrc": "BRACT1601683"
+  },
+  {
+    "title": "Ex Marido",
+    "artist": "Banda Doce Pecado",
+    "isrc": "BRIP50700494"
+  },
+  {
+    "title": "Faz Tempo Que Te Tenteio",
+    "artist": "Terceira Dimensão",
+    "isrc": "BRACT0300323"
+  },
+  {
+    "title": "Bar da Esquina",
+    "artist": "Banda Passarela",
+    "isrc": "BRACT0500056"
+  },
+  {
+    "title": "Querida Amigaa",
+    "artist": "Brilha Som",
+    "isrc": "BRVR10500726"
+  },
+  {
+    "title": "Camisa Manchada / Esta Noite Como Lembrança - Ao Vivo",
+    "artist": "Musical San Francisco",
+    "isrc": "BRF2G0900971"
+  },
+  {
+    "title": "Dois Loucos de Amor",
+    "artist": "Banda Portal Da Serra",
+    "isrc": "US7VG1942925"
+  },
+  {
+    "title": "Tô Na Onda",
+    "artist": "Banda KN",
+    "isrc": "BRACT0600383"
+  },
+  {
+    "title": "No Baile",
+    "artist": "Sangue Latino",
+    "isrc": "BRACT1606518"
+  },
+  {
+    "title": "Amor Mafioso",
+    "artist": "Musical JM",
+    "isrc": "QZEQU2206825"
+  },
+  {
+    "title": "Eu Duvido",
+    "artist": "Os Atuais",
+    "isrc": "BRF2G1201065"
+  },
+  {
+    "title": "Sofre Aí Mas Não Me Liga",
+    "artist": "Banda Nave Som",
+    "isrc": "USCGH2483538"
+  },
+  {
+    "title": "Dói",
+    "artist": "Banda G10, Rainha Musical",
+    "isrc": "uscgj2399870"
+  },
+  {
+    "title": "Seus Olhos",
+    "artist": "Expressão Sul",
+    "isrc": "BRILA0300762"
+  },
+  {
+    "title": "Terceiro Amante",
+    "artist": "Calmon",
+    "isrc": "TCAHL2360117"
+  },
+  {
+    "title": "Melô do Rolo",
+    "artist": "Os Montanari",
+    "isrc": "BREPE0400676"
+  },
+  {
+    "title": "Ao Sul do Meu Coração",
+    "artist": "Wilceu Pause & Banda",
+    "isrc": "BRVR10600351"
+  },
+  {
+    "title": "Itajaí",
+    "artist": "Musical Calmon",
+    "isrc": "BRACT1603131"
+  },
+  {
+    "title": "Parede de Vidro - Ao Vivo",
+    "artist": "Tchê Chaleira",
+    "isrc": "uscgj2356704"
+  },
+  {
+    "title": "No Colinho do Alemão (Colinho do Pai)",
+    "artist": "Orquestra La Montanara",
+    "isrc": "BRVR10500244"
+  },
+  {
+    "title": "Rosamunde",
+    "artist": "Super Banda Choppão",
+    "isrc": "BRUSA0400845"
+  },
+  {
+    "title": "Cama, Beijo e Banho",
+    "artist": "Banda Alma nova",
+    "isrc": "USL4Q2095572"
+  },
+  {
+    "title": "Instinto Animal",
+    "artist": "Banda Expressão Sul",
+    "isrc": "BRIP50700920"
+  },
+  {
+    "title": "Do Luxo Pro Lixo",
+    "artist": "Rainha Musical",
+    "isrc": "BRVR11700218"
+  },
+  {
+    "title": "VOU PRA FARRA",
+    "artist": "Banda Ébanos",
+    "isrc": "BRUSA1901439"
+  },
+  {
+    "title": "Criado Tipo Bicho - Ao Vivo",
+    "artist": "Ivonir Machado, Sandro Coelho",
+    "isrc": "BRQIZ1410209"
+  },
+  {
+    "title": "Nossa Vanera - Ao Vivo",
+    "artist": "Grupo Minuano",
+    "isrc": "BRACT0701853"
+  },
+  {
+    "title": "Impressionante Edição 2",
+    "artist": "Turma do Bailão",
+    "isrc": "BXV961900006"
+  },
+  {
+    "title": "Vou Tomar Birita - Ao Vivo",
+    "artist": "Talagaço",
+    "isrc": "BR77W1900001"
+  },
+  {
+    "title": "Página Virada",
+    "artist": "Banda San Marino",
+    "isrc": "BRACT0500375"
+  },
+  {
+    "title": "Agro e Vanera - Ao Vivo",
+    "artist": "Tchê Barbaridade, Loubet",
+    "isrc": "BX3662400015"
+  },
+  {
+    "title": "NÃO CHORA CHINA VÉIA",
+    "artist": "Garotos de Ouro",
+    "isrc": "BRUSA0301000"
+  },
+  {
+    "title": "Cheiro de Shampoo",
+    "artist": "Os Federais",
+    "isrc": "BRNYC0700298"
+  },
+  {
+    "title": "Tendo Festa Eu Vou!",
+    "artist": "Banda Cavalinho",
+    "isrc": "BRACT0400401"
+  },
+  {
+    "title": "É Bonita e Bandida - Ao Vivo",
+    "artist": "Danúbio Azul",
+    "isrc": "BRACT0800555"
+  },
+  {
+    "title": "Festa do Músico / a Princesa e o Pobretão / Batom 24 Horas / Dor de Cotovelo (Dor de Corno) / Cunhado / Na Hora do Sim / Tentação",
+    "artist": "Flor da Serra, Musical JM, Champion, Terceira Dimensão, Brilha Som, Miramar Show",
+    "isrc": "BRACT0300650"
+  },
+  {
+    "title": "Comunicado Oficial",
+    "artist": "Banda Eccos, Maurício Lima, Cezar Mosena",
+    "isrc": "BRJDW2300142"
+  },
+  {
+    "title": "Bagaço",
+    "artist": "Grupo Momentos",
+    "isrc": "BRJDW2300120"
+  },
+  {
+    "title": "Depois das Brigas",
+    "artist": "Banda Modello",
+    "isrc": "usl4q1963918"
+  },
+  {
+    "title": "Coração",
+    "artist": "Rota Luminosa",
+    "isrc": "BRUSA0400067"
+  },
+  {
+    "title": "Traição",
+    "artist": "Grupo Hello",
+    "isrc": "BXV961800164"
+  },
+  {
+    "title": "Ouvindo Modão",
+    "artist": "Banda Champion",
+    "isrc": "BRVR11700251"
+  },
+  {
+    "title": "Nosso Encontro",
+    "artist": "Banda Real do Paraná",
+    "isrc": "BROCF0700393"
+  },
+  {
+    "title": "Proposta",
+    "artist": "Sétimo Sentido",
+    "isrc": "usdy42228328"
+  },
+  {
+    "title": "Histórias de Amor",
+    "artist": "Banda Legal, Danúbio Azul, Wilceu Pause, Banda Passarela, Rogério Magrão",
+    "isrc": "BRACT0600401"
+  },
+  {
+    "title": "Por Isso Ela Mora Comigo",
+    "artist": "Flávio Dalcin & Banda Ouro, Magrão, Negão, Banda San Marino",
+    "isrc": "BRACT0700515"
+  },
+  {
+    "title": "Tem Alguém No Seu Lugar",
+    "artist": "Som Sete",
+    "isrc": "BRVR10900542"
+  },
+  {
+    "title": "Eu Tive Um Amor",
+    "artist": "Banda Cosmo Express",
+    "isrc": "BXN9K2200001"
+  },
+  {
+    "title": "Madrugada Gelada",
+    "artist": "Grupo Karisma",
+    "isrc": "BRIP50800949"
+  },
+  {
+    "title": "Acabou!",
+    "artist": "Toque de Mágica",
+    "isrc": "BRUSA0500702"
+  },
+  {
+    "title": "Novela das Oito",
+    "artist": "Corpo & Alma",
+    "isrc": "BRACT0300265"
+  },
+  {
+    "title": "Vida Bandida",
+    "artist": "Banda Flor Da Serra",
+    "isrc": "BXV961800152"
+  },
+  {
+    "title": "Cor de Caramelo - Ao Vivo",
+    "artist": "Milennium Cia Show",
+    "isrc": "BRILA0100387"
+  },
+  {
+    "title": "Forçando a Barra",
+    "artist": "Porto do Som",
+    "isrc": "BRJDW2300116"
+  },
+  {
+    "title": "Colado em Suas Mãos",
+    "artist": "Banda Mercosul",
+    "isrc": "USHM82347969"
+  },
+  {
+    "title": "Olhos que Não Vêem",
+    "artist": "Banda Studio",
+    "isrc": "BRUSA0400866"
+  },
+  {
+    "title": "Copo Furado",
+    "artist": "Banda Céu e Cantos",
+    "isrc": "ushm82064605"
+  },
+  {
+    "title": "Cuidado Que Eu Te Supero",
+    "artist": "Indústria Musical",
+    "isrc": "USCGH2480231"
+  },
+  {
+    "title": "Sabor de Chocolate",
+    "artist": "Champion",
+    "isrc": "BRJDW2200064"
+  },
+  {
+    "title": "Vestido de seda",
+    "artist": "Banda Motryz",
+    "isrc": "BRVR10500640"
+  },
+  {
+    "title": "Kit Solidão",
+    "artist": "San Marino",
+    "isrc": "uscgj2256383"
+  },
+  {
+    "title": "Laço Aberto",
+    "artist": "Banda Danúbio Azul",
+    "isrc": "BRACT0400475"
+  },
+  {
+    "title": "Pot-Pourri Festa do Músico: Tema / Novela das Oito / Dance Comigo / Casar Não É Comigo / Indiferença / Mentira Ou Verdade / Meu Primeiro Amor / Maria Rita / Barquinho Azul / Fim de Semana",
+    "artist": "Grupo Momento, Flávio Dalcin, Corpo & Alma, Terceira Dimensão, Flor da Serra, Rainha Musical, Banda San Marino, Musical JM, Os Atuais",
+    "isrc": "BRACT1603608"
+  },
+  {
+    "title": "Coração Quebrado",
+    "artist": "Banda Doce Pecado",
+    "isrc": "BRIP50700490"
+  },
+  {
+    "title": "Maria Tchá Tchá Tchá",
+    "artist": "Terceira Dimensão",
+    "isrc": "BRACT0300325"
+  }
+]

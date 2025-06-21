@@ -1,0 +1,892 @@
+[
+  {
+    "title": "El pueblo unido jamás será vencido",
+    "artist": "Quilapayún",
+    "isrc": "FR43D1552745"
+  },
+  {
+    "title": "Al Centro De La Injusticia",
+    "artist": "Isabel Parra",
+    "isrc": "USLZJ2397078"
+  },
+  {
+    "title": "Bien Criolla y Bien Porteña",
+    "artist": "Angel Parra, Diapasón Porteño",
+    "isrc": "FRZ831149542"
+  },
+  {
+    "title": "Arriba en la Cordillera",
+    "artist": "Patricio Manns",
+    "isrc": "DEUD92376688"
+  },
+  {
+    "title": "A Desalambrar",
+    "artist": "Daniel Viglietti",
+    "isrc": "ES5061201102"
+  },
+  {
+    "title": "El Cigarrito - 2001 Digital Remaster",
+    "artist": "Victor Jara",
+    "isrc": "CLBB20100100"
+  },
+  {
+    "title": "Gracias a la Vida",
+    "artist": "Violeta Parra",
+    "isrc": "ES71G1507855"
+  },
+  {
+    "title": "Alturas",
+    "artist": "Inti-Illimani",
+    "isrc": "FR6V80310624"
+  },
+  {
+    "title": "Razón De Vivir",
+    "artist": "Victor Heredia",
+    "isrc": "ARF099500128"
+  },
+  {
+    "title": "Ay Carmela",
+    "artist": "Rolando Alarcon",
+    "isrc": "DEZZ42149089"
+  },
+  {
+    "title": "Yolanda",
+    "artist": "Pablo Milanés",
+    "isrc": "ES5702101709"
+  },
+  {
+    "title": "Doña Soledad",
+    "artist": "Alfredo Zitarrosa",
+    "isrc": "ARF100200759"
+  },
+  {
+    "title": "A Mi Ciudad",
+    "artist": "Santiago del Nuevo Extremo",
+    "isrc": "USA561432515"
+  },
+  {
+    "title": "Nos Fuimos Quedando En Silencio",
+    "artist": "Schwenke Y Nilo, Sello Alerce",
+    "isrc": "QMBZ92347006"
+  },
+  {
+    "title": "La Nelly y el Nelson",
+    "artist": "Payo Grondona",
+    "isrc": "USA561413702"
+  },
+  {
+    "title": "Ojalá",
+    "artist": "Silvio Rodríguez",
+    "isrc": "ESAAI0205370"
+  },
+  {
+    "title": "Los Ejes de Mi Carreta",
+    "artist": "Atahualpa Yupanqui",
+    "isrc": "DEXN92266772"
+  },
+  {
+    "title": "Sobreviviendo",
+    "artist": "Illapu",
+    "isrc": "CLCZ21400943"
+  },
+  {
+    "title": "La Casa Nueva",
+    "artist": "Tito Fernández",
+    "isrc": "QMDA71397945"
+  },
+  {
+    "title": "Zona de Promesas (with Gustavo Cerati)",
+    "artist": "Mercedes Sosa, Gustavo Cerati",
+    "isrc": "ARF100900178"
+  },
+  {
+    "title": "Valparaiso - Versión Alternativa",
+    "artist": "Osvaldo Rodriguez",
+    "isrc": "DEUD92376761"
+  },
+  {
+    "title": "La Maldición de La Malinche",
+    "artist": "Amparo Ochoa, Los Folkloristas",
+    "isrc": "MXF600600006"
+  },
+  {
+    "title": "El Hombre Es una Flecha",
+    "artist": "Eduardo Peralta",
+    "isrc": "QMDA71346984"
+  },
+  {
+    "title": "Sin Tu Latido - Remasterizado",
+    "artist": "Luis Eduardo Aute",
+    "isrc": "ES5021500057"
+  },
+  {
+    "title": "Corazón De Escarcha",
+    "artist": "Hector Pavez",
+    "isrc": "CLBB26900073"
+  },
+  {
+    "title": "Violín de becho",
+    "artist": "Soledad Bravo",
+    "isrc": "FR6V89800113"
+  },
+  {
+    "title": "Esther homenaje",
+    "artist": "Vicente Feliú",
+    "isrc": "ESAAI0213256"
+  },
+  {
+    "title": "Brazos de Sol",
+    "artist": "Alejandro Filio",
+    "isrc": "US7VG1732071"
+  },
+  {
+    "title": "El Viaje",
+    "artist": "Nelson Schwenke, Marcelo Nilo",
+    "isrc": "USCHR1302115"
+  },
+  {
+    "title": "Es Más, Te Perdono",
+    "artist": "Noel Nicola",
+    "isrc": "CUA0B1801016"
+  },
+  {
+    "title": "No Soy De Aqui, Ni Soy De Alla",
+    "artist": "Facundo Cabral",
+    "isrc": "ARF049701010"
+  },
+  {
+    "title": "Con Los Dos En La Cabeza",
+    "artist": "Pedro Guerra, Cruz Cafuné",
+    "isrc": "ES71G2404655"
+  },
+  {
+    "title": "Mediterraneo",
+    "artist": "Joan Manuel Serrat",
+    "isrc": "ES5020000300"
+  },
+  {
+    "title": "Amigo",
+    "artist": "Ilapu",
+    "isrc": "CLAB20801013"
+  },
+  {
+    "title": "Mi Viejo",
+    "artist": "Piero",
+    "isrc": "ARF109900544"
+  },
+  {
+    "title": "El Mercado Testaccio (Instrumental) - En Vivo",
+    "artist": "Inti Illimani Histórico",
+    "isrc": "TCABY1432583"
+  },
+  {
+    "title": "P'a Mar Adentro",
+    "artist": "Pedro Messone",
+    "isrc": "ES71G1943541"
+  },
+  {
+    "title": "Yo Pienso En Ti",
+    "artist": "Fernando Ubiergo",
+    "isrc": "CLUM71901168"
+  },
+  {
+    "title": "Mi Luna Cautiva",
+    "artist": "Jorge Cafrune",
+    "isrc": "ARF109600425"
+  },
+  {
+    "title": "Hoy Ten Miedo De Mi",
+    "artist": "Fernando Delgadillo",
+    "isrc": "MXF600600428"
+  },
+  {
+    "title": "Yo Te Nombro Libertad",
+    "artist": "Isabel Aldunate, Sello Alerce",
+    "isrc": "QMBZ92318653"
+  },
+  {
+    "title": "Y en Eso Llego Fidel",
+    "artist": "Carlos Puebla, Pablo Neruda",
+    "isrc": "DEXN82257900"
+  },
+  {
+    "title": "El Quirquincho",
+    "artist": "Osvaldo Torres",
+    "isrc": "QMFMF1415535"
+  },
+  {
+    "title": "Ivamos Chile!",
+    "artist": "Amerindios",
+    "isrc": "DEUD91773607"
+  },
+  {
+    "title": "No Puedo Quitar Mis Ojos de Ti - En Vivo",
+    "artist": "Angel Parra Trio, Julian Peña",
+    "isrc": "ES71G2040612"
+  },
+  {
+    "title": "Quiero Hablar Contigo",
+    "artist": "Max Berru",
+    "isrc": "QMFME1309041"
+  },
+  {
+    "title": "Los Chanchos de Pedro Urdemales",
+    "artist": "Pedro Yañez",
+    "isrc": "USV291401763"
+  },
+  {
+    "title": "Sensemayá",
+    "artist": "Horacio Salinas, John C. Williams, Paco Peña, Inti-Illimani, Jorge Coulon",
+    "isrc": "USSM10207212"
+  },
+  {
+    "title": "Hacerte venir",
+    "artist": "Amaury Pérez",
+    "isrc": "MXF600602499"
+  },
+  {
+    "title": "Solo Pienso en Ti",
+    "artist": "Víctor Manuel",
+    "isrc": "ES5117800015"
+  },
+  {
+    "title": "Una Palabra",
+    "artist": "Carlos Varela",
+    "isrc": "MXUM71904176"
+  },
+  {
+    "title": "Palomita, Verte Quiero",
+    "artist": "Conjunto Cuncumen, Victor Jara",
+    "isrc": "DE1A22107377"
+  },
+  {
+    "title": "Tus Ojos Me Recuerdan",
+    "artist": "Paco Ibanez",
+    "isrc": "ESA031423735"
+  },
+  {
+    "title": "Tic Tac",
+    "artist": "Ortiga",
+    "isrc": "USA561398782"
+  },
+  {
+    "title": "Romance en Tango",
+    "artist": "Hugo Moraga",
+    "isrc": "ES71G1713329"
+  },
+  {
+    "title": "Con una Pala y un Sombrero",
+    "artist": "Gervasio",
+    "isrc": "USV351331546"
+  },
+  {
+    "title": "Barquito de Papel",
+    "artist": "Elizabeth Morris",
+    "isrc": "QZ5AB2469521"
+  },
+  {
+    "title": "Papá Cuéntame Otra Vez",
+    "artist": "Ismael Serrano",
+    "isrc": "ES6009700001"
+  },
+  {
+    "title": "La Puerta de Alcalá",
+    "artist": "Ana Belén, Víctor Manuel",
+    "isrc": "ES5118601610"
+  },
+  {
+    "title": "Te Vas de Mi",
+    "artist": "Tata Barahona",
+    "isrc": "ART0G1202265"
+  },
+  {
+    "title": "Fantasia Supra Eleonor Rigby (Sobre La Canción De P. McCartney",
+    "artist": "Barroco Andino",
+    "isrc": "GBRKQ2286154"
+  },
+  {
+    "title": "Valdivia En La Niebla",
+    "artist": "Jose Seves, Sello Alerce",
+    "isrc": "QMDA72383432"
+  },
+  {
+    "title": "Retrato de Sandino Con Sombrero",
+    "artist": "Conjunto Quilapayun",
+    "isrc": "FRZ111200237"
+  },
+  {
+    "title": "Los Ratones",
+    "artist": "Evelyn Cornejo",
+    "isrc": "ESAAI0268973"
+  },
+  {
+    "title": "Mi Derecho a Soñar",
+    "artist": "Francisco Villa",
+    "isrc": "QMFMG1470194"
+  },
+  {
+    "title": "Todo se transforma",
+    "artist": "Jorge Drexler",
+    "isrc": "ES5010400060"
+  },
+  {
+    "title": "Maldita Primavera",
+    "artist": "Javiera Parra, Los Imposibles",
+    "isrc": "CLA220100087"
+  },
+  {
+    "title": "El Curanto",
+    "artist": "Los de Ramon",
+    "isrc": "ES71G1507851"
+  },
+  {
+    "title": "Klara",
+    "artist": "Chinoy",
+    "isrc": "ART0G1800628"
+  },
+  {
+    "title": "El Perdón (feat. Mon Laferte)",
+    "artist": "Pascuala Ilabaca y Fauna, Mon Laferte",
+    "isrc": "ES0912000018"
+  },
+  {
+    "title": "Ventolera",
+    "artist": "Freddy Torrealba",
+    "isrc": "USA561396291"
+  },
+  {
+    "title": "La Guaracha del Fay Fay",
+    "artist": "Rene Inostroza",
+    "isrc": "CLDG21401064"
+  },
+  {
+    "title": "Gurisito",
+    "artist": "Charo Cofré",
+    "isrc": "GBSMU6122114"
+  },
+  {
+    "title": "Pobre del Cantor (En Vivo)",
+    "artist": "César Isella, Pablo Milanés",
+    "isrc": "ARF390000295"
+  },
+  {
+    "title": "Espera del Pedro Changa",
+    "artist": "Armando Tejada Gomez, Los Trovadores",
+    "isrc": "ARF106700116"
+  },
+  {
+    "title": "Soneto a Matilde",
+    "artist": "Quinteto Tiempo",
+    "isrc": "ARA230500114"
+  },
+  {
+    "title": "La llorona",
+    "artist": "Chavela Vargas",
+    "isrc": "ES5159623031"
+  },
+  {
+    "title": "La Escalera",
+    "artist": "Luis Le Bert",
+    "isrc": "USCHR1338436"
+  },
+  {
+    "title": "Soy Latino",
+    "artist": "Guardabarranco",
+    "isrc": "uscgh0567503"
+  },
+  {
+    "title": "Mano Nortina",
+    "artist": "Kiko Alvarez",
+    "isrc": "USA561359540"
+  },
+  {
+    "title": "Las Mudanzas",
+    "artist": "Tito Francia",
+    "isrc": "usx9p0981060"
+  },
+  {
+    "title": "Tus Manos",
+    "artist": "Rafael Manríquez",
+    "isrc": "ushm91121925"
+  },
+  {
+    "title": "Los Palafitos",
+    "artist": "Grupo Raiz",
+    "isrc": "QMFMF1404514"
+  },
+  {
+    "title": "Los Colihues",
+    "artist": "Los Amerindios",
+    "isrc": "ES7930905077"
+  },
+  {
+    "title": "Un Par de Botas",
+    "artist": "Carlos Portela",
+    "isrc": "USA371520043"
+  },
+  {
+    "title": "Todo cambia",
+    "artist": "Julio Numhauser",
+    "isrc": "CLLH22602685"
+  },
+  {
+    "title": "La Noche de Chile",
+    "artist": "Patricio Castillo, Osvaldo Torres, Silvia Balducci",
+    "isrc": "QM4TX2217160"
+  },
+  {
+    "title": "A la Huella (To the Huella) - huella",
+    "artist": "Suni Paz",
+    "isrc": "USSF10653211"
+  },
+  {
+    "title": "La Muralla",
+    "artist": "Quilapayún",
+    "isrc": "DEUD92376676"
+  },
+  {
+    "title": "Ni Toda la Tierra Entera",
+    "artist": "Isabel Parra",
+    "isrc": "ESAAI0257158"
+  },
+  {
+    "title": "Cancion de Amor",
+    "artist": "Angel Parra",
+    "isrc": "DEUD92376609"
+  },
+  {
+    "title": "Llego Volando",
+    "artist": "Patricio Manns",
+    "isrc": "CLDG21400980"
+  },
+  {
+    "title": "Duerme Negrito",
+    "artist": "Daniel Viglietti",
+    "isrc": "ES5061201103"
+  },
+  {
+    "title": "Te Recuerdo Amanda",
+    "artist": "Victor Jara",
+    "isrc": "FR10S1486131"
+  },
+  {
+    "title": "La Jardinera",
+    "artist": "Violeta Parra",
+    "isrc": "CLBB25800508"
+  },
+  {
+    "title": "El Pueblo Unido Jamás Será Vencido",
+    "artist": "Inti-Illimani",
+    "isrc": "FR6V80310634"
+  },
+  {
+    "title": "Sobreviviendo",
+    "artist": "Victor Heredia",
+    "isrc": "ARF099500127"
+  },
+  {
+    "title": "Si Me Quieres Escribir",
+    "artist": "Rolando Alarcon",
+    "isrc": "DE1A42140885"
+  },
+  {
+    "title": "Zamba por Vos",
+    "artist": "Alfredo Zitarrosa",
+    "isrc": "ARF109902891"
+  },
+  {
+    "title": "El Amor De Mi Vida",
+    "artist": "Pablo Milanés",
+    "isrc": "MXF110310026"
+  },
+  {
+    "title": "Simplemente",
+    "artist": "Santiago del Nuevo Extremo",
+    "isrc": "USA561432510"
+  },
+  {
+    "title": "Luchin",
+    "artist": "Schwenke Y Nilo",
+    "isrc": "USA561432549"
+  },
+  {
+    "title": "Il Bosco",
+    "artist": "Payo Grondona",
+    "isrc": "USA561359539"
+  },
+  {
+    "title": "Luna Tucumana",
+    "artist": "Atahualpa Yupanqui",
+    "isrc": "ARF049500299"
+  },
+  {
+    "title": "Óleo de Mujer Con Sombrero",
+    "artist": "Silvio Rodríguez",
+    "isrc": "ESAAI0205374"
+  },
+  {
+    "title": "Vuelvo Para Vivir",
+    "artist": "Illapu",
+    "isrc": "CLBB29000010"
+  },
+  {
+    "title": "Me Gusta el Vino",
+    "artist": "Tito Fernández",
+    "isrc": "ES71G1942356"
+  },
+  {
+    "title": "Todo Cambia",
+    "artist": "Mercedes Sosa",
+    "isrc": "ARF098400031"
+  },
+  {
+    "title": "Marcha De Los Estudiantes",
+    "artist": "Osvaldo Rodriguez",
+    "isrc": "QZTV32222044"
+  },
+  {
+    "title": "La Calaca - Remasterizada 2006",
+    "artist": "Amparo Ochoa",
+    "isrc": "MXF600602793"
+  },
+  {
+    "title": "La Edad No Tiene Que Ver",
+    "artist": "Eduardo Peralta",
+    "isrc": "QMDA61340028"
+  },
+  {
+    "title": "Sin Tu Latido",
+    "artist": "Luis Eduardo Aute",
+    "isrc": "ES7110300024"
+  },
+  {
+    "title": "A La Mar Fui Por Naranjas",
+    "artist": "Hector Pavez",
+    "isrc": "CLBB26900030"
+  },
+  {
+    "title": "Hasta siempre",
+    "artist": "Soledad Bravo",
+    "isrc": "FR6V89700111"
+  },
+  {
+    "title": "Ando al Cuello de Luz",
+    "artist": "Vicente Feliú, Carlos Lage",
+    "isrc": "MX1091010175"
+  },
+  {
+    "title": "Mujer Que Camina",
+    "artist": "Alejandro Filio",
+    "isrc": "US7VG1731363"
+  },
+  {
+    "title": "Mi Canto",
+    "artist": "Nelson Schwenke, Marcelo Nilo",
+    "isrc": "USCHR1301335"
+  },
+  {
+    "title": "Para una Imaginaria María del Carmen",
+    "artist": "Noel Nicola, Santiago Feliú",
+    "isrc": "CUA0B1800775"
+  },
+  {
+    "title": "No Soy de Aquí, Ni Soy de Allá",
+    "artist": "Facundo Cabral",
+    "isrc": "ARF037000093"
+  },
+  {
+    "title": "Niebla",
+    "artist": "Pedro Guerra, Juanes",
+    "isrc": "ES71G2409109"
+  },
+  {
+    "title": "Cantares",
+    "artist": "Joan Manuel Serrat",
+    "isrc": "ES5020000250"
+  },
+  {
+    "title": "Baila Caporal",
+    "artist": "Ilapu",
+    "isrc": "CLAB20801022"
+  },
+  {
+    "title": "Samba Landó - En Vivo",
+    "artist": "Inti Illimani Histórico",
+    "isrc": "TCABY1432597"
+  },
+  {
+    "title": "Si Vos Te Vas",
+    "artist": "Piero",
+    "isrc": "ARF109902260"
+  },
+  {
+    "title": "Niña Sube a la Lancha",
+    "artist": "Pedro Messone",
+    "isrc": "ES71G2104600"
+  },
+  {
+    "title": "Cuando Agosto Era",
+    "artist": "Fernando Ubiergo",
+    "isrc": "CLUM71901157"
+  },
+  {
+    "title": "No Soy de Aquí... Ni Soy de Allá",
+    "artist": "Jorge Cafrune",
+    "isrc": "ARF109902872"
+  },
+  {
+    "title": "Todo Cambia",
+    "artist": "Isabel Aldunate",
+    "isrc": "USCHR1338433"
+  },
+  {
+    "title": "Entre Pairos y Derivas",
+    "artist": "Fernando Delgadillo",
+    "isrc": "MXF600900421"
+  },
+  {
+    "title": "Sun Sun Damba",
+    "artist": "Carlos Puebla",
+    "isrc": "DEXN82257848"
+  },
+  {
+    "title": "La Paloma",
+    "artist": "Osvaldo Torres",
+    "isrc": "QMFMF1415532"
+  },
+  {
+    "title": "Comandante",
+    "artist": "Amerindios, Salvador Allende, Fidel Castro",
+    "isrc": "DEVU51741785"
+  },
+  {
+    "title": "No Te Escondas",
+    "artist": "Angel Parra Trio, Julian Peña",
+    "isrc": "ES71G2039238"
+  },
+  {
+    "title": "Alma Corazon y Vida",
+    "artist": "Max Berru",
+    "isrc": "QMFME1308948"
+  },
+  {
+    "title": "Los Cuarenta Oficios",
+    "artist": "Pedro Yañez",
+    "isrc": "USV291401760"
+  },
+  {
+    "title": "Danza",
+    "artist": "Horacio Salinas, John C. Williams, Paco Peña, Inti-Illimani",
+    "isrc": "USSM18700210"
+  },
+  {
+    "title": "Acuérdate de abril",
+    "artist": "Amaury Pérez",
+    "isrc": "MXF600602440"
+  },
+  {
+    "title": "Quiero Abrazarte Tanto",
+    "artist": "Víctor Manuel",
+    "isrc": "ES5118000025"
+  },
+  {
+    "title": "Tarde Gris",
+    "artist": "Carlos Varela",
+    "isrc": "MXUM71904166"
+  },
+  {
+    "title": "Remuele Tu Caballo, Huaso",
+    "artist": "Conjunto Cuncumen",
+    "isrc": "CLBB22600166"
+  },
+  {
+    "title": "La mala reputación",
+    "artist": "Paco Ibanez",
+    "isrc": "ES71G2330626"
+  },
+  {
+    "title": "Danza de los Payasos",
+    "artist": "Ortiga",
+    "isrc": "USA561398790"
+  },
+  {
+    "title": "La Vida en Ti",
+    "artist": "Hugo Moraga",
+    "isrc": "ES71G1713326"
+  },
+  {
+    "title": "La Azafata",
+    "artist": "Gervasio",
+    "isrc": "ES71G2108752"
+  },
+  {
+    "title": "Darte Luz",
+    "artist": "Elizabeth Morris",
+    "isrc": "CLCZ21501730"
+  },
+  {
+    "title": "Ahora Que Te Encuentro",
+    "artist": "Ismael Serrano",
+    "isrc": "ES5021400449"
+  },
+  {
+    "title": "No Se por Que Te Quiero",
+    "artist": "Ana Belén, Antonio Banderas",
+    "isrc": "ES5029700067"
+  },
+  {
+    "title": "Adicciones y resentimientos",
+    "artist": "Tata Barahona",
+    "isrc": "ART0G1203214"
+  },
+  {
+    "title": "Plegaria A Un Labrador",
+    "artist": "Quilapayún",
+    "isrc": "CLAA22100244"
+  },
+  {
+    "title": "Con los Pies Sobre la Tierra",
+    "artist": "Isabel Parra",
+    "isrc": "CLEP21400137"
+  },
+  {
+    "title": "Canto a Mi América",
+    "artist": "Angel Parra",
+    "isrc": "FRZ831067490"
+  },
+  {
+    "title": "El Cautivo de Til Til (En Vivo)",
+    "artist": "Patricio Manns",
+    "isrc": "USA561363057"
+  },
+  {
+    "title": "Desaparecidos / Otra Voz Canta / Esa Batalla",
+    "artist": "Daniel Viglietti, Mario Benedetti",
+    "isrc": "UYA130000107"
+  },
+  {
+    "title": "El Derecho de Vivir en Paz",
+    "artist": "Victor Jara",
+    "isrc": "FR10S1486158"
+  },
+  {
+    "title": "Volver a los 17",
+    "artist": "Violeta Parra",
+    "isrc": "ARIXB2312820"
+  },
+  {
+    "title": "Exiliada del sur",
+    "artist": "Inti-Illimani",
+    "isrc": "CLAA20000343"
+  },
+  {
+    "title": "Vengo a Ofrecer Mi Corazón - En Vivo",
+    "artist": "Victor Heredia, Mercedes Sosa, Fito Paez",
+    "isrc": "AR1RS0800024"
+  },
+  {
+    "title": "No Pasaran",
+    "artist": "Rolando Alarcon",
+    "isrc": "DE1A42140894"
+  },
+  {
+    "title": "Candombe del Olvido",
+    "artist": "Alfredo Zitarrosa",
+    "isrc": "ARF109902896"
+  },
+  {
+    "title": "Yo No Te Pido",
+    "artist": "Pablo Milanés",
+    "isrc": "MXF119905681"
+  },
+  {
+    "title": "Linda la Minga",
+    "artist": "Santiago del Nuevo Extremo",
+    "isrc": "USA561432512"
+  },
+  {
+    "title": "Hay Que Hacerse de Nuevo Cada Dia",
+    "artist": "Schwenke Y Nilo",
+    "isrc": "USA561397459"
+  },
+  {
+    "title": "Me Diste Mal la Direccion",
+    "artist": "Payo Grondona",
+    "isrc": "USA561413700"
+  },
+  {
+    "title": "El Arriero",
+    "artist": "Atahualpa Yupanqui",
+    "isrc": "ARF049601363"
+  },
+  {
+    "title": "Lejos Del Amor",
+    "artist": "Illapu",
+    "isrc": "CLBB29300001"
+  },
+  {
+    "title": "Quién Fuera",
+    "artist": "Silvio Rodríguez",
+    "isrc": "ESAAI0205509"
+  },
+  {
+    "title": "Os Guatones y los Pelaos",
+    "artist": "Tito Fernández",
+    "isrc": "ES71G1942365"
+  },
+  {
+    "title": "Alfonsina Y El Mar",
+    "artist": "Mercedes Sosa, Ariel Ramírez, Hector Zeoli",
+    "isrc": "ARF096900004"
+  },
+  {
+    "title": "Valparaíso",
+    "artist": "Osvaldo Rodriguez",
+    "isrc": "QZTV32222043"
+  },
+  {
+    "title": "El Barzón - Remasterizada 2006",
+    "artist": "Amparo Ochoa",
+    "isrc": "MXF600602795"
+  },
+  {
+    "title": "Cancion de Amor Contigo",
+    "artist": "Eduardo Peralta",
+    "isrc": "QMDA71346992"
+  },
+  {
+    "title": "Las Cuatro y Diez",
+    "artist": "Luis Eduardo Aute",
+    "isrc": "ES7110300027"
+  },
+  {
+    "title": "El Lobo Chilote",
+    "artist": "Hector Pavez",
+    "isrc": "CLGG20000012"
+  },
+  {
+    "title": "Tonadas de Ordeño",
+    "artist": "Soledad Bravo",
+    "isrc": "QM4TW1670745"
+  },
+  {
+    "title": "Al sur de mi mochila",
+    "artist": "Vicente Feliú",
+    "isrc": "USA370922956"
+  },
+  {
+    "title": "Después de Ti",
+    "artist": "Alejandro Filio",
+    "isrc": "US7VG1732087"
+  },
+  {
+    "title": "Lluvias del Sur",
+    "artist": "Nelson Schwenke, Marcelo Nilo",
+    "isrc": "USCHR1302116"
+  },
+  {
+    "title": "A mi manera / Es mas… te perdono",
+    "artist": "Noel Nicola, Eduardo Ramos",
+    "isrc": "ES6100678066"
+  }
+]

@@ -1,0 +1,1842 @@
+[
+  {
+    "title": "El Aguacate",
+    "artist": "Los medicos",
+    "isrc": "COF019400671"
+  },
+  {
+    "title": "Corazón Prisionero",
+    "artist": "Bowen y Villafuerte",
+    "isrc": "COF019400651"
+  },
+  {
+    "title": "Todo Es Amor",
+    "artist": "Ibarra y Medina",
+    "isrc": "QM6P41556773"
+  },
+  {
+    "title": "Casas Viejas",
+    "artist": "Los Ayer's",
+    "isrc": "ESA011962363"
+  },
+  {
+    "title": "Quererte Ya No Puedo",
+    "artist": "Lucho Bowen",
+    "isrc": "COATT1900290"
+  },
+  {
+    "title": "Alma Negra",
+    "artist": "Gabriel Raymon",
+    "isrc": "QM6N21453870"
+  },
+  {
+    "title": "Por Que Te Alejas",
+    "artist": "Los Cuyitos",
+    "isrc": "COF015900078"
+  },
+  {
+    "title": "Muchacha de Risa Loca",
+    "artist": "Lucho Ramírez",
+    "isrc": "QZHZ51940177"
+  },
+  {
+    "title": "La Nieve de los Anos",
+    "artist": "Ramirez Y Arias",
+    "isrc": "QM6N21470180"
+  },
+  {
+    "title": "Quiéreme en Vida",
+    "artist": "Jose Miguel Class",
+    "isrc": "ESA011844420"
+  },
+  {
+    "title": "Penas Amargas",
+    "artist": "Nano Molina",
+    "isrc": "QZWDW2396719"
+  },
+  {
+    "title": "Laura",
+    "artist": "Dueto Riobamba",
+    "isrc": "ESA012001448"
+  },
+  {
+    "title": "Bendición Celestial",
+    "artist": "Los Romanceros",
+    "isrc": "QZGLM2276864"
+  },
+  {
+    "title": "Dolor Sin Nombre",
+    "artist": "Espinosa y Bedoya",
+    "isrc": "QMBZ91532169"
+  },
+  {
+    "title": "Las Acacias",
+    "artist": "Dueto De Antaño",
+    "isrc": "COC010004181"
+  },
+  {
+    "title": "Cuanto Te Debo",
+    "artist": "Ricardo Fuentes",
+    "isrc": "COF019400659"
+  },
+  {
+    "title": "Esperame",
+    "artist": "Gomez Y Villegas",
+    "isrc": "QMFMF2141474"
+  },
+  {
+    "title": "Cruz de Palo",
+    "artist": "Las Gaviotas",
+    "isrc": "ESA011886999"
+  },
+  {
+    "title": "Rencor",
+    "artist": "Los Cuyos",
+    "isrc": "COFC10905807"
+  },
+  {
+    "title": "Camino Verde",
+    "artist": "Victor Hugo Ayala",
+    "isrc": "COF018900289"
+  },
+  {
+    "title": "Lejos del Tambo",
+    "artist": "El Caballero Gaucho",
+    "isrc": "COF019400638"
+  },
+  {
+    "title": "Ni Plata Ni Nada",
+    "artist": "Los Relicarios",
+    "isrc": "ESA011844530"
+  },
+  {
+    "title": "Las Acacias",
+    "artist": "Silva y Villalba",
+    "isrc": "USJE61712092"
+  },
+  {
+    "title": "La Cama Vacia",
+    "artist": "Oscar Agudelo",
+    "isrc": "COC016400638"
+  },
+  {
+    "title": "Tu Indecisión",
+    "artist": "Gabriel Raymond",
+    "isrc": "QZWDW2392730"
+  },
+  {
+    "title": "Evocación",
+    "artist": "Carlos Arturo",
+    "isrc": "COF019400692"
+  },
+  {
+    "title": "Ilusión Marchita",
+    "artist": "Las Estrellitas",
+    "isrc": "QZNW72348511"
+  },
+  {
+    "title": "Frivolidad",
+    "artist": "Pepe Aguirre",
+    "isrc": "QZ5FN1830860"
+  },
+  {
+    "title": "Muchacha De Risa Loca",
+    "artist": "Rios y Macias",
+    "isrc": "COC017902911"
+  },
+  {
+    "title": "Maldito Cabaret",
+    "artist": "Los Pamperos",
+    "isrc": "QZ5AB1733431"
+  },
+  {
+    "title": "Cruel Mujer",
+    "artist": "Los Yumbos",
+    "isrc": "USJE61702760"
+  },
+  {
+    "title": "Dos Pasajes",
+    "artist": "Hermanas Calle",
+    "isrc": "ESA011844876"
+  },
+  {
+    "title": "Reconciliación",
+    "artist": "Tito Cortes",
+    "isrc": "COF019401679"
+  },
+  {
+    "title": "El Cajón de Madera",
+    "artist": "El Relicario",
+    "isrc": "ESA011844609"
+  },
+  {
+    "title": "Señor",
+    "artist": "Helenita Vargas",
+    "isrc": "COF019501292"
+  },
+  {
+    "title": "Campesina Santandereana",
+    "artist": "Hermanos Martínez",
+    "isrc": "QZHZ51940379"
+  },
+  {
+    "title": "Clavelitos",
+    "artist": "Romulo Caicedo",
+    "isrc": "FRX871596955"
+  },
+  {
+    "title": "Busco Tu Recuerdo",
+    "artist": "Charlie Figueroa, La Sonora Malecon Club",
+    "isrc": "COF019401182"
+  },
+  {
+    "title": "Ruego - Pasillo",
+    "artist": "Dueto Nocturnal",
+    "isrc": "USR010711753"
+  },
+  {
+    "title": "Lamparilla",
+    "artist": "Peronet e Izurieta",
+    "isrc": "QM6N21470185"
+  },
+  {
+    "title": "Pueblito Viejo",
+    "artist": "Garzon y Collazos",
+    "isrc": "QZHZ41932266"
+  },
+  {
+    "title": "Cuando las Aves",
+    "artist": "Las Trigueñitas",
+    "isrc": "QMBZ91550530"
+  },
+  {
+    "title": "La tristeza esta en mí",
+    "artist": "Margarita Cueto, Juan Arvizu, M. Coello, F. Paredes",
+    "isrc": "CA5KR1808983"
+  },
+  {
+    "title": "Collar De Lagrimas",
+    "artist": "Hernando y Yesid",
+    "isrc": "COC017507383"
+  },
+  {
+    "title": "El Arruinao",
+    "artist": "Gildardo Montoya",
+    "isrc": "ESA011843942"
+  },
+  {
+    "title": "La Cuchilla",
+    "artist": "Las Hermanas Calle",
+    "isrc": "ESA011844473"
+  },
+  {
+    "title": "Agachate el Sombrerito",
+    "artist": "Los tolimenses",
+    "isrc": "QM6P41550909"
+  },
+  {
+    "title": "Muy antioqueño",
+    "artist": "Nueva Gente",
+    "isrc": "COC018704997"
+  },
+  {
+    "title": "Bésame Morenita",
+    "artist": "Carlos Julio Ramírez",
+    "isrc": "COF019401999"
+  },
+  {
+    "title": "Los arrieros",
+    "artist": "Luciano y Concholon",
+    "isrc": "COC016505267"
+  },
+  {
+    "title": "Tenia Que Suceder",
+    "artist": "Dueto Buritica",
+    "isrc": "GBKPL2097237"
+  },
+  {
+    "title": "Amor de Taberna",
+    "artist": "Dueto Revelación",
+    "isrc": "FRX201936122"
+  },
+  {
+    "title": "Volvamos a empezar",
+    "artist": "Oscar Larroca",
+    "isrc": "ARG991005190"
+  },
+  {
+    "title": "Siempre Amigos",
+    "artist": "Lalo Martel",
+    "isrc": "DEUE22322088"
+  },
+  {
+    "title": "Uy, Qué Miedo",
+    "artist": "Agustín Bedoya, Joaquin Bedoya",
+    "isrc": "COF018804109"
+  },
+  {
+    "title": "El Cacique Mocorongo",
+    "artist": "Joaquin Bedoya",
+    "isrc": "ESA011844768"
+  },
+  {
+    "title": "Espérame en el Cielo",
+    "artist": "Alberto Granados",
+    "isrc": "QZHZ41992948"
+  },
+  {
+    "title": "Adoración",
+    "artist": "Juan Carlos Godoy, Roberto Mancini",
+    "isrc": "ARA821401815"
+  },
+  {
+    "title": "La Capuchona",
+    "artist": "Guillermo Buitrago",
+    "isrc": "COF019401306"
+  },
+  {
+    "title": "Veneno",
+    "artist": "Los Visconti",
+    "isrc": "COF019501379"
+  },
+  {
+    "title": "Lejos de Ti",
+    "artist": "Raul Garces, Los Caballeros Del Tango",
+    "isrc": "QZHZ51940210"
+  },
+  {
+    "title": "Con Toda el Alma",
+    "artist": "Ligia Mayo",
+    "isrc": "COF019800214"
+  },
+  {
+    "title": "Sed de Oro",
+    "artist": "TONY DEL MAR",
+    "isrc": "QM7281577403"
+  },
+  {
+    "title": "Llegaron las Putiérrez",
+    "artist": "Joaquin Bedoya Y Su Conjunto",
+    "isrc": "COF019200239"
+  },
+  {
+    "title": "Olvidala",
+    "artist": "Las Hermanitas Calle, Yelsid, Hebert Vargas",
+    "isrc": "COC011631450"
+  },
+  {
+    "title": "YA ME COMPRÉ LA CANTINA",
+    "artist": "Nelson Gomez",
+    "isrc": "QZTBD2313863"
+  },
+  {
+    "title": "El Camino de la Vida",
+    "artist": "Arboleda y Valencia",
+    "isrc": "QZHZ41968912"
+  },
+  {
+    "title": "Me Voy para Olvidarte",
+    "artist": "El Gato Negro",
+    "isrc": "QZ5AB1732614"
+  },
+  {
+    "title": "Polvo de los Caminos",
+    "artist": "Agustín Irusta",
+    "isrc": "DEUE22322101"
+  },
+  {
+    "title": "Bochica",
+    "artist": "Trío Morales Pino",
+    "isrc": "QZHZ41970200"
+  },
+  {
+    "title": "Me Llevaras en Ti",
+    "artist": "Jorge Villamil",
+    "isrc": "COFC10407604"
+  },
+  {
+    "title": "Recuerdo de Amigos - Instrumental",
+    "artist": "Jorge Ariza",
+    "isrc": "COF013900144"
+  },
+  {
+    "title": "Camino Viejo",
+    "artist": "Jaime Llano González, Garzon y Collazos",
+    "isrc": "USR011012816"
+  },
+  {
+    "title": "Cantar Gitano",
+    "artist": "Armando Moreno, Enrique Rodríguez",
+    "isrc": "QM7282371416"
+  },
+  {
+    "title": "Era un Domingo",
+    "artist": "Los Alegres Cordillera",
+    "isrc": "ESA012000074"
+  },
+  {
+    "title": "Sorbito De Champagne",
+    "artist": "Nelson Henriquez, Pastor Lopez",
+    "isrc": "USR010615685"
+  },
+  {
+    "title": "Amar Es una Pena",
+    "artist": "Las Aves Cantoras",
+    "isrc": "ESA011887001"
+  },
+  {
+    "title": "Fantasía Nocturna",
+    "artist": "Los Hispanos, Gustavo Quintero",
+    "isrc": "COC016707483"
+  },
+  {
+    "title": "Adios callado",
+    "artist": "Posada y calle",
+    "isrc": "COC016505797"
+  },
+  {
+    "title": "Pa Mi Colombia Primero",
+    "artist": "Zabala y Barrera",
+    "isrc": "COF010000584"
+  },
+  {
+    "title": "La Contradanza",
+    "artist": "Oriol Rangel",
+    "isrc": "QZHZ51939906"
+  },
+  {
+    "title": "Arreglá Pa&apos; Que Te Vas",
+    "artist": "Los Legendarios",
+    "isrc": "QMDA71591811"
+  },
+  {
+    "title": "Cande, Candelaria",
+    "artist": "Gustavo Quintero",
+    "isrc": "COF019804841"
+  },
+  {
+    "title": "Aunque lo niegues",
+    "artist": "José A. Morales, Dueto Nocturnal",
+    "isrc": "USR010616622"
+  },
+  {
+    "title": "Te Casaste Toño",
+    "artist": "Jose Muñoz",
+    "isrc": "ESA011844449"
+  },
+  {
+    "title": "Dos Corazones",
+    "artist": "Franktony",
+    "isrc": "ESA011844706"
+  },
+  {
+    "title": "Digámonos Adiós",
+    "artist": "Las Indianas",
+    "isrc": "ESA012000217"
+  },
+  {
+    "title": "El Aguardientoski",
+    "artist": "Los Graduados, Gustavo Quintero",
+    "isrc": "COC017209378"
+  },
+  {
+    "title": "Aquel Barco",
+    "artist": "Los Villalpos",
+    "isrc": "ESA012001460"
+  },
+  {
+    "title": "Entre Comillas",
+    "artist": "Darío Gómez",
+    "isrc": "QM7281523228"
+  },
+  {
+    "title": "Contigo",
+    "artist": "Los Embajadores",
+    "isrc": "US78T0506438"
+  },
+  {
+    "title": "Noches de Bocagrande",
+    "artist": "Trio Martino",
+    "isrc": "QZHZ41969019"
+  },
+  {
+    "title": "Si Libre Fueras",
+    "artist": "Los Jibaritos",
+    "isrc": "ESA011945508"
+  },
+  {
+    "title": "Pagué Con Lágrimas",
+    "artist": "Argemiro Jaramillo",
+    "isrc": "QZN882251508"
+  },
+  {
+    "title": "Me Tomas y Me Dejas",
+    "artist": "Luis Alberto Posada",
+    "isrc": "FRX451570848"
+  },
+  {
+    "title": "Sonrieme",
+    "artist": "Los Golden Boys",
+    "isrc": "COF014000100"
+  },
+  {
+    "title": "Se Pierde o Se Gana",
+    "artist": "Jorge Luis Hortúa",
+    "isrc": "GBLFP2133451"
+  },
+  {
+    "title": "Amor Que Te Doy",
+    "artist": "El Combo De Las Estrellas",
+    "isrc": "COC019823605"
+  },
+  {
+    "title": "Las Caleñas",
+    "artist": "Pastor Lopez Y Su Combo",
+    "isrc": "USR011012016"
+  },
+  {
+    "title": "El Bunde Tolimense",
+    "artist": "La Gran Rondalla Colombiana",
+    "isrc": "QM7281581156"
+  },
+  {
+    "title": "Todo el Mundo Necesita un Beso",
+    "artist": "Los Tupamaros",
+    "isrc": "COF019300491"
+  },
+  {
+    "title": "488 Kilómetros",
+    "artist": "Cuarteto Imperial",
+    "isrc": "ARFSB0701539"
+  },
+  {
+    "title": "Muy Colombiano",
+    "artist": "Dueto Ensueños",
+    "isrc": "COF019805023"
+  },
+  {
+    "title": "Dos Pasajes",
+    "artist": "Lupe Y Polo",
+    "isrc": "MXF367016242"
+  },
+  {
+    "title": "Un Solo Corazón",
+    "artist": "Dueto Revelacion",
+    "isrc": "USDXS2201922"
+  },
+  {
+    "title": "Fueron Tres Años",
+    "artist": "Roberto Mancini",
+    "isrc": "ARA821401793"
+  },
+  {
+    "title": "Matitas de Perejil",
+    "artist": "Hermanas Villareal",
+    "isrc": "ESA011846851"
+  },
+  {
+    "title": "Obsesión",
+    "artist": "Alfredo de Angelis Y Su Orquesta Tipica, Juan Carlos Godoy",
+    "isrc": "COF019501124"
+  },
+  {
+    "title": "La Subienda",
+    "artist": "Gabriel Romero",
+    "isrc": "COF019900129"
+  },
+  {
+    "title": "Tus Labios",
+    "artist": "Conjuntico America",
+    "isrc": "COF019400691"
+  },
+  {
+    "title": "Al Rojo Vivo",
+    "artist": "Octavio Mesa",
+    "isrc": "QZ5AB1780495"
+  },
+  {
+    "title": "La Colegiala",
+    "artist": "Rodolfo Aicardi, La Tipica Ra7",
+    "isrc": "COF019900122"
+  },
+  {
+    "title": "Cataclismo",
+    "artist": "Ana Elena Sandoval",
+    "isrc": "USLZJ1834457"
+  },
+  {
+    "title": "Aunque No Sea Mayo",
+    "artist": "Gabriel Arriaga",
+    "isrc": "US7VG1830449"
+  },
+  {
+    "title": "Falso Amor",
+    "artist": "Hernán Hernández",
+    "isrc": "COFC19045901"
+  },
+  {
+    "title": "Amorosamente",
+    "artist": "Hugo Romani",
+    "isrc": "QM4TX1796234"
+  },
+  {
+    "title": "Dolor sin nombre",
+    "artist": "Obdulio Y Julian, Tartarín Moreira",
+    "isrc": "CA5KR1973722"
+  },
+  {
+    "title": "El Viejo Miguel",
+    "artist": "Noel Petro",
+    "isrc": "FR96X1668032"
+  },
+  {
+    "title": "Mis Arapos",
+    "artist": "Los Caballeros Del Tango",
+    "isrc": "QM6N21464261"
+  },
+  {
+    "title": "Tierra Labrantia",
+    "artist": "Dueto Remembranzas",
+    "isrc": "QMBZ91537631"
+  },
+  {
+    "title": "Las Dos Camisas",
+    "artist": "José A Bedoya",
+    "isrc": "ES71G1741235"
+  },
+  {
+    "title": "He Nacido para Amarte",
+    "artist": "Los Warahuaco",
+    "isrc": "COF019601035"
+  },
+  {
+    "title": "El Jinete Perdido",
+    "artist": "Los Coyotes",
+    "isrc": "COF019400666"
+  },
+  {
+    "title": "El Brindis del Viejito",
+    "artist": "Los Alegres Parranderos",
+    "isrc": "COF019500816"
+  },
+  {
+    "title": "Guabina Chiquinquireña",
+    "artist": "Manuel J. Bernal",
+    "isrc": "COFC10910209"
+  },
+  {
+    "title": "Resignación",
+    "artist": "Los Cuyos",
+    "isrc": "ARHXW2202877"
+  },
+  {
+    "title": "Cumbia del Caribe",
+    "artist": "Edmundo Arias, Benetia",
+    "isrc": "COF019000087"
+  },
+  {
+    "title": "Quema Esas Cartas",
+    "artist": "Julio Martel",
+    "isrc": "DELM41501989"
+  },
+  {
+    "title": "Charanga Campesina",
+    "artist": "Calixto Ochoa",
+    "isrc": "COF019500947"
+  },
+  {
+    "title": "Amor en Tinieblas",
+    "artist": "Mary Ramia",
+    "isrc": "COF019400640"
+  },
+  {
+    "title": "Bodas Negras",
+    "artist": "Gilberto Urquiza",
+    "isrc": "MXF365100809"
+  },
+  {
+    "title": "Poema",
+    "artist": "Los Hermanos Arriagada",
+    "isrc": "CLUM71901693"
+  },
+  {
+    "title": "Amor Oculto",
+    "artist": "El Andariego",
+    "isrc": "FRX451570872"
+  },
+  {
+    "title": "No Renunciaré",
+    "artist": "Alci Acosta",
+    "isrc": "USDXS2002403"
+  },
+  {
+    "title": "Damisela encantadora",
+    "artist": "Juan Arvizu, Ernesto Lecuona",
+    "isrc": "CA5KR1808934"
+  },
+  {
+    "title": "Los Sabanales",
+    "artist": "Los Corraleros De Majagual, Calixto Ochoa",
+    "isrc": "COF019500952"
+  },
+  {
+    "title": "Añoranza",
+    "artist": "Valente y Cáceres",
+    "isrc": "QMBZ91607604"
+  },
+  {
+    "title": "El Pájaro Amarillo",
+    "artist": "Los 50 De Joselito",
+    "isrc": "COF011000577"
+  },
+  {
+    "title": "El Errante",
+    "artist": "Sonia Y Carlos",
+    "isrc": "COATT1900023"
+  },
+  {
+    "title": "La Casa Nueva",
+    "artist": "LOS PATUMA",
+    "isrc": "QZWDW2364875"
+  },
+  {
+    "title": "Bésame Morenita",
+    "artist": "Kirlianit",
+    "isrc": "COF019805187"
+  },
+  {
+    "title": "Borrasca",
+    "artist": "Nelson Pinedo",
+    "isrc": "MXF366006263"
+  },
+  {
+    "title": "Por los Caminos de Caldas",
+    "artist": "Dueto Candilejas",
+    "isrc": "US7VG1983115"
+  },
+  {
+    "title": "Prenda del Alma",
+    "artist": "Trio Grancolombiano, Nano Molina",
+    "isrc": "COF019400697"
+  },
+  {
+    "title": "Hasta el Final",
+    "artist": "El Tropicombo",
+    "isrc": "COF019900698"
+  },
+  {
+    "title": "El Sol de la Mañana",
+    "artist": "Luis Felipe Gonzalez",
+    "isrc": "COJM11600059"
+  },
+  {
+    "title": "Muchacha de Mis Amores - Bambuco",
+    "artist": "Dueto Tiscayá",
+    "isrc": "USR010711803"
+  },
+  {
+    "title": "Colombia Tierra Querida",
+    "artist": "Lucho Bermúdez",
+    "isrc": "USR010612859"
+  },
+  {
+    "title": "Tus Labios",
+    "artist": "Conjunto America",
+    "isrc": "FRX762235728"
+  },
+  {
+    "title": "Cosas Como Tu",
+    "artist": "Johnny Albino y Su Trío San Juan",
+    "isrc": "QMYW20301055"
+  },
+  {
+    "title": "Amor De Pobre",
+    "artist": "Miltiño",
+    "isrc": "QM6P42370855"
+  },
+  {
+    "title": "La Bocina",
+    "artist": "Jaime Ley, Los Lideres",
+    "isrc": "COF015400001"
+  },
+  {
+    "title": "El Pájaro Loco",
+    "artist": "John Jairo Perez",
+    "isrc": "ART0G1206075"
+  },
+  {
+    "title": "Año y Medio",
+    "artist": "Evelio y Virgelina",
+    "isrc": "QZHZ52017374"
+  },
+  {
+    "title": "Mi Abuelo",
+    "artist": "El Manicomio De Vargasvil",
+    "isrc": "ESA011844645"
+  },
+  {
+    "title": "Isla de Capri",
+    "artist": "Alberto Gomez",
+    "isrc": "DEUE22322245"
+  },
+  {
+    "title": "Boquita Sala",
+    "artist": "Jaime Llano Gonzales",
+    "isrc": "COC017602329"
+  },
+  {
+    "title": "Noches de Bocagrande",
+    "artist": "Trío Martino",
+    "isrc": "USZZR1012474"
+  },
+  {
+    "title": "El Jardinero",
+    "artist": "Leonel Ospina",
+    "isrc": "ESA011966638"
+  },
+  {
+    "title": "Loquito por Ti",
+    "artist": "Armando Hernandez, El Combo Caribe",
+    "isrc": "COF019401058"
+  },
+  {
+    "title": "La Molinera",
+    "artist": "Bovea Y Sus Vallenatos, Alberto Fernandez",
+    "isrc": "COF019400775"
+  },
+  {
+    "title": "Besame Morenita",
+    "artist": "Quinteto Dalmar",
+    "isrc": "USJE61902269"
+  },
+  {
+    "title": "Lejanía",
+    "artist": "Lisandro Meza",
+    "isrc": "QMFMF1575130"
+  },
+  {
+    "title": "Zapatos rotos",
+    "artist": "Enrique Rodriguez, Ernesto Falcon",
+    "isrc": "GBLLT1604815"
+  },
+  {
+    "title": "Cariñito Sin Mi",
+    "artist": "Pastor Lopez",
+    "isrc": "QM7281475450"
+  },
+  {
+    "title": "Paciencia",
+    "artist": "Augustín Magaldi",
+    "isrc": "ART340901681"
+  },
+  {
+    "title": "Aquí Está El Bobo",
+    "artist": "Hernan Dario Hernandez",
+    "isrc": "FRX201707131"
+  },
+  {
+    "title": "Cuando Voy por la Calle",
+    "artist": "Trio America",
+    "isrc": "COFC10910168"
+  },
+  {
+    "title": "Corazón de Piedra",
+    "artist": "Hermanos Bedoya",
+    "isrc": "TCAEC1952942"
+  },
+  {
+    "title": "Consejo de oro",
+    "artist": "Agustin Magaldi",
+    "isrc": "ARG991006399"
+  },
+  {
+    "title": "Antioquenita",
+    "artist": "Miguel Agudelo, Obdulio Y Julian, Pedro León Franco",
+    "isrc": "CA5KR1973719"
+  },
+  {
+    "title": "Cubita La Bella",
+    "artist": "Emir Boscán y los Tomasinos",
+    "isrc": "US2BR9701512"
+  },
+  {
+    "title": "La Piragua - Instrumental",
+    "artist": "Juancho Nieves",
+    "isrc": "COFC12802001"
+  },
+  {
+    "title": "La Fiesta de los Ratones",
+    "artist": "Trio La Rosa",
+    "isrc": "qze921800180"
+  },
+  {
+    "title": "Los Cucaracheros",
+    "artist": "Coro Cantares de Colombia",
+    "isrc": "USR011012822"
+  },
+  {
+    "title": "Pagarás",
+    "artist": "Edgar Leandro",
+    "isrc": "USR011100906"
+  },
+  {
+    "title": "No Me Olvides Nunca",
+    "artist": "Trio Los Embajadores",
+    "isrc": "QMBZ91607571"
+  },
+  {
+    "title": "Cuatro Preguntas - Bambuco",
+    "artist": "Obdulio y Julián",
+    "isrc": "USR010711745"
+  },
+  {
+    "title": "Te Vas",
+    "artist": "Tito Cortez",
+    "isrc": "MX1L62509197"
+  },
+  {
+    "title": "Avecilla (Albazo Version)",
+    "artist": "Los Reales",
+    "isrc": "USA371470155"
+  },
+  {
+    "title": "A Quien Engañas Abuelo",
+    "artist": "Chucho Vallejo",
+    "isrc": "USZZR1012866"
+  },
+  {
+    "title": "Serenata del Campo",
+    "artist": "El Dueto de Antaño",
+    "isrc": "QZWDW2395544"
+  },
+  {
+    "title": "Collar de Lágrimas",
+    "artist": "Los medicos",
+    "isrc": "COF019400639"
+  },
+  {
+    "title": "Tu Sombra",
+    "artist": "Bowen y Villafuerte",
+    "isrc": "COF019501216"
+  },
+  {
+    "title": "Camino de Sepulcro",
+    "artist": "Ibarra y Medina",
+    "isrc": "FR10S1980912"
+  },
+  {
+    "title": "La Nieve De Los Años",
+    "artist": "Los Ayer's",
+    "isrc": "COS019900239"
+  },
+  {
+    "title": "La Pena de No Verte",
+    "artist": "Lucho Bowen",
+    "isrc": "COATT1900289"
+  },
+  {
+    "title": "Te Quiero y Qué",
+    "artist": "Gabriel Raymon",
+    "isrc": "FR96X1797673"
+  },
+  {
+    "title": "Rencor",
+    "artist": "Los Cuyitos",
+    "isrc": "COF019400672"
+  },
+  {
+    "title": "Presentimiento",
+    "artist": "Lucho Ramírez",
+    "isrc": "QM6N21453873"
+  },
+  {
+    "title": "Tan Mia y Tan Ajena",
+    "artist": "Ramirez Y Arias",
+    "isrc": "QM6N21470178"
+  },
+  {
+    "title": "Si Pudiera",
+    "artist": "Jose Miguel Class",
+    "isrc": "GBKPL2099594"
+  },
+  {
+    "title": "Suplicio",
+    "artist": "Nano Molina",
+    "isrc": "QZWDW2396713"
+  },
+  {
+    "title": "Siempre Te He de Amar",
+    "artist": "Dueto Riobamba",
+    "isrc": "QZWDW2394596"
+  },
+  {
+    "title": "Chacha Linda",
+    "artist": "Los Romanceros",
+    "isrc": "US7VG2073347"
+  },
+  {
+    "title": "Aguardiente De Caña",
+    "artist": "Espinosa y Bedoya",
+    "isrc": "COC015601651"
+  },
+  {
+    "title": "La Lancha",
+    "artist": "Dueto De Antaño",
+    "isrc": "QM7281506943"
+  },
+  {
+    "title": "De Que Presumes",
+    "artist": "Ricardo Fuentes",
+    "isrc": "COF019403227"
+  },
+  {
+    "title": "Quiero Ser en Tu Vida",
+    "artist": "Gomez Y Villegas",
+    "isrc": "QMFME1561365"
+  },
+  {
+    "title": "Gaviota Traidora",
+    "artist": "Las Gaviotas",
+    "isrc": "QM6P41556783"
+  },
+  {
+    "title": "Donde Andara",
+    "artist": "Los Cuyos",
+    "isrc": "COFC10905801"
+  },
+  {
+    "title": "Madrigal (Estando Contigo)",
+    "artist": "Victor Hugo Ayala",
+    "isrc": "COF018900688"
+  },
+  {
+    "title": "Alma de Mujer",
+    "artist": "El Caballero Gaucho",
+    "isrc": "QZ5AB1731572"
+  },
+  {
+    "title": "El Aguardientero",
+    "artist": "Los Relicarios",
+    "isrc": "ESA011845482"
+  },
+  {
+    "title": "Me Llevarás en Tí",
+    "artist": "Silva y Villalba",
+    "isrc": "USJE61712088"
+  },
+  {
+    "title": "La Medallita de Oro",
+    "artist": "Gabriel Raymond",
+    "isrc": "QZWDW2392714"
+  },
+  {
+    "title": "Desde Que Te Marchaste",
+    "artist": "Oscar Agudelo",
+    "isrc": "COC016400651"
+  },
+  {
+    "title": "Muchas Gracias Corazón",
+    "artist": "Carlos Arturo",
+    "isrc": "COF019400665"
+  },
+  {
+    "title": "Noches Eternas",
+    "artist": "Las Estrellitas",
+    "isrc": "ESA012000232"
+  },
+  {
+    "title": "Jornalero",
+    "artist": "Pepe Aguirre",
+    "isrc": "CA5KR1984206"
+  },
+  {
+    "title": "La Ruana",
+    "artist": "Rios y Macias",
+    "isrc": "COC017202908"
+  },
+  {
+    "title": "Ofensa",
+    "artist": "Los Pamperos",
+    "isrc": "QZ5AB1733427"
+  },
+  {
+    "title": "El Ultimo Beso de Mi Madre",
+    "artist": "Los Yumbos",
+    "isrc": "COATT1900089"
+  },
+  {
+    "title": "Sácame Este Corazón",
+    "artist": "Hermanas Calle",
+    "isrc": "ESA011844882"
+  },
+  {
+    "title": "Alma Tumaqueña",
+    "artist": "Tito Cortes",
+    "isrc": "ESA012001450"
+  },
+  {
+    "title": "Corazón Vacío",
+    "artist": "El Relicario",
+    "isrc": "ESA011844614"
+  },
+  {
+    "title": "No Te Pido Más",
+    "artist": "Helenita Vargas",
+    "isrc": "COF019501281"
+  },
+  {
+    "title": "Ojala No Crecieras",
+    "artist": "Hermanos Martínez",
+    "isrc": "QZHZ41932070"
+  },
+  {
+    "title": "Tu Maldito Amor",
+    "artist": "Romulo Caicedo",
+    "isrc": "FRX871596960"
+  },
+  {
+    "title": "El Ultimo Suspiro",
+    "artist": "Charlie Figueroa",
+    "isrc": "USMRE0811911"
+  },
+  {
+    "title": "Mi país",
+    "artist": "Dueto Nocturnal",
+    "isrc": "GBWUL2064832"
+  },
+  {
+    "title": "El Lirico",
+    "artist": "Peronet e Izurieta",
+    "isrc": "QM6N22037334"
+  },
+  {
+    "title": "Soy Colombiano",
+    "artist": "Garzon y Collazos",
+    "isrc": "QZHZ41968996"
+  },
+  {
+    "title": "Como un Ángel",
+    "artist": "Las Trigueñitas",
+    "isrc": "COF019400686"
+  },
+  {
+    "title": "Nadie me espera",
+    "artist": "Margarita Cueto, Juan Arvizu, C. Villafañe, F. Paredes",
+    "isrc": "CA5KR1808979"
+  },
+  {
+    "title": "Honda Pena",
+    "artist": "Hernando y Yesid",
+    "isrc": "COC016606259"
+  },
+  {
+    "title": "Se Enriqueció el Arruinao",
+    "artist": "Gildardo Montoya",
+    "isrc": "ESA011843951"
+  },
+  {
+    "title": "Ojitos Verdes",
+    "artist": "Las Hermanas Calle",
+    "isrc": "USA561385877"
+  },
+  {
+    "title": "Espumas",
+    "artist": "Los tolimenses",
+    "isrc": "COC016204028"
+  },
+  {
+    "title": "Tú Lo Mejor de Todo",
+    "artist": "Nueva Gente",
+    "isrc": "QZTPX2321495"
+  },
+  {
+    "title": "Sombras",
+    "artist": "Carlos Julio Ramírez",
+    "isrc": "COF019401997"
+  },
+  {
+    "title": "El Enterrador",
+    "artist": "Luciano y Concholon",
+    "isrc": "QM6N21464326"
+  },
+  {
+    "title": "No Creiste En Mi",
+    "artist": "Dueto Buritica",
+    "isrc": "GBKPL2097233"
+  },
+  {
+    "title": "Cansado De Amarte",
+    "artist": "Dueto Revelación",
+    "isrc": "USDXS2201961"
+  },
+  {
+    "title": "Pare Aqui Chofer - Remasted",
+    "artist": "Oscar Larroca",
+    "isrc": "QMBZ91713743"
+  },
+  {
+    "title": "Desagradecida",
+    "artist": "Lalo Martel, Alfredo De Angelis",
+    "isrc": "DEUE22322079"
+  },
+  {
+    "title": "El Fosforito",
+    "artist": "Agustín Bedoya",
+    "isrc": "ESA011941527"
+  },
+  {
+    "title": "Aguardiente Pa'l Chofer",
+    "artist": "Joaquin Bedoya",
+    "isrc": "ESA011847071"
+  },
+  {
+    "title": "Voy Gritando por la Calle",
+    "artist": "Alberto Granados",
+    "isrc": "QZHZ41992947"
+  },
+  {
+    "title": "Obsesión",
+    "artist": "Juan Carlos Godoy",
+    "isrc": "ARK851200014"
+  },
+  {
+    "title": "El Perro de Pabayo",
+    "artist": "Guillermo Buitrago",
+    "isrc": "COF019401312"
+  },
+  {
+    "title": "Mama Vieja",
+    "artist": "Los Visconti",
+    "isrc": "COF019501380"
+  },
+  {
+    "title": "Más Solo Que Nunca",
+    "artist": "Raul Garces, Los Caballeros Del Tango",
+    "isrc": "QZHZ51940213"
+  },
+  {
+    "title": "Lejos de Ti",
+    "artist": "Ligia Mayo",
+    "isrc": "COF019800218"
+  },
+  {
+    "title": "Serán Tus Manos",
+    "artist": "TONY DEL MAR",
+    "isrc": "QMFME1561359"
+  },
+  {
+    "title": "El Enredo",
+    "artist": "Joaquin Bedoya Y Su Conjunto",
+    "isrc": "COF019400863"
+  },
+  {
+    "title": "La Cuchilla",
+    "artist": "Las Hermanitas Calle, Francy",
+    "isrc": "COC011631448"
+  },
+  {
+    "title": "Un Amigo en la Barra",
+    "artist": "Nelson Gomez",
+    "isrc": "QZHZ41968262"
+  },
+  {
+    "title": "El Regreso",
+    "artist": "Arboleda y Valencia",
+    "isrc": "USR011012798"
+  },
+  {
+    "title": "Sirvan Despacio",
+    "artist": "El Gato Negro",
+    "isrc": "COATT1900304"
+  },
+  {
+    "title": "No Te Engañes Corazón",
+    "artist": "Agustín Irusta, Rodolfo Sciammarella",
+    "isrc": "CA5KR1557577"
+  },
+  {
+    "title": "Patasdilo",
+    "artist": "Trío Morales Pino",
+    "isrc": "QZHZ41970213"
+  },
+  {
+    "title": "El Barcino",
+    "artist": "Jorge Villamil",
+    "isrc": "QMBZ91656659"
+  },
+  {
+    "title": "Esperanza",
+    "artist": "Jorge Ariza",
+    "isrc": "QZHZ41961706"
+  },
+  {
+    "title": "Se Me Perdió La Cadenita - Alternate Mix",
+    "artist": "Jaime Llano González",
+    "isrc": "USR010614197"
+  },
+  {
+    "title": "Se Va El Tren",
+    "artist": "Armando Moreno",
+    "isrc": "COF019700949"
+  },
+  {
+    "title": "Un Ratón Con Pantalones",
+    "artist": "Los Alegres Cordillera",
+    "isrc": "ESA011842580"
+  },
+  {
+    "title": "Mentirosa",
+    "artist": "Nelson Henriquez, Pastor Lopez",
+    "isrc": "USR010615688"
+  },
+  {
+    "title": "Nuestro Egoísmo",
+    "artist": "Las Aves Cantoras",
+    "isrc": "ESA011541403"
+  },
+  {
+    "title": "El Papelito Blanco",
+    "artist": "Los Hispanos, Rodolfo Aicardi",
+    "isrc": "COF019500772"
+  },
+  {
+    "title": "Invernal",
+    "artist": "Posada y calle, Estudiantina Iris",
+    "isrc": "COC017605795"
+  },
+  {
+    "title": "Yo Soy Boyacense",
+    "artist": "Zabala y Barrera",
+    "isrc": "ES71G2054124"
+  },
+  {
+    "title": "El Pereirano - Instrumental",
+    "artist": "Oriol Rangel",
+    "isrc": "QMFME1535341"
+  },
+  {
+    "title": "Los Gotereros",
+    "artist": "Gustavo Quintero",
+    "isrc": "COF018900629"
+  },
+  {
+    "title": "Me Río de Ti",
+    "artist": "Los Legendarios",
+    "isrc": "US6R21487028"
+  },
+  {
+    "title": "Ayer me echaron del pueblo",
+    "artist": "José A. Morales, Dueto Nocturnal",
+    "isrc": "USR010616630"
+  },
+  {
+    "title": "Tócame el Aguacate",
+    "artist": "Jose Muñoz",
+    "isrc": "ESA011983554"
+  },
+  {
+    "title": "Amor Ajeno",
+    "artist": "Franktony",
+    "isrc": "QM4TX1751117"
+  },
+  {
+    "title": "Cuando Se Van las Aves",
+    "artist": "Las Indianas",
+    "isrc": "ESA012000229"
+  },
+  {
+    "title": "Asi empezaron papa y mama",
+    "artist": "Los Graduados, Gustavo Quintero",
+    "isrc": "COC016908169"
+  },
+  {
+    "title": "Mi Silencio",
+    "artist": "Los Villalpos",
+    "isrc": "FR96X1813565"
+  },
+  {
+    "title": "Sobreviviré",
+    "artist": "Darío Gómez",
+    "isrc": "US6R21490313"
+  },
+  {
+    "title": "A Unos Ojos",
+    "artist": "Los Embajadores",
+    "isrc": "QZHZ52094029"
+  },
+  {
+    "title": "Triunfamos",
+    "artist": "Trio Martino",
+    "isrc": "QZHZ41969018"
+  },
+  {
+    "title": "Oscuras Taberna",
+    "artist": "Los Jibaritos",
+    "isrc": "COATT1900028"
+  },
+  {
+    "title": "Deseo",
+    "artist": "Argemiro Jaramillo",
+    "isrc": "QZN882251505"
+  },
+  {
+    "title": "Pirulino",
+    "artist": "Los Golden Boys, Benny Marquez",
+    "isrc": "COF012700040"
+  },
+  {
+    "title": "El Precio de Tu Error",
+    "artist": "Luis Alberto Posada",
+    "isrc": "QM4TW1570781"
+  },
+  {
+    "title": "Déjame Solo",
+    "artist": "Jorge Luis Hortúa",
+    "isrc": "QM6P41506213"
+  },
+  {
+    "title": "En Silencio Te Amaré",
+    "artist": "El Combo De Las Estrellas",
+    "isrc": "COC019421999"
+  },
+  {
+    "title": "El Ausente",
+    "artist": "Pastor Lopez Y Su Combo",
+    "isrc": "USR011011997"
+  },
+  {
+    "title": "El Camino De La Vida",
+    "artist": "La Gran Rondalla Colombiana",
+    "isrc": "USR010910882"
+  },
+  {
+    "title": "Se Va el Caimán",
+    "artist": "Cuarteto Imperial",
+    "isrc": "ESA011911207"
+  },
+  {
+    "title": "La Chica Gomela (Niña Fresa)",
+    "artist": "Los Tupamaros, David, Rochy",
+    "isrc": "COF019500149"
+  },
+  {
+    "title": "La Otra",
+    "artist": "Dueto Ensueños",
+    "isrc": "USZZR1015378"
+  },
+  {
+    "title": "Quiero Que Sepas",
+    "artist": "Lupe Y Polo",
+    "isrc": "MXF367421288"
+  },
+  {
+    "title": "El Amor de los Dos",
+    "artist": "Dueto Revelacion",
+    "isrc": "QZ5AB2251719"
+  },
+  {
+    "title": "Tomo y Obligo",
+    "artist": "Roberto Mancini",
+    "isrc": "ARA821401796"
+  },
+  {
+    "title": "Hondo Padecer",
+    "artist": "Hermanas Villareal",
+    "isrc": "ESA012001459"
+  },
+  {
+    "title": "Son Cosas Mías",
+    "artist": "Alfredo de Angelis Y Su Orquesta Tipica, Roberto Mancini",
+    "isrc": "COF019501131"
+  },
+  {
+    "title": "La Piragua",
+    "artist": "Gabriel Romero",
+    "isrc": "COF019400488"
+  },
+  {
+    "title": "Seguiré Bebiendo",
+    "artist": "Conjuntico America",
+    "isrc": "COF019400593"
+  },
+  {
+    "title": "Con Verraquera",
+    "artist": "Octavio Mesa",
+    "isrc": "QZ5AB1765811"
+  },
+  {
+    "title": "Tabaco y Ron",
+    "artist": "Rodolfo Aicardi, La Tipica Ra7",
+    "isrc": "COF010604099"
+  },
+  {
+    "title": "Acuerdate De Mi",
+    "artist": "Ana Elena Sandoval",
+    "isrc": "USLZJ1834458"
+  },
+  {
+    "title": "Letra Chiquita",
+    "artist": "Gabriel Arriaga",
+    "isrc": "QZMZ92111745"
+  },
+  {
+    "title": "Festival en Guarare",
+    "artist": "Hernán Hernández",
+    "isrc": "USX9P2370079"
+  },
+  {
+    "title": "Mi Carta",
+    "artist": "Hugo Romani",
+    "isrc": "QM4TX1796235"
+  },
+  {
+    "title": "Como Si Fuera un Nino",
+    "artist": "Obdulio Y Julian",
+    "isrc": "QMDA71868099"
+  },
+  {
+    "title": "Yo Conozco a Claudia",
+    "artist": "Noel Petro",
+    "isrc": "QZHZ41966831"
+  },
+  {
+    "title": "Un Dilema",
+    "artist": "Los Caballeros Del Tango, Raul Garces",
+    "isrc": "QM6P41541316"
+  },
+  {
+    "title": "Yo Tambien Tuve 20 Anos",
+    "artist": "Dueto Remembranzas",
+    "isrc": "QZ5AB1731903"
+  },
+  {
+    "title": "María Teresa",
+    "artist": "José A Bedoya",
+    "isrc": "ESA012002680"
+  },
+  {
+    "title": "El Pescador de Barú",
+    "artist": "Los Warahuaco, Hernán Rojas",
+    "isrc": "COF019401061"
+  },
+  {
+    "title": "La Tusa",
+    "artist": "Los Coyotes",
+    "isrc": "COF019400585"
+  },
+  {
+    "title": "Raspacanilla el Chofer",
+    "artist": "Los Alegres Parranderos",
+    "isrc": "ESA012251145"
+  },
+  {
+    "title": "No Digas la Palabra Adiós",
+    "artist": "Los medicos",
+    "isrc": "COF019601340"
+  },
+  {
+    "title": "Alma Lojana",
+    "artist": "Bowen y Villafuerte",
+    "isrc": "COF019501225"
+  },
+  {
+    "title": "Consuelo Amargo",
+    "artist": "Ibarra y Medina",
+    "isrc": "QZGLM2115460"
+  },
+  {
+    "title": "Yo Tambien Tuve 20 Años",
+    "artist": "Los Ayer's",
+    "isrc": "COS019900224"
+  },
+  {
+    "title": "Mi Dulce Amor",
+    "artist": "Lucho Bowen",
+    "isrc": "COATT1900287"
+  },
+  {
+    "title": "Sufrimiento",
+    "artist": "Gabriel Raymon",
+    "isrc": "FR96X1797679"
+  },
+  {
+    "title": "Ocultame Esos Ojos",
+    "artist": "Los Cuyitos",
+    "isrc": "COF015900133"
+  },
+  {
+    "title": "Aquel",
+    "artist": "Lucho Ramírez",
+    "isrc": "QMFME1561368"
+  },
+  {
+    "title": "La Nieve de los Años",
+    "artist": "Ramirez Y Arias",
+    "isrc": "QZGLM2001614"
+  },
+  {
+    "title": "Si No Puedo Ser Tu Amor",
+    "artist": "Jose Miguel Class",
+    "isrc": "ESA011844417"
+  },
+  {
+    "title": "Solitario",
+    "artist": "Nano Molina",
+    "isrc": "QZWDW2396720"
+  },
+  {
+    "title": "Por Tu Culpa",
+    "artist": "Dueto Riobamba",
+    "isrc": "QZWDW2394604"
+  },
+  {
+    "title": "Bendicion Celestial",
+    "artist": "Los Romanceros",
+    "isrc": "US7VG2073341"
+  },
+  {
+    "title": "Raza",
+    "artist": "Espinosa y Bedoya",
+    "isrc": "COF018804142"
+  },
+  {
+    "title": "El Zorzal",
+    "artist": "Dueto De Antaño",
+    "isrc": "QMDA61820210"
+  },
+  {
+    "title": "Muchas Gracias Corazón",
+    "artist": "Ricardo Fuentes",
+    "isrc": "COF019501954"
+  },
+  {
+    "title": "El Marco de Tu Ventana - Bambuco",
+    "artist": "Gomez Y Villegas",
+    "isrc": "USR010711801"
+  },
+  {
+    "title": "Cariñito de Mi Vida",
+    "artist": "Las Gaviotas",
+    "isrc": "QZGLS2033764"
+  },
+  {
+    "title": "Porque Te Alejas",
+    "artist": "Los Cuyos",
+    "isrc": "COFC10905829"
+  },
+  {
+    "title": "Si Te Vuelvo a Besar",
+    "artist": "Victor Hugo Ayala",
+    "isrc": "USR010910935"
+  },
+  {
+    "title": "Viejo Farol",
+    "artist": "El Caballero Gaucho",
+    "isrc": "COF019400670"
+  },
+  {
+    "title": "Cajón de madera",
+    "artist": "Los Relicarios",
+    "isrc": "ESA012179252"
+  },
+  {
+    "title": "Los Guadales",
+    "artist": "Silva y Villalba",
+    "isrc": "USR010615816"
+  },
+  {
+    "title": "Alma Negra",
+    "artist": "Gabriel Raymond",
+    "isrc": "QZWDW2392726"
+  },
+  {
+    "title": "China Hereje",
+    "artist": "Oscar Agudelo",
+    "isrc": "COC016400583"
+  },
+  {
+    "title": "Corazón de Acero",
+    "artist": "Carlos Arturo",
+    "isrc": "COF010501530"
+  },
+  {
+    "title": "Lejos de tu Amor",
+    "artist": "Las Estrellitas",
+    "isrc": "QZNW72348510"
+  },
+  {
+    "title": "Pensando en ti",
+    "artist": "Pepe Aguirre",
+    "isrc": "CA5KR1984201"
+  },
+  {
+    "title": "Copito De Yerbabuena",
+    "artist": "Rios y Macias",
+    "isrc": "COC015902913"
+  },
+  {
+    "title": "Cenizas",
+    "artist": "Los Yumbos",
+    "isrc": "QM6N21453861"
+  },
+  {
+    "title": "El Cristo de la Pared",
+    "artist": "Los Pamperos",
+    "isrc": "COF019400599"
+  },
+  {
+    "title": "Quemé Tus Cartas",
+    "artist": "Hermanas Calle",
+    "isrc": "ESA011844886"
+  },
+  {
+    "title": "Derrumbes",
+    "artist": "Tito Cortes",
+    "isrc": "COF019501198"
+  },
+  {
+    "title": "Mundo Traidor",
+    "artist": "El Relicario",
+    "isrc": "ESA011844621"
+  },
+  {
+    "title": "Maria de los Guardias",
+    "artist": "Helenita Vargas",
+    "isrc": "COC017603148"
+  },
+  {
+    "title": "Los Guaduales",
+    "artist": "Hermanos Martínez",
+    "isrc": "QZHZ51940385"
+  },
+  {
+    "title": "Por Última Vez",
+    "artist": "Romulo Caicedo",
+    "isrc": "FRX871596965"
+  },
+  {
+    "title": "No Pises Mi Camino",
+    "artist": "Charlie Figueroa",
+    "isrc": "USJE61702580"
+  },
+  {
+    "title": "Compañero - Bambuco",
+    "artist": "Dueto Nocturnal",
+    "isrc": "USR010711747"
+  },
+  {
+    "title": "Cuando Vuelvas",
+    "artist": "Peronet e Izurieta",
+    "isrc": "QMBZ91607617"
+  },
+  {
+    "title": "Yo Tambien Tuve 20 Años",
+    "artist": "Garzon y Collazos",
+    "isrc": "QZHZ41968981"
+  },
+  {
+    "title": "Gaviota Traidora",
+    "artist": "Las Trigueñitas",
+    "isrc": "QMBZ91550523"
+  },
+  {
+    "title": "Más vale tarde que nunca",
+    "artist": "Margarita Cueto, Juan Arvizu, Duque, F. Paredes",
+    "isrc": "CA5KR1808982"
+  },
+  {
+    "title": "Opio Y Ajenjo",
+    "artist": "Hernando y Yesid",
+    "isrc": "COC016606087"
+  },
+  {
+    "title": "Dele por Ahí",
+    "artist": "Gildardo Montoya",
+    "isrc": "ESA011847069"
+  },
+  {
+    "title": "Gaviota Traidora",
+    "artist": "Las Hermanas Calle",
+    "isrc": "COF010007345"
+  },
+  {
+    "title": "Sabor a mejorana",
+    "artist": "Los tolimenses",
+    "isrc": "COC016505177"
+  },
+  {
+    "title": "Pase Lo Que Pase",
+    "artist": "Nueva Gente",
+    "isrc": "QZTPX2321393"
+  },
+  {
+    "title": "Mis Flores Negras",
+    "artist": "Carlos Julio Ramírez",
+    "isrc": "COF019402005"
+  },
+  {
+    "title": "La tarde era triste",
+    "artist": "Luciano y Concholon",
+    "isrc": "COC016505378"
+  },
+  {
+    "title": "Olvídate De Mi",
+    "artist": "Dueto Buritica",
+    "isrc": "QZ22B3017908"
+  },
+  {
+    "title": "Mi Vida Es Prestada",
+    "artist": "Dueto Revelación",
+    "isrc": "USDXS2201947"
+  },
+  {
+    "title": "Triste Destino - Remasted",
+    "artist": "Oscar Larroca",
+    "isrc": "QMBZ91713723"
+  },
+  {
+    "title": "Yira Yira",
+    "artist": "Lalo Martel, Alfredo De Angelis",
+    "isrc": "DEUE22322082"
+  },
+  {
+    "title": "Las Piponchas",
+    "artist": "Agustín Bedoya",
+    "isrc": "COF019100276"
+  },
+  {
+    "title": "Las Veteranas",
+    "artist": "Joaquin Bedoya",
+    "isrc": "QZES81970520"
+  },
+  {
+    "title": "Historia de Amor",
+    "artist": "Alberto Granados",
+    "isrc": "USJE61702782"
+  },
+  {
+    "title": "Obsesion",
+    "artist": "Juan Carlos Godoy",
+    "isrc": "USZZR1014315"
+  },
+  {
+    "title": "El Hijo de la Luna",
+    "artist": "Guillermo Buitrago",
+    "isrc": "COF019401308"
+  },
+  {
+    "title": "Andate",
+    "artist": "Los Visconti",
+    "isrc": "COF019501385"
+  },
+  {
+    "title": "Un Dilema",
+    "artist": "Raul Garces, Los Caballeros Del Tango",
+    "isrc": "QZHZ51940212"
+  },
+  {
+    "title": "Me Olvidaste Muy Pronto",
+    "artist": "Ligia Mayo",
+    "isrc": "COF019800223"
+  }
+]

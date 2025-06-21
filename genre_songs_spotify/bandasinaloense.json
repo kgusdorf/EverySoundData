@@ -1,0 +1,907 @@
+[
+  {
+    "title": "El Coyote",
+    "artist": "Banda Sinaloense Hnos. Sanchez",
+    "isrc": "USJ3V1054208"
+  },
+  {
+    "title": "Arriba Pichataro",
+    "artist": "Banda Sinaloense Acero de Pablo Molina Jr.",
+    "isrc": "FR2X41691167"
+  },
+  {
+    "title": "Nunca En Domingo",
+    "artist": "BANDA LOS TAMAZULAS DE GUASAVE",
+    "isrc": "US3DF2409642"
+  },
+  {
+    "title": "Qué Noche La De Anoche",
+    "artist": "Banda Sinaloense Los Nuevos Santa Rosa de Ernesto Soto",
+    "isrc": "USUTV2301673"
+  },
+  {
+    "title": "La India Bonita",
+    "artist": "Banda Hnos. Rubio de Mocorito",
+    "isrc": "QM7281740406"
+  },
+  {
+    "title": "Llegó Rengueando un Viejito",
+    "artist": "Banda Sinaloense Aramburos",
+    "isrc": "USV291477561"
+  },
+  {
+    "title": "La Cuichi",
+    "artist": "Banda Hermanos Rubio",
+    "isrc": "QM6DC1523020"
+  },
+  {
+    "title": "Las Guilotas",
+    "artist": "Banda Cahita",
+    "isrc": "US3DF1435066"
+  },
+  {
+    "title": "Para Morir Iguales",
+    "artist": "Nico Flores Y Su Banda Puro Mazatlán",
+    "isrc": "USBL10300059"
+  },
+  {
+    "title": "Te Amo, Te Amo",
+    "artist": "Banda Aires De Sinaloa",
+    "isrc": "US3DF1121163"
+  },
+  {
+    "title": "Lástima de Amor",
+    "artist": "Banda Sinaloense La Patrona",
+    "isrc": "QMFMG1488674"
+  },
+  {
+    "title": "Siempre Te Voy a Recordar",
+    "artist": "Banda Sinaloense Vuelta de Río",
+    "isrc": "MXF369934783"
+  },
+  {
+    "title": "La Mancornadora",
+    "artist": "Banda Hermanos Urias",
+    "isrc": "QM4TX1864402"
+  },
+  {
+    "title": "Te Vas A Volar",
+    "artist": "El Tacuache Y Su Banda Cerro Azul",
+    "isrc": "US3DF1102793"
+  },
+  {
+    "title": "Dios Nunca Muere",
+    "artist": "Banda Sinaloense Joya",
+    "isrc": "MXF399902553"
+  },
+  {
+    "title": "Que Bello Error",
+    "artist": "Banda Libertad",
+    "isrc": "QM6MZ1954201"
+  },
+  {
+    "title": "La Venganza De Maria",
+    "artist": "La Grande Sinaloa Banda El Limon",
+    "isrc": "US3DF1320073"
+  },
+  {
+    "title": "El Toro Mambo",
+    "artist": "Banda Petatlan",
+    "isrc": "QM6MZ2083807"
+  },
+  {
+    "title": "Besos y Cerezas",
+    "artist": "Hermanos Rubio de Mocorito",
+    "isrc": "QM7281759034"
+  },
+  {
+    "title": "La Barquita",
+    "artist": "Banda Melon Melon",
+    "isrc": "QZFZ72036961"
+  },
+  {
+    "title": "Domingo Corrales",
+    "artist": "Los Nuevos Santa Rosa",
+    "isrc": "US3DF1109848"
+  },
+  {
+    "title": "El Cuaco del Pelado",
+    "artist": "Los Nuevos Coyonquis, La Decima Banda",
+    "isrc": "US3DF2440557"
+  },
+  {
+    "title": "Las 5 Borregas (En Vivo)",
+    "artist": "Banda los Populares del Llano",
+    "isrc": "uscgj1926572"
+  },
+  {
+    "title": "Eres Lo Que Amo",
+    "artist": "Banda Arriba Mi Sinaloa",
+    "isrc": "QZHZ41987367"
+  },
+  {
+    "title": "La Cabrona",
+    "artist": "Banda Perikos",
+    "isrc": "US39K0900557"
+  },
+  {
+    "title": "Como Estás Tú",
+    "artist": "Banda Sinaloense La Conquistadora",
+    "isrc": "MXD481808903"
+  },
+  {
+    "title": "El Venado",
+    "artist": "Banda Tradicion Sinaloense",
+    "isrc": "US9CY1900256"
+  },
+  {
+    "title": "La Marcha de Zacatecas",
+    "artist": "Ezequiel Paez",
+    "isrc": "USV291477934"
+  },
+  {
+    "title": "Noches Eternas",
+    "artist": "Nico Flores",
+    "isrc": "USBL10200349"
+  },
+  {
+    "title": "Popurri Tucanes: El Tucanazo / Espejeando / La Chona - En Vivo",
+    "artist": "Banda La Misma Escuela",
+    "isrc": "GBMA21950241"
+  },
+  {
+    "title": "Feliz Feliz",
+    "artist": "Banda la Adicional de Mazatlan Sin.",
+    "isrc": "QZFZ31929596"
+  },
+  {
+    "title": "Al Mismo Nivel",
+    "artist": "Banda Los Coyonquis",
+    "isrc": "USZBG1119205"
+  },
+  {
+    "title": "El Bayo Cara Blanca",
+    "artist": "Banda Sinaloense Alcoysin",
+    "isrc": "QM6P41701011"
+  },
+  {
+    "title": "El Coyotito",
+    "artist": "Banda Titanes Sinaloenses",
+    "isrc": "QM3DF2117068"
+  },
+  {
+    "title": "Esta Noche Voy A Verla",
+    "artist": "La Ola Gigante De Mazatlan",
+    "isrc": "MXF060100777"
+  },
+  {
+    "title": "El Comanche",
+    "artist": "Banda Los Tamazulas De Culiacan",
+    "isrc": "QM4TX1863787"
+  },
+  {
+    "title": "Amor De Un Dia",
+    "artist": "Banda Sinaloense Hermanos Acosta",
+    "isrc": "US3DF1434981"
+  },
+  {
+    "title": "El Pajarillo",
+    "artist": "Banda Malecón",
+    "isrc": "MXD782300155"
+  },
+  {
+    "title": "Vuelve La Loquita",
+    "artist": "Banda Los Portenos De Don Miguel Velasquez",
+    "isrc": "US3DF1105397"
+  },
+  {
+    "title": "Pequeña de Ojos Brujos",
+    "artist": "Banda Perla Sinaloense",
+    "isrc": "MXF551032438"
+  },
+  {
+    "title": "Pequeña de Ojos Brujos - En Vivo",
+    "artist": "Banda Tromba Sinaloense",
+    "isrc": "MX4971402919"
+  },
+  {
+    "title": "Entre Suspiro Y Suspiro",
+    "artist": "Banda Sinaloense Carnaval",
+    "isrc": "USSD10104907"
+  },
+  {
+    "title": "Flor De Dalia",
+    "artist": "La Primerisima Banda Sinaloense",
+    "isrc": "US9CY1002496"
+  },
+  {
+    "title": "Spain",
+    "artist": "Mazatlán Brass Band",
+    "isrc": "QM4TW2113148"
+  },
+  {
+    "title": "Juro Por Dios",
+    "artist": "Banda Tierra Blanca",
+    "isrc": "USA560871609"
+  },
+  {
+    "title": "El Palomito",
+    "artist": "Tambora Sinaloense",
+    "isrc": "US3DF1536853"
+  },
+  {
+    "title": "El Son de los Aguacates",
+    "artist": "Banda Sinaloense MM",
+    "isrc": "QM7281738181"
+  },
+  {
+    "title": "Te Soñé",
+    "artist": "Banda Sinaloense MV de Mazatlán",
+    "isrc": "US7VG2059168"
+  },
+  {
+    "title": "El Sinaloense (Son)",
+    "artist": "Banda Los Guamuchileños De Culiacan",
+    "isrc": "USAP30174801"
+  },
+  {
+    "title": "Ni Parientes Somos",
+    "artist": "Banda Nc de Manuel Diarte, Julio Chaidez",
+    "isrc": "US3DF2278453"
+  },
+  {
+    "title": "20 Mujeres de Negro",
+    "artist": "Banda Sinaloense Pacifico",
+    "isrc": "FR59R1655416"
+  },
+  {
+    "title": "El Sauce y la Palma",
+    "artist": "Banda Sinaloense de Acero",
+    "isrc": "FR10S1705159"
+  },
+  {
+    "title": "Sigue Fumando",
+    "artist": "Los Populares Del Llano, Los Buitres De Culiacan Sinaloa",
+    "isrc": "US3DF2459350"
+  },
+  {
+    "title": "Leña de Pirul",
+    "artist": "Banda El Limon",
+    "isrc": "USV291440797"
+  },
+  {
+    "title": "La Repetidora",
+    "artist": "Banda Sinaloense Aramburos De El Limon",
+    "isrc": "US3DF1435868"
+  },
+  {
+    "title": "Tecateando",
+    "artist": "Banda Sinaloense El Recodo",
+    "isrc": "QM7281552906"
+  },
+  {
+    "title": "Pavido Navido",
+    "artist": "Banda Estrellas De Sinaloa De German Lizarraga",
+    "isrc": "USA561431838"
+  },
+  {
+    "title": "Que Se Entere De Una Vez",
+    "artist": "Banda La Distinguida de Mazatlan Sinaloa",
+    "isrc": "QZDFP2049569"
+  },
+  {
+    "title": "Mi Golondrina",
+    "artist": "Banda Perla Sinaloense De Pino Chávez",
+    "isrc": "MXF551032149"
+  },
+  {
+    "title": "Cuando Nadie Te Quiera",
+    "artist": "Banda Los Recoditos",
+    "isrc": "MXF369332544"
+  },
+  {
+    "title": "Popurri de Ramon Ayala (En Vivo)",
+    "artist": "Banda la Conquista de Culiacan",
+    "isrc": "ushm81831918"
+  },
+  {
+    "title": "El Olotito",
+    "artist": "Banda Lima Verde",
+    "isrc": "QMDA62101035"
+  },
+  {
+    "title": "La Cuichi",
+    "artist": "Banda Sinaloense El Recodo De Cruz Lizarraga",
+    "isrc": "USUG10912407"
+  },
+  {
+    "title": "Una Aventura",
+    "artist": "Banda La Costeña",
+    "isrc": "MXF369332612"
+  },
+  {
+    "title": "Lo Mejor Fue Perderte",
+    "artist": "Banda La Indicada La Mejor De Mazatlán Sinaloa, Julio Preciado",
+    "isrc": "QZDQH2269063"
+  },
+  {
+    "title": "Arriba Pichataro (En Vivo)",
+    "artist": "La Misma Banda De Mocorito",
+    "isrc": "USDHM1903708"
+  },
+  {
+    "title": "Fiesta / Sopa de Caracol - Cover",
+    "artist": "Sinaloa Band",
+    "isrc": "QZNJW2170024"
+  },
+  {
+    "title": "Sangoloteadito",
+    "artist": "Banda la Sinaloense de Alex Ojeda",
+    "isrc": "QMBZ92007872"
+  },
+  {
+    "title": "Cielo De Sonora",
+    "artist": "Banda La Costena De Ramon Lopez Alvarado",
+    "isrc": "MXF550512098"
+  },
+  {
+    "title": "Una Raya Más al Tigre",
+    "artist": "Banda Elemental de Mazatlán Sinaloa, Julión Álvarez y su Norteño Banda",
+    "isrc": "QM6MZ2271701"
+  },
+  {
+    "title": "El Sinaloense",
+    "artist": "Banda De El Recodo De Cruz Lizarraga",
+    "isrc": "US4XG9402719"
+  },
+  {
+    "title": "La Mejor De Todas",
+    "artist": "Banda El Recodo",
+    "isrc": "USUG11101143"
+  },
+  {
+    "title": "El Son De La Negra",
+    "artist": "Banda La Unica De Jerez La Mera Mera",
+    "isrc": "USJ3V0723560"
+  },
+  {
+    "title": "Gente de Accionar / A.K.A Saquenle Plumita",
+    "artist": "Banda Ilusion de Culiacan Sinaloa",
+    "isrc": "TCADA1730154"
+  },
+  {
+    "title": "Díganle",
+    "artist": "La Grande De Sinaloa",
+    "isrc": "US9CY0900567"
+  },
+  {
+    "title": "Marcha Zacatecas (Marcha)",
+    "artist": "Banda De Mocorito De Nilo Gallardo",
+    "isrc": "USAP30174820"
+  },
+  {
+    "title": "Juan Colorado (Son)",
+    "artist": "Banda Los Escamillas",
+    "isrc": "USAP30174823"
+  },
+  {
+    "title": "Sobre Las Olas (Vals)",
+    "artist": "Banda Los Mochis De Porfirio Amarillas",
+    "isrc": "USAP30174816"
+  },
+  {
+    "title": "Mi Gusto Es (Canción)",
+    "artist": "Banda El Recodo",
+    "isrc": "USAP30174814"
+  },
+  {
+    "title": "La India Bonita",
+    "artist": "Banda Sinaloense",
+    "isrc": "USAP39470114"
+  },
+  {
+    "title": "El Callejero (Son)",
+    "artist": "Conjunto Mazatlán De Cruz Lizarraga",
+    "isrc": "USAP30174809"
+  },
+  {
+    "title": "Popurrí: La Niña Que Soñé / La Chica Del Bikini Azul / La Mujer Que No Soñé (En Vivo)",
+    "artist": "Los Bisnietos",
+    "isrc": "USA2P2224625"
+  },
+  {
+    "title": "Que Me Lleve el Diablo",
+    "artist": "Banda Sinaloense Clave Nueva",
+    "isrc": "USA560927170"
+  },
+  {
+    "title": "Mi Gusto Es",
+    "artist": "Banda Hnos Perez",
+    "isrc": "QMDA71322518"
+  },
+  {
+    "title": "Mil Motivos",
+    "artist": "Banda Hnos. Rubio de Mocorito",
+    "isrc": "QM7281750811"
+  },
+  {
+    "title": "Media Vida",
+    "artist": "Banda Los Hnos Perez",
+    "isrc": "QMDA71322511"
+  },
+  {
+    "title": "Una Historia de Amor",
+    "artist": "Banda Pericos De Mazatlan",
+    "isrc": "QMDA71322502"
+  },
+  {
+    "title": "Para Que Caiga",
+    "artist": "Banda Sinaloense Santa Fe",
+    "isrc": "QM4TW1539131"
+  },
+  {
+    "title": "Amansador De Potrancas",
+    "artist": "Efrain Garcia con banda sinaloense",
+    "isrc": "ushm20637391"
+  },
+  {
+    "title": "Tus Reproches",
+    "artist": "Banda Sinaloense Hnos. Sanchez",
+    "isrc": "USJ3V1054209"
+  },
+  {
+    "title": "El Ocotito",
+    "artist": "Banda Sinaloense Acero de Pablo Molina Jr.",
+    "isrc": "FR2X41691943"
+  },
+  {
+    "title": "Eternamente",
+    "artist": "BANDA LOS TAMAZULAS DE GUASAVE",
+    "isrc": "USANG2012136"
+  },
+  {
+    "title": "A Veces - En Vivo",
+    "artist": "Banda Sinaloense Los Nuevos Santa Rosa de Ernesto Soto",
+    "isrc": "USUTV1901049"
+  },
+  {
+    "title": "Los Amores de Julia",
+    "artist": "Banda Hnos. Rubio de Mocorito",
+    "isrc": "QM7281740415"
+  },
+  {
+    "title": "El Sr. De Las Canas",
+    "artist": "Banda Sinaloense Aramburos",
+    "isrc": "USV291477279"
+  },
+  {
+    "title": "Clarinetiando",
+    "artist": "Banda Hermanos Rubio",
+    "isrc": "QM6DC1523019"
+  },
+  {
+    "title": "Vuela Paloma",
+    "artist": "Banda Cahita",
+    "isrc": "US3DF1435041"
+  },
+  {
+    "title": "Al Ver Que Te Vas",
+    "artist": "Nico Flores Y Su Banda Puro Mazatlán",
+    "isrc": "USBL10300357"
+  },
+  {
+    "title": "Cuando Se Quiere Se Demuestra",
+    "artist": "Banda Aires De Sinaloa",
+    "isrc": "US3DF1121166"
+  },
+  {
+    "title": "Pedro Aviles",
+    "artist": "Banda Sinaloense La Patrona",
+    "isrc": "QMFMG1488677"
+  },
+  {
+    "title": "Llorar, Llorar",
+    "artist": "Banda Sinaloense Vuelta de Río",
+    "isrc": "MXF369934779"
+  },
+  {
+    "title": "Arriba Mi Sinaloa",
+    "artist": "Banda Hermanos Urias",
+    "isrc": "QM4TX1864389"
+  },
+  {
+    "title": "Ilumina Mi Camino",
+    "artist": "El Tacuache Y Su Banda Cerro Azul",
+    "isrc": "QM3DF2104733"
+  },
+  {
+    "title": "Alejandra",
+    "artist": "Banda Sinaloense Joya",
+    "isrc": "MXF399902552"
+  },
+  {
+    "title": "Casi siempre Estoy Pensando en Ti",
+    "artist": "Banda Libertad",
+    "isrc": "MXF440402441"
+  },
+  {
+    "title": "De Su Vida Me Ire",
+    "artist": "La Grande Sinaloa Banda El Limon",
+    "isrc": "US3DF1320074"
+  },
+  {
+    "title": "Mar de Emociones",
+    "artist": "Banda Petatlan",
+    "isrc": "QM6MZ2083814"
+  },
+  {
+    "title": "La Piedra",
+    "artist": "Hermanos Rubio de Mocorito",
+    "isrc": "QM7281759031"
+  },
+  {
+    "title": "Lo Dejaria Todo",
+    "artist": "Banda Melon Melon",
+    "isrc": "QZHZ42164531"
+  },
+  {
+    "title": "Pajarillo",
+    "artist": "Los Nuevos Santa Rosa",
+    "isrc": "US3DF1109835"
+  },
+  {
+    "title": "La Gitanilla",
+    "artist": "Los Nuevos Coyonquis",
+    "isrc": "QM6MZ1964418"
+  },
+  {
+    "title": "Me Llamen Como Me Llamen (En Vivo)",
+    "artist": "Banda los Populares del Llano",
+    "isrc": "uscgj1926562"
+  },
+  {
+    "title": "No Es Tu Culpa",
+    "artist": "Banda Arriba Mi Sinaloa",
+    "isrc": "QZHZ41987366"
+  },
+  {
+    "title": "Me Importa Madre",
+    "artist": "Banda Perikos",
+    "isrc": "QM6MZ1708668"
+  },
+  {
+    "title": "El Sandwich",
+    "artist": "Banda Sinaloense La Conquistadora",
+    "isrc": "US3DF1435921"
+  },
+  {
+    "title": "La Cuichi Y Juan Colorado - Live Version",
+    "artist": "Banda Tradicion Sinaloense",
+    "isrc": "US9CY1900310"
+  },
+  {
+    "title": "Camino Real de Colima",
+    "artist": "Ezequiel Paez",
+    "isrc": "USV291477932"
+  },
+  {
+    "title": "El Arbol De La Horca",
+    "artist": "Nico Flores",
+    "isrc": "USBL10200350"
+  },
+  {
+    "title": "Corvette - En Vivo",
+    "artist": "Banda La Misma Escuela, Encontrados",
+    "isrc": "QZQMB2107432"
+  },
+  {
+    "title": "En Las Cantinas - En Vivo",
+    "artist": "Banda la Adicional de Mazatlan Sin.",
+    "isrc": "QZQMB2106221"
+  },
+  {
+    "title": "La Feria De Las Flores",
+    "artist": "Banda Los Coyonquis",
+    "isrc": "USZBG1119216"
+  },
+  {
+    "title": "Los Dos Colombianos",
+    "artist": "Banda Sinaloense Alcoysin",
+    "isrc": "QM6P41701003"
+  },
+  {
+    "title": "España Cañi",
+    "artist": "Banda Titanes Sinaloenses, Los Nuevos Santa Rosa",
+    "isrc": "QM3DF2117113"
+  },
+  {
+    "title": "Tu Cariñito",
+    "artist": "La Ola Gigante De Mazatlan",
+    "isrc": "MXF060100482"
+  },
+  {
+    "title": "La Tobillona",
+    "artist": "Banda Los Tamazulas De Culiacan",
+    "isrc": "QM4TX1863788"
+  },
+  {
+    "title": "El Pajaro Prieto",
+    "artist": "Banda Sinaloense Hermanos Acosta",
+    "isrc": "US3DF1434973"
+  },
+  {
+    "title": "A Donde Vayas",
+    "artist": "Banda Malecón",
+    "isrc": "MXD782300147"
+  },
+  {
+    "title": "Frijolito",
+    "artist": "Banda Los Portenos De Don Miguel Velasquez",
+    "isrc": "US3DF1105401"
+  },
+  {
+    "title": "Ahora Te Puedes Marchar",
+    "artist": "Banda Perla Sinaloense",
+    "isrc": "MXF551032433"
+  },
+  {
+    "title": "El Alacrán (El Baile del Alacrán) - En Vivo",
+    "artist": "Banda Tromba Sinaloense",
+    "isrc": "MX4971402907"
+  },
+  {
+    "title": "La Fe Perdida",
+    "artist": "Banda Sinaloense Carnaval",
+    "isrc": "USSD10104912"
+  },
+  {
+    "title": "El Ultimo Rodeo",
+    "artist": "La Primerisima Banda Sinaloense",
+    "isrc": "US9CY1002499"
+  },
+  {
+    "title": "La Bikina",
+    "artist": "Mazatlán Brass Band",
+    "isrc": "QM4TW2113144"
+  },
+  {
+    "title": "Me Enamore Y Perdi",
+    "artist": "Banda Tierra Blanca",
+    "isrc": "USA560919680"
+  },
+  {
+    "title": "Palomita A Donde Vas",
+    "artist": "Tambora Sinaloense",
+    "isrc": "US3DF1536709"
+  },
+  {
+    "title": "El Coyote",
+    "artist": "Banda Sinaloense MM",
+    "isrc": "QM7281738189"
+  },
+  {
+    "title": "De Buena Gana",
+    "artist": "Banda Sinaloense MV de Mazatlán",
+    "isrc": "US7VG2059161"
+  },
+  {
+    "title": "Brisas de Mocorito",
+    "artist": "Banda Los Guamuchileños De Culiacan",
+    "isrc": "MXF145400008"
+  },
+  {
+    "title": "Sombrero Achalinado",
+    "artist": "Banda Nc de Manuel Diarte, Banda Renovacion",
+    "isrc": "US3DF2239092"
+  },
+  {
+    "title": "Cruz de Madera",
+    "artist": "Banda Sinaloense Pacifico",
+    "isrc": "FR2X41691653"
+  },
+  {
+    "title": "Juan Colorado",
+    "artist": "Banda Sinaloense de Acero",
+    "isrc": "FR10S1705161"
+  },
+  {
+    "title": "Chuy Chicago - En Vivo",
+    "artist": "Los Populares Del Llano, Grupo Arriesgado",
+    "isrc": "ushm22279310"
+  },
+  {
+    "title": "El Polvorete",
+    "artist": "Banda El Limon",
+    "isrc": "USASN0801654"
+  },
+  {
+    "title": "Peligro De Extincion",
+    "artist": "Banda Sinaloense Aramburos De El Limon",
+    "isrc": "US3DF1435878"
+  },
+  {
+    "title": "Juan Martha",
+    "artist": "Banda Sinaloense El Recodo",
+    "isrc": "QM7281552908"
+  },
+  {
+    "title": "Palo Verde",
+    "artist": "Banda Estrellas De Sinaloa De German Lizarraga",
+    "isrc": "USA371250939"
+  },
+  {
+    "title": "Quiéreme",
+    "artist": "Banda La Distinguida de Mazatlan Sinaloa",
+    "isrc": "QZDFP2052569"
+  },
+  {
+    "title": "Frío de Ausencia",
+    "artist": "Banda Perla Sinaloense De Pino Chávez",
+    "isrc": "MXF551032140"
+  },
+  {
+    "title": "Por Quien Me Dejas (En Vivo)",
+    "artist": "Banda la Conquista de Culiacan",
+    "isrc": "ushm81831930"
+  },
+  {
+    "title": "Ni El Dinero Ni Nada",
+    "artist": "Banda Los Recoditos",
+    "isrc": "MXF369332469"
+  },
+  {
+    "title": "El Panadero",
+    "artist": "Banda Sinaloense Hnos. Sanchez",
+    "isrc": "USJ3V1054210"
+  },
+  {
+    "title": "Arriba Tonichi",
+    "artist": "Banda Sinaloense Acero de Pablo Molina Jr.",
+    "isrc": "FR2X41691161"
+  },
+  {
+    "title": "Hey!",
+    "artist": "BANDA LOS TAMAZULAS DE GUASAVE",
+    "isrc": "US3DF2407029"
+  },
+  {
+    "title": "Vida de Rancho",
+    "artist": "Banda Sinaloense Los Nuevos Santa Rosa de Ernesto Soto",
+    "isrc": "USUTV2001138"
+  },
+  {
+    "title": "Clarinete Polka",
+    "artist": "Banda Hnos. Rubio de Mocorito",
+    "isrc": "QM4TW2222876"
+  },
+  {
+    "title": "Cielo Nublado",
+    "artist": "Banda Sinaloense Aramburos",
+    "isrc": "USV291477558"
+  },
+  {
+    "title": "El Huizache",
+    "artist": "Banda Hermanos Rubio",
+    "isrc": "QM6DC1523018"
+  },
+  {
+    "title": "El Barzon",
+    "artist": "Banda Cahita",
+    "isrc": "US3DF1435047"
+  },
+  {
+    "title": "El Tahur",
+    "artist": "Nico Flores Y Su Banda Puro Mazatlán",
+    "isrc": "USBL10300355"
+  },
+  {
+    "title": "Sientelo Bailalo y Gozalo",
+    "artist": "Banda Aires De Sinaloa",
+    "isrc": "US3DF1121171"
+  },
+  {
+    "title": "Ojos Azules",
+    "artist": "Banda Sinaloense La Patrona",
+    "isrc": "QMFMG1488676"
+  },
+  {
+    "title": "Vuelve por Favor",
+    "artist": "Banda Sinaloense Vuelta de Río",
+    "isrc": "MXF369934778"
+  },
+  {
+    "title": "Alejandra",
+    "artist": "Banda Hermanos Urias",
+    "isrc": "US3DF1435190"
+  },
+  {
+    "title": "Perdon por Tus Lagrimas",
+    "artist": "El Tacuache Y Su Banda Cerro Azul",
+    "isrc": "QM3DF2102928"
+  },
+  {
+    "title": "Tiempo De Vals",
+    "artist": "Banda Sinaloense Joya",
+    "isrc": "MXF399902559"
+  },
+  {
+    "title": "Micaela",
+    "artist": "Banda Libertad",
+    "isrc": "MXF440402033"
+  },
+  {
+    "title": "Que No Se Apague La Lumbre",
+    "artist": "La Grande Sinaloa Banda El Limon",
+    "isrc": "US3DF1320077"
+  },
+  {
+    "title": "Volveré",
+    "artist": "Banda Petatlan",
+    "isrc": "QM6MZ2083806"
+  },
+  {
+    "title": "Los Mayeles",
+    "artist": "Hermanos Rubio de Mocorito",
+    "isrc": "QM7281759030"
+  },
+  {
+    "title": "El Pajarillo",
+    "artist": "Banda Melon Melon",
+    "isrc": "QZHZ42164529"
+  },
+  {
+    "title": "Si Quiero Volver",
+    "artist": "Los Nuevos Santa Rosa",
+    "isrc": "US3DF1109833"
+  },
+  {
+    "title": "Que Bonito",
+    "artist": "Los Nuevos Coyonquis",
+    "isrc": "QM6MZ1964420"
+  },
+  {
+    "title": "Maquina 501 (En Vivo)",
+    "artist": "Banda los Populares del Llano",
+    "isrc": "uscgj1926571"
+  },
+  {
+    "title": "Piloto Decidido",
+    "artist": "Banda Arriba Mi Sinaloa",
+    "isrc": "QZGLS2207929"
+  },
+  {
+    "title": "UNA VEZ MAS",
+    "artist": "Banda Perikos",
+    "isrc": "USZBG1203341"
+  },
+  {
+    "title": "Solo Una Vez",
+    "artist": "Banda Sinaloense La Conquistadora",
+    "isrc": "US3DF1435920"
+  },
+  {
+    "title": "Suavecito - En Vivo",
+    "artist": "Banda Tradicion Sinaloense",
+    "isrc": "US9CY1900794"
+  },
+  {
+    "title": "Caminos de Michoacán",
+    "artist": "Ezequiel Paez",
+    "isrc": "USV291477923"
+  },
+  {
+    "title": "Yo Te Seguiré Queriendo",
+    "artist": "Nico Flores",
+    "isrc": "USBL10200351"
+  },
+  {
+    "title": "No Vuelvo Con Ella",
+    "artist": "Banda La Misma Escuela",
+    "isrc": "GBMA21881899"
+  },
+  {
+    "title": "El Güero Colorado - En Vivo",
+    "artist": "Banda la Adicional de Mazatlan Sin.",
+    "isrc": "QZQMB2106222"
+  }
+]

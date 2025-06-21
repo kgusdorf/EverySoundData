@@ -1,0 +1,682 @@
+[
+  {
+    "title": "It Had To Be You",
+    "artist": "Dinah Shore, André Previn",
+    "isrc": "USCA29400438"
+  },
+  {
+    "title": "It's Only a Paper Moon",
+    "artist": "Lee Wiley",
+    "isrc": "DEUE22381967"
+  },
+  {
+    "title": "Make Someone Happy (From \"Do Re Mi\")",
+    "artist": "Margaret Whiting",
+    "isrc": "ES31E2202990"
+  },
+  {
+    "title": "Mad About the Boy",
+    "artist": "Helen Forrest",
+    "isrc": "DEUE22314966"
+  },
+  {
+    "title": "If You Want the Rainbow",
+    "artist": "Lee Morse",
+    "isrc": "DEXO32237309"
+  },
+  {
+    "title": "You Belong To Me",
+    "artist": "Jo Stafford",
+    "isrc": "USCA29200213"
+  },
+  {
+    "title": "C'est Magnifique - Remastered",
+    "artist": "Kay Starr",
+    "isrc": "USCA20201187"
+  },
+  {
+    "title": "Give Me The Simple Life",
+    "artist": "June Christy",
+    "isrc": "USCA29801314"
+  },
+  {
+    "title": "Shine On, Harvest Moon",
+    "artist": "Ruth Etting",
+    "isrc": "DEZZ42172855"
+  },
+  {
+    "title": "Why Don't You Do Right (Get Me Some Money Too)",
+    "artist": "Peggy Lee",
+    "isrc": "USCA28800370"
+  },
+  {
+    "title": "Find Me a Primitive Man (feat. the Colonial Club Orchestra)",
+    "artist": "Libby Holman, The Colonial Club Orchestra",
+    "isrc": "TCADL1884114"
+  },
+  {
+    "title": "Mambo Italiano (with The Mellomen) - 78rpm Version",
+    "artist": "Rosemary Clooney, The Mellomen",
+    "isrc": "USSM10008295"
+  },
+  {
+    "title": "Daddy Won't You Please Come Home",
+    "artist": "Annette Hanshaw",
+    "isrc": "DEZZ42149485"
+  },
+  {
+    "title": "I'm Confessin' (That I Love You)",
+    "artist": "Lena Horne",
+    "isrc": "USBB16200732"
+  },
+  {
+    "title": "After You've Gone",
+    "artist": "Marion Harris",
+    "isrc": "DEZZ52172308"
+  },
+  {
+    "title": "Baby, What Else Can I Do?",
+    "artist": "Ethel Waters",
+    "isrc": "DEZZ42172994"
+  },
+  {
+    "title": "Heart and Soul",
+    "artist": "Bea Wain",
+    "isrc": "DEXO42238553"
+  },
+  {
+    "title": "It's So Peaceful In The Country",
+    "artist": "Mildred Bailey",
+    "isrc": "USMC19969412"
+  },
+  {
+    "title": "You'll Never Know / No Love, No Nothin - Remastered Version",
+    "artist": "Alice Faye",
+    "isrc": "USRE10300570"
+  },
+  {
+    "title": "Sing You Sinners (Recorded April 1930)",
+    "artist": "Belle Baker",
+    "isrc": "USDHM1427083"
+  },
+  {
+    "title": "I Can Dream, Can't I? - 1949 Single Version",
+    "artist": "The Andrews Sisters, Gordon Jenkins & His Orchestra",
+    "isrc": "USMC14975074"
+  },
+  {
+    "title": "I Could Write A Book",
+    "artist": "Anita O'Day",
+    "isrc": "USGR10401350"
+  },
+  {
+    "title": "Misty",
+    "artist": "Sarah Vaughan",
+    "isrc": "USPR35800063"
+  },
+  {
+    "title": "I'm in the Mood for Love",
+    "artist": "Frances Langford",
+    "isrc": "AUXN21506704"
+  },
+  {
+    "title": "Over The Rainbow - From \"The Wizard Of Oz\"",
+    "artist": "Judy Garland",
+    "isrc": "USMC14051171"
+  },
+  {
+    "title": "Let's Do It",
+    "artist": "Eartha Kitt",
+    "isrc": "USRC19900651"
+  },
+  {
+    "title": "I'll Be Seeing You",
+    "artist": "Billie Holiday",
+    "isrc": "USMC14448351"
+  },
+  {
+    "title": "Toot, Toot, Tootsie (Goodbye)",
+    "artist": "Fanny Brice",
+    "isrc": "BEDO62318985"
+  },
+  {
+    "title": "I'm In The Mood For Love",
+    "artist": "Julie London",
+    "isrc": "USEM38900296"
+  },
+  {
+    "title": "It's De-Lovely",
+    "artist": "Jeri Southern",
+    "isrc": "USMC15508204"
+  },
+  {
+    "title": "When I Fall In Love",
+    "artist": "Carmen McRae",
+    "isrc": "USMC15803169"
+  },
+  {
+    "title": "(How Little It Matters) How Little We Know",
+    "artist": "Chris Connor",
+    "isrc": "USAT20501636"
+  },
+  {
+    "title": "Blue Skies",
+    "artist": "Maxine Sullivan",
+    "isrc": "QM4TX1841149"
+  },
+  {
+    "title": "On The Sunny Side Of The Street",
+    "artist": "Keely Smith",
+    "isrc": "USCA20903135"
+  },
+  {
+    "title": "Personality - from \"Road to Utopia\"",
+    "artist": "Dorothy Lamour",
+    "isrc": "GBDAG0002095"
+  },
+  {
+    "title": "Some of These Days",
+    "artist": "Sophie Tucker",
+    "isrc": "DEXN82257614"
+  },
+  {
+    "title": "I Cover the Waterfront",
+    "artist": "Connie Boswell",
+    "isrc": "USSM11000072"
+  },
+  {
+    "title": "With A Song In My Heart",
+    "artist": "Jane Froman",
+    "isrc": "USCA29601398"
+  },
+  {
+    "title": "Me And My Shadow",
+    "artist": "Helen Morgan",
+    "isrc": "AUXN21414234"
+  },
+  {
+    "title": "I'd Rather Go Blind",
+    "artist": "Etta James",
+    "isrc": "USMC16746346"
+  },
+  {
+    "title": "Deep Purple",
+    "artist": "Ginny Simms",
+    "isrc": "USSM10023681"
+  },
+  {
+    "title": "Diamonds Are a Girl's Best Friend",
+    "artist": "Jane Russell, Marilyn Monroe",
+    "isrc": "DEVU52396474"
+  },
+  {
+    "title": "Oh, I'm evil",
+    "artist": "Una Mae Carlisle",
+    "isrc": "FR0O70822549"
+  },
+  {
+    "title": "It's Been a Long, Long Time (with Harry James & His Orchestra)",
+    "artist": "Kitty Kallen, Harry James",
+    "isrc": "USSM19925938"
+  },
+  {
+    "title": "Baby Won't You Please Come Home?",
+    "artist": "Eva Taylor",
+    "isrc": "USDYP1200520"
+  },
+  {
+    "title": "God Bless America",
+    "artist": "Kate Smith",
+    "isrc": "USRC19205555"
+  },
+  {
+    "title": "Feeling Good",
+    "artist": "Nina Simone",
+    "isrc": "USPR36500094"
+  },
+  {
+    "title": "Blaue Stunde",
+    "artist": "Greta Keller",
+    "isrc": "CH0279604220"
+  },
+  {
+    "title": "Darling, Je Vous Aime Beaucoup",
+    "artist": "Hildegarde",
+    "isrc": "QM6XS1600236"
+  },
+  {
+    "title": "Flippity Flop Flop",
+    "artist": "Helen Humes",
+    "isrc": "DEVU52396772"
+  },
+  {
+    "title": "Lili Marleen",
+    "artist": "Marlene Dietrich",
+    "isrc": "DEA340101174"
+  },
+  {
+    "title": "Think Pink",
+    "artist": "Kay Thompson",
+    "isrc": "USUM71709916"
+  },
+  {
+    "title": "Non, je ne regrette rien",
+    "artist": "Édith Piaf",
+    "isrc": "FRZ116000530"
+  },
+  {
+    "title": "Tweedle Dee",
+    "artist": "LaVern Baker",
+    "isrc": "USAT20000701"
+  },
+  {
+    "title": "As Time Goes By",
+    "artist": "Adelaide Hall",
+    "isrc": "FRX281563113"
+  },
+  {
+    "title": "Until Love Comes Along",
+    "artist": "Bebe Daniels",
+    "isrc": "USXTG1100192"
+  },
+  {
+    "title": "When We're Alone (Penthouse Serenade)",
+    "artist": "Sylvia Froos",
+    "isrc": "USXTG1100193"
+  },
+  {
+    "title": "Mississippi Mud",
+    "artist": "Irene Taylor",
+    "isrc": "DEL111402127"
+  },
+  {
+    "title": "Until the Real Thing Comes Along",
+    "artist": "Dixie Lee Crosby",
+    "isrc": "USXTG1100435"
+  },
+  {
+    "title": "It's Unanimous Now",
+    "artist": "Frances Williams",
+    "isrc": "USV351311345"
+  },
+  {
+    "title": "Be Still My Heart",
+    "artist": "Gertrude Niesen",
+    "isrc": "USXTG1100200"
+  },
+  {
+    "title": "Nevertheless (I'm In Love With You)",
+    "artist": "Welcome Lewis",
+    "isrc": "USXTG1100197"
+  },
+  {
+    "title": "My Old Flame",
+    "artist": "Zora Layman",
+    "isrc": "USXTG1100199"
+  },
+  {
+    "title": "'Round Midnight",
+    "artist": "Hazel Scott, Everett Barksdale, Sandy Block, Jimmy Crawford",
+    "isrc": "ES7710749701"
+  },
+  {
+    "title": "They Didn't Believe Me",
+    "artist": "Dinah Washinton",
+    "isrc": "FR6V82693119"
+  },
+  {
+    "title": "Too Many Tears",
+    "artist": "Go Go Delyse With Jimmie Grier Orchestra",
+    "isrc": "USXTG1100198"
+  },
+  {
+    "title": "I've Got To Sing A Torch Song",
+    "artist": "Helen Rowland With Ed Kirkeby Orchestra",
+    "isrc": "USXTG1100181"
+  },
+  {
+    "title": "My Melancholy Baby",
+    "artist": "Dinah Shore",
+    "isrc": "USCA25900443"
+  },
+  {
+    "title": "Oh Look at Me Now",
+    "artist": "Lee Wiley, Bobby Hackett, Joe Bushkin",
+    "isrc": "DEUE22381968"
+  },
+  {
+    "title": "Time After Time",
+    "artist": "Margaret Whiting",
+    "isrc": "USCA29501393"
+  },
+  {
+    "title": "What Can I Say After I Say I'm Sorry",
+    "artist": "Helen Forrest",
+    "isrc": "DEUE22315000"
+  },
+  {
+    "title": "Old Fashioned Romance",
+    "artist": "Lee Morse, The Blue Grass Boys",
+    "isrc": "DEXO32237305"
+  },
+  {
+    "title": "No Other Love",
+    "artist": "Jo Stafford, Paul Weston And His Orchestra",
+    "isrc": "USCA24900419"
+  },
+  {
+    "title": "So Tired",
+    "artist": "Kay Starr",
+    "isrc": "USCA29001428"
+  },
+  {
+    "title": "Something Cool - Mono",
+    "artist": "June Christy",
+    "isrc": "USCA29201218"
+  },
+  {
+    "title": "It All Depends on You",
+    "artist": "Ruth Etting",
+    "isrc": "DEZZ42172856"
+  },
+  {
+    "title": "Johnny Guitar",
+    "artist": "Peggy Lee",
+    "isrc": "GBBLY0702379"
+  },
+  {
+    "title": "Can't We Be Friends?",
+    "artist": "Libby Holman",
+    "isrc": "GBDAG0501136"
+  },
+  {
+    "title": "Sway - Remastered",
+    "artist": "Rosemary Clooney, Pérez Prado",
+    "isrc": "ES58A1900611"
+  },
+  {
+    "title": "I've Got a Feeling I'm Falling",
+    "artist": "Annette Hanshaw",
+    "isrc": "DEZZ42149489"
+  },
+  {
+    "title": "How Long Has This Been Going On?",
+    "artist": "Lena Horne",
+    "isrc": "USRC10100419"
+  },
+  {
+    "title": "Nobody's Sweetheart",
+    "artist": "Marion Harris",
+    "isrc": "DEZZ52172309"
+  },
+  {
+    "title": "I Got Rhythm",
+    "artist": "Ethel Waters",
+    "isrc": "DEZZ42172996"
+  },
+  {
+    "title": "My Reverie",
+    "artist": "Bea Wain",
+    "isrc": "DEXO42238558"
+  },
+  {
+    "title": "Lover, Come Back To Me",
+    "artist": "Mildred Bailey",
+    "isrc": "USMC19969362"
+  },
+  {
+    "title": "You'll Never Know",
+    "artist": "Alice Faye",
+    "isrc": "USA561348927"
+  },
+  {
+    "title": "Hard Hearted Hannah (Recorded August, 1924)",
+    "artist": "Belle Baker",
+    "isrc": "USDHM1420523"
+  },
+  {
+    "title": "Straighten Up And Fly Right - Single Version",
+    "artist": "The Andrews Sisters, Vic Schoen & His Orchestra",
+    "isrc": "USMC14472059"
+  },
+  {
+    "title": "Beautiful Love",
+    "artist": "Anita O'Day",
+    "isrc": "USUM70506665"
+  },
+  {
+    "title": "Tenderly (Remastered 2014)",
+    "artist": "Sarah Vaughan",
+    "isrc": "GBGN32332906"
+  },
+  {
+    "title": "Speaking Confidentially",
+    "artist": "Frances Langford",
+    "isrc": "GBDAG0101481"
+  },
+  {
+    "title": "Embraceable You - 1940 Single Version",
+    "artist": "Judy Garland",
+    "isrc": "USMC13901869"
+  },
+  {
+    "title": "C'est Si Bon",
+    "artist": "Eartha Kitt",
+    "isrc": "USRC19900655"
+  },
+  {
+    "title": "Blue Moon",
+    "artist": "Billie Holiday",
+    "isrc": "USPR35200069"
+  },
+  {
+    "title": "Ain't We Got Fun",
+    "artist": "Fanny Brice",
+    "isrc": "BEDO62318970"
+  },
+  {
+    "title": "Cry Me A River",
+    "artist": "Julie London",
+    "isrc": "USEM39200253"
+  },
+  {
+    "title": "Let's Fly Away",
+    "artist": "Jeri Southern",
+    "isrc": "USCA25900256"
+  },
+  {
+    "title": "I'm Putting All My Eggs In One Basket",
+    "artist": "Carmen McRae",
+    "isrc": "USGR10001350"
+  },
+  {
+    "title": "You Make Me Feel so Young",
+    "artist": "Chris Connor",
+    "isrc": "USAT20300590"
+  },
+  {
+    "title": "Enjoy Yourself (It's Later Than You Think)",
+    "artist": "Maxine Sullivan, Bob Haggart, Ike Isaacs, Dardanelle, Sil Austin",
+    "isrc": "US1A18115420"
+  },
+  {
+    "title": "Don't Take Your Love From Me",
+    "artist": "Keely Smith",
+    "isrc": "USCA29500405"
+  },
+  {
+    "title": "Moon over Burma",
+    "artist": "Dorothy Lamour",
+    "isrc": "AUXN22097971"
+  },
+  {
+    "title": "Some of These Days 2",
+    "artist": "Sophie Tucker",
+    "isrc": "DEXN82257624"
+  },
+  {
+    "title": "Blue Moon",
+    "artist": "Connie Boswell",
+    "isrc": "USXTG1100760"
+  },
+  {
+    "title": "Blue Moon",
+    "artist": "Jane Froman",
+    "isrc": "AUXN21505396"
+  },
+  {
+    "title": "Can't Help Lovin' Dat Man",
+    "artist": "Helen Morgan",
+    "isrc": "USXTG1100083"
+  },
+  {
+    "title": "At Last",
+    "artist": "Etta James",
+    "isrc": "USMC16046323"
+  },
+  {
+    "title": "I've Got You Under My Skin",
+    "artist": "Ginny Simms",
+    "isrc": "QMBZ91387143"
+  },
+  {
+    "title": "Kisses and Tears",
+    "artist": "Jane Russell",
+    "isrc": "DEVU52396476"
+  },
+  {
+    "title": "Blitzkrieg Baby",
+    "artist": "Una Mae Carlisle",
+    "isrc": "DEXO42349034"
+  },
+  {
+    "title": "Its Been a Long, Long Time",
+    "artist": "Kitty Kallen",
+    "isrc": "DEZZ42173079"
+  },
+  {
+    "title": "Moanin' Low",
+    "artist": "Eva Taylor",
+    "isrc": "USXTG1100100"
+  },
+  {
+    "title": "I'll Be Seeing You",
+    "artist": "Kate Smith",
+    "isrc": "USA560974259"
+  },
+  {
+    "title": "My Funny Valentine",
+    "artist": "Dinah Shore, André Previn",
+    "isrc": "USCA29100309"
+  },
+  {
+    "title": "Stormy Weather",
+    "artist": "Lee Wiley",
+    "isrc": "DEUE22381969"
+  },
+  {
+    "title": "They Can't Take That Away From Me",
+    "artist": "Margaret Whiting",
+    "isrc": "USUM71913913"
+  },
+  {
+    "title": "Under a Blanket of Blue",
+    "artist": "Helen Forrest",
+    "isrc": "DEUE22315003"
+  },
+  {
+    "title": "Love Letters In The Sand",
+    "artist": "Lee Morse",
+    "isrc": "USXTG1100758"
+  },
+  {
+    "title": "The Best Things In Life Are Free",
+    "artist": "Jo Stafford",
+    "isrc": "USCA25500101"
+  },
+  {
+    "title": "I'm The Lonesomest Gal In Town",
+    "artist": "Kay Starr",
+    "isrc": "USUM71924793"
+  },
+  {
+    "title": "Shoo Fly Pie and Apple Pan Dow",
+    "artist": "June Christy",
+    "isrc": "DEUE22368273"
+  },
+  {
+    "title": "You're the Cream in My Coffee",
+    "artist": "Ruth Etting",
+    "isrc": "DEZZ42172861"
+  },
+  {
+    "title": "Till There Was You - Remastered 1995",
+    "artist": "Peggy Lee",
+    "isrc": "USCA29500283"
+  },
+  {
+    "title": "Am I Blue?",
+    "artist": "Libby Holman",
+    "isrc": "USXTG1100828"
+  },
+  {
+    "title": "In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra)",
+    "artist": "Rosemary Clooney, Harry James & Harry James' Orchestra",
+    "isrc": "USSM10008277"
+  },
+  {
+    "title": "Ain’t He Sweet",
+    "artist": "Annette Hanshaw",
+    "isrc": "GB-SMU-17-54050"
+  },
+  {
+    "title": "Stormy Weather",
+    "artist": "Lena Horne, Lou Bring",
+    "isrc": "USBB14100831"
+  },
+  {
+    "title": "I'm a Jazz Vampire",
+    "artist": "Marion Harris",
+    "isrc": "DEZZ52172312"
+  },
+  {
+    "title": "Stormy Weather",
+    "artist": "Ethel Waters",
+    "isrc": "DEZZ42172997"
+  },
+  {
+    "title": "Oh, You Crazy Moon",
+    "artist": "Bea Wain",
+    "isrc": "DEXO42238568"
+  },
+  {
+    "title": "Doin' the Uptown Lowdown (with The Dorsey Brothers Orchestra)",
+    "artist": "Mildred Bailey, The Dorsey Brothers Orchestra",
+    "isrc": "USSM11301637"
+  },
+  {
+    "title": "Never In a Million Years (with Cy Feuer & His Orchestra) - 78 rpm Version",
+    "artist": "Alice Faye, Cy Feuer & His Orchestra",
+    "isrc": "USSM11609432"
+  },
+  {
+    "title": "I'm Walking with Moonbeams (Recorded October 1929)",
+    "artist": "Belle Baker",
+    "isrc": "USDHM1427079"
+  },
+  {
+    "title": "Civilization - Bongo, Bongo, Bongo",
+    "artist": "The Andrews Sisters",
+    "isrc": "FR6V80965649"
+  },
+  {
+    "title": "Love For Sale - 1959 Version",
+    "artist": "Anita O'Day",
+    "isrc": "USWWW0201148"
+  },
+  {
+    "title": "Broken Hearted Melody",
+    "artist": "Sarah Vaughan",
+    "isrc": "USPR35830168"
+  }
+]

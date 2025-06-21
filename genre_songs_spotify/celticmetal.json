@@ -1,0 +1,757 @@
+[
+  {
+    "title": "Ride On",
+    "artist": "Cruachan",
+    "isrc": "NLKRM0802808"
+  },
+  {
+    "title": "Jule",
+    "artist": "Fferyllt",
+    "isrc": "ESA011517926"
+  },
+  {
+    "title": "Born to the Fight",
+    "artist": "Waylander",
+    "isrc": "US4E40591102"
+  },
+  {
+    "title": "Stone of the Seven Suns",
+    "artist": "SuidAkrA",
+    "isrc": "DEU601003331"
+  },
+  {
+    "title": "El Queso Rodante",
+    "artist": "Celtibeerian",
+    "isrc": "TCAFX2101406"
+  },
+  {
+    "title": "Bagpipes of War",
+    "artist": "Skiltron",
+    "isrc": "USQY51119838"
+  },
+  {
+    "title": "Intro",
+    "artist": "Furor Gallico",
+    "isrc": "DER371172601"
+  },
+  {
+    "title": "Rivus altus",
+    "artist": "Kanseil",
+    "isrc": "ITL462300032"
+  },
+  {
+    "title": "La fabbrica dei perdenti",
+    "artist": "Folkstone",
+    "isrc": "IT10Z2300042"
+  },
+  {
+    "title": "Blindfolded",
+    "artist": "Ithilien",
+    "isrc": "ITO371603256"
+  },
+  {
+    "title": "Hymn to Mead",
+    "artist": "Distoriam",
+    "isrc": "CAV9X1500001"
+  },
+  {
+    "title": "Anotherdrinkingsong",
+    "artist": "Skyclad",
+    "isrc": "GBJBV1000383"
+  },
+  {
+    "title": "Eyes Wide Open",
+    "artist": "Cruadalach",
+    "isrc": "CZA163395872"
+  },
+  {
+    "title": "Lay down Thy Burdens",
+    "artist": "Battlesoul",
+    "isrc": "QMPKX1653439"
+  },
+  {
+    "title": "Erase by Fire",
+    "artist": "Drakwald",
+    "isrc": "USY251639920"
+  },
+  {
+    "title": "Kronos' Heritage",
+    "artist": "Krampus",
+    "isrc": "ATN261202409"
+  },
+  {
+    "title": "Los Fuegos de Belenus",
+    "artist": "Salduie",
+    "isrc": "QMBZ91612442"
+  },
+  {
+    "title": "Where Greater Men Have Fallen",
+    "artist": "Primordial",
+    "isrc": "USMBR1410835"
+  },
+  {
+    "title": "Origins",
+    "artist": "Saor",
+    "isrc": "FR33T2166706"
+  },
+  {
+    "title": "The Call of the Mountains",
+    "artist": "Eluveitie",
+    "isrc": "DED831400746"
+  },
+  {
+    "title": "The Mighty Sreng",
+    "artist": "Celtachor",
+    "isrc": "DEZ901500959"
+  },
+  {
+    "title": "El Espíritu del Viento",
+    "artist": "Lándevir, Narci Lara, Saurom",
+    "isrc": "ES8241826103"
+  },
+  {
+    "title": "Galloping Shadows",
+    "artist": "Triddana",
+    "isrc": "TCADA1795270"
+  },
+  {
+    "title": "Bella Natura",
+    "artist": "Tuatha de Danann",
+    "isrc": "BRPRX0400472"
+  },
+  {
+    "title": "Tu Ley",
+    "artist": "Ars Amandi",
+    "isrc": "ES6700302802"
+  },
+  {
+    "title": "Tá Mael Mórdha Ag Teacht",
+    "artist": "Mael Mórdha",
+    "isrc": "DES560894601"
+  },
+  {
+    "title": "Avalanche",
+    "artist": "Cellar Darling",
+    "isrc": "DED831700583"
+  },
+  {
+    "title": "Chain of the Golden Horn",
+    "artist": "Leaves' Eyes",
+    "isrc": "DEU602008857"
+  },
+  {
+    "title": "En Tierra de Hadas",
+    "artist": "Celtian, Patricia Tapia, Manuel Seoane, Mägo de Oz",
+    "isrc": "ES8241922107"
+  },
+  {
+    "title": "Hantaoma",
+    "artist": "Hantaoma",
+    "isrc": "FR7M00510303"
+  },
+  {
+    "title": "St.Cuthbert",
+    "artist": "Slartibartfass",
+    "isrc": "DEAR41176930"
+  },
+  {
+    "title": "It's Not Easy to be Green",
+    "artist": "Folk Metal Jacket",
+    "isrc": "SE5BU1956872"
+  },
+  {
+    "title": "A Feast in the Woods",
+    "artist": "White Raven",
+    "isrc": "CH6541705354"
+  },
+  {
+    "title": "Mendigo",
+    "artist": "Briselas",
+    "isrc": "TCAFX2101369"
+  },
+  {
+    "title": "Erlkönig",
+    "artist": "Minotaurus",
+    "isrc": "DET271313803"
+  },
+  {
+    "title": "Thuatha De Dannnan",
+    "artist": "Geasa",
+    "isrc": "FR33T9901501"
+  },
+  {
+    "title": "Brindis de Taberna",
+    "artist": "Lurte",
+    "isrc": "QM4TW1940004"
+  },
+  {
+    "title": "Chanter, Boire et Rire Rire",
+    "artist": "Lou Quinse",
+    "isrc": "usx9p2047861"
+  },
+  {
+    "title": "Senza Paura",
+    "artist": "Barad Guldur",
+    "isrc": "GBSMU6524891"
+  },
+  {
+    "title": "Leverage",
+    "artist": "Lyriel",
+    "isrc": "DEU601103699"
+  },
+  {
+    "title": "Die Pest",
+    "artist": "Ingrimm",
+    "isrc": "DEOM11100054"
+  },
+  {
+    "title": "Comatose",
+    "artist": "Ayreon",
+    "isrc": "NLB931601802"
+  },
+  {
+    "title": "Curupira's Maze",
+    "artist": "Kernunna",
+    "isrc": "BRGFP1300042"
+  },
+  {
+    "title": "Ostatnie Słowa",
+    "artist": "Time of Tales",
+    "isrc": "uscgh1684813"
+  },
+  {
+    "title": "Deadly Oath",
+    "artist": "BELLFAST",
+    "isrc": "JPZ921001676"
+  },
+  {
+    "title": "The Morrigan",
+    "artist": "Darkest Era",
+    "isrc": "USMBR1007918"
+  },
+  {
+    "title": "Essere dio",
+    "artist": "Duir",
+    "isrc": "QZPJ32127349"
+  },
+  {
+    "title": "The Goddess' Song",
+    "artist": "KormaK",
+    "isrc": "IT8SF1600578"
+  },
+  {
+    "title": "Seven Months",
+    "artist": "Artaius",
+    "isrc": "UKCVA1900815"
+  },
+  {
+    "title": "Karvden",
+    "artist": "Belenos",
+    "isrc": "ESA011969927"
+  },
+  {
+    "title": "Magia",
+    "artist": "Last Days of Eden",
+    "isrc": "TCAFX2101259"
+  },
+  {
+    "title": "Gib' mir noch ein Glas",
+    "artist": "Tanzwut, Kärbholz",
+    "isrc": "DEU601808036"
+  },
+  {
+    "title": "Bright Star of Midnight",
+    "artist": "Under Siege",
+    "isrc": "uscgh1815489"
+  },
+  {
+    "title": "Ibervs Flvmen",
+    "artist": "CrystalMoors",
+    "isrc": "usdy42095221"
+  },
+  {
+    "title": "Cantem Sempre Essa Canção",
+    "artist": "Galwem",
+    "isrc": "BRKYG1400979"
+  },
+  {
+    "title": "Full of Youth",
+    "artist": "Tray of Gift",
+    "isrc": "BRCOG1200009"
+  },
+  {
+    "title": "Herr Mannelig",
+    "artist": "Taranus",
+    "isrc": "QM7281737113"
+  },
+  {
+    "title": "Guardian Angel",
+    "artist": "Celtic Legacy",
+    "isrc": "uscgh0513755"
+  },
+  {
+    "title": "Wizard's Walk",
+    "artist": "Devil in the Kitchen",
+    "isrc": "TCACD1515332"
+  },
+  {
+    "title": "We Are The Ravens - Radio Edit",
+    "artist": "Thanateros",
+    "isrc": "DEAT72426333"
+  },
+  {
+    "title": "Of Wood and Blood",
+    "artist": "Oakhelm",
+    "isrc": "uscgh1170341"
+  },
+  {
+    "title": "Fiesta Pagana",
+    "artist": "Mägo de Oz",
+    "isrc": "ES6880400795"
+  },
+  {
+    "title": "Ode To Salvation",
+    "artist": "Airged L'amh",
+    "isrc": "CH6540801838"
+  },
+  {
+    "title": "I Sing of a Maiden",
+    "artist": "Moonroot",
+    "isrc": "USA561461293"
+  },
+  {
+    "title": "Anwynn",
+    "artist": "Anwynn",
+    "isrc": "FR6V81269592"
+  },
+  {
+    "title": "Valkyrie",
+    "artist": "Aeron's Wake",
+    "isrc": "QMDA61312856"
+  },
+  {
+    "title": "The Path",
+    "artist": "Auridius",
+    "isrc": "TCAGO2240414"
+  },
+  {
+    "title": "Dun Aengus",
+    "artist": "Fir Bolg",
+    "isrc": "DEDL11311013"
+  },
+  {
+    "title": "Tale Of A Leprechaun",
+    "artist": "I Killed A Leprechaun At The Carnival",
+    "isrc": "SEYOK1107260"
+  },
+  {
+    "title": "Before the End of the Day",
+    "artist": "Lappalainen",
+    "isrc": "FR26V1508992"
+  },
+  {
+    "title": "Opera Mortis",
+    "artist": "Opus Tenebrae",
+    "isrc": "BRA221502140"
+  },
+  {
+    "title": "Un Nuevo Amanecer",
+    "artist": "OracleVuh",
+    "isrc": "QZ8251814647"
+  },
+  {
+    "title": "Bosque De Alerce",
+    "artist": "Paghania",
+    "isrc": "AEA0D1802699"
+  },
+  {
+    "title": "Bloodborne",
+    "artist": "Sequester",
+    "isrc": "usdy41859124"
+  },
+  {
+    "title": "The Marching Song of Fiach Mac Hugh",
+    "artist": "Cruachan",
+    "isrc": "DEW272200947"
+  },
+  {
+    "title": "Call of the Wild",
+    "artist": "Fferyllt",
+    "isrc": "USQY51578933"
+  },
+  {
+    "title": "As the Sun Stands Still",
+    "artist": "Waylander",
+    "isrc": "FR1PP1800730"
+  },
+  {
+    "title": "Serenade to a Dream",
+    "artist": "SuidAkrA",
+    "isrc": "DEU601103563"
+  },
+  {
+    "title": "The Wolf I Am",
+    "artist": "Celtibeerian",
+    "isrc": "USL4Q1728198"
+  },
+  {
+    "title": "Hate Of My Life",
+    "artist": "Skiltron",
+    "isrc": "QZ8252108791"
+  },
+  {
+    "title": "Canto D'Inverno",
+    "artist": "Furor Gallico",
+    "isrc": "ITD291901792"
+  },
+  {
+    "title": "Hrodgaud",
+    "artist": "Kanseil",
+    "isrc": "ITL462300035"
+  },
+  {
+    "title": "In caduta libera",
+    "artist": "Folkstone",
+    "isrc": "ITMGC1400001"
+  },
+  {
+    "title": "Edelweiss",
+    "artist": "Ithilien",
+    "isrc": "ITO371603262"
+  },
+  {
+    "title": "Duel of a Hundred Lights",
+    "artist": "Distoriam",
+    "isrc": "CAV9X1500002"
+  },
+  {
+    "title": "The Parliament Of Fools",
+    "artist": "Skyclad",
+    "isrc": "GBJBV1000386"
+  },
+  {
+    "title": "Waking The Courage",
+    "artist": "Cruadalach",
+    "isrc": "CZA163395871"
+  },
+  {
+    "title": "Oathbreaker",
+    "artist": "Battlesoul",
+    "isrc": "QMPKX1653435"
+  },
+  {
+    "title": "Devouring the Living Sun",
+    "artist": "Drakwald",
+    "isrc": "QZTB82225266"
+  },
+  {
+    "title": "Paralysis",
+    "artist": "Krampus",
+    "isrc": "TCACT1619021"
+  },
+  {
+    "title": "El Atrapasueños",
+    "artist": "Salduie",
+    "isrc": "ES71G1830630"
+  },
+  {
+    "title": "Empire Falls",
+    "artist": "Primordial",
+    "isrc": "USMBR0705443"
+  },
+  {
+    "title": "Call of the Carnyx",
+    "artist": "Saor",
+    "isrc": "FR33T2166701"
+  },
+  {
+    "title": "Ambiramus",
+    "artist": "Eluveitie",
+    "isrc": "DED831802017"
+  },
+  {
+    "title": "Sons of Morna",
+    "artist": "Celtachor",
+    "isrc": "FR2X41839059"
+  },
+  {
+    "title": "Alba",
+    "artist": "Lándevir",
+    "isrc": "TCABL1227228"
+  },
+  {
+    "title": "Dare to Tame Me",
+    "artist": "Triddana",
+    "isrc": "TCADS1808530"
+  },
+  {
+    "title": "Believe it's true!",
+    "artist": "Tuatha de Danann",
+    "isrc": "BRPRX0400479"
+  },
+  {
+    "title": "Camino Sin Fin",
+    "artist": "Ars Amandi",
+    "isrc": "ES6700302801"
+  },
+  {
+    "title": "All Eire Will Quake",
+    "artist": "Mael Mórdha",
+    "isrc": "GBADD1341604"
+  },
+  {
+    "title": "Freeze",
+    "artist": "Cellar Darling",
+    "isrc": "DED831801964"
+  },
+  {
+    "title": "Dark Love Empress",
+    "artist": "Leaves' Eyes",
+    "isrc": "DEU602008858"
+  },
+  {
+    "title": "La Hija De Las Estrellas",
+    "artist": "Celtian",
+    "isrc": "TCAFX2101387"
+  },
+  {
+    "title": "Vent Follet",
+    "artist": "Hantaoma",
+    "isrc": "FR7M00510301"
+  },
+  {
+    "title": "Der Letzte Winter",
+    "artist": "Slartibartfass",
+    "isrc": "DEAR41176859"
+  },
+  {
+    "title": "Traveller's Song",
+    "artist": "Folk Metal Jacket",
+    "isrc": "SE5BU1817152"
+  },
+  {
+    "title": "Enchanted by Moonlight",
+    "artist": "White Raven",
+    "isrc": "CH6541705353"
+  },
+  {
+    "title": "Licán",
+    "artist": "Briselas",
+    "isrc": "QZDA51911483"
+  },
+  {
+    "title": "The Lonely Dwarf",
+    "artist": "Minotaurus",
+    "isrc": "DEZ650903516"
+  },
+  {
+    "title": "Spansill Hill",
+    "artist": "Geasa",
+    "isrc": "FR33T9901509"
+  },
+  {
+    "title": "Para Siempre",
+    "artist": "Lurte",
+    "isrc": "ES28I1800070"
+  },
+  {
+    "title": "La Dançarem Pus",
+    "artist": "Lou Quinse",
+    "isrc": "usx9p2047863"
+  },
+  {
+    "title": "Y Ddraig Goch",
+    "artist": "Barad Guldur",
+    "isrc": "GX38U2289707"
+  },
+  {
+    "title": "Dust to Dust",
+    "artist": "Lyriel",
+    "isrc": "DEU601405161"
+  },
+  {
+    "title": "Spielmann",
+    "artist": "Ingrimm",
+    "isrc": "DEOM10700035"
+  },
+  {
+    "title": "Day Sixteen: Loser",
+    "artist": "Ayreon",
+    "isrc": "NLB931601616"
+  },
+  {
+    "title": "Kernunna",
+    "artist": "Kernunna",
+    "isrc": "BRGFP1300041"
+  },
+  {
+    "title": "Don't Forget",
+    "artist": "Time of Tales",
+    "isrc": "uscgh1684807"
+  },
+  {
+    "title": "Odin's Call",
+    "artist": "BELLFAST",
+    "isrc": "JPZ921001672"
+  },
+  {
+    "title": "One Thousand Years Of Night",
+    "artist": "Darkest Era",
+    "isrc": "GBUM72201175"
+  },
+  {
+    "title": "Obsidio",
+    "artist": "Duir",
+    "isrc": "QZ22B1883417"
+  },
+  {
+    "title": "Jinn",
+    "artist": "KormaK",
+    "isrc": "DEAR42112039"
+  },
+  {
+    "title": "Dualità",
+    "artist": "Artaius",
+    "isrc": "UKCVA1900822"
+  },
+  {
+    "title": "Bleizken",
+    "artist": "Belenos",
+    "isrc": "ESA011969928"
+  },
+  {
+    "title": "Abracadabra",
+    "artist": "Last Days of Eden",
+    "isrc": "DETX22100702"
+  },
+  {
+    "title": "Wolfe Tone",
+    "artist": "Cruachan",
+    "isrc": "DEU600600613"
+  },
+  {
+    "title": "A Celtic Tale - Instrumental Version",
+    "artist": "Fferyllt",
+    "isrc": "ESA011517919"
+  },
+  {
+    "title": "King of the Faires",
+    "artist": "Waylander",
+    "isrc": "US4E40591108"
+  },
+  {
+    "title": "March of Conquest",
+    "artist": "SuidAkrA",
+    "isrc": "DEU601304629"
+  },
+  {
+    "title": "Beerdrinkers on Duty",
+    "artist": "Celtibeerian",
+    "isrc": "USX9P2320977"
+  },
+  {
+    "title": "The Final Countdown",
+    "artist": "Skiltron, Celtica Nova, The Snake Charmer",
+    "isrc": "QZ8252037677"
+  },
+  {
+    "title": "La caccia morta",
+    "artist": "Furor Gallico",
+    "isrc": "DER371172611"
+  },
+  {
+    "title": "Panevin",
+    "artist": "Kanseil",
+    "isrc": "IEJNG1400174"
+  },
+  {
+    "title": "Macerie",
+    "artist": "Folkstone",
+    "isrc": "IT10Z2300015"
+  },
+  {
+    "title": "The Bear Dance",
+    "artist": "Ithilien",
+    "isrc": "ITO371603265"
+  },
+  {
+    "title": "Vinlanders (Defend the Land)",
+    "artist": "Distoriam",
+    "isrc": "CAV9X1500010"
+  },
+  {
+    "title": "Spinning Jenny",
+    "artist": "Skyclad",
+    "isrc": "GBJBV1000370"
+  },
+  {
+    "title": "Raised By Wolves",
+    "artist": "Cruadalach",
+    "isrc": "CZA163395874"
+  },
+  {
+    "title": "Signal the Storm",
+    "artist": "Battlesoul",
+    "isrc": "QMPKX1653436"
+  },
+  {
+    "title": "Doomsday Argument",
+    "artist": "Drakwald",
+    "isrc": "USY251639919"
+  },
+  {
+    "title": "Beast Within",
+    "artist": "Krampus",
+    "isrc": "ATN261202402"
+  },
+  {
+    "title": "A Brindar",
+    "artist": "Salduie",
+    "isrc": "QM6P41428822"
+  },
+  {
+    "title": "Gallows Hymn",
+    "artist": "Primordial",
+    "isrc": "USMBR0705444"
+  },
+  {
+    "title": "Fallen",
+    "artist": "Saor",
+    "isrc": "FR33T2166702"
+  },
+  {
+    "title": "Inis Mona",
+    "artist": "Eluveitie",
+    "isrc": "DED830703627"
+  },
+  {
+    "title": "King of Tara",
+    "artist": "Celtachor",
+    "isrc": "FR2X41839060"
+  },
+  {
+    "title": "Las Mil y una Noches",
+    "artist": "Lándevir",
+    "isrc": "TCABL1227224"
+  },
+  {
+    "title": "The Ground of the Fallen",
+    "artist": "Triddana",
+    "isrc": "TCAGB2246262"
+  },
+  {
+    "title": "Trova Di Danú",
+    "artist": "Tuatha de Danann",
+    "isrc": "BRPRX0400482"
+  },
+  {
+    "title": "No Queda Sino Batirnos",
+    "artist": "Ars Amandi",
+    "isrc": "ES6700403603"
+  },
+  {
+    "title": "Laudabiliter",
+    "artist": "Mael Mórdha",
+    "isrc": "GBADD1341601"
+  }
+]

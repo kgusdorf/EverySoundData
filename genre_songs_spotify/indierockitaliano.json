@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Capire settembre",
+    "artist": "Fine Before You Came",
+    "isrc": "FR6V81735637"
+  },
+  {
+    "title": "La fine del giorno",
+    "artist": "Cosmetic",
+    "isrc": "ITP841200029"
+  },
+  {
+    "title": "Come la Luna",
+    "artist": "Management",
+    "isrc": "ITQD01914003"
+  },
+  {
+    "title": "L'anima non conta",
+    "artist": "The Zen Circus",
+    "isrc": "ITP841600092"
+  },
+  {
+    "title": "Water Tanks",
+    "artist": "I Hate My Village",
+    "isrc": "ITP842400074"
+  },
+  {
+    "title": "Hey Boy Hey Girl - Cover Version",
+    "artist": "Bud Spencer Blues Explosion",
+    "isrc": "ITG710810003"
+  },
+  {
+    "title": "Nottata",
+    "artist": "I Botanici",
+    "isrc": "ITT741900027"
+  },
+  {
+    "title": "Quando finirà",
+    "artist": "Elephant Brain",
+    "isrc": "FRX281906415"
+  },
+  {
+    "title": "Bobby Ballad",
+    "artist": "Generic Animal",
+    "isrc": "ITP842400098"
+  },
+  {
+    "title": "Re",
+    "artist": "Umberto Maria Giardini",
+    "isrc": "ITP842300164"
+  },
+  {
+    "title": "Ostaggio",
+    "artist": "Jesse the Faccio",
+    "isrc": "ITUVM1800045"
+  },
+  {
+    "title": "Sempre",
+    "artist": "Riviera",
+    "isrc": "ITP842400064"
+  },
+  {
+    "title": "Il vento",
+    "artist": "Nadàr Solo, Il Teatro Degli Orrori",
+    "isrc": "TCADL1878383"
+  },
+  {
+    "title": "The Botanist",
+    "artist": "C'mon Tigre, Seun Kuti",
+    "isrc": "DGA0H2308218"
+  },
+  {
+    "title": "È Altro",
+    "artist": "Dunk",
+    "isrc": "ITCV31806004"
+  },
+  {
+    "title": "Venere",
+    "artist": "Atlante, Daniele Celona",
+    "isrc": "ITHU51800327"
+  },
+  {
+    "title": "Freezing",
+    "artist": "Campos",
+    "isrc": "IT0501600590"
+  },
+  {
+    "title": "A Tempo Con Te",
+    "artist": "La Notte",
+    "isrc": "ITCV31805906"
+  },
+  {
+    "title": "Spettatore",
+    "artist": "Pietro Berselli",
+    "isrc": "ITYBK1900124"
+  },
+  {
+    "title": "Dois Palitos Fofinhos",
+    "artist": "C+C=Maxigross",
+    "isrc": "ITYBK2300127"
+  },
+  {
+    "title": "Cose più grandi di te",
+    "artist": "Le Endrigo",
+    "isrc": "ITB002101123"
+  },
+  {
+    "title": "Io no",
+    "artist": "Cappadonia",
+    "isrc": "ITAW01900919"
+  },
+  {
+    "title": "Oh Satellity",
+    "artist": "Mèsa",
+    "isrc": "ITLGE1800048"
+  },
+  {
+    "title": "Singapore",
+    "artist": "Io e la tigre",
+    "isrc": "ITT741800056"
+  },
+  {
+    "title": "Nerone",
+    "artist": "Le capre a sonagli",
+    "isrc": "ITCV31704909"
+  },
+  {
+    "title": "La verità",
+    "artist": "Od Fulmine, Davide Toffolo",
+    "isrc": "ITP841600107"
+  },
+  {
+    "title": "Seduta spiritica",
+    "artist": "Lo Straniero",
+    "isrc": "ITP841800145"
+  },
+  {
+    "title": "Eleonora no",
+    "artist": "Stella Maris",
+    "isrc": "ITP841700186"
+  },
+  {
+    "title": "Rettile",
+    "artist": "Gigante",
+    "isrc": "ITB261900850"
+  },
+  {
+    "title": "Dammi un'idea",
+    "artist": "Bruno Belissimo, Whitemary",
+    "isrc": "ITRHE2400041"
+  },
+  {
+    "title": "Storie Di Lacrime",
+    "artist": "Il Triangolo",
+    "isrc": "QMFME2372600"
+  },
+  {
+    "title": "Una voce verrà",
+    "artist": "Fuzz Orchestra",
+    "isrc": "QMDA61582694"
+  },
+  {
+    "title": "Dentro la notte",
+    "artist": "Verano",
+    "isrc": "IT3GN1800020"
+  },
+  {
+    "title": "Love Anthem, No. 1",
+    "artist": "Venerus, MACE",
+    "isrc": "ITFR81910023"
+  },
+  {
+    "title": "Nel sonno profondo",
+    "artist": "Dino Fumaretto",
+    "isrc": "QM7281894197"
+  },
+  {
+    "title": "Genova quel ragazzo",
+    "artist": "Esterina",
+    "isrc": "QM4TW2433510"
+  },
+  {
+    "title": "Sin Cleopatra",
+    "artist": "Indianizer",
+    "isrc": "GBSMU6941180"
+  },
+  {
+    "title": "Un poster",
+    "artist": "Intercity",
+    "isrc": "IT8U11810009"
+  },
+  {
+    "title": "Piangi con me",
+    "artist": "Bee Bee Sea",
+    "isrc": "GBKPL1955491"
+  },
+  {
+    "title": "Marshmallow",
+    "artist": "Bar Ponderoso",
+    "isrc": "ITAW02201189"
+  },
+  {
+    "title": "Have Visions",
+    "artist": "Jolly Mare",
+    "isrc": "GB7EJ1300037"
+  },
+  {
+    "title": "Contorni e muri",
+    "artist": "Sula Ventrebianco",
+    "isrc": "ushm81023676"
+  },
+  {
+    "title": "Oceano Di Champagne",
+    "artist": "Johann Sebastian Punk",
+    "isrc": "ITFIQ2100015"
+  },
+  {
+    "title": "Come piace a me",
+    "artist": "Pornoriviste",
+    "isrc": "FR6V89702030"
+  },
+  {
+    "title": "Il migliore dei mondi",
+    "artist": "Murubutu",
+    "isrc": "IT2G32100002"
+  },
+  {
+    "title": "Parco comunale",
+    "artist": "La Scimmia",
+    "isrc": "ITK191800232"
+  },
+  {
+    "title": "Care",
+    "artist": "Vanarin",
+    "isrc": "ITYBK1900076"
+  },
+  {
+    "title": "Mi Fa Schifo Lavorare",
+    "artist": "Osaka Flu",
+    "isrc": "CAENV1882034"
+  },
+  {
+    "title": "Your Body Tortures",
+    "artist": "Movie Star Junkies",
+    "isrc": "FXQ292000005"
+  },
+  {
+    "title": "Soltanto un video",
+    "artist": "Giulio Casale",
+    "isrc": "ITP071802600"
+  },
+  {
+    "title": "Mi faccio a fette",
+    "artist": "Marydolls",
+    "isrc": "ITL941300002"
+  },
+  {
+    "title": "Rimini",
+    "artist": "Fadi",
+    "isrc": "ITB001900063"
+  },
+  {
+    "title": "Io sono il Re",
+    "artist": "Le Mura",
+    "isrc": "GXBDT2338312"
+  },
+  {
+    "title": "Neutron Star Collision",
+    "artist": "Superinvaders",
+    "isrc": "GBSMU4900242"
+  },
+  {
+    "title": "Occasioni Perse",
+    "artist": "Moravagine",
+    "isrc": "QZ5FN1882149"
+  },
+  {
+    "title": "Pollution",
+    "artist": "Go!Zilla",
+    "isrc": "ITH501501004"
+  },
+  {
+    "title": "Rincontrarsi un giorno a Milano",
+    "artist": "La Scapigliatura, Arisa",
+    "isrc": "ITP5S1900032"
+  },
+  {
+    "title": "A casa tutto bene",
+    "artist": "Suvari",
+    "isrc": "IT75Z2300908"
+  },
+  {
+    "title": "Metal Sexual Toy Boy - Acoustic Version",
+    "artist": "Tin Woodman",
+    "isrc": "ITF3E2100061"
+  },
+  {
+    "title": "Taddarita",
+    "artist": "Alessio Bondì",
+    "isrc": "ITV502400001"
+  },
+  {
+    "title": "Patchwork",
+    "artist": "Appaloosa",
+    "isrc": "DEQ121114215"
+  },
+  {
+    "title": "Marta",
+    "artist": "Agnello",
+    "isrc": "TCADO1838536"
+  },
+  {
+    "title": "All The President's Girls",
+    "artist": "The Lovely Savalas",
+    "isrc": "USVRX1000001"
+  },
+  {
+    "title": "Scegli me tra i bisonti",
+    "artist": "Simona Norato",
+    "isrc": "ITOOJ1800067"
+  },
+  {
+    "title": "Some Good Will Come",
+    "artist": "An Early Bird",
+    "isrc": "QM4TW2450846"
+  },
+  {
+    "title": "Chimera",
+    "artist": "La Batteria",
+    "isrc": "FR10S1523314"
+  },
+  {
+    "title": "Sound Is Now",
+    "artist": "Quasiviri",
+    "isrc": "QMDA71464809"
+  },
+  {
+    "title": "Lanthimos",
+    "artist": "Delmoro",
+    "isrc": "ITB262000660"
+  },
+  {
+    "title": "Lollypop",
+    "artist": "Mambo Melon",
+    "isrc": "GBSMU5977207"
+  },
+  {
+    "title": "Speak Loud",
+    "artist": "I'm Not a Blonde",
+    "isrc": "ITK252110071"
+  },
+  {
+    "title": "KITTY",
+    "artist": "EDY, Misty",
+    "isrc": "ITFHF2400075"
+  },
+  {
+    "title": "Mathila Ya Mulvi",
+    "artist": "Pugile, Victor Kwality",
+    "isrc": "ITN5E1800034"
+  },
+  {
+    "title": "Beggin'",
+    "artist": "Måneskin",
+    "isrc": "ITB001700846"
+  },
+  {
+    "title": "Timezone Hungoverz",
+    "artist": "Clever Square",
+    "isrc": "GBSMU5661885"
+  },
+  {
+    "title": "Astronauta",
+    "artist": "L'Opera di Amanda",
+    "isrc": "QZ22B2064790"
+  },
+  {
+    "title": "Rock 'n' Roll Robot",
+    "artist": "Alberto Camerini",
+    "isrc": "ITM000001880"
+  },
+  {
+    "title": "Sleep",
+    "artist": "The Pier",
+    "isrc": "ITO561800026"
+  },
+  {
+    "title": "Muta",
+    "artist": "EX",
+    "isrc": "ITV191602349"
+  },
+  {
+    "title": "Timido Uomo",
+    "artist": "Bontempi",
+    "isrc": "ITJP12200001"
+  },
+  {
+    "title": "Fortune",
+    "artist": "Caboose",
+    "isrc": "QZDA42283232"
+  },
+  {
+    "title": "Video dei gatti",
+    "artist": "Flat Bit",
+    "isrc": "CH6542382542"
+  },
+  {
+    "title": "Lacrime di coccodrillo",
+    "artist": "Lamarea",
+    "isrc": "USA2P2302564"
+  },
+  {
+    "title": "Il Maestrale",
+    "artist": "Leo Lazz, Lazzaro",
+    "isrc": "ITG371800030"
+  },
+  {
+    "title": "Giganti",
+    "artist": "Nosexfor",
+    "isrc": "ITL942200028"
+  },
+  {
+    "title": "Harp",
+    "artist": "Pashmak, Avan",
+    "isrc": "ITHBZ1800069"
+  },
+  {
+    "title": "Sonicatomic",
+    "artist": "Sonicatomic",
+    "isrc": "DEAR41957773"
+  },
+  {
+    "title": "Диадема - Jarico Remix",
+    "artist": "WOW, Jarico",
+    "isrc": "FR26V2033362"
+  },
+  {
+    "title": "Lista",
+    "artist": "Fine Before You Came",
+    "isrc": "FR6V81732772"
+  },
+  {
+    "title": "Lenta conquista",
+    "artist": "Cosmetic",
+    "isrc": "ITP841200024"
+  },
+  {
+    "title": "Chiara scappiamo",
+    "artist": "Management",
+    "isrc": "ITQD01914004"
+  },
+  {
+    "title": "Catene",
+    "artist": "The Zen Circus",
+    "isrc": "ITCV31806201"
+  },
+  {
+    "title": "Artiminime",
+    "artist": "I Hate My Village",
+    "isrc": "ITP842400088"
+  },
+  {
+    "title": "Stranidei",
+    "artist": "Bud Spencer Blues Explosion",
+    "isrc": "ITP842300122"
+  },
+  {
+    "title": "Camomilla",
+    "artist": "I Botanici, Lo Stato Sociale",
+    "isrc": "ITT741900030"
+  },
+  {
+    "title": "Scappare sempre",
+    "artist": "Elephant Brain",
+    "isrc": "FRX281906417"
+  },
+  {
+    "title": "Scherzo (feat. Massimo Pericolo)",
+    "artist": "Generic Animal, Massimo Pericolo",
+    "isrc": "ITP841900186"
+  },
+  {
+    "title": "Il trionfo dei tuoi occhi",
+    "artist": "Umberto Maria Giardini",
+    "isrc": "ITP841200092"
+  },
+  {
+    "title": "L.N.C.A.P.",
+    "artist": "Jesse the Faccio",
+    "isrc": "ITK191800163"
+  },
+  {
+    "title": "Ruvida ruvida",
+    "artist": "Riviera",
+    "isrc": "ITP842400070"
+  },
+  {
+    "title": "Aprile",
+    "artist": "Nadàr Solo",
+    "isrc": "ITOHP1600022"
+  },
+  {
+    "title": "Sleeping beauties feat. Colin Stetson",
+    "artist": "C'mon Tigre, Colin Stetson",
+    "isrc": "FR2X42227072"
+  },
+  {
+    "title": "Avevo Voglia",
+    "artist": "Dunk",
+    "isrc": "ITCV31806002"
+  },
+  {
+    "title": "27",
+    "artist": "Atlante",
+    "isrc": "ITAIL2400075"
+  },
+  {
+    "title": "Figlio Del Fiume",
+    "artist": "Campos",
+    "isrc": "ITCV31908102"
+  },
+  {
+    "title": "Per Nuovi Pescatori",
+    "artist": "La Notte",
+    "isrc": "ITCV31805901"
+  },
+  {
+    "title": "Evidentemente no",
+    "artist": "Pietro Berselli",
+    "isrc": "ITYBK1900152"
+  },
+  {
+    "title": "Il vento",
+    "artist": "C+C=Maxigross",
+    "isrc": "ITYBK2200152"
+  },
+  {
+    "title": "Stare soli",
+    "artist": "Le Endrigo",
+    "isrc": "ITT742000071"
+  },
+  {
+    "title": "Corpo minore",
+    "artist": "Cappadonia",
+    "isrc": "ITAW01900921"
+  },
+  {
+    "title": "Romantica",
+    "artist": "Mèsa",
+    "isrc": "ITLGE2100012"
+  },
+  {
+    "title": "Se entrambi i nostri aerei cadessero",
+    "artist": "Io e la tigre",
+    "isrc": "ITT741800039"
+  },
+  {
+    "title": "Funeral Rave Party - Radio Edit",
+    "artist": "Le capre a sonagli",
+    "isrc": "ITNHT2300001"
+  },
+  {
+    "title": "5 cose",
+    "artist": "Od Fulmine",
+    "isrc": "QMFME1457712"
+  },
+  {
+    "title": "Artistico serale",
+    "artist": "Lo Straniero",
+    "isrc": "ITP842200146"
+  },
+  {
+    "title": "Quando un amore muore non ci sono colpe",
+    "artist": "Stella Maris",
+    "isrc": "ITAW01700796"
+  },
+  {
+    "title": "Guerra",
+    "artist": "Gigante",
+    "isrc": "IT29Q1700126"
+  },
+  {
+    "title": "Desiderio",
+    "artist": "Bruno Belissimo",
+    "isrc": "ITRHE2200009"
+  },
+  {
+    "title": "Figli dei nostri genitori",
+    "artist": "Il Triangolo",
+    "isrc": "QM4TW2451640"
+  },
+  {
+    "title": "Morire per la patria",
+    "artist": "Fuzz Orchestra",
+    "isrc": "USCHR1302109"
+  },
+  {
+    "title": "Bombafragola",
+    "artist": "Verano",
+    "isrc": "IT3GN1800034"
+  },
+  {
+    "title": "Appartamento (feat. Frah Quintale)",
+    "artist": "Venerus, Frah Quintale, MACE",
+    "isrc": "ITFR82010082"
+  },
+  {
+    "title": "Bicchiere rotto",
+    "artist": "Dino Fumaretto",
+    "isrc": "QM4TW1945808"
+  },
+  {
+    "title": "Le cose che da tempo ti dovevo",
+    "artist": "Esterina",
+    "isrc": "QM4TW2433519"
+  },
+  {
+    "title": "UNDÈ",
+    "artist": "Indianizer",
+    "isrc": "ITL772404022"
+  },
+  {
+    "title": "Caterpillar Music",
+    "artist": "Intercity",
+    "isrc": "ITS130800052"
+  },
+  {
+    "title": "Daily Jobs",
+    "artist": "Bee Bee Sea",
+    "isrc": "GBKPL2094773"
+  },
+  {
+    "title": "Ok ok ok",
+    "artist": "Bar Ponderoso",
+    "isrc": "ITAW02101120"
+  },
+  {
+    "title": "Sabbia Bianca",
+    "artist": "Jolly Mare",
+    "isrc": "DEVY92100071"
+  },
+  {
+    "title": "Napoli",
+    "artist": "Sula Ventrebianco",
+    "isrc": "ITDW11800106"
+  },
+  {
+    "title": "24 ore",
+    "artist": "Johann Sebastian Punk",
+    "isrc": "ITFIQ2200020"
+  },
+  {
+    "title": "Dammi la verità",
+    "artist": "Pornoriviste",
+    "isrc": "FR6V80104274"
+  },
+  {
+    "title": "Le notti bianche (featuring Claver Gold)",
+    "artist": "Murubutu, Claver Gold",
+    "isrc": "ITI021800767"
+  },
+  {
+    "title": "Ti farò del male",
+    "artist": "La Scimmia",
+    "isrc": "ITK191800230"
+  },
+  {
+    "title": "Wait and See",
+    "artist": "Vanarin, Tin Woodman, Kick",
+    "isrc": "QM4TX2060819"
+  },
+  {
+    "title": "Gina",
+    "artist": "Osaka Flu",
+    "isrc": "CAENV1882163"
+  },
+  {
+    "title": "East End Serenade",
+    "artist": "Movie Star Junkies",
+    "isrc": "FXQ292000003"
+  },
+  {
+    "title": "Sono corpo",
+    "artist": "Giulio Casale",
+    "isrc": "ITP071802650"
+  },
+  {
+    "title": "Non mi passa",
+    "artist": "Marydolls",
+    "isrc": "ITL941300001"
+  },
+  {
+    "title": "Due noi",
+    "artist": "Fadi",
+    "isrc": "ITB001900641"
+  },
+  {
+    "title": "Sotto Di 31",
+    "artist": "Le Mura",
+    "isrc": "ITJ790600641"
+  },
+  {
+    "title": "Blade Runner End Titles Revirused",
+    "artist": "Superinvaders",
+    "isrc": "FRX202051704"
+  },
+  {
+    "title": "Stai Con Me",
+    "artist": "Moravagine",
+    "isrc": "QZ5FN1882228"
+  },
+  {
+    "title": "I Hate All the Time",
+    "artist": "Go!Zilla",
+    "isrc": "ITH501501006"
+  },
+  {
+    "title": "Ricontrarsi un giorno a Milano (feat. Arisa) - Extended Version",
+    "artist": "La Scapigliatura, Arisa",
+    "isrc": "ITP5S1900032"
+  },
+  {
+    "title": "Doppio standard",
+    "artist": "Suvari",
+    "isrc": "IT75Z2300901"
+  },
+  {
+    "title": "Dreaming Trip",
+    "artist": "Tin Woodman",
+    "isrc": "ITF3E2100063"
+  },
+  {
+    "title": "Vixi",
+    "artist": "Fine Before You Came",
+    "isrc": "FR6V81732778"
+  },
+  {
+    "title": "Né noi né Leandro",
+    "artist": "Cosmetic",
+    "isrc": "ITP840900030"
+  },
+  {
+    "title": "Naufragando",
+    "artist": "Management",
+    "isrc": "ITP841600299"
+  },
+  {
+    "title": "Viva",
+    "artist": "The Zen Circus",
+    "isrc": "ITP841300082"
+  },
+  {
+    "title": "Italiapaura",
+    "artist": "I Hate My Village",
+    "isrc": "ITP842400089"
+  },
+  {
+    "title": "Insynthesi",
+    "artist": "Bud Spencer Blues Explosion",
+    "isrc": "ITP842300216"
+  },
+  {
+    "title": "Un posto bellissimo",
+    "artist": "I Botanici",
+    "isrc": "ITT742200727"
+  },
+  {
+    "title": "Una casa in cui tornare",
+    "artist": "Elephant Brain",
+    "isrc": "FRX452481629"
+  },
+  {
+    "title": "Presto (feat. Franco126)",
+    "artist": "Generic Animal, Franco126",
+    "isrc": "ITP841900192"
+  },
+  {
+    "title": "Andromeda",
+    "artist": "Umberto Maria Giardini",
+    "isrc": "ITP842300166"
+  },
+  {
+    "title": "19.90",
+    "artist": "Jesse the Faccio",
+    "isrc": "TCADQ1866092"
+  },
+  {
+    "title": "Terra violenta",
+    "artist": "Riviera, maggio",
+    "isrc": "ITP842400066"
+  },
+  {
+    "title": "Le case senza le porte",
+    "artist": "Nadàr Solo",
+    "isrc": "TCADL1878391"
+  },
+  {
+    "title": "Quantum of the Air",
+    "artist": "C'mon Tigre",
+    "isrc": "ITCYI1800207"
+  },
+  {
+    "title": "Noi Non Siamo",
+    "artist": "Dunk",
+    "isrc": "ITCV31806010"
+  },
+  {
+    "title": "Murphy",
+    "artist": "Atlante",
+    "isrc": "ITHU52100503"
+  },
+  {
+    "title": "Am I a Man",
+    "artist": "Campos",
+    "isrc": "IT0501600580"
+  },
+  {
+    "title": "Volevo Fare Bene",
+    "artist": "La Notte",
+    "isrc": "ITCV31805904"
+  },
+  {
+    "title": "Nord Europa",
+    "artist": "Pietro Berselli",
+    "isrc": "ITYBK1900148"
+  },
+  {
+    "title": "Torna a Casa",
+    "artist": "C+C=Maxigross",
+    "isrc": "QM7281798115"
+  },
+  {
+    "title": "Straight outta Villaggio Sereno (BS)",
+    "artist": "Le Endrigo",
+    "isrc": "ITL941700020"
+  },
+  {
+    "title": "Il ruolo",
+    "artist": "Cappadonia",
+    "isrc": "ITAW02201181"
+  },
+  {
+    "title": "La Colpa",
+    "artist": "Mèsa",
+    "isrc": "ITLGE1800019"
+  },
+  {
+    "title": "Lei sa",
+    "artist": "Io e la tigre",
+    "isrc": "ITT741500078"
+  },
+  {
+    "title": "Elettricista",
+    "artist": "Le capre a sonagli",
+    "isrc": "ITCV31907402"
+  },
+  {
+    "title": "Da quel giorno",
+    "artist": "Od Fulmine",
+    "isrc": "QMFME1457716"
+  },
+  {
+    "title": "Quartiere italiano",
+    "artist": "Lo Straniero",
+    "isrc": "ITP841800174"
+  },
+  {
+    "title": "L'umanità indotta",
+    "artist": "Stella Maris",
+    "isrc": "ITAW01700789"
+  },
+  {
+    "title": "Tempesta",
+    "artist": "Gigante",
+    "isrc": "ITB261800490"
+  },
+  {
+    "title": "Tempi moderni",
+    "artist": "Bruno Belissimo",
+    "isrc": "ITP841800090"
+  }
+]

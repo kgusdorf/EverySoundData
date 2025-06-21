@@ -1,0 +1,822 @@
+[
+  {
+    "title": "Mr. Smiley",
+    "artist": "Mustard Plug",
+    "isrc": "TCAAR1093533"
+  },
+  {
+    "title": "Shining On",
+    "artist": "Big D and the Kids Table",
+    "isrc": "USA6G0732803"
+  },
+  {
+    "title": "Stuff",
+    "artist": "MU330",
+    "isrc": "US4ZV0910167"
+  },
+  {
+    "title": "Shoot the Moon",
+    "artist": "Voodoo Glow Skulls",
+    "isrc": "USEP40327101"
+  },
+  {
+    "title": "2Tone Army",
+    "artist": "The Toasters",
+    "isrc": "GBBLY1202328"
+  },
+  {
+    "title": "Special Brew",
+    "artist": "Skankin' Pickle",
+    "isrc": "US4ZV1110010"
+  },
+  {
+    "title": "New Girl",
+    "artist": "The Suicide Machines",
+    "isrc": "USHR19504801"
+  },
+  {
+    "title": "Keasbey Nights",
+    "artist": "Catch 22",
+    "isrc": "USVIC9807303"
+  },
+  {
+    "title": "Out All Night",
+    "artist": "The Pietasters",
+    "isrc": "USHEL0304103"
+  },
+  {
+    "title": "Sound System - 2007 Remaster",
+    "artist": "Operation Ivy",
+    "isrc": "USHEL0707103"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "The Planet Smashers",
+    "isrc": "USA370529483"
+  },
+  {
+    "title": "The Bumble Bee Tuna Song",
+    "artist": "Mephiskapheles",
+    "isrc": "USTC70835431"
+  },
+  {
+    "title": "Silence Is Golden But Duct Tape Is Silver",
+    "artist": "Against All Authority",
+    "isrc": "USHR20612062"
+  },
+  {
+    "title": "My Town",
+    "artist": "Buck-O-Nine",
+    "isrc": "USTV19800060"
+  },
+  {
+    "title": "500 Channels",
+    "artist": "Choking Victim",
+    "isrc": "USHEL0307101"
+  },
+  {
+    "title": "Everything Went Numb",
+    "artist": "Streetlight Manifesto",
+    "isrc": "TCADB1719543"
+  },
+  {
+    "title": "Verbal Kint",
+    "artist": "Link 80",
+    "isrc": "USB750400501"
+  },
+  {
+    "title": "Wasted Days",
+    "artist": "The Slackers",
+    "isrc": "USHEL0302401"
+  },
+  {
+    "title": "Step up to Me",
+    "artist": "Bim Skala Bim",
+    "isrc": "USBV30011401"
+  },
+  {
+    "title": "Classics Of Love",
+    "artist": "Common Rider",
+    "isrc": "US4ZV1200036"
+  },
+  {
+    "title": "Angry Anthem",
+    "artist": "The Forces Of Evil",
+    "isrc": "USMJ30300142"
+  },
+  {
+    "title": "Lost Again",
+    "artist": "Dance Hall Crashers",
+    "isrc": "USMC19753169"
+  },
+  {
+    "title": "Road Rash",
+    "artist": "Mad Caddies",
+    "isrc": "USFW40457601"
+  },
+  {
+    "title": "Lost It",
+    "artist": "The Hippos",
+    "isrc": "USIR19902402"
+  },
+  {
+    "title": "Super Rad!",
+    "artist": "The Aquabats!",
+    "isrc": "USTB30400241"
+  },
+  {
+    "title": "The Impression That I Get",
+    "artist": "The Mighty Mighty Bosstones",
+    "isrc": "USMR19780102"
+  },
+  {
+    "title": "If I Could Only Listen to My Heart",
+    "artist": "Bruce Lee Band",
+    "isrc": "QMBZ91927254"
+  },
+  {
+    "title": "They Provide the Paint for the Picture-Perfect Masterpiece That You Will Paint on the Insides of Your Eyelids",
+    "artist": "Bandits Of The Acoustic Revolution",
+    "isrc": "TCAEC1954634"
+  },
+  {
+    "title": "My Girlfriend's Dead",
+    "artist": "The Vandals",
+    "isrc": "USNRR0400198"
+  },
+  {
+    "title": "Wake Up",
+    "artist": "Tim Armstrong",
+    "isrc": "USHEL0706101"
+  },
+  {
+    "title": "Gang Control",
+    "artist": "Leftöver Crack",
+    "isrc": "QMDA62106942"
+  },
+  {
+    "title": "All My Best Friends Are Metalheads",
+    "artist": "Less Than Jake",
+    "isrc": "USCA29800348"
+  },
+  {
+    "title": "Two Cups of Tea",
+    "artist": "Star Fucking Hipsters",
+    "isrc": "QMDA62125342"
+  },
+  {
+    "title": "True Believers",
+    "artist": "The Bouncing Souls",
+    "isrc": "USEP40343403"
+  },
+  {
+    "title": "Stupid Lullabies",
+    "artist": "Swingin' Utters",
+    "isrc": "USFW40498627"
+  },
+  {
+    "title": "There's A Metal Head In The Parking Lot",
+    "artist": "Slapstick",
+    "isrc": "USB750400901"
+  },
+  {
+    "title": "Mile High",
+    "artist": "Left Alone",
+    "isrc": "USDHM1802655"
+  },
+  {
+    "title": "She's Got The Look",
+    "artist": "Guttermouth",
+    "isrc": "USEP40361104"
+  },
+  {
+    "title": "Cool Kids",
+    "artist": "Screeching Weasel",
+    "isrc": "USFW40454702"
+  },
+  {
+    "title": "Beer",
+    "artist": "Reel Big Fish",
+    "isrc": "USJI10200014"
+  },
+  {
+    "title": "Duck Tales",
+    "artist": "Suburban Legends",
+    "isrc": "USB761302464"
+  },
+  {
+    "title": "To Have And To Have Not",
+    "artist": "Lars Frederiksen and the Bastards",
+    "isrc": "USHEL0319104"
+  },
+  {
+    "title": "Rebel Yell",
+    "artist": "Assorted Jelly Beans",
+    "isrc": "USKFR0400034"
+  },
+  {
+    "title": "Come on Eileen",
+    "artist": "Save Ferris",
+    "isrc": "USSM19700774"
+  },
+  {
+    "title": "She's Drunk All the Time",
+    "artist": "Tim Timebomb",
+    "isrc": "QMDA71492001"
+  },
+  {
+    "title": "Run Away",
+    "artist": "The Chinkees",
+    "isrc": "USB750404303"
+  },
+  {
+    "title": "Diamonds And Guns",
+    "artist": "Transplants",
+    "isrc": "USHEL0324104"
+  },
+  {
+    "title": "Messin' Around",
+    "artist": "Deal's Gone Bad",
+    "isrc": "TCAAW1170187"
+  },
+  {
+    "title": "Acceleration 5000",
+    "artist": "Blue Meanies",
+    "isrc": "USB750404501"
+  },
+  {
+    "title": "Back to the Motor League",
+    "artist": "Propagandhi",
+    "isrc": "QZ4JJ1647528"
+  },
+  {
+    "title": "A War Inside",
+    "artist": "Bigwig",
+    "isrc": "US5260608201"
+  },
+  {
+    "title": "So Let's Go Nowhere",
+    "artist": "The Arrogant Sons Of Bitches",
+    "isrc": "TCAEH1925639"
+  },
+  {
+    "title": "Sunrise to Sunset",
+    "artist": "Edna's Goldfish",
+    "isrc": "GBBLY1403284"
+  },
+  {
+    "title": "Climbing",
+    "artist": "Pilfers",
+    "isrc": "USCGH1604908"
+  },
+  {
+    "title": "Beautiful Girl",
+    "artist": "The Gadjits",
+    "isrc": "USHEL0301115"
+  },
+  {
+    "title": "Crystal 52",
+    "artist": "Jeffries Fan Club",
+    "isrc": "USA560449563"
+  },
+  {
+    "title": "Shed Some Skin",
+    "artist": "Slow Gherkin",
+    "isrc": "US4ZV0910266"
+  },
+  {
+    "title": "Revolution",
+    "artist": "Authority Zero",
+    "isrc": "USAT20400689"
+  },
+  {
+    "title": "Everything'll Be Alright",
+    "artist": "Chris Murray",
+    "isrc": "uscgh1004367"
+  },
+  {
+    "title": "Jolene",
+    "artist": "Spring Heeled Jack",
+    "isrc": "usdy41504190"
+  },
+  {
+    "title": "Ma and Pa",
+    "artist": "Fishbone",
+    "isrc": "USSM10017750"
+  },
+  {
+    "title": "Kicking Pigeons",
+    "artist": "[spunge]",
+    "isrc": "USA560761032"
+  },
+  {
+    "title": "Check Your Time",
+    "artist": "Westbound Train",
+    "isrc": "USHEL0804103"
+  },
+  {
+    "title": "She's My Ex",
+    "artist": "All",
+    "isrc": "USA370538662"
+  },
+  {
+    "title": "Paint It Black",
+    "artist": "The Unseen",
+    "isrc": "USHEL0501114"
+  },
+  {
+    "title": "Country Roads",
+    "artist": "Me First and the Gimme Gimmes",
+    "isrc": "USFW40872903"
+  },
+  {
+    "title": "She Hates Ska",
+    "artist": "I Voted For Kodos",
+    "isrc": "USME30801113"
+  },
+  {
+    "title": "She's Kerosene",
+    "artist": "The Interrupters",
+    "isrc": "USHEL1801003"
+  },
+  {
+    "title": "A Flowery Song",
+    "artist": "Five Iron Frenzy",
+    "isrc": "TCABQ1387101"
+  },
+  {
+    "title": "Let's Ride",
+    "artist": "MxPx",
+    "isrc": "QZCX21800004"
+  },
+  {
+    "title": "Morbid Obsessions",
+    "artist": "We Are The Union",
+    "isrc": "QZES52194254"
+  },
+  {
+    "title": "The Man With the Skeleton Arms",
+    "artist": "Toh Kay",
+    "isrc": "USA2B1401672"
+  },
+  {
+    "title": "Call Your Bluff",
+    "artist": "Catbite",
+    "isrc": "QZHNA2178112"
+  },
+  {
+    "title": "The Stories Are True",
+    "artist": "Time Again, Tim Armstrong",
+    "isrc": "USHEL0602104"
+  },
+  {
+    "title": "I've Set Sail",
+    "artist": "Dan Potthast",
+    "isrc": "USB750404202"
+  },
+  {
+    "title": "Saving the World",
+    "artist": "Diesel Boy",
+    "isrc": "USFW40500101"
+  },
+  {
+    "title": "Take The Reigns",
+    "artist": "Tsunami Bomb",
+    "isrc": "USKFR0400296"
+  },
+  {
+    "title": "Ca in July",
+    "artist": "The Bombpops",
+    "isrc": "USFW41697402"
+  },
+  {
+    "title": "Santeria",
+    "artist": "Sublime",
+    "isrc": "USGA19649253"
+  },
+  {
+    "title": "Batman Theme",
+    "artist": "Skavoovie & The Epitones",
+    "isrc": "ushm82279894"
+  },
+  {
+    "title": "A Moment of Silence",
+    "artist": "Dan P.",
+    "isrc": "USA2B1011306"
+  },
+  {
+    "title": "Beer (Song)",
+    "artist": "Mustard Plug",
+    "isrc": "USHR20309012"
+  },
+  {
+    "title": "Not Fuckin' Around",
+    "artist": "Big D and the Kids Table",
+    "isrc": "USA6G0938903"
+  },
+  {
+    "title": "Hoosier Love",
+    "artist": "MU330",
+    "isrc": "US4ZV0910165"
+  },
+  {
+    "title": "El Coo Cooi",
+    "artist": "Voodoo Glow Skulls",
+    "isrc": "USEP40327111"
+  },
+  {
+    "title": "Don't Let the Bastards Grind You Down",
+    "artist": "The Toasters",
+    "isrc": "GBBLY1202345"
+  },
+  {
+    "title": "Turning Japanese",
+    "artist": "Skankin' Pickle",
+    "isrc": "US4ZV0910243"
+  },
+  {
+    "title": "High Anxiety",
+    "artist": "The Suicide Machines",
+    "isrc": "USA6G0323804"
+  },
+  {
+    "title": "On & On & On",
+    "artist": "Catch 22",
+    "isrc": "USVIC9807307"
+  },
+  {
+    "title": "Maggie Mae",
+    "artist": "The Pietasters",
+    "isrc": "USA2B0854104"
+  },
+  {
+    "title": "Unity - 2007 Remaster",
+    "artist": "Operation Ivy",
+    "isrc": "USHEL0707108"
+  },
+  {
+    "title": "Can't Stop",
+    "artist": "The Planet Smashers",
+    "isrc": "CASE11900003"
+  },
+  {
+    "title": "Doomsday",
+    "artist": "Mephiskapheles",
+    "isrc": "USTC70834859"
+  },
+  {
+    "title": "All Fall Down",
+    "artist": "Against All Authority",
+    "isrc": "USHR20312001"
+  },
+  {
+    "title": "Paint the Night Red",
+    "artist": "Buck-O-Nine",
+    "isrc": "QM6XS1900440"
+  },
+  {
+    "title": "Crack Rock Steady",
+    "artist": "Choking Victim",
+    "isrc": "USHEL0307103"
+  },
+  {
+    "title": "We Will Fall Together",
+    "artist": "Streetlight Manifesto",
+    "isrc": "TCADB1720281"
+  },
+  {
+    "title": "Nowhere Fast",
+    "artist": "Link 80",
+    "isrc": "USB750400515"
+  },
+  {
+    "title": "Have The Time",
+    "artist": "The Slackers",
+    "isrc": "USHEL0302203"
+  },
+  {
+    "title": "Set Me Up",
+    "artist": "Bim Skala Bim",
+    "isrc": "USBV39910202"
+  },
+  {
+    "title": "Carry On",
+    "artist": "Common Rider",
+    "isrc": "US4ZV1200039"
+  },
+  {
+    "title": "Dance the Night Away",
+    "artist": "The Forces Of Evil",
+    "isrc": "USMJ30300145"
+  },
+  {
+    "title": "My Problem",
+    "artist": "Dance Hall Crashers",
+    "isrc": "USFW40500205"
+  },
+  {
+    "title": "She",
+    "artist": "Mad Caddies",
+    "isrc": "USFW41899803"
+  },
+  {
+    "title": "Wasting My Life",
+    "artist": "The Hippos",
+    "isrc": "USIR19902403"
+  },
+  {
+    "title": "Pool Party",
+    "artist": "The Aquabats!",
+    "isrc": "USADD0430703"
+  },
+  {
+    "title": "Ms. Me",
+    "artist": "Bruce Lee Band",
+    "isrc": "TCABT1427949"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "artist": "Bandits Of The Acoustic Revolution",
+    "isrc": "TCAEC1954630"
+  },
+  {
+    "title": "The Rascal King",
+    "artist": "The Mighty Mighty Bosstones",
+    "isrc": "USMR19780100"
+  },
+  {
+    "title": "Don't Stop Me Now",
+    "artist": "The Vandals",
+    "isrc": "USKFR0400385"
+  },
+  {
+    "title": "Into Action",
+    "artist": "Tim Armstrong",
+    "isrc": "USHEL0706103"
+  },
+  {
+    "title": "So Ya Wanna Be a Cop?",
+    "artist": "Leftöver Crack",
+    "isrc": "QMDA62108469"
+  },
+  {
+    "title": "The Science of Selling Yourself Short",
+    "artist": "Less Than Jake",
+    "isrc": "USWB10300636"
+  },
+  {
+    "title": "Immigrants & Hypocrites",
+    "artist": "Star Fucking Hipsters",
+    "isrc": "QMDA62125341"
+  },
+  {
+    "title": "Hopeless Romantic",
+    "artist": "The Bouncing Souls",
+    "isrc": "USEP40343301"
+  },
+  {
+    "title": "Pills & Smoke",
+    "artist": "Swingin' Utters",
+    "isrc": "USFW40460301"
+  },
+  {
+    "title": "Eighteen",
+    "artist": "Slapstick",
+    "isrc": "USB750400903"
+  },
+  {
+    "title": "Sad Story",
+    "artist": "Left Alone",
+    "isrc": "USHEL0902003"
+  },
+  {
+    "title": "Lipstick",
+    "artist": "Guttermouth",
+    "isrc": "USNRR0400166"
+  },
+  {
+    "title": "My Brain Hurts",
+    "artist": "Screeching Weasel",
+    "isrc": "USB750512014"
+  },
+  {
+    "title": "Sell Out",
+    "artist": "Reel Big Fish",
+    "isrc": "USJI10200004"
+  },
+  {
+    "title": "Under the Sea",
+    "artist": "Suburban Legends",
+    "isrc": "uscgj1234084"
+  },
+  {
+    "title": "The Viking",
+    "artist": "Lars Frederiksen and the Bastards",
+    "isrc": "USHEL0403116"
+  },
+  {
+    "title": "No Time",
+    "artist": "Assorted Jelly Beans",
+    "isrc": "USKFR0400001"
+  },
+  {
+    "title": "The World Is New",
+    "artist": "Save Ferris",
+    "isrc": "USSM19700990"
+  },
+  {
+    "title": "Ooh La La",
+    "artist": "Tim Timebomb",
+    "isrc": "QMDA71492020"
+  },
+  {
+    "title": "You Don't Know",
+    "artist": "The Chinkees",
+    "isrc": "USB750402202"
+  },
+  {
+    "title": "Tall Cans In The Air",
+    "artist": "Transplants",
+    "isrc": "USHEL0324102"
+  },
+  {
+    "title": "Movin' On",
+    "artist": "Deal's Gone Bad",
+    "isrc": "TCAAW1170276"
+  },
+  {
+    "title": "It Doesn't Matter",
+    "artist": "Blue Meanies",
+    "isrc": "USB750404502"
+  },
+  {
+    "title": "I Am a Rifle",
+    "artist": "Propagandhi",
+    "isrc": "QM4DW1574990"
+  },
+  {
+    "title": "Girl In The Green Jacket",
+    "artist": "Bigwig",
+    "isrc": "US37N0430043"
+  },
+  {
+    "title": "(I Must Be a Proctologist Because) All I Do Is Deal With Assholes",
+    "artist": "The Arrogant Sons Of Bitches",
+    "isrc": "TCAEH1925638"
+  },
+  {
+    "title": "Veronica Sawyer",
+    "artist": "Edna's Goldfish",
+    "isrc": "GBBLY1403239"
+  },
+  {
+    "title": "Yakuza",
+    "artist": "Pilfers",
+    "isrc": "USCGH1604900"
+  },
+  {
+    "title": "Bullet In The Mattress",
+    "artist": "The Gadjits",
+    "isrc": "USHEL0301101"
+  },
+  {
+    "title": "On and On",
+    "artist": "Mustard Plug",
+    "isrc": "USHR20725023"
+  },
+  {
+    "title": "Little Bitch",
+    "artist": "Big D and the Kids Table",
+    "isrc": "TCADI1731767"
+  },
+  {
+    "title": "La",
+    "artist": "MU330",
+    "isrc": "USB750400806"
+  },
+  {
+    "title": "Insubordination",
+    "artist": "Voodoo Glow Skulls",
+    "isrc": "US27W0401801"
+  },
+  {
+    "title": "Weekend In L.A.",
+    "artist": "The Toasters",
+    "isrc": "ushm80425638"
+  },
+  {
+    "title": "My Hair",
+    "artist": "Skankin' Pickle",
+    "isrc": "US4ZV1110007"
+  },
+  {
+    "title": "Break The Glass",
+    "artist": "The Suicide Machines",
+    "isrc": "USHR19504803"
+  },
+  {
+    "title": "Dear Sergio",
+    "artist": "Catch 22",
+    "isrc": "USVIC9807301"
+  },
+  {
+    "title": "Girl Take It Easy",
+    "artist": "The Pietasters",
+    "isrc": "USA2B0854107"
+  },
+  {
+    "title": "The Crowd - 2007 Remaster",
+    "artist": "Operation Ivy",
+    "isrc": "USHEL0707106"
+  },
+  {
+    "title": "Missionary's Downfall",
+    "artist": "The Planet Smashers",
+    "isrc": "USA560442554"
+  },
+  {
+    "title": "Saba",
+    "artist": "Mephiskapheles",
+    "isrc": "USTC70835389"
+  },
+  {
+    "title": "Hard As Fuck",
+    "artist": "Against All Authority",
+    "isrc": "USHR20312045"
+  },
+  {
+    "title": "Pass the Dutchie",
+    "artist": "Buck-O-Nine",
+    "isrc": "USTV19800384"
+  },
+  {
+    "title": "5 Finger Discount",
+    "artist": "Choking Victim",
+    "isrc": "USHEL0307111"
+  },
+  {
+    "title": "Point / Counterpoint",
+    "artist": "Streetlight Manifesto",
+    "isrc": "TCADB1719644"
+  },
+  {
+    "title": "Harvester Of Sorrow",
+    "artist": "Link 80",
+    "isrc": "US5260004408"
+  },
+  {
+    "title": "Married Girl",
+    "artist": "The Slackers",
+    "isrc": "USHEL0302103"
+  },
+  {
+    "title": "Popcorn",
+    "artist": "Bim Skala Bim",
+    "isrc": "USBV30011413"
+  },
+  {
+    "title": "Firewall",
+    "artist": "Common Rider",
+    "isrc": "USHR20324001"
+  },
+  {
+    "title": "My Life",
+    "artist": "The Forces Of Evil",
+    "isrc": "USMJ30300144"
+  },
+  {
+    "title": "He Wants Me Back",
+    "artist": "Dance Hall Crashers",
+    "isrc": "USFW40500204"
+  },
+  {
+    "title": "Drinking for 11",
+    "artist": "Mad Caddies",
+    "isrc": "USFW41075704"
+  },
+  {
+    "title": "Far Behind",
+    "artist": "The Hippos",
+    "isrc": "USIR19902412"
+  },
+  {
+    "title": "The Shark Fighter!",
+    "artist": "The Aquabats!",
+    "isrc": "US5261114601"
+  },
+  {
+    "title": "When You Say It's Okay",
+    "artist": "Bruce Lee Band",
+    "isrc": "QMBZ91927250"
+  },
+  {
+    "title": "Dear Sergio",
+    "artist": "Bandits Of The Acoustic Revolution",
+    "isrc": "TCAEC1954629"
+  },
+  {
+    "title": "You Gotta Go!",
+    "artist": "The Mighty Mighty Bosstones",
+    "isrc": "USA6G0223403"
+  }
+]

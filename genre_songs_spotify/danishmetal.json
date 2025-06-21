@@ -1,0 +1,942 @@
+[
+  {
+    "title": "The Purest Black",
+    "artist": "LIVLØS",
+    "isrc": "ATN262104609"
+  },
+  {
+    "title": "For the Record",
+    "artist": "Illdisposed",
+    "isrc": "DER370962502"
+  },
+  {
+    "title": "Dæmring",
+    "artist": "Bersærk",
+    "isrc": "DK9K21500102"
+  },
+  {
+    "title": "Descension",
+    "artist": "Xenoblight",
+    "isrc": "DKK921700102"
+  },
+  {
+    "title": "Tåge",
+    "artist": "Solbrud",
+    "isrc": "DKJ3K2300102"
+  },
+  {
+    "title": "Imp of the Perverse",
+    "artist": "BAEST",
+    "isrc": "GBDHC2445602"
+  },
+  {
+    "title": "Sickness Within",
+    "artist": "Hatesphere",
+    "isrc": "DEA450505100"
+  },
+  {
+    "title": "Overboard",
+    "artist": "Helhorse",
+    "isrc": "DECQ31900003"
+  },
+  {
+    "title": "Notes to You",
+    "artist": "ORM",
+    "isrc": "DKMB52000102"
+  },
+  {
+    "title": "Satan",
+    "artist": "Katla",
+    "isrc": "QZDA61976934"
+  },
+  {
+    "title": "Anomalies",
+    "artist": "Aphyxion",
+    "isrc": "DEXO52210375"
+  },
+  {
+    "title": "Finish What You Started",
+    "artist": "Withering Surface",
+    "isrc": "DKQ4A2302204"
+  },
+  {
+    "title": "Tragoedia In Domo Dei",
+    "artist": "Lamentari",
+    "isrc": "DKW062400103"
+  },
+  {
+    "title": "Umbra",
+    "artist": "Billy Boy In Poison",
+    "isrc": "DK4V62100303"
+  },
+  {
+    "title": "Black Halo",
+    "artist": "The Interbeing",
+    "isrc": "DK4V62201003"
+  },
+  {
+    "title": "Skarntyder",
+    "artist": "(0)",
+    "isrc": "ATN262092503"
+  },
+  {
+    "title": "Metal Church",
+    "artist": "Panzerchrist",
+    "isrc": "DKQ4A0803507"
+  },
+  {
+    "title": "Prophecy Of The Dying Watcher",
+    "artist": "Iniquity",
+    "isrc": "DKQ4A1100902"
+  },
+  {
+    "title": "Somebody's Watching Me",
+    "artist": "Raunchy",
+    "isrc": "US94P0808308"
+  },
+  {
+    "title": "Savage",
+    "artist": "Defecto",
+    "isrc": "DK4V61703204"
+  },
+  {
+    "title": "Intent to Kill",
+    "artist": "Dawn of Demise",
+    "isrc": "USI4R0914422"
+  },
+  {
+    "title": "Cry Of Olympus",
+    "artist": "The Arcane Order",
+    "isrc": "QM4TW2317359"
+  },
+  {
+    "title": "Storm",
+    "artist": "MØL",
+    "isrc": "GBMLT1501102"
+  },
+  {
+    "title": "Puritan Masochism",
+    "artist": "Konvent",
+    "isrc": "ATN262090401"
+  },
+  {
+    "title": "Religion Is a Whore",
+    "artist": "Konkhra",
+    "isrc": "DKQ4A0803103"
+  },
+  {
+    "title": "Penance",
+    "artist": "Thorium",
+    "isrc": "DKQ4A1722802"
+  },
+  {
+    "title": "Embrace the Nothing",
+    "artist": "Mercenary",
+    "isrc": "US4E40847303"
+  },
+  {
+    "title": "Violent Ends",
+    "artist": "CABAL",
+    "isrc": "DED832200133"
+  },
+  {
+    "title": "Don't Stop That Grind",
+    "artist": "Shotgun Revolution",
+    "isrc": "DKNA91600101"
+  },
+  {
+    "title": "Hårde Tider",
+    "artist": "NYT LIV",
+    "isrc": "DKMB51900202"
+  },
+  {
+    "title": "I Afgørende Stunder",
+    "artist": "Morild",
+    "isrc": "DKMB51900103"
+  },
+  {
+    "title": "Pretty Pistol",
+    "artist": "Black Oak County",
+    "isrc": "DKQ4A1827605"
+  },
+  {
+    "title": "I Smell Blood",
+    "artist": "Slaegt",
+    "isrc": "DENI11600161"
+  },
+  {
+    "title": "In Hell",
+    "artist": "the Kandidate",
+    "isrc": "ATN261031605"
+  },
+  {
+    "title": "Bitter Harvest",
+    "artist": "Black Swamp Water",
+    "isrc": "DKQ4A1722902"
+  },
+  {
+    "title": "No Holds Barred",
+    "artist": "Prevail",
+    "isrc": "DK4V61605211"
+  },
+  {
+    "title": "Hero Forever",
+    "artist": "Meridian",
+    "isrc": "DKQ4A1615102"
+  },
+  {
+    "title": "By Inheritance",
+    "artist": "Artillery",
+    "isrc": "NLA321400004"
+  },
+  {
+    "title": "Excursion Demis",
+    "artist": "Invocator",
+    "isrc": "SEXHQ9100901"
+  },
+  {
+    "title": "Imperial",
+    "artist": "LLNN",
+    "isrc": "QM4TX2149458"
+  },
+  {
+    "title": "Headless Chicken",
+    "artist": "Electric Guitars",
+    "isrc": "DKQ4A1716503"
+  },
+  {
+    "title": "Deathbox",
+    "artist": "Mnemic",
+    "isrc": "DED830476104"
+  },
+  {
+    "title": "Ostracized",
+    "artist": "Malrun",
+    "isrc": "DKQ1A1006002"
+  },
+  {
+    "title": "Moralterations",
+    "artist": "Dirt Forge",
+    "isrc": "DK6V52200104"
+  },
+  {
+    "title": "Prepare for War",
+    "artist": "Impalers",
+    "isrc": "DKH042200103"
+  },
+  {
+    "title": "Raise Your Horns",
+    "artist": "Vanir",
+    "isrc": "DKQ4A1202611"
+  },
+  {
+    "title": "Son",
+    "artist": "Daze of June",
+    "isrc": "DK4V62000505"
+  },
+  {
+    "title": "Steeple and Spire",
+    "artist": "Black Book Lodge",
+    "isrc": "DKQ4A1823604"
+  },
+  {
+    "title": "Down to the River",
+    "artist": "Tainted Lady",
+    "isrc": "DK4V61901205"
+  },
+  {
+    "title": "Deadly Potential",
+    "artist": "Unseen Faith, Siamese",
+    "isrc": "DK4V62201801"
+  },
+  {
+    "title": "Ancient Pharaoh",
+    "artist": "Justify Rebellion",
+    "isrc": "DKQ4A1721305"
+  },
+  {
+    "title": "The Cannibal Course",
+    "artist": "Killing Gandhi",
+    "isrc": "NOXPG1501011"
+  },
+  {
+    "title": "Alt Under Himlen",
+    "artist": "Natjager",
+    "isrc": "DKB2I2000204"
+  },
+  {
+    "title": "Black Opium",
+    "artist": "Exmortem",
+    "isrc": "DKQ4A0703001"
+  },
+  {
+    "title": "Efter obduktionen",
+    "artist": "Undergang",
+    "isrc": "QM6MZ1755968"
+  },
+  {
+    "title": "Obsessive Aggression",
+    "artist": "Electric Hellride",
+    "isrc": "DKZJ41300101"
+  },
+  {
+    "title": "Cadaverous Carnival",
+    "artist": "The Petulant",
+    "isrc": "DKQ4A1718605"
+  },
+  {
+    "title": "Lighthouse",
+    "artist": "Scarred By Beauty",
+    "isrc": "QMFME1389746"
+  },
+  {
+    "title": "Let Me Burn",
+    "artist": "Royal Deceit, Hanging The Nihilist",
+    "isrc": "DK4V62201509"
+  },
+  {
+    "title": "Welcome to the Real World",
+    "artist": "Spitanger",
+    "isrc": "DKDF61500103"
+  },
+  {
+    "title": "Acidxiety",
+    "artist": "Compos Mentis",
+    "isrc": "UKU932400707"
+  },
+  {
+    "title": "Eyes Sewn Shut",
+    "artist": "Blood Eagle",
+    "isrc": "DED831901001"
+  },
+  {
+    "title": "Evil",
+    "artist": "Mercyful Fate",
+    "isrc": "NLA329780544"
+  },
+  {
+    "title": "All Dirt",
+    "artist": "Rising",
+    "isrc": "DKMB51600201"
+  },
+  {
+    "title": "Predator",
+    "artist": "Siamese",
+    "isrc": "DEA452401050"
+  },
+  {
+    "title": "Chain of Command",
+    "artist": "Ferocity",
+    "isrc": "DKY591300102"
+  },
+  {
+    "title": "Still Counting",
+    "artist": "Volbeat",
+    "isrc": "NLB930800317"
+  },
+  {
+    "title": "111008666700",
+    "artist": "Submission",
+    "isrc": "SEYGV0900201"
+  },
+  {
+    "title": "Please Don't Leave Me",
+    "artist": "Pretty Maids",
+    "isrc": "DKAXG9300029"
+  },
+  {
+    "title": "Leech",
+    "artist": "Psy:code",
+    "isrc": "QMKEL1700725"
+  },
+  {
+    "title": "Time to Decay",
+    "artist": "Spectral Mortuary",
+    "isrc": "USME31200056"
+  },
+  {
+    "title": "Abigail - Reissue",
+    "artist": "King Diamond",
+    "isrc": "NLA329780499"
+  },
+  {
+    "title": "Whore of Your Grace",
+    "artist": "Annominus",
+    "isrc": "DKQ4A1408203"
+  },
+  {
+    "title": "All Alone",
+    "artist": "Saturnus",
+    "isrc": "FIFX90603305"
+  },
+  {
+    "title": "The Art of Evil",
+    "artist": "THEORY",
+    "isrc": "DKB631700102"
+  },
+  {
+    "title": "Desperate Humans",
+    "artist": "Eciton",
+    "isrc": "ITO372207719"
+  },
+  {
+    "title": "Ramund",
+    "artist": "Myrkur",
+    "isrc": "US2641942604"
+  },
+  {
+    "title": "Grave",
+    "artist": "Dead Witch",
+    "isrc": "SE5BU1788111"
+  },
+  {
+    "title": "Mangled (By Rabid Dogs)",
+    "artist": "UXDXS",
+    "isrc": "QMPKX1482272"
+  },
+  {
+    "title": "Burned up and Blessed",
+    "artist": "Walking Rumor",
+    "isrc": "DK6X31900112"
+  },
+  {
+    "title": "Race Against Time",
+    "artist": "Diretone",
+    "isrc": "DKTL51600110"
+  },
+  {
+    "title": "Farewell & Goodbye",
+    "artist": "St. Prostitute",
+    "isrc": "DKQ4A1410515"
+  },
+  {
+    "title": "Dance, Darkness Dance",
+    "artist": "A Sun Traverse",
+    "isrc": "DKQ4A1616103"
+  },
+  {
+    "title": "I Fall in Temptation",
+    "artist": "Sacrificial",
+    "isrc": "DKHVA9300102"
+  },
+  {
+    "title": "Maximus",
+    "artist": "Dominus, Klutus",
+    "isrc": "GB7BP0700009"
+  },
+  {
+    "title": "Bloody Hands",
+    "artist": "Act Of Cohesion",
+    "isrc": "DKYD91700102"
+  },
+  {
+    "title": "Revangels",
+    "artist": "Akoma",
+    "isrc": "DER371797102"
+  },
+  {
+    "title": "Nick Cave",
+    "artist": "Aztek",
+    "isrc": "DKQ4A1615502"
+  },
+  {
+    "title": "Maggots Eating My Dick",
+    "artist": "Corpse Vomit",
+    "isrc": "DKQ4A0702403"
+  },
+  {
+    "title": "War of the Blind",
+    "artist": "End My Sorrow",
+    "isrc": "ES71G1630326"
+  },
+  {
+    "title": "Mirror",
+    "artist": "Fears Unfolding",
+    "isrc": "DKHQ61800102"
+  },
+  {
+    "title": "...and Justice for All",
+    "artist": "Grope",
+    "isrc": "USA560628127"
+  },
+  {
+    "title": "The Art of Vengeance",
+    "artist": "Inbreeding Rednecks",
+    "isrc": "GBKLB1091493"
+  },
+  {
+    "title": "And Then There Were None",
+    "artist": "LIVLØS",
+    "isrc": "ATN262104601"
+  },
+  {
+    "title": "Spitting Your Pain - Single Version",
+    "artist": "Illdisposed",
+    "isrc": "DER372437513"
+  },
+  {
+    "title": "Blodmåne",
+    "artist": "Bersærk",
+    "isrc": "DKV262000205"
+  },
+  {
+    "title": "Shapeshifter",
+    "artist": "Xenoblight",
+    "isrc": "DKK921700103"
+  },
+  {
+    "title": "Når Solen Brydes Del III - For Evigt, For Altid, Forandret",
+    "artist": "Solbrud",
+    "isrc": "DKJ3K2300105"
+  },
+  {
+    "title": "Colossus",
+    "artist": "BAEST",
+    "isrc": "GBDHC2445601"
+  },
+  {
+    "title": "Murderlust",
+    "artist": "Hatesphere",
+    "isrc": "DER371385001"
+  },
+  {
+    "title": "War Drums",
+    "artist": "Helhorse",
+    "isrc": "DECQ31900012"
+  },
+  {
+    "title": "Ancient Echoes",
+    "artist": "ORM",
+    "isrc": "DKMB51700302"
+  },
+  {
+    "title": "Warcries",
+    "artist": "Katla",
+    "isrc": "QZHNA2049319"
+  },
+  {
+    "title": "Sleepwalkers",
+    "artist": "Aphyxion",
+    "isrc": "DK4V61900602"
+  },
+  {
+    "title": "Denial Denial Denial",
+    "artist": "Withering Surface",
+    "isrc": "DKQ4A2302202"
+  },
+  {
+    "title": "Tenebrae",
+    "artist": "Lamentari",
+    "isrc": "DKW062400102"
+  },
+  {
+    "title": "White Hills",
+    "artist": "Billy Boy In Poison, CABAL",
+    "isrc": "DK4V62100305"
+  },
+  {
+    "title": "Rhesus Artificial",
+    "artist": "The Interbeing",
+    "isrc": "DK4V61602310"
+  },
+  {
+    "title": "Tyndere end Hud",
+    "artist": "(0)",
+    "isrc": "ATN262092501"
+  },
+  {
+    "title": "Creature",
+    "artist": "Panzerchrist",
+    "isrc": "DKQ4A0803502"
+  },
+  {
+    "title": "Tranquil Seizure",
+    "artist": "Iniquity",
+    "isrc": "DKQ4A1100901"
+  },
+  {
+    "title": "Warriors",
+    "artist": "Raunchy",
+    "isrc": "US94P0808304"
+  },
+  {
+    "title": "Endlessly Falling",
+    "artist": "Defecto",
+    "isrc": "DK4V61703203"
+  },
+  {
+    "title": "Hate Takes Its Form",
+    "artist": "Dawn of Demise",
+    "isrc": "USI4R0914418"
+  },
+  {
+    "title": "A Blinding Trust In Chosen Kings",
+    "artist": "The Arcane Order",
+    "isrc": "QM4TW2317360"
+  },
+  {
+    "title": "Bruma",
+    "artist": "MØL",
+    "isrc": "GBMLT1501104"
+  },
+  {
+    "title": "Pipe Dreams",
+    "artist": "Konvent",
+    "isrc": "ATN262205708"
+  },
+  {
+    "title": "Breathe the Fear",
+    "artist": "Konkhra",
+    "isrc": "DKQ4A0803104"
+  },
+  {
+    "title": "Crest For War",
+    "artist": "Thorium",
+    "isrc": "DKQ4A1717601"
+  },
+  {
+    "title": "Isolation (The Loneliness In December)",
+    "artist": "Mercenary",
+    "isrc": "US4E40847305"
+  },
+  {
+    "title": "Magno Interitus",
+    "artist": "CABAL, Joe Bad",
+    "isrc": "DED832200128"
+  },
+  {
+    "title": "S.O.B.",
+    "artist": "Shotgun Revolution",
+    "isrc": "DKNA91300101"
+  },
+  {
+    "title": "Givet op",
+    "artist": "NYT LIV",
+    "isrc": "DKMB52100601"
+  },
+  {
+    "title": "En Sort Sky Af Minder",
+    "artist": "Morild",
+    "isrc": "DKMB51900102"
+  },
+  {
+    "title": "Theatre of the Mind",
+    "artist": "Black Oak County",
+    "isrc": "DKQ4A1827610"
+  },
+  {
+    "title": "Kiss from a Knife",
+    "artist": "Slaegt",
+    "isrc": "GBDHC2213202"
+  },
+  {
+    "title": "Give up All Hope",
+    "artist": "the Kandidate",
+    "isrc": "ATN261031602"
+  },
+  {
+    "title": "Leave Nothing Behind",
+    "artist": "Black Swamp Water",
+    "isrc": "DKQ4A1614701"
+  },
+  {
+    "title": "Exterminate the Weak",
+    "artist": "Prevail",
+    "isrc": "DK4V61605202"
+  },
+  {
+    "title": "The Sun Always Shines On TV",
+    "artist": "Meridian",
+    "isrc": "DKQ4A2046102"
+  },
+  {
+    "title": "Khomaniac",
+    "artist": "Artillery",
+    "isrc": "DKQ4A1937502"
+  },
+  {
+    "title": "The Persistance from Memorial Chasm",
+    "artist": "Invocator",
+    "isrc": "SEXHQ9100904"
+  },
+  {
+    "title": "Obsidian",
+    "artist": "LLNN",
+    "isrc": "QM4TX2149460"
+  },
+  {
+    "title": "Cut Loose",
+    "artist": "Electric Guitars",
+    "isrc": "DKQ4A2048103"
+  },
+  {
+    "title": "Liquid",
+    "artist": "Mnemic",
+    "isrc": "DED830301771"
+  },
+  {
+    "title": "The Wilderness of Pain",
+    "artist": "Malrun",
+    "isrc": "SEYIJ1501103"
+  },
+  {
+    "title": "Ascension",
+    "artist": "Dirt Forge",
+    "isrc": "QZNWW2295433"
+  },
+  {
+    "title": "God from the Machine",
+    "artist": "Impalers",
+    "isrc": "DKH042200102"
+  },
+  {
+    "title": "Sons of the North",
+    "artist": "Vanir",
+    "isrc": "DKQ4A1202613"
+  },
+  {
+    "title": "It Stays",
+    "artist": "Daze of June",
+    "isrc": "DK4V61800505"
+  },
+  {
+    "title": "Battering Ram",
+    "artist": "Black Book Lodge",
+    "isrc": "DKQ4A1305801"
+  },
+  {
+    "title": "The Best Days",
+    "artist": "Tainted Lady",
+    "isrc": "DKQ4A1718306"
+  },
+  {
+    "title": "Dystopia",
+    "artist": "Unseen Faith",
+    "isrc": "DK4V61702503"
+  },
+  {
+    "title": "Animal",
+    "artist": "Justify Rebellion",
+    "isrc": "DKQ4A1721301"
+  },
+  {
+    "title": "Dark Hours",
+    "artist": "Killing Gandhi",
+    "isrc": "DER371801003"
+  },
+  {
+    "title": "Elendighed",
+    "artist": "Natjager",
+    "isrc": "DKB2I2000203"
+  },
+  {
+    "title": "Berzerker Legions",
+    "artist": "Exmortem",
+    "isrc": "QM7281908973"
+  },
+  {
+    "title": "Død",
+    "artist": "Undergang",
+    "isrc": "USA2Z2301298"
+  },
+  {
+    "title": "Bite the Prey",
+    "artist": "Electric Hellride",
+    "isrc": "DK4V61701407"
+  },
+  {
+    "title": "The Nation",
+    "artist": "The Petulant",
+    "isrc": "DKQ4A1718610"
+  },
+  {
+    "title": "Ikaros",
+    "artist": "Scarred By Beauty",
+    "isrc": "QMFME1389749"
+  },
+  {
+    "title": "Echoes of Hate",
+    "artist": "Royal Deceit",
+    "isrc": "DK4V61901801"
+  },
+  {
+    "title": "Alea Iacta Est",
+    "artist": "Spitanger",
+    "isrc": "QZBRF1855355"
+  },
+  {
+    "title": "The Mind's Eye",
+    "artist": "Compos Mentis",
+    "isrc": "DKQ4A0700302"
+  },
+  {
+    "title": "Worship the Wolf",
+    "artist": "Blood Eagle",
+    "isrc": "DED831901006"
+  },
+  {
+    "title": "A Dangerous Meeting",
+    "artist": "Mercyful Fate",
+    "isrc": "NLA329780535"
+  },
+  {
+    "title": "Serpentine Supremacy",
+    "artist": "LIVLØS",
+    "isrc": "ATN262104602"
+  },
+  {
+    "title": "I Believe in Me",
+    "artist": "Illdisposed",
+    "isrc": "NLA320420716"
+  },
+  {
+    "title": "Kampånd",
+    "artist": "Bersærk",
+    "isrc": "DK9K21800202"
+  },
+  {
+    "title": "Obsidian Chromatism",
+    "artist": "Xenoblight",
+    "isrc": "DKK921700104"
+  },
+  {
+    "title": "Når Solen Brydes Del IIII - En Ny Tid For Mig Står",
+    "artist": "Solbrud",
+    "isrc": "DKJ3K2300106"
+  },
+  {
+    "title": "Necro Sapiens",
+    "artist": "BAEST",
+    "isrc": "GBDHC2121303"
+  },
+  {
+    "title": "Cutthroat",
+    "artist": "Hatesphere",
+    "isrc": "ITD292302492"
+  },
+  {
+    "title": "Carry Your Own",
+    "artist": "Helhorse",
+    "isrc": "FIUM71600002"
+  },
+  {
+    "title": "Blood of Your Blood",
+    "artist": "ORM",
+    "isrc": "DKMB51700301"
+  },
+  {
+    "title": "Warmongering Luciferians, Pt. 1",
+    "artist": "Katla",
+    "isrc": "QZHNA2049317"
+  },
+  {
+    "title": "Pathless",
+    "artist": "Aphyxion, Siamese",
+    "isrc": "DEXO52210373"
+  },
+  {
+    "title": "Where Dreamers Die",
+    "artist": "Withering Surface",
+    "isrc": "DKQ4A2302201"
+  },
+  {
+    "title": "Dolorum Memoria",
+    "artist": "Lamentari",
+    "isrc": "DKW062400106"
+  },
+  {
+    "title": "Iron Grip",
+    "artist": "Billy Boy In Poison",
+    "isrc": "DK4V61704602"
+  },
+  {
+    "title": "Shadow Drift",
+    "artist": "The Interbeing",
+    "isrc": "DK4V61602306"
+  },
+  {
+    "title": "Rød Glorie",
+    "artist": "(0)",
+    "isrc": "ATN262092504"
+  },
+  {
+    "title": "Panzergrenadier",
+    "artist": "Panzerchrist",
+    "isrc": "DKQ4A0700804"
+  },
+  {
+    "title": "The Bullet’s Breath",
+    "artist": "Iniquity",
+    "isrc": "DKQ4B0700602"
+  },
+  {
+    "title": "A Heavy Burden",
+    "artist": "Raunchy",
+    "isrc": "US94P0808309"
+  },
+  {
+    "title": "Rise",
+    "artist": "Defecto",
+    "isrc": "SEVVF2007803"
+  },
+  {
+    "title": "‚Ä¶And Blood Will Flow",
+    "artist": "Dawn of Demise",
+    "isrc": "USI4R0914419"
+  },
+  {
+    "title": "Wings of Duality",
+    "artist": "The Arcane Order",
+    "isrc": "QM4TW2317367"
+  },
+  {
+    "title": "Fraktur",
+    "artist": "MØL",
+    "isrc": "DED832100085"
+  },
+  {
+    "title": "Grains",
+    "artist": "Konvent",
+    "isrc": "ATN262205704"
+  },
+  {
+    "title": "Hail to the King",
+    "artist": "Konkhra",
+    "isrc": "DKQ4A0803102"
+  },
+  {
+    "title": "War is Coming",
+    "artist": "Thorium",
+    "isrc": "DKA5I2200101"
+  },
+  {
+    "title": "Where Darkened Souls Belong",
+    "artist": "Mercenary",
+    "isrc": "ATHY32300003"
+  },
+  {
+    "title": "Death March",
+    "artist": "CABAL",
+    "isrc": "DEA451906440"
+  },
+  {
+    "title": "Rise To Power",
+    "artist": "Shotgun Revolution",
+    "isrc": "DKNA91600102"
+  },
+  {
+    "title": "Mens livet forsvinder",
+    "artist": "NYT LIV",
+    "isrc": "DKMB52100602"
+  },
+  {
+    "title": "Frosset Fast Til Mit Indre",
+    "artist": "Morild",
+    "isrc": "DKMB51900104"
+  },
+  {
+    "title": "Watch Your Back",
+    "artist": "Black Oak County",
+    "isrc": "DKQ4A1935801"
+  }
+]

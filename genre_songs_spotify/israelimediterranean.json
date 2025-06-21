@@ -1,0 +1,587 @@
+[
+  {
+    "title": "אללה מעק",
+    "artist": "מאור אדרי",
+    "isrc": "FR2X41803435"
+  },
+  {
+    "title": "אלייך/מצייר אותך",
+    "artist": "ליאור נרקיס, אודיה",
+    "isrc": "IL1012400330"
+  },
+  {
+    "title": "סוודר",
+    "artist": "Noy Fadlon",
+    "isrc": "IL4431801393"
+  },
+  {
+    "title": "טרמינל 3",
+    "artist": "דודו אהרון",
+    "isrc": "IL5011400171"
+  },
+  {
+    "title": "בלי שקל בכיסים",
+    "artist": "Shaked Komemy",
+    "isrc": "FRX201979527"
+  },
+  {
+    "title": "בלבלה",
+    "artist": "Moti Taka",
+    "isrc": "IL1011125014"
+  },
+  {
+    "title": "המצב הזה",
+    "artist": "Moshiko Mor",
+    "isrc": "IL1012400230"
+  },
+  {
+    "title": "עולה לי הסטלה",
+    "artist": "Idan Bakshi, דודי בוזגלו",
+    "isrc": "FR96X1940396"
+  },
+  {
+    "title": "לראות את האור - קאבר",
+    "artist": "Dudi Buzaglo, חיים דדון, Sarit Avitan, Idan Bakshi, אלקנה מרציאנו, Meir Alfi, אושר ביטון",
+    "isrc": "IL1012100275"
+  },
+  {
+    "title": "כמה טוב שבאת",
+    "artist": "אושר ביטון",
+    "isrc": "FR96X1910317"
+  },
+  {
+    "title": "משוגעת",
+    "artist": "Gal Adam, NOROZ",
+    "isrc": "IL1012201318"
+  },
+  {
+    "title": "פרק אחר",
+    "artist": "Haim Ifargan",
+    "isrc": "FR10S1573671"
+  },
+  {
+    "title": "מחשבות",
+    "artist": "Yossi Shitrit",
+    "isrc": "FR10S1972130"
+  },
+  {
+    "title": "קרמלה",
+    "artist": "Moshe Peretz",
+    "isrc": "il5841718723"
+  },
+  {
+    "title": "למה לי למה לו",
+    "artist": "Nasrin Kadri",
+    "isrc": "IL7532413222"
+  },
+  {
+    "title": "שובר שתיקה",
+    "artist": "Moshik Afia",
+    "isrc": "DGA062029046"
+  },
+  {
+    "title": "לא נגמר",
+    "artist": "הגר יפת",
+    "isrc": "IL4431901403"
+  },
+  {
+    "title": "בלבלי אותו",
+    "artist": "Kobi Peretz",
+    "isrc": "il5840501146"
+  },
+  {
+    "title": "אני אוהב, אני מכור, אני שרוף",
+    "artist": "Adir Getz",
+    "isrc": "FRX202230077"
+  },
+  {
+    "title": "נהיה בסדר",
+    "artist": "Sapir Saban",
+    "isrc": "IL1022011473"
+  },
+  {
+    "title": "חומות",
+    "artist": "Yagel",
+    "isrc": "FR59R1965547"
+  },
+  {
+    "title": "אין לי מקום אחר",
+    "artist": "Itay Levi",
+    "isrc": "IL7192302012"
+  },
+  {
+    "title": "עדיף הגעגוע",
+    "artist": "נופר סלמאן, ניב דמירל",
+    "isrc": "IL5842132401"
+  },
+  {
+    "title": "מסיבה בחיפה",
+    "artist": "The Ultras, Itay Levi, DJ Elon Matana, Eli Perez",
+    "isrc": "IL1471401112"
+  },
+  {
+    "title": "אוהבת אותי",
+    "artist": "Ofek Hamalach",
+    "isrc": "IL4431801380"
+  },
+  {
+    "title": "כשהלב בוכה",
+    "artist": "Sarit Hadad",
+    "isrc": "IL5260100105"
+  },
+  {
+    "title": "שאריות מעצמי",
+    "artist": "Shir Levi",
+    "isrc": "IL4671000261"
+  },
+  {
+    "title": "יותר מדי שנים",
+    "artist": "Regev Hod",
+    "isrc": "il5841111334"
+  },
+  {
+    "title": "אהבה חולה",
+    "artist": "פאר טסי",
+    "isrc": "IL1012201337"
+  },
+  {
+    "title": "צבעים",
+    "artist": "Gil Vain, Ron Buhnik",
+    "isrc": "IL4431801229"
+  },
+  {
+    "title": "בלילות",
+    "artist": "Rotem Cohen",
+    "isrc": "IL4431901118"
+  },
+  {
+    "title": "בסוף הכל נגמר",
+    "artist": "Roee Sendler",
+    "isrc": "IL1012400537"
+  },
+  {
+    "title": "אחרי הנצח",
+    "artist": "Zehava Ben",
+    "isrc": "IL7532413256"
+  },
+  {
+    "title": "לכה דודי",
+    "artist": "Shlomi Shabat, Moshe Peretz, ליאור נרקיס, דודו אהרון, Benaia Barabi, Yaakov Shwekey, Akiva, Yaniv Ben Mashiach, עלאי ונתאי צרפתי",
+    "isrc": "il5842029324"
+  },
+  {
+    "title": "קיץ",
+    "artist": "Avior Malasa",
+    "isrc": "IL4431600703"
+  },
+  {
+    "title": "קרן שמש",
+    "artist": "Benaia Barabi",
+    "isrc": "IL7532213025"
+  },
+  {
+    "title": "טיפש או מאוהב",
+    "artist": "Koral Hatzbani",
+    "isrc": "FR2X41857641"
+  },
+  {
+    "title": "חיפשתי אותו בנרות",
+    "artist": "Eden Ben Zaken",
+    "isrc": "IL7532413131"
+  },
+  {
+    "title": "קופידון (Prod. By Triangle)",
+    "artist": "Agam Buhbut",
+    "isrc": "IL5842238054"
+  },
+  {
+    "title": "אמצע הלילה בכפר",
+    "artist": "Harel Moyal",
+    "isrc": "IL1011126583"
+  },
+  {
+    "title": "שממה",
+    "artist": "Ori Ben Ari",
+    "isrc": "FR10S1958822"
+  },
+  {
+    "title": "עם ישראל חי",
+    "artist": "Eyal Golan",
+    "isrc": "IL7192301622"
+  },
+  {
+    "title": "תן לזמן ללכת",
+    "artist": "The Revivo Project",
+    "isrc": "FRX991586255"
+  },
+  {
+    "title": "פלסטרים",
+    "artist": "Osher Cohen",
+    "isrc": "IL7532413231"
+  },
+  {
+    "title": "השעות הקטנות",
+    "artist": "ניב דמירל",
+    "isrc": "IL4431500659"
+  },
+  {
+    "title": "צוחקת ובוכה",
+    "artist": "Eden Hason",
+    "isrc": "IL7192400428"
+  },
+  {
+    "title": "ריקוד רומנטי",
+    "artist": "ישי לוי",
+    "isrc": "IL1011122319"
+  },
+  {
+    "title": "זוזי כמו בלונדה",
+    "artist": "Karizmo",
+    "isrc": "IL4431901253"
+  },
+  {
+    "title": "רק שלך",
+    "artist": "Omer Adam",
+    "isrc": "IL1012400528"
+  },
+  {
+    "title": "עומד בשער",
+    "artist": "Amir Benayoun",
+    "isrc": "IL5391200092"
+  },
+  {
+    "title": "ואם תבואי אליי",
+    "artist": "Idan Raichel",
+    "isrc": "IL1021810254"
+  },
+  {
+    "title": "תקלה",
+    "artist": "דור וקנין",
+    "isrc": "FR26V2021057"
+  },
+  {
+    "title": "שבט אחים ואחיות",
+    "artist": "שבט אחים ואחיות",
+    "isrc": "IL1021910840"
+  },
+  {
+    "title": "גם וגם",
+    "artist": "MaZeZe, Eden Hason",
+    "isrc": "FRX201814863"
+  },
+  {
+    "title": "מאז שהלכת לי",
+    "artist": "Tzahi Koren",
+    "isrc": "FRX201824094"
+  },
+  {
+    "title": "עד שתחזור",
+    "artist": "Zohar Garala",
+    "isrc": "IL1011800401"
+  },
+  {
+    "title": "תמונה ישנה",
+    "artist": "אדיר דנון",
+    "isrc": "IL7111900115"
+  },
+  {
+    "title": "שלוק מקצב",
+    "artist": "מאור אדרי",
+    "isrc": "IL1031750369"
+  },
+  {
+    "title": "רק שלך",
+    "artist": "ליאור נרקיס, Osher Cohen",
+    "isrc": "IL1012400331"
+  },
+  {
+    "title": "הרסת לי שירים",
+    "artist": "Noy Fadlon",
+    "isrc": "IL1012100081"
+  },
+  {
+    "title": "תגידו לה",
+    "artist": "דודו אהרון",
+    "isrc": "IL5011000055"
+  },
+  {
+    "title": "יום בלי עבודה",
+    "artist": "Shaked Komemy",
+    "isrc": "FR59R1617600"
+  },
+  {
+    "title": "קשר רציני",
+    "artist": "Moti Taka",
+    "isrc": "IL5261701154"
+  },
+  {
+    "title": "תסביכים",
+    "artist": "Moshiko Mor",
+    "isrc": "IL4431901152"
+  },
+  {
+    "title": "נופל בפח",
+    "artist": "Idan Bakshi",
+    "isrc": "FR2X41965320"
+  },
+  {
+    "title": "אולי אהיה שמח",
+    "artist": "Dudi Buzaglo",
+    "isrc": "FR59R1887082"
+  },
+  {
+    "title": "לא אבדה תקוותנו",
+    "artist": "אושר ביטון",
+    "isrc": "IL1012301935"
+  },
+  {
+    "title": "חלומות גדולים",
+    "artist": "Gal Adam",
+    "isrc": "IL1012400803"
+  },
+  {
+    "title": "אהבה או מלחמה",
+    "artist": "Haim Ifargan, שילה בן סעדון",
+    "isrc": "il5842131263"
+  },
+  {
+    "title": "Hatzi Rusia Hatzi Marokait",
+    "artist": "Yossi Shitrit",
+    "isrc": "FR96X1714314"
+  },
+  {
+    "title": "כוס של יין",
+    "artist": "Moshe Peretz",
+    "isrc": "il5841617743"
+  },
+  {
+    "title": "לומדת ללכת",
+    "artist": "Nasrin Kadri",
+    "isrc": "FR59R1892936"
+  },
+  {
+    "title": "חלום מתוק",
+    "artist": "Moshik Afia, Shlomi Saranga",
+    "isrc": "IL1011126633"
+  },
+  {
+    "title": "אהבה רק של לילה",
+    "artist": "הגר יפת",
+    "isrc": "IL7192400747"
+  },
+  {
+    "title": "סה לה וי",
+    "artist": "Kobi Peretz",
+    "isrc": "IL4721000543"
+  },
+  {
+    "title": "עשר אפס לך",
+    "artist": "Adir Getz",
+    "isrc": "FR96X1905713"
+  },
+  {
+    "title": "אם מישהו ידע",
+    "artist": "Sapir Saban",
+    "isrc": "IL1012300135"
+  },
+  {
+    "title": "רציתי לספר לך",
+    "artist": "Yagel",
+    "isrc": "FR59R1965548"
+  },
+  {
+    "title": "קירות",
+    "artist": "Itay Levi",
+    "isrc": "FRX201911548"
+  },
+  {
+    "title": "בום בלב",
+    "artist": "נופר סלמאן",
+    "isrc": "IL4431901157"
+  },
+  {
+    "title": "ישראלה",
+    "artist": "The Ultras, Eli Perez",
+    "isrc": "IL1471401243"
+  },
+  {
+    "title": "שלוותה",
+    "artist": "Ofek Hamalach",
+    "isrc": "FR2X41964389"
+  },
+  {
+    "title": "בחום של תל אביב",
+    "artist": "Sarit Hadad",
+    "isrc": "IL5260300167"
+  },
+  {
+    "title": "יום אחד תבקשי",
+    "artist": "Shir Levi",
+    "isrc": "ILMB00107295"
+  },
+  {
+    "title": "עם ישראל לא מפחד",
+    "artist": "Regev Hod",
+    "isrc": "il5842235539"
+  },
+  {
+    "title": "אחרי הנצח",
+    "artist": "פאר טסי",
+    "isrc": "IL1012201350"
+  },
+  {
+    "title": "אל תשאלי (מארח את בניה ברבי)",
+    "artist": "Gil Vain, Benaia Barabi",
+    "isrc": "FR59R1791593"
+  },
+  {
+    "title": "כל כך יפה לך",
+    "artist": "Rotem Cohen, Descemer Bueno",
+    "isrc": "IL5841718773"
+  },
+  {
+    "title": "תזייפי אהבה",
+    "artist": "Roee Sendler",
+    "isrc": "FRX202376127"
+  },
+  {
+    "title": "טיפת מזל",
+    "artist": "Zehava Ben",
+    "isrc": "il5849202006"
+  },
+  {
+    "title": "בחוף של טראפטוני",
+    "artist": "Shlomi Shabat",
+    "isrc": "IL1011122925"
+  },
+  {
+    "title": "הכל",
+    "artist": "Avior Malasa",
+    "isrc": "IL4431600791"
+  },
+  {
+    "title": "מישהו איתי כאן",
+    "artist": "Benaia Barabi",
+    "isrc": "IL1011126286"
+  },
+  {
+    "title": "הולך ובא",
+    "artist": "Koral Hatzbani",
+    "isrc": "FR26V2027013"
+  },
+  {
+    "title": "דם שלי",
+    "artist": "Eden Ben Zaken",
+    "isrc": "IL7532413037"
+  },
+  {
+    "title": "באתי להציל אותך",
+    "artist": "Agam Buhbut, שחר סאול",
+    "isrc": "il5842134387"
+  },
+  {
+    "title": "סימנים",
+    "artist": "Harel Moyal",
+    "isrc": "IL1011126591"
+  },
+  {
+    "title": "קטנה",
+    "artist": "מאור אדרי",
+    "isrc": "IL1031750368"
+  },
+  {
+    "title": "מה תעשי/אוהבת אותי אמיתי",
+    "artist": "ליאור נרקיס, Omer Adam",
+    "isrc": "IL1012400334"
+  },
+  {
+    "title": "גלגל ענק",
+    "artist": "Noy Fadlon",
+    "isrc": "IL4431901182"
+  },
+  {
+    "title": "בחלומות שלנו",
+    "artist": "דודו אהרון, Eden Meiri",
+    "isrc": "IL1012000508"
+  },
+  {
+    "title": "שמש שקרנית",
+    "artist": "Shaked Komemy",
+    "isrc": "FRX201646322"
+  },
+  {
+    "title": "רק בזכרונות",
+    "artist": "Moti Taka",
+    "isrc": "IL1011125018"
+  },
+  {
+    "title": "מטורפת",
+    "artist": "Moshiko Mor",
+    "isrc": "IL1012400452"
+  },
+  {
+    "title": "מי אם לא אני",
+    "artist": "Idan Bakshi",
+    "isrc": "il5842445441"
+  },
+  {
+    "title": "תצאי לי מהלב",
+    "artist": "Dudi Buzaglo",
+    "isrc": "IL7192200152"
+  },
+  {
+    "title": "יש סיבה להכל",
+    "artist": "אושר ביטון",
+    "isrc": "IL1012400390"
+  },
+  {
+    "title": "רוצה להתעורר",
+    "artist": "Gal Adam",
+    "isrc": "IL1012400657"
+  },
+  {
+    "title": "מפחד להתאהב",
+    "artist": "Haim Ifargan",
+    "isrc": "FR10S1778703"
+  },
+  {
+    "title": "אדם אחר",
+    "artist": "Yossi Shitrit",
+    "isrc": "IL4432100141"
+  },
+  {
+    "title": "גיבור של אמא",
+    "artist": "Moshe Peretz",
+    "isrc": "il5841409654"
+  },
+  {
+    "title": "רציתי לדבר איתך - Live",
+    "artist": "Nasrin Kadri, Osher Cohen",
+    "isrc": "IL7532413043"
+  },
+  {
+    "title": "Bishvili",
+    "artist": "Moshik Afia",
+    "isrc": "IL4721000005"
+  },
+  {
+    "title": "תארזי מזוודה",
+    "artist": "הגר יפת",
+    "isrc": "FR96X2126241"
+  },
+  {
+    "title": "Feel the Magic",
+    "artist": "Kobi Peretz",
+    "isrc": "IL4721000692"
+  },
+  {
+    "title": "ילד בשדות",
+    "artist": "Adir Getz",
+    "isrc": "FR59R1751519"
+  },
+  {
+    "title": "Breaking My Own Walls",
+    "artist": "Sapir Saban",
+    "isrc": "IL2DY2200079"
+  }
+]

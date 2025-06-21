@@ -1,0 +1,907 @@
+[
+  {
+    "title": "Blind Date 101",
+    "artist": "Make Me Famous",
+    "isrc": "USYFZ1211001"
+  },
+  {
+    "title": "You Call That A Knife? This Is A Knife!",
+    "artist": "Capture",
+    "isrc": "USYFZ1225206"
+  },
+  {
+    "title": "Call Me Maybe",
+    "artist": "Upon This Dawning",
+    "isrc": "US5261216913"
+  },
+  {
+    "title": "Obliviate",
+    "artist": "That's Outrageous!",
+    "isrc": "QMUYR1200133"
+  },
+  {
+    "title": "E.T.",
+    "artist": "Everyone Dies In Utah",
+    "isrc": "TCAEA1805652"
+  },
+  {
+    "title": "Last Breath for a Capulet",
+    "artist": "Shoot the Girl First",
+    "isrc": "FR6V80341548"
+  },
+  {
+    "title": "Fightin' Words",
+    "artist": "Casino Madrid",
+    "isrc": "TCAAU1151897"
+  },
+  {
+    "title": "Never Trust the Hazel Eyed",
+    "artist": "Hopes Die Last",
+    "isrc": "USQZ31203801"
+  },
+  {
+    "title": "Giants Among Common Men",
+    "artist": "Jamie's Elsewhere",
+    "isrc": "USVIC1051504"
+  },
+  {
+    "title": "Take One Last Breath",
+    "artist": "Abandon All Ships",
+    "isrc": "CAU2O1010217"
+  },
+  {
+    "title": "I'll Shut You Down",
+    "artist": "This Romantic Tragedy",
+    "isrc": "USF270705803"
+  },
+  {
+    "title": "Eat Your Heart Out",
+    "artist": "Outline In Color",
+    "isrc": "QZDA82004844"
+  },
+  {
+    "title": "Give It Up! Give It Up!",
+    "artist": "His Statue Falls",
+    "isrc": "USA371003020"
+  },
+  {
+    "title": "Nerve",
+    "artist": "Myka, Relocate",
+    "isrc": "USRZR1565305"
+  },
+  {
+    "title": "Witching Hour",
+    "artist": "Scarlett O'Hara",
+    "isrc": "TCAGH2257245"
+  },
+  {
+    "title": "Champagne Showers",
+    "artist": "Skip The Foreplay",
+    "isrc": "USEP41136013"
+  },
+  {
+    "title": "One Of Us",
+    "artist": "The Word Alive, Bad Omens",
+    "isrc": "QM4TX2380006"
+  },
+  {
+    "title": "Deer In The Headlights",
+    "artist": "Dead Rabbitts",
+    "isrc": "USF277011405"
+  },
+  {
+    "title": "The Amazing Atom",
+    "artist": "At The Skylines",
+    "isrc": "NLA321292116"
+  },
+  {
+    "title": "Clarissa Didn't Explain This",
+    "artist": "The Paramedic",
+    "isrc": "US3441202503"
+  },
+  {
+    "title": "Erase The Pain",
+    "artist": "Palisades",
+    "isrc": "QMRSZ1801981"
+  },
+  {
+    "title": "All My Life",
+    "artist": "Attack Attack!",
+    "isrc": "QMBZ92067544"
+  },
+  {
+    "title": "Anomaly",
+    "artist": "I See Stars",
+    "isrc": "USYFZ2342501"
+  },
+  {
+    "title": "Heartquake!",
+    "artist": "Sienna Skies",
+    "isrc": "AUNJ10900003"
+  },
+  {
+    "title": "Everytime We Touch",
+    "artist": "The Bunny The Bear",
+    "isrc": "QZHN52119933"
+  },
+  {
+    "title": "Sexy Out Loud",
+    "artist": "Incredible' Me",
+    "isrc": "USRZR1346002"
+  },
+  {
+    "title": "BLURRY (out of place)",
+    "artist": "Crown The Empire",
+    "isrc": "QMRSZ1802707"
+  },
+  {
+    "title": "Party Nerve",
+    "artist": "Claps for Caroline",
+    "isrc": "HUB530000007"
+  },
+  {
+    "title": "Vanity",
+    "artist": "Nevada Rose",
+    "isrc": "USF270751703"
+  },
+  {
+    "title": "Carnage",
+    "artist": "The Browning",
+    "isrc": "GBUM71803961"
+  },
+  {
+    "title": "Black Hole",
+    "artist": "We Came As Romans, Caleb Shomo",
+    "isrc": "DED832100581"
+  },
+  {
+    "title": "If You Think This Song Is About You, It Probably Is",
+    "artist": "Destroy Rebuild Until God Shows",
+    "isrc": "USWB11003595"
+  },
+  {
+    "title": "Calamity",
+    "artist": "Annisokay",
+    "isrc": "DEYO62300052"
+  },
+  {
+    "title": "Reborn",
+    "artist": "Fail Emotions",
+    "isrc": "TCABQ1361043"
+  },
+  {
+    "title": "Things That Rhyme With Orange",
+    "artist": "I Set My Friends On Fire",
+    "isrc": "USEP40816104"
+  },
+  {
+    "title": "Beat It",
+    "artist": "One Morning Left",
+    "isrc": "DEYO62100105"
+  },
+  {
+    "title": "Stand Up",
+    "artist": "Exotype",
+    "isrc": "USEK71424201"
+  },
+  {
+    "title": "Rain",
+    "artist": "Issues",
+    "isrc": "QMRSZ1901270"
+  },
+  {
+    "title": "She Devil",
+    "artist": "Voices and Vessels",
+    "isrc": "uscgj1245396"
+  },
+  {
+    "title": "Giants in the Ocean",
+    "artist": "Sky Eats Airplane",
+    "isrc": "USTC10639807"
+  },
+  {
+    "title": "The Riot",
+    "artist": "Oceans Red",
+    "isrc": "USHM82385056"
+  },
+  {
+    "title": "20 km/h",
+    "artist": "We Butter The Bread With Butter",
+    "isrc": "DEU601908565"
+  },
+  {
+    "title": "Blvckout",
+    "artist": "To the Rats and Wolves",
+    "isrc": "DED831501059"
+  },
+  {
+    "title": "Characters",
+    "artist": "Beyond All Recognition",
+    "isrc": "ATN261244001"
+  },
+  {
+    "title": "What the Big People Do",
+    "artist": "The Captain Hates the Sea",
+    "isrc": "ushm91029401"
+  },
+  {
+    "title": "Alejandro (Lady Gaga cover)",
+    "artist": "Helia",
+    "isrc": "USA371103570"
+  },
+  {
+    "title": "Hey Maggie!",
+    "artist": "The Party Foul!",
+    "isrc": "USFL41012158"
+  },
+  {
+    "title": "Don't Trust Me (3OH!3 Cover)",
+    "artist": "Gamma Pulse",
+    "isrc": "TCABC1116037"
+  },
+  {
+    "title": "Alone In A Room",
+    "artist": "Asking Alexandria",
+    "isrc": "USYFZ1791001"
+  },
+  {
+    "title": "God Speed (feat. WARGASM (UK))",
+    "artist": "Crossfaith, WARGASM (UK)",
+    "isrc": "JPWP02470276"
+  },
+  {
+    "title": "Rob Rodda",
+    "artist": "Silent Descent",
+    "isrc": "UKLPQ1700004"
+  },
+  {
+    "title": "Derailed",
+    "artist": "Escape The Day",
+    "isrc": "SEYOK1609178"
+  },
+  {
+    "title": "Shirts vs Skins",
+    "artist": "Monsters Scare You!",
+    "isrc": "ushm81018301"
+  },
+  {
+    "title": "Poison Ivy",
+    "artist": "Bionic Ghost Kids",
+    "isrc": "DEAU90800020"
+  },
+  {
+    "title": "Proudly Guilty",
+    "artist": "She Was Nothing",
+    "isrc": "FR6V80453419"
+  },
+  {
+    "title": "Cry Little Sister",
+    "artist": "Vampires Everywhere!",
+    "isrc": "QZES82395564"
+  },
+  {
+    "title": "Blackout",
+    "artist": "Breathe Carolina",
+    "isrc": "US5261115303"
+  },
+  {
+    "title": "Suffocating",
+    "artist": "The Road to Milestone",
+    "isrc": "QM7281889308"
+  },
+  {
+    "title": "Losing You",
+    "artist": "Dead by April",
+    "isrc": "SEUM70900058"
+  },
+  {
+    "title": "We Create Stars",
+    "artist": "A Reason to Breathe",
+    "isrc": "JPX301608150"
+  },
+  {
+    "title": "Shoeshine For Neptune",
+    "artist": "Arsonists Get All The Girls",
+    "isrc": "US3E40736405"
+  },
+  {
+    "title": "We Got the Moves",
+    "artist": "Electric Callboy",
+    "isrc": "GBDHC2227201"
+  },
+  {
+    "title": "Comforting Our Thoughts in a Continuous Blue",
+    "artist": "House Vs Hurricane",
+    "isrc": "TCAEB1927638"
+  },
+  {
+    "title": "Stargazer",
+    "artist": "Blood Stain Child",
+    "isrc": "ITY101114003"
+  },
+  {
+    "title": "STAY TOGETHER FOR THE PICS",
+    "artist": "Dungeon Elite",
+    "isrc": "QZNWX2103657"
+  },
+  {
+    "title": "Sorry You're Not a Winner",
+    "artist": "Enter Shikari",
+    "isrc": "GBNPA0700007"
+  },
+  {
+    "title": "Gamer Girl",
+    "artist": "Tracy Ate A Bug",
+    "isrc": "QZFZ61907545"
+  },
+  {
+    "title": "Sleeping with Spirits",
+    "artist": "Tasters",
+    "isrc": "DED831100451"
+  },
+  {
+    "title": "Monster",
+    "artist": "The One Hundred",
+    "isrc": "GBUM71700078"
+  },
+  {
+    "title": "You're So Creepy",
+    "artist": "Ghost Town",
+    "isrc": "USAT21301489"
+  },
+  {
+    "title": "Around The World (La La La La La)",
+    "artist": "Gina Goes Wild",
+    "isrc": "SE3OH1635798"
+  },
+  {
+    "title": "Teeth",
+    "artist": "Dirty D´Sire",
+    "isrc": "QZFYX2024732"
+  },
+  {
+    "title": "Metalingus (Edge's WWE Theme)",
+    "artist": "It Lives, It Breathes",
+    "isrc": "USCGJ1878922"
+  },
+  {
+    "title": "Into Your Eyes",
+    "artist": "You and What Army",
+    "isrc": "ushm21251326"
+  },
+  {
+    "title": "Salvation: False",
+    "artist": "Mad Essence",
+    "isrc": "QZK6Q2096651"
+  },
+  {
+    "title": "Murder",
+    "artist": "Horse The Band",
+    "isrc": "USKO10700861"
+  },
+  {
+    "title": "Maybe in Space",
+    "artist": "Adam Kills Eve",
+    "isrc": "TCACA1457967"
+  },
+  {
+    "title": "Dark Side",
+    "artist": "Blind Channel",
+    "isrc": "FIRAN2100001"
+  },
+  {
+    "title": "Paint a Trip Party",
+    "artist": "Fear From The Hate",
+    "isrc": "QZW9N2240788"
+  },
+  {
+    "title": "Let Me Hear",
+    "artist": "Fear, and Loathing in Las Vegas",
+    "isrc": "JPVP01422901"
+  },
+  {
+    "title": "Digital Twin",
+    "artist": "Last Chance To Reason",
+    "isrc": "QZWFN2305770"
+  },
+  {
+    "title": "Magnum Cum Latte",
+    "artist": "American Awesome Alliance",
+    "isrc": "uscgh1578313"
+  },
+  {
+    "title": "Killer Party",
+    "artist": "We Have the Moon",
+    "isrc": "IT8SF1600456"
+  },
+  {
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Entail of Crow",
+    "isrc": "QZFYZ1948787"
+  },
+  {
+    "title": "En las Noches",
+    "artist": "Deny",
+    "isrc": "ART981800417"
+  },
+  {
+    "title": "Mariposa",
+    "artist": "Hands Like Glass",
+    "isrc": "USQY51026558"
+  },
+  {
+    "title": "Everglow",
+    "artist": "Horror Dance Squad",
+    "isrc": "EEMT12400003"
+  },
+  {
+    "title": "Czarina Catherine",
+    "artist": "Peace Burial at Sea",
+    "isrc": "GB-SMU-46-63725"
+  },
+  {
+    "title": "Mental Revolution",
+    "artist": "Sequel of Sunday",
+    "isrc": "IDA141000397"
+  },
+  {
+    "title": "Make It Precious",
+    "artist": "Make Me Famous",
+    "isrc": "USYFZ1211002"
+  },
+  {
+    "title": "#OIMATEWTF",
+    "artist": "Capture",
+    "isrc": "USYFZ1225202"
+  },
+  {
+    "title": "Embrace the Evil",
+    "artist": "Upon This Dawning",
+    "isrc": "QMGB71400058"
+  },
+  {
+    "title": "#Winning",
+    "artist": "That's Outrageous!",
+    "isrc": "USEK71113904"
+  },
+  {
+    "title": "Unconditionally",
+    "artist": "Everyone Dies In Utah",
+    "isrc": "TCAEA1806382"
+  },
+  {
+    "title": "Give & Take",
+    "artist": "Shoot the Girl First",
+    "isrc": "FR26V1610166"
+  },
+  {
+    "title": "4:42 Reminds Me Of You",
+    "artist": "Casino Madrid",
+    "isrc": "USRZR1130302"
+  },
+  {
+    "title": "Promises",
+    "artist": "Hopes Die Last",
+    "isrc": "CH6540841936"
+  },
+  {
+    "title": "The Illusionist (feat. Tyler Carter)",
+    "artist": "Jamie's Elsewhere, Tyler Carter",
+    "isrc": "TCABT1491653"
+  },
+  {
+    "title": "Guardian Angel",
+    "artist": "Abandon All Ships",
+    "isrc": "CAU2O1010227"
+  },
+  {
+    "title": "Illusions",
+    "artist": "This Romantic Tragedy",
+    "isrc": "TCABR1351330"
+  },
+  {
+    "title": "Won't Let Myself Become You",
+    "artist": "Outline In Color",
+    "isrc": "QZHNC2417630"
+  },
+  {
+    "title": "FTW",
+    "artist": "His Statue Falls",
+    "isrc": "TCJPK2032014"
+  },
+  {
+    "title": "Doublespeak",
+    "artist": "Myka, Relocate",
+    "isrc": "USRZR1347707"
+  },
+  {
+    "title": "Lost In Existence",
+    "artist": "Scarlett O'Hara",
+    "isrc": "USEK71011105"
+  },
+  {
+    "title": "DJ",
+    "artist": "Skip The Foreplay",
+    "isrc": "USEP41136002"
+  },
+  {
+    "title": "Dead By Daylight",
+    "artist": "Dead Rabbitts, Leila Rose",
+    "isrc": "QZHN61958796"
+  },
+  {
+    "title": "Why Am I Like This?",
+    "artist": "The Word Alive",
+    "isrc": "US5261822820"
+  },
+  {
+    "title": "Turbulence",
+    "artist": "At The Skylines",
+    "isrc": "NLA321292114"
+  },
+  {
+    "title": "Who I've Become",
+    "artist": "The Paramedic",
+    "isrc": "US3441403703"
+  },
+  {
+    "title": "Let Down",
+    "artist": "Palisades",
+    "isrc": "QMRSZ1600739"
+  },
+  {
+    "title": "Stick Stickly",
+    "artist": "Attack Attack!",
+    "isrc": "USEK70807302"
+  },
+  {
+    "title": "Running With Scissors",
+    "artist": "I See Stars",
+    "isrc": "USYFZ1670305"
+  },
+  {
+    "title": "Worth It?",
+    "artist": "Sienna Skies",
+    "isrc": "AUNJ10900002"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "The Bunny The Bear",
+    "isrc": "QM6N22135321"
+  },
+  {
+    "title": "Oh Yeah... I Lied",
+    "artist": "Incredible' Me",
+    "isrc": "USRZR1346001"
+  },
+  {
+    "title": "Machines",
+    "artist": "Crown The Empire",
+    "isrc": "USEK71423904"
+  },
+  {
+    "title": "Prince Without Crown",
+    "artist": "Claps for Caroline",
+    "isrc": "US6R21484599"
+  },
+  {
+    "title": "609",
+    "artist": "Nevada Rose",
+    "isrc": "USF270751702"
+  },
+  {
+    "title": "HIVEMIND",
+    "artist": "The Browning",
+    "isrc": "QM5LC2400008"
+  },
+  {
+    "title": "Graveyard Dancing",
+    "artist": "Destroy Rebuild Until God Shows",
+    "isrc": "USWB11004349"
+  },
+  {
+    "title": "Learning to Survive",
+    "artist": "We Came As Romans",
+    "isrc": "DED831701323"
+  },
+  {
+    "title": "STFU",
+    "artist": "Annisokay",
+    "isrc": "DED832000258"
+  },
+  {
+    "title": "Runaway",
+    "artist": "Fail Emotions",
+    "isrc": "TCABW1450447"
+  },
+  {
+    "title": "Ravenous, Ravenous Rhinos",
+    "artist": "I Set My Friends On Fire",
+    "isrc": "USEP40816107"
+  },
+  {
+    "title": "Summerlovin",
+    "artist": "One Morning Left, Olli Herman",
+    "isrc": "DEYO62400025"
+  },
+  {
+    "title": "Red Pulse",
+    "artist": "Exotype",
+    "isrc": "USEK71424204"
+  },
+  {
+    "title": "COMA",
+    "artist": "Issues",
+    "isrc": "USEK71632308"
+  },
+  {
+    "title": "Change of Heart",
+    "artist": "Voices and Vessels",
+    "isrc": "uscgj1245402"
+  },
+  {
+    "title": "Numbers",
+    "artist": "Sky Eats Airplane",
+    "isrc": "US3X50814904"
+  },
+  {
+    "title": "Blood",
+    "artist": "Oceans Red",
+    "isrc": "TCABM1336387"
+  },
+  {
+    "title": "Dreh auf!",
+    "artist": "We Butter The Bread With Butter",
+    "isrc": "DEU601908561"
+  },
+  {
+    "title": "Down",
+    "artist": "To the Rats and Wolves",
+    "isrc": "DED831801877"
+  },
+  {
+    "title": "Between The Lines",
+    "artist": "Beyond All Recognition",
+    "isrc": "SEYOK1103884"
+  },
+  {
+    "title": "Mr. A. Knife",
+    "artist": "The Captain Hates the Sea",
+    "isrc": "ushm91029398"
+  },
+  {
+    "title": "Get Lucky",
+    "artist": "Helia",
+    "isrc": "QM7281715149"
+  },
+  {
+    "title": "If This Were Gotham City, You'd Be Two-Face",
+    "artist": "The Party Foul!",
+    "isrc": "USFL41012149"
+  },
+  {
+    "title": "Somebody That I Used to Know (Cover)",
+    "artist": "Gamma Pulse",
+    "isrc": "TCABJ1266880"
+  },
+  {
+    "title": "Not The American Average",
+    "artist": "Asking Alexandria",
+    "isrc": "USYFZ0902209"
+  },
+  {
+    "title": "Omen",
+    "artist": "Crossfaith",
+    "isrc": "JPP301100221"
+  },
+  {
+    "title": "Voices",
+    "artist": "Silent Descent",
+    "isrc": "UKLPQ1700006"
+  },
+  {
+    "title": "Tear Down The Walls",
+    "artist": "Escape The Day",
+    "isrc": "SEYOK1408830"
+  },
+  {
+    "title": "Shut Up! Our Song Is On!",
+    "artist": "Monsters Scare You!",
+    "isrc": "US4E41292715"
+  },
+  {
+    "title": "Save The Last Dance",
+    "artist": "Bionic Ghost Kids",
+    "isrc": "DEAU90900003"
+  },
+  {
+    "title": "Falling Forever",
+    "artist": "She Was Nothing",
+    "isrc": "FR6V80453422"
+  },
+  {
+    "title": "Immortal Love",
+    "artist": "Vampires Everywhere!",
+    "isrc": "US4E41170402"
+  },
+  {
+    "title": "Rhythm Is A Dancer (feat. Kaleena Zanders)",
+    "artist": "Breathe Carolina, Dropgun, Kaleena Zanders",
+    "isrc": "NLZ541700440"
+  },
+  {
+    "title": "Waking Dream",
+    "artist": "The Road to Milestone",
+    "isrc": "usl4q2074991"
+  },
+  {
+    "title": "Outcome",
+    "artist": "Dead by April, Smash Into Pieces, Samuel Ericsson",
+    "isrc": "QMFMG2371500"
+  },
+  {
+    "title": "C.O.D.Y (feat. Denis Shaforostov)",
+    "artist": "A Reason to Breathe",
+    "isrc": "TCABO1380460"
+  },
+  {
+    "title": "Violence in Fluid Triceratops",
+    "artist": "Arsonists Get All The Girls",
+    "isrc": "US4E40962507"
+  },
+  {
+    "title": "Inception",
+    "artist": "Make Me Famous",
+    "isrc": "USYFZ1211004"
+  },
+  {
+    "title": "Ladies & Gentlemen... I Give You Hell",
+    "artist": "Capture",
+    "isrc": "USYFZ1225204"
+  },
+  {
+    "title": "A New Beginning",
+    "artist": "Upon This Dawning, Chris Motionless",
+    "isrc": "US5261216901"
+  },
+  {
+    "title": "Teenage Scream",
+    "artist": "That's Outrageous!",
+    "isrc": "USEK71113903"
+  },
+  {
+    "title": "Desoto '55",
+    "artist": "Everyone Dies In Utah",
+    "isrc": "USF271199106"
+  },
+  {
+    "title": "Eternal Sunshine",
+    "artist": "Shoot the Girl First",
+    "isrc": "FR6V80341549"
+  },
+  {
+    "title": "Life Sentencer",
+    "artist": "Casino Madrid",
+    "isrc": "USRZR1130304"
+  },
+  {
+    "title": "Some Like It Cold",
+    "artist": "Hopes Die Last",
+    "isrc": "USQZ30901501"
+  },
+  {
+    "title": "The Cover Up",
+    "artist": "Jamie's Elsewhere",
+    "isrc": "TCABT1491655"
+  },
+  {
+    "title": "Infamous",
+    "artist": "Abandon All Ships, A Game",
+    "isrc": "CAU201210249"
+  },
+  {
+    "title": "The Saddest Thing",
+    "artist": "This Romantic Tragedy",
+    "isrc": "TCABR1351346"
+  },
+  {
+    "title": "Do Your Worst",
+    "artist": "Outline In Color, Loveless",
+    "isrc": "QM6N22295344"
+  },
+  {
+    "title": "Breathe in Breathe Out",
+    "artist": "His Statue Falls",
+    "isrc": "DELL41200065"
+  },
+  {
+    "title": "Only Steps Away",
+    "artist": "Myka, Relocate",
+    "isrc": "USRZR1565304"
+  },
+  {
+    "title": "Overthrown",
+    "artist": "Scarlett O'Hara",
+    "isrc": "QZRUP2300527"
+  },
+  {
+    "title": "This City (We're Taking Over)",
+    "artist": "Skip The Foreplay",
+    "isrc": "USEP41136010"
+  },
+  {
+    "title": "Raisehell.exe",
+    "artist": "Dead Rabbitts",
+    "isrc": "FR2X42293234"
+  },
+  {
+    "title": "New Reality",
+    "artist": "The Word Alive",
+    "isrc": "QM4TW2393429"
+  },
+  {
+    "title": "It's Cherried",
+    "artist": "At The Skylines",
+    "isrc": "NLA321292110"
+  },
+  {
+    "title": "Have A Nice Day",
+    "artist": "The Paramedic",
+    "isrc": "US3441403702"
+  },
+  {
+    "title": "Fall",
+    "artist": "Palisades",
+    "isrc": "USEK71626399"
+  },
+  {
+    "title": "Concrete",
+    "artist": "Attack Attack!",
+    "isrc": "QM24S2402497"
+  },
+  {
+    "title": "Calm Snow",
+    "artist": "I See Stars",
+    "isrc": "USYFZ1670301"
+  },
+  {
+    "title": "Cut Me Off",
+    "artist": "Sienna Skies, Listener",
+    "isrc": "QMBZ92352944"
+  },
+  {
+    "title": "Last Night",
+    "artist": "The Bunny The Bear, Never Bothered To Bloom",
+    "isrc": "QMDA72353751"
+  },
+  {
+    "title": "Where Dreams Are Born, & Time Is Never Planned",
+    "artist": "Incredible' Me, Hance Allgood",
+    "isrc": "USRZR1346004"
+  },
+  {
+    "title": "The Fallout",
+    "artist": "Crown The Empire",
+    "isrc": "USEK71217902"
+  },
+  {
+    "title": "Anymore",
+    "artist": "Claps for Caroline",
+    "isrc": "HUB530000008"
+  },
+  {
+    "title": "Meet Me at Midnight",
+    "artist": "Nevada Rose",
+    "isrc": "USF270751708"
+  },
+  {
+    "title": "Poison",
+    "artist": "The Browning",
+    "isrc": "QM5LC2300308"
+  },
+  {
+    "title": "Mr. Owl Ate My Metal Worm",
+    "artist": "Destroy Rebuild Until God Shows",
+    "isrc": "USWB11003596"
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "title": "Bad to Me",
+    "artist": "Billy J. Kramer, The Dakotas",
+    "isrc": "GBAYE6300032"
+  },
+  {
+    "title": "I Think Of You",
+    "artist": "The Merseybeats",
+    "isrc": "GBF086400237"
+  },
+  {
+    "title": "You're No Good",
+    "artist": "The Swinging Blue Jeans",
+    "isrc": "GBAYE6400024"
+  },
+  {
+    "title": "I'm In Love",
+    "artist": "The Fourmost",
+    "isrc": "GBAYE6300372"
+  },
+  {
+    "title": "I'm Telling You Now",
+    "artist": "Freddie & The Dreamers",
+    "isrc": "GBAYE6300536"
+  },
+  {
+    "title": "You'll Never Walk Alone - Stereo; 1997 Remaster",
+    "artist": "Gerry & The Pacemakers",
+    "isrc": "GBAYE9702799"
+  },
+  {
+    "title": "Do You Love Me?",
+    "artist": "Brian Poole & The Tremeloes",
+    "isrc": "GBF076320220"
+  },
+  {
+    "title": "Because (2019 - Remaster)",
+    "artist": "The Dave Clark Five",
+    "isrc": "GB5KW1901742"
+  },
+  {
+    "title": "Got To Get You Into My Life - 2004 Digital Remaster",
+    "artist": "Cliff Bennett & The Rebel Rousers",
+    "isrc": "GBAYE0400905"
+  },
+  {
+    "title": "Long Cool Woman (In a Black Dress) - 1999 Remaster",
+    "artist": "The Hollies",
+    "isrc": "GBGYU9900019"
+  },
+  {
+    "title": "The Cruel Sea",
+    "artist": "The Dakotas",
+    "isrc": "QMDA71489349"
+  },
+  {
+    "title": "Like Dreamers Do",
+    "artist": "The Applejacks",
+    "isrc": "GBF076420990"
+  },
+  {
+    "title": "Juliet",
+    "artist": "The Four Pennies",
+    "isrc": "GBF086400224"
+  },
+  {
+    "title": "Wild Women",
+    "artist": "The Big Three",
+    "isrc": "USMC16300311"
+  },
+  {
+    "title": "Hold Me",
+    "artist": "P.J. Proby",
+    "isrc": "GBBBA6462410"
+  },
+  {
+    "title": "Bend Me, Shape Me",
+    "artist": "Amen Corner",
+    "isrc": "QZPLS2382218"
+  },
+  {
+    "title": "I Can Tell",
+    "artist": "Rory Storm & The Hurricanes",
+    "isrc": "UK8HE0001769"
+  },
+  {
+    "title": "Young Girl",
+    "artist": "Gary Puckett & The Union Gap",
+    "isrc": "USSM16801071"
+  },
+  {
+    "title": "Dizzy",
+    "artist": "Tommy Roe",
+    "isrc": "USMC16949184"
+  },
+  {
+    "title": "You're My World - 2003 Remaster",
+    "artist": "Cilla Black",
+    "isrc": "GBAYE0301123"
+  },
+  {
+    "title": "Sorrow",
+    "artist": "The Merseys",
+    "isrc": "DK5C50141427"
+  },
+  {
+    "title": "Reflections of My Life",
+    "artist": "Marmalade",
+    "isrc": "GBAJE6900123"
+  },
+  {
+    "title": "Well I Ask You",
+    "artist": "Eden Kane",
+    "isrc": "GBF076120240"
+  },
+  {
+    "title": "Tip of My Tongue",
+    "artist": "The Remo Four",
+    "isrc": "FR10S1588149"
+  },
+  {
+    "title": "Walkin' Back to Happiness",
+    "artist": "Helen Shapiro",
+    "isrc": "GBAYE6100146"
+  },
+  {
+    "title": "A Teenager In Love",
+    "artist": "Marty Wilde",
+    "isrc": "GBF080201112"
+  },
+  {
+    "title": "A Groovy Kind Of Love",
+    "artist": "Mindbenders",
+    "isrc": "GBF086500218"
+  },
+  {
+    "title": "I Remember You",
+    "artist": "Frank Ifield",
+    "isrc": "GBAYE6200141"
+  },
+  {
+    "title": "Just a Little Bit",
+    "artist": "The Undertakers",
+    "isrc": "GBAJE6400132"
+  },
+  {
+    "title": "Twenty Four Hours From Tulsa",
+    "artist": "Gene Pitney",
+    "isrc": "USACU0500078"
+  },
+  {
+    "title": "I'm a Moody Guy - 2003 Remaster",
+    "artist": "Shane Fenton & The Fentones",
+    "isrc": "GBAYE0300600"
+  },
+  {
+    "title": "Everlasting Love",
+    "artist": "Love Affair",
+    "isrc": "GBBBN6700001"
+  },
+  {
+    "title": "Hang On Sloopy",
+    "artist": "The McCoys",
+    "isrc": "USSM16501203"
+  },
+  {
+    "title": "Secret Love",
+    "artist": "Kathy Kirby",
+    "isrc": "DEXO42239250"
+  },
+  {
+    "title": "Summer Holiday - 2003 Remaster",
+    "artist": "Cliff Richard & The Shadows",
+    "isrc": "GBAYE0300037"
+  },
+  {
+    "title": "Downtown",
+    "artist": "Petula Clark",
+    "isrc": "GBAJE6400050"
+  },
+  {
+    "title": "Baby Come Back",
+    "artist": "The Equals",
+    "isrc": "UKU6H1949051"
+  },
+  {
+    "title": "I'd Like to Teach the World to Sing (In Perfect Harmony)",
+    "artist": "The New Seekers",
+    "isrc": "USEE10301236"
+  },
+  {
+    "title": "Venus in Blue Jeans (Original Mix)",
+    "artist": "Mark Wynter",
+    "isrc": "DEKB71907335"
+  },
+  {
+    "title": "Johnny Remember Me",
+    "artist": "John Leyton",
+    "isrc": "DEZZ42173018"
+  },
+  {
+    "title": "Lightnin' Strikes",
+    "artist": "Lou Christie",
+    "isrc": "USF096525320"
+  },
+  {
+    "title": "Simon Says",
+    "artist": "1910 Fruitgum Company",
+    "isrc": "USBR10000159"
+  },
+  {
+    "title": "Peanut Butter - Remastered 2024",
+    "artist": "The Liverbirds",
+    "isrc": "DEEG22480987"
+  },
+  {
+    "title": "Cry Like a Baby",
+    "artist": "The Box Tops",
+    "isrc": "USAR16800101"
+  },
+  {
+    "title": "A Hundred Pounds of Clay",
+    "artist": "Craig Douglas",
+    "isrc": "AUXN22090968"
+  },
+  {
+    "title": "Groovin'",
+    "artist": "The Young Rascals",
+    "isrc": "USAT21402943"
+  },
+  {
+    "title": "Kind of a Drag",
+    "artist": "The Buckinghams",
+    "isrc": "USSM16601598"
+  },
+  {
+    "title": "Everything's Alright",
+    "artist": "The Mojos",
+    "isrc": "GBF076420480"
+  },
+  {
+    "title": "Sealed With A Kiss",
+    "artist": "Brian Hyland",
+    "isrc": "USMC16250933"
+  },
+  {
+    "title": "Crimson and Clover (Single Version)",
+    "artist": "Tommy James & The Shondells",
+    "isrc": "USRH10284728"
+  },
+  {
+    "title": "The Rain The Park And Other Things",
+    "artist": "The Cowsills",
+    "isrc": "USUM71606000"
+  },
+  {
+    "title": "Come A Little Bit Closer",
+    "artist": "Jay & The Americans",
+    "isrc": "USEM38500084"
+  },
+  {
+    "title": "Flash, Bang, Wallop",
+    "artist": "Tommy Steele",
+    "isrc": "GBF076321430"
+  },
+  {
+    "title": "Sway",
+    "artist": "Bobby Rydell",
+    "isrc": "GBLGL1290276"
+  },
+  {
+    "title": "Hitchin' A Ride",
+    "artist": "Vanity Fare",
+    "isrc": "NLB120600111"
+  },
+  {
+    "title": "Honey",
+    "artist": "Bobby Goldsboro",
+    "isrc": "USCN18800065"
+  },
+  {
+    "title": "Green Tambourine",
+    "artist": "The Lemon Pipers",
+    "isrc": "USBR16700001"
+  },
+  {
+    "title": "Bobby's Girl",
+    "artist": "Susan Maughan",
+    "isrc": "DEZZ42172835"
+  },
+  {
+    "title": "When My Little Girl Is Smiling",
+    "artist": "Jimmy Justice",
+    "isrc": "GBGQH1921741"
+  },
+  {
+    "title": "Poetry In Motion",
+    "artist": "Johnny Tillotson",
+    "isrc": "USZZM0710344"
+  },
+  {
+    "title": "See You in September",
+    "artist": "The Happenings",
+    "isrc": "USRH10300405"
+  },
+  {
+    "title": "Wooly Bully",
+    "artist": "Sam The Sham & The Pharaohs",
+    "isrc": "USF096525040"
+  },
+  {
+    "title": "Tell Laura I Love Her",
+    "artist": "Ricky Valance",
+    "isrc": "GBAYE6000099"
+  },
+  {
+    "title": "Down in the Boondocks",
+    "artist": "Billy Joe Royal",
+    "isrc": "USSM11501552"
+  },
+  {
+    "title": "Walk Away Renee",
+    "artist": "The Left Banke",
+    "isrc": "USIR20180419"
+  },
+  {
+    "title": "Jesamine",
+    "artist": "The Casuals",
+    "isrc": "GBF076821500"
+  },
+  {
+    "title": "What Do You Want to Make Those Eyes at Me for",
+    "artist": "Emile Ford & The Checkmates",
+    "isrc": "GBAJE6000243"
+  },
+  {
+    "title": "Let's Dance",
+    "artist": "Chris Montez",
+    "isrc": "DEXO12375454"
+  },
+  {
+    "title": "Hey Paula",
+    "artist": "Paul & Paula",
+    "isrc": "DEXO42210802"
+  },
+  {
+    "title": "Sweets For My Sweet",
+    "artist": "Mike Pender's Searchers",
+    "isrc": "USLE11493710"
+  },
+  {
+    "title": "Tallahassee Lassie",
+    "artist": "Freddy Cannon",
+    "isrc": "DEZZ42171346"
+  },
+  {
+    "title": "You Were On My Mind",
+    "artist": "We Five",
+    "isrc": "USAM16900849"
+  },
+  {
+    "title": "I Pretend",
+    "artist": "Des O'Connor",
+    "isrc": "GBAYE6800682"
+  },
+  {
+    "title": "Here Comes The Sun - Remastered 2009",
+    "artist": "The Beatles",
+    "isrc": "GBAYE0601696"
+  },
+  {
+    "title": "I'll See You In My Dreams",
+    "artist": "Joe Brown",
+    "isrc": "GB2T31200005"
+  },
+  {
+    "title": "Silence Is Golden (Rerecorded)",
+    "artist": "Brian Poole",
+    "isrc": "AUXN22120030"
+  },
+  {
+    "title": "Mama Come Home",
+    "artist": "Kingsize Taylor",
+    "isrc": "DEM140800045"
+  },
+  {
+    "title": "Stupidity",
+    "artist": "Kingsize Taylor & The Dominos",
+    "isrc": "UK8HE0001774"
+  },
+  {
+    "title": "Please Stay",
+    "artist": "The Cryin Shames",
+    "isrc": "US5940903801"
+  },
+  {
+    "title": "Up on the Roof",
+    "artist": "Kenny Lynch",
+    "isrc": "GBAYE6200150"
+  },
+  {
+    "title": "A Picture of You",
+    "artist": "Joe Brown & The Bruvvers",
+    "isrc": "GBAJE6200057"
+  },
+  {
+    "title": "Everyone's Gone to the Moon",
+    "artist": "Jonathan King",
+    "isrc": "GBCBS6532191"
+  },
+  {
+    "title": "Love Is Like a Violin",
+    "artist": "Ken Dodd",
+    "isrc": "AUXN22349124"
+  },
+  {
+    "title": "That Same Old Feeling",
+    "artist": "Pickettywitch",
+    "isrc": "GBAJE7000050"
+  },
+  {
+    "title": "Land Of A 1000 Dances (In Concert)",
+    "artist": "The Mindbenders",
+    "isrc": "USBT21600597"
+  },
+  {
+    "title": "The Story of My Life",
+    "artist": "michael holliday",
+    "isrc": "GBAYE5800007"
+  },
+  {
+    "title": "My Baby Loves Lovin'",
+    "artist": "White Plains",
+    "isrc": "GBF077020060"
+  },
+  {
+    "title": "The Sunshine of Your Smile",
+    "artist": "Mike Berry",
+    "isrc": "GBAGW9512049"
+  },
+  {
+    "title": "Lily the Pink - 1998 Remaster",
+    "artist": "The Scaffold",
+    "isrc": "GBAYE9801272"
+  },
+  {
+    "title": "Chills And Fever",
+    "artist": "Jet Harris",
+    "isrc": "GBF076200420"
+  },
+  {
+    "title": "My Old Man's A Dustman",
+    "artist": "Lonnie Donegan",
+    "isrc": "GBAJE6000050"
+  },
+  {
+    "title": "Excerpt from a Teenage Opera",
+    "artist": "Keith West",
+    "isrc": "GBAYE6600534"
+  },
+  {
+    "title": "Kites - Stereo; 2004 Remaster",
+    "artist": "Simon Dupree & The Big Sound",
+    "isrc": "GBAYE0400016"
+  },
+  {
+    "title": "I Can't Let Maggie Go",
+    "artist": "Honeybus",
+    "isrc": "GBAJE6800263"
+  },
+  {
+    "title": "Do You Want to Know a Secret?",
+    "artist": "Billy J. Kramer, The Dakotas",
+    "isrc": "GBAYE6300051"
+  },
+  {
+    "title": "Wishin' And Hopin'",
+    "artist": "The Merseybeats",
+    "isrc": "GBF086400338"
+  },
+  {
+    "title": "Don't Make Me Over",
+    "artist": "The Swinging Blue Jeans",
+    "isrc": "GBAYE6500043"
+  },
+  {
+    "title": "A Little Loving",
+    "artist": "The Fourmost",
+    "isrc": "GBAYE6400102"
+  },
+  {
+    "title": "You Were Made for Me",
+    "artist": "Freddie & The Dreamers",
+    "isrc": "GBAYE6300538"
+  },
+  {
+    "title": "Twist And Shout",
+    "artist": "Brian Poole & The Tremeloes",
+    "isrc": "GBF076321420"
+  },
+  {
+    "title": "Ferry Cross the Mersey - Stereo; 1997 Remaster",
+    "artist": "Gerry & The Pacemakers",
+    "isrc": "GBAYE9702817"
+  },
+  {
+    "title": "Glad All Over (2019 - Remaster)",
+    "artist": "The Dave Clark Five",
+    "isrc": "GB5KW1901734"
+  },
+  {
+    "title": "One Way Love - Mono",
+    "artist": "Cliff Bennett & The Rebel Rousers",
+    "isrc": "GBAYE6400091"
+  },
+  {
+    "title": "Pretend",
+    "artist": "The Dakotas",
+    "isrc": "nlb039900029"
+  },
+  {
+    "title": "Tell Me When",
+    "artist": "The Applejacks",
+    "isrc": "GBF076420130"
+  },
+  {
+    "title": "Until It's Time For You To Go",
+    "artist": "The Four Pennies",
+    "isrc": "GBF086500224"
+  },
+  {
+    "title": "The Air That I Breathe - 2008 Remaster",
+    "artist": "The Hollies",
+    "isrc": "GBGYU0800011"
+  },
+  {
+    "title": "Sing Hallelujah",
+    "artist": "The Big Three",
+    "isrc": "USRH11000768"
+  },
+  {
+    "title": "Somewhere",
+    "artist": "P.J. Proby",
+    "isrc": "GBVVQ1501339"
+  },
+  {
+    "title": "Introduction MacArthur Park - Remastered 1985",
+    "artist": "Amen Corner",
+    "isrc": "QZTB82377663"
+  },
+  {
+    "title": "Beautiful Dreamer",
+    "artist": "Rory Storm & The Hurricanes",
+    "isrc": "AUV401913303"
+  },
+  {
+    "title": "Lady Willpower",
+    "artist": "Gary Puckett & The Union Gap",
+    "isrc": "USSM16801073"
+  },
+  {
+    "title": "Sheila",
+    "artist": "Tommy Roe",
+    "isrc": "USMC16919926"
+  },
+  {
+    "title": "Anyone Who Had a Heart - 2003 Remaster",
+    "artist": "Cilla Black",
+    "isrc": "GBAYE0301100"
+  },
+  {
+    "title": "Sorrow - Alternative Version",
+    "artist": "The Merseys",
+    "isrc": "GBBLY2102759"
+  },
+  {
+    "title": "Reflections Of My Life",
+    "artist": "Marmalade",
+    "isrc": "NLA242100102"
+  },
+  {
+    "title": "Forget Me Not",
+    "artist": "Eden Kane",
+    "isrc": "GBF076200020"
+  },
+  {
+    "title": "Lies",
+    "artist": "The Remo Four",
+    "isrc": "FR10S1588143"
+  },
+  {
+    "title": "Queen for Tonight",
+    "artist": "Helen Shapiro",
+    "isrc": "GBAYE6200133"
+  },
+  {
+    "title": "Sea Of Love",
+    "artist": "Marty Wilde",
+    "isrc": "GBF085900103"
+  },
+  {
+    "title": "Uncle Joe The Ice Cream Man",
+    "artist": "Mindbenders",
+    "isrc": "GBF086800007"
+  },
+  {
+    "title": "She Taught Me How to Yodel",
+    "artist": "Frank Ifield",
+    "isrc": "GBAYE6200445"
+  },
+  {
+    "title": "I Fell in Love (For the Very First Time)",
+    "artist": "The Undertakers",
+    "isrc": "QMDA71406536"
+  },
+  {
+    "title": "(The Man Who Shot) Liberty Valance",
+    "artist": "Gene Pitney",
+    "isrc": "USACU0500164"
+  },
+  {
+    "title": "It's All over Now - 2003 Remaster",
+    "artist": "Shane Fenton & The Fentones",
+    "isrc": "GBAYE0300604"
+  },
+  {
+    "title": "Bringing on Back the Good Times",
+    "artist": "Love Affair",
+    "isrc": "GBBBN0102308"
+  },
+  {
+    "title": "Hang on Sloopy",
+    "artist": "The McCoys",
+    "isrc": "USSM11501608"
+  },
+  {
+    "title": "Dance On",
+    "artist": "Kathy Kirby",
+    "isrc": "DEXO42239251"
+  },
+  {
+    "title": "Lucky Lips",
+    "artist": "Cliff Richard & The Shadows",
+    "isrc": "GBAYE6300068"
+  },
+  {
+    "title": "Baby, Come Back - Re-Recorded",
+    "artist": "The Equals",
+    "isrc": "QM4TX1875100"
+  },
+  {
+    "title": "Down Town",
+    "artist": "Petula Clark",
+    "isrc": "NLS241500551"
+  },
+  {
+    "title": "Never Ending Song Of Love",
+    "artist": "The New Seekers",
+    "isrc": "NLF057190044"
+  },
+  {
+    "title": "Go Away Little Girl",
+    "artist": "Mark Wynter",
+    "isrc": "GBGQH1922734"
+  },
+  {
+    "title": "Wild Wind",
+    "artist": "John Leyton",
+    "isrc": "DEZZ42173023"
+  },
+  {
+    "title": "I'm Gonna Make You Mine",
+    "artist": "Lou Christie",
+    "isrc": "USBR16900010"
+  },
+  {
+    "title": "1,2,3 Red Light",
+    "artist": "1910 Fruitgum Company",
+    "isrc": "USBR10000164"
+  },
+  {
+    "title": "Why Do You Hang Around Me - Remastered 2024",
+    "artist": "The Liverbirds",
+    "isrc": "DEEG22480997"
+  },
+  {
+    "title": "Soul Deep",
+    "artist": "The Box Tops",
+    "isrc": "USAR16900103"
+  },
+  {
+    "title": "When My Little Girl Is Smiling",
+    "artist": "Craig Douglas",
+    "isrc": "AUXN22090971"
+  },
+  {
+    "title": "Good Lovin' - Single Version",
+    "artist": "The Young Rascals",
+    "isrc": "USAT20106062"
+  },
+  {
+    "title": "Don't You Care",
+    "artist": "The Buckinghams",
+    "isrc": "USSM16701223"
+  },
+  {
+    "title": "Why Not Tonight",
+    "artist": "The Mojos",
+    "isrc": "GBF076420610"
+  },
+  {
+    "title": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
+    "artist": "Brian Hyland",
+    "isrc": "USMC16051029"
+  },
+  {
+    "title": "Mony Mony",
+    "artist": "Tommy James & The Shondells",
+    "isrc": "USRH10175000"
+  },
+  {
+    "title": "Indian Lake",
+    "artist": "The Cowsills",
+    "isrc": "USUR10110639"
+  },
+  {
+    "title": "Fortuosity - From \"The Happiest Millionaire\"",
+    "artist": "Tommy Steele",
+    "isrc": "USWD10220238"
+  },
+  {
+    "title": "This Magic Moment",
+    "artist": "Jay & The Americans",
+    "isrc": "USUM71805778"
+  },
+  {
+    "title": "Forget Him - Bonus Track",
+    "artist": "Bobby Rydell",
+    "isrc": "USA171340062"
+  },
+  {
+    "title": "Hitchin' a Ride",
+    "artist": "Vanity Fare",
+    "isrc": "USAFM0901059"
+  },
+  {
+    "title": "Everybody's Talkin'",
+    "artist": "Bobby Goldsboro",
+    "isrc": "USCA20702676"
+  },
+  {
+    "title": "Rice Is Nice",
+    "artist": "The Lemon Pipers",
+    "isrc": "USSM11508839"
+  },
+  {
+    "title": "Bobby's Girl (Alternate Take)",
+    "artist": "Susan Maughan",
+    "isrc": "DEZZ42172854"
+  },
+  {
+    "title": "Ain't That Funny",
+    "artist": "Jimmy Justice",
+    "isrc": "GBGQH1921740"
+  },
+  {
+    "title": "Why Do I Love You So",
+    "artist": "Johnny Tillotson",
+    "isrc": "USZZM0710354"
+  },
+  {
+    "title": "I Got Rhythm",
+    "artist": "The Happenings",
+    "isrc": "USRH10551904"
+  },
+  {
+    "title": "Lil' Red Riding Hood",
+    "artist": "Sam The Sham & The Pharaohs",
+    "isrc": "USF096525160"
+  },
+  {
+    "title": "Once Upon a Time",
+    "artist": "Ricky Valance",
+    "isrc": "GBAYE0800771"
+  },
+  {
+    "title": "Hush",
+    "artist": "Billy Joe Royal",
+    "isrc": "USSM10114223"
+  },
+  {
+    "title": "Trains and Boats and Planes",
+    "artist": "Billy J. Kramer, The Dakotas",
+    "isrc": "GBAYE6400386"
+  },
+  {
+    "title": "Sorrow",
+    "artist": "The Merseybeats",
+    "isrc": "USAFM0901408"
+  },
+  {
+    "title": "Good Golly Miss Molly",
+    "artist": "The Swinging Blue Jeans",
+    "isrc": "GBAYE6400021"
+  },
+  {
+    "title": "Baby I Need Your Loving",
+    "artist": "The Fourmost",
+    "isrc": "GBAYE6400256"
+  },
+  {
+    "title": "I Understand - Stereo; 1999 Remaster",
+    "artist": "Freddie & The Dreamers",
+    "isrc": "GBAYE9900172"
+  },
+  {
+    "title": "Someone, Someone",
+    "artist": "Brian Poole & The Tremeloes",
+    "isrc": "GBF076420170"
+  },
+  {
+    "title": "Don't Let the Sun Catch You Crying (Main) - Mono",
+    "artist": "Gerry & The Pacemakers",
+    "isrc": "GBAYE6400058"
+  },
+  {
+    "title": "Do You Love Me (2019 - Remaster)",
+    "artist": "The Dave Clark Five",
+    "isrc": "GB5KW1901733"
+  },
+  {
+    "title": "One Way Love - Mono; 1998 Remaster",
+    "artist": "Cliff Bennett & The Rebel Rousers",
+    "isrc": "GBAYE9801223"
+  },
+  {
+    "title": "Bad to Me",
+    "artist": "The Dakotas, Billy J. Kramer",
+    "isrc": "SEWDL9866333"
+  },
+  {
+    "title": "Mexican Hat Rock",
+    "artist": "The Applejacks",
+    "isrc": "USA175840030"
+  },
+  {
+    "title": "I Found Out The Hard Way",
+    "artist": "The Four Pennies",
+    "isrc": "GBF086400226"
+  },
+  {
+    "title": "Dark As A Dungeon",
+    "artist": "The Big Three",
+    "isrc": "USRH11000769"
+  },
+  {
+    "title": "He Ain't Heavy He's My Brother - 1998 Remaster",
+    "artist": "The Hollies",
+    "isrc": "GBGYU9800028"
+  },
+  {
+    "title": "Mission Bell",
+    "artist": "P.J. Proby",
+    "isrc": "USEM34900305"
+  },
+  {
+    "title": "Baby, Do the Philly Dog (Live)",
+    "artist": "Amen Corner",
+    "isrc": "GBAWA0231721"
+  },
+  {
+    "title": "Dr. Feelgood",
+    "artist": "Rory Storm & The Hurricanes",
+    "isrc": "AUV401913313"
+  },
+  {
+    "title": "Over You",
+    "artist": "Gary Puckett & The Union Gap",
+    "isrc": "USSM16801074"
+  },
+  {
+    "title": "Sweet Pea",
+    "artist": "Tommy Roe",
+    "isrc": "USMC16546414"
+  },
+  {
+    "title": "You're My World (Il Mio Mondo) - Alternate Take",
+    "artist": "Cilla Black",
+    "isrc": "GBAYE0901286"
+  },
+  {
+    "title": "So Sad About Us",
+    "artist": "The Merseys",
+    "isrc": "GBBLY2102749"
+  },
+  {
+    "title": "Ob La Di Ob La Da",
+    "artist": "Marmalade",
+    "isrc": "NLA242100100"
+  },
+  {
+    "title": "Boys Cry",
+    "artist": "Eden Kane",
+    "isrc": "DEUE12356073"
+  },
+  {
+    "title": "I Wish I Could Shimmy Like My Sister Kate",
+    "artist": "The Remo Four",
+    "isrc": "GBAJE6400207"
+  },
+  {
+    "title": "You Don't Know",
+    "artist": "Helen Shapiro",
+    "isrc": "GBAYE6100190"
+  },
+  {
+    "title": "Rubber Ball",
+    "artist": "Marty Wilde",
+    "isrc": "GBF086100003"
+  },
+  {
+    "title": "I Want Her She Wants Me",
+    "artist": "Mindbenders",
+    "isrc": "GBF086600011"
+  },
+  {
+    "title": "I'm Confessin'",
+    "artist": "Frank Ifield",
+    "isrc": "UKU6H1913760"
+  },
+  {
+    "title": "Stupidity",
+    "artist": "The Undertakers",
+    "isrc": "GBAJE6400173"
+  },
+  {
+    "title": "Town Without Pity",
+    "artist": "Gene Pitney",
+    "isrc": "USACU0500065"
+  },
+  {
+    "title": "Why Little Girl - 2003 Remaster",
+    "artist": "Shane Fenton & The Fentones",
+    "isrc": "GBAYE0300605"
+  },
+  {
+    "title": "Rainbow Valley",
+    "artist": "Love Affair",
+    "isrc": "GBBBN6800002"
+  }
+]

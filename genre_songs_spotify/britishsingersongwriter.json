@@ -1,0 +1,677 @@
+[
+  {
+    "title": "La Lune",
+    "artist": "Billie Marten",
+    "isrc": "GBARL1600328"
+  },
+  {
+    "title": "Shiver",
+    "artist": "Lucy Rose",
+    "isrc": "GBARL1200767"
+  },
+  {
+    "title": "Tiger Striped Sky",
+    "artist": "Roo Panes",
+    "isrc": "GB5UQ1400018"
+  },
+  {
+    "title": "Fever To The Form",
+    "artist": "Nick Mulvey",
+    "isrc": "GBUM71308779"
+  },
+  {
+    "title": "California",
+    "artist": "Luke Sital-Singh",
+    "isrc": "CAN112200040"
+  },
+  {
+    "title": "What He Wrote",
+    "artist": "Laura Marling",
+    "isrc": "GBAAA1000014"
+  },
+  {
+    "title": "Minimum",
+    "artist": "Charlie Cunningham",
+    "isrc": "SE22E1600105"
+  },
+  {
+    "title": "Top to Toe",
+    "artist": "Fenne Lily",
+    "isrc": "US23A1500137"
+  },
+  {
+    "title": "Only Love",
+    "artist": "Ben Howard",
+    "isrc": "GBUM71104742"
+  },
+  {
+    "title": "You",
+    "artist": "Keaton Henson",
+    "isrc": "GB2ME1200562"
+  },
+  {
+    "title": "Olalla",
+    "artist": "Blanco White",
+    "isrc": "UK4GH1800028"
+  },
+  {
+    "title": "Foreign Hands",
+    "artist": "George Ogilvie",
+    "isrc": "GB45A2300114"
+  },
+  {
+    "title": "She Burns",
+    "artist": "Foy Vance",
+    "isrc": "GBAHS1600110"
+  },
+  {
+    "title": "Sweetest Thing",
+    "artist": "Allman Brown",
+    "isrc": "UK95S1600006"
+  },
+  {
+    "title": "All My Days",
+    "artist": "Alexi Murdoch",
+    "isrc": "US4B80600001"
+  },
+  {
+    "title": "Shame",
+    "artist": "Ciaran Lavery",
+    "isrc": "TCABM1330239"
+  },
+  {
+    "title": "Nobody",
+    "artist": "Bess Atwell",
+    "isrc": "GB6TW2000244"
+  },
+  {
+    "title": "Far Too Good",
+    "artist": "John Smith",
+    "isrc": "GBAID1700003"
+  },
+  {
+    "title": "Lights Are On",
+    "artist": "Tom Rosenthal",
+    "isrc": "GBVHN1800009"
+  },
+  {
+    "title": "Letters from a Travelling Man",
+    "artist": "Katherine Priddy",
+    "isrc": "FR96X1921234"
+  },
+  {
+    "title": "Dawn & Dark",
+    "artist": "Kitty Macfarlane",
+    "isrc": "GBEEJ1801124"
+  },
+  {
+    "title": "A Simple Refrain",
+    "artist": "Josienne Clarke and Ben Walker, Sam Brookes",
+    "isrc": "GB8S21400002"
+  },
+  {
+    "title": "I Need Your Body",
+    "artist": "Brooke Bentham",
+    "isrc": "GB45A1600575"
+  },
+  {
+    "title": "Spherical",
+    "artist": "Josienne Clarke",
+    "isrc": "GX3HP2300011"
+  },
+  {
+    "title": "The Day That I Met You",
+    "artist": "Matilda Mann",
+    "isrc": "USAR12300049"
+  },
+  {
+    "title": "The Sky Is on Fire",
+    "artist": "Ellie Gowers",
+    "isrc": "GX2LL2100001"
+  },
+  {
+    "title": "Tonight the Streets Are Ours",
+    "artist": "Richard Hawley",
+    "isrc": "GBAJH0700455"
+  },
+  {
+    "title": "Flowers",
+    "artist": "Megan Henwood",
+    "isrc": "US23A1577587"
+  },
+  {
+    "title": "King Street",
+    "artist": "Eleni Drake",
+    "isrc": "UK4MC2000205"
+  },
+  {
+    "title": "Cardiff Bay",
+    "artist": "Martyn Joseph",
+    "isrc": "GBDUJ0801915"
+  },
+  {
+    "title": "May Song",
+    "artist": "Nick Hart",
+    "isrc": "UKGZL2200001"
+  },
+  {
+    "title": "Bare",
+    "artist": "WILDES",
+    "isrc": "GBKPL1663770"
+  },
+  {
+    "title": "Are You Waiting?",
+    "artist": "Winnie Raeder",
+    "isrc": "UKSHP1900017"
+  },
+  {
+    "title": "The Mountain and Me",
+    "artist": "Hattie Briggs",
+    "isrc": "UK8T22200006"
+  },
+  {
+    "title": "Faith's Song",
+    "artist": "Amy Wadge",
+    "isrc": "UKMJZ1700007"
+  },
+  {
+    "title": "How (feat. Brandi Carlile)",
+    "artist": "Marcus Mumford, Brandi Carlile",
+    "isrc": "GBUM72203342"
+  },
+  {
+    "title": "Slow",
+    "artist": "Rumer",
+    "isrc": "GBAHS1000156"
+  },
+  {
+    "title": "Nobody's Fault But Mine",
+    "artist": "Beth Rowley",
+    "isrc": "GBUM70709577"
+  },
+  {
+    "title": "Tap the Sap",
+    "artist": "Rachael Dadd",
+    "isrc": "FR59Y1400020"
+  },
+  {
+    "title": "Wait",
+    "artist": "Grace Ackerman",
+    "isrc": "GBMA21939320"
+  },
+  {
+    "title": "Electricity",
+    "artist": "Guy Garvey",
+    "isrc": "GBUM71505470"
+  },
+  {
+    "title": "Loud",
+    "artist": "Delilah Montagu",
+    "isrc": "GBARL2000847"
+  },
+  {
+    "title": "I Wish I Was the Moon",
+    "artist": "Ewan J Phillips, Marley Chapman",
+    "isrc": "NL4NL2153011"
+  },
+  {
+    "title": "Literature Lovers",
+    "artist": "Jose Vanders",
+    "isrc": "GB6DG0900008"
+  },
+  {
+    "title": "What If",
+    "artist": "Frank Hamilton",
+    "isrc": "GBKPL1663841"
+  },
+  {
+    "title": "Little Love",
+    "artist": "Mabes",
+    "isrc": "SE6I31997641"
+  },
+  {
+    "title": "I'll Come Running",
+    "artist": "Paul Thomas Saunders",
+    "isrc": "GBKPL1787310"
+  },
+  {
+    "title": "When You Love Someone",
+    "artist": "James TW",
+    "isrc": "USUM71600705"
+  },
+  {
+    "title": "Rock Pools",
+    "artist": "Saint Saviour, Willy Mason",
+    "isrc": "UKQY81800018"
+  },
+  {
+    "title": "Kidnapped by Neptune",
+    "artist": "Scout Niblett",
+    "isrc": "GBBNZ0400028"
+  },
+  {
+    "title": "The Lost Boy (Bonus Track)",
+    "artist": "Greg Holden",
+    "isrc": "USSSX1200011"
+  },
+  {
+    "title": "North Marine Drive",
+    "artist": "Ben Watt",
+    "isrc": "GBBLY8200191"
+  },
+  {
+    "title": "Brother",
+    "artist": "Anna Pancaldi",
+    "isrc": "GBKPL1776200"
+  },
+  {
+    "title": "The Ghost Who Walks",
+    "artist": "Karen Elson",
+    "isrc": "GBBKS1000025"
+  },
+  {
+    "title": "O, I Love You",
+    "artist": "Essie Jain",
+    "isrc": "GB8QT1000105"
+  },
+  {
+    "title": "Look At What the Light Did Now",
+    "artist": "Flo Morrissey, Matthew E. White",
+    "isrc": "USYAH1600155"
+  },
+  {
+    "title": "This Is How You Walk On - From \"Gifted\"",
+    "artist": "Gary Lightbody, Johnny McDaid",
+    "isrc": "GBUM71705780"
+  },
+  {
+    "title": "Shore",
+    "artist": "Holly Abraham",
+    "isrc": "TCADS1853216"
+  },
+  {
+    "title": "Bang!Bang!",
+    "artist": "Iwan Rheon",
+    "isrc": "GBGVL1300001"
+  },
+  {
+    "title": "Moment",
+    "artist": "Jeremy Warmsley",
+    "isrc": "GBKPL1820777"
+  },
+  {
+    "title": "SASSY",
+    "artist": "Joanne Robertson, Dean Blunt",
+    "isrc": "UKQNV2400042"
+  },
+  {
+    "title": "Tenderoni",
+    "artist": "Kele Okereke",
+    "isrc": "GBDNH1000035"
+  },
+  {
+    "title": "The Angel - North London Forever",
+    "artist": "Louis Dunford",
+    "isrc": "GBARL2200276"
+  },
+  {
+    "title": "Impossible",
+    "artist": "Lyla Foy",
+    "isrc": "USSUB1307803"
+  },
+  {
+    "title": "The Beggar & the Thief",
+    "artist": "Piers Faccini",
+    "isrc": "FR79W1100030"
+  },
+  {
+    "title": "Catch a Falling Star",
+    "artist": "Sophie Madeleine",
+    "isrc": "GB2SZ1400240"
+  },
+  {
+    "title": "Alone In The Dark",
+    "artist": "Will Cookson",
+    "isrc": "GBFFM1737424"
+  },
+  {
+    "title": "Vanilla Baby",
+    "artist": "Billie Marten",
+    "isrc": "GBARL1900007"
+  },
+  {
+    "title": "Could You Help Me",
+    "artist": "Lucy Rose",
+    "isrc": "GB6TW2300268"
+  },
+  {
+    "title": "I Just Love You",
+    "artist": "Roo Panes",
+    "isrc": "FRX282146772"
+  },
+  {
+    "title": "Los Angeles",
+    "artist": "Luke Sital-Singh",
+    "isrc": "QM7281820561"
+  },
+  {
+    "title": "Ghosts",
+    "artist": "Laura Marling",
+    "isrc": "GBAAA0701623"
+  },
+  {
+    "title": "Mountain To Move",
+    "artist": "Nick Mulvey",
+    "isrc": "GBUM71701768"
+  },
+  {
+    "title": "You Sigh",
+    "artist": "Charlie Cunningham",
+    "isrc": "SE22E1600109"
+  },
+  {
+    "title": "I, Nietzsche - acoustic",
+    "artist": "Fenne Lily",
+    "isrc": "USJ5G2127602"
+  },
+  {
+    "title": "Old Pine",
+    "artist": "Ben Howard",
+    "isrc": "GBUM71106250"
+  },
+  {
+    "title": "Petrichor (feat. Ren Ford)",
+    "artist": "Keaton Henson, Ren Ford",
+    "isrc": "GBKPL1411478"
+  },
+  {
+    "title": "Colder Heavens",
+    "artist": "Blanco White",
+    "isrc": "UK4GH1700001"
+  },
+  {
+    "title": "Foreign Hands (George's Version)",
+    "artist": "George Ogilvie",
+    "isrc": "US23A1500397"
+  },
+  {
+    "title": "Sapling",
+    "artist": "Foy Vance",
+    "isrc": "GBAHS2100286"
+  },
+  {
+    "title": "Sons and Daughters",
+    "artist": "Allman Brown, Liz Lawrence",
+    "isrc": "QMFMF1341601"
+  },
+  {
+    "title": "Orange Sky",
+    "artist": "Alexi Murdoch",
+    "isrc": "US4B80400002"
+  },
+  {
+    "title": "Left for America",
+    "artist": "Ciaran Lavery",
+    "isrc": "GBLZQ1400001"
+  },
+  {
+    "title": "Time Comes in Roses",
+    "artist": "Bess Atwell",
+    "isrc": "GB6TW2000241"
+  },
+  {
+    "title": "Eye to Eye (feat. Sarah Jarosz)",
+    "artist": "John Smith, Sarah Jarosz",
+    "isrc": "UKPXW2100008"
+  },
+  {
+    "title": "Indigo",
+    "artist": "Katherine Priddy",
+    "isrc": "GBEEJ2100042"
+  },
+  {
+    "title": "Go Solo",
+    "artist": "Tom Rosenthal",
+    "isrc": "GBFFM1430005"
+  },
+  {
+    "title": "Starling Song",
+    "artist": "Kitty Macfarlane",
+    "isrc": "GBEEJ1801117"
+  },
+  {
+    "title": "Something Familiar",
+    "artist": "Josienne Clarke and Ben Walker",
+    "isrc": "GBCVZ1600038"
+  },
+  {
+    "title": "(My) Baby Lungs",
+    "artist": "Brooke Bentham",
+    "isrc": "GB45A2002177"
+  },
+  {
+    "title": "Fear Of Falling",
+    "artist": "Josienne Clarke",
+    "isrc": "GX3HP2300012"
+  },
+  {
+    "title": "Paper Mache World",
+    "artist": "Matilda Mann",
+    "isrc": "QMFME2000719"
+  },
+  {
+    "title": "Woman of the Waterways",
+    "artist": "Ellie Gowers",
+    "isrc": "GX2LL2200003"
+  },
+  {
+    "title": "Prism in Jeans",
+    "artist": "Richard Hawley",
+    "isrc": "GB5KW2305681"
+  },
+  {
+    "title": "Kyoto",
+    "artist": "Megan Henwood",
+    "isrc": "US23A1578106"
+  },
+  {
+    "title": "Harsh",
+    "artist": "Eleni Drake",
+    "isrc": "UK4MC2200491"
+  },
+  {
+    "title": "I Searched for You",
+    "artist": "Martyn Joseph",
+    "isrc": "GBDUJ1502601"
+  },
+  {
+    "title": "The River Don't Run",
+    "artist": "Nick Hart",
+    "isrc": "UKGZL1600007"
+  },
+  {
+    "title": "Ghost",
+    "artist": "WILDES",
+    "isrc": "GBKPL1787218"
+  },
+  {
+    "title": "I Never Danced",
+    "artist": "Winnie Raeder",
+    "isrc": "GBUM72205695"
+  },
+  {
+    "title": "Just Breathe",
+    "artist": "Hattie Briggs",
+    "isrc": "UK8T21800017"
+  },
+  {
+    "title": "Steve's Song",
+    "artist": "Amy Wadge",
+    "isrc": "UKMJZ1700027"
+  },
+  {
+    "title": "Go In Light (feat. Monica Martin)",
+    "artist": "Marcus Mumford, Monica Martin",
+    "isrc": "GBUM72203346"
+  },
+  {
+    "title": "I Can't Go For That",
+    "artist": "Rumer",
+    "isrc": "USIR61500034"
+  },
+  {
+    "title": "Wretched Body",
+    "artist": "Beth Rowley",
+    "isrc": "GBKPL1358352"
+  },
+  {
+    "title": "Make a Sentence",
+    "artist": "Rachael Dadd",
+    "isrc": "FR59Y1400011"
+  },
+  {
+    "title": "Blood Draw",
+    "artist": "Grace Ackerman",
+    "isrc": "GBLFP1932567"
+  },
+  {
+    "title": "Broken Bottles And Chandeliers",
+    "artist": "Guy Garvey",
+    "isrc": "GBUM71505472"
+  },
+  {
+    "title": "Next to Me",
+    "artist": "Delilah Montagu",
+    "isrc": "GBARL1900420"
+  },
+  {
+    "title": "The Art Of Letting You Go",
+    "artist": "Ewan J Phillips",
+    "isrc": "USA2P2240771"
+  },
+  {
+    "title": "Blue Notes",
+    "artist": "Jose Vanders",
+    "isrc": "GB6DG1000003"
+  },
+  {
+    "title": "Teenage Dirtbag",
+    "artist": "Frank Hamilton, Wheatus",
+    "isrc": "GBKPL1364041"
+  },
+  {
+    "title": "I Can't Get My Head Around You",
+    "artist": "Billie Marten",
+    "isrc": "GBUM72207714"
+  },
+  {
+    "title": "Light As Grass",
+    "artist": "Lucy Rose",
+    "isrc": "GB6TW2300267"
+  },
+  {
+    "title": "Remember Fall In Montreal",
+    "artist": "Roo Panes",
+    "isrc": "FRX452115162"
+  },
+  {
+    "title": "Blind Missiles",
+    "artist": "Luke Sital-Singh",
+    "isrc": "CAN112100793"
+  },
+  {
+    "title": "For You",
+    "artist": "Laura Marling",
+    "isrc": "UKKP22000155"
+  },
+  {
+    "title": "In Your Hands - Single Version",
+    "artist": "Nick Mulvey",
+    "isrc": "GBUM71800086"
+  },
+  {
+    "title": "Berlin",
+    "artist": "Fenne Lily",
+    "isrc": "USJ5G2020903"
+  },
+  {
+    "title": "Permanent Way",
+    "artist": "Charlie Cunningham",
+    "isrc": "GB5KW1900152"
+  },
+  {
+    "title": "Keep Your Head Up",
+    "artist": "Ben Howard",
+    "isrc": "GBUM71104730"
+  },
+  {
+    "title": "Small Hands",
+    "artist": "Keaton Henson",
+    "isrc": "GB2ME1100488"
+  },
+  {
+    "title": "October",
+    "artist": "George Ogilvie",
+    "isrc": "US23A1500285"
+  },
+  {
+    "title": "El Búho",
+    "artist": "Blanco White",
+    "isrc": "UK4GH1700002"
+  },
+  {
+    "title": "Make It Rain",
+    "artist": "Foy Vance",
+    "isrc": "GBAHS1900683"
+  },
+  {
+    "title": "Ancient Light",
+    "artist": "Allman Brown",
+    "isrc": "QMFMF1433475"
+  },
+  {
+    "title": "Lovers Who Make Love",
+    "artist": "Ciaran Lavery",
+    "isrc": "TCABM1330238"
+  },
+  {
+    "title": "Song For You",
+    "artist": "Alexi Murdoch",
+    "isrc": "US4B80400004"
+  },
+  {
+    "title": "Release Myself",
+    "artist": "Bess Atwell",
+    "isrc": "GB6TW2300233"
+  },
+  {
+    "title": "Hold On",
+    "artist": "John Smith",
+    "isrc": "UKPXW2100002"
+  },
+  {
+    "title": "Wolf",
+    "artist": "Katherine Priddy",
+    "isrc": "FR10S1910558"
+  },
+  {
+    "title": "It's Ok",
+    "artist": "Tom Rosenthal",
+    "isrc": "GBFFM1430001"
+  },
+  {
+    "title": "Man, Friendship",
+    "artist": "Kitty Macfarlane",
+    "isrc": "GBEEJ1801126"
+  },
+  {
+    "title": "I Never Learned French",
+    "artist": "Josienne Clarke and Ben Walker",
+    "isrc": "GB8S21400006"
+  },
+  {
+    "title": "To Rest (Blue Light)",
+    "artist": "Brooke Bentham",
+    "isrc": "GB45A2002172"
+  }
+]

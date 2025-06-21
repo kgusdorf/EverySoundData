@@ -1,0 +1,677 @@
+[
+  {
+    "title": "Yana Yana",
+    "artist": "Sabah",
+    "isrc": "EGA020501051"
+  },
+  {
+    "title": "Set El Habayib",
+    "artist": "Fayza Ahmed",
+    "isrc": "EGA020501247"
+  },
+  {
+    "title": "Al Qalb Yehib Marrah",
+    "artist": "Shadia",
+    "isrc": "QMFMF1406924"
+  },
+  {
+    "title": "Lakteb Aawerak El Shagar",
+    "artist": "Farid al-Atrash",
+    "isrc": "EGA020500261"
+  },
+  {
+    "title": "Ana Alby Daleely",
+    "artist": "Laila Mourad",
+    "isrc": "EGA019001773"
+  },
+  {
+    "title": "Yali Shaghalt El Alb",
+    "artist": "Mohamed Fawzi, Layla Mourad",
+    "isrc": "FR59R2195159"
+  },
+  {
+    "title": "Enta Omri I (Arr. H. Ramzy)",
+    "artist": "Mohammed Abdel Wahab, Hossam Ramzy Egyptian Ensemble",
+    "isrc": "GBCKG0900746"
+  },
+  {
+    "title": "علي رمش عيونها",
+    "artist": "Wadih El Safi",
+    "isrc": "EGA001024024"
+  },
+  {
+    "title": "Haramt Ahebak",
+    "artist": "Warda",
+    "isrc": "EGA020500451"
+  },
+  {
+    "title": "Aho Dh Elly Sar",
+    "artist": "Ali El Haggar",
+    "isrc": "FR59R1492367"
+  },
+  {
+    "title": "Ana Bashaa El Bahr",
+    "artist": "Najat Al Saghira",
+    "isrc": "EGA020500900"
+  },
+  {
+    "title": "Bayent El Hob Alaya",
+    "artist": "Mayada El Hennawy",
+    "isrc": "EGA020502535"
+  },
+  {
+    "title": "Ya Salat El Zein",
+    "artist": "Zakarya Ahmed, Sayed Mekawy",
+    "isrc": "EGA020500887"
+  },
+  {
+    "title": "Zourouni Kouli Sanah Marah",
+    "artist": "Sayed Darwish",
+    "isrc": "VGA011113149"
+  },
+  {
+    "title": "Tayer Ya Hawa",
+    "artist": "Mohamed Roshdy",
+    "isrc": "EGA020500755"
+  },
+  {
+    "title": "Matrahak Bi Albi",
+    "artist": "Majida El Roumi",
+    "isrc": "FR10S2029863"
+  },
+  {
+    "title": "We Betesal Ya Habeby",
+    "artist": "Afaf Rady",
+    "isrc": "EGA020502237"
+  },
+  {
+    "title": "Allah Aleik Ya Seedy",
+    "artist": "Ehab Tawfik",
+    "isrc": "QM4TW2101028"
+  },
+  {
+    "title": "امانه عليك",
+    "artist": "Karem Mahmoud",
+    "isrc": "EGA181411108"
+  },
+  {
+    "title": "Rmdan Gana",
+    "artist": "Mohamed Abdel Mottaleb",
+    "isrc": "aea145801373"
+  },
+  {
+    "title": "Fouq annakhl",
+    "artist": "Sabah Fakhri",
+    "isrc": "FR6V81747752"
+  },
+  {
+    "title": "El Sah El Dah Embo",
+    "artist": "Ahmed Adaweya",
+    "isrc": "EGA019001516"
+  },
+  {
+    "title": "Ahwak",
+    "artist": "Abdel Halim Hafez",
+    "isrc": "EGA020501289"
+  },
+  {
+    "title": "Lesa Betesaaly",
+    "artist": "Hany Shaker",
+    "isrc": "EGA020502846"
+  },
+  {
+    "title": "ماما زمانها جاية",
+    "artist": "محمد فوزي",
+    "isrc": "aea145501319"
+  },
+  {
+    "title": "Sallem Alayha",
+    "artist": "Melhem Barakat",
+    "isrc": "FR10S2047592"
+  },
+  {
+    "title": "Habiby Da",
+    "artist": "Hisham Abbas",
+    "isrc": "TCACQ1660790"
+  },
+  {
+    "title": "Fe Nour Mohyak",
+    "artist": "Umm Kulthum",
+    "isrc": "EGA019004089"
+  },
+  {
+    "title": "Ketab Hayaty",
+    "artist": "Hassan El Asmar",
+    "isrc": "FRX201626003"
+  },
+  {
+    "title": "أحلامنا",
+    "artist": "Angham, Cairokee",
+    "isrc": "FRX282394536"
+  },
+  {
+    "title": "Ya habibi taala elhaani",
+    "artist": "Asmahan",
+    "isrc": "FR43D1702710"
+  },
+  {
+    "title": "طمنى عليك",
+    "artist": "Mohamed Fouad",
+    "isrc": "LBA081120221"
+  },
+  {
+    "title": "Enzel Ya Gameel",
+    "artist": "Walid Toufic",
+    "isrc": "FR6V82250967"
+  },
+  {
+    "title": "Moukawem",
+    "artist": "Julia Boutros",
+    "isrc": "LBA132000349"
+  },
+  {
+    "title": "Shamandora",
+    "artist": "Mohamed Mounir",
+    "isrc": "EGA020500017"
+  },
+  {
+    "title": "لبنانى",
+    "artist": "Assi El Hallani",
+    "isrc": "LBA081105217"
+  },
+  {
+    "title": "Ya Ashikat El Ward",
+    "artist": "Zaki Nassif",
+    "isrc": "FRX281920606"
+  },
+  {
+    "title": "Ya Waady Al Ayam",
+    "artist": "Ahmed Mounib",
+    "isrc": "TCACA1403165"
+  },
+  {
+    "title": "Nasini El Donya",
+    "artist": "Ragheb Alama",
+    "isrc": "EGA020501929"
+  },
+  {
+    "title": "هون يا مهون",
+    "artist": "Mohamed Kandil",
+    "isrc": "aea149501765"
+  },
+  {
+    "title": "En Kont Ghaly",
+    "artist": "Aida el Ayoubi",
+    "isrc": "EGA020500041"
+  },
+  {
+    "title": "Nassam Alayna El Hawa",
+    "artist": "Fairuz",
+    "isrc": "QZ4UU1794325"
+  },
+  {
+    "title": "Lilet Eshek",
+    "artist": "Hanan Mady",
+    "isrc": "QM4TW2102653"
+  },
+  {
+    "title": "Fouq",
+    "artist": "Assala Nasri",
+    "isrc": "LBA082310212"
+  },
+  {
+    "title": "Ya Mare' Aal Tawahine",
+    "artist": "Nasri Shamseddine",
+    "isrc": "USJ3V1033184"
+  },
+  {
+    "title": "Maktoob",
+    "artist": "Alaa Abd El Khalek",
+    "isrc": "EGA019000178"
+  },
+  {
+    "title": "Bala Wala Chi",
+    "artist": "Ziad Rahbani",
+    "isrc": "AEA040700577"
+  },
+  {
+    "title": "Men Sharadlil Ghazala",
+    "artist": "Toni Hanna",
+    "isrc": "FRX281941350"
+  },
+  {
+    "title": "Andak Bahariya",
+    "artist": "Najah Salam, Wadih El Safi, Sabah",
+    "isrc": "VGA011010589"
+  },
+  {
+    "title": "Ashofak Kil Youm",
+    "artist": "Mohammed Abdu",
+    "isrc": "VGA010813235"
+  },
+  {
+    "title": "Law Bena Eih",
+    "artist": "Sherine Wagdy",
+    "isrc": "EGA020501683"
+  },
+  {
+    "title": "أنا بتبع قلبي",
+    "artist": "Abdallah Al Rowaished",
+    "isrc": "QMFMF1585928"
+  },
+  {
+    "title": "يا ابن الأوادم",
+    "artist": "Abdul Majeed Abdullah",
+    "isrc": "LBA082100061"
+  },
+  {
+    "title": "Intro Layaly El Helmeya - From \"Layaly El Helmeya\"",
+    "artist": "Mohamed El Helw",
+    "isrc": "FRX871582782"
+  },
+  {
+    "title": "Teir Fessama",
+    "artist": "Eman El Bahr Darwesh",
+    "isrc": "FRX452250752"
+  },
+  {
+    "title": "وحشتيني",
+    "artist": "Rashed Al-Majed",
+    "isrc": "LBA081041165"
+  },
+  {
+    "title": "قيام",
+    "artist": "Rabeh Saqer",
+    "isrc": "LBA082000326"
+  },
+  {
+    "title": "Sayed Alaqareb Intro",
+    "artist": "Nawal",
+    "isrc": "aea142400959"
+  },
+  {
+    "title": "Ghir Enta",
+    "artist": "Souad Massi",
+    "isrc": "FRY030201870"
+  },
+  {
+    "title": "موسيقى المال و البنون",
+    "artist": "Yasser Abdel Rahman",
+    "isrc": "DGA092218479"
+  },
+  {
+    "title": "Kellon Annek Sa'alouni",
+    "artist": "Elias Karam",
+    "isrc": "FR6V82570007"
+  },
+  {
+    "title": "بستانس",
+    "artist": "Miami Band",
+    "isrc": "LBA132201838"
+  },
+  {
+    "title": "Ya Rayah",
+    "artist": "Rachid Taha",
+    "isrc": "FRZ019203450"
+  },
+  {
+    "title": "C’est la vie",
+    "artist": "Khaled",
+    "isrc": "FRUM71201906"
+  },
+  {
+    "title": "اسهلهالك",
+    "artist": "Laila Ghofran",
+    "isrc": "LBA081103246"
+  },
+  {
+    "title": "بكره اسرائيل",
+    "artist": "Shaaban Abdel Rahim",
+    "isrc": "aea140001989"
+  },
+  {
+    "title": "جاني الأسمر",
+    "artist": "عتاب",
+    "isrc": "QMBZ91666401"
+  },
+  {
+    "title": "Zay Elasal",
+    "artist": "Sabah",
+    "isrc": "EGA020501054"
+  },
+  {
+    "title": "Bahebek Ya Masr",
+    "artist": "Fayza Ahmed",
+    "isrc": "FRX281923408"
+  },
+  {
+    "title": "Kademnaloh El Hob Live",
+    "artist": "Shadia",
+    "isrc": "EGA020500559"
+  },
+  {
+    "title": "Ya Habaiby Ya Ghaiben",
+    "artist": "Farid al-Atrash",
+    "isrc": "EGA010507155"
+  },
+  {
+    "title": "Esaal Alaya",
+    "artist": "Layla Mourad",
+    "isrc": "EGA020502676"
+  },
+  {
+    "title": "Mama zamnha gayah - Remastered",
+    "artist": "Mohamed Fawzi",
+    "isrc": "MAA051300910"
+  },
+  {
+    "title": "La Mosh Ana Elly Abky",
+    "artist": "Mohamed Abd El Wahab",
+    "isrc": "EGA020501332"
+  },
+  {
+    "title": "Al Lailu Ya Laila",
+    "artist": "Wadih El Safi",
+    "isrc": "AEAB29500098"
+  },
+  {
+    "title": "Nar El Ghera",
+    "artist": "Warda",
+    "isrc": "EGA020501476"
+  },
+  {
+    "title": "Bahlam Waftah Enaya",
+    "artist": "Ali El Haggar, Hanan Mady",
+    "isrc": "FR59R1492369"
+  },
+  {
+    "title": "Bahlam Maak",
+    "artist": "Najat Al Saghira",
+    "isrc": "EGA020500898"
+  },
+  {
+    "title": "Al Shams",
+    "artist": "Mayada El Hennawy",
+    "isrc": "EGA020501455"
+  },
+  {
+    "title": "Helween Min Yomna",
+    "artist": "Sayed Mekawy",
+    "isrc": "aea148401385"
+  },
+  {
+    "title": "Khafif Erouh",
+    "artist": "Sayed Darwish",
+    "isrc": "VGA011113138"
+  },
+  {
+    "title": "Meta Ashofak",
+    "artist": "Mohamed Roshdy",
+    "isrc": "EGA020502477"
+  },
+  {
+    "title": "Etazalt El Gharam",
+    "artist": "Majida El Roumi",
+    "isrc": "FR6V82040998"
+  },
+  {
+    "title": "Hum El Num",
+    "artist": "Afaf Rady",
+    "isrc": "EGA020502116"
+  },
+  {
+    "title": "Wi Nnabi Ya Jamil",
+    "artist": "Karem Mahmoud",
+    "isrc": "VGA011021995"
+  },
+  {
+    "title": "Tetraga Feya",
+    "artist": "Ehab Tawfik",
+    "isrc": "QM4TW2101016"
+  },
+  {
+    "title": "ساكن في حي السيدة",
+    "artist": "Mohamed Abdel Mottaleb",
+    "isrc": "GX5MX2258159"
+  },
+  {
+    "title": "Ibâathli gawab",
+    "artist": "Sabah Fakhri",
+    "isrc": "FR6V81747750"
+  },
+  {
+    "title": "صح النوم",
+    "artist": "Ahmed Adaweya, Mahmoud El Leithy",
+    "isrc": "EGA010543777"
+  },
+  {
+    "title": "Awel Marra",
+    "artist": "Abdel Halim Hafez",
+    "isrc": "EGA020501255"
+  },
+  {
+    "title": "Ana Alby Leek",
+    "artist": "Hany Shaker, Sherine",
+    "isrc": "QM4TW2117085"
+  },
+  {
+    "title": "تملى فى قلبى",
+    "artist": "محمد فوزي",
+    "isrc": "aea145501325"
+  },
+  {
+    "title": "Bayn El Byout",
+    "artist": "Melhem Barakat",
+    "isrc": "FR10S2062191"
+  },
+  {
+    "title": "Fenoh",
+    "artist": "Hisham Abbas",
+    "isrc": "EGA020501672"
+  },
+  {
+    "title": "Ghaneely Shway Shway",
+    "artist": "Umm Kulthum",
+    "isrc": "EGA019004084"
+  },
+  {
+    "title": "اعملك ايه",
+    "artist": "حسن الأسمر",
+    "isrc": "aea149200078"
+  },
+  {
+    "title": "W Nefdal Norkos",
+    "artist": "Angham",
+    "isrc": "FRX452123107"
+  },
+  {
+    "title": "Enta hataraf",
+    "artist": "Asmahan",
+    "isrc": "FR6V81443916"
+  },
+  {
+    "title": "Ahkelak",
+    "artist": "Mohamed Fouad",
+    "isrc": "DGA072143849"
+  },
+  {
+    "title": "لسه بيسألوني",
+    "artist": "Walid Toufic",
+    "isrc": "LBA082200161"
+  },
+  {
+    "title": "Yawman Ma",
+    "artist": "Julia Boutros",
+    "isrc": "LBA132000346"
+  },
+  {
+    "title": "Hara El Saqueen",
+    "artist": "Mohamed Mounir",
+    "isrc": "FR96X1904791"
+  },
+  {
+    "title": "Bhibbek We Bghar",
+    "artist": "Assi El Hallani",
+    "isrc": "LBA081120326"
+  },
+  {
+    "title": "Frasha Wa Zahra",
+    "artist": "Zaki Nassif",
+    "isrc": "FR10S2043106"
+  },
+  {
+    "title": "Sadaany Ya Sahby",
+    "artist": "Ahmed Mounib",
+    "isrc": "TCACA1403160"
+  },
+  {
+    "title": "جميل و اسمر",
+    "artist": "Mohamed Kandil",
+    "isrc": "EGA001018036"
+  },
+  {
+    "title": "Elli Baana",
+    "artist": "Ragheb Alama",
+    "isrc": "FR2X41888860"
+  },
+  {
+    "title": "Ala Baly",
+    "artist": "Aida el Ayoubi",
+    "isrc": "EGA020500039"
+  },
+  {
+    "title": "Kifak Inta",
+    "artist": "Fairuz",
+    "isrc": "AEAB29500014"
+  },
+  {
+    "title": "غناك يا بحر",
+    "artist": "Hanan Mady",
+    "isrc": "FR59R2392031"
+  },
+  {
+    "title": "سبب فرحتي",
+    "artist": "Assala Nasri, Ahmed Saad",
+    "isrc": "LBA082300111"
+  },
+  {
+    "title": "Tallo Tallo El Siyadi",
+    "artist": "Nasri Shamseddine",
+    "isrc": "USJ3V1033223"
+  },
+  {
+    "title": "Al Basata",
+    "artist": "Sabah",
+    "isrc": "FR10S1737889"
+  },
+  {
+    "title": "Leh Ya Alby",
+    "artist": "Fayza Ahmed",
+    "isrc": "FR2X42370119"
+  },
+  {
+    "title": "Wehiat Eineik",
+    "artist": "Shadia",
+    "isrc": "EGA020500911"
+  },
+  {
+    "title": "Hebbina Hebbina",
+    "artist": "Farid al-Atrash",
+    "isrc": "EGA010507154"
+  },
+  {
+    "title": "El Donya Ghenwa",
+    "artist": "Layla Mourad",
+    "isrc": "EGA020502681"
+  },
+  {
+    "title": "Ter Bina Ya Kalbi",
+    "artist": "Mohamed Fawzi",
+    "isrc": "QMBZ92317484"
+  },
+  {
+    "title": "Tayara",
+    "artist": "Moustafa Amar",
+    "isrc": "EGA020501337"
+  },
+  {
+    "title": "Al Yadi El Yadi",
+    "artist": "Wadih El Safi",
+    "isrc": "FR10S1740051"
+  },
+  {
+    "title": "Hakollak Hagah",
+    "artist": "Warda",
+    "isrc": "VGA010911115"
+  },
+  {
+    "title": "Fe Hawed El Leil",
+    "artist": "Ali El Haggar",
+    "isrc": "DGA072112540"
+  },
+  {
+    "title": "Ah Law Teeraf",
+    "artist": "Najat Al Saghira",
+    "isrc": "EGA020500554"
+  },
+  {
+    "title": "حبة ذكريات",
+    "artist": "Mayada El Hennawy",
+    "isrc": "LBA082400068"
+  },
+  {
+    "title": "Esaal Marra Alayya",
+    "artist": "Sayed Mekawy",
+    "isrc": "EGA020500890"
+  },
+  {
+    "title": "Zourouni",
+    "artist": "Sayed Darwish",
+    "isrc": "USJ3V1033616"
+  },
+  {
+    "title": "Adaweya",
+    "artist": "Mohamed Roshdy",
+    "isrc": "EGA150200502"
+  },
+  {
+    "title": "Amm Yess'alouni Aleyk",
+    "artist": "Majida El Roumi",
+    "isrc": "FR10S2029866"
+  },
+  {
+    "title": "Yalla Bena",
+    "artist": "Afaf Rady",
+    "isrc": "EGA020502118"
+  },
+  {
+    "title": "Samra Ya Samra",
+    "artist": "Karem Mahmoud",
+    "isrc": "EGA150000101"
+  },
+  {
+    "title": "Sahrany",
+    "artist": "Ehab Tawfik",
+    "isrc": "AEA041100386"
+  },
+  {
+    "title": "Ma Besaalsh Alaya Abadan",
+    "artist": "Mohamed Abdel Mottaleb",
+    "isrc": "QM4TX2337787"
+  },
+  {
+    "title": "Galla man qad saouara",
+    "artist": "Sabah Fakhri",
+    "isrc": "FR6V81747756"
+  },
+  {
+    "title": "Bab El Shaareya",
+    "artist": "Ahmed Adaweya",
+    "isrc": "EGA1K1905380"
+  },
+  {
+    "title": "Toba",
+    "artist": "Abdel Halim Hafez",
+    "isrc": "EGA020501293"
+  }
+]

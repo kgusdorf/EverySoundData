@@ -1,0 +1,737 @@
+[
+  {
+    "title": "State Line",
+    "artist": "The Dip",
+    "isrc": "TCACF1522240"
+  },
+  {
+    "title": "Call Me",
+    "artist": "St. Paul & The Broken Bones",
+    "isrc": "QMHFC1300031"
+  },
+  {
+    "title": "How Long Do I Have to Wait for You?",
+    "artist": "Sharon Jones & The Dap-Kings",
+    "isrc": "USA370651086"
+  },
+  {
+    "title": "In Heaven",
+    "artist": "Joey Dosik",
+    "isrc": "US38W1836411"
+  },
+  {
+    "title": "Better Days",
+    "artist": "The Meltdown",
+    "isrc": "AUVX41400129"
+  },
+  {
+    "title": "Out Of Love",
+    "artist": "Busty and the Bass, Macy Gray",
+    "isrc": "CAAA12019308"
+  },
+  {
+    "title": "Break up Together",
+    "artist": "Theo Katzman",
+    "isrc": "TCACU1609254"
+  },
+  {
+    "title": "Mama Knows",
+    "artist": "Sister Sparrow",
+    "isrc": "QM5PA1500004"
+  },
+  {
+    "title": "Cleaned Out",
+    "artist": "The Tibbs",
+    "isrc": "NLD7X1400001"
+  },
+  {
+    "title": "You've Got Me Running in Circles",
+    "artist": "Sonny Cleveland",
+    "isrc": "TCACI1578952"
+  },
+  {
+    "title": "This Is What Love Looks Like!",
+    "artist": "Carlton Jumel Smith, Cold Diamond & Mink",
+    "isrc": "FITI31900008"
+  },
+  {
+    "title": "Day by Day",
+    "artist": "Izo FitzRoy",
+    "isrc": "GBFBC1601461"
+  },
+  {
+    "title": "Read Receipts",
+    "artist": "Kyle Thornton & The Company",
+    "isrc": "uscgj1572199"
+  },
+  {
+    "title": "Guy I Used To Be",
+    "artist": "Lawrence",
+    "isrc": "QM24S2401554"
+  },
+  {
+    "title": "Sunday Morning",
+    "artist": "The Main Squeeze",
+    "isrc": "QZMZ92129043"
+  },
+  {
+    "title": "Consider Me",
+    "artist": "Allen Stone",
+    "isrc": "USATO1900301"
+  },
+  {
+    "title": "The Keys",
+    "artist": "Matt Duncan",
+    "isrc": "USQY51336649"
+  },
+  {
+    "title": "Dilemma",
+    "artist": "Shirley Davis, Silverbacks",
+    "isrc": "DEUE11641470"
+  },
+  {
+    "title": "Stayin' Alive",
+    "artist": "Scary Pockets, Lizzy McAlpine",
+    "isrc": "QZPJ32206798"
+  },
+  {
+    "title": "This Is The Day",
+    "artist": "Mamas Gun",
+    "isrc": "GB3ZD2000011"
+  },
+  {
+    "title": "Happy Days",
+    "artist": "Cory Henry, The Funk Apostles",
+    "isrc": "GBKPL2089483"
+  },
+  {
+    "title": "Light of My Life",
+    "artist": "Ben Pirani",
+    "isrc": "QM6P41715032"
+  },
+  {
+    "title": "If You Don't Want My Love",
+    "artist": "Jalen Ngonda",
+    "isrc": "US4GZ2307602"
+  },
+  {
+    "title": "I Don't Love You No More",
+    "artist": "The Excitements",
+    "isrc": "FR6V81150344"
+  },
+  {
+    "title": "Pictures on the Wall",
+    "artist": "The Soul Jacket",
+    "isrc": "USV351490694"
+  },
+  {
+    "title": "Rose Gold",
+    "artist": "Jason Joshua & The Beholders, Jason Joshua",
+    "isrc": "US6680915344"
+  },
+  {
+    "title": "Roll with the Punches",
+    "artist": "D/troit",
+    "isrc": "DKMFA1700602"
+  },
+  {
+    "title": "I Just Want You",
+    "artist": "Caleb Hawley",
+    "isrc": "TCABT1445389"
+  },
+  {
+    "title": "Heaven Bells",
+    "artist": "Freedonia",
+    "isrc": "ESA081201009"
+  },
+  {
+    "title": "Colors",
+    "artist": "Black Pumas",
+    "isrc": "USATO1900023"
+  },
+  {
+    "title": "The Road Looks Long",
+    "artist": "Soul Scratch",
+    "isrc": "QM7281614400"
+  },
+  {
+    "title": "Deeper Love",
+    "artist": "Stone Foundation, Paul Weller",
+    "isrc": "GB2YG2000004"
+  },
+  {
+    "title": "Side by Side",
+    "artist": "Collin Miller & the Brother Nature",
+    "isrc": "uscgj1800648"
+  },
+  {
+    "title": "I Got Love",
+    "artist": "Bobby Oroza, Cold Diamond & Mink",
+    "isrc": "QZ2L62000087"
+  },
+  {
+    "title": "Smiling Faces",
+    "artist": "Marta Ren & The Groovelvets",
+    "isrc": "ITG581500026"
+  },
+  {
+    "title": "Good To You",
+    "artist": "Jonny P",
+    "isrc": "QMHPC1600079"
+  },
+  {
+    "title": "Pay Me Back",
+    "artist": "The Betrayers",
+    "isrc": "ES09S1600005"
+  },
+  {
+    "title": "Mister Right on Time",
+    "artist": "Alexis Evans",
+    "isrc": "ITG582200016"
+  },
+  {
+    "title": "Seems Like",
+    "artist": "Thee Sinseers",
+    "isrc": "USA2B2033444"
+  },
+  {
+    "title": "When Your Days Grow Long",
+    "artist": "Anaut",
+    "isrc": "GBMJG1415671"
+  },
+  {
+    "title": "Late Nights & Heartbreak",
+    "artist": "Hannah Williams, The Affirmations",
+    "isrc": "ITG581600023"
+  },
+  {
+    "title": "I Miss You - Radio Edit",
+    "artist": "J.P. Bimeni, The Black Belts",
+    "isrc": "ES7382200043"
+  },
+  {
+    "title": "Sunk In The Mist",
+    "artist": "Jr Thomas & The Volcanos",
+    "isrc": "QZDMQ2019001"
+  },
+  {
+    "title": "Understanding",
+    "artist": "Joel Sarakula",
+    "isrc": "GBPP41700004"
+  },
+  {
+    "title": "Hustler",
+    "artist": "Josh Hoyer and Soul Colossal",
+    "isrc": "QZJZC1900300"
+  },
+  {
+    "title": "Still Got a Way to Fall",
+    "artist": "Nicole Willis, UMO Helsinki Jazz Orchestra",
+    "isrc": "FI3LL1700020"
+  },
+  {
+    "title": "Rise Above",
+    "artist": "Tomar and the FCs",
+    "isrc": "US2761993316"
+  },
+  {
+    "title": "Gonna Lift You Up",
+    "artist": "Sugaray Rayford",
+    "isrc": "USP5V2000020"
+  },
+  {
+    "title": "Deliver Me",
+    "artist": "The Milk",
+    "isrc": "GBLQT1500049"
+  },
+  {
+    "title": "Nobody's Clown",
+    "artist": "Los Yesterdays",
+    "isrc": "USA2B2060637"
+  },
+  {
+    "title": "Fire",
+    "artist": "Grace Love and the True Loves",
+    "isrc": "usdy41596485"
+  },
+  {
+    "title": "Mercy Now",
+    "artist": "Mike Farris",
+    "isrc": "USCO91463704"
+  },
+  {
+    "title": "Portrait of a Man",
+    "artist": "The New Review",
+    "isrc": "usdy41842273"
+  },
+  {
+    "title": "2+1 (feat. Kylie Auldist)",
+    "artist": "Lance Ferguson, Kylie Auldist",
+    "isrc": "AUJAC1300072"
+  },
+  {
+    "title": "Fall In Love Again",
+    "artist": "Alanna Royale",
+    "isrc": "QZDMQ2150019"
+  },
+  {
+    "title": "In Your Garden",
+    "artist": "Julie Rhodes",
+    "isrc": "US3KW1500001"
+  },
+  {
+    "title": "Mind is a Mountain",
+    "artist": "The Get Ahead",
+    "isrc": "QMB591700061"
+  },
+  {
+    "title": "Don't It Feel Weird (Falling in Love)",
+    "artist": "The Nightowls",
+    "isrc": "USF2M1800607"
+  },
+  {
+    "title": "Queen of the Minstrels",
+    "artist": "Mr Day",
+    "isrc": "FR2VZ1200411"
+  },
+  {
+    "title": "Darkness",
+    "artist": "The Savants of Soul",
+    "isrc": "USHM91449994"
+  },
+  {
+    "title": "Do Right",
+    "artist": "The Commonheart",
+    "isrc": "QMB591900136"
+  },
+  {
+    "title": "Anything She Wants",
+    "artist": "BJ Wilbanks",
+    "isrc": "QMACP1400001"
+  },
+  {
+    "title": "Then We’ll Wave (So Long)",
+    "artist": "Paul & The Tall Trees",
+    "isrc": "QZ2L61900029"
+  },
+  {
+    "title": "Wanna Be Your Lover",
+    "artist": "Samantha Martin & Delta Sugar",
+    "isrc": "CAMT21800004"
+  },
+  {
+    "title": "Days of Glory",
+    "artist": "Brian Scartocci",
+    "isrc": "QZES51804103"
+  },
+  {
+    "title": "Love Again",
+    "artist": "Dharmasoul",
+    "isrc": "USA2B1800112"
+  },
+  {
+    "title": "Workin' for a Livin'",
+    "artist": "King Corduroy",
+    "isrc": "TCAEH1984314"
+  },
+  {
+    "title": "Staring at the Ceiling (feat. James Petralli)",
+    "artist": "The Echocentrics, Adrian Quesada, James Petralli",
+    "isrc": "US66W1600002"
+  },
+  {
+    "title": "Just a Little Bit",
+    "artist": "Julian Taylor Band",
+    "isrc": "CAAA21506901"
+  },
+  {
+    "title": "Take the Son of a Bitch Down",
+    "artist": "Dark Roast",
+    "isrc": "NORJO1701020"
+  },
+  {
+    "title": "Moorie",
+    "artist": "Great Divide",
+    "isrc": "USCHU1010194"
+  },
+  {
+    "title": "Digging up Graves",
+    "artist": "Karen Lee Andrews",
+    "isrc": "AUBEC2219840"
+  },
+  {
+    "title": "Sing Like Me",
+    "artist": "Stina Stenerud & her Soul Replacement",
+    "isrc": "NOPDE1201011"
+  },
+  {
+    "title": "Slow Sipper",
+    "artist": "The Dip",
+    "isrc": "GBKPL1823746"
+  },
+  {
+    "title": "Come and Be a Winner",
+    "artist": "Sharon Jones & The Dap-Kings",
+    "isrc": "US4GZ1705004"
+  },
+  {
+    "title": "Apollo",
+    "artist": "St. Paul & The Broken Bones",
+    "isrc": "USQX91801487"
+  },
+  {
+    "title": "Running Away",
+    "artist": "Joey Dosik",
+    "isrc": "TCACO1671188"
+  },
+  {
+    "title": "Up Top",
+    "artist": "Busty and the Bass",
+    "isrc": "CAI251715801"
+  },
+  {
+    "title": "Sweet Water",
+    "artist": "The Meltdown",
+    "isrc": "AUVX41400130"
+  },
+  {
+    "title": "Good to Be Alone",
+    "artist": "Theo Katzman",
+    "isrc": "TCACU1609258"
+  },
+  {
+    "title": "Sugar",
+    "artist": "Sister Sparrow",
+    "isrc": "QM5PA1500002"
+  },
+  {
+    "title": "Footprints in the Sand",
+    "artist": "The Tibbs",
+    "isrc": "NLD7X1400002"
+  },
+  {
+    "title": "Love Our Love Affair",
+    "artist": "Carlton Jumel Smith, Cold Diamond & Mink",
+    "isrc": "FITI31900004"
+  },
+  {
+    "title": "If It Ain't Broke",
+    "artist": "Sonny Cleveland",
+    "isrc": "TCACI1578955"
+  },
+  {
+    "title": "Red Line",
+    "artist": "Izo FitzRoy",
+    "isrc": "GBFBC1901827"
+  },
+  {
+    "title": "Fly Girl",
+    "artist": "Kyle Thornton & The Company",
+    "isrc": "ushm21671626"
+  },
+  {
+    "title": "Dr. Funk",
+    "artist": "The Main Squeeze",
+    "isrc": "QMNZ91200003"
+  },
+  {
+    "title": "Do You Wanna Do Nothing with Me?",
+    "artist": "Lawrence",
+    "isrc": "US7VG1610093"
+  },
+  {
+    "title": "Brown Eyed Lover",
+    "artist": "Allen Stone",
+    "isrc": "USATO1900299"
+  },
+  {
+    "title": "Beacon",
+    "artist": "Matt Duncan",
+    "isrc": "USQY51336643"
+  },
+  {
+    "title": "Black Rose",
+    "artist": "Shirley Davis, Silverbacks",
+    "isrc": "DEUE11641469"
+  },
+  {
+    "title": "I Will Survive",
+    "artist": "Scary Pockets, Mario Jose",
+    "isrc": "QZFZ61967502"
+  },
+  {
+    "title": "I Need A Win",
+    "artist": "Mamas Gun",
+    "isrc": "GB3ZD1800013"
+  },
+  {
+    "title": "Switch",
+    "artist": "Cory Henry, The Funk Apostles",
+    "isrc": "USA2P2036684"
+  },
+  {
+    "title": "Art School Girl",
+    "artist": "Ben Pirani",
+    "isrc": "QZDMQ1802104"
+  },
+  {
+    "title": "Don't You Dare Tell Her",
+    "artist": "The Excitements",
+    "isrc": "FR6V81793876"
+  },
+  {
+    "title": "People",
+    "artist": "The Soul Jacket",
+    "isrc": "USV351490685"
+  },
+  {
+    "title": "Just Like You Used To",
+    "artist": "Jalen Ngonda",
+    "isrc": "USA2B2204188"
+  },
+  {
+    "title": "I Don't Care",
+    "artist": "Jason Joshua & The Beholders, Jason Joshua",
+    "isrc": "US6680915474"
+  },
+  {
+    "title": "Do Your Thing",
+    "artist": "D/troit",
+    "isrc": "DKMFA1700604"
+  },
+  {
+    "title": "You're Still the One",
+    "artist": "Caleb Hawley",
+    "isrc": "TCADM1813750"
+  },
+  {
+    "title": "Dignity and Freedom",
+    "artist": "Freedonia",
+    "isrc": "ESA081401303"
+  },
+  {
+    "title": "Be Kind",
+    "artist": "Soul Scratch",
+    "isrc": "QM7281614404"
+  },
+  {
+    "title": "Your Balloon Is Rising",
+    "artist": "Stone Foundation, Paul Weller",
+    "isrc": "GB2YG1700008"
+  },
+  {
+    "title": "Black Moon Rising",
+    "artist": "Black Pumas",
+    "isrc": "QMDA61883786"
+  },
+  {
+    "title": "Everyday Lovers",
+    "artist": "Collin Miller & the Brother Nature",
+    "isrc": "usdy41885045"
+  },
+  {
+    "title": "This Love",
+    "artist": "Bobby Oroza, Cold Diamond & Mink",
+    "isrc": "QZ2L61800020"
+  },
+  {
+    "title": "Release Me",
+    "artist": "Marta Ren & The Groovelvets",
+    "isrc": "ITG581500024"
+  },
+  {
+    "title": "Shine On",
+    "artist": "Jonny P",
+    "isrc": "ushm91404533"
+  },
+  {
+    "title": "Ain't Got No Feelings",
+    "artist": "The Betrayers",
+    "isrc": "ES71G1400398"
+  },
+  {
+    "title": "I Made a Deal with Myself",
+    "artist": "Alexis Evans",
+    "isrc": "ITG581900002"
+  },
+  {
+    "title": "Phony Money",
+    "artist": "Anaut",
+    "isrc": "GBMJG1301541"
+  },
+  {
+    "title": "Sinseerly Yours",
+    "artist": "Thee Sinseers, Joey Quinones",
+    "isrc": "QZDMQ2350035"
+  },
+  {
+    "title": "Work It Out",
+    "artist": "Hannah Williams, The Tastemakers",
+    "isrc": "ITG581200054"
+  },
+  {
+    "title": "James Stern",
+    "artist": "J.P. Bimeni, The Black Belts",
+    "isrc": "ES7382100042"
+  },
+  {
+    "title": "Burning Fire",
+    "artist": "Jr Thomas & The Volcanos",
+    "isrc": "QMKTL1500008"
+  },
+  {
+    "title": "Midnight Driver",
+    "artist": "Joel Sarakula",
+    "isrc": "DEH182019501"
+  },
+  {
+    "title": "Gimme That Lovin",
+    "artist": "Josh Hoyer and Soul Colossal",
+    "isrc": "QZJZC1900308"
+  },
+  {
+    "title": "Soul Investigators Theme",
+    "artist": "Nicole Willis, The Soul Investigators",
+    "isrc": "FILFS0600010"
+  },
+  {
+    "title": "Fine Time",
+    "artist": "Tomar and the FCs",
+    "isrc": "US2761993315"
+  },
+  {
+    "title": "Please Take My Hand",
+    "artist": "Sugaray Rayford",
+    "isrc": "USP5V2000018"
+  },
+  {
+    "title": "Loneliness Has Eyes",
+    "artist": "The Milk",
+    "isrc": "GBLQT1500046"
+  },
+  {
+    "title": "Sure Don't Miss You",
+    "artist": "The Dip",
+    "isrc": "TCACZ1777416"
+  },
+  {
+    "title": "Nobody's Baby",
+    "artist": "Sharon Jones & The Dap-Kings",
+    "isrc": "US4GZ0701202"
+  },
+  {
+    "title": "Flow with It (You Got Me Feeling Like)",
+    "artist": "St. Paul & The Broken Bones",
+    "isrc": "QM33K1500024"
+  },
+  {
+    "title": "Game Winner",
+    "artist": "Joey Dosik",
+    "isrc": "TCACO1671187"
+  },
+  {
+    "title": "All The Things I Couldn't Say To You",
+    "artist": "Busty and the Bass",
+    "isrc": "CAAA12285501"
+  },
+  {
+    "title": "Side By Side",
+    "artist": "The Meltdown",
+    "isrc": "AUVX42202008"
+  },
+  {
+    "title": "What Did You Mean (When You Said Love)",
+    "artist": "Theo Katzman",
+    "isrc": "TCAEO1915081"
+  },
+  {
+    "title": "Gold",
+    "artist": "Sister Sparrow",
+    "isrc": "QM5PA1800027"
+  },
+  {
+    "title": "Ain't It Funny",
+    "artist": "The Tibbs",
+    "isrc": "ITG582300023"
+  },
+  {
+    "title": "I Can't Love You Anymore",
+    "artist": "Carlton Jumel Smith, Cold Diamond & Mink",
+    "isrc": "FITI31900012"
+  },
+  {
+    "title": "Gimme Some Sugar",
+    "artist": "Sonny Cleveland",
+    "isrc": "TCACI1578953"
+  },
+  {
+    "title": "Hope You Can Wait - Hot Toddy Remix",
+    "artist": "Izo FitzRoy, Hot Toddy",
+    "isrc": "GBFBC1601534"
+  },
+  {
+    "title": "Fall In Love",
+    "artist": "Kyle Thornton & The Company, Amber Olivia",
+    "isrc": "SE5BU1726741"
+  },
+  {
+    "title": "Hold My Hand",
+    "artist": "The Main Squeeze",
+    "isrc": "QZHZ32209129"
+  },
+  {
+    "title": "Don't Lose Sight",
+    "artist": "Lawrence",
+    "isrc": "QM24S2102618"
+  },
+  {
+    "title": "Georgia On My Mind",
+    "artist": "Allen Stone",
+    "isrc": "USATO1800344"
+  },
+  {
+    "title": "Make My Day",
+    "artist": "Shirley Davis, Silverbacks",
+    "isrc": "DEUE11641478"
+  },
+  {
+    "title": "Lone Ranger",
+    "artist": "Matt Duncan",
+    "isrc": "USQY51336658"
+  },
+  {
+    "title": "If I Ain’t Got You",
+    "artist": "Scary Pockets, Kenton",
+    "isrc": "QZANL1743806"
+  },
+  {
+    "title": "Good Love",
+    "artist": "Mamas Gun",
+    "isrc": "KRMIM2207595"
+  },
+  {
+    "title": "Fighting for Peace",
+    "artist": "Cory Henry",
+    "isrc": "USA2P2202361"
+  },
+  {
+    "title": "Dreamin’s for Free",
+    "artist": "Ben Pirani",
+    "isrc": "QM6P41715074"
+  },
+  {
+    "title": "Ha, Ha, Ha",
+    "artist": "The Excitements",
+    "isrc": "FR6V81793872"
+  },
+  {
+    "title": "Everybody Runs",
+    "artist": "The Soul Jacket",
+    "isrc": "QM6N21851272"
+  },
+  {
+    "title": "Poor Boy",
+    "artist": "Jason Joshua & The Beholders, Jason Joshua",
+    "isrc": "US6680916349"
+  }
+]

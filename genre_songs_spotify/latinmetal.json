@@ -1,0 +1,787 @@
+[
+  {
+    "title": "Pueblo Motoquero",
+    "artist": "Tren Loco",
+    "isrc": "TCABW1426926"
+  },
+  {
+    "title": "Los Rockeros Van al Infierno",
+    "artist": "Barón Rojo",
+    "isrc": "ES5109900095"
+  },
+  {
+    "title": "Corazón de Heavy Metal",
+    "artist": "Lujuria",
+    "isrc": "ES6880400742"
+  },
+  {
+    "title": "Telón de Acero",
+    "artist": "Muro",
+    "isrc": "ES5629902351"
+  },
+  {
+    "title": "Vamos Muy Bien",
+    "artist": "Obus",
+    "isrc": "ES5108400045"
+  },
+  {
+    "title": "Mil y una noches",
+    "artist": "Sangre Azul",
+    "isrc": "ES5088800276"
+  },
+  {
+    "title": "Mano dura",
+    "artist": "Horcas",
+    "isrc": "GBSMU3496416"
+  },
+  {
+    "title": "Aún Creo en Ti",
+    "artist": "Silver Fist",
+    "isrc": "ES5620601753"
+  },
+  {
+    "title": "Corte Porteño",
+    "artist": "Walter Giardino",
+    "isrc": "ARF099800116"
+  },
+  {
+    "title": "Si Amaneciera",
+    "artist": "Saratoga",
+    "isrc": "ES5620401380"
+  },
+  {
+    "title": "Como Yo Nadie Te Ha Amado",
+    "artist": "Barilari",
+    "isrc": "ARA110700001"
+  },
+  {
+    "title": "Killers",
+    "artist": "Transmetal",
+    "isrc": "FR6V82587771"
+  },
+  {
+    "title": "Lejos de casa",
+    "artist": "A.N.I.M.A.L., Mario Altamirano and A.N.I.M.A.L.",
+    "isrc": "ARF119600029"
+  },
+  {
+    "title": "Por Piedad",
+    "artist": "Luzbel",
+    "isrc": "CA5KR2376169"
+  },
+  {
+    "title": "Rompecuerpos",
+    "artist": "Bella Bestia",
+    "isrc": "ES5121101044"
+  },
+  {
+    "title": "Sé Vos",
+    "artist": "Almafuerte",
+    "isrc": "ARF099800056"
+  },
+  {
+    "title": "Cama de Rosas",
+    "artist": "Psicofonia",
+    "isrc": "FRX201522440"
+  },
+  {
+    "title": "Matando Gueros",
+    "artist": "Brujeria",
+    "isrc": "NLA329300190"
+  },
+  {
+    "title": "En la Nada",
+    "artist": "Agora",
+    "isrc": "MX2661100032"
+  },
+  {
+    "title": "Heroe de Papel",
+    "artist": "Santa",
+    "isrc": "ES5108400207"
+  },
+  {
+    "title": "El Flautista de Hamelín",
+    "artist": "Ñu",
+    "isrc": "ES5630702525"
+  },
+  {
+    "title": "Frágil Al Viento",
+    "artist": "Kraken",
+    "isrc": "COC011305916"
+  },
+  {
+    "title": "Oasis",
+    "artist": "Puya",
+    "isrc": "USMC19858360"
+  },
+  {
+    "title": "Roots Bloody Roots",
+    "artist": "Sepultura",
+    "isrc": "NLA329513650"
+  },
+  {
+    "title": "La Llorona",
+    "artist": "El Cuervo de Poe",
+    "isrc": "MXF711100116"
+  },
+  {
+    "title": "Necesito Respirar",
+    "artist": "Medina Azahara",
+    "isrc": "ES5629200319"
+  },
+  {
+    "title": "Alguien Más en Quien Confiar - '74 Single Version",
+    "artist": "El Reloj",
+    "isrc": "ARF037400116"
+  },
+  {
+    "title": "Junto a Ti",
+    "artist": "Panzer",
+    "isrc": "ES5629300404"
+  },
+  {
+    "title": "How Can I Live",
+    "artist": "Ill Niño",
+    "isrc": "NLA320320206"
+  },
+  {
+    "title": "Rise from the Apocalypse",
+    "artist": "Pit Fight Demolition",
+    "isrc": "USGPJ1310106"
+  },
+  {
+    "title": "Si tú no estás aquí",
+    "artist": "Ángeles Del Infierno",
+    "isrc": "ES5158614004"
+  },
+  {
+    "title": "Juntos a la Par",
+    "artist": "Pappo",
+    "isrc": "ARF780300004"
+  },
+  {
+    "title": "Santa Croce Titulus",
+    "artist": "Dantesco",
+    "isrc": "ITI290802801"
+  },
+  {
+    "title": "Dama de la Eternidad",
+    "artist": "Saúl Blanch",
+    "isrc": "ARA231200593"
+  },
+  {
+    "title": "Bienvenidos al Medievo",
+    "artist": "José Andrëa, Uróboros",
+    "isrc": "ES23D1900213"
+  },
+  {
+    "title": "Quieren Fuego",
+    "artist": "Zafakon, Calamity",
+    "isrc": "uscgj2007774"
+  },
+  {
+    "title": "Como Relámpago en la Oscuridad",
+    "artist": "Logos",
+    "isrc": "ARG601101813"
+  },
+  {
+    "title": "Chica de Fuego",
+    "artist": "Júpiter",
+    "isrc": "ES5621601718"
+  },
+  {
+    "title": "Esquizofrenia",
+    "artist": "Khafra",
+    "isrc": "FR6V82573216"
+  },
+  {
+    "title": "Sigo Aquí",
+    "artist": "Vendaval, Fabio Lione",
+    "isrc": "GBSMU4317164"
+  },
+  {
+    "title": "Aquí No Es Dónde",
+    "artist": "Resorte",
+    "isrc": "MXF119909111"
+  },
+  {
+    "title": "Ajedrez Mortal",
+    "artist": "Sherpa",
+    "isrc": "ES8240730001"
+  },
+  {
+    "title": "Carry On",
+    "artist": "ANGRA",
+    "isrc": "BRBRI0500773"
+  },
+  {
+    "title": "No Me Vas a Olvidar",
+    "artist": "Crazy lazy",
+    "isrc": "QMDA61886119"
+  },
+  {
+    "title": "Maldita Historia",
+    "artist": "De La Tierra",
+    "isrc": "USQX91503064"
+  },
+  {
+    "title": "Sueno en Gotas (Acustica Con Gustavo Cerati)",
+    "artist": "D-Mente",
+    "isrc": "USASJ0800740"
+  },
+  {
+    "title": "El Inmortal",
+    "artist": "Imperio",
+    "isrc": "TCAEZ2028892"
+  },
+  {
+    "title": "Por Piedad",
+    "artist": "Mystical Dreams",
+    "isrc": "FR59R1754280"
+  },
+  {
+    "title": "Bravo (Bonus Track)",
+    "artist": "Death Arrangement",
+    "isrc": "USX9P1423858"
+  },
+  {
+    "title": "Alas",
+    "artist": "Calvaria",
+    "isrc": "GBSMU7588982"
+  },
+  {
+    "title": "Nuevo Orden",
+    "artist": "Ian",
+    "isrc": "ushm91622767"
+  },
+  {
+    "title": "Te Sé Extrañar",
+    "artist": "Crossfire",
+    "isrc": "USDY42279740"
+  },
+  {
+    "title": "Bullet With a Name",
+    "artist": "Nonpoint",
+    "isrc": "QZK6P1912173"
+  },
+  {
+    "title": "Nota Roja",
+    "artist": "Huizar",
+    "isrc": "QMEZE1812703"
+  },
+  {
+    "title": "Con los Brazos Abiertos",
+    "artist": "Megaton",
+    "isrc": "QM6MZ1736643"
+  },
+  {
+    "title": "Una Sonrisa al Atardecer",
+    "artist": "Akash",
+    "isrc": "ushm81603370"
+  },
+  {
+    "title": "Impending Plague",
+    "artist": "Voracious",
+    "isrc": "USGPJ0701129"
+  },
+  {
+    "title": "Y las Sombras Quedarán Atras",
+    "artist": "Ariadna Project",
+    "isrc": "ARLVW0741005"
+  },
+  {
+    "title": "Renuncia Al Sol",
+    "artist": "Skizoo",
+    "isrc": "ES6950500178"
+  },
+  {
+    "title": "Amor Sin Fin",
+    "artist": "Alianza",
+    "isrc": "ARF020600768"
+  },
+  {
+    "title": "Si Tú No Estás",
+    "artist": "Jorge Berceo",
+    "isrc": "ES8241720801"
+  },
+  {
+    "title": "La Gran Ciudad",
+    "artist": "Lvzbel",
+    "isrc": "QMEZE1755880"
+  },
+  {
+    "title": "de todas mis heridas",
+    "artist": "Elfonía",
+    "isrc": "ushm80594767"
+  },
+  {
+    "title": "La Magia de Tu Encanto",
+    "artist": "Cristal y Acero",
+    "isrc": "ushm81826904"
+  },
+  {
+    "title": "1982",
+    "artist": "Apocalipsis",
+    "isrc": "USV291390022"
+  },
+  {
+    "title": "Por las Noches",
+    "artist": "Romasanta",
+    "isrc": "ushm91932671"
+  },
+  {
+    "title": "Come Closer",
+    "artist": "Laberinto",
+    "isrc": "NLM931000082"
+  },
+  {
+    "title": "Primera Muerte",
+    "artist": "Hacavitz",
+    "isrc": "USGE32432201"
+  },
+  {
+    "title": "Yo La Deje",
+    "artist": "Ankla",
+    "isrc": "QZTB42308843"
+  },
+  {
+    "title": "Take The Trip",
+    "artist": "Arge",
+    "isrc": "QZHN72415808"
+  },
+  {
+    "title": "A Place In Heaven",
+    "artist": "Cruz De Hierro",
+    "isrc": "FR6V81031896"
+  },
+  {
+    "title": "El Arcangel de la Muerte",
+    "artist": "Etanisis",
+    "isrc": "FR6V82301529"
+  },
+  {
+    "title": "Ausencia",
+    "artist": "Histeria",
+    "isrc": "GBSMU9213175"
+  },
+  {
+    "title": "If We Try",
+    "artist": "Matriarch",
+    "isrc": "TCADM1863133"
+  },
+  {
+    "title": "RaXaS",
+    "artist": "RaXaS",
+    "isrc": "TCABF1278711"
+  },
+  {
+    "title": "Tu Historia",
+    "artist": "Renacer",
+    "isrc": "uscgh1236363"
+  },
+  {
+    "title": "Angeles Sin Alas",
+    "artist": "Sacrilegio",
+    "isrc": "ushm81864988"
+  },
+  {
+    "title": "Acorazado Belgrano",
+    "artist": "Tren Loco",
+    "isrc": "TCABW1426925"
+  },
+  {
+    "title": "Hijos de Caín",
+    "artist": "Barón Rojo",
+    "isrc": "ES5108500008"
+  },
+  {
+    "title": "Joda a Quien Joda",
+    "artist": "Lujuria",
+    "isrc": "ES6880400766"
+  },
+  {
+    "title": "Lujuria",
+    "artist": "Muro",
+    "isrc": "ES5629200294"
+  },
+  {
+    "title": "Va a Estallar el Obus - En Directo",
+    "artist": "Obus",
+    "isrc": "ES5108700013"
+  },
+  {
+    "title": "No puedo estar sin ti",
+    "artist": "Sangre Azul",
+    "isrc": "ES5088900223"
+  },
+  {
+    "title": "Abre tus ojos",
+    "artist": "Horcas",
+    "isrc": "GBSMU3496422"
+  },
+  {
+    "title": "El Vuelo del Fenix",
+    "artist": "Silver Fist",
+    "isrc": "ES5620601748"
+  },
+  {
+    "title": "Heroe De La Eternidad",
+    "artist": "Walter Giardino",
+    "isrc": "ARF099800120"
+  },
+  {
+    "title": "Todo Lo Que Hago Lo Hago por Ti",
+    "artist": "Barilari",
+    "isrc": "ARA110700002"
+  },
+  {
+    "title": "Maldito Corazón",
+    "artist": "Saratoga",
+    "isrc": "ES5620401376"
+  },
+  {
+    "title": "El Infierno de Dante",
+    "artist": "Transmetal",
+    "isrc": "FR6V82587774"
+  },
+  {
+    "title": "Loco pro.",
+    "artist": "A.N.I.M.A.L., Chuck Jhonson and Juan Jose Burgos, Richard Kaplan",
+    "isrc": "ARF119800005"
+  },
+  {
+    "title": "Pasaporte al Infierno",
+    "artist": "Luzbel",
+    "isrc": "GX5MY2272657"
+  },
+  {
+    "title": "Un Puntapie en el Trasero",
+    "artist": "Bella Bestia",
+    "isrc": "ES5620102487"
+  },
+  {
+    "title": "Almas",
+    "artist": "Psicofonia",
+    "isrc": "FR10S1758137"
+  },
+  {
+    "title": "Toro y Pampa",
+    "artist": "Almafuerte",
+    "isrc": "ARF850600142"
+  },
+  {
+    "title": "Brujerizmo",
+    "artist": "Brujeria",
+    "isrc": "NLA320019232"
+  },
+  {
+    "title": "Hombre Máquina",
+    "artist": "Agora",
+    "isrc": "MX2661100029"
+  },
+  {
+    "title": "Reencarnacion",
+    "artist": "Santa",
+    "isrc": "ES5108400205"
+  },
+  {
+    "title": "Tocaba Correr",
+    "artist": "Ñu",
+    "isrc": "ES6089880211"
+  },
+  {
+    "title": "Vestido De Cristal",
+    "artist": "Kraken",
+    "isrc": "COC011304206"
+  },
+  {
+    "title": "Fundamental",
+    "artist": "Puya",
+    "isrc": "USMC19858365"
+  },
+  {
+    "title": "Danza de la Locura",
+    "artist": "El Cuervo de Poe",
+    "isrc": "MXF711100113"
+  },
+  {
+    "title": "Territory",
+    "artist": "Sepultura",
+    "isrc": "NLA329301560"
+  },
+  {
+    "title": "Todo Tiene Su Fin",
+    "artist": "Medina Azahara",
+    "isrc": "ES5620201266"
+  },
+  {
+    "title": "Más Fuerte Que El Hombre",
+    "artist": "El Reloj",
+    "isrc": "ARF037500065"
+  },
+  {
+    "title": "Toca Madera",
+    "artist": "Panzer",
+    "isrc": "ES5108400213"
+  },
+  {
+    "title": "I Am Loco",
+    "artist": "Ill Niño",
+    "isrc": "NLA320119508"
+  },
+  {
+    "title": "God's Machine",
+    "artist": "Pit Fight Demolition",
+    "isrc": "USGPJ1108103"
+  },
+  {
+    "title": "Al otro lado del silencio",
+    "artist": "Ángeles Del Infierno",
+    "isrc": "ES5158514005"
+  },
+  {
+    "title": "Morir de Pié",
+    "artist": "Dantesco",
+    "isrc": "USGPJ1311109"
+  },
+  {
+    "title": "Rock and Roll y Fiebre",
+    "artist": "Pappo",
+    "isrc": "ARF780300003"
+  },
+  {
+    "title": "El Sueño de la Gitana",
+    "artist": "Saúl Blanch",
+    "isrc": "ARLVW2800107"
+  },
+  {
+    "title": "Enganando Al Olvido",
+    "artist": "José Andrëa",
+    "isrc": "ES6880400613"
+  },
+  {
+    "title": "War as a Drug",
+    "artist": "Zafakon",
+    "isrc": "ushm21362839"
+  },
+  {
+    "title": "Esclavos De Sus Mentes",
+    "artist": "Logos",
+    "isrc": "TCABX1412366"
+  },
+  {
+    "title": "Pagarás Mi Amor",
+    "artist": "Júpiter",
+    "isrc": "ES5621601712"
+  },
+  {
+    "title": "Rebelde Soy",
+    "artist": "Khafra",
+    "isrc": "FR6V82573219"
+  },
+  {
+    "title": "Muerte al Alba",
+    "artist": "Vendaval",
+    "isrc": "GBSMU3116106"
+  },
+  {
+    "title": "Puro Rock",
+    "artist": "Resorte",
+    "isrc": "MXF119909102"
+  },
+  {
+    "title": "A Los Rebeldes De Corazón",
+    "artist": "Sherpa",
+    "isrc": "ES8240730007"
+  },
+  {
+    "title": "Wuthering Heights",
+    "artist": "ANGRA",
+    "isrc": "BRBRI0500780"
+  },
+  {
+    "title": "Me Voy a Desarmar",
+    "artist": "Crazy lazy",
+    "isrc": "QMDA61886125"
+  },
+  {
+    "title": "Somos Uno",
+    "artist": "De La Tierra",
+    "isrc": "USQX91503060"
+  },
+  {
+    "title": "Luz",
+    "artist": "D-Mente",
+    "isrc": "ARF060800490"
+  },
+  {
+    "title": "Abismos En El Cielo",
+    "artist": "Imperio",
+    "isrc": "TCAEZ2028795"
+  },
+  {
+    "title": "Otro Tono al Gris",
+    "artist": "Mystical Dreams",
+    "isrc": "MXF601100152"
+  },
+  {
+    "title": "A Simple Homicidal Aggression",
+    "artist": "Death Arrangement",
+    "isrc": "usx9p1423850"
+  },
+  {
+    "title": "Hijos del Sol",
+    "artist": "Calvaria",
+    "isrc": "GBSMU7590154"
+  },
+  {
+    "title": "Latinoamérica",
+    "artist": "Ian",
+    "isrc": "uscgh1702925"
+  },
+  {
+    "title": "Tanto Que Decirte",
+    "artist": "Crossfire",
+    "isrc": "USCGJ2035723"
+  },
+  {
+    "title": "Años Luz",
+    "artist": "Huizar",
+    "isrc": "QMEZE1812701"
+  },
+  {
+    "title": "Venas De Acero",
+    "artist": "Tren Loco",
+    "isrc": "TCABW1426912"
+  },
+  {
+    "title": "Siempre Estás Allí",
+    "artist": "Barón Rojo",
+    "isrc": "ES5108300037"
+  },
+  {
+    "title": "Cadena Perpetua Lejos de Ti",
+    "artist": "Lujuria",
+    "isrc": "ES6880400767"
+  },
+  {
+    "title": "Por Siempre",
+    "artist": "Muro",
+    "isrc": "ES5621702935"
+  },
+  {
+    "title": "Va a Estallar el Obus",
+    "artist": "Obus",
+    "isrc": "ES5108100035"
+  },
+  {
+    "title": "El silencio de la noche",
+    "artist": "Sangre Azul",
+    "isrc": "ES5088900228"
+  },
+  {
+    "title": "Esperanza",
+    "artist": "Horcas",
+    "isrc": "GBSMU3496415"
+  },
+  {
+    "title": "Martir",
+    "artist": "Silver Fist",
+    "isrc": "ES5620601749"
+  },
+  {
+    "title": "Sobre La Raya",
+    "artist": "Walter Giardino",
+    "isrc": "ARF099800117"
+  },
+  {
+    "title": "Algo Mágico",
+    "artist": "Barilari",
+    "isrc": "ARA111000019"
+  },
+  {
+    "title": "No Sufrire Jamas por Ti",
+    "artist": "Saratoga",
+    "isrc": "ES5620902955"
+  },
+  {
+    "title": "El Llamado de la Hembra",
+    "artist": "Transmetal",
+    "isrc": "FR6V82587766"
+  },
+  {
+    "title": "El nuevo camino del hombre",
+    "artist": "A.N.I.M.A.L., Mario Altamirano and A.N.I.M.A.L.",
+    "isrc": "ARF119600025"
+  },
+  {
+    "title": "El Ángel de la Lujuria",
+    "artist": "Luzbel",
+    "isrc": "GX5MY2272647"
+  },
+  {
+    "title": "Nosotros No",
+    "artist": "Bella Bestia",
+    "isrc": "ES5121101046"
+  },
+  {
+    "title": "La Razón",
+    "artist": "Psicofonia",
+    "isrc": "FRX201522445"
+  },
+  {
+    "title": "Almafuerte",
+    "artist": "Almafuerte",
+    "isrc": "ARF099800054"
+  },
+  {
+    "title": "La Ley De Plomo",
+    "artist": "Brujeria",
+    "isrc": "NLA329508370"
+  },
+  {
+    "title": "Víctima",
+    "artist": "Agora",
+    "isrc": "MX2661100030"
+  },
+  {
+    "title": "Al Lado del Diablo",
+    "artist": "Santa",
+    "isrc": "ES5108400210"
+  },
+  {
+    "title": "Yo Para Ti",
+    "artist": "Ñu",
+    "isrc": "ES6089880205"
+  },
+  {
+    "title": "Lenguaje de Mi Piel",
+    "artist": "Kraken",
+    "isrc": "USZZR1203515"
+  },
+  {
+    "title": "Falling Illusions",
+    "artist": "Puya",
+    "isrc": "QM4TW2464630"
+  },
+  {
+    "title": "Tango",
+    "artist": "El Cuervo de Poe",
+    "isrc": "uscgh1487337"
+  },
+  {
+    "title": "Ratamahatta",
+    "artist": "Sepultura",
+    "isrc": "NLA329513680"
+  },
+  {
+    "title": "El Mandato - Single Version",
+    "artist": "El Reloj",
+    "isrc": "ARF037300078"
+  },
+  {
+    "title": "Abre la Puerta",
+    "artist": "Medina Azahara, El Barrio, Ketama",
+    "isrc": "ES31E2000372"
+  }
+]

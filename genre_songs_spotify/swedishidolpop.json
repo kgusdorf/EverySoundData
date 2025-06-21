@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Din soldat",
+    "artist": "Albin Johnsén, Kristin Amparo",
+    "isrc": "SEUM71400801"
+  },
+  {
+    "title": "Dragon",
+    "artist": "LIAMOO",
+    "isrc": "SE62X2400401"
+  },
+  {
+    "title": "Famlande fingrar",
+    "artist": "Oscar Zia",
+    "isrc": "SEBGA2304178"
+  },
+  {
+    "title": "Happy That You Found Me",
+    "artist": "Danny Saucedo",
+    "isrc": "SEWEE2432701"
+  },
+  {
+    "title": "Awful Liar",
+    "artist": "Lisa Ajax",
+    "isrc": "SEUM72301757"
+  },
+  {
+    "title": "För Evigt",
+    "artist": "Hanna Ferm",
+    "isrc": "SEUM72100400"
+  },
+  {
+    "title": "Fan va bra",
+    "artist": "Jakob Karlberg",
+    "isrc": "SEBGA1500100"
+  },
+  {
+    "title": "Okej att dö",
+    "artist": "Miriam Bryant",
+    "isrc": "SE5EM2400201"
+  },
+  {
+    "title": "Begging",
+    "artist": "Anton Ewald",
+    "isrc": "SEUM71201645"
+  },
+  {
+    "title": "I Can´t Go On",
+    "artist": "Robin Bengtsson",
+    "isrc": "SEUM71700143"
+  },
+  {
+    "title": "Hålla mig",
+    "artist": "Molly Sandén",
+    "isrc": "SEBGA2400318"
+  },
+  {
+    "title": "Underbart",
+    "artist": "Newkid",
+    "isrc": "SEBGA2400495"
+  },
+  {
+    "title": "Legenden (feat. Phantomen) - Single Version",
+    "artist": "Niello",
+    "isrc": "SEPQA1300285"
+  },
+  {
+    "title": "Electric",
+    "artist": "Darin",
+    "isrc": "SE4H42400101"
+  },
+  {
+    "title": "Lose my mind",
+    "artist": "Myra Granberg",
+    "isrc": "SEBGA2100144"
+  },
+  {
+    "title": "Dina skor",
+    "artist": "Alex Järvi",
+    "isrc": "SEUM71901115"
+  },
+  {
+    "title": "Svag",
+    "artist": "Victor Leksell",
+    "isrc": "SEBGA2000001"
+  },
+  {
+    "title": "Ballerina",
+    "artist": "Malou Prytz",
+    "isrc": "SE57N2000101"
+  },
+  {
+    "title": "Misstro",
+    "artist": "Molly Hammar, Albin Lee Meldau",
+    "isrc": "SEUM72400595"
+  },
+  {
+    "title": "Popular",
+    "artist": "Eric Saade",
+    "isrc": "DKBV71018301"
+  },
+  {
+    "title": "Heroes",
+    "artist": "Måns Zelmerlöw",
+    "isrc": "SEPQA1401135"
+  },
+  {
+    "title": "Happy Thoughts",
+    "artist": "Felix Sandman, Benjamin Ingrosso",
+    "isrc": "SEWEE1901501"
+  },
+  {
+    "title": "Ingen annan rör mig som du",
+    "artist": "Norlie & KKV",
+    "isrc": "SEUM71500355"
+  },
+  {
+    "title": "Mer av dig",
+    "artist": "Theo",
+    "isrc": "SEPQA2200335"
+  },
+  {
+    "title": "Problem",
+    "artist": "William Segerdahl",
+    "isrc": "SE5RI1900301"
+  },
+  {
+    "title": "Du swipa höger",
+    "artist": "Emil Berg",
+    "isrc": "SE4W71500103"
+  },
+  {
+    "title": "Sunnanvind",
+    "artist": "Mares",
+    "isrc": "SE5BU1968487"
+  },
+  {
+    "title": "Gotta Thing About You",
+    "artist": "FO&O",
+    "isrc": "SEWEE1601201"
+  },
+  {
+    "title": "Sommar sommar sol",
+    "artist": "JLC",
+    "isrc": "SEBGA1700187"
+  },
+  {
+    "title": "Alltid leva, aldrig dö",
+    "artist": "Ulrik Munther",
+    "isrc": "SEUM71500236"
+  },
+  {
+    "title": "Kom du sommar - From The TV Series ”Fejk”",
+    "artist": "Renaida",
+    "isrc": "SEUM72300213"
+  },
+  {
+    "title": "Vet att du vill ha mig (feat. Kevin)",
+    "artist": "Samir Badran, Kevin",
+    "isrc": "SEPQA1601217"
+  },
+  {
+    "title": "Jalla dansa sawa",
+    "artist": "Behrang Miri",
+    "isrc": "SEAMA1300105"
+  },
+  {
+    "title": "Lonely Street",
+    "artist": "Kevin Walker",
+    "isrc": "SE6SA2028011"
+  },
+  {
+    "title": "Stay with me",
+    "artist": "Linus Svenning",
+    "isrc": "SE5W32293818"
+  },
+  {
+    "title": "Vågorna",
+    "artist": "Sabina Ddumba",
+    "isrc": "SEPQA1700230"
+  },
+  {
+    "title": "Jag önskar jag brydde mig mer",
+    "artist": "Hov1",
+    "isrc": "SEUM72400481"
+  },
+  {
+    "title": "Låt hela stan se på",
+    "artist": "Ida-Lova",
+    "isrc": "SEBGA2203226"
+  },
+  {
+    "title": "If I Were Sorry",
+    "artist": "Frans",
+    "isrc": "SEXPJ1600101"
+  },
+  {
+    "title": "räknar tårar",
+    "artist": "Oskar Häggström",
+    "isrc": "SE59E2100140"
+  },
+  {
+    "title": "Release Me",
+    "artist": "Agnes",
+    "isrc": "DKBV70806405"
+  },
+  {
+    "title": "Bleeding Love",
+    "artist": "ISA",
+    "isrc": "UK6KW1800081"
+  },
+  {
+    "title": "Sparka på bollen",
+    "artist": "IJustWantToBeCool",
+    "isrc": "SEWDL6141775"
+  },
+  {
+    "title": "Värdelösa människa",
+    "artist": "Sebastian Krantz",
+    "isrc": "SEVFN1500601"
+  },
+  {
+    "title": "Tysta leken",
+    "artist": "Josef Johansson",
+    "isrc": "SE3WM1400103"
+  },
+  {
+    "title": "Vafan",
+    "artist": "Carl Deman",
+    "isrc": "SEVWR1501801"
+  },
+  {
+    "title": "Building It Up",
+    "artist": "JTR",
+    "isrc": "SE4CW1500115"
+  },
+  {
+    "title": "Jackson",
+    "artist": "Manfred",
+    "isrc": "SEUM71700308"
+  },
+  {
+    "title": "100 %",
+    "artist": "Victor och Natten",
+    "isrc": "SEUM71600051"
+  },
+  {
+    "title": "Spegelglas",
+    "artist": "Dao",
+    "isrc": "SE3GO2406701"
+  },
+  {
+    "title": "Du och en annan",
+    "artist": "Kristian Täljeblad",
+    "isrc": "SEYOK1420040"
+  },
+  {
+    "title": "För din skull",
+    "artist": "Kalle Johansson",
+    "isrc": "SEVKF1500301"
+  },
+  {
+    "title": "Alibi - Single Version",
+    "artist": "Eddie Razaz",
+    "isrc": "SEPQA1300040"
+  },
+  {
+    "title": "Hela natten (feat. Lamix)",
+    "artist": "Adinatoor, Lamix",
+    "isrc": "TCACO1667121"
+  },
+  {
+    "title": "Naked",
+    "artist": "Elin Bergman",
+    "isrc": "SEUM71601718"
+  },
+  {
+    "title": "Barrikader",
+    "artist": "Nadja Evelina",
+    "isrc": "SE6AA2400201"
+  },
+  {
+    "title": "Shut Up And Kiss Me",
+    "artist": "Ida LaFontaine",
+    "isrc": "SEUM71500312"
+  },
+  {
+    "title": "Holding Out For A Hero",
+    "artist": "Josefine Myrberg",
+    "isrc": "SEUM71402162"
+  },
+  {
+    "title": "On and On",
+    "artist": "AWA",
+    "isrc": "QZK6P2401575"
+  },
+  {
+    "title": "Red Light",
+    "artist": "Omar Rudberg",
+    "isrc": "USAT22402419"
+  },
+  {
+    "title": "Sverige För Alla",
+    "artist": "Språk för alla, Toni Prince",
+    "isrc": "SEYOK1819820"
+  },
+  {
+    "title": "Säg Att Du Älskar Mig",
+    "artist": "Andrea Lundquist",
+    "isrc": "SEWLR1600502"
+  },
+  {
+    "title": "Dårarna",
+    "artist": "Gabriel Alares",
+    "isrc": "SE3581400201"
+  },
+  {
+    "title": "Goodbye",
+    "artist": "RoxSo",
+    "isrc": "SEYOK1507610"
+  },
+  {
+    "title": "Little By Little",
+    "artist": "Ulf Nilsson",
+    "isrc": "SEUM71301560"
+  },
+  {
+    "title": "Vad lider du av",
+    "artist": "Tobbe Daun",
+    "isrc": "SE3OH1614949"
+  },
+  {
+    "title": "This Moment",
+    "artist": "Marie Picasso",
+    "isrc": "SEBGA0700389"
+  },
+  {
+    "title": "Today",
+    "artist": "Simon Erics, Lazarusman, The Palindromes",
+    "isrc": "NLD682202875"
+  },
+  {
+    "title": "Aldrig",
+    "artist": "Hansam",
+    "isrc": "SEXBT1400201"
+  },
+  {
+    "title": "Intoxicated",
+    "artist": "Agnes Johansson",
+    "isrc": "SEYOK1859204"
+  },
+  {
+    "title": "En annan melodi",
+    "artist": "Alex and Sandra",
+    "isrc": "GBMA21334746"
+  },
+  {
+    "title": "Född Att Älskas - Pop",
+    "artist": "Andreas Palm",
+    "isrc": "SEYOK1308803"
+  },
+  {
+    "title": "CAN YOU FEEL IT - RADIO EDIT",
+    "artist": "Aquablakk",
+    "isrc": "SEYOK1215610"
+  },
+  {
+    "title": "Blackout",
+    "artist": "Boris Jelic",
+    "isrc": "SEYOK2312696"
+  },
+  {
+    "title": "Ase Me Na S' Agapao",
+    "artist": "Dorina Papazoglou",
+    "isrc": "GRPA11800298"
+  },
+  {
+    "title": "Waves",
+    "artist": "Elin Brolin",
+    "isrc": "GBMA21400399"
+  },
+  {
+    "title": "Ängel Med Vingar",
+    "artist": "Elin Hägglöv",
+    "isrc": "TCABW1419014"
+  },
+  {
+    "title": "The Midnight Sky",
+    "artist": "Foools",
+    "isrc": "usx9p1044819"
+  },
+  {
+    "title": "Elämä on elämistä varten",
+    "artist": "Jaana",
+    "isrc": "FIFMF1228409"
+  },
+  {
+    "title": "Better Man",
+    "artist": "Josef de Fataki",
+    "isrc": "GBMA21968391"
+  },
+  {
+    "title": "Verkligheten",
+    "artist": "Linnea Näslund",
+    "isrc": "SEYOK1535852"
+  },
+  {
+    "title": "Sentiasa Rindu",
+    "artist": "M.B, Momoi Nadira, Audrey Chao",
+    "isrc": "SE6A92136600"
+  },
+  {
+    "title": "Quarantine",
+    "artist": "Mercury Monkeys",
+    "isrc": "usl4q2032073"
+  },
+  {
+    "title": "Only You",
+    "artist": "Mikael Collin, Noise Village",
+    "isrc": "GBKPL2036020"
+  },
+  {
+    "title": "Breathe it out - Radio Edit",
+    "artist": "Mioandersson",
+    "isrc": "SEYOK1224489"
+  },
+  {
+    "title": "Si demain j'pars",
+    "artist": "SOUNDSTAR",
+    "isrc": "FRDKW2304107"
+  },
+  {
+    "title": "Stå Upp För Värmbols Blå - Radio Edit",
+    "artist": "Sarah Arvidsson",
+    "isrc": "SEYOK1013011"
+  },
+  {
+    "title": "Vi är Skutskärs Bandy",
+    "artist": "Simon Strand",
+    "isrc": "SE3OH1405517"
+  },
+  {
+    "title": "Nu tändas tusen hyreshus",
+    "artist": "Wissam El Amir, Antonio, Hassan, Marco, Mick-E, Mirre",
+    "isrc": "SEBGA0600614"
+  },
+  {
+    "title": "FLYTTA",
+    "artist": "Albin Johnsén, KHARMA",
+    "isrc": "SE3GO2406401"
+  },
+  {
+    "title": "Human",
+    "artist": "Oscar Zia",
+    "isrc": "SEPQA1600022"
+  },
+  {
+    "title": "Bluffin",
+    "artist": "LIAMOO",
+    "isrc": "SEPQA2200052"
+  },
+  {
+    "title": "Dör för dig",
+    "artist": "Danny Saucedo",
+    "isrc": "SEBGA1500194"
+  },
+  {
+    "title": "Känn En Doft Av Kärleken",
+    "artist": "Lisa Ajax",
+    "isrc": "SEUM71901000"
+  },
+  {
+    "title": "Välkommen Åter",
+    "artist": "Hanna Ferm, Junie",
+    "isrc": "SEUM72200566"
+  },
+  {
+    "title": "F*n va bra",
+    "artist": "Jakob Karlberg, Luc1ano",
+    "isrc": "USA2P2419527"
+  },
+  {
+    "title": "New Religion",
+    "artist": "Anton Ewald",
+    "isrc": "SE5RI2102301"
+  },
+  {
+    "title": "Ge upp igen",
+    "artist": "Miriam Bryant, Yasin",
+    "isrc": "SE5EM2000601"
+  },
+  {
+    "title": "Just Let It Go",
+    "artist": "Robin Bengtsson",
+    "isrc": "SEUM71901078"
+  },
+  {
+    "title": "Du måste finnas",
+    "artist": "Newkid",
+    "isrc": "SEBGA2000847"
+  },
+  {
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artist": "Molly Sandén",
+    "isrc": "SEBGA2400368"
+  },
+  {
+    "title": "Tror du att jag bryr mig",
+    "artist": "Niello, Lisa Ajax",
+    "isrc": "SEUM72101967"
+  },
+  {
+    "title": "Starkare",
+    "artist": "Darin",
+    "isrc": "SE4H42300201"
+  },
+  {
+    "title": "Tills mitt hjärta går under",
+    "artist": "Myra Granberg",
+    "isrc": "SE5751829878"
+  },
+  {
+    "title": "Nån annan än du",
+    "artist": "Alex Järvi",
+    "isrc": "SEUM72000825"
+  },
+  {
+    "title": "Natthimlen",
+    "artist": "Victor Leksell",
+    "isrc": "SE6TS2400104"
+  },
+  {
+    "title": "Bananas",
+    "artist": "Malou Prytz",
+    "isrc": "SE57N2200101"
+  },
+  {
+    "title": "Ingen annan rör mig som du",
+    "artist": "Molly Hammar",
+    "isrc": "SEUM72201331"
+  },
+  {
+    "title": "Manboy",
+    "artist": "Eric Saade",
+    "isrc": "DKBV71001701"
+  },
+  {
+    "title": "IMPRINT",
+    "artist": "Felix Sandman",
+    "isrc": "SEWEE1801601"
+  },
+  {
+    "title": "Enchanté",
+    "artist": "Norlie & KKV, SVEA",
+    "isrc": "SEPQA2400112"
+  },
+  {
+    "title": "Cara mia",
+    "artist": "Måns Zelmerlöw",
+    "isrc": "SEPQA0651419"
+  },
+  {
+    "title": "Som du vill",
+    "artist": "Theo",
+    "isrc": "SEPQA2200050"
+  },
+  {
+    "title": "Stanna kvar hos mig",
+    "artist": "William Segerdahl",
+    "isrc": "SE5RI2001201"
+  },
+  {
+    "title": "Borde kanske dra",
+    "artist": "Emil Berg",
+    "isrc": "SE4W71500121"
+  },
+  {
+    "title": "Hurt Like We Did",
+    "artist": "FO&O",
+    "isrc": "USQX91700900"
+  },
+  {
+    "title": "95",
+    "artist": "Mares",
+    "isrc": "SEWGI1704101"
+  },
+  {
+    "title": "Hela vägen hem",
+    "artist": "JLC",
+    "isrc": "SEBGA1801153"
+  },
+  {
+    "title": "Daughter",
+    "artist": "Ulrik Munther",
+    "isrc": "SE5BU1816842"
+  },
+  {
+    "title": "All the Feels",
+    "artist": "Renaida",
+    "isrc": "SEXPJ1800101"
+  },
+  {
+    "title": "När jag ligger med nån annan",
+    "artist": "Samir Badran, Sigrid Bernson",
+    "isrc": "SEPQA1800251"
+  },
+  {
+    "title": "Det rår vi inte för (feat. Victor Crone)",
+    "artist": "Behrang Miri, Victor Crone",
+    "isrc": "SEPQA1500015"
+  },
+  {
+    "title": "Belong",
+    "artist": "Kevin Walker",
+    "isrc": "SEUM71302767"
+  },
+  {
+    "title": "Bröder",
+    "artist": "Linus Svenning",
+    "isrc": "SEVFN1400101"
+  },
+  {
+    "title": "Effortless",
+    "artist": "Sabina Ddumba",
+    "isrc": "SEPQA1500113"
+  },
+  {
+    "title": "Helluva life",
+    "artist": "Hov1",
+    "isrc": "SE7N92400002"
+  },
+  {
+    "title": "Halvfullt sprucket glas",
+    "artist": "Ida-Lova",
+    "isrc": "SEBGA2304434"
+  },
+  {
+    "title": "Liar - State of Sound",
+    "artist": "Frans, State of Sound",
+    "isrc": "SEXPJ1700901"
+  },
+  {
+    "title": "Sommarregn (feat. Hanna Ferm)",
+    "artist": "Oskar Häggström, Hanna Ferm",
+    "isrc": "SEBGA2201969"
+  },
+  {
+    "title": "Don't Stop",
+    "artist": "ISA",
+    "isrc": "SE4TC1500101"
+  },
+  {
+    "title": "#Självis",
+    "artist": "IJustWantToBeCool",
+    "isrc": "TCABW1470833"
+  },
+  {
+    "title": "Here Comes The Night",
+    "artist": "Agnes",
+    "isrc": "SE6EZ2100501"
+  },
+  {
+    "title": "Hatar att jag älskar dig",
+    "artist": "Sebastian Krantz",
+    "isrc": "SE6I32019345"
+  },
+  {
+    "title": "Hela natten",
+    "artist": "Josef Johansson",
+    "isrc": "SE3WM1400101"
+  },
+  {
+    "title": "Tobbe",
+    "artist": "Carl Deman",
+    "isrc": "SEVWR1601001"
+  },
+  {
+    "title": "Centre of Everywhere",
+    "artist": "JTR",
+    "isrc": "SE4CW1500118"
+  },
+  {
+    "title": "With U",
+    "artist": "Manfred",
+    "isrc": "SE5US1700201"
+  },
+  {
+    "title": "Följ med mig hem",
+    "artist": "Victor och Natten",
+    "isrc": "NL4NL2200259"
+  },
+  {
+    "title": "Fix You",
+    "artist": "Dao",
+    "isrc": "SEUM71901351"
+  },
+  {
+    "title": "Allting i denna bar",
+    "artist": "Kristian Täljeblad",
+    "isrc": "SEPQA1600534"
+  },
+  {
+    "title": "Den där dan",
+    "artist": "Kalle Johansson",
+    "isrc": "SEVKF1400301"
+  },
+  {
+    "title": "Man in the Mirror",
+    "artist": "Eddie Razaz",
+    "isrc": "SEBGA0900221"
+  },
+  {
+    "title": "#JappDinGäri",
+    "artist": "Adinatoor",
+    "isrc": "TCACU1612172"
+  },
+  {
+    "title": "The Fire",
+    "artist": "Elin Bergman",
+    "isrc": "SEUM71302652"
+  },
+  {
+    "title": "D enkla livet",
+    "artist": "Nadja Evelina",
+    "isrc": "SE6AA2400301"
+  },
+  {
+    "title": "Anthem",
+    "artist": "Ida LaFontaine",
+    "isrc": "SEUM71402010"
+  },
+  {
+    "title": "Stay Gold",
+    "artist": "Josefine Myrberg",
+    "isrc": "SEUM71402177"
+  },
+  {
+    "title": "Like I Do",
+    "artist": "AWA",
+    "isrc": "GBARL1901071"
+  },
+  {
+    "title": "Mi Casa Su Casa",
+    "artist": "Omar Rudberg",
+    "isrc": "SEWEE2118001"
+  },
+  {
+    "title": "Språk för alla",
+    "artist": "Språk för alla",
+    "isrc": "SE4XA1500114"
+  },
+  {
+    "title": "Du Gör Mig Hel",
+    "artist": "Andrea Lundquist",
+    "isrc": "SEWLR1600508"
+  },
+  {
+    "title": "Reload",
+    "artist": "Gabriel Alares",
+    "isrc": "SEUM71302135"
+  },
+  {
+    "title": "En sista gång",
+    "artist": "Albin Johnsén",
+    "isrc": "SEUM71500568"
+  },
+  {
+    "title": "Heartbreakmiljonär",
+    "artist": "Oscar Zia",
+    "isrc": "SEBGA2304199"
+  },
+  {
+    "title": "Running With Lightning",
+    "artist": "LIAMOO, KUBA",
+    "isrc": "SE62X2302001"
+  },
+  {
+    "title": "If Only You (feat. Therese)",
+    "artist": "Danny Saucedo, Therese",
+    "isrc": "SEBMA0700043"
+  },
+  {
+    "title": "Torn",
+    "artist": "Lisa Ajax",
+    "isrc": "SEUM71800839"
+  },
+  {
+    "title": "Om Jag Inte Kan Leva Med Dig Varför Dör Jag Då Utan Dig",
+    "artist": "Hanna Ferm",
+    "isrc": "SEUM72400448"
+  },
+  {
+    "title": "Trädgårn",
+    "artist": "Jakob Karlberg",
+    "isrc": "SEBGA1600680"
+  },
+  {
+    "title": "Natural",
+    "artist": "Anton Ewald",
+    "isrc": "SEUM71400076"
+  },
+  {
+    "title": "tystnar i luren",
+    "artist": "Miriam Bryant, Victor Leksell",
+    "isrc": "SE5EM2000701"
+  },
+  {
+    "title": "Innocent Love",
+    "artist": "Robin Bengtsson",
+    "isrc": "SEUM72101962"
+  },
+  {
+    "title": "Starkare",
+    "artist": "Newkid",
+    "isrc": "SEBGA2000846"
+  },
+  {
+    "title": "Psykos",
+    "artist": "Molly Sandén",
+    "isrc": "SEBGA2304340"
+  },
+  {
+    "title": "Vinden - Radio edit",
+    "artist": "Niello",
+    "isrc": "SEPQA1500563"
+  },
+  {
+    "title": "Ta mig tillbaka",
+    "artist": "Darin",
+    "isrc": "SE4H41500101"
+  },
+  {
+    "title": "Dansa min docka",
+    "artist": "Myra Granberg",
+    "isrc": "SE7F52400003"
+  },
+  {
+    "title": "Tack för allt vi va",
+    "artist": "Alex Järvi",
+    "isrc": "SEUM71900732"
+  },
+  {
+    "title": "I Do Me",
+    "artist": "Malou Prytz",
+    "isrc": "SE57N1900101"
+  },
+  {
+    "title": "Tid & Tro",
+    "artist": "Victor Leksell",
+    "isrc": "SE6TS2400101"
+  },
+  {
+    "title": "Deep Down - From the Film ‘The Abyss’",
+    "artist": "Molly Hammar",
+    "isrc": "SEUM72300970"
+  },
+  {
+    "title": "Wide Awake - Red Mix",
+    "artist": "Eric Saade, Gustaf Norén, Filatov & Karas",
+    "isrc": "SEYQH1614001"
+  },
+  {
+    "title": "Babymoma",
+    "artist": "Felix Sandman",
+    "isrc": "SEBGA2400571"
+  },
+  {
+    "title": "Walk With Me",
+    "artist": "Måns Zelmerlöw, Dotter",
+    "isrc": "SEPQA1900014"
+  },
+  {
+    "title": "Näktergal",
+    "artist": "Norlie & KKV",
+    "isrc": "SEPQA2400076"
+  },
+  {
+    "title": "Dagar som aldrig tar slut",
+    "artist": "Theo",
+    "isrc": "SEPQA2400106"
+  },
+  {
+    "title": "utan mig",
+    "artist": "William Segerdahl, Malin Christin",
+    "isrc": "SE5RI2102701"
+  },
+  {
+    "title": "Jag kommer aldrig kunna dö med dig",
+    "artist": "Emil Berg",
+    "isrc": "SE4W71500106"
+  },
+  {
+    "title": "Build A Girl",
+    "artist": "FO&O",
+    "isrc": "SEBGA1300368"
+  },
+  {
+    "title": "Cyklar ni så springer jag",
+    "artist": "Mares",
+    "isrc": "SEWGI1605601"
+  },
+  {
+    "title": "Friendzoned",
+    "artist": "JLC, Robin Bengtsson",
+    "isrc": "SEBGA1901192"
+  },
+  {
+    "title": "En vanlig dag",
+    "artist": "Ulrik Munther",
+    "isrc": "SEUM70900729"
+  },
+  {
+    "title": "Flyga högt - From The TV Series ”Fejk”",
+    "artist": "Renaida",
+    "isrc": "SEUM72300211"
+  },
+  {
+    "title": "Portkod (feat. Anis Don Demina & Nobel)",
+    "artist": "Samir Badran, Anis Don Demina, Nobel",
+    "isrc": "SEPQA1900057"
+  }
+]

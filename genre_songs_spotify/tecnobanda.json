@@ -1,0 +1,932 @@
+[
+  {
+    "title": "Billy No Seas Un Heroe",
+    "artist": "Jalisco Band",
+    "isrc": "USJ3V1147075"
+  },
+  {
+    "title": "El Ranchero Chido",
+    "artist": "Vaquero's Musical",
+    "isrc": "US6R21490276"
+  },
+  {
+    "title": "No Podras",
+    "artist": "Banda M-1",
+    "isrc": "QZYFZ2332651"
+  },
+  {
+    "title": "Yacaré Del Pantano",
+    "artist": "Banda Crucero",
+    "isrc": "MXF399100590"
+  },
+  {
+    "title": "Caliente Caliente",
+    "artist": "Banda Zarape",
+    "isrc": "MXF069600375"
+  },
+  {
+    "title": "La Niña Fresa",
+    "artist": "Banda Zeta",
+    "isrc": "TCAGM2218111"
+  },
+  {
+    "title": "Mi Linda Chiquilla",
+    "artist": "Banda Zorro",
+    "isrc": "QZK6F2481749"
+  },
+  {
+    "title": "Mi Novia No Es Fresa",
+    "artist": "Banda Mausser",
+    "isrc": "USZBG1206347"
+  },
+  {
+    "title": "El Camaron Pelao",
+    "artist": "Banda Pachuco",
+    "isrc": "ushm20660770"
+  },
+  {
+    "title": "El Llanero Solitario",
+    "artist": "Banda Rodeo",
+    "isrc": "QM6DC1548909"
+  },
+  {
+    "title": "Un Amor Como el Mío",
+    "artist": "Koritas Musical",
+    "isrc": "US3DF1103007"
+  },
+  {
+    "title": "Te Quiero, Te Amo, Te Extraño",
+    "artist": "Banda Los Lagos",
+    "isrc": "USSD19904150"
+  },
+  {
+    "title": "Misa De Cuerpo Presente",
+    "artist": "Banda Movil",
+    "isrc": "MXUM70803451"
+  },
+  {
+    "title": "Pupurri de Sones: El Becerro No Ha Mamado / El Guaco Chano / La Vaquilla Colorada / El Carretero - Los Caporales",
+    "artist": "Banda Carretero",
+    "isrc": "FRX201965693"
+  },
+  {
+    "title": "Anda Borracho El Buey",
+    "artist": "Banda Guadalajara Express",
+    "isrc": "MXF399200801"
+  },
+  {
+    "title": "Provócame",
+    "artist": "Banda Vallarta Show",
+    "isrc": "USHM22481487"
+  },
+  {
+    "title": "La Tabaquera",
+    "artist": "Ranchero Band",
+    "isrc": "US6R21468300"
+  },
+  {
+    "title": "Voy a Pintar Mi Raya",
+    "artist": "Banda Arkangel R-15",
+    "isrc": "USSD19904125"
+  },
+  {
+    "title": "Bella Señora",
+    "artist": "Banda BM3",
+    "isrc": "QM6N21903420"
+  },
+  {
+    "title": "Vueltas y Vueltas",
+    "artist": "Banda Degollado",
+    "isrc": "MXD481804514"
+  },
+  {
+    "title": "Charanga Changuirongo",
+    "artist": "Banda Texana",
+    "isrc": "MX2832132350"
+  },
+  {
+    "title": "Pobresito Limosnero",
+    "artist": "La Nueva Banda Guadalajara Express",
+    "isrc": "FR59R1944360"
+  },
+  {
+    "title": "Josefina \"La De La Sierra\"",
+    "artist": "Banda Mister Junior's",
+    "isrc": "CBC1X2200091"
+  },
+  {
+    "title": "Adiós Por Telefono",
+    "artist": "Banda Superbandido",
+    "isrc": "QZDQH1810620"
+  },
+  {
+    "title": "Oh Carol",
+    "artist": "Banda Rino",
+    "isrc": "QM6N21860528"
+  },
+  {
+    "title": "Si Tu Boquita Fuera",
+    "artist": "Banda R-15",
+    "isrc": "MXUM70903956"
+  },
+  {
+    "title": "El Fantasma",
+    "artist": "El Ciclón Padres de la Tecno-Banda",
+    "isrc": "FRX201855041"
+  },
+  {
+    "title": "Mil Cartas",
+    "artist": "Banda Rafaga",
+    "isrc": "QZNW72324585"
+  },
+  {
+    "title": "El Que No la Conozca",
+    "artist": "Banda Viento Negro",
+    "isrc": "QZGLM2250841"
+  },
+  {
+    "title": "Amor Fingido",
+    "artist": "Banda MR-7",
+    "isrc": "US3DF1316187"
+  },
+  {
+    "title": "Isla Virgen",
+    "artist": "Banda Brava",
+    "isrc": "MXF399401512"
+  },
+  {
+    "title": "La Novia Que No Llego",
+    "artist": "El Korita González y Su Banda",
+    "isrc": "TCAGM2248537"
+  },
+  {
+    "title": "El Hijo de Cuca",
+    "artist": "Banda Arrieros",
+    "isrc": "QMA5H0910192"
+  },
+  {
+    "title": "El Torito Enfurecido",
+    "artist": "Banda Pelavacas",
+    "isrc": "QZDQH2147243"
+  },
+  {
+    "title": "El Gato y Yo",
+    "artist": "Super Banda Radar",
+    "isrc": "MXF149400287"
+  },
+  {
+    "title": "La playa del amor",
+    "artist": "Banda Escuadra",
+    "isrc": "MXF169800138"
+  },
+  {
+    "title": "El Llanero Solitario - Guillermo Tell",
+    "artist": "Banda Rodeo de Morelos",
+    "isrc": "FR6V82301382"
+  },
+  {
+    "title": "La Chica Violeta",
+    "artist": "Cuatrero Musical",
+    "isrc": "QZDQH2008719"
+  },
+  {
+    "title": "Vamos a Regresar",
+    "artist": "Banda Mach",
+    "isrc": "TCACA1402463"
+  },
+  {
+    "title": "Si Imaginaras",
+    "artist": "Charanda Band",
+    "isrc": "MXD481811362"
+  },
+  {
+    "title": "Disculpe Usted",
+    "artist": "Banda Marquez",
+    "isrc": "US6R21401950"
+  },
+  {
+    "title": "Nadie Baila Como Tu / El Noa Noa - En Vivo",
+    "artist": "Banda Mister Juniors",
+    "isrc": "QZ5AB1650513"
+  },
+  {
+    "title": "El Olotito",
+    "artist": "Banda Sertao",
+    "isrc": "FR2X41692173"
+  },
+  {
+    "title": "La Noche Que Murio Chicago",
+    "artist": "Banda Toro",
+    "isrc": "TCAHU2464616"
+  },
+  {
+    "title": "Manuelita",
+    "artist": "Banda Camino",
+    "isrc": "MXF398900218"
+  },
+  {
+    "title": "Magdalena",
+    "artist": "Banda Novillera",
+    "isrc": "QZDQH1810432"
+  },
+  {
+    "title": "Un Rayo de Sol",
+    "artist": "Banda Viajero",
+    "isrc": "MXF149400196"
+  },
+  {
+    "title": "Coco Rayado",
+    "artist": "Banda 30-30",
+    "isrc": "US3DF1315607"
+  },
+  {
+    "title": "El Caballo del Diablo",
+    "artist": "Los Ráfagos",
+    "isrc": "FRX281941469"
+  },
+  {
+    "title": "Donde Estas",
+    "artist": "Banda Cachorros",
+    "isrc": "QZDQH2008543"
+  },
+  {
+    "title": "Tu Que Fuiste",
+    "artist": "El Güero Camba y Su Banda La Tribu",
+    "isrc": "CH6541662323"
+  },
+  {
+    "title": "Sera Por Que Te Amo",
+    "artist": "Banda Lizarraga",
+    "isrc": "USA560923267"
+  },
+  {
+    "title": "El Son de la Negra",
+    "artist": "El Ciclón del Pacifico",
+    "isrc": "FR59R2002482"
+  },
+  {
+    "title": "El Caderazo",
+    "artist": "Banda Wane Wane",
+    "isrc": "USJE61701206"
+  },
+  {
+    "title": "La Cumbia del Mundo",
+    "artist": "Banda Cohuich",
+    "isrc": "USUTV1000032"
+  },
+  {
+    "title": "Me Mato",
+    "artist": "Banda Viento Negro",
+    "isrc": "QZGLM2385488"
+  },
+  {
+    "title": "Poptitos",
+    "artist": "Banda Potrero",
+    "isrc": "QZDQH1810537"
+  },
+  {
+    "title": "Claridad",
+    "artist": "Kumbia Song",
+    "isrc": "FR96X1987279"
+  },
+  {
+    "title": "Tu Eterno Enamorado",
+    "artist": "Banda Maguey",
+    "isrc": "TCAHM2310124"
+  },
+  {
+    "title": "Lo Amo",
+    "artist": "Banda Pecadores",
+    "isrc": "MXD481807732"
+  },
+  {
+    "title": "Un Angel",
+    "artist": "Banda Espuela De Oro",
+    "isrc": "QZ7361900236"
+  },
+  {
+    "title": "Maldita Serpiente",
+    "artist": "Banda El Pueblo",
+    "isrc": "US7VG1727664"
+  },
+  {
+    "title": "Ramito De Violetas",
+    "artist": "Mi Banda El Mexicano",
+    "isrc": "MXF369332433"
+  },
+  {
+    "title": "Night Chicago Died (La Noche En Que Chicago Se Murio)",
+    "artist": "Gigantes de la Tecnobanda",
+    "isrc": "QZFZ32477122"
+  },
+  {
+    "title": "Ordeñando La Vaca",
+    "artist": "Hechizeros Band",
+    "isrc": "MXUM70808608"
+  },
+  {
+    "title": "Historia sin fin",
+    "artist": "Banda Machos",
+    "isrc": "MXF169700086"
+  },
+  {
+    "title": "El Wane, Wane",
+    "artist": "Banda Mexico Lindo",
+    "isrc": "USJE61701183"
+  },
+  {
+    "title": "Donde Caigo",
+    "artist": "La Tropa Chicana",
+    "isrc": "QM6DC1546637"
+  },
+  {
+    "title": "El Rica de Puente",
+    "artist": "Tecno Banda Nalo's Hombres Ambiente",
+    "isrc": "FR2X41691301"
+  },
+  {
+    "title": "La nena",
+    "artist": "Banda Pequeños Musical",
+    "isrc": "MXF169400014"
+  },
+  {
+    "title": "Estoy Solo",
+    "artist": "Banda Bonnita",
+    "isrc": "QZDQH2102862"
+  },
+  {
+    "title": "Canchame",
+    "artist": "Grupo La Kaña",
+    "isrc": "QZDQH2394630"
+  },
+  {
+    "title": "Tristes Canción",
+    "artist": "La Banda Que Manda",
+    "isrc": "USK340800615"
+  },
+  {
+    "title": "La Colaless",
+    "artist": "Su Majestad La Brissa",
+    "isrc": "USDHM1901681"
+  },
+  {
+    "title": "Vacilando",
+    "artist": "Grupo La Concentracion",
+    "isrc": "MXF368829942"
+  },
+  {
+    "title": "Eleazar del Fierro",
+    "artist": "Banda La Mentira",
+    "isrc": "USPWN0910462"
+  },
+  {
+    "title": "La Chuchis (Norteño)",
+    "artist": "Juan Ortega y Su Grupo",
+    "isrc": "QZDQH1828828"
+  },
+  {
+    "title": "En La Barra",
+    "artist": "Grupo Laberinto",
+    "isrc": "MXF360235766"
+  },
+  {
+    "title": "El Pulmon",
+    "artist": "Alex Ramirez Y Su Grupo Profetas",
+    "isrc": "TCACO1639670"
+  },
+  {
+    "title": "Arriba Malena",
+    "artist": "Grupo la Grilla",
+    "isrc": "QZK6P2263188"
+  },
+  {
+    "title": "Cartas Marcadas",
+    "artist": "Super Banda Aventurero",
+    "isrc": "US3DF1536594"
+  },
+  {
+    "title": "Aeropuerto De Chicago",
+    "artist": "Banda Aventurero",
+    "isrc": "QZNWV2002371"
+  },
+  {
+    "title": "Puede Que Sí",
+    "artist": "Tecnobanda Los Ardientez Musical",
+    "isrc": "FRX201824200"
+  },
+  {
+    "title": "No Te Pares",
+    "artist": "Banda Sahuayo",
+    "isrc": "MXD481809606"
+  },
+  {
+    "title": "Rezare",
+    "artist": "Banda Arkangel R15",
+    "isrc": "ushm81866811"
+  },
+  {
+    "title": "Popurri: Donde Estas Tal Como Eres Yo Te Amo",
+    "artist": "Banda Koritas Musical",
+    "isrc": "QM6DC1534840"
+  },
+  {
+    "title": "Y.M.C.A",
+    "artist": "Banda con Angel",
+    "isrc": "US3DF1315735"
+  },
+  {
+    "title": "Si Tu Boquita Fuera",
+    "artist": "EL Korita González y Su Banda",
+    "isrc": "MXH152100177"
+  },
+  {
+    "title": "Me Gustas Todita",
+    "artist": "Los Venturas De Caborca",
+    "isrc": "QZDQH2256990"
+  },
+  {
+    "title": "Al Coco No",
+    "artist": "Tecno Banda K22",
+    "isrc": "FR96X1511510"
+  },
+  {
+    "title": "Dejame En Paz",
+    "artist": "dekada band",
+    "isrc": "TCADW1894444"
+  },
+  {
+    "title": "Bailando Banda",
+    "artist": "Jalisco Band",
+    "isrc": "USJ3V1147079"
+  },
+  {
+    "title": "El Torero Cotorro",
+    "artist": "Vaquero's Musical",
+    "isrc": "MXF369131475"
+  },
+  {
+    "title": "No Señor Apache",
+    "artist": "Banda M-1",
+    "isrc": "QZYFZ2332655"
+  },
+  {
+    "title": "Sopa De Caracol",
+    "artist": "Banda Crucero",
+    "isrc": "MXF399100593"
+  },
+  {
+    "title": "Viva La Fiesta (Me Like To Party)",
+    "artist": "Banda Zarape",
+    "isrc": "MXF069900515"
+  },
+  {
+    "title": "Caminos de michoacan",
+    "artist": "Banda Zorro",
+    "isrc": "QZHNC2493614"
+  },
+  {
+    "title": "90-60-90",
+    "artist": "Banda Mausser",
+    "isrc": "QM6DC1548363"
+  },
+  {
+    "title": "Hotel California",
+    "artist": "Banda Zeta",
+    "isrc": "TCAGM2218155"
+  },
+  {
+    "title": "Mitad Tú, Mitad Yo",
+    "artist": "Banda Pachuco",
+    "isrc": "USSD19904365"
+  },
+  {
+    "title": "El Toro Mocho",
+    "artist": "Banda Rodeo",
+    "isrc": "QM6DC1349757"
+  },
+  {
+    "title": "Cumbia Loca",
+    "artist": "Koritas Musical",
+    "isrc": "US3DF1103009"
+  },
+  {
+    "title": "Carta Abierta",
+    "artist": "Banda Los Lagos",
+    "isrc": "USSD19904147"
+  },
+  {
+    "title": "Besos y Copas",
+    "artist": "Banda Carretero",
+    "isrc": "QM6N21847368"
+  },
+  {
+    "title": "Chiquilla Cariñosa",
+    "artist": "Banda Movil",
+    "isrc": "MXUM71200303"
+  },
+  {
+    "title": "Tri Triki Tri Traka",
+    "artist": "Banda Guadalajara Express",
+    "isrc": "MXF399301033"
+  },
+  {
+    "title": "Candela Verde",
+    "artist": "Ranchero Band",
+    "isrc": "US6R21468338"
+  },
+  {
+    "title": "Esa Chica Me Vacila",
+    "artist": "Banda Vallarta Show",
+    "isrc": "USHM22487077"
+  },
+  {
+    "title": "Al Mismo Nivel",
+    "artist": "Banda Arkangel R-15",
+    "isrc": "USSD19904392"
+  },
+  {
+    "title": "Hoy Es un Buen Día",
+    "artist": "Banda BM3",
+    "isrc": "QM6N21903423"
+  },
+  {
+    "title": "Mañana Te Acordarás",
+    "artist": "Banda Degollado",
+    "isrc": "MXD481702742"
+  },
+  {
+    "title": "O K Mambo",
+    "artist": "Banda Texana",
+    "isrc": "MX2832132364"
+  },
+  {
+    "title": "Popurri de Cumbias: El Cafetal / El Hombre Aparecido / La Cosecha de Mujeres",
+    "artist": "La Nueva Banda Guadalajara Express",
+    "isrc": "FR59R1944364"
+  },
+  {
+    "title": "Con Cachete, Pechito Y Ombligo",
+    "artist": "Banda Mister Junior's",
+    "isrc": "CBC1X2200096"
+  },
+  {
+    "title": "Como Cuento De Hadas",
+    "artist": "Banda Superbandido",
+    "isrc": "USSD19904397"
+  },
+  {
+    "title": "Guera Pachanguera",
+    "artist": "Banda Rino",
+    "isrc": "QM6N21826253"
+  },
+  {
+    "title": "El Bigote",
+    "artist": "Banda R-15",
+    "isrc": "MXUM70803461"
+  },
+  {
+    "title": "La Madrugada",
+    "artist": "El Ciclón Padres de la Tecno-Banda",
+    "isrc": "FR59R1811673"
+  },
+  {
+    "title": "La Danza del Coyote",
+    "artist": "Banda Rafaga",
+    "isrc": "TCACO1686612"
+  },
+  {
+    "title": "Cinco de Te",
+    "artist": "Banda Viento Negro",
+    "isrc": "QZGLM2247365"
+  },
+  {
+    "title": "La Tumba Abandonada",
+    "artist": "Banda MR-7",
+    "isrc": "US3DF1316191"
+  },
+  {
+    "title": "Y Nos Dieron Las Diez",
+    "artist": "Banda Brava",
+    "isrc": "MXF399200911"
+  },
+  {
+    "title": "El Diario De Un Borracho",
+    "artist": "El Korita González y Su Banda",
+    "isrc": "TCAGM2248552"
+  },
+  {
+    "title": "No Señor Apache",
+    "artist": "Banda Arrieros",
+    "isrc": "QMA5H0910191"
+  },
+  {
+    "title": "De Vacaciones",
+    "artist": "Banda Pelavacas",
+    "isrc": "QM6DC1676276"
+  },
+  {
+    "title": "Magdalena",
+    "artist": "Super Banda Radar",
+    "isrc": "QZGLS2016595"
+  },
+  {
+    "title": "Nunca acabará tu encanto",
+    "artist": "Banda Escuadra",
+    "isrc": "MXF169800145"
+  },
+  {
+    "title": "Quién Pompó",
+    "artist": "Banda Rodeo de Morelos",
+    "isrc": "FR2X41666789"
+  },
+  {
+    "title": "Ahora Te Puedes Marchar",
+    "artist": "Cuatrero Musical",
+    "isrc": "QZDQH2008714"
+  },
+  {
+    "title": "He Venido a Pedirte Perdón (Adiós Mi Amor)",
+    "artist": "Banda Mach, Raul Ortega",
+    "isrc": "QMBZ91633096"
+  },
+  {
+    "title": "La Langosta",
+    "artist": "Charanda Band",
+    "isrc": "MX0481701380"
+  },
+  {
+    "title": "La Tanguita Roja",
+    "artist": "Banda Marquez",
+    "isrc": "US6R21401954"
+  },
+  {
+    "title": "Mambo a la Nuñez - En Vivo",
+    "artist": "Banda Mister Juniors",
+    "isrc": "QZ5AB1650510"
+  },
+  {
+    "title": "Vamos a Bailar",
+    "artist": "Banda Sertao",
+    "isrc": "FR2X41692163"
+  },
+  {
+    "title": "El Gavilancillo",
+    "artist": "Banda Camino",
+    "isrc": "MXF398900214"
+  },
+  {
+    "title": "La Ruca No Era Ruca",
+    "artist": "Banda Toro",
+    "isrc": "TCAHU2464623"
+  },
+  {
+    "title": "Por Una Lagrima",
+    "artist": "Banda Novillera",
+    "isrc": "QZDQH1810424"
+  },
+  {
+    "title": "Las Manos Quietas",
+    "artist": "Banda Viajero",
+    "isrc": "MXF149500368"
+  },
+  {
+    "title": "Me Agarro La Comezon",
+    "artist": "Banda 30-30",
+    "isrc": "US3DF1315609"
+  },
+  {
+    "title": "Ritmo Mejor",
+    "artist": "Los Ráfagos",
+    "isrc": "FR2X41864633"
+  },
+  {
+    "title": "María Cristina",
+    "artist": "Banda Cachorros",
+    "isrc": "QM6N21846922"
+  },
+  {
+    "title": "Mi Terruño",
+    "artist": "El Güero Camba y Su Banda La Tribu",
+    "isrc": "CH6541662324"
+  },
+  {
+    "title": "Quien Sera",
+    "artist": "Banda Lizarraga",
+    "isrc": "USA560923262"
+  },
+  {
+    "title": "El Gallo Mojado",
+    "artist": "El Ciclón del Pacifico",
+    "isrc": "FRX762385357"
+  },
+  {
+    "title": "La Ingenua",
+    "artist": "Banda Wane Wane",
+    "isrc": "USJE61701211"
+  },
+  {
+    "title": "El Sinaloense",
+    "artist": "Banda Cohuich",
+    "isrc": "USUTV1000037"
+  },
+  {
+    "title": "Rumba Banda",
+    "artist": "Banda Viento Negro",
+    "isrc": "MXF160001063"
+  },
+  {
+    "title": "La Plaga",
+    "artist": "Banda Potrero",
+    "isrc": "QZDQH1810529"
+  },
+  {
+    "title": "El Pato Pipon",
+    "artist": "Kumbia Song",
+    "isrc": "FRX201852406"
+  },
+  {
+    "title": "Si Tu No Estas",
+    "artist": "Banda Maguey",
+    "isrc": "TCAHM2310468"
+  },
+  {
+    "title": "Sueño Sin Final",
+    "artist": "Banda Pecadores",
+    "isrc": "USDS19700451"
+  },
+  {
+    "title": "Dame El Poder",
+    "artist": "Banda Espuela De Oro",
+    "isrc": "USUL10000299"
+  },
+  {
+    "title": "Cerros Viejos",
+    "artist": "Banda El Pueblo",
+    "isrc": "US7VG1727658"
+  },
+  {
+    "title": "El Ranchero Chido",
+    "artist": "Gigantes de la Tecnobanda",
+    "isrc": "QZFZ32477114"
+  },
+  {
+    "title": "Kumbala",
+    "artist": "Jalisco Band",
+    "isrc": "USJ3V1147078"
+  },
+  {
+    "title": "El Caracol",
+    "artist": "Vaquero's Musical",
+    "isrc": "MXF368930580"
+  },
+  {
+    "title": "Que Bonita Te Vez",
+    "artist": "Banda M-1",
+    "isrc": "QZYFZ2332653"
+  },
+  {
+    "title": "El Ranchero Rapero",
+    "artist": "Banda Crucero",
+    "isrc": "MXF399100715"
+  },
+  {
+    "title": "Calzones De Bolitas",
+    "artist": "Banda Zarape",
+    "isrc": "MXF069800723"
+  },
+  {
+    "title": "La enorme distancia",
+    "artist": "Banda Zorro",
+    "isrc": "QZHNC2493611"
+  },
+  {
+    "title": "Gavilan Pollero",
+    "artist": "Banda Mausser",
+    "isrc": "QM6DC1550181"
+  },
+  {
+    "title": "Ritmo Chido",
+    "artist": "Banda Zeta",
+    "isrc": "USAGX0500186"
+  },
+  {
+    "title": "Tengo Que Olvidar",
+    "artist": "Banda Pachuco",
+    "isrc": "USA560886553"
+  },
+  {
+    "title": "Hasta Los Muertos Bailan",
+    "artist": "Banda Rodeo",
+    "isrc": "QM6DC1548379"
+  },
+  {
+    "title": "Notas de Sociedad",
+    "artist": "Koritas Musical",
+    "isrc": "US3DF1103011"
+  },
+  {
+    "title": "A los Cuatro Vientos",
+    "artist": "Banda Los Lagos",
+    "isrc": "USSD19904052"
+  },
+  {
+    "title": "El Domingo Se Casa",
+    "artist": "Banda Carretero",
+    "isrc": "uscgh2263579"
+  },
+  {
+    "title": "La Talega Del Café",
+    "artist": "Banda Movil",
+    "isrc": "MXUM70904566"
+  },
+  {
+    "title": "Te Vas A Acordar De Mí",
+    "artist": "Banda Guadalajara Express",
+    "isrc": "MXF399301037"
+  },
+  {
+    "title": "La Suegra y el Tiburón",
+    "artist": "Ranchero Band",
+    "isrc": "US6R21468292"
+  },
+  {
+    "title": "Tu Pum Pum",
+    "artist": "Banda Vallarta Show",
+    "isrc": "USHM22481493"
+  },
+  {
+    "title": "Fue Tan Poco Tu Cariño",
+    "artist": "Banda Arkangel R-15",
+    "isrc": "USSD19904595"
+  },
+  {
+    "title": "Que Te Vaya Bien",
+    "artist": "Banda BM3",
+    "isrc": "QM6N21903426"
+  },
+  {
+    "title": "Busca Otro Amor",
+    "artist": "Banda Degollado",
+    "isrc": "QM6DC1560855"
+  },
+  {
+    "title": "Gloria",
+    "artist": "Banda Texana",
+    "isrc": "MX2832132363"
+  },
+  {
+    "title": "El Toro Cuateson",
+    "artist": "La Nueva Banda Guadalajara Express",
+    "isrc": "FRX201955290"
+  },
+  {
+    "title": "La Brujita",
+    "artist": "Banda Mister Junior's",
+    "isrc": "CBC1X2200092"
+  },
+  {
+    "title": "El Sol Nace para Todos",
+    "artist": "Banda Superbandido",
+    "isrc": "USJE62212135"
+  },
+  {
+    "title": "Bella Señora",
+    "artist": "Banda Rino",
+    "isrc": "QM6N21860517"
+  },
+  {
+    "title": "Con Cartitas",
+    "artist": "Banda R-15",
+    "isrc": "US3DF1316257"
+  },
+  {
+    "title": "Negrita E A E",
+    "artist": "El Ciclón Padres de la Tecno-Banda",
+    "isrc": "FRX201855047"
+  },
+  {
+    "title": "Juan Colorado",
+    "artist": "Banda Rafaga",
+    "isrc": "TCADG1768432"
+  },
+  {
+    "title": "Rica y Apretadita",
+    "artist": "Banda Viento Negro",
+    "isrc": "QZGLM2247357"
+  },
+  {
+    "title": "Volveras Conmigo",
+    "artist": "Banda MR-7",
+    "isrc": "US3DF1316188"
+  },
+  {
+    "title": "El Deivis - Andamos al Tiro",
+    "artist": "Banda Brava",
+    "isrc": "FR2X41954867"
+  },
+  {
+    "title": "Potpurrí: El Rey / Que Te Vaya Bonito / La Que Se Fue / Que Suerte La Mia / Ella / Pa´ Todo El Año",
+    "artist": "El Korita González y Su Banda",
+    "isrc": "TCAGM2248517"
+  }
+]
