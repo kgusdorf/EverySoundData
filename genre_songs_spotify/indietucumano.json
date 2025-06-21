@@ -1,0 +1,767 @@
+[
+  {
+    "title": "Promesa",
+    "artist": "Alem",
+    "isrc": "FR10S1951231"
+  },
+  {
+    "title": "Rivera House",
+    "artist": "El Estúpido Martes Sangriento",
+    "isrc": "ARA1E1700008"
+  },
+  {
+    "title": "Casi Como Hoy",
+    "artist": "Estación Experimental",
+    "isrc": "ARDF91700001"
+  },
+  {
+    "title": "Anarquía",
+    "artist": "Patricio García",
+    "isrc": "FRX201968796"
+  },
+  {
+    "title": "Adolescente",
+    "artist": "Sipeganboys",
+    "isrc": "usdy41966295"
+  },
+  {
+    "title": "Quisiera Que Pienses en Mí",
+    "artist": "Los Chicles",
+    "isrc": "USHM21698945"
+  },
+  {
+    "title": "Azul",
+    "artist": "Luciana Tagliapietra, Santiago Motorizado",
+    "isrc": "ARMSW2300001"
+  },
+  {
+    "title": "Arpía",
+    "artist": "Remedios Descarada",
+    "isrc": "usl4r2171440"
+  },
+  {
+    "title": "2x3",
+    "artist": "Roadie",
+    "isrc": "uscgh1818217"
+  },
+  {
+    "title": "Fuego piel",
+    "artist": "Los Veranos",
+    "isrc": "GBSMU6262329"
+  },
+  {
+    "title": "Transparente",
+    "artist": "Karma Sudaca",
+    "isrc": "SE6A91914476"
+  },
+  {
+    "title": "Way Of The Gaucho",
+    "artist": "Brahmans",
+    "isrc": "QZMZ92441711"
+  },
+  {
+    "title": "Gobierno de la Ciudad",
+    "artist": "Johny Boy, Andrés Ruiz",
+    "isrc": "QZHZ51953221"
+  },
+  {
+    "title": "TUCU-MAN",
+    "artist": "Maze 2K, M4X, Kotalkhan LFC",
+    "isrc": "ARQIW2303549"
+  },
+  {
+    "title": "Susy Gomitas",
+    "artist": "Jet Lag Diacromatico",
+    "isrc": "USL4R1817287"
+  },
+  {
+    "title": "Aéreos",
+    "artist": "Tercera Colina",
+    "isrc": "SE6I31954858"
+  },
+  {
+    "title": "Lobo De Mar",
+    "artist": "Natalia A.",
+    "isrc": "RUA1H2052179"
+  },
+  {
+    "title": "Broncedado",
+    "artist": "Diosque",
+    "isrc": "CLLL21300221"
+  },
+  {
+    "title": "El Vino",
+    "artist": "Carrusel",
+    "isrc": "US7VG1843748"
+  },
+  {
+    "title": "3Dxh",
+    "artist": "Senegal Grindcore Mafia",
+    "isrc": "ARF8D1700001"
+  },
+  {
+    "title": "Mate de Luna",
+    "artist": "Mientras El Lobo",
+    "isrc": "QZHZ42245941"
+  },
+  {
+    "title": "Arrebol",
+    "artist": "Mila",
+    "isrc": "usl4r1905456"
+  },
+  {
+    "title": "Bienvenidos al tren",
+    "artist": "Agustín Goytía",
+    "isrc": "USANG2123676"
+  },
+  {
+    "title": "So You Know",
+    "artist": "Boutique",
+    "isrc": "NZAW01700002"
+  },
+  {
+    "title": "Licor de Pomelo",
+    "artist": "Miguél",
+    "isrc": "USMH92377778"
+  },
+  {
+    "title": "Las Cosas Se Acomodan Solas (Remastered 2024)",
+    "artist": "Monoambiente",
+    "isrc": "AEA2M2414114"
+  },
+  {
+    "title": "Dos Lagos Bajo el Sol - 2024 Version",
+    "artist": "Nobs",
+    "isrc": "AR0OS2200033"
+  },
+  {
+    "title": "Para Mi",
+    "artist": "Los Peces Gordos",
+    "isrc": "SE5BU1950760"
+  },
+  {
+    "title": "La Maquina",
+    "artist": "Skaraway",
+    "isrc": "usdy41805080"
+  },
+  {
+    "title": "Danza Serafica",
+    "artist": "Nico Alonso, Molpo, Siesta Amarelha",
+    "isrc": "uscgj2217343"
+  },
+  {
+    "title": "Naufragio",
+    "artist": "Buffalo GIL",
+    "isrc": "GB-SMU-35-15830"
+  },
+  {
+    "title": "Cachafaz",
+    "artist": "Los Random",
+    "isrc": "GBSMU5840765"
+  },
+  {
+    "title": "Como la Esmeralda - Remasterizado",
+    "artist": "Redd",
+    "isrc": "ARDXJ2000043"
+  },
+  {
+    "title": "Expedición a las Talitas",
+    "artist": "Chakal",
+    "isrc": "UST8K1652075"
+  },
+  {
+    "title": "Coolonization",
+    "artist": "Estonia",
+    "isrc": "GBSMU5985555"
+  },
+  {
+    "title": "De Pie",
+    "artist": "El Faro Rock",
+    "isrc": "AEA0D2002468"
+  },
+  {
+    "title": "Zagrobeat",
+    "artist": "Golden Shag",
+    "isrc": "ARC571802836"
+  },
+  {
+    "title": "Amapolita",
+    "artist": "Lucas Aráoz, Luciano Ciganda",
+    "isrc": "AR9892400001"
+  },
+  {
+    "title": "Jitanjáfora",
+    "artist": "Eon Axolote",
+    "isrc": "GBSMU7794994"
+  },
+  {
+    "title": "Corazón Coraza",
+    "artist": "Molpo & Clara",
+    "isrc": "QZFZ61965721"
+  },
+  {
+    "title": "Perros",
+    "artist": "Maquillaje",
+    "isrc": "QZ5AB1999134"
+  },
+  {
+    "title": "Arroz Con Pollo",
+    "artist": "Rock and Lobos",
+    "isrc": "uscgh2015256"
+  },
+  {
+    "title": "Sin Prisa",
+    "artist": "Groove Move",
+    "isrc": "QZNJY2034453"
+  },
+  {
+    "title": "Icaro",
+    "artist": "Martin Estevez",
+    "isrc": "usl4r2139472"
+  },
+  {
+    "title": "La Puerta de Atras",
+    "artist": "Burro the Arranque",
+    "isrc": "ARDVG1900002"
+  },
+  {
+    "title": "Dame Info",
+    "artist": "Molpo",
+    "isrc": "ushm22389719"
+  },
+  {
+    "title": "Noches de Viernes",
+    "artist": "Häshtäg",
+    "isrc": "USCGJ2496573"
+  },
+  {
+    "title": "Rio",
+    "artist": "Martin Garcia Canción",
+    "isrc": "ARWQM2200006"
+  },
+  {
+    "title": "El secreto de la felicidad",
+    "artist": "Empleado",
+    "isrc": "GBSMU6059064"
+  },
+  {
+    "title": "Fishermen",
+    "artist": "Mauro Meloni, Caos Orquesta, Estela Stier",
+    "isrc": "QZGLM2096952"
+  },
+  {
+    "title": "Circo!",
+    "artist": "Facundo Chemez",
+    "isrc": "ushm91823918"
+  },
+  {
+    "title": "Alguien Más",
+    "artist": "anadiam, Santiago Maidana",
+    "isrc": "uscgh2109785"
+  },
+  {
+    "title": "María Lucrecia",
+    "artist": "Los Tigres",
+    "isrc": "GBMJG1805011"
+  },
+  {
+    "title": "Dios murió",
+    "artist": "Brujo Jaguar",
+    "isrc": "GBSMU6772710"
+  },
+  {
+    "title": "Cosas Importantes",
+    "artist": "Tuti Posse",
+    "isrc": "ARB341900008"
+  },
+  {
+    "title": "Pinto Rayo",
+    "artist": "San",
+    "isrc": "ESA122454342"
+  },
+  {
+    "title": "Invierno",
+    "artist": "La Ribera",
+    "isrc": "uscgh2097285"
+  },
+  {
+    "title": "Conspiraxión",
+    "artist": "Pablo Yurko",
+    "isrc": "USDY42444302"
+  },
+  {
+    "title": "Movió",
+    "artist": "El Ju",
+    "isrc": "AEA0Q2074045"
+  },
+  {
+    "title": "Location Unknown",
+    "artist": "Lucas Guzmán, athena, DOC",
+    "isrc": "QZFZ62099091"
+  },
+  {
+    "title": "Un Equipo De Dos",
+    "artist": "Juan Castelli",
+    "isrc": "GX3HH2341045"
+  },
+  {
+    "title": "Mi Ángel",
+    "artist": "Rajuh Shanti",
+    "isrc": "ARCFU1700001"
+  },
+  {
+    "title": "No se si sentiste",
+    "artist": "La Pineal",
+    "isrc": "GBSMU6775692"
+  },
+  {
+    "title": "Máquina De Café",
+    "artist": "Matías Ramón",
+    "isrc": "uscgj1939959"
+  },
+  {
+    "title": "El viejo guitarrista ciego",
+    "artist": "Adrian Llovera",
+    "isrc": "ARO981700010"
+  },
+  {
+    "title": "Diario Viaje Superestelar (feat. Suena con Paz)",
+    "artist": "Carlitos Saez, Suena Con Paz",
+    "isrc": "ARC6S1900001"
+  },
+  {
+    "title": "Amor y Desamor",
+    "artist": "Juanchy",
+    "isrc": "QZHN81949426"
+  },
+  {
+    "title": "Fuego",
+    "artist": "Llueve en Marte",
+    "isrc": "QZNWT2175997"
+  },
+  {
+    "title": "La Crecida",
+    "artist": "Lucas Laise",
+    "isrc": "GBSMU7500592"
+  },
+  {
+    "title": "Todo el tiempo",
+    "artist": "Martin Giusta",
+    "isrc": "ARQIW2207877"
+  },
+  {
+    "title": "Una Señal",
+    "artist": "Mr. Jack",
+    "isrc": "ARC571700553"
+  },
+  {
+    "title": "Isle",
+    "artist": "SPOILER",
+    "isrc": "GBSMU7829982"
+  },
+  {
+    "title": "Pasajeros",
+    "artist": "Te de Garúa",
+    "isrc": "ushm21898433"
+  },
+  {
+    "title": "Rastafanka",
+    "artist": "Varopolis",
+    "isrc": "USL4Q1840354"
+  },
+  {
+    "title": "canción para dios",
+    "artist": "Vera y las Bóvedas",
+    "isrc": "US3DF1853460"
+  },
+  {
+    "title": "PAVER",
+    "artist": "Viejo al Achake",
+    "isrc": "GBSMU5742007"
+  },
+  {
+    "title": "Opuestos Complementarios",
+    "artist": "Alem",
+    "isrc": "DGA052274668"
+  },
+  {
+    "title": "Fragancia New Age",
+    "artist": "El Estúpido Martes Sangriento",
+    "isrc": "QZHZ61912142"
+  },
+  {
+    "title": "La Llave del Eden",
+    "artist": "Estación Experimental",
+    "isrc": "ARDF91300007"
+  },
+  {
+    "title": "La Mutación Va a Tener Lugar (En Vivo)",
+    "artist": "Patricio García",
+    "isrc": "USDY42454443"
+  },
+  {
+    "title": "Carolina",
+    "artist": "Sipeganboys",
+    "isrc": "ushm81756166"
+  },
+  {
+    "title": "Que Se Pudra Tucumán",
+    "artist": "Los Chicles",
+    "isrc": "USCGH1755259"
+  },
+  {
+    "title": "Canción Uno",
+    "artist": "Luciana Tagliapietra",
+    "isrc": "ARY4P1611206"
+  },
+  {
+    "title": "Si Te Vas",
+    "artist": "Remedios Descarada",
+    "isrc": "ushm82181755"
+  },
+  {
+    "title": "No Problem",
+    "artist": "Roadie",
+    "isrc": "ushm81771926"
+  },
+  {
+    "title": "Ella",
+    "artist": "Los Veranos",
+    "isrc": "GBSMU6262327"
+  },
+  {
+    "title": "Marduk",
+    "artist": "Brahmans",
+    "isrc": "QZMZ92441712"
+  },
+  {
+    "title": "Viernes y Te Vas",
+    "artist": "Johny Boy",
+    "isrc": "ARA1E1700019"
+  },
+  {
+    "title": "Furia Calchaquí",
+    "artist": "Karma Sudaca",
+    "isrc": "SE5751989448"
+  },
+  {
+    "title": "WOLFGANG",
+    "artist": "Maze 2K, Yeiso, JIGBA",
+    "isrc": "ARQIW2303551"
+  },
+  {
+    "title": "Liberar Espacio",
+    "artist": "Jet Lag Diacromatico",
+    "isrc": "usdy42055733"
+  },
+  {
+    "title": "Adormecido",
+    "artist": "Tercera Colina",
+    "isrc": "SE6I31927764"
+  },
+  {
+    "title": "Murciélago",
+    "artist": "Natalia A.",
+    "isrc": "RUA1H2052180"
+  },
+  {
+    "title": "Despertar",
+    "artist": "Carrusel",
+    "isrc": "TCADD1764701"
+  },
+  {
+    "title": "¿Es Cierto Que La Vida Se Escribe Sola?",
+    "artist": "Diosque",
+    "isrc": "AR6B52400052"
+  },
+  {
+    "title": "Toda la Grela",
+    "artist": "Senegal Grindcore Mafia",
+    "isrc": "ARC571502472"
+  },
+  {
+    "title": "Déjalo Ser",
+    "artist": "Mientras El Lobo",
+    "isrc": "QZMZ92077573"
+  },
+  {
+    "title": "El Camino",
+    "artist": "Agustín Goytía",
+    "isrc": "ARA501900203"
+  },
+  {
+    "title": "Doubles",
+    "artist": "Boutique",
+    "isrc": "FR59R1660416"
+  },
+  {
+    "title": "Desmedida",
+    "artist": "Mila",
+    "isrc": "usl4q1831106"
+  },
+  {
+    "title": "Emotional Plateau",
+    "artist": "Miguél",
+    "isrc": "usl4q2292395"
+  },
+  {
+    "title": "Sólo Tiene Su Deriva",
+    "artist": "Monoambiente",
+    "isrc": "ushm21847019"
+  },
+  {
+    "title": "Verde - New Version",
+    "artist": "Nobs",
+    "isrc": "AR0OS2200033"
+  },
+  {
+    "title": "Camino para Verte",
+    "artist": "Skaraway, Tifon Chavarria",
+    "isrc": "usdy41805082"
+  },
+  {
+    "title": "Tango Estelar",
+    "artist": "Buffalo GIL",
+    "isrc": "GB-SMU-35-15826"
+  },
+  {
+    "title": "Desierto de Tu Amor",
+    "artist": "Nico Alonso",
+    "isrc": "ushm81994225"
+  },
+  {
+    "title": "El Blues del Barrio Oeste II",
+    "artist": "Los Peces Gordos",
+    "isrc": "SE5BU1950762"
+  },
+  {
+    "title": "Corto Normal",
+    "artist": "Los Random",
+    "isrc": "AR8HF1400001"
+  },
+  {
+    "title": "Dedos Tristes - Remasterizado",
+    "artist": "Redd",
+    "isrc": "ARDXJ2000047"
+  },
+  {
+    "title": "Pantano",
+    "artist": "Chakal",
+    "isrc": "UST8K1652077"
+  },
+  {
+    "title": "Quiero Vivir Mi Soledad",
+    "artist": "Estonia",
+    "isrc": "GBSMU5985558"
+  },
+  {
+    "title": "Milagros Paganos",
+    "artist": "El Faro Rock",
+    "isrc": "AEA0Q1893302"
+  },
+  {
+    "title": "Mentiras",
+    "artist": "Golden Shag, PalmaRap, Bruno Solito, Mocha Rap",
+    "isrc": "ARC572001599"
+  },
+  {
+    "title": "Naranrojo",
+    "artist": "Eon Axolote",
+    "isrc": "GBSMU7794996"
+  },
+  {
+    "title": "Mis Penas",
+    "artist": "Lucas Aráoz, Ricardo Mollo",
+    "isrc": "AR9892200303"
+  },
+  {
+    "title": "Algunos Puentes",
+    "artist": "Maquillaje",
+    "isrc": "QZGLM2000678"
+  },
+  {
+    "title": "El Secreto de Sus Ojos",
+    "artist": "Rock and Lobos",
+    "isrc": "uscgh2015255"
+  },
+  {
+    "title": "Imaginario",
+    "artist": "Groove Move",
+    "isrc": "QZNJY2034454"
+  },
+  {
+    "title": "Agua y Sal",
+    "artist": "Martin Estevez",
+    "isrc": "usl4r2139478"
+  },
+  {
+    "title": "Azul Oscuro",
+    "artist": "Burro the Arranque",
+    "isrc": "ARDVG1900001"
+  },
+  {
+    "title": "Bound",
+    "artist": "Molpo, Axl Marcus",
+    "isrc": "QZES72088535"
+  },
+  {
+    "title": "A Tus Pies",
+    "artist": "Häshtäg",
+    "isrc": "QMDA72176704"
+  },
+  {
+    "title": "Punto final",
+    "artist": "Empleado",
+    "isrc": "GBSMU6059060"
+  },
+  {
+    "title": "Entonces Te Cuento",
+    "artist": "Martin Garcia Canción",
+    "isrc": "ARWQM1900004"
+  },
+  {
+    "title": "Siesta",
+    "artist": "Mauro Meloni, Caos Orquesta, Estela Stier",
+    "isrc": "QZ5AB1922298"
+  },
+  {
+    "title": "Canela",
+    "artist": "Facundo Chemez",
+    "isrc": "usl4r2074935"
+  },
+  {
+    "title": "Algún Lugar",
+    "artist": "anadiam, Santiago Maidana",
+    "isrc": "usdy42030006"
+  },
+  {
+    "title": "Lunadei",
+    "artist": "Alem",
+    "isrc": "FRX282494345"
+  },
+  {
+    "title": "Hojas Muertas en Paris",
+    "artist": "El Estúpido Martes Sangriento",
+    "isrc": "ARA1E1700011"
+  },
+  {
+    "title": "No Debo",
+    "artist": "Estación Experimental",
+    "isrc": "ARDF91300003"
+  },
+  {
+    "title": "En el Feudo (En Vivo)",
+    "artist": "Patricio García",
+    "isrc": "USDY42454445"
+  },
+  {
+    "title": "Ruta",
+    "artist": "Sipeganboys",
+    "isrc": "ushm81756169"
+  },
+  {
+    "title": "Billy",
+    "artist": "Los Chicles",
+    "isrc": "USCGH1755257"
+  },
+  {
+    "title": "Escala",
+    "artist": "Luciana Tagliapietra",
+    "isrc": "ARY4P1660001"
+  },
+  {
+    "title": "No Soy",
+    "artist": "Remedios Descarada",
+    "isrc": "usl4q2290263"
+  },
+  {
+    "title": "7 AM",
+    "artist": "Roadie",
+    "isrc": "ushm81771928"
+  },
+  {
+    "title": "Ojos Sin Rostro",
+    "artist": "Los Veranos",
+    "isrc": "ARW731670013"
+  },
+  {
+    "title": "En el Puente",
+    "artist": "Johny Boy",
+    "isrc": "ARA1E1700018"
+  },
+  {
+    "title": "Batalla",
+    "artist": "Brahmans",
+    "isrc": "QZMZ92441715"
+  },
+  {
+    "title": "Fantasma Urbano",
+    "artist": "Karma Sudaca",
+    "isrc": "SE5751989451"
+  },
+  {
+    "title": "SUMMERTIME",
+    "artist": "Maze 2K, Emiliano Vega, Cepeda Beats",
+    "isrc": "ARQIW2303562"
+  },
+  {
+    "title": "Cruzar de Libertad",
+    "artist": "Jet Lag Diacromatico",
+    "isrc": "ushm81601248"
+  },
+  {
+    "title": "Cadillal",
+    "artist": "Tercera Colina",
+    "isrc": "SE6I31954863"
+  },
+  {
+    "title": "Ballena",
+    "artist": "Natalia A.",
+    "isrc": "AEA0Q2101279"
+  },
+  {
+    "title": "Tan Lejos",
+    "artist": "Carrusel",
+    "isrc": "TCADD1764688"
+  },
+  {
+    "title": "Está Estallada",
+    "artist": "Senegal Grindcore Mafia",
+    "isrc": "ARF8D1700003"
+  },
+  {
+    "title": "Trastorno de Personalidad",
+    "artist": "Diosque, Sara Hebe",
+    "isrc": "AR6B52100071"
+  },
+  {
+    "title": "El Naufragio y Dios",
+    "artist": "Mientras El Lobo",
+    "isrc": "QZMZ92077582"
+  },
+  {
+    "title": "Geografía Existencial",
+    "artist": "Agustín Goytía",
+    "isrc": "ARA502100130"
+  },
+  {
+    "title": "Move",
+    "artist": "Boutique",
+    "isrc": "FR59R1660415"
+  },
+  {
+    "title": "Su Payita",
+    "artist": "Miguél",
+    "isrc": "USMH92377779"
+  },
+  {
+    "title": "Lista de Deseos",
+    "artist": "Mila",
+    "isrc": "uscgj1987239"
+  },
+  {
+    "title": "X Distante",
+    "artist": "Monoambiente",
+    "isrc": "ushm21847018"
+  }
+]

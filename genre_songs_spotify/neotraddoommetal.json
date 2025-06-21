@@ -1,0 +1,827 @@
+[
+  {
+    "title": "Chant of Shadows",
+    "artist": "Cardinals Folly",
+    "isrc": "USA2P1470909"
+  },
+  {
+    "title": "The Fallacy",
+    "artist": "Altar Of Oblivion",
+    "isrc": "DKC0B2300302"
+  },
+  {
+    "title": "Grave Dance",
+    "artist": "Iron Void",
+    "isrc": "QZTB62245418"
+  },
+  {
+    "title": "World Spins Out of Key",
+    "artist": "Crowned in Earth",
+    "isrc": "ITV111214803"
+  },
+  {
+    "title": "No Remembrance",
+    "artist": "Khthon",
+    "isrc": "usx9p1092811"
+  },
+  {
+    "title": "She Left in Silence",
+    "artist": "Wheel",
+    "isrc": "ITI292100904"
+  },
+  {
+    "title": "Catacomb",
+    "artist": "Cold Mourning",
+    "isrc": "US4XR1134101"
+  },
+  {
+    "title": "Satan in Starlight",
+    "artist": "Pale Divine",
+    "isrc": "ITI292001402"
+  },
+  {
+    "title": "Skeletons Party",
+    "artist": "Sesta Marconi",
+    "isrc": "usx9p0966342"
+  },
+  {
+    "title": "Amaranthine (Wandering Dreamer)",
+    "artist": "Funeral Circle",
+    "isrc": "USKUT1307902"
+  },
+  {
+    "title": "Sorrow My Name",
+    "artist": "Well of Souls",
+    "isrc": "ushm91226214"
+  },
+  {
+    "title": "Diogene",
+    "artist": "L'Impero Delle Ombre",
+    "isrc": "ITV111013002"
+  },
+  {
+    "title": "Salem",
+    "artist": "The Hounds of Hasselvander",
+    "isrc": "ITV111114206"
+  },
+  {
+    "title": "Sigma Draconis",
+    "artist": "Nomad Son",
+    "isrc": "MTA181000002"
+  },
+  {
+    "title": "A Forest Mass",
+    "artist": "Zess",
+    "isrc": "DEBL61046535"
+  },
+  {
+    "title": "The Sin and Doom of Godless Men",
+    "artist": "Gallow God",
+    "isrc": "usx9p1048389"
+  },
+  {
+    "title": "The Raven Will Not Return",
+    "artist": "Void Moon",
+    "isrc": "usx9p2033332"
+  },
+  {
+    "title": "El Diablo",
+    "artist": "Condenados",
+    "isrc": "usl4q2269852"
+  },
+  {
+    "title": "An Echo From Beyond",
+    "artist": "Averon",
+    "isrc": "SEYOK1302609"
+  },
+  {
+    "title": "Father",
+    "artist": "Fangtooth",
+    "isrc": "CH6542063402"
+  },
+  {
+    "title": "A National Acrobat",
+    "artist": "Northwinds",
+    "isrc": "FR6V81079540"
+  },
+  {
+    "title": "The Music of Despair",
+    "artist": "Dawn Of Winter",
+    "isrc": "DER370860401"
+  },
+  {
+    "title": "Suicide",
+    "artist": "Witchfield",
+    "isrc": "ITV112224301"
+  },
+  {
+    "title": "El Sueño del Condor",
+    "artist": "Reino Ermitaño",
+    "isrc": "SE3TG1302202"
+  },
+  {
+    "title": "Blood Curse",
+    "artist": "Evangelist",
+    "isrc": "DEZ651302165"
+  },
+  {
+    "title": "Sisters",
+    "artist": "Obsidian Sea",
+    "isrc": "USY252163811"
+  },
+  {
+    "title": "Call To Satan",
+    "artist": "Hour Of 13",
+    "isrc": "GB-SMU-32-06611"
+  },
+  {
+    "title": "Devil Worship Reckoning",
+    "artist": "Hooded Priest",
+    "isrc": "FR6V81150589"
+  },
+  {
+    "title": "Endistancement By the Null Position",
+    "artist": "Heathendom",
+    "isrc": "uscgh1163753"
+  },
+  {
+    "title": "Nonprofundi",
+    "artist": "Memory Driven",
+    "isrc": "ushm22062799"
+  },
+  {
+    "title": "Winds of Vengeance",
+    "artist": "Sinister Realm",
+    "isrc": "USKUT1104601"
+  },
+  {
+    "title": "Evil River",
+    "artist": "Serpent Warning",
+    "isrc": "SE3TG1400201"
+  },
+  {
+    "title": "Obsidian Temple",
+    "artist": "Weird Light",
+    "isrc": "USKUT1611701"
+  },
+  {
+    "title": "The End Is Near",
+    "artist": "Sancta Sanctorum",
+    "isrc": "ITV111012101"
+  },
+  {
+    "title": "Ghost",
+    "artist": "Mirror Of Deception",
+    "isrc": "DEOJ90600002"
+  },
+  {
+    "title": "The Scar",
+    "artist": "Leif Edling",
+    "isrc": "USJ3V0872307"
+  },
+  {
+    "title": "Serpent Bride",
+    "artist": "Forsaken",
+    "isrc": "MTA231700002"
+  },
+  {
+    "title": "Wicked Queen",
+    "artist": "Black Oath",
+    "isrc": "DEZ651371306"
+  },
+  {
+    "title": "Warhorse",
+    "artist": "Internal Void",
+    "isrc": "ushm81259609"
+  },
+  {
+    "title": "The Black Clouds",
+    "artist": "Garden of Worm",
+    "isrc": "USKUT1003304"
+  },
+  {
+    "title": "Forever Amongst the Ruins",
+    "artist": "Dark Covenant",
+    "isrc": "FR6V81138289"
+  },
+  {
+    "title": "Roses of Winter",
+    "artist": "Paul Chain",
+    "isrc": "ITE011006624"
+  },
+  {
+    "title": "Sinking Ships",
+    "artist": "Rote Mare",
+    "isrc": "auhyb1300049"
+  },
+  {
+    "title": "Laughter of the Gods",
+    "artist": "Elliott's Keep",
+    "isrc": "TCAGJ2217349"
+  },
+  {
+    "title": "Melancholy",
+    "artist": "Run After To",
+    "isrc": "USKUT1308202"
+  },
+  {
+    "title": "An Oath Sworn on the Ashlar Stone",
+    "artist": "The Lamp of Thoth",
+    "isrc": "ushm21730626"
+  },
+  {
+    "title": "Sanctuary Demon",
+    "artist": "Doomshine",
+    "isrc": "USA371089147"
+  },
+  {
+    "title": "The Raven",
+    "artist": "Doomraiser",
+    "isrc": "FR6V80430226"
+  },
+  {
+    "title": "Warning from the Sky",
+    "artist": "Angel of Damnation",
+    "isrc": "QZB4J1805494"
+  },
+  {
+    "title": "Born to Suffer",
+    "artist": "Penance",
+    "isrc": "US4E40577702"
+  },
+  {
+    "title": "Confession",
+    "artist": "Doomenicus",
+    "isrc": "ushm81317792"
+  },
+  {
+    "title": "Behemoth",
+    "artist": "Las Cruces",
+    "isrc": "USA370304167"
+  },
+  {
+    "title": "Hammer Of Doom",
+    "artist": "Minotauri",
+    "isrc": "FIFX90701501"
+  },
+  {
+    "title": "The Unknown Rewinds",
+    "artist": "Cross Vault",
+    "isrc": "QZHN32118842"
+  },
+  {
+    "title": "When the Darkness Comes",
+    "artist": "Apostle Of Solitude",
+    "isrc": "ITI292101801"
+  },
+  {
+    "title": "Cimmerian Codex",
+    "artist": "Solstice",
+    "isrc": "UK4MC2100135"
+  },
+  {
+    "title": "Tombs of Tomorrow",
+    "artist": "Grief Collector",
+    "isrc": "QZGPA2300601"
+  },
+  {
+    "title": "Frigid Bitch",
+    "artist": "Project Armageddon",
+    "isrc": "USZZ51500704"
+  },
+  {
+    "title": "By Endurance We Conquer",
+    "artist": "Argus",
+    "isrc": "ITI291306401"
+  },
+  {
+    "title": "Trident Steel",
+    "artist": "Lucifer's Fall",
+    "isrc": "GX4R52184549"
+  },
+  {
+    "title": "Forsaken",
+    "artist": "Orodruin",
+    "isrc": "ITI291902101"
+  },
+  {
+    "title": "The Touch of Reality",
+    "artist": "The Skull",
+    "isrc": "US33R1400054"
+  },
+  {
+    "title": "Forever Sun",
+    "artist": "Alexander Scardavian",
+    "isrc": "ITI640600356"
+  },
+  {
+    "title": "Ruins",
+    "artist": "Army of Dagon",
+    "isrc": "QM4DW1594793"
+  },
+  {
+    "title": "Corrido del Tío Encinas",
+    "artist": "Brigantia",
+    "isrc": "GBMJG1716506"
+  },
+  {
+    "title": "Ryder Dreams",
+    "artist": "CHILDREN OF DOOM",
+    "isrc": "QZHN92228821"
+  },
+  {
+    "title": "Earth Flight",
+    "artist": "Earth Flight",
+    "isrc": "PHS099700258"
+  },
+  {
+    "title": "Barbaric",
+    "artist": "Grave Siesta",
+    "isrc": "USI4R1132107"
+  },
+  {
+    "title": "Hiding Mask",
+    "artist": "Horrors of the Black Museum",
+    "isrc": "USI4R1132565"
+  },
+  {
+    "title": "A Slow & Heavy Ride",
+    "artist": "Iron Hearse",
+    "isrc": "GB-SMU-16-85721"
+  },
+  {
+    "title": "Snake Den Time",
+    "artist": "Kin of Ettins",
+    "isrc": "TCAAR1041217"
+  },
+  {
+    "title": "Escape",
+    "artist": "Last Chapter",
+    "isrc": "USI4R0701214"
+  },
+  {
+    "title": "The Ancient",
+    "artist": "Seamount",
+    "isrc": "DEW271100916"
+  },
+  {
+    "title": "Doom over the World",
+    "artist": "Surtr",
+    "isrc": "FR9W11115778"
+  },
+  {
+    "title": "The Battle of Plataea",
+    "artist": "Wishdoom",
+    "isrc": "uscgj1120292"
+  },
+  {
+    "title": "Winter Light",
+    "artist": "Magic Circle",
+    "isrc": "QMBZ91589328"
+  },
+  {
+    "title": "Kingslayer",
+    "artist": "Thronehammer",
+    "isrc": "DEHW42313102"
+  },
+  {
+    "title": "Black Night",
+    "artist": "Iron Man",
+    "isrc": "USKUT0902903"
+  },
+  {
+    "title": "Centuries Asleep",
+    "artist": "Bottomless",
+    "isrc": "usdy42188439"
+  },
+  {
+    "title": "Child of Darkness",
+    "artist": "Bedemon",
+    "isrc": "TCABI1245002"
+  },
+  {
+    "title": "Astaroth",
+    "artist": "Pilgrim",
+    "isrc": "USMBR1208714"
+  },
+  {
+    "title": "Something Wicked",
+    "artist": "Earthride",
+    "isrc": "ushm21081929"
+  },
+  {
+    "title": "The Voice That Controls",
+    "artist": "Crowned in Earth",
+    "isrc": "USKUT1003602"
+  },
+  {
+    "title": "Pandora's Box",
+    "artist": "Iron Void",
+    "isrc": "QZTB62245420"
+  },
+  {
+    "title": "Luciferian",
+    "artist": "Cardinals Folly",
+    "isrc": "QMBZ92319781"
+  },
+  {
+    "title": "The Graveyard of Broken Dreams",
+    "artist": "Altar Of Oblivion",
+    "isrc": "USKUT1205602"
+  },
+  {
+    "title": "Asleep On Her Grave",
+    "artist": "Khthon",
+    "isrc": "usx9p1092814"
+  },
+  {
+    "title": "At Night They Came Upon Us",
+    "artist": "Wheel",
+    "isrc": "ITI292100901"
+  },
+  {
+    "title": "Losing My Shadow",
+    "artist": "Cold Mourning",
+    "isrc": "US4XR1134102"
+  },
+  {
+    "title": "Tyrants & Pawns (Easy Prey)",
+    "artist": "Pale Divine",
+    "isrc": "ITI292001401"
+  },
+  {
+    "title": "Rock And Roll Voodoo Style",
+    "artist": "Sesta Marconi",
+    "isrc": "usx9p0966344"
+  },
+  {
+    "title": "Scion of Infinity",
+    "artist": "Funeral Circle",
+    "isrc": "USKUT1307901"
+  },
+  {
+    "title": "Sanity's Lie",
+    "artist": "Well of Souls",
+    "isrc": "ushm91226218"
+  },
+  {
+    "title": "In Morte di Buono Legnani - La Casa dalle Finestre che Ridono",
+    "artist": "L'Impero Delle Ombre",
+    "isrc": "ITV112023104"
+  },
+  {
+    "title": "Heavier Than You",
+    "artist": "The Hounds of Hasselvander",
+    "isrc": "ITV111114202"
+  },
+  {
+    "title": "Shallow Grave",
+    "artist": "Nomad Son",
+    "isrc": "usx9p1069082"
+  },
+  {
+    "title": "Black Arcadia",
+    "artist": "Zess",
+    "isrc": "DEBL61046536"
+  },
+  {
+    "title": "The Emissary",
+    "artist": "Gallow God",
+    "isrc": "usx9p1048390"
+  },
+  {
+    "title": "The Autumn Throne",
+    "artist": "Void Moon",
+    "isrc": "usx9p2033335"
+  },
+  {
+    "title": "Jinete Ácido",
+    "artist": "Condenados",
+    "isrc": "usl4q2269854"
+  },
+  {
+    "title": "At The Bridge Of Life",
+    "artist": "Averon",
+    "isrc": "SEYOK1302610"
+  },
+  {
+    "title": "The Eye of God",
+    "artist": "Fangtooth",
+    "isrc": "CH6542063350"
+  },
+  {
+    "title": "Great God Pan",
+    "artist": "Northwinds",
+    "isrc": "FR6V81079538"
+  },
+  {
+    "title": "A Dream Within a Dream",
+    "artist": "Dawn Of Winter",
+    "isrc": "SE3TG1800401"
+  },
+  {
+    "title": "Bruxa",
+    "artist": "Witchfield",
+    "isrc": "ITV112224303"
+  },
+  {
+    "title": "Pain and Rapture",
+    "artist": "Evangelist",
+    "isrc": "DEZ651302166"
+  },
+  {
+    "title": "El Sol tras la Niebla",
+    "artist": "Reino Ermitaño",
+    "isrc": "QM4TW1950757"
+  },
+  {
+    "title": "The Birth Of Fear",
+    "artist": "Obsidian Sea",
+    "isrc": "USY251838915"
+  },
+  {
+    "title": "Mrs Satan",
+    "artist": "Hooded Priest",
+    "isrc": "FR6V81150587"
+  },
+  {
+    "title": "Grim Reality",
+    "artist": "Hour Of 13",
+    "isrc": "GB-SMU-32-06615"
+  },
+  {
+    "title": "The Symbolist",
+    "artist": "Heathendom",
+    "isrc": "uscgh1163755"
+  },
+  {
+    "title": "Nights in White Satin",
+    "artist": "Memory Driven",
+    "isrc": "ushm22040744"
+  },
+  {
+    "title": "With Swords Held High",
+    "artist": "Sinister Realm",
+    "isrc": "USKUT1104603"
+  },
+  {
+    "title": "Luna",
+    "artist": "Serpent Warning",
+    "isrc": "SE3TG1400203"
+  },
+  {
+    "title": "Stare in the Dark",
+    "artist": "Weird Light",
+    "isrc": "USKUT1611704"
+  },
+  {
+    "title": "Black Sun",
+    "artist": "Sancta Sanctorum",
+    "isrc": "ITV111012102"
+  },
+  {
+    "title": "Splinters",
+    "artist": "Mirror Of Deception",
+    "isrc": "CH6541883109"
+  },
+  {
+    "title": "Angelic 'Til I Die",
+    "artist": "Leif Edling",
+    "isrc": "USJ3V0872309"
+  },
+  {
+    "title": "Primal Wound",
+    "artist": "Forsaken",
+    "isrc": "MTA231700004"
+  },
+  {
+    "title": "Behold the Abyss",
+    "artist": "Black Oath",
+    "isrc": "DEQN41800026"
+  },
+  {
+    "title": "Devil in Drag",
+    "artist": "Internal Void",
+    "isrc": "ushm81259610"
+  },
+  {
+    "title": "Spirits of the Dead",
+    "artist": "Garden of Worm",
+    "isrc": "USKUT1003301"
+  },
+  {
+    "title": "Ascension Denied",
+    "artist": "Dark Covenant",
+    "isrc": "FR6V81138291"
+  },
+  {
+    "title": "Eternal Winter (Bonus Track)",
+    "artist": "Rote Mare",
+    "isrc": "auhyb1300057"
+  },
+  {
+    "title": "Living Today",
+    "artist": "Paul Chain",
+    "isrc": "ITE011006664"
+  },
+  {
+    "title": "Feanor's Bane",
+    "artist": "Elliott's Keep",
+    "isrc": "TCAEZ2060990"
+  },
+  {
+    "title": "Who Cries for the Children",
+    "artist": "Run After To",
+    "isrc": "USKUT1308201"
+  },
+  {
+    "title": "I Love The Lamp",
+    "artist": "The Lamp of Thoth",
+    "isrc": "UK4MC2200385"
+  },
+  {
+    "title": "Shipwrecked At Doom Bar",
+    "artist": "Doomshine",
+    "isrc": "ushm21519105"
+  },
+  {
+    "title": "Chimera",
+    "artist": "Doomraiser",
+    "isrc": "ITM461900306"
+  },
+  {
+    "title": "Cleansed in the Fires of Satan",
+    "artist": "Angel of Damnation",
+    "isrc": "DEHY11500343"
+  },
+  {
+    "title": "Words Not Deeds",
+    "artist": "Penance",
+    "isrc": "US4E40577701"
+  },
+  {
+    "title": "Those Dreams",
+    "artist": "Doomenicus",
+    "isrc": "ushm81317791"
+  },
+  {
+    "title": "Killer Kane",
+    "artist": "Las Cruces",
+    "isrc": "USA370304168"
+  },
+  {
+    "title": "Doom On Ice",
+    "artist": "Minotauri",
+    "isrc": "FIFX90701506"
+  },
+  {
+    "title": "Golden Mending",
+    "artist": "Cross Vault",
+    "isrc": "QZHN32118841"
+  },
+  {
+    "title": "Blackest of Times",
+    "artist": "Apostle Of Solitude",
+    "isrc": "ITI291407202"
+  },
+  {
+    "title": "Hammer Of Damnation",
+    "artist": "Solstice",
+    "isrc": "UK4MC2100137"
+  },
+  {
+    "title": "The Sun Never Stays",
+    "artist": "Crowned in Earth",
+    "isrc": "USKUT1003601"
+  },
+  {
+    "title": "Living on the Earth",
+    "artist": "Iron Void",
+    "isrc": "QZTB62245419"
+  },
+  {
+    "title": "Ride Or Die 666",
+    "artist": "Cardinals Folly",
+    "isrc": "QMBZ92319780"
+  },
+  {
+    "title": "Nothing Grows From Hallowed Ground",
+    "artist": "Altar Of Oblivion",
+    "isrc": "DKC0B2300301"
+  },
+  {
+    "title": "Delirium",
+    "artist": "Cold Mourning",
+    "isrc": "US4XR2334001"
+  },
+  {
+    "title": "When the Shadow Takes You Over",
+    "artist": "Wheel",
+    "isrc": "ITI292100902"
+  },
+  {
+    "title": "Shadow's Own",
+    "artist": "Pale Divine",
+    "isrc": "ITI292001403"
+  },
+  {
+    "title": "Gruesome Woe",
+    "artist": "Sesta Marconi",
+    "isrc": "usx9p0966341"
+  },
+  {
+    "title": "Corpus of Dark Sorcery",
+    "artist": "Funeral Circle",
+    "isrc": "USKUT1307903"
+  },
+  {
+    "title": "Forsaken",
+    "artist": "Well of Souls",
+    "isrc": "ushm91226215"
+  },
+  {
+    "title": "Il Cimitero delle Anime",
+    "artist": "L'Impero Delle Ombre",
+    "isrc": "ITV112023102"
+  },
+  {
+    "title": "Coming of the King",
+    "artist": "The Hounds of Hasselvander",
+    "isrc": "ITV111114207"
+  },
+  {
+    "title": "The Vigil",
+    "artist": "Nomad Son",
+    "isrc": "MTA181000001"
+  },
+  {
+    "title": "Revenants Of War",
+    "artist": "Zess",
+    "isrc": "DEBL61046537"
+  },
+  {
+    "title": "Summon the Rune Wizard",
+    "artist": "Gallow God",
+    "isrc": "usx9p1048391"
+  },
+  {
+    "title": "Dyonisus",
+    "artist": "Void Moon",
+    "isrc": "ITV111821331"
+  },
+  {
+    "title": "El Carro y la Torre",
+    "artist": "Condenados",
+    "isrc": "usl4q2269856"
+  },
+  {
+    "title": "Caught Up By Time",
+    "artist": "Averon",
+    "isrc": "SEYOK1302635"
+  },
+  {
+    "title": "Martyr",
+    "artist": "Fangtooth",
+    "isrc": "CH6542063404"
+  },
+  {
+    "title": "Dancing In The Morgue",
+    "artist": "Northwinds",
+    "isrc": "uscgh0811632"
+  },
+  {
+    "title": "The Return of the Wicked Messiah",
+    "artist": "Witchfield",
+    "isrc": "ITV112224302"
+  },
+  {
+    "title": "Throne of Isolation",
+    "artist": "Dawn Of Winter",
+    "isrc": "DER370860406"
+  },
+  {
+    "title": "Deadspeak",
+    "artist": "Evangelist",
+    "isrc": "DEZ651302167"
+  },
+  {
+    "title": "Desangrándote",
+    "artist": "Reino Ermitaño",
+    "isrc": "SE3TG1302204"
+  },
+  {
+    "title": "Lament The Death Of Wonder",
+    "artist": "Obsidian Sea",
+    "isrc": "USY252163809"
+  },
+  {
+    "title": "These Skies Must Break",
+    "artist": "Hooded Priest",
+    "isrc": "SE3TG1700703"
+  },
+  {
+    "title": "Alternate Sickness",
+    "artist": "Heathendom",
+    "isrc": "uscgh1163754"
+  }
+]

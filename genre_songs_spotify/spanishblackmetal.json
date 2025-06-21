@@ -1,0 +1,717 @@
+[
+  {
+    "title": "Carrion Heart",
+    "artist": "Balmog",
+    "isrc": "DELS42110208"
+  },
+  {
+    "title": "Black Vertebrae",
+    "artist": "Teitanblood",
+    "isrc": "FXQ111900028"
+  },
+  {
+    "title": "Hades Vision",
+    "artist": "Dantalion",
+    "isrc": "QZXLZ2316493"
+  },
+  {
+    "title": "Inclination Towards Decay",
+    "artist": "Empty",
+    "isrc": "QZTB22232831"
+  },
+  {
+    "title": "Cherokee Firestorm",
+    "artist": "Barbarian Swords",
+    "isrc": "USCGJ2488117"
+  },
+  {
+    "title": "Delirio Funerario",
+    "artist": "Cryfemal",
+    "isrc": "USASN1600722"
+  },
+  {
+    "title": "Autumn Legacy Underlying the Cold's Caress",
+    "artist": "Perennial Isolation",
+    "isrc": "ESA012105658"
+  },
+  {
+    "title": "When the Sun Shall Die",
+    "artist": "Ouija",
+    "isrc": "GBDHS0995991"
+  },
+  {
+    "title": "Lautada izoztuetan",
+    "artist": "Numen",
+    "isrc": "FR9W11904268"
+  },
+  {
+    "title": "The Weaver of Tendons",
+    "artist": "Aversio Humanitatis",
+    "isrc": "FR9W11933418"
+  },
+  {
+    "title": "Through the Black Gates",
+    "artist": "Ered",
+    "isrc": "ESA012297962"
+  },
+  {
+    "title": "Pilgrim God",
+    "artist": "Hrizg",
+    "isrc": "USGE32431501"
+  },
+  {
+    "title": "Aio Iparreko Lurra",
+    "artist": "Nakkiga",
+    "isrc": "USI4R1202644"
+  },
+  {
+    "title": "Yersinia Pestis",
+    "artist": "Spellcraft",
+    "isrc": "QMFME1304707"
+  },
+  {
+    "title": "Escarnio, Maldizer e Morte",
+    "artist": "Xerión",
+    "isrc": "QM4TW1726322"
+  },
+  {
+    "title": "Ciutat Tràgica",
+    "artist": "Foscor",
+    "isrc": "FR33T1742002"
+  },
+  {
+    "title": "Sharpen Your Spikes",
+    "artist": "Korgull the Exterminator",
+    "isrc": "QM7282044294"
+  },
+  {
+    "title": "I AM ALPHA",
+    "artist": "Noctem",
+    "isrc": "USKO12200197"
+  },
+  {
+    "title": "Embrace Me Darkness",
+    "artist": "Primigenium",
+    "isrc": "USBW80610414"
+  },
+  {
+    "title": "Tremolos Adoration in Blasphemy",
+    "artist": "Profundis Tenebrarum",
+    "isrc": "UK-CVA-17-00115"
+  },
+  {
+    "title": "Waters of Tomorrow - Woods of Yesterday",
+    "artist": "Lux Divina",
+    "isrc": "FR10S1740019"
+  },
+  {
+    "title": "Oscuro Culto Blasfemo",
+    "artist": "Wargoatcult",
+    "isrc": "USI4R1202632"
+  },
+  {
+    "title": "Enigma Signals",
+    "artist": "Altarage",
+    "isrc": "UKXN22324307"
+  },
+  {
+    "title": "The White Tower",
+    "artist": "Uruk-Hai",
+    "isrc": "QM6N21404255"
+  },
+  {
+    "title": "Metal ¡Enajenación!",
+    "artist": "Muert",
+    "isrc": "ESA011533992"
+  },
+  {
+    "title": "Frozen Kings",
+    "artist": "Frozen Dawn",
+    "isrc": "QMARG2150580"
+  },
+  {
+    "title": "Unholy execution",
+    "artist": "Godüs",
+    "isrc": "FR4E60810010"
+  },
+  {
+    "title": "The Shortest Doom for the Hanged in a Silk Thread",
+    "artist": "Aboriorth",
+    "isrc": "USI4R1200009"
+  },
+  {
+    "title": "The Morbid Earth",
+    "artist": "Yskelgroth",
+    "isrc": "CH6542316675"
+  },
+  {
+    "title": "Misanthrope's Aurora",
+    "artist": "Beelzeb",
+    "isrc": "USI4R1200155"
+  },
+  {
+    "title": "Demonic lord of war",
+    "artist": "Daemonlord",
+    "isrc": "GX8KD2370087"
+  },
+  {
+    "title": "Sangue e Noite",
+    "artist": "Sartegos",
+    "isrc": "QMFME1973763"
+  },
+  {
+    "title": "F.E.A.L.",
+    "artist": "Cryptic Wanderings",
+    "isrc": "USQY51753552"
+  },
+  {
+    "title": "Himno a Las Llamas",
+    "artist": "Khmer, Livstid",
+    "isrc": "USA2P1554726"
+  },
+  {
+    "title": "Serendipity",
+    "artist": "Kalte Sonne",
+    "isrc": "QM7281798188"
+  },
+  {
+    "title": "Fall and Rise",
+    "artist": "Insaniam",
+    "isrc": "ESA081701232"
+  },
+  {
+    "title": "My Suicide",
+    "artist": "13TRL",
+    "isrc": "UKCVA1800587"
+  },
+  {
+    "title": "Darkened Blood",
+    "artist": "ABSENTA",
+    "isrc": "QMDA61546717"
+  },
+  {
+    "title": "Beta Exura",
+    "artist": "Apoclibbon Doshol",
+    "isrc": "ESA012185092"
+  },
+  {
+    "title": "Aversion & Hopelessness IV (Elements)",
+    "artist": "Aversion To Mankind, Hopeless",
+    "isrc": "GBSMU0054781"
+  },
+  {
+    "title": "Frozen Mountain",
+    "artist": "BittenCross",
+    "isrc": "USQY51118064"
+  },
+  {
+    "title": "Venite, Lucifer",
+    "artist": "Chains Ov Beleth",
+    "isrc": "TCACG1592580"
+  },
+  {
+    "title": "Circle",
+    "artist": "Chayoth Ha Kadesh",
+    "isrc": "UK-CVA-17-02262"
+  },
+  {
+    "title": "Délirant I",
+    "artist": "Délirant",
+    "isrc": "GBSMU7294335"
+  },
+  {
+    "title": "Kill for the Crown",
+    "artist": "EDENKAISER",
+    "isrc": "SEYOK1413852"
+  },
+  {
+    "title": "Abomination - MMVIII",
+    "artist": "Eldereon",
+    "isrc": "USI4R0914966"
+  },
+  {
+    "title": "Under Magnetic Sleep",
+    "artist": "Emanation",
+    "isrc": "UK4ZY1302001"
+  },
+  {
+    "title": "Tormenta De Sangre",
+    "artist": "Ethreum",
+    "isrc": "BGA261099408"
+  },
+  {
+    "title": "Serpent I",
+    "artist": "Fathomhell",
+    "isrc": "GB-SMU-19-93812"
+  },
+  {
+    "title": "Wrathful",
+    "artist": "Firesword",
+    "isrc": "QM6MZ1855659"
+  },
+  {
+    "title": "The Awakening of Lord Strigoi",
+    "artist": "Gothmog",
+    "isrc": "USI4R0911193"
+  },
+  {
+    "title": "Thus Spake The Stone",
+    "artist": "Grimah",
+    "isrc": "SE5BU1972873"
+  },
+  {
+    "title": "Moon's Crust",
+    "artist": "Hyban Draco",
+    "isrc": "GBKLB1192077"
+  },
+  {
+    "title": "The Dark Tower",
+    "artist": "Inferitvm",
+    "isrc": "usdy42208861"
+  },
+  {
+    "title": "Deus Mortuus Est",
+    "artist": "Infernal Funeral",
+    "isrc": "USI4R0915003"
+  },
+  {
+    "title": "Acrasia",
+    "artist": "Insatiable Ouroboros",
+    "isrc": "GB-SMU-20-22127"
+  },
+  {
+    "title": "Pater Nostre Satana",
+    "artist": "Licurgo",
+    "isrc": "UK-CVA-17-00254"
+  },
+  {
+    "title": "Infernal Ritual Massacre",
+    "artist": "Marthyrium",
+    "isrc": "USI4R0914982"
+  },
+  {
+    "title": "Black Magik Iberia",
+    "artist": "Natrium Muriaticum",
+    "isrc": "USI4R0915005"
+  },
+  {
+    "title": "Mar de Sangre",
+    "artist": "Occultum Lapidem",
+    "isrc": "USI4R0914985"
+  },
+  {
+    "title": "Ha-Shatán",
+    "artist": "Porfiria 666",
+    "isrc": "USV351445187"
+  },
+  {
+    "title": "Chaos or Death",
+    "artist": "Shroud",
+    "isrc": "USI4R1200177"
+  },
+  {
+    "title": "Crown of Chaos",
+    "artist": "Suspiral",
+    "isrc": "IT0501602365"
+  },
+  {
+    "title": "In the Darkness of Faith",
+    "artist": "Svipdagr",
+    "isrc": "QMFMF1441504"
+  },
+  {
+    "title": "Wrath",
+    "artist": "The Art of Blasphemy",
+    "isrc": "USI4R0915000"
+  },
+  {
+    "title": "Grief",
+    "artist": "The Downspiral to Hell",
+    "isrc": "QMFME2141738"
+  },
+  {
+    "title": "The Cup from My Hand, the Sword I am Sending",
+    "artist": "The Last Twilight",
+    "isrc": "USI4R1221113"
+  },
+  {
+    "title": "Let Me Die on Your Roots",
+    "artist": "Trees, Clouds & Silence",
+    "isrc": "usdy41826668"
+  },
+  {
+    "title": "…Of Gardens & Evokations",
+    "artist": "Unbegotten",
+    "isrc": "USA2P1687218"
+  },
+  {
+    "title": "Hanging Despair",
+    "artist": "Vallum",
+    "isrc": "UK-CVA-17-01722"
+  },
+  {
+    "title": "A Path of Evil Thoughts",
+    "artist": "Virium",
+    "isrc": "UK-CVA-15-00090"
+  },
+  {
+    "title": "I Thought I'd Woken",
+    "artist": "Wrong",
+    "isrc": "QM6MZ1405461"
+  },
+  {
+    "title": "Birth of Feral Master",
+    "artist": "Balmog",
+    "isrc": "DELS42110202"
+  },
+  {
+    "title": "Whore Mass",
+    "artist": "Teitanblood",
+    "isrc": "QZ5FN1864250"
+  },
+  {
+    "title": "Qayin Dominor Tumulus",
+    "artist": "Dantalion",
+    "isrc": "QZXLZ2316491"
+  },
+  {
+    "title": "The Bleakness of Elderness",
+    "artist": "Empty",
+    "isrc": "QZTB22232832"
+  },
+  {
+    "title": "Six Feet of Justice",
+    "artist": "Barbarian Swords",
+    "isrc": "USCGJ2488118"
+  },
+  {
+    "title": "Necrocaina",
+    "artist": "Cryfemal",
+    "isrc": "QZXLZ2356028"
+  },
+  {
+    "title": "The Breathless Season Bane",
+    "artist": "Perennial Isolation",
+    "isrc": "ESA012105659"
+  },
+  {
+    "title": "Unbridled Transylvanian Passion",
+    "artist": "Ouija",
+    "isrc": "GBDHS0995913"
+  },
+  {
+    "title": "Iluntasuna soilik",
+    "artist": "Numen",
+    "isrc": "FR9W11904267"
+  },
+  {
+    "title": "Ancient Abominations",
+    "artist": "Ered",
+    "isrc": "DEZ901501795"
+  },
+  {
+    "title": "Once Fallen",
+    "artist": "Hrizg",
+    "isrc": "USGE32431502"
+  },
+  {
+    "title": "The Presence in the Mist",
+    "artist": "Aversio Humanitatis",
+    "isrc": "FR9W11933419"
+  },
+  {
+    "title": "Utuk'ku",
+    "artist": "Nakkiga",
+    "isrc": "USI4R1202646"
+  },
+  {
+    "title": "Alone in the Eternity",
+    "artist": "Spellcraft",
+    "isrc": "QMFME1304706"
+  },
+  {
+    "title": "Penitencia",
+    "artist": "Xerión",
+    "isrc": "QM4TW1726323"
+  },
+  {
+    "title": "Altars",
+    "artist": "Foscor",
+    "isrc": "FR33T1742003"
+  },
+  {
+    "title": "Devoted to Death",
+    "artist": "Korgull the Exterminator",
+    "isrc": "USI4R0911073"
+  },
+  {
+    "title": "Black Sword Of Vengeance",
+    "artist": "Primigenium",
+    "isrc": "USBW80610415"
+  },
+  {
+    "title": "Sulphur",
+    "artist": "Noctem",
+    "isrc": "ES71G1934817"
+  },
+  {
+    "title": "Sorrowful Moon (II)",
+    "artist": "Profundis Tenebrarum",
+    "isrc": "UK-CVA-17-00122"
+  },
+  {
+    "title": "After Great Pain",
+    "artist": "Lux Divina",
+    "isrc": "DEZ901300517"
+  },
+  {
+    "title": "Reino DE Satanas",
+    "artist": "Wargoatcult",
+    "isrc": "USI4R1202631"
+  },
+  {
+    "title": "Magno Evento",
+    "artist": "Altarage",
+    "isrc": "FR33T2112202"
+  },
+  {
+    "title": "Elysium",
+    "artist": "Uruk-Hai",
+    "isrc": "BGA671166303"
+  },
+  {
+    "title": "Burial in the Forest",
+    "artist": "Muert",
+    "isrc": "QMFME1315665"
+  },
+  {
+    "title": "Nekkro",
+    "artist": "Godüs",
+    "isrc": "FR4E60810030"
+  },
+  {
+    "title": "Mystic Fires of Dark Allegiance",
+    "artist": "Frozen Dawn",
+    "isrc": "QMARG2150577"
+  },
+  {
+    "title": "The Truth Given in Gold Vessels and Beggar Hands",
+    "artist": "Aboriorth",
+    "isrc": "USI4R1200007"
+  },
+  {
+    "title": "Prone to Gobble Life",
+    "artist": "Yskelgroth",
+    "isrc": "CH6542316677"
+  },
+  {
+    "title": "Mislaid in the Weird Labyrinth of Mirrors",
+    "artist": "Beelzeb",
+    "isrc": "USI4R1200151"
+  },
+  {
+    "title": "Rifles and Hammers",
+    "artist": "Daemonlord",
+    "isrc": "GX8KD2316038"
+  },
+  {
+    "title": "Baphomet No Rashulmat",
+    "artist": "Sartegos",
+    "isrc": "QMFME1973769"
+  },
+  {
+    "title": "The Perpetual False Martyr",
+    "artist": "Cryptic Wanderings",
+    "isrc": "USQY51753549"
+  },
+  {
+    "title": "Under Black Waters",
+    "artist": "Khmer",
+    "isrc": "QM6MZ1567014"
+  },
+  {
+    "title": "P3X-7763",
+    "artist": "Kalte Sonne",
+    "isrc": "GX8KD2427647"
+  },
+  {
+    "title": "Homo insecta",
+    "artist": "Insaniam",
+    "isrc": "ESA082000834"
+  },
+  {
+    "title": "Erik the Arrival",
+    "artist": "13TRL",
+    "isrc": "UKCVA1800583"
+  },
+  {
+    "title": "You Left Me Dry",
+    "artist": "ABSENTA",
+    "isrc": "QMDA61546711"
+  },
+  {
+    "title": "Binary Psi Zariah",
+    "artist": "Apoclibbon Doshol",
+    "isrc": "ESA012185096"
+  },
+  {
+    "title": "Aversion & Hopelessness III (The Futility of Feeling)",
+    "artist": "Aversion To Mankind, Hopeless",
+    "isrc": "GBSMU0054780"
+  },
+  {
+    "title": "Twisted Betray Of Fate",
+    "artist": "BittenCross",
+    "isrc": "USQY51118055"
+  },
+  {
+    "title": "Born of the Dragon",
+    "artist": "Chains Ov Beleth",
+    "isrc": "TCACG1592574"
+  },
+  {
+    "title": "Triangle",
+    "artist": "Chayoth Ha Kadesh",
+    "isrc": "UK-CVA-17-02264"
+  },
+  {
+    "title": "Délirant II",
+    "artist": "Délirant",
+    "isrc": "GBSMU7294336"
+  },
+  {
+    "title": "Quintessential Ectenic Psychode",
+    "artist": "Emanation",
+    "isrc": "UK4ZY1302003"
+  },
+  {
+    "title": "Delirium",
+    "artist": "Ethreum",
+    "isrc": "BGA261099410"
+  },
+  {
+    "title": "Vigil of the Blinds",
+    "artist": "Balmog",
+    "isrc": "DELS41808204"
+  },
+  {
+    "title": "Anteinfierno",
+    "artist": "Teitanblood",
+    "isrc": "QZ5FN1863605"
+  },
+  {
+    "title": "Ode to Nothingness",
+    "artist": "Dantalion",
+    "isrc": "SE3FF1300305"
+  },
+  {
+    "title": "Hungry For Emptiness",
+    "artist": "Empty",
+    "isrc": "QZTB22232833"
+  },
+  {
+    "title": "Negro Metal",
+    "artist": "Cryfemal",
+    "isrc": "USASN1600726"
+  },
+  {
+    "title": "Tancredus, Smash!!",
+    "artist": "Barbarian Swords",
+    "isrc": "USCGJ2488119"
+  },
+  {
+    "title": "Unceasing Sorrows from the Vastness' Scion",
+    "artist": "Perennial Isolation",
+    "isrc": "ESA012105660"
+  },
+  {
+    "title": "Crossing the Seventh Gate",
+    "artist": "Ouija",
+    "isrc": "GBDHS0995912"
+  },
+  {
+    "title": "Egunsentiaren heriotza",
+    "artist": "Numen, Ametsgaizto, Lander",
+    "isrc": "FR9W11118661"
+  },
+  {
+    "title": "Crawling Through the Fog",
+    "artist": "Ered",
+    "isrc": "ESA012297961"
+  },
+  {
+    "title": "As I Forgot your Names",
+    "artist": "Hrizg",
+    "isrc": "USGE32431503"
+  },
+  {
+    "title": "Illuntasunaren Esturan",
+    "artist": "Nakkiga",
+    "isrc": "USI4R1202645"
+  },
+  {
+    "title": "The Wanderer of Abstract Paths",
+    "artist": "Aversio Humanitatis",
+    "isrc": "FR9W11933421"
+  },
+  {
+    "title": "Lilith's Breath",
+    "artist": "Spellcraft",
+    "isrc": "QMFME1304709"
+  },
+  {
+    "title": "Nocturnal Misantropía",
+    "artist": "Xerión",
+    "isrc": "DEDL10806002"
+  },
+  {
+    "title": "Cel Rogent",
+    "artist": "Foscor",
+    "isrc": "FR33T1952305"
+  },
+  {
+    "title": "Prophecy of Black Blood",
+    "artist": "Korgull the Exterminator",
+    "isrc": "QM7282044292"
+  },
+  {
+    "title": "Shall The Forest Open For Us",
+    "artist": "Primigenium",
+    "isrc": "USBW80610416"
+  },
+  {
+    "title": "The Black Consecration",
+    "artist": "Noctem",
+    "isrc": "ES71G1924390"
+  },
+  {
+    "title": "Wounds of Heaven",
+    "artist": "Profundis Tenebrarum",
+    "isrc": "UK-CVA-17-00117"
+  },
+  {
+    "title": "The Hidden Treetops",
+    "artist": "Lux Divina",
+    "isrc": "FR10S1740018"
+  },
+  {
+    "title": "Black Metal Para Satanas",
+    "artist": "Wargoatcult",
+    "isrc": "USI4R1202633"
+  },
+  {
+    "title": "Case Full of Putrid Stars",
+    "artist": "Altarage",
+    "isrc": "UKXN22324308"
+  },
+  {
+    "title": "Back In The Fields",
+    "artist": "Uruk-Hai",
+    "isrc": "BGA671166306"
+  },
+  {
+    "title": "Olor a Muert",
+    "artist": "Muert",
+    "isrc": "QM6N21736270"
+  }
+]

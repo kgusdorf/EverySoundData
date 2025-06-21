@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Tan Lejanos",
+    "artist": "BIGGER",
+    "isrc": "ARM441500004"
+  },
+  {
+    "title": "Último en la tierra",
+    "artist": "Carroña Sharong",
+    "isrc": "ARNDT1600004"
+  },
+  {
+    "title": "Voces de lo Incierto",
+    "artist": "Jhon Mutante",
+    "isrc": "QZWFG2377958"
+  },
+  {
+    "title": "Incierto",
+    "artist": "DIK",
+    "isrc": "AR5LM2100003"
+  },
+  {
+    "title": "Long Time",
+    "artist": "EnferMa",
+    "isrc": "GX3HH2198279"
+  },
+  {
+    "title": "Chacal",
+    "artist": "21 Gramos",
+    "isrc": "SEYOK1821276"
+  },
+  {
+    "title": "Tensa Calma",
+    "artist": "Tipo Idiota",
+    "isrc": "GBSMU8309811"
+  },
+  {
+    "title": "Eterna Ley",
+    "artist": "Demian Leví",
+    "isrc": "AR6AY1800183"
+  },
+  {
+    "title": "Nectar",
+    "artist": "Pajaro Negro",
+    "isrc": "ushm91966685"
+  },
+  {
+    "title": "ANUBIZ",
+    "artist": "GURI, Marilina Bertoldi",
+    "isrc": "SEYOK1739097"
+  },
+  {
+    "title": "Rompiendo el Aire",
+    "artist": "Sangre Activa",
+    "isrc": "usdy42055619"
+  },
+  {
+    "title": "Pensar Bien",
+    "artist": "Connor Questa",
+    "isrc": "ARG1Q1300002"
+  },
+  {
+    "title": "Irreversible",
+    "artist": "Cazacuervos",
+    "isrc": "uscgj1916241"
+  },
+  {
+    "title": "Campo de Batalla",
+    "artist": "Flannel",
+    "isrc": "QZHZ31967579"
+  },
+  {
+    "title": "Nada",
+    "artist": "Gusanos De Marte",
+    "isrc": "AEA0D1962484"
+  },
+  {
+    "title": "Alter Ego",
+    "artist": "Blesterbol",
+    "isrc": "QZ5AB1945947"
+  },
+  {
+    "title": "Behind",
+    "artist": "Alunacy",
+    "isrc": "GB-SMU-25-49140"
+  },
+  {
+    "title": "El Rapto",
+    "artist": "Limbo",
+    "isrc": "QZHZ32178296"
+  },
+  {
+    "title": "Feliz",
+    "artist": "Tierra Tribal",
+    "isrc": "SEYOK1843618"
+  },
+  {
+    "title": "La Soga",
+    "artist": "Le Temps Argentina",
+    "isrc": "GBSMU6112829"
+  },
+  {
+    "title": "Elástico",
+    "artist": "Armonimal",
+    "isrc": "SEYOK1945345"
+  },
+  {
+    "title": "Tu Realidad",
+    "artist": "Ñudrop",
+    "isrc": "GBSMU5936133"
+  },
+  {
+    "title": "Los Antiguos Grises",
+    "artist": "Spiritual Rebel",
+    "isrc": "usdy41927883"
+  },
+  {
+    "title": "Sangre Nativa",
+    "artist": "El Triangulo",
+    "isrc": "QZ5AB1637758"
+  },
+  {
+    "title": "Las Putas (En Vivo)",
+    "artist": "Rivothriller",
+    "isrc": "ushm91916309"
+  },
+  {
+    "title": "Unleaded",
+    "artist": "Nasty Bomb",
+    "isrc": "ARLP91800006"
+  },
+  {
+    "title": "Especiado",
+    "artist": "Face Cream",
+    "isrc": "TCABY1479943"
+  },
+  {
+    "title": "Corazón umbilical",
+    "artist": "La Cruda",
+    "isrc": "GXBDS2392958"
+  },
+  {
+    "title": "Tecnocalipsis",
+    "artist": "Las Ruinas de Santo Espiritu",
+    "isrc": "ARD9Q1700001"
+  },
+  {
+    "title": "Redemption - EP Version",
+    "artist": "Wonderpub",
+    "isrc": "GBMJG1804692"
+  },
+  {
+    "title": "Grietas",
+    "artist": "Inverso",
+    "isrc": "ushm21563791"
+  },
+  {
+    "title": "Vieja Estación",
+    "artist": "Azno",
+    "isrc": "GBSMU5927663"
+  },
+  {
+    "title": "Vas Podrido",
+    "artist": "Germens",
+    "isrc": "ushm91893963"
+  },
+  {
+    "title": "El castillo de Drácula",
+    "artist": "EXPLOTA MARTE",
+    "isrc": "GBSMU6671813"
+  },
+  {
+    "title": "Fiebre",
+    "artist": "OMELET",
+    "isrc": "QZHZ32257604"
+  },
+  {
+    "title": "Irreal",
+    "artist": "Tensionautas",
+    "isrc": "GX8LE2382408"
+  },
+  {
+    "title": "Memento Mori",
+    "artist": "Poveglia",
+    "isrc": "GBSMU4111911"
+  },
+  {
+    "title": "Esperando el alba",
+    "artist": "Los Yacu Bien Palanca",
+    "isrc": "AR0TD2200005"
+  },
+  {
+    "title": "Rosa del Inca",
+    "artist": "Argos Boa",
+    "isrc": "GB-SMU-48-36821"
+  },
+  {
+    "title": "Sabio",
+    "artist": "Azoteqa",
+    "isrc": "AEA0Q1929075"
+  },
+  {
+    "title": "Me Bronceo",
+    "artist": "Caracoltodo",
+    "isrc": "ushm91782385"
+  },
+  {
+    "title": "La Parte Azul del Fuego",
+    "artist": "Castillo",
+    "isrc": "QZHZ51973910"
+  },
+  {
+    "title": "Candelabros",
+    "artist": "Cliché",
+    "isrc": "QZES62023226"
+  },
+  {
+    "title": "Fulgor",
+    "artist": "Croxoma",
+    "isrc": "ushm22324454"
+  },
+  {
+    "title": "El Secreto",
+    "artist": "Cuarto Morbo",
+    "isrc": "QZTVM2265536"
+  },
+  {
+    "title": "Tan Real",
+    "artist": "Cuarto de Fondo",
+    "isrc": "GB-SMU-34-23596"
+  },
+  {
+    "title": "26 Días",
+    "artist": "Furia",
+    "isrc": "QZNWQ2134966"
+  },
+  {
+    "title": "Chica Sucia",
+    "artist": "Generación X",
+    "isrc": "AEA0D1982207"
+  },
+  {
+    "title": "Morir y dejar vivir",
+    "artist": "INVITRO",
+    "isrc": "GX38U2176202"
+  },
+  {
+    "title": "Habilidoso Y Santo",
+    "artist": "Jacken Lacar",
+    "isrc": "ARY4P2300290"
+  },
+  {
+    "title": "Arcangel",
+    "artist": "KHAN",
+    "isrc": "ARY4P1669001"
+  },
+  {
+    "title": "Huir de Vos",
+    "artist": "Lado D",
+    "isrc": "GX5MY2298774"
+  },
+  {
+    "title": "Solo me encontré - Sesión en Vivo",
+    "artist": "Langluá",
+    "isrc": "GX3Q92346444"
+  },
+  {
+    "title": "Impostura",
+    "artist": "Los Astros Mienten",
+    "isrc": "US7VG1969819"
+  },
+  {
+    "title": "Salvaje Instinto Asesino",
+    "artist": "Melo45",
+    "isrc": "GBSMU6504313"
+  },
+  {
+    "title": "Hole",
+    "artist": "Motherweiser",
+    "isrc": "AR0DO1800009"
+  },
+  {
+    "title": "A Mansalva",
+    "artist": "Oime",
+    "isrc": "QM7281920778"
+  },
+  {
+    "title": "Superskinny",
+    "artist": "Ontas",
+    "isrc": "usl4q1948820"
+  },
+  {
+    "title": "Mojave",
+    "artist": "Plan Secreto",
+    "isrc": "AR3852300001"
+  },
+  {
+    "title": "Efemérides",
+    "artist": "Río Místico",
+    "isrc": "QZHNB2283346"
+  },
+  {
+    "title": "Evolution",
+    "artist": "Senzu",
+    "isrc": "QZFYX1962949"
+  },
+  {
+    "title": "Despidete del Mañana",
+    "artist": "Speedball",
+    "isrc": "QZGLM2398801"
+  },
+  {
+    "title": "Seguir En Pie",
+    "artist": "TRANSISTOR",
+    "isrc": "RUA1H1736920"
+  },
+  {
+    "title": "Desquiciado",
+    "artist": "Un Sueño Kamikaze",
+    "isrc": "QZHZ41979670"
+  },
+  {
+    "title": "Grítalo",
+    "artist": "YOKOY",
+    "isrc": "AR6AY2300005"
+  },
+  {
+    "title": "Cantar fuerte",
+    "artist": "Carroña Sharong",
+    "isrc": "SEYOK2312413"
+  },
+  {
+    "title": "Mi Devolución",
+    "artist": "BIGGER",
+    "isrc": "ARM441500007"
+  },
+  {
+    "title": "Insectos",
+    "artist": "Jhon Mutante",
+    "isrc": "QZWFG2377957"
+  },
+  {
+    "title": "El Dueño del Circo",
+    "artist": "DIK",
+    "isrc": "AR5LM2100005"
+  },
+  {
+    "title": "Blow The Fire",
+    "artist": "EnferMa",
+    "isrc": "GBSMU5650046"
+  },
+  {
+    "title": "Galera",
+    "artist": "21 Gramos",
+    "isrc": "SEYOK1821274"
+  },
+  {
+    "title": "Laika",
+    "artist": "Tipo Idiota",
+    "isrc": "GBSMU9563811"
+  },
+  {
+    "title": "Queriendo",
+    "artist": "Demian Leví",
+    "isrc": "AR6AY1800189"
+  },
+  {
+    "title": "This Time",
+    "artist": "Pajaro Negro",
+    "isrc": "ushm91966687"
+  },
+  {
+    "title": "Sigo Aquí",
+    "artist": "Sangre Activa",
+    "isrc": "USCGH2449028"
+  },
+  {
+    "title": "VIEJOS VIENTOS",
+    "artist": "GURI, Luciano Villace.",
+    "isrc": "SEYOK1739098"
+  },
+  {
+    "title": "Screaming Loud",
+    "artist": "Flannel",
+    "isrc": "QZGLS1992816"
+  },
+  {
+    "title": "Cliche",
+    "artist": "Connor Questa",
+    "isrc": "ARG1Q1300007"
+  },
+  {
+    "title": "Primitivos",
+    "artist": "Gusanos De Marte",
+    "isrc": "AEA0D1962482"
+  },
+  {
+    "title": "Desequilibrarme",
+    "artist": "Cazacuervos",
+    "isrc": "uscgj1916240"
+  },
+  {
+    "title": "Que Paso Ayer?",
+    "artist": "Blesterbol",
+    "isrc": "QZ5AB1945953"
+  },
+  {
+    "title": "Goodbye",
+    "artist": "Alunacy",
+    "isrc": "AR8351700003"
+  },
+  {
+    "title": "Tiempo de Resurrección",
+    "artist": "Limbo",
+    "isrc": "QZHZ32178298"
+  },
+  {
+    "title": "Caverna",
+    "artist": "Tierra Tribal",
+    "isrc": "SEYOK1608371"
+  },
+  {
+    "title": "Aprendí a estar solo",
+    "artist": "Le Temps Argentina",
+    "isrc": "GBSMU6112827"
+  },
+  {
+    "title": "Encontrarte",
+    "artist": "Armonimal",
+    "isrc": "SEYOK1945346"
+  },
+  {
+    "title": "Resiliencia",
+    "artist": "Ñudrop",
+    "isrc": "QZHZ32289401"
+  },
+  {
+    "title": "El Umbral",
+    "artist": "Spiritual Rebel",
+    "isrc": "uscgh2238726"
+  },
+  {
+    "title": "Raíces",
+    "artist": "El Triangulo",
+    "isrc": "QZ5AB1637757"
+  },
+  {
+    "title": "Equivocada (En Vivo)",
+    "artist": "Rivothriller",
+    "isrc": "ushm91916306"
+  },
+  {
+    "title": "Burn Down the T.V",
+    "artist": "Nasty Bomb",
+    "isrc": "ARLP91800004"
+  },
+  {
+    "title": "El Jinete",
+    "artist": "Las Ruinas de Santo Espiritu",
+    "isrc": "ARD9Q1700002"
+  },
+  {
+    "title": "Cruce hormonal",
+    "artist": "La Cruda",
+    "isrc": "GXBDS2359225"
+  },
+  {
+    "title": "The Tea Party",
+    "artist": "Wonderpub",
+    "isrc": "GBMJG1804690"
+  },
+  {
+    "title": "Florida",
+    "artist": "Face Cream",
+    "isrc": "TCABY1479944"
+  },
+  {
+    "title": "F.E.A.",
+    "artist": "Inverso",
+    "isrc": "ushm21563804"
+  },
+  {
+    "title": "Still Waiting",
+    "artist": "Azno",
+    "isrc": "GBSMU5927662"
+  },
+  {
+    "title": "Sr. M",
+    "artist": "Germens",
+    "isrc": "ushm91893959"
+  },
+  {
+    "title": "Pizza Rock",
+    "artist": "EXPLOTA MARTE",
+    "isrc": "GBSMU6671777"
+  },
+  {
+    "title": "Crisol Sombrío",
+    "artist": "OMELET",
+    "isrc": "QZHZ42091196"
+  },
+  {
+    "title": "Megahit",
+    "artist": "Tensionautas",
+    "isrc": "GBSMU5713841"
+  },
+  {
+    "title": "La Ciudad Sin Nombre",
+    "artist": "Poveglia",
+    "isrc": "GBSMU3913489"
+  },
+  {
+    "title": "Sin timon",
+    "artist": "Los Yacu Bien Palanca",
+    "isrc": "AR0TD2200002"
+  },
+  {
+    "title": "Altiplano 73",
+    "artist": "Argos Boa",
+    "isrc": "GB-SMU-48-36773"
+  },
+  {
+    "title": "Opcion in Utero 010_20",
+    "artist": "Azoteqa",
+    "isrc": "AEA0Q1704071"
+  },
+  {
+    "title": "I Wanna Know Your Name",
+    "artist": "Caracoltodo",
+    "isrc": "ushm91782465"
+  },
+  {
+    "title": "Superyo",
+    "artist": "Castillo",
+    "isrc": "QZW9K2214760"
+  },
+  {
+    "title": "Hungry",
+    "artist": "Cliché",
+    "isrc": "QZHNC1974087"
+  },
+  {
+    "title": "A Donde las Creencias Van",
+    "artist": "Croxoma",
+    "isrc": "AR8DB1700006"
+  },
+  {
+    "title": "Como Humanos",
+    "artist": "Cuarto Morbo",
+    "isrc": "QZTVM2265537"
+  },
+  {
+    "title": "Quedate un rato más",
+    "artist": "Carroña Sharong",
+    "isrc": "SEYOK2312416"
+  },
+  {
+    "title": "Dimensional",
+    "artist": "Jhon Mutante",
+    "isrc": "QZWFG2377959"
+  },
+  {
+    "title": "Fuegos Cruzados",
+    "artist": "BIGGER",
+    "isrc": "ARM441500008"
+  },
+  {
+    "title": "La Pared del Tiempo",
+    "artist": "DIK",
+    "isrc": "AR5LM2100004"
+  },
+  {
+    "title": "Cognitivo",
+    "artist": "EnferMa",
+    "isrc": "GX3HH2198286"
+  },
+  {
+    "title": "Los Fetiches",
+    "artist": "21 Gramos",
+    "isrc": "QZMZ92468054"
+  },
+  {
+    "title": "Comediante Peligroso",
+    "artist": "Tipo Idiota",
+    "isrc": "GX8LD2231954"
+  },
+  {
+    "title": "Faka",
+    "artist": "Demian Leví",
+    "isrc": "AR6AY1800185"
+  },
+  {
+    "title": "Plegaria",
+    "artist": "Pajaro Negro",
+    "isrc": "ushm91966688"
+  },
+  {
+    "title": "Mas Allá",
+    "artist": "Sangre Activa",
+    "isrc": "usdy42055614"
+  },
+  {
+    "title": "ESCLAVO",
+    "artist": "GURI",
+    "isrc": "SEYOK1739101"
+  },
+  {
+    "title": "En Aguas Poco Profundas",
+    "artist": "Flannel",
+    "isrc": "QZGLS1967325"
+  },
+  {
+    "title": "En Otro Lugar",
+    "artist": "Gusanos De Marte",
+    "isrc": "AEA0D1962485"
+  },
+  {
+    "title": "Lo Roto Expone",
+    "artist": "Connor Questa",
+    "isrc": "ARG1Q1300003"
+  },
+  {
+    "title": "Tan Cerca",
+    "artist": "Cazacuervos",
+    "isrc": "uscgj1916239"
+  },
+  {
+    "title": "Saber Soltar",
+    "artist": "Blesterbol",
+    "isrc": "QZ5AB1945949"
+  },
+  {
+    "title": "Let's Just Pretend (That I'm Dead)",
+    "artist": "Alunacy",
+    "isrc": "AR8351700002"
+  },
+  {
+    "title": "El Arte del Engaño",
+    "artist": "Limbo",
+    "isrc": "QZHZ32178300"
+  },
+  {
+    "title": "Por La Cara",
+    "artist": "Tierra Tribal",
+    "isrc": "SEYOK1843613"
+  },
+  {
+    "title": "La Razón",
+    "artist": "Le Temps Argentina",
+    "isrc": "GBSMU3259657"
+  },
+  {
+    "title": "Luna Sangre",
+    "artist": "Ñudrop",
+    "isrc": "GXBDS2362006"
+  },
+  {
+    "title": "Peregrino",
+    "artist": "Spiritual Rebel",
+    "isrc": "usl4r1926557"
+  }
+]

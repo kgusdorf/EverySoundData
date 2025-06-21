@@ -1,0 +1,407 @@
+[
+  {
+    "title": "Doumdoumba",
+    "artist": "Adama Dramé",
+    "isrc": "FR10S1738035"
+  },
+  {
+    "title": "Boroto",
+    "artist": "Les frères Coulibaly",
+    "isrc": "USA560572745"
+  },
+  {
+    "title": "Mama Sara",
+    "artist": "Farafina",
+    "isrc": "GBCPA0700286"
+  },
+  {
+    "title": "Siza",
+    "artist": "Gabin Dabire",
+    "isrc": "FR6V80707548"
+  },
+  {
+    "title": "Africain nou",
+    "artist": "Yé Lassina Coulibaly, Yan Kadi Faso",
+    "isrc": "FR6V80505237"
+  },
+  {
+    "title": "Tiriba",
+    "artist": "Amadou Kienou",
+    "isrc": "ITI400800238"
+  },
+  {
+    "title": "Akouna (Akouna)",
+    "artist": "Akouna Farma, Ethnie Gan",
+    "isrc": "CH1419604316"
+  },
+  {
+    "title": "Sie Koumgolo",
+    "artist": "Coulibaly Tidiane & Dafra Star",
+    "isrc": "USCW61605518"
+  },
+  {
+    "title": "Anani na",
+    "artist": "Dicko Fils, Levi Bobo",
+    "isrc": "FR0Z50071181"
+  },
+  {
+    "title": "Louo (The Farmer) (Bwaba)",
+    "artist": "Bomberi Willoho",
+    "isrc": "QMQQH1608336"
+  },
+  {
+    "title": "Samá faga múgú (La poudre qui tue l'éléphant)",
+    "artist": "Chasseurs Senoufo Tagoua de Ouolonkoto",
+    "isrc": "CH1419899801"
+  },
+  {
+    "title": "Binkõntina",
+    "artist": "Da Gboro Alé, Hien Bihoulete, Kambiré Tiaporté",
+    "isrc": "FR6V81127220"
+  },
+  {
+    "title": "Hani Sè",
+    "artist": "Ensemble Kiensé, Bernard Bébo Séni",
+    "isrc": "BER181921485"
+  },
+  {
+    "title": "Kouokouré (Kouokouré)",
+    "artist": "Ethnie Dyan",
+    "isrc": "CH1419604304"
+  },
+  {
+    "title": "Madoongi (Madoongi)",
+    "artist": "Ethnie Gan",
+    "isrc": "CH1419604303"
+  },
+  {
+    "title": "Il est beau pour rien (He's Handsome But He's Useless)",
+    "artist": "Ethnie Pougouli",
+    "isrc": "CH1419604310"
+  },
+  {
+    "title": "Bougnabagnale (Dioula)",
+    "artist": "Fassobolomba",
+    "isrc": "QMQQH1608335"
+  },
+  {
+    "title": "L'adresse du mort",
+    "artist": "Hien Bihoulete",
+    "isrc": "FR6V81127221"
+  },
+  {
+    "title": "Untitled",
+    "artist": "Ibrahim From Bittou (bissa)",
+    "isrc": "QMQQH1608330"
+  },
+  {
+    "title": "Cabaret Music (Djan) (Lobi)",
+    "artist": "Kabaré Balafon",
+    "isrc": "QMQQH1608324"
+  },
+  {
+    "title": "Gõpir",
+    "artist": "Kambiré Tiaporté, Palé Tioionté, Da Gboro Alé",
+    "isrc": "FR6V81127216"
+  },
+  {
+    "title": "Binkontina - Partie 1",
+    "artist": "Kambou Olo Sankoné, Hien Bihoulete, Kambiré Tiaporté, Kambou Smaïla, Kambou Belhité",
+    "isrc": "FR6V80625001"
+  },
+  {
+    "title": "Magni",
+    "artist": "LANAYA",
+    "isrc": "DEAL71600011"
+  },
+  {
+    "title": "Le célibataire, la prostituée (The Bachelor,The Prostitute)",
+    "artist": "Lanta Kerkuré, Ethnie Lobi",
+    "isrc": "CH1419604307"
+  },
+  {
+    "title": "Bela",
+    "artist": "Les Bela",
+    "isrc": "CH1419692108"
+  },
+  {
+    "title": "Dagara",
+    "artist": "Les Dagara",
+    "isrc": "CH1419692112"
+  },
+  {
+    "title": "Dia",
+    "artist": "Les Dia",
+    "isrc": "CH1419692102"
+  },
+  {
+    "title": "Danse du Kanaga",
+    "artist": "Les Dogon",
+    "isrc": "FR3GQ1503920"
+  },
+  {
+    "title": "Kaaba (I)",
+    "artist": "Les Kaaba",
+    "isrc": "CH1419692105"
+  },
+  {
+    "title": "Kasena (I)",
+    "artist": "Les Kasena",
+    "isrc": "CH1419692113"
+  },
+  {
+    "title": "Lobi (II)",
+    "artist": "Les Lobi",
+    "isrc": "CH1419692104"
+  },
+  {
+    "title": "Siamou (II)",
+    "artist": "Les Siamou",
+    "isrc": "CH1419692110"
+  },
+  {
+    "title": "Tuareg",
+    "artist": "Les Tuareg",
+    "isrc": "CH1419692101"
+  },
+  {
+    "title": "Bodo-dioulasso: Balas, Drums",
+    "artist": "Lizahbet",
+    "isrc": "USSF11001618"
+  },
+  {
+    "title": "Funeral Music (Lobi)",
+    "artist": "Lobi Balafon",
+    "isrc": "QMQQH1608323"
+  },
+  {
+    "title": "Mossi Chant",
+    "artist": "Mossi Chant",
+    "isrc": "QMQQH1608337"
+  },
+  {
+    "title": "Grand Ngoni (Dioula)",
+    "artist": "Moukoro Zakaria, moukoro Mahamadou",
+    "isrc": "QMQQH1608339"
+  },
+  {
+    "title": "La malchanceux (Unlucky)",
+    "artist": "Moussa Konate, Ethnie Bwa",
+    "isrc": "CH1419904315"
+  },
+  {
+    "title": "Déjé - Version II",
+    "artist": "Musicien du Pays Lobi",
+    "isrc": "FR6V81127219"
+  },
+  {
+    "title": "Traditionnel: Musique pour la danse tigba",
+    "artist": "Naba Bend",
+    "isrc": "FRQ466180320"
+  },
+  {
+    "title": "Déjé - Version I",
+    "artist": "Palé Tioionté",
+    "isrc": "FR6V81127217"
+  },
+  {
+    "title": "Animal Tail",
+    "artist": "Siaka Tengrila, soulyman Traore (donso Ngoni)",
+    "isrc": "QMQQH1608333"
+  },
+  {
+    "title": "Kombisiri (Mossi)",
+    "artist": "Souleyman Zoungrena",
+    "isrc": "QMQQH1608329"
+  },
+  {
+    "title": "Instrumental (Bwaba)",
+    "artist": "Troupe De Dédougou",
+    "isrc": "QMQQH1608334"
+  },
+  {
+    "title": "L'amitié est préférable à la richesse (Friendship Is Preferable to Wealth)",
+    "artist": "Troupe Tingaï",
+    "isrc": "CH1419692003"
+  },
+  {
+    "title": "Toroba (Samo)",
+    "artist": "Yaro Labairi (lolongo), kousoule Lalara (koundé)",
+    "isrc": "QMQQH1608325"
+  },
+  {
+    "title": "Denke-Denke (Fulani)",
+    "artist": "Yehou Téré Sedou Baba",
+    "isrc": "QMQQH1608332"
+  },
+  {
+    "title": "Traditionnel: Chant d'amour",
+    "artist": "Youligiba, Bode",
+    "isrc": "FRQ466180330"
+  },
+  {
+    "title": "Djomaya",
+    "artist": "Adama Dramé",
+    "isrc": "FRY391515273"
+  },
+  {
+    "title": "Mogoman Wouelé",
+    "artist": "Farafina",
+    "isrc": "DEF308800001"
+  },
+  {
+    "title": "Wa Be Bara Boure",
+    "artist": "Les frères Coulibaly",
+    "isrc": "FR2X41744600"
+  },
+  {
+    "title": "Doudou",
+    "artist": "Gabin Dabire",
+    "isrc": "FR6V80707550"
+  },
+  {
+    "title": "Doussou",
+    "artist": "Yé Lassina Coulibaly, Yan Kadi Faso",
+    "isrc": "FR6V80505231"
+  },
+  {
+    "title": "Doundounba",
+    "artist": "Amadou Kienou",
+    "isrc": "ITI400800244"
+  },
+  {
+    "title": "L'ennemi (The Enemy)",
+    "artist": "Akouna Farma, Ethnie Gan",
+    "isrc": "CH1419604314"
+  },
+  {
+    "title": "Mousso",
+    "artist": "Dicko Fils, Smarty",
+    "isrc": "FR0Z50070319"
+  },
+  {
+    "title": "De Nwolo",
+    "artist": "Coulibaly Tidiane & Dafra Star",
+    "isrc": "USCW61605517"
+  },
+  {
+    "title": "Mabhaa (The Bachelor) (Bwaba)",
+    "artist": "Bomberi Willoho",
+    "isrc": "QMQQH1608331"
+  },
+  {
+    "title": "Sa dùnu kan (Le son du tambour de la mort)",
+    "artist": "Chasseurs Senoufo Tagoua de Ouolonkoto",
+    "isrc": "CH1419899803"
+  },
+  {
+    "title": "Sitani lewayi",
+    "artist": "Ensemble Kiensé",
+    "isrc": "BER181921490"
+  },
+  {
+    "title": "Le scorpion (The Scorpion)",
+    "artist": "Ethnie Dyan",
+    "isrc": "CH1419604312"
+  },
+  {
+    "title": "La mort n'a pas de frère (Death Has No Brother)",
+    "artist": "Ethnie Gan",
+    "isrc": "CH1419904311"
+  },
+  {
+    "title": "Bãmba",
+    "artist": "Kambiré Tiaporté, Da Gboro Alé, Palé Tioionté",
+    "isrc": "FR6V81127223"
+  },
+  {
+    "title": "Djadja - Partie 5",
+    "artist": "Kambou Olo Sankoné, Hien Bihoulete, Kambou Smaïla, Kambiré Tiaporté, Kambou Belhité",
+    "isrc": "FR6V80625010"
+  },
+  {
+    "title": "Lombalia",
+    "artist": "LANAYA",
+    "isrc": "DEAL71600007"
+  },
+  {
+    "title": "Sortie des masques",
+    "artist": "Les Dogon",
+    "isrc": "FR3GQ1503980"
+  },
+  {
+    "title": "Kaaba (II)",
+    "artist": "Les Kaaba",
+    "isrc": "CH1419692106"
+  },
+  {
+    "title": "Kasena (II)",
+    "artist": "Les Kasena",
+    "isrc": "CH1419692114"
+  },
+  {
+    "title": "Lobi (I)",
+    "artist": "Les Lobi",
+    "isrc": "CH1419692103"
+  },
+  {
+    "title": "Faso Denou",
+    "artist": "Farafina",
+    "isrc": "GBCPA0700278"
+  },
+  {
+    "title": "Foliba",
+    "artist": "Adama Dramé",
+    "isrc": "FRY391515263"
+  },
+  {
+    "title": "Bonien",
+    "artist": "Les frères Coulibaly",
+    "isrc": "FR2X41744601"
+  },
+  {
+    "title": "Dambe",
+    "artist": "Yé Lassina Coulibaly, Yan Kadi Faso",
+    "isrc": "FR6V80505235"
+  },
+  {
+    "title": "Wo I Do",
+    "artist": "Gabin Dabire, Lokua Kanza, Dominic Miller, Manu Katché",
+    "isrc": "DEF300000072"
+  },
+  {
+    "title": "Bara",
+    "artist": "Amadou Kienou",
+    "isrc": "ITI400800247"
+  },
+  {
+    "title": "Le Sida (Aids)",
+    "artist": "Akouna Farma, Ethnie Gan",
+    "isrc": "CH1419604309"
+  },
+  {
+    "title": "Si Tu Maime",
+    "artist": "Coulibaly Tidiane & Dafra Star",
+    "isrc": "USCW61605520"
+  },
+  {
+    "title": "Djaoudi",
+    "artist": "Dicko Fils, Levi Bobo",
+    "isrc": "FR0Z50057859"
+  },
+  {
+    "title": "Warri (Bwaba)",
+    "artist": "Bomberi Willoho",
+    "isrc": "QMQQH1608326"
+  },
+  {
+    "title": "Marasa",
+    "artist": "Chasseurs Senoufo Tagoua de Ouolonkoto",
+    "isrc": "CH1419899806"
+  },
+  {
+    "title": "San ga, san daró",
+    "artist": "Ensemble Kiensé",
+    "isrc": "BER181921487"
+  }
+]

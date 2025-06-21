@@ -1,0 +1,602 @@
+[
+  {
+    "title": "All Your Tears",
+    "artist": "Fenrir's Scar",
+    "isrc": "BCAA92200001"
+  },
+  {
+    "title": "Dame of Death",
+    "artist": "AnamA",
+    "isrc": "QZMZ92089044"
+  },
+  {
+    "title": "The River",
+    "artist": "Innocence Lost, Thiago Bianchi",
+    "isrc": "QZGLM2473007"
+  },
+  {
+    "title": "Do in Blue",
+    "artist": "Voccatus",
+    "isrc": "QZHZ32076339"
+  },
+  {
+    "title": "Troubled Heart",
+    "artist": "Santo Graal, Edu Ardanuy",
+    "isrc": "BRPIJ2000005"
+  },
+  {
+    "title": "Dark Delight",
+    "artist": "Final Disaster",
+    "isrc": "US7VG2066590"
+  },
+  {
+    "title": "The Islander",
+    "artist": "Anfear",
+    "isrc": "QZES92286239"
+  },
+  {
+    "title": "Child Soul Redemption",
+    "artist": "Vangloria Arcannus",
+    "isrc": "US7VG1947126"
+  },
+  {
+    "title": "La Épica De Los Olvidados",
+    "artist": "Eve Desire",
+    "isrc": "BXWPG2400001"
+  },
+  {
+    "title": "Greatest Sin",
+    "artist": "Lasting Maze",
+    "isrc": "US7VG1859517"
+  },
+  {
+    "title": "Cold Road",
+    "artist": "Arcana Elysium",
+    "isrc": "BXBY72100003"
+  },
+  {
+    "title": "My Darkest Nightfall",
+    "artist": "Evendusk",
+    "isrc": "usx9p2075915"
+  },
+  {
+    "title": "Cava a Cova",
+    "artist": "Endigna",
+    "isrc": "GBSMU8982990"
+  },
+  {
+    "title": "Black Mamba",
+    "artist": "Lia Kapp",
+    "isrc": "BC6Y32400001"
+  },
+  {
+    "title": "Butterfly",
+    "artist": "Inanimalia",
+    "isrc": "USHM82029280"
+  },
+  {
+    "title": "Piano in the Dark",
+    "artist": "Dooren",
+    "isrc": "BX82D1900012"
+  },
+  {
+    "title": "Inner Hell",
+    "artist": "Dakhmas",
+    "isrc": "US7VG1963837"
+  },
+  {
+    "title": "The Rain",
+    "artist": "Rizzi",
+    "isrc": "usdy41961030"
+  },
+  {
+    "title": "Parasite",
+    "artist": "The Damnnation",
+    "isrc": "BR6X12000009"
+  },
+  {
+    "title": "Fall",
+    "artist": "Living Shields",
+    "isrc": "uscgj2321422"
+  },
+  {
+    "title": "The Death",
+    "artist": "Flowers To The Ground",
+    "isrc": "usl4r2053346"
+  },
+  {
+    "title": "Juliette - Bonus Track",
+    "artist": "Kiss From A Ghost",
+    "isrc": "QZFYZ2383060"
+  },
+  {
+    "title": "Belladonna",
+    "artist": "Venuz",
+    "isrc": "BX4AJ2400001"
+  },
+  {
+    "title": "More Mindless Violence",
+    "artist": "Hellarise",
+    "isrc": "BR8II1200001"
+  },
+  {
+    "title": "A Dream of Osiris",
+    "artist": "Angelique Band",
+    "isrc": "QZHZ51909180"
+  },
+  {
+    "title": "Scarlett",
+    "artist": "Haney",
+    "isrc": "QZB4J1844712"
+  },
+  {
+    "title": "The Forge",
+    "artist": "Carolina IV",
+    "isrc": "QZ5AB1886599"
+  },
+  {
+    "title": "So Funny",
+    "artist": "Karen Dió",
+    "isrc": "QZTAT2348348"
+  },
+  {
+    "title": "Pulsar",
+    "artist": "Nebulosa",
+    "isrc": "BC9Y72200002"
+  },
+  {
+    "title": "Quem Morre Sangrando por Mim?",
+    "artist": "Estamira",
+    "isrc": "BCCDH2000003"
+  },
+  {
+    "title": "Mundo",
+    "artist": "Cássia Novello",
+    "isrc": "BR54W1700002"
+  },
+  {
+    "title": "Personagens de mim mesmo",
+    "artist": "Ave Máquina",
+    "isrc": "BXL732300009"
+  },
+  {
+    "title": "Viagem Ao Fundo Do Ego",
+    "artist": "Ignispace, Nando Chagas",
+    "isrc": "QZHZ41914694"
+  },
+  {
+    "title": "I Wish It Would Rain Down",
+    "artist": "Fleesh",
+    "isrc": "BR1PY1600163"
+  },
+  {
+    "title": "Five Bucks",
+    "artist": "Noisetape",
+    "isrc": "QZMEP2078851"
+  },
+  {
+    "title": "Beijos, Blues e Poesia (Versão Rock)",
+    "artist": "Brenda Zeni",
+    "isrc": "uscgh1925763"
+  },
+  {
+    "title": "Luxuriae",
+    "artist": "Scarlet Leaves",
+    "isrc": "GBWUL1906569"
+  },
+  {
+    "title": "Homem ao Mar",
+    "artist": "Micah",
+    "isrc": "BRTRB1865241"
+  },
+  {
+    "title": "Day Trade",
+    "artist": "Blanchez",
+    "isrc": "QZ5AB1957782"
+  },
+  {
+    "title": "Polar",
+    "artist": "Noite Cinza",
+    "isrc": "BX8IR1800006"
+  },
+  {
+    "title": "Tresvariar: Boa Vista Hard Club",
+    "artist": "AN4NDA",
+    "isrc": "usl4r2044584"
+  },
+  {
+    "title": "Come To Save Me",
+    "artist": "AnnaLu & The Skywalkers",
+    "isrc": "BXNX02000003"
+  },
+  {
+    "title": "Do I Wanna Know?",
+    "artist": "Dennehy",
+    "isrc": "GX8LD2464221"
+  },
+  {
+    "title": "Stay Away",
+    "artist": "Carcadia",
+    "isrc": "BX1PR2000003"
+  },
+  {
+    "title": "O Fim",
+    "artist": "Edição de Papelão",
+    "isrc": "QZ5AB1851108"
+  },
+  {
+    "title": "Sleep Paralysis",
+    "artist": "Ergus",
+    "isrc": "BX4062000002"
+  },
+  {
+    "title": "Tales of a Normal Man",
+    "artist": "Hell Lotus",
+    "isrc": "QZHZ51924423"
+  },
+  {
+    "title": "Into The Light",
+    "artist": "Holiness, Hércules Moreira",
+    "isrc": "US7VG1206549"
+  },
+  {
+    "title": "Dare the night",
+    "artist": "Inoutside",
+    "isrc": "QZDA82228312"
+  },
+  {
+    "title": "Todo Dia um Novo Começo",
+    "artist": "Kely Guimarães",
+    "isrc": "BRKIY2400001"
+  },
+  {
+    "title": "Você Me Deixa Sem Ar",
+    "artist": "Louhma",
+    "isrc": "US7VG1964747"
+  },
+  {
+    "title": "Trejeitos",
+    "artist": "Marj",
+    "isrc": "BXQ5Q2000001"
+  },
+  {
+    "title": "Duas - Ao Vivo",
+    "artist": "Nathalia Petta, Showlivre",
+    "isrc": "BXSSW1800343"
+  },
+  {
+    "title": "Everybody",
+    "artist": "Patricia Fawkes",
+    "isrc": "BX81P2000007"
+  },
+  {
+    "title": "Fase de Testes",
+    "artist": "Porfia",
+    "isrc": "QZGLM2176701"
+  },
+  {
+    "title": "Wasting Thoughts",
+    "artist": "Skor",
+    "isrc": "ushm81769662"
+  },
+  {
+    "title": "Ere the Sun Rises",
+    "artist": "Tiago Assis' Assemble, Andrew Kingsley, Brittney Slayes, Bruno Giordano, Iuri Sanson, Renato Osorio",
+    "isrc": "BCT622100002"
+  },
+  {
+    "title": "Mistakes",
+    "artist": "Vienna",
+    "isrc": "UKCVA1701667"
+  },
+  {
+    "title": "Lunes",
+    "artist": "Vir GO",
+    "isrc": "AR7022000004"
+  },
+  {
+    "title": "Reason to Believe",
+    "artist": "Fenrir's Scar",
+    "isrc": "BCAA92300007"
+  },
+  {
+    "title": "Poltergeist",
+    "artist": "AnamA",
+    "isrc": "QZ5AB1864944"
+  },
+  {
+    "title": "Oblivion",
+    "artist": "Innocence Lost",
+    "isrc": "BRX032400001"
+  },
+  {
+    "title": "Only to Her I",
+    "artist": "Voccatus",
+    "isrc": "QZHZ62091914"
+  },
+  {
+    "title": "Dark Roses",
+    "artist": "Santo Graal",
+    "isrc": "BRPIJ2000003"
+  },
+  {
+    "title": "Iara",
+    "artist": "Anfear",
+    "isrc": "BXNOR1900003"
+  },
+  {
+    "title": "Ciclo",
+    "artist": "Vangloria Arcannus",
+    "isrc": "US7VG1947125"
+  },
+  {
+    "title": "In The Shadows",
+    "artist": "Final Disaster",
+    "isrc": "QZPJ32256297"
+  },
+  {
+    "title": "Chronos",
+    "artist": "Eve Desire",
+    "isrc": "BXWPG2000006"
+  },
+  {
+    "title": "Thunder",
+    "artist": "Lasting Maze",
+    "isrc": "QZGLS2083458"
+  },
+  {
+    "title": "Hunting in the Shadows",
+    "artist": "Arcana Elysium",
+    "isrc": "bxby71900001"
+  },
+  {
+    "title": "Brief",
+    "artist": "Evendusk",
+    "isrc": "usx9p2075914"
+  },
+  {
+    "title": "O Cheiro da Miséria",
+    "artist": "Endigna",
+    "isrc": "GBSMU8982991"
+  },
+  {
+    "title": "Umbral",
+    "artist": "Inanimalia",
+    "isrc": "USL4R2020027"
+  },
+  {
+    "title": "Mirror Image",
+    "artist": "Dooren",
+    "isrc": "BX82D1900006"
+  },
+  {
+    "title": "Pasiphae (Verdict)",
+    "artist": "Lia Kapp",
+    "isrc": "BRTRB1997819"
+  },
+  {
+    "title": "Goddess of Freedom",
+    "artist": "Dakhmas",
+    "isrc": "QZHZ52059291"
+  },
+  {
+    "title": "Time Is Short",
+    "artist": "Rizzi",
+    "isrc": "usdy41961031"
+  },
+  {
+    "title": "World's Curse",
+    "artist": "The Damnnation",
+    "isrc": "BR6X11900018"
+  },
+  {
+    "title": "Better Times",
+    "artist": "Living Shields",
+    "isrc": "uscgj2321423"
+  },
+  {
+    "title": "Just a Theory",
+    "artist": "Flowers To The Ground",
+    "isrc": "usl4r2053350"
+  },
+  {
+    "title": "Love Injected",
+    "artist": "Ofyr",
+    "isrc": "uscgh1986296"
+  },
+  {
+    "title": "House of the Rising Sun",
+    "artist": "Venuz",
+    "isrc": "QZHZ51921541"
+  },
+  {
+    "title": "Human Disgrace",
+    "artist": "Hellarise",
+    "isrc": "QZ22B1797359"
+  },
+  {
+    "title": "Sarah's Eyes",
+    "artist": "Angelique Band",
+    "isrc": "US7VG2363453"
+  },
+  {
+    "title": "Eu Cansei de Você",
+    "artist": "Haney",
+    "isrc": "BXKIF2300001"
+  },
+  {
+    "title": "The Great Ones Are All Dead",
+    "artist": "Carolina IV",
+    "isrc": "QZGLM1920559"
+  },
+  {
+    "title": "Emily",
+    "artist": "Nebulosa",
+    "isrc": "BXXE11900002"
+  },
+  {
+    "title": "Do It",
+    "artist": "Karen Dió",
+    "isrc": "BRXNZ1700014"
+  },
+  {
+    "title": "Música de Amor",
+    "artist": "Estamira",
+    "isrc": "BCCDH2000002"
+  },
+  {
+    "title": "Noturna",
+    "artist": "Cássia Novello",
+    "isrc": "BR54W1300001"
+  },
+  {
+    "title": "Terra Oca",
+    "artist": "Ave Máquina",
+    "isrc": "USCGJ1991650"
+  },
+  {
+    "title": "Rise Beyond",
+    "artist": "Ignispace",
+    "isrc": "BXSQK1900003"
+  },
+  {
+    "title": "Guillotine",
+    "artist": "Noisetape",
+    "isrc": "QZK6J2017699"
+  },
+  {
+    "title": "On the Turning Away",
+    "artist": "Fleesh",
+    "isrc": "BR1PY1600093"
+  },
+  {
+    "title": "Sonho Leve",
+    "artist": "Brenda Zeni",
+    "isrc": "ushm81852297"
+  },
+  {
+    "title": "Believe",
+    "artist": "Scarlet Leaves",
+    "isrc": "GBPY91200343"
+  },
+  {
+    "title": "Período Fértil",
+    "artist": "Micah",
+    "isrc": "BXUWL1900001"
+  },
+  {
+    "title": "Put on a Shelf",
+    "artist": "Blanchez",
+    "isrc": "QZHZ41907953"
+  },
+  {
+    "title": "Solstício",
+    "artist": "Noite Cinza",
+    "isrc": "BX8IR1800002"
+  },
+  {
+    "title": "Blinded",
+    "artist": "Fenrir's Scar",
+    "isrc": "BCAA92100001"
+  },
+  {
+    "title": "Feathers of Phoenix",
+    "artist": "AnamA",
+    "isrc": "QZNJY2357737"
+  },
+  {
+    "title": "Dark Forest",
+    "artist": "Innocence Lost",
+    "isrc": "QZGLM2473005"
+  },
+  {
+    "title": "Connected",
+    "artist": "Voccatus",
+    "isrc": "QZNJW2083623"
+  },
+  {
+    "title": "Whisper of Soul",
+    "artist": "Santo Graal",
+    "isrc": "BRPIJ2000010"
+  },
+  {
+    "title": "R.E.I.N.U",
+    "artist": "Anfear",
+    "isrc": "BXN0R2200001"
+  },
+  {
+    "title": "Arcana Opus II (Lust of the Storm)",
+    "artist": "Vangloria Arcannus",
+    "isrc": "US7VG1947129"
+  },
+  {
+    "title": "Beware the Children",
+    "artist": "Final Disaster",
+    "isrc": "BR9RH1700002"
+  },
+  {
+    "title": "Black Hole",
+    "artist": "Eve Desire",
+    "isrc": "BXWPG2000012"
+  },
+  {
+    "title": "Forsaken Land",
+    "artist": "Lasting Maze",
+    "isrc": "QZ5AB1795210"
+  },
+  {
+    "title": "Game Changer",
+    "artist": "Arcana Elysium",
+    "isrc": "BXBY72100005"
+  },
+  {
+    "title": "A Matter of Feeling - Live",
+    "artist": "Evendusk",
+    "isrc": "usdy42218373"
+  },
+  {
+    "title": "De Mãos Dadas",
+    "artist": "Endigna",
+    "isrc": "GB-SMU-48-00286"
+  },
+  {
+    "title": "I Am The Lion",
+    "artist": "Inanimalia",
+    "isrc": "USHM92008384"
+  },
+  {
+    "title": "Drifting Away",
+    "artist": "Dooren",
+    "isrc": "BX82D1900002"
+  },
+  {
+    "title": "Pasithea",
+    "artist": "Lia Kapp",
+    "isrc": "BRTRB1997821"
+  },
+  {
+    "title": "The Grave Call Our Names",
+    "artist": "Dakhmas",
+    "isrc": "US7VG1963838"
+  },
+  {
+    "title": "Tears Fall Down",
+    "artist": "Rizzi",
+    "isrc": "usdy41961029"
+  },
+  {
+    "title": "Apocalypse",
+    "artist": "The Damnnation",
+    "isrc": "BR6X12000005"
+  },
+  {
+    "title": "Wax Wings",
+    "artist": "Living Shields",
+    "isrc": "uscgj2321421"
+  },
+  {
+    "title": "You and Me",
+    "artist": "Flowers To The Ground",
+    "isrc": "usl4r2053349"
+  }
+]

@@ -1,0 +1,667 @@
+[
+  {
+    "title": "Mia mamma veul che fila",
+    "artist": "Gipo Farassino, Giuanin d' Porta Pila, Riz Samaritano",
+    "isrc": "ITD561300244"
+  },
+  {
+    "title": "Sbrando",
+    "artist": "Tre Martelli",
+    "isrc": "ITI400800384"
+  },
+  {
+    "title": "Re Gilardin",
+    "artist": "La Ciapa Rusa",
+    "isrc": "NLB369700204"
+  },
+  {
+    "title": "Strambot Piemontes",
+    "artist": "Roberto Balocco",
+    "isrc": "ITD541100572"
+  },
+  {
+    "title": "Love In Portofino",
+    "artist": "Riz Samaritano",
+    "isrc": "ITZ010700541"
+  },
+  {
+    "title": "Tic ti tic ta",
+    "artist": "Le Raviole al Vin",
+    "isrc": "ITT900900167"
+  },
+  {
+    "title": "IL MIO TORRENTE",
+    "artist": "Piero Montanaro, LE NOSTRE VALLI",
+    "isrc": "QZWFJ2332747"
+  },
+  {
+    "title": "Ball De Dimonis De Massalfassar",
+    "artist": "Urbàlia Rurana",
+    "isrc": "ES5300821421"
+  },
+  {
+    "title": "Moretto moretto",
+    "artist": "Sandra e Le Mondine",
+    "isrc": "USA561430022"
+  },
+  {
+    "title": "Tu che m'hai preso il cuore",
+    "artist": "Ernesto Bonino",
+    "isrc": "FRX871516144"
+  },
+  {
+    "title": "La Ola",
+    "artist": "Mau Mau",
+    "isrc": "ITD009600004"
+  },
+  {
+    "title": "A Turin a La Reusa Bianca",
+    "artist": "Mario Piovano",
+    "isrc": "ITK1I2100505"
+  },
+  {
+    "title": "Voici le joly mois de mai",
+    "artist": "Ariondela",
+    "isrc": "CH6321600297"
+  },
+  {
+    "title": "Ciao Turin",
+    "artist": "Pinot Pautass",
+    "isrc": "USA370557012"
+  },
+  {
+    "title": "Mare Nero",
+    "artist": "Alessio Lega",
+    "isrc": "ITJZ41700012"
+  },
+  {
+    "title": "El Gall Negre",
+    "artist": "El Pont d'Arcalís",
+    "isrc": "ES5300306827"
+  },
+  {
+    "title": "L'uccellino della radio",
+    "artist": "Silvana Fioresi",
+    "isrc": "PLH492216441"
+  },
+  {
+    "title": "Bourg madame",
+    "artist": "Alberto Cesa, Cantovivo",
+    "isrc": "ITO511055516"
+  },
+  {
+    "title": "Gigo e Balet de Jouann Bernardi (Val Varaita)",
+    "artist": "Silvio Peron, Gabriele Ferrero",
+    "isrc": "ITI401256608"
+  },
+  {
+    "title": "Promessa - Tango argentino",
+    "artist": "Massimo Castellina",
+    "isrc": "FR6V80180138"
+  },
+  {
+    "title": "Mia l'amore no - From Stasera niente di nuovo 1942",
+    "artist": "Alida Valli",
+    "isrc": "DGA052205282"
+  },
+  {
+    "title": "Madonnina dai riccioli d' oro",
+    "artist": "Amici di Brondello",
+    "isrc": "ITT900900267"
+  },
+  {
+    "title": "Fior di tomba",
+    "artist": "Canzoniere Popolare Tortonese",
+    "isrc": "CH6321600302"
+  },
+  {
+    "title": "La cansoun busiarda / Marcia dij Babi",
+    "artist": "Compagnons Roulants",
+    "isrc": "CH6321600317"
+  },
+  {
+    "title": "Bel oselin del bosch",
+    "artist": "Coro 'La Grangia' Di Torino",
+    "isrc": "ITD541100575"
+  },
+  {
+    "title": "Montagnes valdotaines",
+    "artist": "Coro 'Penna Nera' Di Aosta",
+    "isrc": "ITD541100579"
+  },
+  {
+    "title": "Mè marì mangiava i ninsoli",
+    "artist": "Coro Baiolese",
+    "isrc": "CH6321600309"
+  },
+  {
+    "title": "Stranot d'amur",
+    "artist": "Dona Bela",
+    "isrc": "CH6321600308"
+  },
+  {
+    "title": "Bocce E Barbera",
+    "artist": "Eco Della Langa",
+    "isrc": "ITZ010200922"
+  },
+  {
+    "title": "Io maridame ier",
+    "artist": "Elos e Tajé",
+    "isrc": "CH6321600311"
+  },
+  {
+    "title": "Monferrina / Gamba 'd Parnis",
+    "artist": "Ensemble Del Doppio Bordone",
+    "isrc": "CH6321600301"
+  },
+  {
+    "title": "Balengo",
+    "artist": "Farinei Dla Brigna",
+    "isrc": "ITT900900262"
+  },
+  {
+    "title": "Ricciolina",
+    "artist": "Frati, Enzo Di Mola, Di Lazzaro, Gino Dover",
+    "isrc": "ITE280700211"
+  },
+  {
+    "title": "Pociunin",
+    "artist": "Giusy Montagnani",
+    "isrc": "ITD541100578"
+  },
+  {
+    "title": "C' era un ragazzo che come me",
+    "artist": "I Cantavino Doc",
+    "isrc": "ITT900900148"
+  },
+  {
+    "title": "Sort a fora",
+    "artist": "I Farinei Dla Brigna",
+    "isrc": "ITT900900328"
+  },
+  {
+    "title": "Giga",
+    "artist": "I Musetta",
+    "isrc": "CH6321600314"
+  },
+  {
+    "title": "Coeur gitane",
+    "artist": "I Musicanti Di Riva Presso Chieri",
+    "isrc": "CH6321600298"
+  },
+  {
+    "title": "Le Boje",
+    "artist": "La Lionetta",
+    "isrc": "CH6321600316"
+  },
+  {
+    "title": "Pifferata sveglia",
+    "artist": "La Sornette",
+    "isrc": "CH6321600312"
+  },
+  {
+    "title": "La bergera",
+    "artist": "Lj Musicant",
+    "isrc": "ITT900900323"
+  },
+  {
+    "title": "Ciao Turin",
+    "artist": "Mario Zaffiro",
+    "isrc": "ITT900900252"
+  },
+  {
+    "title": "Pot-pourris",
+    "artist": "Meikenut",
+    "isrc": "CH6321600303"
+  },
+  {
+    "title": "Spruzzo",
+    "artist": "Orchestra Di Luigi Gallia",
+    "isrc": "ITT900900326"
+  },
+  {
+    "title": "Il genovese / Aria del Genovese",
+    "artist": "Padus",
+    "isrc": "CH6321600310"
+  },
+  {
+    "title": "Marisa",
+    "artist": "Paolo Raviola e I Fieu' 'D Na Vota",
+    "isrc": "ITT900900321"
+  },
+  {
+    "title": "Na Voce, 'na Chitarra, E' O Poco 'e Luna",
+    "artist": "Pier Angeli",
+    "isrc": "USA371146753"
+  },
+  {
+    "title": "I Piemontesi a Milano",
+    "artist": "Quartetto Tamborini",
+    "isrc": "CH6321600305"
+  },
+  {
+    "title": "Ciao Turin",
+    "artist": "S. Ponalini E I Radio Boys",
+    "isrc": "ITD541100318"
+  },
+  {
+    "title": "Ciao Turin",
+    "artist": "Sergio Ponalini, Radio Boys",
+    "isrc": "GRHR11148506"
+  },
+  {
+    "title": "Sul Monte Bianco e sul Cervino",
+    "artist": "Silvagni Con Duo Di Voci",
+    "isrc": "ITD541100574"
+  },
+  {
+    "title": "Cecilia",
+    "artist": "Tendachent, Franco Lucà",
+    "isrc": "CH6321600320"
+  },
+  {
+    "title": "Le moine confesseur",
+    "artist": "Triolet",
+    "isrc": "CH6321600300"
+  },
+  {
+    "title": "O mia bela Madunina",
+    "artist": "Quintetto Nigra, Alberto Milesi",
+    "isrc": "ITI401900023"
+  },
+  {
+    "title": "Cielo incantato",
+    "artist": "Orchestra I Roeri",
+    "isrc": "ITG621600039"
+  },
+  {
+    "title": "La mula di parenzo",
+    "artist": "Complesso folkloristico Mario Carrara",
+    "isrc": "FR6V89001467"
+  },
+  {
+    "title": "O Maria Bela Maria",
+    "artist": "Coro Bajolese",
+    "isrc": "ITC540700067"
+  },
+  {
+    "title": "Cecilia - Nigra 3",
+    "artist": "Coro di Bajo Dora",
+    "isrc": "ITC471200139"
+  },
+  {
+    "title": "Noi soma piemonteis",
+    "artist": "Domenico Torta",
+    "isrc": "ITQSC1600499"
+  },
+  {
+    "title": "Io t'invoco libertà (Libertad)",
+    "artist": "Donata Pinti, Silvano Biolatti",
+    "isrc": "ITO511055718"
+  },
+  {
+    "title": "Marieme veui marieme",
+    "artist": "Ettore Domenico Porta Palas",
+    "isrc": "ITAE91002434"
+  },
+  {
+    "title": "Cara vejota",
+    "artist": "Gruppo Piemontese",
+    "isrc": "USA561437272"
+  },
+  {
+    "title": "Gira la ronda (Canto narrativo)",
+    "artist": "Gruppo spontaneo Alta Langa",
+    "isrc": "ITO510760938"
+  },
+  {
+    "title": "Visevvi",
+    "artist": "I Sunador Dal Ravi",
+    "isrc": "uscgj1312849"
+  },
+  {
+    "title": "Cecilia",
+    "artist": "Il Canzoniere Monferrino",
+    "isrc": "uscgj1312843"
+  },
+  {
+    "title": "Diavolo rosso",
+    "artist": "Isabella Maria Zoppi",
+    "isrc": "ITO510964012"
+  },
+  {
+    "title": "Canson 'd Fibin-ni (New York Version)",
+    "artist": "Joseph Cerrina",
+    "isrc": "uscgj1312854"
+  },
+  {
+    "title": "The old, great, sweet, lonely ballad of good and honest Saint Eurosia’s people",
+    "artist": "Leo e i Leoni",
+    "isrc": "ITD881201253"
+  },
+  {
+    "title": "Ligresia",
+    "artist": "Li Barmenk",
+    "isrc": "ITO511155622"
+  },
+  {
+    "title": "Spiritual",
+    "artist": "Roberto Bartoli",
+    "isrc": "ITZUO1840412"
+  },
+  {
+    "title": "Pemontesina",
+    "artist": "Valle & Piccinini",
+    "isrc": "USA561437287"
+  },
+  {
+    "title": "Vëscô Massim - Versione cantata in dialetto piemontese con arrangiamento: voce+organo+violino",
+    "artist": "Ël bôn bergé",
+    "isrc": "ITL371400305"
+  },
+  {
+    "title": "La balilla",
+    "artist": "Gipo Farassino, Giuanin d' Porta Pila, Riz Samaritano",
+    "isrc": "ITD561300235"
+  },
+  {
+    "title": "Carlin pasa da là / Sbrando",
+    "artist": "Tre Martelli, Maurizio Martinotti, Franco Lucà",
+    "isrc": "CH6321600327"
+  },
+  {
+    "title": "La torinese",
+    "artist": "La Ciapa Rusa, Tendachent",
+    "isrc": "CH6321600299"
+  },
+  {
+    "title": "Cadavere Spaziale",
+    "artist": "Riz Samaritano",
+    "isrc": "ITZ010700515"
+  },
+  {
+    "title": "Vorrei baciar Ninetta",
+    "artist": "Le Raviole al Vin",
+    "isrc": "ITT900900128"
+  },
+  {
+    "title": "PIEMONTESINA",
+    "artist": "Piero Montanaro",
+    "isrc": "QZWFE2312181"
+  },
+  {
+    "title": "El ball del moret",
+    "artist": "Urbàlia Rurana",
+    "isrc": "QZK6M2438401"
+  },
+  {
+    "title": "Dammi un riccio",
+    "artist": "Sandra e Le Mondine",
+    "isrc": "USA561429980"
+  },
+  {
+    "title": "Blue Moon luna malinconica",
+    "artist": "Ernesto Bonino",
+    "isrc": "FRX871516145"
+  },
+  {
+    "title": "La Rampa 'd Cavorët",
+    "artist": "Mario Piovano",
+    "isrc": "ITK1I2100522"
+  },
+  {
+    "title": "Sento il fischio del vapore",
+    "artist": "Ariondela",
+    "isrc": "ITI400800463"
+  },
+  {
+    "title": "Piemont",
+    "artist": "Pinot Pautass, Complesso Armando Camera e Pino Piacentino",
+    "isrc": "ITN731014076"
+  },
+  {
+    "title": "Il pappagallo",
+    "artist": "Alessio Lega",
+    "isrc": "ITJ831300120"
+  },
+  {
+    "title": "La cirereta",
+    "artist": "El Pont d'Arcalís, Ariondassa",
+    "isrc": "ES5300408950"
+  },
+  {
+    "title": "Corto Maltese",
+    "artist": "Mau Mau",
+    "isrc": "ITD009600005"
+  },
+  {
+    "title": "Torinorossa",
+    "artist": "Alberto Cesa, Cantovivo",
+    "isrc": "ITO511055501"
+  },
+  {
+    "title": "Il pinguino innamorato",
+    "artist": "Silvana Fioresi, Trio Lescano",
+    "isrc": "ITC471720251"
+  },
+  {
+    "title": "Courenta dla rocho (Val Maira)",
+    "artist": "Silvio Peron, Gabriele Ferrero",
+    "isrc": "ITI401256600"
+  },
+  {
+    "title": "La cumparsita - Tango argentino",
+    "artist": "Massimo Castellina",
+    "isrc": "FR6V80084933"
+  },
+  {
+    "title": "Me ideal",
+    "artist": "Alida Valli",
+    "isrc": "ITD541100573"
+  },
+  {
+    "title": "Sota ij porti d Cuni",
+    "artist": "Amici di Brondello",
+    "isrc": "ITT900900313"
+  },
+  {
+    "title": "I falciatori",
+    "artist": "Canzoniere Popolare Tortonese",
+    "isrc": "CH6321600322"
+  },
+  {
+    "title": "Micoulau va veire Jano - Aire de Jano",
+    "artist": "Compagnons Roulants",
+    "isrc": "CH6321600304"
+  },
+  {
+    "title": "Noi siamo piemontesi",
+    "artist": "Coro Baiolese",
+    "isrc": "CH6321600325"
+  },
+  {
+    "title": "Medley: Bella Ciao - Pathos - Lo Boier",
+    "artist": "Dona Bela",
+    "isrc": "FR6V80107927"
+  },
+  {
+    "title": "Montagne del me Piemont",
+    "artist": "Eco Della Langa",
+    "isrc": "ITT900900247"
+  },
+  {
+    "title": "La Passione",
+    "artist": "Ensemble Del Doppio Bordone",
+    "isrc": "CH6321600324"
+  },
+  {
+    "title": "Ciribiribin",
+    "artist": "Frati, Pier Angeli",
+    "isrc": "ITD541100571"
+  },
+  {
+    "title": "Caffe' A Letto",
+    "artist": "Giusy Montagnani",
+    "isrc": "ITT900900005"
+  },
+  {
+    "title": "Notte di collina",
+    "artist": "I Cantavino Doc",
+    "isrc": "ITT900900141"
+  },
+  {
+    "title": "Pumpa la musica",
+    "artist": "I Farinei Dla Brigna",
+    "isrc": "ITT900900330"
+  },
+  {
+    "title": "Alessandrina",
+    "artist": "I Musetta",
+    "isrc": "CH6321600328"
+  },
+  {
+    "title": "Alla monferrina",
+    "artist": "I Musicanti Di Riva Presso Chieri",
+    "isrc": "CH6321600323"
+  },
+  {
+    "title": "Leandra",
+    "artist": "La Lionetta",
+    "isrc": "ITC540400010"
+  },
+  {
+    "title": "Ghitin Ghitele",
+    "artist": "La Sornette",
+    "isrc": "CH6321600329"
+  },
+  {
+    "title": "Baron litron",
+    "artist": "Lj Musicant",
+    "isrc": "ITT900900311"
+  },
+  {
+    "title": "Pocionin",
+    "artist": "Mario Zaffiro",
+    "isrc": "ITT900900246"
+  },
+  {
+    "title": "Monferrina",
+    "artist": "Meikenut",
+    "isrc": "CH6321600326"
+  },
+  {
+    "title": "Amore Baciami",
+    "artist": "Pier Angeli",
+    "isrc": "USA371146752"
+  },
+  {
+    "title": "Valzer",
+    "artist": "Quartetto Tamborini",
+    "isrc": "FR6V80009231"
+  },
+  {
+    "title": "Marieme voei marieme",
+    "artist": "Gipo Farassino, Giuanin d' Porta Pila, Riz Samaritano",
+    "isrc": "ITD561300228"
+  },
+  {
+    "title": "La bergera",
+    "artist": "Tre Martelli",
+    "isrc": "ITI400800377"
+  },
+  {
+    "title": "Vioire - Ad oriente (Piedmont)",
+    "artist": "La Ciapa Rusa",
+    "isrc": "ITC540300099"
+  },
+  {
+    "title": "Criminalmente bella",
+    "artist": "Riz Samaritano",
+    "isrc": "ITI640900028"
+  },
+  {
+    "title": "Giuvu dla langa",
+    "artist": "Le Raviole al Vin",
+    "isrc": "ITT900900133"
+  },
+  {
+    "title": "SE LA LANGA E' COSI'/SE LA VITA E' COSI'",
+    "artist": "Piero Montanaro, I CANTAVINO DOC",
+    "isrc": "QZWFM2349213"
+  },
+  {
+    "title": "Ja ve Cento",
+    "artist": "Urbàlia Rurana",
+    "isrc": "GB5EA1701111"
+  },
+  {
+    "title": "Piemontesina",
+    "artist": "Sandra e Le Mondine",
+    "isrc": "USA561437286"
+  },
+  {
+    "title": "Le ragazze del Piemonte",
+    "artist": "Mario Piovano",
+    "isrc": "ITAE91002441"
+  },
+  {
+    "title": "Son la mondina",
+    "artist": "Ariondela",
+    "isrc": "CH6321600318"
+  },
+  {
+    "title": "La monferrina",
+    "artist": "Pinot Pautass, Complesso Armando Camera e Pino Piacentino",
+    "isrc": "ITN731014087"
+  },
+  {
+    "title": "Abril del 74",
+    "artist": "Alessio Lega",
+    "isrc": "ES5060705917"
+  },
+  {
+    "title": "Pasdoble d'en tosquiets",
+    "artist": "El Pont d'Arcalís",
+    "isrc": "ES5300825959"
+  },
+  {
+    "title": "Ellis Island",
+    "artist": "Mau Mau",
+    "isrc": "ITD009600001"
+  },
+  {
+    "title": "Addio Ninetta",
+    "artist": "Alberto Cesa, Cantovivo",
+    "isrc": "ITO511055519"
+  },
+  {
+    "title": "Musica Maestro",
+    "artist": "Ernesto Bonino",
+    "isrc": "USA370682300"
+  },
+  {
+    "title": "Il pesce e l'uccellino",
+    "artist": "Silvana Fioresi, Trio Lescano",
+    "isrc": "ITC471720250"
+  },
+  {
+    "title": "Courenta \"Le belle si maritano\" (Val Vermenagna)",
+    "artist": "Silvio Peron, Gabriele Ferrero",
+    "isrc": "ITI401256595"
+  },
+  {
+    "title": "Rosamunda - Polka",
+    "artist": "Massimo Castellina",
+    "isrc": "FR6V80084936"
+  },
+  {
+    "title": "Campane",
+    "artist": "Amici di Brondello",
+    "isrc": "ITT900900264"
+  },
+  {
+    "title": "La Bello Vinnho",
+    "artist": "Compagnons Roulants",
+    "isrc": "FR6V80009189"
+  }
+]
