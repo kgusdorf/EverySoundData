@@ -1,0 +1,787 @@
+[
+  {
+    "title": "Дружина",
+    "artist": "Руян",
+    "isrc": "TCABY1461503"
+  },
+  {
+    "title": "Солнцекараул",
+    "artist": "Ладушка",
+    "isrc": "SMRUS0025392"
+  },
+  {
+    "title": "Коляда",
+    "artist": "РарогЪ",
+    "isrc": "SMRUS0039527"
+  },
+  {
+    "title": "Кот-Баюн",
+    "artist": "Кот-Баюн",
+    "isrc": "RUA3R1833068"
+  },
+  {
+    "title": "Чур",
+    "artist": "Симаргл",
+    "isrc": "SMRUS0039588"
+  },
+  {
+    "title": "К северной стране",
+    "artist": "Smuta",
+    "isrc": "SMRUS0039601"
+  },
+  {
+    "title": "На горе калина",
+    "artist": "Sventoyar",
+    "isrc": "QZBRF1820849"
+  },
+  {
+    "title": "Прах над яругами",
+    "artist": "Svarga",
+    "isrc": "UASV11710001"
+  },
+  {
+    "title": "Битва",
+    "artist": "SatanaKozel",
+    "isrc": "SMRUS0019359"
+  },
+  {
+    "title": "Пастушок",
+    "artist": "Веда",
+    "isrc": "SMRUS0051070"
+  },
+  {
+    "title": "Папоротник",
+    "artist": "Alkonost",
+    "isrc": "TCADW1895237"
+  },
+  {
+    "title": "Haze",
+    "artist": "Grai",
+    "isrc": "DEKL51709060"
+  },
+  {
+    "title": "Далеко-далёко",
+    "artist": "Боянов Гимн",
+    "isrc": "SMRUS0042555"
+  },
+  {
+    "title": "Litva",
+    "artist": "Lutavierje",
+    "isrc": "TCACX1796647"
+  },
+  {
+    "title": "Ожог",
+    "artist": "Невидь",
+    "isrc": "SMRUS0039253"
+  },
+  {
+    "title": "Улетай на крыльях ветра",
+    "artist": "Kalevala",
+    "isrc": "UAMU11404814"
+  },
+  {
+    "title": "Быць",
+    "artist": "Omut",
+    "isrc": "SEYOK1935498"
+  },
+  {
+    "title": "Jule",
+    "artist": "Fferyllt",
+    "isrc": "ESA011517926"
+  },
+  {
+    "title": "Firedance",
+    "artist": "Helroth",
+    "isrc": "UK-CVA-16-03039"
+  },
+  {
+    "title": "Алан",
+    "artist": "Woodscream",
+    "isrc": "TCABZ1466578"
+  },
+  {
+    "title": "Облаком туман",
+    "artist": "Butterfly Temple",
+    "isrc": "TCABN1359639"
+  },
+  {
+    "title": "Raróg",
+    "artist": "Radogost",
+    "isrc": "ushm81544898"
+  },
+  {
+    "title": "Light and Shadow",
+    "artist": "Netherfell",
+    "isrc": "DEKL51507004"
+  },
+  {
+    "title": "Ветра пьяный мёд",
+    "artist": "ОПРИЧЬ",
+    "isrc": "RUA1H1525207"
+  },
+  {
+    "title": "Шаман",
+    "artist": "Сколот",
+    "isrc": "UMA182247249"
+  },
+  {
+    "title": "Stormbringer",
+    "artist": "FängörN",
+    "isrc": "AEA0D1916378"
+  },
+  {
+    "title": "Yarilo",
+    "artist": "Arkona",
+    "isrc": "ATN260930707"
+  },
+  {
+    "title": "Войско Святослава",
+    "artist": "Руевит",
+    "isrc": "SMRUS0009114"
+  },
+  {
+    "title": "Kolęda",
+    "artist": "Merkfolk",
+    "isrc": "QMPKX1824383"
+  },
+  {
+    "title": "Волколак",
+    "artist": "Тринадцатый бубен",
+    "isrc": "SMRUS0026965"
+  },
+  {
+    "title": "Na Zielonej Ukrainie",
+    "artist": "Beer Bear",
+    "isrc": "SMRUS0039040"
+  },
+  {
+    "title": "Безудержное счастье",
+    "artist": "Eldiarn",
+    "isrc": "SMRUS0033131"
+  },
+  {
+    "title": "Растворились в тишине",
+    "artist": "Сны Бенджамина",
+    "isrc": "QMFME1558573"
+  },
+  {
+    "title": "Czarnobóg",
+    "artist": "Othalan",
+    "isrc": "QZ9JZ1789998"
+  },
+  {
+    "title": "When the Earth Was Forged",
+    "artist": "Morhana",
+    "isrc": "PL20C1800002"
+  },
+  {
+    "title": "Pani Jeziora",
+    "artist": "Leśne Licho",
+    "isrc": "ushm81660640"
+  },
+  {
+    "title": "Herr Mannelig",
+    "artist": "Cronica",
+    "isrc": "NLPM11723595"
+  },
+  {
+    "title": "Сновидение",
+    "artist": "Wolf Rahm",
+    "isrc": "SMRUS0062132"
+  },
+  {
+    "title": "Ой, над ракою",
+    "artist": "ZNICH",
+    "isrc": "QZK6M2178903"
+  },
+  {
+    "title": "I Was Dancing",
+    "artist": "Folcore, Goryn",
+    "isrc": "QM4DW1780094"
+  },
+  {
+    "title": "Lipka",
+    "artist": "Łysa Góra",
+    "isrc": "PLU681900005"
+  },
+  {
+    "title": "Battleforce",
+    "artist": "Last Wail",
+    "isrc": "QZ8251814159"
+  },
+  {
+    "title": "Што й па Мору",
+    "artist": "Wartha",
+    "isrc": "SMRUS0019419"
+  },
+  {
+    "title": "Иду на Вы!",
+    "artist": "Иван Царевич",
+    "isrc": "UAMU11611280"
+  },
+  {
+    "title": "Silver For Monsters...",
+    "artist": "Percival Schuttenbach, Marcin Przybyłowicz",
+    "isrc": "PLI361611060"
+  },
+  {
+    "title": "Rusalka",
+    "artist": "Sakramant",
+    "isrc": "QZHN31917422"
+  },
+  {
+    "title": "Lullaby",
+    "artist": "Natural Spirit",
+    "isrc": "QZ9JZ1702869"
+  },
+  {
+    "title": "Пролитая кровь",
+    "artist": "Pagan Reign",
+    "isrc": "RUA1H1926382"
+  },
+  {
+    "title": "Sol Invictus",
+    "artist": "Żywiołak",
+    "isrc": "PLB841800014"
+  },
+  {
+    "title": "Koniec...",
+    "artist": "Diabol Boruta",
+    "isrc": "DEOM31500472"
+  },
+  {
+    "title": "People in the Swamp (Belarusian Version)",
+    "artist": "Gods Tower",
+    "isrc": "QMDA61457982"
+  },
+  {
+    "title": "Right Now",
+    "artist": "Adarvirog, Yann Zhanchak",
+    "isrc": "QZTB72375564"
+  },
+  {
+    "title": "Kolovrat",
+    "artist": "Obereg",
+    "isrc": "CZA163355870"
+  },
+  {
+    "title": "Flower Maiden (Guda Folk Choir)",
+    "artist": "Dzivia",
+    "isrc": "TCAFQ2158178"
+  },
+  {
+    "title": "Posljednji pohod",
+    "artist": "Voloh",
+    "isrc": "SMRUS0025409"
+  },
+  {
+    "title": "Rasputin",
+    "artist": "Turisas",
+    "isrc": "GBDHC0707201"
+  },
+  {
+    "title": "Gorzkie Zale",
+    "artist": "Thy Worshiper",
+    "isrc": "TCACO1696934"
+  },
+  {
+    "title": "Ойся",
+    "artist": "Родогост",
+    "isrc": "SMRUS0039558"
+  },
+  {
+    "title": "Firtree's Bark",
+    "artist": "Leshak",
+    "isrc": "USI4R0918037"
+  },
+  {
+    "title": "Christmas Carol",
+    "artist": "Rarog",
+    "isrc": "GBLPF0065501"
+  },
+  {
+    "title": "Sabat",
+    "artist": "Deloraine",
+    "isrc": "CZCG72301207"
+  },
+  {
+    "title": "The Lake (BATHORY cover)",
+    "artist": "Munruthel",
+    "isrc": "USQY51329464"
+  },
+  {
+    "title": "Synečku",
+    "artist": "Silent Stream of Godless Elegy",
+    "isrc": "CZE531800003"
+  },
+  {
+    "title": "Sorrow",
+    "artist": "Shexna",
+    "isrc": "QMBZ91317364"
+  },
+  {
+    "title": "Fear (Wasnt In The Design)",
+    "artist": "Rakoth",
+    "isrc": "GBBPB0701753"
+  },
+  {
+    "title": "Jesu Dod",
+    "artist": "Kroda",
+    "isrc": "QZZ662448401"
+  },
+  {
+    "title": "Through Darkness",
+    "artist": "Elforg",
+    "isrc": "SEYOK1530693"
+  },
+  {
+    "title": "The Dusk",
+    "artist": "Heiðnir",
+    "isrc": "UK-CVA-16-03232"
+  },
+  {
+    "title": "Goj, Olen!",
+    "artist": "Kalevala",
+    "isrc": "QMBZ91317436"
+  },
+  {
+    "title": "Arkona",
+    "artist": "Temnozor",
+    "isrc": "USI4R0810072"
+  },
+  {
+    "title": "Байкер",
+    "artist": "Бастион",
+    "isrc": "AEA2M2178333"
+  },
+  {
+    "title": "Вольная стая",
+    "artist": "Древень",
+    "isrc": "QMPU51290477"
+  },
+  {
+    "title": "Бесогон",
+    "artist": "Лешак",
+    "isrc": "SMRUS0024898"
+  },
+  {
+    "title": "Зачин",
+    "artist": "Твердь",
+    "isrc": "TCACW1616864"
+  },
+  {
+    "title": "Печаль птицы-девицы",
+    "artist": "Руян",
+    "isrc": "TCABY1461501"
+  },
+  {
+    "title": "Неба берега",
+    "artist": "Ладушка",
+    "isrc": "SMRUS0025393"
+  },
+  {
+    "title": "Купалинка",
+    "artist": "РарогЪ",
+    "isrc": "SMRUS0039529"
+  },
+  {
+    "title": "Берег былин",
+    "artist": "Кот-Баюн",
+    "isrc": "RUA3R1917543"
+  },
+  {
+    "title": "Родным богам",
+    "artist": "Симаргл",
+    "isrc": "AEA0D1803532"
+  },
+  {
+    "title": "Смута",
+    "artist": "Smuta",
+    "isrc": "SMRUS0055987"
+  },
+  {
+    "title": "Ключы",
+    "artist": "Sventoyar",
+    "isrc": "QZBRF1820847"
+  },
+  {
+    "title": "Голос лютеня",
+    "artist": "Svarga",
+    "isrc": "UAMU11713292"
+  },
+  {
+    "title": "Баня",
+    "artist": "SatanaKozel",
+    "isrc": "SMRUS0019363"
+  },
+  {
+    "title": "Гой! Священ огонь!",
+    "artist": "Веда",
+    "isrc": "SMRUS0051069"
+  },
+  {
+    "title": "Река",
+    "artist": "Alkonost",
+    "isrc": "TCACR1658671"
+  },
+  {
+    "title": "Йожин с бажин",
+    "artist": "Боянов Гимн",
+    "isrc": "SMRUS0042565"
+  },
+  {
+    "title": "Марево",
+    "artist": "Grai",
+    "isrc": "TCADJ1746101"
+  },
+  {
+    "title": "Dzikaje Paliavannie",
+    "artist": "Lutavierje",
+    "isrc": "TCACX1796643"
+  },
+  {
+    "title": "Мы с тобою пламя, мы с тобою звери!",
+    "artist": "Невидь",
+    "isrc": "SMRUS0039256"
+  },
+  {
+    "title": "Нагрянули",
+    "artist": "Kalevala",
+    "isrc": "UAMU11404844"
+  },
+  {
+    "title": "Лыхыj",
+    "artist": "Omut",
+    "isrc": "SEYOK1935502"
+  },
+  {
+    "title": "Call of the Wild",
+    "artist": "Fferyllt",
+    "isrc": "USQY51578933"
+  },
+  {
+    "title": "Mamuny",
+    "artist": "Helroth",
+    "isrc": "UK-CVA-16-03032"
+  },
+  {
+    "title": "Круговерть",
+    "artist": "Woodscream",
+    "isrc": "TCAES2001441"
+  },
+  {
+    "title": "Бегу я рысью, бегу я волком! - Original Mix",
+    "artist": "Butterfly Temple",
+    "isrc": "RUA3R1707280"
+  },
+  {
+    "title": "W Cieniu Wielkiego Debu",
+    "artist": "Radogost",
+    "isrc": "ushm21738254"
+  },
+  {
+    "title": "Mokosz",
+    "artist": "Netherfell",
+    "isrc": "DEKL51507012"
+  },
+  {
+    "title": "Поход",
+    "artist": "ОПРИЧЬ",
+    "isrc": "RUA1H1756364"
+  },
+  {
+    "title": "Герр Маннелиг",
+    "artist": "Сколот",
+    "isrc": "UMA112605384"
+  },
+  {
+    "title": "Troll's Hole Inn",
+    "artist": "FängörN",
+    "isrc": "AEA0D1916385"
+  },
+  {
+    "title": "Проклятие",
+    "artist": "Руевит",
+    "isrc": "SMRUS0009116"
+  },
+  {
+    "title": "Instrumental",
+    "artist": "Merkfolk",
+    "isrc": "UK-CVA-15-00420"
+  },
+  {
+    "title": "Зимушка",
+    "artist": "Arkona",
+    "isrc": "ATN261137114"
+  },
+  {
+    "title": "Болотный угар",
+    "artist": "Тринадцатый бубен",
+    "isrc": "SMRUS0026959"
+  },
+  {
+    "title": "Vodka",
+    "artist": "Beer Bear",
+    "isrc": "SMRUS0039042"
+  },
+  {
+    "title": "Человек человеку - волк",
+    "artist": "Eldiarn",
+    "isrc": "SMRUS0033127"
+  },
+  {
+    "title": "Хоругви",
+    "artist": "Сны Бенджамина",
+    "isrc": "QMFME1558581"
+  },
+  {
+    "title": "Po krańce gór",
+    "artist": "Othalan",
+    "isrc": "QZ9JZ1790008"
+  },
+  {
+    "title": "Mgła",
+    "artist": "Morhana",
+    "isrc": "PL20C1800004"
+  },
+  {
+    "title": "Topielica",
+    "artist": "Leśne Licho",
+    "isrc": "ushm81660636"
+  },
+  {
+    "title": "Dla Korzeni",
+    "artist": "Cronica",
+    "isrc": "uscgj2251486"
+  },
+  {
+    "title": "Доктор Смерть",
+    "artist": "Wolf Rahm",
+    "isrc": "SMRUS0062133"
+  },
+  {
+    "title": "Сягодня ў нас купала",
+    "artist": "ZNICH",
+    "isrc": "QZK6M2178899"
+  },
+  {
+    "title": "Desperation",
+    "artist": "Folcore",
+    "isrc": "QM4DW1780090"
+  },
+  {
+    "title": "Oj dolo",
+    "artist": "Łysa Góra",
+    "isrc": "PLU681900006"
+  },
+  {
+    "title": "Bloodlust Huntress",
+    "artist": "Last Wail",
+    "isrc": "QZ8251814165"
+  },
+  {
+    "title": "Starpath",
+    "artist": "Wartha",
+    "isrc": "SMRUS0019417"
+  },
+  {
+    "title": "Сталь манит кровь",
+    "artist": "Иван Царевич",
+    "isrc": "UAMU11611281"
+  },
+  {
+    "title": "Muzny Volat Pahaniajla",
+    "artist": "Sakramant",
+    "isrc": "QZHN31916813"
+  },
+  {
+    "title": "Cloak And Dagger",
+    "artist": "Percival Schuttenbach",
+    "isrc": "PLI361610560"
+  },
+  {
+    "title": "Гори, палай!",
+    "artist": "Natural Spirit",
+    "isrc": "QZES72023600"
+  },
+  {
+    "title": "Ветер прошлого",
+    "artist": "Pagan Reign",
+    "isrc": "RUA1H1926378"
+  },
+  {
+    "title": "Bóstwa",
+    "artist": "Żywiołak",
+    "isrc": "PLB841700086"
+  },
+  {
+    "title": "Rising Arrows",
+    "artist": "Gods Tower",
+    "isrc": "DES569991103"
+  },
+  {
+    "title": "Karol",
+    "artist": "Adarvirog",
+    "isrc": "QZHN42316309"
+  },
+  {
+    "title": "Perunova armáda",
+    "artist": "Obereg",
+    "isrc": "CZA163377987"
+  },
+  {
+    "title": "Čiji to dvor na gori stoji",
+    "artist": "Voloh",
+    "isrc": "SMRUS0025403"
+  },
+  {
+    "title": "Dzikaje Palavańnie",
+    "artist": "Dzivia",
+    "isrc": "QZES91856886"
+  },
+  {
+    "title": "Marzanna",
+    "artist": "Thy Worshiper",
+    "isrc": "TCACO1696937"
+  },
+  {
+    "title": "Лебедь белая",
+    "artist": "Руян",
+    "isrc": "TCABY1461498"
+  },
+  {
+    "title": "Дева",
+    "artist": "Ладушка",
+    "isrc": "SMRUS0025396"
+  },
+  {
+    "title": "Любо братцы...",
+    "artist": "РарогЪ",
+    "isrc": "SMRUS0008059"
+  },
+  {
+    "title": "Ах уехал мой любимый...",
+    "artist": "Кот-Баюн",
+    "isrc": "RUA3R1833075"
+  },
+  {
+    "title": "Заклинание",
+    "artist": "Симаргл",
+    "isrc": "SMRUS0039590"
+  },
+  {
+    "title": "The Wormwood’s Sorrow",
+    "artist": "Smuta",
+    "isrc": "SMRUS0073008"
+  },
+  {
+    "title": "Травушка",
+    "artist": "Sventoyar",
+    "isrc": "QZBRF1820843"
+  },
+  {
+    "title": "Дурень",
+    "artist": "Svarga",
+    "isrc": "UAMU11713283"
+  },
+  {
+    "title": "Подопри-гора",
+    "artist": "SatanaKozel",
+    "isrc": "SMRUS0019378"
+  },
+  {
+    "title": "Тайных дорог позабыты следы",
+    "artist": "Веда",
+    "isrc": "SMRUS0039418"
+  },
+  {
+    "title": "Русалка",
+    "artist": "Alkonost",
+    "isrc": "TCACR1670863"
+  },
+  {
+    "title": "За морями",
+    "artist": "Боянов Гимн",
+    "isrc": "RUA1H1905902"
+  },
+  {
+    "title": "Siem dzion",
+    "artist": "Lutavierje",
+    "isrc": "QZNJV2242727"
+  },
+  {
+    "title": "В Объятиях Мары",
+    "artist": "Grai",
+    "isrc": "TCABU1414917"
+  },
+  {
+    "title": "Клятва радости на крови!",
+    "artist": "Невидь",
+    "isrc": "SMRUS0039254"
+  },
+  {
+    "title": "Fly Away On Wings Of The Wind",
+    "artist": "Kalevala",
+    "isrc": "UMA202994314"
+  },
+  {
+    "title": "Спявай зямля",
+    "artist": "Omut",
+    "isrc": "SEYOK1652091"
+  },
+  {
+    "title": "A Celtic Tale - Instrumental Version",
+    "artist": "Fferyllt",
+    "isrc": "ESA011517919"
+  },
+  {
+    "title": "Kwiat życia",
+    "artist": "Helroth",
+    "isrc": "UK-CVA-16-03042"
+  },
+  {
+    "title": "Волки Одина - Акустическая версия",
+    "artist": "Butterfly Temple",
+    "isrc": "RUA3R1707465"
+  },
+  {
+    "title": "Лесной царь",
+    "artist": "Woodscream",
+    "isrc": "TCABZ1466584"
+  },
+  {
+    "title": "Niechaj Stanie Sie Dzien",
+    "artist": "Radogost",
+    "isrc": "ushm21738256"
+  },
+  {
+    "title": "Ghost of Kurgan",
+    "artist": "Netherfell",
+    "isrc": "DEKL51507001"
+  },
+  {
+    "title": "Медвежья хватка",
+    "artist": "ОПРИЧЬ",
+    "isrc": "RUA1H1756359"
+  },
+  {
+    "title": "Берсерк",
+    "artist": "Сколот",
+    "isrc": "UMA112605382"
+  },
+  {
+    "title": "Kpenkoe nubo Tponneu",
+    "artist": "FängörN",
+    "isrc": "SEYOK1320288"
+  },
+  {
+    "title": "Сеча",
+    "artist": "Руевит",
+    "isrc": "SMRUS0009115"
+  },
+  {
+    "title": "Merkfolk",
+    "artist": "Merkfolk",
+    "isrc": "UK-CVA-15-00424"
+  }
+]

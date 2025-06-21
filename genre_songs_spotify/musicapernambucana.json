@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Mãe do Mar",
+    "artist": "Maciel Salú, Juçara Marçal",
+    "isrc": "BRISS1800005"
+  },
+  {
+    "title": "Cabelo de Fogo",
+    "artist": "Orquestra Popular da Bomba do Hemetério",
+    "isrc": "BRF3D0600011"
+  },
+  {
+    "title": "Desde Menina",
+    "artist": "Lia de Itamaracá",
+    "isrc": "BR17C1900003"
+  },
+  {
+    "title": "O Homem da Meia Noite",
+    "artist": "Maestro Duda e Sua Orquestra",
+    "isrc": "FR6V82496579"
+  },
+  {
+    "title": "Côco do Norte",
+    "artist": "Silvério Pessoa",
+    "isrc": "BRPUI0600269"
+  },
+  {
+    "title": "Elefante de Olinda",
+    "artist": "Claudionor Germano",
+    "isrc": "BRGRV0501250"
+  },
+  {
+    "title": "Mola de Ratoeira",
+    "artist": "Cláudio Rabeca",
+    "isrc": "BR1C11800001"
+  },
+  {
+    "title": "Godê Pavão",
+    "artist": "Samba de Coco Raizes de Arcoverde",
+    "isrc": "QZGLS2314972"
+  },
+  {
+    "title": "Vassourinhas - Ao Vivo",
+    "artist": "Spok Frevo Orquestra",
+    "isrc": "BRPUI0700740"
+  },
+  {
+    "title": "O Cirandeiro",
+    "artist": "Mestre Anderson Miguel, Juçara Marçal",
+    "isrc": "BXWIY1500477"
+  },
+  {
+    "title": "Evocação Nº 1",
+    "artist": "Orquestra Nelson Ferreira",
+    "isrc": "BRMAX1403224"
+  },
+  {
+    "title": "Malunguinho",
+    "artist": "Grupo Bongar",
+    "isrc": "BRCYV1200013"
+  },
+  {
+    "title": "Acochado Todo",
+    "artist": "Almir Rouche",
+    "isrc": "BRGRV0500534"
+  },
+  {
+    "title": "Madeira Que Cupim Não Rói / Último Regresso / Evocação No. 1 / Valores do Passado / Frevo No. 3",
+    "artist": "Nena Queiroga",
+    "isrc": "QZ4JJ1743062"
+  },
+  {
+    "title": "Ultimo Regresso / Frevo N.1 Do Recife / Frevo N.3 / Evocacao N.1 - Original Mix",
+    "artist": "André Rio",
+    "isrc": "PTNG11200629"
+  },
+  {
+    "title": "Brilhantina",
+    "artist": "Renata Rosa",
+    "isrc": "FR6V80206186"
+  },
+  {
+    "title": "Trombone de Prata",
+    "artist": "Expedito Baracho",
+    "isrc": "BRMAX1501454"
+  },
+  {
+    "title": "É o Coco de Umbigada",
+    "artist": "Coco de Umbigada",
+    "isrc": "QZ5AB1884797"
+  },
+  {
+    "title": "Bicho Maluco Beleza",
+    "artist": "Galo da Madrugada, Alceu Valença",
+    "isrc": "FR10S1806598"
+  },
+  {
+    "title": "Balão Azul",
+    "artist": "Banda De Pifanos De Caruaru",
+    "isrc": "QZ5AB1630136"
+  },
+  {
+    "title": "Esperança",
+    "artist": "Banda De Pau E Corda",
+    "isrc": "BRBMG7500109"
+  },
+  {
+    "title": "Pifada da Loca",
+    "artist": "Zabé da Loca, Maciel Salú",
+    "isrc": "BRUOP0700030"
+  },
+  {
+    "title": "Mauricéia",
+    "artist": "Erasto Vasconcelos",
+    "isrc": "BREEI0500013"
+  },
+  {
+    "title": "Abre a Mata, Oxóssi",
+    "artist": "Alessandra Leão, Maurício Badé, Abuhl Júnior",
+    "isrc": "BXRI51900006"
+  },
+  {
+    "title": "Quixabinha",
+    "artist": "Josildo Sá, Paulo Moura",
+    "isrc": "BRS2R0600065"
+  },
+  {
+    "title": "Zabumba Lanceada",
+    "artist": "Quinteto Armorial",
+    "isrc": "BREMI8000131"
+  },
+  {
+    "title": "Aurora de Amor",
+    "artist": "Coral Edgard Moraes",
+    "isrc": "QZ5AB1852654"
+  },
+  {
+    "title": "O Coco Vai Começar",
+    "artist": "Adiel Luna",
+    "isrc": "QZ5AB1929555"
+  },
+  {
+    "title": "Homenagem à Folia",
+    "artist": "Bloco da Saudade",
+    "isrc": "BRMAX1401500"
+  },
+  {
+    "title": "Presepada (Tema de João Grilo)",
+    "artist": "SaGrama",
+    "isrc": "BRTRB2400889"
+  },
+  {
+    "title": "Mané Taiao",
+    "artist": "Cavalo-Marinho",
+    "isrc": "FR6V80505670"
+  },
+  {
+    "title": "Deusa da Minha Rua",
+    "artist": "Geraldo Maia, Yamandu Costa",
+    "isrc": "BRNPD0300007"
+  },
+  {
+    "title": "Apoteose do Galo",
+    "artist": "Gustavo Travassos",
+    "isrc": "BRGRV0501666"
+  },
+  {
+    "title": "Amor de Sertão - Ao Vivo",
+    "artist": "Geraldinho Lins",
+    "isrc": "BRG5P0500001"
+  },
+  {
+    "title": "Deusa De Itamaraca",
+    "artist": "Banda Pinguin",
+    "isrc": "BRBMG9500494"
+  },
+  {
+    "title": "Lembrança de um Beijo",
+    "artist": "Accioly Neto",
+    "isrc": "BRGRV0501096"
+  },
+  {
+    "title": "Te Faço um Cafuné",
+    "artist": "Nadia Maia, Dominguinhos",
+    "isrc": "BRMAX2200606"
+  },
+  {
+    "title": "Roda a Baiana",
+    "artist": "Maracatu Nação Encanto da Alegria, Mestre Toinho",
+    "isrc": "US7VG1102309"
+  },
+  {
+    "title": "A Luta Do Chachorro E a Onça",
+    "artist": "João Do Pife And The Banda De Pífanos Dois Irmãos",
+    "isrc": "GBAJU9501036"
+  },
+  {
+    "title": "Sanfoninha Choradeira",
+    "artist": "Novinho da Paraíba, Taty Girl",
+    "isrc": "BRMAX1500713"
+  },
+  {
+    "title": "Pica Pau",
+    "artist": "Passarinhos do Cerrado, Adiel Luna",
+    "isrc": "BR7OM1500001"
+  },
+  {
+    "title": "Ladeira da Sé",
+    "artist": "Nonô Germano",
+    "isrc": "BRMAX1401752"
+  },
+  {
+    "title": "Namorando de Novo",
+    "artist": "Fim De Feira, Assisão",
+    "isrc": "BR17U2300006"
+  },
+  {
+    "title": "Ilumina",
+    "artist": "Walter De Afogados",
+    "isrc": "BRMAX1800109"
+  },
+  {
+    "title": "Meu Maracatu",
+    "artist": "Maracatu Rural Cruzeiro do Forte",
+    "isrc": "US7VG1617707"
+  },
+  {
+    "title": "Festa dos Meus Zói",
+    "artist": "Dudu do Acordeon, Santanna \"O Cantador\"",
+    "isrc": "BRDE70800004"
+  },
+  {
+    "title": "Rainha da bateria",
+    "artist": "Pouca Chinfra",
+    "isrc": "BRFBE1000057"
+  },
+  {
+    "title": "Foto do Mundo",
+    "artist": "Ticuqueiros",
+    "isrc": "BR5PJ1300002"
+  },
+  {
+    "title": "Hino dos Batutas de São José",
+    "artist": "Orquestra Tabajara, Martinho Da Vila",
+    "isrc": "BRBMG7500208"
+  },
+  {
+    "title": "Revestrez",
+    "artist": "André Macambira",
+    "isrc": "BXTY81900029"
+  },
+  {
+    "title": "Agradecendo a Deus",
+    "artist": "Maracatu Leão Misterioso",
+    "isrc": "BR5PJ1100001"
+  },
+  {
+    "title": "Lápis de Cor",
+    "artist": "César Amaral",
+    "isrc": "QZ5AB1813012"
+  },
+  {
+    "title": "Estrela do Mar",
+    "artist": "Gonzaga Leal, Áurea Martins, Isadora Melo",
+    "isrc": "BX4531900007"
+  },
+  {
+    "title": "Cabeça Feita",
+    "artist": "Karynna Spinelli",
+    "isrc": "BRKRY2400001"
+  },
+  {
+    "title": "Ela no Forró",
+    "artist": "As Januárias",
+    "isrc": "BRMJD2100006"
+  },
+  {
+    "title": "Essência",
+    "artist": "Tonino Arcoverde",
+    "isrc": "BRVIL0300302"
+  },
+  {
+    "title": "Pau-de-Arara",
+    "artist": "Sérgio Cassiano",
+    "isrc": "ESA031431418"
+  },
+  {
+    "title": "Maré",
+    "artist": "André Mussalem, Almério",
+    "isrc": "BRTRB1870103"
+  },
+  {
+    "title": "União",
+    "artist": "Victor Camarote",
+    "isrc": "BXVCD2000001"
+  },
+  {
+    "title": "Eu vim da ilha Nazaré, Nazaré chapeu de couro",
+    "artist": "Samba De Véio Da Ilha Do Massangano",
+    "isrc": "BRA220601288"
+  },
+  {
+    "title": "Último Regresso",
+    "artist": "Coral Bloco da Saudade",
+    "isrc": "BRMAX1400520"
+  },
+  {
+    "title": "Capim Guiné - Ao Vivo",
+    "artist": "Andrezza Formiga",
+    "isrc": "QZHZ32278204"
+  },
+  {
+    "title": "Plantis da Vida",
+    "artist": "Orquestra de Frevo Zezé Corrêa, João Paulo Rosa",
+    "isrc": "BR5PJ2200018"
+  },
+  {
+    "title": "Circo Sambada - Instrumental",
+    "artist": "Eder O Rocha",
+    "isrc": "BRERH0600001"
+  },
+  {
+    "title": "Pra fazer chá",
+    "artist": "Matingueiros, Geraldo Azevedo, Naná Vasconcelos, Siba, Toinho Alves, Genival Lacerda, Sérgio Campelo, Fred Andrade, Genaro, Dominguinhos, Maestro Forró, Jessier Quirino",
+    "isrc": "BRWGD0700015"
+  },
+  {
+    "title": "Baião Poético Inicial",
+    "artist": "Cacai Nunes, George Lacerda, Vavá Afiouni, Robert Curto",
+    "isrc": "BRC9U0600001"
+  },
+  {
+    "title": "Samba Arretado",
+    "artist": "Carla Rio, Dudu Nobre",
+    "isrc": "BX8LQ2000001"
+  },
+  {
+    "title": "Isso é Samba de Coco",
+    "artist": "Herbert Lucena",
+    "isrc": "BRHEV1100003"
+  },
+  {
+    "title": "Oyá o Mulher Forte",
+    "artist": "Afoxé Oyá Alaxé",
+    "isrc": "QZ5AB1700276"
+  },
+  {
+    "title": "Evolução",
+    "artist": "Paulinho do Acordeon",
+    "isrc": "BRPOY1100051"
+  },
+  {
+    "title": "Orunmilá",
+    "artist": "Abeokuta",
+    "isrc": "QM2PV1531764"
+  },
+  {
+    "title": "Ferida / Como uma Virgem",
+    "artist": "As Amigas",
+    "isrc": "QZHZ32036456"
+  },
+  {
+    "title": "Frevo no Bairro do Recife",
+    "artist": "Banda 14º RI",
+    "isrc": "BRMAX1401399"
+  },
+  {
+    "title": "Caçada / Não sonho mais",
+    "artist": "Banda Seu Chico",
+    "isrc": "BRCKP1000113"
+  },
+  {
+    "title": "Trinca do 21",
+    "artist": "Banda da Polícia Militar de Pernambuco",
+    "isrc": "BRMAX1401403"
+  },
+  {
+    "title": "Milhões de Felicidades",
+    "artist": "Belo XiS",
+    "isrc": "BRMAX1500155"
+  },
+  {
+    "title": "Pot-Pourri Ciranda \"A Cobiçada\": Tomando Umas e Outras / Baralho de Ouro / Uma Moça Me Perguntou",
+    "artist": "Ciranda a Cobiçada",
+    "isrc": "FR6V82245448"
+  },
+  {
+    "title": "Ladeiras de Olinda",
+    "artist": "Coral Misto Mocambo",
+    "isrc": "BRMAX1400516"
+  },
+  {
+    "title": "Onde Está Você - Ao Vivo",
+    "artist": "Dominguinhos e Elba Ramalho",
+    "isrc": "BRPOY0900203"
+  },
+  {
+    "title": "Virgem do Rosário",
+    "artist": "Grupo Estrela Brilhante",
+    "isrc": "FRX281731553"
+  },
+  {
+    "title": "Meu Recado",
+    "artist": "Jorge Riba",
+    "isrc": "GBMJG1508777"
+  },
+  {
+    "title": "Grandes Lições",
+    "artist": "João Paulo Albertim",
+    "isrc": "BR35P1100005"
+  },
+  {
+    "title": "Forró de Aliança",
+    "artist": "Mestre Salustiano",
+    "isrc": "BREEI0300002"
+  },
+  {
+    "title": "Chorar pra Quê?",
+    "artist": "Márcia Pequeno, Assisão",
+    "isrc": "BRDE71700030"
+  },
+  {
+    "title": "Cobiçado",
+    "artist": "Orquestra De Frevo",
+    "isrc": "BRMAX1400696"
+  },
+  {
+    "title": "De Pai pra Filha",
+    "artist": "Santanna",
+    "isrc": "QZHZ62022263"
+  },
+  {
+    "title": "Voar no Balao",
+    "artist": "Ze Neguinho do Coco",
+    "isrc": "US5940510404"
+  },
+  {
+    "title": "Quem Tem Dois Não Tem Nenhum",
+    "artist": "Maciel Salú",
+    "isrc": "BRISS1500001"
+  },
+  {
+    "title": "Luanda d'Agora",
+    "artist": "Orquestra Popular da Bomba do Hemetério",
+    "isrc": "BRF3D0600002"
+  },
+  {
+    "title": "Bate-Bate-Com-Doce",
+    "artist": "Maestro Duda e Sua Orquestra",
+    "isrc": "FR6V82496581"
+  },
+  {
+    "title": "Coco de chegada",
+    "artist": "Silvério Pessoa",
+    "isrc": "BRSLW0500010"
+  },
+  {
+    "title": "Meu São Jorge",
+    "artist": "Lia de Itamaracá",
+    "isrc": "BR17C1900002"
+  },
+  {
+    "title": "Forrozinho Quente",
+    "artist": "Cláudio Rabeca",
+    "isrc": "BR1C11800011"
+  },
+  {
+    "title": "Recife Frevo Nº 1 / Frevo Nº 2 / Frevo Nº 3",
+    "artist": "Claudionor Germano",
+    "isrc": "BRMAX1400521"
+  },
+  {
+    "title": "Seu Maia",
+    "artist": "Samba de Coco Raizes de Arcoverde",
+    "isrc": "QZW9N2239168"
+  },
+  {
+    "title": "Passo de Anjo",
+    "artist": "Spok Frevo Orquestra",
+    "isrc": "BRVIL0400050"
+  },
+  {
+    "title": "Frevo da Saudade",
+    "artist": "Orquestra Nelson Ferreira",
+    "isrc": "BRMAX1403230"
+  },
+  {
+    "title": "Acorda Maria",
+    "artist": "Grupo Bongar, Benjamin Taubkin, Juliano Holanda",
+    "isrc": "BRCYV1200010"
+  },
+  {
+    "title": "É Hora",
+    "artist": "Mestre Anderson Miguel",
+    "isrc": "BXWIY1500484"
+  },
+  {
+    "title": "Capiba no Frevo II",
+    "artist": "Almir Rouche",
+    "isrc": "BR90B1501319"
+  },
+  {
+    "title": "De Chapéu de Sol Aberto / É de Fazer Chorar / Oh Bela",
+    "artist": "Nena Queiroga",
+    "isrc": "QZ4JJ1738509"
+  },
+  {
+    "title": "Hino da Troça (Hino da Ceroula) - Ao Vivo",
+    "artist": "André Rio",
+    "isrc": "BRPOY0800165"
+  },
+  {
+    "title": "Hino Do Elefante De Olinda / Regresso Dos Donzelinhos / Regresso De Pitombeira / Banho De Conde / Gostosão",
+    "artist": "Expedito Baracho, Orquestra de Frevos Clóvis Pereira",
+    "isrc": "BRMAX2101296"
+  },
+  {
+    "title": "Jurema",
+    "artist": "Renata Rosa",
+    "isrc": "QZGLM2080991"
+  },
+  {
+    "title": "O Coco Tráz Consciência",
+    "artist": "Coco de Umbigada",
+    "isrc": "QZ5AB1884805"
+  },
+  {
+    "title": "Diabo Louro",
+    "artist": "Galo da Madrugada, Alceu Valença",
+    "isrc": "FR10S1806600"
+  },
+  {
+    "title": "Petrolina, Juazeiro",
+    "artist": "Banda De Pifanos De Caruaru",
+    "isrc": "QZ5AB1630140"
+  },
+  {
+    "title": "Flor D'Agua",
+    "artist": "Banda De Pau E Corda",
+    "isrc": "BRBMG7500107"
+  },
+  {
+    "title": "Saí de Casa",
+    "artist": "Zabé da Loca, Escurinho",
+    "isrc": "BRUOP0700040"
+  },
+  {
+    "title": "Baile da Betinha",
+    "artist": "Erasto Vasconcelos",
+    "isrc": "QZNJW2096615"
+  },
+  {
+    "title": "Forró de Mané Vito",
+    "artist": "Josildo Sá, Paulo Moura",
+    "isrc": "BRS2R0600071"
+  },
+  {
+    "title": "Awa Aabo / Vou Levar Flores / Pontos para Iemanjá",
+    "artist": "Alessandra Leão, Lia de Itamaracá",
+    "isrc": "BXRI51900003"
+  },
+  {
+    "title": "Revoada",
+    "artist": "Quinteto Armorial",
+    "isrc": "BREMI7400177"
+  },
+  {
+    "title": "Valores do Passado",
+    "artist": "Coral Edgard Moraes",
+    "isrc": "QZ5AB1852647"
+  },
+  {
+    "title": "Passarinho na Gaiola",
+    "artist": "Adiel Luna",
+    "isrc": "QZ5AB1929556"
+  },
+  {
+    "title": "Carnaval Divinal",
+    "artist": "Bloco da Saudade",
+    "isrc": "QZHZ62205766"
+  },
+  {
+    "title": "O Varre Ruas",
+    "artist": "Cavalo-Marinho",
+    "isrc": "FR6V80505671"
+  },
+  {
+    "title": "Cuscuz",
+    "artist": "SaGrama",
+    "isrc": "BRGPH0800003"
+  },
+  {
+    "title": "O Galo em Veneza",
+    "artist": "Gustavo Travassos",
+    "isrc": "BRMAX1900001"
+  },
+  {
+    "title": "No Mundo por Onde Andei",
+    "artist": "Geraldo Maia, Rildo Vieira",
+    "isrc": "BCDQH2400006"
+  },
+  {
+    "title": "Onde Canta o Sabiá - Ao Vivo",
+    "artist": "Geraldinho Lins",
+    "isrc": "BRG5P0500003"
+  },
+  {
+    "title": "A Vida Inteira Te Amar",
+    "artist": "Banda Pinguin",
+    "isrc": "BRBMG9500489"
+  },
+  {
+    "title": "Minha Gata",
+    "artist": "Accioly Neto",
+    "isrc": "BRGRV0501097"
+  },
+  {
+    "title": "Oi que beco estreito",
+    "artist": "Maracatu Nação Encanto da Alegria, Mestre Toinho",
+    "isrc": "US7VG1102310"
+  },
+  {
+    "title": "Anjo Protetor",
+    "artist": "Nadia Maia",
+    "isrc": "BRMAX2200617"
+  },
+  {
+    "title": "Saudade Do Mestre Zé Do Estado Xote",
+    "artist": "João Do Pife And The Banda De Pífanos Dois Irmãos",
+    "isrc": "GBAJU9501031"
+  },
+  {
+    "title": "Solidão no Peito",
+    "artist": "Novinho da Paraíba",
+    "isrc": "BRMAX1500702"
+  },
+  {
+    "title": "Folha Amarela",
+    "artist": "Passarinhos do Cerrado, Siba Veloso",
+    "isrc": "BR7OM1500005"
+  },
+  {
+    "title": "Trombone de Prata",
+    "artist": "Nonô Germano",
+    "isrc": "BR90B2202883"
+  },
+  {
+    "title": "Sou da Banda",
+    "artist": "Fim De Feira",
+    "isrc": "BR17U2300005"
+  },
+  {
+    "title": "Bola da Vez",
+    "artist": "Walter De Afogados",
+    "isrc": "BRMAX2100891"
+  },
+  {
+    "title": "Eu Gostava Tanto Dela",
+    "artist": "Maracatu Rural Cruzeiro do Forte",
+    "isrc": "US7VG1617690"
+  },
+  {
+    "title": "Home Page",
+    "artist": "Dudu do Acordeon, Petrúcio Amorim",
+    "isrc": "US7VG1777507"
+  },
+  {
+    "title": "Fingimento",
+    "artist": "Pouca Chinfra",
+    "isrc": "BRFBE1000053"
+  },
+  {
+    "title": "O Choro do Meu Amor",
+    "artist": "Ticuqueiros",
+    "isrc": "BRAZJ0700008"
+  },
+  {
+    "title": "Espinha de Bacalhau",
+    "artist": "Orquestra Tabajara",
+    "isrc": "BRCID9200106"
+  },
+  {
+    "title": "Não Sonho Mais",
+    "artist": "André Macambira",
+    "isrc": "BR7AF2300001"
+  },
+  {
+    "title": "Falando da Natureza",
+    "artist": "Maracatu Leão Misterioso",
+    "isrc": "BR5PJ1100004"
+  },
+  {
+    "title": "Serrote Agudo - Ao Vivo",
+    "artist": "César Amaral, Chico Arruda",
+    "isrc": "QZ5AB1623085"
+  },
+  {
+    "title": "Mestre Rei dos Mestres Chegou Bendito Fruto",
+    "artist": "Gonzaga Leal",
+    "isrc": "BRUL90900002"
+  },
+  {
+    "title": "D'oxum",
+    "artist": "Karynna Spinelli",
+    "isrc": "usdy41762898"
+  },
+  {
+    "title": "A Zabumbeira É Quem Manda",
+    "artist": "As Januárias",
+    "isrc": "BCMYO2200001"
+  },
+  {
+    "title": "De riacho abaixo",
+    "artist": "Tonino Arcoverde",
+    "isrc": "BRVIL0300299"
+  },
+  {
+    "title": "Verbo",
+    "artist": "Sérgio Cassiano",
+    "isrc": "BRSCB0400012"
+  },
+  {
+    "title": "Gente de Bem",
+    "artist": "André Mussalem, Flaira Ferro",
+    "isrc": "BRTRB2082590"
+  },
+  {
+    "title": "Quem Disse",
+    "artist": "Victor Camarote, Chiquinho, Dengue, Pedro Mibielli, Pupillo, Regis Damasceno",
+    "isrc": "BRBN51600012"
+  },
+  {
+    "title": "Tira palma/Casa de palha/Varanda boa",
+    "artist": "Samba De Véio Da Ilha Do Massangano",
+    "isrc": "BRA220601290"
+  },
+  {
+    "title": "Minha Vida É o Mundo",
+    "artist": "Maciel Salú",
+    "isrc": "BRISS1000001"
+  },
+  {
+    "title": "Frevando Em Bomba do Hemetério",
+    "artist": "Orquestra Popular da Bomba do Hemetério",
+    "isrc": "BRF3D0600003"
+  },
+  {
+    "title": "Três da Tarde",
+    "artist": "Maestro Duda e Sua Orquestra",
+    "isrc": "FR6V82496573"
+  },
+  {
+    "title": "Micróbio do frevo",
+    "artist": "Silvério Pessoa",
+    "isrc": "BRTRB0500293"
+  },
+  {
+    "title": "Me Leve (feat. Martins)",
+    "artist": "Cláudio Rabeca, Martins",
+    "isrc": "BR1C11800002"
+  },
+  {
+    "title": "Eu Sou Lia Minha Ciranda Preta Cirandeira",
+    "artist": "Lia de Itamaracá",
+    "isrc": "FRZ179810690"
+  },
+  {
+    "title": "Pot-Pourri: É de Amargar / Tenho uma Coisa para Lhe Dizer / Manda Embora Essa Tristeza / Quem Vai pro Farol É o Bonde de Olinda",
+    "artist": "Claudionor Germano, Orquestra Nelson Ferreira",
+    "isrc": "FR6V82246737"
+  },
+  {
+    "title": "A Vida Tava Tão Boa",
+    "artist": "Samba de Coco Raizes de Arcoverde, Cícero Gomes",
+    "isrc": "QZW9N2239169"
+  },
+  {
+    "title": "Passo de Anjo - Ao Vivo",
+    "artist": "Spok Frevo Orquestra",
+    "isrc": "BRPUI0700729"
+  },
+  {
+    "title": "Corisco",
+    "artist": "Orquestra Nelson Ferreira",
+    "isrc": "FR6V82307483"
+  },
+  {
+    "title": "Odé",
+    "artist": "Grupo Bongar, Benjamin Taubkin, Juliano Holanda",
+    "isrc": "BRCYV1200008"
+  },
+  {
+    "title": "No Hoje e na Hora",
+    "artist": "Mestre Anderson Miguel, Jorge Du Peixe",
+    "isrc": "BXWIY1500482"
+  },
+  {
+    "title": "Ceroula",
+    "artist": "Almir Rouche",
+    "isrc": "BR90B1501320"
+  },
+  {
+    "title": "Energia / Massa Real / Sedução",
+    "artist": "Nena Queiroga",
+    "isrc": "QZ4JJ1738508"
+  },
+  {
+    "title": "Chuva de Sombrinhas - Original",
+    "artist": "André Rio",
+    "isrc": "PTNG11700014"
+  },
+  {
+    "title": "Coroa Imperial",
+    "artist": "Expedito Baracho",
+    "isrc": "BRMAX1400658"
+  },
+  {
+    "title": "Me Leva",
+    "artist": "Renata Rosa",
+    "isrc": "FR6V80206187"
+  },
+  {
+    "title": "Tapuia",
+    "artist": "Coco de Umbigada",
+    "isrc": "QZ5AB1884804"
+  },
+  {
+    "title": "Morena Tropicana",
+    "artist": "Galo da Madrugada, Alceu Valença",
+    "isrc": "FR10S1806606"
+  },
+  {
+    "title": "Caruara Caruaru",
+    "artist": "Banda De Pifanos De Caruaru",
+    "isrc": "BRTPA0200398"
+  },
+  {
+    "title": "Vivência",
+    "artist": "Banda De Pau E Corda",
+    "isrc": "BRBMG7300076"
+  },
+  {
+    "title": "Xote Arrumadinho",
+    "artist": "Zabé da Loca",
+    "isrc": "BRUOP0700028"
+  },
+  {
+    "title": "Guia de Olinda",
+    "artist": "Erasto Vasconcelos",
+    "isrc": "QZNJW2096623"
+  },
+  {
+    "title": "Pra Virar Lobisomem",
+    "artist": "Josildo Sá, Paulo Moura",
+    "isrc": "BRS2R0600066"
+  },
+  {
+    "title": "Toque Dos Caboclinhos (Tradicional)",
+    "artist": "Quinteto Armorial",
+    "isrc": "BRUM71902268"
+  },
+  {
+    "title": "No Pé da Jurema",
+    "artist": "Alessandra Leão",
+    "isrc": "BXRI51900010"
+  },
+  {
+    "title": "Frevo do Galo",
+    "artist": "Coral Edgard Moraes",
+    "isrc": "QZ5AB1852650"
+  },
+  {
+    "title": "Legado",
+    "artist": "Adiel Luna, Arnaldo Ferreira",
+    "isrc": "QZ5AB1874510"
+  },
+  {
+    "title": "Evocação N° 1",
+    "artist": "Bloco da Saudade",
+    "isrc": "QZHZ62205771"
+  },
+  {
+    "title": "Velho Corcunda",
+    "artist": "Cavalo-Marinho",
+    "isrc": "FR6V80505676"
+  }
+]

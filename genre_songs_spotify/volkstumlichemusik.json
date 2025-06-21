@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Schei-wi-dei-wi-du",
+    "artist": "Die Mayrhofner",
+    "isrc": "ATV110981002"
+  },
+  {
+    "title": "I bin a Haderlump",
+    "artist": "Zillertaler Haderlumpen",
+    "isrc": "ATH700716380"
+  },
+  {
+    "title": "Tiroler Herz Marsch",
+    "artist": "TIROLER WIND",
+    "isrc": "ITA501424002"
+  },
+  {
+    "title": "Die Gamslan schwarz und braun",
+    "artist": "Orig. Südtiroler Spitzbuam",
+    "isrc": "ATV111017009"
+  },
+  {
+    "title": "Mei Schatz is made in Germany",
+    "artist": "Alexandra Schmied",
+    "isrc": "DEF311163404"
+  },
+  {
+    "title": "Steirisch klingt's am Schönsten",
+    "artist": "Die Hiatamadln",
+    "isrc": "ATT250605940"
+  },
+  {
+    "title": "Bist du mal allein - Live",
+    "artist": "Die Schwarzensteiner",
+    "isrc": "ITA501614016"
+  },
+  {
+    "title": "So Schön Ist Doch Nur Südtirol - Orig. Version",
+    "artist": "Pustertaler Alpentrio",
+    "isrc": "ITA501994301"
+  },
+  {
+    "title": "Ich würd's nochmal riskier'n",
+    "artist": "Die Schmalzler",
+    "isrc": "DEF311777501"
+  },
+  {
+    "title": "Oberkrainer Medley - Auf der Autobahn/Guten Morgen/Schöne Urlaubszeit",
+    "artist": "Die Bayrische 7",
+    "isrc": "DEA660300461"
+  },
+  {
+    "title": "Nix Amore",
+    "artist": "Florian Fesl",
+    "isrc": "DEHK92108586"
+  },
+  {
+    "title": "Ich hab dir mein Herz gegeben",
+    "artist": "Die Wörtherseer",
+    "isrc": "ATUM71100416"
+  },
+  {
+    "title": "Ein Engel stand am Weg",
+    "artist": "LUIS MOSER",
+    "isrc": "ATV111143001"
+  },
+  {
+    "title": "Frühschoppen im Tirolerland",
+    "artist": "Original Tiroler Alpenbummler",
+    "isrc": "ATT250607850"
+  },
+  {
+    "title": "Liebe spricht sanft",
+    "artist": "Willy Lempfrecher",
+    "isrc": "ATV111813001"
+  },
+  {
+    "title": "FÜR DICH ALLEIN IST DIESES LIED",
+    "artist": "Sonja Weissensteiner",
+    "isrc": "DEA660000194"
+  },
+  {
+    "title": "Das Land Der Berge",
+    "artist": "Brigitte Aichner",
+    "isrc": "ITA509516212"
+  },
+  {
+    "title": "Sterne Glühen In Deinen Augen",
+    "artist": "Die 3 Tauferer",
+    "isrc": "ITA509304202"
+  },
+  {
+    "title": "Harmonika Zu Zweit",
+    "artist": "Goldeck Burschn",
+    "isrc": "ITA501998508"
+  },
+  {
+    "title": "Tiroler Bravour - jodler",
+    "artist": "Maria Sulzer",
+    "isrc": "ITI061000097"
+  },
+  {
+    "title": "Kinder der Straße",
+    "artist": "Alpenblitz aus Südtirol",
+    "isrc": "ATA100115390"
+  },
+  {
+    "title": "Wenn dein Herz zweimal liebt",
+    "artist": "Alpengaudis",
+    "isrc": "ATA101577060"
+  },
+  {
+    "title": "Es ist Liebe",
+    "artist": "Anny & Petra",
+    "isrc": "ATA101577180"
+  },
+  {
+    "title": "Es gibt Millionen von Sternen",
+    "artist": "Arunda Buam",
+    "isrc": "ATA101903380"
+  },
+  {
+    "title": "Thank God, I'm a Country Boy",
+    "artist": "Billy White",
+    "isrc": "DEA540703989"
+  },
+  {
+    "title": "Liebeskummer Lohnt Sich Nicht",
+    "artist": "Der Nachtexpress",
+    "isrc": "ITA509506212"
+  },
+  {
+    "title": "Verliebt in meine Alpen Lady",
+    "artist": "Die Alpen Geier",
+    "isrc": "ATA100115400"
+  },
+  {
+    "title": "Auf der Autobahn",
+    "artist": "Die Kaiser Buam",
+    "isrc": "NLG930600113"
+  },
+  {
+    "title": "Ziecherklong",
+    "artist": "Die Friedburger",
+    "isrc": "ATT259501790"
+  },
+  {
+    "title": "Kirschta Michl Lied",
+    "artist": "Die Heimatvagabunden",
+    "isrc": "ITA509400105"
+  },
+  {
+    "title": "Mein Bierglas Hat Ein Leck",
+    "artist": "Die Neuninger",
+    "isrc": "ATA161284405"
+  },
+  {
+    "title": "Einmal Tiroler sein",
+    "artist": "Die Seiser",
+    "isrc": "ITA501120002"
+  },
+  {
+    "title": "Die ganze Welt umarmen",
+    "artist": "Die Vajolets",
+    "isrc": "ITA509413213"
+  },
+  {
+    "title": "Alle Himmel steh'n offen",
+    "artist": "Drei Tiroler mit Klara",
+    "isrc": "ATA101577030"
+  },
+  {
+    "title": "Viele kleine Wunder",
+    "artist": "Duo Romantik",
+    "isrc": "ATA101577150"
+  },
+  {
+    "title": "Jeder Hat Dich Gern - Einer Hat Dich Lieb",
+    "artist": "Elmar",
+    "isrc": "ITA509507208"
+  },
+  {
+    "title": "Schenk mir deine Liebe",
+    "artist": "Feuerherzen",
+    "isrc": "ATA101577170"
+  },
+  {
+    "title": "Atemlos",
+    "artist": "Franz Senn",
+    "isrc": "ATA101577010"
+  },
+  {
+    "title": "I bin i",
+    "artist": "Hochschwab Vagabunden",
+    "isrc": "ATA101577000"
+  },
+  {
+    "title": "Wenn ich mir von Dir erzähle",
+    "artist": "Jens Jürgens",
+    "isrc": "ATT250305130"
+  },
+  {
+    "title": "Kinder der Erde",
+    "artist": "Jens und Tine",
+    "isrc": "ATA100115450"
+  },
+  {
+    "title": "Geh', wohin du gehen musst",
+    "artist": "Ladykiller aus Tirol",
+    "isrc": "ATA101577110"
+  },
+  {
+    "title": "Musik, Freude, Heiterkeit",
+    "artist": "Mergelländer Buben mit Anita",
+    "isrc": "ATA100115350"
+  },
+  {
+    "title": "Ich möchte gern bei den Musikanten sein",
+    "artist": "Nicole und die Lechtaler",
+    "isrc": "ATA100115310"
+  },
+  {
+    "title": "Durch's Sarntal",
+    "artist": "Orig. Sarntal Quintett",
+    "isrc": "ITA500941401"
+  },
+  {
+    "title": "Mein allergrößtes Glück",
+    "artist": "Orig. Südtiroler Alpenquintett",
+    "isrc": "ITA509413207"
+  },
+  {
+    "title": "Die schönste Ecke im Paradies",
+    "artist": "Orig. Südtiroler Alpentrio",
+    "isrc": "ITA509515209"
+  },
+  {
+    "title": "Ich bin deine beste Freundin",
+    "artist": "Patrizia Feichter",
+    "isrc": "ATA109773600"
+  },
+  {
+    "title": "Küss mich noch einmal bevor du gehst",
+    "artist": "Petra & Babsi",
+    "isrc": "ATA101577070"
+  },
+  {
+    "title": "Komm es ist so wunderschön",
+    "artist": "Prissner Spitzbuam mit den Pfiffiküssen",
+    "isrc": "ITA509413210"
+  },
+  {
+    "title": "Jedes Herz hat a Latern",
+    "artist": "Pustertal Express - Marabell mit Iris",
+    "isrc": "ITA509413202"
+  },
+  {
+    "title": "Am Brunnen von Trevi",
+    "artist": "Raimund & Monika",
+    "isrc": "ATA101577100"
+  },
+  {
+    "title": "Das große Glück",
+    "artist": "Stef & Annelies",
+    "isrc": "ATA100115380"
+  },
+  {
+    "title": "Auf einmal träume ich",
+    "artist": "Südtiroler Alpenspatzen",
+    "isrc": "ATA100115470"
+  },
+  {
+    "title": "König Der Berge",
+    "artist": "Südtiroler Alpentrio",
+    "isrc": "ITA509601201"
+  },
+  {
+    "title": "Solang die Sonne scheint",
+    "artist": "Thommy Lars",
+    "isrc": "ITA509610204"
+  },
+  {
+    "title": "Das Karusell der Liebe",
+    "artist": "Trenser Buam",
+    "isrc": "ATA101577140"
+  },
+  {
+    "title": "Papa Moon",
+    "artist": "Zillertaler Nachtigallen",
+    "isrc": "ATA100115420"
+  },
+  {
+    "title": "Der alte Mann in den Bergen",
+    "artist": "Alpensextett Terenten",
+    "isrc": "ITA509515210"
+  },
+  {
+    "title": "Ich liebe meine Heimat",
+    "artist": "Aartal Echo",
+    "isrc": "ATA101576870"
+  },
+  {
+    "title": "Rama Lama Ding Dong",
+    "artist": "Aischzeit",
+    "isrc": "ATT250307000"
+  },
+  {
+    "title": "Was hat sie, was ich nicht habe",
+    "artist": "Alexandra Baum",
+    "isrc": "ATV110565004"
+  },
+  {
+    "title": "Döner macht schöner",
+    "artist": "Allgäu Power",
+    "isrc": "DEK720400006"
+  },
+  {
+    "title": "Logisch",
+    "artist": "Alpenmelodies",
+    "isrc": "ATA100214780"
+  },
+  {
+    "title": "Dein Herz das muss aus Gold sein",
+    "artist": "Anna Lena",
+    "isrc": "DES120101883"
+  },
+  {
+    "title": "Da hängt der Himmel voller Geigen",
+    "artist": "Arlberger Spitzbuam",
+    "isrc": "ATA100013200"
+  },
+  {
+    "title": "Eine Nacht In Deinen Armen",
+    "artist": "Birgit Pless",
+    "isrc": "ATD391000500"
+  },
+  {
+    "title": "Insel der Liebe",
+    "artist": "Britta Onnen",
+    "isrc": "DEF709600097"
+  },
+  {
+    "title": "Old Time Rock'n Roll",
+    "artist": "Christian Gebhardt",
+    "isrc": "DEF311369208"
+  },
+  {
+    "title": "Hasenalarm",
+    "artist": "DJ Ossi",
+    "isrc": "ATA101578300"
+  },
+  {
+    "title": "Laguna d’Amore",
+    "artist": "Daniela Urich",
+    "isrc": "ATE832200848"
+  },
+  {
+    "title": "Ein Engel mit vier Pfoten",
+    "artist": "Die Alpengaudis",
+    "isrc": "ATA101576790"
+  },
+  {
+    "title": "Freunde fürs Leben",
+    "artist": "Die Arunda",
+    "isrc": "ATA101576890"
+  },
+  {
+    "title": "Holz vor der Hütt'n",
+    "artist": "Die Bajuwaren",
+    "isrc": "DEF700100054"
+  },
+  {
+    "title": "Paris Toujours",
+    "artist": "Die Bläcky's",
+    "isrc": "ATA101576690"
+  },
+  {
+    "title": "Du allein",
+    "artist": "Die Eisacktaler",
+    "isrc": "ATA101600440"
+  },
+  {
+    "title": "Freibier Für Alle (Radio Version)",
+    "artist": "Die Freiberger",
+    "isrc": "DEE600200032"
+  },
+  {
+    "title": "Drauf miass ma tanzen",
+    "artist": "Die Halblechtaler",
+    "isrc": "ATA100317270"
+  },
+  {
+    "title": "Polka mit Pfiff",
+    "artist": "Die Jungen Paldauer",
+    "isrc": "ATZ241572973"
+  },
+  {
+    "title": "Frauen",
+    "artist": "Die Kirchberger",
+    "isrc": "ATA101576950"
+  },
+  {
+    "title": "Sevilla",
+    "artist": "Die Kristaldos",
+    "isrc": "ATA109544500"
+  },
+  {
+    "title": "I tanz so gern mit dir",
+    "artist": "Die Möltner",
+    "isrc": "ATA101600370"
+  },
+  {
+    "title": "Komm doch zurück",
+    "artist": "Die Täldra",
+    "isrc": "ATA100013130"
+  },
+  {
+    "title": "Sommermärchen",
+    "artist": "Die Tüchersfelder Buam",
+    "isrc": "ATA100317350"
+  },
+  {
+    "title": "Das Wunderland der Harmonie",
+    "artist": "Die Unterdocher",
+    "isrc": "ATA101576740"
+  },
+  {
+    "title": "Nimm's leicht",
+    "artist": "Die Waldspitzbuam",
+    "isrc": "ATA100214740"
+  },
+  {
+    "title": "Alphornträume",
+    "artist": "Die lustigen Südtiroler",
+    "isrc": "ATT251016950"
+  },
+  {
+    "title": "Zünd noch eine Kerze an",
+    "artist": "Die zwei Brüder",
+    "isrc": "ATA101578330"
+  },
+  {
+    "title": "Jetzt spiel ich auf meiner Trompete",
+    "artist": "Dori Quintett",
+    "isrc": "ATA100013140"
+  },
+  {
+    "title": "Spitzbuben-Polka",
+    "artist": "Dornbirner Spitzbuben",
+    "isrc": "DEB170009341"
+  },
+  {
+    "title": "Kleine Carina",
+    "artist": "Fellner Mühlenmusikanten",
+    "isrc": "ATA100013120"
+  },
+  {
+    "title": "Sommerparty Sommerfeeling",
+    "artist": "Gina",
+    "isrc": "DEUM70500768"
+  },
+  {
+    "title": "Bundesrat",
+    "artist": "Grenzenlos",
+    "isrc": "DEDT71600028"
+  },
+  {
+    "title": "Zum Tanz Erklingt Musik",
+    "artist": "Grenzland Express",
+    "isrc": "DEF259900092"
+  },
+  {
+    "title": "Der Himmel über Tirol",
+    "artist": "Harald Rühl",
+    "isrc": "ATP691100021"
+  },
+  {
+    "title": "Mein Herz ist freier als ein Vogel",
+    "artist": "Heidi Haas",
+    "isrc": "DEF610400043"
+  },
+  {
+    "title": "Wie ein Liebeslied",
+    "artist": "Heiko Wolf",
+    "isrc": "ATA101045130"
+  },
+  {
+    "title": "Begrüßt am Morgen mich die Sonne",
+    "artist": "Ines Lehmann",
+    "isrc": "ATA160482601"
+  },
+  {
+    "title": "Ich träume von Südtirol",
+    "artist": "Ingrid und die Steirerboys",
+    "isrc": "ATA101578400"
+  },
+  {
+    "title": "Das Leben ist ein Karusell",
+    "artist": "Konrad und Jasmine Goller",
+    "isrc": "ATA100013180"
+  },
+  {
+    "title": "Ewig wie die Sterne",
+    "artist": "Lena Hofer",
+    "isrc": "ATA101600430"
+  },
+  {
+    "title": "Ich schenk' dir tausend Rosen",
+    "artist": "Manfred Gager",
+    "isrc": "ATA100214770"
+  },
+  {
+    "title": "Südtiroler Heimatgrüsse",
+    "artist": "Maria Sulzner",
+    "isrc": "ATA101576710"
+  },
+  {
+    "title": "Mein Kaltes Herz",
+    "artist": "Meinhard",
+    "isrc": "DEBZ71500275"
+  },
+  {
+    "title": "Bier her I hob Durst - Radio Mix",
+    "artist": "Markus, Gruaba Buam",
+    "isrc": "ATR981142691"
+  },
+  {
+    "title": "Das Leben ist ein Hit",
+    "artist": "Monika B und die Sui",
+    "isrc": "ATA101578370"
+  },
+  {
+    "title": "Für's Land das Heimat heißt",
+    "artist": "Odenwald Echo",
+    "isrc": "ATA101576730"
+  },
+  {
+    "title": "Träume hast du mitgebracht",
+    "artist": "Olm Sound",
+    "isrc": "ATA100317280"
+  },
+  {
+    "title": "Heut' lass' 'mer d'Fetza fliega",
+    "artist": "Original Donau Spatzen",
+    "isrc": "ATA109658701"
+  },
+  {
+    "title": "Sag doch ja",
+    "artist": "Patrick Grütter",
+    "isrc": "ATA101576820"
+  },
+  {
+    "title": "I kenn di do",
+    "artist": "PensiPeda",
+    "isrc": "ATW151301131"
+  },
+  {
+    "title": "Harmonika Party",
+    "artist": "Primtal Express",
+    "isrc": "ATT250800570"
+  },
+  {
+    "title": "Sing doch einfach ein Lied",
+    "artist": "Romana & Alexandra",
+    "isrc": "ATA100214750"
+  },
+  {
+    "title": "Ich Bin Zuckersüß",
+    "artist": "Silke",
+    "isrc": "NLW2R2250975"
+  },
+  {
+    "title": "Gute Laune im Gepäck",
+    "artist": "Silke Grundmann",
+    "isrc": "ATA101576810"
+  },
+  {
+    "title": "Ihr Eltern hört bitte her",
+    "artist": "Stefan Steger",
+    "isrc": "ATA100317320"
+  },
+  {
+    "title": "Janina",
+    "artist": "Südtiroler Alpenamigos",
+    "isrc": "ATA101603660"
+  },
+  {
+    "title": "Silberhochzeit",
+    "artist": "Südtiroler Alpenquintett",
+    "isrc": "ATK660310005"
+  },
+  {
+    "title": "Ein neuer Morgen ein neues Glück",
+    "artist": "Südtiroler Nachtfalken",
+    "isrc": "ITA509515203"
+  },
+  {
+    "title": "Ich hab nur Augen für dich",
+    "artist": "Trio Herzblatt",
+    "isrc": "ATA100013230"
+  },
+  {
+    "title": "HALLO HALLI",
+    "artist": "Zillertaler Haderlumpen",
+    "isrc": "ATH701019110"
+  },
+  {
+    "title": "Der Geigenopa aus Tirol",
+    "artist": "Die Mayrhofner",
+    "isrc": "ATV111202001"
+  },
+  {
+    "title": "A Jodler aus Tirol",
+    "artist": "TIROLER WIND",
+    "isrc": "ATV110658001"
+  },
+  {
+    "title": "Spitzbuamzeit ist Partyzeit",
+    "artist": "Orig. Südtiroler Spitzbuam",
+    "isrc": "ATV111122002"
+  },
+  {
+    "title": "Alpenjäger Boarischer (Instr.)",
+    "artist": "Alexandra Schmied",
+    "isrc": "ATM051829003"
+  },
+  {
+    "title": "Jodeln ist modern",
+    "artist": "Die Hiatamadln",
+    "isrc": "ATT250105530"
+  },
+  {
+    "title": "Ohne Strom koa Musig",
+    "artist": "Die Schwarzensteiner",
+    "isrc": "ATV110537001"
+  },
+  {
+    "title": "Ich Bin Ein Musikant",
+    "artist": "Pustertaler Alpentrio",
+    "isrc": "ITA501994306"
+  },
+  {
+    "title": "Der alte Holzknecht",
+    "artist": "Die Schmalzler",
+    "isrc": "DEF311777516"
+  },
+  {
+    "title": "Schunkelmedley - Tief drin im Böhmerwald/Waldeslust/Aus Böhmen kommt die Musik/",
+    "artist": "Die Bayrische 7",
+    "isrc": "DEA660300453"
+  },
+  {
+    "title": "Expresso & Tschianti",
+    "artist": "Florian Fesl",
+    "isrc": "DEQS92101258"
+  },
+  {
+    "title": "Ich will mit Dir zusammen träumen",
+    "artist": "Die Wörtherseer",
+    "isrc": "DEZ921701016"
+  },
+  {
+    "title": "Der Herzschlag der Berge",
+    "artist": "LUIS MOSER",
+    "isrc": "ATV110567003"
+  },
+  {
+    "title": "Fahrt durch Tirol",
+    "artist": "Original Tiroler Alpenbummler",
+    "isrc": "ATT250607940"
+  },
+  {
+    "title": "Heimat ist Liebe",
+    "artist": "Willy Lempfrecher",
+    "isrc": "ATV111624007"
+  },
+  {
+    "title": "DANN TRÄUM ICH MIR MEINE BERGE ZURÜCK",
+    "artist": "Sonja Weissensteiner",
+    "isrc": "DEA660100174"
+  },
+  {
+    "title": "Das Letzte Paradies",
+    "artist": "Brigitte Aichner",
+    "isrc": "ITA509516201"
+  },
+  {
+    "title": "Schatzi Bussi Maus",
+    "artist": "Die 3 Tauferer",
+    "isrc": "ITA509304210"
+  },
+  {
+    "title": "Bergsteigerpolka",
+    "artist": "Goldeck Burschn",
+    "isrc": "ITA501998514"
+  },
+  {
+    "title": "Hochgang Jodler",
+    "artist": "Maria Sulzer",
+    "isrc": "ITI061000081"
+  },
+  {
+    "title": "Wenn wir erklimmen",
+    "artist": "Arunda Buam",
+    "isrc": "ATA101903290"
+  },
+  {
+    "title": "Rhinestone Cowboy",
+    "artist": "Billy White",
+    "isrc": "DEA540703984"
+  },
+  {
+    "title": "Der Wilde Wind Aus Der Taiga",
+    "artist": "Der Nachtexpress",
+    "isrc": "ITA509506206"
+  },
+  {
+    "title": "Heit sein mir Happy",
+    "artist": "Die Friedburger",
+    "isrc": "ITA509413212"
+  },
+  {
+    "title": "Alte i bleib liegen",
+    "artist": "Die Heimatvagabunden",
+    "isrc": "ITA509400108"
+  },
+  {
+    "title": "Grossglocknerblick",
+    "artist": "Die Kaiser Buam",
+    "isrc": "NLG930600114"
+  },
+  {
+    "title": "Berge Sind Koenige Der Erde",
+    "artist": "Die Neuninger",
+    "isrc": "ATA169678803"
+  },
+  {
+    "title": "Einfach so",
+    "artist": "Die Seiser",
+    "isrc": "ITA509413206"
+  },
+  {
+    "title": "Bleib Heut Bei Mir",
+    "artist": "Elmar",
+    "isrc": "ITA509507203"
+  },
+  {
+    "title": "Alpenfrieden",
+    "artist": "Orig. Sarntal Quintett",
+    "isrc": "ITA500941405"
+  },
+  {
+    "title": "Alpenwinnetou",
+    "artist": "Patrizia Feichter",
+    "isrc": "ATA109773500"
+  },
+  {
+    "title": "So Schön Ist Doch Nur Südtirol",
+    "artist": "Südtiroler Alpentrio",
+    "isrc": "ITA509601210"
+  },
+  {
+    "title": "Das Paradies der Zärtlichkeit",
+    "artist": "Alpensextett Terenten",
+    "isrc": "ATT259618110"
+  },
+  {
+    "title": "Alles lila",
+    "artist": "Aischzeit",
+    "isrc": "ATH701120520"
+  },
+  {
+    "title": "Jassou Griechenland",
+    "artist": "Alexandra Baum",
+    "isrc": "ATV110736001"
+  },
+  {
+    "title": "Mir san jung - uns g'hört der Himmel",
+    "artist": "Allgäu Power",
+    "isrc": "DEK720200064"
+  },
+  {
+    "title": "Morgen hast du keine Sorgen",
+    "artist": "Anna Lena",
+    "isrc": "DES120101886"
+  },
+  {
+    "title": "Wenn Engel weinen",
+    "artist": "Birgit Pless",
+    "isrc": "ATD391300980"
+  },
+  {
+    "title": "Mutterherz",
+    "artist": "Britta Onnen",
+    "isrc": "DEF700003136"
+  },
+  {
+    "title": "Sing mei Sachse Sing",
+    "artist": "Christian Gebhardt",
+    "isrc": "DEF311369201"
+  },
+  {
+    "title": "Da waren doch mal Schmetterlinge im Bauch",
+    "artist": "Daniela Urich",
+    "isrc": "ATE832400921"
+  },
+  {
+    "title": "Zickl-Zackl-Boarischer",
+    "artist": "Die Bajuwaren",
+    "isrc": "DEF700000845"
+  },
+  {
+    "title": "Der Mond und die Stern",
+    "artist": "Die Jungen Paldauer",
+    "isrc": "ATZ241572964"
+  },
+  {
+    "title": "1000 und zwei Nächte",
+    "artist": "Die Kristaldos",
+    "isrc": "ATA109544400"
+  },
+  {
+    "title": "1, 2 - ODER 3000 JAHRE",
+    "artist": "Zillertaler Haderlumpen",
+    "isrc": "ATH701019130"
+  },
+  {
+    "title": "Tiroler Lieder-Medley",
+    "artist": "Orig. Südtiroler Spitzbuam",
+    "isrc": "ATV111017012"
+  },
+  {
+    "title": "Musik ist unser Leben",
+    "artist": "TIROLER WIND",
+    "isrc": "ATV110658007"
+  },
+  {
+    "title": "Schei-wi-dei-wi-du-wi-dei (Live im Zillertal 2006)",
+    "artist": "Die Mayrhofner",
+    "isrc": "ATV112100822"
+  },
+  {
+    "title": "Volksmusik is da Hammer",
+    "artist": "Alexandra Schmied",
+    "isrc": "ATT252301180"
+  },
+  {
+    "title": "Hiatajodler",
+    "artist": "Die Hiatamadln",
+    "isrc": "ATT250408100"
+  },
+  {
+    "title": "Brennholz Boarisch",
+    "artist": "Die Schwarzensteiner",
+    "isrc": "ITA501403202"
+  },
+  {
+    "title": "Gollhaus Polka",
+    "artist": "Pustertaler Alpentrio",
+    "isrc": "ITA501994311"
+  },
+  {
+    "title": "Mutterherz ich möchte danke dir sagen",
+    "artist": "Die Schmalzler",
+    "isrc": "DEF310955102"
+  },
+  {
+    "title": "Gummiboot –Medley - Fahrende Musikanten/Spaniens Gitarren/Schön ist es auf der Welt zu sein/ Er hat ein Knallrotes Gummiboot",
+    "artist": "Die Bayrische 7",
+    "isrc": "DEA660300450"
+  },
+  {
+    "title": "Wie du bist",
+    "artist": "Die Wörtherseer",
+    "isrc": "ATUM71100417"
+  },
+  {
+    "title": "Amara, das Zigeunermädchen",
+    "artist": "LUIS MOSER",
+    "isrc": "ATM052200453"
+  },
+  {
+    "title": "I bin a echter Bayer",
+    "artist": "Florian Fesl",
+    "isrc": "ATV110743010"
+  },
+  {
+    "title": "Wenn Musikanten feiern",
+    "artist": "Original Tiroler Alpenbummler",
+    "isrc": "ATT250607870"
+  },
+  {
+    "title": "Den letzten Tango",
+    "artist": "Willy Lempfrecher",
+    "isrc": "ATV111624010"
+  },
+  {
+    "title": "Ich hab die beste Oma",
+    "artist": "Sonja Weissensteiner",
+    "isrc": "ITA509413204"
+  },
+  {
+    "title": "Die Schönsten Blumen Für Mama",
+    "artist": "Brigitte Aichner",
+    "isrc": "ITA509516208"
+  },
+  {
+    "title": "Wo einst die Wiesen noch blühten",
+    "artist": "Die 3 Tauferer",
+    "isrc": "ITA509413209"
+  },
+  {
+    "title": "Fanclub Polka",
+    "artist": "Goldeck Burschn",
+    "isrc": "ITA501998506"
+  },
+  {
+    "title": "Wenn der Hahn Kräht",
+    "artist": "Maria Sulzer",
+    "isrc": "ITI061000091"
+  },
+  {
+    "title": "Franz Michelic",
+    "artist": "Arunda Buam",
+    "isrc": "ATA101903350"
+  },
+  {
+    "title": "Coward of the Country",
+    "artist": "Billy White",
+    "isrc": "DEA540703985"
+  },
+  {
+    "title": "Mach Die Augen Zu",
+    "artist": "Der Nachtexpress",
+    "isrc": "ITA509506208"
+  },
+  {
+    "title": "A Blick von Dir",
+    "artist": "Die Heimatvagabunden",
+    "isrc": "ITA509400102"
+  },
+  {
+    "title": "Regenbogen über Oberkrain",
+    "artist": "Die Kaiser Buam",
+    "isrc": "NLG930600100"
+  },
+  {
+    "title": "Ich Glaub Fest An Die Liebe",
+    "artist": "Die Neuninger",
+    "isrc": "ATA161284407"
+  },
+  {
+    "title": "Liebe Freiheit Und Leben",
+    "artist": "Elmar",
+    "isrc": "ITA509507201"
+  },
+  {
+    "title": "Gschamigs Biabl",
+    "artist": "Orig. Sarntal Quintett",
+    "isrc": "ITA500941407"
+  }
+]

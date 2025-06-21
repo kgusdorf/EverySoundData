@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Desconfío",
+    "artist": "Pappo's Blues",
+    "isrc": "ARXP71600279"
+  },
+  {
+    "title": "Un Trago Para Ver Mejor",
+    "artist": "La Mississippi",
+    "isrc": "ARF109902638"
+  },
+  {
+    "title": "Todo Mal",
+    "artist": "Don Vilanova Botafogo, La Rata Bluesera, Gonzalo Araya",
+    "isrc": "ES71G1644249"
+  },
+  {
+    "title": "No Más Trampas",
+    "artist": "Durazno De Gala",
+    "isrc": "ARF039100213"
+  },
+  {
+    "title": "Jugo de Tomate",
+    "artist": "Manal",
+    "isrc": "ARF109500362"
+  },
+  {
+    "title": "Mano Cruel",
+    "artist": "Chevy Rockets",
+    "isrc": "ushm91780755"
+  },
+  {
+    "title": "Preocupado y Aburrido",
+    "artist": "Alambre Gonzalez",
+    "isrc": "ART721510433"
+  },
+  {
+    "title": "Café Madrid",
+    "artist": "Mississippi Blues Band",
+    "isrc": "ARF039300147"
+  },
+  {
+    "title": "Maldito Piano",
+    "artist": "Blacanblus",
+    "isrc": "ARG601011406"
+  },
+  {
+    "title": "La Última Lágrima",
+    "artist": "Memphis La Blusera",
+    "isrc": "ARG601012334"
+  },
+  {
+    "title": "Juntos a la Par",
+    "artist": "Adrián Otero",
+    "isrc": "ARQMX1600206"
+  },
+  {
+    "title": "Algo en Tu Piel",
+    "artist": "Magnolia Blues Rock",
+    "isrc": "uscgj2243664"
+  },
+  {
+    "title": "Blues de un Mal Día",
+    "artist": "Vintage Blues",
+    "isrc": "US7VG1727876"
+  },
+  {
+    "title": "Boogie de Claudio",
+    "artist": "Claudio Gabis",
+    "isrc": "ARF100100492"
+  },
+  {
+    "title": "Metro pa Quilpue",
+    "artist": "La Blues Willis",
+    "isrc": "FR26V1603562"
+  },
+  {
+    "title": "Barefootin",
+    "artist": "Nasta Super, Chris Cain",
+    "isrc": "ARA691700003"
+  },
+  {
+    "title": "Hablé Con Dios",
+    "artist": "La Banda del Capitan Corneta",
+    "isrc": "ES71G1644751"
+  },
+  {
+    "title": "Santa Lucía - En Vivo",
+    "artist": "La Rata Bluesera",
+    "isrc": "ES71G1619613"
+  },
+  {
+    "title": "Hotel de Corazones Solitarios",
+    "artist": "Pajarito Zaguri",
+    "isrc": "ART720910092"
+  },
+  {
+    "title": "Me tienes loco",
+    "artist": "El Cruce",
+    "isrc": "ESAAI0257012"
+  },
+  {
+    "title": "Vueltas de las Vueltas",
+    "artist": "Follaje",
+    "isrc": "MXF550908929"
+  },
+  {
+    "title": "Agua Con Sal",
+    "artist": "Lucy Blues",
+    "isrc": "MXF601700029"
+  },
+  {
+    "title": "Pescado Frito",
+    "artist": "Los Queltehues",
+    "isrc": "ES71G2036877"
+  },
+  {
+    "title": "Abajo de la 15",
+    "artist": "Carlos Reyes",
+    "isrc": "COHS11100050"
+  },
+  {
+    "title": "Mientras Vos Caés",
+    "artist": "Blues Motel",
+    "isrc": "ES71G1929365"
+  },
+  {
+    "title": "Vuelvo a Chillan",
+    "artist": "Jano Letelier",
+    "isrc": "GBMA21841724"
+  },
+  {
+    "title": "Cantar a la Vida",
+    "artist": "Big Danny's Blues Band",
+    "isrc": "uscgh1874566"
+  },
+  {
+    "title": "Día Blues",
+    "artist": "Vulgarxito",
+    "isrc": "US7VG1725520"
+  },
+  {
+    "title": "Mr. Brownstone",
+    "artist": "La Puzzydoll",
+    "isrc": "GB-SMU-16-46364"
+  },
+  {
+    "title": "Lo Que Deba Ser",
+    "artist": "Las Blacanblus",
+    "isrc": "ARA100600038"
+  },
+  {
+    "title": "Brío",
+    "artist": "La Ramona",
+    "isrc": "US7VG1727517"
+  },
+  {
+    "title": "Migajas",
+    "artist": "Catoni",
+    "isrc": "ushm21776051"
+  },
+  {
+    "title": "I'Ll Be Fine",
+    "artist": "fatsO",
+    "isrc": "ES71G1414002"
+  },
+  {
+    "title": "Me quede sin ti",
+    "artist": "José Cruz",
+    "isrc": "MXF600900049"
+  },
+  {
+    "title": "Uno de Esos Días",
+    "artist": "Castalia Blues",
+    "isrc": "QMEZE1812808"
+  },
+  {
+    "title": "Airplane",
+    "artist": "TAPPAN",
+    "isrc": "COA642200007"
+  },
+  {
+    "title": "Querencia",
+    "artist": "Natalia Bedoya",
+    "isrc": "FRX872104030"
+  },
+  {
+    "title": "Blues Cumbiero",
+    "artist": "Enepei, Npi",
+    "isrc": "ESA011637637"
+  },
+  {
+    "title": "El Pozo de los Recuerdos Invisibles",
+    "artist": "The Blue Turtles, Luis Galeano, Johann Cobo, Victor Raúl Cifuentes, Málory Romero, Tabi",
+    "isrc": "US7VG2253477"
+  },
+  {
+    "title": "La Venenosa",
+    "artist": "Jose Rodriguez",
+    "isrc": "uscgh1656790"
+  },
+  {
+    "title": "Madre del Rocanrol",
+    "artist": "Tere Estrada",
+    "isrc": "usl4q1724319"
+  },
+  {
+    "title": "Saboreame",
+    "artist": "Steffie Beltt",
+    "isrc": "USLZJ2328440"
+  },
+  {
+    "title": "Route 66",
+    "artist": "Jimmy Rip&The Trip, Facundo Soto, Junior Lescano",
+    "isrc": "ARF471600063"
+  },
+  {
+    "title": "Arráncame la Camisa",
+    "artist": "Jc Cortés Band",
+    "isrc": "GBSMU4109663"
+  },
+  {
+    "title": "Oh Woman",
+    "artist": "Jay Bird",
+    "isrc": "QZ9Y21710470"
+  },
+  {
+    "title": "Karma Para Dos",
+    "artist": "Beto´s Blues Band",
+    "isrc": "QZES71886222"
+  },
+  {
+    "title": "Infierno",
+    "artist": "Joe & Money",
+    "isrc": "QZ5AB1619401"
+  },
+  {
+    "title": "Born and Living with the Blues - Cover",
+    "artist": "Leo Parra Castillo",
+    "isrc": "AR7601800003"
+  },
+  {
+    "title": "Dance With Me",
+    "artist": "Carlos Elliot Jr., Power Blues Duo",
+    "isrc": "uscgj1487202"
+  },
+  {
+    "title": "No Existe Solucion",
+    "artist": "Ambassador",
+    "isrc": "ARMC41600002"
+  },
+  {
+    "title": "Buscando Un Final",
+    "artist": "Ilona",
+    "isrc": "COUM71900038"
+  },
+  {
+    "title": "Little Bitty Pretty One / Rockin' Robin",
+    "artist": "Radio Blues",
+    "isrc": "ushm21675888"
+  },
+  {
+    "title": "Take It Easy",
+    "artist": "La Blues Band",
+    "isrc": "usdy41589072"
+  },
+  {
+    "title": "Tobacco Blues",
+    "artist": "Amigos del Blues",
+    "isrc": "GBSMU1082244"
+  },
+  {
+    "title": "Blues Adolorido",
+    "artist": "Mezcaleros Blues Band",
+    "isrc": "QZ5AB1841576"
+  },
+  {
+    "title": "Call Me Baby - Live",
+    "artist": "Estación Monrovia, Nay Stanfield",
+    "isrc": "PEBQ91716119"
+  },
+  {
+    "title": "Honky Tonk Woman",
+    "artist": "Bad Boy Blues",
+    "isrc": "QZDFP1937930"
+  },
+  {
+    "title": "Longchamps Boogie",
+    "artist": "Black Amaya Quinteto",
+    "isrc": "QMFME1522885"
+  },
+  {
+    "title": "Biscotti Wave",
+    "artist": "Bourbon Blues Ensemble",
+    "isrc": "QZHN62441548"
+  },
+  {
+    "title": "A Special Bond",
+    "artist": "Chris Sánchez Blues Band",
+    "isrc": "ushm81807095"
+  },
+  {
+    "title": "Cuando Me Vaya",
+    "artist": "Cultura Blues Project",
+    "isrc": "ushm81807109"
+  },
+  {
+    "title": "Fiera del Blues",
+    "artist": "El Callejon Blues Band",
+    "isrc": "CACWV1746411"
+  },
+  {
+    "title": "El Afligido",
+    "artist": "Francisco Barrios",
+    "isrc": "COA6W2102477"
+  },
+  {
+    "title": "La Iguana",
+    "artist": "Hikuri",
+    "isrc": "DEA290413700"
+  },
+  {
+    "title": "Te Hace Falta",
+    "artist": "Juan Levi",
+    "isrc": "USA2P1691925"
+  },
+  {
+    "title": "Brilla Más El Soul",
+    "artist": "Los Mind Lagunas, Various Artists",
+    "isrc": "TCACG1593927"
+  },
+  {
+    "title": "Todo Tu Amor",
+    "artist": "Mo' Blues",
+    "isrc": "usx9p0679487"
+  },
+  {
+    "title": "El Descarrilador",
+    "artist": "Moan Blues",
+    "isrc": "USA2P1935345"
+  },
+  {
+    "title": "Souls on Fire",
+    "artist": "Pablo Alzate",
+    "isrc": "PEBQ91722996"
+  },
+  {
+    "title": "O' Death",
+    "artist": "Peregrino",
+    "isrc": "USCGH1769724"
+  },
+  {
+    "title": "Mañana Otro Blues",
+    "artist": "Perikles y la Impredecible Blues",
+    "isrc": "MX3451700036"
+  },
+  {
+    "title": "Sea Como Sea",
+    "artist": "Q'Al Blues",
+    "isrc": "US7VG1755779"
+  },
+  {
+    "title": "Blue Slide Road",
+    "artist": "Rafael Tranquilino Band",
+    "isrc": "ushm21536078"
+  },
+  {
+    "title": "En la Última Nota",
+    "artist": "Raquel Sirena Blues",
+    "isrc": "ushm81807100"
+  },
+  {
+    "title": "Six Days",
+    "artist": "Rhino Bluesband",
+    "isrc": "ushm81807103"
+  },
+  {
+    "title": "Blues de las 2",
+    "artist": "Silencio Blues Trío",
+    "isrc": "AR34B1900005"
+  },
+  {
+    "title": "Lucky Man",
+    "artist": "T44 Blues Band",
+    "isrc": "QZ5AB1774901"
+  },
+  {
+    "title": "Blues de la Gallina",
+    "artist": "Vanegas Blues",
+    "isrc": "QZNJV2005257"
+  },
+  {
+    "title": "Ruta 66",
+    "artist": "Pappo's Blues",
+    "isrc": "AR42D1600141"
+  },
+  {
+    "title": "Blues Del Equipaje",
+    "artist": "La Mississippi",
+    "isrc": "ARF039502032"
+  },
+  {
+    "title": "Que Cosas Yo No Haría",
+    "artist": "Don Vilanova Botafogo",
+    "isrc": "ARA821736136"
+  },
+  {
+    "title": "Shuffle en la Estación",
+    "artist": "Durazno De Gala",
+    "isrc": "ARF039100212"
+  },
+  {
+    "title": "Vieja Estacion (En Vivo)",
+    "artist": "Chevy Rockets",
+    "isrc": "usdy41813002"
+  },
+  {
+    "title": "Casa Con Diez Pinos",
+    "artist": "Manal",
+    "isrc": "ARF109902781"
+  },
+  {
+    "title": "Martes 13",
+    "artist": "Alambre Gonzalez",
+    "isrc": "ART721510441"
+  },
+  {
+    "title": "The Creeper Returns",
+    "artist": "Mississippi Blues Band",
+    "isrc": "ARF039300152"
+  },
+  {
+    "title": "Rouge y Pentagrama",
+    "artist": "Blacanblus",
+    "isrc": "ARG601011408"
+  },
+  {
+    "title": "Me Gustas Mucho",
+    "artist": "Adrián Otero",
+    "isrc": "ARQMX1600203"
+  },
+  {
+    "title": "La Flor Más Bella",
+    "artist": "Memphis La Blusera",
+    "isrc": "ARG601012304"
+  },
+  {
+    "title": "Me Provocas",
+    "artist": "Magnolia Blues Rock",
+    "isrc": "uscgj2243665"
+  },
+  {
+    "title": "No Hay Más Que Hacer",
+    "artist": "Vintage Blues",
+    "isrc": "US7VG1727874"
+  },
+  {
+    "title": "Fiebre de la Ruta",
+    "artist": "Claudio Gabis",
+    "isrc": "ARF100300691"
+  },
+  {
+    "title": "Charagua",
+    "artist": "La Blues Willis",
+    "isrc": "FR26V1603569"
+  },
+  {
+    "title": "Cold Women with Worm Hearts",
+    "artist": "Nasta Super, Chris Cain",
+    "isrc": "ARA691700001"
+  },
+  {
+    "title": "Titi",
+    "artist": "La Banda del Capitan Corneta",
+    "isrc": "ES71G1644755"
+  },
+  {
+    "title": "La Tibieza del Blues",
+    "artist": "Pajarito Zaguri, Manal, Moris",
+    "isrc": "ART720610055"
+  },
+  {
+    "title": "La Daga",
+    "artist": "La Rata Bluesera, Federico Dannemann, Gonzalo Araya",
+    "isrc": "ES71G1615197"
+  },
+  {
+    "title": "La Chinita y Yo",
+    "artist": "El Cruce",
+    "isrc": "CLEE20901769"
+  },
+  {
+    "title": "Bien Lo Sabes",
+    "artist": "Follaje",
+    "isrc": "MXF550908927"
+  },
+  {
+    "title": "Mi Mojo",
+    "artist": "Lucy Blues",
+    "isrc": "MXF601700033"
+  },
+  {
+    "title": "Pescado Frito - En Vivo",
+    "artist": "Los Queltehues",
+    "isrc": "ES71G1703950"
+  },
+  {
+    "title": "En Algún Lugar",
+    "artist": "Carlos Reyes",
+    "isrc": "COHS11100049"
+  },
+  {
+    "title": "Bienvenida",
+    "artist": "Blues Motel",
+    "isrc": "QMBZ92370730"
+  },
+  {
+    "title": "El Otro",
+    "artist": "Jano Letelier",
+    "isrc": "GBMA21808050"
+  },
+  {
+    "title": "La Reina del Blues",
+    "artist": "Big Danny's Blues Band",
+    "isrc": "uscgh1874565"
+  },
+  {
+    "title": "Desconfío en la Vida",
+    "artist": "Vulgarxito",
+    "isrc": "US7VG1725524"
+  },
+  {
+    "title": "Esta noche no nos puede ir mal",
+    "artist": "La Puzzydoll",
+    "isrc": "GB-SMU-16-46358"
+  },
+  {
+    "title": "Fuego Sobre Fuego",
+    "artist": "Las Blacanblus",
+    "isrc": "ARA100600028"
+  },
+  {
+    "title": "Cherokee",
+    "artist": "La Ramona",
+    "isrc": "QZ5AB2082305"
+  },
+  {
+    "title": "Lobo",
+    "artist": "Catoni",
+    "isrc": "ushm21776050"
+  },
+  {
+    "title": "Time",
+    "artist": "fatsO",
+    "isrc": "US6VV1802003"
+  },
+  {
+    "title": "Me Miraba a los Ojos",
+    "artist": "José Cruz",
+    "isrc": "MXF601200454"
+  },
+  {
+    "title": "Tragos de Blues",
+    "artist": "Castalia Blues",
+    "isrc": "QMEZE1812809"
+  },
+  {
+    "title": "Desacierto",
+    "artist": "TAPPAN",
+    "isrc": "COA642000002"
+  },
+  {
+    "title": "Día Cero",
+    "artist": "Natalia Bedoya",
+    "isrc": "FR2X41550962"
+  },
+  {
+    "title": "Romperme la Voz",
+    "artist": "Enepei, Npi",
+    "isrc": "ESA011637638"
+  },
+  {
+    "title": "Al Borde del Abismo",
+    "artist": "The Blue Turtles, Málory Romero, Santiago Monsalve",
+    "isrc": "QZ5AB1890636"
+  },
+  {
+    "title": "Inconforme",
+    "artist": "Jose Rodriguez",
+    "isrc": "uscgh1656794"
+  },
+  {
+    "title": "Sirena Hechicera",
+    "artist": "Tere Estrada",
+    "isrc": "usx9p0645562"
+  },
+  {
+    "title": "La raíz (mi generación)",
+    "artist": "Steffie Beltt",
+    "isrc": "USLZJ2328441"
+  },
+  {
+    "title": "Slow Southern Ways (feat. Stacy Michelle)",
+    "artist": "Jimmy Rip&The Trip",
+    "isrc": "ushm81202627"
+  },
+  {
+    "title": "De Tiempo en Tiempo",
+    "artist": "Jc Cortés Band",
+    "isrc": "GBSMU4109656"
+  },
+  {
+    "title": "Sinners Circus",
+    "artist": "Jay Bird",
+    "isrc": "QZ9Y21710472"
+  },
+  {
+    "title": "No Le Gustaba",
+    "artist": "Beto´s Blues Band",
+    "isrc": "QZES61898370"
+  },
+  {
+    "title": "Sexo Drogas y Rock",
+    "artist": "Joe & Money",
+    "isrc": "QZ5AB1619398"
+  },
+  {
+    "title": "Ain't No Love in the Heart of the City - Cover",
+    "artist": "Leo Parra Castillo",
+    "isrc": "AR7601800007"
+  },
+  {
+    "title": "Raise the Fire America",
+    "artist": "Carlos Elliot Jr., Power Blues Duo",
+    "isrc": "uscgj1487199"
+  },
+  {
+    "title": "Mal Augurio",
+    "artist": "Ambassador",
+    "isrc": "ARMC41600001"
+  },
+  {
+    "title": "Juke",
+    "artist": "Radio Blues",
+    "isrc": "ushm21675886"
+  },
+  {
+    "title": "De Regreso",
+    "artist": "Ilona",
+    "isrc": "COUM71900032"
+  },
+  {
+    "title": "Sweetheart Baby Blues",
+    "artist": "La Blues Band",
+    "isrc": "usdy41589074"
+  },
+  {
+    "title": "Por si no te vuelvo a Ver",
+    "artist": "Amigos del Blues",
+    "isrc": "GBSMU1082248"
+  },
+  {
+    "title": "Cantinero (Bonus Track Live Session)",
+    "artist": "Mezcaleros Blues Band",
+    "isrc": "QZ5AB1841580"
+  },
+  {
+    "title": "Give Me One Reason - Live",
+    "artist": "Estación Monrovia, Nay Stanfield",
+    "isrc": "PEBQ91716122"
+  },
+  {
+    "title": "Honest I Do",
+    "artist": "Bad Boy Blues",
+    "isrc": "QZDFP1938011"
+  },
+  {
+    "title": "Mujer de Carbón",
+    "artist": "Black Amaya Quinteto",
+    "isrc": "QMFME1522629"
+  },
+  {
+    "title": "Sucio y Desprolijo",
+    "artist": "Pappo's Blues",
+    "isrc": "ARXP71600285"
+  },
+  {
+    "title": "Ritmo y Blues Con Armónica",
+    "artist": "La Mississippi",
+    "isrc": "ARF471500006"
+  },
+  {
+    "title": "Yo y el Diablo",
+    "artist": "Don Vilanova Botafogo, La Rata Bluesera, Gonzalo Araya",
+    "isrc": "ES71G1644252"
+  },
+  {
+    "title": "Escúcheme Doc",
+    "artist": "Durazno De Gala",
+    "isrc": "ARF039100219"
+  },
+  {
+    "title": "Parecerá Que Me Fuí",
+    "artist": "Chevy Rockets",
+    "isrc": "QMDA71561376"
+  },
+  {
+    "title": "Avenida Rivadavia",
+    "artist": "Manal",
+    "isrc": "ARF100300149"
+  },
+  {
+    "title": "Alamblues",
+    "artist": "Alambre Gonzalez, Claudia Puyó",
+    "isrc": "ushm81733611"
+  },
+  {
+    "title": "Un Poco Más",
+    "artist": "Mississippi Blues Band",
+    "isrc": "ARF039300153"
+  },
+  {
+    "title": "No Quiero Tu Dinero - El Rockito",
+    "artist": "Blacanblus",
+    "isrc": "ARG601011404"
+  },
+  {
+    "title": "Me Gusta Ese Tajo",
+    "artist": "Adrián Otero",
+    "isrc": "ARQMX1600201"
+  },
+  {
+    "title": "La Bifurcada",
+    "artist": "Memphis La Blusera",
+    "isrc": "ARF038800221"
+  },
+  {
+    "title": "Témpano de Hielo",
+    "artist": "Magnolia Blues Rock",
+    "isrc": "uscgj2250793"
+  },
+  {
+    "title": "Nave Gaoh",
+    "artist": "Vintage Blues",
+    "isrc": "US7VG1727878"
+  },
+  {
+    "title": "Blues de la Tierra Supernova",
+    "artist": "Claudio Gabis",
+    "isrc": "ARF100500132"
+  },
+  {
+    "title": "El Camino",
+    "artist": "La Blues Willis",
+    "isrc": "FR26V1603561"
+  },
+  {
+    "title": "Que Curioso",
+    "artist": "Nasta Super, Chris Cain",
+    "isrc": "ARA691500003"
+  },
+  {
+    "title": "El Olor",
+    "artist": "La Banda del Capitan Corneta",
+    "isrc": "US6R21320629"
+  },
+  {
+    "title": "Super Rockero",
+    "artist": "Pajarito Zaguri",
+    "isrc": "ART720510128"
+  },
+  {
+    "title": "Santa Lucía",
+    "artist": "La Rata Bluesera, Federico Dannemann, Gonzalo Araya",
+    "isrc": "ES71G1615200"
+  },
+  {
+    "title": "A encender el blues",
+    "artist": "El Cruce",
+    "isrc": "ESAAI0256744"
+  },
+  {
+    "title": "Ay... Que Laureles Tan Verdes",
+    "artist": "Follaje",
+    "isrc": "QM4TW1909917"
+  },
+  {
+    "title": "El Grillete",
+    "artist": "Lucy Blues",
+    "isrc": "MXF601700031"
+  },
+  {
+    "title": "El Perro - En Vivo",
+    "artist": "Los Queltehues",
+    "isrc": "ES71G1703952"
+  },
+  {
+    "title": "Sin Mirar Atrás",
+    "artist": "Carlos Reyes",
+    "isrc": "COHS11100051"
+  },
+  {
+    "title": "I'm Only Sleeping",
+    "artist": "Blues Motel",
+    "isrc": "AR1K20500016"
+  },
+  {
+    "title": "Llámame Otra Vez",
+    "artist": "Jano Letelier",
+    "isrc": "GBMA21808045"
+  },
+  {
+    "title": "Los Años Pasaran",
+    "artist": "Big Danny's Blues Band",
+    "isrc": "uscgh1874568"
+  },
+  {
+    "title": "El Camino",
+    "artist": "Vulgarxito",
+    "isrc": "US7VG1725522"
+  },
+  {
+    "title": "Baila para mi",
+    "artist": "La Puzzydoll",
+    "isrc": "GB-SMU-16-46365"
+  },
+  {
+    "title": "El Mambo De La Abuela",
+    "artist": "Las Blacanblus",
+    "isrc": "ARA100600036"
+  }
+]

@@ -1,0 +1,617 @@
+[
+  {
+    "title": "No justiinsa juu",
+    "artist": "Eino Valtanen",
+    "isrc": "FIWMA0400240"
+  },
+  {
+    "title": "Kerrasta poikki",
+    "artist": "Tarja Ylitalo",
+    "isrc": "FIFMT7900100"
+  },
+  {
+    "title": "Jätkän humppa",
+    "artist": "Mutkattomat",
+    "isrc": "FIFPS7700001"
+  },
+  {
+    "title": "Silmät tummat kuin yö",
+    "artist": "Teijo Joutsela, Humppa-Veikot",
+    "isrc": "FIFSC6300019"
+  },
+  {
+    "title": "Karjalan Marjaana",
+    "artist": "Tulipunaruusut, Raimo Piipponen",
+    "isrc": "FIFMF7700001"
+  },
+  {
+    "title": "Kappale kauneinta Suomea",
+    "artist": "Erkki Junkkarinen",
+    "isrc": "FIFPS7600014"
+  },
+  {
+    "title": "Naltioon",
+    "artist": "Eero Avén",
+    "isrc": "FIVLM0600088"
+  },
+  {
+    "title": "Poikamiespäivät",
+    "artist": "Eino Lehtinen",
+    "isrc": "FIFMF1232059"
+  },
+  {
+    "title": "Sinä olet hän",
+    "artist": "Berit",
+    "isrc": "FIFMT8400007"
+  },
+  {
+    "title": "Mä haluan sut",
+    "artist": "Arto Nuotio",
+    "isrc": "FIGRF2000027"
+  },
+  {
+    "title": "Kannaksen poikia",
+    "artist": "Ahti Lampi",
+    "isrc": "FIFMF8400014"
+  },
+  {
+    "title": "Njet Molotoff",
+    "artist": "Solistiyhtye Suomi",
+    "isrc": "FIARA8900101"
+  },
+  {
+    "title": "Hän on mun",
+    "artist": "Hanne",
+    "isrc": "FIFMF7700015"
+  },
+  {
+    "title": "Sisuletka",
+    "artist": "Humppa-Veikot",
+    "isrc": "FIFMF1229448"
+  },
+  {
+    "title": "Metsurin Muistot",
+    "artist": "Pentti Kumpulainen",
+    "isrc": "FITAT0100038"
+  },
+  {
+    "title": "Käyn ahon laitaa",
+    "artist": "Juha Vainio",
+    "isrc": "FIFFD7900005"
+  },
+  {
+    "title": "Rentun ruusu",
+    "artist": "Irwin Goodman",
+    "isrc": "FIFLG8800100"
+  },
+  {
+    "title": "Uraliin",
+    "artist": "Martti Siiriäinen",
+    "isrc": "FIVLM1500362"
+  },
+  {
+    "title": "Säkkijärven polkka",
+    "artist": "Eemeli, Esa Pakarinen",
+    "isrc": "FIFMF7200129"
+  },
+  {
+    "title": "Kunto nousee sullakin",
+    "artist": "Kike Elomaa, Juha Vainio",
+    "isrc": "FIWMA0800339"
+  },
+  {
+    "title": "Lännen lokari",
+    "artist": "Hiski Salomaa",
+    "isrc": "FIWMA0801038"
+  },
+  {
+    "title": "Pieni polku",
+    "artist": "Tippavaaran Isäntä, Humppa-Veikot",
+    "isrc": "FIFSC6100029"
+  },
+  {
+    "title": "Pingviinitanssi",
+    "artist": "Jukka Heino, Diana, Lapset",
+    "isrc": "FIRCR1301835"
+  },
+  {
+    "title": "Rentukan kukka",
+    "artist": "Amelita ja Hannele",
+    "isrc": "FIFMF1232331"
+  },
+  {
+    "title": "Elän humpalla",
+    "artist": "Eläkeläiset",
+    "isrc": "FITTS9500060"
+  },
+  {
+    "title": "Metsien miehet",
+    "artist": "Unto Satoranta",
+    "isrc": "FIFMF1228415"
+  },
+  {
+    "title": "Rentukka-ojan Aatu",
+    "artist": "Allan Tuppurainen",
+    "isrc": "FIWMA0500399"
+  },
+  {
+    "title": "Jätkän humppa",
+    "artist": "Anssi Jalonen",
+    "isrc": "FIFMF1232020"
+  },
+  {
+    "title": "Tule kanssani kylpyyn",
+    "artist": "Esko Koskinen",
+    "isrc": "FIRCR1500201"
+  },
+  {
+    "title": "Tyttären valssi",
+    "artist": "Helka Hynninen",
+    "isrc": "FIBAR9000001"
+  },
+  {
+    "title": "Poikamiespäivät",
+    "artist": "Jarkko Anttila",
+    "isrc": "FIFMF1232060"
+  },
+  {
+    "title": "Pelimannin jäähyväiset",
+    "artist": "Jukka Lindfors",
+    "isrc": "FIFMF1232301"
+  },
+  {
+    "title": "Kuumat kyyneleet",
+    "artist": "Jussi Lammela",
+    "isrc": "FIFMF1232373"
+  },
+  {
+    "title": "Juokse vaan ukkomies",
+    "artist": "Marita Norring",
+    "isrc": "FIFMF1232333"
+  },
+  {
+    "title": "Muukalainen - Främling",
+    "artist": "Merja Lehtinen",
+    "isrc": "FIFMF1232381"
+  },
+  {
+    "title": "Erämies",
+    "artist": "Olli Lohi",
+    "isrc": "FIFMF1232009"
+  },
+  {
+    "title": "Maailma se on kuin silkkiä vaan",
+    "artist": "Pertti Keihäs",
+    "isrc": "FIFMF1232107"
+  },
+  {
+    "title": "Mä tunsin kevätsäteen",
+    "artist": "Turuttaret",
+    "isrc": "FIFMF1232046"
+  },
+  {
+    "title": "Suomen Joutsen",
+    "artist": "Dallapé, Kosti Seppälä",
+    "isrc": "FIVDC8900013"
+  },
+  {
+    "title": "Pieni polku",
+    "artist": "HumppAvanti!, Nylon Beat",
+    "isrc": "FIEFE0700566"
+  },
+  {
+    "title": "Juokse porosein",
+    "artist": "Auvo Nuotio",
+    "isrc": "FIFPS5400013"
+  },
+  {
+    "title": "Unelmain tyttö",
+    "artist": "Aake Hilden",
+    "isrc": "FIFMF1245336"
+  },
+  {
+    "title": "Lappajärvi",
+    "artist": "Alpo Pellinen",
+    "isrc": "FIFMF1245146"
+  },
+  {
+    "title": "Mustikanpoiminta",
+    "artist": "Antero Raimo & Ovet",
+    "isrc": "FIJAR9300101"
+  },
+  {
+    "title": "Hankasalmi",
+    "artist": "Hanka-Humppa",
+    "isrc": "FIFMF1231840"
+  },
+  {
+    "title": "Odessa",
+    "artist": "Humppayhtye Odessa",
+    "isrc": "FIFMF1245301"
+  },
+  {
+    "title": "Suuri Star",
+    "artist": "Jarmo Kalke",
+    "isrc": "FIRCR1500123"
+  },
+  {
+    "title": "Uraliin",
+    "artist": "Jussi Vihunen & Raimo Vainion Yhtye",
+    "isrc": "FIRCR1301002"
+  },
+  {
+    "title": "Kuusamoon",
+    "artist": "Kari Aro",
+    "isrc": "FIFMF1232028"
+  },
+  {
+    "title": "Soitetaan humppasikermä",
+    "artist": "Kullervo Linnan suuri humppaorkesteri",
+    "isrc": "FIFMF1244858"
+  },
+  {
+    "title": "Heitä huolet pois",
+    "artist": "Leo Kauppi",
+    "isrc": "FIFMF1238752"
+  },
+  {
+    "title": "Som en gummiball kommer jag tillbaks till dej",
+    "artist": "M.A. Numminen och hans nyfolkliga allmogeorkester",
+    "isrc": "FISBA7700274"
+  },
+  {
+    "title": "Vanha kirjeenkantaja",
+    "artist": "Marja-Liisa",
+    "isrc": "FIFMF1227331"
+  },
+  {
+    "title": "Sudennahkaviitta",
+    "artist": "Martti Huuhaa Innanen",
+    "isrc": "FIHWM9500006"
+  },
+  {
+    "title": "Katja",
+    "artist": "Pentti Viherluoto",
+    "isrc": "FIEMS9104800"
+  },
+  {
+    "title": "Dina svarta sammetsögon",
+    "artist": "Trio Saludo",
+    "isrc": "FIFMF1229203"
+  },
+  {
+    "title": "Uuvekirko humppa",
+    "artist": "Veikko Savonen, Koivisto-Humppa",
+    "isrc": "FIRCR1301170"
+  },
+  {
+    "title": "Äiti ja poika",
+    "artist": "Ville Alanko, Dallapé-orkesteri",
+    "isrc": "FIFPS3000001"
+  },
+  {
+    "title": "Villit Ruusut",
+    "artist": "Eija Sinikka",
+    "isrc": "FITAT9700023"
+  },
+  {
+    "title": "Rehellinen työmies",
+    "artist": "Eino Valtanen",
+    "isrc": "FIFMF1225399"
+  },
+  {
+    "title": "Ei tämä tyttö lempeä anele",
+    "artist": "Tarja Ylitalo",
+    "isrc": "FIFMT8300008"
+  },
+  {
+    "title": "Yö Altailla",
+    "artist": "Teijo Joutsela, Humppa-Veikot",
+    "isrc": "FIFSC6100022"
+  },
+  {
+    "title": "Tukkipojan jenkka",
+    "artist": "Mutkattomat",
+    "isrc": "FIFPS8100009"
+  },
+  {
+    "title": "Tulipunaruusut",
+    "artist": "Tulipunaruusut",
+    "isrc": "FIFMF7700071"
+  },
+  {
+    "title": "Metsurin koira",
+    "artist": "Eero Avén",
+    "isrc": "FIVLM0600074"
+  },
+  {
+    "title": "Lappeenrantaan",
+    "artist": "Erkki Junkkarinen",
+    "isrc": "FIFPS7700002"
+  },
+  {
+    "title": "Meikäläisen makuun",
+    "artist": "Eino Lehtinen",
+    "isrc": "FIFMF1232211"
+  },
+  {
+    "title": "Kultani mun",
+    "artist": "Berit",
+    "isrc": "FIFMF1232027"
+  },
+  {
+    "title": "Kaunis on maailma taas",
+    "artist": "Arto Nuotio",
+    "isrc": "FIEMS9105000"
+  },
+  {
+    "title": "Elämän valttikortit",
+    "artist": "Ahti Lampi",
+    "isrc": "FIFMF8000051"
+  },
+  {
+    "title": "Verushka",
+    "artist": "Hanne",
+    "isrc": "FIFMF7600023"
+  },
+  {
+    "title": "Rakastan sinua, elämä",
+    "artist": "Humppa-Veikot",
+    "isrc": "FIFMF1231791"
+  },
+  {
+    "title": "Mahtava peräsin ja pulleat purjeet",
+    "artist": "Solistiyhtye Suomi",
+    "isrc": "FIFMF8300006"
+  },
+  {
+    "title": "Tukkipojan Juhannus",
+    "artist": "Pentti Kumpulainen",
+    "isrc": "FITAT0100039"
+  },
+  {
+    "title": "Vanhojapoikia viiksekkäitä",
+    "artist": "Juha Vainio, Hyvän Tuulen Laulajat",
+    "isrc": "FIFFD8200200"
+  },
+  {
+    "title": "Ei tippa tapa",
+    "artist": "Irwin Goodman",
+    "isrc": "FIFMF6600014"
+  },
+  {
+    "title": "Villisorsa",
+    "artist": "Martti Siiriäinen",
+    "isrc": "FIVLM1500360"
+  },
+  {
+    "title": "Kristoffer Kolumbus",
+    "artist": "Kike Elomaa",
+    "isrc": "FISPN9200003"
+  },
+  {
+    "title": "Tiskarin polkka",
+    "artist": "Hiski Salomaa",
+    "isrc": "FIFMF1230835"
+  },
+  {
+    "title": "Tanssit Tippavaarassa",
+    "artist": "Eemeli",
+    "isrc": "FIFMF6100082"
+  },
+  {
+    "title": "Pigalle",
+    "artist": "Tippavaaran Isäntä",
+    "isrc": "FIFSC6100003"
+  },
+  {
+    "title": "Apina Ja Gorilla",
+    "artist": "Jukka Heino",
+    "isrc": "FIVDC8000034"
+  },
+  {
+    "title": "Huopikkaat",
+    "artist": "Amelita ja Hannele",
+    "isrc": "FIFMF1232012"
+  },
+  {
+    "title": "Miksei täällä humppa soi?",
+    "artist": "Eläkeläiset",
+    "isrc": "DET240200008"
+  },
+  {
+    "title": "Tampereelta nääs",
+    "artist": "Unto Satoranta",
+    "isrc": "FIFMF1236973"
+  },
+  {
+    "title": "Tytöt puhtaista miehistä tykkää",
+    "artist": "Allan Tuppurainen",
+    "isrc": "FIFMF1232088"
+  },
+  {
+    "title": "Eukon humppa",
+    "artist": "Anssi Jalonen",
+    "isrc": "FIFMF1232299"
+  },
+  {
+    "title": "Ilta Iisalmessa",
+    "artist": "Esko Koskinen",
+    "isrc": "FIRCR1301333"
+  },
+  {
+    "title": "Äiti Pojalleen",
+    "artist": "Helka Hynninen",
+    "isrc": "FIRCR1300970"
+  },
+  {
+    "title": "Kesä Taivassalossa",
+    "artist": "Jarkko Anttila",
+    "isrc": "FIFMF1232321"
+  },
+  {
+    "title": "Simpeleen siiat ja Parikkalan piiat",
+    "artist": "Jukka Lindfors",
+    "isrc": "FIFMF1232271"
+  },
+  {
+    "title": "Mahtava peräsin ja pulleat purjeet",
+    "artist": "Jussi Lammela",
+    "isrc": "FIFMF1232393"
+  },
+  {
+    "title": "Haltin Häät",
+    "artist": "Marita Norring",
+    "isrc": "FIRCR1500104"
+  },
+  {
+    "title": "Viet itsekontrollin - Self Control",
+    "artist": "Merja Lehtinen",
+    "isrc": "FIFMF1232405"
+  },
+  {
+    "title": "Rakkain saavu jo luokseni",
+    "artist": "Olli Lohi",
+    "isrc": "FIFMF1232320"
+  },
+  {
+    "title": "Ookkona Oulusta",
+    "artist": "Pertti Keihäs",
+    "isrc": "FIFMF1232317"
+  },
+  {
+    "title": "Ruissalon rantaa",
+    "artist": "Turuttaret",
+    "isrc": "FIFMF1232066"
+  },
+  {
+    "title": "Ilta Skanssissa",
+    "artist": "Dallapé, Kosti Seppälä",
+    "isrc": "FISPN9500051"
+  },
+  {
+    "title": "Oi Odessa",
+    "artist": "HumppAvanti!, Valtteri Malmivirta",
+    "isrc": "FIEFE0700543"
+  },
+  {
+    "title": "Kankkulan kaivolla",
+    "artist": "Auvo Nuotio",
+    "isrc": "FIFMF1238727"
+  },
+  {
+    "title": "Pyhäjärvi",
+    "artist": "Aake Hilden",
+    "isrc": "FIFMF1244754"
+  },
+  {
+    "title": "Lapin Kultaa",
+    "artist": "Eija Sinikka",
+    "isrc": "FITAT9700024"
+  },
+  {
+    "title": "Kiitolinjaa",
+    "artist": "Eino Valtanen",
+    "isrc": "FISPN8000102"
+  },
+  {
+    "title": "Silmät kuin yö",
+    "artist": "Tarja Ylitalo",
+    "isrc": "FIFMF1226053"
+  },
+  {
+    "title": "Uraliin",
+    "artist": "Teijo Joutsela, Humppa-Veikot",
+    "isrc": "FIFSC6000017"
+  },
+  {
+    "title": "Metsien taxi",
+    "artist": "Mutkattomat",
+    "isrc": "FIFPS7900021"
+  },
+  {
+    "title": "Silmät tummat kuin yö",
+    "artist": "Tulipunaruusut",
+    "isrc": "FIFMF7700087"
+  },
+  {
+    "title": "Rovaniemen Markkinoilla",
+    "artist": "Eero Avén",
+    "isrc": "FISPN9900007"
+  },
+  {
+    "title": "Ruusuja hopeamaljassa",
+    "artist": "Erkki Junkkarinen",
+    "isrc": "FIFPS7500002"
+  },
+  {
+    "title": "Jos luottamuksen saisin takaisin",
+    "artist": "Eino Lehtinen",
+    "isrc": "FIFMF1232015"
+  },
+  {
+    "title": "Keurusselän sini",
+    "artist": "Berit",
+    "isrc": "FIFPS8600100"
+  },
+  {
+    "title": "Mä hain sut tanssiin",
+    "artist": "Arto Nuotio",
+    "isrc": "FIFMF9600151"
+  },
+  {
+    "title": "Haudassa hulivili huilailee",
+    "artist": "Ahti Lampi",
+    "isrc": "FIFMF8400015"
+  },
+  {
+    "title": "Ding-a-dong",
+    "artist": "Hanne",
+    "isrc": "FIFMF7500011"
+  },
+  {
+    "title": "Tonavan aallot",
+    "artist": "Humppa-Veikot",
+    "isrc": "FIFMF1231790"
+  },
+  {
+    "title": "Pohjolasta Ponnistin",
+    "artist": "Pentti Kumpulainen",
+    "isrc": "FITAT0100050"
+  },
+  {
+    "title": "Ei myö myyvä villihevosia (Villihevosia)",
+    "artist": "Solistiyhtye Suomi",
+    "isrc": "FIBAR0200056"
+  },
+  {
+    "title": "Albatrossi",
+    "artist": "Juha Vainio, Hyvän Tuulen Laulajat",
+    "isrc": "FIFFD8000600"
+  },
+  {
+    "title": "Rempallaan",
+    "artist": "Martti Siiriäinen",
+    "isrc": "FIFMF1221765"
+  },
+  {
+    "title": "Riemu ja ratto",
+    "artist": "Irwin Goodman",
+    "isrc": "FIFMF9000040"
+  },
+  {
+    "title": "Malja Elämälle",
+    "artist": "Kike Elomaa",
+    "isrc": "FISPN9500149"
+  },
+  {
+    "title": "Vapauden Kaiho",
+    "artist": "Hiski Salomaa",
+    "isrc": "GBE8H2050001"
+  },
+  {
+    "title": "Oho! sano Eemeli",
+    "artist": "Eemeli",
+    "isrc": "FIFMF5900071"
+  }
+]

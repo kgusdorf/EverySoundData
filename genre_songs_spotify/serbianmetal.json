@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Ljubomora",
+    "artist": "Mortal Kombat",
+    "isrc": "BAA051805100"
+  },
+  {
+    "title": "Jesti Srca Ljudi",
+    "artist": "The Stone",
+    "isrc": "USI4R0903999"
+  },
+  {
+    "title": "Gastarbajter",
+    "artist": "Pero Defformero",
+    "isrc": "RSA141304325"
+  },
+  {
+    "title": "Ne možeš imati sve",
+    "artist": "Quasarborn",
+    "isrc": "usdy42397416"
+  },
+  {
+    "title": "Centurion",
+    "artist": "Centurion",
+    "isrc": "ushm81961648"
+  },
+  {
+    "title": "Speed Metal Manijak",
+    "artist": "Bombarder",
+    "isrc": "DGA062027010"
+  },
+  {
+    "title": "Lapot",
+    "artist": "Svartgren",
+    "isrc": "GBSMU7199934"
+  },
+  {
+    "title": "Lokot",
+    "artist": "Alitor",
+    "isrc": "RSA0G2100883"
+  },
+  {
+    "title": "Weight Of Green",
+    "artist": "War Engine",
+    "isrc": "QZTAU2167442"
+  },
+  {
+    "title": "Prognan",
+    "artist": "May Result",
+    "isrc": "RSA0G1703840"
+  },
+  {
+    "title": "Screaming from Within",
+    "artist": "Infest",
+    "isrc": "DEP552004460"
+  },
+  {
+    "title": "Vetrovo Kolo",
+    "artist": "All My Sins",
+    "isrc": "FIS391800021"
+  },
+  {
+    "title": "Crna Reka",
+    "artist": "Putrid Blood",
+    "isrc": "NOAPI1794752"
+  },
+  {
+    "title": "What a Feeling",
+    "artist": "Alogia",
+    "isrc": "NOAPI1499117"
+  },
+  {
+    "title": "A Thousand Plagues",
+    "artist": "Space Eater",
+    "isrc": "DEOM31400172"
+  },
+  {
+    "title": "Dama iz kraljevskog apartmana",
+    "artist": "Kraljevski apartman",
+    "isrc": "RSA221835103"
+  },
+  {
+    "title": "Tis the Soul on Wayward Path",
+    "artist": "Kozeljnik",
+    "isrc": "QM4TX1725376"
+  },
+  {
+    "title": "The Grave for Universe",
+    "artist": "The Father Of Serpents",
+    "isrc": "QMDA61832165"
+  },
+  {
+    "title": "Pride",
+    "artist": "Downstroy, Chvare",
+    "isrc": "QMFME2060787"
+  },
+  {
+    "title": "Hunter of the Damned",
+    "artist": "Claymorean",
+    "isrc": "QZHN92161630"
+  },
+  {
+    "title": "Sheed",
+    "artist": "Consecration",
+    "isrc": "HRA801504402"
+  },
+  {
+    "title": "Skies Are the Chains",
+    "artist": "Triumfall",
+    "isrc": "NONY61405060"
+  },
+  {
+    "title": "Igraj, Luduj",
+    "artist": "Gordi",
+    "isrc": "HRA048167918"
+  },
+  {
+    "title": "Shattered",
+    "artist": "Forgotten Scream",
+    "isrc": "QZDA72154217"
+  },
+  {
+    "title": "Mother Serbia",
+    "artist": "Interfector",
+    "isrc": "GBSMU8063883"
+  },
+  {
+    "title": "Dragon of Erebor",
+    "artist": "Númenor",
+    "isrc": "ITCZ62010266"
+  },
+  {
+    "title": "Za Korak Paklu Bliže",
+    "artist": "Stone To Flesh",
+    "isrc": "ATC150021203"
+  },
+  {
+    "title": "The True Insomnia",
+    "artist": "Bane",
+    "isrc": "FR6V80347237"
+  },
+  {
+    "title": "Demonized",
+    "artist": "Sacramental Blood",
+    "isrc": "USY251633017"
+  },
+  {
+    "title": "Self Portrait",
+    "artist": "Decontrolled",
+    "isrc": "ATR980015664"
+  },
+  {
+    "title": "Psychosis",
+    "artist": "Northern Revival",
+    "isrc": "HRA802211602"
+  },
+  {
+    "title": "Bog mraka",
+    "artist": "Abonos",
+    "isrc": "RSA141300506"
+  },
+  {
+    "title": "When The Sky Is Bleeding",
+    "artist": "Amon Din",
+    "isrc": "RSA141300508"
+  },
+  {
+    "title": "Lacrimosa",
+    "artist": "Demether",
+    "isrc": "NOAPI1499093"
+  },
+  {
+    "title": "Murder the Distance",
+    "artist": "Draconic",
+    "isrc": "usdy42181054"
+  },
+  {
+    "title": "The Bad In Me",
+    "artist": "Moondive",
+    "isrc": "RSA141300512"
+  },
+  {
+    "title": "Hero",
+    "artist": "Rapidforce",
+    "isrc": "RSA141300503"
+  },
+  {
+    "title": "Leave",
+    "artist": "Endlife",
+    "isrc": "UK-CVA-16-02605"
+  },
+  {
+    "title": "Business as Usual",
+    "artist": "Asymmetry",
+    "isrc": "USX9P2394903"
+  },
+  {
+    "title": "Mask of Humanity",
+    "artist": "Carnival of Flesh",
+    "isrc": "usl4q2107567"
+  },
+  {
+    "title": "The Pressure Song",
+    "artist": "Annathema",
+    "isrc": "NOAPI1790919"
+  },
+  {
+    "title": "Cinnamon",
+    "artist": "Organized Chaos",
+    "isrc": "QZAPG1706956"
+  },
+  {
+    "title": "Almost Home",
+    "artist": "4th Legacy",
+    "isrc": "ushm81626006"
+  },
+  {
+    "title": "Secanje No 2",
+    "artist": "Apartman 69",
+    "isrc": "BGA671272211"
+  },
+  {
+    "title": "Destroy All False Faith",
+    "artist": "Ashen Epitaph",
+    "isrc": "FRX201708785"
+  },
+  {
+    "title": "Beneath Ceaseless Skies",
+    "artist": "At Radogost's Gates",
+    "isrc": "uscgj1428943"
+  },
+  {
+    "title": "Kindred Spirits",
+    "artist": "Burning Circle",
+    "isrc": "ushm81275413"
+  },
+  {
+    "title": "Dagon",
+    "artist": "Chaosium",
+    "isrc": "NOAPI1791433"
+  },
+  {
+    "title": "The Prophecy",
+    "artist": "CyReign",
+    "isrc": "GB-SMU-32-83180"
+  },
+  {
+    "title": "In Trance with Witch",
+    "artist": "DEADLY MOSH",
+    "isrc": "TCADW1867706"
+  },
+  {
+    "title": "I Am the Thousand Plagues",
+    "artist": "Daggerspawn",
+    "isrc": "QZTB42246477"
+  },
+  {
+    "title": "Dalje od pakla",
+    "artist": "Death Saw",
+    "isrc": "RSA221835071"
+  },
+  {
+    "title": "Our Sadness",
+    "artist": "Diluvium",
+    "isrc": "ATC150122803"
+  },
+  {
+    "title": "Shame on You",
+    "artist": "Evolucija",
+    "isrc": "DEKM62400017"
+  },
+  {
+    "title": "The Messenger",
+    "artist": "Enjoy sarma",
+    "isrc": "RSZ141400352"
+  },
+  {
+    "title": "Asunder Hearts",
+    "artist": "Expedition Delta",
+    "isrc": "USZWJ0644001"
+  },
+  {
+    "title": "Szikrák (Izzik a véred)",
+    "artist": "Faust",
+    "isrc": "HUA631200444"
+  },
+  {
+    "title": "Merciful Angel",
+    "artist": "Hatred",
+    "isrc": "USLZJ1640367"
+  },
+  {
+    "title": "I'll Die My Way",
+    "artist": "In From The Cold",
+    "isrc": "NOAPI1494847"
+  },
+  {
+    "title": "I The Spirit That Caressed Eternity",
+    "artist": "Introitus",
+    "isrc": "ATC159617807"
+  },
+  {
+    "title": "Nichtswürdige Existenz des Außenseiters",
+    "artist": "Joys of Life",
+    "isrc": "UK-CVA-15-00024"
+  },
+  {
+    "title": "U svetu prevara",
+    "artist": "Kuga",
+    "isrc": "RSA1B1800021"
+  },
+  {
+    "title": "Renaissance Affair",
+    "artist": "Leonardo",
+    "isrc": "FR6V81017222"
+  },
+  {
+    "title": "Walls",
+    "artist": "Limbo",
+    "isrc": "NOAPI1688254"
+  },
+  {
+    "title": "Barbequed Iguana",
+    "artist": "M.A.D. Goya",
+    "isrc": "NOAPI1791102"
+  },
+  {
+    "title": "Morning Star",
+    "artist": "Metal Machine",
+    "isrc": "CH6451500600"
+  },
+  {
+    "title": "Brothers in Arms",
+    "artist": "Neters Shrine",
+    "isrc": "NOAPI1791453"
+  },
+  {
+    "title": "Opsesija",
+    "artist": "Nightfall",
+    "isrc": "CSA020726812"
+  },
+  {
+    "title": "Strah",
+    "artist": "Orest",
+    "isrc": "NOAPI1790913"
+  },
+  {
+    "title": "Vapaj Pokojnika",
+    "artist": "Paganus Diabolous",
+    "isrc": "UK-CVA-16-00912"
+  },
+  {
+    "title": "Selenophilia",
+    "artist": "Rain Delay",
+    "isrc": "AEA0Q1850711"
+  },
+  {
+    "title": "Breeding the Bleeding",
+    "artist": "Ravaged Spleen Outburst",
+    "isrc": "UKCVA1805316"
+  },
+  {
+    "title": "Eternal Sleep",
+    "artist": "Sangre Eterna",
+    "isrc": "USY252014569"
+  },
+  {
+    "title": "As a First Child's Cry",
+    "artist": "Seraphim",
+    "isrc": "ATR980015542"
+  },
+  {
+    "title": "Pobuna",
+    "artist": "Soul In Cage",
+    "isrc": "NOAPI1791051"
+  },
+  {
+    "title": "Two Orangeez",
+    "artist": "Spring and Youth",
+    "isrc": "QMPKX1405481"
+  },
+  {
+    "title": "Vatra",
+    "artist": "Stratus",
+    "isrc": "RSA0G1702151"
+  },
+  {
+    "title": "Light in the Darkness",
+    "artist": "Symphonic Destiny",
+    "isrc": "QM4DW1587031"
+  },
+  {
+    "title": "...Of Grandiose Fevers and Passion Arcane",
+    "artist": "Tales of Dark",
+    "isrc": "CH6542062397"
+  },
+  {
+    "title": "Unto The Earth",
+    "artist": "Temple of Gnosis",
+    "isrc": "JMA271602846"
+  },
+  {
+    "title": "Past Time Lords",
+    "artist": "Thundersteel",
+    "isrc": "FR96X1529541"
+  },
+  {
+    "title": "Katyusha",
+    "artist": "Utvar",
+    "isrc": "UK-CVA-15-00241"
+  },
+  {
+    "title": "A Halottlátó",
+    "artist": "Ámok",
+    "isrc": "HUA630500095"
+  },
+  {
+    "title": "Papučar",
+    "artist": "Mortal Kombat",
+    "isrc": "BAA051805094"
+  },
+  {
+    "title": "Gavranovo",
+    "artist": "The Stone",
+    "isrc": "QZAPG1762126"
+  },
+  {
+    "title": "Novo oružje protiv bola",
+    "artist": "Quasarborn",
+    "isrc": "usdy42397414"
+  },
+  {
+    "title": "Metal sviraću",
+    "artist": "Pero Defformero",
+    "isrc": "RSA141304323"
+  },
+  {
+    "title": "Odmazda",
+    "artist": "Centurion",
+    "isrc": "ushm81961641"
+  },
+  {
+    "title": "Bombarder III",
+    "artist": "Bombarder",
+    "isrc": "FR10S2483670"
+  },
+  {
+    "title": "Kruna Svega",
+    "artist": "Svartgren",
+    "isrc": "GBSMU7199936"
+  },
+  {
+    "title": "Eternal Depression",
+    "artist": "Alitor",
+    "isrc": "QMBZ91685814"
+  },
+  {
+    "title": "Absence of God",
+    "artist": "War Engine",
+    "isrc": "QZARB1898103"
+  },
+  {
+    "title": "Slava Smrti",
+    "artist": "May Result",
+    "isrc": "RSA0G1703845"
+  },
+  {
+    "title": "Zov Iz Magle",
+    "artist": "All My Sins",
+    "isrc": "FIS391800020"
+  },
+  {
+    "title": "Onward to Destroy",
+    "artist": "Infest",
+    "isrc": "DEP552004459"
+  },
+  {
+    "title": "Mašinerija",
+    "artist": "Putrid Blood",
+    "isrc": "NOAPI1794758"
+  },
+  {
+    "title": "Sećanje Na Slike Iz Sna",
+    "artist": "Alogia",
+    "isrc": "NOAPI1498837"
+  },
+  {
+    "title": "Daisy Cutter",
+    "artist": "Space Eater",
+    "isrc": "DEOM31400169"
+  },
+  {
+    "title": "Dodaj gas",
+    "artist": "Kraljevski apartman",
+    "isrc": "RSA221835099"
+  },
+  {
+    "title": "The Truth Is Death",
+    "artist": "Kozeljnik",
+    "isrc": "USI4R1018210"
+  },
+  {
+    "title": "The Walls of No Salvation",
+    "artist": "The Father Of Serpents",
+    "isrc": "QMDA61832162"
+  },
+  {
+    "title": "Your Game",
+    "artist": "Downstroy, Marjan",
+    "isrc": "QMFME2060790"
+  },
+  {
+    "title": "Arioch, Knight of the Swords",
+    "artist": "Claymorean",
+    "isrc": "QZDA42382352"
+  },
+  {
+    "title": "Omega Overcasts the Presence",
+    "artist": "Triumfall",
+    "isrc": "NONY61405040"
+  },
+  {
+    "title": "Praskozorje",
+    "artist": "Consecration",
+    "isrc": "USAM81209005"
+  },
+  {
+    "title": "Veštice, Đavoli",
+    "artist": "Gordi",
+    "isrc": "HRA048267928"
+  },
+  {
+    "title": "Rise",
+    "artist": "Forgotten Scream",
+    "isrc": "QZDA72154211"
+  },
+  {
+    "title": "Dark Saga",
+    "artist": "Interfector",
+    "isrc": "GBSMU8063890"
+  },
+  {
+    "title": "Make the Stand (At the Gates of Erebor)",
+    "artist": "Númenor, Hansi Kursch",
+    "isrc": "ITCZ62010236"
+  },
+  {
+    "title": "Neke Rane Krvave Večno",
+    "artist": "Stone To Flesh",
+    "isrc": "ATC150021207"
+  },
+  {
+    "title": "Pandemonium",
+    "artist": "Bane",
+    "isrc": "FR6V80347238"
+  },
+  {
+    "title": "Sanctimonious",
+    "artist": "Sacramental Blood",
+    "isrc": "USY251633022"
+  },
+  {
+    "title": "Reality Check Failure",
+    "artist": "Decontrolled",
+    "isrc": "ATR980015662"
+  },
+  {
+    "title": "Broken",
+    "artist": "Northern Revival",
+    "isrc": "HRA802211601"
+  },
+  {
+    "title": "Moć",
+    "artist": "Abonos",
+    "isrc": "FRX201963783"
+  },
+  {
+    "title": "Shy",
+    "artist": "Demether",
+    "isrc": "NOAPI1499094"
+  },
+  {
+    "title": "Hospitals",
+    "artist": "Draconic",
+    "isrc": "usdy42187491"
+  },
+  {
+    "title": "Empty Mirror",
+    "artist": "Asymmetry",
+    "isrc": "usdy41865280"
+  },
+  {
+    "title": "Chains of Sorrow",
+    "artist": "Endlife",
+    "isrc": "UK-CVA-17-00247"
+  },
+  {
+    "title": "The One",
+    "artist": "Carnival of Flesh",
+    "isrc": "usl4q2107564"
+  },
+  {
+    "title": "Apocalyptic Breed",
+    "artist": "Annathema",
+    "isrc": "NOAPI1790920"
+  },
+  {
+    "title": "Ache",
+    "artist": "Organized Chaos, Nick Johnston",
+    "isrc": "QZAPG1706957"
+  },
+  {
+    "title": "At the End of Time",
+    "artist": "4th Legacy",
+    "isrc": "ushm81626013"
+  },
+  {
+    "title": "Secanje No 1",
+    "artist": "Apartman 69",
+    "isrc": "BGA671272208"
+  },
+  {
+    "title": "Mirrorgallery",
+    "artist": "Ashen Epitaph",
+    "isrc": "FRX201708783"
+  },
+  {
+    "title": "Under the Trees in Darkness and Roots",
+    "artist": "At Radogost's Gates",
+    "isrc": "uscgj1428949"
+  },
+  {
+    "title": "Treasure in the Attic",
+    "artist": "Burning Circle",
+    "isrc": "USDY42417667"
+  },
+  {
+    "title": "Guiding Light",
+    "artist": "CyReign",
+    "isrc": "GB-SMU-32-83179"
+  },
+  {
+    "title": "Children of the Livid Sea",
+    "artist": "Daggerspawn",
+    "isrc": "QZTB42246475"
+  },
+  {
+    "title": "Sećanja",
+    "artist": "Death Saw",
+    "isrc": "RSA221835070"
+  },
+  {
+    "title": "Like A Saint In Velvet Rags",
+    "artist": "Diluvium",
+    "isrc": "ATC150122801"
+  },
+  {
+    "title": "Portrait",
+    "artist": "Evolucija",
+    "isrc": "QZTAT2342838"
+  },
+  {
+    "title": "Dream Within a Dream",
+    "artist": "Enjoy sarma",
+    "isrc": "RSZ141400349"
+  },
+  {
+    "title": "Move On",
+    "artist": "Expedition Delta",
+    "isrc": "USZWJ0644007"
+  },
+  {
+    "title": "Emlékezem",
+    "artist": "Faust",
+    "isrc": "HUA631200438"
+  },
+  {
+    "title": "Man Of Salvation (feat. Jovana Repovic)",
+    "artist": "Hatred, Jovana Repovic",
+    "isrc": "USLZJ1640369"
+  },
+  {
+    "title": "Ulica",
+    "artist": "Mortal Kombat",
+    "isrc": "BAA051805102"
+  },
+  {
+    "title": "Kralj Je Umro",
+    "artist": "The Stone",
+    "isrc": "USI4R0904002"
+  },
+  {
+    "title": "Voz",
+    "artist": "Quasarborn",
+    "isrc": "usdy42397417"
+  },
+  {
+    "title": "Gotičarka",
+    "artist": "Pero Defformero",
+    "isrc": "RSA141300388"
+  },
+  {
+    "title": "Ruka Sudbine",
+    "artist": "Centurion",
+    "isrc": "ushm81961642"
+  },
+  {
+    "title": "Bombarder",
+    "artist": "Bombarder",
+    "isrc": "DGA062026998"
+  },
+  {
+    "title": "Divlja Vatra",
+    "artist": "Svartgren",
+    "isrc": "GBSMU7199945"
+  },
+  {
+    "title": "The Tempest Within",
+    "artist": "Alitor",
+    "isrc": "RSA0G2000047"
+  },
+  {
+    "title": "Dead Branches",
+    "artist": "War Engine",
+    "isrc": "QZMEP2224657"
+  },
+  {
+    "title": "At the Cursed Heights of Prokletije",
+    "artist": "May Result",
+    "isrc": "RSA0G1703844"
+  },
+  {
+    "title": "Vukov Totem",
+    "artist": "All My Sins",
+    "isrc": "FIS391800019"
+  },
+  {
+    "title": "Of Everlasting Hate",
+    "artist": "Infest",
+    "isrc": "QMFMF1441518"
+  },
+  {
+    "title": "Luciferov Sin",
+    "artist": "Putrid Blood",
+    "isrc": "NOAPI1794754"
+  },
+  {
+    "title": "Semendria",
+    "artist": "Alogia, Mark Boals",
+    "isrc": "ITCZ62010029"
+  },
+  {
+    "title": "Passing Through the Fire to Molech",
+    "artist": "Space Eater",
+    "isrc": "DEOM31400168"
+  },
+  {
+    "title": "Ruka pravde",
+    "artist": "Kraljevski apartman",
+    "isrc": "RSA042300982"
+  },
+  {
+    "title": "The All-Consuming",
+    "artist": "Kozeljnik",
+    "isrc": "USI4R1018211"
+  },
+  {
+    "title": "The Afterlife Symphony",
+    "artist": "The Father Of Serpents",
+    "isrc": "QMDA61832167"
+  },
+  {
+    "title": "The Keeper",
+    "artist": "Downstroy",
+    "isrc": "QMFME2060791"
+  },
+  {
+    "title": "Battle in the Sky - Live at Keep It True Rising 3",
+    "artist": "Claymorean",
+    "isrc": "QZK6K2429306"
+  },
+  {
+    "title": "Allegiance to Thy Fall",
+    "artist": "Triumfall",
+    "isrc": "NONY61405030"
+  },
+  {
+    "title": "Cimet",
+    "artist": "Consecration",
+    "isrc": "USAM81209001"
+  },
+  {
+    "title": "Tebi Ne Treba Niko",
+    "artist": "Gordi",
+    "isrc": "HRA048167917"
+  },
+  {
+    "title": "Another Scar",
+    "artist": "Forgotten Scream",
+    "isrc": "QZDA72154210"
+  },
+  {
+    "title": "S Druge Strane Svjetla",
+    "artist": "Interfector",
+    "isrc": "GBSMU8063888"
+  },
+  {
+    "title": "Feanor",
+    "artist": "Númenor",
+    "isrc": "ITCZ62010239"
+  },
+  {
+    "title": "Serbian Wood",
+    "artist": "Stone To Flesh",
+    "isrc": "ATC150021204"
+  },
+  {
+    "title": "Inherited Infection",
+    "artist": "Bane",
+    "isrc": "FR6V80347242"
+  },
+  {
+    "title": "Buildings Of Burning Flesh",
+    "artist": "Sacramental Blood",
+    "isrc": "USY251633018"
+  },
+  {
+    "title": "Awakening II",
+    "artist": "Decontrolled",
+    "isrc": "QZ22B2022880"
+  }
+]

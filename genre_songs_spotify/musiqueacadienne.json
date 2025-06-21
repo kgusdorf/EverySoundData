@@ -1,0 +1,507 @@
+[
+  {
+    "title": "La même rengaine",
+    "artist": "Marc Babin",
+    "isrc": "CABS01300008"
+  },
+  {
+    "title": "Le frolic",
+    "artist": "Acajun",
+    "isrc": "CACEB1763782"
+  },
+  {
+    "title": "Oui c'est non",
+    "artist": "Daniel Léger",
+    "isrc": "CACEB1710545"
+  },
+  {
+    "title": "Mon été",
+    "artist": "Danny Boudreau",
+    "isrc": "CA93X1700002"
+  },
+  {
+    "title": "Le begueilleux",
+    "artist": "Chiac",
+    "isrc": "CAZ701002183"
+  },
+  {
+    "title": "Finalement la fin de semaine",
+    "artist": "Daniel Goguen",
+    "isrc": "CA36J1500404"
+  },
+  {
+    "title": "Moments kodak",
+    "artist": "George Belliveau",
+    "isrc": "CAZ700802794"
+  },
+  {
+    "title": "Maria Dolores",
+    "artist": "Bois-Joli",
+    "isrc": "CAZ701002119"
+  },
+  {
+    "title": "Dans le bon vieux temps",
+    "artist": "La Virée",
+    "isrc": "CAZ700803270"
+  },
+  {
+    "title": "À la camp à Willie",
+    "artist": "Rheal LeBlanc",
+    "isrc": "CAR041300013"
+  },
+  {
+    "title": "Elle écoute pousser les fleurs",
+    "artist": "Paul Hebert",
+    "isrc": "CAZ700802705"
+  },
+  {
+    "title": "La meilleure des saisons",
+    "artist": "Marc-Yvon Vigneau",
+    "isrc": "CA4TL1304205"
+  },
+  {
+    "title": "Hé yaille yaille - Disco fait dodo",
+    "artist": "Suroît",
+    "isrc": "CAO500700018"
+  },
+  {
+    "title": "Le mythe du masque à Ray",
+    "artist": "Fayo",
+    "isrc": "CAZ700101495"
+  },
+  {
+    "title": "P'tits cris yaie yaie",
+    "artist": "Pierre Robichaud",
+    "isrc": "CAZ700803153"
+  },
+  {
+    "title": "Whisky, whisky",
+    "artist": "Claude Cormier",
+    "isrc": "CACAJ1832011"
+  },
+  {
+    "title": "Moi-itou Mojito",
+    "artist": "Laurie LeBlanc",
+    "isrc": "CA7GA1500002"
+  },
+  {
+    "title": "Su la ligne a harde",
+    "artist": "Hert Leblanc",
+    "isrc": "CAZ700803245"
+  },
+  {
+    "title": "Le monde de par chez nous",
+    "artist": "Marcella Richard",
+    "isrc": "CAZ700902379"
+  },
+  {
+    "title": "Le pays des violonneux",
+    "artist": "Keven Landry",
+    "isrc": "CAA4H1702008"
+  },
+  {
+    "title": "J'me suis ben amusé hier soir",
+    "artist": "Albert Babin",
+    "isrc": "CAZ700804956"
+  },
+  {
+    "title": "Easy Rose",
+    "artist": "Ode à l'Acadie",
+    "isrc": "CAK720500085"
+  },
+  {
+    "title": "C.B. Buddie",
+    "artist": "1755",
+    "isrc": "CA99M1200002"
+  },
+  {
+    "title": "Party Gaspésien",
+    "artist": "Quimorucru",
+    "isrc": "ushm21660410"
+  },
+  {
+    "title": "Fermez les Honky Tonks",
+    "artist": "Véronique Labbé",
+    "isrc": "CA2EE1700104"
+  },
+  {
+    "title": "Petit-Rocher",
+    "artist": "Denis Richard",
+    "isrc": "CAJ5M1300009"
+  },
+  {
+    "title": "Next to Nothing",
+    "artist": "Bluegrass Diamonds",
+    "isrc": "CAZ700802907"
+  },
+  {
+    "title": "Two step en Acadie",
+    "artist": "Blou",
+    "isrc": "CA1820700002"
+  },
+  {
+    "title": "L'amour d'oiseaux",
+    "artist": "Marty pis les Roots, Paul Hebert",
+    "isrc": "CACCF1700003"
+  },
+  {
+    "title": "Acadie de nos coeurs",
+    "artist": "Roland & Johnny",
+    "isrc": "CAZ700803045"
+  },
+  {
+    "title": "Parti pour la chasse",
+    "artist": "Louis Bérubé",
+    "isrc": "CAW820900012"
+  },
+  {
+    "title": "Amene le vent",
+    "artist": "Ronald Bourgeois",
+    "isrc": "CAI820800079"
+  },
+  {
+    "title": "La chaîne de mon tracteur",
+    "artist": "Cayouche",
+    "isrc": "CAZ701002245"
+  },
+  {
+    "title": "Cinéma - Act Naturally",
+    "artist": "Kenneth Saulnier",
+    "isrc": "CAZ700803134"
+  },
+  {
+    "title": "Viens voir l'Acadie",
+    "artist": "Donat Lacroix, Émé Lacroix",
+    "isrc": "CAZ700902365"
+  },
+  {
+    "title": "Partir en tournée",
+    "artist": "La famille Daraîche",
+    "isrc": "CA86Y1249039"
+  },
+  {
+    "title": "Adèle",
+    "artist": "Grand Derangement",
+    "isrc": "CAZ700802725"
+  },
+  {
+    "title": "Yousse k'on kouche ?",
+    "artist": "Trans Akadi",
+    "isrc": "CATD10700003"
+  },
+  {
+    "title": "Dans l'bois",
+    "artist": "Édith Butler, Lisa LeBlanc",
+    "isrc": "CA06H2100137"
+  },
+  {
+    "title": "Je veux toute la vivre ma vie",
+    "artist": "Angèle Arsenault",
+    "isrc": "CAZ701003889"
+  },
+  {
+    "title": "Kouma",
+    "artist": "Vishtèn, Seckou Keita, Catrin Finch",
+    "isrc": "QMEU32403310"
+  },
+  {
+    "title": "Amour, amour",
+    "artist": "Les muses",
+    "isrc": "CAZ700803156"
+  },
+  {
+    "title": "Plus Jamais La Mer",
+    "artist": "Lina Boudreau",
+    "isrc": "usx9p1095562"
+  },
+  {
+    "title": "Quand j'y pense",
+    "artist": "Christian KIT Goguen",
+    "isrc": "CAZ700803195"
+  },
+  {
+    "title": "Seul",
+    "artist": "Alain Comeau",
+    "isrc": "CAFL81300106"
+  },
+  {
+    "title": "J'aurais quelque chose a dire",
+    "artist": "Barachois",
+    "isrc": "GBAHX9700007"
+  },
+  {
+    "title": "Pot-pour Acadien : Cabane à fer à cheval / Poule à Colin",
+    "artist": "Borlico",
+    "isrc": "CAZ700902400"
+  },
+  {
+    "title": "Les Chevaliers de la Table Ronde",
+    "artist": "Boréal Tordu",
+    "isrc": "ushm90964274"
+  },
+  {
+    "title": "Quand les hommes vivront d'amour",
+    "artist": "Isabelle Roy",
+    "isrc": "CAZ700802707"
+  },
+  {
+    "title": "Le père Noël est acadien",
+    "artist": "La Famille Arseneault",
+    "isrc": "CAZ700908392"
+  },
+  {
+    "title": "Cecilia",
+    "artist": "Marc Babin",
+    "isrc": "CABS01300006"
+  },
+  {
+    "title": "Squeezebox",
+    "artist": "Acajun",
+    "isrc": "CACEB1701909"
+  },
+  {
+    "title": "Faisons le beau temps",
+    "artist": "Daniel Léger",
+    "isrc": "CAZ700803199"
+  },
+  {
+    "title": "Fait dodo",
+    "artist": "Danny Boudreau",
+    "isrc": "CA93X1700004"
+  },
+  {
+    "title": "Par che-nous",
+    "artist": "Chiac",
+    "isrc": "CAZ701002175"
+  },
+  {
+    "title": "Les backroads",
+    "artist": "Daniel Goguen",
+    "isrc": "CA36J1500401"
+  },
+  {
+    "title": "Call in sick",
+    "artist": "George Belliveau",
+    "isrc": "CA4BL1100302"
+  },
+  {
+    "title": "Le bucheron",
+    "artist": "Bois-Joli",
+    "isrc": "CAZ700802746"
+  },
+  {
+    "title": "Une bonne bouteille de vin",
+    "artist": "Rheal LeBlanc",
+    "isrc": "CAR031300008"
+  },
+  {
+    "title": "Fourtunat",
+    "artist": "La Virée",
+    "isrc": "CAZ700803274"
+  },
+  {
+    "title": "Mon bateau de papier",
+    "artist": "Paul Hebert",
+    "isrc": "CAZ700802663"
+  },
+  {
+    "title": "Un air de bum",
+    "artist": "Marc-Yvon Vigneau",
+    "isrc": "CA4TL1304203"
+  },
+  {
+    "title": "La lianne",
+    "artist": "Suroît",
+    "isrc": "CAA4H1703002"
+  },
+  {
+    "title": "Mon été",
+    "artist": "Fayo",
+    "isrc": "CAZ700807317"
+  },
+  {
+    "title": "Aux Îles",
+    "artist": "Pierre Robichaud",
+    "isrc": "CADC41411913"
+  },
+  {
+    "title": "Garde ton accent",
+    "artist": "Claude Cormier",
+    "isrc": "CACAJ1832017"
+  },
+  {
+    "title": "La pitoune",
+    "artist": "Laurie LeBlanc",
+    "isrc": "CAZ701003112"
+  },
+  {
+    "title": "Tchin tchin câlice",
+    "artist": "Hert Leblanc",
+    "isrc": "CA9XD1900105"
+  },
+  {
+    "title": "Hareng fumé",
+    "artist": "Marcella Richard",
+    "isrc": "CAZ700902378"
+  },
+  {
+    "title": "Don't Cry",
+    "artist": "Keven Landry",
+    "isrc": "CAA4H1706013"
+  },
+  {
+    "title": "Dans mon shack",
+    "artist": "Albert Babin",
+    "isrc": "CAZ700804945"
+  },
+  {
+    "title": "Réveille",
+    "artist": "Ode à l'Acadie",
+    "isrc": "CAK720500088"
+  },
+  {
+    "title": "Le monde a bien changé",
+    "artist": "1755",
+    "isrc": "CA99M1200010"
+  },
+  {
+    "title": "Un gars de la baie",
+    "artist": "Quimorucru",
+    "isrc": "ushm21684680"
+  },
+  {
+    "title": "Un gars de Mont Carmel",
+    "artist": "Véronique Labbé",
+    "isrc": "CA2EE1700103"
+  },
+  {
+    "title": "Le printemps",
+    "artist": "Denis Richard",
+    "isrc": "CAJ5M1300003"
+  },
+  {
+    "title": "Par héritage",
+    "artist": "Bluegrass Diamonds",
+    "isrc": "CAZ700802932"
+  },
+  {
+    "title": "Cap Ste-Marie",
+    "artist": "Blou",
+    "isrc": "CA1820700055"
+  },
+  {
+    "title": "Moonshine",
+    "artist": "Marty pis les Roots, Mario Leblanc",
+    "isrc": "CACCF1700012"
+  },
+  {
+    "title": "Madame Bosso",
+    "artist": "Roland & Johnny",
+    "isrc": "CAZ700803038"
+  },
+  {
+    "title": "Vendredi",
+    "artist": "Louis Bérubé",
+    "isrc": "CAW821800002"
+  },
+  {
+    "title": "Eugène",
+    "artist": "Ronald Bourgeois",
+    "isrc": "CA8ZP1200011"
+  },
+  {
+    "title": "L'alcool au volant",
+    "artist": "Cayouche",
+    "isrc": "CAZ701002198"
+  },
+  {
+    "title": "Mardi gras",
+    "artist": "Kenneth Saulnier",
+    "isrc": "CAZ700803131"
+  },
+  {
+    "title": "Une medley française",
+    "artist": "Marc Babin",
+    "isrc": "CABS01300009"
+  },
+  {
+    "title": "Ça serais: tu pas le fun",
+    "artist": "Acajun",
+    "isrc": "CAGY31300001"
+  },
+  {
+    "title": "J'vis pour vivre",
+    "artist": "Daniel Léger",
+    "isrc": "CAZ700803207"
+  },
+  {
+    "title": "Le vieux matelot",
+    "artist": "Danny Boudreau",
+    "isrc": "CA93X1500002"
+  },
+  {
+    "title": "La patch",
+    "artist": "Chiac",
+    "isrc": "CAZ701002177"
+  },
+  {
+    "title": "On veut juste avoir un good time",
+    "artist": "Daniel Goguen",
+    "isrc": "CA36J1500406"
+  },
+  {
+    "title": "Louisiane",
+    "artist": "George Belliveau",
+    "isrc": "CAZ700802804"
+  },
+  {
+    "title": "La cabane à fer à joual",
+    "artist": "Bois-Joli",
+    "isrc": "CAZ701002120"
+  },
+  {
+    "title": "Parton la mer est belle",
+    "artist": "La Virée",
+    "isrc": "CAZ700803272"
+  },
+  {
+    "title": "Au pied du quai",
+    "artist": "Rheal LeBlanc",
+    "isrc": "CA5691800002"
+  },
+  {
+    "title": "Victoria",
+    "artist": "Paul Hebert",
+    "isrc": "CAZ700802672"
+  },
+  {
+    "title": "Ouvre la bouteille",
+    "artist": "Marc-Yvon Vigneau",
+    "isrc": "CA4TL1304201"
+  },
+  {
+    "title": "M'en allant par saulnierville station",
+    "artist": "Suroît",
+    "isrc": "CAO500700020"
+  },
+  {
+    "title": "Matou",
+    "artist": "Fayo",
+    "isrc": "CAZ700101504"
+  },
+  {
+    "title": "Je reviens pour la fête",
+    "artist": "Pierre Robichaud",
+    "isrc": "CAZ700803143"
+  },
+  {
+    "title": "Parlons de chez nous",
+    "artist": "Claude Cormier, Keven Landry",
+    "isrc": "CAA4H2202001"
+  },
+  {
+    "title": "La Poker Run de Saint-Thomas",
+    "artist": "Laurie LeBlanc",
+    "isrc": "CA7GA1500006"
+  }
+]

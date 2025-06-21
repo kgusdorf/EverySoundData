@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Horas de Ronda",
+    "artist": "Tuna de Derecho y Económicas de la Universidad de Barcelona",
+    "isrc": "ES5299500358"
+  },
+  {
+    "title": "Luna De España",
+    "artist": "Tuna de Juglares",
+    "isrc": "USTC40872776"
+  },
+  {
+    "title": "Canta y No Llores",
+    "artist": "Tuna Decana de Madrid",
+    "isrc": "ES5621103612"
+  },
+  {
+    "title": "Barrio Brujo",
+    "artist": "Tunos Universitarios de Sevilla",
+    "isrc": "ES5351202878"
+  },
+  {
+    "title": "Tus ojos",
+    "artist": "Tuna Universitaria Compostelana",
+    "isrc": "ES5300407693"
+  },
+  {
+    "title": "Piel Canela",
+    "artist": "Tuna Ciudad de Luz",
+    "isrc": "NLNY61400103"
+  },
+  {
+    "title": "Clavelitos",
+    "artist": "Tuna Universitaria De Madrid",
+    "isrc": "FR96X1743348"
+  },
+  {
+    "title": "A Mi Me Gusta el Vino",
+    "artist": "Tuna Vocal",
+    "isrc": "ES8620902601"
+  },
+  {
+    "title": "Esta Noche no Alumbra",
+    "artist": "Tuna Universitaria de Barcelona",
+    "isrc": "ES71G1400138"
+  },
+  {
+    "title": "Nube Gris - En Vivo",
+    "artist": "Tuna de Derecho de la Universidad de San Martin de Porres",
+    "isrc": "FR2X41510752"
+  },
+  {
+    "title": "Clavelitos",
+    "artist": "Tuna de la Facultad de Farmacia",
+    "isrc": "USA560944005"
+  },
+  {
+    "title": "La Luna Y El Toro",
+    "artist": "Tuna Real",
+    "isrc": "USR010615880"
+  },
+  {
+    "title": "Las Plazas de Sevilla",
+    "artist": "Tuna de Derecho de Sevilla",
+    "isrc": "ES5161201740"
+  },
+  {
+    "title": "Hay amores que duran toda la vida",
+    "artist": "Tuna de Ingenieros de Sevilla",
+    "isrc": "ESA082401323"
+  },
+  {
+    "title": "Vagabundo Por Santa Cruz",
+    "artist": "Tuna Uabjo",
+    "isrc": "QZDA72028162"
+  },
+  {
+    "title": "Maracaibo",
+    "artist": "Tuna Da Universidade Internacional",
+    "isrc": "PTOV19700160"
+  },
+  {
+    "title": "La Flor de la Canela",
+    "artist": "Tuna Bardos de la Universidad de Puerto Rico",
+    "isrc": "TCAAS1023838"
+  },
+  {
+    "title": "Caja de musica",
+    "artist": "Tuna de filosofia y letras de sevilla",
+    "isrc": "GX89G2286974"
+  },
+  {
+    "title": "Hoy Estoy Aqui",
+    "artist": "Tuna Universitaria de Maastricht",
+    "isrc": "GMBA21467637"
+  },
+  {
+    "title": "Locura Mía",
+    "artist": "Tuna Javeriana",
+    "isrc": "TCADS1854917"
+  },
+  {
+    "title": "La Aurora",
+    "artist": "Tuna Arquitectura De Madrid",
+    "isrc": "ES5630702119"
+  },
+  {
+    "title": "San Fermin",
+    "artist": "Tuna De Barcelona",
+    "isrc": "DEZ041004169"
+  },
+  {
+    "title": "Cielito Lindo",
+    "artist": "La Tuna",
+    "isrc": "ES6100881101"
+  },
+  {
+    "title": "Flor Sin Retoño",
+    "artist": "Cuarentuna De La Ciudad de México",
+    "isrc": "QZFZ62034470"
+  },
+  {
+    "title": "El Bachiller",
+    "artist": "Estudiantina De La Universidad Autonoma De Queretaro",
+    "isrc": "MXF366410140"
+  },
+  {
+    "title": "El Cascabel",
+    "artist": "Tuna de Botín",
+    "isrc": "ES5621904870"
+  },
+  {
+    "title": "La Cigarra",
+    "artist": "Tuna de la E.T.S.E.T.B.",
+    "isrc": "ESA031100303"
+  },
+  {
+    "title": "Morenita Verde Luna (En Vivo)",
+    "artist": "Jose Santiago Swayne, Tuna de la Universidad de San Martín de Porres",
+    "isrc": "usl4q1900374"
+  },
+  {
+    "title": "Viva el Pasodoble",
+    "artist": "Tuna de la UNED de Úbeda",
+    "isrc": "GB-SMU-28-89400"
+  },
+  {
+    "title": "Piel canela",
+    "artist": "Tuna UABC",
+    "isrc": "ES18B1900790"
+  },
+  {
+    "title": "Todo Me Gusta de Ti",
+    "artist": "Cuarentuna de Derecho USMP",
+    "isrc": "ushm21789018"
+  },
+  {
+    "title": "Estrella de la Noche",
+    "artist": "Tuna Universitaria De Salamanca",
+    "isrc": "QM6P41799601"
+  },
+  {
+    "title": "La Rondalla",
+    "artist": "Estudiantina \"La Salle\" De Puebla",
+    "isrc": "MXF366510974"
+  },
+  {
+    "title": "La Banderita",
+    "artist": "Tuna de la Facultad de Derecho de Madrid",
+    "isrc": "ES5271404908"
+  },
+  {
+    "title": "De Colores",
+    "artist": "Estudiantina De La Universidad De Guanajuato",
+    "isrc": "MXF366612143"
+  },
+  {
+    "title": "Se Marcha la Ronda",
+    "artist": "Tuna Agraria",
+    "isrc": "QZK6F2062293"
+  },
+  {
+    "title": "Novillero",
+    "artist": "Tuna de la Facultad de Ingenieria de la UNAM",
+    "isrc": "QZES52111387"
+  },
+  {
+    "title": "Polo Margariteño",
+    "artist": "Tuna de Filosofía, Letras de Málaga",
+    "isrc": "AEA0Q2033686"
+  },
+  {
+    "title": "Estudiantina Canaria",
+    "artist": "Tuna de Contaduría y Administración de la UNAM",
+    "isrc": "QZHN42050723"
+  },
+  {
+    "title": "Hoy",
+    "artist": "Tuna Femenina Javeriana",
+    "isrc": "uscgj2085487"
+  },
+  {
+    "title": "Pequeña flor de primavera",
+    "artist": "Tuna Imperial de la FES Iztacala-UNAM",
+    "isrc": "QZK6L2006955"
+  },
+  {
+    "title": "Las Palmeras",
+    "artist": "Tuna Universitaria de la Ciudad de México",
+    "isrc": "QZHN52106200"
+  },
+  {
+    "title": "Se Oye un Canto en Santa Cruz",
+    "artist": "Tuna de Peritos Industriales de Sevilla",
+    "isrc": "GX5MY2289170"
+  },
+  {
+    "title": "Imágenes de Ayer",
+    "artist": "Tuna Magisterio de Sevilla",
+    "isrc": "GX4R52274185"
+  },
+  {
+    "title": "Angelitos Negros",
+    "artist": "Rondalla De La Universidad Potosina",
+    "isrc": "MXF366612042"
+  },
+  {
+    "title": "Estudiantina Andaluza - Remastered",
+    "artist": "Tuna Universitaria De Córdoba, Rafael Lara",
+    "isrc": "ES5271702303"
+  },
+  {
+    "title": "Alma, Corazón y Vida",
+    "artist": "Tuna de Acción Católica",
+    "isrc": "QZMER2208842"
+  },
+  {
+    "title": "Si Vas a Calatayud",
+    "artist": "Tuna Universitaria De La Facultad De Medicina",
+    "isrc": "QM7281432952"
+  },
+  {
+    "title": "Me Estoy Enamorando - En vivo",
+    "artist": "Tuna de Distrito Universidad de La Serena",
+    "isrc": "QZTVM2137815"
+  },
+  {
+    "title": "La Paloma",
+    "artist": "Tuna Universitaria de Granada",
+    "isrc": "USV351466972"
+  },
+  {
+    "title": "Vallisoletana",
+    "artist": "Tuna Derecho Valladolid",
+    "isrc": "usdy42178701"
+  },
+  {
+    "title": "Moliendo Café",
+    "artist": "Tuna de la Facultad de Ingeniería Mecánica y Eléctrica",
+    "isrc": "usl4r2134341"
+  },
+  {
+    "title": "El vampiro",
+    "artist": "Tuna de la Universidad Privada de Tacna",
+    "isrc": "GBSMU6870648"
+  },
+  {
+    "title": "San Cayetano",
+    "artist": "Tuna de Ingenieros Aeronáuticos",
+    "isrc": "ESAAI0132788"
+  },
+  {
+    "title": "Muñequita Linda",
+    "artist": "María Grever, Tuna de Comunicaciones USMP",
+    "isrc": "QZNWU2076279"
+  },
+  {
+    "title": "Quiéreme",
+    "artist": "Tuna Femenil UV",
+    "isrc": "SE62M2100666"
+  },
+  {
+    "title": "Triana",
+    "artist": "Tuna Universitaria de Cádiz",
+    "isrc": "ES5338509515"
+  },
+  {
+    "title": "La Bikina",
+    "artist": "Tunas Ao Vivo - Vicitu - Certame Internacional De Tunas Universitárias",
+    "isrc": "PTOV19500131"
+  },
+  {
+    "title": "El Curso Santiagues",
+    "artist": "Tuna de Santiago",
+    "isrc": "QM6P41531826"
+  },
+  {
+    "title": "Te Traigo Serenata",
+    "artist": "Estudiantina De La Universidad Gto.",
+    "isrc": "MXF366410282"
+  },
+  {
+    "title": "La Llorona",
+    "artist": "Estudiantina Femenina",
+    "isrc": "MXF016600867"
+  },
+  {
+    "title": "Soldadito Español",
+    "artist": "Tuna de Madrid",
+    "isrc": "US6R21406550"
+  },
+  {
+    "title": "Oh Maribel",
+    "artist": "Tuna de la Facultad de Veterinaria de Madrid",
+    "isrc": "ES5272000212"
+  },
+  {
+    "title": "Los Nardos",
+    "artist": "Estudiantina Nicolaita De La Universidad Michoacana",
+    "isrc": "MXF366612439"
+  },
+  {
+    "title": "Nathalie",
+    "artist": "Tuna Sabana",
+    "isrc": "SE6I32074429"
+  },
+  {
+    "title": "La Sirena",
+    "artist": "Tuna de la Escuela de Peritos Industriales de Madrid",
+    "isrc": "ES5272000206"
+  },
+  {
+    "title": "Boquita de Cereza",
+    "artist": "Tuna Femenina Azahares de la Universidad de La Serena",
+    "isrc": "QZFYY2215494"
+  },
+  {
+    "title": "Ladrón de amores",
+    "artist": "Tuna de la Universidad Nacional de San Cristóbal de Huamanga",
+    "isrc": "GBSMU5871157"
+  },
+  {
+    "title": "Que No Se Rompa la Noche",
+    "artist": "Parrandboleros",
+    "isrc": "ES5300926744"
+  },
+  {
+    "title": "Bésame Mucho",
+    "artist": "Tuna de Ciencias Universidad de Granada",
+    "isrc": "ES71G2061248"
+  },
+  {
+    "title": "Por Favor",
+    "artist": "Tuna CMU San Juan Bosco",
+    "isrc": "GX5MY2289111"
+  },
+  {
+    "title": "El Campanero",
+    "artist": "Hermanos Anoz",
+    "isrc": "ES7580502099"
+  },
+  {
+    "title": "La Paloma",
+    "artist": "Tuna Estudiantil de Cistierna",
+    "isrc": "ES5530902428"
+  },
+  {
+    "title": "El Beso",
+    "artist": "Tuna Javeriana",
+    "isrc": "ES71G1766294"
+  },
+  {
+    "title": "Noches De Cartagena",
+    "artist": "Tuna da Universidade Internacional de lisboa",
+    "isrc": "PTOV19400191"
+  },
+  {
+    "title": "Si No Me Dan de Beber Lloro",
+    "artist": "La Tuna Estudiantina de Cayey",
+    "isrc": "QMYW20300074"
+  },
+  {
+    "title": "Estudiantina portuguesa",
+    "artist": "Tuna De Aparejadores De Madrid",
+    "isrc": "ES5086900180"
+  },
+  {
+    "title": "Condená' María",
+    "artist": "Tuna De Cayey",
+    "isrc": "ushm91834197"
+  },
+  {
+    "title": "Popurrí tuna 2",
+    "artist": "Tuna De Ingenieros De Montes",
+    "isrc": "ES5081100154"
+  },
+  {
+    "title": "Palmero Sube a la Palma",
+    "artist": "Tuna De La Facultad De Farmacia De Madrid",
+    "isrc": "ES7581300677"
+  },
+  {
+    "title": "Viva la tuna",
+    "artist": "Tuna De La Facultad De Medicina de Barcelona",
+    "isrc": "ES5081100129"
+  },
+  {
+    "title": "O Sole Mio",
+    "artist": "Tuna E.T. Peritos Industriales Valencia",
+    "isrc": "ES7581300693"
+  },
+  {
+    "title": "Adelita",
+    "artist": "Tuna Escuela De Ingenieros Tec. Barcelona",
+    "isrc": "ES7581300688"
+  },
+  {
+    "title": "Virgen del Amor",
+    "artist": "Tuna Escuela de Ingenieros Tecnicos de Barcelona",
+    "isrc": "ES7581300690"
+  },
+  {
+    "title": "La Aurora - Remastered",
+    "artist": "Tuna Hispano Americana del Colegio Mayor \"Nuestra Señora de Guadalupe\" de Madrid",
+    "isrc": "ES5271600102"
+  },
+  {
+    "title": "Beber",
+    "artist": "Tuna Hispanoamericana",
+    "isrc": "ES5081100150"
+  },
+  {
+    "title": "Amparito Roca",
+    "artist": "Tuna Peritos Industriales de Valencia",
+    "isrc": "ES71G1400140"
+  },
+  {
+    "title": "La morena de mi copla",
+    "artist": "Tuna Universitaria De Valencia",
+    "isrc": "ES5081100131"
+  },
+  {
+    "title": "Clavelitos",
+    "artist": "Tuna de Aparejadores de Granada",
+    "isrc": "GB8HK1404771"
+  },
+  {
+    "title": "El Trovador",
+    "artist": "Tuna de Derecho UNAM",
+    "isrc": "AEA0Q2075204"
+  },
+  {
+    "title": "Tuna Compostelana",
+    "artist": "Tuna de Ingenieros de Telecomunicaciones",
+    "isrc": "ES71G1400139"
+  },
+  {
+    "title": "Horas de ronda",
+    "artist": "Tuna de Peritos Industriales de Barcelona",
+    "isrc": "ES5081100123"
+  },
+  {
+    "title": "Tuna Compostelana",
+    "artist": "Tuna de Derecho y Económicas de la Universidad de Barcelona",
+    "isrc": "ES5299500355"
+  },
+  {
+    "title": "El Toro Y La Luna",
+    "artist": "Tuna de Juglares",
+    "isrc": "USTC40872798"
+  },
+  {
+    "title": "Los Ojos de la Española",
+    "artist": "Tuna Decana de Madrid",
+    "isrc": "ES5621103607"
+  },
+  {
+    "title": "Amapola",
+    "artist": "Tunos Universitarios de Sevilla",
+    "isrc": "ES5351202881"
+  },
+  {
+    "title": "Luna de españa",
+    "artist": "Tuna Universitaria Compostelana",
+    "isrc": "ES5300407698"
+  },
+  {
+    "title": "Parate",
+    "artist": "Tuna Ciudad de Luz",
+    "isrc": "NLNY61400116"
+  },
+  {
+    "title": "Despierta Niña",
+    "artist": "Tuna Universitaria de Barcelona",
+    "isrc": "ES7581300684"
+  },
+  {
+    "title": "Fonseca",
+    "artist": "Tuna Universitaria De Madrid",
+    "isrc": "FR96X1743349"
+  },
+  {
+    "title": "La Novia del Pescador",
+    "artist": "Tuna de Derecho de la Universidad de San Martin de Porres",
+    "isrc": "ushm91712202"
+  },
+  {
+    "title": "Despierta",
+    "artist": "Tuna Vocal",
+    "isrc": "ES8620902703"
+  },
+  {
+    "title": "Estudiantina Canaria",
+    "artist": "Tuna Real",
+    "isrc": "USR010615876"
+  },
+  {
+    "title": "Cintas De Mi Capa",
+    "artist": "Tuna de la Facultad de Farmacia",
+    "isrc": "USA560944004"
+  },
+  {
+    "title": "Compostelana",
+    "artist": "Tuna de Derecho de Sevilla",
+    "isrc": "ES5161101653"
+  },
+  {
+    "title": "Lástima",
+    "artist": "Tuna de Ingenieros de Sevilla",
+    "isrc": "ESA082401324"
+  },
+  {
+    "title": "Lloraran Las Estrellas",
+    "artist": "Tuna Uabjo",
+    "isrc": "QZHN32020998"
+  },
+  {
+    "title": "Cancion Del Mariachi",
+    "artist": "Tuna Da Universidade Internacional",
+    "isrc": "PTOV19700162"
+  },
+  {
+    "title": "Estando en Otras Tierras",
+    "artist": "Tuna Bardos de la Universidad de Puerto Rico",
+    "isrc": "TCAAS1023830"
+  },
+  {
+    "title": "Dos Palomitas",
+    "artist": "Tuna Universitaria de Maastricht",
+    "isrc": "GMBA21467638"
+  },
+  {
+    "title": "Ronda en Santa Cruz",
+    "artist": "Tuna de filosofia y letras de sevilla",
+    "isrc": "GX89G2286993"
+  },
+  {
+    "title": "Porpourri Colombiano",
+    "artist": "Tuna Javeriana",
+    "isrc": "TCADS1855060"
+  },
+  {
+    "title": "La Tuna Pasa",
+    "artist": "Tuna Arquitectura De Madrid",
+    "isrc": "ES5630702111"
+  },
+  {
+    "title": "La Dolores",
+    "artist": "Tuna De Barcelona",
+    "isrc": "DEZ041004171"
+  },
+  {
+    "title": "La Sirena",
+    "artist": "La Tuna",
+    "isrc": "ES6100881106"
+  },
+  {
+    "title": "Mi Ciudad",
+    "artist": "Cuarentuna De La Ciudad de México",
+    "isrc": "QZFZ62034478"
+  },
+  {
+    "title": "Tipitipitin",
+    "artist": "Estudiantina De La Universidad Autonoma De Queretaro",
+    "isrc": "MXF366511016"
+  },
+  {
+    "title": "Malagueña",
+    "artist": "Tuna de Botín",
+    "isrc": "ES5621904866"
+  },
+  {
+    "title": "Cumbres del Teide",
+    "artist": "Tuna de la E.T.S.E.T.B.",
+    "isrc": "ESA031100301"
+  },
+  {
+    "title": "La Jota de los Estudiantes (En Vivo)",
+    "artist": "Alonso Lopez, Jose Tellaeche, Tuna de la Universidad de San Martín de Porres",
+    "isrc": "usl4q1900377"
+  },
+  {
+    "title": "Mar y Cielo",
+    "artist": "Tuna de la UNED de Úbeda",
+    "isrc": "GB-SMU-28-89404"
+  },
+  {
+    "title": "La bikina",
+    "artist": "Tuna UABC",
+    "isrc": "ES18B1900788"
+  },
+  {
+    "title": "La Morena de Mi Copla",
+    "artist": "Cuarentuna de Derecho USMP",
+    "isrc": "ushm21789017"
+  },
+  {
+    "title": "Las Cintas de Mi Capa",
+    "artist": "Tuna Universitaria De Salamanca",
+    "isrc": "QM6P41799595"
+  },
+  {
+    "title": "Ojos Españoles",
+    "artist": "Estudiantina \"La Salle\" De Puebla",
+    "isrc": "MXF366813912"
+  },
+  {
+    "title": "Si Vas a Calatayud (El Hijo de la Dolores)",
+    "artist": "Tuna de la Facultad de Derecho de Madrid",
+    "isrc": "ES5271404910"
+  },
+  {
+    "title": "Tus Ojos",
+    "artist": "Tuna Agraria",
+    "isrc": "QZK6H2084210"
+  },
+  {
+    "title": "Tierra De Mis Amores",
+    "artist": "Estudiantina De La Universidad De Guanajuato",
+    "isrc": "MXF366309471"
+  },
+  {
+    "title": "El Payador",
+    "artist": "Tuna de la Facultad de Ingenieria de la UNAM",
+    "isrc": "QZES52111379"
+  },
+  {
+    "title": "Málaga Reina Calé",
+    "artist": "Tuna de Filosofía, Letras de Málaga",
+    "isrc": "AEA0Q2033690"
+  },
+  {
+    "title": "Imágenes De Ayer",
+    "artist": "Tuna de Contaduría y Administración de la UNAM",
+    "isrc": "QZHN42025333"
+  },
+  {
+    "title": "Popurrí Quechua",
+    "artist": "Tuna Femenina Javeriana",
+    "isrc": "uscgj2085482"
+  },
+  {
+    "title": "Idilio",
+    "artist": "Tuna Imperial de la FES Iztacala-UNAM",
+    "isrc": "QZK6L2006958"
+  },
+  {
+    "title": "Canciones de amor",
+    "artist": "Tuna Universitaria de la Ciudad de México",
+    "isrc": "QZHN52106208"
+  },
+  {
+    "title": "Maria la Portuguesa",
+    "artist": "Tuna de Peritos Industriales de Sevilla",
+    "isrc": "GX5MY2289177"
+  },
+  {
+    "title": "Alma Llanera",
+    "artist": "Tuna Magisterio de Sevilla",
+    "isrc": "GX4R52274269"
+  },
+  {
+    "title": "Noche Plateada",
+    "artist": "Rondalla De La Universidad Potosina",
+    "isrc": "MXF366612037"
+  },
+  {
+    "title": "Cordobesita - Remastered",
+    "artist": "Tuna Universitaria De Córdoba, Rafael Lara",
+    "isrc": "ES5271702310"
+  },
+  {
+    "title": "Vagabundo por Santa Cruz",
+    "artist": "Tuna de Acción Católica",
+    "isrc": "QZMER2210951"
+  },
+  {
+    "title": "Las Colombianas",
+    "artist": "Tuna Universitaria De La Facultad De Medicina",
+    "isrc": "QM6P41485849"
+  },
+  {
+    "title": "Isa Parrandera - En vivo",
+    "artist": "Tuna de Distrito Universidad de La Serena",
+    "isrc": "QZTVM2137813"
+  },
+  {
+    "title": "Espana Cañi",
+    "artist": "Tuna Universitaria de Granada",
+    "isrc": "USV351466970"
+  },
+  {
+    "title": "Alma de Tuna",
+    "artist": "Tuna Derecho Valladolid",
+    "isrc": "usdy42178705"
+  },
+  {
+    "title": "La Bikina",
+    "artist": "Tuna de la Facultad de Ingeniería Mecánica y Eléctrica",
+    "isrc": "usl4r2134338"
+  },
+  {
+    "title": "Perfume de gardenias",
+    "artist": "Tuna de la Universidad Privada de Tacna",
+    "isrc": "GBSMU6870649"
+  },
+  {
+    "title": "Calles sin Rumbo",
+    "artist": "Tuna de Ingenieros Aeronáuticos",
+    "isrc": "ESAAI0132706"
+  },
+  {
+    "title": "La muralla",
+    "artist": "Nicolás Guillén, Tuna de Comunicaciones USMP",
+    "isrc": "QZNWU2076282"
+  },
+  {
+    "title": "Llorarán las estrellas",
+    "artist": "Tuna Femenil UV",
+    "isrc": "SE62M2100667"
+  },
+  {
+    "title": "El silbidito (El Pío Pa-pío)",
+    "artist": "Tuna Universitaria de Cádiz",
+    "isrc": "ES5338509526"
+  },
+  {
+    "title": "Mulher Gorda",
+    "artist": "Tunas Ao Vivo - Vicitu - Certame Internacional De Tunas Universitárias",
+    "isrc": "PTOV19500137"
+  },
+  {
+    "title": "Fonseca",
+    "artist": "Tuna de Santiago",
+    "isrc": "QM6P41531834"
+  },
+  {
+    "title": "Adios Mi Chaparrita",
+    "artist": "Estudiantina De La Universidad Gto.",
+    "isrc": "MXF366410280"
+  },
+  {
+    "title": "Despierta",
+    "artist": "Estudiantina Femenina",
+    "isrc": "MXF016600863"
+  },
+  {
+    "title": "La Madelon",
+    "artist": "Tuna de Madrid",
+    "isrc": "US6R21406557"
+  },
+  {
+    "title": "Despierta",
+    "artist": "Tuna de la Facultad de Veterinaria de Madrid",
+    "isrc": "ES5272000207"
+  },
+  {
+    "title": "Apaga La Luz",
+    "artist": "Estudiantina Nicolaita De La Universidad Michoacana",
+    "isrc": "MXF366612443"
+  },
+  {
+    "title": "La Gloria Eres Tu",
+    "artist": "Tuna Sabana",
+    "isrc": "SE6I32074434"
+  },
+  {
+    "title": "La Ronda de las Estrellas",
+    "artist": "Tuna de la Escuela de Peritos Industriales de Madrid",
+    "isrc": "ES5272000203"
+  },
+  {
+    "title": "Seremos uno, Olvídame, Llorando ausencia",
+    "artist": "Tuna Femenina Azahares de la Universidad de La Serena",
+    "isrc": "QZFYY2215489"
+  },
+  {
+    "title": "Marinera ayacuchana",
+    "artist": "Tuna de la Universidad Nacional de San Cristóbal de Huamanga",
+    "isrc": "GBSMU5871073"
+  },
+  {
+    "title": "Dos Gardenias",
+    "artist": "Parrandboleros",
+    "isrc": "ES5300926733"
+  },
+  {
+    "title": "Granada",
+    "artist": "Tuna de Ciencias Universidad de Granada",
+    "isrc": "ES71G2061245"
+  },
+  {
+    "title": "Las Cintas de Mi Capa",
+    "artist": "Tuna de Derecho y Económicas de la Universidad de Barcelona",
+    "isrc": "ES5299500356"
+  },
+  {
+    "title": "La Biquina",
+    "artist": "Tuna de Juglares",
+    "isrc": "USTC40872795"
+  },
+  {
+    "title": "La Morena de Mi Copla",
+    "artist": "Tuna Decana de Madrid",
+    "isrc": "ES5621103621"
+  },
+  {
+    "title": "María la Portuguesa",
+    "artist": "Tuna Universitaria",
+    "isrc": "ES71G2112079"
+  },
+  {
+    "title": "Tuna compostelana",
+    "artist": "Tuna Universitaria Compostelana",
+    "isrc": "ES5300407692"
+  },
+  {
+    "title": "El Milagro de Tus Ojos",
+    "artist": "Tuna Ciudad de Luz",
+    "isrc": "NLNY61400105"
+  },
+  {
+    "title": "Valencia",
+    "artist": "Tuna Universitaria de Barcelona, J. L. Sanfeliu",
+    "isrc": "ES7930209146"
+  },
+  {
+    "title": "Estudiantina Madrileña",
+    "artist": "Tuna Universitaria De Madrid",
+    "isrc": "FR96X1743355"
+  },
+  {
+    "title": "Las Cintas de Mi Capa",
+    "artist": "Tuna Vocal",
+    "isrc": "ES8620902608"
+  },
+  {
+    "title": "Estampas de Tuna: Sebastopol / Las Cintas de Mi Capa / Vampiro / La Tuna Compostelana - En Vivo",
+    "artist": "Tuna de Derecho de la Universidad de San Martin de Porres",
+    "isrc": "FR2X41510744"
+  },
+  {
+    "title": "La Dolores",
+    "artist": "Tuna Real",
+    "isrc": "USR010615871"
+  },
+  {
+    "title": "La Aurora",
+    "artist": "Tuna de la Facultad de Farmacia",
+    "isrc": "USA560944011"
+  },
+  {
+    "title": "Rumor en los Balcones",
+    "artist": "Tuna de Derecho de Sevilla",
+    "isrc": "ES5161101589"
+  },
+  {
+    "title": "Deja que salga la luna",
+    "artist": "Tuna de Ingenieros de Sevilla",
+    "isrc": "ESA082000752"
+  },
+  {
+    "title": "Mujer Te Canta la Tuna",
+    "artist": "Tuna Uabjo",
+    "isrc": "QZHN32020989"
+  },
+  {
+    "title": "Te Mate Porque Eras Mia",
+    "artist": "Tuna Da Universidade Internacional",
+    "isrc": "PTOV19700155"
+  },
+  {
+    "title": "La Vikina",
+    "artist": "Tuna Universitaria de Maastricht",
+    "isrc": "GMBA21467639"
+  },
+  {
+    "title": "Besame Morenita",
+    "artist": "Tuna Bardos de la Universidad de Puerto Rico",
+    "isrc": "TCAAS1023843"
+  },
+  {
+    "title": "El andariego",
+    "artist": "Tuna de filosofia y letras de sevilla",
+    "isrc": "GX89G2286983"
+  },
+  {
+    "title": "La Feria De Manizales",
+    "artist": "Tuna Javeriana",
+    "isrc": "COUM71200083"
+  },
+  {
+    "title": "El Payador",
+    "artist": "Tuna Arquitectura De Madrid",
+    "isrc": "ES5630702118"
+  },
+  {
+    "title": "Y Viva Espana",
+    "artist": "Tuna De Barcelona",
+    "isrc": "DEZ041004165"
+  },
+  {
+    "title": "Amorosa Guajira",
+    "artist": "Cuarentuna De La Ciudad de México",
+    "isrc": "QZFZ62034471"
+  },
+  {
+    "title": "La Aurora",
+    "artist": "La Tuna",
+    "isrc": "ES6100881110"
+  },
+  {
+    "title": "Yo Vendo Unos Ojos Negros",
+    "artist": "Estudiantina De La Universidad Autonoma De Queretaro",
+    "isrc": "MXF366511021"
+  },
+  {
+    "title": "Popurrí Boleros: Bésame Mucho / Lo Dudo / Quien Será / Quizas",
+    "artist": "Tuna de Botín",
+    "isrc": "ES5621904867"
+  },
+  {
+    "title": "El Trovador",
+    "artist": "Tuna de la E.T.S.E.T.B.",
+    "isrc": "ESA031100304"
+  },
+  {
+    "title": "Las Palmeras (En Vivo)",
+    "artist": "Gilberto Rojas, Tuna de la Universidad de San Martín de Porres",
+    "isrc": "usl4q1900376"
+  },
+  {
+    "title": "La Hiedra",
+    "artist": "Tuna de la UNED de Úbeda",
+    "isrc": "GB-SMU-28-89405"
+  },
+  {
+    "title": "Morena de mi copla",
+    "artist": "Tuna UABC",
+    "isrc": "ES18B1900787"
+  },
+  {
+    "title": "Cadena de Isas Canarias",
+    "artist": "Cuarentuna de Derecho USMP",
+    "isrc": "ushm21789022"
+  },
+  {
+    "title": "Los Ojos de Mi Charra",
+    "artist": "Tuna Universitaria De Salamanca",
+    "isrc": "QM6P41799593"
+  },
+  {
+    "title": "Cuerdas De Mi Guitarra",
+    "artist": "Estudiantina \"La Salle\" De Puebla",
+    "isrc": "MXF366712826"
+  },
+  {
+    "title": "Rondalla",
+    "artist": "Tuna de la Facultad de Derecho de Madrid",
+    "isrc": "ES5271404904"
+  },
+  {
+    "title": "Marinera Molinera (Versión 1995)",
+    "artist": "Tuna Agraria",
+    "isrc": "QZK6Q2453825"
+  },
+  {
+    "title": "Enamorada",
+    "artist": "Tuna de la Facultad de Ingenieria de la UNAM",
+    "isrc": "QZES52111377"
+  }
+]

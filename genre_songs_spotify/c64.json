@@ -1,0 +1,782 @@
+[
+  {
+    "title": "R-Type C64 Theme (Original Sound Version)",
+    "artist": "Chris Huelsbeck",
+    "isrc": "DEFW41060101"
+  },
+  {
+    "title": "Synth Sample III (feat. Max Hall)",
+    "artist": "Rob Hubbard, Max Hall",
+    "isrc": "TCACG1565663"
+  },
+  {
+    "title": "Good Night Green Beret (Peacemaker Remix)",
+    "artist": "Martin Galway",
+    "isrc": "TCACQ1680056"
+  },
+  {
+    "title": "Another World - Endtitle",
+    "artist": "Thomas Detert",
+    "isrc": "DEBL61262276"
+  },
+  {
+    "title": "Rallye Master",
+    "artist": "Romeo Knight",
+    "isrc": "TCAHC2317867"
+  },
+  {
+    "title": "Amazing Discoveries",
+    "artist": "LMan",
+    "isrc": "ushm82039065"
+  },
+  {
+    "title": "Central Park Main Theme (from \"Last Ninja 2\")",
+    "artist": "Matt Gray",
+    "isrc": "UKKZW1600006"
+  },
+  {
+    "title": "Dance Little Man",
+    "artist": "Fabian Del Priore",
+    "isrc": "FRX281718782"
+  },
+  {
+    "title": "Fantasy Hero",
+    "artist": "Instant Remedy",
+    "isrc": "USCGJ2488320"
+  },
+  {
+    "title": "Parappa the Rapper 2 (Toasty Buns)",
+    "artist": "PRESS PLAY ON TAPE",
+    "isrc": "DK14A1200105"
+  },
+  {
+    "title": "Arkanoid High Score",
+    "artist": "Jeroen Tel, Martin Galway",
+    "isrc": "TCACS1693879"
+  },
+  {
+    "title": "Battle Ships (Cz-Tunes Title Remix)",
+    "artist": "Mark Cooksey",
+    "isrc": "TCACQ1680941"
+  },
+  {
+    "title": "Shadow of the Beast (Intro)",
+    "artist": "Allister Brimble",
+    "isrc": "TCADI1774042"
+  },
+  {
+    "title": "Dawnfall",
+    "artist": "DaFunk",
+    "isrc": "TCACQ1679936"
+  },
+  {
+    "title": "Guitar Slinger",
+    "artist": "Jogeir Liljedahl",
+    "isrc": "ushm20565437"
+  },
+  {
+    "title": "A Warriors Journey",
+    "artist": "Glyn R. Brown",
+    "isrc": "QZTAT2295935"
+  },
+  {
+    "title": "For the People!!!",
+    "artist": "Lizardking",
+    "isrc": "QM6N21530430"
+  },
+  {
+    "title": "Panther (Amok Remix)",
+    "artist": "David Whittaker",
+    "isrc": "TCACQ1680035"
+  },
+  {
+    "title": "Cannon Fodder (Guns on the Beach Remix by Amok)",
+    "artist": "Richard Joseph",
+    "isrc": "TCACQ1680865"
+  },
+  {
+    "title": "The Children of Sputnik (Got the Power) [feat. Beastie Boys]",
+    "artist": "Hazel, Beastie Boys",
+    "isrc": "TCACQ1680061"
+  },
+  {
+    "title": "Fakebit Love",
+    "artist": "malmen",
+    "isrc": "SE-YOK-15-18949"
+  },
+  {
+    "title": "Neutron Chase",
+    "artist": "Martin Wall",
+    "isrc": "QZMHP2073381"
+  },
+  {
+    "title": "The House Of God",
+    "artist": "DHS",
+    "isrc": "IT00D9101101"
+  },
+  {
+    "title": "Central Park (From \"Last Ninja 2\")",
+    "artist": "Matthew Del Gray, Fastloaders",
+    "isrc": "USHM81824423"
+  },
+  {
+    "title": "Stationary Ark",
+    "artist": "Peter Clarke",
+    "isrc": "TCAGD2272093"
+  },
+  {
+    "title": "12th Warrior",
+    "artist": "Dr. Awesome",
+    "isrc": "NOAV61404511"
+  },
+  {
+    "title": "Complications (Amiga)",
+    "artist": "Danko",
+    "isrc": "TCACQ1623616"
+  },
+  {
+    "title": "Metin 2 - Unkwon Composer",
+    "artist": "Amok",
+    "isrc": "ATR981161091"
+  },
+  {
+    "title": "The Great Bath (Of the Seven Seas)",
+    "artist": "Mordi",
+    "isrc": "QZGWW2083848"
+  },
+  {
+    "title": "Inhale",
+    "artist": "Xerxes, Aleah",
+    "isrc": "USA2P0749974"
+  },
+  {
+    "title": "Kinky Stinky Pinky (C64 SID 8580)",
+    "artist": "Response of Darklite",
+    "isrc": "GBMJG1914805"
+  },
+  {
+    "title": "Mein Auftrag",
+    "artist": "Markus Schneider",
+    "isrc": "QMEU32023723"
+  },
+  {
+    "title": "Race to the Debt",
+    "artist": "Ben Daglish",
+    "isrc": "TCACG1565648"
+  },
+  {
+    "title": "Auf Wiedersehen Monty",
+    "artist": "Chris Abbott",
+    "isrc": "gbevl9700002"
+  },
+  {
+    "title": "relight",
+    "artist": "Gianluca Verrengia",
+    "isrc": "QZLRC2222269"
+  },
+  {
+    "title": "Jack's Wasted Life",
+    "artist": "Larsec, Various Artists",
+    "isrc": "TCAFP2156168"
+  },
+  {
+    "title": "Ocean Loader IV",
+    "artist": "Marcel Donné",
+    "isrc": "GBEVL0200035"
+  },
+  {
+    "title": "Glider Rider",
+    "artist": "Markus Holler",
+    "isrc": "GBEVL0200025"
+  },
+  {
+    "title": "Wizball",
+    "artist": "Slow Poison",
+    "isrc": "gbevl0200056"
+  },
+  {
+    "title": "Straight Outta Compusa",
+    "artist": "Commodore 64",
+    "isrc": "USA370356450"
+  },
+  {
+    "title": "Blinding Lights - Ultimate 8-Bit Chiptune Cover",
+    "artist": "Nordischsound",
+    "isrc": "QZPJ32355569"
+  },
+  {
+    "title": "Last Ninja 3 (Moog Remix)",
+    "artist": "Reyn Ouwehand",
+    "isrc": "TCACQ1680047"
+  },
+  {
+    "title": "Lotus II - Main Theme - d4XX Bonus Cover",
+    "artist": "d4XX, Barry Leitch",
+    "isrc": "QZPJ32346983"
+  },
+  {
+    "title": "Slow Tendu Super Trooper",
+    "artist": "Andersson, Lisa Harris",
+    "isrc": "ushm90766231"
+  },
+  {
+    "title": "White Noise - Shahrokh Dini Remix",
+    "artist": "BAR, Shahrokh Dini",
+    "isrc": "DEM091500041"
+  },
+  {
+    "title": "How Did We Get To Here - Richard Earnshaw Mix",
+    "artist": "Balage, Louis Hale",
+    "isrc": "USFXL0700014"
+  },
+  {
+    "title": "Bambaataa Theme - Radioactivity Dub",
+    "artist": "C64",
+    "isrc": "DEBL60802457"
+  },
+  {
+    "title": "Monty on the Run - Original Version",
+    "artist": "C64 Orchestra",
+    "isrc": "NLX710702120"
+  },
+  {
+    "title": "For a Great Man - Spaceport Remix",
+    "artist": "Chosc",
+    "isrc": "NLME61000026"
+  },
+  {
+    "title": "When I Die",
+    "artist": "Chris Holm",
+    "isrc": "NOMET1247010"
+  },
+  {
+    "title": "I Wish I Had A Life - Video Edit",
+    "artist": "Cytex",
+    "isrc": "SEYOK0995730"
+  },
+  {
+    "title": "Party angesagt",
+    "artist": "DJ Hannes",
+    "isrc": "DEBL60662098"
+  },
+  {
+    "title": "Secrets of Time",
+    "artist": "Daree Rock",
+    "isrc": "DEAR41961706"
+  },
+  {
+    "title": "Be Me",
+    "artist": "Dees",
+    "isrc": "ATCZ32100175"
+  },
+  {
+    "title": "Noom",
+    "artist": "FTC",
+    "isrc": "DEBY71200197"
+  },
+  {
+    "title": "Passion - Radio Edit",
+    "artist": "Ic3m4n, Andy Lopez",
+    "isrc": "DECZ30600190"
+  },
+  {
+    "title": "Welcome to the Great Escape",
+    "artist": "Ifadeo",
+    "isrc": "DEBL61233912"
+  },
+  {
+    "title": "Another Day Tomorrow",
+    "artist": "JA",
+    "isrc": "SE3BN1400000"
+  },
+  {
+    "title": "I\\'ll Fly Away",
+    "artist": "Jon Wells",
+    "isrc": "ushm21271231"
+  },
+  {
+    "title": "Hai Hai",
+    "artist": "Kenz, Satwinder Bitti",
+    "isrc": "GBY240000602"
+  },
+  {
+    "title": "Personal Jesus",
+    "artist": "Makke",
+    "isrc": "GBEVL0500043"
+  },
+  {
+    "title": "Leaves",
+    "artist": "Marsland",
+    "isrc": "ushm91080227"
+  },
+  {
+    "title": "Phantom - Radio Edit",
+    "artist": "Mixer, Lao'n & Fallon feat. Mixer, Lao'n & Fallon",
+    "isrc": "DEA371302333"
+  },
+  {
+    "title": "Pogo",
+    "artist": "Monotron",
+    "isrc": "ushm90893520"
+  },
+  {
+    "title": "Sera diferente",
+    "artist": "O2",
+    "isrc": "FRX629984030"
+  },
+  {
+    "title": "Digital Download",
+    "artist": "REYN, Elle Maclemore",
+    "isrc": "TCABX1452074"
+  },
+  {
+    "title": "Gamelan",
+    "artist": "Red Devil",
+    "isrc": "USWR30920281"
+  },
+  {
+    "title": "Tjorven",
+    "artist": "Rune-Bertil's",
+    "isrc": "ushm91473225"
+  },
+  {
+    "title": "Cheesecake",
+    "artist": "Teo",
+    "isrc": "BYA031302682"
+  },
+  {
+    "title": "Vai - Kking Kong Remix",
+    "artist": "VINÍ, Kking Kong",
+    "isrc": "DECT11500012"
+  },
+  {
+    "title": "Comic Bakery",
+    "artist": "Visa Roster",
+    "isrc": "GBEVL0500022"
+  },
+  {
+    "title": "Five Rooms",
+    "artist": "Wobbler",
+    "isrc": "NOE9V2001020"
+  },
+  {
+    "title": "My Word",
+    "artist": "Xor",
+    "isrc": "uscgh0586646"
+  },
+  {
+    "title": "I've Got To Know - Zouk Mix",
+    "artist": "djB",
+    "isrc": "USSF90700451"
+  },
+  {
+    "title": "Second Reality (Unreal 2)",
+    "artist": "Purple Motion",
+    "isrc": "FIVA31900002"
+  },
+  {
+    "title": "Bloody Asphalt (From Double Kick Heroes, Vol. 2)",
+    "artist": "elmobo, Yann Ligner, Bumblefoot",
+    "isrc": "SE6I31914589"
+  },
+  {
+    "title": "Escape from Oblivion",
+    "artist": "Mark 'TDK' Knight",
+    "isrc": "ushm81503359"
+  },
+  {
+    "title": "Top Gear: Vegas",
+    "artist": "Barry Leitch",
+    "isrc": "uscgh2143903"
+  },
+  {
+    "title": "The Final Fight",
+    "artist": "Chris Huelsbeck",
+    "isrc": "DEFW41310201"
+  },
+  {
+    "title": "Commando (Main) [From \"Commando\" C64]",
+    "artist": "Rob Hubbard",
+    "isrc": "GBEVL2000175"
+  },
+  {
+    "title": "Green Beret Loader",
+    "artist": "Martin Galway",
+    "isrc": "gbevl0200114"
+  },
+  {
+    "title": "Clystron - Title Theme",
+    "artist": "Thomas Detert",
+    "isrc": "DEBL61262271"
+  },
+  {
+    "title": "Cream of the Earth (CoLD SToRAGE Remix)",
+    "artist": "Romeo Knight",
+    "isrc": "TCACQ1680943"
+  },
+  {
+    "title": "Age We Aceeed",
+    "artist": "LMan",
+    "isrc": "ushm82039062"
+  },
+  {
+    "title": "Apidya Techno Party - Rapture Trance Mix",
+    "artist": "Fabian Del Priore",
+    "isrc": "FRX281718798"
+  },
+  {
+    "title": "The Great Giana Sisters Main Theme",
+    "artist": "Matt Gray",
+    "isrc": "UKKZW1600072"
+  },
+  {
+    "title": "Lotus Turbo Challenge 2",
+    "artist": "Instant Remedy",
+    "isrc": "NLRS51500002"
+  },
+  {
+    "title": "Man with the Gun",
+    "artist": "PRESS PLAY ON TAPE",
+    "isrc": "DK14A1200101"
+  },
+  {
+    "title": "Stranglehold - Moki Remix",
+    "artist": "Jeroen Tel, Moki",
+    "isrc": "QZDA51908312"
+  },
+  {
+    "title": "ghost´n goblins - tsr remix",
+    "artist": "Mark Cooksey",
+    "isrc": "SEYOK1302353"
+  },
+  {
+    "title": "Midnight Redeem",
+    "artist": "DaFunk",
+    "isrc": "TCACQ1679987"
+  },
+  {
+    "title": "Fairlight (feat. Mike Alsop)",
+    "artist": "Allister Brimble, Mike Alsop",
+    "isrc": "TCACL1665101"
+  },
+  {
+    "title": "G-comp",
+    "artist": "Jogeir Liljedahl",
+    "isrc": "ushm20565434"
+  },
+  {
+    "title": "Epsilon",
+    "artist": "Glyn R. Brown",
+    "isrc": "GBLFP1579813"
+  },
+  {
+    "title": "Trans Atlantic",
+    "artist": "Lizardking",
+    "isrc": "QM6N21530433"
+  },
+  {
+    "title": "Shadow of the Beast",
+    "artist": "David Whittaker",
+    "isrc": "TCACC1427154"
+  },
+  {
+    "title": "Stifflip and Co.",
+    "artist": "Richard Joseph, Czech Studio Orchestra, Robin Tait",
+    "isrc": "GBEVL2000048"
+  },
+  {
+    "title": "Time",
+    "artist": "Hazel",
+    "isrc": "TCACQ1680310"
+  },
+  {
+    "title": "Asteroid Landfill",
+    "artist": "Martin Wall",
+    "isrc": "QZMHM2069830"
+  },
+  {
+    "title": "Ice Blast",
+    "artist": "malmen",
+    "isrc": "SE-YOK-15-18955"
+  },
+  {
+    "title": "Wastelands (From \"The Last Ninja\")",
+    "artist": "Ben Daglish, Fastloaders",
+    "isrc": "USHM81824412"
+  },
+  {
+    "title": "The House of God",
+    "artist": "DHS",
+    "isrc": "QM7281804647"
+  },
+  {
+    "title": "Amaka - Radio Edit",
+    "artist": "Peter Clarke",
+    "isrc": "QZAMM1866529"
+  },
+  {
+    "title": "Cubulus Title Track (Moongazer)",
+    "artist": "Dr. Awesome",
+    "isrc": "NOAV61403691"
+  },
+  {
+    "title": "Complications II (Amiga)",
+    "artist": "Danko",
+    "isrc": "TCACQ1623617"
+  },
+  {
+    "title": "Ocean Loader 2",
+    "artist": "Mordi",
+    "isrc": "QZGWW2083853"
+  },
+  {
+    "title": "Cannon Fodder - Richard Joseph & Jon Hare",
+    "artist": "Amok",
+    "isrc": "ATR981161087"
+  },
+  {
+    "title": "All There Is",
+    "artist": "Xerxes",
+    "isrc": "QMPKX1322184"
+  },
+  {
+    "title": "DataFresh (C64 SID 8580)",
+    "artist": "Response of Darklite",
+    "isrc": "GBMJG1914812"
+  },
+  {
+    "title": "Da bin ich locker",
+    "artist": "Markus Schneider",
+    "isrc": "QMEU32023726"
+  },
+  {
+    "title": "Japanese",
+    "artist": "Ben Daglish",
+    "isrc": "TCACG1565603"
+  },
+  {
+    "title": "Arkanoid",
+    "artist": "Chris Abbott",
+    "isrc": "gbevl9700001"
+  },
+  {
+    "title": "Rock the Tribe",
+    "artist": "Gianluca Verrengia",
+    "isrc": "QZLRC2222505"
+  },
+  {
+    "title": "Blood Valley",
+    "artist": "Larsec",
+    "isrc": "uscgj0605912"
+  },
+  {
+    "title": "Ocean Loader I",
+    "artist": "Marcel Donné",
+    "isrc": "GBEVL0200029"
+  },
+  {
+    "title": "Way Of The Exploding Fist II",
+    "artist": "Markus Holler",
+    "isrc": "uscgj0605920"
+  },
+  {
+    "title": "Chimera",
+    "artist": "Slow Poison",
+    "isrc": "gbevl0200060"
+  },
+  {
+    "title": "Sissy Mc's",
+    "artist": "Commodore 64",
+    "isrc": "USA370356440"
+  },
+  {
+    "title": "Aquarius (from Castlevania) - 8-Bit C64 SID Cover",
+    "artist": "Nordischsound",
+    "isrc": "QZTAU2228644"
+  },
+  {
+    "title": "Chinese Wall (Ferrara Remix)",
+    "artist": "Reyn Ouwehand",
+    "isrc": "TCACQ1680376"
+  },
+  {
+    "title": "Lotus II - Main Theme - d4XX Remix",
+    "artist": "d4XX, Barry Leitch",
+    "isrc": "QZPJ32346982"
+  },
+  {
+    "title": "Gulsvart vårat mjällby",
+    "artist": "Andersson, Stjarna",
+    "isrc": "uscgj1540756"
+  },
+  {
+    "title": "White Noise",
+    "artist": "BAR",
+    "isrc": "DEW281400001"
+  },
+  {
+    "title": "Love We Left Behind - Bongoloverz Vocal Mix",
+    "artist": "Balage, Dolores Petersen, Louis Hale",
+    "isrc": "USFXL0700015"
+  },
+  {
+    "title": "Cybernoid II",
+    "artist": "C64 Orchestra",
+    "isrc": "NLX710702101"
+  },
+  {
+    "title": "For a Great Man - Radio Version",
+    "artist": "Chosc",
+    "isrc": "NLME61000025"
+  },
+  {
+    "title": "Just Like We Want It",
+    "artist": "Chris Holm",
+    "isrc": "NOMEE1315100"
+  },
+  {
+    "title": "Summer Dreams - Radio Edit",
+    "artist": "Cytex",
+    "isrc": "SEYOK0995727"
+  },
+  {
+    "title": "Freier Fall",
+    "artist": "DJ Hannes",
+    "isrc": "DEBL60662100"
+  },
+  {
+    "title": "The Desert Rocks",
+    "artist": "Chris Huelsbeck",
+    "isrc": "DEFW41310202"
+  },
+  {
+    "title": "Monty on the Run (From \"Monty on the Run\" C64)",
+    "artist": "Rob Hubbard",
+    "isrc": "GBEVL2000202"
+  },
+  {
+    "title": "Parallax",
+    "artist": "Martin Galway",
+    "isrc": "TCABU1472421"
+  },
+  {
+    "title": "Tales of Boon - Amiga 500 Highscore Theme",
+    "artist": "Thomas Detert",
+    "isrc": "DEBL61262274"
+  },
+  {
+    "title": "My Hand Is Two Killer Whales",
+    "artist": "Romeo Knight",
+    "isrc": "QMPKX1328522"
+  },
+  {
+    "title": "La Mer",
+    "artist": "LMan",
+    "isrc": "ushm82039066"
+  },
+  {
+    "title": "Dash for Freedom",
+    "artist": "Fabian Del Priore",
+    "isrc": "FRX281718461"
+  },
+  {
+    "title": "Comic Bakery",
+    "artist": "Instant Remedy",
+    "isrc": "usl4r1809567"
+  },
+  {
+    "title": "The Sewers Loading Theme (from \"Last Ninja 2\")",
+    "artist": "Matt Gray",
+    "isrc": "UKKZW1600001"
+  },
+  {
+    "title": "Monty on the Run",
+    "artist": "PRESS PLAY ON TAPE",
+    "isrc": "DK14A1200125"
+  },
+  {
+    "title": "Jt 42 (O2 Remix)",
+    "artist": "Jeroen Tel",
+    "isrc": "TCACQ1679947"
+  },
+  {
+    "title": "Ghosts and Goblins",
+    "artist": "Mark Cooksey",
+    "isrc": "GBEVL9900009"
+  },
+  {
+    "title": "Broken Rules",
+    "artist": "DaFunk",
+    "isrc": "TCACQ1680315"
+  },
+  {
+    "title": "Speedball",
+    "artist": "Allister Brimble",
+    "isrc": "TCADI1774050"
+  },
+  {
+    "title": "Nestea",
+    "artist": "Jogeir Liljedahl",
+    "isrc": "ushm80846578"
+  },
+  {
+    "title": "Rastan - - EPIC! Orchestral remake of the arcade theme",
+    "artist": "Glyn R. Brown",
+    "isrc": "QZFZ42438035"
+  },
+  {
+    "title": "Compulsion to Obey",
+    "artist": "Lizardking",
+    "isrc": "QM6N21530428"
+  },
+  {
+    "title": "Glider Rider",
+    "artist": "David Whittaker",
+    "isrc": "GB8BN0900016"
+  },
+  {
+    "title": "Barbarian",
+    "artist": "Richard Joseph",
+    "isrc": "TCACC1427144"
+  },
+  {
+    "title": "The Satellites We Love",
+    "artist": "Hazel",
+    "isrc": "TCACQ1680019"
+  },
+  {
+    "title": "Song For K",
+    "artist": "Martin Wall",
+    "isrc": "SE7FX2300071"
+  },
+  {
+    "title": "Imaginary Girl",
+    "artist": "malmen",
+    "isrc": "SE-YOK-15-18951"
+  },
+  {
+    "title": "Cannon Fodder",
+    "artist": "Fastloaders",
+    "isrc": "GBEVL2000311"
+  },
+  {
+    "title": "Complications",
+    "artist": "Peter Clarke",
+    "isrc": "TCAHC2317870"
+  },
+  {
+    "title": "Red, Yellow and Blue (feat. Beastie Boys)",
+    "artist": "DHS, Beastie Boys",
+    "isrc": "TCACQ1680787"
+  },
+  {
+    "title": "Niagara",
+    "artist": "Dr. Awesome",
+    "isrc": "NOAV61404531"
+  },
+  {
+    "title": "Test Drive II - The Duel",
+    "artist": "Danko",
+    "isrc": "TCAHC2321600"
+  }
+]

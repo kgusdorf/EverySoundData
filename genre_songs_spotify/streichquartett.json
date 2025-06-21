@@ -1,0 +1,982 @@
+[
+  {
+    "title": "Divertimento for Strings in D Major, K. 136: III. Presto",
+    "artist": "Wolfgang Amadeus Mozart, Hagen Quartett",
+    "isrc": "DEF059002163"
+  },
+  {
+    "title": "String Quartet No. 2, JW 7/13 \"Intimate Letters\": II. Adagio",
+    "artist": "Leoš Janáček, Melos Quartet",
+    "isrc": "FRZ149105060"
+  },
+  {
+    "title": "Schubert: String Quartet No. 14 in D Minor, D. 810 \"Death and the Maiden\": I. Allegro",
+    "artist": "Franz Schubert, Alban Berg Quartett",
+    "isrc": "GBAYC8400889"
+  },
+  {
+    "title": "Mendelssohn: String Quartet No. 6 in F Minor, Op. 80, MWV R37: I. Allegro vivace assai",
+    "artist": "Felix Mendelssohn, Artemis Quartet",
+    "isrc": "GBAYC1302809"
+  },
+  {
+    "title": "String Quartet in E-Flat Major, Op. 2 No. 1: II. Adagio",
+    "artist": "Hyacinthe Jadin, Quatuor Mosaïques",
+    "isrc": "FR10S1700674"
+  },
+  {
+    "title": "String Quartet No.15 in D Minor, K. 421: I. Allegro moderato",
+    "artist": "Wolfgang Amadeus Mozart, Arcanto Quartett",
+    "isrc": "FRZ141302050"
+  },
+  {
+    "title": "String Quintet in F Major: III. Adagio",
+    "artist": "Anton Bruckner, Leipziger Streichquartett, Hartmut Rohde",
+    "isrc": "DEA140429703"
+  },
+  {
+    "title": "String Quartet in C Minor, Op. Posth.: II. Adagio",
+    "artist": "Max Bruch, Diogenes Quartet",
+    "isrc": "NLY331507103"
+  },
+  {
+    "title": "String Quartet No. 13 in B-Flat Major, Op. 130 (1825 Version): V. Cavatina. Adagio molto espressivo",
+    "artist": "Ludwig van Beethoven, Tetzlaff Quartet",
+    "isrc": "FINDE2000021"
+  },
+  {
+    "title": "String Quartet No. 1 in F Major, Op. 18: I. Allegro con brio",
+    "artist": "Ludwig van Beethoven, Gewandhaus Quartet",
+    "isrc": "DES380007156"
+  },
+  {
+    "title": "Mozart: Clarinet Quintet in A Major, K. 581 \"Stadler\": II. Larghetto",
+    "artist": "Wolfgang Amadeus Mozart, Cherubini-Quartett, Michel Portal",
+    "isrc": "FRZ119502960"
+  },
+  {
+    "title": "String Quartet in G Minor, Op. 27: IV. Finale: Lento - Presto al Saltarello",
+    "artist": "Edvard Grieg, Auryn Quartet",
+    "isrc": "DEB209972904"
+  },
+  {
+    "title": "Variations on a Russian Folk Song - for String Quartet: Variation 2. Allegretto:Scriabin",
+    "artist": "Nikolai Rimsky-Korsakov, Kuss Quartet, Alexander Scriabin",
+    "isrc": "GBPCP1100407"
+  },
+  {
+    "title": "String Quartet No. 13 in B flat Op. 130 (2008 Digital Remaster): V. Cavatina (Adagio molto espressivo)",
+    "artist": "Ludwig van Beethoven, Busch Quartet",
+    "isrc": "USSM10704900"
+  },
+  {
+    "title": "String Quartet No. 1, Op. 5: I. Rhythmique",
+    "artist": "Darius Milhaud, Petersen Quartet",
+    "isrc": "DEB260000227"
+  },
+  {
+    "title": "String Quartet No. 22 in B-Flat Major, K. 589 \"Prussian\": III. Menuetto - Moderato",
+    "artist": "Wolfgang Amadeus Mozart, Armida Quartett",
+    "isrc": "DEAQ71531811"
+  },
+  {
+    "title": "Die Kunst der Fuge, BWV 1080: Contrapunctus I",
+    "artist": "Johann Sebastian Bach, Keller Quartett",
+    "isrc": "DEB339765201"
+  },
+  {
+    "title": "Ins stille Land, D. 403 (Arr. X. van Dijk for String Quartet)",
+    "artist": "Franz Schubert, Signum Quartet",
+    "isrc": "NLE422005301"
+  },
+  {
+    "title": "I. Allegro ma non troppo",
+    "artist": "Franz Schubert, Schumann Quartett",
+    "isrc": "DES382037007"
+  },
+  {
+    "title": "5 Fugues from \"The Well-Tempered Clavier\", K. 405: No. 1 in C Minor (After J.S. Bach's BWV 871)",
+    "artist": "Wolfgang Amadeus Mozart, Klenke Quartet",
+    "isrc": "DERK62154005"
+  },
+  {
+    "title": "String Quartet No. 1 in C Minor, Op. 9: II. Adagio",
+    "artist": "Max Bruch, Mannheim String Quartet",
+    "isrc": "DEB209746002"
+  },
+  {
+    "title": "String Quartet No. 1 in E-Flat Major, Op. 12, MWV R25: II. Canzonetta. Allegretto - Più mosso",
+    "artist": "Felix Mendelssohn, Minguet Quartett",
+    "isrc": "DEB201693102"
+  },
+  {
+    "title": "String Quartet in D Major, Op. 64, No. 5 \"Lark\": IV. Finale. Vivace",
+    "artist": "Joseph Haydn, Henschel Quartet",
+    "isrc": "DEA580800174"
+  },
+  {
+    "title": "String Quartet No. 10 in E-Flat Major, Op. 125, No. 1, D. 87: III. Adagio",
+    "artist": "Franz Schubert, Verdi Quartett",
+    "isrc": "DEA559709227"
+  },
+  {
+    "title": "Prismatica",
+    "artist": "Pascal Schumacher, Goldmund Quartet",
+    "isrc": "DES382241005"
+  },
+  {
+    "title": "Bagatelles, Op. 47, B. 79: No. 1. Allegretto scherzando",
+    "artist": "Antonín Dvořák, Vogler String Quartet, Oliver Triendl",
+    "isrc": "DEB201062412"
+  },
+  {
+    "title": "String Quartet No. 13 in B flat major, Op. 130: V. Cavatina: Adagio molto espressivo -",
+    "artist": "Ludwig van Beethoven, Suske Quartet",
+    "isrc": "DES380009770"
+  },
+  {
+    "title": "String Quartet No. 37 in C Major, Op. 50, No. 2, Hob. III:45, \"Prussian\": IV. Finale. Vivace assai",
+    "artist": "Joseph Haydn, Amati Quartet",
+    "isrc": "USB8U1002130"
+  },
+  {
+    "title": "String Quartet in E-Flat Major: I. Adagio ma non troppo - Musical Moments",
+    "artist": "Fanny Mendelssohn, Aris Quartett",
+    "isrc": "DEN962400110"
+  },
+  {
+    "title": "String Quartet No. 8 In C Minor, Op. 110: II. Allegro molto",
+    "artist": "Dmitri Shostakovich, Rosamunde Quartett",
+    "isrc": "DEB339662903"
+  },
+  {
+    "title": "String Quartet No. 15, Op. 132 in A Minor: III. Molto adagio",
+    "artist": "Ludwig van Beethoven, Barylli Quartet",
+    "isrc": "QM6N21551807"
+  },
+  {
+    "title": "String Quartet No. 16 in E-Flat Major, K. 428: IV. Allegro vivace",
+    "artist": "Wolfgang Amadeus Mozart, Suske Quartett",
+    "isrc": "DES380403408"
+  },
+  {
+    "title": "Quintet in E-Flat Major, KV 407 (386c) for horn, violin, 2 violas & violoncello: II. Andante",
+    "artist": "Wolfgang Amadeus Mozart, Philharmonia Quartet Berlin",
+    "isrc": "USSJ10810486"
+  },
+  {
+    "title": "String Quartet No. 6 in F Minor, Op. 80, MWV R 37: I. Allegro vivace assai",
+    "artist": "Felix Mendelssohn, Alinde Quartett",
+    "isrc": "DEAD61803101"
+  },
+  {
+    "title": "String Quartet No. 17 in F Major, Hob. III:17 \"Serenade\": I. Presto",
+    "artist": "Joseph Haydn, Carmina Quartet",
+    "isrc": "CH0010900091"
+  },
+  {
+    "title": "String Quartet, \"1931\": III. Andante",
+    "artist": "Ruth Crawford Seeger, Pellegrini Quartet",
+    "isrc": "DEB209967013"
+  },
+  {
+    "title": "\" Lerchenquartett \" , Nr. 5, D-Dur, op. 64 (hob. III: 63): IV. Finale vivace",
+    "artist": "Joseph Haydn, Joachim-Quartett",
+    "isrc": "DEC290101004"
+  },
+  {
+    "title": "String Quartet No. 14 in D Minor, D. 810 \"Death and the Maiden\": III. Scherzo. Allegro molto",
+    "artist": "Franz Schubert, Artis Quartett Wien",
+    "isrc": "USSM10404590"
+  },
+  {
+    "title": "Sinfonia per archi in G Major: II. Grave",
+    "artist": "Giovanni Battista Sammartini, Casal Quartett",
+    "isrc": "DEDS50912606"
+  },
+  {
+    "title": "III Kwartet smyczkowy \"Wycinanki\": IV. Pretissimo possible",
+    "artist": "Andrzej Panufnik, Apollon Musagete Quartet",
+    "isrc": "PLC701805913"
+  },
+  {
+    "title": "String Quartet No. 3, Op. 30: I. Moderato",
+    "artist": "Arnold Schoenberg, Kolisch Quartet",
+    "isrc": "DEPJ41100088"
+  },
+  {
+    "title": "String Quartet No. 2 in F Major, Op. 92 \"Kabardinian\": III. Allegro",
+    "artist": "Sergei Prokofiev, Endres Quartet",
+    "isrc": "USZDG0700145"
+  },
+  {
+    "title": "String Quartet in E-Flat Major: II. Allegretto - Scherzo",
+    "artist": "Fanny Mendelssohn, Asasello Quartett",
+    "isrc": "DEAQ70900034"
+  },
+  {
+    "title": "String Quartet No. 1, JW VII/8 \"Kreutzer Sonata\": I. Adagio con moto",
+    "artist": "Leoš Janáček, Acies Quartett",
+    "isrc": "ATG301800201"
+  },
+  {
+    "title": "String Quartet No. 5, Op. 65: III. Phantasie",
+    "artist": "Ernst Krenek, Adamas Quartett",
+    "isrc": "ATG301610909"
+  },
+  {
+    "title": "String Quartet No. 3 in C Major, Op. 16: I. Lebhaft und sehr energisch",
+    "artist": "Paul Hindemith, Amar Quartet",
+    "isrc": "HKI191134704"
+  },
+  {
+    "title": "String Quartet in G Minor, Op. 2 No. 2: III. Menuetto. Un poco allegro",
+    "artist": "Friedrich Ernst Fesca, Amaryllis Quartett",
+    "isrc": "DEB201448307"
+  },
+  {
+    "title": "String Quartet in A Minor: I. Fantasia: Moderato - Allegro moderato",
+    "artist": "Fritz Kreisler, Apea Quartet",
+    "isrc": "DES800301499"
+  },
+  {
+    "title": "String Quartet No. 3 in C Minor, Op. 50",
+    "artist": "Hans Pfitzner, Austrian String Quartet",
+    "isrc": "USZGD9400101"
+  },
+  {
+    "title": "String Quartet No. 17 in B-Flat Major, Op. 10 No. 3, K. 458 \"The Hunt\": III. Adagio",
+    "artist": "Wolfgang Amadeus Mozart, Barchet-Quartett, Helmut Reimann, Hermann Hirschfelder, Reinhold Barchet, Will Beh",
+    "isrc": "FRS181520669"
+  },
+  {
+    "title": "Piano Quintet No. 1 in G Minor, Op. 111: II. Allegrissimo - Deluxe Version",
+    "artist": "Hans Huber, Basler Streichquartett, Jan Schultsz",
+    "isrc": "CHA751300194"
+  },
+  {
+    "title": "String Quartet in D Minor, WoO 2: I. Allegro energico",
+    "artist": "Max Reger, Berne String Quartet",
+    "isrc": "DEB209406901"
+  },
+  {
+    "title": "Adagio for English Horn in C Major, K. 580a",
+    "artist": "Wolfgang Amadeus Mozart, Berner Streichquartett, Ingo Goritzki",
+    "isrc": "USA561282152"
+  },
+  {
+    "title": "String Quintet in F Major, Op. 77: III. Langsam und getragen",
+    "artist": "Felix Draeseke, Breuninger Quartett, Andreas Grunkorn",
+    "isrc": "DEB200910703"
+  },
+  {
+    "title": "String Quartet No. 1, H. 15: II. Adagio",
+    "artist": "Arthur Honegger, Drolc-Quartett",
+    "isrc": "DES806004019"
+  },
+  {
+    "title": "Piano Quintet in F Minor, FWV 7: I. Molto moderato quasi lento - Allegro",
+    "artist": "César Franck, Eliot Quartett, Dmitry Ablogin",
+    "isrc": "DET902278405"
+  },
+  {
+    "title": "String Quartet in E Minor, Op. 2 \"Im alten Stil\": I. Adagio - Vivace",
+    "artist": "Theodor Berger, Europäisches Streichquartett, Gustav Swoboda, Mario Beyer, Fritz Händschke, Richard Harand",
+    "isrc": "HKI192037401"
+  },
+  {
+    "title": "String Quartet: III. Final. Vif",
+    "artist": "Germaine Tailleferre, Fanny Mendelssohn Quartet",
+    "isrc": "DEE019300023"
+  },
+  {
+    "title": "String Quartet in in C Major, K. 465 \"Dissonance\": II. Andante cantabile",
+    "artist": "Wolfgang Amadeus Mozart, Franz Schubert Quartet",
+    "isrc": "GBAJU9200371"
+  },
+  {
+    "title": "String Quartet No. 1: II. Allegretto - Adagio - Allegretto",
+    "artist": "Pierre-Dominique Ponnelle, Gemeaux Quartett",
+    "isrc": "DET900916302"
+  },
+  {
+    "title": "String Quartet No. 2 in A Minor, Op. 51, No. 2: II. Andante moderato",
+    "artist": "Johannes Brahms, Heine String Quartet",
+    "isrc": "DET900606602"
+  },
+  {
+    "title": "Marsi-i Ali - Arr. for Piano and String Quartet",
+    "artist": "Sehzade Mehmed Burhaneddin Efendi, Henschel Quartett, Vedat Koşal",
+    "isrc": "ATMA40500258"
+  },
+  {
+    "title": "String Quintet No. 4 in G minor K516: III. Adagio, ma non troppo",
+    "artist": "Wolfgang Amadeus Mozart, Heutling Quartett",
+    "isrc": "DEA349701911"
+  },
+  {
+    "title": "Italienische Serenade in G Major",
+    "artist": "Hugo Wolf, Hugo Wolf Quartett",
+    "isrc": "ATMA41200030"
+  },
+  {
+    "title": "String Quartet No. 16 in Fifth-tone System, Op. 98: I. Calmo - Andante cantabile",
+    "artist": "Alois Hába, Hába Quartett",
+    "isrc": "DEGF71010116"
+  },
+  {
+    "title": "String Octet, Op. 20: 1. Allegro moderato con fuoco",
+    "artist": "Felix Mendelssohn, Jade Quartett, Cuarteto Leonor",
+    "isrc": "DED810566100"
+  },
+  {
+    "title": "Quartett No. 15 in D Minor, K. 421: I. Allegro",
+    "artist": "Wolfgang Amadeus Mozart, Joachim Quartett Hannover",
+    "isrc": "DEA547026005"
+  },
+  {
+    "title": "Planos",
+    "artist": "Silvestre Revueltas, KNM Streichquartett, Roland Kluttig",
+    "isrc": "DEGF70914503"
+  },
+  {
+    "title": "String Quartet No. 2",
+    "artist": "Georg Friedrich Haas, Kairos Quartett",
+    "isrc": "DEL290400128"
+  },
+  {
+    "title": "String Quartet No. 12 In F Major, Op. 96 - \"American\" B.179: 3. Molto vivace",
+    "artist": "Antonín Dvořák, Koeckert Quartet",
+    "isrc": "DEF055003063"
+  },
+  {
+    "title": "Divertimento in A Major, MH 299: II. Menuetto (moderato) - VRT Muziek Edition",
+    "artist": "Michael Haydn, Marcolini Quartett",
+    "isrc": "BEA032400400"
+  },
+  {
+    "title": "Das wohltemperierte Klavier: Praeludium XVI in G Minor, BWV 861",
+    "artist": "Johann Sebastian Bach, Modern String Quartet",
+    "isrc": "DET051200031"
+  },
+  {
+    "title": "Serenade No. 13 in G Major, K. 525 \"Eine kleine Nachtmusik\": I. Allegro",
+    "artist": "Wolfgang Amadeus Mozart, Mozart Quartett Salzburg",
+    "isrc": "ATB731821101"
+  },
+  {
+    "title": "String Quartet No. 1 in G Major, K. 80: II. Allegro",
+    "artist": "Wolfgang Amadeus Mozart, Mozarteum Quartet",
+    "isrc": "DEU920554910"
+  },
+  {
+    "title": "String Quartet No. 5: VI. Froher Ausklang",
+    "artist": "Paul Dessau, New Leipzig String Quartet",
+    "isrc": "DEB209400213"
+  },
+  {
+    "title": "String Quartet No. 2 in C Major, Op. 37: I. Grave non troppo lento",
+    "artist": "Othmar Schoeck, New Zurich String Quartet",
+    "isrc": "DES808003540"
+  },
+  {
+    "title": "String Quintet in C Major, D. 956: III. Scherzo. Presto - Trio. Andante sostenuto",
+    "artist": "Franz Schubert, Nomos-Quartett, Klaus Kämper",
+    "isrc": "DEX990004103"
+  },
+  {
+    "title": "String Quartet in F Minor: I. Allegro moderato",
+    "artist": "Friedrich Theodor Fröhlich, Rasumowsky Quartett",
+    "isrc": "DEB201401701"
+  },
+  {
+    "title": "String Quartet No. 1 in E-Flat Major, Op. 16: II. Andante",
+    "artist": "Carl Reinecke, Reinhold Quartett",
+    "isrc": "DEB201818410"
+  },
+  {
+    "title": "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air \"On the G String\" (Arr. A. Wilhelmj for String Quartet)",
+    "artist": "Johann Sebastian Bach, Rosé String Quartet",
+    "isrc": "USX761975705"
+  },
+  {
+    "title": "String Quartet No. 1 in E Minor, Op. 112, R. 133: III. Molto adagio",
+    "artist": "Camille Saint-Saëns, Sarastro String Quartet",
+    "isrc": "CH1491911503"
+  },
+  {
+    "title": "String Quartet No. 9 in C Major, Op. 59 No. 3 \"Rasumovsky No. 3\": 4. Allegro molto",
+    "artist": "Ludwig van Beethoven, Schuppanzigh-Quartett",
+    "isrc": "DE2DY1900154"
+  },
+  {
+    "title": "String Quartet in E-Flat Major, Op. 1 No. 2, Hob. III:2: I. Allegro molto",
+    "artist": "Joseph Haydn, Silzer Quartet",
+    "isrc": "DES806802084"
+  },
+  {
+    "title": "Streichquintett in A Minor, Op. 82: I. Allegro",
+    "artist": "Josef Rheinberger, Sonare Quartett, Horst Gobel",
+    "isrc": "DEC298906001"
+  },
+  {
+    "title": "Six Covered Settings (1999-2000) for String Quartet: Fleurs Du Mal",
+    "artist": "Johannes Kalitzke, Stadler Quartett, Frank Stadler, Izso Bajusz, Predrag Katanic, Peter Sigl",
+    "isrc": "ATK940727009"
+  },
+  {
+    "title": "String Quartet No. 2 in D Major: IV. Finale: Andante - vivace",
+    "artist": "Alexander Borodin, Streichquartett Luzern, Gunars Larsen, Roger Pyne, Howard Griffiths, Curdin Coray",
+    "isrc": "USSJ10811655"
+  },
+  {
+    "title": "String Quartet No. 1 in A Minor, Op. 41, No. 1: I. Introduzione. Andante espressivo - Allegro",
+    "artist": "Robert Schumann, Stradivari Quartett",
+    "isrc": "CH0011700855"
+  },
+  {
+    "title": "String Quartet in E Minor: III. Prestissimo",
+    "artist": "Giuseppe Verdi, Streichquartett der Staatskapelle Berlin",
+    "isrc": "GBASH2269703"
+  },
+  {
+    "title": "String Quartet No. 5 in F-Sharp Minor, Op. 121: I. Allegro espressivo",
+    "artist": "Max Reger, Stross Quartett",
+    "isrc": "FR96X1712878"
+  },
+  {
+    "title": "String Quartet, Op. 75: I. Variationen",
+    "artist": "Hanns Eisler, Ulbrich Quartet",
+    "isrc": "DES382135603"
+  },
+  {
+    "title": "Quatuor à cordes No. 1, Sz. 40: I. Lento",
+    "artist": "Béla Bartók, Ungarisches Streichquartett",
+    "isrc": "FRS181215899"
+  },
+  {
+    "title": "String Quartet No. 2 in B-Flat Major, G. 113: II. Andante",
+    "artist": "Giovanni Battista Viotti, Vienna Musikverein Quartet",
+    "isrc": "DES807900671"
+  },
+  {
+    "title": "String Quartet No. 1 in D Minor: I. Allegro",
+    "artist": "Juan Chrisóstomo de Arriaga, Voces Streichquartett",
+    "isrc": "DEA148823601"
+  },
+  {
+    "title": "Winterreise, Op. 89, D. 911 (Excerpts Arr. A. Höricht for String Quartet): No. 20, Der Wegweiser",
+    "artist": "Franz Schubert, Voyager Quartet",
+    "isrc": "DEDS52033508"
+  },
+  {
+    "title": "String Quintet in C, D.956: 2. Adagio",
+    "artist": "Franz Schubert, Weller Quartet, Dietfried Gurtler",
+    "isrc": "GBF077011540"
+  },
+  {
+    "title": "String Quartet No. 10 in E-Flat Major, D. 87: 2. Scherzo: Prestissimo",
+    "artist": "Franz Schubert, Wiener Philharmonisches Streichquartett",
+    "isrc": "GBF076312812"
+  },
+  {
+    "title": "String Quartet No. 2 in D Major, K. 155: III. Molto allegro",
+    "artist": "Wolfgang Amadeus Mozart, Hagen Quartett",
+    "isrc": "DEF058903823"
+  },
+  {
+    "title": "Beethoven: String Quartet No. 13 in B-Flat Major, Op. 130: I. Adagio ma non troppo - Allegro (Live at Konzerthaus, Wien, 1989)",
+    "artist": "Ludwig van Beethoven, Alban Berg Quartett",
+    "isrc": "GBAYC8903004"
+  },
+  {
+    "title": "Mendelssohn: String Quartet No. 2 in A Minor, Op. 13, MWV R22: I. Adagio - Allegro vivace",
+    "artist": "Felix Mendelssohn, Artemis Quartet",
+    "isrc": "GBAYC1302726"
+  },
+  {
+    "title": "2 String Quartets, Op. 77 \"Lobkowitz\", No. 2 in F Major, Hob. III:82: II. Menuet. Presto",
+    "artist": "Joseph Haydn, Quatuor Mosaïques",
+    "isrc": "FRX201644629"
+  },
+  {
+    "title": "String Quintet No. 2 in C, K.515: 1. Allegro",
+    "artist": "Wolfgang Amadeus Mozart, Melos Quartet, Franz Beyer",
+    "isrc": "DEF058602831"
+  },
+  {
+    "title": "String Quartet in G Minor, Op. 10 L. 85: I. Animé et très décidé",
+    "artist": "Claude Debussy, Arcanto Quartett",
+    "isrc": "FRZ140929010"
+  },
+  {
+    "title": "String Quartet in F Major, Op. 59,1: I. Allegro",
+    "artist": "Ludwig van Beethoven, Leipziger Streichquartett",
+    "isrc": "DEA149670701"
+  },
+  {
+    "title": "String Quartet No. 3 in D Major, Op. 18: III. Allegro",
+    "artist": "Ludwig van Beethoven, Gewandhaus Quartet",
+    "isrc": "DES380007166"
+  },
+  {
+    "title": "String Quartet in C Minor, Op. Posth.: III. Scherzo. Allegro molto",
+    "artist": "Max Bruch, Diogenes Quartet",
+    "isrc": "NLY331507104"
+  },
+  {
+    "title": "String Quartet No. 66 in G Major, Op. 64 No. 4, Hob. III:66: III. Adagio. Cantabile e sostenuto",
+    "artist": "Joseph Haydn, Auryn Quartet, Matthias Lingenfelder, Jens Oppermann, Stewart Eaton, Andreas Arndt",
+    "isrc": "DEC211000603"
+  },
+  {
+    "title": "Variations on a Russian Folk Song - for String Quartet: Variation 9. Fugato: Allegro: Winkler",
+    "artist": "Nikolai Rimsky-Korsakov, Alexander Scriabin, Kuss Quartet",
+    "isrc": "GBPCP1100414"
+  },
+  {
+    "title": "String Quartet No.12 in E-Flat Major, Op.127, ILB 258: III. Scherzando vivace - Trio",
+    "artist": "Ludwig van Beethoven, Busch Quartet",
+    "isrc": "ITE012100270"
+  },
+  {
+    "title": "String Quartet No. 1, Op. 5: III. Grave, soutenu",
+    "artist": "Darius Milhaud, Petersen Quartet",
+    "isrc": "DEB260000229"
+  },
+  {
+    "title": "String Quartet No. 19 in D Major, K. 465: IV. Allegro molto",
+    "artist": "Wolfgang Amadeus Mozart, Armida Quartett",
+    "isrc": "DEAQ72220513"
+  },
+  {
+    "title": "Crisantemi",
+    "artist": "Giacomo Puccini, Signum Quartet",
+    "isrc": "DEB261101892"
+  },
+  {
+    "title": "Die Kunst der Fuge, BWV 1080: Contrapunctus XIV. Fuga a 3 Soggetti (Incomplete)",
+    "artist": "Johann Sebastian Bach, Keller Quartett",
+    "isrc": "DEB339765220"
+  },
+  {
+    "title": "II. Andante",
+    "artist": "Franz Schubert, Schumann Quartett",
+    "isrc": "DES382037008"
+  },
+  {
+    "title": "5 Pieces for String Quartet, WV 68: No. 5, Alla tarantella",
+    "artist": "Erwin Schulhoff, Klenke Quartet",
+    "isrc": "DERK62460709"
+  },
+  {
+    "title": "String Quartet in D Minor: II. Barcarolle (1923 version)",
+    "artist": "Josef Suk, Minguet Quartett",
+    "isrc": "DEB201265216"
+  },
+  {
+    "title": "String Quartet in C Major, Op. 33 No. 3, Hob. III:39 \"The Bird\": IV. Rondo. Presto",
+    "artist": "Joseph Haydn, Henschel Quartet",
+    "isrc": "DEA580800178"
+  },
+  {
+    "title": "String Quartet No. 1 in C Minor, Op. 9: I. Andante - Allegro ma non troppo",
+    "artist": "Max Bruch, Mannheim String Quartet",
+    "isrc": "DEB209746001"
+  },
+  {
+    "title": "Mendelssohn: String Quartet No. 6 in F Minor, Op. 80, MWV R37: I. Allegro vivace assai",
+    "artist": "Felix Mendelssohn, Cherubini-Quartett",
+    "isrc": "DEC629000966"
+  },
+  {
+    "title": "String Quartet No. 4 in C Major, D. 46: I. Adagio - Allegro con moto",
+    "artist": "Franz Schubert, Verdi Quartett",
+    "isrc": "DEA559800567"
+  },
+  {
+    "title": "Streichquartett in D-Moll \"Der Tod und das Mädchen\", D. 810: II. Andante con moto",
+    "artist": "Franz Schubert, Goldmund Quartet",
+    "isrc": "DES382321004"
+  },
+  {
+    "title": "Bagatelles, Op. 47, B. 79: No. 3. Allegretto scherzando",
+    "artist": "Antonín Dvořák, Vogler String Quartet, Oliver Triendl",
+    "isrc": "DEB201062414"
+  },
+  {
+    "title": "String Quartet No. 14 in C sharp minor, Op. 131: I. Adagio, ma non troppo e molto espressivo -",
+    "artist": "Ludwig van Beethoven, Suske Quartet",
+    "isrc": "DES380009777"
+  },
+  {
+    "title": "String Quartet No. 36 in B-Flat Major, Op. 50, No. 1, Hob. III:44: IV. Finale. Vivace",
+    "artist": "Joseph Haydn, Amati Quartet",
+    "isrc": "USB8U1002126"
+  },
+  {
+    "title": "String Quartet No. 8 In C Minor, Op. 110: I. Largo",
+    "artist": "Dmitri Shostakovich, Rosamunde Quartett",
+    "isrc": "DEB339662902"
+  },
+  {
+    "title": "String Quartet No. 8, Op. 59 No. 2 in E Minor - \"Rasumovsky\": I. Allegro",
+    "artist": "Ludwig van Beethoven, Barylli Quartet",
+    "isrc": "QM6N21551784"
+  },
+  {
+    "title": "String Quartet No. 16 in F Major, Op. 135: II. Vivace",
+    "artist": "Ludwig van Beethoven, Suske Quartett",
+    "isrc": "DES380009790"
+  },
+  {
+    "title": "Zwei Quartette für 2 Violinen, Viola und Violoncello in C Minor, Op. 51, No. 1: I. Allegro",
+    "artist": "Johannes Brahms, Philharmonia Quartet Berlin",
+    "isrc": "DEC291562301"
+  },
+  {
+    "title": "Fantasia in D Minor, Z. 739",
+    "artist": "Henry Purcell, Alinde Quartett",
+    "isrc": "DEAD61803107"
+  },
+  {
+    "title": "弦楽四重奏曲 第17番 変ロ長調 K. 458 《狩》 II- Menuetto; Moderato",
+    "artist": "Wolfgang Amadeus Mozart, Carmina Quartet",
+    "isrc": "JPCO07212130"
+  },
+  {
+    "title": "String Quartet No. 14 in C-Sharp Minor, Op. 131: I. Adagio ma non troppo e molto espressivo",
+    "artist": "Ludwig van Beethoven, Aris Quartett",
+    "isrc": "DET901747805"
+  },
+  {
+    "title": "String Quartet, \"1931\": I. Rubato assai",
+    "artist": "Ruth Crawford Seeger, Pellegrini Quartet",
+    "isrc": "DEB209967011"
+  },
+  {
+    "title": "Streichquartett Nr. 2, D-Dur: I. Allegro moderato",
+    "artist": "Alexander Borodin, Joachim-Quartett",
+    "isrc": "DEC298700405"
+  },
+  {
+    "title": "String Quartet No. 3, Op. 19: IV. Burleske. Sehr lebhaft",
+    "artist": "Alexander von Zemlinsky, Artis Quartett Wien",
+    "isrc": "GBAJU9800270"
+  },
+  {
+    "title": "Quatrieme livre de 6 quatuors, Quartet No. 5 in G Major, TWV 43:G5: II. Allegro (Version for string quartet)",
+    "artist": "Georg Philipp Telemann, Casal Quartett",
+    "isrc": "DEDS51114302"
+  },
+  {
+    "title": "III Kwartet smyczkowy \"Wycinanki\": I. Lento moderato",
+    "artist": "Andrzej Panufnik, Apollon Musagete Quartet",
+    "isrc": "PLC701805910"
+  },
+  {
+    "title": "String Quartet No. 3, Op. 30: II. Adagio",
+    "artist": "Arnold Schoenberg, Kolisch Quartet",
+    "isrc": "DEPJ41100089"
+  },
+  {
+    "title": "String Quartet in C Major, Op. 30 No. 1: III. Adagio cantabile",
+    "artist": "Johann Nepomuk Hummel, Endres Quartet, Heinz Endres, Josef Rottenfusser, Fritz Ruf, Adolf Schmidt",
+    "isrc": "DEL112100312"
+  },
+  {
+    "title": "String Quartet in E-Flat Major: IV. Allegro molto vivace",
+    "artist": "Fanny Mendelssohn, Asasello Quartett",
+    "isrc": "DEAQ70900015"
+  },
+  {
+    "title": "String Quartet No. 1, JW VII/8 \"Kreutzer Sonata\": II. Con moto",
+    "artist": "Leoš Janáček, Acies Quartett",
+    "isrc": "ATG301800202"
+  },
+  {
+    "title": "Triptyque: I. Allegro risoluto",
+    "artist": "Alexandre Tansman, Adamas Quartett",
+    "isrc": "ATG301610904"
+  },
+  {
+    "title": "String Quartet No. 3 in C Major, Op. 16: II. Sehr langsam - Ausserst ruhige Viertel",
+    "artist": "Paul Hindemith, Amar Quartet",
+    "isrc": "HKI191134705"
+  },
+  {
+    "title": "String Quartet No. 3, Op. 30 \"Fantasia tropica\": IV. La sera. Poco sostenuto - Presto tumutuoso",
+    "artist": "Géza Frid, Amaryllis Quartett",
+    "isrc": "DEX990850514"
+  },
+  {
+    "title": "String Quartet No. 1 in D Major, Op. 7: III. Andante con moto",
+    "artist": "Arnold Schoenberg, Apea Quartet",
+    "isrc": "DES800401497"
+  },
+  {
+    "title": "Piano Quintet in C Minor, Op. 16: II. Andante con moto",
+    "artist": "Hermann Goetz, Barchet-Quartett, Hans Priegnitz",
+    "isrc": "DES805004290"
+  },
+  {
+    "title": "Piano Quintet No. 2 in G Major, Op. 125: III. Intermezzo. Allegro scherzando - Deluxe Version",
+    "artist": "Hans Huber, Basler Streichquartett, Jan Schultsz",
+    "isrc": "CHA751300198"
+  },
+  {
+    "title": "String Quartet in G Minor, Op. 54 No. 1: I. Allegro agitato",
+    "artist": "Max Reger, Berne String Quartet",
+    "isrc": "DEB209406904"
+  },
+  {
+    "title": "Oboe Quartet in F Major, K. 370: II. Adagio",
+    "artist": "Wolfgang Amadeus Mozart, Berner Streichquartett, Ingo Goritzki",
+    "isrc": "USA561282150"
+  },
+  {
+    "title": "String Quintet in F Major, Op. 77: IV. Finale: Langsam und düster - Rasch und feurig",
+    "artist": "Felix Draeseke, Breuninger Quartett, Andreas Grunkorn",
+    "isrc": "DEB200910704"
+  },
+  {
+    "title": "String Quartet No. 1, H. 15: I. Appassionato",
+    "artist": "Arthur Honegger, Drolc-Quartett",
+    "isrc": "DES806004018"
+  },
+  {
+    "title": "Piano Quintet in F Minor, FWV 7: II. Lento con molto sentimento",
+    "artist": "César Franck, Eliot Quartett, Dmitry Ablogin",
+    "isrc": "DET902278406"
+  },
+  {
+    "title": "String Quartet in E Minor, Op. 2 \"Im alten Stil\": II. Andante",
+    "artist": "Theodor Berger, Europäisches Streichquartett, Gustav Swoboda, Mario Beyer, Fritz Händschke, Richard Harand",
+    "isrc": "HKI192037402"
+  },
+  {
+    "title": "String Quartet in E-Flat Major: II. Allegretto",
+    "artist": "Fanny Mendelssohn, Fanny Mendelssohn Quartet",
+    "isrc": "DEE019200023"
+  },
+  {
+    "title": "String Quartet No. 3 in C Minor, Op. 50: I. Einleitung. Andante",
+    "artist": "Hans Pfitzner, Franz Schubert Quartet",
+    "isrc": "DEB209999605"
+  },
+  {
+    "title": "String Quartet No. 1: IV. Adagio",
+    "artist": "Pierre-Dominique Ponnelle, Gemeaux Quartett",
+    "isrc": "DET900916304"
+  },
+  {
+    "title": "String Quartet No. 2, JW VII/13, \"Listy duverne\" (Intimate Letters): II. Adagio - Presto",
+    "artist": "Leoš Janáček, Heine String Quartet",
+    "isrc": "DET900606606"
+  },
+  {
+    "title": "Rigaudon - Arr. for Piano and String Quartet",
+    "artist": "Henri Furlani, Henschel Quartett, Vedat Koşal",
+    "isrc": "ATMA40500254"
+  },
+  {
+    "title": "Vorspiel zur Oper Tristan und Isolde: Opernschluss - Arr. for String Quartet",
+    "artist": "Richard Wagner, Hugo Wolf Quartett, Annamaria Kowalsky, Marta Sudraba",
+    "isrc": "ATMA41300095"
+  },
+  {
+    "title": "String Quartet No. 16 in Fifth-tone System, Op. 98: II. Con affezione - Allegro vivace",
+    "artist": "Alois Hába, Hába Quartett",
+    "isrc": "DEGF71010117"
+  },
+  {
+    "title": "String Octet, Op. 20: 2. Andante",
+    "artist": "Felix Mendelssohn, Jade Quartett, Cuarteto Leonor",
+    "isrc": "DED810566200"
+  },
+  {
+    "title": "Klavierquartett in Es-Dur, op. 5: IV. Rondo, Tempo moderato",
+    "artist": "Louis Ferdinand (Prince of Prussia), Joachim Quartett Hannover",
+    "isrc": "DEC290425404"
+  },
+  {
+    "title": "Divertimento for Strings in F Major, K. 138: I. Allegro",
+    "artist": "Wolfgang Amadeus Mozart, Hagen Quartett",
+    "isrc": "DEF059002181"
+  },
+  {
+    "title": "Beethoven: String Quartet No. 13 in B-Flat Major, Op. 130: II. Presto (Live at Konzerthaus, Wien, 1989)",
+    "artist": "Ludwig van Beethoven, Alban Berg Quartett",
+    "isrc": "GBAYC8903005"
+  },
+  {
+    "title": "Strauss: Capriccio, Op. 85: Einleitung",
+    "artist": "Richard Strauss, Artemis Quartet, Thomas Kakuska, Valentin Erben",
+    "isrc": "GBAYC0204078"
+  },
+  {
+    "title": "String Quartets, Op. 33, No. 5 in G Major, Hob. III:41 \"How Do You Do?\": No. 1, Vivace assai",
+    "artist": "Joseph Haydn, Quatuor Mosaïques",
+    "isrc": "FRX201665972"
+  },
+  {
+    "title": "String Quartet No. 2 in C Major, D. 32: I. Presto",
+    "artist": "Franz Schubert, Melos Quartet",
+    "isrc": "DEF057101621"
+  },
+  {
+    "title": "String Quartet No. 5, Sz. 102: I. Allegro",
+    "artist": "Béla Bartók, Arcanto Quartett",
+    "isrc": "FRZ140641010"
+  },
+  {
+    "title": "String Quintet in F Major: I. Gemäßigt",
+    "artist": "Anton Bruckner, Leipziger Streichquartett, Hartmut Rohde",
+    "isrc": "DEA140429701"
+  },
+  {
+    "title": "String Quartet No. 1 in F major, Op. 18, No. 1: II. Adagio affettuoso ed appassionato",
+    "artist": "Ludwig van Beethoven, Gewandhaus Quartet",
+    "isrc": "DES380007157"
+  },
+  {
+    "title": "String Quartet in G Minor, D. 18: I. Andante – Presto vivace",
+    "artist": "Franz Schubert, Diogenes Quartet",
+    "isrc": "NLY331404893"
+  },
+  {
+    "title": "String Quartet in E-Flat Major, Op. 20 No. 1, Hob. III:31 \"Sun Quartet No. 1\": I. Allegro moderato",
+    "artist": "Joseph Haydn, Auryn Quartet, Matthias Lingenfelder, Jens Oppermann, Stewart Eaton, Andreas Arndt",
+    "isrc": "DEC211000101"
+  },
+  {
+    "title": "String Quartet No. 6 in F Minor, Op, 80: II. Adagio",
+    "artist": "Felix Mendelssohn, Kuss Quartet",
+    "isrc": "UKGFN2200218"
+  },
+  {
+    "title": "String Quartet No.16 in F Major, Op.135, ILB 262: III. Lento assai, cantante e tranquillo",
+    "artist": "Ludwig van Beethoven, Busch Quartet",
+    "isrc": "ITE012100254"
+  },
+  {
+    "title": "String Quartet No. 1, Op. 6: I. Lento",
+    "artist": "Ernst Krenek, Petersen Quartet",
+    "isrc": "USB8U1013497"
+  },
+  {
+    "title": "String Quartet No. 15 in D Minor, K. 421: I. Allegro moderato",
+    "artist": "Wolfgang Amadeus Mozart, Armida Quartett",
+    "isrc": "DEAQ72249609"
+  },
+  {
+    "title": "String Quartet in B-Flat Major No. 8, Op. 168. D. 112: IV. Presto",
+    "artist": "Franz Schubert, Signum Quartet",
+    "isrc": "NLE421701506"
+  },
+  {
+    "title": "Die Kunst der Fuge, BWV 1080: Contrapunctus IV",
+    "artist": "Johann Sebastian Bach, Keller Quartett",
+    "isrc": "DEB339765204"
+  },
+  {
+    "title": "IV. Allegro moderato",
+    "artist": "Franz Schubert, Schumann Quartett",
+    "isrc": "DES382037010"
+  },
+  {
+    "title": "String Quartet No. 18 in A Major, K. 464: IV. Allegro non troppo",
+    "artist": "Wolfgang Amadeus Mozart, Klenke Quartet",
+    "isrc": "DEAD60402904"
+  },
+  {
+    "title": "String Quartet No. 1 in E-Flat Major, Op. 12, MWV R25: I. Adagio non troppo - Allegro non tardante",
+    "artist": "Felix Mendelssohn, Minguet Quartett",
+    "isrc": "DEB201693101"
+  },
+  {
+    "title": "String Quartet in C Major, Op. 33 No. 3, Hob. III:39 \"The Bird\": II. Scherzo. Allegretto. Trio",
+    "artist": "Joseph Haydn, Henschel Quartet",
+    "isrc": "DEA580800176"
+  },
+  {
+    "title": "String Quartet No. 1 in C Minor, Op. 9: IV. Molto vivace",
+    "artist": "Max Bruch, Mannheim String Quartet",
+    "isrc": "DEB209746004"
+  },
+  {
+    "title": "Mendelssohn: String Quartet No. 6 in F Minor, Op. 80, MWV R37: II. Allegro assai",
+    "artist": "Felix Mendelssohn, Cherubini-Quartett",
+    "isrc": "DEC629000967"
+  },
+  {
+    "title": "String Quintet in C Major, Op. 163, D. 956: II. Adagio",
+    "artist": "Franz Schubert, Verdi Quartett",
+    "isrc": "DEA559608993"
+  },
+  {
+    "title": "Streichquartett in D-Moll \"Der Tod und das Mädchen\", D. 810: I. Allegro",
+    "artist": "Franz Schubert, Goldmund Quartet",
+    "isrc": "DES382321003"
+  },
+  {
+    "title": "String Quartet No. 12 in F Major, Op. 96, B. 179, \"American\": II. Lento",
+    "artist": "Antonín Dvořák, Vogler String Quartet",
+    "isrc": "DEB201062402"
+  },
+  {
+    "title": "String Quartet No. 16 in E-Flat Major, K. 428: II. Andante con moto",
+    "artist": "Wolfgang Amadeus Mozart, Suske Quartet",
+    "isrc": "DES380403406"
+  },
+  {
+    "title": "String Quartet No. 38 in E-Flat Major, Op. 50, No. 3, Hob. III:46: IV. Finale. Presto",
+    "artist": "Joseph Haydn, Amati Quartet",
+    "isrc": "USB8U1002134"
+  },
+  {
+    "title": "Ixxu – String Quartet: sehr schnell, präzise",
+    "artist": "Thomas Larcher, Rosamunde Quartett",
+    "isrc": "DEB330596702"
+  },
+  {
+    "title": "String Quartet No. 14, Op. 131 in C-Sharp Minor: VI. Adagio quasi un poco andante",
+    "artist": "Ludwig van Beethoven, Barylli Quartet",
+    "isrc": "QM6N21551803"
+  },
+  {
+    "title": "String Quartet No. 14 in G Major, K. 387: IV. Molto allegro",
+    "artist": "Wolfgang Amadeus Mozart, Suske Quartett",
+    "isrc": "DES380007826"
+  },
+  {
+    "title": "Quartett, A-Moll, op.41, Nr.1: II. Scherzo, Presto",
+    "artist": "Robert Schumann, Philharmonia Quartet Berlin",
+    "isrc": "DEC290955402"
+  },
+  {
+    "title": "String Quartet No. 6 in F Minor, Op. 80, MWV R 37: II. Allegro assai",
+    "artist": "Felix Mendelssohn, Alinde Quartett",
+    "isrc": "DEAD61803102"
+  },
+  {
+    "title": "String Quartet in G Minor, Op. 74, No. 3, Hob. III:74, \"Horseman\": I. Allegro",
+    "artist": "Joseph Haydn, Carmina Quartet",
+    "isrc": "CH0010900096"
+  },
+  {
+    "title": "String Quartet No. 9 in C Major, Op. 59 No. 3 \"Razumovsky\": II. Andante con moto quasi allegretto",
+    "artist": "Ludwig van Beethoven, Aris Quartett",
+    "isrc": "DET901747802"
+  },
+  {
+    "title": "String Quartet, \"1931\": II. Leggiero",
+    "artist": "Ruth Crawford Seeger, Pellegrini Quartet",
+    "isrc": "DEB209967012"
+  },
+  {
+    "title": "Streichquartett Nr. 2, D-Dur: II. Scherzo, Allegro",
+    "artist": "Alexander Borodin, Joachim-Quartett",
+    "isrc": "DEC298700406"
+  }
+]

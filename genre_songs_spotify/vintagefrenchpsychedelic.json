@@ -1,0 +1,592 @@
+[
+  {
+    "title": "La drogue",
+    "artist": "Richard De Bordeaux, Daniel Beretta",
+    "isrc": "FR0Q10200029"
+  },
+  {
+    "title": "Source of Innovation",
+    "artist": "Guy Skornik, Elisabeth Skornik",
+    "isrc": "FRZPA1510070"
+  },
+  {
+    "title": "Maintenant je suis un voyou",
+    "artist": "Bruno Leys",
+    "isrc": "FR0Q12001164"
+  },
+  {
+    "title": "Possarinhos",
+    "artist": "Pierre Cavalli",
+    "isrc": "DEQ121431343"
+  },
+  {
+    "title": "Les filles c'est fait pour faire l'amour",
+    "artist": "Charlotte Leslie",
+    "isrc": "FR0Q10200017"
+  },
+  {
+    "title": "Cuisses nues, bottes de cuir",
+    "artist": "Philippe Nicaud",
+    "isrc": "FROQ10200030"
+  },
+  {
+    "title": "Les pommes de Lune",
+    "artist": "Evariste",
+    "isrc": "FR0Q12201405"
+  },
+  {
+    "title": "Le 6 septembre",
+    "artist": "Areski Belkacem, Brigitte Fontaine",
+    "isrc": "GBAWA0238614"
+  },
+  {
+    "title": "Il part en Californie",
+    "artist": "Bernard Chabert",
+    "isrc": "FRZ041800365"
+  },
+  {
+    "title": "4 cheveux dans le vent",
+    "artist": "Bain Didonc",
+    "isrc": "FR6V80813221"
+  },
+  {
+    "title": "Sacré dollar - Greenback Dollar",
+    "artist": "Les Missiles",
+    "isrc": "FRZ116307273"
+  },
+  {
+    "title": "Comme un arc-en-ciel",
+    "artist": "Michel Didier",
+    "isrc": "FR0Q12101176"
+  },
+  {
+    "title": "Le grand pardon",
+    "artist": "Serge Franklin, Tina Provenzano, Herbert Pagani",
+    "isrc": "FR2F41500680"
+  },
+  {
+    "title": "Peut-Être Demain",
+    "artist": "Triangle",
+    "isrc": "FRZ117006318"
+  },
+  {
+    "title": "Cacharella - Bonus Track",
+    "artist": "Acetate Trouvée",
+    "isrc": "FR0Q11500341"
+  },
+  {
+    "title": "Il Mio Rifugio - Original Motion Picture Soundtrack from Tandem",
+    "artist": "François Bernheim, Richard Cocciante",
+    "isrc": "FRZ810810001"
+  },
+  {
+    "title": "I Like Sex",
+    "artist": "Alain Ricar",
+    "isrc": "FR0Q12101173"
+  },
+  {
+    "title": "Kiki",
+    "artist": "Alain Serco",
+    "isrc": "FR0Q12101178"
+  },
+  {
+    "title": "Dans son euphorie",
+    "artist": "Chorus Reverendus",
+    "isrc": "FR6V80813216"
+  },
+  {
+    "title": "Je suis jaloux",
+    "artist": "Doukkali",
+    "isrc": "FR0Q12101168"
+  },
+  {
+    "title": "Thème pour la mort",
+    "artist": "Evolution phase 1",
+    "isrc": "CAV720805012"
+  },
+  {
+    "title": "Le grand méchant loup",
+    "artist": "François Faray",
+    "isrc": "FR0Q12101180"
+  },
+  {
+    "title": "Filles 2000",
+    "artist": "Gilles du Janeyrand",
+    "isrc": "FR0Q12101172"
+  },
+  {
+    "title": "Wraaaach !!!",
+    "artist": "Jacques Filh",
+    "isrc": "FRZ111200562"
+  },
+  {
+    "title": "Notre homme à moi",
+    "artist": "Jane & Julie",
+    "isrc": "FR0Q11500340"
+  },
+  {
+    "title": "Je t'aime normal",
+    "artist": "Jean & Janet",
+    "isrc": "FR6V80813213"
+  },
+  {
+    "title": "La juxtaposition 210",
+    "artist": "Jean-Bernard de Libreville",
+    "isrc": "FR0Q11500332"
+  },
+  {
+    "title": "Ce jour-là",
+    "artist": "Jean-Pierre Castelain",
+    "isrc": "FRZ042201453"
+  },
+  {
+    "title": "Sidi bou",
+    "artist": "K.R. Nagati",
+    "isrc": "FR0Q12101182"
+  },
+  {
+    "title": "Fou, roi, pantin",
+    "artist": "Komintern",
+    "isrc": "FRZ111001282"
+  },
+  {
+    "title": "Bernadette",
+    "artist": "L'oeil",
+    "isrc": "FR0Q10200031"
+  },
+  {
+    "title": "Cégep blues",
+    "artist": "La 4ème Volonté",
+    "isrc": "CAV720805004"
+  },
+  {
+    "title": "Laissez Briller Le Soleil",
+    "artist": "Les Boots",
+    "isrc": "GBSMU1520773"
+  },
+  {
+    "title": "Ne L'Attends Pas",
+    "artist": "Les Bowlers",
+    "isrc": "GBSMU1520784"
+  },
+  {
+    "title": "À dégager",
+    "artist": "Les Fleurs De Pavot",
+    "isrc": "FR0Q10200019"
+  },
+  {
+    "title": "Bibi baba bouboum",
+    "artist": "Les Lunours, Les introuvables",
+    "isrc": "CAZ700900800"
+  },
+  {
+    "title": "Les petites amies",
+    "artist": "Les Masters",
+    "isrc": "FRZ042201449"
+  },
+  {
+    "title": "Le papyvore",
+    "artist": "Les Papyvores",
+    "isrc": "FR0Q10200025"
+  },
+  {
+    "title": "Les Jeunes Tigres",
+    "artist": "Les Safari",
+    "isrc": "QM6N21436551"
+  },
+  {
+    "title": "Mister Lincoln",
+    "artist": "Les Somethings",
+    "isrc": "USA371188637"
+  },
+  {
+    "title": "Maman La Plus Belle Du Monde",
+    "artist": "Les Sunlights",
+    "isrc": "BEW220300004"
+  },
+  {
+    "title": "Vedette internationale",
+    "artist": "Liberatoire",
+    "isrc": "FR0Q12101177"
+  },
+  {
+    "title": "Ani-Kuni",
+    "artist": "Madeleine Chartrand",
+    "isrc": "CYRLD1401255"
+  },
+  {
+    "title": "Névralgie particulière",
+    "artist": "Long Chris",
+    "isrc": "FR0Q11500334"
+  },
+  {
+    "title": "Les drogués du 45 tours - Bonus Track",
+    "artist": "Marcel Artero",
+    "isrc": "FR0Q11800770"
+  },
+  {
+    "title": "Boeing",
+    "artist": "Matty Kemer",
+    "isrc": "FR0Q12101171"
+  },
+  {
+    "title": "Avec les oreilles",
+    "artist": "Monique Thubert",
+    "isrc": "FR0Q10200028"
+  },
+  {
+    "title": "Un soir d'été",
+    "artist": "Nelly Perrier",
+    "isrc": "FR6V80813226"
+  },
+  {
+    "title": "Toi le shazam",
+    "artist": "Papy",
+    "isrc": "FR0Q11500336"
+  },
+  {
+    "title": "Laisse-moi médire que je t'aime, Pt. 1",
+    "artist": "Patrice Lamy",
+    "isrc": "FR0Q12101181"
+  },
+  {
+    "title": "Aufstand der Roboter",
+    "artist": "Patrick Roche",
+    "isrc": "USWD11158042"
+  },
+  {
+    "title": "Soli Si Muore",
+    "artist": "Patrick Samson",
+    "isrc": "ITD560201545"
+  },
+  {
+    "title": "Je t'aime trop",
+    "artist": "Paul Dupret",
+    "isrc": "FR0Q12101174"
+  },
+  {
+    "title": "Je suis Turc",
+    "artist": "Pierre Paul Jacques",
+    "isrc": "FR0Q11500330"
+  },
+  {
+    "title": "Patatras Hola",
+    "artist": "Richard Hertel",
+    "isrc": "FR0Q12101175"
+  },
+  {
+    "title": "Étrange ville",
+    "artist": "Réjean Et Pierre",
+    "isrc": "CAV720805017"
+  },
+  {
+    "title": "J'aime ou j'emmerde",
+    "artist": "San Antonio",
+    "isrc": "FR6V80813212"
+  },
+  {
+    "title": "Le pape du pop",
+    "artist": "Stéphane Varègues",
+    "isrc": "FR0Q10200026"
+  },
+  {
+    "title": "Herr Doktor Reich",
+    "artist": "Zorgones",
+    "isrc": "FR6V80813219"
+  },
+  {
+    "title": "Sirius",
+    "artist": "Catharsis",
+    "isrc": "FR40F7100330"
+  },
+  {
+    "title": "Le son tombé du ciel",
+    "artist": "Alain Markusfeld",
+    "isrc": "FRUM72200686"
+  },
+  {
+    "title": "Confusion",
+    "artist": "Cheap Wine",
+    "isrc": "FR5R00911640"
+  },
+  {
+    "title": "Viens",
+    "artist": "Danyel Gérard",
+    "isrc": "FR66V1100195"
+  },
+  {
+    "title": "Sort du paysan",
+    "artist": "Gweltaz",
+    "isrc": "FRZ111600094"
+  },
+  {
+    "title": "Super Man, Super Cool",
+    "artist": "Jacky Chalard",
+    "isrc": "GBRNP0700367"
+  },
+  {
+    "title": "Inspiration",
+    "artist": "Ken Lean",
+    "isrc": "FRZ111306371"
+  },
+  {
+    "title": "Je ne vois rien",
+    "artist": "Les problèmes, Les introuvables",
+    "isrc": "CAZ700900688"
+  },
+  {
+    "title": "Clubman Round-Up",
+    "artist": "Libre Esprit Moteur",
+    "isrc": "CHD401800010"
+  },
+  {
+    "title": "Nyl",
+    "artist": "Nyl, Loy, Jannick Top, Michel Peteau, Ariel Kalmar, DBF, Freequentin, Stéphane Rossini, Bernard Lavialle",
+    "isrc": "FR6V81211752"
+  },
+  {
+    "title": "Prélude et solstice",
+    "artist": "Pachacamac",
+    "isrc": "FRZ111600030"
+  },
+  {
+    "title": "La Première porte",
+    "artist": "Philippe Farré",
+    "isrc": "FRZ041700414"
+  },
+  {
+    "title": "Psyche Rock",
+    "artist": "Pierre Henry / Michel Colombier",
+    "isrc": "GBAJC0003315"
+  },
+  {
+    "title": "Wendy",
+    "artist": "Rado Testen",
+    "isrc": "FRZ041700041"
+  },
+  {
+    "title": "Tu as peut-être raison",
+    "artist": "Regis Barly",
+    "isrc": "FRZ116606461"
+  },
+  {
+    "title": "Humain, trop humain - le voyageur",
+    "artist": "Schizotrope Iii",
+    "isrc": "FR6V80102393"
+  },
+  {
+    "title": "Boulevard des batignolles",
+    "artist": "Yvan Dautin",
+    "isrc": "FR6V80043435"
+  },
+  {
+    "title": "Know How",
+    "artist": "Guy Skornik, Elisabeth Skornik",
+    "isrc": "FRZPA1510010"
+  },
+  {
+    "title": "Dans la galaxie",
+    "artist": "Bruno Leys",
+    "isrc": "FR0Q12001166"
+  },
+  {
+    "title": "Psychose",
+    "artist": "Richard De Bordeaux, Daniel Beretta",
+    "isrc": "FROQ10200027"
+  },
+  {
+    "title": "Séparation",
+    "artist": "Philippe Nicaud",
+    "isrc": "FRR640790181"
+  },
+  {
+    "title": "Les filles c'est fait",
+    "artist": "Charlotte Leslie",
+    "isrc": "USA371235251"
+  },
+  {
+    "title": "Connais tu l'animal qui inventa le calcul integral?",
+    "artist": "Evariste",
+    "isrc": "FR0Q12201403"
+  },
+  {
+    "title": "Lembrança do Santos",
+    "artist": "Pierre Cavalli",
+    "isrc": "DEQ121431351"
+  },
+  {
+    "title": "L'engourdie",
+    "artist": "Areski Belkacem, Brigitte Fontaine",
+    "isrc": "GBAWA0238620"
+  },
+  {
+    "title": "4 Cheveux Dans Les Vent",
+    "artist": "Bain Didonc",
+    "isrc": "GBSMU1520771"
+  },
+  {
+    "title": "Helga Selzer",
+    "artist": "Bernard Chabert",
+    "isrc": "FR0Q11500328"
+  },
+  {
+    "title": "La (nouvelle) guerre de cent ans",
+    "artist": "Les Missiles",
+    "isrc": "FR0Q12101183"
+  },
+  {
+    "title": "Rois et reines",
+    "artist": "Serge Franklin",
+    "isrc": "FR9W11928165"
+  },
+  {
+    "title": "Litanies",
+    "artist": "Triangle",
+    "isrc": "FRZ111000460"
+  },
+  {
+    "title": "Ne poussez pas mémé dans les orties",
+    "artist": "Chorus Reverendus",
+    "isrc": "USA371235236"
+  },
+  {
+    "title": "Douka doukkali",
+    "artist": "Doukkali",
+    "isrc": "FR43D1600334"
+  },
+  {
+    "title": "Tom",
+    "artist": "François Bernheim",
+    "isrc": "FR0Q12101169"
+  },
+  {
+    "title": "Fini borniol",
+    "artist": "Jacques Filh",
+    "isrc": "FRZ042201450"
+  },
+  {
+    "title": "Gainsbourgeoise",
+    "artist": "Jean-Bernard de Libreville",
+    "isrc": "FRZ082200921"
+  },
+  {
+    "title": "La Petite auto",
+    "artist": "Jean-Pierre Castelain",
+    "isrc": "FRZ041700043"
+  },
+  {
+    "title": "Petite musique pour un blockhaus",
+    "artist": "Komintern",
+    "isrc": "FRZ111001281"
+  },
+  {
+    "title": "Le Ciel",
+    "artist": "Les Boots, Gilbert Safrani",
+    "isrc": "USA560900660"
+  },
+  {
+    "title": "Pourquoi L'Amour A Deux",
+    "artist": "Les Fleurs De Pavot",
+    "isrc": "GBSMU1520793"
+  },
+  {
+    "title": "Terre terre",
+    "artist": "Les Lunours, Les introuvables",
+    "isrc": "CAZ700900958"
+  },
+  {
+    "title": "Tu pleures pour rien",
+    "artist": "Les Masters",
+    "isrc": "FRZ041700115"
+  },
+  {
+    "title": "Elle Avait Tout",
+    "artist": "Les Safari",
+    "isrc": "QM6N21436550"
+  },
+  {
+    "title": "Surf Beat",
+    "artist": "Les Sunlights",
+    "isrc": "BEDO61600134"
+  },
+  {
+    "title": "Ma verte prairie",
+    "artist": "Long Chris, Les daltons",
+    "isrc": "FRS181455553"
+  },
+  {
+    "title": "Ani kuni",
+    "artist": "Madeleine Chartrand",
+    "isrc": "GBRNM1100022"
+  },
+  {
+    "title": "Perseverance",
+    "artist": "Guy Skornik, Elisabeth Skornik",
+    "isrc": "FRZPA1510100"
+  },
+  {
+    "title": "Hallucinations",
+    "artist": "Bruno Leys",
+    "isrc": "FR6V80813225"
+  },
+  {
+    "title": "Le cul de ma sœur",
+    "artist": "Philippe Nicaud",
+    "isrc": "FR6V81294709"
+  },
+  {
+    "title": "Je m'ennuie",
+    "artist": "Richard De Bordeaux",
+    "isrc": "FR0Q10200021"
+  },
+  {
+    "title": "La révolution",
+    "artist": "Evariste",
+    "isrc": "FR0Q12201412"
+  },
+  {
+    "title": "Ragilia",
+    "artist": "Areski Belkacem, Brigitte Fontaine",
+    "isrc": "GBAWA0238615"
+  },
+  {
+    "title": "Tempo In Tempo",
+    "artist": "Pierre Cavalli",
+    "isrc": "DEQ121431344"
+  },
+  {
+    "title": "Une plage bordée de cocotiers",
+    "artist": "Bernard Chabert",
+    "isrc": "FRZ041800364"
+  },
+  {
+    "title": "Sacré dollar",
+    "artist": "Les Missiles",
+    "isrc": "FR6V81913195"
+  },
+  {
+    "title": "Générique fin",
+    "artist": "Serge Franklin, Tina Provenzano, Herbert Pagani",
+    "isrc": "FR2F41500890"
+  },
+  {
+    "title": "Viens avec nous",
+    "artist": "Triangle",
+    "isrc": "FRZ110900350"
+  },
+  {
+    "title": "Aâz annass",
+    "artist": "Doukkali",
+    "isrc": "FR43D1600335"
+  },
+  {
+    "title": "Du vélo sans les mains",
+    "artist": "François Bernheim",
+    "isrc": "BEP011800114"
+  },
+  {
+    "title": "La Petite différence",
+    "artist": "Jacques Filh",
+    "isrc": "FRZ041700044"
+  }
+]

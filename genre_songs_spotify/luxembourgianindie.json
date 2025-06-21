@@ -1,0 +1,812 @@
+[
+  {
+    "title": "Apart",
+    "artist": "Seed to Tree",
+    "isrc": "DET721901211"
+  },
+  {
+    "title": "The Dream You Never Had",
+    "artist": "Tuys",
+    "isrc": "LU4MD2300022"
+  },
+  {
+    "title": "Blue Tuesday",
+    "artist": "Francis of Delirium",
+    "isrc": "UKK2C2300035"
+  },
+  {
+    "title": "The Mad Ones",
+    "artist": "Versus You",
+    "isrc": "DEGL81101501"
+  },
+  {
+    "title": "Quand Je Serai Grande",
+    "artist": "C'est Karma",
+    "isrc": "DEWR72400008"
+  },
+  {
+    "title": "ML",
+    "artist": "THEM LIGHTS",
+    "isrc": "QZHN62326616"
+  },
+  {
+    "title": "Dance Automaton Dance",
+    "artist": "Mutiny On The Bounty",
+    "isrc": "DELL41500178"
+  },
+  {
+    "title": "A Friend",
+    "artist": "Say Yes Dog",
+    "isrc": "DEBL61500482"
+  },
+  {
+    "title": "Le Captain",
+    "artist": "The Disliked",
+    "isrc": "LUV121400001"
+  },
+  {
+    "title": "Finally Alive",
+    "artist": "Edsun",
+    "isrc": "US38Y2307388"
+  },
+  {
+    "title": "Belsch Plaasch",
+    "artist": "Serge Tonnar & Legotrip",
+    "isrc": "LUD691100012"
+  },
+  {
+    "title": "Post Love Doubts",
+    "artist": "Bartleby Delicate",
+    "isrc": "DEOV41900762"
+  },
+  {
+    "title": "This Is the Beginning - Radio Edit",
+    "artist": "The Tame and the Wild",
+    "isrc": "DEUD52000010"
+  },
+  {
+    "title": "Sideways in Machu Picchu",
+    "artist": "Ice In My Eyes",
+    "isrc": "QZW9M2325092"
+  },
+  {
+    "title": "Replay",
+    "artist": "Zero Point Five",
+    "isrc": "ushm91994989"
+  },
+  {
+    "title": "Tallinn",
+    "artist": "Klein",
+    "isrc": "ushm21925392"
+  },
+  {
+    "title": "Got What You Wanted",
+    "artist": "Daniel Balthasar",
+    "isrc": "LU3GE2400001"
+  },
+  {
+    "title": "This Is Her War",
+    "artist": "Go By Brooks",
+    "isrc": "LUHK82100009"
+  },
+  {
+    "title": "Galaxy",
+    "artist": "Austinn",
+    "isrc": "uscgj1554176"
+  },
+  {
+    "title": "Pennies From Heaven",
+    "artist": "Josh Island",
+    "isrc": "DEZC62201127"
+  },
+  {
+    "title": "The Wind",
+    "artist": "The Kooters",
+    "isrc": "ushm91715209"
+  },
+  {
+    "title": "City Romance",
+    "artist": "Angel at my table",
+    "isrc": "CH6540816253"
+  },
+  {
+    "title": "Limited Edition",
+    "artist": "Communicaution",
+    "isrc": "USHM22461489"
+  },
+  {
+    "title": "Hai",
+    "artist": "The Choppy Bumpy Peaches",
+    "isrc": "QZES82078709"
+  },
+  {
+    "title": "Control",
+    "artist": "Autumn Sweater",
+    "isrc": "usl4q1906605"
+  },
+  {
+    "title": "To Die Among Strangers",
+    "artist": "ROME",
+    "isrc": "DEZ900900500"
+  },
+  {
+    "title": "Lightrider",
+    "artist": "No Metal in This Battle",
+    "isrc": "QZHNC2319643"
+  },
+  {
+    "title": "Fado",
+    "artist": "Ptolemea",
+    "isrc": "GBLPF6719335"
+  },
+  {
+    "title": "Living On The Wild Side",
+    "artist": "Kid Colling Cartel",
+    "isrc": "LUFR32300001"
+  },
+  {
+    "title": "Everyday Is a New Start",
+    "artist": "Sun Glitters",
+    "isrc": "USA2P1546203"
+  },
+  {
+    "title": "The Place We Used to Call Home",
+    "artist": "District 7",
+    "isrc": "ushm91675299"
+  },
+  {
+    "title": "Cryin' Shame",
+    "artist": "The Ferocious Few",
+    "isrc": "USA2M1007121"
+  },
+  {
+    "title": "DNCNG",
+    "artist": "Raftside",
+    "isrc": "QZMEM2455117"
+  },
+  {
+    "title": "There's a Discotheque Between Us",
+    "artist": "Inborn",
+    "isrc": "uscgj1966601"
+  },
+  {
+    "title": "Tout Cassé",
+    "artist": "Dessy Mesk",
+    "isrc": "QZTAT2228634"
+  },
+  {
+    "title": "Lucy",
+    "artist": "In The Atlas",
+    "isrc": "GBLFP2456539"
+  },
+  {
+    "title": "Rio",
+    "artist": "Miaow Miaow",
+    "isrc": "ushm20753970"
+  },
+  {
+    "title": "The House Will Burn",
+    "artist": "The Cutting Word",
+    "isrc": "ushm22298619"
+  },
+  {
+    "title": "Now, Now",
+    "artist": "Charlotte Bridge",
+    "isrc": "GBLFP1660569"
+  },
+  {
+    "title": "Ostrich Nominalism",
+    "artist": "No Ostriches",
+    "isrc": "QZDA52003278"
+  },
+  {
+    "title": "The Atomic Age",
+    "artist": "Soulhenge",
+    "isrc": "QM4DW1677782"
+  },
+  {
+    "title": "New July",
+    "artist": "Sun Smash Palace",
+    "isrc": "USDY42483002"
+  },
+  {
+    "title": "Firwat?",
+    "artist": "Sleepwalk",
+    "isrc": "ATR981127505"
+  },
+  {
+    "title": "Carry You",
+    "artist": "Bye Bye Bay",
+    "isrc": "CH6542342241"
+  },
+  {
+    "title": "Jupiter",
+    "artist": "AAMAR",
+    "isrc": "GBKPL1935564"
+  },
+  {
+    "title": "Grace Jones",
+    "artist": "Jackie Moontan",
+    "isrc": "FR9W11729615"
+  },
+  {
+    "title": "Every Single One Of Us",
+    "artist": "BIRDBONES",
+    "isrc": "ATR981121544"
+  },
+  {
+    "title": "Skip Stones",
+    "artist": "Natas Loves You",
+    "isrc": "FR6F31404910"
+  },
+  {
+    "title": "Tarmaxx",
+    "artist": "Mount Stealth",
+    "isrc": "ushm91843744"
+  },
+  {
+    "title": "Dreamer",
+    "artist": "Five Cent Cones",
+    "isrc": "GB-SMU-16-39010"
+  },
+  {
+    "title": "Twisted Games",
+    "artist": "7 Days On Fire",
+    "isrc": "usx9p1055111"
+  },
+  {
+    "title": "Chimney Sweeper",
+    "artist": "Adrian",
+    "isrc": "QZES71873204"
+  },
+  {
+    "title": "Never Be The Same",
+    "artist": "Alex Uhlmann",
+    "isrc": "DEZC62196862"
+  },
+  {
+    "title": "Behshr Airways",
+    "artist": "Arco Deum",
+    "isrc": "QZFYX1905252"
+  },
+  {
+    "title": "Blue Coloured Night",
+    "artist": "Backyärd",
+    "isrc": "DEL211202870"
+  },
+  {
+    "title": "Pull Me Down",
+    "artist": "Cluttered Clarity, Cory Henry, Sharay Reed",
+    "isrc": "usdy41766003"
+  },
+  {
+    "title": "Zäit",
+    "artist": "Crying Souls, Marcel Cornaro",
+    "isrc": "DEHY11401302"
+  },
+  {
+    "title": "Rotten Candy",
+    "artist": "DFXX",
+    "isrc": "NLPM11620386"
+  },
+  {
+    "title": "The Golden City",
+    "artist": "Eternal Tango",
+    "isrc": "DEDU11000020"
+  },
+  {
+    "title": "But Now Is the Day",
+    "artist": "Fournizzeur, Sofiana Soul",
+    "isrc": "DEAR42479391"
+  },
+  {
+    "title": "Share Your Burden",
+    "artist": "Granny's Favouritz",
+    "isrc": "UST8K1815630"
+  },
+  {
+    "title": "Burning Water",
+    "artist": "Heartbeat Parade",
+    "isrc": "FR6V81609724"
+  },
+  {
+    "title": "28 Headaches In A Row",
+    "artist": "Holy National Victims",
+    "isrc": "USA560612892"
+  },
+  {
+    "title": "Vrtx",
+    "artist": "Kevin Blaze",
+    "isrc": "TCAGU2399956"
+  },
+  {
+    "title": "Swastika Signs",
+    "artist": "La Fa Connected",
+    "isrc": "uscgj0786978"
+  },
+  {
+    "title": "Rebel",
+    "artist": "Les Loges Noires",
+    "isrc": "usl4r2142977"
+  },
+  {
+    "title": "Lovecats",
+    "artist": "Love Echo",
+    "isrc": "PT8AI1200044"
+  },
+  {
+    "title": "All In My Head",
+    "artist": "Lumi",
+    "isrc": "GBLFP1725130"
+  },
+  {
+    "title": "Dark Thoughts",
+    "artist": "Magestick Records",
+    "isrc": "TCAEL1936586"
+  },
+  {
+    "title": "Sublime",
+    "artist": "Magnus & John",
+    "isrc": "QZFZ42426744"
+  },
+  {
+    "title": "Folktrance",
+    "artist": "Nice Astronauts",
+    "isrc": "ushm21803604"
+  },
+  {
+    "title": "Simple Men",
+    "artist": "Open Seas",
+    "isrc": "FRP621305030"
+  },
+  {
+    "title": "Stolen by Others - Marco Rota Remix",
+    "artist": "PHACKO, Marco Rota",
+    "isrc": "DEAR41990356"
+  },
+  {
+    "title": "Boys Day In",
+    "artist": "Ravensong",
+    "isrc": "DKVD11800103"
+  },
+  {
+    "title": "Jitter Doll",
+    "artist": "TBK",
+    "isrc": "QZ8LD1752346"
+  },
+  {
+    "title": "Hannibal Sherlock",
+    "artist": "Tardis",
+    "isrc": "QZ9Y21784298"
+  },
+  {
+    "title": "Wherever The Four Winds Blow",
+    "artist": "The Chaunters",
+    "isrc": "GBLFP1876252"
+  },
+  {
+    "title": "Business Ass Usual",
+    "artist": "The Gambling Badgers",
+    "isrc": "ushm21320063"
+  },
+  {
+    "title": "Distractions",
+    "artist": "This Is Tomorrow, Glad2Mecha",
+    "isrc": "DEQ021904845"
+  },
+  {
+    "title": "City in Blue",
+    "artist": "Trappers",
+    "isrc": "usl4r1942895"
+  },
+  {
+    "title": "Until It Gets Better",
+    "artist": "Seed to Tree",
+    "isrc": "QMEU31415450"
+  },
+  {
+    "title": "Papaya",
+    "artist": "Tuys",
+    "isrc": "DEKL22000002"
+  },
+  {
+    "title": "Who You Are",
+    "artist": "Francis of Delirium",
+    "isrc": "UKK2C2300042"
+  },
+  {
+    "title": "When It All Goes Down",
+    "artist": "Versus You",
+    "isrc": "lup210700088"
+  },
+  {
+    "title": "Street Signs",
+    "artist": "C'est Karma",
+    "isrc": "DEWR72400004"
+  },
+  {
+    "title": "CW",
+    "artist": "THEM LIGHTS",
+    "isrc": "LU4MD2300015"
+  },
+  {
+    "title": "Ice Ice Iceland",
+    "artist": "Mutiny On The Bounty",
+    "isrc": "DELL41500179"
+  },
+  {
+    "title": "Money",
+    "artist": "The Disliked",
+    "isrc": "LUV121900002"
+  },
+  {
+    "title": "Focus",
+    "artist": "Say Yes Dog",
+    "isrc": "DEBL61500489"
+  },
+  {
+    "title": "Love Myself Again",
+    "artist": "Edsun",
+    "isrc": "US38Y2403845"
+  },
+  {
+    "title": "Crémant An Der Chamber",
+    "artist": "Serge Tonnar & Legotrip",
+    "isrc": "LUD691100003"
+  },
+  {
+    "title": "Plastic Flowers",
+    "artist": "Bartleby Delicate",
+    "isrc": "DEOV42100241"
+  },
+  {
+    "title": "Let's Give A High Five",
+    "artist": "The Tame and the Wild",
+    "isrc": "DEUD52400001"
+  },
+  {
+    "title": "Chromosome",
+    "artist": "Ice In My Eyes",
+    "isrc": "FR67E2100170"
+  },
+  {
+    "title": "Sing Along",
+    "artist": "Zero Point Five",
+    "isrc": "uscgh1871289"
+  },
+  {
+    "title": "Episode",
+    "artist": "Klein",
+    "isrc": "FR8E72100275"
+  },
+  {
+    "title": "Two Hands Ten Fingers",
+    "artist": "Daniel Balthasar",
+    "isrc": "LU3GE2100002"
+  },
+  {
+    "title": "How to Sing to a Man",
+    "artist": "Go By Brooks",
+    "isrc": "LUHK82000001"
+  },
+  {
+    "title": "Rule the World",
+    "artist": "Austinn",
+    "isrc": "uscgj1647962"
+  },
+  {
+    "title": "Lighthouse to My Mind",
+    "artist": "The Kooters",
+    "isrc": "uscgj1688853"
+  },
+  {
+    "title": "How Does It Feel",
+    "artist": "Josh Island",
+    "isrc": "LU2JZ2300001"
+  },
+  {
+    "title": "Set Your Sails",
+    "artist": "Angel at my table",
+    "isrc": "ushm81934076"
+  },
+  {
+    "title": "No Hugs",
+    "artist": "Communicaution",
+    "isrc": "USHM22461490"
+  },
+  {
+    "title": "Mystik Basilik",
+    "artist": "The Choppy Bumpy Peaches",
+    "isrc": "QZHN92030495"
+  },
+  {
+    "title": "Half of March",
+    "artist": "Autumn Sweater",
+    "isrc": "FRX282012120"
+  },
+  {
+    "title": "One Fire",
+    "artist": "ROME",
+    "isrc": "DEZ901400669"
+  },
+  {
+    "title": "Disco dans ta cave",
+    "artist": "No Metal in This Battle",
+    "isrc": "QZHNC2319646"
+  },
+  {
+    "title": "Balanced Darkness",
+    "artist": "Ptolemea",
+    "isrc": "GBLPF6733198"
+  },
+  {
+    "title": "Cold Blooded",
+    "artist": "Kid Colling Cartel",
+    "isrc": "LUFR32300002"
+  },
+  {
+    "title": "Too Much to Lose",
+    "artist": "Sun Glitters",
+    "isrc": "QZ4JJ1702717"
+  },
+  {
+    "title": "Bang Bang",
+    "artist": "District 7",
+    "isrc": "usdy41991383"
+  },
+  {
+    "title": "Gasoline and Cocaine",
+    "artist": "The Ferocious Few",
+    "isrc": "USA2M1001121"
+  },
+  {
+    "title": "Midnight Sun",
+    "artist": "Raftside",
+    "isrc": "QZTB92303733"
+  },
+  {
+    "title": "Trash Is the New Glam",
+    "artist": "Inborn",
+    "isrc": "uscgj1968911"
+  },
+  {
+    "title": "Fun Fun",
+    "artist": "Dessy Mesk",
+    "isrc": "QZK6G2090385"
+  },
+  {
+    "title": "Superficial Words",
+    "artist": "In The Atlas",
+    "isrc": "GBLFP2335696"
+  },
+  {
+    "title": "Fourteen years",
+    "artist": "Miaow Miaow",
+    "isrc": "ushm20753971"
+  },
+  {
+    "title": "Illusory",
+    "artist": "The Cutting Word",
+    "isrc": "LUP211800328"
+  },
+  {
+    "title": "Late at Night",
+    "artist": "Charlotte Bridge",
+    "isrc": "GBMA21900636"
+  },
+  {
+    "title": "Notion of Creation",
+    "artist": "No Ostriches",
+    "isrc": "QZHN72042297"
+  },
+  {
+    "title": "A New Dawn",
+    "artist": "Soulhenge",
+    "isrc": "QM4DW1677781"
+  },
+  {
+    "title": "Summer Drive",
+    "artist": "Sun Smash Palace",
+    "isrc": "usl4r2250179"
+  },
+  {
+    "title": "Firwat? - (Dry Mix)",
+    "artist": "Sleepwalk",
+    "isrc": "ATR981129024"
+  },
+  {
+    "title": "Never Forget",
+    "artist": "Bye Bye Bay",
+    "isrc": "CH6542154570"
+  },
+  {
+    "title": "Carbon",
+    "artist": "AAMAR",
+    "isrc": "GBKPL1820755"
+  },
+  {
+    "title": "Pink Morning",
+    "artist": "Jackie Moontan",
+    "isrc": "FR9W11729611"
+  },
+  {
+    "title": "Hiding in the Twilight",
+    "artist": "BIRDBONES",
+    "isrc": "USQY51403020"
+  },
+  {
+    "title": "Got to Belong",
+    "artist": "Natas Loves You",
+    "isrc": "FR6F31404850"
+  },
+  {
+    "title": "Elettricuidado",
+    "artist": "Mount Stealth",
+    "isrc": "ushm91843748"
+  },
+  {
+    "title": "Clockwise",
+    "artist": "Five Cent Cones",
+    "isrc": "LUF981400001"
+  },
+  {
+    "title": "Bittersweet Goodbyes",
+    "artist": "7 Days On Fire",
+    "isrc": "usx9p1055105"
+  },
+  {
+    "title": "Rainy Day",
+    "artist": "Alex Uhlmann",
+    "isrc": "DEZC62378984"
+  },
+  {
+    "title": "Avalanche",
+    "artist": "Arco Deum",
+    "isrc": "QZCE61815977"
+  },
+  {
+    "title": "Spatial Stereo",
+    "artist": "Backyärd",
+    "isrc": "DEL211202871"
+  },
+  {
+    "title": "Take My Hand",
+    "artist": "Seed to Tree",
+    "isrc": "QMEU31415451"
+  },
+  {
+    "title": "How To Breathe Underwater",
+    "artist": "Tuys",
+    "isrc": "DENQ82200206"
+  },
+  {
+    "title": "Be Better Than Me",
+    "artist": "Versus You",
+    "isrc": "lup210700092"
+  },
+  {
+    "title": "Got It",
+    "artist": "C'est Karma",
+    "isrc": "DEWR72400005"
+  },
+  {
+    "title": "Quit Fucking Around",
+    "artist": "Francis of Delirium",
+    "isrc": "QZHN91996367"
+  },
+  {
+    "title": "Estanque",
+    "artist": "THEM LIGHTS",
+    "isrc": "QZRP52236528"
+  },
+  {
+    "title": "Countach",
+    "artist": "Mutiny On The Bounty",
+    "isrc": "DELL41500177"
+  },
+  {
+    "title": "My Profile",
+    "artist": "The Disliked",
+    "isrc": "ATR980002779"
+  },
+  {
+    "title": "Plastik",
+    "artist": "Say Yes Dog",
+    "isrc": "DEBL61500481"
+  },
+  {
+    "title": "Lisa",
+    "artist": "Edsun",
+    "isrc": "QZES71833843"
+  },
+  {
+    "title": "Hey Meng Boma!",
+    "artist": "Serge Tonnar & Legotrip",
+    "isrc": "LUD691700013"
+  },
+  {
+    "title": "Deadly Over You",
+    "artist": "Bartleby Delicate",
+    "isrc": "DEOV42100378"
+  },
+  {
+    "title": "From the Rabbit Hole",
+    "artist": "The Tame and the Wild",
+    "isrc": "DEUD52300004"
+  },
+  {
+    "title": "Heart and Soul - Ryvage Rework",
+    "artist": "Ice In My Eyes, Ryvage",
+    "isrc": "LUG681800002"
+  },
+  {
+    "title": "Free",
+    "artist": "Zero Point Five",
+    "isrc": "USHM21997626"
+  },
+  {
+    "title": "Catharsis",
+    "artist": "Klein",
+    "isrc": "FR8E72100274"
+  },
+  {
+    "title": "Burning",
+    "artist": "Daniel Balthasar",
+    "isrc": "LU3GE2200001"
+  },
+  {
+    "title": "Lost",
+    "artist": "Go By Brooks",
+    "isrc": "LUHK81900001"
+  },
+  {
+    "title": "Answer Your Phone",
+    "artist": "Austinn",
+    "isrc": "ushm21545315"
+  },
+  {
+    "title": "Amanda Is Crazy",
+    "artist": "The Kooters",
+    "isrc": "uscgj1688852"
+  },
+  {
+    "title": "Rewind",
+    "artist": "Josh Island",
+    "isrc": "DEZC62329716"
+  },
+  {
+    "title": "Eclipse",
+    "artist": "Angel at my table",
+    "isrc": "uscgh1285041"
+  },
+  {
+    "title": "Cold Showers",
+    "artist": "Communicaution",
+    "isrc": "USHM22461495"
+  },
+  {
+    "title": "Darjeeling",
+    "artist": "The Choppy Bumpy Peaches",
+    "isrc": "TCADK1895848"
+  },
+  {
+    "title": "Water Your Plants",
+    "artist": "Autumn Sweater",
+    "isrc": "ushm91894041"
+  },
+  {
+    "title": "Paprika",
+    "artist": "No Metal in This Battle",
+    "isrc": "BEDS71702604"
+  },
+  {
+    "title": "A Sonhar Perdi O Teu Amor",
+    "artist": "Ptolemea",
+    "isrc": "GBLPF6779120"
+  },
+  {
+    "title": "Ain't Nobody",
+    "artist": "Kid Colling Cartel",
+    "isrc": "LUFR32300005"
+  }
+]

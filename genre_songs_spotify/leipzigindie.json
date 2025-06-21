@@ -1,0 +1,817 @@
+[
+  {
+    "title": "Das große Versprechen",
+    "artist": "Das Paradies",
+    "isrc": "GBLAZ1801192"
+  },
+  {
+    "title": "Schlaflied",
+    "artist": "Sarah Lesch",
+    "isrc": "DENQ81700142"
+  },
+  {
+    "title": "Passenger Seat",
+    "artist": "Talking To Turtles",
+    "isrc": "DEZ651343733"
+  },
+  {
+    "title": "Das Schiff",
+    "artist": "Die Art",
+    "isrc": "DEPW90980703"
+  },
+  {
+    "title": "Snooze",
+    "artist": "2ersitz",
+    "isrc": "DENL42300844"
+  },
+  {
+    "title": "Lampedusa - Acoustic Version",
+    "artist": "Malky",
+    "isrc": "DEE861600843"
+  },
+  {
+    "title": "Mensch Ärger Dich nicht",
+    "artist": "Karl die Große",
+    "isrc": "DEGQ11800050"
+  },
+  {
+    "title": "Plagwitz",
+    "artist": "Duo Stiehler/Lucaciu",
+    "isrc": "DEBL60520379"
+  },
+  {
+    "title": "Sold My Soul",
+    "artist": "Two Wooden Stones",
+    "isrc": "DENQ81300334"
+  },
+  {
+    "title": "Two Tribes",
+    "artist": "Think About Mutation",
+    "isrc": "DEN129900010"
+  },
+  {
+    "title": "Miracle",
+    "artist": "the Ladies Home Journal",
+    "isrc": "NL1AP1913262"
+  },
+  {
+    "title": "August",
+    "artist": "Me And Oceans",
+    "isrc": "DENQ81500759"
+  },
+  {
+    "title": "Lightweights",
+    "artist": "Elephants on Tape",
+    "isrc": "DENQ81700298"
+  },
+  {
+    "title": "Swarm",
+    "artist": "Wooden Peak",
+    "isrc": "DENQ81800090"
+  },
+  {
+    "title": "Frohe Schritte",
+    "artist": "Brockdorff Klang Labor",
+    "isrc": "DEN770700033"
+  },
+  {
+    "title": "The Return",
+    "artist": "Chris Medleigh, Golden Ticket Tapes",
+    "isrc": "DELJ81800734"
+  },
+  {
+    "title": "Solar Kid",
+    "artist": "The Sonic Boom Foundation",
+    "isrc": "DEZ320800321"
+  },
+  {
+    "title": "Always on My Mind",
+    "artist": "Marbert Rocel",
+    "isrc": "DEM091500068"
+  },
+  {
+    "title": "A Listener",
+    "artist": "A Forest",
+    "isrc": "DELJ81212287"
+  },
+  {
+    "title": "Peace Is Wonder",
+    "artist": "Messer Banzani",
+    "isrc": "DEZ321401437"
+  },
+  {
+    "title": "Ycatú",
+    "artist": "Welten",
+    "isrc": "DELJ81807916"
+  },
+  {
+    "title": "All Or Nothing - grasime Soul Treat",
+    "artist": "grasime, Golden Ticket Tapes, Golden Rules, Laura Llorens & The Shadows Of Love",
+    "isrc": "DEZC62203066"
+  },
+  {
+    "title": "Voyage",
+    "artist": "Atlas Bird",
+    "isrc": "FR2X41692252"
+  },
+  {
+    "title": "Salt in Hot Summer",
+    "artist": "Baru",
+    "isrc": "DENQ81500613"
+  },
+  {
+    "title": "Wie im Traum",
+    "artist": "Til Kolare",
+    "isrc": "QZ93L2058808"
+  },
+  {
+    "title": "What About You",
+    "artist": "Emilys Giant",
+    "isrc": "DENQ81500644"
+  },
+  {
+    "title": "Wild World",
+    "artist": "Love Is Colder Than Death",
+    "isrc": "DEDA99100112"
+  },
+  {
+    "title": "Hideaway",
+    "artist": "Barbie Q.",
+    "isrc": "DEZ321401837"
+  },
+  {
+    "title": "Hip Hop in der DDR",
+    "artist": "Beside The Norm",
+    "isrc": "DEZ321402337"
+  },
+  {
+    "title": "Control",
+    "artist": "Cox and the Riot",
+    "isrc": "usdy42394248"
+  },
+  {
+    "title": "Der Apfeltraum",
+    "artist": "Cäsar, Bierfiedler",
+    "isrc": "DEE129500109"
+  },
+  {
+    "title": "Geh deinen Weg",
+    "artist": "Ket & Scientist",
+    "isrc": "DEZ321400737"
+  },
+  {
+    "title": "Es regnet nie in Halle-Neustadt",
+    "artist": "Korus Hades",
+    "isrc": "DEZ321400637"
+  },
+  {
+    "title": "Desire for Cherish",
+    "artist": "Krahnstøver",
+    "isrc": "DEZ321402437"
+  },
+  {
+    "title": "Leipzig, meine Stadt",
+    "artist": "Marcel MC, Ueberkinger",
+    "isrc": "DEZ321402037"
+  },
+  {
+    "title": "I Play God",
+    "artist": "Sergeant Weißflog",
+    "isrc": "DEZ321402237"
+  },
+  {
+    "title": "Everybody Open Your Eyes",
+    "artist": "Ten Colors",
+    "isrc": "DEZ321400937"
+  },
+  {
+    "title": "Leipzig Is Calling You",
+    "artist": "The Galan Pix, sui",
+    "isrc": "DEZ321400137"
+  },
+  {
+    "title": "Ironic",
+    "artist": "Tino Standhaft, Friends",
+    "isrc": "DEE120500604"
+  },
+  {
+    "title": "Dancin' Round the World",
+    "artist": "Undercops",
+    "isrc": "DEZ321400537"
+  },
+  {
+    "title": "Fassbinder",
+    "artist": "Unicycleman",
+    "isrc": "DEZ321401937"
+  },
+  {
+    "title": "Sie Tanzt Zum Nächsten",
+    "artist": "Willkommen zu Hause Laika",
+    "isrc": "DEN770200244"
+  },
+  {
+    "title": "Berlin",
+    "artist": "Kafka Tamura",
+    "isrc": "GB2YG1900025"
+  },
+  {
+    "title": "Neptune's Daughter",
+    "artist": "June Cocó",
+    "isrc": "DEXO51959943"
+  },
+  {
+    "title": "Forest Space Jungle",
+    "artist": "ReedFlavor, Golden Ticket Tapes",
+    "isrc": "DELJ81800707"
+  },
+  {
+    "title": "I Like That",
+    "artist": "baby of the bunch",
+    "isrc": "DEKL22000008"
+  },
+  {
+    "title": "The Spreadsheet",
+    "artist": "Me And Reed, Golden Ticket Tapes",
+    "isrc": "DELJ82004942"
+  },
+  {
+    "title": "Prinzessin Ohne Königreich",
+    "artist": "Trio.Diktion",
+    "isrc": "FR26V1511247"
+  },
+  {
+    "title": "Pyramid Tears of Simba",
+    "artist": "Orph",
+    "isrc": "DENQ81700285"
+  },
+  {
+    "title": "Zeitgeist",
+    "artist": "FABRIK",
+    "isrc": "NL1AP1916085"
+  },
+  {
+    "title": "Sound Sleeper",
+    "artist": "Warm Graves",
+    "isrc": "UKRNU2100323"
+  },
+  {
+    "title": "Green Blue",
+    "artist": "Peter Piek",
+    "isrc": "DEUQ51800002"
+  },
+  {
+    "title": "Where's My Line?",
+    "artist": "White Wine",
+    "isrc": "DEZ651368843"
+  },
+  {
+    "title": "Tabula Rasa",
+    "artist": "Jeronymus",
+    "isrc": "DENQ81700198"
+  },
+  {
+    "title": "Plastic",
+    "artist": "Lingua Nada",
+    "isrc": "DEOV41700153"
+  },
+  {
+    "title": "Kein Widerstand, nur Hitze",
+    "artist": "Egolaut",
+    "isrc": "DENQ81700013"
+  },
+  {
+    "title": "Deep Inside",
+    "artist": "Daniel Stefanik",
+    "isrc": "DEX041700034"
+  },
+  {
+    "title": "Glück",
+    "artist": "TinTin",
+    "isrc": "ATPB51807001"
+  },
+  {
+    "title": "40°",
+    "artist": "Choirs",
+    "isrc": "DENQ81700213"
+  },
+  {
+    "title": "Verkauft",
+    "artist": "Die Griffins",
+    "isrc": "DELJ81913070"
+  },
+  {
+    "title": "The Place",
+    "artist": "Polyluxus",
+    "isrc": "CH7811816353"
+  },
+  {
+    "title": "Atlantis",
+    "artist": "Blue Side Park",
+    "isrc": "DEPI81900547"
+  },
+  {
+    "title": "The Hypnagogic State",
+    "artist": "Zen Zebra",
+    "isrc": "DEO181200002"
+  },
+  {
+    "title": "The First Time",
+    "artist": "Max Von Wegen",
+    "isrc": "FR10S1686558"
+  },
+  {
+    "title": "Place of Love - MP Edt",
+    "artist": "Filburt, good guy mikesh, Maceo Plex",
+    "isrc": "GB7M21316001"
+  },
+  {
+    "title": "Hollow Heart",
+    "artist": "Antlers Mulm",
+    "isrc": "DEZ651301272"
+  },
+  {
+    "title": "Butterfly",
+    "artist": "Arik Dov",
+    "isrc": "ushm81516715"
+  },
+  {
+    "title": "For How Long, How Long",
+    "artist": "Arpen",
+    "isrc": "DENQ81600009"
+  },
+  {
+    "title": "Freeze Frame of Love",
+    "artist": "Baical",
+    "isrc": "QMBZ92034456"
+  },
+  {
+    "title": "Mine",
+    "artist": "Ballad Of Geraldine",
+    "isrc": "DENQ81600521"
+  },
+  {
+    "title": "Persante - Upright Reframings",
+    "artist": "Clemens Christian Poetzsch",
+    "isrc": "DES382338002"
+  },
+  {
+    "title": "Everything Inside",
+    "artist": "Din Martin",
+    "isrc": "DENQ81600003"
+  },
+  {
+    "title": "Are you the One?",
+    "artist": "Dingoes Ate My Baby",
+    "isrc": "CAGOO2163512"
+  },
+  {
+    "title": "The Takedown",
+    "artist": "Electric Turtles",
+    "isrc": "DELJ81801049"
+  },
+  {
+    "title": "Howling With The Wolves",
+    "artist": "Elephant's Foot",
+    "isrc": "DEZC62162641"
+  },
+  {
+    "title": "Ymmb",
+    "artist": "Far Or Near",
+    "isrc": "DENQ81500786"
+  },
+  {
+    "title": "Stars Over Devon",
+    "artist": "Flynn, Jered Egan, The BBC Dance Orchestra, Henry Hall",
+    "isrc": "HKI190145207"
+  },
+  {
+    "title": "Until the Light Takes Us",
+    "artist": "Heart Ovt",
+    "isrc": "DEVS51800001"
+  },
+  {
+    "title": "Nachtwache",
+    "artist": "Jahmica, Fleur Earth",
+    "isrc": "DENQ81500675"
+  },
+  {
+    "title": "Cold Hands",
+    "artist": "Lizard Pool",
+    "isrc": "DEBZ71800165"
+  },
+  {
+    "title": "Kartenhaus",
+    "artist": "Moonmind",
+    "isrc": "DELJ81818703"
+  },
+  {
+    "title": "Für dich",
+    "artist": "PETRA",
+    "isrc": "DEZC62494801"
+  },
+  {
+    "title": "Moher",
+    "artist": "Rustre",
+    "isrc": "DEFD62000026"
+  },
+  {
+    "title": "Sun",
+    "artist": "TC75",
+    "isrc": "GBLPF6730614"
+  },
+  {
+    "title": "Walk-in Closet - DJ Mixed Version",
+    "artist": "ZIN",
+    "isrc": "JPM591001413"
+  },
+  {
+    "title": "Asphalt",
+    "artist": "lov-e-is-rare, Elfyn",
+    "isrc": "DEZC62351834"
+  },
+  {
+    "title": "Wann strahlst du?",
+    "artist": "Das Paradies",
+    "isrc": "GBLAZ1801129"
+  },
+  {
+    "title": "Testament",
+    "artist": "Sarah Lesch",
+    "isrc": "DEPW41201725"
+  },
+  {
+    "title": "Gold",
+    "artist": "Talking To Turtles",
+    "isrc": "DEZ651343734"
+  },
+  {
+    "title": "Sie sagte",
+    "artist": "Die Art",
+    "isrc": "DEPW90980705"
+  },
+  {
+    "title": "Soon",
+    "artist": "Malky",
+    "isrc": "DEQW31200001"
+  },
+  {
+    "title": "In guter Gesellschaft",
+    "artist": "2ersitz",
+    "isrc": "DENL41800183"
+  },
+  {
+    "title": "Vertragen",
+    "artist": "Karl die Große, Francesco Wilking",
+    "isrc": "DEGQ12100128"
+  },
+  {
+    "title": "Blauer Flamingo",
+    "artist": "Duo Stiehler/Lucaciu",
+    "isrc": "DGA052213801"
+  },
+  {
+    "title": "Animal",
+    "artist": "Two Wooden Stones",
+    "isrc": "DENQ81300342"
+  },
+  {
+    "title": "Motorrazor",
+    "artist": "Think About Mutation",
+    "isrc": "DEZ321401637"
+  },
+  {
+    "title": "Black Heart",
+    "artist": "the Ladies Home Journal",
+    "isrc": "NL1AP1913263"
+  },
+  {
+    "title": "Kosmos",
+    "artist": "Me And Oceans",
+    "isrc": "DENQ81600576"
+  },
+  {
+    "title": "Good Things",
+    "artist": "Elephants on Tape",
+    "isrc": "DENQ81700297"
+  },
+  {
+    "title": "Stitch",
+    "artist": "Wooden Peak",
+    "isrc": "DENQ81800092"
+  },
+  {
+    "title": "1989",
+    "artist": "Brockdorff Klang Labor",
+    "isrc": "DEN771200015"
+  },
+  {
+    "title": "Junatic",
+    "artist": "Chris Medleigh, Golden Ticket Tapes",
+    "isrc": "DELJ81800729"
+  },
+  {
+    "title": "Sound of the City",
+    "artist": "The Sonic Boom Foundation",
+    "isrc": "DEZ320800821"
+  },
+  {
+    "title": "The Shepherd",
+    "artist": "A Forest",
+    "isrc": "DENQ81400481"
+  },
+  {
+    "title": "Suicide",
+    "artist": "Messer Banzani",
+    "isrc": "DEG189010999"
+  },
+  {
+    "title": "Beppo - Live",
+    "artist": "Welten",
+    "isrc": "DELJ81807918"
+  },
+  {
+    "title": "Song for You",
+    "artist": "Marbert Rocel",
+    "isrc": "DEM091200053"
+  },
+  {
+    "title": "Night Shift",
+    "artist": "grasime, Golden Ticket Tapes",
+    "isrc": "DELJ81819529"
+  },
+  {
+    "title": "Back To Black",
+    "artist": "Atlas Bird",
+    "isrc": "USA2P1907470"
+  },
+  {
+    "title": "Run Dark Horse",
+    "artist": "Baru",
+    "isrc": "DENQ81600018"
+  },
+  {
+    "title": "Luftikus (feat. Liftboi)",
+    "artist": "Til Kolare, Liftboi",
+    "isrc": "CH7811708712"
+  },
+  {
+    "title": "Funny How",
+    "artist": "Emilys Giant",
+    "isrc": "DELJ81593727"
+  },
+  {
+    "title": "An Invite, To Eternity",
+    "artist": "Love Is Colder Than Death",
+    "isrc": "DEDA99200207"
+  },
+  {
+    "title": "Wolves",
+    "artist": "Cox and the Riot",
+    "isrc": "DEKX51600661"
+  },
+  {
+    "title": "Gelber Mond",
+    "artist": "Cäsar",
+    "isrc": "DEBL61309636"
+  },
+  {
+    "title": "Lsd",
+    "artist": "Korus Hades",
+    "isrc": "USA370563431"
+  },
+  {
+    "title": "Sonar",
+    "artist": "Krahnstøver",
+    "isrc": "DELJ81338924"
+  },
+  {
+    "title": "Second Chance",
+    "artist": "Tino Standhaft",
+    "isrc": "DEZ321400837"
+  },
+  {
+    "title": "Hat Jemand Die Mumie?",
+    "artist": "Unicycleman",
+    "isrc": "DEN770200227"
+  },
+  {
+    "title": "Sieben Schläfer",
+    "artist": "Willkommen zu Hause Laika",
+    "isrc": "DEZ321401037"
+  },
+  {
+    "title": "Bones - Leex Remix",
+    "artist": "Kafka Tamura, LEEX",
+    "isrc": "DETM11500020"
+  },
+  {
+    "title": "Happy Song - Bonus Track",
+    "artist": "June Cocó",
+    "isrc": "FRX281947616"
+  },
+  {
+    "title": "Sawdust Diamonds",
+    "artist": "ReedFlavor, Golden Ticket Tapes",
+    "isrc": "DELJ81800716"
+  },
+  {
+    "title": "Happy Here",
+    "artist": "baby of the bunch",
+    "isrc": "DEKL22200002"
+  },
+  {
+    "title": "The Office",
+    "artist": "Me And Reed, Golden Ticket Tapes",
+    "isrc": "DELJ81909069"
+  },
+  {
+    "title": "Silver",
+    "artist": "Trio.Diktion",
+    "isrc": "TCAGY2336780"
+  },
+  {
+    "title": "The Mosaic, The Whale and It's Hunter",
+    "artist": "Orph",
+    "isrc": "DENQ81700286"
+  },
+  {
+    "title": "Menschmaschine",
+    "artist": "FABRIK",
+    "isrc": "NL1AP1916088"
+  },
+  {
+    "title": "Ships Will Come",
+    "artist": "Warm Graves",
+    "isrc": "DEZ651376208"
+  },
+  {
+    "title": "Nobody Knows",
+    "artist": "Peter Piek",
+    "isrc": "USHM81659389"
+  },
+  {
+    "title": "Zeitgeist Plagiarist",
+    "artist": "White Wine",
+    "isrc": "DEZ651368846"
+  },
+  {
+    "title": "Slow Down",
+    "artist": "Jeronymus",
+    "isrc": "DENQ81700206"
+  },
+  {
+    "title": "Svrf Party",
+    "artist": "Lingua Nada",
+    "isrc": "FR10S1836994"
+  },
+  {
+    "title": "Neue Flüge",
+    "artist": "Egolaut",
+    "isrc": "DENQ81700017"
+  },
+  {
+    "title": "Confidence - Adam Port Remix",
+    "artist": "Daniel Stefanik, Adam Port",
+    "isrc": "DEQ201301037"
+  },
+  {
+    "title": "Sphären",
+    "artist": "TinTin",
+    "isrc": "ATPB51807002"
+  },
+  {
+    "title": "Goldene Zukunft",
+    "artist": "Das Paradies",
+    "isrc": "DEEH61702430"
+  },
+  {
+    "title": "Nichts",
+    "artist": "Sarah Lesch",
+    "isrc": "DEPW41201717"
+  },
+  {
+    "title": "Green",
+    "artist": "Talking To Turtles",
+    "isrc": "DEZ651343738"
+  },
+  {
+    "title": "Alles was dein Herz begehrt",
+    "artist": "Die Art",
+    "isrc": "DEPW90980707"
+  },
+  {
+    "title": "Herzliche Grüsse",
+    "artist": "2ersitz",
+    "isrc": "DENL41900242"
+  },
+  {
+    "title": "Heute Nacht",
+    "artist": "Karl die Große",
+    "isrc": "DEZC62160011"
+  },
+  {
+    "title": "Theodore",
+    "artist": "Malky",
+    "isrc": "DEE861600470"
+  },
+  {
+    "title": "Walk On",
+    "artist": "Two Wooden Stones",
+    "isrc": "DENQ81500713"
+  },
+  {
+    "title": "In der Kiste",
+    "artist": "Duo Stiehler/Lucaciu",
+    "isrc": "QMEU31904917"
+  },
+  {
+    "title": "Superman (Hasta Manana)",
+    "artist": "Think About Mutation",
+    "isrc": "DEN129900009"
+  },
+  {
+    "title": "My Love",
+    "artist": "the Ladies Home Journal",
+    "isrc": "NL1AP2065316"
+  },
+  {
+    "title": "Lilien",
+    "artist": "Me And Oceans",
+    "isrc": "DENQ81600568"
+  },
+  {
+    "title": "Microscope",
+    "artist": "Elephants on Tape",
+    "isrc": "DENQ81700303"
+  },
+  {
+    "title": "Point",
+    "artist": "Wooden Peak",
+    "isrc": "DENQ81800087"
+  },
+  {
+    "title": "Mädchenmusik (Mit Jens Friebe)",
+    "artist": "Brockdorff Klang Labor",
+    "isrc": "DEN770700051"
+  },
+  {
+    "title": "Someone Like U",
+    "artist": "Chris Medleigh, Golden Ticket Tapes",
+    "isrc": "DELJ81800725"
+  },
+  {
+    "title": "Shake! Shake! Shake!",
+    "artist": "The Sonic Boom Foundation",
+    "isrc": "DEZ320800421"
+  },
+  {
+    "title": "A Listener - Lake People Remix",
+    "artist": "A Forest",
+    "isrc": "DEU671101517"
+  },
+  {
+    "title": "Get Up",
+    "artist": "Messer Banzani",
+    "isrc": "DEG189211021"
+  },
+  {
+    "title": "Walzer",
+    "artist": "Welten",
+    "isrc": "DEVT72200123"
+  },
+  {
+    "title": "Windbreaker - Instrumental",
+    "artist": "grasime",
+    "isrc": "DEZC62412469"
+  },
+  {
+    "title": "My Bed",
+    "artist": "Marbert Rocel",
+    "isrc": "DEM090900121"
+  },
+  {
+    "title": "Isolate",
+    "artist": "Atlas Bird",
+    "isrc": "FR10S1783683"
+  },
+  {
+    "title": "Rivers",
+    "artist": "Baru",
+    "isrc": "DENQ81600020"
+  },
+  {
+    "title": "Soft Moon",
+    "artist": "Emilys Giant",
+    "isrc": "DEZC62163753"
+  },
+  {
+    "title": "Main Theme",
+    "artist": "Til Kolare",
+    "isrc": "CAGOO2311981"
+  },
+  {
+    "title": "From the Fog",
+    "artist": "Love Is Colder Than Death",
+    "isrc": "DEDA99100106"
+  }
+]

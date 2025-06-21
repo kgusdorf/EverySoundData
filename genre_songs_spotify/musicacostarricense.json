@@ -1,0 +1,967 @@
+[
+  {
+    "title": "Ausencia",
+    "artist": "Max Goldenberg, Malpaís, La Espantaperros",
+    "isrc": "TCADA1796425"
+  },
+  {
+    "title": "Dilo de una Vez",
+    "artist": "Humberto Vargas",
+    "isrc": "TCACP1678456"
+  },
+  {
+    "title": "La Coyolera",
+    "artist": "Max Goldenberg, Odilón Juárez & Malpaís",
+    "isrc": "cra020503002"
+  },
+  {
+    "title": "De Todos Modos",
+    "artist": "Guadalupe Urbina",
+    "isrc": "USHM80872400"
+  },
+  {
+    "title": "Cabin in the water",
+    "artist": "Cantoamerica",
+    "isrc": "DEN720300514"
+  },
+  {
+    "title": "Háblame",
+    "artist": "María Pretiz",
+    "isrc": "ushm21698002"
+  },
+  {
+    "title": "Contramarea (Vivo)",
+    "artist": "Malpaís",
+    "isrc": "TCACD1509246"
+  },
+  {
+    "title": "Nathalie, oh!",
+    "artist": "Compania Folclorica Matambu",
+    "isrc": "GBCKG0500230"
+  },
+  {
+    "title": "La Danza de los Toledos",
+    "artist": "Manuel Obregón",
+    "isrc": "SEYOK1429987"
+  },
+  {
+    "title": "Compañera",
+    "artist": "Adrián Goizueta",
+    "isrc": "ARA190501234"
+  },
+  {
+    "title": "Ya Nada Soy",
+    "artist": "Fidel Gamboa",
+    "isrc": "cra020507014"
+  },
+  {
+    "title": "Rumba En Cahuita",
+    "artist": "Walter Ferguson",
+    "isrc": "cra030501017"
+  },
+  {
+    "title": "Soy Tico",
+    "artist": "Carlos Guzmán",
+    "isrc": "ushm81163139"
+  },
+  {
+    "title": "Herencia Guanacasteca",
+    "artist": "Max Goldenberg, Olman Briceño, COYOL",
+    "isrc": "uscgh1684108"
+  },
+  {
+    "title": "Mix de Merengues",
+    "artist": "Cimarrona La Original Domingueña",
+    "isrc": "TCACK1577914"
+  },
+  {
+    "title": "Tambito",
+    "artist": "Mauricio Penagos Villegas",
+    "isrc": "ushm21637460"
+  },
+  {
+    "title": "Qué Vas a Hacer Esta Noche",
+    "artist": "Gaviota",
+    "isrc": "ushm21854979"
+  },
+  {
+    "title": "Soy Guanacasteco",
+    "artist": "Trio Contradanza",
+    "isrc": "FR6V80715009"
+  },
+  {
+    "title": "Tierra de Mi Corazón",
+    "artist": "Los Chocuacos",
+    "isrc": "GBMJG1901592"
+  },
+  {
+    "title": "Si Te Vas",
+    "artist": "Gerardo Y Los Hicsos",
+    "isrc": "TCADG1740078"
+  },
+  {
+    "title": "Vengo",
+    "artist": "Tierra Nueva",
+    "isrc": "usl4r1935559"
+  },
+  {
+    "title": "Piedra Papel Tijera",
+    "artist": "Son De Tikizia",
+    "isrc": "ushm81502449"
+  },
+  {
+    "title": "Buscándome",
+    "artist": "Esteban Monge",
+    "isrc": "QZ5FN1870288"
+  },
+  {
+    "title": "Luna Liberiana",
+    "artist": "Fundación Tico de Corazón",
+    "isrc": "ushm21637463"
+  },
+  {
+    "title": "Libertad",
+    "artist": "Olman Briceño",
+    "isrc": "uscgh1740127"
+  },
+  {
+    "title": "Al Final",
+    "artist": "Suite Doble",
+    "isrc": "TCACO1621283"
+  },
+  {
+    "title": "El Saltimbanqui",
+    "artist": "Peregrino Gris",
+    "isrc": "TCAFX2101310"
+  },
+  {
+    "title": "Vos estás ahí",
+    "artist": "Bernardo Quesada, Edgar Oceransky",
+    "isrc": "QZDA61989711"
+  },
+  {
+    "title": "One Pant Man",
+    "artist": "Manuel Monestel",
+    "isrc": "cra020608012"
+  },
+  {
+    "title": "Compañera",
+    "artist": "Adrián Goizueta y el Experimental",
+    "isrc": "ARA191501792"
+  },
+  {
+    "title": "Hijo de la Luna",
+    "artist": "Editus",
+    "isrc": "usdy41657605"
+  },
+  {
+    "title": "Puerto Viejo",
+    "artist": "Luis Angel Castro",
+    "isrc": "uscgj1686512"
+  },
+  {
+    "title": "Qué Hago Contigo",
+    "artist": "Arnoldo Castillo, Francisco Céspedes",
+    "isrc": "usl4q2199422"
+  },
+  {
+    "title": "Esperare",
+    "artist": "Tango India",
+    "isrc": "TCACN1670851"
+  },
+  {
+    "title": "Ser Tico",
+    "artist": "Grupo Quelite",
+    "isrc": "QZDA71885769"
+  },
+  {
+    "title": "Irracional",
+    "artist": "Nelly X Arend",
+    "isrc": "usdy41982083"
+  },
+  {
+    "title": "La Modelo",
+    "artist": "José Capmany, Café Con Leche",
+    "isrc": "USLZJ2402573"
+  },
+  {
+    "title": "Costa Rica",
+    "artist": "Orianna Chacón",
+    "isrc": "USL4R2364089"
+  },
+  {
+    "title": "Saca Boom Boom",
+    "artist": "Marfil",
+    "isrc": "uscgj1811572"
+  },
+  {
+    "title": "Barrio",
+    "artist": "Juan Carlos Ureña y Oveja Negra",
+    "isrc": "RUA1H1522691"
+  },
+  {
+    "title": "Jabalí Montuno (Jabalí)",
+    "artist": "Sonámbulo",
+    "isrc": "uscgh1450729"
+  },
+  {
+    "title": "La Vaca Milagro (feat. Emeterio Viales)",
+    "artist": "Emeterio, Carlos Guzmán, Emeterio Viales",
+    "isrc": "ushm21529132"
+  },
+  {
+    "title": "Me Quiero Morir",
+    "artist": "Ray Tico",
+    "isrc": "cra020707020"
+  },
+  {
+    "title": "Entre Remolinos",
+    "artist": "Perrozompopo",
+    "isrc": "GTA031600447"
+  },
+  {
+    "title": "Contracorriente",
+    "artist": "Calavera y la Canalla",
+    "isrc": "GBMJG1412887"
+  },
+  {
+    "title": "Sola",
+    "artist": "Kadeho",
+    "isrc": "USDHM1919430"
+  },
+  {
+    "title": "Qué Vas a Hacer Esta Noche?",
+    "artist": "Joaquín Yglesias",
+    "isrc": "usdy41843514"
+  },
+  {
+    "title": "Niños del bosque",
+    "artist": "Oscar Jiménez Fernández, Fabián Pacheco",
+    "isrc": "QZTAZ2358606"
+  },
+  {
+    "title": "El Criticón",
+    "artist": "La Pandylla",
+    "isrc": "GX8LD2388801"
+  },
+  {
+    "title": "Puerto Limon",
+    "artist": "Orquesta Filarmónica de Costa Rica",
+    "isrc": "TCAET2048974"
+  },
+  {
+    "title": "The First Time I Saw Limón",
+    "artist": "Manuel Monestel",
+    "isrc": "uscgj2027574"
+  },
+  {
+    "title": "Siembra",
+    "artist": "Rialengo",
+    "isrc": "usdy41757417"
+  },
+  {
+    "title": "Caballito Nicoyano",
+    "artist": "Grupo Patria Costa Rica",
+    "isrc": "usl4q1844480"
+  },
+  {
+    "title": "Like a Tree (En Vivo)",
+    "artist": "Passiflora",
+    "isrc": "uscgh1440551"
+  },
+  {
+    "title": "Yo me llamo Costa Rica",
+    "artist": "Mauricio Piedra",
+    "isrc": "QZDA42261830"
+  },
+  {
+    "title": "Solo Como Amigos",
+    "artist": "Los Alegrisimos",
+    "isrc": "CH6542233492"
+  },
+  {
+    "title": "Caña, Coco, y Café",
+    "artist": "Christian Porras",
+    "isrc": "usl4r2128903"
+  },
+  {
+    "title": "Niña Mala",
+    "artist": "Elena Umaña",
+    "isrc": "ushm91701062"
+  },
+  {
+    "title": "Son Tantas Noches",
+    "artist": "Abracadabra CR",
+    "isrc": "CH6542152053"
+  },
+  {
+    "title": "Carreta Criolla",
+    "artist": "Ensamble Étnico Mestizzo",
+    "isrc": "uscgj1698133"
+  },
+  {
+    "title": "Recuerdo Lejano (feat. los Caligaris)",
+    "artist": "República Fortuna, Los Caligaris",
+    "isrc": "ushm21377451"
+  },
+  {
+    "title": "Pasillo en Mi Menor",
+    "artist": "Cuarteto de Guitarras de Costa Rica",
+    "isrc": "GB-SMU-31-88009"
+  },
+  {
+    "title": "Canchis Canchis",
+    "artist": "Jaque Mate Costa Rica",
+    "isrc": "GX8LD2314827"
+  },
+  {
+    "title": "Pa´chinear tu corazoncito",
+    "artist": "Bernardo Quesada",
+    "isrc": "cra020607053"
+  },
+  {
+    "title": "Alza el Vuelo",
+    "artist": "Maf É Tulà",
+    "isrc": "QZDA71886768"
+  },
+  {
+    "title": "Good Day",
+    "artist": "Walter Gavitt Ferguson",
+    "isrc": "CHA831892415"
+  },
+  {
+    "title": "Ya No Te Lloro Más",
+    "artist": "Los Ajenos, Los Rabanes",
+    "isrc": "ushm81743674"
+  },
+  {
+    "title": "O Bêbado e a Equilibrista",
+    "artist": "Mario Ulloa, Daniel Guedes",
+    "isrc": "BRBG61000029"
+  },
+  {
+    "title": "Si Te Vas - Live",
+    "artist": "Los Hicsos",
+    "isrc": "GX89G2493559"
+  },
+  {
+    "title": "Sereno",
+    "artist": "Manantial CR",
+    "isrc": "CH6542235654"
+  },
+  {
+    "title": "Barco del Tiempo",
+    "artist": "Debi Nova, Kany García",
+    "isrc": "USSD12400157"
+  },
+  {
+    "title": "Acércate (Feat. Son de Tikizia)",
+    "artist": "Tamela Hedström",
+    "isrc": "usx9p1121942"
+  },
+  {
+    "title": "Recuérdame",
+    "artist": "Escats",
+    "isrc": "usdy42004601"
+  },
+  {
+    "title": "Nowhere Like Limón",
+    "artist": "Herberth Glinton",
+    "isrc": "cra020608002"
+  },
+  {
+    "title": "Enciende El Fuego",
+    "artist": "Förë Movimiento Afro",
+    "isrc": "TCAER2092868"
+  },
+  {
+    "title": "Ella Es de Vidrio (2004 Recycled Demo)",
+    "artist": "Francisco Murillo",
+    "isrc": "USHM22474690"
+  },
+  {
+    "title": "Vete Durmiendo",
+    "artist": "Elena y la Orquesta Lunar, Elena Zúñiga Escobar",
+    "isrc": "USHM91757557"
+  },
+  {
+    "title": "Ven Dame Tu Amor",
+    "artist": "Café Con Leche",
+    "isrc": "ITG621300108"
+  },
+  {
+    "title": "Calypso in Port Limón",
+    "artist": "Kawe Calypso",
+    "isrc": "usl4q2096491"
+  },
+  {
+    "title": "Ayudame a Olvidar",
+    "artist": "Abracadabra",
+    "isrc": "USJ3V1455711"
+  },
+  {
+    "title": "Retoño",
+    "artist": "David Coto",
+    "isrc": "ushm81821266"
+  },
+  {
+    "title": "Aunque Quieras",
+    "artist": "Nakury",
+    "isrc": "US7VG1739117"
+  },
+  {
+    "title": "Apología (Palestina Libre)",
+    "artist": "Wilson Arroyo",
+    "isrc": "USX9P2308466"
+  },
+  {
+    "title": "Mango Verde",
+    "artist": "Laura Ureña",
+    "isrc": "QZNJV2101363"
+  },
+  {
+    "title": "Puntarenas (En Vivo)",
+    "artist": "Orquesta Sinfónica Nacional de Costa Rica",
+    "isrc": "USCGH1953209"
+  },
+  {
+    "title": "Tropa del 56",
+    "artist": "Banda Municipal de Goicoechea",
+    "isrc": "QM9AA1660471"
+  },
+  {
+    "title": "La Porteña y el Cartago",
+    "artist": "Bryan Huertas y El Muelle",
+    "isrc": "GB-SMU-49-12919"
+  },
+  {
+    "title": "Zancudo",
+    "artist": "Cyril Sylvan",
+    "isrc": "cra020608010"
+  },
+  {
+    "title": "Tierra de Mi Corazón",
+    "artist": "Enredadera",
+    "isrc": "ushm81955624"
+  },
+  {
+    "title": "El Hombre Macho",
+    "artist": "Max Goldenberg & Fidel Gamboa",
+    "isrc": "cra020507016"
+  },
+  {
+    "title": "Serenata",
+    "artist": "Max Goldenberg, Odilón & Santos Juárez",
+    "isrc": "cra020507008"
+  },
+  {
+    "title": "Liberianita",
+    "artist": "Odilón & Santos Juárez",
+    "isrc": "cra020507004"
+  },
+  {
+    "title": "Maria",
+    "artist": "Reynaldo Kenton",
+    "isrc": "cra020608005"
+  },
+  {
+    "title": "Rum",
+    "artist": "Roberto Watts",
+    "isrc": "cra020608004"
+  },
+  {
+    "title": "Nowhere Like Limon",
+    "artist": "The Big Wahu Caribbean Band",
+    "isrc": "usx9p1109832"
+  },
+  {
+    "title": "Orgullo de Mi País Costa Rica",
+    "artist": "Tulio Alberto Alfaro",
+    "isrc": "usx9p1451697"
+  },
+  {
+    "title": "El Ermitaño",
+    "artist": "Max Goldenberg, Malpaís, La Espantaperros",
+    "isrc": "TCADA1796435"
+  },
+  {
+    "title": "El Portoncito",
+    "artist": "Max Goldenberg, Odilón Juárez & Malpaís",
+    "isrc": "cra020503008"
+  },
+  {
+    "title": "Tonos Sepia",
+    "artist": "Humberto Vargas",
+    "isrc": "TCACP1680139"
+  },
+  {
+    "title": "País Azul",
+    "artist": "Guadalupe Urbina",
+    "isrc": "USHM80813916"
+  },
+  {
+    "title": "Cancion del oficio",
+    "artist": "Cantoamerica",
+    "isrc": "DEN720300517"
+  },
+  {
+    "title": "Agosto",
+    "artist": "María Pretiz",
+    "isrc": "ushm91269497"
+  },
+  {
+    "title": "Canela Y Miel",
+    "artist": "Malpaís",
+    "isrc": "TCACD1510442"
+  },
+  {
+    "title": "Conversación con Jilgueros",
+    "artist": "Manuel Obregón",
+    "isrc": "SEYOK1429986"
+  },
+  {
+    "title": "Juanas",
+    "artist": "Compania Folclorica Matambu",
+    "isrc": "GBCKG0500219"
+  },
+  {
+    "title": "Sabes Qué?",
+    "artist": "Adrián Goizueta",
+    "isrc": "ARA190500960"
+  },
+  {
+    "title": "Muchacha y Luna - En Vivo",
+    "artist": "Fidel Gamboa, Editus Orquesta, Arnoldo Castillo",
+    "isrc": "uscgj2266938"
+  },
+  {
+    "title": "Going To Bocas",
+    "artist": "Walter Ferguson",
+    "isrc": "cra030501014"
+  },
+  {
+    "title": "Preme y Alevo",
+    "artist": "Carlos Guzmán",
+    "isrc": "ushm81163140"
+  },
+  {
+    "title": "A Cornizuelo y a Guapinol",
+    "artist": "Max Goldenberg, Olman Briceño, COYOL",
+    "isrc": "uscgh1684105"
+  },
+  {
+    "title": "Rico y Sabroso",
+    "artist": "Cimarrona La Original Domingueña",
+    "isrc": "TCACK1577926"
+  },
+  {
+    "title": "Linda Costa Rica",
+    "artist": "Mauricio Penagos Villegas",
+    "isrc": "ushm21637458"
+  },
+  {
+    "title": "25 de Julio",
+    "artist": "Trio Contradanza",
+    "isrc": "FR6V80715008"
+  },
+  {
+    "title": "Ella",
+    "artist": "Gaviota",
+    "isrc": "ushm21854980"
+  },
+  {
+    "title": "Santa Cruz",
+    "artist": "Los Chocuacos",
+    "isrc": "GBMJG1901589"
+  },
+  {
+    "title": "Violencia",
+    "artist": "Gerardo Y Los Hicsos",
+    "isrc": "TCADG1740081"
+  },
+  {
+    "title": "Canta Guanacaste",
+    "artist": "Tierra Nueva",
+    "isrc": "usl4r1935553"
+  },
+  {
+    "title": "De Material Sensible - 1999",
+    "artist": "Esteban Monge",
+    "isrc": "QZHZ51920505"
+  },
+  {
+    "title": "Costa Rica",
+    "artist": "Son De Tikizia",
+    "isrc": "ushm81502444"
+  },
+  {
+    "title": "Lejos de Casa",
+    "artist": "Olman Briceño",
+    "isrc": "QMAAK1631126"
+  },
+  {
+    "title": "Profanar",
+    "artist": "Suite Doble",
+    "isrc": "TCACO1618737"
+  },
+  {
+    "title": "Danza en el Bosque",
+    "artist": "Peregrino Gris",
+    "isrc": "ushm81985167"
+  },
+  {
+    "title": "Como Luna Creciente",
+    "artist": "Bernardo Quesada",
+    "isrc": "QZES61986211"
+  },
+  {
+    "title": "Llevarte al Mar",
+    "artist": "Manuel Monestel",
+    "isrc": "uscgh1880393"
+  },
+  {
+    "title": "¿sabes Qué?",
+    "artist": "Adrián Goizueta y el Experimental",
+    "isrc": "ARA191501798"
+  },
+  {
+    "title": "Tresesenta",
+    "artist": "Editus",
+    "isrc": "ushm21506496"
+  },
+  {
+    "title": "Infame o Canalla",
+    "artist": "Luis Angel Castro",
+    "isrc": "uscgj1686514"
+  },
+  {
+    "title": "Nuestro Amor Comenzó a Vivir",
+    "artist": "Arnoldo Castillo",
+    "isrc": "USHM22343396"
+  },
+  {
+    "title": "Azul",
+    "artist": "Tango India",
+    "isrc": "TCACN1670846"
+  },
+  {
+    "title": "Pasado Presente",
+    "artist": "Grupo Quelite",
+    "isrc": "QMPKX1804618"
+  },
+  {
+    "title": "Me Lo Dijo el Río",
+    "artist": "Nelly X Arend",
+    "isrc": "usdy41982089"
+  },
+  {
+    "title": "La Historia Salvaje (Gloria)",
+    "artist": "José Capmany, Café Con Leche",
+    "isrc": "USLZJ2402590"
+  },
+  {
+    "title": "Somos Costa Rica",
+    "artist": "Orianna Chacón",
+    "isrc": "ushm81830274"
+  },
+  {
+    "title": "Ella Se Mira",
+    "artist": "Juan Carlos Ureña y Oveja Negra",
+    "isrc": "RUA1H1522683"
+  },
+  {
+    "title": "Menéalo (Version Lp)",
+    "artist": "Marfil",
+    "isrc": "uscgj1811570"
+  },
+  {
+    "title": "La Maraca",
+    "artist": "Sonámbulo",
+    "isrc": "ushm91462364"
+  },
+  {
+    "title": "Quinchillo el Matón (feat. Emeterio Viales)",
+    "artist": "Emeterio, Carlos Guzmán, Emeterio Viales",
+    "isrc": "ushm21529128"
+  },
+  {
+    "title": "Eso Es Imposible - En Vivo",
+    "artist": "Ray Tico, Editus Orquesta, Arnoldo Castillo",
+    "isrc": "uscgj2266941"
+  },
+  {
+    "title": "Anclado al Aire",
+    "artist": "Perrozompopo",
+    "isrc": "GTA031600448"
+  },
+  {
+    "title": "Caballero",
+    "artist": "Calavera y la Canalla",
+    "isrc": "GBMJG1412888"
+  },
+  {
+    "title": "Déjame Amarte",
+    "artist": "Joaquín Yglesias, Priscilla Díaz",
+    "isrc": "ushm22236295"
+  },
+  {
+    "title": "Tan Lejos",
+    "artist": "Kadeho",
+    "isrc": "USDHM1919431"
+  },
+  {
+    "title": "Ventana al cielo",
+    "artist": "Oscar Jiménez Fernández",
+    "isrc": "QZTB22324907"
+  },
+  {
+    "title": "De mañana En Adelante",
+    "artist": "La Pandylla",
+    "isrc": "GX8LD2350146"
+  },
+  {
+    "title": "Hoy Te Doy La Mitad De Lo Que Soy",
+    "artist": "Orquesta Filarmónica de Costa Rica",
+    "isrc": "TCAET2048926"
+  },
+  {
+    "title": "One Pant Man",
+    "artist": "Manuel Monestel",
+    "isrc": "uscgj2061351"
+  },
+  {
+    "title": "Corazón Roto",
+    "artist": "Rialengo",
+    "isrc": "ushm21660576"
+  },
+  {
+    "title": "Piel Morena",
+    "artist": "Grupo Patria Costa Rica",
+    "isrc": "usl4q1844474"
+  },
+  {
+    "title": "Moonlight (En Vivo)",
+    "artist": "Passiflora",
+    "isrc": "uscgh1440553"
+  },
+  {
+    "title": "Sol de mi tierra",
+    "artist": "Mauricio Piedra",
+    "isrc": "QZDA42263699"
+  },
+  {
+    "title": "Me Has Dejado de Amar",
+    "artist": "Los Alegrisimos",
+    "isrc": "CH6542233508"
+  },
+  {
+    "title": "Ticolandia",
+    "artist": "Christian Porras",
+    "isrc": "usl4r2128902"
+  },
+  {
+    "title": "Ya No Me Importa",
+    "artist": "Elena Umaña",
+    "isrc": "USL4R2387847"
+  },
+  {
+    "title": "Quedate",
+    "artist": "Abracadabra CR",
+    "isrc": "CH6542152058"
+  },
+  {
+    "title": "Albores",
+    "artist": "Ensamble Étnico Mestizzo",
+    "isrc": "uscgj1698135"
+  },
+  {
+    "title": "Ay Amor",
+    "artist": "República Fortuna, Los Caligaris",
+    "isrc": "ushm91849852"
+  },
+  {
+    "title": "Háblame",
+    "artist": "Cuarteto de Guitarras de Costa Rica, María Pretiz",
+    "isrc": "QZ9JZ1783819"
+  },
+  {
+    "title": "El Pipiribao",
+    "artist": "Jaque Mate Costa Rica",
+    "isrc": "CH6542236705"
+  },
+  {
+    "title": "Piel Morena",
+    "artist": "Maf É Tulà",
+    "isrc": "QZDA71886773"
+  },
+  {
+    "title": "Not a Pugilist",
+    "artist": "Walter Gavitt Ferguson",
+    "isrc": "CHA831994408"
+  },
+  {
+    "title": "Estrellita Fugaz",
+    "artist": "Max Goldenberg, Malpaís, La Espantaperros",
+    "isrc": "TCADA1796427"
+  },
+  {
+    "title": "La Cofradía",
+    "artist": "Max Goldenberg, Odilón Juárez & Malpaís",
+    "isrc": "cra020503013"
+  },
+  {
+    "title": "Dónde Estarás",
+    "artist": "Humberto Vargas",
+    "isrc": "TCACP1680894"
+  },
+  {
+    "title": "La Cumbia de la Niña",
+    "artist": "Guadalupe Urbina, Tocá el Tambó, Orquesta de las Selvas Tropicales",
+    "isrc": "QZTLA2202502"
+  },
+  {
+    "title": "Maria Calypso",
+    "artist": "Cantoamerica",
+    "isrc": "DEN720300524"
+  },
+  {
+    "title": "Jardines",
+    "artist": "María Pretiz",
+    "isrc": "ushm21696554"
+  },
+  {
+    "title": "Malpaís",
+    "artist": "Malpaís",
+    "isrc": "TCACD1506498"
+  },
+  {
+    "title": "Preludio",
+    "artist": "Manuel Obregón",
+    "isrc": "SEYOK1429985"
+  },
+  {
+    "title": "Rice and Beans",
+    "artist": "Compania Folclorica Matambu",
+    "isrc": "GBCKG0500223"
+  },
+  {
+    "title": "Presagio",
+    "artist": "Adrián Goizueta",
+    "isrc": "ARA190500963"
+  },
+  {
+    "title": "Presagio - En Vivo",
+    "artist": "Fidel Gamboa",
+    "isrc": "GBLFP1833822"
+  },
+  {
+    "title": "Callaloo",
+    "artist": "Walter Ferguson",
+    "isrc": "cra030501001"
+  },
+  {
+    "title": "Costa Rica Baila y Canta",
+    "artist": "Carlos Guzmán",
+    "isrc": "ushm91457773"
+  },
+  {
+    "title": "Ojos Verdes",
+    "artist": "Max Goldenberg, Olman Briceño, COYOL",
+    "isrc": "uscgh1684103"
+  },
+  {
+    "title": "Mix de Parranderas",
+    "artist": "Cimarrona La Original Domingueña",
+    "isrc": "TCACK1577917"
+  },
+  {
+    "title": "Tico de Corazón",
+    "artist": "Mauricio Penagos Villegas",
+    "isrc": "ushm21637448"
+  },
+  {
+    "title": "Pariente",
+    "artist": "Trio Contradanza",
+    "isrc": "FR6V80715014"
+  },
+  {
+    "title": "Gaviota",
+    "artist": "Gaviota",
+    "isrc": "MXF670700005"
+  },
+  {
+    "title": "El Capricho",
+    "artist": "Los Chocuacos",
+    "isrc": "GBMJG1901590"
+  },
+  {
+    "title": "Si Supieras",
+    "artist": "Gerardo Y Los Hicsos",
+    "isrc": "TCADG1740266"
+  },
+  {
+    "title": "Esperanza de Mi Tierra",
+    "artist": "Tierra Nueva",
+    "isrc": "usl4r1935561"
+  },
+  {
+    "title": "Buscándome - 1999",
+    "artist": "Esteban Monge",
+    "isrc": "QZHZ51920495"
+  },
+  {
+    "title": "Juan Soledad",
+    "artist": "Son De Tikizia",
+    "isrc": "uscgj1031050"
+  },
+  {
+    "title": "Ilusión",
+    "artist": "Olman Briceño",
+    "isrc": "QMAAK1631127"
+  },
+  {
+    "title": "Síntesis",
+    "artist": "Peregrino Gris",
+    "isrc": "uscgh1588553"
+  },
+  {
+    "title": "Dime (Qué Puedo Hacer Sin Tí)",
+    "artist": "Suite Doble",
+    "isrc": "TCACO1621293"
+  },
+  {
+    "title": "Solo un Ángel",
+    "artist": "Bernardo Quesada, Daniela Rodriguez",
+    "isrc": "QZES61986221"
+  },
+  {
+    "title": "All I Have Is a Cat",
+    "artist": "Manuel Monestel",
+    "isrc": "RUA1H1537782"
+  },
+  {
+    "title": "Compañera - Long Version",
+    "artist": "Adrián Goizueta y el Experimental",
+    "isrc": "ARA191501806"
+  },
+  {
+    "title": "Time Travel",
+    "artist": "Editus",
+    "isrc": "ushm21506495"
+  },
+  {
+    "title": "Ciudad Perdida",
+    "artist": "Luis Angel Castro",
+    "isrc": "uscgj1686511"
+  },
+  {
+    "title": "Preso",
+    "artist": "Arnoldo Castillo",
+    "isrc": "USDY42176575"
+  },
+  {
+    "title": "Héroes",
+    "artist": "Grupo Quelite",
+    "isrc": "QMPKX1804620"
+  }
+]

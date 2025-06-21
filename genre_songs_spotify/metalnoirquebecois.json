@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Frigid and Spellbound",
+    "artist": "Spectral Wound",
+    "isrc": "USN682125502"
+  },
+  {
+    "title": "Rivières rompues",
+    "artist": "Cantique Lépreux",
+    "isrc": "DEPI82325403"
+  },
+  {
+    "title": "The Green Enchanted Forest of the Druid Wizard",
+    "artist": "Ifernach",
+    "isrc": "TCAEX2081681"
+  },
+  {
+    "title": "Adieu",
+    "artist": "Nordicwinter",
+    "isrc": "GBSMU0076887"
+  },
+  {
+    "title": "La mort du Prince Noir",
+    "artist": "Csejthe",
+    "isrc": "uscgj2092793"
+  },
+  {
+    "title": "La Quintessence Du Mal",
+    "artist": "Monarque",
+    "isrc": "USI4R1132688"
+  },
+  {
+    "title": "The Winter Nightsky",
+    "artist": "Sorcier Des Glaces",
+    "isrc": "FR4E62201190"
+  },
+  {
+    "title": "Noir fauve",
+    "artist": "Miserere Luminis",
+    "isrc": "CBCQF2300001"
+  },
+  {
+    "title": "Ne perdez jamais espoir",
+    "artist": "Akitsa",
+    "isrc": "USA2Z1310341"
+  },
+  {
+    "title": "Hymne III",
+    "artist": "Neige et Noirceur",
+    "isrc": "USI4R1132693"
+  },
+  {
+    "title": "Marthe Robin (1902-1981)",
+    "artist": "Givre",
+    "isrc": "DEPI82325413"
+  },
+  {
+    "title": "Les forges",
+    "artist": "Gris",
+    "isrc": "QZWFP2351394"
+  },
+  {
+    "title": "Urgence aveugle, lames glissantes",
+    "artist": "Malebranche",
+    "isrc": "QZNWX2147458"
+  },
+  {
+    "title": "Ostara",
+    "artist": "Grimoire",
+    "isrc": "USA2P1644009"
+  },
+  {
+    "title": "Aliénation",
+    "artist": "Trépas",
+    "isrc": "QZPLS2333801"
+  },
+  {
+    "title": "Chasse Obscène",
+    "artist": "Délétère",
+    "isrc": "QZWFP2349971"
+  },
+  {
+    "title": "As Old As Time Itself",
+    "artist": "Frozen Shadows",
+    "isrc": "FR7M00409101"
+  },
+  {
+    "title": "Burning Rebellion",
+    "artist": "Blinded by Faith",
+    "isrc": "USA2P1133516"
+  },
+  {
+    "title": "Apitipik : Vers l'orphelinat",
+    "artist": "Boréalys",
+    "isrc": "QZNWZ2352457"
+  },
+  {
+    "title": "Avilissement",
+    "artist": "Incandescence",
+    "isrc": "USN682227801"
+  },
+  {
+    "title": "At the Orient of Eden",
+    "artist": "Gevurah",
+    "isrc": "FXQ112100036"
+  },
+  {
+    "title": "Mille nuits ont passé",
+    "artist": "Sacrenoir",
+    "isrc": "QZPLS2333178"
+  },
+  {
+    "title": "Full of Hate",
+    "artist": "Dépérir",
+    "isrc": "ushm82215827"
+  },
+  {
+    "title": "The apology of nothingness",
+    "artist": "Spirit of Rebellion",
+    "isrc": "QZFYY2284343"
+  },
+  {
+    "title": "Onirique",
+    "artist": "Orphique",
+    "isrc": "QZFZ42332149"
+  },
+  {
+    "title": "In Memoriam",
+    "artist": "Obscurcis Romancia",
+    "isrc": "CA6NS1100007"
+  },
+  {
+    "title": "The Rise",
+    "artist": "Valfreya",
+    "isrc": "USHM22418389"
+  },
+  {
+    "title": "They Say Their Screams Can Still Be Heard",
+    "artist": "Hands of Despair",
+    "isrc": "CA7PN2100001"
+  },
+  {
+    "title": "Ciel étoilé",
+    "artist": "Ciel Nordique",
+    "isrc": "QZES82091207"
+  },
+  {
+    "title": "Liberty",
+    "artist": "Strigampire",
+    "isrc": "QZTB82377420"
+  },
+  {
+    "title": "Le Rapace Et Sa Faux",
+    "artist": "Ur Falc'h",
+    "isrc": "USI4R0909527"
+  },
+  {
+    "title": "Motörcrust",
+    "artist": "Saccage",
+    "isrc": "QZHN41959334"
+  },
+  {
+    "title": "Sick Seed Eradication",
+    "artist": "Profane Order",
+    "isrc": "QZWFN2307917"
+  },
+  {
+    "title": "The Mirror of My Punishment",
+    "artist": "The Unconscious Mind",
+    "isrc": "usx9p1247303"
+  },
+  {
+    "title": "Ataraxie",
+    "artist": "Verglas Sanglant",
+    "isrc": "QZHN52054763"
+  },
+  {
+    "title": "Amok",
+    "artist": "Morgue",
+    "isrc": "uscgj1730116"
+  },
+  {
+    "title": "La bataille de Maldon",
+    "artist": "Valknacht",
+    "isrc": "USY251372746"
+  },
+  {
+    "title": "Scarification",
+    "artist": "Cryptik Howling",
+    "isrc": "uscgj1029945"
+  },
+  {
+    "title": "Condemned To Desolation",
+    "artist": "Erimha",
+    "isrc": "USVIC1369403"
+  },
+  {
+    "title": "Of Forests and Troubled Pasts",
+    "artist": "Maeskyyrn",
+    "isrc": "QZDA72042444"
+  },
+  {
+    "title": "Sacred Desire",
+    "artist": "Daedalean Complex",
+    "isrc": "ushm81690886"
+  },
+  {
+    "title": "Mg42",
+    "artist": "Hak​-​Ed Damm",
+    "isrc": "QMBZ91766799"
+  },
+  {
+    "title": "Cosmic Collision",
+    "artist": "Vehemal",
+    "isrc": "CAM041200003"
+  },
+  {
+    "title": "Ce que le corps doit au sol",
+    "artist": "Basalte",
+    "isrc": "CAI1L1704801"
+  },
+  {
+    "title": "A Journey with No Dawn",
+    "artist": "Black Empire",
+    "isrc": "CAAVI1800001"
+  },
+  {
+    "title": "Le lendemain",
+    "artist": "Vitrail",
+    "isrc": "QZTB82251456"
+  },
+  {
+    "title": "Les Lieur Eternels",
+    "artist": "Heretic Blood",
+    "isrc": "USI4R0909510"
+  },
+  {
+    "title": "Lonely Warrior in the Ruins of Time",
+    "artist": "Keys of Orthanc",
+    "isrc": "ESA012072705"
+  },
+  {
+    "title": "Annihilation Frenzy",
+    "artist": "Rage Nucléaire",
+    "isrc": "FR33T1485501"
+  },
+  {
+    "title": "Unreached Dreams",
+    "artist": "Smirking Revenge",
+    "isrc": "QM4DW1714094"
+  },
+  {
+    "title": "Perverted Blasphemy",
+    "artist": "Goathammer",
+    "isrc": "usdy41965375"
+  },
+  {
+    "title": "La fissure céleste",
+    "artist": "Nälzer",
+    "isrc": "CAAXS1600005"
+  },
+  {
+    "title": "Tie it around my Neck",
+    "artist": "Ordoxe",
+    "isrc": "USXQS1511539"
+  },
+  {
+    "title": "La Fureur Venue Du Nord",
+    "artist": "Triskèle",
+    "isrc": "ESA012014166"
+  },
+  {
+    "title": "Snow",
+    "artist": "Hollow",
+    "isrc": "ushm21430423"
+  },
+  {
+    "title": "Identité dissociative",
+    "artist": "Wendess",
+    "isrc": "USQY51785909"
+  },
+  {
+    "title": "Pillar Of Creation",
+    "artist": "The Lightbringer",
+    "isrc": "CABZT2400005"
+  },
+  {
+    "title": "Snow",
+    "artist": "Anna Pest, Sterling Bidler",
+    "isrc": "QZHN42300620"
+  },
+  {
+    "title": "Circles",
+    "artist": "Alpthraum",
+    "isrc": "CA9X51300004"
+  },
+  {
+    "title": "Shiva God Of Destruction",
+    "artist": "Anhkrehg",
+    "isrc": "USA2P1133566"
+  },
+  {
+    "title": "Ressacs de l'âme",
+    "artist": "Catuvolcus",
+    "isrc": "TCABQ1327991"
+  },
+  {
+    "title": "Suffer the Cold",
+    "artist": "Circle of Salt",
+    "isrc": "QM7281794304"
+  },
+  {
+    "title": "Carthusian Monastery",
+    "artist": "Endless Horizon",
+    "isrc": "NLPM11403453"
+  },
+  {
+    "title": "Whore of Babylon",
+    "artist": "Episcopal Holocaust",
+    "isrc": "GB-SMU-54-50017"
+  },
+  {
+    "title": "Hell Marches to War",
+    "artist": "Evil Wrath",
+    "isrc": "USI4R0915775"
+  },
+  {
+    "title": "Là où nous allons",
+    "artist": "Forteresse",
+    "isrc": "SE6SA2096224"
+  },
+  {
+    "title": "Sigil Seal",
+    "artist": "Frostbite",
+    "isrc": "CA2W51502971"
+  },
+  {
+    "title": "Whispering",
+    "artist": "Heirdrain",
+    "isrc": "MXC811990206"
+  },
+  {
+    "title": "Solar Pulsation",
+    "artist": "Inextalis",
+    "isrc": "ushm81320657"
+  },
+  {
+    "title": "The Betrayal",
+    "artist": "Issfenn",
+    "isrc": "CA53F1000001"
+  },
+  {
+    "title": "Des Pas Dans la Neige",
+    "artist": "Janvier",
+    "isrc": "QZ4JJ1792122"
+  },
+  {
+    "title": "Awaking Terror",
+    "artist": "Korpius",
+    "isrc": "ushm21315802"
+  },
+  {
+    "title": "La Pluie Noire",
+    "artist": "Lacrimae Mortalium",
+    "isrc": "QZAPG1723298"
+  },
+  {
+    "title": "Soldier",
+    "artist": "Legion of Decadence",
+    "isrc": "USHM22422369"
+  },
+  {
+    "title": "Blizzard king",
+    "artist": "Magister Dixit",
+    "isrc": "USY251365444"
+  },
+  {
+    "title": "Ginnungagap",
+    "artist": "Maléfice",
+    "isrc": "UK-CVA-16-02353"
+  },
+  {
+    "title": "The Die is Cast",
+    "artist": "Menace Ruine",
+    "isrc": "CAAB50810053"
+  },
+  {
+    "title": "Les Yeux De La Forêt",
+    "artist": "Nachteule",
+    "isrc": "QM2PV1843373"
+  },
+  {
+    "title": "Fragments of Poisoned Components",
+    "artist": "Nefastus Dies",
+    "isrc": "GBSOA0801401"
+  },
+  {
+    "title": "Arracheur d'âmes",
+    "artist": "Porteur de Lumière",
+    "isrc": "uscgh1862426"
+  },
+  {
+    "title": "Pleure",
+    "artist": "Présages",
+    "isrc": "GBSMU9598424"
+  },
+  {
+    "title": "Tout ce qu'il reste",
+    "artist": "Seventh",
+    "isrc": "QZHN42474524"
+  },
+  {
+    "title": "Divine conspiration",
+    "artist": "Some Happy Thoughts",
+    "isrc": "TCADC1750486"
+  },
+  {
+    "title": "Macabre Sunset Over the Northland",
+    "artist": "Sorcier des Glaces",
+    "isrc": "USI4R1221938"
+  },
+  {
+    "title": "For The North",
+    "artist": "Svalbard",
+    "isrc": "uscgh1639576"
+  },
+  {
+    "title": "Broken Seal",
+    "artist": "Vladimyr Bathory",
+    "isrc": "TCACQ1645698"
+  },
+  {
+    "title": "Сънят на героя",
+    "artist": "Цар стангра",
+    "isrc": "CAAJA1600008"
+  },
+  {
+    "title": "Imperial Saison Noire",
+    "artist": "Spectral Wound",
+    "isrc": "USN682125501"
+  },
+  {
+    "title": "Le ravissement",
+    "artist": "Cantique Lépreux",
+    "isrc": "DEPI82325401"
+  },
+  {
+    "title": "Black Metal Butchery",
+    "artist": "Ifernach",
+    "isrc": "TCAEX2081668"
+  },
+  {
+    "title": "La Nuit",
+    "artist": "Nordicwinter",
+    "isrc": "GBSMU0076886"
+  },
+  {
+    "title": "La redoutable ascendance",
+    "artist": "Csejthe",
+    "isrc": "uscgj2092796"
+  },
+  {
+    "title": "Cancer Maladroit",
+    "artist": "Monarque",
+    "isrc": "USI4R1132690"
+  },
+  {
+    "title": "Le sang des rêves",
+    "artist": "Miserere Luminis",
+    "isrc": "CBCQF2300002"
+  },
+  {
+    "title": "Deathlike Silence",
+    "artist": "Sorcier Des Glaces",
+    "isrc": "FR4E62300010"
+  },
+  {
+    "title": "La Grande Infamie",
+    "artist": "Akitsa",
+    "isrc": "USA2Z1010655"
+  },
+  {
+    "title": "Hymne VI",
+    "artist": "Neige et Noirceur",
+    "isrc": "UK-CVA-17-00687"
+  },
+  {
+    "title": "Louise du Néant (1639-1694)",
+    "artist": "Givre",
+    "isrc": "DEPI82325414"
+  },
+  {
+    "title": "Lente intrusion d'une épine qui ne sortira jamais",
+    "artist": "Malebranche",
+    "isrc": "QZNWX2147457"
+  },
+  {
+    "title": "L'aube",
+    "artist": "Gris",
+    "isrc": "QZWFP2351392"
+  },
+  {
+    "title": "Tragédie des ombres",
+    "artist": "Grimoire",
+    "isrc": "USQY51513610"
+  },
+  {
+    "title": "Le Manque Onirique",
+    "artist": "Trépas",
+    "isrc": "QZPLS2333805"
+  },
+  {
+    "title": "Sacre de la Perversion",
+    "artist": "Délétère",
+    "isrc": "QZWFP2349972"
+  },
+  {
+    "title": "À L'ombre Du Mal",
+    "artist": "Frozen Shadows",
+    "isrc": "FR7M00409104"
+  },
+  {
+    "title": "A Perfect Imperfection",
+    "artist": "Blinded by Faith",
+    "isrc": "USA2P1133515"
+  },
+  {
+    "title": "Harricana : La soeur",
+    "artist": "Boréalys",
+    "isrc": "QZNWZ2352458"
+  },
+  {
+    "title": "Tréfonds macabres",
+    "artist": "Incandescence",
+    "isrc": "USN682227802"
+  },
+  {
+    "title": "Blood-Soaked Katabasis",
+    "artist": "Gevurah",
+    "isrc": "FXQ112100037"
+  },
+  {
+    "title": "Aux portes de l'enfer",
+    "artist": "Sacrenoir",
+    "isrc": "QZPLS2333184"
+  },
+  {
+    "title": "Deathsaw",
+    "artist": "Dépérir",
+    "isrc": "ushm82215829"
+  },
+  {
+    "title": "ACT OF REBELLION",
+    "artist": "Spirit of Rebellion",
+    "isrc": "QZFYY2284315"
+  },
+  {
+    "title": "Vampirique",
+    "artist": "Orphique",
+    "isrc": "QZFZ42332150"
+  },
+  {
+    "title": "Awakening In Spiritual Madness",
+    "artist": "Obscurcis Romancia",
+    "isrc": "CA6NS1100001"
+  },
+  {
+    "title": "Le Périple",
+    "artist": "Valfreya",
+    "isrc": "USHM22418396"
+  },
+  {
+    "title": "L'invasion, I: Encres troubles",
+    "artist": "Hands of Despair",
+    "isrc": "CA7PN1800001"
+  },
+  {
+    "title": "Dead Of Night",
+    "artist": "Strigampire",
+    "isrc": "QZHN52161290"
+  },
+  {
+    "title": "Mon fils",
+    "artist": "Ciel Nordique",
+    "isrc": "QZES82091204"
+  },
+  {
+    "title": "Prisonniers DE La Tourmente",
+    "artist": "Ur Falc'h",
+    "isrc": "USI4R0909525"
+  },
+  {
+    "title": "Jump le train pour l'enfer",
+    "artist": "Saccage",
+    "isrc": "QZHN41959336"
+  },
+  {
+    "title": "In The Shadows Of The Past",
+    "artist": "Profane Order",
+    "isrc": "QZDA52393089"
+  },
+  {
+    "title": "After Illusion",
+    "artist": "The Unconscious Mind",
+    "isrc": "usx9p1247301"
+  },
+  {
+    "title": "Tempête de Tourments",
+    "artist": "Verglas Sanglant",
+    "isrc": "QZHN52054760"
+  },
+  {
+    "title": "God Abort",
+    "artist": "Morgue",
+    "isrc": "uscgj1730117"
+  },
+  {
+    "title": "Le sacrifice d'Ymir",
+    "artist": "Valknacht",
+    "isrc": "USY251372749"
+  },
+  {
+    "title": "Between",
+    "artist": "Cryptik Howling",
+    "isrc": "uscgj1029943"
+  },
+  {
+    "title": "Verdict Of The Soul",
+    "artist": "Erimha",
+    "isrc": "USVIC1369407"
+  },
+  {
+    "title": "These Battlefields, Where None Walk Twice",
+    "artist": "Maeskyyrn",
+    "isrc": "QZDA72042440"
+  },
+  {
+    "title": "The Fall of Icarus",
+    "artist": "Daedalean Complex",
+    "isrc": "usx9p2085856"
+  },
+  {
+    "title": "Edelweiss",
+    "artist": "Hak​-​Ed Damm",
+    "isrc": "QMBZ91766797"
+  },
+  {
+    "title": "Avenge the Earth",
+    "artist": "Vehemal",
+    "isrc": "CAM041200007"
+  },
+  {
+    "title": "Hémorragie céleste",
+    "artist": "Basalte",
+    "isrc": "QZNWV2081108"
+  },
+  {
+    "title": "For the Flag",
+    "artist": "Black Empire",
+    "isrc": "uscgh1417992"
+  },
+  {
+    "title": "Le mépris du monde",
+    "artist": "Vitrail",
+    "isrc": "QZTB82251457"
+  },
+  {
+    "title": "Jamais NE Meurt La Nuit",
+    "artist": "Heretic Blood",
+    "isrc": "USI4R0909512"
+  },
+  {
+    "title": "The Last Alliance",
+    "artist": "Keys of Orthanc",
+    "isrc": "ESA011782737"
+  },
+  {
+    "title": "Hunt with Murderworms, Sculpt with Flies",
+    "artist": "Rage Nucléaire",
+    "isrc": "FR33T1282702"
+  },
+  {
+    "title": "Warriors",
+    "artist": "Smirking Revenge",
+    "isrc": "QM4DW1714095"
+  },
+  {
+    "title": "Arcane Destruction Spell",
+    "artist": "Goathammer",
+    "isrc": "usdy41965372"
+  },
+  {
+    "title": "Nigrum blasphemia",
+    "artist": "Nälzer",
+    "isrc": "CAAXS1600002"
+  },
+  {
+    "title": "God Doesn’t Care",
+    "artist": "Ordoxe",
+    "isrc": "USXQS1511529"
+  },
+  {
+    "title": "Landscape",
+    "artist": "Hollow",
+    "isrc": "ushm21430418"
+  },
+  {
+    "title": "Nostalgie nocturne",
+    "artist": "Wendess",
+    "isrc": "USQY51785912"
+  },
+  {
+    "title": "Embodiment",
+    "artist": "The Lightbringer",
+    "isrc": "CABZT2400001"
+  },
+  {
+    "title": "Spirals",
+    "artist": "Alpthraum",
+    "isrc": "CA9X51300005"
+  },
+  {
+    "title": "Against You All",
+    "artist": "Anhkrehg",
+    "isrc": "USA2P1133559"
+  },
+  {
+    "title": "Skyward",
+    "artist": "Anna Pest, D.Are",
+    "isrc": "QZMEP2043870"
+  },
+  {
+    "title": "Fuir",
+    "artist": "Cantique Lépreux",
+    "isrc": "DEPI82325402"
+  },
+  {
+    "title": "Soul Destroying Black Debauchery",
+    "artist": "Spectral Wound",
+    "isrc": "USN682125503"
+  },
+  {
+    "title": "Oubliettes",
+    "artist": "Monarque",
+    "isrc": "USI4R1132692"
+  },
+  {
+    "title": "Gathering Archangels",
+    "artist": "Ifernach",
+    "isrc": "TCAGB2213762"
+  },
+  {
+    "title": "Le sang d'harczy",
+    "artist": "Csejthe",
+    "isrc": "uscgj2092794"
+  },
+  {
+    "title": "Le corbillard",
+    "artist": "Nordicwinter",
+    "isrc": "GBSMU0076885"
+  },
+  {
+    "title": "La fêlure des anges",
+    "artist": "Miserere Luminis",
+    "isrc": "CBCQF2300003"
+  },
+  {
+    "title": "Onward into the Crystal Snows",
+    "artist": "Sorcier Des Glaces",
+    "isrc": "FR4E62201210"
+  },
+  {
+    "title": "Sentier de chair",
+    "artist": "Akitsa",
+    "isrc": "USA2Z2301435"
+  },
+  {
+    "title": "L'hiver de Force",
+    "artist": "Neige et Noirceur",
+    "isrc": "GBKQU1750327"
+  },
+  {
+    "title": "Sainte Thérèse d'Avila (1515-1582)",
+    "artist": "Givre",
+    "isrc": "DEPI82325415"
+  },
+  {
+    "title": "Les cendres refroidies ne sont bonnes qu'à boire",
+    "artist": "Malebranche",
+    "isrc": "QZNWX2147461"
+  },
+  {
+    "title": "Igneus",
+    "artist": "Gris",
+    "isrc": "QZWFP2351397"
+  },
+  {
+    "title": "Les rumeurs des astres",
+    "artist": "Grimoire",
+    "isrc": "USQY51513611"
+  },
+  {
+    "title": "Les Ombres Malades",
+    "artist": "Trépas",
+    "isrc": "QZPLS2333802"
+  },
+  {
+    "title": "Foutredieu",
+    "artist": "Délétère",
+    "isrc": "QZWFP2349973"
+  },
+  {
+    "title": "Des Siècles D'épitaphes",
+    "artist": "Frozen Shadows",
+    "isrc": "FR7M00409102"
+  },
+  {
+    "title": "Under An Occult Sun",
+    "artist": "Blinded by Faith",
+    "isrc": "USA2P1133518"
+  },
+  {
+    "title": "Apitipik : Les murmures enfouis",
+    "artist": "Boréalys",
+    "isrc": "QZNWZ2352462"
+  },
+  {
+    "title": "La Descente",
+    "artist": "Incandescence",
+    "isrc": "USN682227803"
+  },
+  {
+    "title": "The blade of Satan",
+    "artist": "Sacrenoir",
+    "isrc": "QZPLS2333181"
+  },
+  {
+    "title": "Towards the Shifting Sands",
+    "artist": "Gevurah",
+    "isrc": "FXQ112100038"
+  },
+  {
+    "title": "Black Beast",
+    "artist": "Dépérir",
+    "isrc": "ushm82215824"
+  },
+  {
+    "title": "Sustained Terror",
+    "artist": "Spirit of Rebellion",
+    "isrc": "QZFYY2284329"
+  },
+  {
+    "title": "Chromatique",
+    "artist": "Orphique",
+    "isrc": "QZFZ42332151"
+  },
+  {
+    "title": "Here Comes The Storm",
+    "artist": "Obscurcis Romancia",
+    "isrc": "CA6NS2100001"
+  },
+  {
+    "title": "Warcry",
+    "artist": "Valfreya",
+    "isrc": "USHM22418390"
+  },
+  {
+    "title": "Drowned",
+    "artist": "Hands of Despair",
+    "isrc": "CA7PN2100002"
+  },
+  {
+    "title": "Sold Our Soul",
+    "artist": "Strigampire",
+    "isrc": "QZTBE2358226"
+  },
+  {
+    "title": "Ne m'oublie pas",
+    "artist": "Ciel Nordique",
+    "isrc": "QZES82091208"
+  },
+  {
+    "title": "Sombre Bourreau",
+    "artist": "Ur Falc'h",
+    "isrc": "USI4R0909526"
+  }
+]

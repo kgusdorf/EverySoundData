@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Siempre Libres",
+    "artist": "Subestimados",
+    "isrc": "ES31E2205355"
+  },
+  {
+    "title": "Viejas Costumbres",
+    "artist": "Knockout",
+    "isrc": "UST8K1839252"
+  },
+  {
+    "title": "La Noche es Nuestra",
+    "artist": "Adversión",
+    "isrc": "QMDA61500775"
+  },
+  {
+    "title": "2231",
+    "artist": "Boot Boys",
+    "isrc": "TCACM1699098"
+  },
+  {
+    "title": "Ultras VK",
+    "artist": "Saldakoi",
+    "isrc": "QMDA61501043"
+  },
+  {
+    "title": "Antifascistas",
+    "artist": "Aquemarropa",
+    "isrc": "GBSMU9914336"
+  },
+  {
+    "title": "Ira y Ruido - Bonus Track",
+    "artist": "Yugular",
+    "isrc": "ES8241924910"
+  },
+  {
+    "title": "\"La otra vida\"",
+    "artist": "Zartako",
+    "isrc": "ESA092313614"
+  },
+  {
+    "title": "Disturbios y Cerveza",
+    "artist": "Guerrilla Oi!",
+    "isrc": "GB-SMU-44-55995"
+  },
+  {
+    "title": "Ya Es Domingo",
+    "artist": "Oi! Se Arma",
+    "isrc": "QMBZ91354376"
+  },
+  {
+    "title": "Historias de Borrachos",
+    "artist": "Bisonte 1312",
+    "isrc": "QM6N21810125"
+  },
+  {
+    "title": "Antinazis",
+    "artist": "Odio Kronico",
+    "isrc": "RUA1H2090379"
+  },
+  {
+    "title": "Tomar el Cielo por Asalto",
+    "artist": "RPG-7",
+    "isrc": "TCAEF1937944"
+  },
+  {
+    "title": "A donde vas chaval",
+    "artist": "Hell Beer Boys",
+    "isrc": "GBSMU5702618"
+  },
+  {
+    "title": "Nuestra Vida",
+    "artist": "Area de Combate",
+    "isrc": "CH6541993502"
+  },
+  {
+    "title": "Juergas, Oi! y Borratxeras",
+    "artist": "Against You",
+    "isrc": "QZAPG1855447"
+  },
+  {
+    "title": "A Martillazos",
+    "artist": "Nucleo Terco",
+    "isrc": "QMDA61344160"
+  },
+  {
+    "title": "Yakovlev 42",
+    "artist": "Yakovlev 42",
+    "isrc": "QM4TX1732768"
+  },
+  {
+    "title": "Y así Empezamos",
+    "artist": "Hard Life",
+    "isrc": "QM6P41851129"
+  },
+  {
+    "title": "Skinhead",
+    "artist": "Steelcap",
+    "isrc": "QMDA61513983"
+  },
+  {
+    "title": "R.A.S.H.",
+    "artist": "Noise & Oi!",
+    "isrc": "QMBZ91393615"
+  },
+  {
+    "title": "En la Brecha",
+    "artist": "Zakarrak",
+    "isrc": "GX4R52205014"
+  },
+  {
+    "title": "Ilusio Hormak",
+    "artist": "State Alerta",
+    "isrc": "ES20D1806305"
+  },
+  {
+    "title": "Aquellos Años",
+    "artist": "The Bobby's",
+    "isrc": "uscgh1936825"
+  },
+  {
+    "title": "Kaos",
+    "artist": "Alta Tensión",
+    "isrc": "ESAAI0133686"
+  },
+  {
+    "title": "Punk Skins",
+    "artist": "Puto Donal",
+    "isrc": "ESA011222260"
+  },
+  {
+    "title": "Expulsados Del Olimpo",
+    "artist": "Hetairoi",
+    "isrc": "GX5MX2134397"
+  },
+  {
+    "title": "Seguiremos Juntos",
+    "artist": "Arkada Social",
+    "isrc": "uscgh1402345"
+  },
+  {
+    "title": "Sábado",
+    "artist": "Eterno Trastorno",
+    "isrc": "US6R21406684"
+  },
+  {
+    "title": "Denbora aurrera doa",
+    "artist": "Doubling Boys",
+    "isrc": "GX8LE2343018"
+  },
+  {
+    "title": "Brigada Anti Nazi",
+    "artist": "Brigada Oi",
+    "isrc": "ushm21553567"
+  },
+  {
+    "title": "Borrachos y Orgullosos",
+    "artist": "Kausa de Alarma",
+    "isrc": "QMDA61513978"
+  },
+  {
+    "title": "Ante la Muerte",
+    "artist": "Kaos Urbano",
+    "isrc": "ES71G1907771"
+  },
+  {
+    "title": "Arde Madrid",
+    "artist": "Strike Back",
+    "isrc": "QM6P41434055"
+  },
+  {
+    "title": "Cabezas Rapadas",
+    "artist": "Curasbun",
+    "isrc": "SEYOK1548673"
+  },
+  {
+    "title": "Traidores",
+    "artist": "Agresion",
+    "isrc": "GB-SMU-44-38194"
+  },
+  {
+    "title": "Skinhead",
+    "artist": "Devorados por el Odio",
+    "isrc": "QMDA61513899"
+  },
+  {
+    "title": "Dispara Rock & Roll",
+    "artist": "Obsesión Fatal",
+    "isrc": "QM6P41561225"
+  },
+  {
+    "title": "Tambores de Guerra",
+    "artist": "Decibelios",
+    "isrc": "ES61A1600798"
+  },
+  {
+    "title": "Vidas Vacías",
+    "artist": "Cizaña",
+    "isrc": "GB-SMU-34-95477"
+  },
+  {
+    "title": "El Potro Se Desboca",
+    "artist": "VonDänikens",
+    "isrc": "GBSMU7933537"
+  },
+  {
+    "title": "Solidaridad",
+    "artist": "Oi ! de Arrase",
+    "isrc": "ESAAI0141059"
+  },
+  {
+    "title": "Take It as It Comes",
+    "artist": "Rude Pride",
+    "isrc": "DEPI81701725"
+  },
+  {
+    "title": "Invicto",
+    "artist": "Uno di Noi, Kaos Urbano",
+    "isrc": "ES5301968900"
+  },
+  {
+    "title": "A.c.a.b.",
+    "artist": "Non Servium, La Polla Records, Gatillazo",
+    "isrc": "USV291434937"
+  },
+  {
+    "title": "Perdido",
+    "artist": "Frontkick",
+    "isrc": "QZTVM2351773"
+  },
+  {
+    "title": "Criticado",
+    "artist": "Superbia",
+    "isrc": "QM6N21431365"
+  },
+  {
+    "title": "Yo soy quien espia los juegos de los niños",
+    "artist": "Vietcong68",
+    "isrc": "GB-SMU-52-51352"
+  },
+  {
+    "title": "Satanae Imperium",
+    "artist": "Sanngre",
+    "isrc": "QMFMG2350436"
+  },
+  {
+    "title": "Sigo Siendo el Rey",
+    "artist": "Fill sor I Knout",
+    "isrc": "QMDA61344209"
+  },
+  {
+    "title": "Nafarroa",
+    "artist": "Siete Balas",
+    "isrc": "GB-SMU-31-76767"
+  },
+  {
+    "title": "Aurrera Doa",
+    "artist": "Brigade Loco",
+    "isrc": "QZ4JJ1843502"
+  },
+  {
+    "title": "Desorden (Live)",
+    "artist": "Pisando Fuerte",
+    "isrc": "ESA031006315"
+  },
+  {
+    "title": "Nosotros somos la venganza",
+    "artist": "Nummen",
+    "isrc": "GB-SMU-17-75534"
+  },
+  {
+    "title": "Viejo Amigo",
+    "artist": "A-Malas, Unai Astalapo",
+    "isrc": "QM6MZ1752490"
+  },
+  {
+    "title": "Antifa Hooligans",
+    "artist": "Los Fastidios",
+    "isrc": "ITT280900079"
+  },
+  {
+    "title": "Chicos Del Barrio",
+    "artist": "Malas Cartas",
+    "isrc": "RUA1H1835223"
+  },
+  {
+    "title": "Lobo Entre Korderos",
+    "artist": "Vandalika",
+    "isrc": "QMDA61585896"
+  },
+  {
+    "title": "Ignición",
+    "artist": "Malos Tragos",
+    "isrc": "ES8241348001"
+  },
+  {
+    "title": "Soldados del Asfalto",
+    "artist": "Suburban Rebels",
+    "isrc": "GB-SMU-44-99750"
+  },
+  {
+    "title": "Days with No End",
+    "artist": "Last Warning",
+    "isrc": "GBSMU3132273"
+  },
+  {
+    "title": "En las Sombras",
+    "artist": "Knock Out",
+    "isrc": "GB-SMU-39-06287"
+  },
+  {
+    "title": "Hooligans",
+    "artist": "77 Puñaladas",
+    "isrc": "GB-SMU-37-89910"
+  },
+  {
+    "title": "Skinhead",
+    "artist": "Ajuste de Cuentas",
+    "isrc": "GB-SMU-36-61008"
+  },
+  {
+    "title": "Destr-Oi!",
+    "artist": "Destr-Oi!",
+    "isrc": "GB-SMU-37-81251"
+  },
+  {
+    "title": "Hooligans",
+    "artist": "Duff Hooligans",
+    "isrc": "GB-SMU-36-61113"
+  },
+  {
+    "title": "Bienvenidos a la Guerra",
+    "artist": "Etxale Apio",
+    "isrc": "GB-SMU-37-14382"
+  },
+  {
+    "title": "Su Democracia",
+    "artist": "Glory Boys",
+    "isrc": "GB-SMU-37-82669"
+  },
+  {
+    "title": "Última Batalla... Ragnarok",
+    "artist": "Holmgang",
+    "isrc": "GB-SMU-37-86073"
+  },
+  {
+    "title": "Velozidad",
+    "artist": "La Brigada del Vizio",
+    "isrc": "GB-SMU-36-60644"
+  },
+  {
+    "title": "FitnessOi! y Proteínas",
+    "artist": "Loud'N'Proud",
+    "isrc": "GB-SMU-37-81805"
+  },
+  {
+    "title": "Una Cerveza Más",
+    "artist": "Motel Malicia",
+    "isrc": "ARC571600647"
+  },
+  {
+    "title": "Antinazis",
+    "artist": "Rebel Workers",
+    "isrc": "GB-SMU-37-90494"
+  },
+  {
+    "title": "Feos y Malvados",
+    "artist": "Shaved Dogs",
+    "isrc": "GB-SMU-37-85127"
+  },
+  {
+    "title": "Skinhead",
+    "artist": "Sindrome Oi!",
+    "isrc": "GB-SMU-37-35119"
+  },
+  {
+    "title": "Morire en la Calle",
+    "artist": "Suspenders",
+    "isrc": "GB-SMU-36-50940"
+  },
+  {
+    "title": "Conciencia de Clase",
+    "artist": "Subestimados",
+    "isrc": "ES31E2205349"
+  },
+  {
+    "title": "Himno de taberna",
+    "artist": "Knockout",
+    "isrc": "GB-SMU-46-47886"
+  },
+  {
+    "title": "Siempre el Camino Duro",
+    "artist": "Adversión",
+    "isrc": "QMDA61500771"
+  },
+  {
+    "title": "Lealtad",
+    "artist": "Boot Boys",
+    "isrc": "TCACL1696699"
+  },
+  {
+    "title": "Juramos Lealtad",
+    "artist": "Saldakoi",
+    "isrc": "QMDA61501044"
+  },
+  {
+    "title": "Camino marcado",
+    "artist": "Aquemarropa",
+    "isrc": "GBSMU8004356"
+  },
+  {
+    "title": "Blues Suicida",
+    "artist": "Yugular",
+    "isrc": "ES8241924902"
+  },
+  {
+    "title": "\"Sin Termino Medio\"",
+    "artist": "Zartako",
+    "isrc": "ESA092313667"
+  },
+  {
+    "title": "Antisocial",
+    "artist": "Guerrilla Oi!",
+    "isrc": "GB-SMU-44-55994"
+  },
+  {
+    "title": "Punks & Skins",
+    "artist": "Oi! Se Arma",
+    "isrc": "QMBZ91354375"
+  },
+  {
+    "title": "No Te Rindas",
+    "artist": "Bisonte 1312",
+    "isrc": "QM6N21810130"
+  },
+  {
+    "title": "Vida Pirata",
+    "artist": "Odio Kronico",
+    "isrc": "ES71G2149392"
+  },
+  {
+    "title": "Stalingrado",
+    "artist": "RPG-7",
+    "isrc": "TCACR1656919"
+  },
+  {
+    "title": "Cuando ya no quede nadie",
+    "artist": "Hell Beer Boys",
+    "isrc": "GBSMU5702624"
+  },
+  {
+    "title": "Area de Combate",
+    "artist": "Area de Combate",
+    "isrc": "CH6541993497"
+  },
+  {
+    "title": "Tu Eres Mi Perdicion",
+    "artist": "Against You",
+    "isrc": "QZAPG1827974"
+  },
+  {
+    "title": "Sin Miedo",
+    "artist": "Nucleo Terco",
+    "isrc": "ES31E2100057"
+  },
+  {
+    "title": "Adierazpen askatasuna",
+    "artist": "Yakovlev 42",
+    "isrc": "QZK6M2422356"
+  },
+  {
+    "title": "Skinhead",
+    "artist": "Hard Life",
+    "isrc": "QM6P41851134"
+  },
+  {
+    "title": "Comando Matajipis",
+    "artist": "Steelcap",
+    "isrc": "QMDA61513990"
+  },
+  {
+    "title": "Nuestra Forma de Expresión",
+    "artist": "Noise & Oi!",
+    "isrc": "QMBZ91393614"
+  },
+  {
+    "title": "Skinhead Girl",
+    "artist": "Zakarrak",
+    "isrc": "GX4R52205018"
+  },
+  {
+    "title": "Seguimos con la Purga",
+    "artist": "State Alerta",
+    "isrc": "ES31E2000284"
+  },
+  {
+    "title": "Ispilura Begira",
+    "artist": "The Bobby's",
+    "isrc": "uscgh1936830"
+  },
+  {
+    "title": "Unidos por Convicción",
+    "artist": "Alta Tensión",
+    "isrc": "ESAAI0133742"
+  },
+  {
+    "title": "Dia de Furia",
+    "artist": "Puto Donal",
+    "isrc": "ESA011222254"
+  },
+  {
+    "title": "Soportando El Dolor",
+    "artist": "Hetairoi",
+    "isrc": "GX5MX2265124"
+  },
+  {
+    "title": "Ukabilak Gora",
+    "artist": "Arkada Social",
+    "isrc": "QMEU31721798"
+  },
+  {
+    "title": "Empieza el Día",
+    "artist": "Eterno Trastorno",
+    "isrc": "US6R21406682"
+  },
+  {
+    "title": "Amaiur",
+    "artist": "Doubling Boys",
+    "isrc": "GX89G2272207"
+  },
+  {
+    "title": "Skinheads Rojos Y Anarquistas",
+    "artist": "Brigada Oi",
+    "isrc": "DEBL61194515"
+  },
+  {
+    "title": "Luchando por Vivir",
+    "artist": "Kausa de Alarma",
+    "isrc": "QMDA61513969"
+  },
+  {
+    "title": "Mordaza",
+    "artist": "Strike Back",
+    "isrc": "QM6P41434057"
+  },
+  {
+    "title": "Perdóname, Madre",
+    "artist": "Kaos Urbano",
+    "isrc": "QM6P42332624"
+  },
+  {
+    "title": "Canción Skinhead",
+    "artist": "Curasbun",
+    "isrc": "SEYOK1616248"
+  },
+  {
+    "title": "Lealtad o Muerte",
+    "artist": "Agresion",
+    "isrc": "GB-SMU-44-38187"
+  },
+  {
+    "title": "Noche de Sirenas",
+    "artist": "Devorados por el Odio",
+    "isrc": "QMDA61513898"
+  },
+  {
+    "title": "Salvajes",
+    "artist": "Obsesión Fatal",
+    "isrc": "QM6P41561222"
+  },
+  {
+    "title": "Ningún nombre de mujer",
+    "artist": "Decibelios",
+    "isrc": "ES5018510002"
+  },
+  {
+    "title": "Algún Día...",
+    "artist": "Cizaña",
+    "isrc": "GB-SMU-34-95480"
+  },
+  {
+    "title": "Oye Chati",
+    "artist": "VonDänikens",
+    "isrc": "GBSMU7933548"
+  },
+  {
+    "title": "No Hay Futuro, no Hay Esperanza",
+    "artist": "Oi ! de Arrase",
+    "isrc": "ESAAI0141024"
+  },
+  {
+    "title": "Screaming Oi!",
+    "artist": "Rude Pride",
+    "isrc": "TCACL1689161"
+  },
+  {
+    "title": "Vuelta a las Andadas",
+    "artist": "Uno di Noi",
+    "isrc": "ES5301968891"
+  },
+  {
+    "title": "We're Gonna Be Together",
+    "artist": "Frontkick",
+    "isrc": "QZTPX2119121"
+  },
+  {
+    "title": "El Espiritu del Oi!",
+    "artist": "Non Servium",
+    "isrc": "USV291428564"
+  },
+  {
+    "title": "Mi Ley",
+    "artist": "Superbia",
+    "isrc": "QM6N21431362"
+  },
+  {
+    "title": "La ofensiva del Tet",
+    "artist": "Vietcong68",
+    "isrc": "GB-SMU-52-51351"
+  },
+  {
+    "title": "Siete Segundos",
+    "artist": "Sanngre",
+    "isrc": "QMDA72171245"
+  },
+  {
+    "title": "Sensación",
+    "artist": "Fill sor I Knout",
+    "isrc": "QMDA61344195"
+  },
+  {
+    "title": "La Última Canción",
+    "artist": "Siete Balas",
+    "isrc": "GB-SMU-44-71415"
+  },
+  {
+    "title": "Gaztelu Beltza",
+    "artist": "Brigade Loco",
+    "isrc": "QZ4JJ1843510"
+  },
+  {
+    "title": "Mi Colega (Live)",
+    "artist": "Pisando Fuerte",
+    "isrc": "ESA031006316"
+  },
+  {
+    "title": "Puedo con Todo",
+    "artist": "Subestimados",
+    "isrc": "QM4TW1524653"
+  },
+  {
+    "title": "Tiempos muertos ritmos inmortales",
+    "artist": "Knockout",
+    "isrc": "GB-SMU-46-47891"
+  },
+  {
+    "title": "No Llores Más por Mi... Madrid",
+    "artist": "Adversión",
+    "isrc": "QMDA61500769"
+  },
+  {
+    "title": "Guda Doinuak",
+    "artist": "Boot Boys",
+    "isrc": "TCAEQ2081715"
+  },
+  {
+    "title": "Bvk '92",
+    "artist": "Saldakoi",
+    "isrc": "QMBZ91393684"
+  },
+  {
+    "title": "Conciencia de clase",
+    "artist": "Aquemarropa",
+    "isrc": "GBSMU8004360"
+  },
+  {
+    "title": "La Calma Tensa - Bonus Track",
+    "artist": "Yugular",
+    "isrc": "ES8241924909"
+  },
+  {
+    "title": "\"Primero nosotros\"",
+    "artist": "Zartako",
+    "isrc": "ESA092313617"
+  },
+  {
+    "title": "20 Años",
+    "artist": "Guerrilla Oi!",
+    "isrc": "GB-SMU-44-56001"
+  },
+  {
+    "title": "Los Más Odiados",
+    "artist": "Oi! Se Arma",
+    "isrc": "QMBZ91354464"
+  },
+  {
+    "title": "Uno de los Nuestros",
+    "artist": "Bisonte 1312",
+    "isrc": "QM6N21810126"
+  },
+  {
+    "title": "Senderos del Kaos",
+    "artist": "Odio Kronico",
+    "isrc": "ES71G2149396"
+  },
+  {
+    "title": "Rpg-7 Crew",
+    "artist": "RPG-7",
+    "isrc": "TCACR1656855"
+  },
+  {
+    "title": "Sintiendo la locura",
+    "artist": "Hell Beer Boys",
+    "isrc": "GBSMU5702623"
+  },
+  {
+    "title": "Poder y Gloria",
+    "artist": "Area de Combate",
+    "isrc": "CH6541993507"
+  },
+  {
+    "title": "Dias de Gloria",
+    "artist": "Against You",
+    "isrc": "QZAPG1827972"
+  },
+  {
+    "title": "Horda Roja",
+    "artist": "Nucleo Terco",
+    "isrc": "QMDA61344162"
+  },
+  {
+    "title": "Criaturas de otra generación",
+    "artist": "Yakovlev 42",
+    "isrc": "QZK6M2422358"
+  },
+  {
+    "title": "Viejas Glorias",
+    "artist": "Hard Life",
+    "isrc": "QM6P41851133"
+  },
+  {
+    "title": "Venganza",
+    "artist": "Steelcap",
+    "isrc": "QMDA61513988"
+  },
+  {
+    "title": "Ritmos del Obrero",
+    "artist": "Noise & Oi!",
+    "isrc": "QMBZ91393617"
+  },
+  {
+    "title": "Muerto",
+    "artist": "Zakarrak",
+    "isrc": "GX4R52205017"
+  },
+  {
+    "title": "Colegas",
+    "artist": "State Alerta",
+    "isrc": "ES20D1806307"
+  },
+  {
+    "title": "Pres.o.s",
+    "artist": "The Bobby's",
+    "isrc": "uscgh1936831"
+  },
+  {
+    "title": "Somos Tíos Oi !",
+    "artist": "Alta Tensión",
+    "isrc": "ESAAI0133327"
+  },
+  {
+    "title": "Antisocial",
+    "artist": "Puto Donal",
+    "isrc": "QZDA42432096"
+  },
+  {
+    "title": "Escudos De Plata",
+    "artist": "Hetairoi",
+    "isrc": "GX5MX2134399"
+  }
+]

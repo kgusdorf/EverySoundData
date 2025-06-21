@@ -1,0 +1,497 @@
+[
+  {
+    "title": "Cor di Rosa",
+    "artist": "Bana",
+    "isrc": "FR54E1201042"
+  },
+  {
+    "title": "Zita",
+    "artist": "Simentera",
+    "isrc": "FRZ550200007"
+  },
+  {
+    "title": "Joia",
+    "artist": "Boy Gé Mendès",
+    "isrc": "FRX629752020"
+  },
+  {
+    "title": "Cab'Verde Na Coracon",
+    "artist": "Nancy Vieira",
+    "isrc": "FRX621116030"
+  },
+  {
+    "title": "Djonsinho Cabral",
+    "artist": "Os Tubarões",
+    "isrc": "FRX628020010"
+  },
+  {
+    "title": "Paiol",
+    "artist": "Finaçon",
+    "isrc": "FR6V81055929"
+  },
+  {
+    "title": "Roda Vida",
+    "artist": "Teofilo Chantre",
+    "isrc": "FRX620018040"
+  },
+  {
+    "title": "Agonia",
+    "artist": "Tcheka",
+    "isrc": "FRX620533010"
+  },
+  {
+    "title": "Sol Na Tchada",
+    "artist": "Maria Alice",
+    "isrc": "FRX629665002"
+  },
+  {
+    "title": "Nos Paraiso",
+    "artist": "Maria de Barros",
+    "isrc": "US3CU0900001"
+  },
+  {
+    "title": "Sodade",
+    "artist": "Cesária Evora",
+    "isrc": "FRX629224010"
+  },
+  {
+    "title": "Nada É Perfeito",
+    "artist": "Mariana Ramos",
+    "isrc": "FR4EJ1500020"
+  },
+  {
+    "title": "Amor De Fantasia",
+    "artist": "Coladeras De Sempre",
+    "isrc": "PTZM10435301"
+  },
+  {
+    "title": "Chico Malandro",
+    "artist": "Ana Firmino",
+    "isrc": "PTAF19800001"
+  },
+  {
+    "title": "Bitori Nha Bibinha",
+    "artist": "Bitori",
+    "isrc": "DENR91681001"
+  },
+  {
+    "title": "Afronamim",
+    "artist": "hernani almeida",
+    "isrc": "CVA002200354"
+  },
+  {
+    "title": "Rapazinho N Tentado",
+    "artist": "Nacia Gomi",
+    "isrc": "QMDA61534654"
+  },
+  {
+    "title": "Corre Riba, Corre Baxo",
+    "artist": "Abel Lima",
+    "isrc": "DENR91680010"
+  },
+  {
+    "title": "Santiago: Minina si bu dan n'ta ciré mô - Funana",
+    "artist": "Tchota Suari",
+    "isrc": "FR05G9810001"
+  },
+  {
+    "title": "Pinta Manta",
+    "artist": "Antonio Sanches",
+    "isrc": "DENR91680001"
+  },
+  {
+    "title": "Serra Malagueta ê Sabi",
+    "artist": "Nha Mita Pereira",
+    "isrc": "FR6V81127001"
+  },
+  {
+    "title": "Nos Historia",
+    "artist": "Amilcar Cabral",
+    "isrc": "FR54E1201692"
+  },
+  {
+    "title": "Mundo Crêbu",
+    "artist": "Mino de Mama",
+    "isrc": "QMDA61534850"
+  },
+  {
+    "title": "São nicolau: Contradança - Contredanse",
+    "artist": "Antonio José da Cruz",
+    "isrc": "FR05G9810022"
+  },
+  {
+    "title": "São vicente: Dia 15 grog tá cabá - 4",
+    "artist": "Cacoi",
+    "isrc": "FR05G9810018"
+  },
+  {
+    "title": "Brava: Pretu cor di nós - Toque",
+    "artist": "Coladeras Da Freguesia, Nossa Senhora de Monte",
+    "isrc": "FR05G9810008"
+  },
+  {
+    "title": "Fogo: Principe de ximento - Cantigas de ruas",
+    "artist": "Conjunto Principe de Ximento",
+    "isrc": "FR05G9810005"
+  },
+  {
+    "title": "Santo antão: Coláboi - Aboio",
+    "artist": "Corda do Sol",
+    "isrc": "FR05G9810015"
+  },
+  {
+    "title": "Boa vista: Maria barba - Morna",
+    "artist": "Djalunga",
+    "isrc": "FR05G9810027"
+  },
+  {
+    "title": "Fogo: Toque de pilão com milho - Toque",
+    "artist": "Festa tradicionam de São Filipe",
+    "isrc": "FR05G9810003"
+  },
+  {
+    "title": "Santo antão: Coláboi - Aboio, chant de moulin de canne à sucre",
+    "artist": "Frederik Da Luz",
+    "isrc": "FR05G9810016"
+  },
+  {
+    "title": "São nicolau: Boas festas - Chants de fin d'année",
+    "artist": "Grupo de Ribeira Prata",
+    "isrc": "FR05G9810021"
+  },
+  {
+    "title": "Sal: Maria qzé qui bu tem - Coladeira",
+    "artist": "Jon Gote",
+    "isrc": "FR05G9810023"
+  },
+  {
+    "title": "Brava: N'kré bu fora di marka - Morna",
+    "artist": "José Domingus A. Lopes",
+    "isrc": "FR05G9810009"
+  },
+  {
+    "title": "Fogo: O galo ki tem se razão - Coladeira",
+    "artist": "Joãozinho Montrond",
+    "isrc": "FR05G9810006"
+  },
+  {
+    "title": "Titina Lopi Bu Ka Ten Kabelu",
+    "artist": "Kodé di Dona, José Vaz",
+    "isrc": "FR10S1493527"
+  },
+  {
+    "title": "Sal: Compadre josé - Coladeira",
+    "artist": "Mateus Band",
+    "isrc": "FR05G9810024"
+  },
+  {
+    "title": "Santo antão: Nhô sont' andré - B'ta saúde, chant de mariage",
+    "artist": "Nha Sabina",
+    "isrc": "FR05G9810014"
+  },
+  {
+    "title": "Boa vista: Rabilona - Morna",
+    "artist": "Os Rabilenses",
+    "isrc": "FR05G9810026"
+  },
+  {
+    "title": "São vicente: Chuva de 83 - Coladeira",
+    "artist": "Porto Grande",
+    "isrc": "FR05G9810019"
+  },
+  {
+    "title": "Fogo: Mino - Atalaïa baxu",
+    "artist": "Raiz di Djaforgo",
+    "isrc": "FR05G9810004"
+  },
+  {
+    "title": "Santo antão: Nha desoa - Colá",
+    "artist": "Renascimento",
+    "isrc": "FR05G9810013"
+  },
+  {
+    "title": "Maio: Cascabulo tem baleia - Coladeira",
+    "artist": "Totch",
+    "isrc": "FR05G9810011"
+  },
+  {
+    "title": "Maio: Lindinha - Coladeira",
+    "artist": "Xote",
+    "isrc": "FR05G9810010"
+  },
+  {
+    "title": "Moreninha",
+    "artist": "Marino Silva",
+    "isrc": "QMBZ91513738"
+  },
+  {
+    "title": "Kunben",
+    "artist": "Guents Dy Rincon",
+    "isrc": "GBHQG1500049"
+  },
+  {
+    "title": "Brinca Kumi",
+    "artist": "Batuko Tabanka",
+    "isrc": "ES22A0905903"
+  },
+  {
+    "title": "Homi di Povu - Homenagem",
+    "artist": "Rabasa",
+    "isrc": "NL1X92400001"
+  },
+  {
+    "title": "Hora di bal",
+    "artist": "Augustinho de Pina, Joao Teixeira, Manuel de Jesus de Pina, Simentera",
+    "isrc": "SEAGA9401090"
+  },
+  {
+    "title": "Fundo Baxo",
+    "artist": "Grupo Ferro Gaita",
+    "isrc": "ES71G1619989"
+  },
+  {
+    "title": "Grito de Dor",
+    "artist": "Humbertonia, Piuna",
+    "isrc": "FRX626710001"
+  },
+  {
+    "title": "Putim putim",
+    "artist": "Leonel D'Almeida",
+    "isrc": "FR54E1102116"
+  },
+  {
+    "title": "Sodade",
+    "artist": "Maria De Souza",
+    "isrc": "FRZ530300021"
+  },
+  {
+    "title": "Baxu Cama",
+    "artist": "Ntóni Denti d'Oro",
+    "isrc": "FR05G1413001"
+  },
+  {
+    "title": "Terezinha",
+    "artist": "Travadinha",
+    "isrc": "FRX629810001"
+  },
+  {
+    "title": "Cabinda A Cunene",
+    "artist": "Bana",
+    "isrc": "US25T0613215"
+  },
+  {
+    "title": "Valsa azul",
+    "artist": "Simentera",
+    "isrc": "DEL120006802"
+  },
+  {
+    "title": "Nha Manèra",
+    "artist": "Boy Gé Mendès, MANU LIMA",
+    "isrc": "FRX629636020"
+  },
+  {
+    "title": "Maylen",
+    "artist": "Nancy Vieira",
+    "isrc": "FRX621116010"
+  },
+  {
+    "title": "Alto Cutelo",
+    "artist": "Os Tubarões",
+    "isrc": "FRX628021050"
+  },
+  {
+    "title": "Entri Spada e Paredi",
+    "artist": "Finaçon",
+    "isrc": "FR54E1202066"
+  },
+  {
+    "title": "Nha Fê",
+    "artist": "Teofilo Chantre",
+    "isrc": "FRX629738030"
+  },
+  {
+    "title": "ANTUNEKU",
+    "artist": "Tcheka",
+    "isrc": "FRX621110030"
+  },
+  {
+    "title": "Falso Testemunho",
+    "artist": "Maria Alice",
+    "isrc": "FRX629665003"
+  },
+  {
+    "title": "Caresse Moin",
+    "artist": "Maria de Barros",
+    "isrc": "USNA10420563"
+  },
+  {
+    "title": "Kamin di Mar",
+    "artist": "Mariana Ramos",
+    "isrc": "FR4EJ1500090"
+  },
+  {
+    "title": "Petit pays",
+    "artist": "Cesária Evora",
+    "isrc": "FRX629400074"
+  },
+  {
+    "title": "Holandeza",
+    "artist": "Coladeras De Sempre",
+    "isrc": "PTZM10435303"
+  },
+  {
+    "title": "Ó Bernardo",
+    "artist": "Ana Firmino",
+    "isrc": "QM6P41448628"
+  },
+  {
+    "title": "Cabalo",
+    "artist": "Bitori",
+    "isrc": "DENR91681004"
+  },
+  {
+    "title": "Pove",
+    "artist": "hernani almeida",
+    "isrc": "DEAR51000283"
+  },
+  {
+    "title": "Tchora Sodadi",
+    "artist": "Nacia Gomi",
+    "isrc": "QMDA61534658"
+  },
+  {
+    "title": "Stebo Cu Anabela",
+    "artist": "Abel Lima",
+    "isrc": "DENR91680015"
+  },
+  {
+    "title": "Amizade Belo Pereira",
+    "artist": "Antonio Sanches",
+    "isrc": "DENR91808001"
+  },
+  {
+    "title": "N Po'l Na Bô, Mas É Ka Bó",
+    "artist": "Nha Mita Pereira",
+    "isrc": "QMDA61534772"
+  },
+  {
+    "title": "Amilcar Cabral - Version 1",
+    "artist": "Amilcar Cabral",
+    "isrc": "FR54E1201666"
+  },
+  {
+    "title": "Talaia Bachu",
+    "artist": "Mino de Mama",
+    "isrc": "QMDA61534847"
+  },
+  {
+    "title": "São vicente: Ana mata tchuk - Coladeira",
+    "artist": "Cacoi",
+    "isrc": "FR05G9810020"
+  },
+  {
+    "title": "Amor Fingido",
+    "artist": "Djalunga",
+    "isrc": "FRX620094020"
+  },
+  {
+    "title": "Mi Mokeru N Ka Pode Ku El",
+    "artist": "Kodé di Dona, José Vaz",
+    "isrc": "FR10S1493528"
+  },
+  {
+    "title": "Pontin Pontin",
+    "artist": "Bana",
+    "isrc": "DENR91680004"
+  },
+  {
+    "title": "Ami Xintadu",
+    "artist": "Simentera",
+    "isrc": "FRZ550200001"
+  },
+  {
+    "title": "Cumba Ietu - Revisited By Saint Germain Edit",
+    "artist": "Boy Gé Mendès, Saint Germain",
+    "isrc": "FRX629752102"
+  },
+  {
+    "title": "Les Lendemains de Carnaval (with Raphaële Lannadère)",
+    "artist": "Nancy Vieira, L (Raphaële Lannadère)",
+    "isrc": "FRX621745030"
+  },
+  {
+    "title": "Mãe Querida",
+    "artist": "Os Tubarões",
+    "isrc": "FRX629400033"
+  },
+  {
+    "title": "Dexam canta cabo verdi",
+    "artist": "Finaçon",
+    "isrc": "FR6V81055926"
+  },
+  {
+    "title": "Des Bleuets Dans Les Blés",
+    "artist": "Teofilo Chantre",
+    "isrc": "FRX620488030"
+  },
+  {
+    "title": "Djan Kre Bejabu",
+    "artist": "Tcheka",
+    "isrc": "FRX620533020"
+  },
+  {
+    "title": "D'Zemcontre",
+    "artist": "Maria Alice",
+    "isrc": "FRX629665007"
+  },
+  {
+    "title": "Oh Menel",
+    "artist": "Maria de Barros",
+    "isrc": "USNA10420559"
+  },
+  {
+    "title": "Estrela da Marinha",
+    "artist": "Mariana Ramos",
+    "isrc": "FR4EJ1500040"
+  },
+  {
+    "title": "Besame Mucho",
+    "artist": "Cesária Evora",
+    "isrc": "USATZ9700298"
+  },
+  {
+    "title": "Tchom Frio",
+    "artist": "Coladeras De Sempre",
+    "isrc": "PTZM10435307"
+  },
+  {
+    "title": "Boa Viagem",
+    "artist": "Ana Firmino",
+    "isrc": "PTAF19800005"
+  },
+  {
+    "title": "Rabelado",
+    "artist": "Bitori",
+    "isrc": "DENR91681002"
+  },
+  {
+    "title": "Asanga",
+    "artist": "hernani almeida",
+    "isrc": "DEAR51000277"
+  },
+  {
+    "title": "Mal Tamanho",
+    "artist": "Nacia Gomi",
+    "isrc": "QMDA61534657"
+  },
+  {
+    "title": "Faca Não",
+    "artist": "Abel Lima",
+    "isrc": "QMDA61513239"
+  },
+  {
+    "title": "Desgraca̧da",
+    "artist": "Antonio Sanches",
+    "isrc": "DENR91808002"
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "title": "Mis manos",
+    "artist": "Juanita Cuenca",
+    "isrc": "ES6341000202"
+  },
+  {
+    "title": "Pénjamo",
+    "artist": "Hermanas Fleta",
+    "isrc": "ES5080900263"
+  },
+  {
+    "title": "Yo Te Dire (Habanera Bolero) - Remastered",
+    "artist": "Issa Pereira",
+    "isrc": "ES5330003252"
+  },
+  {
+    "title": "Mi Bebé - Baby Mine de la Película 'Dumbo' (Canción)",
+    "artist": "Rina Celi",
+    "isrc": "ES5330002362"
+  },
+  {
+    "title": "Despistada",
+    "artist": "Elsie Bayron",
+    "isrc": "QMBZ91419043"
+  },
+  {
+    "title": "Historia de un Amor",
+    "artist": "Trío Guadalajara, Maria Dolores",
+    "isrc": "ES7581300516"
+  },
+  {
+    "title": "Tibidabo (Rumba) - Remastered",
+    "artist": "Pepe Denis",
+    "isrc": "ES5330305995"
+  },
+  {
+    "title": "Hay Quien Dice de Jaen",
+    "artist": "Luisa Linares y Los Galindos",
+    "isrc": "ES7580700060"
+  },
+  {
+    "title": "La Perrita Pekinesa",
+    "artist": "Pepe Mairena",
+    "isrc": "USV351482652"
+  },
+  {
+    "title": "Mirando al Mar",
+    "artist": "Jorge Sepúlveda",
+    "isrc": "DEXN82257321"
+  },
+  {
+    "title": "El Caimán, Se Va el Caimán (Porro Colombiano) - Remastered",
+    "artist": "Joaquín Romero",
+    "isrc": "ES5330105114"
+  },
+  {
+    "title": "El Negro Zumbón - El Baión de Ana",
+    "artist": "Lolita Garrido",
+    "isrc": "DEUE12392729"
+  },
+  {
+    "title": "Cabaretera",
+    "artist": "Lorenzo González",
+    "isrc": "DEUD92377445"
+  },
+  {
+    "title": "Palmero Sube a la Palma",
+    "artist": "María Mérida, Los Costeños",
+    "isrc": "USV291485789"
+  },
+  {
+    "title": "Camino Verde",
+    "artist": "Juanito Segarra",
+    "isrc": "ES7580502104"
+  },
+  {
+    "title": "Por la Calle de Alcalá",
+    "artist": "Celia Gamez",
+    "isrc": "DEUE12392413"
+  },
+  {
+    "title": "Espinita",
+    "artist": "Ana María González",
+    "isrc": "DEVU52396746"
+  },
+  {
+    "title": "Volverá la Primavera",
+    "artist": "Bonet De San Pedro Y Los 7 De Palma",
+    "isrc": "QMBZ91419006"
+  },
+  {
+    "title": "Los Feos (Chotis) - Remastered",
+    "artist": "Los Xey",
+    "isrc": "ES5330103969"
+  },
+  {
+    "title": "El Tiroliro",
+    "artist": "Bonet de San Pedro",
+    "isrc": "ES7580501899"
+  },
+  {
+    "title": "El Chico Del Trombón (Foxtrot)",
+    "artist": "Mary Merche",
+    "isrc": "ES5330001500"
+  },
+  {
+    "title": "Tú y Yo (Fox Lento) - Remastered",
+    "artist": "Jose Valero",
+    "isrc": "ES5330203380"
+  },
+  {
+    "title": "¡Hala Madrid! (Himno del Real Madrid - Real Madrid Anthem)",
+    "artist": "José de Aguilar",
+    "isrc": "DEZZ42149095"
+  },
+  {
+    "title": "Canto a la Madre: Campanilleros",
+    "artist": "Adelfa Soto",
+    "isrc": "ES5271502608"
+  },
+  {
+    "title": "Madrid (Chotis)",
+    "artist": "Mario Visconti",
+    "isrc": "ES5330103549"
+  },
+  {
+    "title": "Rocío bendito",
+    "artist": "Rafael Medina",
+    "isrc": "ES18B1501310"
+  },
+  {
+    "title": "Señor Don Juan",
+    "artist": "Antonio Machin Y Su Conjunto",
+    "isrc": "QM6N21998274"
+  },
+  {
+    "title": "Que Bonita Es Mi Niña",
+    "artist": "Los Gaditanos",
+    "isrc": "ES5279902401"
+  },
+  {
+    "title": "Yo Te Dar‚ Caf",
+    "artist": "La Pitusilla",
+    "isrc": "BEDO62316780"
+  },
+  {
+    "title": "¡Qué bonito es mi niño! (remastered)",
+    "artist": "Carmen de Veracruz",
+    "isrc": "ES6340900749"
+  },
+  {
+    "title": "Salud, Dinero y Amor",
+    "artist": "Inesita Pena",
+    "isrc": "BEDO62316779"
+  },
+  {
+    "title": "Qué Bonita Es Barcelona! (Foxtrot) - Remastered",
+    "artist": "Los Clippers",
+    "isrc": "ES5330105131"
+  },
+  {
+    "title": "Niña Isabel (Foxtrot del Musical \" Sueños de Viena \" ) - Remastered",
+    "artist": "Luisita Calle",
+    "isrc": "ES5330105148"
+  },
+  {
+    "title": "Santa Marta (Foxtrot) - Remastered",
+    "artist": "Tomás Ríos",
+    "isrc": "ES5330003950"
+  },
+  {
+    "title": "Vuelve el Bugui-Bugui - Remastered",
+    "artist": "Orquesta Demon",
+    "isrc": "QM7281974546"
+  },
+  {
+    "title": "En el Azul del Cielo: Nel Blu Dipinto de Blu",
+    "artist": "Trío Siboney",
+    "isrc": "ES5271501505"
+  },
+  {
+    "title": "Tabernero",
+    "artist": "El Gran Kiki",
+    "isrc": "ES6340901826"
+  },
+  {
+    "title": "Mi Vaca Lechera",
+    "artist": "Juan Torregrosa",
+    "isrc": "QM7281428372"
+  },
+  {
+    "title": "Segoviana",
+    "artist": "Luisita Esteso",
+    "isrc": "ES5272101104"
+  },
+  {
+    "title": "Yo Te Diré (Rumba Habanera) - Remastered",
+    "artist": "María Teresa Valcárcel",
+    "isrc": "ES5330105145"
+  },
+  {
+    "title": "María Cristina Me Quiere Gobernar (Mambo) - Remastered",
+    "artist": "Mays Sisters",
+    "isrc": "ES5330105116"
+  },
+  {
+    "title": "Mi Casita de Papel",
+    "artist": "Raúl Abril y Su Orquesta",
+    "isrc": "ES5279902507"
+  },
+  {
+    "title": "Cuando calienta el Sol",
+    "artist": "Hermanos Rigual",
+    "isrc": "ES64A0901803"
+  },
+  {
+    "title": "El Gato Montés - Remastered",
+    "artist": "Tip y Top",
+    "isrc": "ES5330104120"
+  },
+  {
+    "title": "El Otorrinolaringólogo",
+    "artist": "Los Machucambos",
+    "isrc": "DEUE12392469"
+  },
+  {
+    "title": "La Polka del Cachete (Fox Polka) - Remastered",
+    "artist": "Hermanas Russell",
+    "isrc": "ES5330105121"
+  },
+  {
+    "title": "Media Hora",
+    "artist": "Mari Merche Y Su Orquesta",
+    "isrc": "US6R21333121"
+  },
+  {
+    "title": "¡Yo (De Madrid)! (Chotis)",
+    "artist": "Mary Begoña, Hector Monteverde",
+    "isrc": "ES5330101985"
+  },
+  {
+    "title": "TibiDabo",
+    "artist": "Pepe Denis Y Su Conjunto",
+    "isrc": "USA560998580"
+  },
+  {
+    "title": "Secretaria Bonita (Pasodoble Madrileño)",
+    "artist": "Queta Claver",
+    "isrc": "ES5330202058"
+  },
+  {
+    "title": "Quizás, quizás, quizás",
+    "artist": "Xavier Cugat y su Orquesta",
+    "isrc": "ES5240001292"
+  },
+  {
+    "title": "Confieso",
+    "artist": "Antonio Maya",
+    "isrc": "ESA092401485"
+  },
+  {
+    "title": "Adios Linda Morena (Adios)",
+    "artist": "Enric Madriguera",
+    "isrc": "USXTG1100719"
+  },
+  {
+    "title": "Strutin With Some Barbecue",
+    "artist": "Jose Moro Y Su Orquesta",
+    "isrc": "QMBZ91419034"
+  },
+  {
+    "title": "Quien Será [remastered]",
+    "artist": "Los 4 De Ruff",
+    "isrc": "ES6341000091"
+  },
+  {
+    "title": "Georgia de Mi Pensamiento",
+    "artist": "Quinteto Hot de Barcelona",
+    "isrc": "BEDO62316806"
+  },
+  {
+    "title": "Danza de los Espíritus",
+    "artist": "Ramon Busquets Y Su Orquesta",
+    "isrc": "QMBZ91419003"
+  },
+  {
+    "title": "Clarinete",
+    "artist": "Rovireta Ventas Y Su Sexteto",
+    "isrc": "QMBZ91419040"
+  },
+  {
+    "title": "Faustina",
+    "artist": "Juanita Cuenca",
+    "isrc": "ES6341000213"
+  },
+  {
+    "title": "Española",
+    "artist": "Hermanas Fleta",
+    "isrc": "ES5081200281"
+  },
+  {
+    "title": "La Chula Marquesa (Pasodoble) - Remastered",
+    "artist": "Issa Pereira",
+    "isrc": "ES5330003261"
+  },
+  {
+    "title": "Mimi Mimosa (Foxtrot) - Remastered",
+    "artist": "Rina Celi",
+    "isrc": "ES5330002354"
+  },
+  {
+    "title": "Ay Quien Fuera Blanco - Remastered",
+    "artist": "Elsie Bayron",
+    "isrc": "QM4TW2044666"
+  },
+  {
+    "title": "¡A lo loco!¡A lo loco! (remastered)",
+    "artist": "Trío Guadalajara",
+    "isrc": "ES6150500008"
+  },
+  {
+    "title": "Copacabana (Canción Bolero) - Remastered",
+    "artist": "Pepe Denis",
+    "isrc": "ES5330105105"
+  },
+  {
+    "title": "Mi Ovejita Lucera (Pasodoble) - Remastered",
+    "artist": "Pepe Mairena",
+    "isrc": "ES5330103312"
+  },
+  {
+    "title": "A Lo Loco a Lo Loco",
+    "artist": "Luisa Linares y Los Galindos",
+    "isrc": "ES8620904401"
+  },
+  {
+    "title": "El Caiman",
+    "artist": "Joaquín Romero, Orquestra",
+    "isrc": "USA560998611"
+  },
+  {
+    "title": "Tres Veces Guapa",
+    "artist": "Jorge Sepúlveda",
+    "isrc": "DEXN82257323"
+  },
+  {
+    "title": "Yo Quiero Tener un Bote - Remastered",
+    "artist": "Lolita Garrido",
+    "isrc": "ES58A2101425"
+  },
+  {
+    "title": "Niña",
+    "artist": "Lorenzo González",
+    "isrc": "DEUD92377446"
+  },
+  {
+    "title": "Palmero, Sube a la Palma (Isas) - Remastered",
+    "artist": "María Mérida",
+    "isrc": "ES5330105138"
+  },
+  {
+    "title": "Camino Verde (Bolero) - Remastered",
+    "artist": "Juanito Segarra",
+    "isrc": "ES5330203425"
+  },
+  {
+    "title": "¡Ya hemos pasao!",
+    "artist": "Celia Gamez",
+    "isrc": "DEUE12392416"
+  },
+  {
+    "title": "Madrid",
+    "artist": "Ana María González",
+    "isrc": "DEVU52396747"
+  },
+  {
+    "title": "Carpintero, carpintero",
+    "artist": "Bonet De San Pedro Y Los 7 De Palma",
+    "isrc": "ES5080500713"
+  },
+  {
+    "title": "Si vas a catalayud (remastered)",
+    "artist": "Los Xey",
+    "isrc": "ES6340100315"
+  },
+  {
+    "title": "¡Vaya Familia! (Foxtrot)",
+    "artist": "Mary Merche",
+    "isrc": "ES5330001481"
+  },
+  {
+    "title": "Canción de Otoño (Shadows On the Moon) (Foxtrot) - Remastered",
+    "artist": "Jose Valero",
+    "isrc": "ES5330203371"
+  },
+  {
+    "title": "El Caiman",
+    "artist": "Bonet de San Pedro",
+    "isrc": "ES7580501900"
+  },
+  {
+    "title": "Soldadito español",
+    "artist": "Adelfa Soto",
+    "isrc": "ES5831300203"
+  },
+  {
+    "title": "Uno... \" Si Yo Tuviera un Corazón \" (Tango)",
+    "artist": "Mario Visconti",
+    "isrc": "ES5330003532"
+  },
+  {
+    "title": "Himno Oficial del Atlético de Madrid",
+    "artist": "José de Aguilar",
+    "isrc": "DEXN81818010"
+  },
+  {
+    "title": "La virgen ya está en la calle",
+    "artist": "Rafael Medina, Alfonso Pancho, Carmen Villalon, Diego Benjumea, Helga Molina, José Luis Pérez-Vera, Las Molina, Macarena de la Torre",
+    "isrc": "ES18B1600359"
+  },
+  {
+    "title": "A Lo Calloway",
+    "artist": "Antonio Machin Y Su Conjunto",
+    "isrc": "QM6N21998273"
+  },
+  {
+    "title": "Cantes del Pipoño",
+    "artist": "Los Gaditanos",
+    "isrc": "IEWGI2216255"
+  },
+  {
+    "title": "Iqué Bonito Es Mi Niño! (Bolero) - Remastered",
+    "artist": "Carmen de Veracruz",
+    "isrc": "ES5330105140"
+  },
+  {
+    "title": "Salud Dinero y Amor",
+    "artist": "Inesita Pena, Orquesta Martín De La Rosa",
+    "isrc": "NLHR52082099"
+  },
+  {
+    "title": "Yo Te Dare",
+    "artist": "La Pitusilla",
+    "isrc": "ES5621003203"
+  },
+  {
+    "title": "Que Yo No Se Bailar el Twist",
+    "artist": "Los Clippers",
+    "isrc": "QM6N22233210"
+  },
+  {
+    "title": "La niña de embajadores (remastered)",
+    "artist": "Luisita Calle",
+    "isrc": "ES6340901749"
+  },
+  {
+    "title": "El Paragüero (Guaracha Pregón) - Remastered",
+    "artist": "Tomás Ríos",
+    "isrc": "ES5330003946"
+  },
+  {
+    "title": "Mujer Querida",
+    "artist": "Orquesta Demon",
+    "isrc": "DEKB71569880"
+  },
+  {
+    "title": "Credo",
+    "artist": "Trío Siboney",
+    "isrc": "ES5371600716"
+  },
+  {
+    "title": "El Tabernero",
+    "artist": "El Gran Kiki",
+    "isrc": "QM7281485405"
+  },
+  {
+    "title": "Lo mismo que yo",
+    "artist": "Luisita Esteso",
+    "isrc": "ES5272101113"
+  },
+  {
+    "title": "¡Qué Va...! (Bolero)",
+    "artist": "Juanita Cuenca",
+    "isrc": "ES5330202727"
+  },
+  {
+    "title": "Primavera en río - Bolero-Beguine",
+    "artist": "Hermanas Fleta",
+    "isrc": "ES5151700323"
+  },
+  {
+    "title": "No Se Que Tiene Tu Pelo (Bolero) - Remastered",
+    "artist": "Issa Pereira",
+    "isrc": "ES5330003269"
+  },
+  {
+    "title": "Una casita (remastered)",
+    "artist": "Rina Celi",
+    "isrc": "ES6150400194"
+  },
+  {
+    "title": "El Achicharren",
+    "artist": "Elsie Bayron",
+    "isrc": "ES5219800049"
+  },
+  {
+    "title": "La Malaguena",
+    "artist": "Trío Guadalajara",
+    "isrc": "USBT21622886"
+  },
+  {
+    "title": "Tibidabo (remastered)",
+    "artist": "Pepe Denis",
+    "isrc": "ES6150400164"
+  },
+  {
+    "title": "Toro \" Nevao \" (Tientos) - Remastered",
+    "artist": "Pepe Mairena",
+    "isrc": "ES5330103310"
+  },
+  {
+    "title": "Me Gusta Mi Novio",
+    "artist": "Luisa Linares y Los Galindos",
+    "isrc": "ES8620904410"
+  },
+  {
+    "title": "Somos Diferentes",
+    "artist": "Joaquín Romero, Orquestra Dirigida Por Nicasio Tejada",
+    "isrc": "USA560998573"
+  },
+  {
+    "title": "Mi Casita de Papel",
+    "artist": "Jorge Sepúlveda",
+    "isrc": "DEXN82257322"
+  },
+  {
+    "title": "Cabeza Hinchada",
+    "artist": "Lolita Garrido",
+    "isrc": "ES5270800633"
+  },
+  {
+    "title": "¡hola! ¿qué Tal?",
+    "artist": "Lorenzo González",
+    "isrc": "DEUD92377447"
+  },
+  {
+    "title": "Luna Canaria",
+    "artist": "María Mérida, Los Costeños",
+    "isrc": "USV291485787"
+  },
+  {
+    "title": "Dos Cruces",
+    "artist": "Juanito Segarra",
+    "isrc": "ES7580502107"
+  },
+  {
+    "title": "Estudiantina Portuguesa",
+    "artist": "Celia Gamez",
+    "isrc": "DEUE12392414"
+  },
+  {
+    "title": "Lo Que Dice el Vibráfono",
+    "artist": "Bonet De San Pedro Y Los 7 De Palma",
+    "isrc": "QMBZ91419019"
+  },
+  {
+    "title": "Madrid - Versión Alternativa",
+    "artist": "Ana María González",
+    "isrc": "DEVU52396771"
+  },
+  {
+    "title": "Buen Menú - Remastered",
+    "artist": "Los Xey",
+    "isrc": "ES58A2101730"
+  },
+  {
+    "title": "Summum (Foxtrot)",
+    "artist": "Mary Merche",
+    "isrc": "ES5330001477"
+  }
+]

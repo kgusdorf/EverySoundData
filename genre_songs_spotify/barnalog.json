@@ -1,0 +1,792 @@
+[
+  {
+    "title": "Ég á gamla frænku",
+    "artist": "Örn Árnason, Ása Hlín Svavarsdóttir",
+    "isrc": "ISA220900593"
+  },
+  {
+    "title": "Ryksugulag",
+    "artist": "Olga Guðrún Árnadóttir, Ólafur Haukur Símonarson",
+    "isrc": "ISA109500609"
+  },
+  {
+    "title": "Stóra brúin fer upp og niður",
+    "artist": "Svanhildur Jakobsdóttir",
+    "isrc": "ISA100001507"
+  },
+  {
+    "title": "Allur matur á að fara",
+    "artist": "Edda Heiðrún Backman",
+    "isrc": "ISA109001022"
+  },
+  {
+    "title": "Krummi krunkar úti",
+    "artist": "Söngfuglarnir",
+    "isrc": "ISA110903707"
+  },
+  {
+    "title": "Ligga, ligga lá",
+    "artist": "Gunni og Felix",
+    "isrc": "ISA111002402"
+  },
+  {
+    "title": "Sól skín á mig",
+    "artist": "Sólskinskórinn",
+    "isrc": "ISA220800434"
+  },
+  {
+    "title": "Ruplum og rænum (Live)",
+    "artist": "Sveppi, Villi",
+    "isrc": "ISA111003113"
+  },
+  {
+    "title": "Litli Mexikaninn",
+    "artist": "Katla María",
+    "isrc": "ISA110755715"
+  },
+  {
+    "title": "Furðuverk",
+    "artist": "Ruth Reginalds",
+    "isrc": "ISA110501201"
+  },
+  {
+    "title": "Stína og brúðan hennar",
+    "artist": "Helga Möller",
+    "isrc": "ISA109001405"
+  },
+  {
+    "title": "Þrír kettlingar",
+    "artist": "Hanna Valdís",
+    "isrc": "ISA109403908"
+  },
+  {
+    "title": "Ekki bíl",
+    "artist": "Hrekkjusvín",
+    "isrc": "ISA109800305"
+  },
+  {
+    "title": "Í Sælgætislandi",
+    "artist": "Glámur og Skrámur",
+    "isrc": "ISA109200604"
+  },
+  {
+    "title": "Svangir bræður",
+    "artist": "Leikhópurinn Karíus, Baktus",
+    "isrc": "ISA111000205"
+  },
+  {
+    "title": "Komdu með inn í álfanna heim",
+    "artist": "Björgvin Franz Gíslason",
+    "isrc": "ISA110201035"
+  },
+  {
+    "title": "Helztu fréttir 1939-1940",
+    "artist": "Gísli Rúnar",
+    "isrc": "ISB112105602"
+  },
+  {
+    "title": "Fugladansinn",
+    "artist": "Ómar Ragnarsson",
+    "isrc": "ISA109501007"
+  },
+  {
+    "title": "Fiskurinn hennar Stínu",
+    "artist": "Felix Bergsson",
+    "isrc": "ISA110403607"
+  },
+  {
+    "title": "Hep tú, hep tú",
+    "artist": "Leikhópurinn Ávaxtakarfan",
+    "isrc": "ISA111203102"
+  },
+  {
+    "title": "Kakkalakkinn",
+    "artist": "Eiríkur Fjalar",
+    "isrc": "ISA221302209"
+  },
+  {
+    "title": "Fiskalagið",
+    "artist": "Skoppa og Skrítla",
+    "isrc": "ISA110701903"
+  },
+  {
+    "title": "Lagið um það sem er bannað",
+    "artist": "Sveinbjörn I. Baldvinsson",
+    "isrc": "ISA111001105"
+  },
+  {
+    "title": "Krúsilíus",
+    "artist": "Anna Pálína, Aðalsteinn Ásberg",
+    "isrc": "ISZ109800301"
+  },
+  {
+    "title": "Royi Roggers",
+    "artist": "Halli og Laddi",
+    "isrc": "ISA110200648"
+  },
+  {
+    "title": "Vísur Bastíans bæjarfógeta",
+    "artist": "Leikhópurinn Kardemommubærinn",
+    "isrc": "ISA111000101"
+  },
+  {
+    "title": "Krummavísur",
+    "artist": "Aðalsteinn Ásberg, Anna Pálína",
+    "isrc": "ISZ100000305"
+  },
+  {
+    "title": "Höfuð, herðar, hné og tær",
+    "artist": "Edda Borg og barnakór",
+    "isrc": "GBMJG1701076"
+  },
+  {
+    "title": "Bing Bang (Live)",
+    "artist": "Unnur Eggertsdóttir",
+    "isrc": "ISA111003114"
+  },
+  {
+    "title": "Heimsins besti Kalli",
+    "artist": "Leikhópurinn Kalli á þakinu",
+    "isrc": "ISA220900281"
+  },
+  {
+    "title": "Prumpufólkið",
+    "artist": "Dr. Gunni, vinir hans, Jón Gnarr",
+    "isrc": "ISC109700302"
+  },
+  {
+    "title": "Komdu með inn í álfanna heim",
+    "artist": "Leikhópurinn Benedikt búálfur",
+    "isrc": "ISA110201070"
+  },
+  {
+    "title": "Kóngur klár",
+    "artist": "Stefán Karl Stefánsson, Grímur Gíslason",
+    "isrc": "ISA109900503"
+  },
+  {
+    "title": "Hér sérðu Línu Langsokk",
+    "artist": "Leikhópurinn Lína Langsokkur, Geirfuglarnir, Borgarleikhúsið",
+    "isrc": "ISA220900166"
+  },
+  {
+    "title": "Sagan af Gutta",
+    "artist": "Bessi Bjarnason",
+    "isrc": "ISA109402106"
+  },
+  {
+    "title": "Sem lindin tær",
+    "artist": "Ýmsir",
+    "isrc": "ISA110802316"
+  },
+  {
+    "title": "Ákall til Ása Þórs",
+    "artist": "Bergsveinn Arilíusson",
+    "isrc": "ISZRU1014468"
+  },
+  {
+    "title": "Vögguvísa",
+    "artist": "Leikhópurinn Dýrin í Hálsaskógi",
+    "isrc": "ISA111000308"
+  },
+  {
+    "title": "Bíópopp - syrpa",
+    "artist": "Rokklingarnir",
+    "isrc": "ISA109302406"
+  },
+  {
+    "title": "Róbert bangsi",
+    "artist": "Margrét Eir",
+    "isrc": "ISA110301409"
+  },
+  {
+    "title": "Er vetur mætir vori",
+    "artist": "Anna Kristín Gunnarsdóttir, Gradualekór Langholtskirkju",
+    "isrc": "ISZRU1002094"
+  },
+  {
+    "title": "Forleikur",
+    "artist": "Úr leikriti",
+    "isrc": "ISA110806701"
+  },
+  {
+    "title": "Farðu á fætur",
+    "artist": "Algjör Sveppi",
+    "isrc": "ISA111000501"
+  },
+  {
+    "title": "Bangsi minn",
+    "artist": "Barnaheill – Save the Children á Íslandi, Ragga Gröndal, Stefán Örn Gunnlaugsson",
+    "isrc": "ISV441900902"
+  },
+  {
+    "title": "Kalli kónguló",
+    "artist": "Helga Rut Gudmundsdottir",
+    "isrc": "GBSMU7576194"
+  },
+  {
+    "title": "Kisa mín",
+    "artist": "Margrét Örnólfsdóttir",
+    "isrc": "ISA109202205"
+  },
+  {
+    "title": "Siggi var úti",
+    "artist": "Stóru börnin",
+    "isrc": "ISA220800563"
+  },
+  {
+    "title": "Við erum lentir",
+    "artist": "Hattur og Fattur",
+    "isrc": "ISA100004202"
+  },
+  {
+    "title": "Líttu sérhvert sólarlag",
+    "artist": "Sigríður Thorlacius, Valdimar Guðmundsson, Bragi Valdimar Skúlason",
+    "isrc": "ISA111303418"
+  },
+  {
+    "title": "Órabelgur",
+    "artist": "Soffía og Anna Sigga",
+    "isrc": "USA2P2343940"
+  },
+  {
+    "title": "No Predjudice",
+    "artist": "Pollapönk",
+    "isrc": "ISV451400101"
+  },
+  {
+    "title": "Dvel ég í draumahöll",
+    "artist": "Sesselja Magnúsdóttir, Friðrik Karlsson",
+    "isrc": "ISA110605910"
+  },
+  {
+    "title": "Niðri á sandi",
+    "artist": "Jógvan",
+    "isrc": "QZHNC2427920"
+  },
+  {
+    "title": "Komdu niður",
+    "artist": "Anna Sigga, Soffía og Anna Sigga",
+    "isrc": "ISA109702207"
+  },
+  {
+    "title": "Grísin dátt galar kátt",
+    "artist": "Helgi Hjörvar",
+    "isrc": "ISA109202203"
+  },
+  {
+    "title": "Kalli litla könguló",
+    "artist": "María Björk Sverrisdóttir",
+    "isrc": "ISZRU1005024"
+  },
+  {
+    "title": "Glettinn Maninn",
+    "artist": "Halldor Waren",
+    "isrc": "TCABR1312113"
+  },
+  {
+    "title": "Súrmjólk í hádeginu",
+    "artist": "Guðmundur Rúnar Lúðvíksson",
+    "isrc": "ISA109702228"
+  },
+  {
+    "title": "Það búa litlir dvergar",
+    "artist": "Barnakór Magnúsar Péturssonar",
+    "isrc": "ISA220800438"
+  },
+  {
+    "title": "Hárfinnur hárfíni",
+    "artist": "Eggert Þorleifsson",
+    "isrc": "ISA100002803"
+  },
+  {
+    "title": "Skreytum",
+    "artist": "Margrét Pétursdóttir",
+    "isrc": "ISA109803609"
+  },
+  {
+    "title": "Skólarapp",
+    "artist": "Þorvaldur Davíð Kristjánsso, Sara Dís Hjaltested",
+    "isrc": "ISA100004213"
+  },
+  {
+    "title": "Úti um mó (Syrpa)",
+    "artist": "Barnakór undir stjórn Guðrúnar Katrínar Árnadóttur",
+    "isrc": "ISA109702020"
+  },
+  {
+    "title": "Ó, mamma gef mér rós",
+    "artist": "Emilía Guðrún Takacs",
+    "isrc": "ISA110607310"
+  },
+  {
+    "title": "Ronja ræningjadóttir",
+    "artist": "Guðmundur Ólafsson",
+    "isrc": "ISA109702012"
+  },
+  {
+    "title": "Vinkonur",
+    "artist": "Lára, Selma Björnsdóttir, Birgitta",
+    "isrc": "ISA110705506"
+  },
+  {
+    "title": "Bjarnastaðabeljurnar",
+    "artist": "Samkór Skaðvaldar",
+    "isrc": "ISA109702015"
+  },
+  {
+    "title": "Það er eitt",
+    "artist": "Ólafur Kjartan Sigurðsson",
+    "isrc": "ISA109205901"
+  },
+  {
+    "title": "Kysst 'ana",
+    "artist": "Atli Rafn Sigurðarson",
+    "isrc": "ISA109900509"
+  },
+  {
+    "title": "Stóri bróðir",
+    "artist": "Bland í poka",
+    "isrc": "ISV441969805"
+  },
+  {
+    "title": "Varði",
+    "artist": "Diljá Mist",
+    "isrc": "ISI109801003"
+  },
+  {
+    "title": "Hlustið kæru vinir",
+    "artist": "Gunnar Erik Snorrason, Sóley Rún Arnarsdóttir, Hlynur Atli Harðarson, Þórunn Obba Gunnarsdóttir, Borgarleikhúsið, Kór leikara Borgarleikhússins",
+    "isrc": "ISB112205101"
+  },
+  {
+    "title": "Æfintýri í Mararþaraborg - 2",
+    "artist": "Helgi Skúlason",
+    "isrc": "ISA110303502"
+  },
+  {
+    "title": "Enginn latur í Latabæ (Latibær)",
+    "artist": "Latibær",
+    "isrc": "ISA111001801"
+  },
+  {
+    "title": "Strengir",
+    "artist": "Margrét Helga Jóhannsdóttir",
+    "isrc": "ISA110707802"
+  },
+  {
+    "title": "Vaxtalagið",
+    "artist": "Valur, Tinna",
+    "isrc": "ISA220801469"
+  },
+  {
+    "title": "Syngjandi hér, syngjandi þar",
+    "artist": "Þrjú á palli ásamt Sólskinskórnum",
+    "isrc": "ISA111000901"
+  },
+  {
+    "title": "Spirre virre vip",
+    "artist": "Örn Árnason, Ása Hlín Svavarsdóttir",
+    "isrc": "ISA220900585"
+  },
+  {
+    "title": "Um landið bruna bifreiðar",
+    "artist": "Svanhildur Jakobsdóttir",
+    "isrc": "ISA100001510"
+  },
+  {
+    "title": "Ég heyri svo vel",
+    "artist": "Olga Guðrún Árnadóttir, Ólafur Haukur Símonarson",
+    "isrc": "ISA109500604"
+  },
+  {
+    "title": "Dansi dansi dúkkan mín",
+    "artist": "Edda Heiðrún Backman",
+    "isrc": "ISA109001020"
+  },
+  {
+    "title": "Tíu litlir fingur",
+    "artist": "Söngfuglarnir",
+    "isrc": "ISA110903713"
+  },
+  {
+    "title": "Í dýragarð ég fer",
+    "artist": "Gunni og Felix",
+    "isrc": "ISA109903812"
+  },
+  {
+    "title": "Kisutangó",
+    "artist": "Sólskinskórinn",
+    "isrc": "ISA220800431"
+  },
+  {
+    "title": "Óskastjarnan",
+    "artist": "Sveppi, Jóhann Sigurðarson",
+    "isrc": "ISA220801582"
+  },
+  {
+    "title": "Emil í Kattholti",
+    "artist": "Katla María, Pálmi Gunnarsson",
+    "isrc": "ISA109205210"
+  },
+  {
+    "title": "Tunglið, tunglið taktu mig",
+    "artist": "Helga Möller",
+    "isrc": "ISA109001401"
+  },
+  {
+    "title": "Tóm tjara",
+    "artist": "Ruth Reginalds",
+    "isrc": "ISA110501002"
+  },
+  {
+    "title": "Refurinn lævísi",
+    "artist": "Hanna Valdís",
+    "isrc": "ISA109104014"
+  },
+  {
+    "title": "Gestir út um allt",
+    "artist": "Hrekkjusvín",
+    "isrc": "ISA109800310"
+  },
+  {
+    "title": "Ég er flughestur",
+    "artist": "Glámur og Skrámur",
+    "isrc": "ISA109200602"
+  },
+  {
+    "title": "Bræður í klípu",
+    "artist": "Leikhópurinn Karíus, Baktus",
+    "isrc": "ISA111000207"
+  },
+  {
+    "title": "Hal-Ló-Ha-Na-Nú 1944",
+    "artist": "Gísli Rúnar",
+    "isrc": "ISB112105615"
+  },
+  {
+    "title": "Syrpa - Punktur, punktur",
+    "artist": "Björgvin Franz Gíslason",
+    "isrc": "USA2P2231358"
+  },
+  {
+    "title": "Ég er að baka",
+    "artist": "Ómar Ragnarsson",
+    "isrc": "ISA109501001"
+  },
+  {
+    "title": "Aukahlutir",
+    "artist": "Felix Bergsson",
+    "isrc": "ISA110508206"
+  },
+  {
+    "title": "Draumur um Nínu",
+    "artist": "Eiríkur Fjalar",
+    "isrc": "ISA221302201"
+  },
+  {
+    "title": "Vinkonur",
+    "artist": "Leikhópurinn Ávaxtakarfan",
+    "isrc": "ISA111203112"
+  },
+  {
+    "title": "Dúkkan hennar Dóru",
+    "artist": "Skoppa og Skrítla",
+    "isrc": "ISA110701912"
+  },
+  {
+    "title": "Hann var einn heima",
+    "artist": "Sveinbjörn I. Baldvinsson",
+    "isrc": "ISA111001102"
+  },
+  {
+    "title": "Drippedí-dripp, droppedí-dropp",
+    "artist": "Anna Pálína, Aðalsteinn Ásberg",
+    "isrc": "ISZ109800302"
+  },
+  {
+    "title": "Austurstræti",
+    "artist": "Halli og Laddi",
+    "isrc": "ISA110200650"
+  },
+  {
+    "title": "Söngur Syversen vagnstjóra",
+    "artist": "Leikhópurinn Kardemommubærinn",
+    "isrc": "ISA111000103"
+  },
+  {
+    "title": "Draugaromsa",
+    "artist": "Aðalsteinn Ásberg",
+    "isrc": "ISZ100000310"
+  },
+  {
+    "title": "Hreyfa litla fingur",
+    "artist": "Edda Borg og barnakór",
+    "isrc": "GBMJG1701064"
+  },
+  {
+    "title": "Sollusyrpan (Live)",
+    "artist": "Unnur Eggertsdóttir",
+    "isrc": "ISA111003106"
+  },
+  {
+    "title": "Hvellur á að koma",
+    "artist": "Leikhópurinn Kalli á þakinu",
+    "isrc": "ISA220900285"
+  },
+  {
+    "title": "Abba babb!",
+    "artist": "Dr. Gunni, vinir hans",
+    "isrc": "ISC109700301"
+  },
+  {
+    "title": "Tóti tannálfur",
+    "artist": "Leikhópurinn Benedikt búálfur",
+    "isrc": "ISA110201072"
+  },
+  {
+    "title": "Hakuna matata",
+    "artist": "Stefán Karl Stefánsson, Grímur Gíslason",
+    "isrc": "ISA109900508"
+  },
+  {
+    "title": "Aravísur",
+    "artist": "Bessi Bjarnason",
+    "isrc": "ISA109402112"
+  },
+  {
+    "title": "Mömmu litla letidýr",
+    "artist": "Leikhópurinn Lína Langsokkur, Geirfuglarnir, Borgarleikhúsið",
+    "isrc": "ISA220900182"
+  },
+  {
+    "title": "Bísin",
+    "artist": "Ýmsir",
+    "isrc": "ISRRU1000133"
+  },
+  {
+    "title": "Dimmar rósir",
+    "artist": "Bergsveinn Arilíusson",
+    "isrc": "ISA109303306"
+  },
+  {
+    "title": "Piparkökusöngurinn",
+    "artist": "Leikhópurinn Dýrin í Hálsaskógi",
+    "isrc": "ISA111000312"
+  },
+  {
+    "title": "Sagan af Nínu og Geira",
+    "artist": "Rokklingarnir",
+    "isrc": "ISA109302410"
+  },
+  {
+    "title": "Vindsins litadýrð",
+    "artist": "Margrét Eir",
+    "isrc": "ISA109900507"
+  },
+  {
+    "title": "Senn kemur vor",
+    "artist": "Dimitri Kabalevski, Gradualekór Langholtskirkju",
+    "isrc": "ISZRU1004466"
+  },
+  {
+    "title": "Við förum í suðsuðaustur",
+    "artist": "Úr leikriti",
+    "isrc": "ISA110806718"
+  },
+  {
+    "title": "Bessi Bósi og Lassi",
+    "artist": "Algjör Sveppi",
+    "isrc": "ISA111000512"
+  },
+  {
+    "title": "Kanntu að hoppa?",
+    "artist": "Barnaheill – Save the Children á Íslandi, Ragga Gröndal, Stefán Örn Gunnlaugsson",
+    "isrc": "ISV441864407"
+  },
+  {
+    "title": "Heim til Hóla - Tónagull orginal",
+    "artist": "Helga Rut Gudmundsdottir",
+    "isrc": "GBSMU7408407"
+  },
+  {
+    "title": "Góðan dag!",
+    "artist": "Margrét Örnólfsdóttir",
+    "isrc": "ISC100101101"
+  },
+  {
+    "title": "Ef væri ég söngvari",
+    "artist": "Stóru börnin",
+    "isrc": "ISA220800575"
+  },
+  {
+    "title": "Morgunmatur",
+    "artist": "Hattur og Fattur",
+    "isrc": "ISA109601710"
+  },
+  {
+    "title": "Sumar er í sveit",
+    "artist": "Soffía og Anna Sigga, Hljómsveit Árna Ísleif",
+    "isrc": "USA2P2343945"
+  },
+  {
+    "title": "Gilligill",
+    "artist": "Sigríður Thorlacius, Bragi Valdimar Skúlason",
+    "isrc": "ISA110805301"
+  },
+  {
+    "title": "113 Vælubíllinn",
+    "artist": "Pollapönk",
+    "isrc": "ISV281000201"
+  },
+  {
+    "title": "Í bljúgri bæn",
+    "artist": "Sesselja Magnúsdóttir, Friðrik Karlsson",
+    "isrc": "ISA110605901"
+  },
+  {
+    "title": "Sov nú ungi ástur mín",
+    "artist": "Jógvan",
+    "isrc": "ISA111106020"
+  },
+  {
+    "title": "Strætóvísur",
+    "artist": "Örn Árnason, Ása Hlín Svavarsdóttir",
+    "isrc": "ISA220900595"
+  },
+  {
+    "title": "Fingurnir",
+    "artist": "Svanhildur Jakobsdóttir",
+    "isrc": "ISA100001504"
+  },
+  {
+    "title": "Eniga meniga",
+    "artist": "Olga Guðrún Árnadóttir, Ólafur Haukur Símonarson",
+    "isrc": "ISA109500601"
+  },
+  {
+    "title": "Ég ætla að mála allan heiminn, elsku mamma",
+    "artist": "Söngfuglarnir",
+    "isrc": "ISA110903702"
+  },
+  {
+    "title": "Pálína með prikið",
+    "artist": "Edda Heiðrún Backman",
+    "isrc": "ISA109001001"
+  },
+  {
+    "title": "Markó Póló",
+    "artist": "Gunni og Felix",
+    "isrc": "ISA110603816"
+  },
+  {
+    "title": "Sól sól skín á mig",
+    "artist": "Sólskinskórinn",
+    "isrc": "ISA111403819"
+  },
+  {
+    "title": "Söngur dýranna í Týról",
+    "artist": "Sveppi",
+    "isrc": "ISA110403601"
+  },
+  {
+    "title": "Ef væri ég fugl",
+    "artist": "Katla María",
+    "isrc": "ISA110903802"
+  },
+  {
+    "title": "Ort í sandinn",
+    "artist": "Helga Möller",
+    "isrc": "ISA220800099"
+  },
+  {
+    "title": "Róbert bangsi",
+    "artist": "Ruth Reginalds",
+    "isrc": "ISA110305201"
+  },
+  {
+    "title": "Lína Langsokkur",
+    "artist": "Hanna Valdís",
+    "isrc": "ISA220800442"
+  },
+  {
+    "title": "Hvað ætlar þú að verða",
+    "artist": "Hrekkjusvín",
+    "isrc": "ISA109800302"
+  },
+  {
+    "title": "Spóla spólvitlausa",
+    "artist": "Glámur og Skrámur",
+    "isrc": "ISA109200605"
+  },
+  {
+    "title": "Skyldi setuliðinu ekki leiðast á Íslandi 1942",
+    "artist": "Gísli Rúnar",
+    "isrc": "ISB112105613"
+  },
+  {
+    "title": "Guttavísur",
+    "artist": "Björgvin Franz Gíslason",
+    "isrc": "ISZ100001018"
+  },
+  {
+    "title": "Lok, lok og læs",
+    "artist": "Ómar Ragnarsson",
+    "isrc": "ISA109501004"
+  },
+  {
+    "title": "Sem hjörturinn þráir",
+    "artist": "Felix Bergsson",
+    "isrc": "ISV121100102"
+  },
+  {
+    "title": "Það er æðislega obboðslega gaman",
+    "artist": "Eiríkur Fjalar",
+    "isrc": "ISA221302210"
+  },
+  {
+    "title": "Litir",
+    "artist": "Leikhópurinn Ávaxtakarfan",
+    "isrc": "ISA111203101"
+  },
+  {
+    "title": "Ding dong",
+    "artist": "Skoppa og Skrítla",
+    "isrc": "ISA110701910"
+  },
+  {
+    "title": "Lagið um fuglinn",
+    "artist": "Sveinbjörn I. Baldvinsson",
+    "isrc": "ISA111001103"
+  },
+  {
+    "title": "Bullutröll",
+    "artist": "Anna Pálína",
+    "isrc": "ISZ100000301"
+  },
+  {
+    "title": "Tannpínusöngurinn",
+    "artist": "Halli og Laddi, Laddi",
+    "isrc": "ISA109702009"
+  },
+  {
+    "title": "Skammarsöngur Soffíu frænku",
+    "artist": "Leikhópurinn Kardemommubærinn",
+    "isrc": "ISA111000117"
+  },
+  {
+    "title": "Til æskunnar",
+    "artist": "Aðalsteinn Ásberg, Anna Pálína",
+    "isrc": "ISZ109200707"
+  },
+  {
+    "title": "Brunalið, köttur og skógarþröstur (Babú)",
+    "artist": "Edda Borg og barnakór",
+    "isrc": "GBMJG1701061"
+  },
+  {
+    "title": "Enginn latur í Latabæ (Live)",
+    "artist": "Unnur Eggertsdóttir, Matti Matt",
+    "isrc": "ISA111003111"
+  }
+]

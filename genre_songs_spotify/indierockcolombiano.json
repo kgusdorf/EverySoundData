@@ -1,0 +1,622 @@
+[
+  {
+    "title": "Es más fácil atrapar sombras",
+    "artist": "Matiu Colin",
+    "isrc": "QZNJV2017935"
+  },
+  {
+    "title": "Sueños en Rosa Reverberado",
+    "artist": "Hipsum",
+    "isrc": "US7VG2013115"
+  },
+  {
+    "title": "Una Cosa Es un Amigo (Otra un Cigarrillo)",
+    "artist": "La veo venir",
+    "isrc": "US7VG1922658"
+  },
+  {
+    "title": "Frágil",
+    "artist": "Higuita en Chanclas",
+    "isrc": "QZNJZ2317321"
+  },
+  {
+    "title": "Combustión",
+    "artist": "Juliana Quédate Otro Dia",
+    "isrc": "QZGLM2390088"
+  },
+  {
+    "title": "Amnesia",
+    "artist": "Memorabilia",
+    "isrc": "usl4q1991861"
+  },
+  {
+    "title": "Hikikomori",
+    "artist": "Babelgam",
+    "isrc": "US7VG1964606"
+  },
+  {
+    "title": "Desespero",
+    "artist": "Distimia Agorafóbica",
+    "isrc": "US7VG1940430"
+  },
+  {
+    "title": "Circulos en el Rio, Parte 3",
+    "artist": "La Hermanastra Más Fea",
+    "isrc": "QZW9K2273728"
+  },
+  {
+    "title": "Ey Nena",
+    "artist": "Quemarlo Todo Por Error",
+    "isrc": "QZ5AB1842276"
+  },
+  {
+    "title": "Lo Que Alguna Vez Fue Hermoso",
+    "artist": "Los Dinosaurios Murieron Ayer",
+    "isrc": "QZNJW2074882"
+  },
+  {
+    "title": "Ver Tus Ojos Mirándome",
+    "artist": "Volcán",
+    "isrc": "ES71G2339204"
+  },
+  {
+    "title": "Flores en las Nubes",
+    "artist": "Bonanza Firulais",
+    "isrc": "QZGLS1925633"
+  },
+  {
+    "title": "Nómada",
+    "artist": "La Banda del Bisonte, La Muchacha",
+    "isrc": "QZNJW2030655"
+  },
+  {
+    "title": "Buses",
+    "artist": "recuerdo acariciar con miedo las alas de un ave herida",
+    "isrc": "QZGLM2093187"
+  },
+  {
+    "title": "La Tesis",
+    "artist": "Biselad",
+    "isrc": "QZHZ31932915"
+  },
+  {
+    "title": "Un Crujir",
+    "artist": "Iconauta",
+    "isrc": "US7VG1855093"
+  },
+  {
+    "title": "Que Popó las Culpas",
+    "artist": "Ricardito :c",
+    "isrc": "QZNJY2120713"
+  },
+  {
+    "title": "Tornasol Montaña",
+    "artist": "aleph es el color del cielo",
+    "isrc": "US7VG1854679"
+  },
+  {
+    "title": "Violeta",
+    "artist": "Armenia",
+    "isrc": "US7VG1912924"
+  },
+  {
+    "title": "Mi Desilusión No Es Tristeza",
+    "artist": "Los Transeúntes",
+    "isrc": "QZNJX2067446"
+  },
+  {
+    "title": "Promesas",
+    "artist": "Los Viles",
+    "isrc": "QZHZ31921474"
+  },
+  {
+    "title": "Idaho",
+    "artist": "Cold Tropics",
+    "isrc": "QZHZ52211201"
+  },
+  {
+    "title": "Túnel",
+    "artist": "No Hay Juventud",
+    "isrc": "QZGLS2232404"
+  },
+  {
+    "title": "Tengo 15 Años",
+    "artist": "Sad Affleck",
+    "isrc": "GBSMU4047338"
+  },
+  {
+    "title": "25/09",
+    "artist": "Ojos Color Mate",
+    "isrc": "QZFZ32061952"
+  },
+  {
+    "title": "Inmensidad del Tiempo",
+    "artist": "Room Hostages",
+    "isrc": "QZHZ42006802"
+  },
+  {
+    "title": "Rotos",
+    "artist": "Diamante Eléctrico, Rawayana",
+    "isrc": "QZHZ41955010"
+  },
+  {
+    "title": "Two Steps",
+    "artist": "El ultimo del tren, Matiu Colin, Oso Pardo",
+    "isrc": "QZHZ51910449"
+  },
+  {
+    "title": "Perroleón",
+    "artist": "Danta",
+    "isrc": "QZHZ52088915"
+  },
+  {
+    "title": "Perro Viejo",
+    "artist": "Los Arboles",
+    "isrc": "ushm82055083"
+  },
+  {
+    "title": "Chico Ave",
+    "artist": "Isla Tortuga",
+    "isrc": "QZGLM2023259"
+  },
+  {
+    "title": "Trepando Arboles, Pt. 1",
+    "artist": "Electric Fantasy, Margarita Siempre Viva",
+    "isrc": "QZHN31924875"
+  },
+  {
+    "title": "Aguantando",
+    "artist": "Dice Así Con Inspirado Acento",
+    "isrc": "QZGLS2021515"
+  },
+  {
+    "title": "Tiempo",
+    "artist": "Brain Funkers",
+    "isrc": "uscgh2092524"
+  },
+  {
+    "title": "Nada Que Perder",
+    "artist": "Ser Sónico",
+    "isrc": "QZGLM2062896"
+  },
+  {
+    "title": "Cheap Universe",
+    "artist": "V for Volume",
+    "isrc": "TCABE1239405"
+  },
+  {
+    "title": "Aim at Me",
+    "artist": "The Hall Effect",
+    "isrc": "uscgj2296477"
+  },
+  {
+    "title": "Árbol",
+    "artist": "Tres y Yo",
+    "isrc": "ES71G1873619"
+  },
+  {
+    "title": "Discos",
+    "artist": "AppleTree",
+    "isrc": "QZ5AB2048072"
+  },
+  {
+    "title": "Dudas",
+    "artist": "No Futura",
+    "isrc": "GBLFP2127606"
+  },
+  {
+    "title": "Fuiste Lo Mejor",
+    "artist": "Back 2 School",
+    "isrc": "uscgh2238493"
+  },
+  {
+    "title": "Selva",
+    "artist": "Los Crankers",
+    "isrc": "QZGLS1971401"
+  },
+  {
+    "title": "Esta Vez",
+    "artist": "Aksis",
+    "isrc": "QZCE61808188"
+  },
+  {
+    "title": "Álter Sueño",
+    "artist": "ÆSTEREOIDS",
+    "isrc": "US7VG1952801"
+  },
+  {
+    "title": "Barco de Río",
+    "artist": "Planes (Estudios Universales)",
+    "isrc": "MX3741400158"
+  },
+  {
+    "title": "Algunos Días Después",
+    "artist": "Garcián",
+    "isrc": "QZMZ92058233"
+  },
+  {
+    "title": "Somos Extraños",
+    "artist": "Angrama",
+    "isrc": "QZNJV2147947"
+  },
+  {
+    "title": "Lejos",
+    "artist": "Arrierians",
+    "isrc": "ushm92270142"
+  },
+  {
+    "title": "Portal 80",
+    "artist": "Esqueletos En El Baño",
+    "isrc": "QZFZ52046134"
+  },
+  {
+    "title": "Piélago",
+    "artist": "Hermanos Menores",
+    "isrc": "ES71G1912777"
+  },
+  {
+    "title": "Gravitando",
+    "artist": "Hidrophonik",
+    "isrc": "QZHZ52233720"
+  },
+  {
+    "title": "Renovación",
+    "artist": "Kid Kaset",
+    "isrc": "GBLFP2040171"
+  },
+  {
+    "title": "Medellín",
+    "artist": "Los Árboles",
+    "isrc": "QZHZ31925999"
+  },
+  {
+    "title": "Inalcanzable",
+    "artist": "Marioneta Monster",
+    "isrc": "USDY42059509"
+  },
+  {
+    "title": "Esperar / Respirar",
+    "artist": "Martino Park",
+    "isrc": "QZ5AB1896444"
+  },
+  {
+    "title": "Rodantes",
+    "artist": "Ocupante, Federico Franco",
+    "isrc": "GBMA21857113"
+  },
+  {
+    "title": "When Am I Gonna Learn?",
+    "artist": "Overcome Time",
+    "isrc": "QZES92080337"
+  },
+  {
+    "title": "Lluvia en Bogotá",
+    "artist": "Stretto",
+    "isrc": "GXBDS2360540"
+  },
+  {
+    "title": "Samara",
+    "artist": "Tatto Zhavals",
+    "isrc": "QZMEM2270074"
+  },
+  {
+    "title": "username",
+    "artist": "san_n",
+    "isrc": "SE6QE2115296"
+  },
+  {
+    "title": "Mientras Más Parpadeo",
+    "artist": "Árboles Vertebrados, SAAIL",
+    "isrc": "QZHZ32022970"
+  },
+  {
+    "title": "otro hp tema",
+    "artist": "Matiu Colin, bringtheparty",
+    "isrc": "SE5BU2136656"
+  },
+  {
+    "title": "Flores Ausentes",
+    "artist": "Hipsum",
+    "isrc": "US7VG2013120"
+  },
+  {
+    "title": "Confuso Estado Natural",
+    "artist": "La veo venir",
+    "isrc": "US7VG1922662"
+  },
+  {
+    "title": "Nenu",
+    "artist": "Higuita en Chanclas",
+    "isrc": "QZNJZ2315795"
+  },
+  {
+    "title": "Rosas en el Parkway",
+    "artist": "Juliana Quédate Otro Dia",
+    "isrc": "QZHZ51969111"
+  },
+  {
+    "title": "Una Casa No Es un Hogar",
+    "artist": "Memorabilia",
+    "isrc": "uscgj2029024"
+  },
+  {
+    "title": "Túnel",
+    "artist": "Babelgam",
+    "isrc": "QZGLM1944642"
+  },
+  {
+    "title": "Cayendo",
+    "artist": "Distimia Agorafóbica",
+    "isrc": "QZ5AB2087071"
+  },
+  {
+    "title": "El Hombre Caimán",
+    "artist": "La Hermanastra Más Fea",
+    "isrc": "QZGLM1936501"
+  },
+  {
+    "title": "Bailando Feliz",
+    "artist": "Quemarlo Todo Por Error, Dromedarios Mágicos",
+    "isrc": "SE5752066598"
+  },
+  {
+    "title": "Rojo",
+    "artist": "Los Dinosaurios Murieron Ayer",
+    "isrc": "US7VG1972136"
+  },
+  {
+    "title": "Cambiar No Sirve para Nada (Pero Yo Sigo Intentando)",
+    "artist": "Bonanza Firulais",
+    "isrc": "QZGLS1925637"
+  },
+  {
+    "title": "Olvidarme de Todo",
+    "artist": "Volcán, Oso Pardo",
+    "isrc": "QZNJV2059825"
+  },
+  {
+    "title": "Siempre fue un Vicio",
+    "artist": "La Banda del Bisonte",
+    "isrc": "ES71G1874555"
+  },
+  {
+    "title": "Herpes",
+    "artist": "recuerdo acariciar con miedo las alas de un ave herida",
+    "isrc": "QZ5AB2206463"
+  },
+  {
+    "title": "Lo Que Nos Rodea",
+    "artist": "Biselad",
+    "isrc": "QZNJW2340181"
+  },
+  {
+    "title": "Entre Efímeras Imágenes",
+    "artist": "Iconauta",
+    "isrc": "QZGLM2411510"
+  },
+  {
+    "title": "No Quiero Llegar a Casa Hoy",
+    "artist": "Ricardito :c",
+    "isrc": "US7VG2412979"
+  },
+  {
+    "title": "Las Lluvias de Diciembre",
+    "artist": "aleph es el color del cielo",
+    "isrc": "QZHZ31925790"
+  },
+  {
+    "title": "Tenerlo Todo",
+    "artist": "Armenia, Irepelusa",
+    "isrc": "ES71G2327552"
+  },
+  {
+    "title": "Se Desvanece Caminando: Espero Que Aún Me Ames al Llegar",
+    "artist": "Los Transeúntes",
+    "isrc": "QZGLS2014450"
+  },
+  {
+    "title": "Sentir Otra Vez",
+    "artist": "Los Viles",
+    "isrc": "QZHZ52043143"
+  },
+  {
+    "title": "Juana y el Cairo",
+    "artist": "Cold Tropics",
+    "isrc": "QZHZ42072594"
+  },
+  {
+    "title": "Está Lloviendo y No Tengo Paraguas",
+    "artist": "Sad Affleck",
+    "isrc": "GBSMU4047339"
+  },
+  {
+    "title": "La Montaña y su Mirada",
+    "artist": "Ojos Color Mate",
+    "isrc": "QZDA52047738"
+  },
+  {
+    "title": "No Sé",
+    "artist": "Room Hostages",
+    "isrc": "QZHZ42006803"
+  },
+  {
+    "title": "Cuando Quieras Llegar",
+    "artist": "Diamante Eléctrico",
+    "isrc": "QM6P42064740"
+  },
+  {
+    "title": "Fundidos en el Mar",
+    "artist": "El ultimo del tren",
+    "isrc": "QZMZ92039331"
+  },
+  {
+    "title": "Fado",
+    "artist": "Danta",
+    "isrc": "QZ5AB1712985"
+  },
+  {
+    "title": "Jonas",
+    "artist": "Los Arboles",
+    "isrc": "ushm82055076"
+  },
+  {
+    "title": "Isla Tortura",
+    "artist": "Isla Tortuga",
+    "isrc": "QZGLM2023258"
+  },
+  {
+    "title": "Trepando Arboles, Pt. 2",
+    "artist": "Electric Fantasy, la Veo Venir, Margarita Siempre Viva",
+    "isrc": "QZHN31924876"
+  },
+  {
+    "title": "La Inutilidad de Recordar",
+    "artist": "Dice Así Con Inspirado Acento",
+    "isrc": "QZGLS2021516"
+  },
+  {
+    "title": "Chicharrón",
+    "artist": "Brain Funkers",
+    "isrc": "usdy42059534"
+  },
+  {
+    "title": "Islas",
+    "artist": "Ser Sónico",
+    "isrc": "QZGLS1997950"
+  },
+  {
+    "title": "Un Manual Sin Instrucciones",
+    "artist": "V for Volume",
+    "isrc": "TCABE1239503"
+  },
+  {
+    "title": "Become",
+    "artist": "The Hall Effect",
+    "isrc": "uscgj2296480"
+  },
+  {
+    "title": "Vida Malparida",
+    "artist": "Tres y Yo",
+    "isrc": "QM6N21479067"
+  },
+  {
+    "title": "¿Quien Putas Es Luis Ángel Arango?",
+    "artist": "AppleTree",
+    "isrc": "QZ5AB2048070"
+  },
+  {
+    "title": "Viviendo en el caos",
+    "artist": "No Futura",
+    "isrc": "UKXN22216267"
+  },
+  {
+    "title": "Cada Segundo",
+    "artist": "Back 2 School",
+    "isrc": "uscgh2238484"
+  },
+  {
+    "title": "Lugar para los Débiles",
+    "artist": "Matiu Colin",
+    "isrc": "QZHZ51939536"
+  },
+  {
+    "title": "Desconexión del Recuerdo",
+    "artist": "Hipsum",
+    "isrc": "US7VG2013118"
+  },
+  {
+    "title": "Mi Cita Favorita",
+    "artist": "La veo venir",
+    "isrc": "US7VG1922659"
+  },
+  {
+    "title": "La Última 10",
+    "artist": "Higuita en Chanclas",
+    "isrc": "QZGLM2011439"
+  },
+  {
+    "title": "Destornillador",
+    "artist": "Juliana Quédate Otro Dia",
+    "isrc": "QZGLS2369108"
+  },
+  {
+    "title": "Antitesis del Tiempo",
+    "artist": "Memorabilia",
+    "isrc": "uscgj2029025"
+  },
+  {
+    "title": "Materia Oscura",
+    "artist": "Babelgam",
+    "isrc": "SE5751847155"
+  },
+  {
+    "title": "Circulos en el Rio, Pt. 1",
+    "artist": "La Hermanastra Más Fea",
+    "isrc": "QZGLM1936499"
+  },
+  {
+    "title": "El Mar",
+    "artist": "Distimia Agorafóbica",
+    "isrc": "QZHZ42019543"
+  },
+  {
+    "title": "Cuando Sea Necesario",
+    "artist": "Quemarlo Todo Por Error",
+    "isrc": "QZES52271271"
+  },
+  {
+    "title": "Lunes Muy Domingo",
+    "artist": "Los Dinosaurios Murieron Ayer",
+    "isrc": "US7VG1972135"
+  },
+  {
+    "title": "Praderas (Vamos a Japón)",
+    "artist": "Bonanza Firulais",
+    "isrc": "QZGLS1925636"
+  },
+  {
+    "title": "Alma y Olvido",
+    "artist": "Volcán, Los Balcones Amarillos",
+    "isrc": "ES71G2339206"
+  },
+  {
+    "title": "Orquídea",
+    "artist": "La Banda del Bisonte",
+    "isrc": "US7VG2014906"
+  },
+  {
+    "title": "Jardín de Plastilina",
+    "artist": "recuerdo acariciar con miedo las alas de un ave herida",
+    "isrc": "QZTPX2317862"
+  },
+  {
+    "title": "Átomo",
+    "artist": "Biselad",
+    "isrc": "QZHZ31932923"
+  },
+  {
+    "title": "De Todo Lo Que Fui.",
+    "artist": "Iconauta",
+    "isrc": "QZTPX2222440"
+  },
+  {
+    "title": "Canción para el Fin del Mundo (Y para Mis Amigos)",
+    "artist": "Ricardito :c",
+    "isrc": "QZHZ42052437"
+  },
+  {
+    "title": "Seguro No Me Extrañas",
+    "artist": "aleph es el color del cielo",
+    "isrc": "US7VG1854910"
+  },
+  {
+    "title": "Tengo Miedo",
+    "artist": "Armenia",
+    "isrc": "ES71G2338450"
+  },
+  {
+    "title": "Vacaciones de por Vida",
+    "artist": "Los Transeúntes",
+    "isrc": "US7VG2476348"
+  }
+]

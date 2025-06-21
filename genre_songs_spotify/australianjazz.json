@@ -1,0 +1,912 @@
+[
+  {
+    "title": "Sun Always",
+    "artist": "Barney McAll, Natalie Slade",
+    "isrc": "AUBNM2300002"
+  },
+  {
+    "title": "Too Late",
+    "artist": "Kristin Berardi, Miro Sprague, Marty Jaffe, Jerome Jennings",
+    "isrc": "AUEU42200008"
+  },
+  {
+    "title": "Clube Da Esquina #2",
+    "artist": "Julien Wilson",
+    "isrc": "USCGJ0616427"
+  },
+  {
+    "title": "We've Only Just Begun",
+    "artist": "Paul Grabowsky, Vince Jones",
+    "isrc": "AUAB01550753"
+  },
+  {
+    "title": "Armistice",
+    "artist": "Jamie Oehlers, Tal Cohen",
+    "isrc": "AUIEE1600031"
+  },
+  {
+    "title": "Strangers",
+    "artist": "Sam Anning, Kyrie Anderson",
+    "isrc": "AUEU42200121"
+  },
+  {
+    "title": "Bee",
+    "artist": "Stephen Magnusson",
+    "isrc": "AUAB00750276"
+  },
+  {
+    "title": "Ondas",
+    "artist": "Mike Nock",
+    "isrc": "DEB338122002"
+  },
+  {
+    "title": "I've Got You Under My Skin",
+    "artist": "Vince Jones",
+    "isrc": "AUAB09050242"
+  },
+  {
+    "title": "On Running",
+    "artist": "Simon Barker",
+    "isrc": "AUKB11600129"
+  },
+  {
+    "title": "Alfie",
+    "artist": "James Morrison, Joe Chindamo",
+    "isrc": "AUAY21300899"
+  },
+  {
+    "title": "Fragments",
+    "artist": "Scott Tinkler",
+    "isrc": "AUOMO9600816"
+  },
+  {
+    "title": "The Softness Of Air",
+    "artist": "Tony Gould",
+    "isrc": "AUAB01950194"
+  },
+  {
+    "title": "Hope is the Thing with Feathers (Live)",
+    "artist": "Andrea Keller, Stephen Grant",
+    "isrc": "AU6U32201018"
+  },
+  {
+    "title": "Blue Orchids",
+    "artist": "Don Burrows, George Golla",
+    "isrc": "USLZJ2169644"
+  },
+  {
+    "title": "Hackensack",
+    "artist": "Bernie McGann, Jex Saarelaht Trio",
+    "isrc": "AUAB01650640"
+  },
+  {
+    "title": "Chick Corea",
+    "artist": "James Muller, SCJO",
+    "isrc": "GBLFP1658632"
+  },
+  {
+    "title": "Throw Your Arms Around Me",
+    "artist": "Katie Noonan",
+    "isrc": "AUDWA2000007"
+  },
+  {
+    "title": "Hook",
+    "artist": "Paul Williamson Quintet, Paul WIlliamson, Jamie Oehlers, Andrea Keller, Christopher Hale, James McLean",
+    "isrc": "AUHF01723502"
+  },
+  {
+    "title": "Firedancer",
+    "artist": "Linda May Han Oh",
+    "isrc": "TCACX1712883"
+  },
+  {
+    "title": "Amsterdam After Dark",
+    "artist": "Dale Barlow, Mark Fitzgibbon, Sam Anning, George Coleman, Jr",
+    "isrc": "AUHF00809201"
+  },
+  {
+    "title": "Tea For Two",
+    "artist": "Sarah McKenzie",
+    "isrc": "FRUM71613025"
+  },
+  {
+    "title": "Mr Jackson",
+    "artist": "Jazzgroove Mothership Orchestra, Kristin Berardi, David Theak, Murray Jackson, Matt Keegan, Nick Bowd, Simon Sweeney, Angus Gomm, Simon Ferenci, Andy Fiddes, Jeremy Borthwick, Dave Panichi, Lucian McGuiness, Justin Kearin, Aaron Flower, Steven Barry, Brendan Clarke, Richard Maegraith",
+    "isrc": "AUF141100002"
+  },
+  {
+    "title": "Breathing In",
+    "artist": "Andrea Keller Quartet",
+    "isrc": "AUHF01319111"
+  },
+  {
+    "title": "The Sea",
+    "artist": "Jonathan Zwartz",
+    "isrc": "AUPC31300010"
+  },
+  {
+    "title": "The Illusion of Perfection",
+    "artist": "Jeremy Rose, The Earshift Orchestra, Hilary Geddes",
+    "isrc": "AUEU42300014"
+  },
+  {
+    "title": "S.S.T.T.",
+    "artist": "Allan Browne, Nick Haywood, Tim Stevens",
+    "isrc": "QMDA71588300"
+  },
+  {
+    "title": "Patient Fight",
+    "artist": "Gian Slater",
+    "isrc": "QZLDD2100010"
+  },
+  {
+    "title": "Piano Concerto in B Flat Major K 595 2nd Movement (Piano & String Quartet)",
+    "artist": "Joe Chindamo, Zoe Black, Josephine Vains, Sarah Curro, Caroline Henbest",
+    "isrc": "AU8B01100007"
+  },
+  {
+    "title": "Game Changers",
+    "artist": "The Vampires, Chris Abrahams",
+    "isrc": "AUMGB2201469"
+  },
+  {
+    "title": "To Find You",
+    "artist": "Matt McMahon",
+    "isrc": "AUMN10600007"
+  },
+  {
+    "title": "Fever",
+    "artist": "Grace Knight",
+    "isrc": "AUSM09100012"
+  },
+  {
+    "title": "Green Lights",
+    "artist": "Troy Roberts, John Patitucci, Paul Bollenback, Jimmy Macbride",
+    "isrc": "USCGH2443419"
+  },
+  {
+    "title": "Red-Bellied Stickleback",
+    "artist": "Shannon Barnett Quartet, Stefan Karl Schmid, David Helm, Fabian Arends",
+    "isrc": "NLB151700266"
+  },
+  {
+    "title": "Little Fugue in Gm with ‘Round Midnight",
+    "artist": "Michelle Nicolle",
+    "isrc": "AUEU42300002"
+  },
+  {
+    "title": "I Mean You - Live",
+    "artist": "Paul Williamson Quartet, Paul WIlliamson, Danny Fischer, Marty Holoubek, Joe O'Connor",
+    "isrc": "AUHF01622801"
+  },
+  {
+    "title": "Rexy's Rag",
+    "artist": "Allan Browne Quintet, Allan Browne, David Rex, Eugene Ball, Geoff Hughes, Nick Haywood",
+    "isrc": "AUHF00604907"
+  },
+  {
+    "title": "Star Crossed Lovers",
+    "artist": "Paul Grabowsky Trio",
+    "isrc": "USA560572009"
+  },
+  {
+    "title": "The Bluebird",
+    "artist": "Joseph Tawadros",
+    "isrc": "AUPC31800003"
+  },
+  {
+    "title": "Reminiscing",
+    "artist": "Emma Pask, Ed Wilson",
+    "isrc": "QZNWS2124308"
+  },
+  {
+    "title": "Lamb",
+    "artist": "Matt McMahon Trio",
+    "isrc": "AUMN10600015"
+  },
+  {
+    "title": "Golden Brown",
+    "artist": "James Sherlock Trio, James Sherlock, Tim Firth, Brendan Clarke",
+    "isrc": "AUHF01013103"
+  },
+  {
+    "title": "Imprinting",
+    "artist": "The Necks",
+    "isrc": "USWEX2200117"
+  },
+  {
+    "title": "Ngarrindjeri Woman",
+    "artist": "Australian Art Orchestra, Ruby Hunter, Archie Roach",
+    "isrc": "USA370541182"
+  },
+  {
+    "title": "Chase",
+    "artist": "Trichotomy",
+    "isrc": "GBCBG1015601"
+  },
+  {
+    "title": "Land of Gypsies",
+    "artist": "Stu Hunter",
+    "isrc": "AUHQ31600009"
+  },
+  {
+    "title": "Mnemosyne",
+    "artist": "Phil Slater",
+    "isrc": "AUEU41900085"
+  },
+  {
+    "title": "The First Tune (Arr. Andrew Robson)",
+    "artist": "Andrew Robson, James Greening, Sandy Evans, Steve Elphick",
+    "isrc": "AUAB00850368"
+  },
+  {
+    "title": "Icarus",
+    "artist": "Anton Delecca Quartet",
+    "isrc": "AUHF01319202"
+  },
+  {
+    "title": "Goodbye Yellow Brick Road",
+    "artist": "Elixir",
+    "isrc": "TCAAW1161458"
+  },
+  {
+    "title": "Pygmy Lullaby",
+    "artist": "Rob Burke, Tony Gould, Nick Haywood, Tony Floyd",
+    "isrc": "AUHF00503301"
+  },
+  {
+    "title": "Desafinado",
+    "artist": "George Golla, Jacki Cooper",
+    "isrc": "AUSBF1500007"
+  },
+  {
+    "title": "Twilight Time",
+    "artist": "Janet Seidel",
+    "isrc": "AULC01000003"
+  },
+  {
+    "title": "Dry Wood Talking",
+    "artist": "Alister Spence, Tony Buck",
+    "isrc": "AUZWE1400118"
+  },
+  {
+    "title": "The Magnificent Seven",
+    "artist": "Graeme Lyall, Joe Chindamo Trio",
+    "isrc": "QMDA71561647"
+  },
+  {
+    "title": "Bye-Ya",
+    "artist": "Ben Winkelman Trio, Matt Penman, Obed Calvaire",
+    "isrc": "us3m81904812"
+  },
+  {
+    "title": "Scar for Charlie",
+    "artist": "Vanessa Perica Orchestra",
+    "isrc": "AUMDY1900006"
+  },
+  {
+    "title": "The Business End",
+    "artist": "The Ian Chaplin Quartet, Ian Chaplin, Mark Fitzgibbon, Philip Rex, Scott Lambie",
+    "isrc": "AUHF00960201"
+  },
+  {
+    "title": "The Night Cart Man",
+    "artist": "Ian Chaplin, Scott Tinkler, Phillip Rex, Lambie",
+    "isrc": "AUHF00500403"
+  },
+  {
+    "title": "Lawn Boozer",
+    "artist": "Carl Mackey Quartet",
+    "isrc": "AUAB01650622"
+  },
+  {
+    "title": "Tomorrow's girls",
+    "artist": "Carl Orr",
+    "isrc": "ushm80968214"
+  },
+  {
+    "title": "Fire",
+    "artist": "Mark Simmonds Freeboppers",
+    "isrc": "AUAB01650636"
+  },
+  {
+    "title": "Sangria Y La Luna",
+    "artist": "Red Fish Blue",
+    "isrc": "AUAB01350182"
+  },
+  {
+    "title": "Livro",
+    "artist": "Sam Keevers Nonet, Sam Keevers, Bernie McGann, Scott Tinkler, Jamie Oehlers, Jordan Murry, Stephen Magnusson, Rodrigo Aravena, Simon Baker, Javier Fredes",
+    "isrc": "AUHF00607009"
+  },
+  {
+    "title": "Island of the Sun",
+    "artist": "Misinterprotato",
+    "isrc": "AUHF00708401"
+  },
+  {
+    "title": "Twisty",
+    "artist": "Paul Grabowsky Sextet",
+    "isrc": "AUAB01450081"
+  },
+  {
+    "title": "Day for Night",
+    "artist": "Jackson Harrison Trio, Jackson Harrison, Ben Waples, James Waples",
+    "isrc": "CH1311601462"
+  },
+  {
+    "title": "Tail of the Dragon",
+    "artist": "20th Century Dog, Cameron Undy, Jeremy Rose, Ben Hauptmann, Greg Coffin, Simon Barker, Jamie Cameron, Ben Kidson",
+    "isrc": "AUTAJ1600002"
+  },
+  {
+    "title": "Thematic",
+    "artist": "Kayleigh Pincott",
+    "isrc": "AUYQK1700010"
+  },
+  {
+    "title": "Birthday Suit",
+    "artist": "Zac Hurren Trio",
+    "isrc": "AUHF00707105"
+  },
+  {
+    "title": "Strange People",
+    "artist": "Aronas",
+    "isrc": "GBNQT0600013"
+  },
+  {
+    "title": "Nigeria",
+    "artist": "Australian National Jazz Orchestra, Mat Jodrell, Roger Manins",
+    "isrc": "AUAB01750588"
+  },
+  {
+    "title": "Motion",
+    "artist": "Band Of Five Names, Simon Barker, Phil Slater",
+    "isrc": "AUKB10600012"
+  },
+  {
+    "title": "Brownsville - Live",
+    "artist": "Bernie McGann Trio, Various Artists",
+    "isrc": "AUHF00502012"
+  },
+  {
+    "title": "While We Danced the Mardi Gras",
+    "artist": "Bob Barnard, Don Vickery, John Sheridan",
+    "isrc": "USDYP0811389"
+  },
+  {
+    "title": "Blue Shift",
+    "artist": "Clarion Fracture Zone",
+    "isrc": "DEF309100094"
+  },
+  {
+    "title": "Grit",
+    "artist": "Harry Edwards Trio",
+    "isrc": "ushm81642532"
+  },
+  {
+    "title": "No Not Yet",
+    "artist": "Julien Wilson, Stephen Magnusson, Julien Wilson, Stephen Magnusson, Barney McAll, Mark Helias, Jim Black",
+    "isrc": "AUHF00911312"
+  },
+  {
+    "title": "Don't Speak",
+    "artist": "Kate Fuller & the Boys Club",
+    "isrc": "ushm91835634"
+  },
+  {
+    "title": "Ave",
+    "artist": "Kevin Hunt's J.S. Bach Trio",
+    "isrc": "AUHF00501410"
+  },
+  {
+    "title": "Yellow",
+    "artist": "Kristen Beradi",
+    "isrc": "AUPC31600030"
+  },
+  {
+    "title": "Sauna Twins",
+    "artist": "Marc Hannaford, Philip Rex, Ken Edie",
+    "isrc": "AUEX00701061"
+  },
+  {
+    "title": "Mack the Knife",
+    "artist": "Maree Montgomery",
+    "isrc": "AUDD31001499"
+  },
+  {
+    "title": "Archival",
+    "artist": "Mark Fitzgibbon Quartet, Mark Fitzgibbon, David Rex, Tom Lee, Craig Simon",
+    "isrc": "AUHF01113805"
+  },
+  {
+    "title": "Good Tidings",
+    "artist": "Mark Isaacs Resurgence Band, Mark Isaacs",
+    "isrc": "AUL721000002"
+  },
+  {
+    "title": "Break Time",
+    "artist": "Mike Nock Quartet",
+    "isrc": "NLA410813537"
+  },
+  {
+    "title": "Open the Window - Live",
+    "artist": "Mike Nock's Big Small Band, Various Artists",
+    "isrc": "AUHF00502009"
+  },
+  {
+    "title": "Blue Eyes Crying In The Rain",
+    "artist": "Nick Haywood Quartet",
+    "isrc": "AUHF01114707"
+  },
+  {
+    "title": "Isobel",
+    "artist": "Snag, Stephen Magnusson, Björn Meyer, Sergio Beresvosky",
+    "isrc": "AUHF00500808"
+  },
+  {
+    "title": "Luck Be a Lady",
+    "artist": "Steven Rossitto",
+    "isrc": "AU1V41200005"
+  },
+  {
+    "title": "Guy Smiley",
+    "artist": "Nat Bartsch",
+    "isrc": "AUAB01850241"
+  },
+  {
+    "title": "Firefly",
+    "artist": "Barney McAll, Sia, Invenio Choir",
+    "isrc": "QM24S1823969"
+  },
+  {
+    "title": "Rebellious Bird",
+    "artist": "Julien Wilson",
+    "isrc": "USCGJ0616429"
+  },
+  {
+    "title": "Rainbow Cake",
+    "artist": "Paul Grabowsky, Vince Jones",
+    "isrc": "AUAB01550751"
+  },
+  {
+    "title": "Slow Waltz",
+    "artist": "Kristin Berardi, Miro Sprague, Marty Jaffe, Jerome Jennings, Sam Anning",
+    "isrc": "AUEU42200006"
+  },
+  {
+    "title": "My Ideal",
+    "artist": "Jamie Oehlers, Tal Cohen",
+    "isrc": "AUIEE1600030"
+  },
+  {
+    "title": "Kicking, Not Screaming",
+    "artist": "Sam Anning, Andrea Keller",
+    "isrc": "AUEU42200124"
+  },
+  {
+    "title": "And Away",
+    "artist": "Stephen Magnusson, Frank Di Sario",
+    "isrc": "AUAB01750589"
+  },
+  {
+    "title": "Forgotten Love",
+    "artist": "Mike Nock",
+    "isrc": "DEB338122001"
+  },
+  {
+    "title": "I Get Along Without You Very Well",
+    "artist": "Vince Jones",
+    "isrc": "AUAB09050248"
+  },
+  {
+    "title": "Path Mist",
+    "artist": "Simon Barker",
+    "isrc": "AUKB11800147"
+  },
+  {
+    "title": "Slam it Down Fast to be a Solo Man",
+    "artist": "Scott Tinkler",
+    "isrc": "AUEX00704058"
+  },
+  {
+    "title": "Zog's Jog",
+    "artist": "James Morrison",
+    "isrc": "AUOMO9901002"
+  },
+  {
+    "title": "The Last Rose of Summer (Arr. Tony Gould)",
+    "artist": "Tony Gould",
+    "isrc": "AUAB00550247"
+  },
+  {
+    "title": "Sleep Cycles (II)",
+    "artist": "Andrea Keller",
+    "isrc": "AU6U31900075"
+  },
+  {
+    "title": "Donna Lee",
+    "artist": "Don Burrows, James Morrison, George Golla, Craig Scott, David Jones",
+    "isrc": "AUAB01550952"
+  },
+  {
+    "title": "Scratch",
+    "artist": "James Muller, SCJO",
+    "isrc": "GBLFP1658625"
+  },
+  {
+    "title": "You Can't Wear a Cape Every Day",
+    "artist": "Paul Williamson Quintet, Paul WIlliamson, Jamie Oehlers, Andrea Keller, Christopher Hale, James McLean",
+    "isrc": "AUHF01723503"
+  },
+  {
+    "title": "Breathe in Now",
+    "artist": "Katie Noonan",
+    "isrc": "AUDWA1200022"
+  },
+  {
+    "title": "Speech Impediment",
+    "artist": "Linda May Han Oh",
+    "isrc": "TCACX1712886"
+  },
+  {
+    "title": "You Go To My Head",
+    "artist": "Dale Barlow, Mark Fitzgibbon, Sam Anning, George Coleman, Jr",
+    "isrc": "AUHF00809204"
+  },
+  {
+    "title": "My True Love Is You",
+    "artist": "Sarah McKenzie",
+    "isrc": "UKRMK1800111"
+  },
+  {
+    "title": "Moonbeams",
+    "artist": "Jazzgroove Mothership Orchestra, Kristin Berardi, David Theak, Murray Jackson, Matt Keegan, Nick Bowd, Simon Sweeney, Angus Gomm, Simon Ferenci, Andy Fiddes, Jeremy Borthwick, Dave Panichi, Lucian McGuiness, Justin Kearin, Aaron Flower, Steven Barry, Brendan Clarke, Richard Maegraith",
+    "isrc": "AUF141100001"
+  },
+  {
+    "title": "From Nature's Fabric",
+    "artist": "Andrea Keller Quartet",
+    "isrc": "AUHF01319101"
+  },
+  {
+    "title": "Travelling Song",
+    "artist": "Jonathan Zwartz",
+    "isrc": "AUPC31300014"
+  },
+  {
+    "title": "Vera Discordia - part 2",
+    "artist": "Jeremy Rose, The Earshift Orchestra, Tom Avgenicos, James Macaulay",
+    "isrc": "AUEU42300011"
+  },
+  {
+    "title": "Beachside",
+    "artist": "Allan Browne, Nick Haywood, Tim Stevens",
+    "isrc": "QMDA71588301"
+  },
+  {
+    "title": "Grey is Ground",
+    "artist": "Gian Slater",
+    "isrc": "QZLDD2100011"
+  },
+  {
+    "title": "A Cloudy Walk",
+    "artist": "Ralf Hoffman, Joe Chindamo",
+    "isrc": "AUFFF1000083"
+  },
+  {
+    "title": "Kahn Shatyr",
+    "artist": "The Vampires, Chris Abrahams",
+    "isrc": "AUMGB2201470"
+  },
+  {
+    "title": "Like I Do",
+    "artist": "Matt McMahon",
+    "isrc": "AUMN10600004"
+  },
+  {
+    "title": "Stormy Weather",
+    "artist": "Grace Knight",
+    "isrc": "AUSM09100019"
+  },
+  {
+    "title": "The Question",
+    "artist": "Troy Roberts, John Patitucci, Paul Bollenback, Jimmy Macbride",
+    "isrc": "USCGH2443420"
+  },
+  {
+    "title": "Ok Compupid",
+    "artist": "Shannon Barnett Quartet, Stefan Karl Schmid, David Helm, Fabian Arends",
+    "isrc": "NLB151700269"
+  },
+  {
+    "title": "March in D’Ornette (Coleman treatment)",
+    "artist": "Michelle Nicolle",
+    "isrc": "AUEU42300000"
+  },
+  {
+    "title": "If I Should Lose You - Live",
+    "artist": "Paul Williamson Quartet, Paul WIlliamson, Danny Fischer, Marty Holoubek, Joe O'Connor",
+    "isrc": "AUHF01622802"
+  },
+  {
+    "title": "Cyclosporin",
+    "artist": "Allan Browne Quintet, Allan Browne, David Rex, Eugene Ball, Geoff Hughes, Nick Haywood",
+    "isrc": "AUHF00604906"
+  },
+  {
+    "title": "When Words Fail",
+    "artist": "Paul Grabowsky Trio",
+    "isrc": "AUOMO9501084"
+  },
+  {
+    "title": "Al Andalus",
+    "artist": "Joseph Tawadros",
+    "isrc": "AUPC31600006"
+  },
+  {
+    "title": "Mas Que Nada",
+    "artist": "Emma Pask",
+    "isrc": "AUPDG1500008"
+  },
+  {
+    "title": "Carl's Coat",
+    "artist": "Matt McMahon Trio",
+    "isrc": "AUMN10600013"
+  },
+  {
+    "title": "Goldilocks",
+    "artist": "James Sherlock Trio",
+    "isrc": "AUM1B2300001"
+  },
+  {
+    "title": "Rise",
+    "artist": "The Necks",
+    "isrc": "ATE691702501"
+  },
+  {
+    "title": "Down City Streets",
+    "artist": "Australian Art Orchestra, Ruby Hunter, Archie Roach",
+    "isrc": "USA370541190"
+  },
+  {
+    "title": "Forward Motion",
+    "artist": "Trichotomy",
+    "isrc": "AUEU42200100"
+  },
+  {
+    "title": "Ash",
+    "artist": "Stu Hunter",
+    "isrc": "AUHQ32100001"
+  },
+  {
+    "title": "Heirloom",
+    "artist": "Phil Slater",
+    "isrc": "AUQV12300001"
+  },
+  {
+    "title": "The Third Tune (Arr. Andrew Robson)",
+    "artist": "Andrew Robson, James Greening, Sandy Evans, Steve Elphick",
+    "isrc": "AUAB00850370"
+  },
+  {
+    "title": "The Ark",
+    "artist": "Anton Delecca Quartet",
+    "isrc": "AUHF01319201"
+  },
+  {
+    "title": "The glimmer",
+    "artist": "Elixir, Katie Noonan, Zac Hurren, Ben Hauptmann",
+    "isrc": "AUDWA2300045"
+  },
+  {
+    "title": "Choro Negro",
+    "artist": "Rob Burke, Doug De Vries",
+    "isrc": "AUHF00505905"
+  },
+  {
+    "title": "Tea for Two",
+    "artist": "George Golla, Jacki Cooper",
+    "isrc": "AUSBF1500006"
+  },
+  {
+    "title": "You Belong to Me",
+    "artist": "Janet Seidel",
+    "isrc": "AUHB09992314"
+  },
+  {
+    "title": "Why Say Dreams Are White?",
+    "artist": "Alister Spence, Myra Melford",
+    "isrc": "AUAB01400044"
+  },
+  {
+    "title": "Slaughter on Tenth Avenue",
+    "artist": "Graeme Lyall, Joe Chindamo Trio",
+    "isrc": "QMDA71561646"
+  },
+  {
+    "title": "Bx12 Two",
+    "artist": "Ben Winkelman Trio, Obed Calvaire",
+    "isrc": "us3m81904813"
+  },
+  {
+    "title": "Spaccanapoli",
+    "artist": "Vanessa Perica Orchestra",
+    "isrc": "AUMDY1900001"
+  },
+  {
+    "title": "Jazz Elevator",
+    "artist": "The Ian Chaplin Quartet, Ian Chaplin, Mark Fitzgibbon, Philip Rex, Scott Lambie",
+    "isrc": "AUHF00960206"
+  },
+  {
+    "title": "National Geographic",
+    "artist": "Ian Chaplin, Scott Tinkler, Phillip Rex, Lambie",
+    "isrc": "AUHF00500402"
+  },
+  {
+    "title": "Somewhere Else",
+    "artist": "Carl Orr",
+    "isrc": "usdy41958298"
+  },
+  {
+    "title": "Colin Mccahon",
+    "artist": "Red Fish Blue",
+    "isrc": "AUAB01350183"
+  },
+  {
+    "title": "Precious Energy - Homage to Leon Thomas and Pharoah Sanders",
+    "artist": "Barney McAll, Julien Wilson, Rita Satch",
+    "isrc": "AUBNM1900104"
+  },
+  {
+    "title": "Blessed",
+    "artist": "Julien Wilson",
+    "isrc": "USCGJ0616430"
+  },
+  {
+    "title": "Oh My Love",
+    "artist": "Paul Grabowsky, Vince Jones",
+    "isrc": "AUAB01550752"
+  },
+  {
+    "title": "I Remember You",
+    "artist": "Jamie Oehlers, Paul Grabowsky",
+    "isrc": "ushm91058978"
+  },
+  {
+    "title": "Transitive States",
+    "artist": "Sam Anning, Julien Wilson",
+    "isrc": "AUEU42200123"
+  },
+  {
+    "title": "So It Goes",
+    "artist": "Stephen Magnusson",
+    "isrc": "AUAB00750274"
+  },
+  {
+    "title": "Sweethearts",
+    "artist": "Kristin Berardi, Sam Anning",
+    "isrc": "AUEU41900101"
+  },
+  {
+    "title": "Land Of The Long White Cloud",
+    "artist": "Mike Nock",
+    "isrc": "DEB338122004"
+  },
+  {
+    "title": "You Go to My Head",
+    "artist": "Vince Jones",
+    "isrc": "AUAB09050250"
+  },
+  {
+    "title": "Path Curve",
+    "artist": "Simon Barker, Scott Tinkler",
+    "isrc": "AUKB11800180"
+  },
+  {
+    "title": "Duet for Fingers and Bell End",
+    "artist": "Scott Tinkler",
+    "isrc": "AUEX00701058"
+  },
+  {
+    "title": "All Of Me",
+    "artist": "James Morrison, Joe Chindamo",
+    "isrc": "AUAY21300780"
+  },
+  {
+    "title": "Skating in Central Park",
+    "artist": "John Lewis, Tony Gould, David Ward-Steinman",
+    "isrc": "USJ2M0911020"
+  },
+  {
+    "title": "I Surrender",
+    "artist": "Andrea Keller, Marshall McGuire, Genevieve Lacey",
+    "isrc": "AUAB02150086"
+  },
+  {
+    "title": "Sweet Georgia Brown",
+    "artist": "Don Burrows, James Morrison, George Golla, Tony Ansell, Craig Scott, Alan Turnbull",
+    "isrc": "AUAB01550951"
+  },
+  {
+    "title": "Kaboom",
+    "artist": "James Muller, SCJO",
+    "isrc": "GBLFP1658634"
+  },
+  {
+    "title": "Finding the Balance",
+    "artist": "Paul Williamson Quintet, Paul WIlliamson, Jamie Oehlers, Andrea Keller, Christopher Hale, James McLean",
+    "isrc": "AUHF01723501"
+  },
+  {
+    "title": "Don't Dream It's Over",
+    "artist": "Katie Noonan",
+    "isrc": "AUAB02050154"
+  },
+  {
+    "title": "Circles",
+    "artist": "Linda May Han Oh",
+    "isrc": "QZLDD2300001"
+  },
+  {
+    "title": "Bunyip - Live",
+    "artist": "Dale Barlow, Mark Fitzgibbon, Matt Clohesy, Dave Beck",
+    "isrc": "AUHF00202802"
+  },
+  {
+    "title": "Live Rite",
+    "artist": "Jazzgroove Mothership Orchestra, Kristin Berardi, David Theak, Murray Jackson, Matt Keegan, Nick Bowd, Simon Sweeney, Angus Gomm, Simon Ferenci, Andy Fiddes, Jeremy Borthwick, Dave Panichi, Lucian McGuiness, Justin Kearin, Aaron Flower, Steven Barry, Brendan Clarke, Richard Maegraith",
+    "isrc": "AUF141100006"
+  },
+  {
+    "title": "Quoi, Quoi, Quoi",
+    "artist": "Sarah McKenzie",
+    "isrc": "AUAB01450298"
+  },
+  {
+    "title": "Angels and Rascals",
+    "artist": "Andrea Keller Quartet, Gian Slater, Shannon Barnett",
+    "isrc": "AUAB00550280"
+  },
+  {
+    "title": "Epic",
+    "artist": "Jonathan Zwartz",
+    "isrc": "AUPC31300011"
+  },
+  {
+    "title": "Loudspeaker",
+    "artist": "Jeremy Rose, The Earshift Orchestra, Tom Avgenicos, Michael Avgenicos",
+    "isrc": "AUEU42300013"
+  },
+  {
+    "title": "Singing the Blues",
+    "artist": "Allan Browne, Nick Haywood, Tim Stevens",
+    "isrc": "QMDA71588303"
+  },
+  {
+    "title": "Spider",
+    "artist": "Gian Slater",
+    "isrc": "QZLDD2100007"
+  },
+  {
+    "title": "Symphony No 40 in G Minor K 550 1st Movement (Piano, Violin, Cello, Bass, Drums)",
+    "artist": "Joe Chindamo, Zoe Black, Josephine Vains, Daniel Farrugia, Philip Rex",
+    "isrc": "AU8B01100002"
+  },
+  {
+    "title": "Nightjar",
+    "artist": "The Vampires, Chris Abrahams",
+    "isrc": "AUMGB2201477"
+  },
+  {
+    "title": "Beethoven",
+    "artist": "Matt McMahon",
+    "isrc": "AUMN10600002"
+  },
+  {
+    "title": "Walkin' After Midnight",
+    "artist": "Grace Knight",
+    "isrc": "AUSM09100016"
+  }
+]

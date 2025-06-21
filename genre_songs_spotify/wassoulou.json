@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Môgôyadi",
+    "artist": "Madjan Doumbia",
+    "isrc": "FRYAS1006820"
+  },
+  {
+    "title": "Diangnienko",
+    "artist": "Samba Diallo",
+    "isrc": "FR6V81709431"
+  },
+  {
+    "title": "Waradjo",
+    "artist": "Wassoulou Fanta",
+    "isrc": "FR6V80057941"
+  },
+  {
+    "title": "Dougou Dassiri",
+    "artist": "Dieneba Diakite",
+    "isrc": "GBNRN1790175"
+  },
+  {
+    "title": "Bi Magni",
+    "artist": "Souley Kanté",
+    "isrc": "FR6V82427726"
+  },
+  {
+    "title": "Moussolou",
+    "artist": "Djénéba Diakité",
+    "isrc": "FRYAS1006780"
+  },
+  {
+    "title": "N'Dia",
+    "artist": "Sali Sidibe",
+    "isrc": "US7SF1355062"
+  },
+  {
+    "title": "Sissi",
+    "artist": "Coumba Sidibe",
+    "isrc": "FR6V82385214"
+  },
+  {
+    "title": "Sekegne",
+    "artist": "Mama Toumani Kone",
+    "isrc": "FR3GQ1123000"
+  },
+  {
+    "title": "Djaama",
+    "artist": "Tata Diakité",
+    "isrc": "FR59R1813747"
+  },
+  {
+    "title": "Sabali Sa!",
+    "artist": "Yoro Diallo",
+    "isrc": "FR6V82438536"
+  },
+  {
+    "title": "Dogoni",
+    "artist": "Nabintou Diakité",
+    "isrc": "QMDA71369632"
+  },
+  {
+    "title": "Kélé Magni",
+    "artist": "Souleymane Sidibe",
+    "isrc": "FR6V82438559"
+  },
+  {
+    "title": "Simbo",
+    "artist": "Kagbe Sidibe",
+    "isrc": "FRX201573085"
+  },
+  {
+    "title": "Muso Tiama Furu",
+    "artist": "Binké Traoré",
+    "isrc": "FR3GQ0000170"
+  },
+  {
+    "title": "Kankeletigui",
+    "artist": "Les succès du Wassolo",
+    "isrc": "FR6V81382001"
+  },
+  {
+    "title": "Deri Faramandi",
+    "artist": "Ramata Diakité",
+    "isrc": "FR3GQ1129680"
+  },
+  {
+    "title": "Djougouya",
+    "artist": "Mamou Sidibé",
+    "isrc": "FR3GQ0900870"
+  },
+  {
+    "title": "Douniyan",
+    "artist": "Samba Oussou",
+    "isrc": "FR6V81658285"
+  },
+  {
+    "title": "N'tagnon gonin",
+    "artist": "Camara Seydou",
+    "isrc": "FR6V81378315"
+  },
+  {
+    "title": "Yankadi",
+    "artist": "Alou Sangaré",
+    "isrc": "FR6V80937539"
+  },
+  {
+    "title": "Sarama",
+    "artist": "Feue Kagbé Sidibé",
+    "isrc": "FR6V89803974"
+  },
+  {
+    "title": "Aw Kana Dimi",
+    "artist": "Nanou Coul",
+    "isrc": "FR6V82437241"
+  },
+  {
+    "title": "Sigui",
+    "artist": "Doussou Bagayogo",
+    "isrc": "FR3GQ0200840"
+  },
+  {
+    "title": "Anka Maliba",
+    "artist": "Djeneba Seck",
+    "isrc": "GBNRN0609907"
+  },
+  {
+    "title": "Sina Mousso",
+    "artist": "Miss Maawa",
+    "isrc": "US3DF1522466"
+  },
+  {
+    "title": "Nafiguini",
+    "artist": "Molobaly Traoré",
+    "isrc": "FR3GQ1005980"
+  },
+  {
+    "title": "Yan To",
+    "artist": "Doussou Bagayoko",
+    "isrc": "FR6V82383661"
+  },
+  {
+    "title": "Djigui",
+    "artist": "Bata Kouyaté",
+    "isrc": "FR6V80106214"
+  },
+  {
+    "title": "Nene",
+    "artist": "Bintou Sidibe",
+    "isrc": "FR2X41933941"
+  },
+  {
+    "title": "Kayala",
+    "artist": "Djos Samake",
+    "isrc": "FRX201558340"
+  },
+  {
+    "title": "Soumba",
+    "artist": "Mah Kouyaté",
+    "isrc": "QMDA71363344"
+  },
+  {
+    "title": "Diby (L'ombre)",
+    "artist": "Nahawa Doumbia",
+    "isrc": "FR6V80303831"
+  },
+  {
+    "title": "Konia",
+    "artist": "Kon Kan Kon Sata",
+    "isrc": "FR6V82437311"
+  },
+  {
+    "title": "Maha Toure",
+    "artist": "Fissa Maiga",
+    "isrc": "GBNRN1890090"
+  },
+  {
+    "title": "Moussolou",
+    "artist": "Oumou Sangaré",
+    "isrc": "GBBGU9000421"
+  },
+  {
+    "title": "Tou ko",
+    "artist": "Tou Diakité",
+    "isrc": "FR6V80064696"
+  },
+  {
+    "title": "Kalan Nege",
+    "artist": "Issa Bagayogo",
+    "isrc": "US6DR0400667"
+  },
+  {
+    "title": "Sowa",
+    "artist": "Fatoumata Diawara",
+    "isrc": "GBBGU1186001"
+  },
+  {
+    "title": "Sahel (with Ali Farka Touré)",
+    "artist": "Inna Baba Coulibaly",
+    "isrc": "GBBGU1700304"
+  },
+  {
+    "title": "Mauritanie remu",
+    "artist": "Sidy Bonco Tangoudia",
+    "isrc": "FR3GQ1609630"
+  },
+  {
+    "title": "Koya Blues",
+    "artist": "Abou Diarra",
+    "isrc": "FR9W11522835"
+  },
+  {
+    "title": "Kulu",
+    "artist": "N'Gou Bagayoko",
+    "isrc": "FR6V80200765"
+  },
+  {
+    "title": "Kan son",
+    "artist": "Djénéba Sidibé",
+    "isrc": "FR6V81594155"
+  },
+  {
+    "title": "Louanse",
+    "artist": "Kabako Bourama, Ramata Diakité",
+    "isrc": "GBDTM1591005"
+  },
+  {
+    "title": "Yorodjan Simbo",
+    "artist": "Satta Kouyaté",
+    "isrc": "FR3GQ0801790"
+  },
+  {
+    "title": "Miri Magni",
+    "artist": "Filifin",
+    "isrc": "FR6V80301391"
+  },
+  {
+    "title": "Ni La Kani",
+    "artist": "Les Soeurs Dibe",
+    "isrc": "GBNRN0604805"
+  },
+  {
+    "title": "Ita Dia",
+    "artist": "Saran & Tata",
+    "isrc": "GBNRN0604807"
+  },
+  {
+    "title": "Dankélé",
+    "artist": "Bamba Wassoulou Groove",
+    "isrc": "FR9W11901039"
+  },
+  {
+    "title": "Balani",
+    "artist": "Mali Woroba",
+    "isrc": "FR6V81595343"
+  },
+  {
+    "title": "Dienguimba",
+    "artist": "Amadou Sangaré",
+    "isrc": "FR6V81377039"
+  },
+  {
+    "title": "Dagna",
+    "artist": "Coumba Sira Koïta",
+    "isrc": "QMDA71325371"
+  },
+  {
+    "title": "Nieganto te sounogo",
+    "artist": "Doussouba Traoré",
+    "isrc": "QMDA61407905"
+  },
+  {
+    "title": "Kahlan",
+    "artist": "Jah Youssouf & Bintou Coulibaly",
+    "isrc": "TCABA1157239"
+  },
+  {
+    "title": "L-J-S",
+    "artist": "Molobaly Keita",
+    "isrc": "FRX201573071"
+  },
+  {
+    "title": "Malado Boli",
+    "artist": "Wassulu Djelikai",
+    "isrc": "FR59R1831992"
+  },
+  {
+    "title": "Outeme",
+    "artist": "Yaya Diallo",
+    "isrc": "cao170300103"
+  },
+  {
+    "title": "N'bessokoma",
+    "artist": "Madjan Doumbia",
+    "isrc": "FR6V82439676"
+  },
+  {
+    "title": "Ambiance",
+    "artist": "Samba Diallo",
+    "isrc": "FR6V81709430"
+  },
+  {
+    "title": "Den moibagna",
+    "artist": "Wassoulou Fanta",
+    "isrc": "FR6V80057943"
+  },
+  {
+    "title": "Nale Nale",
+    "artist": "Dieneba Diakite",
+    "isrc": "GBNRN0604804"
+  },
+  {
+    "title": "Jugu",
+    "artist": "Souley Kanté",
+    "isrc": "FR6V80067122"
+  },
+  {
+    "title": "Fomanawa",
+    "artist": "Djénéba Diakité",
+    "isrc": "QMBZ91319785"
+  },
+  {
+    "title": "Muso Nyébaiõ",
+    "artist": "Sali Sidibe",
+    "isrc": "US7SF1355061"
+  },
+  {
+    "title": "Nabahe - Tabahe",
+    "artist": "Coumba Sidibe",
+    "isrc": "FR6V82384328"
+  },
+  {
+    "title": "Billi Fofana",
+    "artist": "Mama Toumani Kone",
+    "isrc": "FR96X1519063"
+  },
+  {
+    "title": "Diarabi Mali Den Missen Fo",
+    "artist": "Tata Diakité",
+    "isrc": "FR2X41884210"
+  },
+  {
+    "title": "WALAYE SOLOMANI",
+    "artist": "Yoro Diallo",
+    "isrc": "FR9W10001098"
+  },
+  {
+    "title": "N Nalena",
+    "artist": "Nabintou Diakité",
+    "isrc": "QMDA71369629"
+  },
+  {
+    "title": "Mama",
+    "artist": "Souleymane Sidibe",
+    "isrc": "FR6V82438561"
+  },
+  {
+    "title": "Morodjan",
+    "artist": "Kagbe Sidibe",
+    "isrc": "FRX201573086"
+  },
+  {
+    "title": "Woro Den Koualé",
+    "artist": "Binké Traoré",
+    "isrc": "FR3GQ0000130"
+  },
+  {
+    "title": "Miri magni",
+    "artist": "Les succès du Wassolo",
+    "isrc": "FR6V81382010"
+  },
+  {
+    "title": "Sonte saramala",
+    "artist": "Ramata Diakité",
+    "isrc": "QMDA61407900"
+  },
+  {
+    "title": "Filalou",
+    "artist": "Mamou Sidibé",
+    "isrc": "FR3GQ0900850"
+  },
+  {
+    "title": "Bamanaya",
+    "artist": "Samba Oussou",
+    "isrc": "FR6V81658284"
+  },
+  {
+    "title": "Na wifé",
+    "artist": "Camara Seydou",
+    "isrc": "FR6V81378313"
+  },
+  {
+    "title": "Buranke",
+    "artist": "Alou Sangaré",
+    "isrc": "QMDA72201146"
+  },
+  {
+    "title": "Mêlêkê",
+    "artist": "Feue Kagbé Sidibé",
+    "isrc": "FR6V89803979"
+  },
+  {
+    "title": "Djonfoly",
+    "artist": "Nanou Coul",
+    "isrc": "FR10S1740573"
+  },
+  {
+    "title": "Den mba",
+    "artist": "Doussou Bagayogo",
+    "isrc": "FR3GQ0200830"
+  },
+  {
+    "title": "Niteke Nela",
+    "artist": "Djeneba Seck",
+    "isrc": "GBNRN0609901"
+  },
+  {
+    "title": "Dra",
+    "artist": "Miss Maawa",
+    "isrc": "ushm81044178"
+  },
+  {
+    "title": "Diagnéba - Instrumental",
+    "artist": "Molobaly Traoré",
+    "isrc": "FR6V82438606"
+  },
+  {
+    "title": "Kognon Mousso",
+    "artist": "Doussou Bagayoko",
+    "isrc": "FR6V82383660"
+  },
+  {
+    "title": "Makoun",
+    "artist": "Bata Kouyaté",
+    "isrc": "FRYAS1006881"
+  },
+  {
+    "title": "Neye Dounanye",
+    "artist": "Bintou Sidibe",
+    "isrc": "FR2X41933943"
+  },
+  {
+    "title": "Bassaya",
+    "artist": "Djos Samake",
+    "isrc": "FRX201558341"
+  },
+  {
+    "title": "Djomandé - Badjourou",
+    "artist": "Mah Kouyaté",
+    "isrc": "FR6V82424745"
+  },
+  {
+    "title": "Blonda Yirini",
+    "artist": "Nahawa Doumbia",
+    "isrc": "QMUGB2003901"
+  },
+  {
+    "title": "Denko",
+    "artist": "Kon Kan Kon Sata",
+    "isrc": "FR6V82437314"
+  },
+  {
+    "title": "Mali Issa Bero",
+    "artist": "Fissa Maiga",
+    "isrc": "GBNRN1890088"
+  },
+  {
+    "title": "Fadjamou - TWOTEK Remix",
+    "artist": "Oumou Sangaré, Tony Allen, LiTek, Two4Kay, TWOTEK",
+    "isrc": "FR2W61700101"
+  },
+  {
+    "title": "Siradjo",
+    "artist": "Tou Diakité",
+    "isrc": "FR2X41940328"
+  },
+  {
+    "title": "Toroya",
+    "artist": "Issa Bagayogo",
+    "isrc": "US6DR0100277"
+  },
+  {
+    "title": "Allah Halam (with Ali Farka Touré)",
+    "artist": "Inna Baba Coulibaly",
+    "isrc": "GBBGU1700301"
+  },
+  {
+    "title": "Nterini - A COLORS SHOW",
+    "artist": "Fatoumata Diawara",
+    "isrc": "DEXC81900063"
+  },
+  {
+    "title": "Kawaadountaxoo",
+    "artist": "Sidy Bonco Tangoudia",
+    "isrc": "FR3GQ1124210"
+  },
+  {
+    "title": "Leroule",
+    "artist": "Madjan Doumbia",
+    "isrc": "FR6V82439677"
+  },
+  {
+    "title": "N'dia",
+    "artist": "Samba Diallo",
+    "isrc": "FR6V81709427"
+  },
+  {
+    "title": "Selike wassolon",
+    "artist": "Wassoulou Fanta",
+    "isrc": "FR6V80057939"
+  },
+  {
+    "title": "Ibe Miri Mouna",
+    "artist": "Dieneba Diakite",
+    "isrc": "GBNRN0603504"
+  },
+  {
+    "title": "Diamanadia",
+    "artist": "Souley Kanté",
+    "isrc": "FR6V82427729"
+  },
+  {
+    "title": "Kalifa",
+    "artist": "Djénéba Diakité",
+    "isrc": "QMBZ91319788"
+  },
+  {
+    "title": "Ki Faso Kanu",
+    "artist": "Sali Sidibe",
+    "isrc": "FRX201510085"
+  },
+  {
+    "title": "Konyan",
+    "artist": "Coumba Sidibe",
+    "isrc": "GBNRN0603503"
+  },
+  {
+    "title": "Tege Fö",
+    "artist": "Mama Toumani Kone",
+    "isrc": "FR3GQ1123010"
+  },
+  {
+    "title": "Djougouya",
+    "artist": "Tata Diakité",
+    "isrc": "FR59R1813745"
+  },
+  {
+    "title": "Monifin Ya",
+    "artist": "Yoro Diallo",
+    "isrc": "FR6V82438544"
+  },
+  {
+    "title": "Dia Ye Bana",
+    "artist": "Nabintou Diakité",
+    "isrc": "QMDA71369628"
+  },
+  {
+    "title": "Kana Sako N'diagnogoto",
+    "artist": "Souleymane Sidibe",
+    "isrc": "FR6V82438560"
+  },
+  {
+    "title": "Imakouye",
+    "artist": "Kagbe Sidibe",
+    "isrc": "FRX201573089"
+  },
+  {
+    "title": "Mélékéni",
+    "artist": "Binké Traoré",
+    "isrc": "FR3GQ0000140"
+  },
+  {
+    "title": "Dakan",
+    "artist": "Les succès du Wassolo",
+    "isrc": "FR6V81382005"
+  },
+  {
+    "title": "Noumouya",
+    "artist": "Ramata Diakité",
+    "isrc": "FR3GQ1129660"
+  },
+  {
+    "title": "Kanakoroto",
+    "artist": "Mamou Sidibé",
+    "isrc": "FR3GQ0900820"
+  },
+  {
+    "title": "Sinbo",
+    "artist": "Samba Oussou",
+    "isrc": "FR6V80187739"
+  },
+  {
+    "title": "Baya",
+    "artist": "Camara Seydou",
+    "isrc": "FR6V81378312"
+  },
+  {
+    "title": "Téguéré",
+    "artist": "Alou Sangaré",
+    "isrc": "FR6V80937538"
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Come When I Call You",
+    "artist": "The Klezmatics",
+    "isrc": "NLB360901201"
+  },
+  {
+    "title": "Kuyavyak",
+    "artist": "Brave Old World",
+    "isrc": "DEA290503300"
+  },
+  {
+    "title": "Hora Lui Damian",
+    "artist": "The Klezmorim",
+    "isrc": "USAP38930903"
+  },
+  {
+    "title": "Di Naie Chuppe",
+    "artist": "Amsterdam Klezmer Band",
+    "isrc": "FR10S1910656"
+  },
+  {
+    "title": "Mazeltov Dances",
+    "artist": "Klezmer Conservatory Band",
+    "isrc": "USVG28707057"
+  },
+  {
+    "title": "Dem Monastrishter Rebin's Chosid'l",
+    "artist": "Dave Tarras",
+    "isrc": "USA560555445"
+  },
+  {
+    "title": "Der Rebbe Elimelekh",
+    "artist": "The Flying Bulgar Klezmer Band",
+    "isrc": "USTC29929302"
+  },
+  {
+    "title": "Lebn Zol Palestina",
+    "artist": "Kapelye",
+    "isrc": "US7SF1353389"
+  },
+  {
+    "title": "Bublitschki",
+    "artist": "Giora Feidman, Oscar Sher, Ami Frenkel, Ofer Shalhin, Shmuel Hershko",
+    "isrc": "DEYT92301120"
+  },
+  {
+    "title": "Drey Dreydele",
+    "artist": "Di Naye Kapelye",
+    "isrc": "DEK130103701"
+  },
+  {
+    "title": "In Your Garden Twenty Fecund Fruit Trees",
+    "artist": "Frank London's Klezmer Brass Allstars",
+    "isrc": "DEL120500201"
+  },
+  {
+    "title": "C Minor Bulgar",
+    "artist": "Metropolitan Klezmer",
+    "isrc": "uscgj0562260"
+  },
+  {
+    "title": "Kale-Kale Mazl Tov",
+    "artist": "Alicia Svigals",
+    "isrc": "USTC29728607"
+  },
+  {
+    "title": "Tyachiver Sirba",
+    "artist": "Veretski Pass",
+    "isrc": "US2X90421035"
+  },
+  {
+    "title": "Bughicis freylakhs",
+    "artist": "Budowitz",
+    "isrc": "FR43D1400286"
+  },
+  {
+    "title": "Usual Happiness",
+    "artist": "Kroke",
+    "isrc": "DEK130304505"
+  },
+  {
+    "title": "Tumbalalaika",
+    "artist": "Preßburger Klezmer Band",
+    "isrc": "SKA780400022"
+  },
+  {
+    "title": "The Blessing Nigun",
+    "artist": "Sheine Klezmer Band",
+    "isrc": "ARA820601025"
+  },
+  {
+    "title": "Traditional: Firn di Mekhutonim",
+    "artist": "Naftule Brandwein, Itzhak Perlman",
+    "isrc": "GBAYC9500549"
+  },
+  {
+    "title": "Bros!",
+    "artist": "Pushkin Klezmer Band",
+    "isrc": "DEK131510803"
+  },
+  {
+    "title": "Tumbalalaika",
+    "artist": "Maxwell Street Klezmer Band",
+    "isrc": "USA560557439"
+  },
+  {
+    "title": "Librescu Tango",
+    "artist": "Klezmer Juice",
+    "isrc": "ushm90876521"
+  },
+  {
+    "title": "Wedding Hora",
+    "artist": "London Klezmer Quartet",
+    "isrc": "uscgh1127551"
+  },
+  {
+    "title": "Flatbush Waltz",
+    "artist": "Andy Statman",
+    "isrc": "USRO28011601"
+  },
+  {
+    "title": "Romanian Drinking Song & Kalarash",
+    "artist": "Epstein Brothers Orchestra",
+    "isrc": "DEC449301281"
+  },
+  {
+    "title": "Fun Tashlach",
+    "artist": "Burning Bush",
+    "isrc": "GBCKG0701334"
+  },
+  {
+    "title": "Doin' the Oriental 1",
+    "artist": "Frank London, Boban Markovic",
+    "isrc": "DEL120208315"
+  },
+  {
+    "title": "Indigo",
+    "artist": "David Orlowsky, David Orlowsky Trio",
+    "isrc": "DEE861100988"
+  },
+  {
+    "title": "The Bride's Waltz",
+    "artist": "Shtetl Band Amsterdam",
+    "isrc": "ushm90824440"
+  },
+  {
+    "title": "Djankoye",
+    "artist": "Frieder Breitkreutz, Uwe Sauerwein, Christian Muller, Andreas Karpen",
+    "isrc": "FR6V89601051"
+  },
+  {
+    "title": "Russische Tzigane",
+    "artist": "The Klez Dispensers",
+    "isrc": "ushm90697897"
+  },
+  {
+    "title": "Lebedik Un Freylekh",
+    "artist": "Joel Rubin, Epstein Brothers Orchestra",
+    "isrc": "DEC449401149"
+  },
+  {
+    "title": "Russian Sher",
+    "artist": "Joel Rubin Jewish Music Ensemble",
+    "isrc": "DEC449602863"
+  },
+  {
+    "title": "Sha, Sha, Di Shviger Kumt",
+    "artist": "Chicago Klezmer Ensemble",
+    "isrc": "DEK130192601"
+  },
+  {
+    "title": "Skocne",
+    "artist": "Black Ox Orkestar",
+    "isrc": "CACQ20702911"
+  },
+  {
+    "title": "Varshaver's Freilach",
+    "artist": "Trivium Klezmer",
+    "isrc": "ESA011103125"
+  },
+  {
+    "title": "Freilach Fun Der Chupe",
+    "artist": "Golden State Klezmers",
+    "isrc": "USFV30600121"
+  },
+  {
+    "title": "Bucimis - A dance from Bulgaria",
+    "artist": "The klezmer festival band",
+    "isrc": "GBCKG0601213"
+  },
+  {
+    "title": "Hora de Suflet",
+    "artist": "Mames Babegenush",
+    "isrc": "FRX282457571"
+  },
+  {
+    "title": "Bai Mir Bistu Scheyn",
+    "artist": "Nikitov",
+    "isrc": "ushm80408004"
+  },
+  {
+    "title": "Shabos Nign",
+    "artist": "Yiddishe Cup Klezmer Band",
+    "isrc": "USA370306169"
+  },
+  {
+    "title": "Tyomnaya Noch (Dark Night)",
+    "artist": "Theodore Bikel",
+    "isrc": "USEE10501749"
+  },
+  {
+    "title": "Katioucha / Otchi Tchornye - Medley",
+    "artist": "Sirba Octet, Nicolas Kedroff, Orchestre Philharmonique Royal de Liège, Christian Arming",
+    "isrc": "FRUM71800569"
+  },
+  {
+    "title": "Hamavdil",
+    "artist": "Pharaoh's Daughter",
+    "isrc": "USA370372049"
+  },
+  {
+    "title": "Odessa bulgar",
+    "artist": "Di Gojim",
+    "isrc": "NLA539011101"
+  },
+  {
+    "title": "Misourlou",
+    "artist": "Klezmerson",
+    "isrc": "TCAAZ1193940"
+  },
+  {
+    "title": "Yosl, Yosl",
+    "artist": "The Klezical Tradition Klezmer Band",
+    "isrc": "ushm90400695"
+  },
+  {
+    "title": "Hava Nagila",
+    "artist": "Klezmer Music",
+    "isrc": "DEBL60504045"
+  },
+  {
+    "title": "Kárpáti Menyasszony",
+    "artist": "Odessa Klezmer Band",
+    "isrc": "HUB371200426"
+  },
+  {
+    "title": "Gasn Nigun",
+    "artist": "Margot Leverett & The Klezmer Mountain Boys",
+    "isrc": "USTC29929602"
+  },
+  {
+    "title": "Ajde Jano",
+    "artist": "The Cracow Klezmer Band",
+    "isrc": "USCRW0014306"
+  },
+  {
+    "title": "Yiddish Blues",
+    "artist": "Shirim Klezmer Orchestra",
+    "isrc": "ushm81158353"
+  },
+  {
+    "title": "Freedom Is a Verb",
+    "artist": "Daniel Kahn, Painted Bird",
+    "isrc": "DEK131709103"
+  },
+  {
+    "title": "A Nacht in Gan Eden (A Night in the Garden of Eden)",
+    "artist": "The Klezmakers",
+    "isrc": "ushm80942570"
+  },
+  {
+    "title": "A Glezele Lekhayim",
+    "artist": "The Kharkov Klezmer Band",
+    "isrc": "NLB362040408"
+  },
+  {
+    "title": "Lomir zich iberbeten",
+    "artist": "Talila, Ensemble Kol Aviv",
+    "isrc": "FRZ177710290"
+  },
+  {
+    "title": "Odessa Tanz",
+    "artist": "Colalaila",
+    "isrc": "USPBR0502369"
+  },
+  {
+    "title": "Bucharesta Bulgar",
+    "artist": "Magnolia Klezmer Quartet",
+    "isrc": "usx9p1087561"
+  },
+  {
+    "title": "Ze Dos Kleydl Tateshi",
+    "artist": "Budapest Klezmer Band, Szinetár Dóra",
+    "isrc": "HUA182034801"
+  },
+  {
+    "title": "Freylekhs nokh der khupe",
+    "artist": "Wholesale Klezmer Band",
+    "isrc": "uscgh0574194"
+  },
+  {
+    "title": "S'Iz Geven A Zumertog",
+    "artist": "Michael Alpert",
+    "isrc": "USFF28945001"
+  },
+  {
+    "title": "Der Skyliner Khosid",
+    "artist": "The Andy Statman Klezmer Orchestra",
+    "isrc": "US7SF1353009"
+  },
+  {
+    "title": "Ederlezi",
+    "artist": "Barcelona Gipsy Klezmer Orchestra",
+    "isrc": "ES6101422710"
+  },
+  {
+    "title": "Skotshne",
+    "artist": "Michael Winograd, Deborah Strauss, Patrick Farrell, Joshua Horowitz, Anat Fort, Benjy Fox-Rosen, Judith Berkson, Stuart Brotman, Richie Barshay",
+    "isrc": "US2X91300011"
+  },
+  {
+    "title": "Di Fishelekh In Vaser",
+    "artist": "Forshpil",
+    "isrc": "uscgj2209157"
+  },
+  {
+    "title": "Urke",
+    "artist": "Klezmafour, Pablopavo",
+    "isrc": "PLB841200079"
+  },
+  {
+    "title": "Danglers Song",
+    "artist": "Kruzenshtern & Parohod",
+    "isrc": "USDHM0906419"
+  },
+  {
+    "title": "Tantz, Tantz, Yidelekh",
+    "artist": "Hollywood Klezmer",
+    "isrc": "ushm20511928"
+  },
+  {
+    "title": "Lomir Zich Iberbetn",
+    "artist": "Ben Zimet",
+    "isrc": "FRZ537400020"
+  },
+  {
+    "title": "Danse de la mariée",
+    "artist": "Les Yeux Noirs",
+    "isrc": "FR6V89200051"
+  },
+  {
+    "title": "Sher",
+    "artist": "Oy Division, Daniel Kahn, Psoy Korolenko",
+    "isrc": "USDHM0906443"
+  },
+  {
+    "title": "Ekh Vel Zayn",
+    "artist": "Psoy Korolenko, Oy Division",
+    "isrc": "IL4401300069"
+  },
+  {
+    "title": "Tire l'aiguille (Der rebe hot geheysn freylekh zayn )",
+    "artist": "Duo Peylet-Cuniot",
+    "isrc": "FR6V88900261"
+  },
+  {
+    "title": "Zol Zayn Gelebt (Live to Enjoy)Live",
+    "artist": "Ed Goldberg & The Odessa Klezmer Band",
+    "isrc": "ushm81139514"
+  },
+  {
+    "title": "Bullets at the Wedding/Vinnitser Sher",
+    "artist": "Extreme Klezmer Makeover",
+    "isrc": "ushm90730562"
+  },
+  {
+    "title": "Der Shtiler Bulgar",
+    "artist": "Ot Azoj Klezmerband",
+    "isrc": "NLA930601025"
+  },
+  {
+    "title": "Nitsokhn Lid (Victory Song)",
+    "artist": "Yiddish Glory, Loyko, Alexander Sevastian, Psoy Korolenko",
+    "isrc": "CADXR1700016"
+  },
+  {
+    "title": "Una noche al borde de la mar (One Night by the Sea)",
+    "artist": "Lucie Skeaping, Burning Bush",
+    "isrc": "GBCKG0500925"
+  },
+  {
+    "title": "Freilachs fun LA",
+    "artist": "The Freilachmakers Klezmer String Band",
+    "isrc": "ushm81066517"
+  },
+  {
+    "title": "Adieu",
+    "artist": "17 Hippies",
+    "isrc": "DEX600800002"
+  },
+  {
+    "title": "Sholom Aleykhem",
+    "artist": "Andy Statman Klezmer Orchestra, Itzhak Perlman",
+    "isrc": "GBAYC9600831"
+  },
+  {
+    "title": "Freylekhs Funder Khupe",
+    "artist": "David Glukh Klezmer Ensemble",
+    "isrc": "ushm20358582"
+  },
+  {
+    "title": "Donna Donna",
+    "artist": "David Orlowsky´s Klezmorim",
+    "isrc": "DEP890713683"
+  },
+  {
+    "title": "Violin Medley",
+    "artist": "Jinny Marsh's Hot Kugel Klezmer Band",
+    "isrc": "uscgh0594034"
+  },
+  {
+    "title": "Dos Bisele Shpayz",
+    "artist": "Klezmer Alliance",
+    "isrc": "DEK130706503"
+  },
+  {
+    "title": "Na Sopkakh Man'chzurii (In The Hills Of Manchuria)",
+    "artist": "Klezperanto",
+    "isrc": "HKI190026813"
+  },
+  {
+    "title": "The Model",
+    "artist": "Knoblauch Klezmer Band",
+    "isrc": "QZ4JJ1740371"
+  },
+  {
+    "title": "Chiribim, Chiribom",
+    "artist": "The Barry Sisters",
+    "isrc": "USRH10801909"
+  },
+  {
+    "title": "Opa Tsupa",
+    "artist": "Bratsch",
+    "isrc": "USA560944476"
+  },
+  {
+    "title": "Galicianer Tanz",
+    "artist": "Dobranotch",
+    "isrc": "uscgj1351145"
+  },
+  {
+    "title": "Lule Lule",
+    "artist": "Barcelona Gipsy balKan Orchestra",
+    "isrc": "ES6101628101"
+  },
+  {
+    "title": "Shprayz Ikh Mir",
+    "artist": "The Klezmatics",
+    "isrc": "DEL129704801"
+  },
+  {
+    "title": "Lekho Neraneno",
+    "artist": "Brave Old World, Itzhak Perlman",
+    "isrc": "GBAYC9600822"
+  },
+  {
+    "title": "Lebedik Un Freylekh",
+    "artist": "The Klezmorim",
+    "isrc": "USAP38930911"
+  },
+  {
+    "title": "Dance Me To The End Of Love",
+    "artist": "Klezmer Conservatory Band",
+    "isrc": "USRO20016903"
+  },
+  {
+    "title": "Bulgar Blues",
+    "artist": "The Flying Bulgar Klezmer Band",
+    "isrc": "USTC29929404"
+  },
+  {
+    "title": "Moroka",
+    "artist": "Amsterdam Klezmer Band, Söndörgő",
+    "isrc": "NLB4D1700006"
+  },
+  {
+    "title": "Unzer Toirele",
+    "artist": "Dave Tarras",
+    "isrc": "USA560555439"
+  },
+  {
+    "title": "Vi Bist Du Geveyzn Far Prohibition",
+    "artist": "Kapelye",
+    "isrc": "US7SF1353393"
+  },
+  {
+    "title": "Meron Tune (Shaffer's Nign)",
+    "artist": "Di Naye Kapelye",
+    "isrc": "DEK130103702"
+  },
+  {
+    "title": "Let's Dance / Sherele",
+    "artist": "Giora Feidman, Oscar Sher, Ami Frenkel, Ofer Shalhin, Shmuel Hershko",
+    "isrc": "DEYT92301116"
+  },
+  {
+    "title": "Our Ancestors Forty Thousand Years Wide",
+    "artist": "Frank London's Klezmer Brass Allstars",
+    "isrc": "DEL120500209"
+  },
+  {
+    "title": "Nokh A Gleyzl Vayn - Another Glass Of Wine",
+    "artist": "Metropolitan Klezmer",
+    "isrc": "uscgj0562259"
+  },
+  {
+    "title": "Romanian Fantasy No. 1",
+    "artist": "Alicia Svigals",
+    "isrc": "USTC29728604"
+  },
+  {
+    "title": "Belfer's Overture",
+    "artist": "Veretski Pass, Joel Rubin",
+    "isrc": "US2X91540004"
+  },
+  {
+    "title": "Galitsyaner Sher",
+    "artist": "Budowitz",
+    "isrc": "US2X90810066"
+  },
+  {
+    "title": "Ot azoy neyt a shnayder",
+    "artist": "Preßburger Klezmer Band",
+    "isrc": "SKA780400021"
+  },
+  {
+    "title": "Time",
+    "artist": "Kroke",
+    "isrc": "PLA551200278"
+  },
+  {
+    "title": "Yedid Nefesh",
+    "artist": "Sheine Klezmer Band",
+    "isrc": "ARA820601022"
+  },
+  {
+    "title": "Nifty's Freilach",
+    "artist": "Naftule Brandwein",
+    "isrc": "ITC471100569"
+  },
+  {
+    "title": "Hotsa Mama",
+    "artist": "Pushkin Klezmer Band",
+    "isrc": "DEK131510806"
+  },
+  {
+    "title": "Vu Bistu Geveyn Ven Di Gelt Iz Geveyn",
+    "artist": "Maxwell Street Klezmer Band",
+    "isrc": "USA560557433"
+  },
+  {
+    "title": "Dunika Waltz",
+    "artist": "London Klezmer Quartet",
+    "isrc": "GBSGU1600016"
+  },
+  {
+    "title": "Papirosn",
+    "artist": "Klezmer Juice",
+    "isrc": "USHM90587430"
+  },
+  {
+    "title": "Traditional: Flatbush Waltz",
+    "artist": "Andy Statman, Itzhak Perlman",
+    "isrc": "GBAYC9500545"
+  },
+  {
+    "title": "Beresh Katz' Bulgar",
+    "artist": "Epstein Brothers Orchestra",
+    "isrc": "DEC449301272"
+  },
+  {
+    "title": "Rad halaila (The Night is Strong) (arr. R. Skeaping)",
+    "artist": "Burning Bush",
+    "isrc": "GBCKG0501154"
+  },
+  {
+    "title": "Eyli Ato",
+    "artist": "Frank London, Lorin Sklamberg, Uri Caine",
+    "isrc": "USCRW9812901"
+  },
+  {
+    "title": "Sakhnovski's Skotshne",
+    "artist": "Shtetl Band Amsterdam",
+    "isrc": "ushm90824447"
+  },
+  {
+    "title": "Zilberne Khasene",
+    "artist": "Frieder Breitkreutz, Christian Muller, Uwe Sauerwein, Andreas Karpen",
+    "isrc": "FR6V89601041"
+  },
+  {
+    "title": "Juli",
+    "artist": "David Orlowsky, David Orlowsky Trio",
+    "isrc": "DEE861100986"
+  },
+  {
+    "title": "Der Heyser Bulgar",
+    "artist": "The Klez Dispensers",
+    "isrc": "ushm90697912"
+  },
+  {
+    "title": "Lebendik! (Lively!)",
+    "artist": "Joel Rubin, Michael Alpert, Stuart Brotman, Hankus Netsky, Lisa Rose, Moishe Yerushalimsky",
+    "isrc": "DEC449803434"
+  },
+  {
+    "title": "Tsu der Khupe Geyn (Going to the Wedding Canopy)",
+    "artist": "Joel Rubin Jewish Music Ensemble",
+    "isrc": "DEC449602859"
+  },
+  {
+    "title": "Rumeynisher Bulgarish",
+    "artist": "Chicago Klezmer Ensemble",
+    "isrc": "DEK139801304"
+  },
+  {
+    "title": "Az Vey Dem Tatn",
+    "artist": "Black Ox Orkestar",
+    "isrc": "CACQ20703802"
+  },
+  {
+    "title": "Ki Mitziyon",
+    "artist": "Trivium Klezmer",
+    "isrc": "ESA011103127"
+  },
+  {
+    "title": "Ma Yofus",
+    "artist": "Golden State Klezmers",
+    "isrc": "USFV30600128"
+  },
+  {
+    "title": "Teplikher Sher",
+    "artist": "Mames Babegenush",
+    "isrc": "DK3KA0901502"
+  },
+  {
+    "title": "Yossel",
+    "artist": "The klezmer festival band",
+    "isrc": "GBCKG0601207"
+  },
+  {
+    "title": "Sha Shtil",
+    "artist": "Nikitov",
+    "isrc": "ushm80408002"
+  },
+  {
+    "title": "Tatar Dance",
+    "artist": "Yiddishe Cup Klezmer Band",
+    "isrc": "USA370306181"
+  },
+  {
+    "title": "Sudarinya",
+    "artist": "Theodore Bikel",
+    "isrc": "USEE10501761"
+  },
+  {
+    "title": "Le temps du muguet",
+    "artist": "Sirba Octet",
+    "isrc": "FRUM71800575"
+  },
+  {
+    "title": "Shnirele Perele",
+    "artist": "Pharaoh's Daughter",
+    "isrc": "USA370372051"
+  },
+  {
+    "title": "Der yid in yerushalaim",
+    "artist": "Di Gojim",
+    "isrc": "NLA539011103"
+  },
+  {
+    "title": "Shulem Aleykhem",
+    "artist": "The Klezical Tradition Klezmer Band",
+    "isrc": "ushm90400676"
+  },
+  {
+    "title": "Pastelito De Piña",
+    "artist": "Klezmerson",
+    "isrc": "USTC70810769"
+  },
+  {
+    "title": "A Rabbi Tánca",
+    "artist": "Odessa Klezmer Band",
+    "isrc": "HUB371200420"
+  },
+  {
+    "title": "Oy Tate S'iz Gut",
+    "artist": "Margot Leverett & The Klezmer Mountain Boys",
+    "isrc": "USTC29929605"
+  },
+  {
+    "title": "Donna Donna",
+    "artist": "Klezmer Music",
+    "isrc": "DEBL60504042"
+  },
+  {
+    "title": "Balkan Dance",
+    "artist": "The Cracow Klezmer Band",
+    "isrc": "USCRW0014301"
+  },
+  {
+    "title": "Suddenly, Pincus Spied A Cat...",
+    "artist": "Shirim Klezmer Orchestra",
+    "isrc": "USCRW0419504"
+  },
+  {
+    "title": "March of the Jobless Corps",
+    "artist": "Daniel Kahn, Painted Bird",
+    "isrc": "DEK130907704"
+  },
+  {
+    "title": "Der Alter Tzigayner (The Old Gypsy)",
+    "artist": "The Klezmakers",
+    "isrc": "ushm80942569"
+  },
+  {
+    "title": "Belkele",
+    "artist": "The Kharkov Klezmer Band",
+    "isrc": "NLB362040411"
+  },
+  {
+    "title": "Itsik hot h'assene gue' at",
+    "artist": "Talila, Ensemble Kol Aviv",
+    "isrc": "FRZ177710390"
+  },
+  {
+    "title": "Wenn Ich Einmal Reich War",
+    "artist": "Colalaila",
+    "isrc": "USPBR0502362"
+  },
+  {
+    "title": "Palesteena",
+    "artist": "Magnolia Klezmer Quartet",
+    "isrc": "usx9p1087571"
+  },
+  {
+    "title": "Nor gelicht, nor gelacht",
+    "artist": "Budapest Klezmer Band",
+    "isrc": "HUA182034802"
+  },
+  {
+    "title": "Mamalige",
+    "artist": "Wholesale Klezmer Band",
+    "isrc": "uscgh0574199"
+  },
+  {
+    "title": "Zemlyanka",
+    "artist": "Michael Alpert",
+    "isrc": "USFF28945008"
+  },
+  {
+    "title": "Another Glass Of Wine",
+    "artist": "The Andy Statman Klezmer Orchestra",
+    "isrc": "US7SF1353007"
+  },
+  {
+    "title": "Gonna Get Through This World",
+    "artist": "The Klezmatics",
+    "isrc": "NLB360901204"
+  },
+  {
+    "title": "A Hora mit Branfn",
+    "artist": "Brave Old World, Itzhak Perlman",
+    "isrc": "GBAYC9600824"
+  },
+  {
+    "title": "A Glezele Vayn",
+    "artist": "The Klezmorim",
+    "isrc": "USAP38930909"
+  },
+  {
+    "title": "Yiddisher Charlston",
+    "artist": "Klezmer Conservatory Band",
+    "isrc": "USVG28707061"
+  },
+  {
+    "title": "Ishai's Freylekh",
+    "artist": "The Flying Bulgar Klezmer Band",
+    "isrc": "USTC29929301"
+  },
+  {
+    "title": "Naie Chuppe",
+    "artist": "Amsterdam Klezmer Band",
+    "isrc": "DEAZ21100560"
+  },
+  {
+    "title": "Branas Hassene",
+    "artist": "Dave Tarras",
+    "isrc": "USA560555454"
+  },
+  {
+    "title": "Der Shtiler Bulgar/Shpil Es Nokh A Mol",
+    "artist": "Kapelye",
+    "isrc": "US7SF1353395"
+  },
+  {
+    "title": "999/Yom Ha-Shabbes",
+    "artist": "Di Naye Kapelye",
+    "isrc": "DEK130103704"
+  },
+  {
+    "title": "Nigun",
+    "artist": "Giora Feidman, Jeff Israel, Manny Katz, Richard Sarpola, Peter Weitzner, Ali Hafid, Rick Cutler",
+    "isrc": "USASX0840510"
+  },
+  {
+    "title": "Who Knows One?",
+    "artist": "Frank London's Klezmer Brass Allstars",
+    "isrc": "DEL120500206"
+  },
+  {
+    "title": "Bessarabian Hora",
+    "artist": "Metropolitan Klezmer",
+    "isrc": "uscgj0562279"
+  },
+  {
+    "title": "Dem Trisker Rebns Khosid",
+    "artist": "Alicia Svigals",
+    "isrc": "USTC29728606"
+  },
+  {
+    "title": "Veretskier Kolomeyke",
+    "artist": "Veretski Pass",
+    "isrc": "US2X90421056"
+  },
+  {
+    "title": "Fun der khupe",
+    "artist": "Budowitz",
+    "isrc": "FR43D1400285"
+  },
+  {
+    "title": "Oyfn veg shteyt a boym",
+    "artist": "Preßburger Klezmer Band",
+    "isrc": "SKA780400024"
+  },
+  {
+    "title": "Halleluya",
+    "artist": "Sheine Klezmer Band",
+    "isrc": "ARA820601024"
+  },
+  {
+    "title": "Ajde Jano",
+    "artist": "Kroke",
+    "isrc": "PLA551200282"
+  },
+  {
+    "title": "Heiser bulgar",
+    "artist": "Naftule Brandwein",
+    "isrc": "FR43D1400280"
+  },
+  {
+    "title": "Limonchiki",
+    "artist": "Pushkin Klezmer Band",
+    "isrc": "DEK131510809"
+  },
+  {
+    "title": "Ach! Odessa",
+    "artist": "Maxwell Street Klezmer Band",
+    "isrc": "USA560557445"
+  },
+  {
+    "title": "Summertime Waltz",
+    "artist": "London Klezmer Quartet",
+    "isrc": "GBSGU1600003"
+  },
+  {
+    "title": "Zemer Atik (Nigun Atik)",
+    "artist": "Klezmer Juice",
+    "isrc": "USHM90587433"
+  },
+  {
+    "title": "Traditional: Tati un mama Tants",
+    "artist": "Andy Statman, Itzhak Perlman",
+    "isrc": "GBAYC9500550"
+  },
+  {
+    "title": "Mitzve Tants",
+    "artist": "Epstein Brothers Orchestra",
+    "isrc": "DEC449301273"
+  },
+  {
+    "title": "The Bottom of the Well",
+    "artist": "Frank London",
+    "isrc": "USYLS0701001"
+  },
+  {
+    "title": "Odessa Bulgar",
+    "artist": "Burning Bush",
+    "isrc": "GBCKG0501266"
+  },
+  {
+    "title": "Tantst, Tantst Yidelekh",
+    "artist": "Shtetl Band Amsterdam",
+    "isrc": "ushm90824435"
+  },
+  {
+    "title": "In Odess",
+    "artist": "Frieder Breitkreutz, Andreas Karpen, Uwe Sauerwein, Christian Muller",
+    "isrc": "FR6V89601042"
+  },
+  {
+    "title": "Des Nachts - Live at Elbphilharmonie",
+    "artist": "Florian Dohrmann, David Orlowsky Trio",
+    "isrc": "DEE861807484"
+  },
+  {
+    "title": "Freymilekh",
+    "artist": "The Klez Dispensers",
+    "isrc": "ushm90697908"
+  }
+]

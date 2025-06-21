@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Summerblink",
+    "artist": "Marto",
+    "isrc": "QZ5AB2396761"
+  },
+  {
+    "title": "балласт",
+    "artist": "конъюнктура",
+    "isrc": "RUA1D2444745"
+  },
+  {
+    "title": "на закате",
+    "artist": "акульи слёзы",
+    "isrc": "RUA1D1911453"
+  },
+  {
+    "title": "Балкон",
+    "artist": "Космос на потолке",
+    "isrc": "RUA1D1819206"
+  },
+  {
+    "title": "Не помню не слышу",
+    "artist": "Деревянные киты",
+    "isrc": "RUA0G2000636"
+  },
+  {
+    "title": "Totally Alone",
+    "artist": "Subway Porno",
+    "isrc": "RUA3R1926715"
+  },
+  {
+    "title": "Лунатик 2994",
+    "artist": "электроребята",
+    "isrc": "RUA1D2015083"
+  },
+  {
+    "title": "Спаси меня",
+    "artist": "кауч сёрфинг",
+    "isrc": "FRX452440781"
+  },
+  {
+    "title": "Ты и твоя тень",
+    "artist": "Увула",
+    "isrc": "TCADQ1842997"
+  },
+  {
+    "title": "Песня о привязанности",
+    "artist": "Автоспорт",
+    "isrc": "QM6MZ2042659"
+  },
+  {
+    "title": "Солнце в глаз",
+    "artist": "HEAVY PLANE",
+    "isrc": "QZGLM2359519"
+  },
+  {
+    "title": "все твои дела",
+    "artist": "vovkapopka",
+    "isrc": "RUA1D2344081"
+  },
+  {
+    "title": "Я дома",
+    "artist": "Луговые Мари",
+    "isrc": "QZW9K2386948"
+  },
+  {
+    "title": "Holy Forest",
+    "artist": "Pinkshinyultrablast",
+    "isrc": "GBJRZ1500002"
+  },
+  {
+    "title": "Вдох",
+    "artist": "Сводка",
+    "isrc": "QZMZ92359948"
+  },
+  {
+    "title": "Look Around",
+    "artist": "Blankenberge",
+    "isrc": "QZES61904098"
+  },
+  {
+    "title": "For the Kill",
+    "artist": "Life On Venus",
+    "isrc": "QZHNB1944684"
+  },
+  {
+    "title": "Лето",
+    "artist": "krasochnobledno",
+    "isrc": "QM4TX2098632"
+  },
+  {
+    "title": "Sticks",
+    "artist": "Aerofall",
+    "isrc": "QZAPG1805376"
+  },
+  {
+    "title": "где я - Original Mix",
+    "artist": "flowers in your eyes, corn wave",
+    "isrc": "ITH642019125"
+  },
+  {
+    "title": "Межпланетный пылесборник",
+    "artist": "Смех Зелибобы",
+    "isrc": "RUA1D2263929"
+  },
+  {
+    "title": "Сейчас",
+    "artist": "Даша и Серёжа",
+    "isrc": "QM4TX2072806"
+  },
+  {
+    "title": "Вру",
+    "artist": "Please Tokyo Please This Is Tokyo",
+    "isrc": "QZGLS2055872"
+  },
+  {
+    "title": "Синхрофазотрон",
+    "artist": "Дом престарелых аутистов",
+    "isrc": "RUA1D1820859"
+  },
+  {
+    "title": "It Feels Like I Start over Again",
+    "artist": "Faience Knife",
+    "isrc": "QZHZ62196672"
+  },
+  {
+    "title": "Я помню все",
+    "artist": "ALMOST VIOLENCE",
+    "isrc": "RUA1D1826981"
+  },
+  {
+    "title": "Конверт",
+    "artist": "Secrets of the third Planet",
+    "isrc": "RUAGT2365051"
+  },
+  {
+    "title": "тенью",
+    "artist": "Мелисса",
+    "isrc": "RUA1D2278895"
+  },
+  {
+    "title": "Aliens in Our Arcade",
+    "artist": "The Mysterious Town of Oak Hill",
+    "isrc": "QM4DW1810630"
+  },
+  {
+    "title": "The Last Song",
+    "artist": "Mad Pilot",
+    "isrc": "RUA1D1805919"
+  },
+  {
+    "title": "We're Not Just Friends",
+    "artist": "Parks, Squares and Alleys",
+    "isrc": "TCACI1527174"
+  },
+  {
+    "title": "Фениг",
+    "artist": "Wyym",
+    "isrc": "RUA1D2008535"
+  },
+  {
+    "title": "Линия времени",
+    "artist": "Teletape",
+    "isrc": "RUAGT2203148"
+  },
+  {
+    "title": "В чебуречной с Сатаной",
+    "artist": "Mango Tweedlight Academy",
+    "isrc": "AEA0Q1819848"
+  },
+  {
+    "title": "Голова — тюрьма",
+    "artist": "Джуна",
+    "isrc": "FRX282036633"
+  },
+  {
+    "title": "Rotten: Thousand Times “Good Night”",
+    "artist": "Vjuga",
+    "isrc": "QZNJX2094646"
+  },
+  {
+    "title": "порезы на руках",
+    "artist": "Гараж Говна",
+    "isrc": "RUA1D2100925"
+  },
+  {
+    "title": "Sword In the Stone",
+    "artist": "Gnoomes",
+    "isrc": "UK2SX1953102"
+  },
+  {
+    "title": "Дискомфорт",
+    "artist": "БАКУРЛИ",
+    "isrc": "RUA1D1819478"
+  },
+  {
+    "title": "кислая квартира",
+    "artist": "Hopelake",
+    "isrc": "RUA1D2445981"
+  },
+  {
+    "title": "Altered Realm",
+    "artist": "Shimmerance",
+    "isrc": "RUA1D2010069"
+  },
+  {
+    "title": "Мемантин",
+    "artist": "Reverb On Repeat",
+    "isrc": "RUAGV2400373"
+  },
+  {
+    "title": "Candice",
+    "artist": "Mental Map",
+    "isrc": "RUA3R2170525"
+  },
+  {
+    "title": "Ocean",
+    "artist": "Shoe Shine Six",
+    "isrc": "AEA0Q1800827"
+  },
+  {
+    "title": "Планеты",
+    "artist": "vàija",
+    "isrc": "FRX452396018"
+  },
+  {
+    "title": "Dying Alone",
+    "artist": "Cats Never Die",
+    "isrc": "USE831561626"
+  },
+  {
+    "title": "Listen",
+    "artist": "Ethica",
+    "isrc": "DGA052301602"
+  },
+  {
+    "title": "то что ты искал",
+    "artist": "nagasaki 日没",
+    "isrc": "RUAEX2234058"
+  },
+  {
+    "title": "Город в тумане",
+    "artist": "Beauty of Sirin",
+    "isrc": "QZTPX2107586"
+  },
+  {
+    "title": "Gets Me High",
+    "artist": "fetters in use",
+    "isrc": "QZNJW2314606"
+  },
+  {
+    "title": "Britt",
+    "artist": "OZERO",
+    "isrc": "QZNJX2398322"
+  },
+  {
+    "title": "acid & coca-cola",
+    "artist": "angelic milk",
+    "isrc": "SE49G1802004"
+  },
+  {
+    "title": "Папа знал",
+    "artist": "Девушка школьника",
+    "isrc": "RUA1D1807776"
+  },
+  {
+    "title": "Dead Flowers",
+    "artist": "thehappymask",
+    "isrc": "GBSMU6016486"
+  },
+  {
+    "title": "Parks",
+    "artist": "FPRF",
+    "isrc": "USE831524364"
+  },
+  {
+    "title": "Бумажный человек",
+    "artist": "Bright Falls",
+    "isrc": "RUA1D1825037"
+  },
+  {
+    "title": "Мэри",
+    "artist": "Cosmic Letdown",
+    "isrc": "AEA0D1838107"
+  },
+  {
+    "title": "Kraut - live",
+    "artist": "Polska Radio One",
+    "isrc": "USA2P2033009"
+  },
+  {
+    "title": "Вернуться обратно",
+    "artist": "Фонтан",
+    "isrc": "usl4q1743352"
+  },
+  {
+    "title": "Мотыльки",
+    "artist": "Утешение",
+    "isrc": "FRX202486239"
+  },
+  {
+    "title": "Oh Good Bad Days",
+    "artist": "Paper Wounds",
+    "isrc": "RUA1D1900145"
+  },
+  {
+    "title": "Spoiled",
+    "artist": "Rich Chamomile",
+    "isrc": "RUA1D2144371"
+  },
+  {
+    "title": "Синий бархат подземелья",
+    "artist": "Prince Champagne",
+    "isrc": "QZNJY2011236"
+  },
+  {
+    "title": "Ничего вокруг",
+    "artist": "Близость",
+    "isrc": "QZGLM1909360"
+  },
+  {
+    "title": "I Miss You",
+    "artist": "Hiki",
+    "isrc": "GBSMU9497847"
+  },
+  {
+    "title": "Заря",
+    "artist": "Водоемы",
+    "isrc": "QZNJX2073313"
+  },
+  {
+    "title": "Echoes",
+    "artist": "Sundazer",
+    "isrc": "TCAIB2458875"
+  },
+  {
+    "title": "Fast Lane - Live",
+    "artist": "Silent Run",
+    "isrc": "QZHZ62290878"
+  },
+  {
+    "title": "I Can't See Your Eyes",
+    "artist": "Neonic Sundrive",
+    "isrc": "RUA1D2025173"
+  },
+  {
+    "title": "Melancholy",
+    "artist": "Ensslin",
+    "isrc": "QZNJX2178242"
+  },
+  {
+    "title": "Serdce",
+    "artist": "Amazing Electronic Talking Cave",
+    "isrc": "ushm81157404"
+  },
+  {
+    "title": "Катакомбы",
+    "artist": "Asthetics",
+    "isrc": "CACWV2110553"
+  },
+  {
+    "title": "Newclear",
+    "artist": "COSme",
+    "isrc": "SEYOK1853840"
+  },
+  {
+    "title": "Диафильм",
+    "artist": "Castletroy",
+    "isrc": "FR2X42039921"
+  },
+  {
+    "title": "Stranger",
+    "artist": "HoneyHead",
+    "isrc": "FRX281961734"
+  },
+  {
+    "title": "Is It Real",
+    "artist": "Hot Zex",
+    "isrc": "USQNT0900009"
+  },
+  {
+    "title": "Сверхновая",
+    "artist": "Howye",
+    "isrc": "QZNJW2220226"
+  },
+  {
+    "title": "Strawberry",
+    "artist": "Inverse",
+    "isrc": "RUA1D1800959"
+  },
+  {
+    "title": "Melt",
+    "artist": "Lava Lite",
+    "isrc": "RUA1D2010636"
+  },
+  {
+    "title": "Dark Summer",
+    "artist": "MyHoliday",
+    "isrc": "RUA1D1806269"
+  },
+  {
+    "title": "Sword And Shield",
+    "artist": "Palms On Fire",
+    "isrc": "USR7P1614001"
+  },
+  {
+    "title": "Lunar Seas",
+    "artist": "Regine Ollsenn",
+    "isrc": "QM4DW1765728"
+  },
+  {
+    "title": "Beatin'",
+    "artist": "SCREEEWS",
+    "isrc": "QZNJZ2158285"
+  },
+  {
+    "title": "New Born",
+    "artist": "Sounds of Sputnik, Ummagma",
+    "isrc": "DEZ651601823"
+  },
+  {
+    "title": "Высоко",
+    "artist": "Velvet Breasts",
+    "isrc": "RUA1D1706512"
+  },
+  {
+    "title": "Peony",
+    "artist": "Youngbrother",
+    "isrc": "RUA1D1900157"
+  },
+  {
+    "title": "Serpentine",
+    "artist": "vvait",
+    "isrc": "RUA1D1900156"
+  },
+  {
+    "title": "Donne-moi pas d'fleurs",
+    "artist": "Écarlate",
+    "isrc": "CBD7W2300001"
+  },
+  {
+    "title": "Anhedonia",
+    "artist": "écarlate",
+    "isrc": "RUAEX2214002"
+  },
+  {
+    "title": "Параллакс Луны",
+    "artist": "Архитектурный Оркестр Благодетели",
+    "isrc": "QZNJV2088416"
+  },
+  {
+    "title": "На её руках",
+    "artist": "Бедная Лиза",
+    "isrc": "FR96X2203667"
+  },
+  {
+    "title": "Зал ожидания",
+    "artist": "Макет",
+    "isrc": "DGA072143736"
+  },
+  {
+    "title": "Холод Дней",
+    "artist": "Серпуховская драйв",
+    "isrc": "DGA062244033"
+  },
+  {
+    "title": "Лицо из сажи",
+    "artist": "Шум Силистии",
+    "isrc": "QZW9N2259186"
+  },
+  {
+    "title": "Миг непрочен",
+    "artist": "Marto",
+    "isrc": "QZTVM2110981"
+  },
+  {
+    "title": "стивен, ты действительно нечто",
+    "artist": "конъюнктура",
+    "isrc": "RUA1D2208020"
+  },
+  {
+    "title": "Рельсы",
+    "artist": "Космос на потолке",
+    "isrc": "QM6MZ1954366"
+  },
+  {
+    "title": "меньше часа",
+    "artist": "акульи слёзы, Svidaniye",
+    "isrc": "FR96X2292319"
+  },
+  {
+    "title": "Apocalypse",
+    "artist": "Subway Porno",
+    "isrc": "GBLFP2287040"
+  },
+  {
+    "title": "Всё, что я хочу тебе сказать",
+    "artist": "Деревянные киты",
+    "isrc": "FRX762416846"
+  },
+  {
+    "title": "Весна осталась с нами",
+    "artist": "электроребята",
+    "isrc": "RUA1D1804210"
+  },
+  {
+    "title": "Сколько можно?",
+    "artist": "кауч сёрфинг",
+    "isrc": "QZHZ42108449"
+  },
+  {
+    "title": "Хаг",
+    "artist": "HEAVY PLANE",
+    "isrc": "QZGLM2359518"
+  },
+  {
+    "title": "Электрический ток",
+    "artist": "Увула",
+    "isrc": "QM4TX2002753"
+  },
+  {
+    "title": "Пожалуйста, только не домой",
+    "artist": "Автоспорт",
+    "isrc": "QM6MZ2049328"
+  },
+  {
+    "title": "воздушный левиафан",
+    "artist": "vovkapopka",
+    "isrc": "RUA3R2072862"
+  },
+  {
+    "title": "Леса",
+    "artist": "Луговые Мари",
+    "isrc": "QZ5AB2150392"
+  },
+  {
+    "title": "Исход",
+    "artist": "Сводка",
+    "isrc": "QZMZ92359952"
+  },
+  {
+    "title": "Honeybee",
+    "artist": "Pinkshinyultrablast",
+    "isrc": "GBJRZ1600032"
+  },
+  {
+    "title": "No Sense",
+    "artist": "Blankenberge",
+    "isrc": "QZHN62178776"
+  },
+  {
+    "title": "Untitled",
+    "artist": "krasochnobledno",
+    "isrc": "QMBZ92038273"
+  },
+  {
+    "title": "What Lies Beneath",
+    "artist": "Life On Venus",
+    "isrc": "USR7P1916601"
+  },
+  {
+    "title": "I Turned a Blind Eye",
+    "artist": "Aerofall",
+    "isrc": "QMPKX1430517"
+  },
+  {
+    "title": "цветы - Original Mix",
+    "artist": "flowers in your eyes, мс улыбочка",
+    "isrc": "ITH642019134"
+  },
+  {
+    "title": "Минтай",
+    "artist": "Смех Зелибобы",
+    "isrc": "RUA1D2263931"
+  },
+  {
+    "title": "Ни о чём",
+    "artist": "Даша и Серёжа",
+    "isrc": "QM4TX2072807"
+  },
+  {
+    "title": "Сокрыты",
+    "artist": "Please Tokyo Please This Is Tokyo",
+    "isrc": "QZGLS2055878"
+  },
+  {
+    "title": "Хороший добрый",
+    "artist": "Дом престарелых аутистов",
+    "isrc": "RUA1D1810908"
+  },
+  {
+    "title": "Всем своим",
+    "artist": "ALMOST VIOLENCE",
+    "isrc": "RUA1D1826986"
+  },
+  {
+    "title": "The Last Song of the Moon",
+    "artist": "Faience Knife",
+    "isrc": "QZHZ62196675"
+  },
+  {
+    "title": "До свидания, город!",
+    "artist": "Secrets of the third Planet",
+    "isrc": "RUAGT2365052"
+  },
+  {
+    "title": "пыль",
+    "artist": "Мелисса",
+    "isrc": "usl4r2056339"
+  },
+  {
+    "title": "Charlie",
+    "artist": "The Mysterious Town of Oak Hill",
+    "isrc": "QM4DW1810629"
+  },
+  {
+    "title": "Wintersong",
+    "artist": "Mad Pilot",
+    "isrc": "RUA1D1805917"
+  },
+  {
+    "title": "Кома",
+    "artist": "Wyym",
+    "isrc": "RUA1D2280637"
+  },
+  {
+    "title": "Калейдоскоп",
+    "artist": "Teletape",
+    "isrc": "RUAGT2200744"
+  },
+  {
+    "title": "Под странной луной",
+    "artist": "Mango Tweedlight Academy",
+    "isrc": "AEA0Q1819847"
+  },
+  {
+    "title": "Самолёт",
+    "artist": "Джуна",
+    "isrc": "RUA1D1705669"
+  },
+  {
+    "title": "Youth",
+    "artist": "Parks, Squares and Alleys",
+    "isrc": "TCACF1576614"
+  },
+  {
+    "title": "On a Vision or in None",
+    "artist": "Vjuga",
+    "isrc": "QZNJX2094648"
+  },
+  {
+    "title": "Пиво \"Каждый День\"",
+    "artist": "Гараж Говна",
+    "isrc": "RUA1D2288773"
+  },
+  {
+    "title": "Я",
+    "artist": "БАКУРЛИ",
+    "isrc": "RUA1D1819485"
+  },
+  {
+    "title": "In the Park - Landing Remix",
+    "artist": "Gnoomes, Landing",
+    "isrc": "UK2SX1711207"
+  },
+  {
+    "title": "всрать жизнь",
+    "artist": "Hopelake",
+    "isrc": "RUA1D2445983"
+  },
+  {
+    "title": "Nightcall",
+    "artist": "Shimmerance",
+    "isrc": "RUA1D2010073"
+  },
+  {
+    "title": "Polarized",
+    "artist": "Mental Map",
+    "isrc": "QZTVM2110986"
+  },
+  {
+    "title": "Луна",
+    "artist": "Reverb On Repeat",
+    "isrc": "RUAGV2402509"
+  },
+  {
+    "title": "I Will",
+    "artist": "Shoe Shine Six",
+    "isrc": "QZNJW2005969"
+  },
+  {
+    "title": "Сапфир",
+    "artist": "vàija",
+    "isrc": "FRX452396020"
+  },
+  {
+    "title": "Void",
+    "artist": "Cats Never Die",
+    "isrc": "QZGWW2078166"
+  },
+  {
+    "title": "Alarm",
+    "artist": "Ethica",
+    "isrc": "QZANL1753932"
+  },
+  {
+    "title": "ожидания",
+    "artist": "nagasaki 日没",
+    "isrc": "RUAEX2234057"
+  },
+  {
+    "title": "Песня тайги",
+    "artist": "Beauty of Sirin",
+    "isrc": "QZTPX2107587"
+  },
+  {
+    "title": "Pain I'm Done",
+    "artist": "fetters in use",
+    "isrc": "QZNJW2314605"
+  },
+  {
+    "title": "Под зонтом",
+    "artist": "OZERO",
+    "isrc": "QZNJZ2241227"
+  },
+  {
+    "title": "true love",
+    "artist": "angelic milk",
+    "isrc": "SENAA1501406"
+  },
+  {
+    "title": "Детская помада",
+    "artist": "Девушка школьника",
+    "isrc": "FRX201614845"
+  },
+  {
+    "title": "Towards the Setting Sun",
+    "artist": "thehappymask",
+    "isrc": "GBSMU6016488"
+  },
+  {
+    "title": "Summer Somewhere",
+    "artist": "FPRF",
+    "isrc": "USE831529945"
+  },
+  {
+    "title": "Мрак",
+    "artist": "Bright Falls",
+    "isrc": "RUA1D1824941"
+  },
+  {
+    "title": "Планемо",
+    "artist": "Cosmic Letdown",
+    "isrc": "ushm22063571"
+  },
+  {
+    "title": "The Fractalized Sky",
+    "artist": "Polska Radio One",
+    "isrc": "USQY51794358"
+  },
+  {
+    "title": "Обещание подростка",
+    "artist": "Фонтан",
+    "isrc": "usl4q1743354"
+  },
+  {
+    "title": "Птицы",
+    "artist": "Утешение",
+    "isrc": "FRX202486238"
+  },
+  {
+    "title": "Bittersweet",
+    "artist": "Paper Wounds",
+    "isrc": "RUA1D1900151"
+  },
+  {
+    "title": "In My Clothes",
+    "artist": "Rich Chamomile, Twigs Garden",
+    "isrc": "QZHZ32241939"
+  },
+  {
+    "title": "Искусство забывать",
+    "artist": "Prince Champagne",
+    "isrc": "QZGLS2070188"
+  },
+  {
+    "title": "Света больше нет",
+    "artist": "Близость",
+    "isrc": "QZHZ62011825"
+  },
+  {
+    "title": "Just Another Summer Day",
+    "artist": "Hiki",
+    "isrc": "GBSMU9497879"
+  },
+  {
+    "title": "Что поделать?",
+    "artist": "Marto",
+    "isrc": "QZMZ92218118"
+  },
+  {
+    "title": "колесо",
+    "artist": "конъюнктура",
+    "isrc": "RUA1D1900009"
+  },
+  {
+    "title": "малость",
+    "artist": "акульи слёзы",
+    "isrc": "RUA1D2004260"
+  },
+  {
+    "title": "Грусти",
+    "artist": "Космос на потолке",
+    "isrc": "QMFME2184754"
+  },
+  {
+    "title": "Robo-Machine",
+    "artist": "Subway Porno",
+    "isrc": "RUA3R1927625"
+  },
+  {
+    "title": "Супер",
+    "artist": "Деревянные киты",
+    "isrc": "QM4TX1967921"
+  },
+  {
+    "title": "Сигареты",
+    "artist": "электроребята",
+    "isrc": "RUA1D1706554"
+  },
+  {
+    "title": "Жить",
+    "artist": "кауч сёрфинг",
+    "isrc": "FRX872323725"
+  },
+  {
+    "title": "Цветы",
+    "artist": "HEAVY PLANE",
+    "isrc": "QZGLM2359520"
+  },
+  {
+    "title": "Тайна",
+    "artist": "Увула",
+    "isrc": "QM4TX1960783"
+  },
+  {
+    "title": "падать в грязь еблом",
+    "artist": "vovkapopka",
+    "isrc": "RUA3R2122709"
+  },
+  {
+    "title": "Тӱҥалтыш",
+    "artist": "Луговые Мари",
+    "isrc": "QZNJY2139203"
+  },
+  {
+    "title": "Рассудок",
+    "artist": "Сводка",
+    "isrc": "QZMZ92359949"
+  },
+  {
+    "title": "Everything",
+    "artist": "Blankenberge",
+    "isrc": "QZNWU2114699"
+  },
+  {
+    "title": "Blaster",
+    "artist": "Pinkshinyultrablast",
+    "isrc": "GBJRZ1600030"
+  },
+  {
+    "title": "Я не буду спать",
+    "artist": "Автоспорт",
+    "isrc": "QM6MZ2042661"
+  },
+  {
+    "title": "Что было то было",
+    "artist": "krasochnobledno",
+    "isrc": "QMBZ92038276"
+  },
+  {
+    "title": "Around the Sun",
+    "artist": "Life On Venus",
+    "isrc": "USR7P1715601"
+  },
+  {
+    "title": "Breathe so Better",
+    "artist": "Aerofall",
+    "isrc": "QZAPG1805379"
+  },
+  {
+    "title": "объятия в метро",
+    "artist": "flowers in your eyes",
+    "isrc": "RUAEX2218301"
+  },
+  {
+    "title": "Мопс",
+    "artist": "Смех Зелибобы",
+    "isrc": "RUA1D2263930"
+  },
+  {
+    "title": "Неизвестность",
+    "artist": "Даша и Серёжа",
+    "isrc": "QM4TX2072808"
+  },
+  {
+    "title": "Под звездой",
+    "artist": "Please Tokyo Please This Is Tokyo",
+    "isrc": "QZGLS2055874"
+  },
+  {
+    "title": "Мрачный идиот",
+    "artist": "Дом престарелых аутистов",
+    "isrc": "RUA1D1810914"
+  },
+  {
+    "title": "Флексим 2002",
+    "artist": "ALMOST VIOLENCE",
+    "isrc": "RUA1D1826989"
+  },
+  {
+    "title": "Lost",
+    "artist": "Faience Knife",
+    "isrc": "QZHZ62196673"
+  },
+  {
+    "title": "Arabeska",
+    "artist": "Secrets of the third Planet",
+    "isrc": "RUAGT2365050"
+  },
+  {
+    "title": "призрак",
+    "artist": "Мелисса",
+    "isrc": "RUAGT2333066"
+  },
+  {
+    "title": "Sleepover That Never Ends",
+    "artist": "The Mysterious Town of Oak Hill",
+    "isrc": "QM4DW1810632"
+  },
+  {
+    "title": "Something That Makes Us One",
+    "artist": "Mad Pilot",
+    "isrc": "RUA1D1805915"
+  },
+  {
+    "title": "Каван",
+    "artist": "Wyym",
+    "isrc": "RUA1D2008533"
+  },
+  {
+    "title": "Полынь",
+    "artist": "Teletape",
+    "isrc": "RUA1D2025883"
+  },
+  {
+    "title": "Кто здесь есть грустнее меня",
+    "artist": "Mango Tweedlight Academy",
+    "isrc": "AEA0Q1819849"
+  }
+]

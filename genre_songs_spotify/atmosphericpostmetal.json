@@ -1,0 +1,812 @@
+[
+  {
+    "title": "So Did We",
+    "artist": "ISIS",
+    "isrc": "US4N80500035"
+  },
+  {
+    "title": "Steppe & Veld",
+    "artist": "Latitudes",
+    "isrc": "GBTEG0900121"
+  },
+  {
+    "title": "Ephemeral",
+    "artist": "Pelican",
+    "isrc": "USZPA0900094"
+  },
+  {
+    "title": "Trance Monolith",
+    "artist": "The Mire",
+    "isrc": "QMBZ91515080"
+  },
+  {
+    "title": "Homesick",
+    "artist": "Rosetta",
+    "isrc": "USCHW1004106"
+  },
+  {
+    "title": "À l'aube; il sera déjà trop tard",
+    "artist": "Milanku",
+    "isrc": "CBAGX2200002"
+  },
+  {
+    "title": "Aegean",
+    "artist": "When Icarus Falls",
+    "isrc": "FR6V81323320"
+  },
+  {
+    "title": "Bludgeon",
+    "artist": "Alaskan",
+    "isrc": "DEZ651208087"
+  },
+  {
+    "title": "Stones From the Sky",
+    "artist": "Neurosis",
+    "isrc": "US2640149610"
+  },
+  {
+    "title": "Phantoms",
+    "artist": "Grown Below",
+    "isrc": "CH6541811512"
+  },
+  {
+    "title": "Preboreal",
+    "artist": "The Ocean",
+    "isrc": "QMFME2256022"
+  },
+  {
+    "title": "The Wreck of S.S. Needle",
+    "artist": "Cult Of Luna, Julie Christmas",
+    "isrc": "NOCVC1668030"
+  },
+  {
+    "title": "Grey",
+    "artist": "Carontte",
+    "isrc": "ES6491000101"
+  },
+  {
+    "title": "Fever Dream",
+    "artist": "Mouth Of The Architect",
+    "isrc": "USCHW1610102"
+  },
+  {
+    "title": "Alètheia",
+    "artist": "Year Of No Light",
+    "isrc": "QMBZ92011652"
+  },
+  {
+    "title": "Truth II",
+    "artist": "Bossk, Sheenagh Murray",
+    "isrc": "QZ22D2400028"
+  },
+  {
+    "title": "Mercurial",
+    "artist": "Consciousness Removal Project",
+    "isrc": "SEYOK1226523"
+  },
+  {
+    "title": "Maven Fade",
+    "artist": "Kerretta",
+    "isrc": "NZMIO0900002"
+  },
+  {
+    "title": "Strange Days",
+    "artist": "Betrayal at Bespin",
+    "isrc": "FIAV21200001"
+  },
+  {
+    "title": "Wölfe",
+    "artist": "Omega Massif",
+    "isrc": "DEZ651109861"
+  },
+  {
+    "title": "Fugitive",
+    "artist": "Callisto",
+    "isrc": "USRTN0900049"
+  },
+  {
+    "title": "A Solitary Reign",
+    "artist": "Amenra",
+    "isrc": "US4JA1710805"
+  },
+  {
+    "title": "OLD SUN RISE",
+    "artist": "KOLOSS",
+    "isrc": "GB-SMU-09-67758"
+  },
+  {
+    "title": "The Drone Kingdom",
+    "artist": "The Moth Gatherer",
+    "isrc": "QM7281869929"
+  },
+  {
+    "title": "Patient Are the Forlorn",
+    "artist": "Ninth Moon Black",
+    "isrc": "TCADO1817265"
+  },
+  {
+    "title": "Crude Shrines",
+    "artist": "Spook the Horses",
+    "isrc": "DEZ651709960"
+  },
+  {
+    "title": "Blood is My Harvest",
+    "artist": "This Gift Is A Curse",
+    "isrc": "FR33T1951502"
+  },
+  {
+    "title": "The First Dream",
+    "artist": "FDK",
+    "isrc": "CZE531000004"
+  },
+  {
+    "title": "Impending",
+    "artist": "Kollwitz",
+    "isrc": "NOFYF1303020"
+  },
+  {
+    "title": "Lifeline",
+    "artist": "A Swarm Of The Sun",
+    "isrc": "SEXHR1000201"
+  },
+  {
+    "title": "Marching into Forever",
+    "artist": "In The Hearts Of Emperors",
+    "isrc": "DEZ651208115"
+  },
+  {
+    "title": "Collapse",
+    "artist": "A Storm of Light",
+    "isrc": "USN681110044"
+  },
+  {
+    "title": "The Conference of the Birds",
+    "artist": "*shels",
+    "isrc": "GBTEG1200200"
+  },
+  {
+    "title": "Intermission",
+    "artist": "Obscure Sphinx",
+    "isrc": "TCACC1440715"
+  },
+  {
+    "title": "Imperial",
+    "artist": "LLNN",
+    "isrc": "QM4TX2149458"
+  },
+  {
+    "title": "Venom Hell",
+    "artist": "Zozobra",
+    "isrc": "QMDA71880361"
+  },
+  {
+    "title": "Denial",
+    "artist": "Pijn",
+    "isrc": "GBMLT1501273"
+  },
+  {
+    "title": "Insomnia",
+    "artist": "Lost in Kiev",
+    "isrc": "USDY41618998"
+  },
+  {
+    "title": "Landscapes",
+    "artist": "Seven Nautical Miles",
+    "isrc": "SE2OF1100103"
+  },
+  {
+    "title": "Endeavour",
+    "artist": "Conjurer, Pijn",
+    "isrc": "GBMLT1501381"
+  },
+  {
+    "title": "The Prospect of Vanishing",
+    "artist": "Schematics for Gravity",
+    "isrc": "SEYOK1416721"
+  },
+  {
+    "title": "A Dying Sun",
+    "artist": "Nahrayan",
+    "isrc": "usx9p1177096"
+  },
+  {
+    "title": "Light",
+    "artist": "Starchitect",
+    "isrc": "CH6541847821"
+  },
+  {
+    "title": "A Gallant Gentleman",
+    "artist": "We Lost The Sea",
+    "isrc": "AUAJ11500039"
+  },
+  {
+    "title": "Venom Love",
+    "artist": "Moloken",
+    "isrc": "SE3D72000206"
+  },
+  {
+    "title": "Solving the Correspondence Problem",
+    "artist": "East Of The Wall",
+    "isrc": "USCHW1307301"
+  },
+  {
+    "title": "Black Paper Planes",
+    "artist": "Long Distance Calling",
+    "isrc": "GBDHC0901202"
+  },
+  {
+    "title": "Onward",
+    "artist": "Monachus",
+    "isrc": "SEVVF1301904"
+  },
+  {
+    "title": "Machinations",
+    "artist": "Tacoma Narrows Bridge Disaster",
+    "isrc": "QZK6K2147633"
+  },
+  {
+    "title": "Time As Methodology",
+    "artist": "Buried Inside",
+    "isrc": "US2640562903"
+  },
+  {
+    "title": "Gizmo",
+    "artist": "We Made God",
+    "isrc": "ISV440800201"
+  },
+  {
+    "title": "Where the Wave Broke",
+    "artist": "Burst",
+    "isrc": "US2640565701"
+  },
+  {
+    "title": "Floating on Calm Waters",
+    "artist": "Whales and Aurora",
+    "isrc": "CH6541847881"
+  },
+  {
+    "title": "Unmoved Mover",
+    "artist": "VYGR",
+    "isrc": "ushm21176354"
+  },
+  {
+    "title": "Niveus Hills",
+    "artist": "Ocoai",
+    "isrc": "uscgj1195418"
+  },
+  {
+    "title": "The Icon",
+    "artist": "Herod",
+    "isrc": "QM4TX2240954"
+  },
+  {
+    "title": "Frankenstein Bis - Remastered 2022",
+    "artist": "Kehlvin",
+    "isrc": "CHA012200145"
+  },
+  {
+    "title": "Be Still and Wait",
+    "artist": "Cities of the Plain",
+    "isrc": "TCABX1470202"
+  },
+  {
+    "title": "Be the End",
+    "artist": "Come Sleep",
+    "isrc": "SEXHR0700201"
+  },
+  {
+    "title": "Formless",
+    "artist": "Sâver",
+    "isrc": "QM6MZ2398160"
+  },
+  {
+    "title": "Slight Variations",
+    "artist": "At The Soundawn",
+    "isrc": "US94P0808101"
+  },
+  {
+    "title": "Funeral Mouth",
+    "artist": "Planks",
+    "isrc": "DEGM91200073"
+  },
+  {
+    "title": "Coffin Wisdom",
+    "artist": "Generation Of Vipers",
+    "isrc": "USCHW1408402"
+  },
+  {
+    "title": "Catharsis",
+    "artist": "Crib 45",
+    "isrc": "FISYR1400008"
+  },
+  {
+    "title": "Translated Through the Dirt of Earth",
+    "artist": "Alkahest",
+    "isrc": "SE6XW2193093"
+  },
+  {
+    "title": "A Place to Die",
+    "artist": "Awake in Sleep",
+    "isrc": "USQY51206400"
+  },
+  {
+    "title": "The Eye",
+    "artist": "Cloaca",
+    "isrc": "GBF4S1000003"
+  },
+  {
+    "title": "E dimmi cosa succede",
+    "artist": "Elodea",
+    "isrc": "ITCY41900029"
+  },
+  {
+    "title": "Stay Awake",
+    "artist": "Kurouma",
+    "isrc": "SEYOK1313216"
+  },
+  {
+    "title": "Melancholia",
+    "artist": "Memories Of A Dead Man",
+    "isrc": "QMDA71483925"
+  },
+  {
+    "title": "Ylösnousemus",
+    "artist": "Mother Susurrus",
+    "isrc": "FIEKT1300045"
+  },
+  {
+    "title": "Vientos del Pueblo",
+    "artist": "Nanda Devi",
+    "isrc": "QM6MZ1945230"
+  },
+  {
+    "title": "To Hell With You",
+    "artist": "National Sunday Law",
+    "isrc": "usl4q0863051"
+  },
+  {
+    "title": "Two Steps Behind You",
+    "artist": "Of Noah",
+    "isrc": "QZAPG1780934"
+  },
+  {
+    "title": "Koža",
+    "artist": "The Canyon Observer",
+    "isrc": "SIA2S2300002"
+  },
+  {
+    "title": "Condor",
+    "artist": "Transmission0",
+    "isrc": "DEBW90600051"
+  },
+  {
+    "title": "Oil Blood",
+    "artist": "PSOTY",
+    "isrc": "GBUM71902462"
+  },
+  {
+    "title": "The Guillotine",
+    "artist": "Khoma",
+    "isrc": "NLA320581517"
+  },
+  {
+    "title": "A Skull Full of Bats",
+    "artist": "Disappearer",
+    "isrc": "US76L0910009"
+  },
+  {
+    "title": "Braille",
+    "artist": "Latitudes",
+    "isrc": "GBTEG0900122"
+  },
+  {
+    "title": "In Fiction (Remastered)",
+    "artist": "ISIS",
+    "isrc": "QMDA71483995"
+  },
+  {
+    "title": "The Creeper",
+    "artist": "Pelican",
+    "isrc": "USZPA0900108"
+  },
+  {
+    "title": "False Idol",
+    "artist": "The Mire",
+    "isrc": "QMBZ91515079"
+  },
+  {
+    "title": "Wake",
+    "artist": "Rosetta",
+    "isrc": "USCHW0702305"
+  },
+  {
+    "title": "À l'aube; nous sommes disparus",
+    "artist": "Milanku, Erika Angell",
+    "isrc": "CBAGX2200005"
+  },
+  {
+    "title": "Into the Storm",
+    "artist": "When Icarus Falls",
+    "isrc": "QM4TX1762695"
+  },
+  {
+    "title": "Incarcerated",
+    "artist": "Alaskan",
+    "isrc": "DEZ651208089"
+  },
+  {
+    "title": "A Sun That Never Sets",
+    "artist": "Neurosis",
+    "isrc": "US2640149604"
+  },
+  {
+    "title": "New Throne",
+    "artist": "Grown Below",
+    "isrc": "CH6541811509"
+  },
+  {
+    "title": "Boreal",
+    "artist": "The Ocean",
+    "isrc": "QMFME2256023"
+  },
+  {
+    "title": "From Red Horizons",
+    "artist": "Carontte",
+    "isrc": "ES6491000103"
+  },
+  {
+    "title": "Cold Burn",
+    "artist": "Cult Of Luna",
+    "isrc": "USMBR2215131"
+  },
+  {
+    "title": "Hate And Heartache",
+    "artist": "Mouth Of The Architect",
+    "isrc": "USCHW0803002"
+  },
+  {
+    "title": "Sélénite",
+    "artist": "Year Of No Light",
+    "isrc": "FR6V81576855"
+  },
+  {
+    "title": "White Stork",
+    "artist": "Bossk",
+    "isrc": "QZ22D2000045"
+  },
+  {
+    "title": "Colossus II: Thrashing",
+    "artist": "Consciousness Removal Project",
+    "isrc": "SEYOK1226524"
+  },
+  {
+    "title": "Warnlands",
+    "artist": "Kerretta",
+    "isrc": "NZMI01400005"
+  },
+  {
+    "title": "Cherbourg",
+    "artist": "Betrayal at Bespin",
+    "isrc": "FIAV21200002"
+  },
+  {
+    "title": "Im Karst",
+    "artist": "Omega Massif",
+    "isrc": "DEZ651109863"
+  },
+  {
+    "title": "Wormwood",
+    "artist": "Callisto",
+    "isrc": "FIFR50600071"
+  },
+  {
+    "title": "From the Sea (The Birth of a Monster)",
+    "artist": "KOLOSS",
+    "isrc": "GB-SMU-14-53927"
+  },
+  {
+    "title": "Pale Explosions",
+    "artist": "The Moth Gatherer",
+    "isrc": "QM7281591352"
+  },
+  {
+    "title": "Wear My Crown",
+    "artist": "Amenra",
+    "isrc": "TCACO1609490"
+  },
+  {
+    "title": "Under the Aphotic Veil",
+    "artist": "Ninth Moon Black",
+    "isrc": "TCADO1817260"
+  },
+  {
+    "title": "Self Destroyer",
+    "artist": "Spook the Horses",
+    "isrc": "QM6P41953852"
+  },
+  {
+    "title": "Thresholds",
+    "artist": "This Gift Is A Curse",
+    "isrc": "FR33T1951503"
+  },
+  {
+    "title": "Prayer For The Sunlight",
+    "artist": "FDK",
+    "isrc": "CZAC22203703"
+  },
+  {
+    "title": "What You Are Given",
+    "artist": "Kollwitz",
+    "isrc": "NOFYF1002010"
+  },
+  {
+    "title": "Tears Fall Down in Order to Watch Us Fall",
+    "artist": "In The Hearts Of Emperors",
+    "isrc": "DEZ651208116"
+  },
+  {
+    "title": "Refuge",
+    "artist": "A Swarm Of The Sun",
+    "isrc": "SEXHR1000203"
+  },
+  {
+    "title": "Blackout",
+    "artist": "A Storm of Light",
+    "isrc": "QZ6PS1800002"
+  },
+  {
+    "title": "Journey to the Plains",
+    "artist": "*shels",
+    "isrc": "GBTEG1100164"
+  },
+  {
+    "title": "Velorio",
+    "artist": "Obscure Sphinx",
+    "isrc": "TCABS1487265"
+  },
+  {
+    "title": "Obsidian",
+    "artist": "LLNN",
+    "isrc": "QM4TX2149460"
+  },
+  {
+    "title": "Black Holes",
+    "artist": "Zozobra",
+    "isrc": "QMDA71880363"
+  },
+  {
+    "title": "On The Far Side Of Morning",
+    "artist": "Pijn",
+    "isrc": "GXB8M2300003"
+  },
+  {
+    "title": "Celestial",
+    "artist": "Lost in Kiev",
+    "isrc": "USDY41619004"
+  },
+  {
+    "title": "Hide Away The Sun",
+    "artist": "Seven Nautical Miles",
+    "isrc": "SE2OF1100102"
+  },
+  {
+    "title": "State of Nothing",
+    "artist": "Schematics for Gravity",
+    "isrc": "SEYOK1416722"
+  },
+  {
+    "title": "Retch",
+    "artist": "Conjurer",
+    "isrc": "GBMLT1501028"
+  },
+  {
+    "title": "Barathrum Fields",
+    "artist": "Nahrayan",
+    "isrc": "usx9p1177093"
+  },
+  {
+    "title": "Yeah",
+    "artist": "Starchitect",
+    "isrc": "CH6541847822"
+  },
+  {
+    "title": "21.12.21",
+    "artist": "Moloken",
+    "isrc": "SE3D72103001"
+  },
+  {
+    "title": "The Vessel",
+    "artist": "We Lost The Sea",
+    "isrc": "GB-SMU-15-98763"
+  },
+  {
+    "title": "Dirt Merchant",
+    "artist": "East Of The Wall",
+    "isrc": "USCHW1004103"
+  },
+  {
+    "title": "Immunity",
+    "artist": "Long Distance Calling",
+    "isrc": "GBDHC2015606"
+  },
+  {
+    "title": "Curse",
+    "artist": "Monachus",
+    "isrc": "SEVVF1301902"
+  },
+  {
+    "title": "Truth Escapes",
+    "artist": "Tacoma Narrows Bridge Disaster",
+    "isrc": "QZK6K2147635"
+  },
+  {
+    "title": "Time As Ideology",
+    "artist": "Buried Inside",
+    "isrc": "US2640562902"
+  },
+  {
+    "title": "II",
+    "artist": "We Made God",
+    "isrc": "ISV441000609"
+  },
+  {
+    "title": "I Hold Vertigo",
+    "artist": "Burst",
+    "isrc": "US2640812901"
+  },
+  {
+    "title": "Awakened by the Aurora",
+    "artist": "Whales and Aurora",
+    "isrc": "CH6541847879"
+  },
+  {
+    "title": "Crushing Winds",
+    "artist": "VYGR",
+    "isrc": "ushm21130440"
+  },
+  {
+    "title": "Manifestant",
+    "artist": "Ocoai",
+    "isrc": "uscgh0873970"
+  },
+  {
+    "title": "Antechamber",
+    "artist": "Latitudes",
+    "isrc": "GBTEG0900119"
+  },
+  {
+    "title": "The Beginning and the End",
+    "artist": "ISIS",
+    "isrc": "USV351474207"
+  },
+  {
+    "title": "Adrift",
+    "artist": "Pelican",
+    "isrc": "QZFZ72448295"
+  },
+  {
+    "title": "Triple Gemini",
+    "artist": "The Mire",
+    "isrc": "QMBZ91515081"
+  },
+  {
+    "title": "Departe",
+    "artist": "Rosetta",
+    "isrc": "USCHW0600901"
+  },
+  {
+    "title": "À l'aube; prêchant la mauvaise nouvelle",
+    "artist": "Milanku",
+    "isrc": "CBAGX2200003"
+  },
+  {
+    "title": "The Lighthouse",
+    "artist": "When Icarus Falls",
+    "isrc": "QM4TX1762696"
+  },
+  {
+    "title": "Epicurus",
+    "artist": "Alaskan",
+    "isrc": "DEZ651208088"
+  },
+  {
+    "title": "The Doorway",
+    "artist": "Neurosis",
+    "isrc": "US2649941902"
+  },
+  {
+    "title": "Valo Etendi",
+    "artist": "Grown Below",
+    "isrc": "CH6541811511"
+  },
+  {
+    "title": "Triassic",
+    "artist": "The Ocean",
+    "isrc": "USMBR2014268"
+  },
+  {
+    "title": "When the Sky is Burning / When the World is Falling Down",
+    "artist": "Carontte",
+    "isrc": "ES6491000104"
+  },
+  {
+    "title": "A Greater Call",
+    "artist": "Cult Of Luna, Julie Christmas",
+    "isrc": "NOCVC1668010"
+  },
+  {
+    "title": "Ritual Bell",
+    "artist": "Mouth Of The Architect",
+    "isrc": "USCHW1610101"
+  },
+  {
+    "title": "Perséphone II",
+    "artist": "Year Of No Light",
+    "isrc": "USA371033376"
+  },
+  {
+    "title": "Kobe x Pijn",
+    "artist": "Bossk, Pijn",
+    "isrc": "QZ22D2200008"
+  },
+  {
+    "title": "Decay Practice",
+    "artist": "Consciousness Removal Project",
+    "isrc": "SEYOK1226525"
+  },
+  {
+    "title": "The Roar",
+    "artist": "Kerretta",
+    "isrc": "NZMI01400004"
+  },
+  {
+    "title": "Atlantic",
+    "artist": "Betrayal at Bespin",
+    "isrc": "FIAV21200003"
+  },
+  {
+    "title": "Geisterstadt",
+    "artist": "Omega Massif",
+    "isrc": "DEZ651109851"
+  },
+  {
+    "title": "Caverns Of Khafka",
+    "artist": "Callisto",
+    "isrc": "FIFR50400024"
+  },
+  {
+    "title": "KAU BOI",
+    "artist": "KOLOSS",
+    "isrc": "GB-SMU-09-67759"
+  },
+  {
+    "title": "Utopia",
+    "artist": "The Moth Gatherer",
+    "isrc": "QM7281869931"
+  },
+  {
+    "title": "Parabol",
+    "artist": "Amenra",
+    "isrc": "TCACO1609506"
+  },
+  {
+    "title": "Kalyug",
+    "artist": "Ninth Moon Black",
+    "isrc": "TCACM1652429"
+  },
+  {
+    "title": "Cell Death",
+    "artist": "Spook the Horses",
+    "isrc": "QM6P41953853"
+  },
+  {
+    "title": "Monuments for Dead Gods",
+    "artist": "This Gift Is A Curse",
+    "isrc": "FR33T1951505"
+  },
+  {
+    "title": "MMX AD",
+    "artist": "FDK",
+    "isrc": "CZE531000002"
+  }
+]

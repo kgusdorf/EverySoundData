@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Ad Astra",
+    "artist": "Darkest Horizon",
+    "isrc": "GBMJG1301530"
+  },
+  {
+    "title": "Toss a Coin to Your Witcher",
+    "artist": "Kambrium",
+    "isrc": "TCAEQ2025186"
+  },
+  {
+    "title": "Cosmos Ex Chaos",
+    "artist": "Hero's Fate ",
+    "isrc": "UST8K1587111"
+  },
+  {
+    "title": "Flight of the Phoenix - New Version 2021",
+    "artist": "Nyktophobia",
+    "isrc": "DEQD61200612"
+  },
+  {
+    "title": "Eclipse",
+    "artist": "I Spit Ashes",
+    "isrc": "DER371277004"
+  },
+  {
+    "title": "Imperium",
+    "artist": "Akrea",
+    "isrc": "DES370900176"
+  },
+  {
+    "title": "Geistesblitz",
+    "artist": "Burden Of Life",
+    "isrc": "DEKL51912001"
+  },
+  {
+    "title": "Cathartic Rain",
+    "artist": "Aeveron",
+    "isrc": "USI4R0900402"
+  },
+  {
+    "title": "Where the Clouds Reach the Ground",
+    "artist": "Dawn of Disease",
+    "isrc": "ATN261988605"
+  },
+  {
+    "title": "The Pulse of the Dead",
+    "artist": "Parasite Inc.",
+    "isrc": "DEOJ21200026"
+  },
+  {
+    "title": "Never Again",
+    "artist": "Horrizon",
+    "isrc": "DER372333701"
+  },
+  {
+    "title": "Fields Of Salvation (Instrumental)",
+    "artist": "Burden Of Grief",
+    "isrc": "USA370581987"
+  },
+  {
+    "title": "Where Angels Die",
+    "artist": "Zero Degree",
+    "isrc": "NL1AP2021544"
+  },
+  {
+    "title": "Neverending Story",
+    "artist": "Frozen Infinity",
+    "isrc": "QM4DW1689536"
+  },
+  {
+    "title": "Rope Of Sand",
+    "artist": "Trinity Site",
+    "isrc": "GB-SMU-29-81418"
+  },
+  {
+    "title": "Little Ease",
+    "artist": "The last hangmen",
+    "isrc": "DET551300185"
+  },
+  {
+    "title": "Waves of Neglect",
+    "artist": "Decaying Days",
+    "isrc": "uscgh1782554"
+  },
+  {
+    "title": "By Storm",
+    "artist": "Craving",
+    "isrc": "DEQD61200263"
+  },
+  {
+    "title": "Trickle Down - Radio Edit",
+    "artist": "All Will Know",
+    "isrc": "DEKL52403007"
+  },
+  {
+    "title": "Stone of the Seven Suns",
+    "artist": "SuidAkrA",
+    "isrc": "DEU601003331"
+  },
+  {
+    "title": "Perdition Portal",
+    "artist": "Fragments Of Unbecoming",
+    "isrc": "DEQD61200396"
+  },
+  {
+    "title": "Black Tears",
+    "artist": "Heaven Shall Burn",
+    "isrc": "US4E40844509"
+  },
+  {
+    "title": "Your Salvation",
+    "artist": "INTERRA",
+    "isrc": "DEA371305099"
+  },
+  {
+    "title": "Three Kings",
+    "artist": "Harasai",
+    "isrc": "DEZ901300570"
+  },
+  {
+    "title": "Blood Splattered Symphony",
+    "artist": "Burn Down Eden",
+    "isrc": "QM4TW2443396"
+  },
+  {
+    "title": "Reaving Shadows",
+    "artist": "The Dark Believing",
+    "isrc": "SE6QE2009154"
+  },
+  {
+    "title": "The Awakening",
+    "artist": "Battlesword",
+    "isrc": "DEEE32223002"
+  },
+  {
+    "title": "Hymn Of Liberation",
+    "artist": "Enchiridion",
+    "isrc": "QZTB62319764"
+  },
+  {
+    "title": "Ad Rvbiconem",
+    "artist": "Kromlek",
+    "isrc": "DEZ901100326"
+  },
+  {
+    "title": "Teil des Schiffs!",
+    "artist": "Entoria",
+    "isrc": "GX38U2337917"
+  },
+  {
+    "title": "Tochter der Sterne",
+    "artist": "Aspar",
+    "isrc": "QZMEP2004369"
+  },
+  {
+    "title": "Darkness, I Command",
+    "artist": "Fall Of Serenity",
+    "isrc": "US94P2422102"
+  },
+  {
+    "title": "Code Of Honor",
+    "artist": "Deadlock",
+    "isrc": "US94P0706903"
+  },
+  {
+    "title": "What is Love",
+    "artist": "Emergency Gate, Haddaway",
+    "isrc": "DEAT71316863"
+  },
+  {
+    "title": "Das Boot",
+    "artist": "Macbeth",
+    "isrc": "DER370965203"
+  },
+  {
+    "title": "Phobia",
+    "artist": "Ammyt",
+    "isrc": "DET552000202"
+  },
+  {
+    "title": "Engelmacherin",
+    "artist": "Abrogation",
+    "isrc": "DED830275307"
+  },
+  {
+    "title": "Insomnia",
+    "artist": "Burial Vault",
+    "isrc": "DEQD61200536"
+  },
+  {
+    "title": "Zeig mir dein Gesicht",
+    "artist": "Slaughterra",
+    "isrc": "QZFYY2378797"
+  },
+  {
+    "title": "Confess",
+    "artist": "Confession by Silence",
+    "isrc": "ATR981174108"
+  },
+  {
+    "title": "On the Edge to Lose It All",
+    "artist": "Kadavrik",
+    "isrc": "QZHNB1983403"
+  },
+  {
+    "title": "Meant to Cease",
+    "artist": "Empyreal",
+    "isrc": "QZFYY1977342"
+  },
+  {
+    "title": "Engraved in Stone",
+    "artist": "Misery Speaks",
+    "isrc": "DES370700114"
+  },
+  {
+    "title": "Leuchtfeuer",
+    "artist": "Nachtschatten",
+    "isrc": "DEAT71923754"
+  },
+  {
+    "title": "Abused",
+    "artist": "Dying Humanity",
+    "isrc": "DEW270800985"
+  },
+  {
+    "title": "Weltenwanderer",
+    "artist": "Pentarium",
+    "isrc": "DEPI82200158"
+  },
+  {
+    "title": "Ultima Veritas",
+    "artist": "In Sanity",
+    "isrc": "QZNWQ2269730"
+  },
+  {
+    "title": "From The Abyss",
+    "artist": "Scherbenwald",
+    "isrc": "QZMEM2012088"
+  },
+  {
+    "title": "Silent Revolution",
+    "artist": "Bloodwork",
+    "isrc": "DEFN50900012"
+  },
+  {
+    "title": "Viech Ausm Woid",
+    "artist": "Collapsed Minds",
+    "isrc": "DEZC62350206"
+  },
+  {
+    "title": "Everlasting",
+    "artist": "Symbolic",
+    "isrc": "CH6540847564"
+  },
+  {
+    "title": "Laphroaig",
+    "artist": "Islay",
+    "isrc": "DEAF71252891"
+  },
+  {
+    "title": "Des Menschen Bürde",
+    "artist": "Interregnum",
+    "isrc": "QZNWZ2055881"
+  },
+  {
+    "title": "The Healing",
+    "artist": "End of Sanctum",
+    "isrc": "DEZC62494166"
+  },
+  {
+    "title": "Quiet Depression",
+    "artist": "Empyreal Sorrow",
+    "isrc": "QZK6N2083009"
+  },
+  {
+    "title": "For Those Who Died",
+    "artist": "Decaptacon",
+    "isrc": "GX5MX2233170"
+  },
+  {
+    "title": "A Sign for the Weak",
+    "artist": "A.Death.Experience",
+    "isrc": "ushm81989391"
+  },
+  {
+    "title": "Cabinet of Death",
+    "artist": "Apeiron",
+    "isrc": "QZ8LD1725016"
+  },
+  {
+    "title": "Sexual Magic",
+    "artist": "Asgaia",
+    "isrc": "DET551000521"
+  },
+  {
+    "title": "Towards The Edge Of Degeneration",
+    "artist": "Behind The Scenery",
+    "isrc": "DED839902856"
+  },
+  {
+    "title": "Bane",
+    "artist": "Beneath the Dying Sky",
+    "isrc": "QZ4JJ1793305"
+  },
+  {
+    "title": "Der Aufstand(Bonus Track)",
+    "artist": "Blackest Dawn",
+    "isrc": "TCAFX2152347"
+  },
+  {
+    "title": "King Of Red",
+    "artist": "DeadSystem",
+    "isrc": "DELK51236009"
+  },
+  {
+    "title": "Antagonist",
+    "artist": "Eye of Providence",
+    "isrc": "QZ22B2010881"
+  },
+  {
+    "title": "Holding out for a Hero",
+    "artist": "Hopelezz",
+    "isrc": "DER371803111"
+  },
+  {
+    "title": "Striving",
+    "artist": "Human Debris",
+    "isrc": "uscgh0592272"
+  },
+  {
+    "title": "Out Of Inside",
+    "artist": "Injustice",
+    "isrc": "USA371375703"
+  },
+  {
+    "title": "Another Road",
+    "artist": "Layment",
+    "isrc": "DEBT41302901"
+  },
+  {
+    "title": "Nuclear Winter",
+    "artist": "Redeemed in Pain",
+    "isrc": "DEOQ91300187"
+  },
+  {
+    "title": "Elysium",
+    "artist": "Darkest Horizon",
+    "isrc": "GBMJG1815352"
+  },
+  {
+    "title": "Beyond Horizons",
+    "artist": "Hero's Fate ",
+    "isrc": "UST8K1587116"
+  },
+  {
+    "title": "Among the Lost",
+    "artist": "Kambrium",
+    "isrc": "DER371174902"
+  },
+  {
+    "title": "Millenium",
+    "artist": "Nyktophobia",
+    "isrc": "DEQD62400813"
+  },
+  {
+    "title": "Missper",
+    "artist": "I Spit Ashes",
+    "isrc": "DER371277002"
+  },
+  {
+    "title": "Tribock",
+    "artist": "Akrea",
+    "isrc": "DES370900183"
+  },
+  {
+    "title": "Anthem of the Unbeloved",
+    "artist": "Burden Of Life",
+    "isrc": "DEKL51912003"
+  },
+  {
+    "title": "The Embodiment of All Misery",
+    "artist": "Aeveron",
+    "isrc": "USI4R0900401"
+  },
+  {
+    "title": "Procession of Ghosts",
+    "artist": "Dawn of Disease",
+    "isrc": "ATN261988602"
+  },
+  {
+    "title": "Back for War",
+    "artist": "Parasite Inc.",
+    "isrc": "DEOJ21200021"
+  },
+  {
+    "title": "Dwelling Within",
+    "artist": "Horrizon",
+    "isrc": "DEBT41302802"
+  },
+  {
+    "title": "The Four Horsemen",
+    "artist": "Burden Of Grief",
+    "isrc": "USA371089158"
+  },
+  {
+    "title": "Tomorrow Dies Today",
+    "artist": "Zero Degree",
+    "isrc": "NL1AP2021536"
+  },
+  {
+    "title": "The Shattered Image",
+    "artist": "Frozen Infinity",
+    "isrc": "QM4DW1689533"
+  },
+  {
+    "title": "Our Wealth",
+    "artist": "Trinity Site",
+    "isrc": "GB-SMU-36-42070"
+  },
+  {
+    "title": "Lupara Bianca",
+    "artist": "The last hangmen",
+    "isrc": "DET551300182"
+  },
+  {
+    "title": "The Fall of Nightmares",
+    "artist": "Decaying Days",
+    "isrc": "uscgh1782557"
+  },
+  {
+    "title": "Call Of The Sirens",
+    "artist": "Craving",
+    "isrc": "DER372330902"
+  },
+  {
+    "title": "Trickle Down",
+    "artist": "All Will Know",
+    "isrc": "DEKL52312007"
+  },
+  {
+    "title": "March of Conquest",
+    "artist": "SuidAkrA",
+    "isrc": "DEU601304629"
+  },
+  {
+    "title": "Sterling Black Icon",
+    "artist": "Fragments Of Unbecoming",
+    "isrc": "USMBR0602961"
+  },
+  {
+    "title": "Maze of Deception",
+    "artist": "INTERRA",
+    "isrc": "DEA371305102"
+  },
+  {
+    "title": "Endzeit",
+    "artist": "Heaven Shall Burn",
+    "isrc": "US4E40844502"
+  },
+  {
+    "title": "The Liquid Everything",
+    "artist": "Harasai",
+    "isrc": "DEZ901300569"
+  },
+  {
+    "title": "Reap The Apocalypse",
+    "artist": "Burn Down Eden",
+    "isrc": "QM4TW2443394"
+  },
+  {
+    "title": "Eternal Path",
+    "artist": "The Dark Believing",
+    "isrc": "SE6QE2009156"
+  },
+  {
+    "title": "Terra Combusta",
+    "artist": "Battlesword",
+    "isrc": "DEEE32223004"
+  },
+  {
+    "title": "The Realm Of Blackened Perdition",
+    "artist": "Enchiridion",
+    "isrc": "QZMEN2255833"
+  },
+  {
+    "title": "Folkthing",
+    "artist": "Kromlek",
+    "isrc": "FRX202048900"
+  },
+  {
+    "title": "Gleichgewicht der Kräfte",
+    "artist": "Entoria",
+    "isrc": "GX8LD2409053"
+  },
+  {
+    "title": "Das Biest",
+    "artist": "Aspar",
+    "isrc": "QZMEN2009900"
+  },
+  {
+    "title": "Thy Pathway",
+    "artist": "Fall Of Serenity",
+    "isrc": "US94P2422101"
+  },
+  {
+    "title": "A New Era",
+    "artist": "Deadlock",
+    "isrc": "US94P1414407"
+  },
+  {
+    "title": "What Is Love - Metal Version",
+    "artist": "Emergency Gate",
+    "isrc": "DEAT71317147"
+  },
+  {
+    "title": "Stalingrad : Untergang",
+    "artist": "Macbeth",
+    "isrc": "DER371279109"
+  },
+  {
+    "title": "Mask in the Mirror",
+    "artist": "Ammyt",
+    "isrc": "DET552000207"
+  },
+  {
+    "title": "Deine Wunden",
+    "artist": "Abrogation",
+    "isrc": "DEKM61600501"
+  },
+  {
+    "title": "Venomutilation",
+    "artist": "Burial Vault",
+    "isrc": "DEQD61200537"
+  },
+  {
+    "title": "Albtraum",
+    "artist": "Slaughterra",
+    "isrc": "QZFYZ2223371"
+  },
+  {
+    "title": "Autumn Child",
+    "artist": "Confession by Silence",
+    "isrc": "ATR981174109"
+  },
+  {
+    "title": "Insight Down",
+    "artist": "Kadavrik",
+    "isrc": "QZHNB1983400"
+  },
+  {
+    "title": "Into the Void",
+    "artist": "Empyreal",
+    "isrc": "QZ4JJ1797246"
+  },
+  {
+    "title": "First Bullet Hits",
+    "artist": "Misery Speaks",
+    "isrc": "DELM80600001"
+  },
+  {
+    "title": "Stählerne Göttin",
+    "artist": "Nachtschatten",
+    "isrc": "DEAT71923755"
+  },
+  {
+    "title": "Feed Him to the Lions",
+    "artist": "Dying Humanity",
+    "isrc": "DEAF71699655"
+  },
+  {
+    "title": "Abgott",
+    "artist": "Pentarium",
+    "isrc": "DEPI82200162"
+  },
+  {
+    "title": "Imperfect",
+    "artist": "In Sanity",
+    "isrc": "QZTB52324937"
+  },
+  {
+    "title": "A Sacrifice Divine",
+    "artist": "Darkest Horizon",
+    "isrc": "GBMJG1301528"
+  },
+  {
+    "title": "Apathy",
+    "artist": "Hero's Fate ",
+    "isrc": "UST8K1553825"
+  },
+  {
+    "title": "Cybernetic Overload",
+    "artist": "Kambrium",
+    "isrc": "ATN268002702"
+  },
+  {
+    "title": "Winter Assault",
+    "artist": "Nyktophobia",
+    "isrc": "DEQD61200610"
+  },
+  {
+    "title": "Crossing the Borderline",
+    "artist": "I Spit Ashes",
+    "isrc": "DER371277005"
+  },
+  {
+    "title": "Meteor",
+    "artist": "Akrea",
+    "isrc": "DES371000322"
+  },
+  {
+    "title": "Trust My Own Heart",
+    "artist": "Burden Of Life",
+    "isrc": "DEKL51912007"
+  },
+  {
+    "title": "Existential Dead End",
+    "artist": "Aeveron",
+    "isrc": "USI4R0900409"
+  },
+  {
+    "title": "Worship the Grave",
+    "artist": "Dawn of Disease",
+    "isrc": "ATN261666801"
+  },
+  {
+    "title": "Hatefilled",
+    "artist": "Parasite Inc.",
+    "isrc": "DEOJ21200030"
+  },
+  {
+    "title": "Labyrinth",
+    "artist": "Horrizon",
+    "isrc": "DEBT41302807"
+  },
+  {
+    "title": "Fevered Dreams",
+    "artist": "Burden Of Grief",
+    "isrc": "DER372334005"
+  },
+  {
+    "title": "Grapes of Wrath",
+    "artist": "Zero Degree",
+    "isrc": "NL1AP2021539"
+  },
+  {
+    "title": "For Those Who Died",
+    "artist": "Frozen Infinity",
+    "isrc": "QM4DW1689535"
+  },
+  {
+    "title": "Farherion",
+    "artist": "Trinity Site",
+    "isrc": "GB-SMU-29-81420"
+  },
+  {
+    "title": "The Abolition of Acquittal",
+    "artist": "The last hangmen",
+    "isrc": "DET551300192"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Decaying Days",
+    "isrc": "DEGR82015967"
+  },
+  {
+    "title": "Blood Ov Franconia",
+    "artist": "Craving",
+    "isrc": "DER372330905"
+  },
+  {
+    "title": "New Streams Of Life",
+    "artist": "All Will Know",
+    "isrc": "DEKL52403002"
+  },
+  {
+    "title": "The Seventh Sunray Enlights My Pathway",
+    "artist": "Fragments Of Unbecoming",
+    "isrc": "USMBR0502239"
+  },
+  {
+    "title": "The Hunter's Horde",
+    "artist": "SuidAkrA",
+    "isrc": "DEU601606184"
+  },
+  {
+    "title": "Distance",
+    "artist": "INTERRA",
+    "isrc": "DEYW82208369"
+  },
+  {
+    "title": "Dying Race Domain",
+    "artist": "Harasai",
+    "isrc": "DEZ901300575"
+  },
+  {
+    "title": "The War Within",
+    "artist": "Burn Down Eden",
+    "isrc": "QM4TW2443398"
+  }
+]

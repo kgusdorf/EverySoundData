@@ -1,0 +1,982 @@
+[
+  {
+    "title": "What Lies Ahead",
+    "artist": "Semblant",
+    "isrc": "BRTWT1400058"
+  },
+  {
+    "title": "Black Thorn",
+    "artist": "Amen Corner",
+    "isrc": "BRCOG1600013"
+  },
+  {
+    "title": "Responsa",
+    "artist": "Atrocitus",
+    "isrc": "QZPLS2269347"
+  },
+  {
+    "title": "Feast for the Dead",
+    "artist": "Offal",
+    "isrc": "usx9p1421738"
+  },
+  {
+    "title": "Balrog's Wrath",
+    "artist": "Hell Gun",
+    "isrc": "BCU372200001"
+  },
+  {
+    "title": "Sob o Signo do Heavy Metal",
+    "artist": "Murdeath",
+    "isrc": "QZ5AB1763625"
+  },
+  {
+    "title": "Farsa Nacionalista - Cover",
+    "artist": "Exylle",
+    "isrc": "QZHZ42186431"
+  },
+  {
+    "title": "Creatures in Disguise",
+    "artist": "Axecuter",
+    "isrc": "BRYR41601577"
+  },
+  {
+    "title": "Intro",
+    "artist": "CrotchRot",
+    "isrc": "BRTRB1995328"
+  },
+  {
+    "title": "Embassy of Satan",
+    "artist": "Murder Rape",
+    "isrc": "BRCOG1700002"
+  },
+  {
+    "title": "Dreams of Reality",
+    "artist": "Eternal Sorrow",
+    "isrc": "usdy41954342"
+  },
+  {
+    "title": "Split In Half",
+    "artist": "Legacy of Kain, Fernanda Lira",
+    "isrc": "BRKAS1900006"
+  },
+  {
+    "title": "Black Heart",
+    "artist": "Doomsday Ceremony",
+    "isrc": "BRCOG1500039"
+  },
+  {
+    "title": "Dying Inside Of Death",
+    "artist": "Necroterio",
+    "isrc": "QZDFP1939707"
+  },
+  {
+    "title": "Ondas Negras",
+    "artist": "Hereticae",
+    "isrc": "BCCRK2000008"
+  },
+  {
+    "title": "F.O.M.O.",
+    "artist": "Krucipha",
+    "isrc": "BR7FP1700003"
+  },
+  {
+    "title": "Hard Deadly Wheels",
+    "artist": "Dominus Praelii",
+    "isrc": "uscgj1760492"
+  },
+  {
+    "title": "Unbearable Duel",
+    "artist": "Ethel Hunter",
+    "isrc": "QZGLS2381336"
+  },
+  {
+    "title": "Ministrando a Pena",
+    "artist": "Sad Theory",
+    "isrc": "BRKYG2100155"
+  },
+  {
+    "title": "For All I Blieve",
+    "artist": "Azorrague, Cecília Neufeld",
+    "isrc": "US7VG1919767"
+  },
+  {
+    "title": "The Church and the Empire",
+    "artist": "Hecatomb",
+    "isrc": "BRYR41700345"
+  },
+  {
+    "title": "Angst",
+    "artist": "Noirgale",
+    "isrc": "UK-CVA-17-02496"
+  },
+  {
+    "title": "Gloomy Days",
+    "artist": "Death Chaos",
+    "isrc": "QZ5AB2033177"
+  },
+  {
+    "title": "Residual",
+    "artist": "Murder me slowly",
+    "isrc": "QZHZ51909081"
+  },
+  {
+    "title": "Decadência",
+    "artist": "Decadência",
+    "isrc": "ushm21985295"
+  },
+  {
+    "title": "Bitter End",
+    "artist": "Acid Brigade",
+    "isrc": "US7VG1981309"
+  },
+  {
+    "title": "Gruesome Symphony",
+    "artist": "Archityrants",
+    "isrc": "uscgj1627238"
+  },
+  {
+    "title": "Burn the Witches",
+    "artist": "Darma Khaos",
+    "isrc": "QZGLS2339058"
+  },
+  {
+    "title": "Like the Book Said",
+    "artist": "Efrata",
+    "isrc": "BRDYR1400329"
+  },
+  {
+    "title": "Tiamat",
+    "artist": "Dead Sky Dawning",
+    "isrc": "US7VG1737249"
+  },
+  {
+    "title": "All Men Must Die",
+    "artist": "Ankhy",
+    "isrc": "ushm81702050"
+  },
+  {
+    "title": "... To Be Alone",
+    "artist": "Unguilty",
+    "isrc": "US7VG1921696"
+  },
+  {
+    "title": "The Ascending Desire for Idolatry",
+    "artist": "Divulsor",
+    "isrc": "GBSMU5008113"
+  },
+  {
+    "title": "悲しみの夜明け",
+    "artist": "Hikan",
+    "isrc": "US7VG1735121"
+  },
+  {
+    "title": "Human Unbeing",
+    "artist": "Jailor",
+    "isrc": "BXFJF1600002"
+  },
+  {
+    "title": "Murder the Mankind",
+    "artist": "Division Hell",
+    "isrc": "BX7WM1900009"
+  },
+  {
+    "title": "Dance of Death",
+    "artist": "Impested",
+    "isrc": "uscgh2068369"
+  },
+  {
+    "title": "Apocalipse 21",
+    "artist": "Power Praise",
+    "isrc": "QZ5AB1769015"
+  },
+  {
+    "title": "Liver Transplantation for Hepatocellular Carcinoma",
+    "artist": "Lymphatic Phlegm",
+    "isrc": "USI4R1015753"
+  },
+  {
+    "title": "Ruthless Malignancy",
+    "artist": "Deformed Slut",
+    "isrc": "QZNWW2022834"
+  },
+  {
+    "title": "Black Oasis",
+    "artist": "Lords of Aesir",
+    "isrc": "US7VG2003856"
+  },
+  {
+    "title": "Skyfall in the West - Cover",
+    "artist": "Braveheart",
+    "isrc": "QZHZ61912911"
+  },
+  {
+    "title": "As Cosmic Winds Transcend Existence",
+    "artist": "Lutemkrat",
+    "isrc": "BRYR41600036"
+  },
+  {
+    "title": "Bloodlust",
+    "artist": "Royal Rage",
+    "isrc": "QZHZ41988548"
+  },
+  {
+    "title": "Nothing To Say",
+    "artist": "Kattah, Rafael Bittencourt, Maestro Mistheria",
+    "isrc": "BCPLK2100009"
+  },
+  {
+    "title": "Winter",
+    "artist": "Mercy",
+    "isrc": "QZFZ32309902"
+  },
+  {
+    "title": "Cursing the Existence",
+    "artist": "Wargore",
+    "isrc": "QZHZ32079413"
+  },
+  {
+    "title": "Electric Eye - Cover",
+    "artist": "Panndora",
+    "isrc": "QZHZ51935338"
+  },
+  {
+    "title": "A Arte Que Me Vinga",
+    "artist": "Insane Devotion",
+    "isrc": "BXPYC2200045"
+  },
+  {
+    "title": "Walls of Purgatory",
+    "artist": "Disharmonic Fields",
+    "isrc": "BRM190500538"
+  },
+  {
+    "title": "Má Reputação",
+    "artist": "Motorbastards, Marcelus dos Santos, Silvio Krueger, Thomas Jefferson, Anderson Joaquin, Alexandre Buga",
+    "isrc": "BRYR41500169"
+  },
+  {
+    "title": "Heavy Metal Inferno",
+    "artist": "Wild Witch",
+    "isrc": "BRT7H1700001"
+  },
+  {
+    "title": "Electric High",
+    "artist": "Pantanum",
+    "isrc": "US7VG1530074"
+  },
+  {
+    "title": "Hot Beer",
+    "artist": "Tropical Doom",
+    "isrc": "uscgj1513101"
+  },
+  {
+    "title": "Clarity",
+    "artist": "Lachrimatory",
+    "isrc": "CH6542063614"
+  },
+  {
+    "title": "Redemption",
+    "artist": "Sculptor",
+    "isrc": "ITG272000671"
+  },
+  {
+    "title": "Marching to Infinity",
+    "artist": "Tandra",
+    "isrc": "BXTWM1900005"
+  },
+  {
+    "title": "Throne in Flames",
+    "artist": "Slammer",
+    "isrc": "BC4EU2100009"
+  },
+  {
+    "title": "The First Seal",
+    "artist": "7th Symphony",
+    "isrc": "DEMR70900872"
+  },
+  {
+    "title": "The Time Is Near",
+    "artist": "All Eternity",
+    "isrc": "QZGLS1983027"
+  },
+  {
+    "title": "Hung Up At The Pale",
+    "artist": "Anmod",
+    "isrc": "nlw110800013"
+  },
+  {
+    "title": "Descaminho",
+    "artist": "Ayat Akrass",
+    "isrc": "QZHZ41947146"
+  },
+  {
+    "title": "Natural Selection",
+    "artist": "BioMorf",
+    "isrc": "QZK6H2149591"
+  },
+  {
+    "title": "Insomnie Solitude",
+    "artist": "Choke, Ottavio Lourenço",
+    "isrc": "GX8LD2417595"
+  },
+  {
+    "title": "Unfinished Business (Live My Life)",
+    "artist": "Blackened",
+    "isrc": "USDT60903704"
+  },
+  {
+    "title": "Desolate Room",
+    "artist": "Bullet Course",
+    "isrc": "usdy41531189"
+  },
+  {
+    "title": "TV Control",
+    "artist": "Cadela Maldita",
+    "isrc": "QZ5AB2084936"
+  },
+  {
+    "title": "Burning Like 1000 Suns",
+    "artist": "Cromathia",
+    "isrc": "usdy41694655"
+  },
+  {
+    "title": "Love May Sink by Slow Decay (Requiem & Dirge)",
+    "artist": "De Profvndis Clamati",
+    "isrc": "US7VG1974137"
+  },
+  {
+    "title": "Monster in Me",
+    "artist": "Devil Sin",
+    "isrc": "QZGLS1969355"
+  },
+  {
+    "title": "Disincarnation",
+    "artist": "Dismembration",
+    "isrc": "QZ5AB2019169"
+  },
+  {
+    "title": "Far from Heaven...Close to Hell",
+    "artist": "Dragonheart",
+    "isrc": "CYA081503801"
+  },
+  {
+    "title": "Arranca Língua",
+    "artist": "Evil Project",
+    "isrc": "QZCE61880914"
+  },
+  {
+    "title": "Cigano",
+    "artist": "Fearless Woman",
+    "isrc": "UK-CVA-17-00942"
+  },
+  {
+    "title": "Outsider",
+    "artist": "Fire Shadow",
+    "isrc": "uscgj1682105"
+  },
+  {
+    "title": "Silent Terror",
+    "artist": "Fusileer",
+    "isrc": "BRRK71900008"
+  },
+  {
+    "title": "Induced Hate",
+    "artist": "Grimpha",
+    "isrc": "QZAPG1729021"
+  },
+  {
+    "title": "Blood, Rage & Fire",
+    "artist": "Hellpath",
+    "isrc": "BXRCW1600009"
+  },
+  {
+    "title": "Age of Lies",
+    "artist": "Livin Garden",
+    "isrc": "uscgh1190223"
+  },
+  {
+    "title": "Prevailing in Deception",
+    "artist": "Lost in Wonders",
+    "isrc": "ushm81632509"
+  },
+  {
+    "title": "Reason",
+    "artist": "MYSTIC HORIZON",
+    "isrc": "BXO641700005"
+  },
+  {
+    "title": "Euthanasia",
+    "artist": "Mercy Killing",
+    "isrc": "BXLB31500001"
+  },
+  {
+    "title": "Birth of the Flawless",
+    "artist": "Morthure",
+    "isrc": "uscgh1710569"
+  },
+  {
+    "title": "Past II: The Consequence",
+    "artist": "Mortuo",
+    "isrc": "US7VG1771799"
+  },
+  {
+    "title": "Metamorphosis",
+    "artist": "Neverwinter",
+    "isrc": "BXXGT2200004"
+  },
+  {
+    "title": "The Fall",
+    "artist": "Niriti",
+    "isrc": "US7VG1735330"
+  },
+  {
+    "title": "Lamentos (Alfredo)",
+    "artist": "Nostra Cantus, Dan Santos",
+    "isrc": "QZTVM2281440"
+  },
+  {
+    "title": "Death Valley Gate",
+    "artist": "Oldlands, Vox Morbidus",
+    "isrc": "QZMZ92332866"
+  },
+  {
+    "title": "Wise and Free",
+    "artist": "Phelan",
+    "isrc": "BRTIK1700006"
+  },
+  {
+    "title": "Virus",
+    "artist": "Rage Darkness",
+    "isrc": "RUA1H1528571"
+  },
+  {
+    "title": "Nonexistence",
+    "artist": "Redtie",
+    "isrc": "QZNJZ2394843"
+  },
+  {
+    "title": "Black Warrior",
+    "artist": "Scorner",
+    "isrc": "GB-SMU-22-56388"
+  },
+  {
+    "title": "The Mechanism",
+    "artist": "Sowdierz",
+    "isrc": "USL4Q1995180"
+  },
+  {
+    "title": "Carnívoros",
+    "artist": "Tripanossoma",
+    "isrc": "QZNJW2298962"
+  },
+  {
+    "title": "Welcome To Chaos",
+    "artist": "True",
+    "isrc": "BRF171200012"
+  },
+  {
+    "title": "Evangelium",
+    "artist": "vulture of corpse",
+    "isrc": "BGA261001103"
+  },
+  {
+    "title": "Mere Shadow",
+    "artist": "Semblant",
+    "isrc": "ITG272000406"
+  },
+  {
+    "title": "Crowley, Master Of Masters",
+    "artist": "Amen Corner",
+    "isrc": "BRCOG0800151"
+  },
+  {
+    "title": "Existência",
+    "artist": "Atrocitus",
+    "isrc": "QZPLS2269351"
+  },
+  {
+    "title": "Trial of the Undead",
+    "artist": "Offal",
+    "isrc": "usx9p1421739"
+  },
+  {
+    "title": "Clockwork War",
+    "artist": "Hell Gun",
+    "isrc": "BCU372200005"
+  },
+  {
+    "title": "Fear Inside Me",
+    "artist": "Exylle",
+    "isrc": "BCKVI2200001"
+  },
+  {
+    "title": "Inquisição",
+    "artist": "Murdeath",
+    "isrc": "QZ5AB1763620"
+  },
+  {
+    "title": "Attack",
+    "artist": "Axecuter",
+    "isrc": "BRYR41601576"
+  },
+  {
+    "title": "Dialética do Pau",
+    "artist": "CrotchRot",
+    "isrc": "BRTRB1995335"
+  },
+  {
+    "title": "The Beginning of Pain",
+    "artist": "Murder Rape",
+    "isrc": "BRCOG1700003"
+  },
+  {
+    "title": "Lonely Sufferance (1998)",
+    "artist": "Eternal Sorrow",
+    "isrc": "usdy41954341"
+  },
+  {
+    "title": "Indigenous Pride",
+    "artist": "Legacy of Kain",
+    "isrc": "BRKAS1900005"
+  },
+  {
+    "title": "I Have No Soul",
+    "artist": "Doomsday Ceremony",
+    "isrc": "usl4r1901197"
+  },
+  {
+    "title": "Painful Defecation",
+    "artist": "Necroterio",
+    "isrc": "QZDFP1939708"
+  },
+  {
+    "title": "Antipatria",
+    "artist": "Hereticae",
+    "isrc": "BCCRK2000002"
+  },
+  {
+    "title": "Acceptance",
+    "artist": "Krucipha",
+    "isrc": "BR7FP1700004"
+  },
+  {
+    "title": "Battle of Stanford Bridge",
+    "artist": "Dominus Praelii",
+    "isrc": "ushm21862054"
+  },
+  {
+    "title": "Darkest Cult",
+    "artist": "Ethel Hunter",
+    "isrc": "QZHZ62034452"
+  },
+  {
+    "title": "Absentia / Dementia",
+    "artist": "Sad Theory",
+    "isrc": "BRKYG2100147"
+  },
+  {
+    "title": "A Voodoo Journey",
+    "artist": "Azorrague",
+    "isrc": "US7VG1919760"
+  },
+  {
+    "title": "Sodomize Me",
+    "artist": "Hecatomb",
+    "isrc": "BRYR41700349"
+  },
+  {
+    "title": "The Saw is Family",
+    "artist": "Death Chaos",
+    "isrc": "GX53U2036534"
+  },
+  {
+    "title": "Mar Aberto",
+    "artist": "Murder me slowly",
+    "isrc": "QZGLM2079753"
+  },
+  {
+    "title": "All Colours Is Drained by Sadness",
+    "artist": "Noirgale",
+    "isrc": "UK-CVA-17-00359"
+  },
+  {
+    "title": "Vamos Todos para o Inferno - Demo",
+    "artist": "Decadência",
+    "isrc": "US7VG1877997"
+  },
+  {
+    "title": "Raging War",
+    "artist": "Acid Brigade",
+    "isrc": "US7VG1981310"
+  },
+  {
+    "title": "Black Water Revelation",
+    "artist": "Archityrants",
+    "isrc": "uscgj1627236"
+  },
+  {
+    "title": "Light Your Eyes",
+    "artist": "Efrata",
+    "isrc": "BRDYR1400326"
+  },
+  {
+    "title": "Event Horizon",
+    "artist": "Dead Sky Dawning",
+    "isrc": "QZHZ32055498"
+  },
+  {
+    "title": "Dead Juliet",
+    "artist": "Darma Khaos",
+    "isrc": "QZGLS2339057"
+  },
+  {
+    "title": "Unleash the Serpents",
+    "artist": "Ankhy",
+    "isrc": "ushm81702047"
+  },
+  {
+    "title": "Perfidious Spectrum of Human Deeds",
+    "artist": "Divulsor",
+    "isrc": "GBSMU5008116"
+  },
+  {
+    "title": "In Moments of Silence",
+    "artist": "Unguilty",
+    "isrc": "BGA471923150"
+  },
+  {
+    "title": "Happiness Won't Prevail",
+    "artist": "Hikan",
+    "isrc": "US7VG1735123"
+  },
+  {
+    "title": "Throne of Devil",
+    "artist": "Jailor",
+    "isrc": "BXFJF1600004"
+  },
+  {
+    "title": "The 9 Circles",
+    "artist": "Division Hell",
+    "isrc": "BX7WM1900001"
+  },
+  {
+    "title": "Azov",
+    "artist": "Impested",
+    "isrc": "uscgh2068370"
+  },
+  {
+    "title": "Cordeiro Santo",
+    "artist": "Power Praise",
+    "isrc": "QZ5AB1769016"
+  },
+  {
+    "title": "Insalubrious Development of Multiple Endocrine Neoplasia",
+    "artist": "Lymphatic Phlegm",
+    "isrc": "USI4R1015752"
+  },
+  {
+    "title": "The Monstrous Monochromatism",
+    "artist": "Deformed Slut",
+    "isrc": "QZ4JJ1648021"
+  },
+  {
+    "title": "The Truth",
+    "artist": "Lords of Aesir",
+    "isrc": "US7VG2003854"
+  },
+  {
+    "title": "Finding My Way",
+    "artist": "Braveheart",
+    "isrc": "US7VG1522073"
+  },
+  {
+    "title": "Vengeance",
+    "artist": "Lutemkrat",
+    "isrc": "usx9p1413844"
+  },
+  {
+    "title": "Far Cry From Death",
+    "artist": "Royal Rage",
+    "isrc": "US7VG1810429"
+  },
+  {
+    "title": "Heart of Wind",
+    "artist": "Kattah",
+    "isrc": "BRKCD1700004"
+  },
+  {
+    "title": "The Old Oak Tree",
+    "artist": "Mercy",
+    "isrc": "QZFZ42378036"
+  },
+  {
+    "title": "Asleep Minds",
+    "artist": "Wargore",
+    "isrc": "QZ5AB1789559"
+  },
+  {
+    "title": "Death Is Not The End",
+    "artist": "Panndora",
+    "isrc": "QZHZ51935336"
+  },
+  {
+    "title": "Self Destruction And Reborn",
+    "artist": "Insane Devotion",
+    "isrc": "GB-SMU-19-45988"
+  },
+  {
+    "title": "Nonsense of Life",
+    "artist": "Disharmonic Fields",
+    "isrc": "BRIWE1500009"
+  },
+  {
+    "title": "Beer Drinkers",
+    "artist": "Motorbastards",
+    "isrc": "BRYR41500170"
+  },
+  {
+    "title": "Night Rulers",
+    "artist": "Wild Witch",
+    "isrc": "BRT7H1700002"
+  },
+  {
+    "title": "Purple Blaze",
+    "artist": "Pantanum",
+    "isrc": "US7VG1778318"
+  },
+  {
+    "title": "Date Murder",
+    "artist": "Tropical Doom",
+    "isrc": "uscgj1513099"
+  },
+  {
+    "title": "Twilight",
+    "artist": "Lachrimatory",
+    "isrc": "CH6542063613"
+  },
+  {
+    "title": "Untouchable Truth",
+    "artist": "Sculptor",
+    "isrc": "ITG272000677"
+  },
+  {
+    "title": "Time and Eternity",
+    "artist": "Tandra",
+    "isrc": "ushm81874663"
+  },
+  {
+    "title": "Sons of Evil",
+    "artist": "Slammer",
+    "isrc": "BC4EU2100003"
+  },
+  {
+    "title": "Strong Tower",
+    "artist": "7th Symphony",
+    "isrc": "DEMR70900867"
+  },
+  {
+    "title": "The Ocean",
+    "artist": "All Eternity",
+    "isrc": "QZGLS1983028"
+  },
+  {
+    "title": "Monstrosity Per Defectum",
+    "artist": "Anmod",
+    "isrc": "nlw110800022"
+  },
+  {
+    "title": "Catraca",
+    "artist": "Ayat Akrass",
+    "isrc": "QZHZ41947149"
+  },
+  {
+    "title": "Frozen Ocean Planet",
+    "artist": "BioMorf",
+    "isrc": "QZMEN2230115"
+  },
+  {
+    "title": "Kill The Weak",
+    "artist": "Blackened",
+    "isrc": "USDT60903708"
+  },
+  {
+    "title": "Wild",
+    "artist": "Bullet Course",
+    "isrc": "UK-CVA-15-00175"
+  },
+  {
+    "title": "Against Authority Abuse",
+    "artist": "Cadela Maldita",
+    "isrc": "QZ5AB2084932"
+  },
+  {
+    "title": "The Seventy Seven Guardians",
+    "artist": "Amen Corner",
+    "isrc": "BRCOG1600011"
+  },
+  {
+    "title": "Dark of the Day",
+    "artist": "Semblant",
+    "isrc": "BRTWT1400057"
+  },
+  {
+    "title": "Epidemia",
+    "artist": "Atrocitus",
+    "isrc": "QZPLS2269346"
+  },
+  {
+    "title": "Offal",
+    "artist": "Offal",
+    "isrc": "usx9p1421737"
+  },
+  {
+    "title": "Reign of Fear",
+    "artist": "Hell Gun",
+    "isrc": "BCU372200004"
+  },
+  {
+    "title": "Seu Brasil",
+    "artist": "Exylle",
+    "isrc": "BCKVI2100003"
+  },
+  {
+    "title": "Batalha no Setor Antares",
+    "artist": "Murdeath",
+    "isrc": "QZ5AB1763626"
+  },
+  {
+    "title": "Raise the Axe",
+    "artist": "Axecuter",
+    "isrc": "usx9p1434791"
+  },
+  {
+    "title": "Tupiniviquem",
+    "artist": "CrotchRot",
+    "isrc": "QZMZ92256181"
+  },
+  {
+    "title": "Trace Of Omnipotente",
+    "artist": "Murder Rape",
+    "isrc": "BRCOG1700006"
+  },
+  {
+    "title": "Eternal Sorrow (1998)",
+    "artist": "Eternal Sorrow",
+    "isrc": "usdy41954339"
+  },
+  {
+    "title": "Get Lucky - Cover",
+    "artist": "Legacy of Kain, Fernanda Lira",
+    "isrc": "BRKAS2000002"
+  },
+  {
+    "title": "Rotten World",
+    "artist": "Doomsday Ceremony",
+    "isrc": "ushm21827565"
+  },
+  {
+    "title": "Human Execution",
+    "artist": "Necroterio",
+    "isrc": "QZDFP1940856"
+  },
+  {
+    "title": "Ecos do Atlântico",
+    "artist": "Hereticae",
+    "isrc": "BCCRK2000001"
+  },
+  {
+    "title": "Greater Good Parasite",
+    "artist": "Krucipha",
+    "isrc": "BRHN71200006"
+  },
+  {
+    "title": "Scent of Death",
+    "artist": "Dominus Praelii",
+    "isrc": "uscgj1760493"
+  },
+  {
+    "title": "Feel the Dirt Under Your Skin",
+    "artist": "Ethel Hunter",
+    "isrc": "QZGLS2381335"
+  },
+  {
+    "title": "Endocárcere",
+    "artist": "Sad Theory",
+    "isrc": "BRKYG2100148"
+  },
+  {
+    "title": "With His Blood",
+    "artist": "Azorrague",
+    "isrc": "US7VG1925784"
+  },
+  {
+    "title": "Empire of No Emperor",
+    "artist": "Hecatomb",
+    "isrc": "BRYR41700346"
+  },
+  {
+    "title": "Malignant Transition",
+    "artist": "Death Chaos",
+    "isrc": "QZ5AB2033175"
+  },
+  {
+    "title": "Ganância",
+    "artist": "Murder me slowly",
+    "isrc": "QZHZ62197583"
+  },
+  {
+    "title": "Silence is Deadland",
+    "artist": "Noirgale",
+    "isrc": "UK-CVA-17-00361"
+  },
+  {
+    "title": "Abismo",
+    "artist": "Decadência, Nelio Gomes, Gustavo Toscan da Silva",
+    "isrc": "US7VG1827594"
+  },
+  {
+    "title": "Storming into This Land",
+    "artist": "Acid Brigade",
+    "isrc": "US7VG1981311"
+  },
+  {
+    "title": "Poison of Father Is His Poisonous Son",
+    "artist": "Archityrants",
+    "isrc": "uscgj1627239"
+  },
+  {
+    "title": "Butterfly Effect",
+    "artist": "Efrata",
+    "isrc": "BRDYR1400321"
+  },
+  {
+    "title": "What I've Become",
+    "artist": "Dead Sky Dawning",
+    "isrc": "QZGLM1911515"
+  },
+  {
+    "title": "Ouija",
+    "artist": "Darma Khaos",
+    "isrc": "QZGLS2339059"
+  },
+  {
+    "title": "Ways to Oblivion",
+    "artist": "Ankhy",
+    "isrc": "ushm81702044"
+  },
+  {
+    "title": "Lascivious Repletion",
+    "artist": "Divulsor",
+    "isrc": "GBSMU5008115"
+  },
+  {
+    "title": "Existential Depression",
+    "artist": "Unguilty",
+    "isrc": "BGA471923149"
+  },
+  {
+    "title": "Merciless Punishment",
+    "artist": "Jailor",
+    "isrc": "BXFJF1600005"
+  }
+]

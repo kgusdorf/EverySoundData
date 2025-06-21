@@ -1,0 +1,937 @@
+[
+  {
+    "title": "El Remedio",
+    "artist": "El Gran Poder de Diosa",
+    "isrc": "QZ5FN2228874"
+  },
+  {
+    "title": "Agua que Llegó",
+    "artist": "La Marimba",
+    "isrc": "QZ5FN1862615"
+  },
+  {
+    "title": "No le de tó - Chez Tropics & Mickey Destro Remix",
+    "artist": "NIKÓLA, Chez Tropics, Mickey Destro",
+    "isrc": "QZHN32043153"
+  },
+  {
+    "title": "La Pena",
+    "artist": "Luitomá",
+    "isrc": "USCGJ2012238"
+  },
+  {
+    "title": "Nuevo Día",
+    "artist": "Gaby de los Santos",
+    "isrc": "QZFZ42459878"
+  },
+  {
+    "title": "Icaro",
+    "artist": "Poolpo",
+    "isrc": "ESA012140101"
+  },
+  {
+    "title": "No la Controles",
+    "artist": "Vic Contreras, La Alucinante Banda",
+    "isrc": "QZ5AB1770653"
+  },
+  {
+    "title": "En tu universo - 2014 version",
+    "artist": "Casabe Añejo",
+    "isrc": "SEYOK1424137"
+  },
+  {
+    "title": "Pelo Morado",
+    "artist": "Bonnet",
+    "isrc": "ushm21812837"
+  },
+  {
+    "title": "Anoche Soñé Que Era un DJ",
+    "artist": "El Hombrecito",
+    "isrc": "ES71G1613668"
+  },
+  {
+    "title": "Anda Corazón",
+    "artist": "Xiomara Fortuna, Sara Reanelih",
+    "isrc": "USCGJ1285998"
+  },
+  {
+    "title": "La Guayaba",
+    "artist": "Riccie Oriach",
+    "isrc": "SEYOK1710573"
+  },
+  {
+    "title": "Lies, Lies, Lies",
+    "artist": "The Cat Lady",
+    "isrc": "QZES61805776"
+  },
+  {
+    "title": "ASESINOS - 2023 Remastered",
+    "artist": "Pablo Cavallo",
+    "isrc": "NLRD52268106"
+  },
+  {
+    "title": "A Contraluz",
+    "artist": "Bocatabú",
+    "isrc": "ESA011819542"
+  },
+  {
+    "title": "Sin respirar",
+    "artist": "SNENiE",
+    "isrc": "QZQAY2399578"
+  },
+  {
+    "title": "Moriviví",
+    "artist": "Isaac Hernandez",
+    "isrc": "QZ5FN1823643"
+  },
+  {
+    "title": "TELESCOPIO",
+    "artist": "Solo Fernández, Alex Ferreira",
+    "isrc": "US3DF2448542"
+  },
+  {
+    "title": "Me Levanto",
+    "artist": "Acentoh",
+    "isrc": "QZHZ42029458"
+  },
+  {
+    "title": "Por Amor (feat. Danny Rivera)",
+    "artist": "Gnómico, Danny Rivera",
+    "isrc": "QZS1Z1625786"
+  },
+  {
+    "title": "Good Enough",
+    "artist": "Letón Pé",
+    "isrc": "GBWUL2485938"
+  },
+  {
+    "title": "Ya Lo Viví",
+    "artist": "Belachao",
+    "isrc": "ushm21384263"
+  },
+  {
+    "title": "Río Estelar",
+    "artist": "Estación Sub_Trópico",
+    "isrc": "QZGLM1913637"
+  },
+  {
+    "title": "Rediseño",
+    "artist": "Playa o Radio",
+    "isrc": "usdy41667784"
+  },
+  {
+    "title": "Sin Arrepentimiento / Ligero",
+    "artist": "Le Montro",
+    "isrc": "QZZ8A2350554"
+  },
+  {
+    "title": "Del Mismo Color",
+    "artist": "Rosee Abreu, +Bandalismo",
+    "isrc": "QZTVM2223167"
+  },
+  {
+    "title": "Desconocidos",
+    "artist": "Diego Raposo, Mula",
+    "isrc": "QZ86J1700047"
+  },
+  {
+    "title": "Dominicana Bonita",
+    "artist": "Rando",
+    "isrc": "ushm81557430"
+  },
+  {
+    "title": "Dejavu",
+    "artist": "EL METRO, Edwin Jay",
+    "isrc": "QM7282050757"
+  },
+  {
+    "title": "Ícaro",
+    "artist": "Luis Santanmoret",
+    "isrc": "QZDA42001350"
+  },
+  {
+    "title": "Si la Calle Bota Fuego",
+    "artist": "mediopicky, Adrianigual",
+    "isrc": "QZGLM1905754"
+  },
+  {
+    "title": "De Camino",
+    "artist": "Diómedes Jiménez, Inka",
+    "isrc": "QZES92230832"
+  },
+  {
+    "title": "Se Siente Bien",
+    "artist": "Tierra Fertil",
+    "isrc": "QZDA71885729"
+  },
+  {
+    "title": "calderón así no...",
+    "artist": "Chris Calderón",
+    "isrc": "QMDA72292819"
+  },
+  {
+    "title": "Brisa De Domingo (feat. Anne Yvonne Hernández)",
+    "artist": "Gioel \"El Abuelo\", Anne Yvonne Hernández",
+    "isrc": "QZ5FN1896540"
+  },
+  {
+    "title": "El Clon",
+    "artist": "Cohoba, Acentoh",
+    "isrc": "GBKQU1727773"
+  },
+  {
+    "title": "Primavera",
+    "artist": "Marx Haübey, Lena Dardelet",
+    "isrc": "QZ5FN2292563"
+  },
+  {
+    "title": "Piropos",
+    "artist": "Berowshka",
+    "isrc": "UKXN21912717"
+  },
+  {
+    "title": "Me vas a Hacer Llorar",
+    "artist": "Auro Sónico",
+    "isrc": "QZS1Z1619940"
+  },
+  {
+    "title": "A la Mera Hora",
+    "artist": "Giorgio Siladi",
+    "isrc": "US7VG1817738"
+  },
+  {
+    "title": "The Wait",
+    "artist": "Tangowhiskyman",
+    "isrc": "GBWUL2257117"
+  },
+  {
+    "title": "Vida",
+    "artist": "Carolina Camacho",
+    "isrc": "QZ5AB1626038"
+  },
+  {
+    "title": "De Verdad",
+    "artist": "Juango Dávalos",
+    "isrc": "uscgh1591834"
+  },
+  {
+    "title": "Caballero",
+    "artist": "Conuko Band Roots",
+    "isrc": "ushm21990047"
+  },
+  {
+    "title": "Nunca Paran",
+    "artist": "Mula",
+    "isrc": "GB5EA1701518"
+  },
+  {
+    "title": "Money - Remix",
+    "artist": "Jose Luis Freitas, Zoom Soon Bao",
+    "isrc": "QZHZ32075515"
+  },
+  {
+    "title": "Siento15",
+    "artist": "Ce Qei",
+    "isrc": "GBRKQ2140741"
+  },
+  {
+    "title": "Comandante Belie",
+    "artist": "Concón Quemao",
+    "isrc": "USLZJ1709958"
+  },
+  {
+    "title": "El Futuro Ya Pasó (feat. iLe)",
+    "artist": "Trending Tropics, iLe",
+    "isrc": "COSO11800239"
+  },
+  {
+    "title": "Pariguayo (C.I.S.C.O Remix)",
+    "artist": "Papi Naranja, C.I.S.C.O",
+    "isrc": "uscgh2244935"
+  },
+  {
+    "title": "El Sancocho",
+    "artist": "Mando",
+    "isrc": "QZES91808358"
+  },
+  {
+    "title": "Yo tambien bailo",
+    "artist": "Zoom Soon Bao, Proyecto Uno",
+    "isrc": "QZK6H2431509"
+  },
+  {
+    "title": "A1000",
+    "artist": "Kashmir Jones, Jotabit, InVnerable",
+    "isrc": "QM4TW2212191"
+  },
+  {
+    "title": "Go Back",
+    "artist": "Volt Phonic",
+    "isrc": "GBWUL1817009"
+  },
+  {
+    "title": "Doubt By",
+    "artist": "Mickey Destro, Chez Tropics",
+    "isrc": "QZ5FN2493835"
+  },
+  {
+    "title": "Respira",
+    "artist": "Isabel Castillo",
+    "isrc": "QZNJV2009561"
+  },
+  {
+    "title": "Eh, Papa Eh",
+    "artist": "Jobo",
+    "isrc": "TCADD1756240"
+  },
+  {
+    "title": "Regálame un Minuto Más",
+    "artist": "Badir, Wason Brazoban",
+    "isrc": "USBMS2000122"
+  },
+  {
+    "title": "Las rosas en el límite del noventa y ocho",
+    "artist": "Boundary",
+    "isrc": "QZ9JZ1754992"
+  },
+  {
+    "title": "Iluminado",
+    "artist": "Chino Sing, Hugo Molina",
+    "isrc": "ushm81783062"
+  },
+  {
+    "title": "Mala",
+    "artist": "Jarina De Marco",
+    "isrc": "USAT22101858"
+  },
+  {
+    "title": "The Girl with Pain in her Eyes",
+    "artist": "Greenyard",
+    "isrc": "QZNWU2073357"
+  },
+  {
+    "title": "Ahh",
+    "artist": "Seyer",
+    "isrc": "USA2P1696665"
+  },
+  {
+    "title": "Take Me (feat. Anieszka)",
+    "artist": "Baldera, Anieszka",
+    "isrc": "QZ5FN1762753"
+  },
+  {
+    "title": "Como Antes",
+    "artist": "Merlis Camilo",
+    "isrc": "QZHZ42193555"
+  },
+  {
+    "title": "spirits",
+    "artist": "n o r m a l",
+    "isrc": "DEQ022116230"
+  },
+  {
+    "title": "Canción Fugaz",
+    "artist": "Ultima Bengala",
+    "isrc": "TCAGW2332276"
+  },
+  {
+    "title": "All We Know",
+    "artist": "La Armada",
+    "isrc": "GBMUE2100047"
+  },
+  {
+    "title": "Estalkeo y Persecución en la Duarte (Pacumpílin)",
+    "artist": "Jonatan Piña Duluc",
+    "isrc": "uscgh2146942"
+  },
+  {
+    "title": "Tu Esclava en Esta Cama",
+    "artist": "Adriana Mosquea",
+    "isrc": "QZNJW2048789"
+  },
+  {
+    "title": "Déjame Ser",
+    "artist": "Eduardo Tió",
+    "isrc": "USA2P1384288"
+  },
+  {
+    "title": "Notas - Versión Bachata Remix",
+    "artist": "Break Out The Crazy, Mayinbito",
+    "isrc": "QZK6J2339250"
+  },
+  {
+    "title": "Al Despertar",
+    "artist": "juracán",
+    "isrc": "QZPJ32284430"
+  },
+  {
+    "title": "Playlist (Spanish Remix)",
+    "artist": "Mayani Swave, La Gabi",
+    "isrc": "TCAHW2422865"
+  },
+  {
+    "title": "Blue.",
+    "artist": "Sunshine Yellow",
+    "isrc": "QZHNB2069448"
+  },
+  {
+    "title": "We Danced",
+    "artist": "Gigi Mota, mediopicky",
+    "isrc": "QZMZ92058123"
+  },
+  {
+    "title": "Bajo La Lluvia",
+    "artist": "Lú Polanco",
+    "isrc": "QZK6K2477367"
+  },
+  {
+    "title": "extraños",
+    "artist": "Valentina",
+    "isrc": "MXUM72400006"
+  },
+  {
+    "title": "Coming Home",
+    "artist": "Adri Torron",
+    "isrc": "USWL12401200"
+  },
+  {
+    "title": "Palo Santo",
+    "artist": "Saso, Enerolisa Nuñez y Grupo Salve Mata Los Indios, Dos Flakos",
+    "isrc": "QZES82343080"
+  },
+  {
+    "title": "Mil Años",
+    "artist": "Javi Grullón",
+    "isrc": "USBMS1900078"
+  },
+  {
+    "title": "South London",
+    "artist": "Kelman Duran",
+    "isrc": "TCAFR2128364"
+  },
+  {
+    "title": "Quédate Cerca",
+    "artist": "Bell & Les",
+    "isrc": "usdy41833482"
+  },
+  {
+    "title": "Without Your Love",
+    "artist": "QUODAVID, Kike Saavedra, Hazael Fagerlund",
+    "isrc": "ESA011734878"
+  },
+  {
+    "title": "Invaders II : Anacaona Visions",
+    "artist": "Adriel Music",
+    "isrc": "QZ5FN1753040"
+  },
+  {
+    "title": "Mala Suerte - Remasterizado",
+    "artist": "Bretton",
+    "isrc": "QZHZ42107641"
+  },
+  {
+    "title": "Otro Gallo Cantaria",
+    "artist": "Chris Romero",
+    "isrc": "QZ4JJ1811955"
+  },
+  {
+    "title": "Mi Santo",
+    "artist": "El Humo Del Placer",
+    "isrc": "QM6MZ1874440"
+  },
+  {
+    "title": "Lo 30",
+    "artist": "Gallo Lester",
+    "isrc": "BK4DA2205755"
+  },
+  {
+    "title": "Clovers",
+    "artist": "Lenino",
+    "isrc": "usl4q1836714"
+  },
+  {
+    "title": "Kakaroto",
+    "artist": "Mamey",
+    "isrc": "QZHNB1927597"
+  },
+  {
+    "title": "Estilo Kafka (Remastered)",
+    "artist": "NZA 333",
+    "isrc": "QZARB1865167"
+  },
+  {
+    "title": "Plátano de la Ciudad",
+    "artist": "El Gran Poder de Diosa",
+    "isrc": "QZAPG1841459"
+  },
+  {
+    "title": "No Se Puede Apagar",
+    "artist": "La Marimba",
+    "isrc": "GBWUL1808254"
+  },
+  {
+    "title": "Máquina de Seguir",
+    "artist": "Luitomá",
+    "isrc": "QZTLA2475861"
+  },
+  {
+    "title": "Sur",
+    "artist": "NIKÓLA",
+    "isrc": "QZDA61907958"
+  },
+  {
+    "title": "Mentira",
+    "artist": "Gaby de los Santos",
+    "isrc": "QZNJV2043239"
+  },
+  {
+    "title": "Hacia el Final del Arcoiris",
+    "artist": "Poolpo",
+    "isrc": "ES71G1601189"
+  },
+  {
+    "title": "Lavando",
+    "artist": "Vic Contreras, La Alucinante Banda",
+    "isrc": "QZ5AB1871550"
+  },
+  {
+    "title": "Dame Corazón",
+    "artist": "Casabe Añejo, Franly Reynoso",
+    "isrc": "SEYOK1663833"
+  },
+  {
+    "title": "Dunas",
+    "artist": "Bonnet",
+    "isrc": "ushm21812833"
+  },
+  {
+    "title": "Marilyn Monroe de Santo Domingo",
+    "artist": "El Hombrecito",
+    "isrc": "ES71G1613660"
+  },
+  {
+    "title": "Baisabi",
+    "artist": "Xiomara Fortuna",
+    "isrc": "QM6N21955145"
+  },
+  {
+    "title": "Prima Tecata",
+    "artist": "Riccie Oriach",
+    "isrc": "SEYOK1767314"
+  },
+  {
+    "title": "Better Days",
+    "artist": "The Cat Lady",
+    "isrc": "QZDA62262844"
+  },
+  {
+    "title": "NOCHE DE LUNA - 2023 Remastered",
+    "artist": "Pablo Cavallo",
+    "isrc": "NLRD52268103"
+  },
+  {
+    "title": "Sinfonías del Silencio",
+    "artist": "Bocatabú",
+    "isrc": "ESA011819544"
+  },
+  {
+    "title": "Lento",
+    "artist": "SNENiE",
+    "isrc": "GBWUL2406622"
+  },
+  {
+    "title": "El fukú",
+    "artist": "Isaac Hernandez",
+    "isrc": "QZ5FN1834181"
+  },
+  {
+    "title": "Se Te Olvida?",
+    "artist": "Acentoh",
+    "isrc": "GBKQU1713573"
+  },
+  {
+    "title": "SIN MIRAR - Midnight Generation Remix",
+    "artist": "Solo Fernández, CLUBZ, Midnight Generation",
+    "isrc": "MXD782400108"
+  },
+  {
+    "title": "Mesita de Noche (feat. Victor Victor)",
+    "artist": "Gnómico, Victor Victor",
+    "isrc": "QZS1Z1625813"
+  },
+  {
+    "title": "Jumo de Tu Veneno",
+    "artist": "Belachao",
+    "isrc": "ushm21384261"
+  },
+  {
+    "title": "Dale - Clubz Remix",
+    "artist": "Letón Pé, CLUBZ",
+    "isrc": "USLZJ2265153"
+  },
+  {
+    "title": "Bomba E'",
+    "artist": "Estación Sub_Trópico",
+    "isrc": "DOA0J2000001"
+  },
+  {
+    "title": "Tropical Party",
+    "artist": "Playa o Radio",
+    "isrc": "usdy41667780"
+  },
+  {
+    "title": "Magnetismo / Ligero",
+    "artist": "Le Montro",
+    "isrc": "QZZ8B2388504"
+  },
+  {
+    "title": "¿Qué E' Lo Que Vamo' a Hacer?",
+    "artist": "Rosee Abreu",
+    "isrc": "QZGLM2040639"
+  },
+  {
+    "title": "Detener el Tiempo (DJ Afro Remix)",
+    "artist": "Rando, DJ Afro",
+    "isrc": "ushm21982033"
+  },
+  {
+    "title": "AL CONTRARIO",
+    "artist": "Diego Raposo, AKRIILA",
+    "isrc": "QMBZ92385732"
+  },
+  {
+    "title": "Cajita de Amor",
+    "artist": "EL METRO, Covi Quintana",
+    "isrc": "QM6P41837104"
+  },
+  {
+    "title": "PCL",
+    "artist": "Luis Santanmoret",
+    "isrc": "QZK6L2015897"
+  },
+  {
+    "title": "Ella Se Despierta",
+    "artist": "mediopicky",
+    "isrc": "QZHZ42007492"
+  },
+  {
+    "title": "Agua",
+    "artist": "Diómedes Jiménez",
+    "isrc": "QZNWV2009465"
+  },
+  {
+    "title": "Nube Roja",
+    "artist": "Tierra Fertil",
+    "isrc": "QZDA71885730"
+  },
+  {
+    "title": "Arro' Habichuela y Carne",
+    "artist": "Chris Calderón",
+    "isrc": "QM6P42035496"
+  },
+  {
+    "title": "La Sombra Del Framboyán",
+    "artist": "Gioel \"El Abuelo\"",
+    "isrc": "QZ5FN1896535"
+  },
+  {
+    "title": "Eso Cxlo",
+    "artist": "Cohoba, Acentoh",
+    "isrc": "GBKQU1727769"
+  },
+  {
+    "title": "Lluvia y Calma",
+    "artist": "Marx Haübey, Martires De Leon",
+    "isrc": "USLZJ1844770"
+  },
+  {
+    "title": "Sin Piedad",
+    "artist": "Berowshka, Davichuk",
+    "isrc": "GBLFP2013191"
+  },
+  {
+    "title": "La Musica",
+    "artist": "Auro Sónico",
+    "isrc": "ushm21508532"
+  },
+  {
+    "title": "Aguacate",
+    "artist": "Giorgio Siladi",
+    "isrc": "QZDA52093868"
+  },
+  {
+    "title": "No Regret",
+    "artist": "Tangowhiskyman",
+    "isrc": "GBWUL2257134"
+  },
+  {
+    "title": "Leona",
+    "artist": "Carolina Camacho",
+    "isrc": "QZ5AB1626041"
+  },
+  {
+    "title": "Un Niño Antiguo",
+    "artist": "Juango Dávalos",
+    "isrc": "uscgh1591832"
+  },
+  {
+    "title": "Baje del Conuko",
+    "artist": "Conuko Band Roots",
+    "isrc": "uscgh2031332"
+  },
+  {
+    "title": "Amor de Conuco",
+    "artist": "Jose Luis Freitas, Techy Fatule",
+    "isrc": "QZ5AB2357948"
+  },
+  {
+    "title": "Quiero Que Tú Quieras",
+    "artist": "Mula",
+    "isrc": "GB5EA1701520"
+  },
+  {
+    "title": "Loop Criminal",
+    "artist": "Ce Qei",
+    "isrc": "USLZJ2231149"
+  },
+  {
+    "title": "Contra el Sistema",
+    "artist": "Concón Quemao",
+    "isrc": "USLZJ1709962"
+  },
+  {
+    "title": "Dandy del Congo (feat. Amayo)",
+    "artist": "Trending Tropics, Amayo",
+    "isrc": "COSO11800247"
+  },
+  {
+    "title": "Summer Love",
+    "artist": "Papi Naranja",
+    "isrc": "QM4TX2489477"
+  },
+  {
+    "title": "El Localcito/Mainstream",
+    "artist": "Mando",
+    "isrc": "QZDA81930278"
+  },
+  {
+    "title": "Reymix de Armas",
+    "artist": "Zoom Soon Bao, Reynaldo Armas",
+    "isrc": "QZK6H2434184"
+  },
+  {
+    "title": "Randy Savage",
+    "artist": "Kashmir Jones, Dj Avana",
+    "isrc": "QZANL1701681"
+  },
+  {
+    "title": "Invincible [ Abba ]",
+    "artist": "Volt Phonic",
+    "isrc": "GBWUL2091217"
+  },
+  {
+    "title": "Fizz - Radio Edit",
+    "artist": "Mickey Destro, Chez Tropics",
+    "isrc": "GBWUL2404359"
+  },
+  {
+    "title": "Sin Previo Aviso",
+    "artist": "Isabel Castillo",
+    "isrc": "US7VG2118108"
+  },
+  {
+    "title": "Suelo",
+    "artist": "Jobo",
+    "isrc": "TCADD1756241"
+  },
+  {
+    "title": "No Entiendo - Versión Salsa",
+    "artist": "Badir, MAIKING",
+    "isrc": "QMDA72137171"
+  },
+  {
+    "title": "De Mi Ser",
+    "artist": "Boundary, Ekstra Bonus",
+    "isrc": "QZHZ32111246"
+  },
+  {
+    "title": "Abro Mis Ojos",
+    "artist": "Chino Sing, Merlis Camilo",
+    "isrc": "QMDA61889615"
+  },
+  {
+    "title": "I Want Your Love",
+    "artist": "Greenyard, Jean Roman",
+    "isrc": "GBSMU7186609"
+  },
+  {
+    "title": "Tigre",
+    "artist": "Jarina De Marco",
+    "isrc": "US5941406362"
+  },
+  {
+    "title": "Maybe",
+    "artist": "Seyer, Diego Raposo",
+    "isrc": "USA2P1696663"
+  },
+  {
+    "title": "El Resguardo",
+    "artist": "El Gran Poder de Diosa",
+    "isrc": "QZDA61849547"
+  },
+  {
+    "title": "Encamíname - Mickey Destro & Chez Tropics Remix",
+    "artist": "La Marimba, Mickey Destro, Chez Tropics",
+    "isrc": "GBRKQ2294622"
+  },
+  {
+    "title": "Altar",
+    "artist": "Luitomá",
+    "isrc": "USDY42089730"
+  },
+  {
+    "title": "No le de tó",
+    "artist": "NIKÓLA",
+    "isrc": "USLD91724248"
+  },
+  {
+    "title": "Reversa",
+    "artist": "Gaby de los Santos",
+    "isrc": "QZNJV2043242"
+  },
+  {
+    "title": "Los Villanos",
+    "artist": "Poolpo",
+    "isrc": "ES71G1601591"
+  },
+  {
+    "title": "La Vida Es Sueño",
+    "artist": "Vic Contreras, La Alucinante Banda",
+    "isrc": "QZGLS1937259"
+  },
+  {
+    "title": "Contigo o nadie más",
+    "artist": "Casabe Añejo",
+    "isrc": "SEYOK1518464"
+  },
+  {
+    "title": "Seré",
+    "artist": "Bonnet",
+    "isrc": "ushm21812831"
+  },
+  {
+    "title": "Jack Veneno Ha Muerto",
+    "artist": "El Hombrecito",
+    "isrc": "ES71G1613658"
+  },
+  {
+    "title": "Ella Ta'i - Remix",
+    "artist": "Xiomara Fortuna",
+    "isrc": "QM6MZ2490463"
+  },
+  {
+    "title": "La Dueña",
+    "artist": "Riccie Oriach",
+    "isrc": "QZ5FN1778052"
+  },
+  {
+    "title": "I Do",
+    "artist": "The Cat Lady",
+    "isrc": "UST8K1619551"
+  },
+  {
+    "title": "ANTIDOTO - 2023 Remastered",
+    "artist": "Pablo Cavallo",
+    "isrc": "NLRD52268108"
+  },
+  {
+    "title": "Bang Bang",
+    "artist": "Bocatabú",
+    "isrc": "ESA011819552"
+  },
+  {
+    "title": "Llegó la capitana",
+    "artist": "Isaac Hernandez",
+    "isrc": "QZ5FN1781243"
+  },
+  {
+    "title": "Un ratito más",
+    "artist": "SNENiE",
+    "isrc": "QZQAY2317608"
+  },
+  {
+    "title": "La Negrura",
+    "artist": "Acentoh",
+    "isrc": "QZHZ42029449"
+  },
+  {
+    "title": "SIN MIRAR",
+    "artist": "Solo Fernández, CLUBZ",
+    "isrc": "QZS7J2323133"
+  },
+  {
+    "title": "Te Dí (feat. Pavel Nuñez)",
+    "artist": "Gnómico, Pavel Nuñez",
+    "isrc": "QZS1Z1625808"
+  },
+  {
+    "title": "Sin Tu Presencia",
+    "artist": "Belachao",
+    "isrc": "ushm21384255"
+  },
+  {
+    "title": "Perder el Control",
+    "artist": "Letón Pé, Piek",
+    "isrc": "QZMZ92048935"
+  },
+  {
+    "title": "Contacto",
+    "artist": "Estación Sub_Trópico",
+    "isrc": "DOA0J2000019"
+  },
+  {
+    "title": "Memories",
+    "artist": "Playa o Radio",
+    "isrc": "ushm21651511"
+  },
+  {
+    "title": "Lydia / Ligero",
+    "artist": "Le Montro",
+    "isrc": "QZZ8B2327658"
+  },
+  {
+    "title": "Encuentro",
+    "artist": "Rosee Abreu, Ácido García",
+    "isrc": "QZNJX2012534"
+  },
+  {
+    "title": "La Indicada",
+    "artist": "Rando",
+    "isrc": "uscgh1640667"
+  },
+  {
+    "title": "perrrrreo",
+    "artist": "Diego Raposo, mediopicky",
+    "isrc": "GBKPL2015105"
+  },
+  {
+    "title": "Ahora Que Lo Sabes",
+    "artist": "EL METRO, Cyrille Aimee",
+    "isrc": "USDHM1709306"
+  },
+  {
+    "title": "Próxima Centauri b",
+    "artist": "Luis Santanmoret",
+    "isrc": "QZK6J2186991"
+  },
+  {
+    "title": "No Tiene Fin",
+    "artist": "Diómedes Jiménez",
+    "isrc": "QZK6H2034366"
+  },
+  {
+    "title": "R0s4L14 no se invento ese sonidito",
+    "artist": "mediopicky",
+    "isrc": "QZNWT2397321"
+  }
+]

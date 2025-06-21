@@ -1,0 +1,717 @@
+[
+  {
+    "title": "Música do Bolso",
+    "artist": "Franke., Beca Rodrigues, Guilé",
+    "isrc": "BX6G02200002"
+  },
+  {
+    "title": "Serve um Téra",
+    "artist": "Curimba",
+    "isrc": "BR6R51100010"
+  },
+  {
+    "title": "Nada em Comum",
+    "artist": "Ton Alves, Marina Peralta",
+    "isrc": "BXTRE1900183"
+  },
+  {
+    "title": "Polka Outra Vez",
+    "artist": "Jerry Espíndola, Karina Marques",
+    "isrc": "BRMRX0600014"
+  },
+  {
+    "title": "Bolero de Criolo",
+    "artist": "Begèt De Lucena, Ney Matogrosso",
+    "isrc": "BXTRE1900126"
+  },
+  {
+    "title": "O Último Cigarro",
+    "artist": "DoValle",
+    "isrc": "BXUDQ2100002"
+  },
+  {
+    "title": "Terra Plana",
+    "artist": "LLEZ",
+    "isrc": "BXTRE2100035"
+  },
+  {
+    "title": "A Gente Mente Junto",
+    "artist": "Original Stabile",
+    "isrc": "QZGLM1989162"
+  },
+  {
+    "title": "Desajustados",
+    "artist": "Julio Queiroz",
+    "isrc": "BXUDQ2000014"
+  },
+  {
+    "title": "Agradece",
+    "artist": "Marina Peralta",
+    "isrc": "BR03D1600560"
+  },
+  {
+    "title": "O Flow do Gurizinho",
+    "artist": "CháNoise",
+    "isrc": "BXBDB1500012"
+  },
+  {
+    "title": "Ordem Natural das Coisas",
+    "artist": "Paulo Simões",
+    "isrc": "BRPJS1900024"
+  },
+  {
+    "title": "Vida Cigana",
+    "artist": "Geraldo Espíndola",
+    "isrc": "BRAAY1300180"
+  },
+  {
+    "title": "Interrogação - Paranoias - Ao Vivo",
+    "artist": "Beca Rodrigues, Beca: & A Gaia Arte",
+    "isrc": "BCR9B2300003"
+  },
+  {
+    "title": "Whisky & Blues",
+    "artist": "Bêbados Habilidosos",
+    "isrc": "BXIWW1700044"
+  },
+  {
+    "title": "Irmãos Da Lua",
+    "artist": "Hermanos Irmãos, Márcio De Camillo, Jerry Espíndola, Rodrigo Teixeira",
+    "isrc": "ES71G1416947"
+  },
+  {
+    "title": "Você Me Vira a Cabeça",
+    "artist": "Karla Coronel",
+    "isrc": "QZHZ41972502"
+  },
+  {
+    "title": "Piratininga",
+    "artist": "Guilherme Rondon, Almir Sater, Dino Rocha",
+    "isrc": "BRG065140311"
+  },
+  {
+    "title": "Frontera",
+    "artist": "Muchileiros",
+    "isrc": "BRM7K1600167"
+  },
+  {
+    "title": "O Paulista",
+    "artist": "Codinome Winchester",
+    "isrc": "US7VG1591157"
+  },
+  {
+    "title": "Porrada É Sempre no Mesmo Lugar",
+    "artist": "Vinil Moraes",
+    "isrc": "US7VG1217130"
+  },
+  {
+    "title": "Óleo de Coco",
+    "artist": "Guilé",
+    "isrc": "BX6G02200006"
+  },
+  {
+    "title": "Mensageira",
+    "artist": "Raphael Vital",
+    "isrc": "QZ5AB1982979"
+  },
+  {
+    "title": "Palavras Erradas",
+    "artist": "Erika Espíndola, Flávio Bernardo",
+    "isrc": "QZNJX2348527"
+  },
+  {
+    "title": "Je Crois",
+    "artist": "URBEM",
+    "isrc": "US6XX1651206"
+  },
+  {
+    "title": "Pensavento",
+    "artist": "Matu Miranda, Giuliano Eriston, Carlos Malta",
+    "isrc": "BXDKX2000001"
+  },
+  {
+    "title": "Musicando o Vento",
+    "artist": "Jonavo, Renato Teixeira",
+    "isrc": "BR5HF2200001"
+  },
+  {
+    "title": "Rasga",
+    "artist": "Chris Haicai, Original Stabile",
+    "isrc": "BXTRE1900209"
+  },
+  {
+    "title": "Incondicional",
+    "artist": "Bella Xu",
+    "isrc": "US7VG1461993"
+  },
+  {
+    "title": "Princesa Da Janela",
+    "artist": "Giani Torres",
+    "isrc": "BRA221101774"
+  },
+  {
+    "title": "Só Mais Uma Noite",
+    "artist": "GF Gahiji, Rebeca Queiroz, Lado Negro do Mapa, Freitera",
+    "isrc": "BX1H72400005"
+  },
+  {
+    "title": "Segredos",
+    "artist": "Guga Borba, Simão Gandhy",
+    "isrc": "BRGVB2100001"
+  },
+  {
+    "title": "Frida",
+    "artist": "Catarse Retrô",
+    "isrc": "BXKZK1700001"
+  },
+  {
+    "title": "Amanheceu",
+    "artist": "Marcelo Brinholi",
+    "isrc": "BXA8E1900025"
+  },
+  {
+    "title": "Cafeshop",
+    "artist": "O Santo Chico",
+    "isrc": "QZ5AB1888019"
+  },
+  {
+    "title": "Bolo de Maracujá",
+    "artist": "Nana Coloral, André Pantera",
+    "isrc": "BCP172100001"
+  },
+  {
+    "title": "Diz pra Mim",
+    "artist": "Leo Verão",
+    "isrc": "QZHZ31968108"
+  },
+  {
+    "title": "Deixa o Amor Fluir - Acústico",
+    "artist": "Trinka",
+    "isrc": "QZ5AB1804631"
+  },
+  {
+    "title": "Contando Luas",
+    "artist": "Karina Marques",
+    "isrc": "BRIMT0300045"
+  },
+  {
+    "title": "Uma Nova Forma",
+    "artist": "Naip",
+    "isrc": "BRM7K1600343"
+  },
+  {
+    "title": "Sapato Gasto",
+    "artist": "Dagata e os Aluízios",
+    "isrc": "BRTN91400017"
+  },
+  {
+    "title": "Perigosa",
+    "artist": "Amanda Brito, João 307",
+    "isrc": "BXTRE2000101"
+  },
+  {
+    "title": "Zerando a Vida",
+    "artist": "Paolla, MC Kekel",
+    "isrc": "BCJR62100005"
+  },
+  {
+    "title": "RIP",
+    "artist": "João 307, Darkstarnomercy",
+    "isrc": "BR9Z22300245"
+  },
+  {
+    "title": "Gramática do Mar",
+    "artist": "Thamires Tannous",
+    "isrc": "BRHBX1300011"
+  },
+  {
+    "title": "Madalena",
+    "artist": "Caio Mendes",
+    "isrc": "BXTRE2000018"
+  },
+  {
+    "title": "Picoloco",
+    "artist": "A.D.Z",
+    "isrc": "BXA8E1600097"
+  },
+  {
+    "title": "Melhor",
+    "artist": "Arthur Rostey, Vimez",
+    "isrc": "BXTRE1900032"
+  },
+  {
+    "title": "Menino Travesso",
+    "artist": "Sampri",
+    "isrc": "QZGLS1980847"
+  },
+  {
+    "title": "Se Ela Dança Eu Danço",
+    "artist": "Lulu Mello",
+    "isrc": "US7VG1473919"
+  },
+  {
+    "title": "Sonhando Que Estou Sonhando",
+    "artist": "Renato Pacheco",
+    "isrc": "QZ5AB2033196"
+  },
+  {
+    "title": "Rare Kidz",
+    "artist": "Guss Mc, Rhege, B-Kof, Ale Rocha, Mxth, Babi Knox",
+    "isrc": "QZHZ51946487"
+  },
+  {
+    "title": "Me Guia",
+    "artist": "Augusto Galen",
+    "isrc": "BXTRE1800116"
+  },
+  {
+    "title": "Stay Alive",
+    "artist": "Black Tropical",
+    "isrc": "QZHZ31918640"
+  },
+  {
+    "title": "A Nova",
+    "artist": "Comando Pérola",
+    "isrc": "BXTRE1900036"
+  },
+  {
+    "title": "Temporal",
+    "artist": "Dkukas",
+    "isrc": "UKXN22238218"
+  },
+  {
+    "title": "Essência",
+    "artist": "Ed",
+    "isrc": "BXTRE2000024"
+  },
+  {
+    "title": "Descaso",
+    "artist": "Fabi Strengari",
+    "isrc": "BXIWW1800057"
+  },
+  {
+    "title": "Jejum de Amor - Ao Vivo",
+    "artist": "Forzan, Kadu Queiroz",
+    "isrc": "QZMZ92415709"
+  },
+  {
+    "title": "Cama pra Dois",
+    "artist": "Guilherme Consttan",
+    "isrc": "BX9ZT2000106"
+  },
+  {
+    "title": "Lamentos do Mar",
+    "artist": "Gustavo Vargas",
+    "isrc": "BRAAY1300165"
+  },
+  {
+    "title": "Dias e Horas",
+    "artist": "Jeffinho Enseki",
+    "isrc": "BXTRE1900114"
+  },
+  {
+    "title": "Beija ou Me Beija",
+    "artist": "João Fábio",
+    "isrc": "BXTRE1900151"
+  },
+  {
+    "title": "Não Falo Mais Nada",
+    "artist": "Ju Souc",
+    "isrc": "QZ5AB1938660"
+  },
+  {
+    "title": "Gado",
+    "artist": "LOS BUGRES",
+    "isrc": "BC3SD2100001"
+  },
+  {
+    "title": "Rainha do Mar",
+    "artist": "Lari Cavalcante",
+    "isrc": "BXIT32300002"
+  },
+  {
+    "title": "Boomerang",
+    "artist": "Macaia, Liemy irie, Pump Killa, Ragg, Toaster Size, Bestem",
+    "isrc": "BXBG42400002"
+  },
+  {
+    "title": "Adoro",
+    "artist": "Marcello Costa",
+    "isrc": "TRAA61100904"
+  },
+  {
+    "title": "Quando Você Passa (Turu Turu) - Ao Vivo",
+    "artist": "Vini Barreto",
+    "isrc": "QZHZ42084871"
+  },
+  {
+    "title": "Seja Você",
+    "artist": "Viviane Aquino",
+    "isrc": "BXA8E1900067"
+  },
+  {
+    "title": "Tio Sam",
+    "artist": "Vozmecê, Projeto Kzulo",
+    "isrc": "QZNJW2097989"
+  },
+  {
+    "title": "Quem É?",
+    "artist": "Franke.",
+    "isrc": "QZGLM1938657"
+  },
+  {
+    "title": "Contra-Dores",
+    "artist": "Curimba",
+    "isrc": "BR6R51100013"
+  },
+  {
+    "title": "Vício Desmedido",
+    "artist": "Ton Alves, 2DE1",
+    "isrc": "BXTRE2000064"
+  },
+  {
+    "title": "Tempo Seco",
+    "artist": "Jerry Espíndola",
+    "isrc": "BRAAY0600207"
+  },
+  {
+    "title": "Cinema Americano",
+    "artist": "Begèt De Lucena",
+    "isrc": "BXTRE1900177"
+  },
+  {
+    "title": "O Sal da Pele - Ao Vivo",
+    "artist": "DoValle",
+    "isrc": "BXUDQ2200002"
+  },
+  {
+    "title": "Certos Anseios",
+    "artist": "LLEZ",
+    "isrc": "BXTRE1900168"
+  },
+  {
+    "title": "Dizaê",
+    "artist": "Original Stabile",
+    "isrc": "QZHZ51996964"
+  },
+  {
+    "title": "Vai Ter Que Me Levar",
+    "artist": "Julio Queiroz",
+    "isrc": "BXUDQ2000016"
+  },
+  {
+    "title": "Se Liga Nesse Balanço",
+    "artist": "CháNoise",
+    "isrc": "BXBDB1500015"
+  },
+  {
+    "title": "Ordem Natural das Coisas: Olhos Nus",
+    "artist": "Paulo Simões",
+    "isrc": "BRPJS0400011"
+  },
+  {
+    "title": "Cuñataiporã",
+    "artist": "Geraldo Espíndola",
+    "isrc": "BRTET0400015"
+  },
+  {
+    "title": "Terça, Sexta-feira",
+    "artist": "Beca Rodrigues, Franke.",
+    "isrc": "BCR9B2000002"
+  },
+  {
+    "title": "Maria",
+    "artist": "Bêbados Habilidosos",
+    "isrc": "BCSGS2100005"
+  },
+  {
+    "title": "Garoa",
+    "artist": "Marina Peralta",
+    "isrc": "BR03D1600552"
+  },
+  {
+    "title": "Vida Cigana",
+    "artist": "Hermanos Irmãos, Márcio De Camillo, Jerry Espíndola, Rodrigo Teixeira, Rubén Goldin",
+    "isrc": "BRMRX2200001"
+  },
+  {
+    "title": "Some Da Minha Vida",
+    "artist": "Karla Coronel, Vimez",
+    "isrc": "BXK262200001"
+  },
+  {
+    "title": "Vida Bela Vida",
+    "artist": "Guilherme Rondon, Paulo Simões",
+    "isrc": "BRG065140222"
+  },
+  {
+    "title": "Siga Seu Caminho",
+    "artist": "Muchileiros",
+    "isrc": "BRM7K1600183"
+  },
+  {
+    "title": "Porrada é Sempre no Mesmo Lugar (Samba)",
+    "artist": "Vinil Moraes",
+    "isrc": "US7VG1217259"
+  },
+  {
+    "title": "Sol na Cara (O Leme Que Te Guia)",
+    "artist": "Guilé",
+    "isrc": "QZGLS1978016"
+  },
+  {
+    "title": "Se Engana Não",
+    "artist": "Raphael Vital",
+    "isrc": "QZ5AB2011670"
+  },
+  {
+    "title": "A Busca",
+    "artist": "Codinome Winchester",
+    "isrc": "US7VG1527644"
+  },
+  {
+    "title": "Fantastic People",
+    "artist": "Erika Espíndola",
+    "isrc": "QZHZ31964268"
+  },
+  {
+    "title": "Diálogos",
+    "artist": "URBEM",
+    "isrc": "US6XX1651205"
+  },
+  {
+    "title": "AGORA",
+    "artist": "Matu Miranda, Michael Pipoquinha",
+    "isrc": "BXDKX2300002"
+  },
+  {
+    "title": "Tennessee Whiskey",
+    "artist": "Jonavo",
+    "isrc": "BR5HF2100014"
+  },
+  {
+    "title": "Eu Sei",
+    "artist": "Chris Haicai",
+    "isrc": "BXTRE2000036"
+  },
+  {
+    "title": "Pra Sempre",
+    "artist": "Bella Xu",
+    "isrc": "US7VG1537320"
+  },
+  {
+    "title": "Mazelas",
+    "artist": "Giani Torres",
+    "isrc": "BRA221101775"
+  },
+  {
+    "title": "Vem Comigo",
+    "artist": "GF Gahiji, Rebeca Queiroz, Lado Negro do Mapa",
+    "isrc": "BX1H72400003"
+  },
+  {
+    "title": "Bola de Cristal",
+    "artist": "Guga Borba",
+    "isrc": "BRM7K1400191"
+  },
+  {
+    "title": "Mulher",
+    "artist": "Catarse Retrô",
+    "isrc": "QZ5AB1962835"
+  },
+  {
+    "title": "Eu Sou Neguinha",
+    "artist": "O Santo Chico",
+    "isrc": "QZ5AB1888020"
+  },
+  {
+    "title": "IDAS - AO VIVO EM BONITO",
+    "artist": "Fernanda Ebling",
+    "isrc": "BXIV82482726"
+  },
+  {
+    "title": "Nada Brilha Mais Que Viver",
+    "artist": "Marcelo Brinholi",
+    "isrc": "BXA8E1900019"
+  },
+  {
+    "title": "Gosto Tanto (Eu Gosto Tanto de Você) - Acústico",
+    "artist": "Leo Verão",
+    "isrc": "QZHZ31968107"
+  },
+  {
+    "title": "Deixa o Amor Fluir",
+    "artist": "Trinka, Paulo & Jean",
+    "isrc": "QZ5AB1783287"
+  },
+  {
+    "title": "Nó na Garganta",
+    "artist": "Karina Marques",
+    "isrc": "BXTRE2000027"
+  },
+  {
+    "title": "A Aliança",
+    "artist": "Naip",
+    "isrc": "BRM7K1400119"
+  },
+  {
+    "title": "Cunhataíporã",
+    "artist": "Dagata e os Aluízios",
+    "isrc": "BRTN91400024"
+  },
+  {
+    "title": "Mina Problema",
+    "artist": "Amanda Brito, Malu Rdz",
+    "isrc": "BXTRE2000038"
+  },
+  {
+    "title": "Que Tal?",
+    "artist": "Paolla, Lourena",
+    "isrc": "BCJR62000013"
+  },
+  {
+    "title": "LUXXXO",
+    "artist": "João 307",
+    "isrc": "BR9Z22300267"
+  },
+  {
+    "title": "Coisa de Menino",
+    "artist": "Caio Mendes, Karla Coronel",
+    "isrc": "BXTRE2000203"
+  },
+  {
+    "title": "Catimbó",
+    "artist": "Thamires Tannous",
+    "isrc": "BRHBX1900004"
+  },
+  {
+    "title": "É Samba de Roda, Sinhá",
+    "artist": "Sampri",
+    "isrc": "QZHZ62182232"
+  },
+  {
+    "title": "Declarasamba",
+    "artist": "Lulu Mello, Bom Gosto",
+    "isrc": "QZMZ92229083"
+  },
+  {
+    "title": "Você É Maior",
+    "artist": "Franke.",
+    "isrc": "QZGLM1938656"
+  },
+  {
+    "title": "Muleque da Quebra",
+    "artist": "Curimba",
+    "isrc": "BR6R51100006"
+  },
+  {
+    "title": "Nada em Comum - Acústico",
+    "artist": "Ton Alves, Marina Peralta",
+    "isrc": "BXTRE2000193"
+  },
+  {
+    "title": "Meu Vício",
+    "artist": "Jerry Espíndola",
+    "isrc": "BRMEJ2100001"
+  },
+  {
+    "title": "Força Bruta",
+    "artist": "Begèt De Lucena",
+    "isrc": "BXTRE2000208"
+  },
+  {
+    "title": "Teimosia - Ao Vivo",
+    "artist": "DoValle",
+    "isrc": "BXUDQ2200001"
+  },
+  {
+    "title": "Coração em Movimento",
+    "artist": "LLEZ",
+    "isrc": "BXTRE1900170"
+  },
+  {
+    "title": "Secou",
+    "artist": "Original Stabile",
+    "isrc": "QZGLM1989166"
+  },
+  {
+    "title": "Pilares",
+    "artist": "Julio Queiroz",
+    "isrc": "QZGLS2032083"
+  },
+  {
+    "title": "O Peso da Camisa",
+    "artist": "CháNoise",
+    "isrc": "BXBDB1500014"
+  },
+  {
+    "title": "Sete Sinais",
+    "artist": "Paulo Simões",
+    "isrc": "BRPJS1900037"
+  },
+  {
+    "title": "Quyquyho",
+    "artist": "Geraldo Espíndola, Alzira E",
+    "isrc": "BRTET0400010"
+  },
+  {
+    "title": "Aleatórios",
+    "artist": "Beca Rodrigues",
+    "isrc": "BXTRE1900124"
+  },
+  {
+    "title": "Sylvia",
+    "artist": "Bêbados Habilidosos",
+    "isrc": "BCSGS2100002"
+  },
+  {
+    "title": "Ela Encanta",
+    "artist": "Marina Peralta",
+    "isrc": "BR03D1600556"
+  },
+  {
+    "title": "Delta da Vida",
+    "artist": "Hermanos Irmãos, Márcio De Camillo, Jerry Espíndola, Rodrigo Teixeira",
+    "isrc": "BRMRX2100010"
+  },
+  {
+    "title": "Única Defesa",
+    "artist": "Karla Coronel",
+    "isrc": "BXK262300001"
+  },
+  {
+    "title": "Paiaguas",
+    "artist": "Guilherme Rondon, Paulo Simões",
+    "isrc": "BRG065140281"
+  },
+  {
+    "title": "Por Qué Me Miras Si No Me Quieres",
+    "artist": "Muchileiros",
+    "isrc": "BRM7K1600181"
+  },
+  {
+    "title": "Coisa de Brasileiro",
+    "artist": "Vinil Moraes, Jeff Boto, Buguinha Dub, Gleyton Berbet",
+    "isrc": "QZ5AB2087576"
+  },
+  {
+    "title": "Poente",
+    "artist": "Raphael Vital",
+    "isrc": "QZ5AB1998582"
+  },
+  {
+    "title": "Amanheço",
+    "artist": "Guilé",
+    "isrc": "US7VG1993781"
+  },
+  {
+    "title": "Espírito Velho",
+    "artist": "Codinome Winchester",
+    "isrc": "US7VG1591159"
+  },
+  {
+    "title": "Cavalo do Rei",
+    "artist": "Erika",
+    "isrc": "BXUDQ1800001"
+  }
+]

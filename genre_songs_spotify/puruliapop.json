@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Toi Mor Aashiqui",
+    "artist": "SK Sonu Turi, Laxmi Dubey",
+    "isrc": "IND832301936"
+  },
+  {
+    "title": "Ekbar Je Dekhbi Hobire Kabu",
+    "artist": "Mira Das",
+    "isrc": "INM8T2200195"
+  },
+  {
+    "title": "Pudina",
+    "artist": "Kappu Nayak",
+    "isrc": "INN632100487"
+  },
+  {
+    "title": "Bottel Me Band Baa Gori Tohar Jawani",
+    "artist": "Taniya, Alok Kumar",
+    "isrc": "INL231808212"
+  },
+  {
+    "title": "Komola - Remix",
+    "artist": "Ankita Bhattacharyya, DJ Manik",
+    "isrc": "FRX762214221"
+  },
+  {
+    "title": "Sungo Didi Kotha Sun",
+    "artist": "Manju Karmakar, Sujit Mandal",
+    "isrc": "INSB72100066"
+  },
+  {
+    "title": "Jabar Belai Dekha Holo",
+    "artist": "Md Aslam Khan",
+    "isrc": "INR751910143"
+  },
+  {
+    "title": "Nunur Bape",
+    "artist": "Badal Pal, Kavita Das",
+    "isrc": "uscgj2227965"
+  },
+  {
+    "title": "Saiya Ho Saiya",
+    "artist": "Vishnu Deo, Kajal Mahato",
+    "isrc": "IND832213689"
+  },
+  {
+    "title": "Toto Wala Hamke Niye Pala",
+    "artist": "Dharoni Mahato, Mira Das",
+    "isrc": "INSB72200213"
+  },
+  {
+    "title": "Nazar Mein Tum Jigar Mein Tum",
+    "artist": "Vicky Kachhap",
+    "isrc": "INT502000072"
+  },
+  {
+    "title": "Hamke Kandai Niye",
+    "artist": "Tapan Kuiry",
+    "isrc": "INSB92100018"
+  },
+  {
+    "title": "Purulia Jhargram Ghurai Libo Toke",
+    "artist": "Paritosh Mahata",
+    "isrc": "INSB92200484"
+  },
+  {
+    "title": "Tui Hamke Bhule Ja",
+    "artist": "Kundan Kumar, Kanika Karmakar",
+    "isrc": "INSB92200800"
+  },
+  {
+    "title": "Gori Gori",
+    "artist": "DJ Rohit Ghatshila, Kundan Kumar",
+    "isrc": "INM8T2200166"
+  },
+  {
+    "title": "Pagli Re",
+    "artist": "Kanika Karmakar, Kundan Kumar",
+    "isrc": "INSB92300308"
+  },
+  {
+    "title": "Dekh Nache Nache Jachi Kulhitai",
+    "artist": "Bonomali Mahato, Konika Karmakar",
+    "isrc": "INM8T2300018"
+  },
+  {
+    "title": "Ranchi Dhanbad Asaansole",
+    "artist": "Harshit Maheshwari, Maheshwari Visuals, UshaRani Midhya, Mallik Mahata",
+    "isrc": "GBRKQ2136886"
+  },
+  {
+    "title": "Boudi Amar Modern - Original",
+    "artist": "Kumar Kamal, NA",
+    "isrc": "INR751400109"
+  },
+  {
+    "title": "Koka Kola",
+    "artist": "Samidh Mukherjee, Kalpana Patowary",
+    "isrc": "INS2X1100079"
+  },
+  {
+    "title": "Pirit Rakhbe Jotone",
+    "artist": "Rajib Karmakar, Kanika Karmakar",
+    "isrc": "INA4X2200051"
+  },
+  {
+    "title": "Muchki Hanse",
+    "artist": "Piu Rani Mahata",
+    "isrc": "INSB92100025"
+  },
+  {
+    "title": "Vhukur Mai Chol Mere Che",
+    "artist": "Jagasish & Priyanka",
+    "isrc": "IND712110466"
+  },
+  {
+    "title": "Beer Bar",
+    "artist": "ANJALI TIGGA, Santosh Daswali",
+    "isrc": "INS7A1641406"
+  },
+  {
+    "title": "Pagla Tor Pagli",
+    "artist": "AJ Lipini, Paritosh Mahata",
+    "isrc": "INSB92300691"
+  },
+  {
+    "title": "Aao Kabhi Haweli Pe ( Nagpuri Song )",
+    "artist": "Ashish Bharti",
+    "isrc": "INU252204464"
+  },
+  {
+    "title": "Bihar Khota",
+    "artist": "Achinta Kumar, Monu Ojha",
+    "isrc": "INM8T2300033"
+  },
+  {
+    "title": "Oi Paharer Niche Hamader",
+    "artist": "Anjoli Das, Paritosh Das",
+    "isrc": "AUC6R2172233"
+  },
+  {
+    "title": "Tor Freeze Dhukabo",
+    "artist": "Badal Paul, Manju Karmakar",
+    "isrc": "INS7A1638670"
+  },
+  {
+    "title": "Akoboko Mon",
+    "artist": "Banamali Mahato",
+    "isrc": "INM8T2300064"
+  },
+  {
+    "title": "A Phool Koli Lo",
+    "artist": "Bibhash, Mira Das",
+    "isrc": "FR10S2218514"
+  },
+  {
+    "title": "Jangalmahal Hamar Jharga Sahar - Original",
+    "artist": "Bimal Mahata, Piu Rani Mahata",
+    "isrc": "QZPYN2109900"
+  },
+  {
+    "title": "Bairain Gelo Babuar Bap",
+    "artist": "Biswanath Roy, Kanika Karmakar",
+    "isrc": "INSB92300361"
+  },
+  {
+    "title": "Mon Dibo Nai",
+    "artist": "Chumki Rani Mahata",
+    "isrc": "INSB92300264"
+  },
+  {
+    "title": "Biha Kore Re Bondhu Hoye Geli Por",
+    "artist": "Chumki Rani Mahato",
+    "isrc": "IND712111145"
+  },
+  {
+    "title": "Jhingar Mai 2",
+    "artist": "Dayal Bauri, Jayanti Sabar",
+    "isrc": "INA4X2200196"
+  },
+  {
+    "title": "Jhiri Jhiri Meghla Barshar Dine",
+    "artist": "Dharani Mahato, Meera Das",
+    "isrc": "FRX282413423"
+  },
+  {
+    "title": "Saami Saami Dj - Pushpa Raj",
+    "artist": "DjGour Rock",
+    "isrc": "QZFZ32207625"
+  },
+  {
+    "title": "Bhadare Karam Dada - Bengali",
+    "artist": "GAYATRI MAHATO, Adala Mahato",
+    "isrc": "INS7A1639061"
+  },
+  {
+    "title": "School Ke Piche (Original Mix)",
+    "artist": "Gautma Dhali",
+    "isrc": "QM3DF2140889"
+  },
+  {
+    "title": "Ke Anilo Re - Original",
+    "artist": "Gour Roy, NA",
+    "isrc": "INR751400100"
+  },
+  {
+    "title": "Mon Mayuri",
+    "artist": "Jhumur Rani, Shankar Tantubai",
+    "isrc": "INC622202039"
+  },
+  {
+    "title": "Bhalobase Chili Pagli Toke",
+    "artist": "Goutam Mahato, DJ Rohit Ghatshila",
+    "isrc": "INM8T2200006"
+  },
+  {
+    "title": "Pirit Korbi Jodi Kache Aay",
+    "artist": "Jayanti Sabar",
+    "isrc": "INSB92200252"
+  },
+  {
+    "title": "Jorai Dhore Chuma Khabo",
+    "artist": "Jiten, Kanika Karmakar",
+    "isrc": "INSB92200162"
+  },
+  {
+    "title": "Bolbo Ki Goh Lajer Kotha",
+    "artist": "Kabita Das",
+    "isrc": "ING211003753"
+  },
+  {
+    "title": "Nunur Mosi Dekhai Beautiful",
+    "artist": "Kanai Dhebar, Kanika Karmakar",
+    "isrc": "FR59R2270183"
+  },
+  {
+    "title": "O Bandhu Re",
+    "artist": "Kanika Karmakar & Manoj Das",
+    "isrc": "ESA012208025"
+  },
+  {
+    "title": "Kulhi Murai Bhala Bhali Raster Dhare Ghor",
+    "artist": "Kanoka Karmakr, Kripasindhu Karmakar",
+    "isrc": "INS7A2123145"
+  },
+  {
+    "title": "Aaj Ami Kandchi Kal Tuiyo kandbi",
+    "artist": "Karna Kumar",
+    "isrc": "FR59R2270188"
+  },
+  {
+    "title": "Chithi Ta Pode Dekh Na",
+    "artist": "Khukumoni Mahata",
+    "isrc": "INSB92100015"
+  },
+  {
+    "title": "Dukho Hamar Bhagye Lekha",
+    "artist": "Konika Karmakar, Kundan Kumar",
+    "isrc": "INU252308552"
+  },
+  {
+    "title": "Bachpan Ka Pyar Mera Bhul Nahi Jana Re (Nagpuri Song)",
+    "artist": "Kumar Pritam",
+    "isrc": "INU252102840"
+  },
+  {
+    "title": "Vhukur Mai Koris Kelekeche",
+    "artist": "Koushik Das, Mira Das",
+    "isrc": "FR59R2270179"
+  },
+  {
+    "title": "Tui Dekhbi Jodi Aay",
+    "artist": "Karna Kumar",
+    "isrc": "FRX282172821"
+  },
+  {
+    "title": "BIHU HUSORI",
+    "artist": "Krishna Moni Chutia, Gayatri Mahanta",
+    "isrc": "DGA0P2310102"
+  },
+  {
+    "title": "Puruliar Girlfriend",
+    "artist": "Kundan Kuamr, Konika Karmakar",
+    "isrc": "INU252308472"
+  },
+  {
+    "title": "Oi Biti chelar name ar koris na re",
+    "artist": "Kundan Kumar, Mira Das",
+    "isrc": "FR2X42366810"
+  },
+  {
+    "title": "Purono Gadi Purono Ingine",
+    "artist": "Mallik Mahata, Chumki Rani Mahata",
+    "isrc": "INSB72100033"
+  },
+  {
+    "title": "Ranchi Dhanbad 2 (A Chhhoda Nacho Re)",
+    "artist": "Mallik Mahato, Chabi Rani Mahato",
+    "isrc": "GBWUL2126104"
+  },
+  {
+    "title": "Goriber Bhalobasa Tui To Bujli Nai",
+    "artist": "Manoj Das",
+    "isrc": "INSB92300255"
+  },
+  {
+    "title": "BORO BORO KOTHA BOLE DOME DHADHACHHIS",
+    "artist": "Mira Das, Shankar Tantubai",
+    "isrc": "FRX202206406"
+  },
+  {
+    "title": "Kaj Dhanda Ki Nai Re Bondhu",
+    "artist": "Mita Mahata, Paritosh Mahata",
+    "isrc": "INSF32200360"
+  },
+  {
+    "title": "Bondhu Kala Chand - Remix",
+    "artist": "Mohobbot Ali",
+    "isrc": "QZNWX2164460"
+  },
+  {
+    "title": "Tora Na Dekhale Ge",
+    "artist": "Nirmal Das",
+    "isrc": "IND832105144"
+  },
+  {
+    "title": "Pagla Pagli",
+    "artist": "Manoj Das, Mira Das",
+    "isrc": "IND712211141"
+  },
+  {
+    "title": "Gota Gaye Gelchhe Jane",
+    "artist": "Nitish Mahato, Manoj Das, Kanika Karmakar",
+    "isrc": "INA4X2200177"
+  },
+  {
+    "title": "Sadhek Bahin Dulali",
+    "artist": "PK Manbhum, Kanika Karmakar",
+    "isrc": "INM8T2200037"
+  },
+  {
+    "title": "O Go Piya",
+    "artist": "Pampa Mahato, Ashwini Mahato, Sanjay Mahato",
+    "isrc": "GX89G2353277"
+  },
+  {
+    "title": "Nagpuri DJ 03",
+    "artist": "Purulia Master",
+    "isrc": "ING211005456"
+  },
+  {
+    "title": "Sun Sajani - Original",
+    "artist": "Manoj Das, Kanika Karmakar",
+    "isrc": "QZPYN2111295"
+  },
+  {
+    "title": "Ki Jadu Korli Chokher Isharay",
+    "artist": "Pramod Gorai, Mira Das",
+    "isrc": "FRX762197713"
+  },
+  {
+    "title": "Mudi Ghugni Chop Lahri Bari Me Gop",
+    "artist": "Rajesh Diwana",
+    "isrc": "AUC6R2167550"
+  },
+  {
+    "title": "Jharkhander Rani Jamshedpur - Dj Mithun Mahuda Remix",
+    "artist": "RG Music Purulia, DJ Rohit Ghatshila, Dj Mithun Mahuda",
+    "isrc": "GBWUL2241234"
+  },
+  {
+    "title": "Sonamoni",
+    "artist": "Rajesh Kumar, Kanika Karmakar",
+    "isrc": "INSB92300963"
+  },
+  {
+    "title": "Babur Masi",
+    "artist": "Manoj Das, Anima Mahato",
+    "isrc": "FR59R2257789"
+  },
+  {
+    "title": "Bhagnar Pishi Ke",
+    "artist": "Rajesh Sahish, Kanika Karmakar",
+    "isrc": "INSB92300069"
+  },
+  {
+    "title": "Nayti Kine De - Bengali",
+    "artist": "Rajib Karmkar, Kanika Karmakar",
+    "isrc": "INS7A1638317"
+  },
+  {
+    "title": "I Hate You Baby",
+    "artist": "Raju Sahis, Janani",
+    "isrc": "INSB92200654"
+  },
+  {
+    "title": "O Sanam Sanam Re - Original",
+    "artist": "Ramjeet Mahto",
+    "isrc": "INN242006507"
+  },
+  {
+    "title": "Mon Kande Ekla",
+    "artist": "Samir Karmakar",
+    "isrc": "INSB92200292"
+  },
+  {
+    "title": "Tor Bandhbi Ke Setting Kral Ja",
+    "artist": "Sanjeeb Kumar, Mira Das",
+    "isrc": "IND712211444"
+  },
+  {
+    "title": "Sali Dekhe Biha Korechi",
+    "artist": "Rajib Karmkar, Kanika Karmakar",
+    "isrc": "FR59R2250272"
+  },
+  {
+    "title": "Bhangde Di Beet",
+    "artist": "Sanjeev Kumar",
+    "isrc": "INQO32100005"
+  },
+  {
+    "title": "Pahil Dekhai Purulia Song - Purulia",
+    "artist": "Sanjib Kumar, Ambarani",
+    "isrc": "QZPYN2116497"
+  },
+  {
+    "title": "Ghumer Ghore Sompne Toke",
+    "artist": "Samir Karmakar, Mira Das",
+    "isrc": "INC622300338"
+  },
+  {
+    "title": "Faka Pale Dibo Go Miss Call",
+    "artist": "Sanjeeb Kumar, Mira Das",
+    "isrc": "FR59R2270185"
+  },
+  {
+    "title": "Badna Mokore",
+    "artist": "Sankar Tantubai",
+    "isrc": "ING211005898"
+  },
+  {
+    "title": "Hamar Biha Hotoi Kokhon",
+    "artist": "Satish Das",
+    "isrc": "ING211007879"
+  },
+  {
+    "title": "Megha O Re Megha",
+    "artist": "Shankar Tantubai",
+    "isrc": "IND712110460"
+  },
+  {
+    "title": "Naam Shikari Hai",
+    "artist": "Shikari",
+    "isrc": "QZGWW2011363"
+  },
+  {
+    "title": "Fulmonir Maay",
+    "artist": "Shikari Kumar, Taniya",
+    "isrc": "IND712213992"
+  },
+  {
+    "title": "Pohil Boyoshe",
+    "artist": "Shikari Kumar & Taniya",
+    "isrc": "ESA011666434"
+  },
+  {
+    "title": "Behan Sent Sent Basache",
+    "artist": "Sisupal Sahis, Soma Mahato",
+    "isrc": "DGA092396708"
+  },
+  {
+    "title": "Dhak Dhak Jiya Mora",
+    "artist": "Sisupal Sahish, Mira Das",
+    "isrc": "FR10S2212435"
+  },
+  {
+    "title": "O Sajoni",
+    "artist": "Subhash Dey, Mira Das",
+    "isrc": "INSB92200764"
+  },
+  {
+    "title": "Dhoni Nai Lo Tor Jabar Mon",
+    "artist": "Shikari Kumar, Taniya",
+    "isrc": "DGA062374697"
+  },
+  {
+    "title": "Bhabi Toke Bhule Jabo",
+    "artist": "Subrata Dutta, Mira Das",
+    "isrc": "INSB92300233"
+  },
+  {
+    "title": "Toi Kulhi Bahra Dekhe No",
+    "artist": "Tapan Gorait, Mira Das",
+    "isrc": "INSB92200168"
+  },
+  {
+    "title": "Asare Pani",
+    "artist": "Tapati Mahato, Nirmal Das",
+    "isrc": "INSF32200064"
+  },
+  {
+    "title": "Bardhamaner Mayare",
+    "artist": "Upen Nayak, Kanika Karmakar",
+    "isrc": "INA4X2200015"
+  },
+  {
+    "title": "Bhalo Basha Hate Bikalo",
+    "artist": "Upen Nyak, Kanika Karmakar",
+    "isrc": "INC622206353"
+  },
+  {
+    "title": "Jane Gelo Gayer Loke",
+    "artist": "Usha Rani Midya, Rajib Karmakar",
+    "isrc": "INSB92200296"
+  },
+  {
+    "title": "Soy Kore De Divorce Pepare",
+    "artist": "Uttam Mahato, Kanika Karmakar",
+    "isrc": "INSB92200047"
+  },
+  {
+    "title": "Jhimir Jhimir Paniya",
+    "artist": "Vibhash, Asha",
+    "isrc": "INV922200225"
+  },
+  {
+    "title": "Nach Meri Rani",
+    "artist": "Vinay Kumar, Prity Barla",
+    "isrc": "ING211005218"
+  },
+  {
+    "title": "Khoje Toke Najar",
+    "artist": "SK Sonu Turi, Laxmi Dubey",
+    "isrc": "IND832300338"
+  },
+  {
+    "title": "Bad Lagali Dada Bahal Lagali Go",
+    "artist": "Taniya",
+    "isrc": "INSB92200458"
+  },
+  {
+    "title": "Pardesi Babu",
+    "artist": "Mira Das, Manoj Das",
+    "isrc": "IND712110540"
+  },
+  {
+    "title": "Bachpan Kar Pyar",
+    "artist": "Kappu Nayak, Suman Gupta",
+    "isrc": "INN632100355"
+  },
+  {
+    "title": "Huluk Buluk Kori Aami Kandi Go Sodai",
+    "artist": "Manju Karmakar",
+    "isrc": "USDCH1044453"
+  },
+  {
+    "title": "Kobe Kine Dibi Bol",
+    "artist": "Dharoni Mahato, Mira Das",
+    "isrc": "INSB72200207"
+  },
+  {
+    "title": "Komola Remix",
+    "artist": "Ankita Bhattacharyya, Dj Tny, Dj Sg",
+    "isrc": "INN242205938"
+  },
+  {
+    "title": "Tore Bina",
+    "artist": "Vishnu Deo, KHUSHI BANSAL, Prakesh Wine, Prerna Singh",
+    "isrc": "ING212319755"
+  },
+  {
+    "title": "Purulia Bali",
+    "artist": "Tapan Kuiry, Priyanka Saha",
+    "isrc": "INSB92200044"
+  },
+  {
+    "title": "Sukoon",
+    "artist": "Vicky Kachhap, Monika Mundu",
+    "isrc": "INSD32200040"
+  },
+  {
+    "title": "Agun Dibi Mukhe",
+    "artist": "Paritosh Mahata, AJ Lipini",
+    "isrc": "INSB92300603"
+  },
+  {
+    "title": "Bajrang Dal",
+    "artist": "DJ Rohit Ghatshila",
+    "isrc": "USLZJ2245934"
+  },
+  {
+    "title": "Hero Banamali",
+    "artist": "Kundan Kumar, Kanika Karmakar",
+    "isrc": "INA4X2200210"
+  },
+  {
+    "title": "Hai Re Amar Swarnamukhi Re",
+    "artist": "Kanika Karmakar, Dhanu",
+    "isrc": "INSB92200364"
+  },
+  {
+    "title": "Dekh Nache Nache Jachi Kulhitai - 2.0",
+    "artist": "Bonomali Mahato, Konika Karmakar",
+    "isrc": "INM8T2300250"
+  },
+  {
+    "title": "Ami Jhumur Jhumur - Apna Style Remix",
+    "artist": "Harshit Maheshwari, DJ Rohit Ghatshila, Miss Jhumur, DJ Dragon Grv",
+    "isrc": "QZ5FN2264978"
+  },
+  {
+    "title": "Dada Amar Jemon Temon Boudhi Amar Mordern",
+    "artist": "Kumar Kamal",
+    "isrc": "INV1I2300039"
+  },
+  {
+    "title": "BOROI VALO NUNUR VALOBASA",
+    "artist": "Rajib Karmakar, Kanika Karmakar",
+    "isrc": "FR96X2235200"
+  },
+  {
+    "title": "Jani Naa",
+    "artist": "Samidh Mukherjee, Monali Thakur, Kunal Ganjawala",
+    "isrc": "INS2X1100043"
+  },
+  {
+    "title": "Sampu Kora Chul",
+    "artist": "Piu Rani Mahata, Bimal Mahata",
+    "isrc": "INSB92200010"
+  },
+  {
+    "title": "Saree Ke Samrao",
+    "artist": "ANJALI TIGGA, Santosh Daswali",
+    "isrc": "INS7A1642080"
+  },
+  {
+    "title": "Jhumar Bali Lipini Rani",
+    "artist": "AJ Lipini",
+    "isrc": "INSB92300056"
+  },
+  {
+    "title": "Hobek Nai Dekha Bandhu",
+    "artist": "Achinta Kumar, Khukumoni Mahato",
+    "isrc": "INM8T2300024"
+  },
+  {
+    "title": "Saadi Biha (Nagpuri Song)",
+    "artist": "Ashish Bharti, Suman Gupta",
+    "isrc": "INU252204308"
+  },
+  {
+    "title": "Ore Pasan Diler Mayya",
+    "artist": "Badal Paul",
+    "isrc": "INSB72200224"
+  },
+  {
+    "title": "Ja Re Sathi Ja Hamke Ar Ghurou Bhalis Na",
+    "artist": "Banamali Mahato, Kanika Karmakar",
+    "isrc": "INA4X2300195"
+  },
+  {
+    "title": "MAMU GHAR MOSI GHAR",
+    "artist": "Bibhash, Savitri Karmakar",
+    "isrc": "FR10S2439579"
+  },
+  {
+    "title": "Moner Kotha Bolbo",
+    "artist": "Bimal Mahata",
+    "isrc": "FRX202233009"
+  },
+  {
+    "title": "A Go Bulbulir Mai",
+    "artist": "Biswanath Roy, Kavita Das",
+    "isrc": "INSB92200289"
+  },
+  {
+    "title": "Ki Ache Tor Mone",
+    "artist": "Chumki Rani Mahata",
+    "isrc": "INSB92200931"
+  },
+  {
+    "title": "Jibon Amar Berbad Holo Tor Karone",
+    "artist": "Dayal Bauri, Jayanti",
+    "isrc": "IND712213919"
+  },
+  {
+    "title": "Sakal Belay Semfu Kore",
+    "artist": "Dharani Mahato",
+    "isrc": "FRX282145761"
+  },
+  {
+    "title": "Motur Maay - Purulia New Dj",
+    "artist": "DjGour Rock",
+    "isrc": "QZFZ62282814"
+  },
+  {
+    "title": "Dada Bhador Mase - Bengoli",
+    "artist": "GAYATRI MAHATO",
+    "isrc": "INS7A1635162"
+  },
+  {
+    "title": "Morod Chara Nari Bekar",
+    "artist": "Gour Roy, Kanika Karmakar",
+    "isrc": "INSB92200254"
+  },
+  {
+    "title": "Bhalobasa Bhangili",
+    "artist": "Goutam Mahato",
+    "isrc": "QZ5FN2251472"
+  },
+  {
+    "title": "Koto Bhalobase Chili",
+    "artist": "Jayanti Sabar",
+    "isrc": "INSB92100013"
+  },
+  {
+    "title": "Mohini",
+    "artist": "Jhumur Rani, Manoj Das",
+    "isrc": "INSB92200618"
+  },
+  {
+    "title": "Kaisan Bhauji Ke Mashin Ba - Bhojpuri Song",
+    "artist": "Jiten",
+    "isrc": "INS7A2191822"
+  },
+  {
+    "title": "DJ Ta Jhare Baja",
+    "artist": "Kabita Das",
+    "isrc": "INSB92300855"
+  },
+  {
+    "title": "Hoth Lali Dadar Sali",
+    "artist": "Kanai Dhebar, Kanika Karmakar",
+    "isrc": "FR59R2270184"
+  },
+  {
+    "title": "Kandai Kandai",
+    "artist": "Karna Kumar",
+    "isrc": "INSB92200855"
+  },
+  {
+    "title": "Ogo Bhalobase Korli Biha",
+    "artist": "Khukumoni Mahata",
+    "isrc": "INSB72100010"
+  },
+  {
+    "title": "Dokandar",
+    "artist": "Konika Karmakar, Badal Paul",
+    "isrc": "ING212202059"
+  },
+  {
+    "title": "Delhi Mumbai Agra",
+    "artist": "Kumar Pritam, Suman Gupta",
+    "isrc": "ING211002223"
+  },
+  {
+    "title": "A Camera Man",
+    "artist": "Koushik Das",
+    "isrc": "FR2X42421748"
+  },
+  {
+    "title": "Tor Amar Valobasa Ghore Mancha Nai",
+    "artist": "Karna Kumar, Mira Das",
+    "isrc": "GX8LE2415370"
+  },
+  {
+    "title": "GHOPOKE DEKHILU",
+    "artist": "Krishna Moni Chutia",
+    "isrc": "DGA0P2391024"
+  },
+  {
+    "title": "Habu Dubu Khas Kene",
+    "artist": "Kundan Kumar, Konika Karmakar",
+    "isrc": "FRX762360186"
+  },
+  {
+    "title": "Didi Go Didi",
+    "artist": "Mallik Mahata, Chumki Rani Mahata",
+    "isrc": "INSB72100031"
+  },
+  {
+    "title": "Ami Jhumur Jhumur (Dj Bm Remix)",
+    "artist": "Mallik Mahato",
+    "isrc": "INM8T2200180"
+  },
+  {
+    "title": "Tui Amar Jan",
+    "artist": "Manoj Das, Jhumur Rani",
+    "isrc": "FRX202204857"
+  },
+  {
+    "title": "Chand Suraj",
+    "artist": "Mira Das",
+    "isrc": "FR59R2270187"
+  },
+  {
+    "title": "Aalpo Boyase",
+    "artist": "Mita Mahata, Nirmal Das",
+    "isrc": "INSF32200356"
+  },
+  {
+    "title": "Tinku Jiya",
+    "artist": "Mohobbot Ali",
+    "isrc": "QZNWV2176794"
+  },
+  {
+    "title": "Miss Karahiyo Mane Mane",
+    "artist": "Nirmal Das",
+    "isrc": "IND832105139"
+  },
+  {
+    "title": "Jabar Age Zahar Diye Ja",
+    "artist": "Manoj Das",
+    "isrc": "INA4X2200206"
+  },
+  {
+    "title": "Mon Amar Bhaloi Lage Nai",
+    "artist": "Nitish Mahato, Manoj Das, Mira Das",
+    "isrc": "INA4X2200173"
+  },
+  {
+    "title": "Kudmi Mayek Beti",
+    "artist": "PK Manbhum, Sukuntala Mahato",
+    "isrc": "INM8T2300269"
+  },
+  {
+    "title": "O Kotha Bolo Shyam",
+    "artist": "Pampa Mahato",
+    "isrc": "QZ5FN2251501"
+  },
+  {
+    "title": "123 Chaar Nadiya Ke Paare Paar",
+    "artist": "SK Sonu Turi, Laxmi Dubey",
+    "isrc": "DGA0L2323163"
+  },
+  {
+    "title": "Mor Dui Noyan - Original",
+    "artist": "Manoj Das, RJ Rajani",
+    "isrc": "QZPYN2108850"
+  },
+  {
+    "title": "Dakche Amar Valobasa",
+    "artist": "Taniya",
+    "isrc": "INSB92200400"
+  },
+  {
+    "title": "Hai Le Tor Chabhi Kathi",
+    "artist": "Mira Das, Tapan Gorait",
+    "isrc": "INSB92200155"
+  },
+  {
+    "title": "Kochi Achi Bole",
+    "artist": "Manju Karmakar",
+    "isrc": "INC622300421"
+  },
+  {
+    "title": "Papa Ki Pari",
+    "artist": "Kappu Nayak, LAXMI JI",
+    "isrc": "IND832400272"
+  },
+  {
+    "title": "Chuma Lile Sugar Bare Jai",
+    "artist": "Manoj Das",
+    "isrc": "FRX282159523"
+  },
+  {
+    "title": "Nari Hoche Mathar Moni",
+    "artist": "Dharoni Mahato, Mira Das",
+    "isrc": "INSB72200208"
+  },
+  {
+    "title": "Komola Sundori Nache",
+    "artist": "Ankita Bhattacharyya",
+    "isrc": "INT132200703"
+  },
+  {
+    "title": "Chand Sanam Re",
+    "artist": "Vishnu Deo, Laxmi Dubey",
+    "isrc": "QZPYN2461370"
+  },
+  {
+    "title": "Babur Jetir Baka Sita",
+    "artist": "Tapan Kuiry",
+    "isrc": "INSB92200378"
+  },
+  {
+    "title": "Kaha Tore Gaon Gori",
+    "artist": "Vicky Kachhap",
+    "isrc": "INSD32200001"
+  },
+  {
+    "title": "Bholi Bhali Dil Bali",
+    "artist": "Paritosh Mahata, Goutam Mohanta",
+    "isrc": "INSB92200937"
+  },
+  {
+    "title": "Jharkhander Rani Jamshedpur",
+    "artist": "DJ Rohit Ghatshila, RG Music Purulia, Mira Das",
+    "isrc": "INM8T2200025"
+  },
+  {
+    "title": "Behaner Paka Bilati",
+    "artist": "Kanika Karmakar, Raja Mukharjee",
+    "isrc": "INSB92200363"
+  },
+  {
+    "title": "Monta Vange Dili",
+    "artist": "Kundan Kumar, Kanika Karmakar",
+    "isrc": "INA4X2200267"
+  },
+  {
+    "title": "Nache Nache Jachi Kulhitai",
+    "artist": "Bonomali Mahato, Konika Karmakar, Dj Ritesh Chandankiyari",
+    "isrc": "INM8T2300068"
+  },
+  {
+    "title": "Aadhaar Link Dibo Cholo Ration Dokane",
+    "artist": "Harshit Maheshwari, DJ Rohit Ghatshila, Jhumur Rani",
+    "isrc": "QZTRX2118016"
+  },
+  {
+    "title": "Sadhu Baba Sadhu Baba Bangla",
+    "artist": "Kumar Kamal",
+    "isrc": "INV1I2300030"
+  },
+  {
+    "title": "Ami Jibon Diye Bhalobasi Toke",
+    "artist": "Rajib Karmakar, Konika",
+    "isrc": "IND712110517"
+  },
+  {
+    "title": "Phone Ki Aar Mon Bhore",
+    "artist": "Piu Rani Mahata, Uttam Mahato",
+    "isrc": "INSB92100002"
+  },
+  {
+    "title": "Fakir Mon",
+    "artist": "Samidh Mukherjee",
+    "isrc": "INS2X1300045"
+  },
+  {
+    "title": "Tor Pagol Kora Chokhe",
+    "artist": "AJ Lipini",
+    "isrc": "INSB92300511"
+  },
+  {
+    "title": "Ami Jhumur Bali",
+    "artist": "Achinta Kumar, Jharna Rani",
+    "isrc": "INM8T2300023"
+  },
+  {
+    "title": "Nach Meri Pagli",
+    "artist": "Ashish Bharti",
+    "isrc": "ING211006080"
+  },
+  {
+    "title": "Hath Barabi Tole Tole",
+    "artist": "Badal Paul, Manju Karmakar",
+    "isrc": "INSF32402056"
+  },
+  {
+    "title": "Pirit Sikhai Gele Bangalore",
+    "artist": "Banamali Mahato",
+    "isrc": "INM8T2300056"
+  },
+  {
+    "title": "Babu Sona",
+    "artist": "Bibhash, Konika Karmakar",
+    "isrc": "FRX282397089"
+  },
+  {
+    "title": "BAN BADAR DAHI JOMI",
+    "artist": "Bimal Mahata",
+    "isrc": "DGA0P2319641"
+  },
+  {
+    "title": "Dont Tuch Me Dear (Purulia Song)",
+    "artist": "Biswanath Roy, Ankita Akhuli",
+    "isrc": "INA4X2300056"
+  },
+  {
+    "title": "Sathi Aay Re - Original",
+    "artist": "Chumki Rani Mahata",
+    "isrc": "QZPYN2108011"
+  },
+  {
+    "title": "Eso Maa Go Patal Kumari",
+    "artist": "Dayal Bauri, Khukumoni Mahata",
+    "isrc": "INSB92300599"
+  }
+]

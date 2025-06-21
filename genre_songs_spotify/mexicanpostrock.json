@@ -1,0 +1,532 @@
+[
+  {
+    "title": "Ella No Me Conoce",
+    "artist": "Austin TV",
+    "isrc": "USHM91355900"
+  },
+  {
+    "title": "En Vida",
+    "artist": "Wohl",
+    "isrc": "ushm21795891"
+  },
+  {
+    "title": "Endless Tales (Cuentos Sin Fin)",
+    "artist": "The Polar Dream",
+    "isrc": "uscgh1297465"
+  },
+  {
+    "title": "Japón",
+    "artist": "Awful Traffic",
+    "isrc": "TCADJ1774406"
+  },
+  {
+    "title": "Ikiataribattari",
+    "artist": "Ikiatari",
+    "isrc": "PEBQ91720270"
+  },
+  {
+    "title": "Otra Explosión Se Avecina",
+    "artist": "A Shelter in the Desert",
+    "isrc": "USLZJ1693893"
+  },
+  {
+    "title": "El Capitán",
+    "artist": "Yo Triceratop",
+    "isrc": "COA821700003"
+  },
+  {
+    "title": "La Edad de Las Plantas",
+    "artist": "Flodhäst",
+    "isrc": "QZES61876863"
+  },
+  {
+    "title": "Nunca Lo Entenderás Si No Vas Más Despacio",
+    "artist": "Sunset Images",
+    "isrc": "GBLFP2047069"
+  },
+  {
+    "title": "Chinomoreno",
+    "artist": "Point Decster",
+    "isrc": "ushm21864248"
+  },
+  {
+    "title": "Alexander Supertramp",
+    "artist": "Bangladesh",
+    "isrc": "AEA0Q1853325"
+  },
+  {
+    "title": "Blood",
+    "artist": "Fake Designers",
+    "isrc": "QMFMG1599428"
+  },
+  {
+    "title": "El es Un Astronauta",
+    "artist": "Cuando la Lluvia Cae",
+    "isrc": "GB-SMU-46-59929"
+  },
+  {
+    "title": "Resurgimiento",
+    "artist": "One Year Later MX",
+    "isrc": "GB-SMU-51-11076"
+  },
+  {
+    "title": "Poganica",
+    "artist": "Falsos Palindromos",
+    "isrc": "US3DF2451611"
+  },
+  {
+    "title": "El Color Surgido Del Espacio",
+    "artist": "Run Golden Boys",
+    "isrc": "SEYOK1418450"
+  },
+  {
+    "title": "Moscú",
+    "artist": "Le Knevett",
+    "isrc": "GB-SMU-51-37679"
+  },
+  {
+    "title": "Ascenso - Descenso",
+    "artist": "Vyctoria",
+    "isrc": "ushm91711482"
+  },
+  {
+    "title": "Mímesis",
+    "artist": "Ambiente",
+    "isrc": "QM2PV1581393"
+  },
+  {
+    "title": "Danzante Algebraica",
+    "artist": "Punto de Fuga",
+    "isrc": "QZDPF1804546"
+  },
+  {
+    "title": "El Fantasma de las Escaleras",
+    "artist": "Triste Polizonte",
+    "isrc": "usl4q1871936"
+  },
+  {
+    "title": "Hiroshima",
+    "artist": "Birdhaus",
+    "isrc": "ushm22072215"
+  },
+  {
+    "title": "Se Te Sube el Muerto",
+    "artist": "De Algún Tiempo a Esta Parte",
+    "isrc": "QMFME1541687"
+  },
+  {
+    "title": "Casi Perdemos Todo",
+    "artist": "Endless",
+    "isrc": "ushm91901531"
+  },
+  {
+    "title": "La Mémoire D'un Nuage",
+    "artist": "Tesla Pox",
+    "isrc": "ushm81438693"
+  },
+  {
+    "title": "Xibalbá",
+    "artist": "Cucs de Llum",
+    "isrc": "QZFYW1953082"
+  },
+  {
+    "title": "Relatos Ausentes",
+    "artist": "Beirah",
+    "isrc": "QZARB1819908"
+  },
+  {
+    "title": "Mariana",
+    "artist": "Childs",
+    "isrc": "USI4R0603234"
+  },
+  {
+    "title": "En El Abismo De La Mente",
+    "artist": "An Ocean Of Light",
+    "isrc": "GBSMU8950302"
+  },
+  {
+    "title": "Songun",
+    "artist": "Futuremen",
+    "isrc": "QZBRF1840478"
+  },
+  {
+    "title": "Frío y Vacío",
+    "artist": "Dead Animals",
+    "isrc": "ushm22368840"
+  },
+  {
+    "title": "Those Who From The Heavens Came",
+    "artist": "Spilman",
+    "isrc": "GBSMU6344465"
+  },
+  {
+    "title": "Algunos textos sienten más la oscuridad",
+    "artist": "Blazing Scapelands",
+    "isrc": "GBSMU4370858"
+  },
+  {
+    "title": "Daath",
+    "artist": "Movus",
+    "isrc": "MX2681000014"
+  },
+  {
+    "title": "24 Hours",
+    "artist": "Marble Caves",
+    "isrc": "TCACX1734229"
+  },
+  {
+    "title": "El traje de hierro",
+    "artist": "Vansen Tiger",
+    "isrc": "MXF690900222"
+  },
+  {
+    "title": "Oniros (Bacalar)",
+    "artist": "Azain",
+    "isrc": "MX3742300031"
+  },
+  {
+    "title": "Last hours",
+    "artist": "The illusion of free will",
+    "isrc": "QZES52246971"
+  },
+  {
+    "title": "Mono",
+    "artist": "Chulavysta, Jairo Carranza",
+    "isrc": "QZMZ92185286"
+  },
+  {
+    "title": "Waves",
+    "artist": "Entrust",
+    "isrc": "TCADR1851013"
+  },
+  {
+    "title": "Hábito Antrópico",
+    "artist": "Fuerza Etérea",
+    "isrc": "QZES81934015"
+  },
+  {
+    "title": "Humanoide",
+    "artist": "Moontauk",
+    "isrc": "QZDA62169061"
+  },
+  {
+    "title": "Kepler",
+    "artist": "Mosfer",
+    "isrc": "MXD782001079"
+  },
+  {
+    "title": "Siete",
+    "artist": "Pater Noster",
+    "isrc": "ESA011400432"
+  },
+  {
+    "title": "So Cold",
+    "artist": "Red Light Abstract",
+    "isrc": "AEA0Q1836058"
+  },
+  {
+    "title": "El Gato Que Bajó de la Luna",
+    "artist": "Rey Buitre",
+    "isrc": "ushm91405306"
+  },
+  {
+    "title": "Flores, Lágrimas",
+    "artist": "Siempre Esperándote",
+    "isrc": "QZES81996395"
+  },
+  {
+    "title": "Broken Is Beautiful",
+    "artist": "Space Atlas",
+    "isrc": "uscgh1931312"
+  },
+  {
+    "title": "Piensa lo que quieras",
+    "artist": "Spacemono",
+    "isrc": "ESA011713832"
+  },
+  {
+    "title": "The Feeling of Being in Motion Again",
+    "artist": "Spurs and Rockets",
+    "isrc": "QMAAK1745752"
+  },
+  {
+    "title": "Voltanimals - Juno",
+    "artist": "Voltanimals",
+    "isrc": "GB-SMU-11-40963"
+  },
+  {
+    "title": "Forget-Me-Not",
+    "artist": "Zanate",
+    "isrc": "ushm21814187"
+  },
+  {
+    "title": "redblue=violet. you",
+    "artist": "mountaintops.",
+    "isrc": "USE831552442"
+  },
+  {
+    "title": "De la Orquídea y la Avispa",
+    "artist": "Austin TV",
+    "isrc": "QZTVM2256256"
+  },
+  {
+    "title": "Luciérnagas",
+    "artist": "Wohl",
+    "isrc": "ushm21795888"
+  },
+  {
+    "title": "Last Day, Last Breath",
+    "artist": "The Polar Dream",
+    "isrc": "uscgh1297466"
+  },
+  {
+    "title": "Insights",
+    "artist": "Awful Traffic",
+    "isrc": "TCABZ1414954"
+  },
+  {
+    "title": "Shuyō Dōro",
+    "artist": "Ikiatari",
+    "isrc": "PEBQ91720273"
+  },
+  {
+    "title": "Y Dormir, Por Primera Vez, Con El Alma Al Lado",
+    "artist": "A Shelter in the Desert",
+    "isrc": "USLZJ1693899"
+  },
+  {
+    "title": "El Hombre Del Mar",
+    "artist": "Flodhäst",
+    "isrc": "QZES61876867"
+  },
+  {
+    "title": "Cerro Nube Flan",
+    "artist": "Yo Triceratop",
+    "isrc": "ushm22280980"
+  },
+  {
+    "title": "Monumento",
+    "artist": "Sunset Images",
+    "isrc": "usl4q2198533"
+  },
+  {
+    "title": "Sugarcoat",
+    "artist": "Point Decster",
+    "isrc": "ushm21864249"
+  },
+  {
+    "title": "Sometimes Nothing´s Broken",
+    "artist": "Fake Designers",
+    "isrc": "QMFMG1599430"
+  },
+  {
+    "title": "Amanecer",
+    "artist": "Cuando la Lluvia Cae",
+    "isrc": "GB-SMU-46-59922"
+  },
+  {
+    "title": "Las estaciones no pasan en vano",
+    "artist": "One Year Later MX",
+    "isrc": "GB-SMU-51-11079"
+  },
+  {
+    "title": "Cerré mis ojos para ver",
+    "artist": "Falsos Palindromos",
+    "isrc": "QZK6J2102828"
+  },
+  {
+    "title": "Petrichor",
+    "artist": "Run Golden Boys",
+    "isrc": "SEYOK1418453"
+  },
+  {
+    "title": "Daytona",
+    "artist": "Le Knevett",
+    "isrc": "GB-SMU-34-78299"
+  },
+  {
+    "title": "Ahora Veo Más Claro",
+    "artist": "Vyctoria",
+    "isrc": "ushm91711481"
+  },
+  {
+    "title": "Infants Become Robots",
+    "artist": "Ambiente",
+    "isrc": "QM2PV1581396"
+  },
+  {
+    "title": "Photographic",
+    "artist": "Punto de Fuga",
+    "isrc": "ART060300006"
+  },
+  {
+    "title": "El Agujero en la Cerca de Tu Jardín",
+    "artist": "Triste Polizonte",
+    "isrc": "usl4q1871934"
+  },
+  {
+    "title": "Shining Horses",
+    "artist": "Birdhaus",
+    "isrc": "QM2PV1526551"
+  },
+  {
+    "title": "Elipsis",
+    "artist": "De Algún Tiempo a Esta Parte, Adrián Terrazas",
+    "isrc": "QMFME1541692"
+  },
+  {
+    "title": "Arrakis",
+    "artist": "Endless",
+    "isrc": "usl4r2077484"
+  },
+  {
+    "title": "Paper Boat",
+    "artist": "Tesla Pox",
+    "isrc": "ushm81438694"
+  },
+  {
+    "title": "Cipactlicóatl",
+    "artist": "Cucs de Llum",
+    "isrc": "QZFYW1953081"
+  },
+  {
+    "title": "Himnos Arcanos",
+    "artist": "Beirah",
+    "isrc": "QZK6M1917831"
+  },
+  {
+    "title": "Dia Futuro",
+    "artist": "Childs",
+    "isrc": "MXF601500628"
+  },
+  {
+    "title": "Reflejos De Un Ser Sin Rumbo",
+    "artist": "An Ocean Of Light",
+    "isrc": "GX4R52108759"
+  },
+  {
+    "title": "Eres (Rework)",
+    "artist": "Futuremen, Camilo Séptimo",
+    "isrc": "ushm91894783"
+  },
+  {
+    "title": "Vida Eterna",
+    "artist": "Dead Animals",
+    "isrc": "ushm22368841"
+  },
+  {
+    "title": "H",
+    "artist": "Spilman",
+    "isrc": "GB-SMU-42-21252"
+  },
+  {
+    "title": "Leaves on the Wind",
+    "artist": "Blazing Scapelands",
+    "isrc": "GB-SMU-48-06110"
+  },
+  {
+    "title": "Midgard Iii",
+    "artist": "Movus",
+    "isrc": "MX2681000016"
+  },
+  {
+    "title": "Heart Shaped Lips",
+    "artist": "Marble Caves",
+    "isrc": "TCACX1734231"
+  },
+  {
+    "title": "Imago",
+    "artist": "Vansen Tiger",
+    "isrc": "MXF690900223"
+  },
+  {
+    "title": "Shiva",
+    "artist": "Austin TV",
+    "isrc": "USANG2007538"
+  },
+  {
+    "title": "Es Mejor No Estar Aquí",
+    "artist": "Wohl",
+    "isrc": "ushm21795886"
+  },
+  {
+    "title": "The Mountain (La Montaña)",
+    "artist": "The Polar Dream",
+    "isrc": "uscgh1297462"
+  },
+  {
+    "title": "Gaman",
+    "artist": "Awful Traffic",
+    "isrc": "TCADJ1774373"
+  },
+  {
+    "title": "Fukugen",
+    "artist": "Ikiatari",
+    "isrc": "PEBQ91720276"
+  },
+  {
+    "title": "Healer",
+    "artist": "A Shelter in the Desert",
+    "isrc": "USLZJ1693902"
+  },
+  {
+    "title": "Donde nacen los ríos",
+    "artist": "Flodhäst",
+    "isrc": "QZES61876862"
+  },
+  {
+    "title": "Hu Hop Grrr!",
+    "artist": "Yo Triceratop",
+    "isrc": "QMFMF1591249"
+  },
+  {
+    "title": "Prohibición",
+    "artist": "Sunset Images",
+    "isrc": "usl4q2198534"
+  },
+  {
+    "title": "Blackout",
+    "artist": "Point Decster",
+    "isrc": "usl4q1968865"
+  },
+  {
+    "title": "Desde Dentro",
+    "artist": "Fake Designers",
+    "isrc": "QMFMG1557431"
+  },
+  {
+    "title": "Aprendamos a Olvidar",
+    "artist": "Cuando la Lluvia Cae",
+    "isrc": "GB-SMU-25-30787"
+  },
+  {
+    "title": "El último invierno",
+    "artist": "One Year Later MX",
+    "isrc": "GB-SMU-51-11078"
+  },
+  {
+    "title": "52 Hertz",
+    "artist": "Falsos Palindromos",
+    "isrc": "QZK6J2102825"
+  },
+  {
+    "title": "Kilig",
+    "artist": "Run Golden Boys",
+    "isrc": "SEYOK1418448"
+  },
+  {
+    "title": "Oldboy",
+    "artist": "Le Knevett",
+    "isrc": "GB-SMU-34-78300"
+  },
+  {
+    "title": "IV",
+    "artist": "Vyctoria",
+    "isrc": "QZ4JJ1748760"
+  },
+  {
+    "title": "Great Beauty",
+    "artist": "Ambiente",
+    "isrc": "QM2PV1581395"
+  }
+]

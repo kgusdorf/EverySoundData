@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Son de la Loma",
+    "artist": "Trio Matamoros",
+    "isrc": "ushm81794346"
+  },
+  {
+    "title": "La Fiesta de los Ratones",
+    "artist": "Trio La Rosa",
+    "isrc": "qze921800180"
+  },
+  {
+    "title": "El Viejito Cañandonga",
+    "artist": "Trío Servando Díaz",
+    "isrc": "US2BR9701508"
+  },
+  {
+    "title": "No Me Olvides Nunca",
+    "artist": "Trio Los Embajadores",
+    "isrc": "QMBZ91607571"
+  },
+  {
+    "title": "Tu, Mi Delirio",
+    "artist": "Trio Taicuba",
+    "isrc": "USR011012665"
+  },
+  {
+    "title": "Hasta la Vista Corazon",
+    "artist": "Trio Voces de Oro",
+    "isrc": "USJ3V1185067"
+  },
+  {
+    "title": "Es Inmenso Mi Amor - Remasterizado",
+    "artist": "Trío Ensueño",
+    "isrc": "ES5021603208"
+  },
+  {
+    "title": "Besame Mucho",
+    "artist": "Trío Los Audaces",
+    "isrc": "CADC41104429"
+  },
+  {
+    "title": "Oaxaqueno Ausente",
+    "artist": "Trío Los Bohemios",
+    "isrc": "QM6DC1416692"
+  },
+  {
+    "title": "Alli",
+    "artist": "Trío Los Tres Compañeros",
+    "isrc": "CADC41104421"
+  },
+  {
+    "title": "Solo Un Sueño",
+    "artist": "Trío Voves del Recuerdo",
+    "isrc": "CADC41104428"
+  },
+  {
+    "title": "Perfume de Gardenias",
+    "artist": "Trio Avileño",
+    "isrc": "MXF015900244"
+  },
+  {
+    "title": "Eleguá",
+    "artist": "Miguel Santa Cruz, Gustavo Díaz, Juan Gonzalez",
+    "isrc": "USSF10148915"
+  },
+  {
+    "title": "Malecon",
+    "artist": "Havana Trio",
+    "isrc": "GBKEZ1300216"
+  },
+  {
+    "title": "Guajirita (Live)",
+    "artist": "Javier Herrera Trio",
+    "isrc": "uscgj1485550"
+  },
+  {
+    "title": "La Rotacion",
+    "artist": "Le Trio Cubain",
+    "isrc": "FR6V80626033"
+  },
+  {
+    "title": "La Ultima Noche",
+    "artist": "Los Camperos",
+    "isrc": "USHJ10412532"
+  },
+  {
+    "title": "Gitanibiri",
+    "artist": "Los Martinos",
+    "isrc": "DEZ041003848"
+  },
+  {
+    "title": "Juan José",
+    "artist": "Street Trio",
+    "isrc": "USSF15508304"
+  },
+  {
+    "title": "Cubanito",
+    "artist": "Trio Cancioneros Del Norte",
+    "isrc": "USA2P1642234"
+  },
+  {
+    "title": "La Chica Del Panema",
+    "artist": "Trio Cantarelas",
+    "isrc": "ARF050700773"
+  },
+  {
+    "title": "Misfortune / Infortunio",
+    "artist": "Trio Chekere",
+    "isrc": "USCMG0400749"
+  },
+  {
+    "title": "Pajaro Campana",
+    "artist": "Trio Guarania",
+    "isrc": "DEKB71570634"
+  },
+  {
+    "title": "Negra Te Quiero",
+    "artist": "Trio Habana",
+    "isrc": "GB4FX1409459"
+  },
+  {
+    "title": "Corazon",
+    "artist": "Trio Hnos. Lago",
+    "isrc": "USZZR0810527"
+  },
+  {
+    "title": "Black Tears",
+    "artist": "Trio Lissabet",
+    "isrc": "USSF15508302"
+  },
+  {
+    "title": "El Collar",
+    "artist": "Trio Los Caminantes",
+    "isrc": "USANG2194954"
+  },
+  {
+    "title": "Página Blanca",
+    "artist": "Trio Los Fantasmas",
+    "isrc": "MX4971506104"
+  },
+  {
+    "title": "Por Dios Que Eres Bonita",
+    "artist": "Trio Los Islenos",
+    "isrc": "COVM11610224"
+  },
+  {
+    "title": "Que Me Importa",
+    "artist": "Trio Los Titanes",
+    "isrc": "US4XG9300461"
+  },
+  {
+    "title": "Perfidia",
+    "artist": "Trio Melodicos",
+    "isrc": "US6QR1500047"
+  },
+  {
+    "title": "Juana Grillito (Guaracha)",
+    "artist": "Trio Mario Recio",
+    "isrc": "QM6MZ1537592"
+  },
+  {
+    "title": "Inolvidable",
+    "artist": "Trio Nodarse",
+    "isrc": "ESA011945839"
+  },
+  {
+    "title": "Chinita",
+    "artist": "Trio Zamora",
+    "isrc": "US78T0729807"
+  },
+  {
+    "title": "Y Tu ¿qué Has Hecho?",
+    "artist": "Trio Yagua",
+    "isrc": "GBAJU9700397"
+  },
+  {
+    "title": "Babae",
+    "artist": "Trio Yara, Abelardito Valdes Y Su Grupo",
+    "isrc": "GBBHW0592718"
+  },
+  {
+    "title": "Sin ton ni son: Sin Ton ni Son",
+    "artist": "Trio de Barbate, El",
+    "isrc": "GBKEZ1202555"
+  },
+  {
+    "title": "Frenesi",
+    "artist": "Trio de Freyda Anido",
+    "isrc": "GBMEZ1546361"
+  },
+  {
+    "title": "La Negra Tiene Tumbao",
+    "artist": "Trio del Café Cubana",
+    "isrc": "DEKB72073119"
+  },
+  {
+    "title": "El Año Que Viene Vuelvo",
+    "artist": "Trío Alpha",
+    "isrc": "ESAAI0197678"
+  },
+  {
+    "title": "El Pedacito",
+    "artist": "Trío Anaya",
+    "isrc": "USR011012673"
+  },
+  {
+    "title": "La Negra Florinda",
+    "artist": "Trío Antillano",
+    "isrc": "GX6WQ2208208"
+  },
+  {
+    "title": "Yolanda",
+    "artist": "Trío Atenas",
+    "isrc": "USA561020662"
+  },
+  {
+    "title": "Tus Mentiras",
+    "artist": "Trío Corales",
+    "isrc": "ES5060612801"
+  },
+  {
+    "title": "MI Corazón Hace Tic Tac",
+    "artist": "Trío Cuba",
+    "isrc": "ES28A2010220"
+  },
+  {
+    "title": "Leonor",
+    "artist": "Trío D'Gómez",
+    "isrc": "FR6V81127249"
+  },
+  {
+    "title": "Vengan Todos a Bailar el Son",
+    "artist": "Trío Dinoh",
+    "isrc": "CUA021308017"
+  },
+  {
+    "title": "Romance en la Habana",
+    "artist": "Trío Espigul Del Valle",
+    "isrc": "QM6P41454127"
+  },
+  {
+    "title": "Si Volvieras a Mi",
+    "artist": "Trío Espirituano",
+    "isrc": "FR6V81127256"
+  },
+  {
+    "title": "El Fiel Enamorado",
+    "artist": "Trío Guaracheros de Oriente.",
+    "isrc": "ESAAI0197601"
+  },
+  {
+    "title": "Adiós Compay Gato",
+    "artist": "Trío Habaney",
+    "isrc": "QM4TW1731567"
+  },
+  {
+    "title": "La Mazucamba",
+    "artist": "Trío Hermanas Márquez",
+    "isrc": "ES7630602697"
+  },
+  {
+    "title": "Lamento Borinquen",
+    "artist": "Trío Hermanos Rigual",
+    "isrc": "ES7630602167"
+  },
+  {
+    "title": "Aquellos Ojos Verdes - Remasterizado",
+    "artist": "Trío Kaisse",
+    "isrc": "ES5021701483"
+  },
+  {
+    "title": "En el balcón aquel",
+    "artist": "Trío Los De America",
+    "isrc": "USZZR0810402"
+  },
+  {
+    "title": "Alborada Guajira",
+    "artist": "Trío Los Lamas",
+    "isrc": "FR6V81127230"
+  },
+  {
+    "title": "Persistiré - Remasterizado",
+    "artist": "Trío Los Modernos",
+    "isrc": "ES5021702211"
+  },
+  {
+    "title": "En las Tinieblas (Mis Tinieblas) - Bolero",
+    "artist": "Trío Luisito Plá",
+    "isrc": "QMDA61470295"
+  },
+  {
+    "title": "Frutas Pa' los Santos",
+    "artist": "Trío Nodarse",
+    "isrc": "USR011010527"
+  },
+  {
+    "title": "Rosalba",
+    "artist": "Trío Palabras",
+    "isrc": "CUA011802909"
+  },
+  {
+    "title": "El Alacrán",
+    "artist": "Trío Pla, Orquesta Almendra, Dominica Verges",
+    "isrc": "ES7630602114"
+  },
+  {
+    "title": "Si Me Pudieras Querer",
+    "artist": "Trío Tesis",
+    "isrc": "DEA290025600"
+  },
+  {
+    "title": "Chan Chan tributo",
+    "artist": "Trío Trovarroco",
+    "isrc": "ES6100678013"
+  },
+  {
+    "title": "Quiero Que Tú Sepas",
+    "artist": "Trío Veinte Años",
+    "isrc": "ESA031423796"
+  },
+  {
+    "title": "Hay que volver a empezar - Remasterizado",
+    "artist": "Trío Voces De Oro",
+    "isrc": "ES5021609585"
+  },
+  {
+    "title": "Encuéntrame - Remasterizado",
+    "artist": "Trío Voces Modernas",
+    "isrc": "QM4TX1872634"
+  },
+  {
+    "title": "Lagrimas Negras",
+    "artist": "Trío Matamoros",
+    "isrc": "MXF330910602"
+  },
+  {
+    "title": "Huérfano Soy",
+    "artist": "Trio La Rosa",
+    "isrc": "CAQTR2302041"
+  },
+  {
+    "title": "El Viejito Cañandonga (Guaracha)",
+    "artist": "Trío Servando Díaz",
+    "isrc": "QM6MZ1414718"
+  },
+  {
+    "title": "Mil Besos",
+    "artist": "Trio Los Embajadores",
+    "isrc": "QMFME1561367"
+  },
+  {
+    "title": "Habana",
+    "artist": "Trio Taicuba",
+    "isrc": "DEA311006677"
+  },
+  {
+    "title": "Cuba mi gran orgullo",
+    "artist": "Trio Voces de Oro",
+    "isrc": "GBMEZ1036965"
+  },
+  {
+    "title": "Todo Lo Tengo ya",
+    "artist": "Trío Ensueño",
+    "isrc": "CADC41104424"
+  },
+  {
+    "title": "Propuesta De Amor",
+    "artist": "Trío Los Audaces",
+    "isrc": "CADC41104423"
+  },
+  {
+    "title": "Lindo Oaxaca",
+    "artist": "Trío Los Bohemios",
+    "isrc": "QM6DC1416691"
+  },
+  {
+    "title": "Silencio",
+    "artist": "Trio Avileño",
+    "isrc": "USJE61702304"
+  },
+  {
+    "title": "Yemayá",
+    "artist": "Miguel Santa Cruz, Gustavo Díaz, Juan Gonzalez",
+    "isrc": "USSF10148934"
+  },
+  {
+    "title": "Sol y Mar",
+    "artist": "Javier Herrera Trio",
+    "isrc": "uscgj1485549"
+  },
+  {
+    "title": "Negro bembon",
+    "artist": "Le Trio Cubain",
+    "isrc": "FR6V80626035"
+  },
+  {
+    "title": "Me Voy Pa'l Pueblo",
+    "artist": "Los Camperos",
+    "isrc": "DEA311006694"
+  },
+  {
+    "title": "Que Me Lo Quiten Todo",
+    "artist": "Los Martinos",
+    "isrc": "DEZ041003850"
+  },
+  {
+    "title": "Nada Contigo",
+    "artist": "Trio Cancioneros Del Norte",
+    "isrc": "USQY51612239"
+  },
+  {
+    "title": "Cosas del Alma - Remasterizado",
+    "artist": "Trio Cantarelas",
+    "isrc": "ES5021602381"
+  },
+  {
+    "title": "Paisaje de Catamarca",
+    "artist": "Trio Guarania",
+    "isrc": "FRX086800565"
+  },
+  {
+    "title": "A la Orillita del Rio",
+    "artist": "Trio Habana",
+    "isrc": "USESK1200633"
+  },
+  {
+    "title": "Squeezing",
+    "artist": "Trio Lissabet",
+    "isrc": "USSF15508305"
+  },
+  {
+    "title": "La Fuente",
+    "artist": "Trio Los Caminantes",
+    "isrc": "USANG2194963"
+  },
+  {
+    "title": "Gotitas de Dolor",
+    "artist": "Trio Los Islenos",
+    "isrc": "COF019501143"
+  },
+  {
+    "title": "Total",
+    "artist": "Trio Los Titanes, Teresita",
+    "isrc": "US4XG0405174"
+  },
+  {
+    "title": "Asi Es la Vida",
+    "artist": "Trio Mario Recio",
+    "isrc": "DEE790818470"
+  },
+  {
+    "title": "Studio Chatter",
+    "artist": "Trio Melodicos",
+    "isrc": "US78T0729817"
+  },
+  {
+    "title": "La Luna y el Sol",
+    "artist": "Trio Nodarse",
+    "isrc": "ESA011945843"
+  },
+  {
+    "title": "Juramento",
+    "artist": "Trio Yagua",
+    "isrc": "GBAJU9700386"
+  },
+  {
+    "title": "Asi Canta el Cubano",
+    "artist": "Trio Yara",
+    "isrc": "QMFMG1397270"
+  },
+  {
+    "title": "Caviotas Que Pasan",
+    "artist": "Trio Zamora",
+    "isrc": "US78T0729810"
+  },
+  {
+    "title": "Sonata (Pequena Musica Nocturna)",
+    "artist": "Trio de Freyda Anido",
+    "isrc": "GBMEZ1546356"
+  },
+  {
+    "title": "Gentle Rain",
+    "artist": "Trio del Café Cubana",
+    "isrc": "DEKB72073102"
+  },
+  {
+    "title": "El Cafetal",
+    "artist": "Trío Alpha",
+    "isrc": "ESAAI0197690"
+  },
+  {
+    "title": "Serenata Tropical",
+    "artist": "Trío Anaya",
+    "isrc": "USR011012689"
+  },
+  {
+    "title": "El carretero",
+    "artist": "Trío Atenas",
+    "isrc": "USA561020669"
+  },
+  {
+    "title": "Mi Rival",
+    "artist": "Trío Corales",
+    "isrc": "ES5060612805"
+  },
+  {
+    "title": "El Amor de Mi Bohío - Remasterizado",
+    "artist": "Trío Cuba",
+    "isrc": "ES5021801033"
+  },
+  {
+    "title": "Las Maracas de Cuba",
+    "artist": "Trío Matamoros",
+    "isrc": "QM6P41543632"
+  },
+  {
+    "title": "María Cristina",
+    "artist": "Trio La Rosa",
+    "isrc": "US2BR9701501"
+  },
+  {
+    "title": "Don Toribio Carambola (Guaracha)",
+    "artist": "Trío Servando Díaz",
+    "isrc": "USA371692777"
+  },
+  {
+    "title": "Amarguras",
+    "artist": "Trio Los Embajadores",
+    "isrc": "COFC16503607"
+  },
+  {
+    "title": "Siboney - Remasterizado",
+    "artist": "Trio Taicuba",
+    "isrc": "ES5021600581"
+  },
+  {
+    "title": "Nunca olvidaras",
+    "artist": "Trio Voces de Oro",
+    "isrc": "GBMEZ1036971"
+  },
+  {
+    "title": "Ser Tu Dueño",
+    "artist": "Trío Ensueño",
+    "isrc": "CADC41104430"
+  },
+  {
+    "title": "Se Parte de Mi Vida",
+    "artist": "Trío Los Audaces",
+    "isrc": "CADC41411368"
+  },
+  {
+    "title": "Ay! Mamá Inés",
+    "artist": "Trío Los Bohemios",
+    "isrc": "ES6100678702"
+  },
+  {
+    "title": "Mil Veces Mentirosa",
+    "artist": "Trio Avileño",
+    "isrc": "USA371013628"
+  },
+  {
+    "title": "Osain songs",
+    "artist": "Miguel Santa Cruz, Gustavo Díaz, Juan Gonzalez",
+    "isrc": "USSF10148935"
+  },
+  {
+    "title": "Ofelia",
+    "artist": "Javier Herrera Trio",
+    "isrc": "uscgj1485547"
+  },
+  {
+    "title": "Ansias Locas - Rumba Romance",
+    "artist": "Le Trio Cubain",
+    "isrc": "FRX201811438"
+  },
+  {
+    "title": "Piel Canela",
+    "artist": "Los Camperos",
+    "isrc": "DEA311006682"
+  },
+  {
+    "title": "Maruja Limon",
+    "artist": "Los Martinos",
+    "isrc": "DEZ041003852"
+  },
+  {
+    "title": "Por Borracha",
+    "artist": "Trio Cancioneros Del Norte",
+    "isrc": "USQY51612237"
+  },
+  {
+    "title": "Desafiando",
+    "artist": "Trio Cantarelas",
+    "isrc": "ARF050700764"
+  },
+  {
+    "title": "Lejanía (Guaranía)",
+    "artist": "Trio Guarania",
+    "isrc": "QMFMF1515119"
+  }
+]

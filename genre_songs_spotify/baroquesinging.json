@@ -1,0 +1,912 @@
+[
+  {
+    "title": "Céphale et Procris, Prologue: Ouverture",
+    "artist": "Élisabeth Jacquet de La Guerre, Reinoud Van Mechelen, A Nocte Temporis",
+    "isrc": "FXR522311901"
+  },
+  {
+    "title": "La princesse de Navarre: Vents furieux, tristes tempêtes",
+    "artist": "Jean-Philippe Rameau, Chantal Santon Jeffery, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891702212"
+  },
+  {
+    "title": "Nisi Dominus: Air: Non confundetur (Bass, Chorus)",
+    "artist": "Jean-Joseph Cassanéa De Mondonville, Alain Buet, Purcell Choir, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891601220"
+  },
+  {
+    "title": "Le Tribut de Zamora, Acte I: Scène. Qu’entends-je ?",
+    "artist": "Charles Gounod, Judith van Wanroij, Edgaras Montvidas, Tassis Christoyannis, Bavarian Radio Chorus, Munich Radio Orchestra, Herve Niquet",
+    "isrc": "ES75S1800304"
+  },
+  {
+    "title": "Les Indes galantes: Forêts paisibles",
+    "artist": "Jean-Philippe Rameau, Thomas Dolie, Emőke Baráth, Chantal Santon Jeffery, Purcell Choir, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891702233"
+  },
+  {
+    "title": "Rapsodia España / Chabrier",
+    "artist": "Emmanuel Chabrier, Mathias Vidal",
+    "isrc": "FR10S1991688"
+  },
+  {
+    "title": "Strozzi: Arie, Op. 8 No. 6: \"Che si può fare\"",
+    "artist": "Barbara Strozzi, Emőke Baráth, Francesco Corti, Il Pomo D'oro",
+    "isrc": "GBAYC1801477"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Première Veille, la Nuit: \"Languissante clarté, cachez-vous dessous l'onde\" (la Nuit)",
+    "artist": "Jean de Cambefort, Lucile Richardot, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141504020"
+  },
+  {
+    "title": "Castor et Pollux, RCT 32, Acte II, Scène 2: \"Tristes apprêts, pâles flambeaux\" (Télaïre)",
+    "artist": "Jean-Philippe Rameau, Emmanuelle De Negri, Ensemble Pygmalion, Raphael Pichon",
+    "isrc": "FRZ141421160"
+  },
+  {
+    "title": "Bist du bei mir, BWV 508 (Arie)",
+    "artist": "Johann Sebastian Bach, Núria Rial, Julia Schröder",
+    "isrc": "DEE471300606"
+  },
+  {
+    "title": "David et Jonathas, H. 490, Prologue Scène 1: Où suis-je ? qu'ai-je fait ? (Saül)",
+    "artist": "Marc-Antoine Charpentier, David Witczak, Les Temps Présents, Dominique Serve, Olivier Schneebeli",
+    "isrc": "FROV62134203"
+  },
+  {
+    "title": "L'incoronazione di Poppea, SV 308, Atto I, Scena 1: E pur io torno qui, qual linea al centro (Ottone )",
+    "artist": "Claudio Monteverdi, Carlo Vistoli, Les Arts Florissants, William Christie",
+    "isrc": "FR7JM1847040"
+  },
+  {
+    "title": "Siroe, HWV 24, Act I: \"Se il mio paterno amore...\"",
+    "artist": "George Frideric Handel, Lisandro Abadie, Festspielorchester Göttingen, Laurence Cummings",
+    "isrc": "DECP61401003"
+  },
+  {
+    "title": "Cæcilia, virgo et martyr octo vocibus, H. 397, Prima pars: Nullus audit, nullus videt (Valerianus, Cæcilia) - Et aquis lustratibus (Chorus fidelium)",
+    "artist": "Marc-Antoine Charpentier, Etienne Bazola, Judith Fa, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FR7JM1673020"
+  },
+  {
+    "title": "Pergolesi: Stabat Mater: I. Stabat mater dolorosa",
+    "artist": "Giovanni Battista Pergolesi, Philippe Jaroussky, I Barocchisti, Julia Lezhneva, Diego Fasolis",
+    "isrc": "GBPFW1300105"
+  },
+  {
+    "title": "Nisi Dominus, RV 608: IV. Cum dederit",
+    "artist": "Antonio Vivaldi, Eva Zaïcik, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X2072418"
+  },
+  {
+    "title": "Was mir behagt, ist nur die muntre Jagd, BWV 208 \"Hunt Cantata\": No. 9, Schafe können sicher weiden",
+    "artist": "Johann Sebastian Bach, Sophie Junker, Joanne Lunn, Makoto Sakurada, Roderick Williams, Bach Collegium Japan Chorus, Bach Collegium Japan, Masaaki Suzuki",
+    "isrc": "SEAET1271100"
+  },
+  {
+    "title": "Idaspe: Aria \"Qual guerriero in campoarmato\"",
+    "artist": "Riccardo Broschi, Vivica Genaux, Akademie für Alte Musik Berlin, René Jacobs",
+    "isrc": "FRZ140201030"
+  },
+  {
+    "title": "Nisi Dominus (Psalm 126), R.608: 4. \"Cum dederit\" (Andante)",
+    "artist": "Antonio Vivaldi, Andreas Scholl, Australian Brandenburg Orchestra, Paul Dyer",
+    "isrc": "GBBBB2400004"
+  },
+  {
+    "title": "L'incoronazione di Poppea, SV 308, Act I Scene 4: Speranza, tu mi vai",
+    "artist": "Claudio Monteverdi, Francesca Aspromonte, Emiliano Gonzalez-Toro, Cappella Mediterranea, Leonardo García-Alarcón",
+    "isrc": "FR50X1624901"
+  },
+  {
+    "title": "Rodelinda / Act 3: Quanto più fiera tempesta freme",
+    "artist": "George Frideric Handel, Sonia Prina, Il Complesso Barocco, Alan Curtis",
+    "isrc": "DEN960431947"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Act II: Volez Zéphyrs, volez tendres amants de Flore",
+    "artist": "Jean-Philippe Rameau, Katherine Watson, Reinoud Van Mechelen, Orfeo Orchestra, Purcell Choir, Gyorgy Vashegyi",
+    "isrc": "ES7891802548"
+  },
+  {
+    "title": "Atys, LWV 53, Act I: Atys est trop heureux (Sangaride)",
+    "artist": "Jean-Baptiste Lully, Marie Lys, Les Talens Lyriques, Christophe Rousset",
+    "isrc": "FXR522312614"
+  },
+  {
+    "title": "Dis, quand reviendras-tu ?",
+    "artist": "Barbara, Lea Desandre, Thomas Dunford",
+    "isrc": "GBAYC2301805"
+  },
+  {
+    "title": "Salve Regina, HWV 241: I. Salve Regina",
+    "artist": "George Frideric Handel, Julie Roset, Millenium Orchestra, Leonardo García-Alarcón",
+    "isrc": "BER182144203"
+  },
+  {
+    "title": "Socrate: I. Portrait de Socrate",
+    "artist": "Erik Satie, Jean-Paul Fouchécourt, Bernard Desgraupes, Ensemble Erwartung",
+    "isrc": "GBAYC9403021"
+  },
+  {
+    "title": "Come Ye Sons of Art \"Birthday Ode for Queen Mary\", Z. 323/5: \"Strike the Viol, Touch the Lute\"",
+    "artist": "Henry Purcell, Tim Mead, Les Musiciens De Saint-Julien, François Lazarevitch",
+    "isrc": "FR50X1841902"
+  },
+  {
+    "title": "Nos esprits libres et contents",
+    "artist": "Anonymous, Claire Lefilliâtre, Bruno Le Levreur, Jean-François Novelli, Arnaud Marzorati, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X0305720"
+  },
+  {
+    "title": "Vivaldi: Il Giustino, RV 717, Act 1: \"Vedrò con mio diletto\" (Anastasio)",
+    "artist": "Antonio Vivaldi, Jakub Józef Orliński, Maxim Emelyanychev, Il Pomo D'oro",
+    "isrc": "GBAYC1800489"
+  },
+  {
+    "title": "Si dolce è 'l martire",
+    "artist": "Claudio Monteverdi, Deborah Cachet, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X1843807"
+  },
+  {
+    "title": "Castor et Pollux, RCT 32, Acte I Scène 4: Symphonie guerrière \"D'où partent ces cris nouveaux ?\" (Télaïre) - Premier Air pour les Athlètes \"Eclatez, fières trompettes\"",
+    "artist": "Jean-Philippe Rameau, Jérôme Corréas, Agnès Mellon, Adrian Brand, Jean-claude Saragosse, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149211050"
+  },
+  {
+    "title": "Ich habe genug, BWV 82: I. Ich habe genug (Aria)",
+    "artist": "Johann Sebastian Bach, Miriam Feuersinger, Capricornus Consort Basel",
+    "isrc": "DEB902200201"
+  },
+  {
+    "title": "Jesu, nun sei gepreiset, BWV 41: IV. Woferne du den edlen Frieden",
+    "artist": "Johann Sebastian Bach, Emiliano Gonzalez Toro, Ensemble Pulcinella, Ophélie Gaillard",
+    "isrc": "FR0V61204503"
+  },
+  {
+    "title": "Anchor che col partire'",
+    "artist": "Paolo Pandolfo, Céline Scheen, Andrea De Carlo, Thomas Boysen, Guido Morini, Alvaro Garrido",
+    "isrc": "ES7890601104"
+  },
+  {
+    "title": "2 Nouvelles compositions: No. 1, À Grenade",
+    "artist": "Gioachino Rossini, Giuseppina Bridelli, Alessandro Marangoni",
+    "isrc": "HKI191808815"
+  },
+  {
+    "title": "King Arthur, Z. 628, Act IV: Passacaglia - How Happy the Lover",
+    "artist": "Henry Purcell, Caroline Weynants, Olivier Berten, Sebastian Myrus, Vox Luminis, Lionel Meunier",
+    "isrc": "FR50X1843038"
+  },
+  {
+    "title": "Acis and Galatea, HWV 49, Act I: Oh, the Pleasures of the Plain",
+    "artist": "George Frideric Handel, Aaron Sheehan, Teresa Wakim, Boston Early Music Festival Vocal Ensemble, Boston Early Music Festival Chamber Ensemble, Paul O'Dette, Stephen Stubbs",
+    "isrc": "DEB201387702"
+  },
+  {
+    "title": "Matthäus-Passion, BWV 244, Pt. 1: No. 8, Aria. Blute nur, du liebes Herz (Soprano)",
+    "artist": "Johann Sebastian Bach, Ann Monoyios, English Baroque Soloists, John Eliot Gardiner",
+    "isrc": "DEF058831104"
+  },
+  {
+    "title": "Tarare, Acte I, Scène 1, Scène 2: Ouverture « Laisse-moi, Calpigi ! » (Atar, Calpigi) – « Il est vrai, son nom adoré » (Calpigi, Atar) – « Mais qu'annonce Altamort à mon impatience ? » (Atar, Altamort, Calpigi)",
+    "artist": "Antonio Salieri, Jean-Sébastien Bou, Enguerrand de Hys, Philippe-Nicolas Martin, Les Talens Lyriques, Christophe Rousset",
+    "isrc": "FROV61820809"
+  },
+  {
+    "title": "Messe de Requiem / Post-Communion: VIIc. Et lux perpetua",
+    "artist": "André Campra, Salomé Haller, Sarah Gendrot, ensemble3 vocal et instrumental, Hans Michael Beuerle",
+    "isrc": "DEB111600137"
+  },
+  {
+    "title": "Semiramide riconosciuta: In braccio a mille furie",
+    "artist": "Leonardo Vinci, David Hansen, Alessandro De Marchi",
+    "isrc": "CH0011300222"
+  },
+  {
+    "title": "Magnificat in D Major, BWV 243: VI. Et misericordia eius",
+    "artist": "Johann Sebastian Bach, Howard Crook, La Chapelle Royale, Philippe Herreweghe, Gérard Lesne",
+    "isrc": "FRZ149006060"
+  },
+  {
+    "title": "Stabat Mater in F Minor, P. 77: X. Fac ut portem Christi mortem",
+    "artist": "Giovanni Battista Pergolesi, Christopher Lowrey, Les Talens Lyriques, Christophe Rousset",
+    "isrc": "FR50X1844910"
+  },
+  {
+    "title": "Messiah, HWV 56, Pt. 1: No. 21, He Shall Feed His Flock like a Shepherd (Live)",
+    "artist": "George Frideric Handel, Giulia Semenzato, Benno Schachtner, Collegium 1704, Vaclav Luks",
+    "isrc": "DECP61901021"
+  },
+  {
+    "title": "Il maestro di cappella (Orch. M. Brolli): Aria: Questo è il passo dei violini",
+    "artist": "Domenico Cimarosa, Marco Brolli, Riccardo Novaro, Il Giardino Armonico, Giovanni Antonini",
+    "isrc": "FR50X1667416"
+  },
+  {
+    "title": "Mors Saülis et Jonathæ, H. 403, Première partie: Surge Saül et responde mihi ! (Samuel, Saül)",
+    "artist": "Marc-Antoine Charpentier, Nicolas Brooymans, Etienne Bazola, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FR7JM1674060"
+  },
+  {
+    "title": "Messe de requiem: Sanctus",
+    "artist": "André Campra, Marc Labonnette, Les Pages et Les Chantres, Orchestre des musiques anciennes et à venir, Unknown Artist, Olivier Schneebeli",
+    "isrc": "USB8U1613114"
+  },
+  {
+    "title": "Siehe, ich verkündige euch, TWV 1:1333: No. 2, Ihr Hirten, denket nicht",
+    "artist": "Georg Philipp Telemann, Das Kleine Konzert, Hermann Max, Matthias Vieweg",
+    "isrc": "DEB202060502"
+  },
+  {
+    "title": "Aure, voi più non siete, RV 652: II. Aria. Ti confido il pianto mio",
+    "artist": "Antonio Vivaldi, Arianna Vendittelli, Andrea Buccarella, Abchordis Ensemble",
+    "isrc": "FRZ132104050"
+  },
+  {
+    "title": "O meine Seel, warum bist du betrübet, SWV 419",
+    "artist": "Heinrich Schütz, Georg Poplutz, Dresdner Kammerchor, Hans-Christoph Rademann, Ludger Rémy",
+    "isrc": "DEB111104409"
+  },
+  {
+    "title": "Cantata, BWV 67: Friede sei mit euch!",
+    "artist": "Johann Sebastian Bach, Dominik Worner, Chor der J. S. Bach-Stiftung, Orchester der J. S. Bach-Stiftung, Rudolf Lutz",
+    "isrc": "CH9211700105"
+  },
+  {
+    "title": "Turluru",
+    "artist": "Christina Pluhar, Gianluigi Trovesi, Marco Beasley, Lucilla Galeazzi, L'Arpeggiata",
+    "isrc": "FR50X0351205"
+  },
+  {
+    "title": "Il primo libro delle musiche: No. 3, Lasciatemi qui solo",
+    "artist": "Francesca Caccini, Ruby Hughes, Jonas Nordberg, Mime Yamahiro-Brinkmann",
+    "isrc": "SEAEX1648100"
+  },
+  {
+    "title": "Das Sühnopfer des neuen Bundes, Pt. 1: No. 1, Wo find' ich ihn, der meiner Augen Licht",
+    "artist": "Carl Loewe, Monika Mauch, Ulrike Malotta, Georg Poplutz, Andreas Burkhart, Arcis-Vocalisten Munich, L'Arpa Festante Baroque Orchestra, Thomas Gropper",
+    "isrc": "DEU921909601"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Troisième Veille, Hercule amoureux: \"Moy dont les froideurs sont cognuës\" (la Lune)",
+    "artist": "Jean de Cambefort, Dagmar Saskova, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141504280"
+  },
+  {
+    "title": "Le repos, l'ombre, le silence",
+    "artist": "Michel Lambert, Stephan Van Dyck, Musica Favola",
+    "isrc": "DECP61005004"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Prologue, Scène 5: \"Traversez les plus vastes mers\" (L'Amour, Hébé, Choeur)",
+    "artist": "Jean-Philippe Rameau, Isabelle Poulenard, Claron McFadden, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149129130"
+  },
+  {
+    "title": "Missa Solemnis: V. Quoniam tu solus Sanctus",
+    "artist": "Leopold Mozart, Sophie Rennert, Das Vokalprojekt, Bayerische Kammerphilharmonie, Alessandro De Marchi",
+    "isrc": "FROV61820505"
+  },
+  {
+    "title": "Euridice, Act I: Scene 2: Per quel vago boschetto (Dafne)",
+    "artist": "Jacopo Peri, Françoise Masset, Les Arts Baroques, Mireille Podeur",
+    "isrc": "FRW030810176"
+  },
+  {
+    "title": "Messe brève No. 7: V. Agnus Dei",
+    "artist": "Charles Gounod, Mirko Ludwig, Gunter Troje, Tobias Gotting, Kammerchor I Vocalisti, Hans-Joachim Lustig",
+    "isrc": "DEB110401507"
+  },
+  {
+    "title": "Armide, Act V: Les Plaisirs ont choisi pour asile",
+    "artist": "Jean-Baptiste Lully, Jean-Francois Lombard, Les Pages et les Chantres du Centre de Musique Baroque de Versailles, Les Symphonistes du Centre de Musique Baroque de Versailles, Musica Florea, Olivier Schneebeli",
+    "isrc": "USB8U1611590"
+  },
+  {
+    "title": "Idoménée, Acte IV Scène 1: Espoir des maleureux (Ilione)",
+    "artist": "André Campra, Monique Zanetti, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149110010"
+  },
+  {
+    "title": "Vielle prière bouddhique (Prière quotidienne pour tout l'Univers) For Tenor, Chorus And Orchestra",
+    "artist": "Lili Boulanger, Julian Podger, The Monteverdi Choir, London Symphony Orchestra, John Eliot Gardiner",
+    "isrc": "DEF059903870"
+  },
+  {
+    "title": "Oedipus, Z. 583: II. Musick for a While",
+    "artist": "Henry Purcell, Jill Feldman, Nigel North",
+    "isrc": "FR46Y9243003"
+  },
+  {
+    "title": "Alcidiane: Recits Italiens chantes par Mademoiselle de la Barre et la Signora Anna Bergerotti",
+    "artist": "Jean-Baptiste Lully, Mary Enid Haines, Sharla Nafziger, Aradia Ensemble, Kevin Mallon",
+    "isrc": "HKI199710503"
+  },
+  {
+    "title": "Turbido cælo mare furentes: \"Turbido cælo mare furentes\" (Allegro)",
+    "artist": "Leonardo Leo, Anthea Pichanick, Les Accents, Thibault Noally",
+    "isrc": "FR9W11927790"
+  },
+  {
+    "title": "Vespro della Beata Vergine, SV 206: II. Dixit Dominus - Psalm 109",
+    "artist": "Claudio Monteverdi, Gerlinde Samann, Marie Kuijken, Alessandro Carmignani, Fabio Furnari, Jean François Lombard, Fulvio Bettini, Sigiswald Kuijken, La Petite Bande",
+    "isrc": "NLB150800631"
+  },
+  {
+    "title": "King Arthur, Z. 628, Act V: You Say, 'Tis Love",
+    "artist": "Henry Purcell, Stefanie True, Marcus Farnsworth, Vox Luminis, Lionel Meunier",
+    "isrc": "FR50X1843047"
+  },
+  {
+    "title": "O combien est plaisant",
+    "artist": "Paschal de l'Estocart, Bruno Boterf, Vincent Bouchot, Jean-Michel Durang, François Fauche, Catherine Greuillet, Nathalie Marec, Hugues Primard, Sophie Toussaint",
+    "isrc": "DEY320703007"
+  },
+  {
+    "title": "Handel: Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
+    "artist": "George Frideric Handel, Elin Manahan Thomas, Orchestra of the Age of Enlightenment, Harry Christophers",
+    "isrc": "GBUM70700405"
+  },
+  {
+    "title": "Passacaglia della vita",
+    "artist": "Stefano Landi, Ed Lyon, Theatre of the Ayre, Elizabeth Kenny",
+    "isrc": "GBEBL1922002"
+  },
+  {
+    "title": "Ezio (or Aetius), 1732 / Act 1: Il nocchier che si figura",
+    "artist": "George Frideric Handel, Anicio Zorzi Giustiniani, Il Complesso Barocco, Alan Curtis",
+    "isrc": "DEN960830510"
+  },
+  {
+    "title": "Ottone, HWV 15 / Act 1: \"Di resti pui così\"",
+    "artist": "George Frideric Handel, Anna Starushkevych, Il Pomo D'oro, George Petrou",
+    "isrc": "GBF071640216"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Deuxième Entrée, Scène 5: \"Clair flambeau...\" (Huascar, Choeur)",
+    "artist": "Jean-Philippe Rameau, Bernard Deletré, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149130080"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Seconde Veille, Vénus & les Grâces: \"Fuyez bien loin, ennemis de la joye\" (Vénus)",
+    "artist": "Jean de Cambefort, Caroline Bardot, Etienne Bazola, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141504170"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Troisième Veille, Hercule amoureux: \"Dormi, dormi, o Sonno, dormi\" (Aure, Ruscelli)",
+    "artist": "Francesco Cavalli, Davy Cornillot, Etienne Bazola, Nicolas Brooymans, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141505120"
+  },
+  {
+    "title": "Alcina, HWV 34: \"Sta nell'Ircana pietrosa tana\"",
+    "artist": "George Frideric Handel, Emilie Renard, Peter Whelan, Ensemble Marsyas",
+    "isrc": "GBASH1756713"
+  },
+  {
+    "title": "Rodrigo, HWV 5, Act III Scene 8: Prendi l’alma, prendi il core (Live)",
+    "artist": "George Frideric Handel, Erica Eloff, Fflur Wyn, Festspielorchester Göttingen, Laurence Cummings",
+    "isrc": "DECP61912067"
+  },
+  {
+    "title": "Il Bajazet, Act I: Act I Scene 11: Aria: Vieni, vola, e sul mio viso (Irene)",
+    "artist": "Francesco Gasparini, Ewa Gubańska, Auser Musici, Carlo Ipata",
+    "isrc": "ES7891500720"
+  },
+  {
+    "title": "Germanico in Germania / Act 2: \"Se dopo ria procella\"",
+    "artist": "Nicola Porpora, Hasnaa Bennani, Capella Cracoviensis, Jan Tomasz Adamus",
+    "isrc": "GBF071640531"
+  },
+  {
+    "title": "Alfonso und Estrella, D. 732, Act II: Recitativo & Aria \"O sing mir Vater… Der Jäger\"",
+    "artist": "Franz Schubert, Judith Fa, Ensemble Pygmalion, Raphael Pichon, Stéphane Degout",
+    "isrc": "FR7JM2254030"
+  },
+  {
+    "title": "Orlando furioso, RV Anh. 84, Act I: Rompo i ceppi",
+    "artist": "Antonio Vivaldi, Konstantin Derri, I Barocchisti, Diego Fasolis",
+    "isrc": "ITN321817610"
+  },
+  {
+    "title": "La princesse d'Elide: Quand l'amour à nos yeux",
+    "artist": "Jean-Baptiste Lully, Luanda Siqueira, Paladins, Les, Jérôme Corréas",
+    "isrc": "ES7891602003"
+  },
+  {
+    "title": "San Casimiro, rè di Polonia, Pt. 2: No. 22, In te solo o sommo nume",
+    "artist": "Alessandro Scarlatti, Unknown, Luca Cervoni, Concerto Romano, Alessandro Quarta",
+    "isrc": "DEB902400112"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Première Veille, la Nuit: \"Quelles beautés, ô mortels\" (Mnémosyne)",
+    "artist": "Antoine Boësset, Marie-Frédérique Girod, Lucile Richardot, Davy Cornillot, Etienne Bazola, Renaud Brès, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141504110"
+  },
+  {
+    "title": "María de Buenos Aires, Part I, Scene 1: \"Alevare\" (El Duende)",
+    "artist": "Martina Belli, Rubén Peloni, Daniel Bonilla-Torres, Orchestra La Corelli, Jacopo Rivani, Davide Vendramin",
+    "isrc": "ITLF52311035"
+  },
+  {
+    "title": "Judith, sive Bethulia liberata, H. 391, Seconde partie: Æquo animo esto (Holofernes, Judith)",
+    "artist": "Marc-Antoine Charpentier, Renaud Brès, Caroline Weynants, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FR7JM1673270"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Quatrième Veille, Orphée: \"Quelle merveilleuse advanture?\" (Les Dieux des Songes)",
+    "artist": "Antoine Boësset, Stephen Collardelle, Davy Cornillot, Nicolas Brooymans, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141505170"
+  },
+  {
+    "title": "Giustino, RV 717: Vedrò con mio diletto",
+    "artist": "Antonio Vivaldi, Tullia Pedersoli, I Solisti Ambrosiani",
+    "isrc": "ITCC53001457"
+  },
+  {
+    "title": "Les 7 paroles du Christ (The 7 Words of Christ) (arr. G. Pungier for soloists, chorus, harmonium and piano): No. 3. Mulier, ecce filius tuus",
+    "artist": "César Franck, Gildas Pungier, Violaine Le Chenadec, Enguerrand de Hys, Ronan Airault, Melisme(s), Didier Adeux, Colette Diard",
+    "isrc": "FRX741314304"
+  },
+  {
+    "title": "Atys, LWV 53, Act I: Ritournelle (Atys, Idas)",
+    "artist": "Jean-Baptiste Lully, Reinoud Van Mechelen, Romain Bockler, Les Talens Lyriques, Christophe Rousset",
+    "isrc": "FXR522312611"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Prologue: Vous qui d'Hébé",
+    "artist": "Jean-Philippe Rameau, Chantal Santon Jeffery, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891802502"
+  },
+  {
+    "title": "Daphnis et Chloé, Op. 102, Prologue: Fuyez, fuyez",
+    "artist": "Joseph Bodin de Boismortier, Alain Buet, Gaëlle Méchaly, Le Concert Spirituel, Herve Niquet",
+    "isrc": "ES7890200904"
+  },
+  {
+    "title": "Scylla et Glaucus, Op. 11, Act III: Serments trompeurs, tendre langage",
+    "artist": "Jean-Marie Leclair, d’Albaret, Judith van Wanroij, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7892301252"
+  },
+  {
+    "title": "La flûte enchantée, K. 620, Act I: Introduction (Tamino, Les Trois Dames)",
+    "artist": "Wolfgang Amadeus Mozart, Mathias Vidal, Suzanne Jérôme, Marie Gautrot, Mélodie Ruvio, Le Concert Spirituel, Herve Niquet",
+    "isrc": "FR9W12101286"
+  },
+  {
+    "title": "Nuit d'etoiles",
+    "artist": "Claude Debussy, Emőke Baráth, Emese Virágh",
+    "isrc": "HUA253279501"
+  },
+  {
+    "title": "Les stratagèmes de l'Amour: Que ces rois chéris des mortels",
+    "artist": "Andre Cardinal Destouches, Thomas Dolie, Emőke Baráth, Chantal Santon Jeffery, Purcell Choir, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891702206"
+  },
+  {
+    "title": "\"Sovvente il sole\" (from Andromeda liberata, RV Anh. 117)",
+    "artist": "Antonio Vivaldi, Lucile Richardot, Ophélie Gaillard, Pulcinella Orchestra",
+    "isrc": "FROV61922604"
+  },
+  {
+    "title": "Castor et Pollux, RCT 32, Acte I, Scène 3: \"Ah ! Je mourrai content\" (Télaïre, Castor)",
+    "artist": "Jean-Philippe Rameau, Emmanuelle De Negri, Colin Ainsworth, Ensemble Pygmalion, Raphael Pichon",
+    "isrc": "FRZ141421040"
+  },
+  {
+    "title": "Le Carnaval du Parnasse, Act I Scene 3: Momus dans ce séjour (Thalie, Momus)",
+    "artist": "Jean-Joseph Cassanéa De Mondonville, David Witczak, Les Ambassadeurs ~ La Grande Écurie, Alexis Kossenko, Gwendoline Blondeel",
+    "isrc": "FXR522412222"
+  },
+  {
+    "title": "Die ausgesöhnte Eifersucht oder Cephalus und Procris: Einsamkeit, du Qual des Hertzen (Arie)",
+    "artist": "Johann Philipp Krieger, Núria Rial, Julia Schröder",
+    "isrc": "DEE471300590"
+  },
+  {
+    "title": "Amanti, io vi so dire",
+    "artist": "Benedetto Ferrari, Carlo Vistoli, Ensemble Sezione Aurea, Filippo Pantieri",
+    "isrc": "FR46Y1847410"
+  },
+  {
+    "title": "De profundis, S. 23: No. 1, De profundis clamavi (Live)",
+    "artist": "Michel Richard Delalande, Lisandro Abadie, Les Chantres du Centre de Musique Baroque de Versailles, Les Pages du Centre de Musique Baroque de Versailles, Collegium Marianum, Olivier Schneebeli",
+    "isrc": "ES7891801910"
+  },
+  {
+    "title": "Anacreon's Defeat, Z. 423: \"This Poet Sings the Trojan Wars\"",
+    "artist": "Henry Purcell, Etienne Bazola, Ensemble les Surprises, Louis-Noël Bestion de Camboulas",
+    "isrc": "FR50X2066319"
+  },
+  {
+    "title": "O Vergin Santa",
+    "artist": "Serafino Razzi, Eva Zaïcik, Deborah Cachet, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X2072401"
+  },
+  {
+    "title": "Monteverdi: L'incoronazione di Poppea, SV 308, Act 3: \"Pur ti miro\" (Nerone, Poppea)",
+    "artist": "Claudio Monteverdi, Philippe Jaroussky, L'Arpeggiata, Núria Rial, Christina Pluhar",
+    "isrc": "GBAYC0802534"
+  },
+  {
+    "title": "Erlkönigs Tochter, Op. 30, Pt. 2 (1864 Version): No. 6, Willkommen, Herr Oluf",
+    "artist": "Niels Gade, Sophie Junker, Johannes Weisser, Danish National Vocal Ensemble, Concerto Copenhagen, Lars Ulrik Mortensen",
+    "isrc": "DKFAA1800207"
+  },
+  {
+    "title": "Handel: Orlando, HWV 31, Act 1: Aria. \"Fammi combattere\" (Orlando)",
+    "artist": "George Frideric Handel, Vivica Genaux, Les Violons du Roy, Bernard Labadie",
+    "isrc": "GBAYC0500828"
+  },
+  {
+    "title": "Serse, HWV 40, Act I Scene 1: Arioso \"Ombra mai fù\"",
+    "artist": "George Frideric Handel, Andreas Scholl, Akademie für Alte Musik Berlin",
+    "isrc": "FRZ149824070"
+  },
+  {
+    "title": "Mi palpita il cor, HWV 132c: Aria. Se un dì m'adora",
+    "artist": "George Frideric Handel, Francesca Aspromonte, Boris Begelman, Arsenale Sonoro",
+    "isrc": "NLE422308304"
+  },
+  {
+    "title": "Alcina, HWV 34 / Act 1: È gelosia, forza è d'amore",
+    "artist": "George Frideric Handel, Sonia Prina, Il Complesso Barocco, Alan Curtis",
+    "isrc": "DEN960731419"
+  },
+  {
+    "title": "Mass in B Minor, BWV 232: Gloria: V. Domine Deus (Soprano I, Tenor)",
+    "artist": "Johann Sebastian Bach, Katherine Watson, Orchestra of the Age of Enlightenment, Stephen Layton, Gwilym Bowen",
+    "isrc": "GBAJY1818108"
+  },
+  {
+    "title": "Atys, LWV 53, Act I: Allons, allons, accourez tous (Sangaride, Doris)",
+    "artist": "Jean-Baptiste Lully, Marie Lys, Gwendoline Blondeel, Les Talens Lyriques, Christophe Rousset",
+    "isrc": "FXR522312613"
+  },
+  {
+    "title": "De Bottis: Mitilene, regina delle amazzoni: \"Io piango\" - \"Io peno\" (Mitilene, Armidoro)",
+    "artist": "Giuseppe De Bottis, Lea Desandre, Cecilia Bartoli, Jupiter, Thomas Dunford",
+    "isrc": "GBAYC2003405"
+  },
+  {
+    "title": "Ardo, lassa, o non ardo?",
+    "artist": "Sigismondo D'India, Julie Roset, Mariana Flores, Cappella Mediterranea, Leonardo García-Alarcón",
+    "isrc": "BER182042901"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Troisième Entrée, Scène 1 - Scène 2: \"Mon abord paraît l'interdire...\" (Tacmas, Ali)",
+    "artist": "Jean-Philippe Rameau, Jean-Paul Fouchécourt, Jérôme Corréas, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149130140"
+  },
+  {
+    "title": "O Solitude, My Sweetest Choice, Z. 406",
+    "artist": "Henry Purcell, Tim Mead, Les Musiciens De Saint-Julien, François Lazarevitch",
+    "isrc": "FR50X1841903"
+  },
+  {
+    "title": "À la fin cette bergère",
+    "artist": "Antoine Boësset, Claire Lefilliâtre, Bruno Le Levreur, Jean-François Novelli, Arnaud Marzorati, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X0305713"
+  },
+  {
+    "title": "O dolcezza",
+    "artist": "Serafino Razzi, Deborah Cachet, Benoît-Joseph Meier, Francisco Mañalich, Virgile Ancely, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X2072409"
+  },
+  {
+    "title": "Castor et Pollux, RCT 32, Acte II Scène 5: Deuxième Air pour Hébé et ses suivantes \"Voici des Dieux Entrée d'Hébé (Un Plaisir)",
+    "artist": "Jean-Philippe Rameau, Jérôme Corréas, Sophie Daneman, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149211060"
+  },
+  {
+    "title": "Hasse: Sanctus Petrus et Sancta Maria Magdalena: \"Mea tormenta, properate!\"",
+    "artist": "Johann Adolf Hasse, Jakub Józef Orliński, Maxim Emelyanychev, Il Pomo D'oro",
+    "isrc": "GBAYC1800995"
+  },
+  {
+    "title": "Missa pro Defunctis in E-Flat Major, HocJ A1.3: III. Sequentia, 1. Dies irae",
+    "artist": "Niccolò Jommelli, Miriam Feuersinger, Il Gardellino, Gaia Petrone, Valerio Contaldo, Wolf Matthias Friedrich, Peter Van Heyghen",
+    "isrc": "BEE022007605"
+  },
+  {
+    "title": "Il ritorno d'Ulisse in patria, Prologo: \"Mortal cosa son io\" (L’Humana Fragilità, Tempo, Fortuna & Amore)",
+    "artist": "Claudio Monteverdi, Emiliano Gonzalez Toro, Ensemble I Gemelli, Philippe Jaroussky, Lauranne Oliva, Nicolas Brooymans, Cristina Fanelli",
+    "isrc": "FR9W12327277"
+  },
+  {
+    "title": "Doulce Memoire",
+    "artist": "Paolo Pandolfo, Céline Scheen, Andrea De Carlo, Thomas Boysen, Guido Morini, Alvaro Garrido",
+    "isrc": "ES7890601111"
+  },
+  {
+    "title": "Alcina, HWV 34: Sta nell'ircana pietrosa tana",
+    "artist": "George Frideric Handel, Giuseppina Bridelli, Le Concert de l'Hostel Dieu, Franck-Emmanuel Comte",
+    "isrc": "FR46Y1846101"
+  },
+  {
+    "title": "Ballet Royal de la Nuit, Deuxiesme partie du Ballet Royal de la Nuict: VI. Entrée. Dialogue des trois Grâces \"Admirons notre jeune et charmante déesse\" - Air \"pour les Grâces\" - 2e Air \"pour les mesmes\"",
+    "artist": "Michel Lambert, Caroline Weynants, Dagmar Saskova, Ensemble Correspondances, Violaine Le Chenadec, Sébastien Daucé",
+    "isrc": "FR7JM1829290"
+  },
+  {
+    "title": "Acis and Galatea, HWV 49, Act II: Love Sounds th'Alarm",
+    "artist": "George Frideric Handel, Aaron Sheehan, Boston Early Music Festival Chamber Ensemble, Paul O'Dette, Stephen Stubbs",
+    "isrc": "DEB201387720"
+  },
+  {
+    "title": "Vespro della Beata Vergine, SV 206: II. Dixit Dominus a 6 - Live",
+    "artist": "Claudio Monteverdi, Ann Monoyios, Marinella Pennicchi, Alastair Miles, Mark Tucker, Nigel Robson, Bryn Terfel, English Baroque Soloists, His Majestys Sagbutts & Cornetts, John Eliot Gardiner, The Monteverdi Choir",
+    "isrc": "DEF058930602"
+  },
+  {
+    "title": "Tarare, Acte I, Scène 6, Scène 7: « Qu'as-tu donc fait » (Atar) – « Seigneur, si j'ai sauvé ta vie » (Tarare) – « Que veux-tu, Calpigi ? » (Atar, Calpigi, Tarare)",
+    "artist": "Antonio Salieri, Jean-Sébastien Bou, Cyrille Dubois, Enguerrand de Hys, Les Talens Lyriques, Christophe Rousset",
+    "isrc": "FROV61820815"
+  },
+  {
+    "title": "Le carnaval de Venise: Prologue Scene 3: Air: Celebrez un Roy plein de gloire (Minerva, Chorus)",
+    "artist": "André Campra, Salomé Haller, Marina de Liso, Andrew Foster-Williams, Alain Buet, Mathias Vidal, Sarah Tynan, Blandine Staskiewicz, Luigi De Donato, Le Concert Spirituel, Concert Spirituel Orchestra, Herve Niquet",
+    "isrc": "ES7891100914"
+  },
+  {
+    "title": "Il Medo: Non è più folle lusinga",
+    "artist": "Leonardo Vinci, David Hansen, Alessandro De Marchi",
+    "isrc": "CH0011300227"
+  },
+  {
+    "title": "Matthäus-Passion, BWV 244, Pt. 1: No. 20, Aria. Ich will bei meinem Jesu wachen (Tenor, Chorus II)",
+    "artist": "Johann Sebastian Bach, Howard Crook, English Baroque Soloists, John Eliot Gardiner, The Monteverdi Choir, The London Oratory Junior Choir",
+    "isrc": "DEF058831109"
+  },
+  {
+    "title": "Solomon, HWV 67, Act I: Welcome as the Dawn of Day",
+    "artist": "George Frideric Handel, Christopher Lowrey, Gwendoline Blondeel, Millenium Orchestra, Leonardo García-Alarcón",
+    "isrc": "BER182244915"
+  },
+  {
+    "title": "Messiah, HWV 56, Pt. 1: No. 19, Rejoice Greatly (Live)",
+    "artist": "George Frideric Handel, Giulia Semenzato, Collegium 1704, Vaclav Luks",
+    "isrc": "DECP61901019"
+  },
+  {
+    "title": "Orlando furioso, RV Anh. 84, Act I: Costanza tu m'insegni, e vuoi ch'io speri",
+    "artist": "Antonio Vivaldi, Riccardo Novaro, I Barocchisti, Diego Fasolis",
+    "isrc": "ITN321817602"
+  },
+  {
+    "title": "Dialogus inter Christum et homines H. 417: O panis Deus",
+    "artist": "Marc-Antoine Charpentier, Nicolas Brooymans, David Tricou, Etienne Bazola, Davy Cornillot, Renaud Brès, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FR7JM1674240"
+  },
+  {
+    "title": "Messe de requiem: Hostias et preces",
+    "artist": "André Campra, Marc Labonnette, Jean-François Novelli, Les Pages et Les Chantres, Orchestre des musiques anciennes et à venir, Olivier Schneebeli",
+    "isrc": "USB8U1613113"
+  },
+  {
+    "title": "Tönet die Freude, TWV 1:1410: No. 1, Tönet die Freude",
+    "artist": "Georg Philipp Telemann, Das Kleine Konzert, Hermann Max, Matthias Vieweg",
+    "isrc": "DEB202060509"
+  },
+  {
+    "title": "Allor che lo sguardo, RV 650: I. Aria. Allor che lo sguardo",
+    "artist": "Antonio Vivaldi, Arianna Vendittelli, Andrea Buccarella, Abchordis Ensemble",
+    "isrc": "FRZ132104010"
+  },
+  {
+    "title": "Historia der Auferstehung Jesu Christi, SWV 50: VII. Und siehe, zweene aus ihnen gingen",
+    "artist": "Heinrich Schütz, Georg Poplutz, Tobias Mäthger, Oliver Kaden, Felix Rumpf, Felix Schwandtke, Hille Perl, Lee Santana, Ludger Rémy, The Sirius Viols, Dresdner Kammerchor, Hans-Christoph Rademann",
+    "isrc": "DEB111401009"
+  },
+  {
+    "title": "Ich will den Kreuzstab gerne tragen, BWV 56: Aria: Ich will den Kreuzstab gerne tragen (Bass)",
+    "artist": "Johann Sebastian Bach, Dominik Worner, La Petite Bande, Sigiswald Kuijken",
+    "isrc": "DECP60601113"
+  },
+  {
+    "title": "L'innocenza dei Ciclopi: Cantata Sopra il Passacaglio - Diatonica",
+    "artist": "Christina Pluhar, Luigi Pozzi, Marco Beasley, Lucilla Galeazzi, Gianluigi Trovesi, L'Arpeggiata",
+    "isrc": "FR50X0351215"
+  },
+  {
+    "title": "Are You Worried About the Rising Cost of Funerals?: No. 5, End of My Days",
+    "artist": "Errollyn Wallen, Ruby Hughes, Manchester Collective",
+    "isrc": "SEAEC2328110"
+  },
+  {
+    "title": "Das Sühnopfer des neuen Bundes, Pt. 1: No. 3, Da nun Jesus war zu Bethanien",
+    "artist": "Carl Loewe, Monika Mauch, L'Arpa Festante Baroque Orchestra, Thomas Gropper",
+    "isrc": "DEU921909603"
+  },
+  {
+    "title": "Ballet Royal de la Nuit, Troisiesme partie du Ballet Royal de la Nuict: IV. Entrée - Aria di Dejanira \"Ahi, ch'amarezza\" (Dejanira)",
+    "artist": "Francesco Cavalli, Dagmar Saskova, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FR7JM1830180"
+  },
+  {
+    "title": "Tu ch'ai le penne amore",
+    "artist": "Giulio Caccini, Stephan Van Dyck, Christina Pluhar, Paulina Van Laarhoven, Eero Palviainen, Francisco Gato, Vincent Libert",
+    "isrc": "BEC990500317"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Deuxième Entrée, Scène 1: \"Vous devez bannir de votre âme...\" (Phani, Carlos, Officier Espagnol)",
+    "artist": "Jean-Philippe Rameau, Isabelle Poulenard, Jean-Paul Fouchécourt, Les Arts Florissants, William Christie",
+    "isrc": "FRZ149130010"
+  },
+  {
+    "title": "4 Gesänge, Op. 43: No. 2, Die Mainacht",
+    "artist": "Johannes Brahms, Sophie Rennert, Graham Johnson",
+    "isrc": "GBAJY2013005"
+  },
+  {
+    "title": "Euridice: Prologue: Io, che d'alti sospir vaga e di pianti (La Tragedia)",
+    "artist": "Jacopo Peri, Françoise Masset, Les Arts Baroques, Mireille Podeur",
+    "isrc": "FRW030810168"
+  },
+  {
+    "title": "Polydorus, GraunWV B:I:3, Act I Scene 6: Mich sucht der Götter Rache",
+    "artist": "Carl Heinrich Graun, Mirko Ludwig, Barockwerk Hamburg, Ira Hochman",
+    "isrc": "DEB201826611"
+  },
+  {
+    "title": "Armide, LWV 71: Passacaille",
+    "artist": "Jean-Baptiste Lully, Jean-Francois Lombard, Les Symphonistes du Centre de Musique Baroque de Versailles, Musica Florea, Olivier Schneebeli, Les Pages et Les Chantres",
+    "isrc": "USB8U1802494"
+  },
+  {
+    "title": "Markus Passion, BWV 247: Aria (Tenore) \"Ich lasse dich, mein Jesus, nicht Passion selon saint Jean\" (aus BWV 245)",
+    "artist": "Johann Sebastian Bach, Reinoud Van Mechelen, Jordi Savall",
+    "isrc": "CH4211900020"
+  },
+  {
+    "title": "Les Indes galantes, RCT 44, Prologue: Amants sûrs de plaire",
+    "artist": "Jean-Philippe Rameau, Chantal Santon Jeffery, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891802506"
+  },
+  {
+    "title": "Winterreise D. 911: I. Gute Nacht - Transcription for Baritone and String Quartet by Gilone Gaubert",
+    "artist": "Franz Schubert, Alain Buet, Quatuor Les Heures du jour",
+    "isrc": "BEF641833501"
+  },
+  {
+    "title": "Dardanus, RCT 35, Act I Scene 1 (Revised 1744 Version): Cesse, cruel Amour, de régner sur mon âme",
+    "artist": "Jean-Philippe Rameau, Judith van Wanroij, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7892100421"
+  },
+  {
+    "title": "Pigmalion (Pygmalion): Overture",
+    "artist": "Jean-Philippe Rameau, Mathias Vidal, Jennifer Lane, Rebecca Choate Beasley, Ava Pine, Concert Royal Chorus, Concert Royal Orchestra, James Richman",
+    "isrc": "US8271010363"
+  },
+  {
+    "title": "Mysliveček: Demetrio: \"Mi parea del porto in seno\" (Cleonice)",
+    "artist": "Josef Mysliveček, Emőke Baráth, Vaclav Luks",
+    "isrc": "GBPFW2200203"
+  },
+  {
+    "title": "Le pouvoir de l'amour: Divin Bacchus, tes fureurs",
+    "artist": "Joseph-Nicolas-Pancrace Royer, Thomas Dolie, Emőke Baráth, Chantal Santon Jeffery, Purcell Choir, Orfeo Orchestra, Gyorgy Vashegyi",
+    "isrc": "ES7891702218"
+  },
+  {
+    "title": "Le Concert royal de la Nuit, Première Veille, la Nuit: \"Je descends pour charmer ses yeux et ses oreilles\" (la Nuit)",
+    "artist": "Jean de Cambefort, Lucile Richardot, Ensemble Correspondances, Sébastien Daucé",
+    "isrc": "FRZ141504040"
+  },
+  {
+    "title": "Amor d'un'Ombra e Gelosia d'un'aura, Act I Scene 3: Sento, che a poco, a poco",
+    "artist": "Domenico Scarlatti, Emmanuelle De Negri, Le Caravansérail, Bertrand Cuiller",
+    "isrc": "FR7JM2174170"
+  },
+  {
+    "title": "David et Jonathas, H. 490, Prologue Scène 5: Est-ce assez ? ai-je enfin épuisé ta colère ? (Saül, la Pythonisse) - reprise de l'ouverture",
+    "artist": "Marc-Antoine Charpentier, David Witczak, Jean-Francois Lombard, Les Temps Présents, Olivier Schneebeli, Dominique Serve",
+    "isrc": "FROV62134209"
+  },
+  {
+    "title": "Was mir behagt, BWV 208: Schafe können sicher weiden (Arie)",
+    "artist": "Johann Sebastian Bach, Núria Rial, Julia Schröder",
+    "isrc": "DEE471300589"
+  },
+  {
+    "title": "Semele, HWV 58, Act I Scene 2: Your Tuneful Voice My Tale Would Tell (Live)",
+    "artist": "George Frideric Handel, Carlo Vistoli, English Baroque Soloists, John Eliot Gardiner",
+    "isrc": "GBHNG2000014"
+  },
+  {
+    "title": "Siroe, HWV 24, Act I: \"Figli, di voi non meno...\" - \"Amato figlio...\"",
+    "artist": "George Frideric Handel, Lisandro Abadie, Yosemeh Adjei, Antonio Giovannini, Festspielorchester Göttingen, Laurence Cummings",
+    "isrc": "DECP61401002"
+  },
+  {
+    "title": "Amphion Anglicus: \"Poor Celadon, He Sighs in Vain\" (Loving Above Himself)",
+    "artist": "John Blow, Etienne Bazola, Ensemble les Surprises, Louis-Noël Bestion de Camboulas",
+    "isrc": "FR50X2066303"
+  },
+  {
+    "title": "Un sonno ohimè",
+    "artist": "Marco Marazzoli, Eva Zaïcik, Marc Mauillon, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X1843815"
+  },
+  {
+    "title": "Saul, HWV 53, Act III Scene 5: In sweetest harmony they lived (Michal)",
+    "artist": "George Frideric Handel, Sophie Junker, Le Concert de l'Hostel Dieu, Franck-Emmanuel Comte",
+    "isrc": "FROV61923310"
+  },
+  {
+    "title": "Vivaldi: Giustino, RV 717, Act 1: \"Vedrò con mio diletto\" (Anastasio)",
+    "artist": "Antonio Vivaldi, Philippe Jaroussky, Ensemble Matheus, Jean-Christophe Spinosi",
+    "isrc": "GBAYC0601627"
+  },
+  {
+    "title": "Merope: \"Quell'usignolo\"",
+    "artist": "Geminiano Giacomelli, Vivica Genaux, René Jacobs, Akademie für Alte Musik Berlin",
+    "isrc": "FRZ140201110"
+  },
+  {
+    "title": "VIII libro dei madrigali: \"Ardo e scoprir ahi lasso\", SV 158",
+    "artist": "Claudio Monteverdi, Francesca Aspromonte, Mariana Flores, Cappella Mediterranea, Leonardo García-Alarcón",
+    "isrc": "FR50X1624905"
+  },
+  {
+    "title": "Alcina, HWV 34 / Act 2: Vorrei vendicarmi del perfido cor",
+    "artist": "George Frideric Handel, Sonia Prina, Il Complesso Barocco, Alan Curtis",
+    "isrc": "DEN960731434"
+  },
+  {
+    "title": "II. Ah ch'infelice sempre",
+    "artist": "Antonio Vivaldi, Andreas Scholl, Chiara Banchini, Ensemble 415",
+    "isrc": "FRZ149510050"
+  },
+  {
+    "title": "Orphée: \"Ah ! Que j'éprouve bien l'amoureuse flamme\"",
+    "artist": "Louis de Lully, Katherine Watson, Les Ambassadeurs, Alexis Kossenko",
+    "isrc": "FROV61820901"
+  },
+  {
+    "title": "L'Olimpiade, Act I Scene 7: Aria. \"Fra mille amanti un core\"",
+    "artist": "Domenico Cimarosa, Marie Lys, Christophe Rousset, Les Talens Lyriques",
+    "isrc": "FXR522414313"
+  },
+  {
+    "title": "Ambruys: Le doux silence de nos bois",
+    "artist": "Honoré d’Ambruys, Lea Desandre, Thomas Dunford",
+    "isrc": "GBAYC2301786"
+  },
+  {
+    "title": "Salve Regina, HWV 241: II. Ad te clamamus",
+    "artist": "George Frideric Handel, Julie Roset, Millenium Orchestra, Leonardo García-Alarcón",
+    "isrc": "BER182144204"
+  },
+  {
+    "title": "Clairieres dans le ciel: III. Parfois, je suis triste (Sometimes I am sad)",
+    "artist": "Lili Boulanger, Jean-Paul Fouchécourt, Alain Jacquon",
+    "isrc": "FRY469800030"
+  },
+  {
+    "title": "\"'Twas Within a Furlong of Edinboro' Town\" (Scots Song), Z. 605/2",
+    "artist": "Henry Purcell, Tim Mead, Les Musiciens De Saint-Julien, François Lazarevitch",
+    "isrc": "FR50X1841911"
+  },
+  {
+    "title": "Les tendres souhaits",
+    "artist": "Giovanni Battista Pergolesi, Claire Lefilliâtre, Brice Duisit, Isabelle Druet, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X0451307"
+  },
+  {
+    "title": "Chi fà: II. Chi fà che ritorni",
+    "artist": "Marco Marazzoli, Deborah Cachet, Nicholas Scott, Le Poème Harmonique, Vincent Dumestre",
+    "isrc": "FR50X1843814"
+  },
+  {
+    "title": "Acis et Galatée, Act III, scena VIII: Air de Galat \"Enfin, j'ai dissipé la crainte\"",
+    "artist": "Jean-Baptiste Lully, Jérôme Corréas, Les Paladins",
+    "isrc": "FRZ131121020"
+  },
+  {
+    "title": "Ich habe genug, BWV 82: III. Schlummert ein, ihr matten Augen",
+    "artist": "Johann Sebastian Bach, Miriam Feuersinger, Capricornus Consort Basel",
+    "isrc": "DEB902200203"
+  }
+]

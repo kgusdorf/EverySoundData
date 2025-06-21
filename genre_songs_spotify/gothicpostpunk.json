@@ -1,0 +1,652 @@
+[
+  {
+    "title": "The Art of War",
+    "artist": "Siglo xx",
+    "isrc": "BEBB71800676"
+  },
+  {
+    "title": "The Last Song",
+    "artist": "Trisomie 21",
+    "isrc": "BEC260710517"
+  },
+  {
+    "title": "Cadavres Exquis",
+    "artist": "Little Nemo",
+    "isrc": "QZAPG1876702"
+  },
+  {
+    "title": "Rabbit Pie",
+    "artist": "Party Day",
+    "isrc": "UK7VX1600019"
+  },
+  {
+    "title": "Lamina Christus",
+    "artist": "Isolation Ward",
+    "isrc": "GBHBR0404621"
+  },
+  {
+    "title": "Is Still",
+    "artist": "Siiiii",
+    "isrc": "ushm21029970"
+  },
+  {
+    "title": "The Greatness Of Love",
+    "artist": "Cold Phoenix",
+    "isrc": "IT00L0800065"
+  },
+  {
+    "title": "Tenement Roofs",
+    "artist": "Glorious Din",
+    "isrc": "US5NR1401409"
+  },
+  {
+    "title": "Hope in Fear",
+    "artist": "Remain In Silence",
+    "isrc": "DEMV91302261"
+  },
+  {
+    "title": "When I'm Alone",
+    "artist": "Twisted Nerve",
+    "isrc": "US5NR1401403"
+  },
+  {
+    "title": "Put It Down",
+    "artist": "Baroque Bordello",
+    "isrc": "US5NR1401411"
+  },
+  {
+    "title": "Baphomet Sunrise - Velvet Kills Remix",
+    "artist": "Norma Loy",
+    "isrc": "ITR831900091"
+  },
+  {
+    "title": "Afraid Of",
+    "artist": "No Tears",
+    "isrc": "FR6V80801809"
+  },
+  {
+    "title": "Autumn Wounds",
+    "artist": "Soror Dolorosa",
+    "isrc": "DES561618802"
+  },
+  {
+    "title": "Nightshift",
+    "artist": "THE NAMES",
+    "isrc": "GBHBR0405094"
+  },
+  {
+    "title": "Durdu Dunya",
+    "artist": "She Past Away",
+    "isrc": "ATR981196745"
+  },
+  {
+    "title": "En Toen Was Er Niets Meer",
+    "artist": "De Brassers",
+    "isrc": "GB-SMU-12-01202"
+  },
+  {
+    "title": "More",
+    "artist": "Passion Noire",
+    "isrc": "CAAD21110445"
+  },
+  {
+    "title": "Swamp Street Soul",
+    "artist": "Inca Babies",
+    "isrc": "UKMM32100013"
+  },
+  {
+    "title": "Kimilia",
+    "artist": "METRO DECAY",
+    "isrc": "USA371539316"
+  },
+  {
+    "title": "Soon Come Violence",
+    "artist": "Orchestre Rouge",
+    "isrc": "FRZ080700545"
+  },
+  {
+    "title": "Fleur de métal",
+    "artist": "Jad Wio",
+    "isrc": "FRZ089100113"
+  },
+  {
+    "title": "Du son des cloches",
+    "artist": "Complot Bronswick",
+    "isrc": "FR6V80122733"
+  },
+  {
+    "title": "Wish",
+    "artist": "Spiral Of Silence",
+    "isrc": "GBKPL2170376"
+  },
+  {
+    "title": "Les Rois",
+    "artist": "Ausweis",
+    "isrc": "FRX088490059"
+  },
+  {
+    "title": "Lonely Lady",
+    "artist": "Insulin Reaction",
+    "isrc": "US5WC1000855"
+  },
+  {
+    "title": "Mary of the Woods",
+    "artist": "And Also The Trees",
+    "isrc": "GBTKD0900004"
+  },
+  {
+    "title": "Cosmos",
+    "artist": "Film Noir",
+    "isrc": "grca10800032"
+  },
+  {
+    "title": "Fate",
+    "artist": "For Against",
+    "isrc": "USAQP0702205"
+  },
+  {
+    "title": "The Love",
+    "artist": "Screaming for Emily",
+    "isrc": "US5NR1401408"
+  },
+  {
+    "title": "Surrender",
+    "artist": "The Veil",
+    "isrc": "QM4TW1702811"
+  },
+  {
+    "title": "Last Year's Wife",
+    "artist": "Zero Le Creche",
+    "isrc": "GBBLY0800452"
+  },
+  {
+    "title": "\"This Is Seagull….\"",
+    "artist": "The Snake Corps",
+    "isrc": "GBBLY9000145"
+  },
+  {
+    "title": "Legacy",
+    "artist": "Furyo",
+    "isrc": "GBBLY0701086"
+  },
+  {
+    "title": "Liberty",
+    "artist": "Kitchen and the Plastic Spoons",
+    "isrc": "US5NR1401402"
+  },
+  {
+    "title": "Wrinkle in Your Eye",
+    "artist": "Violet Town",
+    "isrc": "uscgh1391761"
+  },
+  {
+    "title": "By Now You Should Know",
+    "artist": "ALSO",
+    "isrc": "USFPT1000004"
+  },
+  {
+    "title": "Schizophrénie",
+    "artist": "Camp Z",
+    "isrc": "DEGQ80901342"
+  },
+  {
+    "title": "Jungel Inni her (Project Ledg)",
+    "artist": "Diskoteket, Prells, J-Green",
+    "isrc": "NO2DY2400238"
+  },
+  {
+    "title": "Born in a Cage",
+    "artist": "Droserae",
+    "isrc": "FR6V80122736"
+  },
+  {
+    "title": "Les deux venus",
+    "artist": "Excès Nocturne",
+    "isrc": "FR6V80122738"
+  },
+  {
+    "title": "Awakening",
+    "artist": "GESTALT",
+    "isrc": "QMFME1572654"
+  },
+  {
+    "title": "Warrior Creed",
+    "artist": "Joy of Life",
+    "isrc": "DEKB30910386"
+  },
+  {
+    "title": "Pecore",
+    "artist": "Leitmotiv",
+    "isrc": "ITAN81200013"
+  },
+  {
+    "title": "Ver Les Mines Du Golgotha",
+    "artist": "Lucie Cries",
+    "isrc": "GBAD20610223"
+  },
+  {
+    "title": "The Eagle",
+    "artist": "Mary Goes Round",
+    "isrc": "FR6Q90700020"
+  },
+  {
+    "title": "Turquoise Fields Burn Brighter, Honey",
+    "artist": "Monozid",
+    "isrc": "ITC471103319"
+  },
+  {
+    "title": "Fate/Hate",
+    "artist": "NYAM NYAM",
+    "isrc": "GBHBR0400100"
+  },
+  {
+    "title": "Head in the Sky",
+    "artist": "Neutral Project",
+    "isrc": "FR6V81594139"
+  },
+  {
+    "title": "Remember Your Strategies",
+    "artist": "Silent Party",
+    "isrc": "GBWCL1400582"
+  },
+  {
+    "title": "The Day The Current Died",
+    "artist": "South Of No North",
+    "isrc": "US25T0611522"
+  },
+  {
+    "title": "Quiet Place",
+    "artist": "The Choir Invisible",
+    "isrc": "USA6P1600031"
+  },
+  {
+    "title": "Les Choses Qu'On N'Oublie Pas",
+    "artist": "Trop Tard",
+    "isrc": "US5NR1267301"
+  },
+  {
+    "title": "Please Me",
+    "artist": "The Gentry",
+    "isrc": "NLL8M2001588"
+  },
+  {
+    "title": "Spit Upon Your Grave",
+    "artist": "Blood And Roses",
+    "isrc": "GBBLY0702265"
+  },
+  {
+    "title": "Es war",
+    "artist": "Clair Obscur",
+    "isrc": "CH6541645292"
+  },
+  {
+    "title": "A Mirage",
+    "artist": "The Essence",
+    "isrc": "GBBLY8700020"
+  },
+  {
+    "title": "Wild Swan",
+    "artist": "Lowlife",
+    "isrc": "GBHBR0401462"
+  },
+  {
+    "title": "The Bride - Remastered",
+    "artist": "ASMODI BIZARR",
+    "isrc": "CH7812232898"
+  },
+  {
+    "title": "Wild World",
+    "artist": "Days of Sorrow",
+    "isrc": "DELJ81895741"
+  },
+  {
+    "title": "Past Lives",
+    "artist": "Lung Overcoat",
+    "isrc": "uscgh1912287"
+  },
+  {
+    "title": "Faster",
+    "artist": "Jacquy Bitch",
+    "isrc": "FR6V80122743"
+  },
+  {
+    "title": "High on a Merry-Go-Round",
+    "artist": "Castrati",
+    "isrc": "QM4DW1725858"
+  },
+  {
+    "title": "Brain Cage",
+    "artist": "B.F.G.",
+    "isrc": "USTC00932287"
+  },
+  {
+    "title": "All That I Wanted",
+    "artist": "Belfegore",
+    "isrc": "USEE10701152"
+  },
+  {
+    "title": "Dreams of Pleasure II",
+    "artist": "Siglo xx",
+    "isrc": "BEBB71800678"
+  },
+  {
+    "title": "A Day out of Time",
+    "artist": "Little Nemo",
+    "isrc": "ESA011311710"
+  },
+  {
+    "title": "The Cave and the Light",
+    "artist": "Trisomie 21",
+    "isrc": "TCAFF2018442"
+  },
+  {
+    "title": "Let Us Shine",
+    "artist": "Party Day",
+    "isrc": "GBBLY0604127"
+  },
+  {
+    "title": "Absent Heart",
+    "artist": "Isolation Ward",
+    "isrc": "GBHBR0404633"
+  },
+  {
+    "title": "Conception",
+    "artist": "Siiiii",
+    "isrc": "ushm21029962"
+  },
+  {
+    "title": "La Fleur Du Destin",
+    "artist": "Cold Phoenix",
+    "isrc": "IT00L0800059"
+  },
+  {
+    "title": "Red Dirt",
+    "artist": "Glorious Din",
+    "isrc": "USBAE1316894"
+  },
+  {
+    "title": "Roses On My Dying Bed",
+    "artist": "Remain In Silence",
+    "isrc": "DEMV91302258"
+  },
+  {
+    "title": "Medusa",
+    "artist": "Twisted Nerve",
+    "isrc": "GBBLY2302665"
+  },
+  {
+    "title": "Dreamland",
+    "artist": "Norma Loy",
+    "isrc": "FR6V81594147"
+  },
+  {
+    "title": "Your White Face With The Red Lips",
+    "artist": "No Tears",
+    "isrc": "FR6V80809422"
+  },
+  {
+    "title": "That Run",
+    "artist": "Soror Dolorosa",
+    "isrc": "DES561718303"
+  },
+  {
+    "title": "Calcutta",
+    "artist": "THE NAMES",
+    "isrc": "GBHBR0405092"
+  },
+  {
+    "title": "Kontrole",
+    "artist": "De Brassers",
+    "isrc": "GB-SMU-12-01201"
+  },
+  {
+    "title": "Asimilasyon",
+    "artist": "She Past Away",
+    "isrc": "ATR981156629"
+  },
+  {
+    "title": "Alone",
+    "artist": "Passion Noire",
+    "isrc": "CAAD21110443"
+  },
+  {
+    "title": "Devil In My Room",
+    "artist": "Inca Babies",
+    "isrc": "GBBLY0604617"
+  },
+  {
+    "title": "Skies",
+    "artist": "METRO DECAY",
+    "isrc": "USA371539315"
+  },
+  {
+    "title": "Je cherche une drogue (qui ne fait pas mal)",
+    "artist": "Orchestre Rouge",
+    "isrc": "FRZ080700588"
+  },
+  {
+    "title": "Bienvenue",
+    "artist": "Jad Wio",
+    "isrc": "FRZ089201070"
+  },
+  {
+    "title": "I Know The Power Of Words",
+    "artist": "Complot Bronswick",
+    "isrc": "FR6V88400015"
+  },
+  {
+    "title": "Toll",
+    "artist": "Spiral Of Silence",
+    "isrc": "GBKPL2149402"
+  },
+  {
+    "title": "Scandale Dans La Famille",
+    "artist": "Ausweis",
+    "isrc": "FRX088390077"
+  },
+  {
+    "title": "Darkzone",
+    "artist": "Insulin Reaction",
+    "isrc": "US5WC1000859"
+  },
+  {
+    "title": "The Beautiful Silence",
+    "artist": "And Also The Trees",
+    "isrc": "GBTKD0700002"
+  },
+  {
+    "title": "Coffee Song",
+    "artist": "Film Noir",
+    "isrc": "grca10800037"
+  },
+  {
+    "title": "Amen Yves",
+    "artist": "For Against",
+    "isrc": "USAQP0702204"
+  },
+  {
+    "title": "New York Voices",
+    "artist": "Screaming for Emily",
+    "isrc": "ushm90755157"
+  },
+  {
+    "title": "Love In A Dying World",
+    "artist": "The Veil",
+    "isrc": "QM4TW1702805"
+  },
+  {
+    "title": "Last Year's Wife - 12\" Version",
+    "artist": "Zero Le Creche",
+    "isrc": "GBBLY0800458"
+  },
+  {
+    "title": "The Gold Of Our Lives",
+    "artist": "Furyo",
+    "isrc": "GBBLY8400140"
+  },
+  {
+    "title": "Flesh On Flesh",
+    "artist": "The Snake Corps",
+    "isrc": "GBBLY8500272"
+  },
+  {
+    "title": "Fantastic",
+    "artist": "Kitchen and the Plastic Spoons",
+    "isrc": "sewab0700104"
+  },
+  {
+    "title": "Secrets Told",
+    "artist": "Violet Town",
+    "isrc": "uscgh1391762"
+  },
+  {
+    "title": "I Love You",
+    "artist": "ALSO",
+    "isrc": "USFPT1000001"
+  },
+  {
+    "title": "Beyond the Fences of Reality",
+    "artist": "Camp Z",
+    "isrc": "DEGQ80901349"
+  },
+  {
+    "title": "Ge mig ljuset",
+    "artist": "Diskoteket",
+    "isrc": "GBLFP1554864"
+  },
+  {
+    "title": "Chaque Chose",
+    "artist": "Droserae",
+    "isrc": "FRDKW2205736"
+  },
+  {
+    "title": "Prism",
+    "artist": "GESTALT",
+    "isrc": "QMFME1572656"
+  },
+  {
+    "title": "Liberty",
+    "artist": "Joy of Life",
+    "isrc": "QM4TW2132421"
+  },
+  {
+    "title": "Acqua Di Luna",
+    "artist": "Leitmotiv",
+    "isrc": "ushm90843175"
+  },
+  {
+    "title": "Kiss Me Love",
+    "artist": "Mary Goes Round",
+    "isrc": "FR6V81038894"
+  },
+  {
+    "title": "Individuality",
+    "artist": "Siglo xx",
+    "isrc": "BEC010500103"
+  },
+  {
+    "title": "New Flood",
+    "artist": "Little Nemo",
+    "isrc": "QZAPG1876719"
+  },
+  {
+    "title": "Firehorse",
+    "artist": "Party Day",
+    "isrc": "UK7VX1600020"
+  },
+  {
+    "title": "Breaking Down",
+    "artist": "Trisomie 21",
+    "isrc": "TCAFF2053615"
+  },
+  {
+    "title": "Hope and Despair",
+    "artist": "Isolation Ward",
+    "isrc": "GBHBR0404624"
+  },
+  {
+    "title": "Still Waters",
+    "artist": "Siiiii",
+    "isrc": "ushm21029965"
+  },
+  {
+    "title": "Stonehenge",
+    "artist": "Cold Phoenix",
+    "isrc": "IT00L0800057"
+  },
+  {
+    "title": "Leading Stolen Horses",
+    "artist": "Glorious Din",
+    "isrc": "USBAE1316901"
+  },
+  {
+    "title": "Dead Cats",
+    "artist": "Remain In Silence",
+    "isrc": "DEMV91302255"
+  },
+  {
+    "title": "Seance",
+    "artist": "Twisted Nerve",
+    "isrc": "US5UL2124165"
+  },
+  {
+    "title": "Bed in Summer",
+    "artist": "Norma Loy",
+    "isrc": "FR6V80122748"
+  },
+  {
+    "title": "Robert's Eyes",
+    "artist": "No Tears",
+    "isrc": "FR6V80628567"
+  },
+  {
+    "title": "The End",
+    "artist": "Soror Dolorosa",
+    "isrc": "DES561718309"
+  },
+  {
+    "title": "Life By the Sea",
+    "artist": "THE NAMES",
+    "isrc": "GBHBR0405086"
+  },
+  {
+    "title": "Twijfels",
+    "artist": "De Brassers",
+    "isrc": "GB-SMU-12-01203"
+  },
+  {
+    "title": "Ruh",
+    "artist": "She Past Away",
+    "isrc": "ATR981128718"
+  },
+  {
+    "title": "The Sun & The Moon",
+    "artist": "Passion Noire",
+    "isrc": "CAAD21110442"
+  },
+  {
+    "title": "Opium Den",
+    "artist": "Inca Babies",
+    "isrc": "GBBLY0604626"
+  },
+  {
+    "title": "To Pagoma Tou Pathous",
+    "artist": "METRO DECAY",
+    "isrc": "USA371539311"
+  },
+  {
+    "title": "Soft Kiss",
+    "artist": "Orchestre Rouge",
+    "isrc": "FRZ080700593"
+  },
+  {
+    "title": "Das ist...",
+    "artist": "Jad Wio",
+    "isrc": "FR1W90700010"
+  },
+  {
+    "title": "Le Coeur Et La Raison",
+    "artist": "Complot Bronswick",
+    "isrc": "FR6V88100053"
+  }
+]

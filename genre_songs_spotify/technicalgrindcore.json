@@ -1,0 +1,612 @@
+[
+  {
+    "title": "Constant Autumn",
+    "artist": "Gridlink",
+    "isrc": "USRMX2300085"
+  },
+  {
+    "title": "Castration Rite",
+    "artist": "Discordance Axis",
+    "isrc": "USRMX2100072"
+  },
+  {
+    "title": "Yorha",
+    "artist": "No One Knows What The Dead Think",
+    "isrc": "USRMX1800131"
+  },
+  {
+    "title": "Disconnected",
+    "artist": "Antigama",
+    "isrc": "US2640911801"
+  },
+  {
+    "title": "Ohrwurm",
+    "artist": "Cephalic Carnage",
+    "isrc": "US2641005509"
+  },
+  {
+    "title": "Weeding Out the Thorns",
+    "artist": "Human Remains",
+    "isrc": "US2640248904"
+  },
+  {
+    "title": "Warsaw",
+    "artist": "Bandit",
+    "isrc": "GBSMU5936194"
+  },
+  {
+    "title": "Family Tree to Hang From",
+    "artist": "Circle Of Dead Children",
+    "isrc": "QMFME2242790"
+  },
+  {
+    "title": "Anti-Music",
+    "artist": "Six Brew Bantha",
+    "isrc": "QMFME1387212"
+  },
+  {
+    "title": "Dracula With Glasses",
+    "artist": "Burnt By The Sun",
+    "isrc": "US2640252001"
+  },
+  {
+    "title": "Scourge of the Offspring",
+    "artist": "Cattle Decapitation",
+    "isrc": "USMBR2215634"
+  },
+  {
+    "title": "_its Hard to Hail a Cab While Holding Yourself at Gunpoint",
+    "artist": "Found Dead Hanging",
+    "isrc": "USTC10636791"
+  },
+  {
+    "title": "We're Not Gonna Make It",
+    "artist": "Beaten To Death",
+    "isrc": "NODBI2401080"
+  },
+  {
+    "title": "Necrobot",
+    "artist": "Cloacal Kiss",
+    "isrc": "QM6N21546968"
+  },
+  {
+    "title": "Horse-Drawn",
+    "artist": "Destroyer Destroyer",
+    "isrc": "CAG320710379"
+  },
+  {
+    "title": "Dromology",
+    "artist": "Asterisk*",
+    "isrc": "QMFMG1361034"
+  },
+  {
+    "title": "Moths",
+    "artist": "Plague Widow",
+    "isrc": "SEYOK1770681"
+  },
+  {
+    "title": "Crown",
+    "artist": "A MILLION DEAD BIRDS LAUGHING, Absurdist",
+    "isrc": "ESA011885327"
+  },
+  {
+    "title": "Can I Be Aborted, Even Though I'm 29?",
+    "artist": "The Sound That Ends Creation",
+    "isrc": "QZK6J2067715"
+  },
+  {
+    "title": "Splited",
+    "artist": "Bufihimat",
+    "isrc": "USRMX1800058"
+  },
+  {
+    "title": "Salt Mine (Assuck)",
+    "artist": "Priapus",
+    "isrc": "ushm81258640"
+  },
+  {
+    "title": "Silence Beyone The Delicate",
+    "artist": "Commit Suicide",
+    "isrc": "US4LA0711802"
+  },
+  {
+    "title": "9.8m Sec2endorphinenosedive",
+    "artist": "ByoNoiseGenerator",
+    "isrc": "QZES71896030"
+  },
+  {
+    "title": "Voice of the Worthless",
+    "artist": "Piss Vortex",
+    "isrc": "DKMB51400302"
+  },
+  {
+    "title": "Aposepsy",
+    "artist": "Aposepsy",
+    "isrc": "CALB81277503"
+  },
+  {
+    "title": "For Profit",
+    "artist": "Bayht Lahm",
+    "isrc": "QZFZ31958469"
+  },
+  {
+    "title": "Lycoris",
+    "artist": "Urobilinemia",
+    "isrc": "QZ4H21600015"
+  },
+  {
+    "title": "Bottom Feeder",
+    "artist": "Kataplexis",
+    "isrc": "USXQS1307080"
+  },
+  {
+    "title": "Konec Kontinentalniho Kontejneru",
+    "artist": "!T.O.O.H.!",
+    "isrc": "GBBPB0701814"
+  },
+  {
+    "title": "Break Me Down",
+    "artist": "Mincing Fury and Guttural Clamour of Queer Decay",
+    "isrc": "ESA012145416"
+  },
+  {
+    "title": "Bohemiath",
+    "artist": "Luddite Clone",
+    "isrc": "US3H40002404"
+  },
+  {
+    "title": "Bye Bye Baby",
+    "artist": "Hivesmasher",
+    "isrc": "TCABJ1206137"
+  },
+  {
+    "title": "Grind Code",
+    "artist": "Violent Opposition",
+    "isrc": "ushm81676001"
+  },
+  {
+    "title": "Destroy Industry",
+    "artist": "Vimana",
+    "isrc": "USRMX1800002"
+  },
+  {
+    "title": "Death Unyielding",
+    "artist": "Xythlia",
+    "isrc": "ushm82081107"
+  },
+  {
+    "title": "Fatal Impasse",
+    "artist": "Formless Master",
+    "isrc": "ushm91964169"
+  },
+  {
+    "title": "Pearl Harbor Necklace",
+    "artist": "Black Arrows of Filth and Impurity",
+    "isrc": "USH620810044"
+  },
+  {
+    "title": "Lewds of an Anime Girl in a Suit Signing Off On a Business Acquisition With a $300 Pen",
+    "artist": "Tentacle Witches",
+    "isrc": "GBSMU5700731"
+  },
+  {
+    "title": "Thousand-Eye Stare",
+    "artist": "Invidiosus",
+    "isrc": "usl4q1815064"
+  },
+  {
+    "title": "Hooves of Oblivion",
+    "artist": "Estuarine",
+    "isrc": "QZFYX2105741"
+  },
+  {
+    "title": "Suicide Nets",
+    "artist": "Marburg",
+    "isrc": "ushm21917549"
+  },
+  {
+    "title": "VII",
+    "artist": "Gas Chamber",
+    "isrc": "US4KC1173511"
+  },
+  {
+    "title": "Like Wolves",
+    "artist": "Blurring",
+    "isrc": "QZES51972670"
+  },
+  {
+    "title": "Humiliation Fetish",
+    "artist": "Beasters",
+    "isrc": "usl4q1992825"
+  },
+  {
+    "title": "The Grandmas Molestor",
+    "artist": "Absolute Disgrace",
+    "isrc": "BRCOG0400160"
+  },
+  {
+    "title": "The Trenches of Chasma",
+    "artist": "Alien Crucifixion",
+    "isrc": "QM4TW1537527"
+  },
+  {
+    "title": "Option To Kill",
+    "artist": "Barra Xul",
+    "isrc": "QZNWW2130644"
+  },
+  {
+    "title": "War Engine",
+    "artist": "Bodies In the Gears of the Apparatus, Despised Icon",
+    "isrc": "US2640563201"
+  },
+  {
+    "title": "Ulcer Island",
+    "artist": "Buckshot Facelift",
+    "isrc": "QM4TX1797583"
+  },
+  {
+    "title": "2084",
+    "artist": "George Orwell the Musical",
+    "isrc": "QZDA41919961"
+  },
+  {
+    "title": "Anti Human Apparatus",
+    "artist": "I the Intruder",
+    "isrc": "QZGWW2096129"
+  },
+  {
+    "title": "War on Stroggos",
+    "artist": "Kevlar Skin",
+    "isrc": "GBSMU7528639"
+  },
+  {
+    "title": "X",
+    "artist": "Lost Sphere Project",
+    "isrc": "DEBL60978642"
+  },
+  {
+    "title": "Seduce & Destroy",
+    "artist": "My Cross To Bare",
+    "isrc": "GBSMU9810579"
+  },
+  {
+    "title": "Noism 1",
+    "artist": "Noism",
+    "isrc": "US2640654311"
+  },
+  {
+    "title": "Behind The God",
+    "artist": "Nyia",
+    "isrc": "GBADD0409801"
+  },
+  {
+    "title": "Tyranny Stomp",
+    "artist": "Occult 45",
+    "isrc": "USQY51531545"
+  },
+  {
+    "title": "Oni",
+    "artist": "Onryō",
+    "isrc": "uscgj2058440"
+  },
+  {
+    "title": "Herd U Badd",
+    "artist": "The Abodox",
+    "isrc": "USA370911599"
+  },
+  {
+    "title": "Repulsion",
+    "artist": "The Senseless",
+    "isrc": "USA370674940"
+  },
+  {
+    "title": "Silk Ash Cascade",
+    "artist": "Gridlink",
+    "isrc": "USRMX2300113"
+  },
+  {
+    "title": "Oratorio In Grey",
+    "artist": "Discordance Axis",
+    "isrc": "USRMX2100075"
+  },
+  {
+    "title": "Autumn Flower",
+    "artist": "No One Knows What The Dead Think",
+    "isrc": "USRMX1800132"
+  },
+  {
+    "title": "Jealousy",
+    "artist": "Antigama",
+    "isrc": "US2640911802"
+  },
+  {
+    "title": "Let Them Hate So Long As They Fear",
+    "artist": "Cephalic Carnage",
+    "isrc": "US2640773608"
+  },
+  {
+    "title": "Human",
+    "artist": "Human Remains",
+    "isrc": "US2640248909"
+  },
+  {
+    "title": "Juniata",
+    "artist": "Bandit",
+    "isrc": "QZNWZ2293451"
+  },
+  {
+    "title": "Destiny of the Slug",
+    "artist": "Circle Of Dead Children",
+    "isrc": "QMFME2242795"
+  },
+  {
+    "title": "Prolong the Program",
+    "artist": "Six Brew Bantha",
+    "isrc": "QMFME1387204"
+  },
+  {
+    "title": "Soundtrack To The Worst Movie Ever",
+    "artist": "Burnt By The Sun",
+    "isrc": "US2640252002"
+  },
+  {
+    "title": "A.43 Caliber Defribrillater a Prototype of Sorts",
+    "artist": "Found Dead Hanging",
+    "isrc": "USTC10636790"
+  },
+  {
+    "title": "Bring Back the Plague",
+    "artist": "Cattle Decapitation",
+    "isrc": "USMBR1913933"
+  },
+  {
+    "title": "Dalbane",
+    "artist": "Beaten To Death",
+    "isrc": "NODBI2401010"
+  },
+  {
+    "title": "Venison Seraphim",
+    "artist": "Cloacal Kiss",
+    "isrc": "QM6N21546969"
+  },
+  {
+    "title": "A Golden Technique",
+    "artist": "Destroyer Destroyer",
+    "isrc": "CAG320710378"
+  },
+  {
+    "title": "The Peace of Exhaustion",
+    "artist": "Asterisk*",
+    "isrc": "QMFMG1361038"
+  },
+  {
+    "title": "Drowning Within The Abyss",
+    "artist": "Plague Widow",
+    "isrc": "SEYOK1770688"
+  },
+  {
+    "title": "Martyrdom in the Fourth Dimension",
+    "artist": "A MILLION DEAD BIRDS LAUGHING",
+    "isrc": "UKCVA1901916"
+  },
+  {
+    "title": "Bees Don't Care What Humans Think",
+    "artist": "The Sound That Ends Creation",
+    "isrc": "QZHN71974085"
+  },
+  {
+    "title": "Qualia",
+    "artist": "Bufihimat",
+    "isrc": "USRMX1800059"
+  },
+  {
+    "title": "Adversus",
+    "artist": "Priapus",
+    "isrc": "QZK6P1927648"
+  },
+  {
+    "title": "Ablation",
+    "artist": "Commit Suicide",
+    "isrc": "US4LA0711801"
+  },
+  {
+    "title": "4 FlutterFlux",
+    "artist": "ByoNoiseGenerator",
+    "isrc": "QZES71896032"
+  },
+  {
+    "title": "Detrimentalist",
+    "artist": "Piss Vortex",
+    "isrc": "DKMB51400301"
+  },
+  {
+    "title": "Anatomical Theatre-Dismemberment of Mortinatus",
+    "artist": "Aposepsy",
+    "isrc": "CALB81277502"
+  },
+  {
+    "title": "Heritage of Hate",
+    "artist": "Bayht Lahm",
+    "isrc": "QZHNA2316465"
+  },
+  {
+    "title": "完全感覚おち○ぽこ",
+    "artist": "Urobilinemia",
+    "isrc": "QZ4H21600018"
+  },
+  {
+    "title": "Nobody Lives Here Now",
+    "artist": "Kataplexis",
+    "isrc": "USXQS1307086"
+  },
+  {
+    "title": "Analyza Zahnedy",
+    "artist": "!T.O.O.H.!",
+    "isrc": "GBBPB0701813"
+  },
+  {
+    "title": "Paranormal Abnormal",
+    "artist": "Mincing Fury and Guttural Clamour of Queer Decay",
+    "isrc": "ESA012145443"
+  },
+  {
+    "title": "Acid Cop",
+    "artist": "Luddite Clone",
+    "isrc": "US3H40002406"
+  },
+  {
+    "title": "Vomitouch",
+    "artist": "Hivesmasher",
+    "isrc": "TCABJ1206138"
+  },
+  {
+    "title": "Everyone Is Getting Cancer",
+    "artist": "Violent Opposition",
+    "isrc": "usl4q1981412"
+  },
+  {
+    "title": "The Plague Of Man",
+    "artist": "Vimana",
+    "isrc": "USRMX1800003"
+  },
+  {
+    "title": "The Eye Bath",
+    "artist": "Xythlia",
+    "isrc": "ushm82081116"
+  },
+  {
+    "title": "The Clones of Bruce Lee",
+    "artist": "Formless Master",
+    "isrc": "usdy42002592"
+  },
+  {
+    "title": "Damn, Girlfriend, That Napalm Exfoliates As It Burns",
+    "artist": "Black Arrows of Filth and Impurity",
+    "isrc": "USH620810045"
+  },
+  {
+    "title": "Anime Girl Fixes Your Computer For You After It Breaks Down From Installing an Eroge With a Virus",
+    "artist": "Tentacle Witches",
+    "isrc": "GBSMU5700729"
+  },
+  {
+    "title": "Macrodose",
+    "artist": "Invidiosus",
+    "isrc": "ushm21995270"
+  },
+  {
+    "title": "Carriers of Shadow",
+    "artist": "Estuarine",
+    "isrc": "QZFYX2105739"
+  },
+  {
+    "title": "Sacricidal",
+    "artist": "Marburg",
+    "isrc": "ushm21917551"
+  },
+  {
+    "title": "Anhalter Bahnhof",
+    "artist": "Gridlink",
+    "isrc": "USRMX2300114"
+  },
+  {
+    "title": "Angel Present",
+    "artist": "Discordance Axis",
+    "isrc": "USRMX2100077"
+  },
+  {
+    "title": "Dominion",
+    "artist": "No One Knows What The Dead Think",
+    "isrc": "USRMX1800140"
+  },
+  {
+    "title": "Undeterminate",
+    "artist": "Antigama",
+    "isrc": "QM6P42200792"
+  },
+  {
+    "title": "Dying Will Be the Death of Me",
+    "artist": "Cephalic Carnage",
+    "isrc": "US2640563807"
+  },
+  {
+    "title": "Rote",
+    "artist": "Human Remains",
+    "isrc": "US2640248906"
+  },
+  {
+    "title": "Butterfly Knife",
+    "artist": "Bandit",
+    "isrc": "QZHN62399664"
+  },
+  {
+    "title": "Salt Rock Eyes",
+    "artist": "Circle Of Dead Children",
+    "isrc": "QMFME2242792"
+  },
+  {
+    "title": "Perpetual Debt",
+    "artist": "Six Brew Bantha",
+    "isrc": "QMFME1387199"
+  },
+  {
+    "title": "Forlani",
+    "artist": "Burnt By The Sun",
+    "isrc": "US2640360504"
+  },
+  {
+    "title": "Kingstock Portfolio Advice from Martha Stewart",
+    "artist": "Found Dead Hanging",
+    "isrc": "USTC10636788"
+  },
+  {
+    "title": "We Eat Our Young",
+    "artist": "Cattle Decapitation",
+    "isrc": "USMBR2215633"
+  },
+  {
+    "title": "Grind Korn",
+    "artist": "Beaten To Death",
+    "isrc": "NODBI1802010"
+  },
+  {
+    "title": "Easter",
+    "artist": "Cloacal Kiss",
+    "isrc": "QM6N21546975"
+  },
+  {
+    "title": "Off the Beaten Path",
+    "artist": "Destroyer Destroyer",
+    "isrc": "CAG320710381"
+  },
+  {
+    "title": "Stasis Is Death",
+    "artist": "Asterisk*",
+    "isrc": "QMFMG1361035"
+  },
+  {
+    "title": "No Faith//No Future",
+    "artist": "Plague Widow",
+    "isrc": "SEYOK1770684"
+  },
+  {
+    "title": "Hidden Hand",
+    "artist": "A MILLION DEAD BIRDS LAUGHING, Absurdist",
+    "isrc": "ESA011885326"
+  },
+  {
+    "title": "Let's Do The French Revolution (In A Video Game)",
+    "artist": "The Sound That Ends Creation",
+    "isrc": "QZTAU2349948"
+  },
+  {
+    "title": "Human Hive",
+    "artist": "Bufihimat",
+    "isrc": "USRMX1800061"
+  },
+  {
+    "title": "Pushing Up the Quicksilver",
+    "artist": "Priapus",
+    "isrc": "ushm81258634"
+  }
+]

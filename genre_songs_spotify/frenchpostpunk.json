@@ -1,0 +1,797 @@
+[
+  {
+    "title": "Demain Berlin",
+    "artist": "Guerre Froide",
+    "isrc": "DEOO20901402"
+  },
+  {
+    "title": "Never Come Back",
+    "artist": "Kas Product",
+    "isrc": "FRPEW1900150"
+  },
+  {
+    "title": "The Others",
+    "artist": "Rendez Vous",
+    "isrc": "FR9W11416598"
+  },
+  {
+    "title": "The Last Song",
+    "artist": "Trisomie 21",
+    "isrc": "BEC260710517"
+  },
+  {
+    "title": "Too Many Questions",
+    "artist": "Frustration",
+    "isrc": "FR6V80802349"
+  },
+  {
+    "title": "Technicolor",
+    "artist": "Charles De Goal",
+    "isrc": "FR6V89700070"
+  },
+  {
+    "title": "Edouard",
+    "artist": "Blind Delon",
+    "isrc": "FR96X1693322"
+  },
+  {
+    "title": "La poussière",
+    "artist": "Automelodi",
+    "isrc": "USA2P1912014"
+  },
+  {
+    "title": "Cherchez le garçon",
+    "artist": "Taxi Girl",
+    "isrc": "FRZ111000263"
+  },
+  {
+    "title": "Re Bop - Remastered",
+    "artist": "Marie et les garçons",
+    "isrc": "FR6T51604204"
+  },
+  {
+    "title": "Game And Performance",
+    "artist": "Deux",
+    "isrc": "US8YW1100012"
+  },
+  {
+    "title": "Cadavres Exquis",
+    "artist": "Little Nemo",
+    "isrc": "QZAPG1876702"
+  },
+  {
+    "title": "Disco Rough",
+    "artist": "Mathématiques Modernes",
+    "isrc": "FRZ558200012"
+  },
+  {
+    "title": "Tableau IV (La Beatitude)",
+    "artist": "Peine Perdue",
+    "isrc": "NLF6Z1700004"
+  },
+  {
+    "title": "Polaroid / Roman / Photo",
+    "artist": "Ruth",
+    "isrc": "GBHYU1000071"
+  },
+  {
+    "title": "Dans Ta Face",
+    "artist": "Potochkine",
+    "isrc": "FR-1A9-16-00213"
+  },
+  {
+    "title": "À Contrecoeur",
+    "artist": "Hante.",
+    "isrc": "SEYOK1644734"
+  },
+  {
+    "title": "Wanda's Loving Boy",
+    "artist": "Marquis De Sade",
+    "isrc": "FRY450800418"
+  },
+  {
+    "title": "A Thousand Birds",
+    "artist": "Poison Point",
+    "isrc": "ITFRN1800277"
+  },
+  {
+    "title": "Ils S'eloigent",
+    "artist": "Opera Multi Steel",
+    "isrc": "GBHYU0900136"
+  },
+  {
+    "title": "Give Me More Kohl",
+    "artist": "JE T’AIME",
+    "isrc": "FR9W12129235"
+  },
+  {
+    "title": "La Machine á Rêver",
+    "artist": "X Ray Pop",
+    "isrc": "USQY51741190"
+  },
+  {
+    "title": "Viol af 015",
+    "artist": "Casino Music",
+    "isrc": "FR6V80523440"
+  },
+  {
+    "title": "Uniform with No Brain",
+    "artist": "Delacave",
+    "isrc": "FR9W11623856"
+  },
+  {
+    "title": "Baphomet Sunrise - Velvet Kills Remix",
+    "artist": "Norma Loy",
+    "isrc": "ITR831900091"
+  },
+  {
+    "title": "Histoires Parallèles",
+    "artist": "Order89",
+    "isrc": "FR9W12034763"
+  },
+  {
+    "title": "Le Cœur",
+    "artist": "Galatée",
+    "isrc": "QM4DW1615763"
+  },
+  {
+    "title": "Adieu Paris",
+    "artist": "Les Fils De Joie",
+    "isrc": "FR6V80852109"
+  },
+  {
+    "title": "C'est si lisse",
+    "artist": "Usé",
+    "isrc": "FR0Q11600445"
+  },
+  {
+    "title": "Fire",
+    "artist": "Lizzy Mercier Descloux",
+    "isrc": "FR6T50300217"
+  },
+  {
+    "title": "L'aigle noir",
+    "artist": "Warum Joe",
+    "isrc": "CH6542150687"
+  },
+  {
+    "title": "If Only They Could",
+    "artist": "MNNQNS",
+    "isrc": "GBDCA1803409"
+  },
+  {
+    "title": "Détruire Carthage",
+    "artist": "Varsovie",
+    "isrc": "FR9W11323589"
+  },
+  {
+    "title": "Electrique Sylvie",
+    "artist": "Modern Guy",
+    "isrc": "GBHCD1150073"
+  },
+  {
+    "title": "Je t'en vais",
+    "artist": "Tropique Noir",
+    "isrc": "FR9W11907711"
+  },
+  {
+    "title": "Autumn Wounds",
+    "artist": "Soror Dolorosa",
+    "isrc": "DES561618802"
+  },
+  {
+    "title": "Cobra! Cobra!",
+    "artist": "Tokow Boys",
+    "isrc": "FR0018102100"
+  },
+  {
+    "title": "Isati",
+    "artist": "Grand Blanc",
+    "isrc": "FRPI61800220"
+  },
+  {
+    "title": "Star ou rien",
+    "artist": "Alain Kan",
+    "isrc": "FRZ082300022"
+  },
+  {
+    "title": "La Forêt",
+    "artist": "Lescop",
+    "isrc": "FR9W11109681"
+  },
+  {
+    "title": "Antifrance",
+    "artist": "Modern Men",
+    "isrc": "QZWFH2308630"
+  },
+  {
+    "title": "Kick Your Ass",
+    "artist": "Lucrate Milk",
+    "isrc": "QMFMF1408921"
+  },
+  {
+    "title": "MAD",
+    "artist": "Tableraz",
+    "isrc": "QZNWR2085434"
+  },
+  {
+    "title": "EGO BOX",
+    "artist": "W!ZARD",
+    "isrc": "FR9W12365397"
+  },
+  {
+    "title": "Distance",
+    "artist": "Ici Dix-Sept",
+    "isrc": "FR9W12034335"
+  },
+  {
+    "title": "James Dean",
+    "artist": "Otchim",
+    "isrc": "RUA3R2059132"
+  },
+  {
+    "title": "Cocaïna Vitamina",
+    "artist": "ADN' Ckrystall",
+    "isrc": "USQY51741211"
+  },
+  {
+    "title": "Abîme",
+    "artist": "Contre Jour",
+    "isrc": "CH6541847741"
+  },
+  {
+    "title": "Chullachaqui",
+    "artist": "Veik",
+    "isrc": "UKRNU1900273"
+  },
+  {
+    "title": "M.A.E.",
+    "artist": "Artefact",
+    "isrc": "GBHCD1153255"
+  },
+  {
+    "title": "Suicide Romeo",
+    "artist": "Suicide Romeo",
+    "isrc": "FR6T50804501"
+  },
+  {
+    "title": "Cardiocleptomanie (Remastered)",
+    "artist": "Pas De Deux",
+    "isrc": "BEV981900010"
+  },
+  {
+    "title": "Fade Away",
+    "artist": "Joy/Disaster",
+    "isrc": "QM6MZ1942965"
+  },
+  {
+    "title": "Disarticulate the Night",
+    "artist": "IV Horsemen",
+    "isrc": "DK9D51800202"
+  },
+  {
+    "title": "I Want Her",
+    "artist": "Von Pariahs",
+    "isrc": "FRP621500400"
+  },
+  {
+    "title": "Kiko Says",
+    "artist": "Babel 17",
+    "isrc": "FR6V80122728"
+  },
+  {
+    "title": "Ultime atome",
+    "artist": "Franz Kultur & Les Kramés",
+    "isrc": "FR0Q11400296"
+  },
+  {
+    "title": "60 Amor",
+    "artist": "La Bande au Col Roulé",
+    "isrc": "FR0Q11400292"
+  },
+  {
+    "title": "Airport",
+    "artist": "Les Stagiaires",
+    "isrc": "FR0Q11400291"
+  },
+  {
+    "title": "Night Virus / Human Contact",
+    "artist": "Meca Rythm",
+    "isrc": "FR0Q11400297"
+  },
+  {
+    "title": "Wc Boy",
+    "artist": "Medikao",
+    "isrc": "FR0Q11400290"
+  },
+  {
+    "title": "Un billet pour l'éternité",
+    "artist": "Perspective Nevski",
+    "isrc": "FR0Q11400298"
+  },
+  {
+    "title": "Born in a Cage",
+    "artist": "Droserae",
+    "isrc": "FR6V80122736"
+  },
+  {
+    "title": "The Rope",
+    "artist": "ClairObscur",
+    "isrc": "GBMJG2021440"
+  },
+  {
+    "title": "Ankara Punk",
+    "artist": "Hermetic Delight",
+    "isrc": "QM4TX2419530"
+  },
+  {
+    "title": "Amnesia",
+    "artist": "Cloud Factory",
+    "isrc": "FR5R00911305"
+  },
+  {
+    "title": "Headwar",
+    "artist": "Alice Gift",
+    "isrc": "FR9W12329309"
+  },
+  {
+    "title": "Departure Lounge",
+    "artist": "Bracco",
+    "isrc": "FR5R00907764"
+  },
+  {
+    "title": "Amazing",
+    "artist": "DaGeist",
+    "isrc": "DEGQ81604924"
+  },
+  {
+    "title": "Finies les folies",
+    "artist": "Dumb Train",
+    "isrc": "SEYOK1840620"
+  },
+  {
+    "title": "Obey",
+    "artist": "Kamarad",
+    "isrc": "TCAGP2266013"
+  },
+  {
+    "title": "Feed the Dogs",
+    "artist": "Koban",
+    "isrc": "QMWDS1100056"
+  },
+  {
+    "title": "Ver Les Mines Du Golgotha",
+    "artist": "Lucie Cries",
+    "isrc": "GBAD20610223"
+  },
+  {
+    "title": "Prisonniers de la surface",
+    "artist": "Palo Alto, Klimperei",
+    "isrc": "QM6N21859398"
+  },
+  {
+    "title": "Heart is a poison bag",
+    "artist": "Prohibition",
+    "isrc": "FR6V89802962"
+  },
+  {
+    "title": "Le bout du monde",
+    "artist": "Thérèse Racket",
+    "isrc": "FR6V81594143"
+  },
+  {
+    "title": "Les Choses Qu'On N'Oublie Pas",
+    "artist": "Trop Tard",
+    "isrc": "US5NR1267301"
+  },
+  {
+    "title": "Au fond du square",
+    "artist": "Tupelo Soul",
+    "isrc": "CH6541852103"
+  },
+  {
+    "title": "Hymne",
+    "artist": "Versari",
+    "isrc": "FR1HJ1200060"
+  },
+  {
+    "title": "L'espérance",
+    "artist": "Guerre Froide",
+    "isrc": "FR6V81594140"
+  },
+  {
+    "title": "So Young But So Cold",
+    "artist": "Kas Product",
+    "isrc": "FRPEW1900170"
+  },
+  {
+    "title": "Exposition",
+    "artist": "Charles De Goal",
+    "isrc": "FR6V89700061"
+  },
+  {
+    "title": "State of Alert",
+    "artist": "Frustration",
+    "isrc": "FR0Q12401687"
+  },
+  {
+    "title": "Plasticity",
+    "artist": "Rendez Vous",
+    "isrc": "FR9W11416599"
+  },
+  {
+    "title": "The Cave and the Light",
+    "artist": "Trisomie 21",
+    "isrc": "TCAFF2018442"
+  },
+  {
+    "title": "Cavallo",
+    "artist": "Automelodi",
+    "isrc": "TCAIG2478935"
+  },
+  {
+    "title": "Elle",
+    "artist": "Blind Delon",
+    "isrc": "FR9W12006138"
+  },
+  {
+    "title": "Rien à dire - Remastered",
+    "artist": "Marie et les garçons",
+    "isrc": "FR6T51604201"
+  },
+  {
+    "title": "Dance With Me",
+    "artist": "Deux",
+    "isrc": "US8YW1100015"
+  },
+  {
+    "title": "Paris",
+    "artist": "Taxi Girl",
+    "isrc": "FRZ048400003"
+  },
+  {
+    "title": "A Day out of Time",
+    "artist": "Little Nemo",
+    "isrc": "ESA011311710"
+  },
+  {
+    "title": "Jungle Hurt",
+    "artist": "Mathématiques Modernes",
+    "isrc": "FRZ558200011"
+  },
+  {
+    "title": "Je penche",
+    "artist": "Peine Perdue",
+    "isrc": "DEYX82155851"
+  },
+  {
+    "title": "Possédée",
+    "artist": "Potochkine",
+    "isrc": "FR9W12103774"
+  },
+  {
+    "title": "Mots",
+    "artist": "Ruth",
+    "isrc": "GBHYU1000075"
+  },
+  {
+    "title": "Back To Cruelty",
+    "artist": "Marquis De Sade",
+    "isrc": "FRY450800417"
+  },
+  {
+    "title": "Lies//Light",
+    "artist": "Hante.",
+    "isrc": "SEYOK1727168"
+  },
+  {
+    "title": "Mysteries In Fire",
+    "artist": "Poison Point",
+    "isrc": "ITFRN1800271"
+  },
+  {
+    "title": "Cathedrale",
+    "artist": "Opera Multi Steel",
+    "isrc": "FR26V2062178"
+  },
+  {
+    "title": "Out of Sight",
+    "artist": "JE T’AIME",
+    "isrc": "FR9W12129266"
+  },
+  {
+    "title": "La Machine á Rêver - Red Axes Edit",
+    "artist": "X Ray Pop",
+    "isrc": "USA2P1701377"
+  },
+  {
+    "title": "The Beat Goes On",
+    "artist": "Casino Music",
+    "isrc": "FR6T50401305"
+  },
+  {
+    "title": "Fatherless",
+    "artist": "Delacave",
+    "isrc": "FXQ292300001"
+  },
+  {
+    "title": "Dreamland",
+    "artist": "Norma Loy",
+    "isrc": "FR6V81594147"
+  },
+  {
+    "title": "L'espace et le temps",
+    "artist": "Order89",
+    "isrc": "FR9W11911187"
+  },
+  {
+    "title": "Le Juin La Sirène",
+    "artist": "Galatée",
+    "isrc": "QM4DW1615814"
+  },
+  {
+    "title": "Tonton Macoute - Remix Olivier de Joie",
+    "artist": "Les Fils De Joie, Olivier de Joie",
+    "isrc": "CH6542080347"
+  },
+  {
+    "title": "Danser un slow avec un flic",
+    "artist": "Usé",
+    "isrc": "FROQ11800773"
+  },
+  {
+    "title": "Ralph und Karl",
+    "artist": "Warum Joe",
+    "isrc": "FR13Z2000032"
+  },
+  {
+    "title": "Wawa",
+    "artist": "Lizzy Mercier Descloux",
+    "isrc": "FR6T50300102"
+  },
+  {
+    "title": "Full Circle Back",
+    "artist": "MNNQNS",
+    "isrc": "FRDIE2100050"
+  },
+  {
+    "title": "Perspective Nevski",
+    "artist": "Varsovie",
+    "isrc": "USL4Q2393382"
+  },
+  {
+    "title": "Juste Besoin",
+    "artist": "Modern Guy",
+    "isrc": "GBHCD1150074"
+  },
+  {
+    "title": "Neige Et Feu",
+    "artist": "Tropique Noir",
+    "isrc": "FR9W12007627"
+  },
+  {
+    "title": "That Run",
+    "artist": "Soror Dolorosa",
+    "isrc": "DES561718303"
+  },
+  {
+    "title": "Swinging-pool",
+    "artist": "Tokow Boys",
+    "isrc": "FR13Z2000028"
+  },
+  {
+    "title": "L'amour fou",
+    "artist": "Grand Blanc",
+    "isrc": "FRPI61500720"
+  },
+  {
+    "title": "Heureusement en France on ne se drogue pas",
+    "artist": "Alain Kan",
+    "isrc": "FR45F7400310"
+  },
+  {
+    "title": "Partout en France",
+    "artist": "Modern Men",
+    "isrc": "QZK6F2123564"
+  },
+  {
+    "title": "No Kods",
+    "artist": "Lucrate Milk",
+    "isrc": "QMFMF1408915"
+  },
+  {
+    "title": "Les garçons",
+    "artist": "Lescop",
+    "isrc": "FR9DT2300600"
+  },
+  {
+    "title": "LAKE",
+    "artist": "Tableraz",
+    "isrc": "QZTB32311670"
+  },
+  {
+    "title": "STUPID CUNT IN THE MALL",
+    "artist": "W!ZARD",
+    "isrc": "FR9W12365395"
+  },
+  {
+    "title": "Les ondes",
+    "artist": "Ici Dix-Sept",
+    "isrc": "FR9W11928179"
+  },
+  {
+    "title": "Blanc",
+    "artist": "Otchim",
+    "isrc": "RUA3R2059129"
+  },
+  {
+    "title": "Mini romance",
+    "artist": "ADN' Ckrystall",
+    "isrc": "FR0Q11400286"
+  },
+  {
+    "title": "This Feeling",
+    "artist": "Contre Jour",
+    "isrc": "CH6541824466"
+  },
+  {
+    "title": "Political Apathy",
+    "artist": "Veik",
+    "isrc": "UKRNU1900266"
+  },
+  {
+    "title": "Sex Computer",
+    "artist": "Artefact",
+    "isrc": "GBHCD1153256"
+  },
+  {
+    "title": "Gris",
+    "artist": "Suicide Romeo",
+    "isrc": "FR6T50804502"
+  },
+  {
+    "title": "Rendez-Vous (Remastered)",
+    "artist": "Pas De Deux",
+    "isrc": "BEV981900001"
+  },
+  {
+    "title": "Critical Place",
+    "artist": "Joy/Disaster",
+    "isrc": "QM6MZ1942962"
+  },
+  {
+    "title": "Mauve",
+    "artist": "Guerre Froide",
+    "isrc": "DEOO20901403"
+  },
+  {
+    "title": "Man of Time",
+    "artist": "Kas Product",
+    "isrc": "FRPEW1900120"
+  },
+  {
+    "title": "Figures Imposées",
+    "artist": "Charles De Goal",
+    "isrc": "FR6V80802921"
+  },
+  {
+    "title": "Catching Your Eye",
+    "artist": "Frustration",
+    "isrc": "FR0Q12401689"
+  },
+  {
+    "title": "La Fête Triste",
+    "artist": "Trisomie 21",
+    "isrc": "TCAFF2054420"
+  },
+  {
+    "title": "Distance",
+    "artist": "Rendez Vous",
+    "isrc": "ITJ501600160"
+  },
+  {
+    "title": "Métropole Sous la Pluie",
+    "artist": "Automelodi",
+    "isrc": "USQY51771453"
+  },
+  {
+    "title": "Sueur",
+    "artist": "Blind Delon",
+    "isrc": "TCAIC2438188"
+  },
+  {
+    "title": "Attitudes - Remastered",
+    "artist": "Marie et les garçons",
+    "isrc": "FR6T51604205"
+  },
+  {
+    "title": "Sex And Trouble",
+    "artist": "Deux",
+    "isrc": "US8YW1100018"
+  },
+  {
+    "title": "Aussi belle qu'une balle",
+    "artist": "Taxi Girl",
+    "isrc": "BEP011300095"
+  },
+  {
+    "title": "New Flood",
+    "artist": "Little Nemo",
+    "isrc": "QZAPG1876719"
+  },
+  {
+    "title": "Réponds moi",
+    "artist": "Mathématiques Modernes",
+    "isrc": "FRZ558200014"
+  },
+  {
+    "title": "Ombre Trouble",
+    "artist": "Peine Perdue",
+    "isrc": "NLF6Z1800019"
+  },
+  {
+    "title": "Fleurs D'Hypnose",
+    "artist": "Potochkine",
+    "isrc": "FR-1A9-16-00216"
+  },
+  {
+    "title": "You",
+    "artist": "Ruth",
+    "isrc": "QZS7J2358591"
+  },
+  {
+    "title": "Final Fog",
+    "artist": "Marquis De Sade",
+    "isrc": "FRY450800424"
+  },
+  {
+    "title": "Live to Die Another Day",
+    "artist": "Hante.",
+    "isrc": "SEYOK1727171"
+  },
+  {
+    "title": "Blue Idol",
+    "artist": "Poison Point",
+    "isrc": "ITFRN1800270"
+  },
+  {
+    "title": "Jardin Botanique",
+    "artist": "Opera Multi Steel",
+    "isrc": "USQY51741811"
+  },
+  {
+    "title": "C++",
+    "artist": "JE T’AIME",
+    "isrc": "QM6MZ1942492"
+  },
+  {
+    "title": "Alcool",
+    "artist": "X Ray Pop",
+    "isrc": "USQY51741192"
+  },
+  {
+    "title": "Faites le proton",
+    "artist": "Casino Music",
+    "isrc": "FR6T50300225"
+  },
+  {
+    "title": "The Way of Nothing",
+    "artist": "Delacave",
+    "isrc": "FR9W11623858"
+  },
+  {
+    "title": "Bed in Summer",
+    "artist": "Norma Loy",
+    "isrc": "FR6V80122748"
+  },
+  {
+    "title": "Vert Colère",
+    "artist": "Order89",
+    "isrc": "DGA0L2306952"
+  },
+  {
+    "title": "Nous ne dansons plus la nuit",
+    "artist": "Les Fils De Joie, Olivier de Joie",
+    "isrc": "CH6542080367"
+  }
+]

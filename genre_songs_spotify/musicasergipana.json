@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Cabô Tristeza",
+    "artist": "Alex Sant'Anna",
+    "isrc": "BKSSG2200039"
+  },
+  {
+    "title": "A Fila",
+    "artist": "Sandyalê",
+    "isrc": "BRXXD1400009"
+  },
+  {
+    "title": "Cumbia Madrugada",
+    "artist": "Mestre Madruguinha",
+    "isrc": "US7VG1725893"
+  },
+  {
+    "title": "Pense N'eu",
+    "artist": "Mamah, Táia",
+    "isrc": "BCNNA2300002"
+  },
+  {
+    "title": "Laroyê",
+    "artist": "Táia, Pardall Mc",
+    "isrc": "BCNNA2300001"
+  },
+  {
+    "title": "Que Amor é Esse?",
+    "artist": "A Banda dos Corações Partidos, Stella",
+    "isrc": "BCSR12200046"
+  },
+  {
+    "title": "Bomfim",
+    "artist": "Naurêa",
+    "isrc": "BRAPI0800771"
+  },
+  {
+    "title": "Propagandas",
+    "artist": "Thiago Ruas, Lau e Eu",
+    "isrc": "BXTR02300001"
+  },
+  {
+    "title": "Galega de Sol",
+    "artist": "Samba do Arnesto, Mestre Madruguinha",
+    "isrc": "BKSSG2400027"
+  },
+  {
+    "title": "Arrastada",
+    "artist": "Patrícia Polayne",
+    "isrc": "BRFBE0900068"
+  },
+  {
+    "title": "A Rosa",
+    "artist": "Jaque Barroso, Radiola Jamaicana",
+    "isrc": "QZ5AB2071025"
+  },
+  {
+    "title": "Lá Se Vai Mais uma Vida",
+    "artist": "LUNO",
+    "isrc": "BX5U32100005"
+  },
+  {
+    "title": "Retrofuturismo",
+    "artist": "Donali",
+    "isrc": "BXDVH2300006"
+  },
+  {
+    "title": "Deserto",
+    "artist": "The Baggios, BaianaSystem",
+    "isrc": "BRTCD1800024"
+  },
+  {
+    "title": "Quero Colo",
+    "artist": "Julico",
+    "isrc": "BRT1K2300008"
+  },
+  {
+    "title": "Cédulas",
+    "artist": "Banda Reação, Marcelo Falcão",
+    "isrc": "BRTCD2100019"
+  },
+  {
+    "title": "Que Seja",
+    "artist": "morgana",
+    "isrc": "BKMGR2200001"
+  },
+  {
+    "title": "Te Faço um Cafuné",
+    "artist": "Mestrinho",
+    "isrc": "BR75X1700004"
+  },
+  {
+    "title": "Surreal Projeção",
+    "artist": "Plástico Lunar",
+    "isrc": "BX5U32200005"
+  },
+  {
+    "title": "Descese",
+    "artist": "Tori, Bruno Berle",
+    "isrc": "BCTJ82200004"
+  },
+  {
+    "title": "Todo Corpo",
+    "artist": "Héloa",
+    "isrc": "BRCA62200017"
+  },
+  {
+    "title": "O Amigo Mais Proibido",
+    "artist": "Madame Javali",
+    "isrc": "QZGLS1975661"
+  },
+  {
+    "title": "Tempo e Desejo",
+    "artist": "Pedro Luan",
+    "isrc": "BXPPO2100001"
+  },
+  {
+    "title": "Come Upstairs",
+    "artist": "Snooze",
+    "isrc": "GBLFP1845488"
+  },
+  {
+    "title": "Menina (Sem Pensar)",
+    "artist": "Cabedal",
+    "isrc": "BRXXD1000012"
+  },
+  {
+    "title": "Chamego Só",
+    "artist": "Lucas Campelo",
+    "isrc": "BXLS22400001"
+  },
+  {
+    "title": "Serpente",
+    "artist": "Chiko Queiroga & Antonio Rogério",
+    "isrc": "BRAT00900014"
+  },
+  {
+    "title": "Easy Way",
+    "artist": "Maria Scombona",
+    "isrc": "QZ5AB2067076"
+  },
+  {
+    "title": "Cantoria da Saudade",
+    "artist": "Dialeto Nordestino, Dani Baixa",
+    "isrc": "QZNJV2191115"
+  },
+  {
+    "title": "Equilíbrio",
+    "artist": "Saulo Ferreira",
+    "isrc": "BR46U2100001"
+  },
+  {
+    "title": "Vou-Me Embora",
+    "artist": "Paulinho Araújo, Doca",
+    "isrc": "BXPGF1600013"
+  },
+  {
+    "title": "Lobo do Mar",
+    "artist": "Ivan Reis",
+    "isrc": "BRXXD1800001"
+  },
+  {
+    "title": "Sky High",
+    "artist": "Arthur Matos",
+    "isrc": "FR10S1568457"
+  },
+  {
+    "title": "Cheiro da Terra",
+    "artist": "Cataluzes",
+    "isrc": "brclh1500003"
+  },
+  {
+    "title": "Tudo por Dinheiro",
+    "artist": "Ato Libertário",
+    "isrc": "BXTR01500013"
+  },
+  {
+    "title": "Fogo no Beco",
+    "artist": "Banda Fogo no Beco, Marcell Veloso, Cobra Verde, Eduardo Monte Santo",
+    "isrc": "QZ5AB2003066"
+  },
+  {
+    "title": "SATURNO",
+    "artist": "Jeca Mó",
+    "isrc": "BRTRB2077835"
+  },
+  {
+    "title": "Corre",
+    "artist": "Coutto Orchestra",
+    "isrc": "US7VG1439029"
+  },
+  {
+    "title": "A Gente",
+    "artist": "Nino Karvan, Chico César",
+    "isrc": "BROHA2100001"
+  },
+  {
+    "title": "assassina",
+    "artist": "dry, Jaiussa",
+    "isrc": "QZMHM2270633"
+  },
+  {
+    "title": "Deixe a Luz",
+    "artist": "Manifestação",
+    "isrc": "QZHZ41904445"
+  },
+  {
+    "title": "Chego Já",
+    "artist": "Anavantou!",
+    "isrc": "BEE641700906"
+  },
+  {
+    "title": "Cante Pra Mim (Da Flor)",
+    "artist": "Mahuike, Wolfgang Adary",
+    "isrc": "BRTRB1743427"
+  },
+  {
+    "title": "A Incrível Viagem das Plantas",
+    "artist": "Allen Alencar, Igor Caracas",
+    "isrc": "BR9N32000011"
+  },
+  {
+    "title": "O Clã",
+    "artist": "Isis Broken",
+    "isrc": "QZ5AB2051623"
+  },
+  {
+    "title": "Cognição",
+    "artist": "Ordinals",
+    "isrc": "QZHZ41982116"
+  },
+  {
+    "title": "Felicidade Real",
+    "artist": "Torugo Teles, Danilo Rezende, Jocta",
+    "isrc": "QZHZ42064908"
+  },
+  {
+    "title": "Afro",
+    "artist": "Pedrinho Mendonça, The Baggios",
+    "isrc": "BRT1K1300012"
+  },
+  {
+    "title": "Baruch",
+    "artist": "Lucas Rodrigges, Filipe Williams, Júlio Rêgo, Danyel Nanume",
+    "isrc": "BCUT52100004"
+  },
+  {
+    "title": "Hallelujah",
+    "artist": "João Ventura",
+    "isrc": "BRKD92200031"
+  },
+  {
+    "title": "Versa e Vice",
+    "artist": "Marco Vilane, Bocato",
+    "isrc": "BRPOU1100075"
+  },
+  {
+    "title": "Amor Bandido",
+    "artist": "Jullya Murvack",
+    "isrc": "QZHZ52161925"
+  },
+  {
+    "title": "Sofrendo",
+    "artist": "Antônio Rogério, Chiko Queiroga",
+    "isrc": "BRGBP1300028"
+  },
+  {
+    "title": "No Quintal do Meu Avô",
+    "artist": "Heitor Mendonça",
+    "isrc": "BRE251200012"
+  },
+  {
+    "title": "Café da Manhã",
+    "artist": "Werden",
+    "isrc": "BRXXD1600008"
+  },
+  {
+    "title": "Já Deu",
+    "artist": "Nasio",
+    "isrc": "BCSR12100007"
+  },
+  {
+    "title": "Estado Barato",
+    "artist": "Celda Fontes",
+    "isrc": "BXC602300012"
+  },
+  {
+    "title": "Onde Se Põe o Seu Coração",
+    "artist": "Lucas Torres",
+    "isrc": "US7VG1500698"
+  },
+  {
+    "title": "Vai de Madureira",
+    "artist": "Rubens Lisboa",
+    "isrc": "BREUA0700280"
+  },
+  {
+    "title": "Tapioca",
+    "artist": "Rodrigo Peninha",
+    "isrc": "QZ5AB1748809"
+  },
+  {
+    "title": "Pescador",
+    "artist": "Ibura",
+    "isrc": "QZ5AB2054234"
+  },
+  {
+    "title": "Enlouqueci",
+    "artist": "Yanna",
+    "isrc": "BXAWA2200005"
+  },
+  {
+    "title": "Made In Cangaço",
+    "artist": "Bruxas do Cangaço, Emilly Neri, Danny Brux",
+    "isrc": "QZHZ32105221"
+  },
+  {
+    "title": "Sansara",
+    "artist": "Camilla Campos",
+    "isrc": "BXAZP1800110"
+  },
+  {
+    "title": "Feita de Saudade",
+    "artist": "Maria Cristina",
+    "isrc": "BR9Q41900015"
+  },
+  {
+    "title": "O Cara do Terno Preto",
+    "artist": "Bruno Del Rey",
+    "isrc": "BC4E52300002"
+  },
+  {
+    "title": "A Música À Sua Volta",
+    "artist": "Afonso Augustto",
+    "isrc": "BXU471700001"
+  },
+  {
+    "title": "Os Astros Não Mentem",
+    "artist": "Sagaz Das Atalaias",
+    "isrc": "QZGLM1948482"
+  },
+  {
+    "title": "Era",
+    "artist": "Clara de Noronha, Raíssa, Lírik",
+    "isrc": "BXXWO2000010"
+  },
+  {
+    "title": "Deixa Eu Sonhar",
+    "artist": "Hiago Santos",
+    "isrc": "QZ5AB2147582"
+  },
+  {
+    "title": "Trem pra Ninguém",
+    "artist": "Marcelle",
+    "isrc": "BXG601700009"
+  },
+  {
+    "title": "Jesus (Music from the Original Series)",
+    "artist": "Adam Lucas Viana, Byakko Bast, Bruno Kelverneck",
+    "isrc": "GX8LD2318683"
+  },
+  {
+    "title": "Nada por Mim - Cover",
+    "artist": "Newton Brito",
+    "isrc": "QZNJW2217258"
+  },
+  {
+    "title": "Se É por Falta de Adeus",
+    "artist": "Duo Vieira",
+    "isrc": "BX0I01800004"
+  },
+  {
+    "title": "Bem Leve",
+    "artist": "900V6",
+    "isrc": "BXICN1400040"
+  },
+  {
+    "title": "Trilhos Urbanos",
+    "artist": "Casaforte",
+    "isrc": "BRH7H1000012"
+  },
+  {
+    "title": "Asa Branca",
+    "artist": "Duo Julio Rego e Ricardo Vieira",
+    "isrc": "BX0I01700004"
+  },
+  {
+    "title": "Se Eu Tinder Meu Coração",
+    "artist": "Duodeno, Maria Érica",
+    "isrc": "QZ5AB1719926"
+  },
+  {
+    "title": "Trabandá",
+    "artist": "Felipe Nunes",
+    "isrc": "BRTRB2019919"
+  },
+  {
+    "title": "New Rules / Anjos - Live",
+    "artist": "Fran Rocha",
+    "isrc": "QZB4J1847428"
+  },
+  {
+    "title": "Lundu Marajoara",
+    "artist": "Fábio Cavalcante",
+    "isrc": "BX1FB1800003"
+  },
+  {
+    "title": "No Presence",
+    "artist": "Gabriel Galvão",
+    "isrc": "QZ5AB1718027"
+  },
+  {
+    "title": "Na Cidade",
+    "artist": "Luiz Eduardo, Jão Luís",
+    "isrc": "QZ5AB2017024"
+  },
+  {
+    "title": "Pressão",
+    "artist": "REDVELVET, Esther Alencar",
+    "isrc": "TCAEQ2084953"
+  },
+  {
+    "title": "O Sapo e o Escorpião",
+    "artist": "Sérgio Lucas",
+    "isrc": "QZ5AB1936343"
+  },
+  {
+    "title": "Sabotage",
+    "artist": "Vivico",
+    "isrc": "BX4EX2000003"
+  },
+  {
+    "title": "Lembrança de Momentos (Você Dentro de Mim)",
+    "artist": "alexandre umasofamilia, Leticia Mirelly, Robert Pankadão",
+    "isrc": "QZW9L2229443"
+  },
+  {
+    "title": "Nada a Fazer",
+    "artist": "neo rasta, Marla Rabello",
+    "isrc": "QZGLS1968968"
+  },
+  {
+    "title": "Fim de Mundo",
+    "artist": "Alex Sant'Anna, Zé Manoel",
+    "isrc": "BCSR12100076"
+  },
+  {
+    "title": "É Muito Simples, Meu Bem",
+    "artist": "Mestre Madruguinha",
+    "isrc": "US7VG1725895"
+  },
+  {
+    "title": "Sua (Remix)",
+    "artist": "Sandyalê, ROSABEGE",
+    "isrc": "BRTCD2100003"
+  },
+  {
+    "title": "Na Guerra Começo a Dançar",
+    "artist": "Mamah, Ng Lampião da Rima",
+    "isrc": "BC5PL2400001"
+  },
+  {
+    "title": "Tipo Iansã Encontrando Obaluaê",
+    "artist": "Táia",
+    "isrc": "BRTRB2022858"
+  },
+  {
+    "title": "O Peso Do Mundo É o Amor",
+    "artist": "A Banda dos Corações Partidos",
+    "isrc": "BCSR12100117"
+  },
+  {
+    "title": "Álcool Ou Acetona",
+    "artist": "Naurêa",
+    "isrc": "BRAPI0800727"
+  },
+  {
+    "title": "Presa",
+    "artist": "Thiago Ruas",
+    "isrc": "BXTR02400001"
+  },
+  {
+    "title": "Lentes de Contato",
+    "artist": "Patrícia Polayne",
+    "isrc": "BRFBE0900072"
+  },
+  {
+    "title": "Meu Orí",
+    "artist": "Jaque Barroso",
+    "isrc": "BCSR12200056"
+  },
+  {
+    "title": "Dia de Sexta",
+    "artist": "Samba do Arnesto",
+    "isrc": "BX0F12300001"
+  },
+  {
+    "title": "Senhorita Aflita",
+    "artist": "LUNO",
+    "isrc": "BX5U32100004"
+  },
+  {
+    "title": "Dia Frio, Noite Clarão",
+    "artist": "Donali",
+    "isrc": "BXDVH2300003"
+  },
+  {
+    "title": "Barra Pesada",
+    "artist": "The Baggios, Chico César, Cátia de França",
+    "isrc": "BRT1K2100004"
+  },
+  {
+    "title": "Onirikum",
+    "artist": "Julico",
+    "isrc": "BRT1K2300002"
+  },
+  {
+    "title": "Quem Diria",
+    "artist": "Plástico Lunar, Arthur Matos",
+    "isrc": "US7VG1500167"
+  },
+  {
+    "title": "Se For Pra Te Encontrar",
+    "artist": "morgana",
+    "isrc": "BCQ4B2200001"
+  },
+  {
+    "title": "Eu e Você",
+    "artist": "Mestrinho",
+    "isrc": "BRAPI2000034"
+  },
+  {
+    "title": "Esquecer",
+    "artist": "Tori, Pedro Fonte",
+    "isrc": "BXPB02400001"
+  },
+  {
+    "title": "Abrir Com as Mãos uma Cidade",
+    "artist": "Madame Javali",
+    "isrc": "BCNZJ2200003"
+  },
+  {
+    "title": "Na Força da Fé",
+    "artist": "Banda Reação",
+    "isrc": "QZGLS2019407"
+  },
+  {
+    "title": "Nós Dois",
+    "artist": "Pedro Luan",
+    "isrc": "BXPPO1900002"
+  },
+  {
+    "title": "A Vida É",
+    "artist": "Héloa",
+    "isrc": "BRCA62100049"
+  },
+  {
+    "title": "Sunshine",
+    "artist": "Snooze",
+    "isrc": "GBLFP1844315"
+  },
+  {
+    "title": "O Girassol do Teu Vestido",
+    "artist": "Cabedal",
+    "isrc": "BRXXD1000008"
+  },
+  {
+    "title": "A DIVERSÃO E O MENINO - uma homenagem ao Paulinho",
+    "artist": "Lucas Campelo",
+    "isrc": "BXLS22300001"
+  },
+  {
+    "title": "A Mestiça",
+    "artist": "Chiko Queiroga & Antonio Rogério",
+    "isrc": "BRAR00900003"
+  },
+  {
+    "title": "Vinte Meninas",
+    "artist": "Maria Scombona",
+    "isrc": "QZ5AB2067070"
+  },
+  {
+    "title": "Mãe D'água",
+    "artist": "Dialeto Nordestino",
+    "isrc": "QZGLS2056775"
+  },
+  {
+    "title": "Yam",
+    "artist": "Saulo Ferreira",
+    "isrc": "BR46U1700018"
+  },
+  {
+    "title": "Quem-Te",
+    "artist": "Paulinho Araújo, Tauana Magdala, Felipe Freitas",
+    "isrc": "BXPGF1600005"
+  },
+  {
+    "title": "Silêncio",
+    "artist": "Ivan Reis",
+    "isrc": "BRXXD1800002"
+  },
+  {
+    "title": "Maracujaba",
+    "artist": "Cataluzes",
+    "isrc": "brclh1500001"
+  },
+  {
+    "title": "Acenda a Tocha",
+    "artist": "Ato Libertário",
+    "isrc": "QZ5AB1790165"
+  },
+  {
+    "title": "Chororô",
+    "artist": "Banda Fogo no Beco",
+    "isrc": "QZ5AB2003070"
+  },
+  {
+    "title": "Domingo",
+    "artist": "Arthur Matos, The Baggios, Renata Abreu, Dániel Torres",
+    "isrc": "BRT1K1300005"
+  },
+  {
+    "title": "PANDORA",
+    "artist": "Jeca Mó",
+    "isrc": "BRTRB2077836"
+  },
+  {
+    "title": "Dorival Caymmi",
+    "artist": "Coutto Orchestra",
+    "isrc": "US7VG1439037"
+  },
+  {
+    "title": "Quando o Mundo Voltar a Existir",
+    "artist": "Nino Karvan",
+    "isrc": "BROHA2100011"
+  },
+  {
+    "title": "bucetao de fora",
+    "artist": "dry",
+    "isrc": "QZMHM2243029"
+  },
+  {
+    "title": "Minha Liberdade",
+    "artist": "Manifestação",
+    "isrc": "QZ5AB1777431"
+  },
+  {
+    "title": "Maracatu Êta",
+    "artist": "Anavantou!",
+    "isrc": "BEE641700912"
+  },
+  {
+    "title": "O Tempo Que o Tempo Leva",
+    "artist": "Mahuike, Deise Raquel, Kelvin Farias, Samuel Andrade",
+    "isrc": "BRTRB1743387"
+  },
+  {
+    "title": "Liberdade",
+    "artist": "Allen Alencar, Sandyalê",
+    "isrc": "BR9N32100001"
+  },
+  {
+    "title": "Ararinha da Viola",
+    "artist": "Isis Broken",
+    "isrc": "BCTJ82100004"
+  },
+  {
+    "title": "Respirar a Cor",
+    "artist": "Ordinals",
+    "isrc": "QZHZ41982111"
+  },
+  {
+    "title": "O Dia é Hoje",
+    "artist": "Torugo Teles",
+    "isrc": "BCSR12200077"
+  },
+  {
+    "title": "Pareia Boa",
+    "artist": "Pedrinho Mendonça",
+    "isrc": "BRIRJ0900006"
+  },
+  {
+    "title": "Girassol",
+    "artist": "Lucas Rodrigges, Filipe Williams, Ravy Bezerra, Italo Neno, André Lima",
+    "isrc": "BCUT52100001"
+  },
+  {
+    "title": "Fiquei na Bahia",
+    "artist": "João Ventura",
+    "isrc": "BRKD92200021"
+  },
+  {
+    "title": "Contra a Parede",
+    "artist": "Jullya Murvack",
+    "isrc": "QZNJV2394581"
+  },
+  {
+    "title": "Riacho",
+    "artist": "Antônio Rogério, Chiko Queiroga",
+    "isrc": "BRGBP1300035"
+  },
+  {
+    "title": "Super Homem do Sertão",
+    "artist": "Heitor Mendonça",
+    "isrc": "BRE251200002"
+  },
+  {
+    "title": "O Que Não Vai Faltar É Abraço",
+    "artist": "Marco Vilane, Thamires Tannous, Socorro Lira, Kléber Albuquerque, Adolar Marin, Isabela Moraes, Mateus Sartori, Danilo Moraes, Alex Sant'Anna, Jota Erre, Daniel Conti, Selma Fernandes, Nô Stopa, Carlos Navas, Kátya Teixeira",
+    "isrc": "BRPOU2000096"
+  },
+  {
+    "title": "Estranho",
+    "artist": "Werden",
+    "isrc": "BRXXD1600015"
+  },
+  {
+    "title": "Universo",
+    "artist": "Nasio",
+    "isrc": "BKSSG2200027"
+  },
+  {
+    "title": "O Ônibus",
+    "artist": "Celda Fontes",
+    "isrc": "BXC602300004"
+  },
+  {
+    "title": "Do Ponto, o Fim",
+    "artist": "Lucas Torres",
+    "isrc": "US7VG1500708"
+  },
+  {
+    "title": "Você Pra Mim é Problema Seu",
+    "artist": "Rubens Lisboa",
+    "isrc": "BRIRJ0900028"
+  },
+  {
+    "title": "Na Frente da Rua da Frente",
+    "artist": "Rodrigo Peninha",
+    "isrc": "QZ5AB1748805"
+  },
+  {
+    "title": "Vestes",
+    "artist": "Ibura",
+    "isrc": "QZ5AB2054238"
+  },
+  {
+    "title": "Bora Lá Bailar - Afrobeat Version",
+    "artist": "Alex Sant'Anna, Lari Lima, Èkó Afrobeat, Filipe Williams",
+    "isrc": "BKSSG2200069"
+  },
+  {
+    "title": "Soldado da Noite",
+    "artist": "Mestre Madruguinha",
+    "isrc": "US7VG1725898"
+  },
+  {
+    "title": "Bruta",
+    "artist": "Sandyalê",
+    "isrc": "BXSNY1900004"
+  },
+  {
+    "title": "Meia Culpa",
+    "artist": "Mamah",
+    "isrc": "BCMNQ2100001"
+  },
+  {
+    "title": "RENASÇO",
+    "artist": "Táia, Rayra Mayara",
+    "isrc": "BCNNA2100002"
+  },
+  {
+    "title": "Síndrome do Coração Partido",
+    "artist": "A Banda dos Corações Partidos",
+    "isrc": "BCSR12200068"
+  },
+  {
+    "title": "A Peleja De Lampião Contra 007",
+    "artist": "Naurêa",
+    "isrc": "BRAPI0800778"
+  },
+  {
+    "title": "Calmaria",
+    "artist": "Thiago Ruas",
+    "isrc": "BXTR01500004"
+  },
+  {
+    "title": "Sapato Novo",
+    "artist": "Patrícia Polayne",
+    "isrc": "BRFBE0900076"
+  },
+  {
+    "title": "Ancestralidade",
+    "artist": "Jaque Barroso",
+    "isrc": "BCSR12100040"
+  },
+  {
+    "title": "Samba da Inspiração",
+    "artist": "Samba do Arnesto",
+    "isrc": "BKSSG2400032"
+  },
+  {
+    "title": "Valerie",
+    "artist": "LUNO",
+    "isrc": "BX5U32100003"
+  },
+  {
+    "title": "FRAGMENTOS",
+    "artist": "Donali, Thiago Ruas",
+    "isrc": "BXDVH2100002"
+  },
+  {
+    "title": "Bem-Te-Vi",
+    "artist": "The Baggios, Céu",
+    "isrc": "BRTCD1800031"
+  },
+  {
+    "title": "Música",
+    "artist": "Julico",
+    "isrc": "BRT1K2300001"
+  },
+  {
+    "title": "Todo Pecado do Mundo",
+    "artist": "Plástico Lunar",
+    "isrc": "US7VG1500164"
+  },
+  {
+    "title": "Você Sem Ninguém",
+    "artist": "morgana",
+    "isrc": "BKMGR2300001"
+  },
+  {
+    "title": "Não Será Aqui o Vosso Descanso",
+    "artist": "Madame Javali",
+    "isrc": "BCNZJ2200001"
+  },
+  {
+    "title": "Seu Olhar Não Mente",
+    "artist": "Mestrinho",
+    "isrc": "BRAPI2000167"
+  },
+  {
+    "title": "Travessias Maiores",
+    "artist": "Tori",
+    "isrc": "BCTJ82200009"
+  },
+  {
+    "title": "Sinal de Alerta",
+    "artist": "Banda Reação",
+    "isrc": "QZGLS2019415"
+  },
+  {
+    "title": "Volta Logo",
+    "artist": "Pedro Luan",
+    "isrc": "BXPPO2100002"
+  },
+  {
+    "title": "Águas de Oxalá",
+    "artist": "Héloa, Mateus Aleluia",
+    "isrc": "BXS8W1900006"
+  },
+  {
+    "title": "A Song To Prepare",
+    "artist": "Snooze",
+    "isrc": "GBLFP1845485"
+  },
+  {
+    "title": "Aquele Olhar, Morena",
+    "artist": "Cabedal",
+    "isrc": "BRXXD1000003"
+  },
+  {
+    "title": "MEU SANTO ANTONIO",
+    "artist": "Lucas Campelo",
+    "isrc": "BXLS21900002"
+  },
+  {
+    "title": "Fim de Primavera",
+    "artist": "Chiko Queiroga & Antonio Rogério",
+    "isrc": "BRAT00900005"
+  },
+  {
+    "title": "A Velha de Baixo da Cama / Ocaso / Nexo",
+    "artist": "Maria Scombona, Cigana Maria Dias",
+    "isrc": "QZ5AB2067082"
+  },
+  {
+    "title": "Página de Amor",
+    "artist": "Dialeto Nordestino, Izabel Nascimento",
+    "isrc": "QZHZ42039818"
+  },
+  {
+    "title": "Chega",
+    "artist": "Saulo Ferreira",
+    "isrc": "BR46U1700012"
+  },
+  {
+    "title": "Fome",
+    "artist": "Paulinho Araújo, J.Victor Fernandes, Lari Lima",
+    "isrc": "BCSR12100020"
+  }
+]

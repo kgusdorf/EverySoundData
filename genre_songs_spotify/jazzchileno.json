@@ -1,0 +1,592 @@
+[
+  {
+    "title": "Antigua",
+    "artist": "Nicolás Vera",
+    "isrc": "QM6P42219597"
+  },
+  {
+    "title": "LEVE",
+    "artist": "Christian Galvez",
+    "isrc": "QM6MZ2402988"
+  },
+  {
+    "title": "Charlie Chan",
+    "artist": "Jorge Díaz Trío",
+    "isrc": "FR6V82360272"
+  },
+  {
+    "title": "Cueca del retorno",
+    "artist": "Ensamble Quintessence",
+    "isrc": "QM4TW2123415"
+  },
+  {
+    "title": "Entonada",
+    "artist": "La Marraqueta",
+    "isrc": "CLEN21401554"
+  },
+  {
+    "title": "Vals para Filomena",
+    "artist": "Raimundo Santander",
+    "isrc": "CLHD22100217"
+  },
+  {
+    "title": "África",
+    "artist": "Sebastian Jordan, Agustín Moya, Tomás Krumm, Pablo Menares, Felix Lecaros",
+    "isrc": "QMFME1923117"
+  },
+  {
+    "title": "Música para Ascensores",
+    "artist": "Claudio Rubio, Nicolás Vera, Rodrigo Espinoza, Oscar Pizarro, Carlos Cortes",
+    "isrc": "CLJD21900527"
+  },
+  {
+    "title": "Andina",
+    "artist": "La Orquesta del Viento, Raimundo Santander",
+    "isrc": "CLFI21300269"
+  },
+  {
+    "title": "Adolfo y Benito, Augusto y Toribio",
+    "artist": "Fulano",
+    "isrc": "USCHR1329071"
+  },
+  {
+    "title": "Tierra Mía",
+    "artist": "Holman Trio",
+    "isrc": "CLJQ21600279"
+  },
+  {
+    "title": "El Vu Parlé",
+    "artist": "Pancho Molina",
+    "isrc": "usdy41650555"
+  },
+  {
+    "title": "Centro y Periferia",
+    "artist": "Antonio Monasterio Ensamble",
+    "isrc": "CLHD21800214"
+  },
+  {
+    "title": "Réquiem Sicario",
+    "artist": "Sebastián Prado",
+    "isrc": "ES71G1512158"
+  },
+  {
+    "title": "Entre un Sonido y una Canción",
+    "artist": "Mapocho Orquesta, Matiah Chinaski",
+    "isrc": "ES71G2208307"
+  },
+  {
+    "title": "Bombas en el Aire",
+    "artist": "Mediabanda",
+    "isrc": "ES71G1626596"
+  },
+  {
+    "title": "Arrayanes",
+    "artist": "Antonio Restucci",
+    "isrc": "CLEN21401256"
+  },
+  {
+    "title": "No Puedo Quitar Mis Ojos de Ti - En Vivo",
+    "artist": "Angel Parra Trio, Julian Peña",
+    "isrc": "ES71G2040612"
+  },
+  {
+    "title": "El Plazo del Angel",
+    "artist": "Entrama",
+    "isrc": "USA561325106"
+  },
+  {
+    "title": "Cacharrito",
+    "artist": "Cristian Cuturrufo",
+    "isrc": "QZGLM2396882"
+  },
+  {
+    "title": "La Mofeta",
+    "artist": "Contracuarteto",
+    "isrc": "FR6V82371175"
+  },
+  {
+    "title": "18/10 (En Vivo)",
+    "artist": "José Moraga, Daniel Cheul, José González, Axel Cornejo",
+    "isrc": "USHM82140079"
+  },
+  {
+    "title": "Spring Can Really Hang You up the Most",
+    "artist": "Sebastian Castro, Felix Lecaros, Milton Russell",
+    "isrc": "CLHD22300235"
+  },
+  {
+    "title": "Come on Lenny!!!",
+    "artist": "Akinetón Retard",
+    "isrc": "FR2X41609574"
+  },
+  {
+    "title": "Para Volar",
+    "artist": "Camila Meza",
+    "isrc": "usdy42135920"
+  },
+  {
+    "title": "Lord Cochrane",
+    "artist": "Cristian Gallardo Cuarteto",
+    "isrc": "uscgj1474345"
+  },
+  {
+    "title": "Vidas de Plasticina",
+    "artist": "Juan Pablo Salvo",
+    "isrc": "QMFME2218913"
+  },
+  {
+    "title": "12 Stars",
+    "artist": "Melissa Aldana",
+    "isrc": "USUM72114046"
+  },
+  {
+    "title": "Tres Cuatro",
+    "artist": "Marcelo Cordova",
+    "isrc": "ushm91489494"
+  },
+  {
+    "title": "Porcinology",
+    "artist": "THE CHILEAN PROJECT, Nelson Arriagada, Alejandro Espinosa, Cristian Cuturrufo, Christian Galvez, Pablo Vergara",
+    "isrc": "QMDA61507808"
+  },
+  {
+    "title": "Run Run Se Fue Pal Norte",
+    "artist": "Mario Feito Trío",
+    "isrc": "FR6V82360909"
+  },
+  {
+    "title": "Peregrinos",
+    "artist": "Peregrinos, Raimundo Santander, Rodrigo Recabarren",
+    "isrc": "CLCW21300159"
+  },
+  {
+    "title": "Play Blues",
+    "artist": "Bruno Riveros",
+    "isrc": "FR6V82358140"
+  },
+  {
+    "title": "La Cueca del Retorno",
+    "artist": "Lecaros Jazz Quartet",
+    "isrc": "FR6V82360899"
+  },
+  {
+    "title": "Caminos en el Desierto",
+    "artist": "Lúmina Cuarteto",
+    "isrc": "CLLD21700329"
+  },
+  {
+    "title": "La Fiesta Permanente",
+    "artist": "Triángulo de las Bermudas Trío",
+    "isrc": "FR96X1935087"
+  },
+  {
+    "title": "Carita de Luna",
+    "artist": "Claudia Acuna",
+    "isrc": "US4A70400347"
+  },
+  {
+    "title": "One",
+    "artist": "Conchali Big Band",
+    "isrc": "ARC571601805"
+  },
+  {
+    "title": "Tzadik",
+    "artist": "Sebastián Pan, Alejandro Pino",
+    "isrc": "CLHD22300238"
+  },
+  {
+    "title": "Begs The Question",
+    "artist": "Diego Urbano, Valentino Baos, Rodrigo Espinoza, Andy Baeza",
+    "isrc": "CLCW21300154"
+  },
+  {
+    "title": "The Tourist",
+    "artist": "Roberto Dañobeitia",
+    "isrc": "CLCW21300119"
+  },
+  {
+    "title": "El Bodeguero",
+    "artist": "Orquesta Huambaly",
+    "isrc": "GRGCM1838905"
+  },
+  {
+    "title": "Cuando ya me empiece a quedar solo",
+    "artist": "Felipe Riveros Trio",
+    "isrc": "QZ8251725136"
+  },
+  {
+    "title": "Caramelo",
+    "artist": "Jazzimodo",
+    "isrc": "ushm90818589"
+  },
+  {
+    "title": "Candombe para Nose",
+    "artist": "Manuel Páez",
+    "isrc": "ES71G1505208"
+  },
+  {
+    "title": "Boliche Funk",
+    "artist": "Hengcoo Ortega, Jorge Díaz, Moncho Pérez",
+    "isrc": "QMBZ91533337"
+  },
+  {
+    "title": "Arrímate Mi Amor",
+    "artist": "Pedro Greene",
+    "isrc": "CLEN21401536"
+  },
+  {
+    "title": "Anouman",
+    "artist": "Gypsy Trio, Cristóbal Gómez, Cristian Gallardo, Ramón Moncho Romero, Rodrigo Espinoza, Sergio Gonzalez",
+    "isrc": "usdy41695618"
+  },
+  {
+    "title": "When It Rains",
+    "artist": "Novas Trio",
+    "isrc": "USMH92353205"
+  },
+  {
+    "title": "Ultrablues",
+    "artist": "Emilio García",
+    "isrc": "CLEN21401962"
+  },
+  {
+    "title": "Luchín",
+    "artist": "Carmen Paz",
+    "isrc": "ES8070620154"
+  },
+  {
+    "title": "Happy Hippies",
+    "artist": "Chile Finlandia Connection, Mikko Innanen, Andre Sumelius, Nicolás Vera",
+    "isrc": "QM4TX1533622"
+  },
+  {
+    "title": "Criminal Jazz",
+    "artist": "Criminal Jazz, Camilo Castaldi, Nicolás Vera",
+    "isrc": "QMFMG1304670"
+  },
+  {
+    "title": "On The Sunny Side Of The Street",
+    "artist": "Interestelar Trio, Federico Dannemann",
+    "isrc": "QMFMG1324571"
+  },
+  {
+    "title": "Yo Te Canto",
+    "artist": "Ben Schmidt-Swartz Nelson Oliva Group",
+    "isrc": "usx9p1269423"
+  },
+  {
+    "title": "No Puedo Olvidarte",
+    "artist": "La Resistencia",
+    "isrc": "USTC00989711"
+  },
+  {
+    "title": "Interdimensional",
+    "artist": "Nicolás Vera, Martín Benavides, Felix Lecaros",
+    "isrc": "QMFMF2338036"
+  },
+  {
+    "title": "Maipu Ñuñoa",
+    "artist": "Christian Galvez, Jorge Díaz, Rodrigo Galvez, Marinho Boffa",
+    "isrc": "QMFME1305478"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "artist": "Jorge Díaz Trío",
+    "isrc": "FR6V82360271"
+  },
+  {
+    "title": "Paz... pero después",
+    "artist": "Ensamble Quintessence",
+    "isrc": "QM4TW2123412"
+  },
+  {
+    "title": "Huaynito",
+    "artist": "La Marraqueta",
+    "isrc": "CLEN21401556"
+  },
+  {
+    "title": "El Derecho de Vivir del Jazz",
+    "artist": "Raimundo Santander, Maximiliano Flynn, Carlos Cortes",
+    "isrc": "FRX762382516"
+  },
+  {
+    "title": "Pudú",
+    "artist": "Sebastian Jordan",
+    "isrc": "FRX872337996"
+  },
+  {
+    "title": "Leo Duerme (Para Leonardo)",
+    "artist": "Claudio Rubio, Nicolás Vera, Rodrigo Espinoza, Oscar Pizarro, Carlos Cortes",
+    "isrc": "CLJD21900528"
+  },
+  {
+    "title": "Eres la Energía Que No Cesa de Fluír",
+    "artist": "La Orquesta del Viento, Raimundo Santander",
+    "isrc": "ES71G1739636"
+  },
+  {
+    "title": "Suite Recoleta",
+    "artist": "Fulano",
+    "isrc": "QMFMG1426728"
+  },
+  {
+    "title": "Fiesta en la Ruka",
+    "artist": "Holman Trio",
+    "isrc": "CLKT21901719"
+  },
+  {
+    "title": "La Elegante",
+    "artist": "Pancho Molina, Rodrigo Alvarez Vidal, Christian Luna",
+    "isrc": "ES71G2338857"
+  },
+  {
+    "title": "Azules Makinarias",
+    "artist": "Antonio Monasterio Ensamble",
+    "isrc": "CLHD21800210"
+  },
+  {
+    "title": "Nocturno",
+    "artist": "Sebastián Prado, Claudio Rubio, Sebastian Castro, Milton Russell, Juan Pablo Jaramillo",
+    "isrc": "QM4TX1850393"
+  },
+  {
+    "title": "El Que Habita al Abrigo de Dios",
+    "artist": "Mapocho Orquesta",
+    "isrc": "ARC571603268"
+  },
+  {
+    "title": "Jah! No Quedan Huiros",
+    "artist": "Mediabanda",
+    "isrc": "ES71G1502029"
+  },
+  {
+    "title": "Tonada Antigua",
+    "artist": "Antonio Restucci",
+    "isrc": "CLEN21401090"
+  },
+  {
+    "title": "La Vida Nos Dirá Cuando",
+    "artist": "Entrama",
+    "isrc": "USA561305283"
+  },
+  {
+    "title": "No Te Escondas",
+    "artist": "Angel Parra Trio, Julian Peña",
+    "isrc": "ES71G2039238"
+  },
+  {
+    "title": "Song For My Father",
+    "artist": "Cristian Cuturrufo",
+    "isrc": "QZGLS2226869"
+  },
+  {
+    "title": "Simple",
+    "artist": "Contracuarteto",
+    "isrc": "CLLD21800369"
+  },
+  {
+    "title": "Caminos",
+    "artist": "José Moraga",
+    "isrc": "QZW9M2331394"
+  },
+  {
+    "title": "Abriendo",
+    "artist": "Sebastian Castro, Felix Lecaros, Milton Russell",
+    "isrc": "CLHD22300228"
+  },
+  {
+    "title": "Jason Torelli",
+    "artist": "Akinetón Retard",
+    "isrc": "FR2X41609573"
+  },
+  {
+    "title": "Graffiti",
+    "artist": "Cristian Gallardo Cuarteto",
+    "isrc": "uscgj1474348"
+  },
+  {
+    "title": "Cucurrucucu Paloma",
+    "artist": "Camila Meza",
+    "isrc": "USQX91802553"
+  },
+  {
+    "title": "Perro Muerto",
+    "artist": "Juan Pablo Salvo",
+    "isrc": "QZHZ52054716"
+  },
+  {
+    "title": "The Solitary Seeker",
+    "artist": "Melissa Aldana",
+    "isrc": "USUM72317685"
+  },
+  {
+    "title": "Restucciana",
+    "artist": "Marcelo Cordova",
+    "isrc": "uscgj1655655"
+  },
+  {
+    "title": "Habanera para Pirison",
+    "artist": "THE CHILEAN PROJECT, Nelson Arriagada, Alejandro Espinosa, Cristian Cuturrufo, Christian Galvez, Pablo Vergara",
+    "isrc": "QMDA61507807"
+  },
+  {
+    "title": "El Valle del Tiempo",
+    "artist": "Mario Feito Trío",
+    "isrc": "FR6V82360907"
+  },
+  {
+    "title": "Niño Luchín",
+    "artist": "Peregrinos, Raimundo Santander, Rodrigo Recabarren",
+    "isrc": "CLCW21300163"
+  },
+  {
+    "title": "El Mañoso",
+    "artist": "Bruno Riveros",
+    "isrc": "FR6V82358146"
+  },
+  {
+    "title": "Como Tocan Son",
+    "artist": "Lecaros Jazz Quartet",
+    "isrc": "FR6V82360904"
+  },
+  {
+    "title": "Perseguir al Viento",
+    "artist": "Lúmina Cuarteto",
+    "isrc": "uscgh1651522"
+  },
+  {
+    "title": "Ángeles Submarinos",
+    "artist": "Triángulo de las Bermudas Trío",
+    "isrc": "usdy42189906"
+  },
+  {
+    "title": "Suddenly",
+    "artist": "Claudia Acuna",
+    "isrc": "USGR10000519"
+  },
+  {
+    "title": "Sombras en el paraiso",
+    "artist": "Conchali Big Band",
+    "isrc": "ARC571601810"
+  },
+  {
+    "title": "Jogyesa",
+    "artist": "Sebastián Pan, Alejandro Pino",
+    "isrc": "CLHD22100226"
+  },
+  {
+    "title": "London Inspection",
+    "artist": "Diego Urbano, Valentino Baos, Rodrigo Espinoza, Andy Baeza",
+    "isrc": "CLCW21300153"
+  },
+  {
+    "title": "Last Kiss",
+    "artist": "Roberto Dañobeitia, Camila Meza",
+    "isrc": "CLCW21300118"
+  },
+  {
+    "title": "Mœbius",
+    "artist": "Nicolás Vera, Martín Benavides, Felix Lecaros",
+    "isrc": "QMFMF2338039"
+  },
+  {
+    "title": "Dragon",
+    "artist": "Christian Galvez, Antonio Restucci, Rodrigo Galvez, Cristhian Graniffo, Ernesto Artimex, Rossana Saavedra, Ignacio Gonzalez",
+    "isrc": "QMFME1305482"
+  },
+  {
+    "title": "Bye Bye Blackbird",
+    "artist": "Jorge Díaz Trío",
+    "isrc": "FR6V82360269"
+  },
+  {
+    "title": "Factor K",
+    "artist": "Ensamble Quintessence",
+    "isrc": "QM4TW2123413"
+  },
+  {
+    "title": "Chacaropo",
+    "artist": "La Marraqueta",
+    "isrc": "QZHN82278285"
+  },
+  {
+    "title": "Nelson",
+    "artist": "Raimundo Santander, Maximiliano Flynn, Carlos Cortes",
+    "isrc": "FRX762382515"
+  },
+  {
+    "title": "Patagonia",
+    "artist": "Sebastian Jordan",
+    "isrc": "FRX872337997"
+  },
+  {
+    "title": "Centímetros Cúbicos",
+    "artist": "Claudio Rubio",
+    "isrc": "QZ9Y21769827"
+  },
+  {
+    "title": "Hombre al Sur",
+    "artist": "La Orquesta del Viento, Raimundo Santander",
+    "isrc": "ES71G1739635"
+  },
+  {
+    "title": "Pichi Choike",
+    "artist": "Holman Trio",
+    "isrc": "CLJQ21600278"
+  },
+  {
+    "title": "Canción Formal en 7/8",
+    "artist": "Fulano",
+    "isrc": "ES71G1508082"
+  },
+  {
+    "title": "Cuático",
+    "artist": "Pancho Molina",
+    "isrc": "usdy42152657"
+  },
+  {
+    "title": "Feralis",
+    "artist": "Antonio Monasterio Ensamble",
+    "isrc": "CLHD22300222"
+  },
+  {
+    "title": "Cenizas",
+    "artist": "Sebastián Prado",
+    "isrc": "ES71G1609005"
+  },
+  {
+    "title": "El Blues de las Moscas",
+    "artist": "Mapocho Orquesta",
+    "isrc": "ES71G2208309"
+  },
+  {
+    "title": "El Sofá",
+    "artist": "Mediabanda",
+    "isrc": "ES71G1626597"
+  },
+  {
+    "title": "Río de Luz",
+    "artist": "Antonio Restucci",
+    "isrc": "CLEN21401096"
+  },
+  {
+    "title": "Otoñal",
+    "artist": "Entrama",
+    "isrc": "USA561325104"
+  },
+  {
+    "title": "Porcinology",
+    "artist": "Cristian Cuturrufo",
+    "isrc": "QZGLS2226867"
+  },
+  {
+    "title": "Que Se Mueran los Feos",
+    "artist": "Angel Parra Trio",
+    "isrc": "CLAB20800066"
+  },
+  {
+    "title": "Flow",
+    "artist": "Contracuarteto",
+    "isrc": "CLLD21800371"
+  }
+]

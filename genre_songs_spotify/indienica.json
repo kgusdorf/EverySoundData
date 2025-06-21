@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Caparazón",
+    "artist": "Garcín",
+    "isrc": "TCADX1806231"
+  },
+  {
+    "title": "Vuelves",
+    "artist": "El Bosque de los Búhos",
+    "isrc": "QZFZ52019266"
+  },
+  {
+    "title": "Tantos Planetas",
+    "artist": "Nemi Pipali",
+    "isrc": "ushm91667808"
+  },
+  {
+    "title": "Llegando Tarde",
+    "artist": "Larry's Club",
+    "isrc": "TCAFB2027020"
+  },
+  {
+    "title": "Intenso",
+    "artist": "La Cegua",
+    "isrc": "ushm81730741"
+  },
+  {
+    "title": "Intuición",
+    "artist": "Signos",
+    "isrc": "QZFZ72289721"
+  },
+  {
+    "title": "Está Por Llegar",
+    "artist": "Proyecto Vigorón",
+    "isrc": "GB-SMU-27-59466"
+  },
+  {
+    "title": "Atemporal",
+    "artist": "Sociedad de Nubes",
+    "isrc": "QZTB92260687"
+  },
+  {
+    "title": "Últimamente",
+    "artist": "Nina y Sebastián",
+    "isrc": "QZ4JJ1617087"
+  },
+  {
+    "title": "Bucle",
+    "artist": "Moises R Valle",
+    "isrc": "QZFZ61943883"
+  },
+  {
+    "title": "Pavimento",
+    "artist": "SeahorseMoon",
+    "isrc": "QZK6M2265027"
+  },
+  {
+    "title": "Neon Paradise",
+    "artist": "Neon Paradise",
+    "isrc": "QZFZ42156171"
+  },
+  {
+    "title": "La Percha",
+    "artist": "Téléviser",
+    "isrc": "QM4DW1657281"
+  },
+  {
+    "title": "Entre Tu Cintura y la Mía",
+    "artist": "Sebastian Barberena, Ale",
+    "isrc": "QZMEQ2085348"
+  },
+  {
+    "title": "Cómo Sujetar Mi Alma",
+    "artist": "Souvenir",
+    "isrc": "QZNWV2078326"
+  },
+  {
+    "title": "La Fuente (Del Optimismo)",
+    "artist": "Jardin Animal",
+    "isrc": "QZNWY2040292"
+  },
+  {
+    "title": "Para Una Extraña",
+    "artist": "Marzo NI",
+    "isrc": "SE5BU2116265"
+  },
+  {
+    "title": "Azul Perfecto",
+    "artist": "Maura Hodgson",
+    "isrc": "QZDA52180988"
+  },
+  {
+    "title": "Marzo 2020",
+    "artist": "Ceshia Ubau",
+    "isrc": "QZES52441255"
+  },
+  {
+    "title": "Lola",
+    "artist": "Culturafolk",
+    "isrc": "ushm21638341"
+  },
+  {
+    "title": "Bolerito",
+    "artist": "Don Sevilla",
+    "isrc": "QZNJV2478197"
+  },
+  {
+    "title": "Ciudad Espiral",
+    "artist": "Segunda Ronda",
+    "isrc": "TCAGK2219545"
+  },
+  {
+    "title": "Nada",
+    "artist": "Don Robinson",
+    "isrc": "QZHN92457781"
+  },
+  {
+    "title": "Live Looping Funk Jam",
+    "artist": "Johnnie Flowers",
+    "isrc": "QZPLR2191513"
+  },
+  {
+    "title": "Una Canción para los Dos",
+    "artist": "Cesia Viurlet",
+    "isrc": "uscgj2118830"
+  },
+  {
+    "title": "Catch Ya Later",
+    "artist": "No Policy",
+    "isrc": "QZTAS2185038"
+  },
+  {
+    "title": "El Búho",
+    "artist": "Mangosushi",
+    "isrc": "QZHN72151799"
+  },
+  {
+    "title": "Lottery Ticket",
+    "artist": "Hans Amador",
+    "isrc": "QZK6H2107880"
+  },
+  {
+    "title": "X HISTORIAS",
+    "artist": "Stayleave, Daliko YvngBoy",
+    "isrc": "QZFZ62356491"
+  },
+  {
+    "title": "Luciérnaga",
+    "artist": "Slater",
+    "isrc": "usl4r2086758"
+  },
+  {
+    "title": "Como la Miel",
+    "artist": "Aled",
+    "isrc": "UST8K1730934"
+  },
+  {
+    "title": "The Journey",
+    "artist": "Maldito Pop, Loudwing Aldair",
+    "isrc": "QZHNC2466994"
+  },
+  {
+    "title": "El Día Entero",
+    "artist": "Ximena",
+    "isrc": "TCAEE1955182"
+  },
+  {
+    "title": "La Forma de Decir",
+    "artist": "Rigoazulado, Valentina Vela",
+    "isrc": "QZES72026235"
+  },
+  {
+    "title": "Rompecabezas - Live",
+    "artist": "CMMT, Worship Revolution Sessions",
+    "isrc": "QZK6Q2054390"
+  },
+  {
+    "title": "I Warned U",
+    "artist": "upsidöwn",
+    "isrc": "QZFZ52046721"
+  },
+  {
+    "title": "Reloj de Merlot",
+    "artist": "SEV",
+    "isrc": "QZMEQ2292385"
+  },
+  {
+    "title": "louis vuitton",
+    "artist": "VKZ",
+    "isrc": "QZES82143175"
+  },
+  {
+    "title": "En el Inmenso Mar",
+    "artist": "Elsa Basil, Katia Cardenal",
+    "isrc": "QZ4JJ1984969"
+  },
+  {
+    "title": "Recuerdos de Siempre",
+    "artist": "Ciudad de Clara",
+    "isrc": "CACWV2279955"
+  },
+  {
+    "title": "Mr. Happy",
+    "artist": "Nadsat Banda",
+    "isrc": "QZRP42117155"
+  },
+  {
+    "title": "DIVINE",
+    "artist": "Moonshine Moneybag",
+    "isrc": "QZDA42157477"
+  },
+  {
+    "title": "La Historia",
+    "artist": "Miguel Lee, Sebastian Barberena",
+    "isrc": "QZFZ52152324"
+  },
+  {
+    "title": "Little Sunshine",
+    "artist": "Diego Abud",
+    "isrc": "usl4q2215745"
+  },
+  {
+    "title": "Todas Mis Pieles",
+    "artist": "Eddy Monge",
+    "isrc": "QZ5AB1809939"
+  },
+  {
+    "title": "Luna",
+    "artist": "Alex Cardenal, Katia Cardenal",
+    "isrc": "QZ8LD1933965"
+  },
+  {
+    "title": "Por curiosidad",
+    "artist": "Insomnio Colectivo",
+    "isrc": "QZES62464685"
+  },
+  {
+    "title": "Deseo",
+    "artist": "Ecos",
+    "isrc": "ES71G1616757"
+  },
+  {
+    "title": "Nicaragua la Chavala Linda",
+    "artist": "Ale, Luis Pastor",
+    "isrc": "uscgj1949393"
+  },
+  {
+    "title": "La canción medio enculada",
+    "artist": "Asintomaticxs",
+    "isrc": "QZK6Q2166347"
+  },
+  {
+    "title": "Same Old Lies",
+    "artist": "Dream Safari, RØZ",
+    "isrc": "QZMEP2085226"
+  },
+  {
+    "title": "Heroes Are Dead - Original Mix",
+    "artist": "Luigi Bridges",
+    "isrc": "CA5KR2326075"
+  },
+  {
+    "title": "Back into the Dancefloor",
+    "artist": "Sid Hart, Alpaca Beats",
+    "isrc": "USA2P2417671"
+  },
+  {
+    "title": "Swing Lynn",
+    "artist": "Zamyr",
+    "isrc": "QZ5AB2313081"
+  },
+  {
+    "title": "Carretera Sur",
+    "artist": "Victor Marin",
+    "isrc": "QZK6Q1956339"
+  },
+  {
+    "title": "Mar",
+    "artist": "Loudwing Aldair",
+    "isrc": "QZHN72143972"
+  },
+  {
+    "title": "No smile on my face",
+    "artist": "Gabuardi",
+    "isrc": "QZFYY2464604"
+  },
+  {
+    "title": "Manjol",
+    "artist": "Sala Bipolar",
+    "isrc": "GBMA21835137"
+  },
+  {
+    "title": "Cambios",
+    "artist": "Marja Siu",
+    "isrc": "QZES71918348"
+  },
+  {
+    "title": "Sin Vos",
+    "artist": "Sofá",
+    "isrc": "QZAPG1825824"
+  },
+  {
+    "title": "Caminando Sin Rumbo",
+    "artist": "Idac",
+    "isrc": "QZHNA2248068"
+  },
+  {
+    "title": "un mensaje de amor",
+    "artist": "Wilber Rios",
+    "isrc": "SE6XW2299007"
+  },
+  {
+    "title": "Estés Donde Estés",
+    "artist": "Rigolet, Miguel Lee",
+    "isrc": "QZK6Q1972349"
+  },
+  {
+    "title": "Dissolve",
+    "artist": "Farhat Samara",
+    "isrc": "QZK6G2389171"
+  },
+  {
+    "title": "París - Demo",
+    "artist": "Alex Borge",
+    "isrc": "SE6TI2139633"
+  },
+  {
+    "title": "Alive",
+    "artist": "Pavel Palma Vaughan",
+    "isrc": "QZFYY2112953"
+  },
+  {
+    "title": "Hail Mary",
+    "artist": "Retro Cowgirl",
+    "isrc": "QZK6H2441824"
+  },
+  {
+    "title": "El Efecto",
+    "artist": "Dos al Lago",
+    "isrc": "usdy42149229"
+  },
+  {
+    "title": "Machine Sympony",
+    "artist": "Thief Operandi",
+    "isrc": "QZHN52339398"
+  },
+  {
+    "title": "Surrealismo",
+    "artist": "Tonalli",
+    "isrc": "QZFZ21984199"
+  },
+  {
+    "title": "Adelante",
+    "artist": "Vcabu",
+    "isrc": "QM2PV1712702"
+  },
+  {
+    "title": "Malos Modales",
+    "artist": "ceci ceci",
+    "isrc": "QZAL92400015"
+  },
+  {
+    "title": "Con Tu Luz",
+    "artist": "Olivo Silvestre",
+    "isrc": "QZDA82457795"
+  },
+  {
+    "title": "Won't Stop Movin'",
+    "artist": "Neon Spirits",
+    "isrc": "uscgj1512344"
+  },
+  {
+    "title": "Para Ti (Home Edition)",
+    "artist": "Jeffrey Underwood",
+    "isrc": "QZHN82092169"
+  },
+  {
+    "title": "Claro",
+    "artist": "AntoRappa",
+    "isrc": "GBKPL1970382"
+  },
+  {
+    "title": "Joyride",
+    "artist": "Biglemoi",
+    "isrc": "QM49T1900006"
+  },
+  {
+    "title": "Tan Especial",
+    "artist": "Bosco Villavicencio",
+    "isrc": "GX4R52121100"
+  },
+  {
+    "title": "En Plena Madrugada",
+    "artist": "Freddy Ulloa",
+    "isrc": "QZW9N2244667"
+  },
+  {
+    "title": "Canción para Mí",
+    "artist": "Habibi",
+    "isrc": "USHM82171613"
+  },
+  {
+    "title": "Saudade",
+    "artist": "Hardiel",
+    "isrc": "QZHNC2061522"
+  },
+  {
+    "title": "Antes.",
+    "artist": "Juan José López",
+    "isrc": "QZHN92473675"
+  },
+  {
+    "title": "Baby, Come Closer",
+    "artist": "Katherine Prieto",
+    "isrc": "USCGJ2266657"
+  },
+  {
+    "title": "Intervals",
+    "artist": "Last Breath",
+    "isrc": "QZNWZ2224224"
+  },
+  {
+    "title": "La Sal Hace Flotar",
+    "artist": "Mar Xal",
+    "isrc": "QZFZ52007771"
+  },
+  {
+    "title": "Downtown Managua",
+    "artist": "Parido Nicaragua",
+    "isrc": "QZHN91936959"
+  },
+  {
+    "title": "Colette",
+    "artist": "Problems In The Arcade, Farhat Samara, Adriano Cardenal",
+    "isrc": "QZDA72074365"
+  },
+  {
+    "title": "Closing My Eyes",
+    "artist": "Suncolorbeats",
+    "isrc": "QZHN51964827"
+  },
+  {
+    "title": "It Never Entered My Mind",
+    "artist": "Varlet",
+    "isrc": "CALVP2011789"
+  },
+  {
+    "title": "Chiripa",
+    "artist": "Yiga",
+    "isrc": "QZPLS2171205"
+  },
+  {
+    "title": "Nadie",
+    "artist": "Garcín",
+    "isrc": "TCADX1806235"
+  },
+  {
+    "title": "Dreamer eyes",
+    "artist": "El Bosque de los Búhos, Diego Abud",
+    "isrc": "QZDA62258269"
+  },
+  {
+    "title": "Sol Verde",
+    "artist": "Nemi Pipali",
+    "isrc": "ushm91667805"
+  },
+  {
+    "title": "Caudal",
+    "artist": "Larry's Club",
+    "isrc": "TCAFB2026797"
+  },
+  {
+    "title": "Tiempo Para Soñar",
+    "artist": "Signos",
+    "isrc": "QZDA52294679"
+  },
+  {
+    "title": "Después",
+    "artist": "Proyecto Vigorón",
+    "isrc": "GB-SMU-33-74141"
+  },
+  {
+    "title": "Noticia de la Venganza",
+    "artist": "La Cegua",
+    "isrc": "ushm91293600"
+  },
+  {
+    "title": "Aurora",
+    "artist": "Sociedad de Nubes",
+    "isrc": "QZDA42409232"
+  },
+  {
+    "title": "Imposible",
+    "artist": "Nina y Sebastián",
+    "isrc": "QZ4JJ1616956"
+  },
+  {
+    "title": "Predispuesto y expuesto",
+    "artist": "Moises R Valle",
+    "isrc": "QZRP42163947"
+  },
+  {
+    "title": "Mesa Para Dos",
+    "artist": "SeahorseMoon, Sebastian Barberena",
+    "isrc": "QZWFK2314824"
+  },
+  {
+    "title": "Dime La Verdad",
+    "artist": "Neon Paradise",
+    "isrc": "QZTB92393663"
+  },
+  {
+    "title": "País",
+    "artist": "Téléviser",
+    "isrc": "QM2PV1659640"
+  },
+  {
+    "title": "Lejos",
+    "artist": "Souvenir",
+    "isrc": "QZDA41966948"
+  },
+  {
+    "title": "Perdido(s)",
+    "artist": "Sebastian Barberena",
+    "isrc": "QZHN82004595"
+  },
+  {
+    "title": "No Me Digas Que No",
+    "artist": "Jardin Animal, Various Artists",
+    "isrc": "TCAFQ2132064"
+  },
+  {
+    "title": "Batiscafo",
+    "artist": "Maura Hodgson",
+    "isrc": "QZRP52144283"
+  },
+  {
+    "title": "María",
+    "artist": "Marzo NI",
+    "isrc": "CAENV1993997"
+  },
+  {
+    "title": "Declaración",
+    "artist": "Ceshia Ubau",
+    "isrc": "usl4r2075451"
+  },
+  {
+    "title": "María Rural",
+    "artist": "Culturafolk",
+    "isrc": "ushm21638340"
+  },
+  {
+    "title": "Tu Dulzura",
+    "artist": "Segunda Ronda",
+    "isrc": "TCAGA2274425"
+  },
+  {
+    "title": "Luna",
+    "artist": "Don Sevilla",
+    "isrc": "QZNJY2349073"
+  },
+  {
+    "title": "Ina",
+    "artist": "Don Robinson, Victor Marín",
+    "isrc": "QZHN51959854"
+  },
+  {
+    "title": "vibe all night",
+    "artist": "Johnnie Flowers",
+    "isrc": "QZTAU2261413"
+  },
+  {
+    "title": "Aquí Voy",
+    "artist": "Cesia Viurlet",
+    "isrc": "usl4q2086528"
+  },
+  {
+    "title": "Again",
+    "artist": "No Policy",
+    "isrc": "QZMEN2085884"
+  },
+  {
+    "title": "Envoltorio del alma",
+    "artist": "Mangosushi",
+    "isrc": "QZK6H2107876"
+  },
+  {
+    "title": "Monaco",
+    "artist": "Hans Amador",
+    "isrc": "QZHN82162478"
+  },
+  {
+    "title": "RON CON TECHNO",
+    "artist": "Stayleave, Daliko YvngBoy",
+    "isrc": "QZTAW2360134"
+  },
+  {
+    "title": "No Hace Falta",
+    "artist": "Aled",
+    "isrc": "QM4DW1890378"
+  },
+  {
+    "title": "Pregunta a las nubes",
+    "artist": "Maldito Pop",
+    "isrc": "QZNWQ2151729"
+  },
+  {
+    "title": "Rompecabezas",
+    "artist": "Ximena",
+    "isrc": "TCAGB2276822"
+  },
+  {
+    "title": "Tu Amor",
+    "artist": "CMMT",
+    "isrc": "QZFZ32047313"
+  },
+  {
+    "title": "Viejo Gurú",
+    "artist": "Rigoazulado, Ceshia Ubau",
+    "isrc": "QZK6F2032799"
+  },
+  {
+    "title": "stink",
+    "artist": "upsidöwn",
+    "isrc": "QZDA62217267"
+  },
+  {
+    "title": "El error",
+    "artist": "SEV",
+    "isrc": "QZHN42391057"
+  },
+  {
+    "title": "Soma",
+    "artist": "Elsa Basil",
+    "isrc": "QZDA61994943"
+  },
+  {
+    "title": "NEED YOUR LOVE!",
+    "artist": "VKZ",
+    "isrc": "QZWFE2331070"
+  },
+  {
+    "title": "Recuerdos de Siempre (Acústico)",
+    "artist": "Ciudad de Clara",
+    "isrc": "CACWV2280737"
+  },
+  {
+    "title": "El Cuarto",
+    "artist": "Nadsat Banda",
+    "isrc": "QZRP52174360"
+  },
+  {
+    "title": "Highs and Lows",
+    "artist": "Moonshine Moneybag",
+    "isrc": "QZFYW2151580"
+  },
+  {
+    "title": "beso utópico",
+    "artist": "Miguel Lee, Sebastian Barberena",
+    "isrc": "QZTBE2388987"
+  },
+  {
+    "title": "Tal vez",
+    "artist": "Eddy Monge",
+    "isrc": "US7VG1775075"
+  },
+  {
+    "title": "El Náufrago",
+    "artist": "Alex Cardenal, Sid Hart",
+    "isrc": "QZHN91934756"
+  },
+  {
+    "title": "Desde los Barrios Bajos",
+    "artist": "Insomnio Colectivo",
+    "isrc": "QZES62464684"
+  },
+  {
+    "title": "La Forma",
+    "artist": "Ecos",
+    "isrc": "ES71G1616755"
+  },
+  {
+    "title": "Vida de Mi Vida",
+    "artist": "Ale",
+    "isrc": "uscgj1952933"
+  },
+  {
+    "title": "LA CANCIÓN MÁS MIERDA",
+    "artist": "Asintomaticxs",
+    "isrc": "QZPLS2192684"
+  },
+  {
+    "title": "This Girl",
+    "artist": "Dream Safari",
+    "isrc": "QZDA41973290"
+  },
+  {
+    "title": "Rhodope",
+    "artist": "Luigi Bridges, NAOBA",
+    "isrc": "US83Z1775474"
+  },
+  {
+    "title": "Unfinished Business",
+    "artist": "Sid Hart",
+    "isrc": "USA2P2238484"
+  },
+  {
+    "title": "The Outsiders",
+    "artist": "Zamyr",
+    "isrc": "QZNJY2394369"
+  },
+  {
+    "title": "Cafecito mañanero",
+    "artist": "Victor Marin",
+    "isrc": "QZK6Q1956340"
+  },
+  {
+    "title": "Exit",
+    "artist": "Loudwing Aldair",
+    "isrc": "QZK6M2008490"
+  },
+  {
+    "title": "In My Mind",
+    "artist": "Gabuardi",
+    "isrc": "QZFYY2464605"
+  },
+  {
+    "title": "Buda",
+    "artist": "Sala Bipolar",
+    "isrc": "GBMA21835225"
+  },
+  {
+    "title": "A Una Decisión",
+    "artist": "Marja Siu",
+    "isrc": "QZES71918350"
+  },
+  {
+    "title": "Ella",
+    "artist": "Sofá",
+    "isrc": "QZAPG1825825"
+  },
+  {
+    "title": "Acompáñame",
+    "artist": "Idac",
+    "isrc": "QZMEN2264085"
+  },
+  {
+    "title": "La Pista",
+    "artist": "Garcín",
+    "isrc": "TCADX1806268"
+  },
+  {
+    "title": "Formas",
+    "artist": "El Bosque de los Búhos",
+    "isrc": "QZHN52456082"
+  },
+  {
+    "title": "Minutos Diminutos",
+    "artist": "Nemi Pipali",
+    "isrc": "ushm91667807"
+  },
+  {
+    "title": "Feeling - Sesión En La Biblioteca",
+    "artist": "Signos",
+    "isrc": "QZK6L2326254"
+  },
+  {
+    "title": "Fármacos",
+    "artist": "Larry's Club",
+    "isrc": "TCAFB2026783"
+  },
+  {
+    "title": "Cocodrilo",
+    "artist": "La Cegua",
+    "isrc": "ushm91293605"
+  },
+  {
+    "title": "Tirabuzón",
+    "artist": "Moises R Valle",
+    "isrc": "QZFZ72186809"
+  },
+  {
+    "title": "Aquella Vez",
+    "artist": "Nina y Sebastián",
+    "isrc": "QZ4JJ1617088"
+  },
+  {
+    "title": "Sabes Qué - Live Session",
+    "artist": "SeahorseMoon",
+    "isrc": "QZRP52166609"
+  },
+  {
+    "title": "Even Rock Stars Get Lonely",
+    "artist": "Neon Paradise",
+    "isrc": "QZHNB2239299"
+  },
+  {
+    "title": "Warpaint",
+    "artist": "Téléviser",
+    "isrc": "QZHN32310382"
+  },
+  {
+    "title": "La Estación",
+    "artist": "Souvenir",
+    "isrc": "QZDA41966949"
+  },
+  {
+    "title": "Quizá(s)",
+    "artist": "Sebastian Barberena",
+    "isrc": "QZPLS2378531"
+  },
+  {
+    "title": "Melodías (Felices de una canción triste)",
+    "artist": "Jardin Animal",
+    "isrc": "QZHN92101218"
+  },
+  {
+    "title": "Crisálida",
+    "artist": "Maura Hodgson",
+    "isrc": "QZHNC2288401"
+  },
+  {
+    "title": "Espero Que Te Encuentres Mejor",
+    "artist": "Marzo NI",
+    "isrc": "SE6XW2161336"
+  },
+  {
+    "title": "Tu Lucidez",
+    "artist": "Culturafolk",
+    "isrc": "ushm21638339"
+  },
+  {
+    "title": "Las Mujeres de Mi Tierra",
+    "artist": "Ceshia Ubau",
+    "isrc": "usdy41745312"
+  },
+  {
+    "title": "Buenas Memorias",
+    "artist": "Segunda Ronda",
+    "isrc": "TCAGR2211916"
+  },
+  {
+    "title": "Perdidos",
+    "artist": "Don Sevilla",
+    "isrc": "QZNJW2003878"
+  },
+  {
+    "title": "Jamás te Olvidaré",
+    "artist": "Don Robinson",
+    "isrc": "QZFZ52078914"
+  },
+  {
+    "title": "Dime",
+    "artist": "Cesia Viurlet, Bruno Gallardo",
+    "isrc": "SE6QE2194005"
+  },
+  {
+    "title": "Andy",
+    "artist": "No Policy",
+    "isrc": "QZMER2166597"
+  },
+  {
+    "title": "Lo que se retrasa",
+    "artist": "Mangosushi",
+    "isrc": "QZK6Q2118124"
+  },
+  {
+    "title": "Out to Sea",
+    "artist": "Hans Amador",
+    "isrc": "QZES92095245"
+  },
+  {
+    "title": "Un Segundo",
+    "artist": "Aled",
+    "isrc": "QZDA71919759"
+  },
+  {
+    "title": "Pluto's Theme",
+    "artist": "Maldito Pop",
+    "isrc": "QZWFJ2356216"
+  }
+]

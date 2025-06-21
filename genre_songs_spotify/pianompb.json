@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Tom Maior",
+    "artist": "Gilson Peranzzetta, Emílio Santiago",
+    "isrc": "BRMVP0401122"
+  },
+  {
+    "title": "Let It Be",
+    "artist": "André Mehmari, Bia & Nino",
+    "isrc": "BRMPC0500307"
+  },
+  {
+    "title": "Gaúcho (O Corta-jaca)",
+    "artist": "Hércules Gomes",
+    "isrc": "BRYCW1800001"
+  },
+  {
+    "title": "Ponteio 49",
+    "artist": "Amilton Godoy, Edu Ribeiro, Sidiel Vieira",
+    "isrc": "BRIXG2100008"
+  },
+  {
+    "title": "Armina",
+    "artist": "Wagner Tiso",
+    "isrc": "BREMI9500459"
+  },
+  {
+    "title": "Manha de Carnaval",
+    "artist": "João Donato",
+    "isrc": "USRC11500978"
+  },
+  {
+    "title": "Perto do Coração",
+    "artist": "Nelson Ayres",
+    "isrc": "BRAPI0301095"
+  },
+  {
+    "title": "Feira de Mangaio",
+    "artist": "Salomão Soares, Guegué Medeiros",
+    "isrc": "BKSL12300001"
+  },
+  {
+    "title": "Feira de Mangaio",
+    "artist": "Trio Corrente, Edu Ribeiro, Fabio Torres, Paulo Paulelli",
+    "isrc": "BRF5T2100012"
+  },
+  {
+    "title": "Sertão",
+    "artist": "Benjamim Taubkin, Ivan Vilela",
+    "isrc": "BXNNU1900001"
+  },
+  {
+    "title": "Reencontro",
+    "artist": "Debora Gurgel",
+    "isrc": "BRDE11100002"
+  },
+  {
+    "title": "Lamento",
+    "artist": "Fabio Torres, Paulo Paulelli, Edu Ribeiro",
+    "isrc": "BRTAC0500016"
+  },
+  {
+    "title": "Maracangalha",
+    "artist": "Leandro Braga",
+    "isrc": "BRMPB9800003"
+  },
+  {
+    "title": "Tristeza De Nós Dois",
+    "artist": "Luiz Eça",
+    "isrc": "BRMCA6400151"
+  },
+  {
+    "title": "Minha Saudade",
+    "artist": "Silvia Goes",
+    "isrc": "ITH791100008"
+  },
+  {
+    "title": "Oferenda",
+    "artist": "Luísa Mitre",
+    "isrc": "BRW9O1800004"
+  },
+  {
+    "title": "Passaredo",
+    "artist": "Francis Hime, Rosana Diniz",
+    "isrc": "BRPUI0100010"
+  },
+  {
+    "title": "Vila Bela",
+    "artist": "Amaro Freitas",
+    "isrc": "GBDCR2100038"
+  },
+  {
+    "title": "Jesus, Alegria dos Homens Coral da Cantata Nº 147",
+    "artist": "Arthur Moreira Lima",
+    "isrc": "BXKDW1900002"
+  },
+  {
+    "title": "Festa No Carmo",
+    "artist": "Bianca Gismonti",
+    "isrc": "BRKVT1300001"
+  },
+  {
+    "title": "Palhaço",
+    "artist": "Delia Fischer",
+    "isrc": "BRH4D1100003"
+  },
+  {
+    "title": "Rascunho No. 4",
+    "artist": "Louise Woolley",
+    "isrc": "BRTO61900058"
+  },
+  {
+    "title": "Gostava Tanto de Você",
+    "artist": "Luiz Avellar",
+    "isrc": "BRCID9900168"
+  },
+  {
+    "title": "Mas Que Nada",
+    "artist": "Hamleto Stamato",
+    "isrc": "BRTRB2083574"
+  },
+  {
+    "title": "Brasileirinho",
+    "artist": "Eudóxia De Barros",
+    "isrc": "BRCMP0100455"
+  },
+  {
+    "title": "Moeda, Reza e Cor",
+    "artist": "Dom Salvador",
+    "isrc": "BRSME7100147"
+  },
+  {
+    "title": "Rhapsody in Blue: The Man I Love",
+    "artist": "3 Na Bossa",
+    "isrc": "BRAMD0001898"
+  },
+  {
+    "title": "Sarandi",
+    "artist": "Marcus Abjaud, Bruno Vellozo, Felipe Continentino, Cainã Cavalcante, Jasmin Godoy",
+    "isrc": "QZMZ92485686"
+  },
+  {
+    "title": "Bordões ao luar",
+    "artist": "Tia Amelia, Banda Vila Rica",
+    "isrc": "QZGWW2041574"
+  },
+  {
+    "title": "Bossa Love",
+    "artist": "Marcos Ariel",
+    "isrc": "USJ8A0777101"
+  },
+  {
+    "title": "Berlin",
+    "artist": "Deangelo Silva, Antonio Loureiro, Frederico Heliodoro, Felipe Vilas Boas",
+    "isrc": "BX6O22000001"
+  },
+  {
+    "title": "Trasantonte",
+    "artist": "Diogo Monzo",
+    "isrc": "BRPUI2100231"
+  },
+  {
+    "title": "Valsa Pra Lua",
+    "artist": "Vitor Araújo",
+    "isrc": "BRDEP0800061"
+  },
+  {
+    "title": "How Insensitive",
+    "artist": "Eliane Elias",
+    "isrc": "JPTO09807230"
+  },
+  {
+    "title": "Rosa",
+    "artist": "Heloísa Fernandes",
+    "isrc": "BRTAC0400069"
+  },
+  {
+    "title": "Tango-Habanera",
+    "artist": "Alexandre Dias",
+    "isrc": "uscgh1308734"
+  },
+  {
+    "title": "Choro pro zé",
+    "artist": "GisBranco",
+    "isrc": "ESAAI0226067"
+  },
+  {
+    "title": "Odeon",
+    "artist": "Ernesto Nazareth, Antoine Zemor",
+    "isrc": "USXA21000086"
+  },
+  {
+    "title": "Mundo Melhor",
+    "artist": "Fernando Leitzke",
+    "isrc": "BXFEK1500003"
+  },
+  {
+    "title": "Sonata Brasileira",
+    "artist": "Lis De Carvalho",
+    "isrc": "BR0WA1200001"
+  },
+  {
+    "title": "A Solidão das Prateleiras",
+    "artist": "Paulo Malaguti Pauleira, Clara Sandroni",
+    "isrc": "BRV3P1700033"
+  },
+  {
+    "title": "Danças paralelas",
+    "artist": "Ana Fridman",
+    "isrc": "BRB2G0900005"
+  },
+  {
+    "title": "5a valsa brasileira",
+    "artist": "Fabio Caramuru",
+    "isrc": "JPB641800094"
+  },
+  {
+    "title": "O Mar de Jericoacoara",
+    "artist": "Makiko Yoneda",
+    "isrc": "BXMK11700009"
+  },
+  {
+    "title": "Estudo Magno",
+    "artist": "Gilberto Mendes, Beatriz Alessio",
+    "isrc": "IT0371515570"
+  },
+  {
+    "title": "Meditação",
+    "artist": "Hamleto Stamato Trio",
+    "isrc": "BRL0P1100049"
+  },
+  {
+    "title": "Rute E Sua Grandeza - Vassi No. 1",
+    "artist": "Leandro Cabral Trio",
+    "isrc": "BXE651600003"
+  },
+  {
+    "title": "Cantarolando (feat. Marina)",
+    "artist": "Nico Rezende, Marina",
+    "isrc": "BRWMB9901117"
+  },
+  {
+    "title": "Elegia",
+    "artist": "Ricardo Mac Cord",
+    "isrc": "BR11R0900004"
+  },
+  {
+    "title": "Com Que Roupa",
+    "artist": "Gilson Peranzzetta, Mauro Senise, Amoy Ribas, Zeca Assumpção",
+    "isrc": "BRPUI1001037"
+  },
+  {
+    "title": "The Fool on the Hill",
+    "artist": "André Mehmari, Bia & Nino",
+    "isrc": "BRMPC0500434"
+  },
+  {
+    "title": "Cuíca no Choro",
+    "artist": "Hércules Gomes",
+    "isrc": "BXSVC1901097"
+  },
+  {
+    "title": "Brincando Com Theo",
+    "artist": "Amilton Godoy, Léa Freire",
+    "isrc": "BRTAC1300013"
+  },
+  {
+    "title": "Choro De Mãe",
+    "artist": "Wagner Tiso",
+    "isrc": "BREMI7800002"
+  },
+  {
+    "title": "Coração Vagabundo",
+    "artist": "Nelson Ayres",
+    "isrc": "BRAPI0301096"
+  },
+  {
+    "title": "Bluchanga",
+    "artist": "João Donato",
+    "isrc": "BRC9T1400001"
+  },
+  {
+    "title": "Canto D'Água",
+    "artist": "Salomão Soares",
+    "isrc": "BRTO62300011"
+  },
+  {
+    "title": "Amor Até o Fim",
+    "artist": "Trio Corrente",
+    "isrc": "ITZJ51900067"
+  },
+  {
+    "title": "Cravo e Canela",
+    "artist": "Benjamim Taubkin, Ivan Vilela",
+    "isrc": "BXNNU1900004"
+  },
+  {
+    "title": "Pros Mestres",
+    "artist": "Debora Gurgel",
+    "isrc": "BRDE11100001"
+  },
+  {
+    "title": "Chorinho pra você",
+    "artist": "Fabio Torres, Paulo Paulelli, Edu Ribeiro",
+    "isrc": "BRTAC0500019"
+  },
+  {
+    "title": "Tamba",
+    "artist": "Leandro Braga",
+    "isrc": "BRPUI0200187"
+  },
+  {
+    "title": "Daulphine",
+    "artist": "Luiz Eça",
+    "isrc": "BRMCA7000167"
+  },
+  {
+    "title": "Samba de uma Nota Só",
+    "artist": "Silvia Goes",
+    "isrc": "ITH791100051"
+  },
+  {
+    "title": "Valsa da Espera",
+    "artist": "Luísa Mitre",
+    "isrc": "BRW9O1800001"
+  },
+  {
+    "title": "Olivia",
+    "artist": "Francis Hime",
+    "isrc": "BREMI7300637"
+  },
+  {
+    "title": "Mar de Cirandeiras",
+    "artist": "Amaro Freitas, Jeff Parker",
+    "isrc": "BC7772300006"
+  },
+  {
+    "title": "Brejeiro",
+    "artist": "Ernesto Nazareth, Arthur Moreira Lima",
+    "isrc": "BRI9C1400254"
+  },
+  {
+    "title": "Entre Amigos",
+    "artist": "Bianca Gismonti",
+    "isrc": "BRKVT1300005"
+  },
+  {
+    "title": "Choro De Pai",
+    "artist": "Delia Fischer",
+    "isrc": "DED539801110"
+  },
+  {
+    "title": "Rascunho No. 3",
+    "artist": "Louise Woolley",
+    "isrc": "BRTO61900056"
+  },
+  {
+    "title": "Flor de Liz",
+    "artist": "Luiz Avellar",
+    "isrc": "BRCID9500220"
+  },
+  {
+    "title": "De Bem com a Vida",
+    "artist": "Hamleto Stamato",
+    "isrc": "BRTRB2083717"
+  },
+  {
+    "title": "Os Pintinhos no Terreiro - Chorinho Sapeca",
+    "artist": "Eudóxia De Barros",
+    "isrc": "BRCMP0100263"
+  },
+  {
+    "title": "Be By My Side",
+    "artist": "Dom Salvador",
+    "isrc": "BRSME1500799"
+  },
+  {
+    "title": "O Bêbado e o Equilibrista",
+    "artist": "3 Na Bossa",
+    "isrc": "BRDEP1400070"
+  },
+  {
+    "title": "Alma",
+    "artist": "Marcus Abjaud, Bruno Vellozo, Felipe Continentino, Lucas Gomes",
+    "isrc": "QZMZ92485688"
+  },
+  {
+    "title": "Dulce",
+    "artist": "Tia Amelia",
+    "isrc": "QZGWW2041583"
+  },
+  {
+    "title": "Missing Ipanema",
+    "artist": "Marcos Ariel, Marc Antoine, Rômulo Duarte, Roberto Marques",
+    "isrc": "USDY42476614"
+  },
+  {
+    "title": "Bahia",
+    "artist": "Deangelo Silva",
+    "isrc": "BXV5M1700001"
+  },
+  {
+    "title": "Imagem",
+    "artist": "Diogo Monzo",
+    "isrc": "BRFIN1700019"
+  },
+  {
+    "title": "Toque No. 3: Turvalema",
+    "artist": "Vitor Araújo",
+    "isrc": "BRQIJ1600003"
+  },
+  {
+    "title": "Falling In Love With Love",
+    "artist": "Eliane Elias",
+    "isrc": "USSJ10400465"
+  },
+  {
+    "title": "As 3 Graças: Euphrosyne, O Sentido da Alegria",
+    "artist": "Heloísa Fernandes",
+    "isrc": "BRHLP1600004"
+  },
+  {
+    "title": "Fita Amarela",
+    "artist": "Gilson Peranzzetta, Mauro Senise",
+    "isrc": "BRPUI1001033"
+  },
+  {
+    "title": "Here Comes the Sun",
+    "artist": "André Mehmari, Bia & Nino",
+    "isrc": "BRMPC0500317"
+  },
+  {
+    "title": "Bordões ao Luar",
+    "artist": "Hércules Gomes",
+    "isrc": "BXSVC1901096"
+  },
+  {
+    "title": "Prelúdio No. 2",
+    "artist": "Amilton Godoy, Edu Ribeiro",
+    "isrc": "BRIXG1900011"
+  },
+  {
+    "title": "Fernanda",
+    "artist": "Wagner Tiso, Marcio Malard",
+    "isrc": "BRPUI1100415"
+  },
+  {
+    "title": "Choro do Adeus",
+    "artist": "Nelson Ayres",
+    "isrc": "BRAPI0301098"
+  },
+  {
+    "title": "De Sábado pra Dominguinhos",
+    "artist": "Salomão Soares, Vanessa Moreno",
+    "isrc": "BRF102100005"
+  },
+  {
+    "title": "Ê Lalá Lay-Ê",
+    "artist": "João Donato",
+    "isrc": "BRDEP0700017"
+  },
+  {
+    "title": "O Bem do Mar",
+    "artist": "Trio Corrente, Edu Ribeiro",
+    "isrc": "BRF5T1100006"
+  },
+  {
+    "title": "Experimento 1",
+    "artist": "Benjamim Taubkin, Kabé Pinheiro, João Taubkin",
+    "isrc": "BRTRB2300498"
+  },
+  {
+    "title": "Clara da Lua",
+    "artist": "Debora Gurgel",
+    "isrc": "BRDE11100005"
+  },
+  {
+    "title": "Garota de ipanema",
+    "artist": "Fabio Torres, Paulo Paulelli, Edu Ribeiro",
+    "isrc": "BRTAC0500017"
+  },
+  {
+    "title": "Capixaba",
+    "artist": "Leandro Braga",
+    "isrc": "BRMUD9800001"
+  },
+  {
+    "title": "Pra Dizer Adeus",
+    "artist": "Luiz Eça",
+    "isrc": "BRMCA7000163"
+  },
+  {
+    "title": "Chega de Saudade",
+    "artist": "Silvia Goes",
+    "isrc": "ITH791100053"
+  },
+  {
+    "title": "Intuitivo",
+    "artist": "Luísa Mitre",
+    "isrc": "BRW9O1800005"
+  },
+  {
+    "title": "Concerto para Violão e Orquestra: II. Ibéria",
+    "artist": "Francis Hime, Alondra de la Parra, Fabio Zanon, Orquestra Sinfônica do Estado de São Paulo",
+    "isrc": "BRPUI1000322"
+  },
+  {
+    "title": "Uiara (Encantada da Água) - Vida e cura",
+    "artist": "Amaro Freitas",
+    "isrc": "BC7772300009"
+  }
+]

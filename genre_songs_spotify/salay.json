@@ -1,0 +1,592 @@
+[
+  {
+    "title": "Rayito de Luna",
+    "artist": "Aullagas",
+    "isrc": "SE9822100522"
+  },
+  {
+    "title": "Corazoncito",
+    "artist": "SUMAYA ANDINA",
+    "isrc": "QZ22B1633951"
+  },
+  {
+    "title": "Linda Cholita",
+    "artist": "100% Yara",
+    "isrc": "QM4TX1617651"
+  },
+  {
+    "title": "Amor a Primera Vista",
+    "artist": "Delfines del Amor",
+    "isrc": "USL4R2072992"
+  },
+  {
+    "title": "No Te Equivoques",
+    "artist": "Los Gutierrez",
+    "isrc": "QMBZ92249373"
+  },
+  {
+    "title": "LA Sobra Que He Dejado",
+    "artist": "Valeno, Pastor Cámara, soria records",
+    "isrc": "QM6MZ1949447"
+  },
+  {
+    "title": "Mi Corazón Te Lo Daré",
+    "artist": "Yoniko y Su Grupo Australia",
+    "isrc": "ARHXW2102058"
+  },
+  {
+    "title": "Que Pasa Corazón",
+    "artist": "Edmundo Rengel, Luz Danny",
+    "isrc": "QMBZ92092465"
+  },
+  {
+    "title": "Él ya no te ama",
+    "artist": "Cristhian Vidal y Su Inspiracion De Amor, Yarita Lizeth Yanarico",
+    "isrc": "ARIXB2102572"
+  },
+  {
+    "title": "Mix Salay",
+    "artist": "Luz Danny",
+    "isrc": "ushm22220072"
+  },
+  {
+    "title": "Te Olvidaré",
+    "artist": "Generación Juvenil",
+    "isrc": "QMGR32248736"
+  },
+  {
+    "title": "Y Que Paso",
+    "artist": "Los Jatun",
+    "isrc": "ushm21804006"
+  },
+  {
+    "title": "No Quiero Casarme",
+    "artist": "Alfredo Larico, Muñequita Milly",
+    "isrc": "QZMEN2257250"
+  },
+  {
+    "title": "En Nuestro Pueblo - Salay",
+    "artist": "Stefany Aguilar",
+    "isrc": "QMGR32196373"
+  },
+  {
+    "title": "Te Amaré por Siempre",
+    "artist": "Yara",
+    "isrc": "QM6MZ1721477"
+  },
+  {
+    "title": "No Me Vuelvo a Enamorar",
+    "artist": "Acustica",
+    "isrc": "ARG991022564"
+  },
+  {
+    "title": "Misk'y Cholitay",
+    "artist": "Betty Veizaga, Pukaj Wayra",
+    "isrc": "CH6541629657"
+  },
+  {
+    "title": "Dices Que No Importa",
+    "artist": "Waliki",
+    "isrc": "CH6541779571"
+  },
+  {
+    "title": "Todo Se Paga",
+    "artist": "Mara Bolivia",
+    "isrc": "QZNW72341139"
+  },
+  {
+    "title": "Somos Mas",
+    "artist": "Grupo Arawi",
+    "isrc": "QM7282091644"
+  },
+  {
+    "title": "Cholita Marina",
+    "artist": "Duo Takiytinku",
+    "isrc": "QMFME2061803"
+  },
+  {
+    "title": "Pio Pio",
+    "artist": "Cesar Choque",
+    "isrc": "usl4r2072915"
+  },
+  {
+    "title": "Amor Solterito",
+    "artist": "AYNA BOLIVIA",
+    "isrc": "QZ22B1638605"
+  },
+  {
+    "title": "Rica Florcita",
+    "artist": "Las Florecitas de Mizque",
+    "isrc": "MX2832274459"
+  },
+  {
+    "title": "Mix Salay",
+    "artist": "Alfredo Larico Y Su Sensacion Juvenil",
+    "isrc": "usdy41952597"
+  },
+  {
+    "title": "Sin Ti",
+    "artist": "Kharua, soria records",
+    "isrc": "QM4TW1945945"
+  },
+  {
+    "title": "Bailo Caporal",
+    "artist": "Kollasuyo",
+    "isrc": "US7VG2161100"
+  },
+  {
+    "title": "Te Olvidare - Live",
+    "artist": "Generación Juvenil",
+    "isrc": "SE9822061153"
+  },
+  {
+    "title": "Me Vas a Dejar",
+    "artist": "Andesur",
+    "isrc": "CH6541983808"
+  },
+  {
+    "title": "Tomaré para Olvidar",
+    "artist": "Los Jathas",
+    "isrc": "QM4TW1679111"
+  },
+  {
+    "title": "Si Me Dejaras",
+    "artist": "Rocío Moreira",
+    "isrc": "QMFMG1519442"
+  },
+  {
+    "title": "Kuma Jakaru",
+    "artist": "Wen de Beltrán, Los Kjarkas, Chila Jatun",
+    "isrc": "CH6541888675"
+  },
+  {
+    "title": "Yori Jon",
+    "artist": "Sumaya",
+    "isrc": "EGA261901894"
+  },
+  {
+    "title": "Amor y Pasion",
+    "artist": "Delfines Del Amor, Luz Danny",
+    "isrc": "ES18B1806094"
+  },
+  {
+    "title": "Putucun - En Vivo",
+    "artist": "Generacion Juvenil",
+    "isrc": "QZGLS2031220"
+  },
+  {
+    "title": "Juguito de Calzón",
+    "artist": "La Nueva Raza",
+    "isrc": "CH6541900655"
+  },
+  {
+    "title": "Fuego de Tí",
+    "artist": "La Razza",
+    "isrc": "QM6N21979244"
+  },
+  {
+    "title": "No Me Rendiré",
+    "artist": "Munay Bolivia",
+    "isrc": "CH6541837338"
+  },
+  {
+    "title": "Caporal Es Boliviano",
+    "artist": "Los Maynis",
+    "isrc": "US7VG2150096"
+  },
+  {
+    "title": "Esa Chiquilla Que Baila",
+    "artist": "Las Consentidas",
+    "isrc": "CLLH22602464"
+  },
+  {
+    "title": "Mix Caporales",
+    "artist": "ANDESUR",
+    "isrc": "CH6541980319"
+  },
+  {
+    "title": "Huayños Enganchados",
+    "artist": "Erlinda Cruz y las Consentidas",
+    "isrc": "ushm21827067"
+  },
+  {
+    "title": "En Mi Pueblo",
+    "artist": "Florecitas de Mizque",
+    "isrc": "QZ22B2087193"
+  },
+  {
+    "title": "Ay Mi Salay",
+    "artist": "Fusion Ruana",
+    "isrc": "AEA0D1947658"
+  },
+  {
+    "title": "Por Tus Engaños",
+    "artist": "GENERACION JUVENIL",
+    "isrc": "CH6541980327"
+  },
+  {
+    "title": "Mi Mejor Sueño / Aguas Claras / Sueño de los Andes / Nunca Tuve Suerte en el Amor",
+    "artist": "Grupo Cisne",
+    "isrc": "FRX761529459"
+  },
+  {
+    "title": "Virgenes del Sol",
+    "artist": "Grupo Lejania",
+    "isrc": "QZW9N2216961"
+  },
+  {
+    "title": "Amor del Malo",
+    "artist": "Grupo Suite, Dayana",
+    "isrc": "usdy41846177"
+  },
+  {
+    "title": "Zapateadas Cintita",
+    "artist": "Génesis Con Amor",
+    "isrc": "ushm21827077"
+  },
+  {
+    "title": "Salaque",
+    "artist": "Las Dulces Celositas",
+    "isrc": "CH6541736719"
+  },
+  {
+    "title": "Mix de Huayños",
+    "artist": "Las Fabulosas",
+    "isrc": "ushm21827073"
+  },
+  {
+    "title": "Mix Corali",
+    "artist": "Las Misteriositas",
+    "isrc": "QM4TW2415544"
+  },
+  {
+    "title": "Sucreñita",
+    "artist": "Los Signos de Sucre",
+    "isrc": "MX2832326664"
+  },
+  {
+    "title": "Zapateo Llokalla Cholero - 2015 Remastered Version",
+    "artist": "Nay y Los Únicos Del Amor",
+    "isrc": "SE5752320827"
+  },
+  {
+    "title": "Eres Luz",
+    "artist": "Pachamama",
+    "isrc": "ARA231300258"
+  },
+  {
+    "title": "5 Minutos y Nada Mas",
+    "artist": "Renovacion Andina",
+    "isrc": "CH6541860078"
+  },
+  {
+    "title": "Yo Jure Nunca Enamorarme",
+    "artist": "Rossy y el Grupo Alberme",
+    "isrc": "ushm21827075"
+  },
+  {
+    "title": "Solo Recuerdos Salay Electro",
+    "artist": "Salay Para Ti",
+    "isrc": "SE6QE2016705"
+  },
+  {
+    "title": "Juntos por Siempre",
+    "artist": "Zuyawar",
+    "isrc": "CH6541987853"
+  },
+  {
+    "title": "No Me Niegues",
+    "artist": "Aullagas",
+    "isrc": "SE9822100536"
+  },
+  {
+    "title": "Margaritay",
+    "artist": "SUMAYA ANDINA",
+    "isrc": "CH6541743647"
+  },
+  {
+    "title": "El Agua Fiestas",
+    "artist": "100% Yara",
+    "isrc": "QM4TX1617648"
+  },
+  {
+    "title": "No Te Hagas de Rogar",
+    "artist": "Los Gutierrez",
+    "isrc": "QMBZ92249371"
+  },
+  {
+    "title": "La Chismosa",
+    "artist": "Delfines del Amor",
+    "isrc": "USL4R2072993"
+  },
+  {
+    "title": "Zas Cholita",
+    "artist": "Valeno, Pastor Cámara, soria records",
+    "isrc": "QM6MZ1949472"
+  },
+  {
+    "title": "Cariñito - Salay",
+    "artist": "Yoniko y Su Grupo Australia",
+    "isrc": "QMFME2134227"
+  },
+  {
+    "title": "Que Pasa Corazón (Salay) - 2021 Remix",
+    "artist": "Edmundo Rengel, Luz Danny",
+    "isrc": "SE9822100542"
+  },
+  {
+    "title": "Mi corazón",
+    "artist": "Cristhian Vidal y Su Inspiracion De Amor",
+    "isrc": "ART0G2003476"
+  },
+  {
+    "title": "Mix Cholita Electro Salay",
+    "artist": "Luz Danny",
+    "isrc": "usdy42328812"
+  },
+  {
+    "title": "Márchate",
+    "artist": "Generación Juvenil",
+    "isrc": "QMGR32262292"
+  },
+  {
+    "title": "Mix Caporal",
+    "artist": "Los Jatun, Grupo Chijra",
+    "isrc": "ushm21804015"
+  },
+  {
+    "title": "Prefiero la Muerte",
+    "artist": "Stefany Aguilar",
+    "isrc": "QMGR32196488"
+  },
+  {
+    "title": "Baila Mi Cholita",
+    "artist": "Alfredo Larico",
+    "isrc": "CH6542263436"
+  },
+  {
+    "title": "Acaso Porque Te Quiero",
+    "artist": "Yara",
+    "isrc": "QM6MZ1721476"
+  },
+  {
+    "title": "Ulala Kjiskita",
+    "artist": "Betty Veizaga, Pukaj Wayra",
+    "isrc": "CH6541629683"
+  },
+  {
+    "title": "Llajtita",
+    "artist": "Waliki",
+    "isrc": "CH6541765523"
+  },
+  {
+    "title": "Tarjetita de Invitacion",
+    "artist": "Acustica",
+    "isrc": "ARG991022558"
+  },
+  {
+    "title": "No Me Dejes",
+    "artist": "Mara Bolivia",
+    "isrc": "QZNW72341137"
+  },
+  {
+    "title": "Juanita",
+    "artist": "Grupo Arawi",
+    "isrc": "SE9822062572"
+  },
+  {
+    "title": "Malvas T'ikita",
+    "artist": "Duo Takiytinku",
+    "isrc": "QMFME2061800"
+  },
+  {
+    "title": "Agujita Delgada",
+    "artist": "Cesar Choque",
+    "isrc": "usl4r2072914"
+  },
+  {
+    "title": "Coplas Saya - Quicha",
+    "artist": "AYNA BOLIVIA",
+    "isrc": "QM7282057685"
+  },
+  {
+    "title": "Cholerito",
+    "artist": "Las Florecitas de Mizque",
+    "isrc": "MX2832318473"
+  },
+  {
+    "title": "Regalame un Minuto Mi Amor (Primicia 2019)",
+    "artist": "Alfredo Larico Y Su Sensacion Juvenil",
+    "isrc": "usdy41952599"
+  },
+  {
+    "title": "Por Amor",
+    "artist": "Kharua",
+    "isrc": "CH6541845788"
+  },
+  {
+    "title": "Traicionerita Salay",
+    "artist": "Kollasuyo",
+    "isrc": "US7VG2161097"
+  },
+  {
+    "title": "Que fácil me has Olvidado - Live",
+    "artist": "Generación Juvenil",
+    "isrc": "SE9822061156"
+  },
+  {
+    "title": "OJo Alegre",
+    "artist": "Andesur",
+    "isrc": "USA2P1841062"
+  },
+  {
+    "title": "Ya Llegó el Carnaval",
+    "artist": "Los Jathas",
+    "isrc": "QM4TW1679117"
+  },
+  {
+    "title": "Corazón Noble",
+    "artist": "Rocío Moreira",
+    "isrc": "QMFMG1519441"
+  },
+  {
+    "title": "Porque Yo Quiero",
+    "artist": "Wen de Beltrán, Eddy Guzman, Stefany Aguilar",
+    "isrc": "CH6541890036"
+  },
+  {
+    "title": "Joni Joni",
+    "artist": "Sumaya",
+    "isrc": "EGA261901813"
+  },
+  {
+    "title": "Caporales Enaf",
+    "artist": "La Nueva Raza",
+    "isrc": "CH6541900651"
+  },
+  {
+    "title": "Recuerdos",
+    "artist": "La Razza",
+    "isrc": "QM6MZ1785944"
+  },
+  {
+    "title": "Perdóname",
+    "artist": "Munay Bolivia",
+    "isrc": "CH6541837342"
+  },
+  {
+    "title": "Orgullosita",
+    "artist": "Los Maynis",
+    "isrc": "QM4TW1996560"
+  },
+  {
+    "title": "Arriba Las Palmas",
+    "artist": "Las Consentidas",
+    "isrc": "CLLH22602459"
+  },
+  {
+    "title": "Linda Morenita",
+    "artist": "Aullagas",
+    "isrc": "SE9822100521"
+  },
+  {
+    "title": "Cariñito",
+    "artist": "SUMAYA ANDINA",
+    "isrc": "QZ22B1633953"
+  },
+  {
+    "title": "A Trabajar",
+    "artist": "100% Yara",
+    "isrc": "QM4TX1617653"
+  },
+  {
+    "title": "Loquito de Amor",
+    "artist": "Los Gutierrez",
+    "isrc": "QMBZ92249369"
+  },
+  {
+    "title": "Solo Recuerdos",
+    "artist": "Delfines del Amor",
+    "isrc": "USL4R2072988"
+  },
+  {
+    "title": "Un Nuevo Amor",
+    "artist": "Valeno, Pastor Cámara, soria records",
+    "isrc": "QM6MZ1949438"
+  },
+  {
+    "title": "Mi Corazón Te Lo Daré - Remix",
+    "artist": "Yoniko y Su Grupo Australia",
+    "isrc": "QMFME2145047"
+  },
+  {
+    "title": "Amor Eterno",
+    "artist": "Edmundo Rengel, Stefany Aguilar",
+    "isrc": "QMFME2007922"
+  },
+  {
+    "title": "Manantial de Amor",
+    "artist": "Luz Danny",
+    "isrc": "uscgj2192359"
+  },
+  {
+    "title": "Baila cholito",
+    "artist": "Cristhian Vidal y Su Inspiracion De Amor, Luz Danny",
+    "isrc": "ART0G2001709"
+  },
+  {
+    "title": "Que fácil me has olvidado",
+    "artist": "Generación Juvenil",
+    "isrc": "QMGR32262083"
+  },
+  {
+    "title": "Botas de fuego",
+    "artist": "Los Jatun",
+    "isrc": "GX3HH2132316"
+  },
+  {
+    "title": "Tu Amor Fue una Mentira",
+    "artist": "Stefany Aguilar",
+    "isrc": "QMGR32196493"
+  },
+  {
+    "title": "No Puedo Amarte",
+    "artist": "Alfredo Larico",
+    "isrc": "CH6542263437"
+  },
+  {
+    "title": "Salay Bolivia",
+    "artist": "Yara",
+    "isrc": "QM6N21930356"
+  },
+  {
+    "title": "Río Huaycheño",
+    "artist": "Betty Veizaga",
+    "isrc": "QM4TW2179477"
+  },
+  {
+    "title": "Mi Niña",
+    "artist": "Waliki",
+    "isrc": "CH6541765526"
+  },
+  {
+    "title": "Quien Te Ha Dicho",
+    "artist": "Acustica",
+    "isrc": "ARG991022561"
+  },
+  {
+    "title": "Con Tu Amor",
+    "artist": "Mara Bolivia",
+    "isrc": "QZNW72341138"
+  },
+  {
+    "title": "Preste Mayor",
+    "artist": "Grupo Arawi",
+    "isrc": "SE9822062580"
+  },
+  {
+    "title": "Anzaldeñita",
+    "artist": "Duo Takiytinku",
+    "isrc": "QMFME2061794"
+  }
+]

@@ -93,7 +93,7 @@ def build_song_record(track: Dict[str, Any]) -> Dict[str, str]:
     }
 
 
-def scrape_playlists(genres_json: str, limit: Optional[int] = None, debug: bool = False, workers: int = 1):
+def scrape_playlists(genres_json: str, limit: Optional[int] = None, debug: bool = False, workers: int = 4):
     with open(genres_json, "r", encoding="utf-8") as fp:
         genres: Dict[str, Dict[str, Any]] = json.load(fp)
 

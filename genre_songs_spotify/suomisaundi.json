@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Magic",
+    "artist": "Lemon Slide",
+    "isrc": "GBLV61818204"
+  },
+  {
+    "title": "Endless Swamps",
+    "artist": "Igor Swamp",
+    "isrc": "ATR981203467"
+  },
+  {
+    "title": "Supersoaker",
+    "artist": "Salakavala",
+    "isrc": "USQY50966765"
+  },
+  {
+    "title": "Caveman Boogie",
+    "artist": "Kirna",
+    "isrc": "CH6540831367"
+  },
+  {
+    "title": "Far from Home",
+    "artist": "Puoskari",
+    "isrc": "USQY50966934"
+  },
+  {
+    "title": "Golden Accordion",
+    "artist": "Squaremeat",
+    "isrc": "USQY50966935"
+  },
+  {
+    "title": "Extracelestial - Original Mix",
+    "artist": "Sonic Bandits",
+    "isrc": "GBKQU1544306"
+  },
+  {
+    "title": "Sentimental",
+    "artist": "Shiwa 2000",
+    "isrc": "RUA681000008"
+  },
+  {
+    "title": "Kaunista",
+    "artist": "MandalaVandalz",
+    "isrc": "FIKRD0200013"
+  },
+  {
+    "title": "Ny On Sun Aikas - Original Mix",
+    "artist": "Oikeusjyva",
+    "isrc": "GBKQU1416229"
+  },
+  {
+    "title": "Wild Plans",
+    "artist": "James Reipas",
+    "isrc": "FISRE2400003"
+  },
+  {
+    "title": "Roachless, RIP Tommi - Original Mix",
+    "artist": "Pavel Svimba",
+    "isrc": "GBKQU1544314"
+  },
+  {
+    "title": "Public Tranceport - Original Mix",
+    "artist": "EvsY",
+    "isrc": "GBLV61500971"
+  },
+  {
+    "title": "Back to Mad",
+    "artist": "Texas Faggott",
+    "isrc": "FIEXC0000036"
+  },
+  {
+    "title": "Rain Dance",
+    "artist": "Animaanimus",
+    "isrc": "GBLV61611442"
+  },
+  {
+    "title": "Erilainen nuori",
+    "artist": "O.O.K",
+    "isrc": "GBSMU3681828"
+  },
+  {
+    "title": "Ultima Foglia",
+    "artist": "Mayawa",
+    "isrc": "GBLV61611445"
+  },
+  {
+    "title": "Metsänhaltija",
+    "artist": "Tekniset",
+    "isrc": "FIFDR1100002"
+  },
+  {
+    "title": "Reunion",
+    "artist": "Eraser Vs Yöjalka",
+    "isrc": "FIEXC0200025"
+  },
+  {
+    "title": "Sputnik (feat. Pyhimys)",
+    "artist": "Luomuhappo",
+    "isrc": "FIFDR1200011"
+  },
+  {
+    "title": "Vapausvoima",
+    "artist": "Aavepyora",
+    "isrc": "CH6540881427"
+  },
+  {
+    "title": "Ballerina - Original Mix",
+    "artist": "Saiko Disco",
+    "isrc": "GBKQU1544307"
+  },
+  {
+    "title": "Hero",
+    "artist": "Haltya",
+    "isrc": "FIEXC0300011"
+  },
+  {
+    "title": "Gaga and the Ponys",
+    "artist": "Melufantti",
+    "isrc": "GBLV61611443"
+  },
+  {
+    "title": "Spugebileet Metsässä",
+    "artist": "RRRastas",
+    "isrc": "QZMHM2346306"
+  },
+  {
+    "title": "Emmä Keksi Tälle Nimee",
+    "artist": "Oraalidonitsi",
+    "isrc": "GBLV61818206"
+  },
+  {
+    "title": "Spontaneous Amplification",
+    "artist": "Okta",
+    "isrc": "GBLV62123140"
+  },
+  {
+    "title": "Shizzlin Da Virable",
+    "artist": "Outolintu",
+    "isrc": "USQY50966930"
+  },
+  {
+    "title": "Touch Me - Remix",
+    "artist": "Tangentti",
+    "isrc": "GBLV61611444"
+  },
+  {
+    "title": "Ievan Polkka",
+    "artist": "Hämeen Nopein",
+    "isrc": "GBKQU2196864"
+  },
+  {
+    "title": "Pasajero Loco",
+    "artist": "Hongos Longos, Salakavala",
+    "isrc": "GBKQU2039956"
+  },
+  {
+    "title": "絶妙な不条理",
+    "artist": "Ruohotukka",
+    "isrc": "GBKQU1880976"
+  },
+  {
+    "title": "Abracadabra",
+    "artist": "Exuus",
+    "isrc": "USQY50966941"
+  },
+  {
+    "title": "Structures",
+    "artist": "Troll Scientists",
+    "isrc": "ushm91351399"
+  },
+  {
+    "title": "Langasta Bendattu",
+    "artist": "Omitomi, RRRastas",
+    "isrc": "GBKQU2231505"
+  },
+  {
+    "title": "Best Way To Enjoy Loneliness",
+    "artist": "Lappuliisa",
+    "isrc": "QZNWU2249734"
+  },
+  {
+    "title": "Rapinan Aivois",
+    "artist": "Mullet Mohawk",
+    "isrc": "QZS632238653"
+  },
+  {
+    "title": "Wagadugu Blues",
+    "artist": "Adu",
+    "isrc": "GBKYA0704246"
+  },
+  {
+    "title": "Spankology",
+    "artist": "Hopax",
+    "isrc": "GBKQU2287782"
+  },
+  {
+    "title": "Chillingham Cheese",
+    "artist": "Tea Chairs",
+    "isrc": "GBKQU1808491"
+  },
+  {
+    "title": "Origamimoon",
+    "artist": "Discolin",
+    "isrc": "ATR981203469"
+  },
+  {
+    "title": "Macalcutta - Original Mix",
+    "artist": "Bechamel Boyz",
+    "isrc": "GBKQU1617687"
+  },
+  {
+    "title": "Peter Pan Syndrome - Original Mix",
+    "artist": "Scozbor",
+    "isrc": "GBKQU1417246"
+  },
+  {
+    "title": "Hotel California - Remix",
+    "artist": "Gastraxx, Decibel",
+    "isrc": "GBKQU1804572"
+  },
+  {
+    "title": "Hyper Sonic Sound",
+    "artist": "Sienis",
+    "isrc": "GBWUL1907937"
+  },
+  {
+    "title": "Chaimaa Calling",
+    "artist": "Scooterbaba",
+    "isrc": "SEYOK1309835"
+  },
+  {
+    "title": "Gypsy On Acid",
+    "artist": "Ziog",
+    "isrc": "GBKQU2070956"
+  },
+  {
+    "title": "Alnitak Sunrise",
+    "artist": "Nebula Meltdown",
+    "isrc": "SEYOK1319566"
+  },
+  {
+    "title": "The Misty Gardens of Swiidendo",
+    "artist": "Tamlin",
+    "isrc": "USQY50966940"
+  },
+  {
+    "title": "Solesole Movement",
+    "artist": "Anima Animus",
+    "isrc": "ATR981171697"
+  },
+  {
+    "title": "Across The Globe",
+    "artist": "KIWA, Jackson Whalan",
+    "isrc": "QZTRX2378539"
+  },
+  {
+    "title": "Quacking Play Time - Original Mix",
+    "artist": "Crazy Ducks",
+    "isrc": "GBKQU1453963"
+  },
+  {
+    "title": "Functual Fiction",
+    "artist": "Khaiku",
+    "isrc": "GBLV62014787"
+  },
+  {
+    "title": "Hei Kaveri",
+    "artist": "Erätarkastaja, Ketola ja Heikki",
+    "isrc": "GB-SMU-29-54823"
+  },
+  {
+    "title": "Rikki Martin",
+    "artist": "PeLinPaLa",
+    "isrc": "GBKQU1808567"
+  },
+  {
+    "title": "Congress Mayhem",
+    "artist": "Calamar Audio, Antiscarp Warriors",
+    "isrc": "GBKQU2140862"
+  },
+  {
+    "title": "Pandora's Box",
+    "artist": "Pororoca",
+    "isrc": "GBKQU1850378"
+  },
+  {
+    "title": "Just Say No",
+    "artist": "Scum Unit",
+    "isrc": "GBKQU2070976"
+  },
+  {
+    "title": "Laiva",
+    "artist": "Reipas Longos",
+    "isrc": "GBKQU2444128"
+  },
+  {
+    "title": "Nightfreak",
+    "artist": "Accu",
+    "isrc": "FIEXC0600002"
+  },
+  {
+    "title": "Bon Zorro",
+    "artist": "Procs",
+    "isrc": "GBKQU2370238"
+  },
+  {
+    "title": "Welkom",
+    "artist": "Koneveljet",
+    "isrc": "FIEXC0400046"
+  },
+  {
+    "title": "Apsny Munkki",
+    "artist": "Dany Hypnoza",
+    "isrc": "GBLV61611434"
+  },
+  {
+    "title": "Permafrost Brains - Original Mix",
+    "artist": "Egosentrifug, Scum Unit",
+    "isrc": "GBKQU1544305"
+  },
+  {
+    "title": "Garden of Love - Original Mix",
+    "artist": "Huopatossu Mononen, James Reipas, Darth Phader",
+    "isrc": "GBKQU1417237"
+  },
+  {
+    "title": "Koskenkorva - Original Mix",
+    "artist": "Hypnic Lab",
+    "isrc": "GBKQU1544313"
+  },
+  {
+    "title": "Dark Side Of The Dark Side - Haisulimanifesto Remix",
+    "artist": "Mussa Kussa",
+    "isrc": "GBKQU1544310"
+  },
+  {
+    "title": "Spugemon On Acid - Original Mix",
+    "artist": "Rapylat",
+    "isrc": "GBKQU1544311"
+  },
+  {
+    "title": "Pakkasnapa",
+    "artist": "Captain Kirk",
+    "isrc": "CH6542102706"
+  },
+  {
+    "title": "Power of Us - Kojo on Acid Mix",
+    "artist": "Kojo",
+    "isrc": "UKR6V2176765"
+  },
+  {
+    "title": "Rolf",
+    "artist": "The Nam Shub Of Enki",
+    "isrc": "GBKQU1808604"
+  },
+  {
+    "title": "Vitamink",
+    "artist": "Ka-Sol",
+    "isrc": "CH6541672026"
+  },
+  {
+    "title": "Particule",
+    "artist": "Toi Doi",
+    "isrc": "IL1212000206"
+  },
+  {
+    "title": "Aamutakki",
+    "artist": "Flying Scorpions, Tea Chairs",
+    "isrc": "GBKQU1808522"
+  },
+  {
+    "title": "Aurinkoo",
+    "artist": "Vihtahousu",
+    "isrc": "GBKQU1880983"
+  },
+  {
+    "title": "Kappahalli",
+    "artist": "Trio Tetris",
+    "isrc": "FIUUH0500002"
+  },
+  {
+    "title": "Seppo Räty Berghainissa",
+    "artist": "Business City",
+    "isrc": "GBKQU2011787"
+  },
+  {
+    "title": "Mushrooms & Moonshine - Original Mix",
+    "artist": "Hutti Heita",
+    "isrc": "GBLV61418307"
+  },
+  {
+    "title": "Pepsin",
+    "artist": "Økapi",
+    "isrc": "CH6542321652"
+  },
+  {
+    "title": "Siperia Opettaa - Ruohotukka Remix",
+    "artist": "Lemon Slide, Ruohotukka",
+    "isrc": "GBKQU1880977"
+  },
+  {
+    "title": "Positive Dark Machine",
+    "artist": "Igor Swamp",
+    "isrc": "ATR981210434"
+  },
+  {
+    "title": "Natto License",
+    "artist": "Salakavala",
+    "isrc": "USQY50966933"
+  },
+  {
+    "title": "Nwo",
+    "artist": "Kirna",
+    "isrc": "CH6540831375"
+  },
+  {
+    "title": "Fifty-Sixty",
+    "artist": "Puoskari",
+    "isrc": "USQY50966769"
+  },
+  {
+    "title": "Liukutaklaus",
+    "artist": "Squaremeat",
+    "isrc": "FIEXC0400059"
+  },
+  {
+    "title": "Flippopotamus",
+    "artist": "Sonic Bandits",
+    "isrc": "GBLV61611436"
+  },
+  {
+    "title": "Merkababa - Sienis Remix",
+    "artist": "Shiwa 2000",
+    "isrc": "RUA680600012"
+  },
+  {
+    "title": "Try Out Dub - Original Mix",
+    "artist": "Oikeusjyva",
+    "isrc": "GBKQU1417238"
+  },
+  {
+    "title": "1995",
+    "artist": "MandalaVandalz",
+    "isrc": "FIKRD0200005"
+  },
+  {
+    "title": "Cinema",
+    "artist": "James Reipas",
+    "isrc": "FIEXC1000088"
+  },
+  {
+    "title": "Teknikal Problems",
+    "artist": "Pavel Svimba",
+    "isrc": "SE6HN2375003"
+  },
+  {
+    "title": "Valumatta Kiiltomato - Original Mix",
+    "artist": "EvsY",
+    "isrc": "GBLV61500968"
+  },
+  {
+    "title": "Change The World",
+    "artist": "Animaanimus",
+    "isrc": "GBLV61818212"
+  },
+  {
+    "title": "Fungy ship",
+    "artist": "O.O.K",
+    "isrc": "GBSMU3681955"
+  },
+  {
+    "title": "Ecstasy Honeymoon",
+    "artist": "Mayawa, Kaksneuvonen",
+    "isrc": "GBLV61818205"
+  },
+  {
+    "title": "Pajupilli",
+    "artist": "Tekniset",
+    "isrc": "FIFDR1100005"
+  },
+  {
+    "title": "Narkpsy",
+    "artist": "Texas Faggott",
+    "isrc": "FIEXC0800003"
+  },
+  {
+    "title": "Sensemelter",
+    "artist": "Eraser Vs Yöjalka",
+    "isrc": "FIEXC0100034"
+  },
+  {
+    "title": "Metsässä & Polkat",
+    "artist": "Luomuhappo",
+    "isrc": "FIFDR1200001"
+  },
+  {
+    "title": "Kotiin Haltiakansan Luo",
+    "artist": "Aavepyora",
+    "isrc": "CH6540813788"
+  },
+  {
+    "title": "Gettoblaster Sound - Original Mix",
+    "artist": "Saiko Disco",
+    "isrc": "GBKQU1417233"
+  },
+  {
+    "title": "Robots Are Good",
+    "artist": "Haltya",
+    "isrc": "FIEXC0300047"
+  },
+  {
+    "title": "More Tits To The Bits - Original Mix",
+    "artist": "Melufantti",
+    "isrc": "GBKQU1417944"
+  },
+  {
+    "title": "Oletko Koskaan Nähnyt Oikein Viisasta Miestä?",
+    "artist": "RRRastas",
+    "isrc": "QZMHP2368885"
+  },
+  {
+    "title": "Kikkeli Kakkeli",
+    "artist": "Oraalidonitsi",
+    "isrc": "GBLV61818216"
+  },
+  {
+    "title": "Ohm Selectah - Original Mix",
+    "artist": "Okta",
+    "isrc": "GBKQU1544304"
+  },
+  {
+    "title": "Hamster Huey & The Gooey Kabloie - Original Mix",
+    "artist": "Outolintu",
+    "isrc": "GBKQU1416228"
+  },
+  {
+    "title": "Minttu Sekä Ville - Remix",
+    "artist": "Tangentti",
+    "isrc": "GBKQU2212617"
+  },
+  {
+    "title": "Ihme Ja Kumma",
+    "artist": "Hämeen Nopein",
+    "isrc": "GBKQU2196869"
+  },
+  {
+    "title": "O Satan Da Música Pop",
+    "artist": "Hongos Longos, James Reipas",
+    "isrc": "GBKQU2325426"
+  },
+  {
+    "title": "Gobbledygook",
+    "artist": "Ruohotukka",
+    "isrc": "RUA682000003"
+  },
+  {
+    "title": "Four Legs Good",
+    "artist": "Exuus",
+    "isrc": "USQY50966942"
+  },
+  {
+    "title": "Snakes and Wikings",
+    "artist": "Omitomi, RRRastas",
+    "isrc": "GBKQU1880989"
+  },
+  {
+    "title": "Disco Doctor",
+    "artist": "Troll Scientists",
+    "isrc": "FIEXC0900014"
+  },
+  {
+    "title": "Koskenkorva",
+    "artist": "Lappuliisa",
+    "isrc": "QZNWU2249732"
+  },
+  {
+    "title": "Berghäll Vortex",
+    "artist": "Mullet Mohawk",
+    "isrc": "SEYOK1111281"
+  },
+  {
+    "title": "The First Ray Of Sun",
+    "artist": "Adu",
+    "isrc": "GBLV61818210"
+  },
+  {
+    "title": "Ateles Chamek - Original Mix",
+    "artist": "Hopax",
+    "isrc": "GBKQU1506903"
+  },
+  {
+    "title": "O Kiini",
+    "artist": "Tea Chairs",
+    "isrc": "GBKQU1808489"
+  },
+  {
+    "title": "Hikaridance",
+    "artist": "Discolin",
+    "isrc": "ATR981171699"
+  },
+  {
+    "title": "David Bechamel",
+    "artist": "Bechamel Boyz",
+    "isrc": "FI2AO2300049"
+  },
+  {
+    "title": "Rockin Rona Goa Coaster",
+    "artist": "Scozbor",
+    "isrc": "ushm92279763"
+  },
+  {
+    "title": "I Want To Be A Hippy - Remix",
+    "artist": "Gastraxx, Decibel",
+    "isrc": "GBKQU1804574"
+  },
+  {
+    "title": "Shift Happens",
+    "artist": "Sienis",
+    "isrc": "USQY51321335"
+  },
+  {
+    "title": "Rubiza Sunshine",
+    "artist": "Scooterbaba",
+    "isrc": "SEYOK1309831"
+  },
+  {
+    "title": "Atkuda - Original Mix",
+    "artist": "Ziog",
+    "isrc": "GBKQU1617684"
+  },
+  {
+    "title": "Deep Space Introspection",
+    "artist": "Nebula Meltdown",
+    "isrc": "SEYOK1517499"
+  },
+  {
+    "title": "Upside Out",
+    "artist": "Tamlin",
+    "isrc": "QZMHK2242843"
+  },
+  {
+    "title": "Reincarnation",
+    "artist": "Anima Animus",
+    "isrc": "ATR981203472"
+  },
+  {
+    "title": "Boomstick",
+    "artist": "KIWA",
+    "isrc": "USLZJ1657066"
+  },
+  {
+    "title": "Duck You! - Original Mix",
+    "artist": "Crazy Ducks",
+    "isrc": "GBKQU1453959"
+  },
+  {
+    "title": "Retro Goa AM",
+    "artist": "Khaiku, Tatum8",
+    "isrc": "GBKQU2323799"
+  },
+  {
+    "title": "Utu II",
+    "artist": "Erätarkastaja",
+    "isrc": "GBSMU9178509"
+  },
+  {
+    "title": "Anti-Liner - Khaiku Remix",
+    "artist": "Lemon Slide, Khaiku",
+    "isrc": "GBLV61611437"
+  },
+  {
+    "title": "Zuvuuuvuz",
+    "artist": "Igor Swamp",
+    "isrc": "ATR981171687"
+  },
+  {
+    "title": "Formula 6000",
+    "artist": "Salakavala",
+    "isrc": "USQY50966762"
+  },
+  {
+    "title": "Slippery Slope",
+    "artist": "Kirna",
+    "isrc": "CH6540831380"
+  },
+  {
+    "title": "Aamuvenytys",
+    "artist": "Puoskari",
+    "isrc": "USQY50966768"
+  },
+  {
+    "title": "Still Alive",
+    "artist": "Squaremeat",
+    "isrc": "FIEXC0000025"
+  },
+  {
+    "title": "Champions",
+    "artist": "Sonic Bandits",
+    "isrc": "GBKQU2070963"
+  },
+  {
+    "title": "Rekkamiehen Pastilli",
+    "artist": "Shiwa 2000",
+    "isrc": "RUA680600010"
+  },
+  {
+    "title": "And Huomentally Unsane",
+    "artist": "Oikeusjyva",
+    "isrc": "RUA681000019"
+  },
+  {
+    "title": "Angelik Fartikalz",
+    "artist": "MandalaVandalz",
+    "isrc": "FIKRD0200012"
+  },
+  {
+    "title": "More",
+    "artist": "James Reipas",
+    "isrc": "FISRE2400004"
+  },
+  {
+    "title": "Saiko George",
+    "artist": "Pavel Svimba, George Psycho",
+    "isrc": "ATR981171701"
+  },
+  {
+    "title": "Lentokapteenin Leija - Original Mix",
+    "artist": "EvsY",
+    "isrc": "GBLV61500976"
+  },
+  {
+    "title": "Anastasia",
+    "artist": "Animaanimus",
+    "isrc": "RUA681700008"
+  },
+  {
+    "title": "Nasse Metäs Löylys Ja Syväl",
+    "artist": "O.O.K",
+    "isrc": "ATR981171705"
+  },
+  {
+    "title": "Luuviulu",
+    "artist": "Mayawa",
+    "isrc": "GBKQU1930628"
+  },
+  {
+    "title": "Kuudan Yö",
+    "artist": "Tekniset",
+    "isrc": "FIFDR1100010"
+  },
+  {
+    "title": "Hector Sector",
+    "artist": "Texas Faggott",
+    "isrc": "FIEXC0000012"
+  },
+  {
+    "title": "Rum and Bases",
+    "artist": "Eraser Vs Yöjalka",
+    "isrc": "FIEXC0200035"
+  },
+  {
+    "title": "Kääpiö-Saaren Salaisuus",
+    "artist": "Aavepyora",
+    "isrc": "CH6540881439"
+  },
+  {
+    "title": "Temppeliherrain Paluu",
+    "artist": "Luomuhappo",
+    "isrc": "FIFDR1200002"
+  },
+  {
+    "title": "Full Member - Original Mix",
+    "artist": "Saiko Disco",
+    "isrc": "GBKQU1416223"
+  },
+  {
+    "title": "Rainbow Funkster",
+    "artist": "Haltya",
+    "isrc": "FIEXC0700024"
+  },
+  {
+    "title": "Spoony Maggott - Original Mix",
+    "artist": "Melufantti",
+    "isrc": "GBKQU1544308"
+  },
+  {
+    "title": "Bollywood Diskö",
+    "artist": "RRRastas",
+    "isrc": "QZMHP2419927"
+  },
+  {
+    "title": "Spooky Jungle",
+    "artist": "Oraalidonitsi",
+    "isrc": "GBKQU1840623"
+  },
+  {
+    "title": "Do Your Thing (You Can Do It)",
+    "artist": "Okta",
+    "isrc": "GBKQU2287776"
+  },
+  {
+    "title": "Teenage Eyedolls - Original Mix",
+    "artist": "Outolintu",
+    "isrc": "GBLV61502310"
+  }
+]

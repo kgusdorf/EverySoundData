@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Fameinkiss",
+    "artist": "The Dare",
+    "isrc": "QMPKX1872997"
+  },
+  {
+    "title": "Firasat",
+    "artist": "Sundancer",
+    "isrc": "FR59R2136229"
+  },
+  {
+    "title": "Skiffle 'N Blues",
+    "artist": "Paris Hasan",
+    "isrc": "ushm22367888"
+  },
+  {
+    "title": "Goodnight, Gagarina",
+    "artist": "Albert In Space",
+    "isrc": "USCGJ2440451"
+  },
+  {
+    "title": "Young & Wild",
+    "artist": "Weakness",
+    "isrc": "QZHNC1968042"
+  },
+  {
+    "title": "Blues Kumaha Aing",
+    "artist": "Ary Juliyant",
+    "isrc": "IDB832200901"
+  },
+  {
+    "title": "Lombok I Love You",
+    "artist": "Amtenar",
+    "isrc": "FR59R1542841"
+  },
+  {
+    "title": "Wiji Munir Marsinah",
+    "artist": "Lavie Musik, Gilang Sakti Ramadhan",
+    "isrc": "QZDFP1930378"
+  },
+  {
+    "title": "Ruang Dan Waktu",
+    "artist": "Counter Clockwise, Not Today",
+    "isrc": "US3DF2092892"
+  },
+  {
+    "title": "Ringkih",
+    "artist": "Isvara",
+    "isrc": "QZK6Q2194536"
+  },
+  {
+    "title": "Lombok Holiday",
+    "artist": "Joe Mellow Mood",
+    "isrc": "USA2P1255760"
+  },
+  {
+    "title": "Anomali Pertemuan",
+    "artist": "Pamela Paganini",
+    "isrc": "QM3DF2112702"
+  },
+  {
+    "title": "Escapist",
+    "artist": "TANGAN KIRI",
+    "isrc": "SE6I32149646"
+  },
+  {
+    "title": "Musuh Terakhir",
+    "artist": "Lock Block",
+    "isrc": "FR10S1866190"
+  },
+  {
+    "title": "13 September",
+    "artist": "Not Today",
+    "isrc": "FR10S1906053"
+  },
+  {
+    "title": "Entah",
+    "artist": "Sisasa",
+    "isrc": "IDB832300314"
+  },
+  {
+    "title": "Keras Pemetaq",
+    "artist": "The Datu",
+    "isrc": "FR59R2233858"
+  },
+  {
+    "title": "Family",
+    "artist": "Abhy Summer",
+    "isrc": "QZHNA2000257"
+  },
+  {
+    "title": "Mewarnai Hari",
+    "artist": "Sidzia Madvox",
+    "isrc": "FR96X1878094"
+  },
+  {
+    "title": "Gili Trawangan",
+    "artist": "Richard D Gilis",
+    "isrc": "QZFYW2073760"
+  },
+  {
+    "title": "Bermalam Di Rimba",
+    "artist": "Yuga Anggana",
+    "isrc": "FRX202230499"
+  },
+  {
+    "title": "Trang Tang Tang ( Touring Vespa )",
+    "artist": "The Gokil Boys, Gading Aikmel",
+    "isrc": "FRX452403941"
+  },
+  {
+    "title": "Selamat Ulang Tahun",
+    "artist": "Gellen Martadinata",
+    "isrc": "FR96X1899296"
+  },
+  {
+    "title": "New Generation",
+    "artist": "Nobigdeal",
+    "isrc": "FR59R2142266"
+  },
+  {
+    "title": "Regret",
+    "artist": "Nida Havia",
+    "isrc": "FRS182113033"
+  },
+  {
+    "title": "Playing Victim",
+    "artist": "Diskobrada",
+    "isrc": "QZFYX2045201"
+  },
+  {
+    "title": "Oh, Desaku",
+    "artist": "Yuga Anggana & Baladna",
+    "isrc": "QZAMM2178911"
+  },
+  {
+    "title": "Careless",
+    "artist": "Pogonogo",
+    "isrc": "SE5BU2002984"
+  },
+  {
+    "title": "Menanti Kata",
+    "artist": "Mirakei",
+    "isrc": "ushm82143054"
+  },
+  {
+    "title": "Akankah Hidupku Indah Seperti Dulu",
+    "artist": "Crusty Crab",
+    "isrc": "FR2X41818838"
+  },
+  {
+    "title": "Kebersamaan",
+    "artist": "Vee Nhavan",
+    "isrc": "DGA072219512"
+  },
+  {
+    "title": "Nadi",
+    "artist": "rendian",
+    "isrc": "FR10S2443240"
+  },
+  {
+    "title": "Purnama Kelima",
+    "artist": "Tjerita Coeklat, Dina Glistan",
+    "isrc": "FR96X1920684"
+  },
+  {
+    "title": "Bungkam Melulu",
+    "artist": "Humming Town",
+    "isrc": "USANG2103870"
+  },
+  {
+    "title": "Someday Eventually",
+    "artist": "Aline Q",
+    "isrc": "US3DF2093664"
+  },
+  {
+    "title": "Rinjani",
+    "artist": "Armonica",
+    "isrc": "FRX281923934"
+  },
+  {
+    "title": "No Pain No Gain",
+    "artist": "Ary Juliant, Blues Jam",
+    "isrc": "GB-SMU-16-41254"
+  },
+  {
+    "title": "Fantasi",
+    "artist": "Bedanada",
+    "isrc": "FR2X41856359"
+  },
+  {
+    "title": "Kelabu Rasamu",
+    "artist": "Bila Baiq",
+    "isrc": "FRX872023148"
+  },
+  {
+    "title": "Berandal Jatuh Cinta",
+    "artist": "College Looser, Ravinka Bie",
+    "isrc": "FR96X1771297"
+  },
+  {
+    "title": "Mama Papa Marah",
+    "artist": "D'jempol",
+    "isrc": "FR2X41889752"
+  },
+  {
+    "title": "Just For Today",
+    "artist": "DOPING",
+    "isrc": "SE6SA2004554"
+  },
+  {
+    "title": "PNS",
+    "artist": "Eggie Ross, Berisikmen",
+    "isrc": "FRX762267050"
+  },
+  {
+    "title": "Persepsi",
+    "artist": "Histeria",
+    "isrc": "FR26V2008379"
+  },
+  {
+    "title": "Amor",
+    "artist": "Intuisi, Pamela Paganini",
+    "isrc": "USANG2160701"
+  },
+  {
+    "title": "Kembali Pada Diri",
+    "artist": "Kabar Egois, Tebo Riyadi",
+    "isrc": "US3DF2238255"
+  },
+  {
+    "title": "Kampoeng Baca Pelangi",
+    "artist": "Kampoeng Baca Pelangi",
+    "isrc": "USANG2192867"
+  },
+  {
+    "title": "Kita Kuat (feat. Udin Sedunia, Putri Laili, Chakra Ade Pratama, Rian Rusliansyah, Erlita Ayuningsih, Vee Nhavan & Haris D'Academy 3)",
+    "artist": "Kita Kuat Project, Udin Sedunia, Putri Laili, Chakra Ade Pratama, Rian Rusliansyah, Erlita Ayuningsih, Vee Nhavan, Haris D'Academy 3",
+    "isrc": "GBSMU5765292"
+  },
+  {
+    "title": "Semakin ku Semakin - Live",
+    "artist": "La Vie",
+    "isrc": "SE6I32026276"
+  },
+  {
+    "title": "Dia - Perjalanan",
+    "artist": "Man On Wise",
+    "isrc": "FRX202121419"
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Meaningless Names",
+    "isrc": "GX8KD2416729"
+  },
+  {
+    "title": "Yuana",
+    "artist": "Nada Lantai 2",
+    "isrc": "FR2X41816980"
+  },
+  {
+    "title": "Bijak",
+    "artist": "Navarin",
+    "isrc": "FR10S2118053"
+  },
+  {
+    "title": "Ekspresi",
+    "artist": "Octavia, Goes Dedy",
+    "isrc": "FRX872023152"
+  },
+  {
+    "title": "Mendekatlah",
+    "artist": "Punkseed",
+    "isrc": "GB-SMU-41-32149"
+  },
+  {
+    "title": "Takkan Berhenti",
+    "artist": "RE FOR US",
+    "isrc": "FRX452127725"
+  },
+  {
+    "title": "Moshpit",
+    "artist": "Roll With The Punch, N-dro the Badblack",
+    "isrc": "SE6HN2190443"
+  },
+  {
+    "title": "Kau Senjaku",
+    "artist": "SASAKustik",
+    "isrc": "FRX201825443"
+  },
+  {
+    "title": "Andromeda",
+    "artist": "Semesta, Nida Havia",
+    "isrc": "FR26V2003597"
+  },
+  {
+    "title": "Queen's Letter (Acoustic)",
+    "artist": "Soul Projeck",
+    "isrc": "FRX991590319"
+  },
+  {
+    "title": "The Messiah",
+    "artist": "The Blackheart",
+    "isrc": "QZFZ32050033"
+  },
+  {
+    "title": "Punk Rock Party",
+    "artist": "The Undergraduate",
+    "isrc": "SE5751998710"
+  },
+  {
+    "title": "Berakhir Indah",
+    "artist": "Titik Temu",
+    "isrc": "FR2X41816948"
+  },
+  {
+    "title": "Hai, Nona!",
+    "artist": "Tjerita Cokelat",
+    "isrc": "USANG2121792"
+  },
+  {
+    "title": "Summer Feelings",
+    "artist": "WEAK OF ROSE",
+    "isrc": "SE6A92058249"
+  },
+  {
+    "title": "Abk (Adek Bolos Kuliah)",
+    "artist": "Wulan Temborot",
+    "isrc": "FR96X2136930"
+  },
+  {
+    "title": "Semeti Medley",
+    "artist": "The Dare",
+    "isrc": "QZMEP2221493"
+  },
+  {
+    "title": "Where Were You at Three?",
+    "artist": "Paris Hasan",
+    "isrc": "ushm22367896"
+  },
+  {
+    "title": "Gadis Bermata Biru",
+    "artist": "Sundancer",
+    "isrc": "FR59R2136231"
+  },
+  {
+    "title": "Sermon Messages of Lublin",
+    "artist": "Albert In Space",
+    "isrc": "USCGJ2440452"
+  },
+  {
+    "title": "Aku Tidak Tidur Manis",
+    "artist": "Ary Juliyant",
+    "isrc": "USANG2199465"
+  },
+  {
+    "title": "Tumbuhlah Tumbuh",
+    "artist": "Lavie Musik",
+    "isrc": "QZDFP1930383"
+  },
+  {
+    "title": "Liebestraum",
+    "artist": "Counter Clockwise",
+    "isrc": "US3DF2160645"
+  },
+  {
+    "title": "Kala",
+    "artist": "Isvara",
+    "isrc": "QZNWY2130629"
+  },
+  {
+    "title": "Stay with Your Love",
+    "artist": "Amtenar",
+    "isrc": "US3DF2257579"
+  },
+  {
+    "title": "Pulang",
+    "artist": "Pamela Paganini",
+    "isrc": "DGA072304626"
+  },
+  {
+    "title": "Sound of Freedom",
+    "artist": "Joe Mellow Mood",
+    "isrc": "USA2P1255765"
+  },
+  {
+    "title": "Black",
+    "artist": "TANGAN KIRI",
+    "isrc": "SE6HN2016375"
+  },
+  {
+    "title": "Lahonya Lahome",
+    "artist": "Lock Block",
+    "isrc": "FR96X1890985"
+  },
+  {
+    "title": "Jalan Panjang Menuju Senja",
+    "artist": "Not Today",
+    "isrc": "US3DF2092459"
+  },
+  {
+    "title": "Di Lepas Pantai Padang Bai",
+    "artist": "Sisasa",
+    "isrc": "IDB832300316"
+  },
+  {
+    "title": "Chill Out",
+    "artist": "Abhy Summer",
+    "isrc": "QZHNA2000250"
+  },
+  {
+    "title": "Berayen Dengan",
+    "artist": "The Datu",
+    "isrc": "FR10S1820241"
+  },
+  {
+    "title": "JAUH",
+    "artist": "Sidzia Madvox, Firza Ali",
+    "isrc": "QZDFP2120110"
+  },
+  {
+    "title": "Karena Kenangan",
+    "artist": "Yuga Anggana",
+    "isrc": "GX8LD2353164"
+  },
+  {
+    "title": "Kulit Kacang",
+    "artist": "Richard D Gilis",
+    "isrc": "QZFYW2073754"
+  },
+  {
+    "title": "Raffi Ahmad",
+    "artist": "The Gokil Boys",
+    "isrc": "FR59R2269334"
+  },
+  {
+    "title": "Rumit - Akustik",
+    "artist": "Gellen Martadinata, Gerial Bagus",
+    "isrc": "FR59R1931414"
+  },
+  {
+    "title": "Politik Mental",
+    "artist": "Nobigdeal",
+    "isrc": "US3DF2089652"
+  },
+  {
+    "title": "Deserve",
+    "artist": "Nida Havia",
+    "isrc": "FR96X2152972"
+  },
+  {
+    "title": "Informasi Patah Hati",
+    "artist": "Diskobrada",
+    "isrc": "QZES92248002"
+  },
+  {
+    "title": "Ternyata Kota",
+    "artist": "Yuga Anggana & Baladna",
+    "isrc": "QZAMM2178913"
+  },
+  {
+    "title": "Tunggu Saja",
+    "artist": "Mirakei",
+    "isrc": "uscgj2226947"
+  },
+  {
+    "title": "Kebohonganmu - Acoustic Version",
+    "artist": "Crusty Crab, Shasa",
+    "isrc": "FR2X41818842"
+  },
+  {
+    "title": "Kemanapun Sejauh Apapun",
+    "artist": "Vee Nhavan",
+    "isrc": "US3DF2085323"
+  },
+  {
+    "title": "Tempat Berteduh",
+    "artist": "rendian",
+    "isrc": "FR2X41808346"
+  },
+  {
+    "title": "Tetap Tenang",
+    "artist": "Tjerita Coeklat",
+    "isrc": "FR10S2430568"
+  },
+  {
+    "title": "Semayam Sendu (New Version)",
+    "artist": "Humming Town",
+    "isrc": "QM3DF2191911"
+  },
+  {
+    "title": "Hanya Kita",
+    "artist": "Aline Q",
+    "isrc": "FR96X1770973"
+  },
+  {
+    "title": "Cendrawasih",
+    "artist": "Armonica",
+    "isrc": "FRX281923939"
+  },
+  {
+    "title": "Lepas",
+    "artist": "Bedanada",
+    "isrc": "FR2X41996706"
+  },
+  {
+    "title": "Sampai Bersua Kembali",
+    "artist": "College Looser, Aline Q",
+    "isrc": "FR96X1771298"
+  },
+  {
+    "title": "I Miss U Darling",
+    "artist": "D'jempol",
+    "isrc": "FR2X41889751"
+  },
+  {
+    "title": "Naik Mimpiku",
+    "artist": "Eggie Ross, Berisikmen",
+    "isrc": "FRX762267052"
+  },
+  {
+    "title": "This Loser Wins Again",
+    "artist": "Histeria",
+    "isrc": "SGB502221231"
+  },
+  {
+    "title": "Jalani Kisah Baru Dengannya",
+    "artist": "Intuisi",
+    "isrc": "FR26V2008373"
+  },
+  {
+    "title": "Inthrovvvert",
+    "artist": "The Dare",
+    "isrc": "QMPKX1872996"
+  },
+  {
+    "title": "Apple N Snake",
+    "artist": "Paris Hasan",
+    "isrc": "QM3DF2140471"
+  },
+  {
+    "title": "Purnama Kudamba",
+    "artist": "Sundancer",
+    "isrc": "FR59R2136228"
+  },
+  {
+    "title": "Lapis Lazuli",
+    "artist": "Albert In Space",
+    "isrc": "QM3DF2004730"
+  },
+  {
+    "title": "Salam Kepada Ikan-Ikan",
+    "artist": "Ary Juliyant",
+    "isrc": "USANG2199469"
+  },
+  {
+    "title": "Marta Pulau Dewata",
+    "artist": "Lavie Musik, Robba Zacky",
+    "isrc": "IDB832307754"
+  },
+  {
+    "title": "Heart Reconstruction",
+    "artist": "Counter Clockwise, Diandra",
+    "isrc": "SE6HN2082516"
+  },
+  {
+    "title": "Katakan",
+    "artist": "Isvara",
+    "isrc": "QZFZ62154434"
+  },
+  {
+    "title": "Usap Matamu dan Ciumlah Dingin Pagi",
+    "artist": "Pamela Paganini",
+    "isrc": "FR96X2442952"
+  },
+  {
+    "title": "Anak Pulau",
+    "artist": "Amtenar",
+    "isrc": "US3DF2261206"
+  },
+  {
+    "title": "Bajang Ngedis",
+    "artist": "Joe Mellow Mood",
+    "isrc": "USA2P1255763"
+  },
+  {
+    "title": "greatest apes alive",
+    "artist": "Lock Block",
+    "isrc": "DGA0R2343247"
+  },
+  {
+    "title": "Hilang Dalam Senyap",
+    "artist": "Not Today",
+    "isrc": "US3DF2092456"
+  },
+  {
+    "title": "Lukisan",
+    "artist": "Sisasa",
+    "isrc": "USANG2125508"
+  },
+  {
+    "title": "Sampela Dana Teke",
+    "artist": "Abhy Summer",
+    "isrc": "QZHN82383291"
+  },
+  {
+    "title": "Berayean Jaoq",
+    "artist": "The Datu",
+    "isrc": "FR10S1820242"
+  },
+  {
+    "title": "Satu",
+    "artist": "Sidzia Madvox",
+    "isrc": "FR96X1878095"
+  },
+  {
+    "title": "Hujan Selalu Manis",
+    "artist": "Yuga Anggana",
+    "isrc": "GX8LD2326894"
+  },
+  {
+    "title": "Kunjungan Mertua",
+    "artist": "The Gokil Boys",
+    "isrc": "FRX452403940"
+  },
+  {
+    "title": "Ride On",
+    "artist": "Nobigdeal",
+    "isrc": "FR59R2142265"
+  }
+]

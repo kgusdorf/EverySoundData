@@ -1,0 +1,732 @@
+[
+  {
+    "title": "Čairska Romantika",
+    "artist": "Vlado Janevski",
+    "isrc": "MKA030797186"
+  },
+  {
+    "title": "Ako zgrešam neka izgoram",
+    "artist": "Karolina Gočeva",
+    "isrc": "RSA141305254"
+  },
+  {
+    "title": "Kilometri",
+    "artist": "Lozano",
+    "isrc": "uscgh1938629"
+  },
+  {
+    "title": "Najmilo Moe",
+    "artist": "Aleksandra Janeva",
+    "isrc": "TCAFH2018465"
+  },
+  {
+    "title": "Vo Dilema",
+    "artist": "Robert Bilbilov, Bojana, ToniZen",
+    "isrc": "UKXN21982871"
+  },
+  {
+    "title": "Itno Mi Trebas",
+    "artist": "Jovan Jovanov, Lambe Alabakovski, Toni Zen",
+    "isrc": "ushm81916125"
+  },
+  {
+    "title": "More od Solzi",
+    "artist": "Lambe Alabakovski",
+    "isrc": "QZWFK2392074"
+  },
+  {
+    "title": "Nekade Posle 2",
+    "artist": "Elvir Mekic",
+    "isrc": "MKA030707254"
+  },
+  {
+    "title": "Skandal",
+    "artist": "Toni Zen",
+    "isrc": "USE831585301"
+  },
+  {
+    "title": "Momentot",
+    "artist": "Tyzee",
+    "isrc": "RSA131901912"
+  },
+  {
+    "title": "1003",
+    "artist": "Tamara Todevska",
+    "isrc": "QZNFJ2300356"
+  },
+  {
+    "title": "Znam",
+    "artist": "Kaliopi, Zeljko Samardzic",
+    "isrc": "FRX452324542"
+  },
+  {
+    "title": "Ko da Nema Utre Den",
+    "artist": "Magdalena Ena",
+    "isrc": "ushm81826432"
+  },
+  {
+    "title": "Nekogas Ke Pomine",
+    "artist": "Lara",
+    "isrc": "TCAFH2092444"
+  },
+  {
+    "title": "Posle Tebe",
+    "artist": "Dani Dimitrovska",
+    "isrc": "QZK6P2099757"
+  },
+  {
+    "title": "Замижи",
+    "artist": "Тамара Тодевска",
+    "isrc": "ATR981274352"
+  },
+  {
+    "title": "Sugar",
+    "artist": "Slatkaristika, 2bona, Toni Zen",
+    "isrc": "RSA222308748"
+  },
+  {
+    "title": "Kuckin sin",
+    "artist": "Verica Pandilovska",
+    "isrc": "MKA030909259"
+  },
+  {
+    "title": "Boze Brani Je Od Zla",
+    "artist": "Toše Proeski",
+    "isrc": "RSA291700400"
+  },
+  {
+    "title": "Edno ime imame",
+    "artist": "Aleksandar Tarabunov",
+    "isrc": "QZTAY2390154"
+  },
+  {
+    "title": "Tequila & Lemon",
+    "artist": "Elena Risteska",
+    "isrc": "RUB421701308"
+  },
+  {
+    "title": "Dupla Vodka",
+    "artist": "Dario",
+    "isrc": "MKA030797176"
+  },
+  {
+    "title": "Ne mi davash son",
+    "artist": "Thea Trajkovska, Duper",
+    "isrc": "QZPJ32102969"
+  },
+  {
+    "title": "Tango Do Balchak",
+    "artist": "Duke Bojadziev",
+    "isrc": "QZ9JZ1799259"
+  },
+  {
+    "title": "Ona To Zna",
+    "artist": "Tijana Dapcevic",
+    "isrc": "RSA221831767"
+  },
+  {
+    "title": "9 Milital",
+    "artist": "Dnk",
+    "isrc": "USV351331256"
+  },
+  {
+    "title": "Neka te boli",
+    "artist": "Lina Pejovska",
+    "isrc": "QZK6J2279265"
+  },
+  {
+    "title": "Where to…",
+    "artist": "String Forces",
+    "isrc": "USA370511884"
+  },
+  {
+    "title": "Muabet",
+    "artist": "Ivan Ajnstajn",
+    "isrc": "QZK6P2252325"
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "Daniel Kajmakoski",
+    "isrc": "BGA741500018"
+  },
+  {
+    "title": "Lila",
+    "artist": "Zoran Vanev",
+    "isrc": "RSA221812030"
+  },
+  {
+    "title": "Here I Stand",
+    "artist": "Vasil Garvanliev",
+    "isrc": "USME32100521"
+  },
+  {
+    "title": "Ako odam vo Bitola",
+    "artist": "Dimitar Andonovski, Fontana, Sarah Mace",
+    "isrc": "QZNWS2273101"
+  },
+  {
+    "title": "Ti Dolžam Se",
+    "artist": "Gjoko Tanevski",
+    "isrc": "MKA030909238"
+  },
+  {
+    "title": "Solzi Za Tebe",
+    "artist": "Jasmina Dimitrovska",
+    "isrc": "MKA030909246"
+  },
+  {
+    "title": "Lažliva",
+    "artist": "Elena Petreska",
+    "isrc": "MKA031111105"
+  },
+  {
+    "title": "Ti Si Taa",
+    "artist": "Adam Labunski",
+    "isrc": "MKA031010139"
+  },
+  {
+    "title": "Zarobena",
+    "artist": "Adrian Gadža",
+    "isrc": "MKA030909244"
+  },
+  {
+    "title": "Mojot Angel",
+    "artist": "Aleksandar Belov",
+    "isrc": "MKA031010132"
+  },
+  {
+    "title": "Sonce i mesecina",
+    "artist": "Aleksandra Pileva",
+    "isrc": "RSA131351105"
+  },
+  {
+    "title": "Da Ostane Vaka",
+    "artist": "Biba Dodeva",
+    "isrc": "MKA031010129"
+  },
+  {
+    "title": "Teško Da Zaboravam",
+    "artist": "Bojan Andov",
+    "isrc": "MKA031010106"
+  },
+  {
+    "title": "Bidi Miren",
+    "artist": "Deana Nikolovska",
+    "isrc": "MKA030909240"
+  },
+  {
+    "title": "Pri Oči Slep",
+    "artist": "Goran Kargov",
+    "isrc": "MKA031010088"
+  },
+  {
+    "title": "Ognovi Vo Nas",
+    "artist": "Igor Uzunov",
+    "isrc": "MKA030909251"
+  },
+  {
+    "title": "Skrien Broj",
+    "artist": "Jasmin Mimidinoski",
+    "isrc": "MKA030909225"
+  },
+  {
+    "title": "Prati Znak",
+    "artist": "Kristijan Jovanov",
+    "isrc": "MKA030909249"
+  },
+  {
+    "title": "Go Prodavam Životot",
+    "artist": "Marijan Stojanovski",
+    "isrc": "MKA030909248"
+  },
+  {
+    "title": "Nosiš Del Od Mene",
+    "artist": "Nade Talevska",
+    "isrc": "MKA031010131"
+  },
+  {
+    "title": "Kako Maj",
+    "artist": "Patnici",
+    "isrc": "MKA030909245"
+  },
+  {
+    "title": "Ti",
+    "artist": "Riste Tevdoski",
+    "isrc": "MKA031010169"
+  },
+  {
+    "title": "Ne Možeš Bez Mene",
+    "artist": "Robert Bilbilov & Deana Nikolovska",
+    "isrc": "MKA031010136"
+  },
+  {
+    "title": "Son Vo Boja",
+    "artist": "Stefan Davidovski",
+    "isrc": "MKA031010090"
+  },
+  {
+    "title": "Neka Bide Po Tvoe",
+    "artist": "Vlatko Ilievski",
+    "isrc": "uscgh2186831"
+  },
+  {
+    "title": "Nespokoj",
+    "artist": "Teodora Trajkovska",
+    "isrc": "MKA030909216"
+  },
+  {
+    "title": "Domakinska",
+    "artist": "Miyatta",
+    "isrc": "QZAMM1720994"
+  },
+  {
+    "title": "Vatrena",
+    "artist": "Sonja Tarculovska",
+    "isrc": "BGA671397396"
+  },
+  {
+    "title": "Ngjyra E Kuqe",
+    "artist": "Adrian Gaxha, Floriani",
+    "isrc": "QZ4JJ1646845"
+  },
+  {
+    "title": "Šta Je, Tu Je",
+    "artist": "Ljupka Dimitrovska",
+    "isrc": "HRA047578550"
+  },
+  {
+    "title": "Dali Si Moja",
+    "artist": "Aleksandar Nastovski",
+    "isrc": "MKA031010086"
+  },
+  {
+    "title": "Na Čekor Od Tebe",
+    "artist": "Amela Musovska",
+    "isrc": "MKA030909224"
+  },
+  {
+    "title": "Sometimes (Dejan Dex Remix)",
+    "artist": "Aneta Kacurkova, Pavle Vasiljevic",
+    "isrc": "DEAR41053612"
+  },
+  {
+    "title": "Bidi Dobar",
+    "artist": "Anita Micova",
+    "isrc": "FR59R1757763"
+  },
+  {
+    "title": "Srce Daj Zaboravi",
+    "artist": "Boban Spasencovski",
+    "isrc": "MKA030909300"
+  },
+  {
+    "title": "Kaligula",
+    "artist": "Boki 13",
+    "isrc": "RSA221990987"
+  },
+  {
+    "title": "Vrati Se Ti",
+    "artist": "Dejan Spasić",
+    "isrc": "MKA031111077"
+  },
+  {
+    "title": "Se Što Baraš",
+    "artist": "Denis Murat",
+    "isrc": "MKA031111065"
+  },
+  {
+    "title": "Pajdusko Oro",
+    "artist": "Ezerki, 7/8",
+    "isrc": "HRA371400356"
+  },
+  {
+    "title": "Na Polnoc",
+    "artist": "Igor Sareski",
+    "isrc": "MKA030909093"
+  },
+  {
+    "title": "Dojdi Mi",
+    "artist": "John Ilija Apelgrin",
+    "isrc": "MKA031111101"
+  },
+  {
+    "title": "Na son mi doagas",
+    "artist": "Kuku Lele",
+    "isrc": "DETO41636733"
+  },
+  {
+    "title": "Pushenje",
+    "artist": "Lastovica",
+    "isrc": "DETO41644565"
+  },
+  {
+    "title": "Nema pravila",
+    "artist": "Martin Vučić",
+    "isrc": "RSA131347836"
+  },
+  {
+    "title": "Nikad nikada ne umire",
+    "artist": "Next Time",
+    "isrc": "RSA221833848"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "Petar Markoski",
+    "isrc": "QZHN52355059"
+  },
+  {
+    "title": "Vinoven",
+    "artist": "Simona Poposka",
+    "isrc": "MKA030909218"
+  },
+  {
+    "title": "Can't Get Enough",
+    "artist": "TOBY, Stimulus",
+    "isrc": "CACWV2441804"
+  },
+  {
+    "title": "Devet Raboti",
+    "artist": "Viktorija Loba",
+    "isrc": "MKA031111109"
+  },
+  {
+    "title": "Home",
+    "artist": "Yova Radevska",
+    "isrc": "usy280766208"
+  },
+  {
+    "title": "Crno Tikveško",
+    "artist": "Vlado Janevski",
+    "isrc": "MKA030797180"
+  },
+  {
+    "title": "Dve liri - Ne ni bilo pišano",
+    "artist": "Karolina Gočeva",
+    "isrc": "RSA141305250"
+  },
+  {
+    "title": "Jako Jako",
+    "artist": "Lozano",
+    "isrc": "uscgh1938633"
+  },
+  {
+    "title": "Dozdovi",
+    "artist": "Aleksandra Janeva",
+    "isrc": "TCAHW2495147"
+  },
+  {
+    "title": "Izbrisi Gi Solzite",
+    "artist": "Robert Bilbilov",
+    "isrc": "UKXN21982866"
+  },
+  {
+    "title": "Magija",
+    "artist": "Jovan Jovanov, Adrian Gadža, Vrcak",
+    "isrc": "MKA030707245"
+  },
+  {
+    "title": "Ogan da go gori",
+    "artist": "Lambe Alabakovski",
+    "isrc": "QZTAY2309628"
+  },
+  {
+    "title": "Opasno",
+    "artist": "Elvir Mekic, Maja Sazdanovska",
+    "isrc": "MKA030707258"
+  },
+  {
+    "title": "Mi casa es su casa",
+    "artist": "Toni Zen, Slatkaristika",
+    "isrc": "USE831582310"
+  },
+  {
+    "title": "Ljubov",
+    "artist": "Tyzee",
+    "isrc": "RSA131901904"
+  },
+  {
+    "title": "Proud",
+    "artist": "Tamara Todevska",
+    "isrc": "ATR981194598"
+  },
+  {
+    "title": "Koj E Sega Kriv",
+    "artist": "Lara",
+    "isrc": "TCAFM2108695"
+  },
+  {
+    "title": "Crno i belo",
+    "artist": "Kaliopi",
+    "isrc": "DGA062381043"
+  },
+  {
+    "title": "Sto Do Togas",
+    "artist": "Dani Dimitrovska",
+    "isrc": "QZK6P2099754"
+  },
+  {
+    "title": "Kapka pot",
+    "artist": "Verica Pandilovska",
+    "isrc": "MKA030909258"
+  },
+  {
+    "title": "Dijamanti",
+    "artist": "Slatkaristika, 2bona",
+    "isrc": "TCAEC1987082"
+  },
+  {
+    "title": "Cija Si",
+    "artist": "Toše Proeski",
+    "isrc": "QZ8251941934"
+  },
+  {
+    "title": "Samo ti mi falish",
+    "artist": "Aleksandar Tarabunov, Tamara Todevska",
+    "isrc": "QZSYP2262657"
+  },
+  {
+    "title": "Tequila & Lemon - Beverly Pills Remix Radio Edit",
+    "artist": "Elena Risteska",
+    "isrc": "RUZ661700899"
+  },
+  {
+    "title": "Kosooka",
+    "artist": "Dario",
+    "isrc": "MKA030797162"
+  },
+  {
+    "title": "Gori",
+    "artist": "Thea Trajkovska",
+    "isrc": "QZPJ32160046"
+  },
+  {
+    "title": "Eden Baknez",
+    "artist": "Duke Bojadziev",
+    "isrc": "usnnn0810015"
+  },
+  {
+    "title": "Zemlja Mojih Snova",
+    "artist": "Tijana Dapcevic",
+    "isrc": "RSA221831766"
+  },
+  {
+    "title": "贴地飞行",
+    "artist": "Dnk",
+    "isrc": "ESA012353534"
+  },
+  {
+    "title": "Ako me voliš",
+    "artist": "Lina Pejovska",
+    "isrc": "QZB4J1850069"
+  },
+  {
+    "title": "Sub",
+    "artist": "String Forces",
+    "isrc": "USA370511879"
+  },
+  {
+    "title": "Bori Se",
+    "artist": "Ivan Ajnstajn",
+    "isrc": "QZES62386469"
+  },
+  {
+    "title": "Glumim da volim - 2021",
+    "artist": "Daniel Kajmakoski",
+    "isrc": "RSA3W2100023"
+  },
+  {
+    "title": "Južna Pruga",
+    "artist": "Zoran Vanev",
+    "isrc": "RSA221812755"
+  },
+  {
+    "title": "You",
+    "artist": "Vasil Garvanliev",
+    "isrc": "ATR981206726"
+  },
+  {
+    "title": "Ako Me Boli",
+    "artist": "Dimitar Andonovski",
+    "isrc": "RSA221830283"
+  },
+  {
+    "title": "Ko Da Ne e Kraj",
+    "artist": "Gjoko Tanevski",
+    "isrc": "MKA031111103"
+  },
+  {
+    "title": "Naša Bajka",
+    "artist": "Jasmina Dimitrovska",
+    "isrc": "MKA031010140"
+  },
+  {
+    "title": "Nešto Poveće",
+    "artist": "Elena Petreska",
+    "isrc": "MKA030909241"
+  },
+  {
+    "title": "Poricem lazem",
+    "artist": "Adam Labunski",
+    "isrc": "BAA052227907"
+  },
+  {
+    "title": "Sonot Moj",
+    "artist": "Aleksandar Belov",
+    "isrc": "MKA031111099"
+  },
+  {
+    "title": "Da mogu vreme vratiti",
+    "artist": "Aleksandra Pileva, Lambe Albakovski",
+    "isrc": "RSA131347704"
+  },
+  {
+    "title": "Seti Se Stom Zavrne",
+    "artist": "Biba Dodeva",
+    "isrc": "uscgh2186834"
+  },
+  {
+    "title": "Ljubov Po Ljubov",
+    "artist": "Goran Kargov",
+    "isrc": "MKA031111104"
+  },
+  {
+    "title": "Da Ne Beše Ti",
+    "artist": "Riste Tevdoski",
+    "isrc": "MKA031111107"
+  },
+  {
+    "title": "Se Sto Sakav Po Tebe",
+    "artist": "Vlatko Ilievski",
+    "isrc": "uscgh2182672"
+  },
+  {
+    "title": "Ova E Naše Skopje",
+    "artist": "Vlado Janevski",
+    "isrc": "MKA030797187"
+  },
+  {
+    "title": "Znaeš Kolku Vredam",
+    "artist": "Karolina Gočeva",
+    "isrc": "HRA042095278"
+  },
+  {
+    "title": "Ova Leto Ke Se Pamti",
+    "artist": "Lozano",
+    "isrc": "uscgh1938634"
+  },
+  {
+    "title": "Eve Me Pak",
+    "artist": "Aleksandra Janeva",
+    "isrc": "TCAFH2018456"
+  },
+  {
+    "title": "Toksicna",
+    "artist": "Robert Bilbilov, Vrcak, Adrian",
+    "isrc": "UKXN21982872"
+  },
+  {
+    "title": "Slaba Tocka",
+    "artist": "Jovan Jovanov, Elvir Mekic",
+    "isrc": "ushm81916127"
+  },
+  {
+    "title": "Spasi Me",
+    "artist": "Lambe Alabakovski",
+    "isrc": "QZWFK2392073"
+  },
+  {
+    "title": "Ic Ne Me Boli",
+    "artist": "Elvir Mekic, Toni Zen",
+    "isrc": "usl4r2046686"
+  },
+  {
+    "title": "Bas",
+    "artist": "Toni Zen",
+    "isrc": "USE831581319"
+  },
+  {
+    "title": "Pishano e",
+    "artist": "Tyzee",
+    "isrc": "RSA131901906"
+  },
+  {
+    "title": "Osamena",
+    "artist": "Lara",
+    "isrc": "TCAHR2360205"
+  },
+  {
+    "title": "Ego",
+    "artist": "Tamara Todevska, Young Dadi",
+    "isrc": "QZNFJ2401733"
+  },
+  {
+    "title": "Kofer ljubavi",
+    "artist": "Kaliopi",
+    "isrc": "RSA042300608"
+  },
+  {
+    "title": "Ne Ziveam Za Drugite",
+    "artist": "Dani Dimitrovska",
+    "isrc": "QZK6P2099763"
+  },
+  {
+    "title": "Zivotot e...",
+    "artist": "Verica Pandilovska",
+    "isrc": "MKA030909257"
+  },
+  {
+    "title": "Dinero",
+    "artist": "Slatkaristika, SkandaU",
+    "isrc": "TCAEG1926632"
+  },
+  {
+    "title": "Ledena",
+    "artist": "Toše Proeski",
+    "isrc": "RSA221835378"
+  },
+  {
+    "title": "Lek na rana",
+    "artist": "Aleksandar Tarabunov",
+    "isrc": "QZQAY2172017"
+  },
+  {
+    "title": "Sto si ti",
+    "artist": "Elena Risteska",
+    "isrc": "ATR981143897"
+  },
+  {
+    "title": "Daj Da Zaspijam",
+    "artist": "Dario",
+    "isrc": "MKA030797165"
+  },
+  {
+    "title": "Mnogu baram",
+    "artist": "Thea Trajkovska",
+    "isrc": "QZMEN2359139"
+  },
+  {
+    "title": "Epic",
+    "artist": "Duke Bojadziev",
+    "isrc": "usnnn0810002"
+  },
+  {
+    "title": "Negativ",
+    "artist": "Tijana Dapcevic",
+    "isrc": "RSA221831770"
+  },
+  {
+    "title": "The New Revolution - Club Mix",
+    "artist": "Dnk",
+    "isrc": "GBKQU1207985"
+  },
+  {
+    "title": "Nema",
+    "artist": "Lina Pejovska",
+    "isrc": "QZES71842156"
+  },
+  {
+    "title": "Lead me: part I",
+    "artist": "String Forces",
+    "isrc": "USA370511877"
+  }
+]

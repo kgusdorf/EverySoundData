@@ -1,0 +1,957 @@
+[
+  {
+    "title": "The Sea Is Dying",
+    "artist": "STAKE",
+    "isrc": "BEY540801501"
+  },
+  {
+    "title": "Snakeskin",
+    "artist": "King Hiss",
+    "isrc": "BEV611310001"
+  },
+  {
+    "title": "T-shirt van Metallica",
+    "artist": "Fleddy Melculy",
+    "isrc": "TCACL1640936"
+  },
+  {
+    "title": "The Fall of Consciousness",
+    "artist": "Psychonaut",
+    "isrc": "QMPKX1812830"
+  },
+  {
+    "title": "Hitman",
+    "artist": "Bark",
+    "isrc": "BEDR21900002"
+  },
+  {
+    "title": "A Solitary Reign",
+    "artist": "Amenra",
+    "isrc": "US4JA1710805"
+  },
+  {
+    "title": "Black Fuel",
+    "artist": "Channel Zero",
+    "isrc": "BEP019635001"
+  },
+  {
+    "title": "The Goddess",
+    "artist": "Off the Cross",
+    "isrc": "ushm91853709"
+  },
+  {
+    "title": "Sing from the Gallows",
+    "artist": "Diablo Blvd",
+    "isrc": "BES081700002"
+  },
+  {
+    "title": "Blood and Candy",
+    "artist": "Carneia",
+    "isrc": "BEAY21940002"
+  },
+  {
+    "title": "April Fire",
+    "artist": "Tangled Horns",
+    "isrc": "BEU872300004"
+  },
+  {
+    "title": "Bompa punk",
+    "artist": "Belgian Asociality",
+    "isrc": "BEV019500107"
+  },
+  {
+    "title": "Blue Devils",
+    "artist": "Your Highness",
+    "isrc": "BEJ181200003"
+  },
+  {
+    "title": "War",
+    "artist": "Brutus",
+    "isrc": "GBJSG1830006"
+  },
+  {
+    "title": "In Praise Of Sun",
+    "artist": "Hemelbestormer",
+    "isrc": "DENI12100202"
+  },
+  {
+    "title": "Ricky",
+    "artist": "Raketkanon",
+    "isrc": "GBZ521918201"
+  },
+  {
+    "title": "FN SCAR 16",
+    "artist": "Wiegedood",
+    "isrc": "GBDHC2120901"
+  },
+  {
+    "title": "Inhuman",
+    "artist": "Hexa Mera",
+    "isrc": "BEL311700003"
+  },
+  {
+    "title": "Canine Devotion",
+    "artist": "Sons Of A Wanted Man",
+    "isrc": "FR9W12000034"
+  },
+  {
+    "title": "In Deepest Black",
+    "artist": "Evil Invaders",
+    "isrc": "ATN262212003"
+  },
+  {
+    "title": "Tear It Down",
+    "artist": "Temptations for the Weak",
+    "isrc": "BEDT82000001"
+  },
+  {
+    "title": "Cold Eyes",
+    "artist": "Fields Of Troy",
+    "isrc": "BEJ091500017"
+  },
+  {
+    "title": "R!ot",
+    "artist": "Spoil Engine",
+    "isrc": "DED831900870"
+  },
+  {
+    "title": "Crawling in the Dirt",
+    "artist": "BLIKSEM",
+    "isrc": "ES22C2201096"
+  },
+  {
+    "title": "Maruta",
+    "artist": "Carnation",
+    "isrc": "FR33T2376402"
+  },
+  {
+    "title": "Calibre",
+    "artist": ".calibre",
+    "isrc": "BEWO10100057"
+  },
+  {
+    "title": "Defeatist",
+    "artist": "BEAR",
+    "isrc": "QM4TW2308249"
+  },
+  {
+    "title": "Hell",
+    "artist": "Dyscordia",
+    "isrc": "BEEJ92400002"
+  },
+  {
+    "title": "High Ropes",
+    "artist": "Lost Baron",
+    "isrc": "BE7LO2200004"
+  },
+  {
+    "title": "Reborn",
+    "artist": "Toxic Shock",
+    "isrc": "QZTBB2338900"
+  },
+  {
+    "title": "Rainwalker",
+    "artist": "Hope Erodes",
+    "isrc": "uscgj1994082"
+  },
+  {
+    "title": "Black Mamba",
+    "artist": "Guilty as Charged",
+    "isrc": "BEMN72300004"
+  },
+  {
+    "title": "Back To Square One",
+    "artist": "Powerstroke",
+    "isrc": "QZTB62363010"
+  },
+  {
+    "title": "Ironmongers",
+    "artist": "Hæster",
+    "isrc": "UST8K1816479"
+  },
+  {
+    "title": "Rejection Overruled",
+    "artist": "After All",
+    "isrc": "ATN261605601"
+  },
+  {
+    "title": "Korre",
+    "artist": "Eleanora",
+    "isrc": "DEOV42001615"
+  },
+  {
+    "title": "Expectations",
+    "artist": "Moments",
+    "isrc": "QZDA82228311"
+  },
+  {
+    "title": "Second Son of R.",
+    "artist": "Oathbreaker",
+    "isrc": "QZ22D1600270"
+  },
+  {
+    "title": "Dreadbringer",
+    "artist": "Aborted, Shadow of Intent",
+    "isrc": "DED832300762"
+  },
+  {
+    "title": "Crusade of the Offended",
+    "artist": "Fractured Insanity",
+    "isrc": "DER372010901"
+  },
+  {
+    "title": "Smoking Crack at Your Funeral",
+    "artist": "Every Stranger Looks Like You",
+    "isrc": "uscgj2153396"
+  },
+  {
+    "title": "Ton Rêve",
+    "artist": "Soul Grip",
+    "isrc": "QZES51862924"
+  },
+  {
+    "title": "The Last Grave - Remastered",
+    "artist": "Lethvm",
+    "isrc": "DEOV42100837"
+  },
+  {
+    "title": "Flashing Nightmare",
+    "artist": "Komah",
+    "isrc": "BEAC91500015"
+  },
+  {
+    "title": "Hell to Pay",
+    "artist": "10 Rogue",
+    "isrc": "ushm92252006"
+  },
+  {
+    "title": "The Proposal",
+    "artist": "Crowsview",
+    "isrc": "BE8HL1800003"
+  },
+  {
+    "title": "Mother Europe",
+    "artist": "Ancient Rites",
+    "isrc": "NLB930401621"
+  },
+  {
+    "title": "Combat Metal",
+    "artist": "Fireforce",
+    "isrc": "DET271214403"
+  },
+  {
+    "title": "Melancholia",
+    "artist": "Lethal Injury",
+    "isrc": "QM6MZ1896707"
+  },
+  {
+    "title": "Lords of Thunder",
+    "artist": "Ostrogoth",
+    "isrc": "FR2X41453306"
+  },
+  {
+    "title": "God Complex",
+    "artist": "When Plagues Collide",
+    "isrc": "QZTAW2268419"
+  },
+  {
+    "title": "Speed Queen",
+    "artist": "Speed Queen",
+    "isrc": "QM4DW1796332"
+  },
+  {
+    "title": "The Faceless",
+    "artist": "LEAVE SCARS",
+    "isrc": "BECW51500003"
+  },
+  {
+    "title": "Blood, Sweat and Beer",
+    "artist": "Fat Bastard",
+    "isrc": "BEHM31800007"
+  },
+  {
+    "title": "Across The Nations",
+    "artist": "Thorium",
+    "isrc": "NLVZ22390110"
+  },
+  {
+    "title": "Bitter",
+    "artist": "Stonemule",
+    "isrc": "QZFYX2133107"
+  },
+  {
+    "title": "Defined",
+    "artist": "Royal Jake",
+    "isrc": "QZNWU2208125"
+  },
+  {
+    "title": "Mirrors",
+    "artist": "Wolves Scream",
+    "isrc": "FR10S1731786"
+  },
+  {
+    "title": "Burning Soil",
+    "artist": "REJECT THE SICKNESS",
+    "isrc": "SE6I32115343"
+  },
+  {
+    "title": "The Shape of Your Blood",
+    "artist": "Waves of Decay",
+    "isrc": "uscgh2120506"
+  },
+  {
+    "title": "1-800-Apathy",
+    "artist": "Leng Tch'e",
+    "isrc": "US2640770702"
+  },
+  {
+    "title": "Blowjob from a Decapitated Whore",
+    "artist": "Serial Butcher",
+    "isrc": "USERN1000041"
+  },
+  {
+    "title": "Blindfolded",
+    "artist": "Ithilien",
+    "isrc": "ITO371603256"
+  },
+  {
+    "title": "Of Winter And Hell - Live Version",
+    "artist": "Lemuria",
+    "isrc": "DER372442701"
+  },
+  {
+    "title": "Warriors Of The World",
+    "artist": "Brides of Lucifer",
+    "isrc": "BEE461800003"
+  },
+  {
+    "title": "Blôt",
+    "artist": "Saille",
+    "isrc": "ITJ351701538"
+  },
+  {
+    "title": "The Strive",
+    "artist": "Elusion",
+    "isrc": "ES71G1904410"
+  },
+  {
+    "title": "Evil Church",
+    "artist": "Enthroned",
+    "isrc": "GBDHS0900804"
+  },
+  {
+    "title": "Abyss",
+    "artist": "Our Common Sense",
+    "isrc": "NLW2R2150688"
+  },
+  {
+    "title": "Secret Door",
+    "artist": "Ethernity",
+    "isrc": "BECU31300004"
+  },
+  {
+    "title": "Illuyanka",
+    "artist": "Alwaid",
+    "isrc": "DEHU72270062"
+  },
+  {
+    "title": "Firewalker",
+    "artist": "Eyes on the Machine",
+    "isrc": "usdy41877281"
+  },
+  {
+    "title": "Ice Cold Rage",
+    "artist": "Hell City",
+    "isrc": "BEM101400003"
+  },
+  {
+    "title": "Wolf Among Sheep",
+    "artist": "Blazing Row",
+    "isrc": "TCACM1676406"
+  },
+  {
+    "title": "Where Dreams Bleed",
+    "artist": "Oceans Burning",
+    "isrc": "QM4DW1859381"
+  },
+  {
+    "title": "Years of Silence",
+    "artist": "Thurisaz",
+    "isrc": "TCACG1546058"
+  },
+  {
+    "title": "The Craving",
+    "artist": "The Scalding",
+    "isrc": "GBKPL1519472"
+  },
+  {
+    "title": "The Truth Begins Where Man Stops to Think",
+    "artist": "Agathocles",
+    "isrc": "QMFME2242046"
+  },
+  {
+    "title": "Downpours of Disapproval",
+    "artist": "Crimson Falls",
+    "isrc": "ushm81345624"
+  },
+  {
+    "title": "Hiding",
+    "artist": "Witch Trail",
+    "isrc": "BEY441500042"
+  },
+  {
+    "title": "La Tristesse Eternelle",
+    "artist": "Insanity Reigns Supreme",
+    "isrc": "QMPKX1454298"
+  },
+  {
+    "title": "Little Boy",
+    "artist": "Breakfast at Midnight",
+    "isrc": "QZWFL2345391"
+  },
+  {
+    "title": "Blood on my hands",
+    "artist": "Rebel's End",
+    "isrc": "GB-SMU-30-92378"
+  },
+  {
+    "title": "Save Me",
+    "artist": "SPITFIRE",
+    "isrc": "QZFZ22103969"
+  },
+  {
+    "title": "The Hopeless",
+    "artist": "Chief Roberts",
+    "isrc": "QM4DW1853799"
+  },
+  {
+    "title": "Rain Fire",
+    "artist": "Deathwish",
+    "isrc": "USH780725103"
+  },
+  {
+    "title": "Hichhiking of Pain",
+    "artist": "Drakkar",
+    "isrc": "BECC61700012"
+  },
+  {
+    "title": "Telesis",
+    "artist": "Emeth",
+    "isrc": "DETJ51700107"
+  },
+  {
+    "title": "A Life of Pretence",
+    "artist": "Endtime Odyssey",
+    "isrc": "ushm81873001"
+  },
+  {
+    "title": "Not Sorry",
+    "artist": "Mental Circus",
+    "isrc": "QZHN72086989"
+  },
+  {
+    "title": "Lijfniet",
+    "artist": "Muddler",
+    "isrc": "GBMJG2326846"
+  },
+  {
+    "title": "Mental Mastery",
+    "artist": "Objector",
+    "isrc": "USY282001642"
+  },
+  {
+    "title": "Stride",
+    "artist": "Winterblind",
+    "isrc": "QZDA61901523"
+  },
+  {
+    "title": "Dickhead",
+    "artist": "STAKE",
+    "isrc": "BES831100001"
+  },
+  {
+    "title": "La Haine",
+    "artist": "King Hiss",
+    "isrc": "BEV611410001"
+  },
+  {
+    "title": "Voice of Dog",
+    "artist": "Bark",
+    "isrc": "BEDR21500006"
+  },
+  {
+    "title": "Pinker",
+    "artist": "Fleddy Melculy",
+    "isrc": "BEEZ41600006"
+  },
+  {
+    "title": "All I Saw as a Huge Monkey",
+    "artist": "Psychonaut",
+    "isrc": "QMPKX1812827"
+  },
+  {
+    "title": "Help",
+    "artist": "Channel Zero",
+    "isrc": "BEP010490236"
+  },
+  {
+    "title": "The Dance",
+    "artist": "Off the Cross",
+    "isrc": "TCAFI2002602"
+  },
+  {
+    "title": "De Evenmens",
+    "artist": "Amenra",
+    "isrc": "US2642148003"
+  },
+  {
+    "title": "The Making of the Universe",
+    "artist": "Carneia",
+    "isrc": "BEAY21940001"
+  },
+  {
+    "title": "Saint of Killers",
+    "artist": "Diablo Blvd",
+    "isrc": "BES081100006"
+  },
+  {
+    "title": "Charcoal",
+    "artist": "Tangled Horns",
+    "isrc": "ushm91427729"
+  },
+  {
+    "title": "Vollek Aan Den Toog",
+    "artist": "Belgian Asociality",
+    "isrc": "BEBG81300013"
+  },
+  {
+    "title": "Desertkater",
+    "artist": "Your Highness",
+    "isrc": "BEJ181400005"
+  },
+  {
+    "title": "Collide & Merge",
+    "artist": "Hemelbestormer",
+    "isrc": "DENI12100204"
+  },
+  {
+    "title": "Liar",
+    "artist": "Brutus",
+    "isrc": "GBJSG2240006"
+  },
+  {
+    "title": "Florent",
+    "artist": "Raketkanon",
+    "isrc": "BEH551400001"
+  },
+  {
+    "title": "Ontzieling",
+    "artist": "Wiegedood",
+    "isrc": "TCADP1846106"
+  },
+  {
+    "title": "Schizophobic",
+    "artist": "Hexa Mera",
+    "isrc": "BEL312200001"
+  },
+  {
+    "title": "Serpentine",
+    "artist": "Sons Of A Wanted Man",
+    "isrc": "FR9W12000033"
+  },
+  {
+    "title": "In Between",
+    "artist": "Temptations for the Weak",
+    "isrc": "QZK6G2280762"
+  },
+  {
+    "title": "Die for Me",
+    "artist": "Evil Invaders",
+    "isrc": "ATN262212002"
+  },
+  {
+    "title": "My Temple Broken",
+    "artist": "Fields Of Troy",
+    "isrc": "BEJ091800029"
+  },
+  {
+    "title": "The Life on Which I Feed",
+    "artist": "BLIKSEM",
+    "isrc": "ES22C1200577"
+  },
+  {
+    "title": "Disconnect",
+    "artist": "Spoil Engine",
+    "isrc": "BEEA61500001"
+  },
+  {
+    "title": "Cursed Mortality",
+    "artist": "Carnation",
+    "isrc": "FR33T2376408"
+  },
+  {
+    "title": "Karma",
+    "artist": ".calibre",
+    "isrc": "BEWO10200015"
+  },
+  {
+    "title": "Kuma",
+    "artist": "BEAR",
+    "isrc": "QMFME1988808"
+  },
+  {
+    "title": "Oblivion",
+    "artist": "Dyscordia",
+    "isrc": "BEEJ92400003"
+  },
+  {
+    "title": "Dark Messiah",
+    "artist": "Lost Baron",
+    "isrc": "BE7LO2200001"
+  },
+  {
+    "title": "Quick To Forget",
+    "artist": "Toxic Shock",
+    "isrc": "QZWFH2318123"
+  },
+  {
+    "title": "Forthcoming",
+    "artist": "Hope Erodes",
+    "isrc": "uscgj1994083"
+  },
+  {
+    "title": "Leap of Faith",
+    "artist": "Guilty as Charged",
+    "isrc": "TCACA1420263"
+  },
+  {
+    "title": "Can't Change the Time",
+    "artist": "Powerstroke",
+    "isrc": "DEQ121855916"
+  },
+  {
+    "title": "Ghost in Us",
+    "artist": "Hæster",
+    "isrc": "UST8K1816480"
+  },
+  {
+    "title": "The Judas Kiss",
+    "artist": "After All",
+    "isrc": "DEQ022273283"
+  },
+  {
+    "title": "Amos",
+    "artist": "Eleanora",
+    "isrc": "DEOV42001612"
+  },
+  {
+    "title": "Safe & Sound",
+    "artist": "Moments",
+    "isrc": "QZHN32211275"
+  },
+  {
+    "title": "Being Able to Feel Nothing",
+    "artist": "Oathbreaker",
+    "isrc": "QZ22D1600271"
+  },
+  {
+    "title": "Hell of No Man's Land",
+    "artist": "Fractured Insanity, Karl Willetts",
+    "isrc": "DER372010904"
+  },
+  {
+    "title": "Death Cult",
+    "artist": "Aborted, Despised Icon",
+    "isrc": "DED832300765"
+  },
+  {
+    "title": "Bed of Pine",
+    "artist": "Every Stranger Looks Like You",
+    "isrc": "uscgh1721652"
+  },
+  {
+    "title": "Grand",
+    "artist": "Soul Grip",
+    "isrc": "QZES51862928"
+  },
+  {
+    "title": "Shine - Live Session",
+    "artist": "Lethvm",
+    "isrc": "QZES72467458"
+  },
+  {
+    "title": "Harder the Fall",
+    "artist": "Komah",
+    "isrc": "BEMW52300002"
+  },
+  {
+    "title": "Unscathed",
+    "artist": "10 Rogue",
+    "isrc": "GB7QU1700116"
+  },
+  {
+    "title": "My Disgust",
+    "artist": "Crowsview",
+    "isrc": "BE8HL1800001"
+  },
+  {
+    "title": "Fatherland",
+    "artist": "Ancient Rites",
+    "isrc": "NLB930401623"
+  },
+  {
+    "title": "March or Die",
+    "artist": "Fireforce",
+    "isrc": "DEZ902000622"
+  },
+  {
+    "title": "Scream Burn Die",
+    "artist": "Lethal Injury",
+    "isrc": "QM6MZ1896710"
+  },
+  {
+    "title": "Rock Fever - Bonus Track",
+    "artist": "Ostrogoth",
+    "isrc": "FR2X41453312"
+  },
+  {
+    "title": "Death in Progress",
+    "artist": "When Plagues Collide, Sven De Caluwé - Aborted",
+    "isrc": "QZES72373979"
+  },
+  {
+    "title": "Midnight Murder",
+    "artist": "Speed Queen",
+    "isrc": "QM4DW1796328"
+  },
+  {
+    "title": "Final Chance",
+    "artist": "LEAVE SCARS",
+    "isrc": "BECW51500002"
+  },
+  {
+    "title": "Bastard",
+    "artist": "Fat Bastard",
+    "isrc": "CH6540847668"
+  },
+  {
+    "title": "Where Do We Go",
+    "artist": "Thorium",
+    "isrc": "NLVZ22000104"
+  },
+  {
+    "title": "Away",
+    "artist": "Stonemule",
+    "isrc": "uscgh1887616"
+  },
+  {
+    "title": "Heaven Days",
+    "artist": "Royal Jake",
+    "isrc": "QZRP52211425"
+  },
+  {
+    "title": "Void",
+    "artist": "Wolves Scream",
+    "isrc": "FR10S1731787"
+  },
+  {
+    "title": "The Plague Of Life",
+    "artist": "REJECT THE SICKNESS",
+    "isrc": "ITO372104527"
+  },
+  {
+    "title": "F.I.N.E.",
+    "artist": "Waves of Decay",
+    "isrc": "uscgh2120508"
+  },
+  {
+    "title": "Another Hit Single",
+    "artist": "Leng Tch'e",
+    "isrc": "US2640564804"
+  },
+  {
+    "title": "Brute Force Lobotomy",
+    "artist": "Serial Butcher",
+    "isrc": "USERN1009162"
+  },
+  {
+    "title": "Edelweiss",
+    "artist": "Ithilien",
+    "isrc": "ITO371603262"
+  },
+  {
+    "title": "A Day of Reckoning",
+    "artist": "Lemuria",
+    "isrc": "ushm21191114"
+  },
+  {
+    "title": "Burn In Hell",
+    "artist": "Brides of Lucifer",
+    "isrc": "BEE461800001"
+  },
+  {
+    "title": "Revolt!",
+    "artist": "King Hiss",
+    "isrc": "BEV611910003"
+  },
+  {
+    "title": "Catatonic Dreams",
+    "artist": "STAKE",
+    "isrc": "GBJSG1930801"
+  },
+  {
+    "title": "I'm a Wreck",
+    "artist": "Bark",
+    "isrc": "BEDR21900001"
+  },
+  {
+    "title": "Geen vlees wel vis",
+    "artist": "Fleddy Melculy",
+    "isrc": "BEEZ41600005"
+  },
+  {
+    "title": "Violate Consensus Reality",
+    "artist": "Psychonaut, Chve, Stefanie Mannaerts",
+    "isrc": "BE8HI2200004"
+  },
+  {
+    "title": "This Too Shall Pass",
+    "artist": "Off the Cross",
+    "isrc": "TCAFM2128621"
+  },
+  {
+    "title": "Suck My Energy",
+    "artist": "Channel Zero",
+    "isrc": "BEP010490233"
+  },
+  {
+    "title": "The Hangman",
+    "artist": "Carneia",
+    "isrc": "BEAY21940004"
+  },
+  {
+    "title": ".Razoreater.",
+    "artist": "Amenra",
+    "isrc": "TCAAW1137142"
+  },
+  {
+    "title": "Black Heart Bleed",
+    "artist": "Diablo Blvd",
+    "isrc": "BES081100003"
+  },
+  {
+    "title": "Momentum",
+    "artist": "Tangled Horns",
+    "isrc": "uscgh1660562"
+  },
+  {
+    "title": "De gefrusteerde automobilist",
+    "artist": "Belgian Asociality",
+    "isrc": "BEV019400103"
+  },
+  {
+    "title": "Black Moon Rising",
+    "artist": "Your Highness",
+    "isrc": "BEJ181300002"
+  },
+  {
+    "title": "Alpha",
+    "artist": "Hemelbestormer",
+    "isrc": "BET701403201"
+  },
+  {
+    "title": "Ernest",
+    "artist": "Raketkanon",
+    "isrc": "GBZ521918208"
+  },
+  {
+    "title": "Victoria",
+    "artist": "Brutus",
+    "isrc": "GBJSG2240003"
+  },
+  {
+    "title": "Now Will Always Be",
+    "artist": "Wiegedood",
+    "isrc": "GBDHC2120905"
+  },
+  {
+    "title": "Enlightenment",
+    "artist": "Hexa Mera",
+    "isrc": "BEL311700011"
+  },
+  {
+    "title": "Absent",
+    "artist": "Sons Of A Wanted Man",
+    "isrc": "FR9W12000036"
+  },
+  {
+    "title": "Falling From The Stars",
+    "artist": "Temptations for the Weak",
+    "isrc": "QZK6G2280763"
+  },
+  {
+    "title": "Mental Penitentiary",
+    "artist": "Evil Invaders",
+    "isrc": "ATN261771401"
+  },
+  {
+    "title": "Dethroned",
+    "artist": "Fields Of Troy",
+    "isrc": "BEJ091800026"
+  },
+  {
+    "title": "Twist the Knife",
+    "artist": "BLIKSEM",
+    "isrc": "ES22C2201102"
+  },
+  {
+    "title": "The Hallow",
+    "artist": "Spoil Engine, Jeff Walker",
+    "isrc": "DED831900872"
+  },
+  {
+    "title": "Metropolis",
+    "artist": "Carnation",
+    "isrc": "FR33T2376403"
+  },
+  {
+    "title": "Antidote",
+    "artist": ".calibre",
+    "isrc": "BEWO10200023"
+  },
+  {
+    "title": "Serpents",
+    "artist": "BEAR",
+    "isrc": "QM4TW2308256"
+  },
+  {
+    "title": "The Passenger",
+    "artist": "Dyscordia",
+    "isrc": "BEEJ92400001"
+  },
+  {
+    "title": "Mass Control",
+    "artist": "Lost Baron",
+    "isrc": "BE7LO2200003"
+  },
+  {
+    "title": "Intro (A Storm is coming)",
+    "artist": "Toxic Shock",
+    "isrc": "QZWFK2333566"
+  },
+  {
+    "title": "Otium",
+    "artist": "Hope Erodes",
+    "isrc": "uscgj1994081"
+  },
+  {
+    "title": "Frail Line",
+    "artist": "Guilty as Charged",
+    "isrc": "BEMN72300003"
+  },
+  {
+    "title": "Until the Fat Lady Sings",
+    "artist": "Powerstroke",
+    "isrc": "DKQ4A1306703"
+  }
+]

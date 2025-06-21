@@ -1,0 +1,937 @@
+[
+  {
+    "title": "Buffalo",
+    "artist": "The Phoenix Foundation",
+    "isrc": "NZPF11000002"
+  },
+  {
+    "title": "Foolish",
+    "artist": "Mermaidens",
+    "isrc": "NZAM02224227"
+  },
+  {
+    "title": "Bodies Dissolve Tonight!",
+    "artist": "Earth Tongue",
+    "isrc": "USA3D2439302"
+  },
+  {
+    "title": "Used to Be",
+    "artist": "Womb",
+    "isrc": "NZAM02000611"
+  },
+  {
+    "title": "Dream of Me",
+    "artist": "Wiri Donna",
+    "isrc": "NZAM02200415"
+  },
+  {
+    "title": "Nightbug",
+    "artist": "Mystery Waitress",
+    "isrc": "NZFN02400113"
+  },
+  {
+    "title": "Shoulders / Spine",
+    "artist": "HEAVY CHEST",
+    "isrc": "FR9Z62000476"
+  },
+  {
+    "title": "Thalamus (Machine Learning Variation)",
+    "artist": "Grayson Gilmour, Paul Jebanasam",
+    "isrc": "ATRG71730001"
+  },
+  {
+    "title": "Tongue",
+    "artist": "Recitals",
+    "isrc": "NZRI12104211"
+  },
+  {
+    "title": "Peaceful Man",
+    "artist": "Little Bushman",
+    "isrc": "NZLL00700012"
+  },
+  {
+    "title": "Claimed by the Sea - PLAN Remix",
+    "artist": "French For Rabbits",
+    "isrc": "NZRI11201446"
+  },
+  {
+    "title": "Shallows",
+    "artist": "Doons",
+    "isrc": "QZFZ32018730"
+  },
+  {
+    "title": "Ripship is Online",
+    "artist": "Ripship",
+    "isrc": "QZMER2238207"
+  },
+  {
+    "title": "Petals In The Rain",
+    "artist": "Sofia Machray",
+    "isrc": "NZRI12300482"
+  },
+  {
+    "title": "We Light Fire",
+    "artist": "Julia Deans",
+    "isrc": "NZRI11703194"
+  },
+  {
+    "title": "Brooklyn",
+    "artist": "Glass Vaults",
+    "isrc": "GBJGV1121803"
+  },
+  {
+    "title": "Loose Change",
+    "artist": "Sure Boy",
+    "isrc": "NZAM02223280"
+  },
+  {
+    "title": "Custom",
+    "artist": "ONONO",
+    "isrc": "QZ4JJ1642068"
+  },
+  {
+    "title": "Pepper'n'Sand",
+    "artist": "Ingrid and the Ministers",
+    "isrc": "NZRI11904848"
+  },
+  {
+    "title": "Berlin",
+    "artist": "So So Modern",
+    "isrc": "GBKZV1025563"
+  },
+  {
+    "title": "TV AV",
+    "artist": "F.A.I.R.Y",
+    "isrc": "NZAM02222885"
+  },
+  {
+    "title": "Overtired",
+    "artist": "O & The Mo",
+    "isrc": "NZAM02002841"
+  },
+  {
+    "title": "Liquid",
+    "artist": "Milk Tooth",
+    "isrc": "QZMEN2377097"
+  },
+  {
+    "title": "Im on Fire",
+    "artist": "Head Like A Hole",
+    "isrc": "NZWR00000017"
+  },
+  {
+    "title": "Vatican City Beatdown",
+    "artist": "Sleeping Village",
+    "isrc": "NZAM02400076"
+  },
+  {
+    "title": "Feeling / Dying",
+    "artist": "Finn Johansson",
+    "isrc": "NZAM01800116"
+  },
+  {
+    "title": "Stringing Me Along",
+    "artist": "The Woolshed Sessions",
+    "isrc": "NZRH10800212"
+  },
+  {
+    "title": "Good Intentions",
+    "artist": "Corduroy.",
+    "isrc": "NZAM01902153"
+  },
+  {
+    "title": "Sold His Soul",
+    "artist": "Sea Mouse",
+    "isrc": "AUMEV2392536"
+  },
+  {
+    "title": "Imagining My Man",
+    "artist": "Samuel Flynn Scott",
+    "isrc": "NZRI12300733"
+  },
+  {
+    "title": "Next to My Body",
+    "artist": "Andre Smith, Nice Guys, HEAVY CHEST, ives.",
+    "isrc": "FR9Z62300438"
+  },
+  {
+    "title": "Gold Star",
+    "artist": "Awning",
+    "isrc": "QZHN42458350"
+  },
+  {
+    "title": "rain day out",
+    "artist": "Blunt dog",
+    "isrc": "NZRI12300631"
+  },
+  {
+    "title": "Little Hands",
+    "artist": "Eb & Sparrow",
+    "isrc": "NZRI11501180"
+  },
+  {
+    "title": "All My Dreams",
+    "artist": "Samuel F. Scott & The B.O.P.",
+    "isrc": "NZLP00800845"
+  },
+  {
+    "title": "Crooked Mouths",
+    "artist": "Earth to Zena",
+    "isrc": "QZB4J1873364"
+  },
+  {
+    "title": "Who They Say You Are",
+    "artist": "A Girl Named Mo",
+    "isrc": "NZLP01500130"
+  },
+  {
+    "title": "I'm Coming Home",
+    "artist": "Barnaby Weir",
+    "isrc": "NZNG11000012"
+  },
+  {
+    "title": "Honeypot",
+    "artist": "Androgynous Lemon",
+    "isrc": "NZRI12004089"
+  },
+  {
+    "title": "Fossil",
+    "artist": "Sky Canvas",
+    "isrc": "NZAM01801583"
+  },
+  {
+    "title": "Carousel",
+    "artist": "Anxiety Club",
+    "isrc": "NZRI12201104"
+  },
+  {
+    "title": "Safe in Sound",
+    "artist": "Bunnies On Ponies",
+    "isrc": "NZLV11400010"
+  },
+  {
+    "title": "Sandstorm",
+    "artist": "Popstrangers",
+    "isrc": "US22N1409601"
+  },
+  {
+    "title": "New Age",
+    "artist": "Terror Of The Deep",
+    "isrc": "USA2P1215876"
+  },
+  {
+    "title": "Do Me In",
+    "artist": "Orangefarm",
+    "isrc": "QZB4J1888318"
+  },
+  {
+    "title": "Friday Night",
+    "artist": "Meech Brothers",
+    "isrc": "NZRI12303531"
+  },
+  {
+    "title": "Funny Shadow",
+    "artist": "Tessa Rain, Age Pryor",
+    "isrc": "NZAM00900051"
+  },
+  {
+    "title": "Emerald Hill",
+    "artist": "Night Bus",
+    "isrc": "NZRI12400483"
+  },
+  {
+    "title": "Anklung Song",
+    "artist": "Orchestra Of Spheres",
+    "isrc": "GBCKK1142105"
+  },
+  {
+    "title": "Blow Your Top",
+    "artist": "Rosy Tin Teacaddy",
+    "isrc": "NZRI11001583"
+  },
+  {
+    "title": "Through My Venetians",
+    "artist": "Richter City Rebels, Troy Kingi",
+    "isrc": "NZRI12201943"
+  },
+  {
+    "title": "Good Shadow",
+    "artist": "Grawlixes",
+    "isrc": "AUXN21704079"
+  },
+  {
+    "title": "Truancy",
+    "artist": "DEAF",
+    "isrc": "QZB4J1825468"
+  },
+  {
+    "title": "Creepy",
+    "artist": "The Eversons",
+    "isrc": "NZLC01200010"
+  },
+  {
+    "title": "Dark Science",
+    "artist": "Family Cactus",
+    "isrc": "NZAH01100014"
+  },
+  {
+    "title": "The Breaking",
+    "artist": "Joe Blossom",
+    "isrc": "NZRI11503009"
+  },
+  {
+    "title": "Starsign",
+    "artist": "Over The Atlantic",
+    "isrc": "US22N0503401"
+  },
+  {
+    "title": "Riki",
+    "artist": "Wild Bill Ricketts",
+    "isrc": "NZRI11000550"
+  },
+  {
+    "title": "Movies As Friends",
+    "artist": "Wet Bandits",
+    "isrc": "TCADS1899841"
+  },
+  {
+    "title": "Told Me Twice",
+    "artist": "Tommy And The Fallen Horses",
+    "isrc": "NZRI10900487"
+  },
+  {
+    "title": "Red Pepper",
+    "artist": "Harbour City Electric",
+    "isrc": "NZAM00900166"
+  },
+  {
+    "title": "Fomo",
+    "artist": "Tidal Rave",
+    "isrc": "NZFH02000001"
+  },
+  {
+    "title": "get it right",
+    "artist": "Andy Gartrell",
+    "isrc": "QZDA72413790"
+  },
+  {
+    "title": "Spell It Out",
+    "artist": "Benji's Palace",
+    "isrc": "QZDA61851099"
+  },
+  {
+    "title": "Makin' It",
+    "artist": "Black Minnaloushe",
+    "isrc": "NZRI11702346"
+  },
+  {
+    "title": "Hold On",
+    "artist": "City Oh Sigh",
+    "isrc": "NZRI11302699"
+  },
+  {
+    "title": "The Face Bleeds Bronze",
+    "artist": "Dead Celeb",
+    "isrc": "QZARB1891889"
+  },
+  {
+    "title": "You're So Nice / Boy's Home",
+    "artist": "Elliott Dawson",
+    "isrc": "NZAM02201505"
+  },
+  {
+    "title": "Parking Lot",
+    "artist": "George Turner",
+    "isrc": "TCAEH1926812"
+  },
+  {
+    "title": "Lazy Bones",
+    "artist": "Ghostplane",
+    "isrc": "NZFM00500959"
+  },
+  {
+    "title": "Advertisement for a Pacemaker",
+    "artist": "Good Laika",
+    "isrc": "NZAM00700231"
+  },
+  {
+    "title": "Beautiful",
+    "artist": "Hmza",
+    "isrc": "TCADF1797662"
+  },
+  {
+    "title": "Your~Mediums",
+    "artist": "Hollywoodfun Downstairs",
+    "isrc": "PLG491700001"
+  },
+  {
+    "title": "Hugs N Kisses",
+    "artist": "Hybrid Rose",
+    "isrc": "NZAM02223194"
+  },
+  {
+    "title": "In the Aeroplane Over the Sea (Acoustic)",
+    "artist": "Lucifer Gunne",
+    "isrc": "USDHM1918328"
+  },
+  {
+    "title": "Vogue Model",
+    "artist": "Maple Syrup",
+    "isrc": "NZ-RI1-17-00637"
+  },
+  {
+    "title": "Pseudoephedrine",
+    "artist": "Moon Lander",
+    "isrc": "QZ8LD1763577"
+  },
+  {
+    "title": "Kōwhai",
+    "artist": "Namesake",
+    "isrc": "GBSMU5618795"
+  },
+  {
+    "title": "Four Fire Engines",
+    "artist": "No mans heath",
+    "isrc": "GBKPL1796371"
+  },
+  {
+    "title": "Cupid's Wink",
+    "artist": "Porcelaintoy",
+    "isrc": "uscgh1257413"
+  },
+  {
+    "title": "No Bra Sundays",
+    "artist": "Ready Sett",
+    "isrc": "NZAM01701545"
+  },
+  {
+    "title": "Unwind",
+    "artist": "Retrospect",
+    "isrc": "QZ4JJ1779280"
+  },
+  {
+    "title": "This Is War",
+    "artist": "Sharkness",
+    "isrc": "NZRI11201603"
+  },
+  {
+    "title": "Sin Cristales",
+    "artist": "So Laid Back Country China",
+    "isrc": "QM2PV1664054"
+  },
+  {
+    "title": "The Ghost of Gimblett Gravels",
+    "artist": "Sven Olsen’s Brutal Canadian Love Saga",
+    "isrc": "NZAM01401049"
+  },
+  {
+    "title": "Ernie Abbott",
+    "artist": "The Close Readers",
+    "isrc": "NZRI11402317"
+  },
+  {
+    "title": "I Don't Believe in Ghosts",
+    "artist": "The Fatalities",
+    "isrc": "ushm21545152"
+  },
+  {
+    "title": "Coming Forth Through the Night",
+    "artist": "The Infamous Hiss",
+    "isrc": "QZES61881638"
+  },
+  {
+    "title": "Cult Boy",
+    "artist": "The Sing Songs",
+    "isrc": "NZAM01001617"
+  },
+  {
+    "title": "How Do You Have Your Tea?",
+    "artist": "Urbantramper",
+    "isrc": "ushm90718231"
+  },
+  {
+    "title": "Feeeel It",
+    "artist": "Wet Wings",
+    "isrc": "NZLC01100028"
+  },
+  {
+    "title": "Meet Me In Montauk",
+    "artist": "What Noisy Cats",
+    "isrc": "NZRI11502093"
+  },
+  {
+    "title": "Body Con",
+    "artist": "girlboss",
+    "isrc": "NZAM01800177"
+  },
+  {
+    "title": "The Captain",
+    "artist": "The Phoenix Foundation",
+    "isrc": "NZPF11200004"
+  },
+  {
+    "title": "I like to be alone",
+    "artist": "Mermaidens",
+    "isrc": "NZAM02223563"
+  },
+  {
+    "title": "Astonishing Comet",
+    "artist": "Earth Tongue",
+    "isrc": "GBMA21944377"
+  },
+  {
+    "title": "Oceans",
+    "artist": "Womb",
+    "isrc": "NZFN02200115"
+  },
+  {
+    "title": "No Follow Through",
+    "artist": "Wiri Donna",
+    "isrc": "NZAM02200414"
+  },
+  {
+    "title": "Bedhead",
+    "artist": "Mystery Waitress",
+    "isrc": "NZAM02002227"
+  },
+  {
+    "title": "Just You",
+    "artist": "HEAVY CHEST",
+    "isrc": "FR9Z62000141"
+  },
+  {
+    "title": "Lichtung",
+    "artist": "Grayson Gilmour",
+    "isrc": "NZFN01300071"
+  },
+  {
+    "title": "Angelpoise",
+    "artist": "Recitals",
+    "isrc": "NZRI12104215"
+  },
+  {
+    "title": "Claimed by the Sea",
+    "artist": "French For Rabbits",
+    "isrc": "NZRI11200388"
+  },
+  {
+    "title": "Where We Get Born",
+    "artist": "Little Bushman",
+    "isrc": "NZAM00700046"
+  },
+  {
+    "title": "The Importance of Being Indifferent",
+    "artist": "Doons",
+    "isrc": "QZNWX2085882"
+  },
+  {
+    "title": "Insufficient Data",
+    "artist": "Ripship",
+    "isrc": "QZTB22255781"
+  },
+  {
+    "title": "Between Now And Then",
+    "artist": "Sofia Machray",
+    "isrc": "NZRI12300481"
+  },
+  {
+    "title": "Come and Be Beautiful",
+    "artist": "Glass Vaults",
+    "isrc": "NZFY01500008"
+  },
+  {
+    "title": "Walking in the Sun",
+    "artist": "Julia Deans",
+    "isrc": "NZRI11703188"
+  },
+  {
+    "title": "What You Do When You're Alright",
+    "artist": "Sure Boy",
+    "isrc": "NZAM02223089"
+  },
+  {
+    "title": "Fontelina",
+    "artist": "ONONO",
+    "isrc": "NZRI11904141"
+  },
+  {
+    "title": "Porcelain God",
+    "artist": "Ingrid and the Ministers",
+    "isrc": "NZRI12202191"
+  },
+  {
+    "title": "Life in the Undergrowth",
+    "artist": "So So Modern",
+    "isrc": "GBKZV1025559"
+  },
+  {
+    "title": "International Waters",
+    "artist": "F.A.I.R.Y",
+    "isrc": "NZAM02222878"
+  },
+  {
+    "title": "Pistachio Moon",
+    "artist": "O & The Mo",
+    "isrc": "NZAM02002302"
+  },
+  {
+    "title": "Voyager",
+    "artist": "Milk Tooth",
+    "isrc": "QZTB62355444"
+  },
+  {
+    "title": "For A Brief Moment",
+    "artist": "Sleeping Village",
+    "isrc": "NZAM02222046"
+  },
+  {
+    "title": "Comfortably Shagged",
+    "artist": "Head Like A Hole",
+    "isrc": "NZWR09800017"
+  },
+  {
+    "title": "Love Bomb",
+    "artist": "Finn Johansson",
+    "isrc": "NZAM01801289"
+  },
+  {
+    "title": "Hey You",
+    "artist": "The Woolshed Sessions",
+    "isrc": "NZRH10800209"
+  },
+  {
+    "title": "Fire",
+    "artist": "Corduroy.",
+    "isrc": "NZAM01802098"
+  },
+  {
+    "title": "War over Water",
+    "artist": "Samuel Flynn Scott",
+    "isrc": "NZLP00600135"
+  },
+  {
+    "title": "Weed Whacker",
+    "artist": "Sea Mouse",
+    "isrc": "AUMEV2353271"
+  },
+  {
+    "title": "Benevolent",
+    "artist": "Awning",
+    "isrc": "QZHN42458348"
+  },
+  {
+    "title": "Piece for Telecaster",
+    "artist": "Blunt dog",
+    "isrc": "NZRI12300625"
+  },
+  {
+    "title": "To the West",
+    "artist": "Eb & Sparrow",
+    "isrc": "NZRI11702906"
+  },
+  {
+    "title": "Llewellyn",
+    "artist": "Samuel F. Scott & The B.O.P.",
+    "isrc": "NZLP00800145"
+  },
+  {
+    "title": "Existence",
+    "artist": "Andre Smith",
+    "isrc": "QZFYW2156193"
+  },
+  {
+    "title": "Poetaster",
+    "artist": "Earth to Zena",
+    "isrc": "QZNWY2096487"
+  },
+  {
+    "title": "Stay Warm - Live at Bats, 2016",
+    "artist": "A Girl Named Mo",
+    "isrc": "NZLP01600270"
+  },
+  {
+    "title": "Doin' It for Brasil",
+    "artist": "Barnaby Weir, Clube do Balanço",
+    "isrc": "NZLP00600338"
+  },
+  {
+    "title": "Redbug",
+    "artist": "Androgynous Lemon",
+    "isrc": "NZRI11903779"
+  },
+  {
+    "title": "Carried Away",
+    "artist": "Sky Canvas",
+    "isrc": "ushm91711794"
+  },
+  {
+    "title": "Love Rescue Me",
+    "artist": "Anxiety Club",
+    "isrc": "NZRI11802993"
+  },
+  {
+    "title": "Castle Van Halen",
+    "artist": "Bunnies On Ponies",
+    "isrc": "NZLV11400001"
+  },
+  {
+    "title": "Heaven",
+    "artist": "Popstrangers",
+    "isrc": "US22N1308007"
+  },
+  {
+    "title": "I Am Ocean",
+    "artist": "Terror Of The Deep",
+    "isrc": "USA2P1215877"
+  },
+  {
+    "title": "The Water",
+    "artist": "Orangefarm",
+    "isrc": "NZRI11800990"
+  },
+  {
+    "title": "Korean Restaurant",
+    "artist": "Meech Brothers",
+    "isrc": "NZRI12300732"
+  },
+  {
+    "title": "Singing in My Soul",
+    "artist": "Tessa Rain, Age Pryor",
+    "isrc": "NZAM00900053"
+  },
+  {
+    "title": "Korean Restaurant",
+    "artist": "Night Bus",
+    "isrc": "NZRI11804547"
+  },
+  {
+    "title": "Hypercube",
+    "artist": "Orchestra Of Spheres",
+    "isrc": "GBCKK1124701"
+  },
+  {
+    "title": "Crosswords",
+    "artist": "Rosy Tin Teacaddy",
+    "isrc": "NZRI10900151"
+  },
+  {
+    "title": "Rebels Party Don't Stop",
+    "artist": "Richter City Rebels",
+    "isrc": "NZRI11703969"
+  },
+  {
+    "title": "City Across the Bay",
+    "artist": "Grawlixes",
+    "isrc": "NZRI12101780"
+  },
+  {
+    "title": "Shards",
+    "artist": "DEAF",
+    "isrc": "QZDA61838076"
+  },
+  {
+    "title": "Marriage",
+    "artist": "The Eversons",
+    "isrc": "NZLC01200018"
+  },
+  {
+    "title": "Kingmaker",
+    "artist": "Family Cactus",
+    "isrc": "NZSG00900005"
+  },
+  {
+    "title": "Autumn Rain",
+    "artist": "Joe Blossom",
+    "isrc": "NZRI11503013"
+  },
+  {
+    "title": "Drama",
+    "artist": "Over The Atlantic",
+    "isrc": "NZRI10901142"
+  },
+  {
+    "title": "Mangi Mangi",
+    "artist": "Wild Bill Ricketts",
+    "isrc": "NZRH10900090"
+  },
+  {
+    "title": "Babe I'm Just Scared",
+    "artist": "Tommy And The Fallen Horses",
+    "isrc": "NZRI10900489"
+  },
+  {
+    "title": "Vacate",
+    "artist": "Wet Bandits",
+    "isrc": "QZES71838719"
+  },
+  {
+    "title": "Ed's Jam",
+    "artist": "Harbour City Electric",
+    "isrc": "NZAM00900167"
+  },
+  {
+    "title": "Surf's Down",
+    "artist": "Tidal Rave",
+    "isrc": "NZFH02100012"
+  },
+  {
+    "title": "I Need You",
+    "artist": "Andy Gartrell",
+    "isrc": "NZRI11903449"
+  },
+  {
+    "title": "Flock Of Hearts",
+    "artist": "The Phoenix Foundation",
+    "isrc": "NZPF11000003"
+  },
+  {
+    "title": "Sour Lips",
+    "artist": "Mermaidens",
+    "isrc": "NZAM02224239"
+  },
+  {
+    "title": "When I See You",
+    "artist": "Womb",
+    "isrc": "NZFN02200118"
+  },
+  {
+    "title": "Grave Pressure",
+    "artist": "Earth Tongue",
+    "isrc": "USA3D2439305"
+  },
+  {
+    "title": "Big Pop",
+    "artist": "Wiri Donna",
+    "isrc": "NZAM02200412"
+  },
+  {
+    "title": "Fiji",
+    "artist": "Mystery Waitress",
+    "isrc": "NZAM02002226"
+  },
+  {
+    "title": "Our Perfect Storm",
+    "artist": "Grayson Gilmour",
+    "isrc": "NZFN02200153"
+  },
+  {
+    "title": "Amsterdam",
+    "artist": "HEAVY CHEST",
+    "isrc": "FR9Z62000288"
+  },
+  {
+    "title": "Gradient",
+    "artist": "Recitals",
+    "isrc": "NZRI12104212"
+  },
+  {
+    "title": "Nature of Man",
+    "artist": "Little Bushman",
+    "isrc": "NZLL00700002"
+  },
+  {
+    "title": "2 Sides",
+    "artist": "Doons",
+    "isrc": "QZK6N2061989"
+  },
+  {
+    "title": "Goat",
+    "artist": "French For Rabbits",
+    "isrc": "USZMA1400085"
+  },
+  {
+    "title": "Cloud Seeder",
+    "artist": "Ripship",
+    "isrc": "QZTB22255778"
+  },
+  {
+    "title": "Cuppa Tea",
+    "artist": "Sofia Machray",
+    "isrc": "NZRI12300484"
+  },
+  {
+    "title": "Mindreader",
+    "artist": "Glass Vaults",
+    "isrc": "GBJGV1121801"
+  },
+  {
+    "title": "Clandestine",
+    "artist": "Julia Deans",
+    "isrc": "NZRI11703189"
+  },
+  {
+    "title": "Her",
+    "artist": "Sure Boy",
+    "isrc": "NZAM02222237"
+  },
+  {
+    "title": "The Island",
+    "artist": "ONONO",
+    "isrc": "NZRI12101723"
+  },
+  {
+    "title": "Bowie",
+    "artist": "Ingrid and the Ministers",
+    "isrc": "GBGLW2300068"
+  },
+  {
+    "title": "The Worst Is yet to Come",
+    "artist": "So So Modern",
+    "isrc": "GBKZV1025560"
+  },
+  {
+    "title": "TV AV - Live",
+    "artist": "F.A.I.R.Y",
+    "isrc": "NZAM02400453"
+  },
+  {
+    "title": "Take Off",
+    "artist": "O & The Mo",
+    "isrc": "NZAM02003118"
+  },
+  {
+    "title": "Lyall Bay, 2019",
+    "artist": "Sleeping Village",
+    "isrc": "NZAM02222047"
+  },
+  {
+    "title": "Glory, Glory Hallelujah",
+    "artist": "Head Like A Hole",
+    "isrc": "NZAM01100276"
+  },
+  {
+    "title": "You Look Down At Me",
+    "artist": "Finn Johansson",
+    "isrc": "NZAM02222129"
+  },
+  {
+    "title": "Only Your Arms",
+    "artist": "The Woolshed Sessions",
+    "isrc": "NZRH10800219"
+  },
+  {
+    "title": "The Usual",
+    "artist": "Corduroy.",
+    "isrc": "NZAM01801284"
+  },
+  {
+    "title": "Crooks (...and Mr. Lady)",
+    "artist": "Samuel Flynn Scott",
+    "isrc": "NZLP00601035"
+  },
+  {
+    "title": "Gearbox",
+    "artist": "Sea Mouse",
+    "isrc": "AUMEV2334257"
+  },
+  {
+    "title": "Jester Poem",
+    "artist": "Awning",
+    "isrc": "QZHN42458349"
+  },
+  {
+    "title": "Eshy Biang Biang",
+    "artist": "Blunt dog",
+    "isrc": "NZRI12300450"
+  }
+]

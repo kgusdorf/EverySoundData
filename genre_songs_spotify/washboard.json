@@ -1,0 +1,912 @@
+[
+  {
+    "title": "Jubilee Stomp",
+    "artist": "Tuba Skinny",
+    "isrc": "GBWUL2255982"
+  },
+  {
+    "title": "Diggin' My Potatoes",
+    "artist": "Washboard Sam",
+    "isrc": "DEXO22207778"
+  },
+  {
+    "title": "Pepper Steak",
+    "artist": "The Washboard Rhythm Kings",
+    "isrc": "GBSMU8817287"
+  },
+  {
+    "title": "Dock Rock",
+    "artist": "The Washboard Union",
+    "isrc": "CAW112000100"
+  },
+  {
+    "title": "I'm Goin' Huntin'",
+    "artist": "Jimmy Bertrand's Washboard Wizards",
+    "isrc": "GBBMR0822509"
+  },
+  {
+    "title": "Mother Died",
+    "artist": "Washboard Chaz Blues Trio",
+    "isrc": "USQY50954046"
+  },
+  {
+    "title": "My Car Has Shrunk in the Rain",
+    "artist": "The Washboard Resonators",
+    "isrc": "QZDA71885336"
+  },
+  {
+    "title": "California Here I Come",
+    "artist": "Paris Washboard",
+    "isrc": "US4FU1228003"
+  },
+  {
+    "title": "Have You Ever Felt That Way",
+    "artist": "Clarence Williams Washboard Five",
+    "isrc": "AUXN22004908"
+  },
+  {
+    "title": "Blue Washboard Stomp",
+    "artist": "Johnny Dodds' Washboard Band",
+    "isrc": "USCXG2300101"
+  },
+  {
+    "title": "I'd Love It",
+    "artist": "Louisiana Washboard Five, Aurélie Tropez",
+    "isrc": "NOJMH1601020"
+  },
+  {
+    "title": "What Makes My Baby Cry",
+    "artist": "Five Harmaniacs",
+    "isrc": "USA370640028"
+  },
+  {
+    "title": "I Can't Dance (Got Ants in My Pants)",
+    "artist": "The Georgia Washboard Stompers",
+    "isrc": "GBBMR1983604"
+  },
+  {
+    "title": "Pepper Steak",
+    "artist": "Alabama Washboard Stompers",
+    "isrc": "FRS181464905"
+  },
+  {
+    "title": "Clarinet Getaway",
+    "artist": "Jimmy O'Bryant's Washboard Band",
+    "isrc": "USA370510604"
+  },
+  {
+    "title": "Blue Drag",
+    "artist": "Baker-Baldwin Radiogram Washboards",
+    "isrc": "USV351411087"
+  },
+  {
+    "title": "Forty and Tight - Take 2",
+    "artist": "Beale Street Washboard Band",
+    "isrc": "QMBZ91322311"
+  },
+  {
+    "title": "Coney Island Washboard",
+    "artist": "Beryl Bryden",
+    "isrc": "CH0279815047"
+  },
+  {
+    "title": "Buddy Burton's Jazz",
+    "artist": "Blythe's Washboard Band",
+    "isrc": "USBS99903212"
+  },
+  {
+    "title": "It's Tight Like That",
+    "artist": "Bob Wallis Washboard Beaters",
+    "isrc": "QMFMF1377907"
+  },
+  {
+    "title": "It's Tight Like That",
+    "artist": "Bob Wallis' Washboard Beaters",
+    "isrc": "GBEEJ1100847"
+  },
+  {
+    "title": "It's Tight Like That",
+    "artist": "Bob Wallis's Washboard Beaters",
+    "isrc": "UKU6H1902645"
+  },
+  {
+    "title": "Everybody Loves My Baby",
+    "artist": "Chris Barber's Washboard Wonders",
+    "isrc": "NLG620402220"
+  },
+  {
+    "title": "Ballin' the Jack",
+    "artist": "Clancy Hayes & His Washboard Five",
+    "isrc": "GBDAG0102633"
+  },
+  {
+    "title": "Beer Garden Blues, Pt. 1",
+    "artist": "Clarence Williams & His Washboard Band",
+    "isrc": "GBLGL1049905"
+  },
+  {
+    "title": "You Don't Understand",
+    "artist": "Clarence Williams' Washboard Band",
+    "isrc": "USSM11508088"
+  },
+  {
+    "title": "Candy Lips - Charleston",
+    "artist": "Clarence Williams' Washboard Beaters",
+    "isrc": "DEBL60856927"
+  },
+  {
+    "title": "Cushion Foot Stomp",
+    "artist": "Clarence Williams",
+    "isrc": "USSF17733208"
+  },
+  {
+    "title": "I've Got What It Takes - Original",
+    "artist": "Clarence Williams' Washboard Five With Margaret Webster",
+    "isrc": "GBJUT0915929"
+  },
+  {
+    "title": "Yama Yama blues",
+    "artist": "Clarence Williams' Washboard Four",
+    "isrc": "USA370571059"
+  },
+  {
+    "title": "Welcome to a new world",
+    "artist": "Cleanstring",
+    "isrc": "QZFZ22203957"
+  },
+  {
+    "title": "Undertaker Blues",
+    "artist": "Cloe's Washboard Band",
+    "isrc": "USA370602006"
+  },
+  {
+    "title": "Bury Me Not on the Lone Prairie",
+    "artist": "Corwin Bolt & the Wingnuts",
+    "isrc": "CAENV1861077"
+  },
+  {
+    "title": "I Ride My Horses Most Anywhere",
+    "artist": "Daddy Hotcakes",
+    "isrc": "USSF16181410"
+  },
+  {
+    "title": "Hard People",
+    "artist": "Daniel and The Blonde",
+    "isrc": "QMCD61300001"
+  },
+  {
+    "title": "Gasoline Rag",
+    "artist": "Dave Jasen",
+    "isrc": "USSF17756108"
+  },
+  {
+    "title": "Birds and Stars",
+    "artist": "Elephant Revival",
+    "isrc": "QMESW1300001"
+  },
+  {
+    "title": "Kansas City Shuffle (Take 2)",
+    "artist": "Dixie Jazzers Washboard Band",
+    "isrc": "USA370503988"
+  },
+  {
+    "title": "Takeover (Live)",
+    "artist": "Dwayne Dopsie & The Zydeco Hellraisers",
+    "isrc": "QM24S2305816"
+  },
+  {
+    "title": "Blues In The Rain",
+    "artist": "Eddie Kelly's Washboard Band",
+    "isrc": "USA560530683"
+  },
+  {
+    "title": "Salty Dog",
+    "artist": "Fowler's Washboard Wonders",
+    "isrc": "USA370510653"
+  },
+  {
+    "title": "Coney Island Washboard",
+    "artist": "Galvanized Washboard Band, Peter Ecklund, Howard Vidal, Tommy Sancton, Mark Finks, Arthur Hovey, Julie Hovey",
+    "isrc": "US2GH9300116"
+  },
+  {
+    "title": "Washboard wiggles",
+    "artist": "Gilbert Leroux Washboard Group",
+    "isrc": "FR0D80400330"
+  },
+  {
+    "title": "Oh by Jingo",
+    "artist": "Goodtime Washboard 3",
+    "isrc": "USAP31254023"
+  },
+  {
+    "title": "Um a Zero (Superstar)",
+    "artist": "Gringo's Washboard Band",
+    "isrc": "BRRGE1602412"
+  },
+  {
+    "title": "Can't Be Satisfied",
+    "artist": "HowellDevine",
+    "isrc": "USAP31455001"
+  },
+  {
+    "title": "Mistreated The Only Friend You Had",
+    "artist": "James Cole & His Washboard Band",
+    "isrc": "USA370639327"
+  },
+  {
+    "title": "Runnin' Wild",
+    "artist": "James Cole's Washboard Four",
+    "isrc": "USA560539804"
+  },
+  {
+    "title": "If You Want to Be My Sugar Papa",
+    "artist": "Jimmy Bertrand's Washboard Wizzards",
+    "isrc": "GBSUW1306364"
+  },
+  {
+    "title": "My Baby",
+    "artist": "Jimmy Blythe's Washboard Wizards",
+    "isrc": "GBBMR0822516"
+  },
+  {
+    "title": "Black Alley Rub (Take 2)",
+    "artist": "Jimmy O'Bryant's (Famous Original) Washboard Band",
+    "isrc": "QMBZ92052488"
+  },
+  {
+    "title": "Brand New Charleston",
+    "artist": "Jimmy O'Bryant's Washboard Band with Ruth Coleman",
+    "isrc": "USA370510595"
+  },
+  {
+    "title": "Baby, Please Don't Go",
+    "artist": "Joe Williams' Washboard Blues Singers",
+    "isrc": "USESK1316710"
+  },
+  {
+    "title": "Wasn't It Sad About Lemon",
+    "artist": "John Byrd & Washboard Walter",
+    "isrc": "USA370504613"
+  },
+  {
+    "title": "Bull Fiddle Blues",
+    "artist": "Johnny Dodds Washboard Band",
+    "isrc": "FR6V89501905"
+  },
+  {
+    "title": "Blue Washboard Stomp",
+    "artist": "Johnny Dodds Washboard Six",
+    "isrc": "AUBD19000421"
+  },
+  {
+    "title": "Up There",
+    "artist": "Johnny Parker's Washboard Band",
+    "isrc": "NLG620531138"
+  },
+  {
+    "title": "Femmes martinique doux",
+    "artist": "La Planche à Dixie, Clivia Christina",
+    "isrc": "DEL440700302"
+  },
+  {
+    "title": "Hear Me Talkin' To You - Original",
+    "artist": "Ma Rainey & Her Tub Jug Washboard Band",
+    "isrc": "GBJUT0915926"
+  },
+  {
+    "title": "When Erastus Plays His Old Kazoo",
+    "artist": "Morel-Atlan",
+    "isrc": "FRZ537000087"
+  },
+  {
+    "title": "Arkansas Traveler",
+    "artist": "Nashville Washboard Band",
+    "isrc": "USA370503721"
+  },
+  {
+    "title": "This World",
+    "artist": "Old Time Honey",
+    "isrc": "QM2PV1850725"
+  },
+  {
+    "title": "Hell or High Water",
+    "artist": "Onion Honey",
+    "isrc": "USDY42477820"
+  },
+  {
+    "title": "Geechie River",
+    "artist": "Original Washboard Band",
+    "isrc": "QMBZ91322293"
+  },
+  {
+    "title": "Madame bécassine",
+    "artist": "Palatina Washboard Jassband",
+    "isrc": "DENK51400409"
+  },
+  {
+    "title": "Save Me Some",
+    "artist": "Palooka Washboard Band",
+    "isrc": "USA370501647"
+  },
+  {
+    "title": "Cripple Creek",
+    "artist": "Washboard Band",
+    "isrc": "USSF15620103"
+  },
+  {
+    "title": "Miss Ora Lee Blues - Original",
+    "artist": "Peter Chatman & His Washboard Band",
+    "isrc": "GBJUT0915934"
+  },
+  {
+    "title": "Sippin' Cider",
+    "artist": "Robert Lunn and The Jug and Washboard Band, Robert Lunn, The Jug and Washboard Band",
+    "isrc": "GBELT1228347"
+  },
+  {
+    "title": "West End Blues",
+    "artist": "Rosies Crazy Washboard Band",
+    "isrc": "DEOH11100016"
+  },
+  {
+    "title": "Digging My Potatoes, No. 2",
+    "artist": "Sam Washboard",
+    "isrc": "FR8X01400137"
+  },
+  {
+    "title": "Sonny's Jump",
+    "artist": "Sonny Terry's Washboard Band",
+    "isrc": "USSF16569131"
+  },
+  {
+    "title": "Shanghai Shuffle",
+    "artist": "Spencer Washboard Kings",
+    "isrc": "DEU240681792"
+  },
+  {
+    "title": "Ordinary People",
+    "artist": "Spencer’s Washboard Kings",
+    "isrc": "CYRLD1401442"
+  },
+  {
+    "title": "Whippin' That Jelly",
+    "artist": "State Street Swingers with Washboard Sam",
+    "isrc": "USA370510423"
+  },
+  {
+    "title": "Gimme Blues",
+    "artist": "Ted Des Plantes' Washboard Wizards, Loen Oakley, Larry Wright, John Otto, John Gill, Ray Cadd, Hal Smith",
+    "isrc": "USV351444643"
+  },
+  {
+    "title": "Rockin' Chair",
+    "artist": "Ted des Plantes, Tom Mullinix, Bill Gemmer, Frank Powers, Dave Baney, Lynn Seaton, John Von Ohlen",
+    "isrc": "USJ4R0112511"
+  },
+  {
+    "title": "Take Your Fingers off It",
+    "artist": "The Even Dozen Jug Band",
+    "isrc": "USEE10184780"
+  },
+  {
+    "title": "607 Revisited",
+    "artist": "Ukulele Clan Band",
+    "isrc": "GMBA21468460"
+  },
+  {
+    "title": "The Strut",
+    "artist": "VJM Washboard Band",
+    "isrc": "GBBAD1600090"
+  },
+  {
+    "title": "Washboard Story",
+    "artist": "Washboard Bill, Mickey Baker, King Curtis",
+    "isrc": "USACU0501177"
+  },
+  {
+    "title": "Zydeco Mardi Gras",
+    "artist": "Washboard Jo, Gregory Henderson",
+    "isrc": "USQY50908318"
+  },
+  {
+    "title": "There Is a Mountain",
+    "artist": "Washboard Jungle",
+    "isrc": "QM9AA1676171"
+  },
+  {
+    "title": "Let The River Flow",
+    "artist": "Washboard Leo Thomas",
+    "isrc": "ushm20902790"
+  },
+  {
+    "title": "Stealin' Stealin'",
+    "artist": "Washboard Lou & The Po'Boys",
+    "isrc": "BXHH71600005"
+  },
+  {
+    "title": "Tiger Rag",
+    "artist": "Washboard Novelty Quartette",
+    "isrc": "FR59R1477649"
+  },
+  {
+    "title": "A Ghost of a Chance",
+    "artist": "Washboard Rhythm Band",
+    "isrc": "DEA541300662"
+  },
+  {
+    "title": "Wake 'Em Up",
+    "artist": "Washboard Rhythm Boys",
+    "isrc": "GBLGL1096593"
+  },
+  {
+    "title": "She's Makin' a Fool Out of Me",
+    "artist": "Washboard Sam & His Washboard Band",
+    "isrc": "USBB10300117"
+  },
+  {
+    "title": "Phantom Black Snake",
+    "artist": "Washboard Sam (Robert Brown)",
+    "isrc": "GBHFE0521049"
+  },
+  {
+    "title": "She Fooled Me",
+    "artist": "Washboard Sam And His Washboard Band",
+    "isrc": "GBLGL0802905"
+  },
+  {
+    "title": "Washboards Get Together",
+    "artist": "Washboard Serenaders",
+    "isrc": "GBLGL0948954"
+  },
+  {
+    "title": "Narrow Face Blues",
+    "artist": "Washboard Walter",
+    "isrc": "USA2P1563367"
+  },
+  {
+    "title": "I Feel So Fine",
+    "artist": "Washboard Willie",
+    "isrc": "GB2DM7302008"
+  },
+  {
+    "title": "Roll Your Own",
+    "artist": "Washboard Wonders",
+    "isrc": "US6R21333158"
+  },
+  {
+    "title": "Hot Nuts",
+    "artist": "Williams' Washboard Band",
+    "isrc": "DEA541300674"
+  },
+  {
+    "title": "Cooking in the Kitchen",
+    "artist": "Zwei-Mann-Kapelle",
+    "isrc": "DEBG61101265"
+  },
+  {
+    "title": "Crazy About You",
+    "artist": "Tuba Skinny",
+    "isrc": "QZWDD2230764"
+  },
+  {
+    "title": "Washboard Swing",
+    "artist": "Washboard Sam",
+    "isrc": "DEXO22207779"
+  },
+  {
+    "title": "Blue Drag",
+    "artist": "The Washboard Rhythm Kings",
+    "isrc": "DKEFC0815314"
+  },
+  {
+    "title": "If You Want to Be My Sugar Papa",
+    "artist": "Jimmy Bertrand's Washboard Wizards",
+    "isrc": "GBBMR0822510"
+  },
+  {
+    "title": "Real Best Friend",
+    "artist": "Washboard Chaz Blues Trio",
+    "isrc": "USQY51045467"
+  },
+  {
+    "title": "Scrub That Thing",
+    "artist": "The Washboard Resonators",
+    "isrc": "QZDA71885342"
+  },
+  {
+    "title": "The Entertainer",
+    "artist": "Paris Washboard",
+    "isrc": "QMFMF1312592"
+  },
+  {
+    "title": "She Gets Me",
+    "artist": "The Washboard Union",
+    "isrc": "CAW111800068"
+  },
+  {
+    "title": "Log Cabin Blues",
+    "artist": "Clarence Williams Washboard Five",
+    "isrc": "AUXN22004895"
+  },
+  {
+    "title": "Bull Fiddle Blues",
+    "artist": "Johnny Dodds' Washboard Band",
+    "isrc": "BEDO62319005"
+  },
+  {
+    "title": "Crazy Rhythm",
+    "artist": "Louisiana Washboard Five, Aurélie Tropez",
+    "isrc": "NOJMH1601090"
+  },
+  {
+    "title": "What Did Romie-O-Juliet",
+    "artist": "Five Harmaniacs",
+    "isrc": "NLA410816027"
+  },
+  {
+    "title": "I'm Living in a Great Big Way",
+    "artist": "The Georgia Washboard Stompers",
+    "isrc": "GBBMR1983618"
+  },
+  {
+    "title": "Pigmeat Stomp",
+    "artist": "Alabama Washboard Stompers",
+    "isrc": "GBLGL0993704"
+  },
+  {
+    "title": "My Man Rocks Me",
+    "artist": "Jimmy O'Bryant's Washboard Band",
+    "isrc": "USA370510618"
+  },
+  {
+    "title": "That's The Way I Feel Today",
+    "artist": "Baker-Baldwin Radiogram Washboards",
+    "isrc": "USV351411082"
+  },
+  {
+    "title": "Piggly Wiggly - Take 1",
+    "artist": "Beale Street Washboard Band",
+    "isrc": "QMBZ91322312"
+  },
+  {
+    "title": "Alabama Jubilee",
+    "artist": "Beryl Bryden",
+    "isrc": "CH0279815049"
+  },
+  {
+    "title": "Bohunkus Blues",
+    "artist": "Blythe's Washboard Band",
+    "isrc": "USBS99903211"
+  },
+  {
+    "title": "Crawdad Hole",
+    "artist": "Bob Wallis Washboard Beaters",
+    "isrc": "QMFMF1377916"
+  },
+  {
+    "title": "Crawdad Hole - Original Recording Remastered",
+    "artist": "Bob Wallis' Washboard Beaters",
+    "isrc": "UKMUY1702003"
+  },
+  {
+    "title": "Crawdad Hole",
+    "artist": "Bob Wallis's Washboard Beaters",
+    "isrc": "USA2P1121432"
+  },
+  {
+    "title": "Whoop It Up",
+    "artist": "Chris Barber's Washboard Wonders",
+    "isrc": "UKMUY1716558"
+  },
+  {
+    "title": "Alabamy Bound",
+    "artist": "Clancy Hayes & His Washboard Five",
+    "isrc": "GBDAG0102634"
+  },
+  {
+    "title": "Pretty Baby Is It Yes Or No",
+    "artist": "Clarence Williams & His Washboard Band",
+    "isrc": "GBLGL1047578"
+  },
+  {
+    "title": "Whip Me With Plenty Of Love",
+    "artist": "Clarence Williams' Washboard Band",
+    "isrc": "USCXG1200153"
+  },
+  {
+    "title": "Yama Yama Blues",
+    "artist": "Clarence Williams' Washboard Four",
+    "isrc": "NLG620408062"
+  },
+  {
+    "title": "Swingin' in the fire",
+    "artist": "Cleanstring",
+    "isrc": "QZFYY2248067"
+  },
+  {
+    "title": "Russian Rag",
+    "artist": "Corwin Bolt & the Wingnuts",
+    "isrc": "QZES62382074"
+  },
+  {
+    "title": "Well, I've Been Down to Memphis",
+    "artist": "Daddy Hotcakes",
+    "isrc": "USSF16181403"
+  },
+  {
+    "title": "Houses On the Hill",
+    "artist": "Daniel and The Blonde",
+    "isrc": "QMCD61300010"
+  },
+  {
+    "title": "Meteor Rag",
+    "artist": "Dave Jasen",
+    "isrc": "USSF17756112"
+  },
+  {
+    "title": "Sing to the Mountain",
+    "artist": "Elephant Revival",
+    "isrc": "USHM80841269"
+  },
+  {
+    "title": "Black Cat Bone (Take 2)",
+    "artist": "Dixie Jazzers Washboard Band",
+    "isrc": "USA370503989"
+  },
+  {
+    "title": "Party Party (Live)",
+    "artist": "Dwayne Dopsie & The Zydeco Hellraisers",
+    "isrc": "QM24S2305815"
+  },
+  {
+    "title": "Corina, I'm Goin' Away",
+    "artist": "Eddie Kelly's Washboard Band",
+    "isrc": "USA560530686"
+  },
+  {
+    "title": "Chitterlin' Strut",
+    "artist": "Fowler's Washboard Wonders",
+    "isrc": "USA370510646"
+  },
+  {
+    "title": "Come Back Sweet Papa",
+    "artist": "Galvanized Washboard Band, Peter Ecklund, Howard Vidal, Tommy Sancton, Mark Finks, Arthur Hovey, Julie Hovey",
+    "isrc": "US2GH9300114"
+  },
+  {
+    "title": "Some of these days",
+    "artist": "Gilbert Leroux Washboard Group",
+    "isrc": "FR0D80400560"
+  },
+  {
+    "title": "Step It up and Go",
+    "artist": "Goodtime Washboard 3",
+    "isrc": "USAP31254026"
+  },
+  {
+    "title": "Joshua Fit the Battle of Jericho (Superstar)",
+    "artist": "Gringo's Washboard Band",
+    "isrc": "BRRGE1603025"
+  },
+  {
+    "title": "Going Down South",
+    "artist": "HowellDevine",
+    "isrc": "QMEU31718241"
+  },
+  {
+    "title": "Sweet Lizzie",
+    "artist": "James Cole's Washboard Four",
+    "isrc": "USA560539805"
+  },
+  {
+    "title": "Oriental Man",
+    "artist": "Jimmy Blythe's Washboard Wizards",
+    "isrc": "FR6V80957414"
+  },
+  {
+    "title": "Switch It, Miss Mitchell Take 1",
+    "artist": "Jimmy O'Bryant's (Famous Original) Washboard Band",
+    "isrc": "QMBZ92052490"
+  },
+  {
+    "title": "Baby Please Dont Go",
+    "artist": "Joe Williams' Washboard Blues Singers",
+    "isrc": "GBG5X1215539"
+  },
+  {
+    "title": "Billy Goat Blues",
+    "artist": "John Byrd & Washboard Walter",
+    "isrc": "USA370504617"
+  },
+  {
+    "title": "Bucktown Stomp",
+    "artist": "Johnny Dodds Washboard Band",
+    "isrc": "FRZ811303019"
+  },
+  {
+    "title": "Canine Stomp",
+    "artist": "Johnny Parker's Washboard Band",
+    "isrc": "GBUM71111421"
+  },
+  {
+    "title": "The Preacher",
+    "artist": "La Planche à Dixie",
+    "isrc": "DEL441300804"
+  },
+  {
+    "title": "Washboard Dream",
+    "artist": "Morel-Atlan",
+    "isrc": "FRZ537000085"
+  },
+  {
+    "title": "Soldiers Joy",
+    "artist": "Nashville Washboard Band",
+    "isrc": "USA560570583"
+  },
+  {
+    "title": "Your Fool",
+    "artist": "Old Time Honey",
+    "isrc": "QM2PV1850723"
+  },
+  {
+    "title": "500 Miles",
+    "artist": "Onion Honey",
+    "isrc": "ushm21753775"
+  },
+  {
+    "title": "Sweet Georgia Brown",
+    "artist": "Original Washboard Band",
+    "isrc": "FRS181422736"
+  },
+  {
+    "title": "If You Knew Susie",
+    "artist": "Palatina Washboard Jassband",
+    "isrc": "DENK51400413"
+  },
+  {
+    "title": "We Gonna Move",
+    "artist": "Palooka Washboard Band",
+    "isrc": "USA370501644"
+  },
+  {
+    "title": "Skip to My Lou",
+    "artist": "Washboard Band",
+    "isrc": "USSF15620106"
+  },
+  {
+    "title": "I'm Going Back Home",
+    "artist": "Tuba Skinny",
+    "isrc": "GBWUL2255978"
+  },
+  {
+    "title": "Come on Back",
+    "artist": "Washboard Sam",
+    "isrc": "DEXO22207780"
+  },
+  {
+    "title": "Hummin' To Myself",
+    "artist": "The Washboard Rhythm Kings",
+    "isrc": "DKEFC0814909"
+  },
+  {
+    "title": "47th Street Stomp",
+    "artist": "Jimmy Bertrand's Washboard Wizards",
+    "isrc": "GBLGL0993698"
+  },
+  {
+    "title": "Oh, Oh, Oh",
+    "artist": "Washboard Chaz Blues Trio",
+    "isrc": "USQY50954043"
+  },
+  {
+    "title": "The Streamlined Rag",
+    "artist": "The Washboard Resonators",
+    "isrc": "QZNWV2185513"
+  },
+  {
+    "title": "The Minor Drag",
+    "artist": "Paris Washboard",
+    "isrc": "US4FU1228004"
+  },
+  {
+    "title": "Never Run Outta Road",
+    "artist": "The Washboard Union",
+    "isrc": "CAW112000102"
+  },
+  {
+    "title": "Cushion Foot Stomp",
+    "artist": "Clarence Williams Washboard Five",
+    "isrc": "DEKB71457197"
+  },
+  {
+    "title": "Bucktown Stomp",
+    "artist": "Johnny Dodds' Washboard Band",
+    "isrc": "USCXG1500625"
+  },
+  {
+    "title": "Wild Man Blues",
+    "artist": "Louisiana Washboard Five",
+    "isrc": "NOJMH5802090"
+  },
+  {
+    "title": "Sadie Green Vamp of New Orleans",
+    "artist": "Five Harmaniacs",
+    "isrc": "GBPS81520666"
+  },
+  {
+    "title": "I Can't Dance",
+    "artist": "The Georgia Washboard Stompers",
+    "isrc": "GBLGL0993262"
+  },
+  {
+    "title": "Wild Man Stomp",
+    "artist": "Alabama Washboard Stompers",
+    "isrc": "GBLGL0993705"
+  },
+  {
+    "title": "Shake That Thing",
+    "artist": "Jimmy O'Bryant's Washboard Band",
+    "isrc": "AUXN22364301"
+  },
+  {
+    "title": "Will You, Won't You Be My Babe?",
+    "artist": "Baker-Baldwin Radiogram Washboards",
+    "isrc": "USV351411081"
+  },
+  {
+    "title": "Forty and Tight - Take 1",
+    "artist": "Beale Street Washboard Band",
+    "isrc": "QMBZ91322310"
+  },
+  {
+    "title": "Way Down Yonder In New Orleans",
+    "artist": "Beryl Bryden",
+    "isrc": "CH0279815039"
+  },
+  {
+    "title": "Meeting At The Building - Remastered",
+    "artist": "Bob Wallis' Washboard Beaters",
+    "isrc": "UKMUY1700837"
+  },
+  {
+    "title": "Sailing Down Chesapeake Bay",
+    "artist": "Clancy Hayes & His Washboard Five",
+    "isrc": "GBDAG0102631"
+  },
+  {
+    "title": "Cushion Foot Stomp",
+    "artist": "Clarence Williams & His Washboard Band",
+    "isrc": "DEKB71457193"
+  },
+  {
+    "title": "Top of the Town",
+    "artist": "Clarence Williams' Washboard Band",
+    "isrc": "DEKB71658005"
+  },
+  {
+    "title": "Cabaret",
+    "artist": "Cleanstring",
+    "isrc": "QZFYY2248062"
+  },
+  {
+    "title": "Train of Thought",
+    "artist": "Corwin Bolt & the Wingnuts",
+    "isrc": "QZES62382071"
+  },
+  {
+    "title": "Mustard Greens",
+    "artist": "Daddy Hotcakes",
+    "isrc": "USSF16181406"
+  },
+  {
+    "title": "Nice People",
+    "artist": "Daniel and The Blonde",
+    "isrc": "QMCD61300005"
+  },
+  {
+    "title": "Macadamian Scuffle",
+    "artist": "Dave Jasen",
+    "isrc": "USSF17756107"
+  }
+]

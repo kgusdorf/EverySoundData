@@ -1,0 +1,647 @@
+[
+  {
+    "title": "La Batalla",
+    "artist": "Un Triángulo",
+    "isrc": "US7VG1707104"
+  },
+  {
+    "title": "Honey, No Estás",
+    "artist": "Bratty",
+    "isrc": "USHM21941430"
+  },
+  {
+    "title": "Sticker",
+    "artist": "Chiquete",
+    "isrc": "QZGLS2435106"
+  },
+  {
+    "title": "Distancias",
+    "artist": "Diez Veces Yo",
+    "isrc": "ushm81684418"
+  },
+  {
+    "title": "Clandestinos",
+    "artist": "Cueto",
+    "isrc": "usl4q1862463"
+  },
+  {
+    "title": "Luces",
+    "artist": "NORTE",
+    "isrc": "QZGLS2078971"
+  },
+  {
+    "title": "Ojalá Tocara en Sonic Youth",
+    "artist": "Holy Sunn",
+    "isrc": "ushm22200600"
+  },
+  {
+    "title": "Tierra",
+    "artist": "Coco",
+    "isrc": "QZES51870749"
+  },
+  {
+    "title": "Quiero Encontrar",
+    "artist": "Vaquero Kamikaze",
+    "isrc": "ushm91462896"
+  },
+  {
+    "title": "Atlas",
+    "artist": "MËTA",
+    "isrc": "QZ9Y21702218"
+  },
+  {
+    "title": "decadencia",
+    "artist": "Cxtxrsis",
+    "isrc": "USHM22462608"
+  },
+  {
+    "title": "Solar",
+    "artist": "Ultrasónico",
+    "isrc": "QZHNB2334401"
+  },
+  {
+    "title": "Aroma A Nostalgia - Versión 2021",
+    "artist": "Daniel Quién",
+    "isrc": "MXUM72006073"
+  },
+  {
+    "title": "Lágrimas",
+    "artist": "Ergo Sum",
+    "isrc": "ushm91723486"
+  },
+  {
+    "title": "Una Chica Me Dijo una Vez",
+    "artist": "Los Moustros del Espacio Exterior, María Barracuda",
+    "isrc": "QZGLS1967660"
+  },
+  {
+    "title": "Días de desesperación",
+    "artist": "La Maldición de San Judas",
+    "isrc": "QZHNB2248105"
+  },
+  {
+    "title": "Jordan",
+    "artist": "From Alaska",
+    "isrc": "FR10S1903711"
+  },
+  {
+    "title": "Oh No",
+    "artist": "Escala Cero",
+    "isrc": "QZGLM2449367"
+  },
+  {
+    "title": "The Rapture",
+    "artist": "El Golgotha",
+    "isrc": "QZ5AB1738768"
+  },
+  {
+    "title": "Eres Maldad Pura",
+    "artist": "Silencio Infinito",
+    "isrc": "US7VG1745576"
+  },
+  {
+    "title": "La Mala Vida",
+    "artist": "Malverde Blues Experience",
+    "isrc": "USDHM1413902"
+  },
+  {
+    "title": "Estaremos aquí",
+    "artist": "Veltersi",
+    "isrc": "QZFYY1987070"
+  },
+  {
+    "title": "Tus Errores",
+    "artist": "Antes de Desvanecer, Kiki Guun",
+    "isrc": "UST8K1758710"
+  },
+  {
+    "title": "Para Escapar",
+    "artist": "Mientras Tanto",
+    "isrc": "QZMEN2167489"
+  },
+  {
+    "title": "Broken Is Beautiful",
+    "artist": "Space Atlas",
+    "isrc": "uscgh1931312"
+  },
+  {
+    "title": "Aberrante Creación",
+    "artist": "Centauro",
+    "isrc": "QM4DW1851653"
+  },
+  {
+    "title": "La Siguiente Vida",
+    "artist": "Naranja Mecanica",
+    "isrc": "MXUM70901433"
+  },
+  {
+    "title": "Actos (Que Juzgar)",
+    "artist": "The Dooms",
+    "isrc": "uscgh1963910"
+  },
+  {
+    "title": "Lovesick",
+    "artist": "Juicebøx",
+    "isrc": "QZDPF1808090"
+  },
+  {
+    "title": "Space Dive",
+    "artist": "Pure Morning",
+    "isrc": "QMFME1533930"
+  },
+  {
+    "title": "Impuntuales",
+    "artist": "El Guitartista",
+    "isrc": "QZK6K2449899"
+  },
+  {
+    "title": "Lycanthropic Possession",
+    "artist": "Evilheart",
+    "isrc": "GB-SMU-32-10264"
+  },
+  {
+    "title": "Aceptarlo",
+    "artist": "Grize",
+    "isrc": "QZDA41880497"
+  },
+  {
+    "title": "Todos Mis Amigos Están Muertos",
+    "artist": "Los Desastres",
+    "isrc": "QZDA61869558"
+  },
+  {
+    "title": "Nightmare Doll",
+    "artist": "Giselle Medd",
+    "isrc": "USL4Q2331831"
+  },
+  {
+    "title": "Cosmonauta",
+    "artist": "Parque Madero",
+    "isrc": "ushm91728717"
+  },
+  {
+    "title": "Quién Fui Yo",
+    "artist": "Brenda Rosh",
+    "isrc": "QZHZ32095699"
+  },
+  {
+    "title": "Ven",
+    "artist": "Beretta",
+    "isrc": "USDHM1616993"
+  },
+  {
+    "title": "Soy Tomatero",
+    "artist": "Polosum",
+    "isrc": "ushm81641939"
+  },
+  {
+    "title": "La Chica del Suéter Negro",
+    "artist": "Mas Allá del Horizonte",
+    "isrc": "QZ22B1977117"
+  },
+  {
+    "title": "Un Punto Al Ska",
+    "artist": "Libertones",
+    "isrc": "QZDFP1841415"
+  },
+  {
+    "title": "Mil Millas",
+    "artist": "Tres Noventa",
+    "isrc": "QZ5AB2055174"
+  },
+  {
+    "title": "Al Anochecer!",
+    "artist": "Smoke Dust",
+    "isrc": "QZ8LD1796449"
+  },
+  {
+    "title": "Waves",
+    "artist": "Entrust",
+    "isrc": "TCADR1851013"
+  },
+  {
+    "title": "Diskette",
+    "artist": "Gravy Indie Union",
+    "isrc": "MXF821100251"
+  },
+  {
+    "title": "No Te Vayas",
+    "artist": "Arlot",
+    "isrc": "RUA1H1732396"
+  },
+  {
+    "title": "No Respondes",
+    "artist": "Atomic Rodeo",
+    "isrc": "RUA1H1741883"
+  },
+  {
+    "title": "Harde Kår",
+    "artist": "Bløff",
+    "isrc": "QZK6J2242699"
+  },
+  {
+    "title": "Algodón",
+    "artist": "Coco",
+    "isrc": "QM4TX2363984"
+  },
+  {
+    "title": "Dolphins",
+    "artist": "Haiku",
+    "isrc": "usdy41711958"
+  },
+  {
+    "title": "Maquinas (Synth Version)",
+    "artist": "Human Praxis",
+    "isrc": "AEA0D1862486"
+  },
+  {
+    "title": "I'm Coming Home",
+    "artist": "Ian Rosewood",
+    "isrc": "TCACJ1569684"
+  },
+  {
+    "title": "No Me Quiero Descomponer",
+    "artist": "Los Nuevos Episodios",
+    "isrc": "usdy41770620"
+  },
+  {
+    "title": "I'm Stretched on Your Grave",
+    "artist": "Mal Necesario, Leslie Belop",
+    "isrc": "FR10S1923734"
+  },
+  {
+    "title": "Donde Dos o Tres",
+    "artist": "Manuel Butchart",
+    "isrc": "ushm81828292"
+  },
+  {
+    "title": "Trágame Tierra",
+    "artist": "Mañana En Tres Años",
+    "isrc": "TCACL1637460"
+  },
+  {
+    "title": "Broken Dreams",
+    "artist": "Of Vultures",
+    "isrc": "GB-SMU-34-96355"
+  },
+  {
+    "title": "Depende de los Dos",
+    "artist": "Palabras De Julia",
+    "isrc": "TCACT1616124"
+  },
+  {
+    "title": "Penta",
+    "artist": "Red Quills",
+    "isrc": "QM2PV1769158"
+  },
+  {
+    "title": "Party Wine",
+    "artist": "Rootsterford",
+    "isrc": "MX4811300148"
+  },
+  {
+    "title": "Welcome to My Mind",
+    "artist": "Stompdown",
+    "isrc": "FR2X41770337"
+  },
+  {
+    "title": "Do You Know What This Reminds Me Of?",
+    "artist": "Tomm",
+    "isrc": "AEA0D1809324"
+  },
+  {
+    "title": "Under the Moonlight",
+    "artist": "Windtrails",
+    "isrc": "ushm91766173"
+  },
+  {
+    "title": "Este Sentimiento",
+    "artist": "Un Triángulo",
+    "isrc": "US7VG1707103"
+  },
+  {
+    "title": "Continental",
+    "artist": "Bratty, Nsqk, Méne",
+    "isrc": "MXUM72300001"
+  },
+  {
+    "title": "Tú Eres Mi Razón",
+    "artist": "Chiquete",
+    "isrc": "US7VG2463836"
+  },
+  {
+    "title": "Cenizas (feat. Will Taller & Niño)",
+    "artist": "Diez Veces Yo, Will Taller, Nino",
+    "isrc": "ushm81546378"
+  },
+  {
+    "title": "Nuestra Utopía",
+    "artist": "Cueto",
+    "isrc": "USHM22451235"
+  },
+  {
+    "title": "Gris",
+    "artist": "NORTE",
+    "isrc": "QMPKX1898568"
+  },
+  {
+    "title": "F en el Chat",
+    "artist": "Holy Sunn",
+    "isrc": "QZW9M2201930"
+  },
+  {
+    "title": "Princess",
+    "artist": "Coco",
+    "isrc": "QZES51870743"
+  },
+  {
+    "title": "Cuándo",
+    "artist": "Vaquero Kamikaze",
+    "isrc": "ushm21681903"
+  },
+  {
+    "title": "Perderlo Todo",
+    "artist": "MËTA",
+    "isrc": "QZ9Y21702212"
+  },
+  {
+    "title": "De la Soledad Aprendí Todo Lo Que Sé",
+    "artist": "Cxtxrsis",
+    "isrc": "ushm91750398"
+  },
+  {
+    "title": "Twins",
+    "artist": "Ultrasónico",
+    "isrc": "QZRP52305461"
+  },
+  {
+    "title": "Saraperos de Saltillo",
+    "artist": "Ergo Sum",
+    "isrc": "USHM22400196"
+  },
+  {
+    "title": "Otros Colores",
+    "artist": "Daniel Quién, Bratty",
+    "isrc": "MXUM72008376"
+  },
+  {
+    "title": "Mi Traje Nuevo",
+    "artist": "Los Moustros del Espacio Exterior",
+    "isrc": "TCACH1595425"
+  },
+  {
+    "title": "Esto no es un adiós sino un hasta siempre",
+    "artist": "La Maldición de San Judas",
+    "isrc": "QM4DW1740864"
+  },
+  {
+    "title": "Fantasmas",
+    "artist": "From Alaska",
+    "isrc": "FR10S1903709"
+  },
+  {
+    "title": "Volver",
+    "artist": "Escala Cero",
+    "isrc": "QZDA41812234"
+  },
+  {
+    "title": "Cristo la Roca",
+    "artist": "El Golgotha",
+    "isrc": "QZ5AB1738775"
+  },
+  {
+    "title": "Flotar",
+    "artist": "Silencio Infinito, studio sum",
+    "isrc": "QZHZ42036326"
+  },
+  {
+    "title": "Big Bad Wolf",
+    "artist": "Malverde Blues Experience",
+    "isrc": "USDHM1413903"
+  },
+  {
+    "title": "Sálvame",
+    "artist": "Veltersi",
+    "isrc": "QZAPG1731084"
+  },
+  {
+    "title": "Solo",
+    "artist": "Antes de Desvanecer",
+    "isrc": "UST8K1758709"
+  },
+  {
+    "title": "Mártir (Sesiones Carpa Alterna)",
+    "artist": "Mientras Tanto",
+    "isrc": "uscgh2048225"
+  },
+  {
+    "title": "Brand New Air",
+    "artist": "Space Atlas",
+    "isrc": "ushm91862980"
+  },
+  {
+    "title": "El Derecho del Mártir",
+    "artist": "Centauro",
+    "isrc": "QM4DW1851657"
+  },
+  {
+    "title": "Amor Automático",
+    "artist": "Naranja Mecanica",
+    "isrc": "MXUM71901352"
+  },
+  {
+    "title": "Why",
+    "artist": "The Dooms",
+    "isrc": "ushm21739957"
+  },
+  {
+    "title": "Dreaming",
+    "artist": "Juicebøx",
+    "isrc": "QZDPF1808089"
+  },
+  {
+    "title": "Louder",
+    "artist": "Pure Morning",
+    "isrc": "QMFME1533932"
+  },
+  {
+    "title": "Esa Chica",
+    "artist": "El Guitartista, Zahid Aranda",
+    "isrc": "QZCE61818963"
+  },
+  {
+    "title": "Storm Of Annihilation",
+    "artist": "Evilheart",
+    "isrc": "GB-SMU-31-55532"
+  },
+  {
+    "title": "Mis Desastres",
+    "artist": "Grize",
+    "isrc": "QZDA41880500"
+  },
+  {
+    "title": "Estos Gritos Son El Resultado De Los Momentos Que Pasé Contigo",
+    "artist": "Los Desastres",
+    "isrc": "QZDA61869556"
+  },
+  {
+    "title": "Skinny",
+    "artist": "Giselle Medd",
+    "isrc": "usl4q2099396"
+  },
+  {
+    "title": "Ácido",
+    "artist": "Parque Madero",
+    "isrc": "ushm91728722"
+  },
+  {
+    "title": "Con Toda el Alma",
+    "artist": "Brenda Rosh",
+    "isrc": "USDXS2201211"
+  },
+  {
+    "title": "Loco",
+    "artist": "Beretta",
+    "isrc": "USDHM1616985"
+  },
+  {
+    "title": "Tres Minutos",
+    "artist": "Polosum, Gustavo Enriquez",
+    "isrc": "usdy41865945"
+  },
+  {
+    "title": "Sueños de Ti",
+    "artist": "Mas Allá del Horizonte",
+    "isrc": "QZ22B1977120"
+  },
+  {
+    "title": "Si Ella Muere Tú También Estás Muerto",
+    "artist": "Libertones",
+    "isrc": "QZDFP1841416"
+  },
+  {
+    "title": "Sin Pisar",
+    "artist": "Tres Noventa",
+    "isrc": "QZ5AB1872429"
+  },
+  {
+    "title": "Sunny Day",
+    "artist": "Smoke Dust",
+    "isrc": "QZ8LD1796448"
+  },
+  {
+    "title": "Culichi Sunset",
+    "artist": "Un Triángulo",
+    "isrc": "US7VG1707105"
+  },
+  {
+    "title": "A Nuestro Modo",
+    "artist": "Chiquete",
+    "isrc": "US7VG2319376"
+  },
+  {
+    "title": "VIII",
+    "artist": "Diez Veces Yo",
+    "isrc": "ushm92240796"
+  },
+  {
+    "title": "Quédate",
+    "artist": "Bratty",
+    "isrc": "USHM21941432"
+  },
+  {
+    "title": "Tocate",
+    "artist": "Cueto",
+    "isrc": "USDHM1421376"
+  },
+  {
+    "title": "No Hay Futuro",
+    "artist": "NORTE",
+    "isrc": "QZHNC1964214"
+  },
+  {
+    "title": "Pdv",
+    "artist": "Holy Sunn",
+    "isrc": "QZTVM2360581"
+  },
+  {
+    "title": "Anemoia",
+    "artist": "Coco",
+    "isrc": "QZES51965597"
+  },
+  {
+    "title": "Volar",
+    "artist": "Vaquero Kamikaze",
+    "isrc": "uscgj1792996"
+  },
+  {
+    "title": "La Mamba Negra",
+    "artist": "MËTA",
+    "isrc": "QZ9Y21702215"
+  },
+  {
+    "title": "De la Soledad Aprendí Todo Lo Que Sé (2019)",
+    "artist": "Cxtxrsis",
+    "isrc": "ushm92266246"
+  },
+  {
+    "title": "Solar - Sal Gallegos Remix",
+    "artist": "Ultrasónico, Sal Gallegos",
+    "isrc": "QZES82415716"
+  },
+  {
+    "title": "Al Filo de la Soledad",
+    "artist": "Ergo Sum",
+    "isrc": "ushm91714836"
+  },
+  {
+    "title": "Poetas En Las Cuevas",
+    "artist": "Daniel Quién",
+    "isrc": "MXUM72006066"
+  },
+  {
+    "title": "Alocadamente (Bonus Track)",
+    "artist": "Los Moustros del Espacio Exterior",
+    "isrc": "TCACJ1508816"
+  },
+  {
+    "title": "Traumado",
+    "artist": "La Maldición de San Judas",
+    "isrc": "QM4DW1740861"
+  },
+  {
+    "title": "Miedos",
+    "artist": "From Alaska",
+    "isrc": "FR10S1903714"
+  },
+  {
+    "title": "Adiós",
+    "artist": "Escala Cero",
+    "isrc": "QZDA41812302"
+  },
+  {
+    "title": "El Llamado de los Santos",
+    "artist": "El Golgotha",
+    "isrc": "ushm82021726"
+  },
+  {
+    "title": "¿A Que Estas Jugando?",
+    "artist": "Silencio Infinito, studio sum",
+    "isrc": "QZHZ42036325"
+  },
+  {
+    "title": "Tamazula River Mama",
+    "artist": "Malverde Blues Experience",
+    "isrc": "USDHM1413901"
+  },
+  {
+    "title": "Que será",
+    "artist": "Veltersi",
+    "isrc": "QZK6Q1902665"
+  },
+  {
+    "title": "Jaimico",
+    "artist": "Antes de Desvanecer",
+    "isrc": "QZES62289589"
+  }
+]

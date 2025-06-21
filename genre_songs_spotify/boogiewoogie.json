@@ -1,0 +1,822 @@
+[
+  {
+    "title": "Honky Tonk Train Blues",
+    "artist": "Meade \"Lux\" Lewis",
+    "isrc": "USA560649287"
+  },
+  {
+    "title": "Boogie Woogie Prayer",
+    "artist": "Albert Ammons, Meade \"Lux\" Lewis",
+    "isrc": "DEUD92302463"
+  },
+  {
+    "title": "Dollar Bill Boogie",
+    "artist": "Big Joe Duskin",
+    "isrc": "USAP39542216"
+  },
+  {
+    "title": "Chimes Blues",
+    "artist": "Charles \"Cow Cow\" Davenport",
+    "isrc": "USA560530261"
+  },
+  {
+    "title": "Yancey Stomp",
+    "artist": "Jimmy Yancey",
+    "isrc": "GB8XC1410271"
+  },
+  {
+    "title": "Boogie Stomp",
+    "artist": "Bob Seeley, Bob Baldori",
+    "isrc": "TCABZ1454134"
+  },
+  {
+    "title": "Detroit Rocks",
+    "artist": "Montana Taylor",
+    "isrc": "GBPS81525231"
+  },
+  {
+    "title": "627 Stomp (11-11-40)",
+    "artist": "Pete Johnson",
+    "isrc": "USA560921756"
+  },
+  {
+    "title": "The Dirty Dozen",
+    "artist": "Speckled Red",
+    "isrc": "USA560540153"
+  },
+  {
+    "title": "Caroline's Boogie",
+    "artist": "Caroline Dahl",
+    "isrc": "US4FU0402601"
+  },
+  {
+    "title": "Pinetop Boogie woogie",
+    "artist": "Pinetop Perkins",
+    "isrc": "FR6V87600220"
+  },
+  {
+    "title": "One Scotch, One Bourbon, One Beer",
+    "artist": "Little Willie Littlefield, The Jivin' Jewels",
+    "isrc": "DEE840894000"
+  },
+  {
+    "title": "Gettin' Dirty Just Shakin' That Thing",
+    "artist": "Romeo Nelson",
+    "isrc": "USA560529725"
+  },
+  {
+    "title": "Two-Fisted Mama",
+    "artist": "Katie Webster",
+    "isrc": "USARL8977701"
+  },
+  {
+    "title": "Strut That Thing",
+    "artist": "Cripple Clarence Lofton",
+    "isrc": "USA370501347"
+  },
+  {
+    "title": "West Coast Rag",
+    "artist": "Will Ezell",
+    "isrc": "USA370502161"
+  },
+  {
+    "title": "Boogie In \"G\"",
+    "artist": "Camille Howard",
+    "isrc": "USSPI9300206"
+  },
+  {
+    "title": "Swanee River Boogie",
+    "artist": "Axel Zwingenberger",
+    "isrc": "DEF069112640"
+  },
+  {
+    "title": "Dancin' The Boogie",
+    "artist": "Silvan Zingg",
+    "isrc": "usl4q0787985"
+  },
+  {
+    "title": "Pratt City Blues",
+    "artist": "Jabo Williams",
+    "isrc": "USA561344348"
+  },
+  {
+    "title": "Booker's Boogie",
+    "artist": "Booker T. Laury",
+    "isrc": "ATW161592910"
+  },
+  {
+    "title": "Big Chief - Remastered",
+    "artist": "Professor Longhair",
+    "isrc": "USARL1271801"
+  },
+  {
+    "title": "Pinetop's Boogie Woogie - Remaster",
+    "artist": "Pinetop Smith",
+    "isrc": "GBSMU7257020"
+  },
+  {
+    "title": "Salute To Basie",
+    "artist": "Sammy Price",
+    "isrc": "FR6V80210104"
+  },
+  {
+    "title": "Ain't Nobody's Business",
+    "artist": "Otis Spann",
+    "isrc": "GBBBN6902090"
+  },
+  {
+    "title": "I Wish I Could Shimmy Like My Sister Kate",
+    "artist": "Blind John Davis",
+    "isrc": "NLK530700309"
+  },
+  {
+    "title": "Red Cross Blues",
+    "artist": "Walter Roland",
+    "isrc": "USA560530293"
+  },
+  {
+    "title": "Soon This Morning Blues",
+    "artist": "Charlie Spand",
+    "isrc": "USA560555840"
+  },
+  {
+    "title": "Solfeggietto",
+    "artist": "Luca Sestak",
+    "isrc": "DECY92400847"
+  },
+  {
+    "title": "Sue's Boogie",
+    "artist": "Sue Palmer",
+    "isrc": "ushm20428941"
+  },
+  {
+    "title": "Henry's House Rocker (feat. Kid Ramos & Kim Wilson) - Live",
+    "artist": "Henry Gray, Floyd Dixon, Kim Wilson, Kid Ramos",
+    "isrc": "USX2V0610015"
+  },
+  {
+    "title": "Stompin' At the 'subway'",
+    "artist": "Christian Bleiming",
+    "isrc": "DED339362260"
+  },
+  {
+    "title": "Rockin' with Red - Remastered 2002",
+    "artist": "Piano Red",
+    "isrc": "USBB10200509"
+  },
+  {
+    "title": "Boogie Woogie Drive",
+    "artist": "Martin Pyrker",
+    "isrc": "ATM830602001"
+  },
+  {
+    "title": "How Long Blues",
+    "artist": "Michael Pewny, Torsten Zwingenberger",
+    "isrc": "ATB059400011"
+  },
+  {
+    "title": "Ferry Crossing Blues",
+    "artist": "Frank Muschalle, Stephan Holstein",
+    "isrc": "DEGR82218568"
+  },
+  {
+    "title": "Get in the Groove, Boys!",
+    "artist": "Henning Pertiet",
+    "isrc": "DEZ650508212"
+  },
+  {
+    "title": "Everything Gonna Be Alright",
+    "artist": "Little Brother Montgomery, Mack Thompson, Willie Dixon",
+    "isrc": "USA561258626"
+  },
+  {
+    "title": "Blues O'Clock",
+    "artist": "Jean-Pierre Bertrand, Frank Muschalle, Dani Gugolz, Peter Müller",
+    "isrc": "FRZ731500069"
+  },
+  {
+    "title": "Red's Boogie",
+    "artist": "Boogie Woogie Red",
+    "isrc": "GB2DM7302003"
+  },
+  {
+    "title": "8 to the Bar",
+    "artist": "Ladyva",
+    "isrc": "CH0321500356"
+  },
+  {
+    "title": "Fat Girl Boogie",
+    "artist": "Rob Rio",
+    "isrc": "uscgh0637013"
+  },
+  {
+    "title": "Beer Bottles Boogie",
+    "artist": "Hannes Otahal",
+    "isrc": "ATLA51100404"
+  },
+  {
+    "title": "Boogie Woogie Country Girl",
+    "artist": "Vince Weber",
+    "isrc": "DEE840591400"
+  },
+  {
+    "title": "Crazy Blues",
+    "artist": "Clarence Williams",
+    "isrc": "DEZZ42170753"
+  },
+  {
+    "title": "Lafayette Boogie",
+    "artist": "Hamp Garnett",
+    "isrc": "FRZ530000003"
+  },
+  {
+    "title": "C.C. Rider",
+    "artist": "Mitch Woods, Van Morrison, Taj Mahal",
+    "isrc": "QM6N22384068"
+  },
+  {
+    "title": "Walkin' and Squalkin'",
+    "artist": "Carl Sonny Leyland",
+    "isrc": "USS2A9511705"
+  },
+  {
+    "title": "Honky Tonk",
+    "artist": "Tuts Washington",
+    "isrc": "USRO28650105"
+  },
+  {
+    "title": "12th Street Rag",
+    "artist": "Jan Preston",
+    "isrc": "NZJR00900784"
+  },
+  {
+    "title": "Weary Way Blues",
+    "artist": "Jimmy Blythe, Johnny Dodds",
+    "isrc": "NLA410910269"
+  },
+  {
+    "title": "Slider",
+    "artist": "Boogie Woogie Kid",
+    "isrc": "uscgh0917613"
+  },
+  {
+    "title": "All Shook Up",
+    "artist": "Nico Brina",
+    "isrc": "DEE841424750"
+  },
+  {
+    "title": "Monkey Man",
+    "artist": "Jools Holland, Amy Winehouse",
+    "isrc": "GBCRL1400279"
+  },
+  {
+    "title": "In The Rain",
+    "artist": "Deanna Bogart",
+    "isrc": "USBP11214801"
+  },
+  {
+    "title": "Boogie Woogie Man",
+    "artist": "Albert Ammons & Pete Johnson",
+    "isrc": "USA560649291"
+  },
+  {
+    "title": "Boogie Woogie Home Run (feat. Jörg Hegemann)",
+    "artist": "Peter B.-Reber",
+    "isrc": "ATM831004510"
+  },
+  {
+    "title": "Piggly Wiggly Blues",
+    "artist": "James Crutchfield",
+    "isrc": "NLB361094101"
+  },
+  {
+    "title": "Black Gal, What Makes Your Head So Hard? - Remastered 2002",
+    "artist": "Joe Pullum, Robert Cooper",
+    "isrc": "USBB10200549"
+  },
+  {
+    "title": "Boogie in the City",
+    "artist": "Dave Taylor",
+    "isrc": "ushm82051300"
+  },
+  {
+    "title": "Black And White Rag",
+    "artist": "Winifred Atwell",
+    "isrc": "DEXN82256720"
+  },
+  {
+    "title": "Suitcase Blues",
+    "artist": "Hersal Thomas",
+    "isrc": "USSM10028371"
+  },
+  {
+    "title": "Turn It Up",
+    "artist": "Michael Kaeshammer",
+    "isrc": "CAL352200073"
+  },
+  {
+    "title": "Junker Blues",
+    "artist": "Jack Dupree",
+    "isrc": "USA560963842"
+  },
+  {
+    "title": "Where Did My Baby Go?",
+    "artist": "Kenny \"Blue Boss\" Wayne",
+    "isrc": "CAE410500144"
+  },
+  {
+    "title": "Stroll Out West",
+    "artist": "Eddie Taylor",
+    "isrc": "GB8XC1411266"
+  },
+  {
+    "title": "Pianorepairman Boogie",
+    "artist": "Mr Boogie Woogie",
+    "isrc": "uscgh0774275"
+  },
+  {
+    "title": "I Just Want To Sing",
+    "artist": "Dorothy Donegan",
+    "isrc": "DKEFA0101601"
+  },
+  {
+    "title": "Jessie's Boogie Woogie",
+    "artist": "Preacher Jack",
+    "isrc": "USRO29734508"
+  },
+  {
+    "title": "Big Bigger Boogie (Live)",
+    "artist": "Stefan Ulbricht",
+    "isrc": "ushm81314506"
+  },
+  {
+    "title": "Havin' Fun",
+    "artist": "Big Bill Morganfield",
+    "isrc": "USDHM1306452"
+  },
+  {
+    "title": "West Side Woman",
+    "artist": "Lovie Lee",
+    "isrc": "USA560574256"
+  },
+  {
+    "title": "Somebody Have Mercy",
+    "artist": "Luther \"Guitar Junior\" Johnson",
+    "isrc": "USARL8070405"
+  },
+  {
+    "title": "Count Basie's Red Bank Cafe",
+    "artist": "Floyd Domino",
+    "isrc": "USLN70812636"
+  },
+  {
+    "title": "Marc's-Boogie",
+    "artist": "Marcs Boogie",
+    "isrc": "ESAAI0203004"
+  },
+  {
+    "title": "Boogie-Woogie Man",
+    "artist": "Piano Connection, Marcs Boogie",
+    "isrc": "CH0279915018"
+  },
+  {
+    "title": "J.B's Boogie",
+    "artist": "Johan Blohm",
+    "isrc": "SEVGT0500915"
+  },
+  {
+    "title": "Shimmy",
+    "artist": "Jump4joy",
+    "isrc": "SEWHH0900304"
+  },
+  {
+    "title": "It Hurts Me Too",
+    "artist": "Bruce Katz Band",
+    "isrc": "QMTFR1900993"
+  },
+  {
+    "title": "Cadillac Boogie",
+    "artist": "Jimmy Liggins and His Drops Of Joy",
+    "isrc": "USSPI4800029"
+  },
+  {
+    "title": "Meade'S Blues",
+    "artist": "Meade \"Lux\" Lewis",
+    "isrc": "USA560649302"
+  },
+  {
+    "title": "Boogie Woogie Stomp",
+    "artist": "Albert Ammons",
+    "isrc": "USBN20500300"
+  },
+  {
+    "title": "Every Day I Have the Blues",
+    "artist": "Big Joe Duskin",
+    "isrc": "USYDR0413302"
+  },
+  {
+    "title": "State Street Jive",
+    "artist": "Charles \"Cow Cow\" Davenport, Ivy Smith",
+    "isrc": "USA370640673"
+  },
+  {
+    "title": "Make Me a Pallet on the Floor",
+    "artist": "Jimmy Yancey, Mama Yancey",
+    "isrc": "USAJ10100070"
+  },
+  {
+    "title": "Sixth Avenue Express",
+    "artist": "Bob Seeley, Lluís Coloma",
+    "isrc": "ES7710652101"
+  },
+  {
+    "title": "Indiana Avenue Stomp",
+    "artist": "Montana Taylor",
+    "isrc": "US7SF1354619"
+  },
+  {
+    "title": "Mutiny In The Doghouse (01-26-46)",
+    "artist": "Pete Johnson",
+    "isrc": "USA560921785"
+  },
+  {
+    "title": "How Long Blues",
+    "artist": "Speckled Red",
+    "isrc": "USSF16155509"
+  },
+  {
+    "title": "A Boogie Woogie Sunday",
+    "artist": "Caroline Dahl",
+    "isrc": "QMFAS1300003"
+  },
+  {
+    "title": "Take It Easy",
+    "artist": "Pinetop Perkins",
+    "isrc": "US2AH0400032"
+  },
+  {
+    "title": "K.C. Loving",
+    "artist": "Little Willie Littlefield",
+    "isrc": "USACU0501071"
+  },
+  {
+    "title": "Head Rag Hop",
+    "artist": "Romeo Nelson",
+    "isrc": "USA560529724"
+  },
+  {
+    "title": "I'm Still Leaving You",
+    "artist": "Katie Webster",
+    "isrc": "USARL8977709"
+  },
+  {
+    "title": "Brown Skin Girls",
+    "artist": "Cripple Clarence Lofton",
+    "isrc": "USA370501350"
+  },
+  {
+    "title": "Heifer Dust",
+    "artist": "Will Ezell",
+    "isrc": "NLHR52102989"
+  },
+  {
+    "title": "Has Your Love Grown Cold? - Vocal",
+    "artist": "Camille Howard",
+    "isrc": "USSPI4800025"
+  },
+  {
+    "title": "Pinetop's Blues",
+    "artist": "Axel Zwingenberger",
+    "isrc": "DEF069112510"
+  },
+  {
+    "title": "Jumpin The 88's",
+    "artist": "Silvan Zingg",
+    "isrc": "ushm80938737"
+  },
+  {
+    "title": "Polock Blues",
+    "artist": "Jabo Williams",
+    "isrc": "USBS99201220"
+  },
+  {
+    "title": "Early in the Morning",
+    "artist": "Booker T. Laury",
+    "isrc": "USSF19911812"
+  },
+  {
+    "title": "Pinetop's Boogie Woogie",
+    "artist": "Pinetop Smith",
+    "isrc": "FR4HR1808124"
+  },
+  {
+    "title": "Bird in a Cage",
+    "artist": "Otis Spann",
+    "isrc": "GB03A1400126"
+  },
+  {
+    "title": "Claudia In The Crowd",
+    "artist": "Sammy Price",
+    "isrc": "FR6V89904983"
+  },
+  {
+    "title": "Alley Woman Blues",
+    "artist": "Blind John Davis",
+    "isrc": "GBLGL0955700"
+  },
+  {
+    "title": "Hey Now Baby (Reprise)",
+    "artist": "Professor Longhair",
+    "isrc": "GBLGL1289891"
+  },
+  {
+    "title": "Jookit Jookit",
+    "artist": "Walter Roland",
+    "isrc": "US7SF1354562"
+  },
+  {
+    "title": "Fetch Your Water",
+    "artist": "Charlie Spand",
+    "isrc": "USA560555846"
+  },
+  {
+    "title": "Down The Road Apiece",
+    "artist": "Sue Palmer",
+    "isrc": "ushm20428936"
+  },
+  {
+    "title": "Minute Waltz",
+    "artist": "Luca Sestak",
+    "isrc": "DECY92400848"
+  },
+  {
+    "title": "Sweet Home Chicago (feat. Kid Ramos & Kim Wilson) - Live",
+    "artist": "Henry Gray, Floyd Dixon, Kim Wilson, Kid Ramos",
+    "isrc": "USX2V0610016"
+  },
+  {
+    "title": "Big Rock Joe From Kokomo",
+    "artist": "Piano Red",
+    "isrc": "USX7N0914910"
+  },
+  {
+    "title": "Boogie-Woogie On a Riff",
+    "artist": "Christian Bleiming",
+    "isrc": "DED339362140"
+  },
+  {
+    "title": "Sabine's Jive (feat. Sabine Pyrker)",
+    "artist": "Martin Pyrker",
+    "isrc": "ATM830904001"
+  },
+  {
+    "title": "Mecca Flat Blues",
+    "artist": "Michael Pewny",
+    "isrc": "ATB059200017"
+  },
+  {
+    "title": "If You're Not Mine",
+    "artist": "Frank Muschalle, Stephan Holstein",
+    "isrc": "DEGR82218560"
+  },
+  {
+    "title": "The Fives",
+    "artist": "Henning Pertiet",
+    "isrc": "DEZ650508208"
+  },
+  {
+    "title": "Keep Drinkin'",
+    "artist": "Little Brother Montgomery",
+    "isrc": "US2Y30622266"
+  },
+  {
+    "title": "Viper Song",
+    "artist": "Boogie Woogie Red",
+    "isrc": "GB2DM7302001"
+  },
+  {
+    "title": "Boogie Woogie Blues",
+    "artist": "Jean-Pierre Bertrand, Frank Muschalle, Dani Gugolz, Peter Müller",
+    "isrc": "FRZ731500072"
+  },
+  {
+    "title": "Boogie Woogie Stomp",
+    "artist": "Ladyva",
+    "isrc": "uscgh1852407"
+  },
+  {
+    "title": "I Want To Be Seduced",
+    "artist": "Rob Rio, The Revolvers",
+    "isrc": "uscgh0642576"
+  },
+  {
+    "title": "Jump For Joy",
+    "artist": "Hannes Otahal",
+    "isrc": "ATLA51100401"
+  },
+  {
+    "title": "You've Got To Serve Somebody",
+    "artist": "Vince Weber",
+    "isrc": "ATM830903915"
+  },
+  {
+    "title": "Everybody Loves My Baby",
+    "artist": "Clarence Williams",
+    "isrc": "DEZZ42170741"
+  },
+  {
+    "title": "Big Bug Boogie",
+    "artist": "Hamp Garnett",
+    "isrc": "FRZ530000004"
+  },
+  {
+    "title": "Big Easy Boogie",
+    "artist": "Mitch Woods",
+    "isrc": "US2Y30611250"
+  },
+  {
+    "title": "Take off and Gallop Boogie",
+    "artist": "Carl Sonny Leyland",
+    "isrc": "USCGJ2463544"
+  },
+  {
+    "title": "Do You Know What It Means To Miss New Orleans",
+    "artist": "Tuts Washington",
+    "isrc": "USRO28650104"
+  },
+  {
+    "title": "Blueberry Hill",
+    "artist": "Jan Preston",
+    "isrc": "NZJR00900815"
+  },
+  {
+    "title": "Oriental Man",
+    "artist": "Jimmy Blythe, Johnny Dodds",
+    "isrc": "NLA410910274"
+  },
+  {
+    "title": "Five Stacked High",
+    "artist": "Boogie Woogie Kid",
+    "isrc": "uscgh0917606"
+  },
+  {
+    "title": "Rabbit's Blues",
+    "artist": "Nico Brina",
+    "isrc": "CH3741000006"
+  },
+  {
+    "title": "Unkl Funkl - instrumental",
+    "artist": "Deanna Bogart, Dan Leonard, Scott Ambush, Mike Aubin",
+    "isrc": "USGSY0910009"
+  },
+  {
+    "title": "Movin' The Boogie",
+    "artist": "Albert Ammons & Pete Johnson",
+    "isrc": "DEU240523360"
+  },
+  {
+    "title": "I Think It's Going to Rain Today",
+    "artist": "Jools Holland, David Gray",
+    "isrc": "GBCRL0300077"
+  },
+  {
+    "title": "Chicago Flyer (08-22-44)",
+    "artist": "Meade \"Lux\" Lewis",
+    "isrc": "USA560921708"
+  },
+  {
+    "title": "Barrelhouse Boogie",
+    "artist": "Albert Ammons",
+    "isrc": "DEUD92302453"
+  },
+  {
+    "title": "Cincinnati Stomp",
+    "artist": "Big Joe Duskin",
+    "isrc": "USAP39542204"
+  },
+  {
+    "title": "Cow Cow Blues (Take A)",
+    "artist": "Charles \"Cow Cow\" Davenport",
+    "isrc": "USA560530253"
+  },
+  {
+    "title": "La Salle Street Breakdown",
+    "artist": "Jimmy Yancey",
+    "isrc": "GB8XC1410261"
+  },
+  {
+    "title": "Boogie Woogie Dream",
+    "artist": "Bob Seeley, Lluís Coloma",
+    "isrc": "ES7710652105"
+  },
+  {
+    "title": "Worried Jailhouse Blues",
+    "artist": "Montana Taylor, Chippie Hill",
+    "isrc": "GBPS81525233"
+  },
+  {
+    "title": "Atomic Boogie",
+    "artist": "Pete Johnson",
+    "isrc": "USSJ10001054"
+  },
+  {
+    "title": "The Dirty Dozen No. 2",
+    "artist": "Speckled Red",
+    "isrc": "USA560540155"
+  },
+  {
+    "title": "Bluegrass Boogie Woogie",
+    "artist": "Caroline Dahl",
+    "isrc": "US4FU0402610"
+  },
+  {
+    "title": "Blues After Hours",
+    "artist": "Pinetop Perkins",
+    "isrc": "USARL7870214"
+  },
+  {
+    "title": "New Pinetop’s Boogie Woogie",
+    "artist": "Little Willie Littlefield, The Jivin' Jewels",
+    "isrc": "DEE840894010"
+  },
+  {
+    "title": "1129 Blues (The Midnight Special)",
+    "artist": "Romeo Nelson",
+    "isrc": "USA560529727"
+  },
+  {
+    "title": "Sixes And Sevens",
+    "artist": "Cripple Clarence Lofton",
+    "isrc": "GBLGL0827094"
+  },
+  {
+    "title": "C.Q. Boogie",
+    "artist": "Katie Webster",
+    "isrc": "USARL8977704"
+  },
+  {
+    "title": "Barrelhouse Man",
+    "artist": "Anonymous, Will Ezell",
+    "isrc": "USA4A0901129"
+  },
+  {
+    "title": "Fluff Boogie",
+    "artist": "Camille Howard",
+    "isrc": "USSPI9600221"
+  },
+  {
+    "title": "Bass Goin Crazy",
+    "artist": "Axel Zwingenberger",
+    "isrc": "DEF069112600"
+  },
+  {
+    "title": "Honky Tonk Train Blues (M.L.Lewis)",
+    "artist": "Silvan Zingg",
+    "isrc": "ushm80938746"
+  },
+  {
+    "title": "Fat Mama Blues",
+    "artist": "Jabo Williams",
+    "isrc": "USBS99101120"
+  },
+  {
+    "title": "Early In The Morning",
+    "artist": "Booker T. Laury",
+    "isrc": "GBLFP1651702"
+  },
+  {
+    "title": "I'm Sober Now",
+    "artist": "Pinetop Smith",
+    "isrc": "AUXN22367323"
+  },
+  {
+    "title": "Everyday I Have the Blues",
+    "artist": "Blind John Davis",
+    "isrc": "NLK530700304"
+  },
+  {
+    "title": "Goodbye Paris",
+    "artist": "Sammy Price",
+    "isrc": "DES201527013"
+  },
+  {
+    "title": "Someday (Electric)",
+    "artist": "Otis Spann",
+    "isrc": "ushm21233016"
+  },
+  {
+    "title": "Tipitina (Alternative)",
+    "artist": "Professor Longhair",
+    "isrc": "GBLGL1289912"
+  },
+  {
+    "title": "Every Morning Blues",
+    "artist": "Walter Roland",
+    "isrc": "USSM10028685"
+  },
+  {
+    "title": "Evil Woman Spell",
+    "artist": "Charlie Spand",
+    "isrc": "USA560529855"
+  }
+]

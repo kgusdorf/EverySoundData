@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Spiked",
+    "artist": "Bilk",
+    "isrc": "GBKPL1803348"
+  },
+  {
+    "title": "Still Life",
+    "artist": "The Horrors",
+    "isrc": "GBBKS1100136"
+  },
+  {
+    "title": "Sleep When I'm Dead",
+    "artist": "PET NEEDS",
+    "isrc": "GBHAH2300217"
+  },
+  {
+    "title": "Find the Time",
+    "artist": "Get Cape. Wear Cape. Fly",
+    "isrc": "GBAHS0700653"
+  },
+  {
+    "title": "Japanese Fighting Bugs",
+    "artist": "Dingus Khan",
+    "isrc": "GB9UL2400011"
+  },
+  {
+    "title": "Dreams",
+    "artist": "SuperGlu",
+    "isrc": "GB9UL1600098"
+  },
+  {
+    "title": "Joy In A Small Wage",
+    "artist": "Asylums",
+    "isrc": "UKAB61500001"
+  },
+  {
+    "title": "Baddow",
+    "artist": "Animal Noise",
+    "isrc": "GBJF41200007"
+  },
+  {
+    "title": "Self Destruct",
+    "artist": "The Trusted",
+    "isrc": "GX3Q92415798"
+  },
+  {
+    "title": "Luna Rosa",
+    "artist": "New Town Kings",
+    "isrc": "GBQLU1400057"
+  },
+  {
+    "title": "Feeling Funny",
+    "artist": "Rubber Jaw",
+    "isrc": "UKQCU1800001"
+  },
+  {
+    "title": "Shame on You",
+    "artist": "Polly Haynes",
+    "isrc": "QZDA41995025"
+  },
+  {
+    "title": "What Gets in the Way of Love?",
+    "artist": "Sam Eagle",
+    "isrc": "USMH92398577"
+  },
+  {
+    "title": "People",
+    "artist": "Youth Club",
+    "isrc": "TCACC1472067"
+  },
+  {
+    "title": "Sonny's song",
+    "artist": "Longy",
+    "isrc": "CAHQJ2493898"
+  },
+  {
+    "title": "Suburban Ska Club",
+    "artist": "Death Of Guitar Pop, Neville Staple",
+    "isrc": "USQY51771906"
+  },
+  {
+    "title": "A Better Day",
+    "artist": "Darren Jones",
+    "isrc": "QZFYZ2162249"
+  },
+  {
+    "title": "Wasted",
+    "artist": "Swimsuit Competition",
+    "isrc": "uscgj1922454"
+  },
+  {
+    "title": "Feng Shui",
+    "artist": "Gabriela Eva",
+    "isrc": "UK6822107301"
+  },
+  {
+    "title": "The Mannequin",
+    "artist": "Sam Duckworth",
+    "isrc": "GBCEJ1100120"
+  },
+  {
+    "title": "Battleships",
+    "artist": "Baddies",
+    "isrc": "GBVHC1100017"
+  },
+  {
+    "title": "We Want War",
+    "artist": "These New Puritans",
+    "isrc": "GBCEL0900677"
+  },
+  {
+    "title": "Hear My Train",
+    "artist": "The Long Run",
+    "isrc": "QZES91800284"
+  },
+  {
+    "title": "Gallows Tree",
+    "artist": "The Lamplight Club",
+    "isrc": "GBLFP2147942"
+  },
+  {
+    "title": "Catch Fire",
+    "artist": "State of Millenia",
+    "isrc": "QZFYZ2100553"
+  },
+  {
+    "title": "More Than This",
+    "artist": "The Hemingways",
+    "isrc": "CAENV1703676"
+  },
+  {
+    "title": "Better Days (2020 Rerecorded)",
+    "artist": "Counties",
+    "isrc": "CAENV2043674"
+  },
+  {
+    "title": "Stole My Light",
+    "artist": "White Raven Down",
+    "isrc": "UKH362300154"
+  },
+  {
+    "title": "The Way We're Made",
+    "artist": "Missing Andy",
+    "isrc": "GBAE91200013"
+  },
+  {
+    "title": "Out of My Head",
+    "artist": "Shooty and the Bang Bang",
+    "isrc": "GBMJG1816812"
+  },
+  {
+    "title": "Be What I Wanna Be",
+    "artist": "The Horse Heads",
+    "isrc": "UKAB61800021"
+  },
+  {
+    "title": "Mood Swings & Roundabouts",
+    "artist": "Don't Worry",
+    "isrc": "FR2X41827932"
+  },
+  {
+    "title": "Blind",
+    "artist": "Vivacity",
+    "isrc": "TCADI1712177"
+  },
+  {
+    "title": "Canada Water",
+    "artist": "Kevin Pearce",
+    "isrc": "GXB652300134"
+  },
+  {
+    "title": "S.O.B",
+    "artist": "Trash Monroe",
+    "isrc": "ushm91280823"
+  },
+  {
+    "title": "Essex Kings",
+    "artist": "Horrible Dolphins",
+    "isrc": "QZ8LD1990865"
+  },
+  {
+    "title": "I Am Electric",
+    "artist": "F.O.X",
+    "isrc": "uscgh1682571"
+  },
+  {
+    "title": "The Unsung",
+    "artist": "States Of Emotion",
+    "isrc": "GB7TJ0900002"
+  },
+  {
+    "title": "Oxygen",
+    "artist": "Sun Arcana",
+    "isrc": "UKMD41700005"
+  },
+  {
+    "title": "You're the Only One",
+    "artist": "3 Foot High",
+    "isrc": "usl4r2163673"
+  },
+  {
+    "title": "I'll Be Waiting",
+    "artist": "Adam Duffill",
+    "isrc": "GBLFP1746670"
+  },
+  {
+    "title": "Same Strange Chaos",
+    "artist": "Audrey Ripper",
+    "isrc": "QZAPG1783287"
+  },
+  {
+    "title": "Toffee",
+    "artist": "Beach for Tiger",
+    "isrc": "TCADU1855169"
+  },
+  {
+    "title": "Life Before You",
+    "artist": "Ben McKelvey",
+    "isrc": "QZHN41903332"
+  },
+  {
+    "title": "Levitate",
+    "artist": "Beyond Defected",
+    "isrc": "QZFZ62079608"
+  },
+  {
+    "title": "Leaving This Place",
+    "artist": "Blue October UK",
+    "isrc": "uscgh0841124"
+  },
+  {
+    "title": "Loser Sun",
+    "artist": "Darren Hayman",
+    "isrc": "GBV6U2200015"
+  },
+  {
+    "title": "Would I Lie to You?",
+    "artist": "Doojip",
+    "isrc": "QZANL1744468"
+  },
+  {
+    "title": "Channel Swimmer",
+    "artist": "Eight Rounds Rapid",
+    "isrc": "GBKYA1403064"
+  },
+  {
+    "title": "Faded",
+    "artist": "Emily Frith",
+    "isrc": "GBKPL2171421"
+  },
+  {
+    "title": "Headlock",
+    "artist": "Esser",
+    "isrc": "GBKZV0825459"
+  },
+  {
+    "title": "Pleasure for Pain",
+    "artist": "Fyresky",
+    "isrc": "ushm21906763"
+  },
+  {
+    "title": "Nessies' Daughter",
+    "artist": "Ghostwood Shanks",
+    "isrc": "GB5EA1704177"
+  },
+  {
+    "title": "Can't Put My Finger on It",
+    "artist": "Green Dolphin",
+    "isrc": "TCAED1977514"
+  },
+  {
+    "title": "Sleepwalker",
+    "artist": "HIGH/LOW",
+    "isrc": "GBLFP1947598"
+  },
+  {
+    "title": "Tickle",
+    "artist": "Hero & Leander",
+    "isrc": "DEU161302593"
+  },
+  {
+    "title": "Southern Ground",
+    "artist": "Hollow County",
+    "isrc": "GBLFP1879415"
+  },
+  {
+    "title": "Mr Wolf",
+    "artist": "Jump Stone",
+    "isrc": "TCADZ1824029"
+  },
+  {
+    "title": "A Ghost Cannot Rule the World",
+    "artist": "Karmataus",
+    "isrc": "QZDA61994128"
+  },
+  {
+    "title": "3 AM",
+    "artist": "Lemoncurd Kids, Tamara Mara Anderson",
+    "isrc": "QZHNC2468456"
+  },
+  {
+    "title": "Liar",
+    "artist": "Leyline Pass",
+    "isrc": "QZDA41819968"
+  },
+  {
+    "title": "You Are",
+    "artist": "Lydia Kitto",
+    "isrc": "TCADL1899534"
+  },
+  {
+    "title": "Jungle",
+    "artist": "Mandeville",
+    "isrc": "GBBPP1648895"
+  },
+  {
+    "title": "Lifeline",
+    "artist": "Marc Halls",
+    "isrc": "usdy42275679"
+  },
+  {
+    "title": "Charlie",
+    "artist": "Mr Happy Chainsaw",
+    "isrc": "GB-SMU-37-57084"
+  },
+  {
+    "title": "Youth",
+    "artist": "Oh Maddie",
+    "isrc": "UKKP31700012"
+  },
+  {
+    "title": "You Are Here",
+    "artist": "Ordinary Noise",
+    "isrc": "QM4TX1543753"
+  },
+  {
+    "title": "Jericho",
+    "artist": "Owen Williams",
+    "isrc": "QZ9Y21793779"
+  },
+  {
+    "title": "Take Me Away",
+    "artist": "Pistols & Vultures",
+    "isrc": "UK9J91400005"
+  },
+  {
+    "title": "Home",
+    "artist": "Ransoms",
+    "isrc": "GBLFP2060557"
+  },
+  {
+    "title": "Bigger balls than you",
+    "artist": "Ren Stedman",
+    "isrc": "GBLFP1831137"
+  },
+  {
+    "title": "Cling to Life",
+    "artist": "Sunday Arches",
+    "isrc": "QZK6H2417528"
+  },
+  {
+    "title": "Give Me Something",
+    "artist": "The Angel Makers",
+    "isrc": "NLS6R1831901"
+  },
+  {
+    "title": "Killed More Than I've Cured",
+    "artist": "The Fishes And I",
+    "isrc": "GBMJG2118738"
+  },
+  {
+    "title": "Queen Bitch",
+    "artist": "The Muffin Heads",
+    "isrc": "GBLLT1611348"
+  },
+  {
+    "title": "All I Know",
+    "artist": "The Recoupes",
+    "isrc": "GBLFP1795383"
+  },
+  {
+    "title": "Sweet-16",
+    "artist": "Torque Armada",
+    "isrc": "QZDA61814321"
+  },
+  {
+    "title": "With the Tides",
+    "artist": "Usselman",
+    "isrc": "GBCGQ1700061"
+  },
+  {
+    "title": "You're Blue I'm Blue",
+    "artist": "Velvet Morning",
+    "isrc": "BEDC21500105"
+  },
+  {
+    "title": "Meet Me By the Sea",
+    "artist": "Warm Winters",
+    "isrc": "uscgj1380822"
+  },
+  {
+    "title": "Tracey Emin's Bed",
+    "artist": "PET NEEDS",
+    "isrc": "GBHAH2000084"
+  },
+  {
+    "title": "Made a List",
+    "artist": "Dingus Khan",
+    "isrc": "GBFFA1200077"
+  },
+  {
+    "title": "Something To Remember Me By",
+    "artist": "The Horrors",
+    "isrc": "GB2DY1700190"
+  },
+  {
+    "title": "Bad News",
+    "artist": "Bilk",
+    "isrc": "FR59R2119386"
+  },
+  {
+    "title": "Once More with Feeling",
+    "artist": "Get Cape. Wear Cape. Fly",
+    "isrc": "GBAHS0600378"
+  },
+  {
+    "title": "Forever Endeavour",
+    "artist": "SuperGlu",
+    "isrc": "GBGLW1900377"
+  },
+  {
+    "title": "Instant Coffee",
+    "artist": "Asylums",
+    "isrc": "UKAB62200013"
+  },
+  {
+    "title": "Bag of Bones",
+    "artist": "Animal Noise",
+    "isrc": "GBSZF1600228"
+  },
+  {
+    "title": "Vellichor",
+    "artist": "The Trusted",
+    "isrc": "QMDA62129541"
+  },
+  {
+    "title": "Dynamite",
+    "artist": "New Town Kings",
+    "isrc": "GBQLU1100083"
+  },
+  {
+    "title": "Freaking Out",
+    "artist": "Rubber Jaw",
+    "isrc": "UKQCU1800007"
+  },
+  {
+    "title": "Eddy Street",
+    "artist": "Polly Haynes",
+    "isrc": "QZDA41995022"
+  },
+  {
+    "title": "Turn Me Over",
+    "artist": "Sam Eagle",
+    "isrc": "GBCEJ2000232"
+  },
+  {
+    "title": "Misunderstood",
+    "artist": "Youth Club",
+    "isrc": "GBKPL1785566"
+  },
+  {
+    "title": "Prisoner",
+    "artist": "Longy",
+    "isrc": "CAHQJ2490401"
+  },
+  {
+    "title": "No Room",
+    "artist": "Darren Jones",
+    "isrc": "QZ4JJ1984209"
+  },
+  {
+    "title": "Rickety Old Train",
+    "artist": "Death Of Guitar Pop",
+    "isrc": "USQY51605268"
+  },
+  {
+    "title": "Honey",
+    "artist": "Swimsuit Competition",
+    "isrc": "uscgh1932609"
+  },
+  {
+    "title": "Good To Her",
+    "artist": "Gabriela Eva",
+    "isrc": "QZWV32387562"
+  },
+  {
+    "title": "Angels in the Snow",
+    "artist": "Sam Duckworth",
+    "isrc": "GBCEJ1100124"
+  },
+  {
+    "title": "Talk To Me Germany",
+    "artist": "Baddies",
+    "isrc": "GBVHC1100006"
+  },
+  {
+    "title": "Elvis",
+    "artist": "These New Puritans",
+    "isrc": "GBCEL0700463"
+  },
+  {
+    "title": "Gliding Ships",
+    "artist": "The Long Run",
+    "isrc": "QZES91800277"
+  },
+  {
+    "title": "Blackwater Kisses",
+    "artist": "The Lamplight Club",
+    "isrc": "GBLFP2061188"
+  },
+  {
+    "title": "Small Talk",
+    "artist": "State of Millenia",
+    "isrc": "QZFYX2070613"
+  },
+  {
+    "title": "Want It All",
+    "artist": "The Hemingways",
+    "isrc": "CAENV1840896"
+  },
+  {
+    "title": "Rest Assured",
+    "artist": "Counties",
+    "isrc": "CAGOO1859773"
+  },
+  {
+    "title": "Price You Pay",
+    "artist": "White Raven Down",
+    "isrc": "UKH362100132"
+  },
+  {
+    "title": "Dave",
+    "artist": "Missing Andy",
+    "isrc": "GBAE91200003"
+  },
+  {
+    "title": "Charlotte",
+    "artist": "Shooty and the Bang Bang",
+    "isrc": "GBMJG1816818"
+  },
+  {
+    "title": "UR BOI",
+    "artist": "The Horse Heads",
+    "isrc": "UKAB62300001"
+  },
+  {
+    "title": "Big House",
+    "artist": "Don't Worry",
+    "isrc": "FR2X41827929"
+  },
+  {
+    "title": "Wild Beasts",
+    "artist": "Vivacity",
+    "isrc": "TCADF1719754"
+  },
+  {
+    "title": "Memory Loss",
+    "artist": "Kevin Pearce",
+    "isrc": "GXB652300133"
+  },
+  {
+    "title": "Is This It",
+    "artist": "Trash Monroe",
+    "isrc": "ushm21089858"
+  },
+  {
+    "title": "Telephone Screen",
+    "artist": "Horrible Dolphins",
+    "isrc": "QZ8LD1990863"
+  },
+  {
+    "title": "Halfway to Nowhere",
+    "artist": "F.O.X",
+    "isrc": "uscgh1682597"
+  },
+  {
+    "title": "Seeking Oblivion - Truth Remix",
+    "artist": "States Of Emotion, Truth",
+    "isrc": "GBQGW1400053"
+  },
+  {
+    "title": "When I Turn Cold",
+    "artist": "Sun Arcana",
+    "isrc": "UKMD41800008"
+  },
+  {
+    "title": "Feel Free",
+    "artist": "3 Foot High",
+    "isrc": "USHM22394747"
+  },
+  {
+    "title": "Falling Like A Landslide",
+    "artist": "Adam Duffill",
+    "isrc": "GBMA21877471"
+  },
+  {
+    "title": "Chelsea Smiles",
+    "artist": "Audrey Ripper",
+    "isrc": "QZAPG1783284"
+  },
+  {
+    "title": "Coco",
+    "artist": "Beach for Tiger",
+    "isrc": "TCACJ1506563"
+  },
+  {
+    "title": "Stronger",
+    "artist": "Ben McKelvey",
+    "isrc": "GBYSA1801220"
+  },
+  {
+    "title": "Broken Town",
+    "artist": "Beyond Defected",
+    "isrc": "QZDA51983740"
+  },
+  {
+    "title": "When You Leave",
+    "artist": "Blue October UK",
+    "isrc": "ushm90744580"
+  },
+  {
+    "title": "I Know I Fucked Up",
+    "artist": "Darren Hayman",
+    "isrc": "GBHLW1110690"
+  },
+  {
+    "title": "Tricks",
+    "artist": "Eight Rounds Rapid",
+    "isrc": "DEU162005155"
+  },
+  {
+    "title": "The Blue",
+    "artist": "Emily Frith",
+    "isrc": "QZDA61927245"
+  },
+  {
+    "title": "Satisfied",
+    "artist": "Esser",
+    "isrc": "GBKZV0825461"
+  },
+  {
+    "title": "Ashes",
+    "artist": "Fyresky",
+    "isrc": "ushm21906770"
+  },
+  {
+    "title": "Too Cool for School",
+    "artist": "Ghostwood Shanks",
+    "isrc": "GB5EA1704178"
+  },
+  {
+    "title": "No More Matchstick Eyes",
+    "artist": "Green Dolphin",
+    "isrc": "TCAEA1980874"
+  },
+  {
+    "title": "Separation Anxiety",
+    "artist": "PET NEEDS",
+    "isrc": "GBHAH2300212"
+  },
+  {
+    "title": "Knifey Spoony",
+    "artist": "Dingus Khan",
+    "isrc": "GBFFA1200075"
+  },
+  {
+    "title": "Hummus and Pitta",
+    "artist": "Bilk",
+    "isrc": "FR96X2296997"
+  },
+  {
+    "title": "Sea Within a Sea",
+    "artist": "The Horrors",
+    "isrc": "GBBKS0900056"
+  },
+  {
+    "title": "War of the Worlds",
+    "artist": "Get Cape. Wear Cape. Fly",
+    "isrc": "GBAHS0600381"
+  },
+  {
+    "title": "Simmer Down",
+    "artist": "SuperGlu",
+    "isrc": "GB9UL1700010"
+  },
+  {
+    "title": "Necessary Appliances",
+    "artist": "Asylums",
+    "isrc": "UKAB61600001"
+  },
+  {
+    "title": "Run Loose",
+    "artist": "Animal Noise",
+    "isrc": "GBJF41200002"
+  },
+  {
+    "title": "Doomsday",
+    "artist": "The Trusted",
+    "isrc": "GBLFP2321646"
+  },
+  {
+    "title": "Games That People Play",
+    "artist": "New Town Kings",
+    "isrc": "GBQLU1100088"
+  },
+  {
+    "title": "Bumpy Faces",
+    "artist": "Rubber Jaw",
+    "isrc": "UKQCU1800002"
+  },
+  {
+    "title": "I'm Fine",
+    "artist": "Polly Haynes",
+    "isrc": "QZMEQ2204233"
+  },
+  {
+    "title": "Like This",
+    "artist": "Sam Eagle",
+    "isrc": "GBCEJ2000228"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Youth Club",
+    "isrc": "GB8MX1400221"
+  },
+  {
+    "title": "Payroll",
+    "artist": "Longy",
+    "isrc": "CACWV2423264"
+  },
+  {
+    "title": "Dance In The Rain",
+    "artist": "Darren Jones",
+    "isrc": "QZ4JJ1984208"
+  },
+  {
+    "title": "First In, Last Out",
+    "artist": "Death Of Guitar Pop",
+    "isrc": "USA2P2318710"
+  },
+  {
+    "title": "Never Gonna Leave You",
+    "artist": "Swimsuit Competition",
+    "isrc": "ushm81946305"
+  },
+  {
+    "title": "Hey!",
+    "artist": "Gabriela Eva",
+    "isrc": "GBSD61900001"
+  },
+  {
+    "title": "18 to 1",
+    "artist": "Sam Duckworth",
+    "isrc": "GBCEJ1100123"
+  },
+  {
+    "title": "At the Party",
+    "artist": "Baddies",
+    "isrc": "GBVHC1100019"
+  },
+  {
+    "title": "Organ Eternal",
+    "artist": "These New Puritans",
+    "isrc": "GBZUZ1300074"
+  },
+  {
+    "title": "Are You Mine",
+    "artist": "The Long Run",
+    "isrc": "QZES91800279"
+  },
+  {
+    "title": "Attrition",
+    "artist": "The Lamplight Club",
+    "isrc": "GX3Q92329299"
+  },
+  {
+    "title": "A Dance For Gods",
+    "artist": "State of Millenia",
+    "isrc": "QZDA72127331"
+  },
+  {
+    "title": "Never Alone",
+    "artist": "The Hemingways",
+    "isrc": "GBLFP1718837"
+  },
+  {
+    "title": "Mistress To Distance",
+    "artist": "Counties",
+    "isrc": "CACWV1750611"
+  },
+  {
+    "title": "Demons At Your Door",
+    "artist": "White Raven Down",
+    "isrc": "UKH362100131"
+  }
+]

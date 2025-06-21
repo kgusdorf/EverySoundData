@@ -1,0 +1,762 @@
+[
+  {
+    "title": "Curiosità",
+    "artist": "Giuliano Sorgini",
+    "isrc": "FR10S1974465"
+  },
+  {
+    "title": "La notte muore (orchestra)",
+    "artist": "Sandro Brugnolini",
+    "isrc": "ITV7V1704472"
+  },
+  {
+    "title": "Ray Ban",
+    "artist": "I Marc 4",
+    "isrc": "FR10S1803432"
+  },
+  {
+    "title": "White Sands",
+    "artist": "Alessandro Alessandroni",
+    "isrc": "IT7151071606"
+  },
+  {
+    "title": "Skylab",
+    "artist": "Mario Molino",
+    "isrc": "ITV7V1704455"
+  },
+  {
+    "title": "Canottaggio",
+    "artist": "Remigio Ducros",
+    "isrc": "FR59R1578565"
+  },
+  {
+    "title": "Clouds",
+    "artist": "Paolo Casa, Lino Castiglione",
+    "isrc": "IT7150213209"
+  },
+  {
+    "title": "Venerdi' ore 20.30",
+    "artist": "Daniela Casa, Massimo Catalano",
+    "isrc": "IT7151684002"
+  },
+  {
+    "title": "Doctor Moo",
+    "artist": "Nino Rapicavoli",
+    "isrc": "IT7159911526"
+  },
+  {
+    "title": "Messaggio",
+    "artist": "Lesiman",
+    "isrc": "ITC471000345"
+  },
+  {
+    "title": "Eleven",
+    "artist": "Cicci Santucci, Enzo Scoppa",
+    "isrc": "FRX201798171"
+  },
+  {
+    "title": "Loving tenderly",
+    "artist": "Stefano Torossi",
+    "isrc": "ITB267512960"
+  },
+  {
+    "title": "Eveline",
+    "artist": "Puccio Roelens",
+    "isrc": "FR59R2064610"
+  },
+  {
+    "title": "Anna",
+    "artist": "Paolo Renosto",
+    "isrc": "ITV7V1702722"
+  },
+  {
+    "title": "Paradiso",
+    "artist": "Fabio Fabor",
+    "isrc": "ITDGZ2000228"
+  },
+  {
+    "title": "Tema di Andrea",
+    "artist": "Alberto Baldan Bembo",
+    "isrc": "FR96X1859216"
+  },
+  {
+    "title": "Nairobi",
+    "artist": "Romolo Grano, Gianni Oddi",
+    "isrc": "ITZFU1700401"
+  },
+  {
+    "title": "Tattile",
+    "artist": "Oscar Rocchi, Franco Godi",
+    "isrc": "ITZFU1700405"
+  },
+  {
+    "title": "Foggy Night",
+    "artist": "Massimo Catalano",
+    "isrc": "QMBZ91989545"
+  },
+  {
+    "title": "Italian Love",
+    "artist": "Franco Altissimi",
+    "isrc": "US3DF1720052"
+  },
+  {
+    "title": "Accadde a Bali",
+    "artist": "Arawak",
+    "isrc": "ITV7V1703951"
+  },
+  {
+    "title": "Madame Lulu",
+    "artist": "Amedeo Tommasi",
+    "isrc": "US3DF1720053"
+  },
+  {
+    "title": "Fou rire - Vocal",
+    "artist": "Gerardo Iacoucci, Paola Massero",
+    "isrc": "IT7151173807"
+  },
+  {
+    "title": "Gungala nido",
+    "artist": "Luigi Malatesta, Franco Bixio, Sandro Brugnolini",
+    "isrc": "ITC046801739"
+  },
+  {
+    "title": "Dedicato a Twiggy",
+    "artist": "Gianni Oddi",
+    "isrc": "ITO0P1400131"
+  },
+  {
+    "title": "Killer adios (Seq. 1 - Main titles)",
+    "artist": "Claudio Tallino",
+    "isrc": "ITD060200032"
+  },
+  {
+    "title": "What's so Funny",
+    "artist": "Piero Montanari, Fabrizio Fornaci, Stefano Torossi",
+    "isrc": "IT7151390534"
+  },
+  {
+    "title": "Omaca",
+    "artist": "Sestetto Dino Piana & Oscar Valdambrini",
+    "isrc": "FR59R1759780"
+  },
+  {
+    "title": "Tessitura",
+    "artist": "Egisto Macchi",
+    "isrc": "ITV7V1701686"
+  },
+  {
+    "title": "Spleen",
+    "artist": "Narassa",
+    "isrc": "GBDCR2100889"
+  },
+  {
+    "title": "Imphormal",
+    "artist": "The Braen's Machine",
+    "isrc": "FR10S1409686"
+  },
+  {
+    "title": "Legendary Ballad",
+    "artist": "Pasquale Castiglione, Paolo Casa",
+    "isrc": "IT7151393684"
+  },
+  {
+    "title": "Les Jeux Sont Fait - Instrumental",
+    "artist": "Roberto Conrado",
+    "isrc": "IT7151377311"
+  },
+  {
+    "title": "Jamaican Love Song",
+    "artist": "Giancarlo Barigozzi, Oscar Rocchi",
+    "isrc": "ITI892100032"
+  },
+  {
+    "title": "Disco satellite",
+    "artist": "Gianni Safred",
+    "isrc": "ITZFU1700626"
+  },
+  {
+    "title": "Chartreuse",
+    "artist": "Modern Sound Quartet",
+    "isrc": "ITI731900080"
+  },
+  {
+    "title": "Orientale Contemplatino",
+    "artist": "Rino De Filippi",
+    "isrc": "GBKHQ0500128"
+  },
+  {
+    "title": "Le belle 7",
+    "artist": "Franco Tonani",
+    "isrc": "FRX872019114"
+  },
+  {
+    "title": "Sonatina Chigiana: I. Scorrevole",
+    "artist": "Antonio Riccardo Luciani",
+    "isrc": "IT7151389187"
+  },
+  {
+    "title": "Visioni",
+    "artist": "Silvano Chimenti",
+    "isrc": "QM4TX2093459"
+  },
+  {
+    "title": "The Port",
+    "artist": "Maria Teresa Luciani",
+    "isrc": "GBRNP1700012"
+  },
+  {
+    "title": "All'Aria Aperta",
+    "artist": "Luigi Zito",
+    "isrc": "USA2P2401098"
+  },
+  {
+    "title": "Spleen",
+    "artist": "Luigi Lopez",
+    "isrc": "ES8590900119"
+  },
+  {
+    "title": "Relax in My Hole",
+    "artist": "Angelo Baroncini, Bruno Battisti D'Amario",
+    "isrc": "FR96X1711306"
+  },
+  {
+    "title": "Roselita",
+    "artist": "Pierre Arvay",
+    "isrc": "FR8E41604143"
+  },
+  {
+    "title": "Trip",
+    "artist": "Emma De Angelis",
+    "isrc": "ES8590900126"
+  },
+  {
+    "title": "Cocktail Beat",
+    "artist": "Ernesto Nicelli",
+    "isrc": "IT7150414619"
+  },
+  {
+    "title": "Beat Cha Cha",
+    "artist": "Giovanni Ferroni",
+    "isrc": "IT7151393559"
+  },
+  {
+    "title": "Beatnik",
+    "artist": "Leopoldo Perez-Bonsignore, Mario Pagano",
+    "isrc": "FR59R1594208"
+  },
+  {
+    "title": "Chase",
+    "artist": "Lino Castiglione, Paolo Casa",
+    "isrc": "IT7150213219"
+  },
+  {
+    "title": "Indiziato",
+    "artist": "Oronzo de Filippi",
+    "isrc": "ITR7L2300060"
+  },
+  {
+    "title": "Trumpet Pop",
+    "artist": "Stellio Subelli",
+    "isrc": "IT7150414609"
+  },
+  {
+    "title": "Dollars And Spaghetti",
+    "artist": "Vittorio Impiglia",
+    "isrc": "US3DF1720060"
+  },
+  {
+    "title": "Penthouse",
+    "artist": "Antonio Arena, Iffar",
+    "isrc": "ITG140520198"
+  },
+  {
+    "title": "Week-end playback",
+    "artist": "Elageron",
+    "isrc": "ITV7V1703752"
+  },
+  {
+    "title": "La via della droga",
+    "artist": "Amedeo Tomassi",
+    "isrc": "ES8590900131"
+  },
+  {
+    "title": "Circuito Chiuso",
+    "artist": "Armando Sciascia",
+    "isrc": "USA2P2028763"
+  },
+  {
+    "title": "Bolle d'acqua, Pt. 2",
+    "artist": "Atmo",
+    "isrc": "FR96X1723272"
+  },
+  {
+    "title": "Seaweed (From \"Summer Dreams\")",
+    "artist": "Carlo Savina And His Orchestra",
+    "isrc": "QM4TX2152170"
+  },
+  {
+    "title": "Feasing",
+    "artist": "E. Pieranunzi, S. Chimenti",
+    "isrc": "FR6V82099606"
+  },
+  {
+    "title": "Storyville",
+    "artist": "Farlocco, The Swingers",
+    "isrc": "GBHCA0800217"
+  },
+  {
+    "title": "Come sinfonia",
+    "artist": "Franco Bracardi",
+    "isrc": "ITB269212050"
+  },
+  {
+    "title": "Metropolis notte",
+    "artist": "G. Ducros",
+    "isrc": "FR6V82099612"
+  },
+  {
+    "title": "Katja's wings",
+    "artist": "Gabriele Ducros",
+    "isrc": "ITB200016601"
+  },
+  {
+    "title": "Bossa Nova Meticcia",
+    "artist": "Gian Paolo Chiti, Sergio Montori",
+    "isrc": "ITV7V1702272"
+  },
+  {
+    "title": "Attrazione lunare",
+    "artist": "Jarrell",
+    "isrc": "FR96X1723273"
+  },
+  {
+    "title": "Take Eight",
+    "artist": "King Zerand Orchestra",
+    "isrc": "GBCG41200137"
+  },
+  {
+    "title": "Skiron",
+    "artist": "Lamberto Macchi",
+    "isrc": "CAENV2203137"
+  },
+  {
+    "title": "Misticism",
+    "artist": "Leandro Piccioni, Stefano Torossi",
+    "isrc": "IT7151388350"
+  },
+  {
+    "title": "Love for Sale",
+    "artist": "Mirot",
+    "isrc": "FR59R1938724"
+  },
+  {
+    "title": "Riflessi acquatici, Pt. 1",
+    "artist": "Montedoro",
+    "isrc": "FR96X1723265"
+  },
+  {
+    "title": "Traffic",
+    "artist": "Ninety",
+    "isrc": "ITV7V1702260"
+  },
+  {
+    "title": "Rilassamento",
+    "artist": "Orchestra Giampaolo Boneschi",
+    "isrc": "GBCG41200135"
+  },
+  {
+    "title": "Blue Venus",
+    "artist": "The Astral Dimension",
+    "isrc": "ITZFU1700845"
+  },
+  {
+    "title": "Anaconda",
+    "artist": "The Manhattan People",
+    "isrc": "FR59R1796198"
+  },
+  {
+    "title": "Analisi scientifiche",
+    "artist": "Giuliano Sorgini",
+    "isrc": "FR10S1974469"
+  },
+  {
+    "title": "Stenella dubia",
+    "artist": "Sandro Brugnolini",
+    "isrc": "ES8590900133"
+  },
+  {
+    "title": "Summer In Love",
+    "artist": "I Marc 4, Edda Dell'Orso",
+    "isrc": "FR10S1878510"
+  },
+  {
+    "title": "First Sound",
+    "artist": "Mario Molino, Elvio Monti",
+    "isrc": "IT7159810319"
+  },
+  {
+    "title": "Foggy Town",
+    "artist": "Alessandro Alessandroni",
+    "isrc": "IT7151071610"
+  },
+  {
+    "title": "Relax",
+    "artist": "Remigio Ducros",
+    "isrc": "IT7157002136"
+  },
+  {
+    "title": "Ices slipping away",
+    "artist": "Paolo Casa",
+    "isrc": "ITV7V1704575"
+  },
+  {
+    "title": "Spiralys",
+    "artist": "Daniela Casa",
+    "isrc": "ITV7V1701561"
+  },
+  {
+    "title": "Erea",
+    "artist": "Nino Rapicavoli",
+    "isrc": "UKR791824716"
+  },
+  {
+    "title": "Mireille",
+    "artist": "Cicci Santucci, Enzo Scoppa",
+    "isrc": "FRX201798178"
+  },
+  {
+    "title": "Confronto",
+    "artist": "Lesiman",
+    "isrc": "ITC471000344"
+  },
+  {
+    "title": "Running fast",
+    "artist": "Stefano Torossi",
+    "isrc": "ITB267512950"
+  },
+  {
+    "title": "Lucy",
+    "artist": "Puccio Roelens",
+    "isrc": "FR59R2064604"
+  },
+  {
+    "title": "Maria",
+    "artist": "Paolo Renosto",
+    "isrc": "IT7151388701"
+  },
+  {
+    "title": "Idolo moresco",
+    "artist": "Fabio Fabor",
+    "isrc": "ITDGZ2000233"
+  },
+  {
+    "title": "Tema di Barbara",
+    "artist": "Alberto Baldan Bembo",
+    "isrc": "FR96X1859210"
+  },
+  {
+    "title": "Kilimangiaro",
+    "artist": "Romolo Grano, Gianni Oddi",
+    "isrc": "ITZFU1700397"
+  },
+  {
+    "title": "Myrrha",
+    "artist": "Oscar Rocchi, Tullio De Piscopo",
+    "isrc": "ITZFU1700165"
+  },
+  {
+    "title": "Lounge Bossa",
+    "artist": "Franco Altissimi",
+    "isrc": "IT7150414602"
+  },
+  {
+    "title": "Scoramento",
+    "artist": "Massimo Catalano, Remigio Ducros",
+    "isrc": "IT7157002206"
+  },
+  {
+    "title": "Ricordo del sud America",
+    "artist": "Arawak",
+    "isrc": "ITV7V1703156"
+  },
+  {
+    "title": "Romancing in the Stars",
+    "artist": "Gerardo Iacoucci",
+    "isrc": "IT7151071001"
+  },
+  {
+    "title": "Smoke Gets in Your Head",
+    "artist": "Claudio Tallino",
+    "isrc": "FR96X1812818"
+  },
+  {
+    "title": "Chanel N. 7",
+    "artist": "Gianni Oddi",
+    "isrc": "ITO0P1400135"
+  },
+  {
+    "title": "Vecchia Parigi",
+    "artist": "Amedeo Tommasi",
+    "isrc": "IT7511391457"
+  },
+  {
+    "title": "Charlie's Bounce",
+    "artist": "Piero Montanari",
+    "isrc": "IT7159911520"
+  },
+  {
+    "title": "Afro Free",
+    "artist": "Luigi Malatesta, Franco Bixio, Sandro Brugnolini",
+    "isrc": "ITC046800058"
+  },
+  {
+    "title": "Oreficeria",
+    "artist": "Egisto Macchi",
+    "isrc": "ITV7V1701689"
+  },
+  {
+    "title": "Placido",
+    "artist": "Sestetto Dino Piana & Oscar Valdambrini",
+    "isrc": "FR59R1759781"
+  },
+  {
+    "title": "Citta' Notte",
+    "artist": "Narassa, Amedeo Tommasi Trio",
+    "isrc": "GBDCR2100239"
+  },
+  {
+    "title": "Dinamica",
+    "artist": "The Braen's Machine",
+    "isrc": "FRX281743544"
+  },
+  {
+    "title": "Country Heart",
+    "artist": "Pasquale Castiglione",
+    "isrc": "IT7151393678"
+  },
+  {
+    "title": "No Puedo Olvidar",
+    "artist": "Roberto Conrado",
+    "isrc": "IT7150717404"
+  },
+  {
+    "title": "African Popcorn",
+    "artist": "Giancarlo Barigozzi, Oscar Rocchi",
+    "isrc": "ITI892100026"
+  },
+  {
+    "title": "The Life to Come",
+    "artist": "Gianni Safred",
+    "isrc": "ITZFU1700625"
+  },
+  {
+    "title": "Acquarius",
+    "artist": "Modern Sound Quartet",
+    "isrc": "ITZFU1700604"
+  },
+  {
+    "title": "Edilizia",
+    "artist": "Rino De Filippi",
+    "isrc": "QMFMF2019183"
+  },
+  {
+    "title": "Blu-Argento",
+    "artist": "Franco Tonani",
+    "isrc": "FRX452476687"
+  },
+  {
+    "title": "Lento - From \"Due monologhi per Viola\"",
+    "artist": "Antonio Riccardo Luciani",
+    "isrc": "IT7151389197"
+  },
+  {
+    "title": "Candlelight",
+    "artist": "Silvano Chimenti",
+    "isrc": "IT7151376804"
+  },
+  {
+    "title": "Courtyards Citizens",
+    "artist": "Maria Teresa Luciani",
+    "isrc": "GBRNP1700013"
+  },
+  {
+    "title": "Tenerezze",
+    "artist": "Luigi Zito",
+    "isrc": "QM6N22118059"
+  },
+  {
+    "title": "Pinocchio Perché No?",
+    "artist": "Luigi Lopez",
+    "isrc": "ITB008000443"
+  },
+  {
+    "title": "Soul's Fire",
+    "artist": "Angelo Baroncini, Bruno Battisti D'Amario",
+    "isrc": "FR96X1711307"
+  },
+  {
+    "title": "Wide Horizon / Ice Floe",
+    "artist": "Pierre Arvay",
+    "isrc": "UKATG1701408"
+  },
+  {
+    "title": "Plankton - version 1",
+    "artist": "Emma De Angelis",
+    "isrc": "IT7150213208"
+  },
+  {
+    "title": "Superpop",
+    "artist": "Ernesto Nicelli, Fabio Borgazzi, Alma Bernardi",
+    "isrc": "IT7151392162"
+  },
+  {
+    "title": "Pol Ketty",
+    "artist": "Giovanni Ferroni, Fabio Fabor",
+    "isrc": "GBDCR2100726"
+  },
+  {
+    "title": "Carosello",
+    "artist": "Leopoldo Perez-Bonsignore",
+    "isrc": "FR59R1594211"
+  },
+  {
+    "title": "In the Twenties",
+    "artist": "Lino Castiglione",
+    "isrc": "IT7151390767"
+  },
+  {
+    "title": "Triste periferia - I° Version",
+    "artist": "Oronzo de Filippi",
+    "isrc": "ITR7L2300058"
+  },
+  {
+    "title": "Cadenza dinamica",
+    "artist": "Giuliano Sorgini",
+    "isrc": "FR10S1974467"
+  },
+  {
+    "title": "Quasi un sogno",
+    "artist": "Sandro Brugnolini",
+    "isrc": "ITV7V1704477"
+  },
+  {
+    "title": "Aspettando July",
+    "artist": "I Marc 4",
+    "isrc": "FR10S1850383"
+  },
+  {
+    "title": "Come Back",
+    "artist": "Mario Molino",
+    "isrc": "USA2P2145735"
+  },
+  {
+    "title": "Landscape",
+    "artist": "Alessandro Alessandroni",
+    "isrc": "IT7151071605"
+  },
+  {
+    "title": "Sgambata",
+    "artist": "Remigio Ducros",
+    "isrc": "ITV7V1702489"
+  },
+  {
+    "title": "Slap it",
+    "artist": "Paolo Casa",
+    "isrc": "ITV7V1702475"
+  },
+  {
+    "title": "Calcio Samba",
+    "artist": "Daniela Casa",
+    "isrc": "QM4TX2093441"
+  },
+  {
+    "title": "Dispersione",
+    "artist": "Nino Rapicavoli",
+    "isrc": "FR59R1578563"
+  },
+  {
+    "title": "Isabelle",
+    "artist": "Cicci Santucci, Enzo Scoppa",
+    "isrc": "FRX201798168"
+  },
+  {
+    "title": "Playcar",
+    "artist": "Lesiman",
+    "isrc": "ITC471000351"
+  },
+  {
+    "title": "Feeling tense",
+    "artist": "Stefano Torossi",
+    "isrc": "ITB267512940"
+  },
+  {
+    "title": "Caravan",
+    "artist": "Puccio Roelens",
+    "isrc": "ITH750700091"
+  },
+  {
+    "title": "Rich Bossa Nova",
+    "artist": "Paolo Renosto, I Marc 4",
+    "isrc": "FRX281742437"
+  },
+  {
+    "title": "Gioiello",
+    "artist": "Fabio Fabor",
+    "isrc": "ITDGZ2000229"
+  },
+  {
+    "title": "Gonzales Go",
+    "artist": "Alberto Baldan Bembo",
+    "isrc": "FR96X1859214"
+  },
+  {
+    "title": "Kilimangiaro - Spoken Alt. Take",
+    "artist": "Romolo Grano, Gianni Oddi",
+    "isrc": "ITZFU1700400"
+  },
+  {
+    "title": "Fantastica",
+    "artist": "Oscar Rocchi, Franco Godi",
+    "isrc": "ITZFU1700403"
+  },
+  {
+    "title": "Spaghetti Love",
+    "artist": "Franco Altissimi",
+    "isrc": "FR6V80955032"
+  },
+  {
+    "title": "Memories",
+    "artist": "Massimo Catalano, Antonio Sechi, Stefano Torossi",
+    "isrc": "QM4TX2093465"
+  },
+  {
+    "title": "Warhouse",
+    "artist": "Arawak",
+    "isrc": "ITV7V1703176"
+  },
+  {
+    "title": "Dinner for Two",
+    "artist": "Gerardo Iacoucci",
+    "isrc": "IT7151071010"
+  },
+  {
+    "title": "Spell (Dolce Mattatoio) M1",
+    "artist": "Claudio Tallino",
+    "isrc": "FR59R1938408"
+  },
+  {
+    "title": "Moda d'estate",
+    "artist": "Gianni Oddi",
+    "isrc": "ITO0P1400129"
+  },
+  {
+    "title": "Noi Giovani",
+    "artist": "Amedeo Tommasi",
+    "isrc": "IT7157000203"
+  },
+  {
+    "title": "Slums",
+    "artist": "Piero Montanari",
+    "isrc": "IT7159911515"
+  }
+]

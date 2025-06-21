@@ -1,0 +1,942 @@
+[
+  {
+    "title": "Suite in C Minor from Ms. Lobkowicz: V. La volage Passacaille",
+    "artist": "Charles Mouton, Anders Ericson",
+    "isrc": "SEVAF1400119"
+  },
+  {
+    "title": "2ème livre de tabulature de leut: Fantaisie",
+    "artist": "Guillaume Morlaye, Federico Marincola",
+    "isrc": "FRZ299416080"
+  },
+  {
+    "title": "Amours amours amours",
+    "artist": "Antoine Busnois, Karl-Ernst Schröder, Crawford Young",
+    "isrc": "ES7891501102"
+  },
+  {
+    "title": "Suite in G Major: VI. Chaconne",
+    "artist": "Robert de Visée, Yasunori Imamura",
+    "isrc": "USB8U1011214"
+  },
+  {
+    "title": "Fronimo: Saltarello sesto",
+    "artist": "Vincenzo Galilei, Andrea Damiani",
+    "isrc": "FR6V81084890"
+  },
+  {
+    "title": "Lute Sonata No. 9: II. Alemanda",
+    "artist": "Giovanni Zamboni, Luciano Còntini",
+    "isrc": "ES7891400802"
+  },
+  {
+    "title": "Sancta Trinitas",
+    "artist": "Antoine de Févin, Paolo Cherici",
+    "isrc": "ITD551052813"
+  },
+  {
+    "title": "Lute Sonata in F Minor [Augsburg manuscript]: I. Affettuoso",
+    "artist": "Bernhard Joachim Hagen, Robert Barto",
+    "isrc": "CH1491126701"
+  },
+  {
+    "title": "Pavana lachrimae",
+    "artist": "Joachim van den Hove, Joachim Held",
+    "isrc": "DEA550407960"
+  },
+  {
+    "title": "Suite in F-Sharp Minor: III. Courante, \"La Nonpareille\"",
+    "artist": "Jacques Gallot, Joachim Held",
+    "isrc": "DEA550817793"
+  },
+  {
+    "title": "Toccata Cromatica XII",
+    "artist": "Alessandro Piccinini, Rosario Conte",
+    "isrc": "DELC31106004"
+  },
+  {
+    "title": "Concert for 2 Guitars in E Minor: Passacaille",
+    "artist": "Francesco Corbetta, Eric Bellocq, Massimo Moscardo",
+    "isrc": "HKI199635723"
+  },
+  {
+    "title": "Pavanne en forme de complainte",
+    "artist": "Nicolas Vallet, Anthony Bailes",
+    "isrc": "DELC31201010"
+  },
+  {
+    "title": "Toccata XX",
+    "artist": "Francesca Torelli, Alessandro Piccinini",
+    "isrc": "USANA1700201"
+  },
+  {
+    "title": "Franchino Gaffurio: Virgo Dei",
+    "artist": "Franchino Gaffurio, Massimo Lonardi",
+    "isrc": "ITK391010302"
+  },
+  {
+    "title": "Green Sleeves",
+    "artist": "Anonymous, Massimo Moscardo, Jean-Luc Tamby, Benjamin Perrot, Vincent Dumestre",
+    "isrc": "FR50X0508109"
+  },
+  {
+    "title": "Partita Sopra La Follia",
+    "artist": "Alessandro Piccinini, Jordi Savall, Hespèrion XXI",
+    "isrc": "CH4210500056"
+  },
+  {
+    "title": "Branles de village",
+    "artist": "Robert Ballard, Massimo Marchese",
+    "isrc": "US8271200476"
+  },
+  {
+    "title": "Deux pièces en fa majeur: II. Ciacconna (II: 77-80)",
+    "artist": "Silvius Leopold Weiss, Bernhard Hofstötter, Dolores Costoyas",
+    "isrc": "CAJ720753810"
+  },
+  {
+    "title": "The Fairy Round (Galliard)",
+    "artist": "Anthony Holborne, Lutz Kirchhof",
+    "isrc": "USSM19904166"
+  },
+  {
+    "title": "Fantasia in D Major",
+    "artist": "David Kellner, Alberto Crugnola",
+    "isrc": "DEB901200372"
+  },
+  {
+    "title": "Intabolatura de lauto, Book 4: Calata ala spagnola",
+    "artist": "Joan Ambrosio Dalza, Christopher Wilson",
+    "isrc": "HKI199839101"
+  },
+  {
+    "title": "Siete diferencias sobre Guarda me las vacas",
+    "artist": "Luis de Narváez, Dolores Costoyas",
+    "isrc": "ES7141500475"
+  },
+  {
+    "title": "Bouree d'Avignon",
+    "artist": "Nicolas Vallet, Paul O'Dette",
+    "isrc": "USHM10230003"
+  },
+  {
+    "title": "Fortune My Foe, P. 62",
+    "artist": "John Dowland, Bor Zuljan",
+    "isrc": "FR9W12014665"
+  },
+  {
+    "title": "Pieces in A Major: II. Allemande",
+    "artist": "Johannes Fresneau, Edward Martin",
+    "isrc": "QM9AA2068714"
+  },
+  {
+    "title": "Folies d'Espagne",
+    "artist": "Jacques Gallot, Catherine Liddell",
+    "isrc": "US8270610622"
+  },
+  {
+    "title": "Suite No. 9 en ré mineur: Passacaille",
+    "artist": "Robert de Visée, Sandro Volta",
+    "isrc": "FRZ179800700"
+  },
+  {
+    "title": "Ricercar Ottavo",
+    "artist": "Giulio Segni Da Modena, Jacob Heringman",
+    "isrc": "GBELX0400739"
+  },
+  {
+    "title": "Ricercar terzo",
+    "artist": "Melchior Neusidler, Paul O'Dette",
+    "isrc": "USHM10638802"
+  },
+  {
+    "title": "The Noble man - Instrumental",
+    "artist": "Robert Johnson, Nigel North",
+    "isrc": "USHM19925712"
+  },
+  {
+    "title": "Fantasia",
+    "artist": "Marco Dall'Aquila, Franklin Lei",
+    "isrc": "HKI190523905"
+  },
+  {
+    "title": "Pavan",
+    "artist": "John Danyel, Karl Nyhlin",
+    "isrc": "SETSA1214712"
+  },
+  {
+    "title": "Delitiae testudinis Suite No. 13 in E-Flat Major: IV. Sarabanda",
+    "artist": "Esaias Reusner, Paul Beier",
+    "isrc": "ITJ091100233"
+  },
+  {
+    "title": "Varietie of Lute Lessons, 1610: Pavin No. 2. Composed by the most famous and perfect Artist Anthonie Holborne",
+    "artist": "Anthony Holborne, Matthew Wadsworth",
+    "isrc": "NLA460910039"
+  },
+  {
+    "title": "L’amant malheureux",
+    "artist": "Jacques Gallot, Lucas Harris",
+    "isrc": "usl4q0809923"
+  },
+  {
+    "title": "Lute music - Italy: Ricercar XIII",
+    "artist": "Vincenzo Capirola, Konrad Ragossnig",
+    "isrc": "DEF057303660"
+  },
+  {
+    "title": "Dezilde al Cavallero que",
+    "artist": "Diego Pisador, Juan Carlos Rivera",
+    "isrc": "MX2831000462"
+  },
+  {
+    "title": "Saltarello I & II",
+    "artist": "Giacomo Gorzanis, Marc Lewon",
+    "isrc": "DEB901700914"
+  },
+  {
+    "title": "Ciacona in E-Flat Major",
+    "artist": "Silvius Leopold Weiss, Toyohiko Satoh",
+    "isrc": "DELC31501001"
+  },
+  {
+    "title": "Douce dame jolie",
+    "artist": "Guillaume de Machaut, Munir Beken, August Denhard",
+    "isrc": "USKC61113313"
+  },
+  {
+    "title": "Sonata for Lute No. 8 in A Major: V. Ciacona",
+    "artist": "Silvius Leopold Weiss, Lee Santana",
+    "isrc": "DEE471500259"
+  },
+  {
+    "title": "Eccho or Allmane",
+    "artist": "Francis Pilkington, John Marchant, Ronn McFarlane, William Simms",
+    "isrc": "USKC61215507"
+  },
+  {
+    "title": "La traditora: Saltarello, \"La traditora\"",
+    "artist": "Marco Dall'Aquila, Shirley Rumsey",
+    "isrc": "HKI199490614"
+  },
+  {
+    "title": "Missa Brevis: Credo",
+    "artist": "Giovanni Pierluigi da Palestrina, Venere Lute Quartet",
+    "isrc": "usl4r0729498"
+  },
+  {
+    "title": "Ezio: Aria. Vi fida lo sposo (Arr. For lute)",
+    "artist": "Johann Adolf Hasse, Axel Wolf",
+    "isrc": "DEU920771001"
+  },
+  {
+    "title": "Mounsieurs Almanie",
+    "artist": "Daniel Bacheler, Paul O'Dette",
+    "isrc": "USHM10438905"
+  },
+  {
+    "title": "La Magdalena",
+    "artist": "Pierre Attaingnant, Hopkinson Smith",
+    "isrc": "FRZ131526070"
+  },
+  {
+    "title": "Sonata \"Follia\" Op. 5, No. 12: Adagio",
+    "artist": "Arcangelo Corelli, Stephen Stubbs, Maxine Eilander, Erin Headley, Milos Valent",
+    "isrc": "DEB330489301"
+  },
+  {
+    "title": "Fantasia",
+    "artist": "Giulio Cesare Barbetta, Jakob Lindberg",
+    "isrc": "SEAEF9199110"
+  },
+  {
+    "title": "Cello Suite No. 1 in G Major, BWV 1007 (Arr. J. Lindberg for Lute): I. Prélude",
+    "artist": "Johann Sebastian Bach, Jakob Lindberg",
+    "isrc": "SEAEB2152040"
+  },
+  {
+    "title": "Suite in F Major: Allemande",
+    "artist": "Wolff Jakob Lauffensteiner, Espen Sørensen",
+    "isrc": "NOUD71901010"
+  },
+  {
+    "title": "Passagalia in G Minor",
+    "artist": "Heinrich Ignaz Franz von Biber, Xavier Diaz-Latorre",
+    "isrc": "BEE021703001"
+  },
+  {
+    "title": "Lachrimae",
+    "artist": "John Dowland, Elizabeth Kenny, Theatre of Early Music",
+    "isrc": "SEAEO0546160"
+  },
+  {
+    "title": "Sonata in E Minor, Op. 2 No. 3: I. Allegro",
+    "artist": "Giuseppe Sammartini, Eduardo Egüez, Margret Koell, Naoki Kitaya, Maurice Steger, Sergio Ciomei, Christian Beuse, Mauro Valli",
+    "isrc": "FRZ140709010"
+  },
+  {
+    "title": "Obsecro te",
+    "artist": "Josquin des Prez, Ariel Abramovich, Lee Santana",
+    "isrc": "DEB331211917"
+  },
+  {
+    "title": "Menuets 1&2",
+    "artist": "Johann Sebastian Bach, Paul Berget",
+    "isrc": "usx9p0643502"
+  },
+  {
+    "title": "Fantasia",
+    "artist": "Cuthbert Hely, Martin Eastwell",
+    "isrc": "GB4RD1700103"
+  },
+  {
+    "title": "Ceccona",
+    "artist": "Giovanni Zamboni, Yavor Genov",
+    "isrc": "NLY331400146"
+  },
+  {
+    "title": "Visée: Pièces de théorbe, Suite No. 2 en ré majeur: Sarabande",
+    "artist": "Robert de Visée, Pascal Monteilhet",
+    "isrc": "FRQ999200017"
+  },
+  {
+    "title": "Corrente in G Major",
+    "artist": "Michelangelo Galilei, Christian Zimmermann",
+    "isrc": "ITD551078502"
+  },
+  {
+    "title": "Toccata arpeggiata",
+    "artist": "Giovanni Girolamo Kapsberger, Jonas Nordberg",
+    "isrc": "SEAEX1648010"
+  },
+  {
+    "title": "Going to California (Arr. for Lute & Harp)",
+    "artist": "Robert Plant, Jimmy Page, Luca Pianca, Margret Koell",
+    "isrc": "DECP61713024"
+  },
+  {
+    "title": "Canarios",
+    "artist": "Gaspar Sanz, Rolf Lislevand, Eduardo Egüez, Beatrice Pornon, Adela Gonzalez-Campa",
+    "isrc": "FR2X41707983"
+  },
+  {
+    "title": "Perceval la quete du Graal: A jig",
+    "artist": "Sylvain Bergeron, La Nef",
+    "isrc": "USKC60710461"
+  },
+  {
+    "title": "Suite in G Major: II. Allemande giguee",
+    "artist": "Charles Hurel, Christopher Wilke",
+    "isrc": "US8271100930"
+  },
+  {
+    "title": "Troïka",
+    "artist": "Andrey Sychra, John Schneiderman",
+    "isrc": "NLY331604774"
+  },
+  {
+    "title": "Toccata 1",
+    "artist": "Giovanni Girolamo Kapsberger, Peter Croton",
+    "isrc": "CH6631278801"
+  },
+  {
+    "title": "Sonata No. 1 in F Major, WeissSW 1: II. Allemande",
+    "artist": "Silvius Leopold Weiss, Michel Cardin",
+    "isrc": "NLY331501765"
+  },
+  {
+    "title": "Dúo de contrapunto",
+    "artist": "Miguel de Fuenllana, Alfred Fernández",
+    "isrc": "ESA081700243"
+  },
+  {
+    "title": "Lute Sonata in C Minor, Op. 1, No. 1: I. Largo",
+    "artist": "Adam Falckenhagen, Andrew Maginley",
+    "isrc": "US8270502089"
+  },
+  {
+    "title": "Fantasia 33",
+    "artist": "Francesco da Milano, Phillip Rukavina",
+    "isrc": "ushm90812789"
+  },
+  {
+    "title": "Suite in A Minor: I. Prelude",
+    "artist": "Marin Marais, Fred Jacobs, Susanne Braumann",
+    "isrc": "QMFMF1480420"
+  },
+  {
+    "title": "Toccata & Fugue in D minor, BWV565",
+    "artist": "Johann Sebastian Bach, Edin Karamazov",
+    "isrc": "GBBBA0800930"
+  },
+  {
+    "title": "La Mallassis",
+    "artist": "Charles Mouton (c. 1626–1710), Robin Rolfhamre",
+    "isrc": "NO22P0910061"
+  },
+  {
+    "title": "Chaconne in G Minor",
+    "artist": "Silvius Leopold Weiss, Gabriele Janneck",
+    "isrc": "FR2X42219852"
+  },
+  {
+    "title": "Tombeau pour Monsieur de Lully",
+    "artist": "Marin Marais, Mauricio Buraglia, Nima Ben David, Pierre Trocellier",
+    "isrc": "FRX201654940"
+  },
+  {
+    "title": "Satie: 6 Gnossiennes: No. 1, Lent",
+    "artist": "Erik Satie, Thomas Dunford",
+    "isrc": "GBAYC2301789"
+  },
+  {
+    "title": "El maestro: Fantasia 1",
+    "artist": "Luis de Milán, Walter Gerwig",
+    "isrc": "DEF055604221"
+  },
+  {
+    "title": "Cappricci a 2 stromenti cioe Tiorba et Tiorbino: Spagnola Corrente",
+    "artist": "Bellerofonte Castaldi, Rodrigo Jarabo",
+    "isrc": "ES54G1009303"
+  },
+  {
+    "title": "Pavane Au Revoir Ma Douce Flame",
+    "artist": "Traditional, Stefano Pando",
+    "isrc": "uscgh0707987"
+  },
+  {
+    "title": "La Vecchia Pavan",
+    "artist": "John Johnson, Lynda Sayce, Matthew Spring",
+    "isrc": "GBCJG0400329"
+  },
+  {
+    "title": "Suite in B-Flat Major: I. Paduana",
+    "artist": "Esaias Reusner, William Waters",
+    "isrc": "NLY331703167"
+  },
+  {
+    "title": "Sol mineur: Chaconne (anonyme)",
+    "artist": "Jean Etienne Vaudry de Saizenay, Claire Antonini",
+    "isrc": "DENO20980406"
+  },
+  {
+    "title": "Chanson Anglaise: Allemande et Reprise",
+    "artist": "Emanuel Adriaenssen, Narciso Yepes",
+    "isrc": "DEF058101750"
+  },
+  {
+    "title": "La Fiorentina",
+    "artist": "Lodovico Grossi da Viadana, Quartetto di Liuti da Milano",
+    "isrc": "NLY331415542"
+  },
+  {
+    "title": "Recercada tercera sobre tenores Italianos, IDO 27, \"Passamezzo moderno\"",
+    "artist": "Diego Ortiz, Joel Frederiksen",
+    "isrc": "DEE471800214"
+  },
+  {
+    "title": "Canzon francese detta Qui la dira a cinque voci di Willaert",
+    "artist": "Andrea Gabrieli, Sébastien Wonner",
+    "isrc": "FR9W12151661"
+  },
+  {
+    "title": "Suite in E Minor, BWV 996: I. Prelude",
+    "artist": "Johann Sebastian Bach, Mario D'Agosto",
+    "isrc": "NLY331214066"
+  },
+  {
+    "title": "Duo Seraphim (Arr. R. Andrico and D. Stewart)",
+    "artist": "Tomás Luis de Victoria, Ron Andrico",
+    "isrc": "USL4Q0794547"
+  },
+  {
+    "title": "Water Ballads, Op. 47: II. Sprite",
+    "artist": "Tom G. Febonio, Ahlert & Schwab Duo",
+    "isrc": "HKI191102205"
+  },
+  {
+    "title": "A Fancy",
+    "artist": "John Marchant, Lautten Compagney",
+    "isrc": "USB8U1011080"
+  },
+  {
+    "title": "Suite in A Minor: I. Le tombeau de tonty. Allemande",
+    "artist": "Robert de Visée, Miguel Yisrael",
+    "isrc": "NLY331500506"
+  },
+  {
+    "title": "Capricio detto il Gran Matias",
+    "artist": "Pietro Paolo Melii, Toru Sakurada",
+    "isrc": "JPM831000112"
+  },
+  {
+    "title": "Pieces in A Minor: I. Allemande",
+    "artist": "Jean Mercure, Anders Ericson",
+    "isrc": "SEVAF1100212"
+  },
+  {
+    "title": "Ricercare terzo",
+    "artist": "Vincenzo Capirola, Federico Marincola",
+    "isrc": "FRZ299302010"
+  },
+  {
+    "title": "Fronimo: Ricercare a quattro voci",
+    "artist": "Vincenzo Galilei, Andrea Damiani",
+    "isrc": "FR6V81084886"
+  },
+  {
+    "title": "Lute Sonata No. 9: III. Giga",
+    "artist": "Giovanni Zamboni, Luciano Còntini",
+    "isrc": "ES7891400803"
+  },
+  {
+    "title": "Sonata No. 60 for 2 Lutes in A Major (missing lute part reconstructed by K.-E. Schroder): I. Vivace",
+    "artist": "Karl-Ernst Schröder, Silvius Leopold Weiss, Robert Barto",
+    "isrc": "CH1491123801"
+  },
+  {
+    "title": "Pieces de clavecin, Book 2, 6th Ordre: Les baricades misterieuses (arr. Y. Imamura)",
+    "artist": "François Couperin, Yasunori Imamura",
+    "isrc": "USB8U1011221"
+  },
+  {
+    "title": "Fantasia No. 9",
+    "artist": "Marco Dall'Aquila, Paolo Cherici",
+    "isrc": "ITD551068509"
+  },
+  {
+    "title": "Fantasia Resonans",
+    "artist": "Joachim van den Hove, The Newberry Consort, Paul O'Dette",
+    "isrc": "USHM19312306"
+  },
+  {
+    "title": "Lute Sonata No. 11 in D Minor: III. Courante",
+    "artist": "Silvius Leopold Weiss, Robert Barto",
+    "isrc": "HKI199623303"
+  },
+  {
+    "title": "Volte",
+    "artist": "Anonymous, Joachim Held",
+    "isrc": "DEA550407942"
+  },
+  {
+    "title": "Toccata IIII",
+    "artist": "Alessandro Piccinini, Rosario Conte",
+    "isrc": "DELC31106005"
+  },
+  {
+    "title": "Concert for 2 Guitars in E Minor: Sarabande",
+    "artist": "Francesco Corbetta, Eric Bellocq, Massimo Moscardo",
+    "isrc": "HKI199635722"
+  },
+  {
+    "title": "La cavaliere: Courante",
+    "artist": "Francesca Torelli, Charles Mouton",
+    "isrc": "USANA2002715"
+  },
+  {
+    "title": "Sonate in Fa Minore: I. Toccata",
+    "artist": "Michelagnolo Galilei, Anthony Bailes",
+    "isrc": "DEY321306001"
+  },
+  {
+    "title": "Schwanengesang, D. 957: Ständchen",
+    "artist": "Franz Schubert, Massimo Moscardo, Éric Bellocq",
+    "isrc": "BER181940905"
+  },
+  {
+    "title": "The Bear - Lute Only",
+    "artist": "Giulio Cesare Barbetta, Massimo Lonardi",
+    "isrc": "ITK791225502"
+  },
+  {
+    "title": "Intavolatura di Liuto, et di Chitarrone, Book 1: Toccata X",
+    "artist": "Alessandro Piccinini, Björn Colell",
+    "isrc": "FR50X1654002"
+  },
+  {
+    "title": "Libro I d'intavolatura di lauto: Toccata No. 1",
+    "artist": "Giovanni Girolamo Kapsberger, Massimo Marchese",
+    "isrc": "US8271200456"
+  },
+  {
+    "title": "Dernière courente de Gautier",
+    "artist": "Denis Gaultier, Bernhard Hofstötter",
+    "isrc": "NLY331502263"
+  },
+  {
+    "title": "Lute Sonata in B-Flat Major: II. Allemande",
+    "artist": "Silvius Leopold Weiss, Lutz Kirchhof",
+    "isrc": "USSM19910648"
+  },
+  {
+    "title": "Sonata G Minor BWV 1001 1. Adagio",
+    "artist": "Johann Sebastian Bach, Alberto Crugnola",
+    "isrc": "DEAR41788898"
+  },
+  {
+    "title": "Con que la lauare. Iuan vazquez",
+    "artist": "Miguel de Fuenllana, Dolores Costoyas",
+    "isrc": "ES7141500468"
+  },
+  {
+    "title": "Gaillarde du comte Essex",
+    "artist": "Nicolas Vallet, Paul O'Dette",
+    "isrc": "USHM10230005"
+  },
+  {
+    "title": "Che farala che dirala",
+    "artist": "Vincenzo Capirola, Christopher Wilson",
+    "isrc": "HKI199839112"
+  },
+  {
+    "title": "Can She Excuse, P. 42 / The Right Honourable Robert, Earl of Essex, His Galliard, P. 42a",
+    "artist": "John Dowland, Bor Zuljan",
+    "isrc": "FR9W12014653"
+  },
+  {
+    "title": "Pieces in D Major-Campanella-David Kellner",
+    "artist": "David Kellner, Edward Martin",
+    "isrc": "USANA0471110"
+  },
+  {
+    "title": "La comminge sarabande",
+    "artist": "Jacques Gallot, Catherine Liddell",
+    "isrc": "US8270610621"
+  },
+  {
+    "title": "Suite No. 10 en sol majeur : Allemande",
+    "artist": "Robert de Visée, Sandro Volta",
+    "isrc": "FRZ179800740"
+  },
+  {
+    "title": "Fantasia",
+    "artist": "Francesco da Milano, Jacob Heringman",
+    "isrc": "GBELX0400746"
+  },
+  {
+    "title": "Joseph lieber Joseph mein",
+    "artist": "Melchior Neusidler, Paul O'Dette",
+    "isrc": "USHM10638821"
+  },
+  {
+    "title": "La Spagna I",
+    "artist": "Vincenzo Capirola, Franklin Lei",
+    "isrc": "HKI190523908"
+  },
+  {
+    "title": "Suite No. 5 In G Minor (after BWV 995 & 1011): IV. Sarabande",
+    "artist": "Johann Sebastian Bach, Nigel North",
+    "isrc": "GBASH9605510"
+  },
+  {
+    "title": "En Me Reverant: En me reverant",
+    "artist": "Daniel Bacheler, Karl Nyhlin",
+    "isrc": "SETSA1214703"
+  },
+  {
+    "title": "Diporti di Euterpe, Op. 7: Lagrime mie",
+    "artist": "Barbara Strozzi, Paul Beier, Emanuela Galli, Ensemble Galilei",
+    "isrc": "FR6V81539548"
+  },
+  {
+    "title": "Canario",
+    "artist": "Giovanni Girolamo Kapsberger, Matthew Wadsworth, Gary Cooper, Mark Levy",
+    "isrc": "GBHQX0300022"
+  },
+  {
+    "title": "Sonata No. 45 in A Major: I. Introduzzione",
+    "artist": "Silvius Leopold Weiss, Lucas Harris",
+    "isrc": "usl4q0809914"
+  },
+  {
+    "title": "Cuatro Diferencias Sobre Guárdame Las Vacas",
+    "artist": "Luis de Narváez, Juan Carlos Rivera",
+    "isrc": "MX2831000458"
+  },
+  {
+    "title": "Arpeggione Sonata in A Minor, D. 821 (arr. W. Feybli and K. Ragossnig): III. Allegretto",
+    "artist": "Konrad Ragossnig, Franz Schubert, Walter Feybli, Boris Andrianov, Dimitri Illarionov",
+    "isrc": "USASX0632404"
+  },
+  {
+    "title": "Tombeau de M. Blanrocher",
+    "artist": "Dufaut, Toyohiko Satoh",
+    "isrc": "NLA460711403"
+  },
+  {
+    "title": "Questi cappelli d'or",
+    "artist": "Giacomo Gorzanis, Oni Wytars Ensemble",
+    "isrc": "DEE471500096"
+  },
+  {
+    "title": "Un fiore gentile m'apparse",
+    "artist": "Zachara da Teramo, Munir Beken, August Denhard",
+    "isrc": "USKC61113316"
+  },
+  {
+    "title": "Pavane",
+    "artist": "Pierre Attaingnant, Ronn McFarlane",
+    "isrc": "USKC60711634"
+  },
+  {
+    "title": "Sonata for Lute No. 8 in A Major: II. Allemande",
+    "artist": "Silvius Leopold Weiss, Lee Santana",
+    "isrc": "DEE471500256"
+  },
+  {
+    "title": "Pavana",
+    "artist": "Anonymous, Shirley Rumsey, Christopher Wilson",
+    "isrc": "HKI199839115"
+  },
+  {
+    "title": "Vergine bella",
+    "artist": "Giovanni Pierluigi da Palestrina, Venere Lute Quartet",
+    "isrc": "usl4r0729510"
+  },
+  {
+    "title": "A Ground",
+    "artist": "Godfry Finger, Axel Wolf, Iris Lichtinger",
+    "isrc": "DEUM42205001"
+  },
+  {
+    "title": "Fantasia [Castelfranco Manuscript]",
+    "artist": "Francesco da Milano, Paul O'Dette",
+    "isrc": "USHM19204301"
+  },
+  {
+    "title": "Suite in D Minor: IV. Canaries",
+    "artist": "Ennemond Gaultier, Hopkinson Smith",
+    "isrc": "FR47Q1202980"
+  },
+  {
+    "title": "Bergamasca",
+    "artist": "Giulio Cesare Barbetta, Alberto Rasi, Accademia Strumentale Italiana",
+    "isrc": "ITJ091700327"
+  },
+  {
+    "title": "Sonata Op. 5, No. 10: Sarabanda",
+    "artist": "Arcangelo Corelli, Stephen Stubbs, Maxine Eilander, Erin Headley, Milos Valent",
+    "isrc": "DEB330489309"
+  },
+  {
+    "title": "Adagio - Allegro Menuet in B Minor",
+    "artist": "Wolff Jakob Lauffensteiner, Gabriele Janneck",
+    "isrc": "DEGR81608414"
+  },
+  {
+    "title": "Fantasia (I)",
+    "artist": "Cuthbert Hely, Jakob Lindberg",
+    "isrc": "SEAEV1355130"
+  },
+  {
+    "title": "Pièces de théorbe, Suite in A Minor: I. Prélude",
+    "artist": "Robert de Visée, Xavier Diaz-Latorre",
+    "isrc": "BEE021803801"
+  },
+  {
+    "title": "Spagnioletta (Arr. for Harp and Baroque Guitar) - From \"Vatican, Biblioteca Apostolica, MSS Chigi Q. VIII.206, ff. 136-136v\"",
+    "artist": "Anonymous, Eduardo Egüez, Giovanna Pessi",
+    "isrc": "BEBI80611001"
+  },
+  {
+    "title": "Dido and Aeneas, Z. 626, Act 3: VII. Thy hand, Belinda, darkness shades me - When I am laid in earth (Dido)",
+    "artist": "Henry Purcell, Elizabeth Kenny, Steven Devine, Orchestra of the Age of Enlightenment, Dame Sarah Connolly, Choir of the Enlightenmen",
+    "isrc": "GBLWD0900630"
+  },
+  {
+    "title": "Mille regretz, NJE 28.25 (Arr. for Vihuela)",
+    "artist": "Josquin des Prez, Ariel Abramovich",
+    "isrc": "ES7892102204"
+  },
+  {
+    "title": "La jeune fillette",
+    "artist": "Daniel Bacheler, Martin Eastwell",
+    "isrc": "GB4RD1700095"
+  },
+  {
+    "title": "Sonata No. 8: I. Arpeggio",
+    "artist": "Giovanni Zamboni, Yavor Genov",
+    "isrc": "NLY331400111"
+  },
+  {
+    "title": "Visée: Pièces de théorbe, Suite No. 2 en ré majeur: Allemande",
+    "artist": "Robert de Visée, Pascal Monteilhet",
+    "isrc": "FRQ999200015"
+  },
+  {
+    "title": "Toccata in D Minor",
+    "artist": "Michelangelo Galilei, Christian Zimmermann",
+    "isrc": "ITD551078508"
+  },
+  {
+    "title": "A Fancy, P. 73",
+    "artist": "John Dowland, Jonas Nordberg",
+    "isrc": "SEAEC2227020"
+  },
+  {
+    "title": "Bron-Y-Aur Stomp (Arr. for Lute & Harp)",
+    "artist": "John Paul Jones, Robert Plant, Jimmy Page, Luca Pianca, Margret Koell",
+    "isrc": "DECP61713010"
+  },
+  {
+    "title": "Perceval la quete du Graal: Dans la foret perdue (In the Lost Forest): Air des Chevaliers (Choir, Perceval)",
+    "artist": "Sylvain Bergeron, Daniel Taylor, Claire Gignac, Viviane LeBlanc, Catherine Herrmann, Rafik Samman, Nicolas Lemieux, La Nef",
+    "isrc": "USKC60713273"
+  },
+  {
+    "title": "Suite in C Minor from Pieces de luth Premier Liure: II. La Complaisante Allemande",
+    "artist": "Charles Mouton, Anders Ericson",
+    "isrc": "SEVAF1400102"
+  },
+  {
+    "title": "Fantasia",
+    "artist": "Anthony Holborne, Federico Marincola",
+    "isrc": "FRZ299552020"
+  },
+  {
+    "title": "Fronimo: Passemezzo sesto",
+    "artist": "Vincenzo Galilei, Andrea Damiani",
+    "isrc": "FR6V81084888"
+  },
+  {
+    "title": "Lute Sonata No. 6: I. Alemanda",
+    "artist": "Giovanni Zamboni, Luciano Còntini",
+    "isrc": "ES7891400806"
+  },
+  {
+    "title": "Sonata No. 60 for 2 Lutes in A Major (missing lute part reconstructed by K.-E. Schroder): II. Allegro",
+    "artist": "Karl-Ernst Schröder, Silvius Leopold Weiss, Robert Barto",
+    "isrc": "CH1491123802"
+  },
+  {
+    "title": "Pieces de clavecin, Book 2: 7th Ordre: La Menetou (Rondeau) (arr. Y. Imamura)",
+    "artist": "François Couperin, Yasunori Imamura",
+    "isrc": "USB8U1011229"
+  },
+  {
+    "title": "Intabolatura de lauto, Book 4: Pavana alla ferrarese, Saltarello e Piva, Ricercar detto coda",
+    "artist": "Joan Ambrosio Dalza, Paolo Cherici",
+    "isrc": "CH1491125634"
+  },
+  {
+    "title": "The Firste Booke of Songes: Pavana Lachrimae",
+    "artist": "Joachim van den Hove, Paul O'Dette",
+    "isrc": "USHM19616412"
+  },
+  {
+    "title": "Lute Sonata No. 11 in D Minor: II. Allemande",
+    "artist": "Silvius Leopold Weiss, Robert Barto",
+    "isrc": "HKI199623302"
+  },
+  {
+    "title": "Toccate",
+    "artist": "Paolo D'Aragon, Joachim Held",
+    "isrc": "DEA550407946"
+  },
+  {
+    "title": "Gagliarda IV per Ballare",
+    "artist": "Alessandro Piccinini, Rosario Conte",
+    "isrc": "DELC31106002"
+  },
+  {
+    "title": "Suite for 2 Theorbos in E Minor: Allemande",
+    "artist": "Robert de Visée, Eric Bellocq, Massimo Moscardo",
+    "isrc": "HKI199635702"
+  },
+  {
+    "title": "L'impromptu: Allemande",
+    "artist": "Francesca Torelli, Charles Mouton",
+    "isrc": "USANA2002714"
+  },
+  {
+    "title": "Vivaldi: Concerto for Viola d'amore and Lute in D Minor, RV 540: II. Largo",
+    "artist": "Antonio Vivaldi, Anthony Bailes, Members Of Danske Strings, Wim Ten Have",
+    "isrc": "GBAYC8806184"
+  },
+  {
+    "title": "Passymeasure Galliard",
+    "artist": "John Daniel, Massimo Moscardo, Éric Bellocq",
+    "isrc": "FR50X0508113"
+  },
+  {
+    "title": "Piccinini : Toccata",
+    "artist": "Alessandro Piccinini, Il Giardino Armonico",
+    "isrc": "DEA800014800"
+  },
+  {
+    "title": "Estantz assis aux rives aquatiques",
+    "artist": "Simon Gorlier, Massimo Lonardi",
+    "isrc": "FR6V81579184"
+  },
+  {
+    "title": "Intabulatura de lauto, Book 1: Adiu mes amours",
+    "artist": "Francesco Spinacino, Massimo Marchese",
+    "isrc": "ITD551036601"
+  },
+  {
+    "title": "Air - La double",
+    "artist": "Anonymous, Bernhard Hofstötter",
+    "isrc": "DEPU72217215"
+  },
+  {
+    "title": "La cancion del emperador. Mille Regres (after a Canzon by Josquin Desprez)",
+    "artist": "Luis de Narváez, Lutz Kirchhof",
+    "isrc": "USSM19904174"
+  },
+  {
+    "title": "Prelude C Minor BWV 999",
+    "artist": "Johann Sebastian Bach, Alberto Crugnola",
+    "isrc": "DEAR41728278"
+  },
+  {
+    "title": "De los alamos vengo madre. Iuan vazquez",
+    "artist": "Miguel de Fuenllana, Dolores Costoyas",
+    "isrc": "ES7141500462"
+  },
+  {
+    "title": "Passemeze en b mol",
+    "artist": "Nicolas Vallet, Paul O'Dette",
+    "isrc": "USHM10230002"
+  },
+  {
+    "title": "Pavana alla venetiana",
+    "artist": "Joan Ambrosio Dalza, Christopher Wilson",
+    "isrc": "HKI199839103"
+  },
+  {
+    "title": "A Fancy, P. 73",
+    "artist": "John Dowland, Bor Zuljan",
+    "isrc": "FR9W12014652"
+  },
+  {
+    "title": "Suite in C Major-1 Prelude-Johann Gottfried Conradi",
+    "artist": "Johann Gottfried Conradi, Edward Martin",
+    "isrc": "USANA0471101"
+  },
+  {
+    "title": "La belle voilee duchesse de la valliere allemande",
+    "artist": "Jacques Gallot, Catherine Liddell",
+    "isrc": "US8270610619"
+  },
+  {
+    "title": "12 Easy Variations on the Austrian National Air, Op. 47",
+    "artist": "Mauro Giuliani, Sandro Volta",
+    "isrc": "DEU241107172"
+  },
+  {
+    "title": "O virgo virginum [Anne Boleyn Songbook: Royal College of Music, MS 1070]",
+    "artist": "Anonymous, Jacob Heringman, Kirsty Whatley",
+    "isrc": "GBCJG1402106"
+  },
+  {
+    "title": "Der Fuggerin Dantz",
+    "artist": "Melchior Neusidler, Paul O'Dette",
+    "isrc": "USHM10638805"
+  },
+  {
+    "title": "Ricercare No. 1: Recerchar I",
+    "artist": "Vincenzo Capirola, Franklin Lei",
+    "isrc": "HKI190523907"
+  }
+]

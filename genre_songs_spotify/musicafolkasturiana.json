@@ -1,0 +1,937 @@
+[
+  {
+    "title": "El Cura Ta Malu",
+    "artist": "N'Arba",
+    "isrc": "ES19G0102048"
+  },
+  {
+    "title": "Las l.laranxas de Balsera",
+    "artist": "Igor Medio,Lisardo Prieto",
+    "isrc": "ESA011001138"
+  },
+  {
+    "title": "Amanecer de Nueite",
+    "artist": "Herbamora",
+    "isrc": "QM6P41756794"
+  },
+  {
+    "title": "Suena'l Camín",
+    "artist": "La Coḷḷá Propinde",
+    "isrc": "ES19G0500967"
+  },
+  {
+    "title": "A la Vera de Borín",
+    "artist": "La Bandina",
+    "isrc": "ES19G0800919"
+  },
+  {
+    "title": "Timorato",
+    "artist": "Blima",
+    "isrc": "ES19G0700956"
+  },
+  {
+    "title": "Moxeca",
+    "artist": "DRD",
+    "isrc": "QM4TW1885387"
+  },
+  {
+    "title": "Andolina",
+    "artist": "Tuenda",
+    "isrc": "ushm21136604"
+  },
+  {
+    "title": "La Xana",
+    "artist": "Corquiéu",
+    "isrc": "ES19G0100984"
+  },
+  {
+    "title": "Ca la Piesca",
+    "artist": "Llangres",
+    "isrc": "QM7281710617"
+  },
+  {
+    "title": "El raigañu",
+    "artist": "Tarañu",
+    "isrc": "ES19G0401134"
+  },
+  {
+    "title": "Ribeseya",
+    "artist": "Baxel, Paul Balmori, Rigu Suárez",
+    "isrc": "QMDA62138135"
+  },
+  {
+    "title": "Caldueñu",
+    "artist": "Diego Pangua",
+    "isrc": "ESAAI0245168"
+  },
+  {
+    "title": "Gaita Asturiana - Asturias",
+    "artist": "Xuacu Amieva",
+    "isrc": "FRY479101807"
+  },
+  {
+    "title": "La xana'L llagu",
+    "artist": "Brenga Astur",
+    "isrc": "ES5070200018"
+  },
+  {
+    "title": "El Galán D'esta Villa",
+    "artist": "Anabel Santiago",
+    "isrc": "ES7180750801"
+  },
+  {
+    "title": "Ya si sos pintalarrama",
+    "artist": "Calea",
+    "isrc": "QM4TW2259891"
+  },
+  {
+    "title": "Villamiana",
+    "artist": "Eva Tejedor & Les Pandereteres",
+    "isrc": "ES20D1900810"
+  },
+  {
+    "title": "Marcha d'Antón el Neñu",
+    "artist": "Beleño",
+    "isrc": "QM6MZ1883007"
+  },
+  {
+    "title": "El Campanu",
+    "artist": "Balandrán",
+    "isrc": "ES19G9601078"
+  },
+  {
+    "title": "Nun Llores, Nin",
+    "artist": "Ún de Grao",
+    "isrc": "QM7281824284"
+  },
+  {
+    "title": "La Media Vuelta",
+    "artist": "Xeitu",
+    "isrc": "QMBZ91923882"
+  },
+  {
+    "title": "Sangre d'Ochobre",
+    "artist": "Skanda",
+    "isrc": "ES19G0400897"
+  },
+  {
+    "title": "Don Federico",
+    "artist": "Muyeres",
+    "isrc": "ES20D1904001"
+  },
+  {
+    "title": "Loa Fayeos de Mayo",
+    "artist": "Felpeyu",
+    "isrc": "ESA011222214"
+  },
+  {
+    "title": "La Casa Gris",
+    "artist": "Llan de Cubel",
+    "isrc": "QM6P41918751"
+  },
+  {
+    "title": "Maruxines",
+    "artist": "¿Aú?",
+    "isrc": "QM6P41753636"
+  },
+  {
+    "title": "Ima",
+    "artist": "D'Urria",
+    "isrc": "QMDA71848289"
+  },
+  {
+    "title": "Jota dos dous golpes / Moliñeira de Pedro",
+    "artist": "Caldo y Os Rabizos",
+    "isrc": "QM6P41970820"
+  },
+  {
+    "title": "La trova del mineru",
+    "artist": "Asturiana Mining Company",
+    "isrc": "GBAAU0001709"
+  },
+  {
+    "title": "L.luna (agarráu)",
+    "artist": "L-R, Rodrigo Cuevas",
+    "isrc": "QMFMG2376013"
+  },
+  {
+    "title": "Chalaneru",
+    "artist": "Tejedor",
+    "isrc": "ES5789900035"
+  },
+  {
+    "title": "Danza de Santana / Muñeira de Tor",
+    "artist": "Folkgando",
+    "isrc": "ES19G9801227"
+  },
+  {
+    "title": "Salmoriera",
+    "artist": "Banda de Gaites Villa de Xixón",
+    "isrc": "QMBZ91717595"
+  },
+  {
+    "title": "Valses de La Garrapiella",
+    "artist": "La Garrapiella, Algaire",
+    "isrc": "QM6P42210875"
+  },
+  {
+    "title": "Rucaúres",
+    "artist": "Alienda",
+    "isrc": "QM6N21970116"
+  },
+  {
+    "title": "Bretaña",
+    "artist": "Cerezal",
+    "isrc": "ES20D1901607"
+  },
+  {
+    "title": "En el pozu María Luisa",
+    "artist": "Nuberu",
+    "isrc": "ESAAI0236997"
+  },
+  {
+    "title": "Cuntando estrelles",
+    "artist": "Fontoria",
+    "isrc": "QM6MZ2430055"
+  },
+  {
+    "title": "Verdiciu",
+    "artist": "Chus Pedro",
+    "isrc": "ESAAI0236956"
+  },
+  {
+    "title": "Gaiteru",
+    "artist": "Gueta Na Fonte",
+    "isrc": "ES19G0201278"
+  },
+  {
+    "title": "Llume",
+    "artist": "Algaire",
+    "isrc": "ES20D2200210"
+  },
+  {
+    "title": "Himno a Covadonga",
+    "artist": "Trasgu",
+    "isrc": "QM6MZ1883108"
+  },
+  {
+    "title": "Lluz",
+    "artist": "Jose Manuel Tejedor",
+    "isrc": "QM4TX2099636"
+  },
+  {
+    "title": "Tornallás",
+    "artist": "Banda Gaites Llacín",
+    "isrc": "ES19G0200941"
+  },
+  {
+    "title": "Al Pasar per el Puertu",
+    "artist": "Verdasca",
+    "isrc": "QM4TW1926598"
+  },
+  {
+    "title": "Astierna",
+    "artist": "6 Riales",
+    "isrc": "QMFME2387504"
+  },
+  {
+    "title": "Saltón Xiringüelu",
+    "artist": "Xaréu Folk",
+    "isrc": "ESAAI0244830"
+  },
+  {
+    "title": "Brañascardén",
+    "artist": "La Bandina'l Tombo",
+    "isrc": "QMFME2169638"
+  },
+  {
+    "title": "Somos - Versión 2018",
+    "artist": "La Tarrancha, delagua",
+    "isrc": "QM7281878043"
+  },
+  {
+    "title": "Valiente",
+    "artist": "Hector Braga, Víctor Manuel",
+    "isrc": "QZK6Q2462315"
+  },
+  {
+    "title": "La Mesma Revolución",
+    "artist": "Silvia Quesada",
+    "isrc": "QM4TX1943890"
+  },
+  {
+    "title": "Sicasí (しかし)",
+    "artist": "Slum Suit",
+    "isrc": "QMBZ91731444"
+  },
+  {
+    "title": "Agarrao de María y Lucero",
+    "artist": "Mapi Quintana",
+    "isrc": "QM6P42355864"
+  },
+  {
+    "title": "La seronda",
+    "artist": "Skitarna",
+    "isrc": "ES19G0001153"
+  },
+  {
+    "title": "Irish Fleadh",
+    "artist": "Guieldu",
+    "isrc": "QM4TW2253890"
+  },
+  {
+    "title": "RE3MBÁU",
+    "artist": "Abéu",
+    "isrc": "QM6MZ2132723"
+  },
+  {
+    "title": "Odisea la nuí",
+    "artist": "La Bonturné",
+    "isrc": "QM6N22306153"
+  },
+  {
+    "title": "Saldiguera",
+    "artist": "Llevólu'l Sumiciu",
+    "isrc": "CH6542169665"
+  },
+  {
+    "title": "Marcha del 3t4",
+    "artist": "Ruben Alba",
+    "isrc": "QM4TX1830071"
+  },
+  {
+    "title": "Discursu de Belarmino Tomás énte los soldaos mentes camina sobre les agües del ríu Nalón",
+    "artist": "Xaime Martínez",
+    "isrc": "QM7281859556"
+  },
+  {
+    "title": "Caldueñu",
+    "artist": "Burbús",
+    "isrc": "ES20D2200301"
+  },
+  {
+    "title": "Onde la nublina Posa",
+    "artist": "Mariluz Cristóbal Caunedo",
+    "isrc": "ES71G2040076"
+  },
+  {
+    "title": "Pupurri Asturianu",
+    "artist": "Banda de Gaites de Corvera d'Asturies",
+    "isrc": "QM7281708813"
+  },
+  {
+    "title": "La romería de San Andrés",
+    "artist": "Fernando Valle Roso, Silvia Moreno",
+    "isrc": "QM4TX2106620"
+  },
+  {
+    "title": "Vivo N'algún Llugar",
+    "artist": "Vrienden",
+    "isrc": "GBMJG1609955"
+  },
+  {
+    "title": "Macorina",
+    "artist": "Marisa Valle Roso",
+    "isrc": "ES67D1700003"
+  },
+  {
+    "title": "Arxentola",
+    "artist": "Bras Rodrigo",
+    "isrc": "QM6P42047567"
+  },
+  {
+    "title": "Lo Suelto Ayerán",
+    "artist": "Grupu de Baille Tradicional San Félix",
+    "isrc": "QM4TW1926631"
+  },
+  {
+    "title": "Lloza",
+    "artist": "Xera",
+    "isrc": "USCGH1782676"
+  },
+  {
+    "title": "Covadonga",
+    "artist": "Vicente Díaz",
+    "isrc": "TCABT1402159"
+  },
+  {
+    "title": "Busindre Reel",
+    "artist": "Hevia",
+    "isrc": "ES5099800760"
+  },
+  {
+    "title": "El Mio Cuñéu",
+    "artist": "La Cigua",
+    "isrc": "ES19G9901101"
+  },
+  {
+    "title": "El vieyu gaiteru",
+    "artist": "Xentiquina",
+    "isrc": "QM6N21821665"
+  },
+  {
+    "title": "Muñeires (Tormaleo / 100 años nel Riu La Plata / Asturies Jig)",
+    "artist": "Flavio Benito",
+    "isrc": "ES5070100170"
+  },
+  {
+    "title": "Muñeiras de Tormaleo y Boal",
+    "artist": "Orquesta Céltica Asturiana",
+    "isrc": "usdy41511554"
+  },
+  {
+    "title": "Eclipse",
+    "artist": "Cave Canem",
+    "isrc": "ES19G0301119"
+  },
+  {
+    "title": "Xiringüelu 2000",
+    "artist": "Manolo Quirós",
+    "isrc": "QM7281734878"
+  },
+  {
+    "title": "Quirosanu",
+    "artist": "Balagar",
+    "isrc": "QM6N22279750"
+  },
+  {
+    "title": "El Ramu",
+    "artist": "Niundes",
+    "isrc": "ES19G0201272"
+  },
+  {
+    "title": "Xotes",
+    "artist": "Ú?",
+    "isrc": "ES19G0201283"
+  },
+  {
+    "title": "Hay Una Linea Trazada",
+    "artist": "José Noriega, Ignacio Noriega",
+    "isrc": "NLC190500053"
+  },
+  {
+    "title": "Che Anga Jara Rangué",
+    "artist": "Sergio Rodríguez",
+    "isrc": "PYA051703118"
+  },
+  {
+    "title": "En Somio",
+    "artist": "Agrupación De Coros Y Danzas De La Sección Femenina",
+    "isrc": "ES64A0811001"
+  },
+  {
+    "title": "En Oviedo No Me Caso",
+    "artist": "Coro Del Centro Asturiano De Barcelona",
+    "isrc": "ES7930905051"
+  },
+  {
+    "title": "L.lanuces",
+    "artist": "Dubram",
+    "isrc": "ES19G0001266"
+  },
+  {
+    "title": "La Fonda de Lola - En Directo",
+    "artist": "Héctor Braga, Victoria Inguanzo, Xuan Menéndez",
+    "isrc": "ES6342300007"
+  },
+  {
+    "title": "Alborada d'Allonquía",
+    "artist": "La Vierbene",
+    "isrc": "ES19G0001268"
+  },
+  {
+    "title": "Xota Astur",
+    "artist": "Lliberdón",
+    "isrc": "QMDA61408158"
+  },
+  {
+    "title": "Cantar de Bodas",
+    "artist": "Los Gatos del Fornu",
+    "isrc": "ES19G0001260"
+  },
+  {
+    "title": "Aída de la fuente",
+    "artist": "Nuberu (F)",
+    "isrc": "ES5079700298"
+  },
+  {
+    "title": "Chicos D la Calle",
+    "artist": "Sergio Rodriguez, Pato",
+    "isrc": "ESA012179805"
+  },
+  {
+    "title": "De Grau a Concarneau",
+    "artist": "N'Arba",
+    "isrc": "ES19G0102051"
+  },
+  {
+    "title": "Ribesella",
+    "artist": "Igor Medio,Lisardo Prieto",
+    "isrc": "ESA011001134"
+  },
+  {
+    "title": "Mermuradora",
+    "artist": "Herbamora",
+    "isrc": "QM6P41756795"
+  },
+  {
+    "title": "Cuerri Pal Monte",
+    "artist": "La Coḷḷá Propinde",
+    "isrc": "ES19G0500965"
+  },
+  {
+    "title": "La Danza",
+    "artist": "La Bandina, Dixebra",
+    "isrc": "ES19G0701409"
+  },
+  {
+    "title": "Besu",
+    "artist": "Blima",
+    "isrc": "ES19G0700955"
+  },
+  {
+    "title": "Seique",
+    "artist": "DRD",
+    "isrc": "ESAAI0245218"
+  },
+  {
+    "title": "Non, Non, Maruxa",
+    "artist": "Tuenda",
+    "isrc": "QMFME2162512"
+  },
+  {
+    "title": "Naguando por Asur",
+    "artist": "Corquiéu",
+    "isrc": "ES19G0100991"
+  },
+  {
+    "title": "Esnalar",
+    "artist": "Llangres",
+    "isrc": "QM7281710743"
+  },
+  {
+    "title": "Altu Ayer!",
+    "artist": "Tarañu",
+    "isrc": "ES19G0401129"
+  },
+  {
+    "title": "La danza Sardalla",
+    "artist": "Baxel, Paul Balmori, Rigu Suárez",
+    "isrc": "QMDA62138144"
+  },
+  {
+    "title": "Sones D'Arriba",
+    "artist": "Diego Pangua",
+    "isrc": "ESAAI0245179"
+  },
+  {
+    "title": "La Baxada Los Llobos",
+    "artist": "Xuacu Amieva",
+    "isrc": "ES5789900058"
+  },
+  {
+    "title": "Los Playos",
+    "artist": "Brenga Astur",
+    "isrc": "ES19G9802076"
+  },
+  {
+    "title": "De Los Picos D'Europa",
+    "artist": "Anabel Santiago",
+    "isrc": "ES7180750807"
+  },
+  {
+    "title": "Piedras",
+    "artist": "Calea",
+    "isrc": "QM6N22305665"
+  },
+  {
+    "title": "La Y",
+    "artist": "Eva Tejedor & Les Pandereteres",
+    "isrc": "ES20D1900803"
+  },
+  {
+    "title": "La Dixebra",
+    "artist": "Beleño",
+    "isrc": "QM6MZ1883055"
+  },
+  {
+    "title": "Onde la Mar",
+    "artist": "Balandrán",
+    "isrc": "ES19G9601073"
+  },
+  {
+    "title": "Quítate Neña",
+    "artist": "Ún de Grao",
+    "isrc": "QM6P41789995"
+  },
+  {
+    "title": "La Jota “Debajo del Puente hay una Morena\"",
+    "artist": "Xeitu",
+    "isrc": "QMBZ91923885"
+  },
+  {
+    "title": "Trébede / Saltón",
+    "artist": "Skanda",
+    "isrc": "ES19G0400902"
+  },
+  {
+    "title": "Voltiaes",
+    "artist": "Muyeres",
+    "isrc": "ES20D1904008"
+  },
+  {
+    "title": "Llonxana",
+    "artist": "Llan de Cubel",
+    "isrc": "QM6P42347984"
+  },
+  {
+    "title": "Tomasín",
+    "artist": "¿Aú?",
+    "isrc": "QM4TW2127238"
+  },
+  {
+    "title": "Préstame dir",
+    "artist": "Felpeyu",
+    "isrc": "QMBZ91761765"
+  },
+  {
+    "title": "Vítor",
+    "artist": "D'Urria, Tuenda, Xosé Ambás",
+    "isrc": "QMDA71848288"
+  },
+  {
+    "title": "Muñeiras de Serapio ya Paredes",
+    "artist": "Caldo y Os Rabizos",
+    "isrc": "QM6P41970833"
+  },
+  {
+    "title": "Muñeira de Faro",
+    "artist": "Asturiana Mining Company",
+    "isrc": "GBAAU0001708"
+  },
+  {
+    "title": "Muñeira d'A Estierna",
+    "artist": "L-R",
+    "isrc": "QM7281884255"
+  },
+  {
+    "title": "Texendo Suaños",
+    "artist": "Tejedor",
+    "isrc": "ES5789900037"
+  },
+  {
+    "title": "Muñeira de Carcarosa / Danza Irlandesa",
+    "artist": "Folkgando",
+    "isrc": "ES19G9801229"
+  },
+  {
+    "title": "Malin Head",
+    "artist": "Banda de Gaites Villa de Xixón",
+    "isrc": "QMBZ91717593"
+  },
+  {
+    "title": "Pasodobles",
+    "artist": "La Garrapiella",
+    "isrc": "QM6P42210872"
+  },
+  {
+    "title": "Como'l Cuélebre",
+    "artist": "Alienda",
+    "isrc": "QM4TX2351898"
+  },
+  {
+    "title": "La Polesina",
+    "artist": "Cerezal",
+    "isrc": "ES20D1901603"
+  },
+  {
+    "title": "Pa'l Raposu",
+    "artist": "Fontoria",
+    "isrc": "QM6MZ1939605"
+  },
+  {
+    "title": "Ser asturianu",
+    "artist": "Nuberu",
+    "isrc": "ESAAI0236969"
+  },
+  {
+    "title": "Yo fui al Carmín de La Pola",
+    "artist": "Chus Pedro",
+    "isrc": "ESAAI0236961"
+  },
+  {
+    "title": "Power of gaites",
+    "artist": "Gueta Na Fonte",
+    "isrc": "ES19G0201277"
+  },
+  {
+    "title": "Corralín",
+    "artist": "Algaire",
+    "isrc": "ES20D2200203"
+  },
+  {
+    "title": "Danza del Trillo",
+    "artist": "Trasgu",
+    "isrc": "QM6MZ1883104"
+  },
+  {
+    "title": "Aviles to Cork",
+    "artist": "Jose Manuel Tejedor",
+    "isrc": "ESA082202310"
+  },
+  {
+    "title": "Xideces",
+    "artist": "Banda Gaites Llacín",
+    "isrc": "ES19G0800934"
+  },
+  {
+    "title": "Valse / Rabilada",
+    "artist": "Verdasca",
+    "isrc": "QM4TW1926607"
+  },
+  {
+    "title": "L'allegría",
+    "artist": "6 Riales",
+    "isrc": "QMFMF2309763"
+  },
+  {
+    "title": "Montañesa",
+    "artist": "Xaréu Folk",
+    "isrc": "QM6MZ1883392"
+  },
+  {
+    "title": "Ruxinas",
+    "artist": "La Bandina'l Tombo",
+    "isrc": "QMFME2169630"
+  },
+  {
+    "title": "Salíi Llokes",
+    "artist": "La Tarrancha",
+    "isrc": "QM7281878032"
+  },
+  {
+    "title": "Llobatu",
+    "artist": "Hector Braga, Hevia",
+    "isrc": "QZWFJ2364997"
+  },
+  {
+    "title": "Podía Ser Peor",
+    "artist": "Silvia Quesada",
+    "isrc": "ES20D1901903"
+  },
+  {
+    "title": "L'Espeyu",
+    "artist": "Slum Suit",
+    "isrc": "ES20D1900204"
+  },
+  {
+    "title": "Zagaleja",
+    "artist": "Mapi Quintana, La Maramoniz",
+    "isrc": "QM6N22334659"
+  },
+  {
+    "title": "¡Una de piescos!",
+    "artist": "Skitarna",
+    "isrc": "ES19G0001159"
+  },
+  {
+    "title": "Angueira",
+    "artist": "Guieldu, Pepín de Muñalén",
+    "isrc": "QM4TW2402400"
+  },
+  {
+    "title": "dame tira",
+    "artist": "Abéu",
+    "isrc": "QM6MZ2132720"
+  },
+  {
+    "title": "La Punta'l Boquerón",
+    "artist": "La Bonturné",
+    "isrc": "QM4TX2351924"
+  },
+  {
+    "title": "Ronzón",
+    "artist": "Llevólu'l Sumiciu, Neurora",
+    "isrc": "CH6542341165"
+  },
+  {
+    "title": "Baila conmigo",
+    "artist": "Ruben Alba, Eva Tejedor",
+    "isrc": "QM6N22441837"
+  },
+  {
+    "title": "La Santina como centru del mundu, o aplicación de la vulcanoloxía d'Athanasius Kircher",
+    "artist": "Xaime Martínez",
+    "isrc": "QM7281859552"
+  },
+  {
+    "title": "Culubreiru",
+    "artist": "Burbús",
+    "isrc": "ES20D2200302"
+  },
+  {
+    "title": "Vaqueira",
+    "artist": "Mariluz Cristóbal Caunedo",
+    "isrc": "QMDA62120138"
+  },
+  {
+    "title": "Esti Pandeiru",
+    "artist": "N'Arba",
+    "isrc": "ES19G0102055"
+  },
+  {
+    "title": "Seronda",
+    "artist": "Igor Medio,Lisardo Prieto",
+    "isrc": "ESA011001137"
+  },
+  {
+    "title": "Del Vuelu d'Una Saya",
+    "artist": "Herbamora",
+    "isrc": "ES19G0701016"
+  },
+  {
+    "title": "L'Emigrante",
+    "artist": "La Coḷḷá Propinde",
+    "isrc": "ES19G0200983"
+  },
+  {
+    "title": "Perlindango",
+    "artist": "La Bandina",
+    "isrc": "ES19G0800928"
+  },
+  {
+    "title": "Ayande / Tolena",
+    "artist": "Blima",
+    "isrc": "ES19G0700951"
+  },
+  {
+    "title": "Tremoria",
+    "artist": "DRD",
+    "isrc": "QM4TW1885388"
+  },
+  {
+    "title": "Ramu y trepeletré",
+    "artist": "Tuenda",
+    "isrc": "QMFME2162548"
+  },
+  {
+    "title": "Viquina",
+    "artist": "Corquiéu",
+    "isrc": "QM7281733883"
+  },
+  {
+    "title": "La primavera",
+    "artist": "Llangres",
+    "isrc": "ushm21136606"
+  },
+  {
+    "title": "Vaqueiru d'Alzada",
+    "artist": "Tarañu",
+    "isrc": "ES19G0401124"
+  },
+  {
+    "title": "El cantar del Simpatías",
+    "artist": "Baxel, Paul Balmori, Rigu Suárez",
+    "isrc": "QMDA62138137"
+  },
+  {
+    "title": "Xota'l Centru",
+    "artist": "Diego Pangua",
+    "isrc": "ESAAI0245177"
+  },
+  {
+    "title": "Muñeira de Batribán",
+    "artist": "Xuacu Amieva",
+    "isrc": "QM7281775628"
+  },
+  {
+    "title": "La tona'l nuberu",
+    "artist": "Brenga Astur",
+    "isrc": "ES5079900142"
+  },
+  {
+    "title": "Tráimela",
+    "artist": "Anabel Santiago",
+    "isrc": "QM6P41869888"
+  },
+  {
+    "title": "Cantu a las muyeres",
+    "artist": "Calea",
+    "isrc": "QM6MZ2275912"
+  },
+  {
+    "title": "Mocina, Dame un Besín",
+    "artist": "Eva Tejedor & Les Pandereteres",
+    "isrc": "ES20D1900802"
+  },
+  {
+    "title": "Na Ca'l Fuau",
+    "artist": "Beleño",
+    "isrc": "QM6MZ1883011"
+  },
+  {
+    "title": "Reels II",
+    "artist": "Balandrán",
+    "isrc": "ES19G9302014"
+  },
+  {
+    "title": "La Veleta",
+    "artist": "Ún de Grao",
+    "isrc": "QM7281824290"
+  },
+  {
+    "title": "El Valse “Dime Dónde Vas” y el Valse",
+    "artist": "Xeitu",
+    "isrc": "QMBZ91923889"
+  },
+  {
+    "title": "Carrapiellu",
+    "artist": "Skanda",
+    "isrc": "ES19G0400900"
+  },
+  {
+    "title": "Laura Laureada",
+    "artist": "Muyeres",
+    "isrc": "ES20D1904006"
+  },
+  {
+    "title": "Axuntando",
+    "artist": "¿Aú?",
+    "isrc": "QM6P41753635"
+  },
+  {
+    "title": "La xibarte",
+    "artist": "Llan de Cubel",
+    "isrc": "ES20D1901704"
+  },
+  {
+    "title": "Escaecimientu",
+    "artist": "Felpeyu",
+    "isrc": "QMBZ91761760"
+  },
+  {
+    "title": "Veigaviechos",
+    "artist": "D'Urria, Auro Pazos",
+    "isrc": "QMDA71848286"
+  },
+  {
+    "title": "Jota del cego de Vinxoi / Agarrado de Trabada",
+    "artist": "Caldo y Os Rabizos, Xosé Ambás",
+    "isrc": "QM6P41970825"
+  },
+  {
+    "title": "Suite de vaqueiradas",
+    "artist": "Asturiana Mining Company",
+    "isrc": "GBAAU0001707"
+  },
+  {
+    "title": "Menodito",
+    "artist": "L-R, Los Hermanos Cubero",
+    "isrc": "QM7282357822"
+  },
+  {
+    "title": "Ayeranes",
+    "artist": "Folkgando",
+    "isrc": "ES19G9801225"
+  }
+]

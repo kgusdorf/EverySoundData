@@ -1,0 +1,582 @@
+[
+  {
+    "title": "Moliendo café",
+    "artist": "La Negra Graciana",
+    "isrc": "FRV960400030"
+  },
+  {
+    "title": "Chiles Verdes",
+    "artist": "Grupo Mono Blanco",
+    "isrc": "MX3741300240"
+  },
+  {
+    "title": "Guacamaya",
+    "artist": "Utrera, Los",
+    "isrc": "MXF580401379"
+  },
+  {
+    "title": "La Caña",
+    "artist": "Chuchumbé",
+    "isrc": "ushm20662173"
+  },
+  {
+    "title": "El Toro Zacamandú",
+    "artist": "Los Pájaros del Alba",
+    "isrc": "GBMA21874878"
+  },
+  {
+    "title": "Candela / Morena",
+    "artist": "Pa' Sumecha",
+    "isrc": "USQGT1010193"
+  },
+  {
+    "title": "El Amanecer",
+    "artist": "Son De Madera",
+    "isrc": "MXF589700187"
+  },
+  {
+    "title": "El Coco",
+    "artist": "Conjunto Jarocho Medellin De Lino Chavez",
+    "isrc": "MXF010100849"
+  },
+  {
+    "title": "La Lloroncita",
+    "artist": "Caña Dulce y Caña Brava",
+    "isrc": "MXF601500077"
+  },
+  {
+    "title": "Canto A Veracruz",
+    "artist": "Conjunto Alma Jarocha",
+    "isrc": "MX3141100497"
+  },
+  {
+    "title": "El Tilingo Lingo",
+    "artist": "Conjunto Jarocho Lindo Veracruz",
+    "isrc": "MXF367739580"
+  },
+  {
+    "title": "La Bruja",
+    "artist": "Tlen Huicani, Lino Chavez",
+    "isrc": "MX2831001027"
+  },
+  {
+    "title": "El Tilingo Lingo",
+    "artist": "Grupo Chalchihuecan De Los Hermanos Ochoa",
+    "isrc": "MX3141100109"
+  },
+  {
+    "title": "El Balajú",
+    "artist": "ARCADIO HIDALGO, Grupo Mono Blanco",
+    "isrc": "MXF017100442"
+  },
+  {
+    "title": "El Colás",
+    "artist": "Sones Jarochos, Los Nacionales De Jacinto Gatica",
+    "isrc": "MXF550601910"
+  },
+  {
+    "title": "La Bamba - Son Jarocho",
+    "artist": "Voces Veracruzanas",
+    "isrc": "FR2X41799932"
+  },
+  {
+    "title": "LAs Amarillas",
+    "artist": "Ensamble Folklorico de Veracruz",
+    "isrc": "USDDY0710049"
+  },
+  {
+    "title": "Sembrando Flores",
+    "artist": "Los Cojolites",
+    "isrc": "USQGT1200015"
+  },
+  {
+    "title": "El Butaquito",
+    "artist": "Son Del Vigía",
+    "isrc": "uscgh1673064"
+  },
+  {
+    "title": "El Tilingo Lingo",
+    "artist": "Conjunto Jarocho Villa Lerdo De Los Hermanos Talavera",
+    "isrc": "USA561026127"
+  },
+  {
+    "title": "Los Luchadores",
+    "artist": "Linda Jarocha",
+    "isrc": "USDDY0710094"
+  },
+  {
+    "title": "Zapateado Veracruzano",
+    "artist": "Conjunto Tierra Blanca De Chico Barcelata",
+    "isrc": "MXF145800005"
+  },
+  {
+    "title": "El Pajaro carpintero (The woodpecker)",
+    "artist": "Yndios Verdes",
+    "isrc": "MXF580401387"
+  },
+  {
+    "title": "El tilingo lingo",
+    "artist": "Conjunto Medellín de Lino Chavez",
+    "isrc": "MXF160200386"
+  },
+  {
+    "title": "Mocambo",
+    "artist": "Danzonera Veracruz",
+    "isrc": "MX4971506949"
+  },
+  {
+    "title": "El Siquisiri",
+    "artist": "Grupo Comejen",
+    "isrc": "QZNWS2351373"
+  },
+  {
+    "title": "Mi Viejo Veracruz",
+    "artist": "Quinteto Mocambo",
+    "isrc": "USGH80711478"
+  },
+  {
+    "title": "La Bruja",
+    "artist": "Conjunto Jardin",
+    "isrc": "uscgj0543941"
+  },
+  {
+    "title": "El Cascabel",
+    "artist": "Los Pregoneros Del Puerto",
+    "isrc": "USRO29004805"
+  },
+  {
+    "title": "La Morena",
+    "artist": "Son Candela",
+    "isrc": "ushm80964878"
+  },
+  {
+    "title": "Maria Chuchena",
+    "artist": "Conjunto Armonico de Veracruz",
+    "isrc": "USCSG1097213"
+  },
+  {
+    "title": "Perfume de gardenias - Instrumental",
+    "artist": "Grupo Nematatlin",
+    "isrc": "FR6V80003686"
+  },
+  {
+    "title": "Yo",
+    "artist": "Andrés Huesca, Los Costeños",
+    "isrc": "USV291371684"
+  },
+  {
+    "title": "El Cascabel",
+    "artist": "Bemberecua",
+    "isrc": "ushm91312062"
+  },
+  {
+    "title": "El torito arribeño",
+    "artist": "Cucalambé",
+    "isrc": "uscgh1036007"
+  },
+  {
+    "title": "El coco",
+    "artist": "Eco del Viento",
+    "isrc": "uscgh1036000"
+  },
+  {
+    "title": "El celoso",
+    "artist": "La Cirila",
+    "isrc": "uscgh1036003"
+  },
+  {
+    "title": "Las poblanas / El cascabel",
+    "artist": "La No que No",
+    "isrc": "uscgh1036002"
+  },
+  {
+    "title": "El Curripití",
+    "artist": "Los Macuiles",
+    "isrc": "ushm91312059"
+  },
+  {
+    "title": "La guacamaya",
+    "artist": "Rama de Cedro",
+    "isrc": "uscgh1036004"
+  },
+  {
+    "title": "La candela",
+    "artist": "Soca y resoca",
+    "isrc": "uscgh1036006"
+  },
+  {
+    "title": "El siquisirí",
+    "artist": "Yambé",
+    "isrc": "uscgh1035997"
+  },
+  {
+    "title": "El Toro Sacamandu",
+    "artist": "Graciana Silva Garcia",
+    "isrc": "FR6V80504791"
+  },
+  {
+    "title": "La Morena",
+    "artist": "Colectivo Tecalli",
+    "isrc": "ushm91312060"
+  },
+  {
+    "title": "El Colas",
+    "artist": "Conjunto Paraloapan De Veracruz",
+    "isrc": "USCJA0605329"
+  },
+  {
+    "title": "Canto Veracruz",
+    "artist": "Conjunto Son de Veracruz",
+    "isrc": "MXD781800774"
+  },
+  {
+    "title": "Lindo Veracruz",
+    "artist": "Conjunto Valencia",
+    "isrc": "QMDA61887597"
+  },
+  {
+    "title": "El Coco",
+    "artist": "Conjunto Veracruzano de Lino Chavez",
+    "isrc": "MXD781904631"
+  },
+  {
+    "title": "El Buscapiés",
+    "artist": "Estanzuela",
+    "isrc": "ushm91312053"
+  },
+  {
+    "title": "La Bamba",
+    "artist": "José Gutiérrez & Los Hermanos Ochoa",
+    "isrc": "USSF10350501"
+  },
+  {
+    "title": "Conga del Gavilán",
+    "artist": "Los Guayabera Blanca",
+    "isrc": "ushm91312056"
+  },
+  {
+    "title": "El Siquisirí",
+    "artist": "Menyul",
+    "isrc": "ushm91312054"
+  },
+  {
+    "title": "El Cupido",
+    "artist": "Rico Chilpozo",
+    "isrc": "ushm91312055"
+  },
+  {
+    "title": "Los Pollos",
+    "artist": "Siquisiri",
+    "isrc": "USGH80712576"
+  },
+  {
+    "title": "Tus Ojos",
+    "artist": "Son Temoyo",
+    "isrc": "ushm91312058"
+  },
+  {
+    "title": "El Guapo",
+    "artist": "Soneros de Huilango",
+    "isrc": "ushm91312057"
+  },
+  {
+    "title": "Rogelio Gómez - Remastered",
+    "artist": "Trio Alegria De Veracruz",
+    "isrc": "MX4971513811"
+  },
+  {
+    "title": "Sentencia de Amor",
+    "artist": "Trio Sorpresa Veracruzana",
+    "isrc": "MX4971513859"
+  },
+  {
+    "title": "La Guacamaya",
+    "artist": "Trío De Mandinga",
+    "isrc": "MX2160900328"
+  },
+  {
+    "title": "Consejos",
+    "artist": "Yihuejka Tlatzotzonke",
+    "isrc": "AEA0Q1727163"
+  },
+  {
+    "title": "Estampas Jarochas",
+    "artist": "La Negra Graciana",
+    "isrc": "FRV960400023"
+  },
+  {
+    "title": "La Candela",
+    "artist": "Grupo Mono Blanco",
+    "isrc": "USGH80712162"
+  },
+  {
+    "title": "Colas",
+    "artist": "Utrera, Los",
+    "isrc": "MXF580401377"
+  },
+  {
+    "title": "La Iguana",
+    "artist": "Chuchumbé",
+    "isrc": "ushm20662172"
+  },
+  {
+    "title": "El Siquisirí",
+    "artist": "Los Pájaros del Alba",
+    "isrc": "GBMA21874875"
+  },
+  {
+    "title": "Bruja",
+    "artist": "Pa' Sumecha",
+    "isrc": "USQGT1010200"
+  },
+  {
+    "title": "La bamba (The Bamba)",
+    "artist": "Son De Madera",
+    "isrc": "USSF10855010"
+  },
+  {
+    "title": "La Guacamaya",
+    "artist": "Conjunto Jarocho Medellin De Lino Chavez",
+    "isrc": "MXF010100852"
+  },
+  {
+    "title": "Los Chiles Verdes",
+    "artist": "Caña Dulce y Caña Brava",
+    "isrc": "MXF601500072"
+  },
+  {
+    "title": "Colas",
+    "artist": "Conjunto Alma Jarocha",
+    "isrc": "MX3141100494"
+  },
+  {
+    "title": "Zapateado",
+    "artist": "Conjunto Jarocho Lindo Veracruz",
+    "isrc": "MXF367739588"
+  },
+  {
+    "title": "El Valedor",
+    "artist": "ARCADIO HIDALGO, Grupo Mono Blanco",
+    "isrc": "MXF017100445"
+  },
+  {
+    "title": "El Colas",
+    "artist": "Grupo Chalchihuecan De Los Hermanos Ochoa",
+    "isrc": "MX3141100103"
+  },
+  {
+    "title": "El Siquisiri",
+    "artist": "Sones Jarochos, Los Nacionales De Jacinto Gatica",
+    "isrc": "MXF550601913"
+  },
+  {
+    "title": "La Bamba",
+    "artist": "Tlen Huicani, Lino Chavez",
+    "isrc": "MX2831001034"
+  },
+  {
+    "title": "Alingo",
+    "artist": "Ensamble Folklorico de Veracruz",
+    "isrc": "USDDY0710050"
+  },
+  {
+    "title": "La Bruja - Son Jarocho",
+    "artist": "Voces Veracruzanas",
+    "isrc": "FR2X41799934"
+  },
+  {
+    "title": "El Conejo",
+    "artist": "Los Cojolites",
+    "isrc": "DEN960230703"
+  },
+  {
+    "title": "El Pájaro Cú",
+    "artist": "Son Del Vigía",
+    "isrc": "uscgh1673054"
+  },
+  {
+    "title": "Canto A Veracruz",
+    "artist": "Conjunto Jarocho Villa Lerdo De Los Hermanos Talavera",
+    "isrc": "USA561026125"
+  },
+  {
+    "title": "Manicero",
+    "artist": "Linda Jarocha",
+    "isrc": "USDDY0710097"
+  },
+  {
+    "title": "El Papaloapan",
+    "artist": "Conjunto Tierra Blanca De Chico Barcelata",
+    "isrc": "MXF148800070"
+  },
+  {
+    "title": "La guacamaya (The Macaw)",
+    "artist": "Yndios Verdes",
+    "isrc": "MXF580401389"
+  },
+  {
+    "title": "La Guacamaya",
+    "artist": "Conjunto Medellín de Lino Chavez",
+    "isrc": "USJ3V1205226"
+  },
+  {
+    "title": "El Zapateado",
+    "artist": "Grupo Comejen",
+    "isrc": "QZNWS2351376"
+  },
+  {
+    "title": "Quizá, Quizá",
+    "artist": "Danzonera Veracruz, Vicente Labastida Velasco",
+    "isrc": "MX4971506929"
+  },
+  {
+    "title": "Pregones de Veracruz",
+    "artist": "Quinteto Mocambo",
+    "isrc": "USGH80711490"
+  },
+  {
+    "title": "El Ahualulco",
+    "artist": "Los Pregoneros Del Puerto",
+    "isrc": "USRO29004803"
+  },
+  {
+    "title": "Cruzando en el Barco",
+    "artist": "Conjunto Jardin",
+    "isrc": "uscgj0543939"
+  },
+  {
+    "title": "La bamba",
+    "artist": "Son Candela",
+    "isrc": "uscgh1036008"
+  },
+  {
+    "title": "Canto a Veracruz",
+    "artist": "Conjunto Armonico de Veracruz",
+    "isrc": "USCSG1097218"
+  },
+  {
+    "title": "Popurri tabasqueno - Instrumental",
+    "artist": "Grupo Nematatlin",
+    "isrc": "FR6V80003681"
+  },
+  {
+    "title": "La Bamba",
+    "artist": "Andrés Huesca",
+    "isrc": "MXF016100082"
+  },
+  {
+    "title": "El Ahualulco",
+    "artist": "Bemberecua",
+    "isrc": "uscgh1036001"
+  },
+  {
+    "title": "El Colás - En Vivo",
+    "artist": "Cucalambé",
+    "isrc": "MXF601900056"
+  },
+  {
+    "title": "El Colás",
+    "artist": "Los Macuiles",
+    "isrc": "uscgh1035998"
+  },
+  {
+    "title": "El Párajo Cú",
+    "artist": "La Negra Graciana",
+    "isrc": "FRV960400029"
+  },
+  {
+    "title": "El Butaquito",
+    "artist": "Grupo Mono Blanco",
+    "isrc": "MX3741300241"
+  },
+  {
+    "title": "Cafe con pan",
+    "artist": "Utrera, Los",
+    "isrc": "MXF580100802"
+  },
+  {
+    "title": "La Gallina",
+    "artist": "Chuchumbé",
+    "isrc": "ushm20662175"
+  },
+  {
+    "title": "La Guacamaya",
+    "artist": "Los Pájaros del Alba",
+    "isrc": "GBMA21874881"
+  },
+  {
+    "title": "Cupido",
+    "artist": "Pa' Sumecha",
+    "isrc": "USQGT1010199"
+  },
+  {
+    "title": "Las poblanas (The Women from Puebla)",
+    "artist": "Son De Madera",
+    "isrc": "USSF10855001"
+  },
+  {
+    "title": "El Colas",
+    "artist": "Conjunto Jarocho Medellin De Lino Chavez",
+    "isrc": "MXF010100850"
+  },
+  {
+    "title": "El Buscapiés",
+    "artist": "Caña Dulce y Caña Brava",
+    "isrc": "MXF601500071"
+  },
+  {
+    "title": "Bello Veracruz",
+    "artist": "Conjunto Alma Jarocha",
+    "isrc": "USAP39435417"
+  },
+  {
+    "title": "La Morena",
+    "artist": "ARCADIO HIDALGO, Grupo Mono Blanco",
+    "isrc": "MXF017100451"
+  },
+  {
+    "title": "La Bamba",
+    "artist": "Grupo Chalchihuecan De Los Hermanos Ochoa",
+    "isrc": "MX3141100115"
+  },
+  {
+    "title": "El Canelo",
+    "artist": "Conjunto Jarocho Lindo Veracruz",
+    "isrc": "MXF367739589"
+  },
+  {
+    "title": "El Balajú",
+    "artist": "Sones Jarochos, Los Nacionales De Jacinto Gatica",
+    "isrc": "MXF550601906"
+  },
+  {
+    "title": "El Querreque",
+    "artist": "Tlen Huicani, Lino Chavez",
+    "isrc": "MX2831001016"
+  },
+  {
+    "title": "El Toro Rabon",
+    "artist": "Ensamble Folklorico de Veracruz",
+    "isrc": "USDDY0710056"
+  },
+  {
+    "title": "El Querreque - Son Huasteco",
+    "artist": "Voces Veracruzanas",
+    "isrc": "FR2X41799940"
+  },
+  {
+    "title": "Nada Es Verdad",
+    "artist": "Los Cojolites, Natalia Lafourcade",
+    "isrc": "QZGLS1903192"
+  },
+  {
+    "title": "El Coconito",
+    "artist": "Son Del Vigía",
+    "isrc": "uscgh1673058"
+  },
+  {
+    "title": "La Iguana",
+    "artist": "Conjunto Jarocho Villa Lerdo De Los Hermanos Talavera",
+    "isrc": "USA561026135"
+  }
+]

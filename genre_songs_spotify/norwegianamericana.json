@@ -1,0 +1,967 @@
+[
+  {
+    "title": "Pause",
+    "artist": "Malin Pettersen",
+    "isrc": "NO28R1900203"
+  },
+  {
+    "title": "Chicago",
+    "artist": "The Northern Belle, Darling West, Ida Jenshus, Louien, Malin Pettersen, Signe Marie Rustad",
+    "isrc": "NO28R2100705"
+  },
+  {
+    "title": "Rolling On",
+    "artist": "Darling West",
+    "isrc": "NO28R1897010"
+  },
+  {
+    "title": "These are the days",
+    "artist": "Ida Jenshus",
+    "isrc": "NOUM70801063"
+  },
+  {
+    "title": "Island Bliss",
+    "artist": "Torgeir Waldemar",
+    "isrc": "NO28R1791040"
+  },
+  {
+    "title": "Bark Up Someone Else's Tree",
+    "artist": "Signe Marie Rustad",
+    "isrc": "NO28R2201004"
+  },
+  {
+    "title": "Se ilden lyse",
+    "artist": "Johan Berggren",
+    "isrc": "QM4TW2446989"
+  },
+  {
+    "title": "Bless Us All",
+    "artist": "Paal Flaata",
+    "isrc": "NOYBU1428014"
+  },
+  {
+    "title": "Why Fall Asleep, When You Can Fall in Love?",
+    "artist": "Embla and the Karidotters",
+    "isrc": "NO28R2200904"
+  },
+  {
+    "title": "White Highway",
+    "artist": "Bendik Brænne, Emilie Nicolas",
+    "isrc": "NO6QK2009011"
+  },
+  {
+    "title": "Week in Tennessee",
+    "artist": "Silver Lining",
+    "isrc": "NO2UI1805201"
+  },
+  {
+    "title": "Lyden av hjul",
+    "artist": "Roger Græsberg & Foreningen",
+    "isrc": "NOCPC1615020"
+  },
+  {
+    "title": "The Color I'm Saving for You",
+    "artist": "Sweetheart",
+    "isrc": "NOERY2101008"
+  },
+  {
+    "title": "Double Shift",
+    "artist": "Ole Kirkeng",
+    "isrc": "NO28R2006001"
+  },
+  {
+    "title": "Faen Faen Faen",
+    "artist": "Tove Bøygard",
+    "isrc": "NOLBR1601120"
+  },
+  {
+    "title": "All My Life",
+    "artist": "Claudia Scott, Casino Steel",
+    "isrc": "NOFRR2101010"
+  },
+  {
+    "title": "Bright Lights",
+    "artist": "Unnveig Aas",
+    "isrc": "NO9BA1502012"
+  },
+  {
+    "title": "Til Jeg Kan Reise Meg Igjen",
+    "artist": "Roy Lønhøiden",
+    "isrc": "NOVBP0604080"
+  },
+  {
+    "title": "Wishing Well",
+    "artist": "Janne Hea",
+    "isrc": "NO2UI1410022"
+  },
+  {
+    "title": "Ain´t on the Run No More",
+    "artist": "Mighty Magnolias",
+    "isrc": "NO2KZ1807010"
+  },
+  {
+    "title": "Mercy of Maria",
+    "artist": "Midnight Choir",
+    "isrc": "NOPLB9802030"
+  },
+  {
+    "title": "Arbeidskar",
+    "artist": "Jørund Vålandsmyr & Menigheten",
+    "isrc": "NO2TW2401010"
+  },
+  {
+    "title": "We're All the Way",
+    "artist": "Adam Douglas, Christel Alsos",
+    "isrc": "NOFGG2367080"
+  },
+  {
+    "title": "Coming Home",
+    "artist": "Lucky Lips",
+    "isrc": "NO2UI1609108"
+  },
+  {
+    "title": "Vegas",
+    "artist": "Ingvild Flottorp, Øyvind Blomstrøm",
+    "isrc": "NO2UI2401103"
+  },
+  {
+    "title": "Wolves",
+    "artist": "Amund Maarud, Lucky Lips",
+    "isrc": "NO2KZ2201030"
+  },
+  {
+    "title": "Till the morning comes",
+    "artist": "Steinar Albrigtsen",
+    "isrc": "NOAJR0700068"
+  },
+  {
+    "title": "Harvest Time",
+    "artist": "Jack Stillwater",
+    "isrc": "NODXE1603030"
+  },
+  {
+    "title": "Now That All is Said and Done",
+    "artist": "Hollow Hearts",
+    "isrc": "NOWGR1904010"
+  },
+  {
+    "title": "To Hender",
+    "artist": "Onkel Tuka",
+    "isrc": "NOVBP0605010"
+  },
+  {
+    "title": "Can't Feel My Heart",
+    "artist": "Benedicte Brænden",
+    "isrc": "NO2Z22001010"
+  },
+  {
+    "title": "Je veit et stelle",
+    "artist": "Narum",
+    "isrc": "NOAGW0900036"
+  },
+  {
+    "title": "Love in a Bottle",
+    "artist": "Fadnes",
+    "isrc": "NOFVV2487010"
+  },
+  {
+    "title": "Boy from the North",
+    "artist": "Monica Heldal",
+    "isrc": "NOAGW1300380"
+  },
+  {
+    "title": "Starting Again",
+    "artist": "Rebekka Lundstrøm",
+    "isrc": "NOIV42204020"
+  },
+  {
+    "title": "Majesty",
+    "artist": "Madrugada",
+    "isrc": "NOAHV0202090"
+  },
+  {
+    "title": "Road Song",
+    "artist": "Kenneth Norum",
+    "isrc": "QZK6Q2394706"
+  },
+  {
+    "title": "1716-1718",
+    "artist": "Omar Østli, Onkel Tuka",
+    "isrc": "NOJM31701020"
+  },
+  {
+    "title": "Ego in a Bag",
+    "artist": "Sugarfoot, Ida Jenshus",
+    "isrc": "NOCTE1409080"
+  },
+  {
+    "title": "Southern Insecurity",
+    "artist": "Country Heroes",
+    "isrc": "NOCPC1620070"
+  },
+  {
+    "title": "A House Of Gold",
+    "artist": "Nilsen's Southern Harmony, Anne Fagermo",
+    "isrc": "NO1Y92401010"
+  },
+  {
+    "title": "True Love",
+    "artist": "Johanna Demker",
+    "isrc": "NOHDE0060812"
+  },
+  {
+    "title": "That's Why I Wear Black",
+    "artist": "Somebody's Darling",
+    "isrc": "NOUM70600005"
+  },
+  {
+    "title": "Goodbye Yellow Roses",
+    "artist": "Hege Øversveen",
+    "isrc": "NO2P21701080"
+  },
+  {
+    "title": "I Still Miss You",
+    "artist": "Olav Larsen & The Alabama Rodeo Stars",
+    "isrc": "USDY42475818"
+  },
+  {
+    "title": "Savna Den Du Va",
+    "artist": "Tonje Halbjørhus",
+    "isrc": "NOE741901030"
+  },
+  {
+    "title": "The Final Country Song",
+    "artist": "Respatexans",
+    "isrc": "NOAJR9805010"
+  },
+  {
+    "title": "America",
+    "artist": "Anders Dahlberg",
+    "isrc": "NO70G2401005"
+  },
+  {
+    "title": "Fire Timer Igjen",
+    "artist": "Ottar 'Big Hand' Johansen",
+    "isrc": "NOFCT7606090"
+  },
+  {
+    "title": "Little Rebel",
+    "artist": "Casino Steel",
+    "isrc": "NOFRR9210040"
+  },
+  {
+    "title": "Must Be A Way",
+    "artist": "Øyvind Holm",
+    "isrc": "NOCTE2313090"
+  },
+  {
+    "title": "Midnight Medicine",
+    "artist": "The Northern Lies",
+    "isrc": "NO5GI1304011"
+  },
+  {
+    "title": "Den andre veien hjem",
+    "artist": "Matias Hilmar Iversen",
+    "isrc": "NOA261801010"
+  },
+  {
+    "title": "Lullaby",
+    "artist": "Hege Brynildsen",
+    "isrc": "SEWXY1200708"
+  },
+  {
+    "title": "Its A Little To Late",
+    "artist": "Hilljacks",
+    "isrc": "NO2D81621007"
+  },
+  {
+    "title": "Full and Broken",
+    "artist": "Ruby Red & the Moonshine Brothers",
+    "isrc": "QMFME2276646"
+  },
+  {
+    "title": "The Bourbon Is My Burden",
+    "artist": "The Contenders",
+    "isrc": "NOAGW1500722"
+  },
+  {
+    "title": "Anything for Love",
+    "artist": "Linda Kvam",
+    "isrc": "NO2IV1001030"
+  },
+  {
+    "title": "Our Friends Don't Think I Deserve You",
+    "artist": "Nora Legrand",
+    "isrc": "NOSRW2303030"
+  },
+  {
+    "title": "Sjelevenn",
+    "artist": "Monika Nordli, Steinar Albrigtsen",
+    "isrc": "NOCEM1487010"
+  },
+  {
+    "title": "Everyone Needs a Friend Sometimes",
+    "artist": "Jeff Wasserman, Claudia Scott",
+    "isrc": "NO2BF1810100"
+  },
+  {
+    "title": "Force of Nature",
+    "artist": "Trudy & Dave, Johanna Demker, Alf Bretteville",
+    "isrc": "NOFGG1886760"
+  },
+  {
+    "title": "Wayfaring Stranger",
+    "artist": "Hayde Bluegrass Orchestra",
+    "isrc": "uscgh1734253"
+  },
+  {
+    "title": "ICE HOUSE",
+    "artist": "Bill Booth",
+    "isrc": "NOBNC2301010"
+  },
+  {
+    "title": "Drunkard's Lullaby",
+    "artist": "Olav Larsen, Aaslandbros",
+    "isrc": "ushm91962563"
+  },
+  {
+    "title": "Back To ... Little Eden - 2012 Remaster",
+    "artist": "Little Eden",
+    "isrc": "NOAFC1200172"
+  },
+  {
+    "title": "Yellow Dress",
+    "artist": "Oakland Rain",
+    "isrc": "NOYWF1901030"
+  },
+  {
+    "title": "Beautiful Thing",
+    "artist": "The Salmon Smokers",
+    "isrc": "NOCEM1615030"
+  },
+  {
+    "title": "Signs",
+    "artist": "Ash & Thorns",
+    "isrc": "QZK6G2093511"
+  },
+  {
+    "title": "Stone Cold Ashes",
+    "artist": "Flying Norwegians",
+    "isrc": "NOGNA9601010"
+  },
+  {
+    "title": "Another City",
+    "artist": "TeleGram",
+    "isrc": "NOT5T1801032"
+  },
+  {
+    "title": "Carry What I Can",
+    "artist": "Saturday City, Elvira Nikolaisen",
+    "isrc": "NOUQO1705020"
+  },
+  {
+    "title": "The Hole (No Way to Grow Your Grit)",
+    "artist": "BIRRI",
+    "isrc": "NOYDG2401010"
+  },
+  {
+    "title": "Fly Away",
+    "artist": "Davidsen/Hope, Inger Lise Hope",
+    "isrc": "NOXWI2001010"
+  },
+  {
+    "title": "Little Twirl",
+    "artist": "Juni Habel",
+    "isrc": "UKGNH2200203"
+  },
+  {
+    "title": "Back To Me",
+    "artist": "Eli Gauden",
+    "isrc": "QMFME2362299"
+  },
+  {
+    "title": "Tumbling Down",
+    "artist": "Temporary",
+    "isrc": "NO56J1701010"
+  },
+  {
+    "title": "Winter Jewels",
+    "artist": "Earlybird Stringband",
+    "isrc": "NOFVV1156020"
+  },
+  {
+    "title": "Dusty Roads",
+    "artist": "Borgar Storebråten",
+    "isrc": "NOL861718020"
+  },
+  {
+    "title": "Heart on a Wire",
+    "artist": "So Are We",
+    "isrc": "NO05A1701010"
+  },
+  {
+    "title": "Back To The Dance Halls",
+    "artist": "Lawson Vallery Band, Linda Gail Lewis",
+    "isrc": "NOGTA2003880"
+  },
+  {
+    "title": "Winter Came Early (When You Came Too Late)",
+    "artist": "Empty Bottles Broken Hearts",
+    "isrc": "NOL861604010"
+  },
+  {
+    "title": "Sweet Memories",
+    "artist": "Inger-Katrin",
+    "isrc": "NOP2T2201010"
+  },
+  {
+    "title": "Help Me Hold On",
+    "artist": "Anders Brodersen",
+    "isrc": "NOLUA1801010"
+  },
+  {
+    "title": "A Time to Dance and Sing",
+    "artist": "Ann-Kristin Dørdal, Ottar 'Big Hand' Johansen",
+    "isrc": "NOR6K1726010"
+  },
+  {
+    "title": "The More I Drink the Further She's Gone",
+    "artist": "Christian Elvestad",
+    "isrc": "no0pr2001010"
+  },
+  {
+    "title": "Astrodome",
+    "artist": "Home Groan, Martin Hagfors, Terje Johannesen",
+    "isrc": "NOVAG9901030"
+  },
+  {
+    "title": "Shiny Legs",
+    "artist": "Junk Shop",
+    "isrc": "QZGWW2067590"
+  },
+  {
+    "title": "It Was a Good Night",
+    "artist": "Knut Roppestad",
+    "isrc": "NOY4I2201022"
+  },
+  {
+    "title": "Living is Easy with Heartache",
+    "artist": "Robert Moses & The Harmony Crusaders, Bendik Brænne, Malin Pettersen",
+    "isrc": "NOFVV2169010"
+  },
+  {
+    "title": "I Can Hear (Hallelujah)",
+    "artist": "Silvertone",
+    "isrc": "NOW151901010"
+  },
+  {
+    "title": "River Eyes",
+    "artist": "Sunniva Lundh",
+    "isrc": "NOORX1804040"
+  },
+  {
+    "title": "The Loneliest Road",
+    "artist": "Trond Svendsen & Tuxedo",
+    "isrc": "NOFGG2301050"
+  },
+  {
+    "title": "Break a Heart",
+    "artist": "Winding Road",
+    "isrc": "NOZBI1801021"
+  },
+  {
+    "title": "Little Do We Know",
+    "artist": "daelen",
+    "isrc": "NOAGJ1736010"
+  },
+  {
+    "title": "The Speed of Life",
+    "artist": "Malin Pettersen",
+    "isrc": "NO28R2401601"
+  },
+  {
+    "title": "Merchant Navy Hotel",
+    "artist": "The Northern Belle",
+    "isrc": "NO28R2401403"
+  },
+  {
+    "title": "Will I Ever Know",
+    "artist": "Darling West",
+    "isrc": "NO28R2314305"
+  },
+  {
+    "title": "Only Kindness Matters",
+    "artist": "Ida Jenshus",
+    "isrc": "NOGJW2301020"
+  },
+  {
+    "title": "Streets",
+    "artist": "Torgeir Waldemar",
+    "isrc": "NO2UI1409103"
+  },
+  {
+    "title": "Die with Your Boots On",
+    "artist": "Signe Marie Rustad",
+    "isrc": "NO28R1900101"
+  },
+  {
+    "title": "Viskelær og venner",
+    "artist": "Johan Berggren",
+    "isrc": "QM6P42314364"
+  },
+  {
+    "title": "Don't You Walk Away",
+    "artist": "Paal Flaata",
+    "isrc": "NOPLB0501050"
+  },
+  {
+    "title": "Bad Influence",
+    "artist": "Embla and the Karidotters",
+    "isrc": "NO28R2301501"
+  },
+  {
+    "title": "Ain't Nobody Like Me",
+    "artist": "Bendik Brænne, Daniel Romano",
+    "isrc": "NOOWS1701020"
+  },
+  {
+    "title": "Heart and Mind Alike",
+    "artist": "Silver Lining",
+    "isrc": "NO2UI1803101"
+  },
+  {
+    "title": "Sangen om mitt liv",
+    "artist": "Roger Græsberg & Foreningen",
+    "isrc": "NOCPC1713030"
+  },
+  {
+    "title": "These Summertime Blues",
+    "artist": "Sweetheart",
+    "isrc": "NOERY2301008"
+  },
+  {
+    "title": "Still on My Mind",
+    "artist": "Ole Kirkeng",
+    "isrc": "NO28R2201201"
+  },
+  {
+    "title": "Rokk Ved Meg",
+    "artist": "Tove Bøygard",
+    "isrc": "NOLBR1801060"
+  },
+  {
+    "title": "Bye Bye Love",
+    "artist": "Claudia Scott, Christel Alsos, Tone Damli, Hver gang vi møtes, Silya",
+    "isrc": "NOEIA1701010"
+  },
+  {
+    "title": "What Hurts the Most (Is Knowing You Want to Leave)",
+    "artist": "Unnveig Aas",
+    "isrc": "SEVJH1700301"
+  },
+  {
+    "title": "Vann Og Ved",
+    "artist": "Roy Lønhøiden",
+    "isrc": "NOX9X3398502"
+  },
+  {
+    "title": "Truth Be Told",
+    "artist": "Janne Hea",
+    "isrc": "NO2UI1903301"
+  },
+  {
+    "title": "Someone Else",
+    "artist": "Mighty Magnolias",
+    "isrc": "NO2KZ1807020"
+  },
+  {
+    "title": "Talk To Me",
+    "artist": "Midnight Choir",
+    "isrc": "NOUM71500536"
+  },
+  {
+    "title": "Arm i arm med det store dyret",
+    "artist": "Jørund Vålandsmyr & Menigheten, Emile The Duke",
+    "isrc": "NOL862020140"
+  },
+  {
+    "title": "Plenty of Time, None to Waste - Acoustic",
+    "artist": "Adam Douglas",
+    "isrc": "NOFGG2367110"
+  },
+  {
+    "title": "Wrong Side of a Lie",
+    "artist": "Lucky Lips",
+    "isrc": "NO2UI1609101"
+  },
+  {
+    "title": "Just a Game",
+    "artist": "Ingvild Flottorp, Øyvind Blomstrøm",
+    "isrc": "NO2UI2401106"
+  },
+  {
+    "title": "Change of Heart",
+    "artist": "Amund Maarud, Lucky Lips",
+    "isrc": "NO2KZ1805100"
+  },
+  {
+    "title": "She belongs to the rain",
+    "artist": "Steinar Albrigtsen",
+    "isrc": "NOFQP9443020"
+  },
+  {
+    "title": "Broken Hearted Town",
+    "artist": "Jack Stillwater",
+    "isrc": "NODXE1901008"
+  },
+  {
+    "title": "Cold Hard Rain",
+    "artist": "Benedicte Brænden",
+    "isrc": "NO2Z21101040"
+  },
+  {
+    "title": "Lasse Polakk",
+    "artist": "Onkel Tuka",
+    "isrc": "NOVBP1327040"
+  },
+  {
+    "title": "Kjinner håss je smelter litt nå",
+    "artist": "Narum",
+    "isrc": "NOAGW0900040"
+  },
+  {
+    "title": "Because You Stick Around",
+    "artist": "Hollow Hearts",
+    "isrc": "NOWGR2105030"
+  },
+  {
+    "title": "The Wind in the Trees",
+    "artist": "Fadnes",
+    "isrc": "NOFVV2175010"
+  },
+  {
+    "title": "Follow You Anywhere",
+    "artist": "Monica Heldal",
+    "isrc": "NOAGW1300386"
+  },
+  {
+    "title": "Talk with You",
+    "artist": "Rebekka Lundstrøm, Fadnes",
+    "isrc": "NOIV42001030"
+  },
+  {
+    "title": "Love Will Come Along",
+    "artist": "Kenneth Norum",
+    "isrc": "QZTAW2304148"
+  },
+  {
+    "title": "Vocal",
+    "artist": "Madrugada",
+    "isrc": "NOAFC1000103"
+  },
+  {
+    "title": "Ingens Mann",
+    "artist": "Omar Østli",
+    "isrc": "NOVBP0706040"
+  },
+  {
+    "title": "Changing Times",
+    "artist": "Sugarfoot",
+    "isrc": "NOCTE1907010"
+  },
+  {
+    "title": "Factory Blues",
+    "artist": "Country Heroes",
+    "isrc": "NOCPC1802070"
+  },
+  {
+    "title": "Pan American",
+    "artist": "Nilsen's Southern Harmony",
+    "isrc": "NO1Y92307010"
+  },
+  {
+    "title": "Gracie Mae",
+    "artist": "Johanna Demker",
+    "isrc": "NOYBU2265060"
+  },
+  {
+    "title": "Only Time",
+    "artist": "Somebody's Darling",
+    "isrc": "NOAMM0500295"
+  },
+  {
+    "title": "På leiting - akustisk",
+    "artist": "Hege Øversveen",
+    "isrc": "NO2P22001010"
+  },
+  {
+    "title": "Finding Myself",
+    "artist": "Olav Larsen & The Alabama Rodeo Stars",
+    "isrc": "USX9P2314751"
+  },
+  {
+    "title": "Framtida når meg igjen",
+    "artist": "Tonje Halbjørhus",
+    "isrc": "NOE741701010"
+  },
+  {
+    "title": "Hellbilly Heaven",
+    "artist": "Respatexans",
+    "isrc": "NOAJR1500043"
+  },
+  {
+    "title": "Bitter/Sweet",
+    "artist": "Anders Dahlberg",
+    "isrc": "NO70G1801060"
+  },
+  {
+    "title": "Mot Ukjent Sted",
+    "artist": "Ottar 'Big Hand' Johansen",
+    "isrc": "NOFCT7814090"
+  },
+  {
+    "title": "Vaya Con Dios",
+    "artist": "Casino Steel, Freddy Fender, Jørn Hoel",
+    "isrc": "NOFRR0101060"
+  },
+  {
+    "title": "August 1969",
+    "artist": "Øyvind Holm",
+    "isrc": "NOCTE2313020"
+  },
+  {
+    "title": "Dagger Moon",
+    "artist": "The Northern Lies",
+    "isrc": "NO5GI1503010"
+  },
+  {
+    "title": "Nordre Follo",
+    "artist": "Matias Hilmar Iversen",
+    "isrc": "NOA262002010"
+  },
+  {
+    "title": "Lay Your Burden Down",
+    "artist": "Hege Brynildsen",
+    "isrc": "SEWXY1501505"
+  },
+  {
+    "title": "Hilljacks - Where did country music go",
+    "artist": "Hilljacks",
+    "isrc": "NO2D81621001"
+  },
+  {
+    "title": "Ice on the Water",
+    "artist": "Ruby Red & the Moonshine Brothers",
+    "isrc": "QM4TX2228333"
+  },
+  {
+    "title": "Radioland",
+    "artist": "The Contenders",
+    "isrc": "NOAFD9201010"
+  },
+  {
+    "title": "Det Ska'kke Stå På Meg",
+    "artist": "Linda Kvam",
+    "isrc": "NOCCT0926050"
+  },
+  {
+    "title": "Mercy On My Mama",
+    "artist": "Nora Legrand",
+    "isrc": "NOSRW2303050"
+  },
+  {
+    "title": "Heim Ti` Deg",
+    "artist": "Monika Nordli",
+    "isrc": "NOCEM1150050"
+  },
+  {
+    "title": "We Shall Dance Again",
+    "artist": "Jeff Wasserman, Jeffrey's Reverie",
+    "isrc": "NO2BF2312070"
+  },
+  {
+    "title": "1000 Guns",
+    "artist": "Trudy & Dave, Johanna Demker",
+    "isrc": "NOYBU2046030"
+  },
+  {
+    "title": "All My Tears",
+    "artist": "Hayde Bluegrass Orchestra",
+    "isrc": "uscgh2056002"
+  },
+  {
+    "title": "UNDER THE PINE",
+    "artist": "Bill Booth",
+    "isrc": "NOBNC2301030"
+  },
+  {
+    "title": "Walked Right By",
+    "artist": "Olav Larsen, Aaslandbros",
+    "isrc": "ushm91962562"
+  },
+  {
+    "title": "Alonesome",
+    "artist": "Malin Pettersen",
+    "isrc": "NO28R1900201"
+  },
+  {
+    "title": "Hell & Back",
+    "artist": "The Northern Belle",
+    "isrc": "NO28R2401409"
+  },
+  {
+    "title": "Traveller",
+    "artist": "Darling West",
+    "isrc": "NO28R1713501"
+  },
+  {
+    "title": "Someone To Love",
+    "artist": "Ida Jenshus",
+    "isrc": "NOUM71200882"
+  },
+  {
+    "title": "Hello It's Me",
+    "artist": "Signe Marie Rustad",
+    "isrc": "NO28R2201003"
+  },
+  {
+    "title": "Take Me Home",
+    "artist": "Torgeir Waldemar",
+    "isrc": "NO9WK1604010"
+  },
+  {
+    "title": "Hjertet i klem",
+    "artist": "Johan Berggren",
+    "isrc": "QM6P42314362"
+  },
+  {
+    "title": "Angel of the Morning - Long Version",
+    "artist": "Paal Flaata",
+    "isrc": "NOVBP1225030"
+  },
+  {
+    "title": "You Don't Deserve Me",
+    "artist": "Embla and the Karidotters",
+    "isrc": "NO28R2200907"
+  },
+  {
+    "title": "Everything/Everything",
+    "artist": "Bendik Brænne",
+    "isrc": "NOOWS2201010"
+  },
+  {
+    "title": "Rastløs",
+    "artist": "Roger Græsberg & Foreningen",
+    "isrc": "NOCPC2003040"
+  },
+  {
+    "title": "Grey",
+    "artist": "Silver Lining",
+    "isrc": "NO2UI1611101"
+  },
+  {
+    "title": "The Pines by the River",
+    "artist": "Sweetheart",
+    "isrc": "NOERY2001014"
+  },
+  {
+    "title": "Fall in Love with You (at IKEA)",
+    "artist": "Ole Kirkeng",
+    "isrc": "NO28R2301204"
+  },
+  {
+    "title": "Engel ifrå Seljord",
+    "artist": "Tove Bøygard, Tom Roger Aadland",
+    "isrc": "NOCYE2003010"
+  },
+  {
+    "title": "Heard You on My Radio",
+    "artist": "Claudia Scott",
+    "isrc": "NOFRR9201030"
+  },
+  {
+    "title": "How Can I Know",
+    "artist": "Unnveig Aas",
+    "isrc": "NOERY2201010"
+  },
+  {
+    "title": "En Fin Kveld Å Leve",
+    "artist": "Roy Lønhøiden",
+    "isrc": "NOVBP0401020"
+  },
+  {
+    "title": "Lost in Time",
+    "artist": "Janne Hea",
+    "isrc": "NO2UI1905101"
+  },
+  {
+    "title": "Saviour in the Night",
+    "artist": "Mighty Magnolias, Ida Jenshus",
+    "isrc": "NOLH42101010"
+  },
+  {
+    "title": "Long Hard Ride",
+    "artist": "Midnight Choir",
+    "isrc": "DKAWM9604801"
+  },
+  {
+    "title": "Rett på livet",
+    "artist": "Jørund Vålandsmyr & Menigheten",
+    "isrc": "NO2TW2303020"
+  },
+  {
+    "title": "I Once Was an Honest Guy",
+    "artist": "Adam Douglas",
+    "isrc": "NOFGG1589060"
+  },
+  {
+    "title": "Through Everything",
+    "artist": "Lucky Lips",
+    "isrc": "NO2UI1609111"
+  },
+  {
+    "title": "Tell a Story",
+    "artist": "Ingvild Flottorp, Øyvind Blomstrøm",
+    "isrc": "NO2UI2401107"
+  },
+  {
+    "title": "Indian Butterfly",
+    "artist": "Amund Maarud, Lucky Lips",
+    "isrc": "NO2KZ1805010"
+  },
+  {
+    "title": "A Knights Tale",
+    "artist": "Jack Stillwater",
+    "isrc": "NODXE0800101"
+  },
+  {
+    "title": "In Rosa`s heart",
+    "artist": "Steinar Albrigtsen",
+    "isrc": "NOAJR0700070"
+  },
+  {
+    "title": "The Easy Way",
+    "artist": "Benedicte Brænden",
+    "isrc": "NO2Z21101030"
+  },
+  {
+    "title": "Er det noen her som skal til Kirkenær? - New Noise, Halden",
+    "artist": "Onkel Tuka",
+    "isrc": "QMBZ91959649"
+  },
+  {
+    "title": "Samma hen du fær",
+    "artist": "Narum",
+    "isrc": "NOAGW0900032"
+  },
+  {
+    "title": "Last Call",
+    "artist": "Hollow Hearts",
+    "isrc": "NOWGR1901050"
+  },
+  {
+    "title": "Shallow Waters",
+    "artist": "Fadnes",
+    "isrc": "ushm91977806"
+  }
+]

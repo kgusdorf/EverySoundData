@@ -1,0 +1,582 @@
+[
+  {
+    "title": "Annan Kitaran Laulaa Vaan",
+    "artist": "Dave Lindholm",
+    "isrc": "FIZEN9300001"
+  },
+  {
+    "title": "Kurjuuden kuningas",
+    "artist": "Tuomari Nurmio, Köyhien Ystävät",
+    "isrc": "FILKA7900017"
+  },
+  {
+    "title": "Poor Little Girl",
+    "artist": "Heikki Silvennoinen",
+    "isrc": "FIWMA9200201"
+  },
+  {
+    "title": "Back to the River",
+    "artist": "Pepe Ahlqvist, H.A.R.P.",
+    "isrc": "FIFMF8900062"
+  },
+  {
+    "title": "Rock And Roll Hoochie Koo",
+    "artist": "SF Blues",
+    "isrc": "FIPAG0700003"
+  },
+  {
+    "title": "Teenage Nervous Breakdown",
+    "artist": "Albert Järvinen",
+    "isrc": "FISBA7400074"
+  },
+  {
+    "title": "Full Bottle",
+    "artist": "Honey B & T-Bones",
+    "isrc": "FIRR82200011"
+  },
+  {
+    "title": "Paha pysy pois",
+    "artist": "Marjo Leinonen, Viranomaiset",
+    "isrc": "FI9PF1900186"
+  },
+  {
+    "title": "Waiting For The Dawn",
+    "artist": "Q.Stone",
+    "isrc": "FISMC9000016"
+  },
+  {
+    "title": "It Hurts Me Too",
+    "artist": "Erja Lyytinen",
+    "isrc": "FITH11400003"
+  },
+  {
+    "title": "Desperate Man",
+    "artist": "Hoedown",
+    "isrc": "FIEMX2100037"
+  },
+  {
+    "title": "Highway Highway",
+    "artist": "Micke Bjorklof & Blue Strip",
+    "isrc": "FI83M2300001"
+  },
+  {
+    "title": "I've Got to Use My Imagination",
+    "artist": "Knucklebone Oscar, Tuomo Prättälä",
+    "isrc": "FITTS2400030"
+  },
+  {
+    "title": "First We Take Manhattan",
+    "artist": "Wentus Blues Band, Duke Robillard",
+    "isrc": "FIWBB1900015"
+  },
+  {
+    "title": "Vanha holvikirkko",
+    "artist": "Eero Raittinen",
+    "isrc": "FIFDP6800600"
+  },
+  {
+    "title": "My Soul to You",
+    "artist": "Ben Granfelt",
+    "isrc": "DEMM91800004"
+  },
+  {
+    "title": "Number 9 Train",
+    "artist": "Helge Tallqvist Band, Ina Forsman",
+    "isrc": "FIHT71300010"
+  },
+  {
+    "title": "Hot Wheels",
+    "artist": "Ile Kallio Big Rock Band",
+    "isrc": "FIBAR1400733"
+  },
+  {
+    "title": "Onnen kulkuri",
+    "artist": "Esa Kaartamo",
+    "isrc": "FIARA9300706"
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Lena & The Slide Brothers",
+    "isrc": "FIRU71900017"
+  },
+  {
+    "title": "Sinun Omasi",
+    "artist": "Marjo Leinonen ja Viranomaiset",
+    "isrc": "FIASM0600015"
+  },
+  {
+    "title": "Charterflight",
+    "artist": "Jukka Tolonen",
+    "isrc": "uscgj0681553"
+  },
+  {
+    "title": "Elaine",
+    "artist": "Tomi Leino Trio",
+    "isrc": "FIHWP1600002"
+  },
+  {
+    "title": "Coast to Coast",
+    "artist": "Slim Butler",
+    "isrc": "FI29J1600021"
+  },
+  {
+    "title": "Lemon n Lime Sours",
+    "artist": "Emilia Sisco, Cold Diamond & Mink",
+    "isrc": "FITI32400017"
+  },
+  {
+    "title": "Räpylä niiranen",
+    "artist": "Faarao Pirttikangas",
+    "isrc": "FIHL21300022"
+  },
+  {
+    "title": "Love Me",
+    "artist": "Ina Forsman",
+    "isrc": "DEFL72201820"
+  },
+  {
+    "title": "Honky Tonk Merry-Go-Round",
+    "artist": "Tokela, Hoedown",
+    "isrc": "FIMF60800017"
+  },
+  {
+    "title": "Going Home",
+    "artist": "Ben Granfelt Band",
+    "isrc": "FI9TU1400033"
+  },
+  {
+    "title": "Midnight Man",
+    "artist": "Ismo Haavisto",
+    "isrc": "uscgj1989540"
+  },
+  {
+    "title": "Aurinkoon",
+    "artist": "Atomirotta",
+    "isrc": "FIMRR1400250"
+  },
+  {
+    "title": "Hobo Don't Mind a Little Rain",
+    "artist": "Talmud Beach",
+    "isrc": "DEY211301901"
+  },
+  {
+    "title": "Hound Dog",
+    "artist": "Mikko Löytty, Nipa Niilola, Tapio Ylinen",
+    "isrc": "FIECL2100085"
+  },
+  {
+    "title": "Kiuruvesi",
+    "artist": "Aija Puurtinen, Jalavei",
+    "isrc": "FIAOP1800020"
+  },
+  {
+    "title": "Tell That Woman",
+    "artist": "Micke & Lefty, Chef",
+    "isrc": "FI83M2000001"
+  },
+  {
+    "title": "I Believe the Change Will Come",
+    "artist": "Dave Forestfield, Jo' Buddy",
+    "isrc": "FIPRS1400457"
+  },
+  {
+    "title": "Mean Old Man",
+    "artist": "Kat Baloun, Tomi Leino Trio",
+    "isrc": "CH6540854453"
+  },
+  {
+    "title": "Waterbound",
+    "artist": "Ninni Poijärvi & Mika Kuokkanen",
+    "isrc": "FIHHR1100001"
+  },
+  {
+    "title": "Fais Do-Do, Pt. 1",
+    "artist": "Esa Kuloniemi, Chuck Campbell, Darick Cambell",
+    "isrc": "FIBRA0602301"
+  },
+  {
+    "title": "Unchain My Heart - Live",
+    "artist": "Jake's Blues Band",
+    "isrc": "ushm92118297"
+  },
+  {
+    "title": "Saw Mill Man",
+    "artist": "Titty Bar Tim Blues Band",
+    "isrc": "FIFB61300005"
+  },
+  {
+    "title": "Mansikoita Suonenjoella",
+    "artist": "Kapteeni Nemo",
+    "isrc": "FIFMF1120989"
+  },
+  {
+    "title": "Aamulla kun herään",
+    "artist": "Baby Boy Varhama",
+    "isrc": "FIARA1000091"
+  },
+  {
+    "title": "John the Baptist",
+    "artist": "Daddy Giljoteen",
+    "isrc": "FIERF0600070"
+  },
+  {
+    "title": "Full Moon On Main Street",
+    "artist": "Doobie Twisters",
+    "isrc": "FIBRA9801305"
+  },
+  {
+    "title": "White Rat",
+    "artist": "Helander Co.",
+    "isrc": "FICRM0100006"
+  },
+  {
+    "title": "Shamrock",
+    "artist": "Honey B. Family",
+    "isrc": "FIFB61700013"
+  },
+  {
+    "title": "Oh Sweet Finland (What Is Wrong in This World)",
+    "artist": "JP Sivonen",
+    "isrc": "CH6541704391"
+  },
+  {
+    "title": "Stormy Monday",
+    "artist": "Jukka Syrenius Band",
+    "isrc": "FIE2K1300038"
+  },
+  {
+    "title": "A Man To Trust",
+    "artist": "Jukka Tolonen Trio",
+    "isrc": "SEBJB9502020"
+  },
+  {
+    "title": "Taivas saa odottaa",
+    "artist": "Jussi Kettu",
+    "isrc": "FIPRS1500101"
+  },
+  {
+    "title": "Dark Rum",
+    "artist": "Mad Matt Kotovuori",
+    "isrc": "FIPSA1300004"
+  },
+  {
+    "title": "Money Don't Know",
+    "artist": "Masi Sallinen Quartet",
+    "isrc": "FIRUS0400117"
+  },
+  {
+    "title": "Orient Blossom Special",
+    "artist": "Mayflower",
+    "isrc": "FIFMF1225307"
+  },
+  {
+    "title": "Last swingin`door",
+    "artist": "Mike Westhues, Petri Peevo",
+    "isrc": "FIHHR0800060"
+  },
+  {
+    "title": "Cold Fire",
+    "artist": "Ns-Blues",
+    "isrc": "CH6541623631"
+  },
+  {
+    "title": "Checking Up On My Baby",
+    "artist": "Pepe Ahlqvist & The Rolling Tumbleweed",
+    "isrc": "FIBRA0101007"
+  },
+  {
+    "title": "Pieni & hento ote",
+    "artist": "Dave Lindholm",
+    "isrc": "FILKA8100061"
+  },
+  {
+    "title": "If You're Good to Your Baby",
+    "artist": "Pepe Ahlqvist, H.A.R.P.",
+    "isrc": "FIFMF9400227"
+  },
+  {
+    "title": "Valo yössä",
+    "artist": "Tuomari Nurmio, Orpojen tuki",
+    "isrc": "FISBA7900127"
+  },
+  {
+    "title": "So Hard to Leave, So Hard to Stay",
+    "artist": "Heikki Silvennoinen",
+    "isrc": "FIWMA9200208"
+  },
+  {
+    "title": "Työlaulu",
+    "artist": "SF Blues",
+    "isrc": "FIPAG0500001"
+  },
+  {
+    "title": "Don't Be Cruel",
+    "artist": "Albert Järvinen",
+    "isrc": "FISBA7400227"
+  },
+  {
+    "title": "Alien Blues",
+    "artist": "Honey B & T-Bones",
+    "isrc": "FIRR82200004"
+  },
+  {
+    "title": "There's a Light",
+    "artist": "Marjo Leinonen, BubliCans",
+    "isrc": "FI9PF2300003"
+  },
+  {
+    "title": "Train Train",
+    "artist": "Q.Stone",
+    "isrc": "FISMC9200011"
+  },
+  {
+    "title": "Bad Seed",
+    "artist": "Erja Lyytinen",
+    "isrc": "FITH12200001"
+  },
+  {
+    "title": "Don't Bring Us Bills, Bring Us Flowers",
+    "artist": "Hoedown",
+    "isrc": "FIEMX2200030"
+  },
+  {
+    "title": "Colors of Jealousy",
+    "artist": "Micke Bjorklof & Blue Strip",
+    "isrc": "FI83M2300003"
+  },
+  {
+    "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+    "artist": "Knucklebone Oscar, Tuure Kilpeläinen",
+    "isrc": "FITTS2300153"
+  },
+  {
+    "title": "I Got to Go",
+    "artist": "Wentus Blues Band, Kim Wilson, Sven Zetterberg",
+    "isrc": "FIWBB1700074"
+  },
+  {
+    "title": "Desire, The Sirens Call",
+    "artist": "Ben Granfelt",
+    "isrc": "DEZK42100161"
+  },
+  {
+    "title": "Got Love If You Want It",
+    "artist": "Helge Tallqvist Band, Ina Forsman",
+    "isrc": "FIHT71300007"
+  },
+  {
+    "title": "I Will Stay",
+    "artist": "Ile Kallio Big Rock Band",
+    "isrc": "FIBAR1400741"
+  },
+  {
+    "title": "Toivotaan, toivotaan - Che sara",
+    "artist": "Eero Raittinen",
+    "isrc": "FIFDP7100007"
+  },
+  {
+    "title": "KUKATIES",
+    "artist": "Esa Kaartamo",
+    "isrc": "FIECA0200013"
+  },
+  {
+    "title": "Not Your Fault",
+    "artist": "Lena & The Slide Brothers",
+    "isrc": "FIRU71900015"
+  },
+  {
+    "title": "Tili Tuli Tili Meni (Money Is)",
+    "artist": "Marjo Leinonen ja Viranomaiset",
+    "isrc": "FIASM0600029"
+  },
+  {
+    "title": "Django",
+    "artist": "Jukka Tolonen",
+    "isrc": "FISBA7500035"
+  },
+  {
+    "title": "East Street Shuffle",
+    "artist": "Tomi Leino Trio",
+    "isrc": "CH6540839504"
+  },
+  {
+    "title": "Mean Trouble",
+    "artist": "Slim Butler",
+    "isrc": "FI29J1600013"
+  },
+  {
+    "title": "Trouble",
+    "artist": "Emilia Sisco, Cold Diamond & Mink",
+    "isrc": "FITI32300019"
+  },
+  {
+    "title": "Kaatopaikan kuningas",
+    "artist": "Faarao Pirttikangas",
+    "isrc": "FIHL21300021"
+  },
+  {
+    "title": "Now You Want Me Back",
+    "artist": "Ina Forsman",
+    "isrc": "DEFR11600007"
+  },
+  {
+    "title": "Three Steps to Heaven",
+    "artist": "Tokela, Hoedown",
+    "isrc": "FIMF60800029"
+  },
+  {
+    "title": "Baker Street - Live",
+    "artist": "Ben Granfelt Band",
+    "isrc": "QMDA71568113"
+  },
+  {
+    "title": "So Gone",
+    "artist": "Ismo Haavisto",
+    "isrc": "uscgj1989531"
+  },
+  {
+    "title": "Hima taas",
+    "artist": "Atomirotta",
+    "isrc": "FIMRR1400287"
+  },
+  {
+    "title": "Matkaa Teen",
+    "artist": "Talmud Beach, Faarao Pirttikangas",
+    "isrc": "TCADR1886007"
+  },
+  {
+    "title": "Since I Met You Baby",
+    "artist": "Mikko Löytty, Heikki Silvennoinen",
+    "isrc": "FIECL2100077"
+  },
+  {
+    "title": "Puurtinen: Joka yö me unessa ajetaan",
+    "artist": "Aija Puurtinen, Club For Five",
+    "isrc": "FISAI1000029"
+  },
+  {
+    "title": "I'm a Guitar Man",
+    "artist": "Micke & Lefty, Chef",
+    "isrc": "FI83M1000002"
+  },
+  {
+    "title": "Take a Deep Breath Baby",
+    "artist": "Dave Forestfield",
+    "isrc": "FIPRS2400047"
+  },
+  {
+    "title": "Cry for Me Baby",
+    "artist": "Kat Baloun, Tomi Leino Trio",
+    "isrc": "CH6540854457"
+  },
+  {
+    "title": "You Love the Thunder",
+    "artist": "Ninni Poijärvi & Mika Kuokkanen",
+    "isrc": "FIHHR1100009"
+  },
+  {
+    "title": "The Hitman",
+    "artist": "Esa Kuloniemi, Gary Primich, Jimmie Lawson",
+    "isrc": "FIBRA0602306"
+  },
+  {
+    "title": "Tupaakka, Viina Ja Villit Naiset",
+    "artist": "Dave Lindholm",
+    "isrc": "FIZEN9000007"
+  },
+  {
+    "title": "Ain't Doing to Bad",
+    "artist": "Pepe Ahlqvist, H.A.R.P.",
+    "isrc": "FIFMF8900063"
+  },
+  {
+    "title": "Ramona",
+    "artist": "Tuomari Nurmio",
+    "isrc": "FIJKM8600301"
+  },
+  {
+    "title": "You Run",
+    "artist": "Heikki Silvennoinen",
+    "isrc": "FIWMA9200206"
+  },
+  {
+    "title": "Finest Hour",
+    "artist": "SF Blues",
+    "isrc": "FIPAG0200008"
+  },
+  {
+    "title": "Let's Have A Ball (In The Fat Man's Valley)",
+    "artist": "Albert Järvinen",
+    "isrc": "FISBA7400073"
+  },
+  {
+    "title": "Easy Baby",
+    "artist": "Honey B & T-Bones",
+    "isrc": "FITH11600026"
+  },
+  {
+    "title": "Loose Hat",
+    "artist": "Marjo Leinonen, BubliCans",
+    "isrc": "FI9PF2300004"
+  },
+  {
+    "title": "Do You Still Love Me",
+    "artist": "Q.Stone",
+    "isrc": "FISMC9200014"
+  },
+  {
+    "title": "Dust My Broom (Live)",
+    "artist": "Erja Lyytinen",
+    "isrc": "FITH11400011"
+  },
+  {
+    "title": "If I Could (Going Fishing)",
+    "artist": "Hoedown",
+    "isrc": "FIHHR1000068"
+  },
+  {
+    "title": "Feel It in My Bones",
+    "artist": "Micke Bjorklof & Blue Strip",
+    "isrc": "FI83M2300002"
+  },
+  {
+    "title": "I Need Love",
+    "artist": "Knucklebone Oscar, Marjo Leinonen",
+    "isrc": "FITTS2400038"
+  },
+  {
+    "title": "Story Of My Life",
+    "artist": "Wentus Blues Band, Eddie Kirkland",
+    "isrc": "FIWBB2300072"
+  },
+  {
+    "title": "Gratitude",
+    "artist": "Ben Granfelt",
+    "isrc": "DEZK42100165"
+  },
+  {
+    "title": "Something's Got a Hold On Me",
+    "artist": "Helge Tallqvist Band, Ina Forsman",
+    "isrc": "FIHT71300001"
+  },
+  {
+    "title": "Shook Up!",
+    "artist": "Ile Kallio Big Rock Band",
+    "isrc": "FIBAR1400730"
+  },
+  {
+    "title": "Rakkaudelta näyttää hitto vie",
+    "artist": "Eero Raittinen",
+    "isrc": "FIFDP6800002"
+  },
+  {
+    "title": "Kuningatar",
+    "artist": "Esa Kaartamo, Edu Kettunen, Mikko Kuustonen",
+    "isrc": "FIEFE0100205"
+  },
+  {
+    "title": "Your Kind of Woman",
+    "artist": "Lena & The Slide Brothers",
+    "isrc": "FIRU71900013"
+  }
+]

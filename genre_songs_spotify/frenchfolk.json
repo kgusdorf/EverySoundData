@@ -1,0 +1,777 @@
+[
+  {
+    "title": "Le pieu (l'estaque)",
+    "artist": "Marc Robine",
+    "isrc": "FR6V89903911"
+  },
+  {
+    "title": "Vois Mon Enfant",
+    "artist": "Gabriel Yacoub, Didier François, Tom Theuns, Sylvie Berger",
+    "isrc": "BEW630703314"
+  },
+  {
+    "title": "Les Trois Marins De Groix",
+    "artist": "La Chifonnie",
+    "isrc": "FR6V89400422"
+  },
+  {
+    "title": "Le Roy Englois",
+    "artist": "Gilles Elbaz",
+    "isrc": "FR6V89400561"
+  },
+  {
+    "title": "Je t'aime",
+    "artist": "Michèle Bernard",
+    "isrc": "FR6V89800649"
+  },
+  {
+    "title": "Soldat par chagrin",
+    "artist": "Jean Blanchard",
+    "isrc": "FR6V89400446"
+  },
+  {
+    "title": "L'internationale",
+    "artist": "Marc Ogeret",
+    "isrc": "FRZ196800830"
+  },
+  {
+    "title": "La nonchalante",
+    "artist": "Emmanuel Pariselle",
+    "isrc": "FRP560510314"
+  },
+  {
+    "title": "Rossignolet Du Bois",
+    "artist": "Trio Patrick Bouffard, Anne-Lise Foy",
+    "isrc": "FR6V80903917"
+  },
+  {
+    "title": "L'amour anarchiste",
+    "artist": "Gérard Pierron, Marc Robine",
+    "isrc": "FR6V87900151"
+  },
+  {
+    "title": "Le navire merveilleux",
+    "artist": "Jean-François Dutertre",
+    "isrc": "FRY399907771"
+  },
+  {
+    "title": "Les gens qui doutent",
+    "artist": "Anne Sylvestre",
+    "isrc": "FR6V80570861"
+  },
+  {
+    "title": "Marions les roses (chant de quête)",
+    "artist": "Malicorne",
+    "isrc": "FR66F7500310"
+  },
+  {
+    "title": "La Vieille Servante",
+    "artist": "Chantal Grimm",
+    "isrc": "FR6V89400361"
+  },
+  {
+    "title": "Réveillez vous Picards",
+    "artist": "Michel Hindenoch",
+    "isrc": "FR6V89400453"
+  },
+  {
+    "title": "Bourrée à 2 temps, rabaterie",
+    "artist": "Patrick Bouffard, Cyril Roche, Benoit Mager, Anne-Lise Foy",
+    "isrc": "FR0O70784729"
+  },
+  {
+    "title": "Adele Blanc Sec, Derriere Les Carreaux",
+    "artist": "La Chavannee",
+    "isrc": "FR6V80819888"
+  },
+  {
+    "title": "De l'eau et des amandes",
+    "artist": "Gilles Chabenat, Frédéric Paris",
+    "isrc": "FR2X41754629"
+  },
+  {
+    "title": "J'aime Bien Celui Qui S'en Va",
+    "artist": "Sylvie Berger",
+    "isrc": "FR6V89400552"
+  },
+  {
+    "title": "Sous la feuille (rond paludier)",
+    "artist": "Roland Brou, Mathieu Hamon, Charles Quimbert",
+    "isrc": "FRX612000192"
+  },
+  {
+    "title": "Elle dansait",
+    "artist": "La Bergère",
+    "isrc": "FRP560300208"
+  },
+  {
+    "title": "Morricone jig",
+    "artist": "Vach'inton.g",
+    "isrc": "FR0O70795541"
+  },
+  {
+    "title": "Le Retour Du Marin",
+    "artist": "Tonio Gémème",
+    "isrc": "FR6V89400420"
+  },
+  {
+    "title": "Les chemins de la guerre",
+    "artist": "Mélusine",
+    "isrc": "FR9W17800075"
+  },
+  {
+    "title": "Lettre à Kissinger",
+    "artist": "Julos Beaucarne",
+    "isrc": "FRZ831309006"
+  },
+  {
+    "title": "La fontaine troublee - Tizen Tizen et texte chanté en Kabyle",
+    "artist": "Evelyne Girardon",
+    "isrc": "FR9W11103707"
+  },
+  {
+    "title": "L'abeille",
+    "artist": "Zef",
+    "isrc": "CH6542331132"
+  },
+  {
+    "title": "Un Gamin De Paris",
+    "artist": "Francis Lemarque",
+    "isrc": "FR6V85700054"
+  },
+  {
+    "title": "Fuseki",
+    "artist": "Djal",
+    "isrc": "FR9W11208236"
+  },
+  {
+    "title": "Carotte",
+    "artist": "Pain D'Epices",
+    "isrc": "FRP0X0814060"
+  },
+  {
+    "title": "La fille d'usine",
+    "artist": "La Bamboche",
+    "isrc": "FR34F7800340"
+  },
+  {
+    "title": "La Saint Jean Qui S'Approche",
+    "artist": "Bernard Indeau",
+    "isrc": "FR6V89400482"
+  },
+  {
+    "title": "La Complainte Des Émigrés",
+    "artist": "Catherine Perrier",
+    "isrc": "FR6V89400531"
+  },
+  {
+    "title": "Ah Que Nos Pères Étaient Heureux",
+    "artist": "Christian Desnos",
+    "isrc": "FR6V89400172"
+  },
+  {
+    "title": "Chantons La Loire Et Les Mariniers",
+    "artist": "Denis Le Vraux",
+    "isrc": "FR6V89400432"
+  },
+  {
+    "title": "Auprès de ma blonde",
+    "artist": "Hal Collomb",
+    "isrc": "FR6V89400451"
+  },
+  {
+    "title": "Vive Henry IV",
+    "artist": "Jacky Bardot",
+    "isrc": "FR6V89400525"
+  },
+  {
+    "title": "Conscrits égayons nos vingt ans",
+    "artist": "Jean-Loup Baly",
+    "isrc": "FR6V89400444"
+  },
+  {
+    "title": "Les Scieurs De Long",
+    "artist": "La Kinkerne",
+    "isrc": "FR6V89400393"
+  },
+  {
+    "title": "Pauvre Jacques",
+    "artist": "Lionel Rocheman",
+    "isrc": "FR6V89500105"
+  },
+  {
+    "title": "La rêvelinière",
+    "artist": "Emmanuelle Parrenin",
+    "isrc": "FRD1S2200040"
+  },
+  {
+    "title": "Rock Me More and More",
+    "artist": "Colette Magny",
+    "isrc": "FRZ086400610"
+  },
+  {
+    "title": "Mazurka / Brezon Valse",
+    "artist": "Gentiane",
+    "isrc": "NLB369700402"
+  },
+  {
+    "title": "Blue Ciel Belge / Cassie et PJ",
+    "artist": "Novar",
+    "isrc": "BED061670004"
+  },
+  {
+    "title": "Charmante Bergère",
+    "artist": "La Machine",
+    "isrc": "FR9W12150179"
+  },
+  {
+    "title": "Valse à Julie",
+    "artist": "Aurélien Claranbaux",
+    "isrc": "CH6541762381"
+  },
+  {
+    "title": "Les trois cailloux",
+    "artist": "Duo Brotto Milleret",
+    "isrc": "FR9W12004155"
+  },
+  {
+    "title": "Mazurka D'Après Lothaire Mabru",
+    "artist": "Arnaud Bibonne, Camille Raibaud",
+    "isrc": "CH6541970549"
+  },
+  {
+    "title": "Le moteur à explosion",
+    "artist": "Chanson Plus Bifluoree",
+    "isrc": "FRZ839008123"
+  },
+  {
+    "title": "Mirabelle",
+    "artist": "Bruno Le Tron, Franck Fagon, Laurent Cabané, Olivier Le Gallo",
+    "isrc": "FR9W11720252"
+  },
+  {
+    "title": "Mazurka du bal perdu",
+    "artist": "Komred",
+    "isrc": "CH6542126021"
+  },
+  {
+    "title": "Nous étions mille et cent",
+    "artist": "Ciac Boum",
+    "isrc": "FR9W12413161"
+  },
+  {
+    "title": "Les heures évanouies",
+    "artist": "Anne-Claire Marin",
+    "isrc": "QZHN82483610"
+  },
+  {
+    "title": "Le Brick",
+    "artist": "Christian Dautel",
+    "isrc": "FR6V89400423"
+  },
+  {
+    "title": "Glen Corp",
+    "artist": "Denis Gasser",
+    "isrc": "FRG149900210"
+  },
+  {
+    "title": "Commençons La Semaine",
+    "artist": "Florence Dionneau",
+    "isrc": "FR6V89400171"
+  },
+  {
+    "title": "Le Corsaire",
+    "artist": "Jean-Yvon Cornic",
+    "isrc": "FR6V89400421"
+  },
+  {
+    "title": "Dame Lombarde",
+    "artist": "Mireille Ben",
+    "isrc": "FR6V89400518"
+  },
+  {
+    "title": "Seigneurs Sachiez Qui Or Ne S'en Ira",
+    "artist": "René Zosso",
+    "isrc": "FR6V89400551"
+  },
+  {
+    "title": "Cercle de Barbastro",
+    "artist": "La Forcelle",
+    "isrc": "CH6541831936"
+  },
+  {
+    "title": "Andrò a torino e poi a casa",
+    "artist": "Trio Loubelya",
+    "isrc": "TCADQ1838972"
+  },
+  {
+    "title": "Scottish du Moulin",
+    "artist": "Bargainatt",
+    "isrc": "CH6542201526"
+  },
+  {
+    "title": "Petite Antonine",
+    "artist": "Ma petite",
+    "isrc": "FR9W11937364"
+  },
+  {
+    "title": "La p'tite bête (Scottish)",
+    "artist": "Les Zéoles",
+    "isrc": "CH6542053111"
+  },
+  {
+    "title": "Shouting Time",
+    "artist": "Airboxes",
+    "isrc": "BEHM42000403"
+  },
+  {
+    "title": "L'Océan mène (valse)",
+    "artist": "Fahrenheit",
+    "isrc": "uscgh2307069"
+  },
+  {
+    "title": "Le garçon sous la Montagne",
+    "artist": "Le Grand Barouf",
+    "isrc": "FR9W12038518"
+  },
+  {
+    "title": "N'èi tant cercat m'aimia",
+    "artist": "Man Encantada",
+    "isrc": "FR9W12015755"
+  },
+  {
+    "title": "Pas Pour Moi",
+    "artist": "Alasource",
+    "isrc": "FR6V80607609"
+  },
+  {
+    "title": "Quadrille berrichon",
+    "artist": "Gaston Guillemain",
+    "isrc": "FRX190901861"
+  },
+  {
+    "title": "Larry D - Live",
+    "artist": "Minuit Guibolles",
+    "isrc": "BEW630601611"
+  },
+  {
+    "title": "Les gens du dehors",
+    "artist": "Motis",
+    "isrc": "FR6V80674193"
+  },
+  {
+    "title": "Erravi Sicut Ovis",
+    "artist": "Roger Blanchard",
+    "isrc": "FRS181233338"
+  },
+  {
+    "title": "J'ai ma femme qui me gronde",
+    "artist": "Ormuz",
+    "isrc": "FR9W12149740"
+  },
+  {
+    "title": "La Valse Dombelle",
+    "artist": "Marc Perrone",
+    "isrc": "FR6V80002718"
+  },
+  {
+    "title": "PESTO Y TEMPESTA",
+    "artist": "Didier Laloy, Orquesta De Lyceum De La Habana, José Antonio Méndez Patron",
+    "isrc": "BEZ722300001"
+  },
+  {
+    "title": "The Wounded Dove",
+    "artist": "Gabriel Yacoub",
+    "isrc": "FR26S0100018"
+  },
+  {
+    "title": "Les compagnons de la marjolaine",
+    "artist": "Marc Robine",
+    "isrc": "FR6V89302072"
+  },
+  {
+    "title": "Au-dessus du pont",
+    "artist": "La Chifonnie",
+    "isrc": "FR66F7800110"
+  },
+  {
+    "title": "La Mort De La Palice",
+    "artist": "Gilles Elbaz",
+    "isrc": "FR6V89400522"
+  },
+  {
+    "title": "Les Adieux De La Tulipe",
+    "artist": "Jean Blanchard",
+    "isrc": "FR6V89400528"
+  },
+  {
+    "title": "Maria szusanna",
+    "artist": "Michèle Bernard",
+    "isrc": "FR6V89800642"
+  },
+  {
+    "title": "La semaine sanglante",
+    "artist": "Marc Ogeret",
+    "isrc": "FRZ196800760"
+  },
+  {
+    "title": "Le temps des puces",
+    "artist": "Emmanuel Pariselle",
+    "isrc": "FRP560510301"
+  },
+  {
+    "title": "Trois Petites Notes De Musique",
+    "artist": "Trio Patrick Bouffard",
+    "isrc": "FR6V80903994"
+  },
+  {
+    "title": "La paysanne",
+    "artist": "Gérard Pierron, Emmanuel Bex",
+    "isrc": "FRX191601732"
+  },
+  {
+    "title": "La belle endormie",
+    "artist": "Jean-François Dutertre",
+    "isrc": "FRY390209590"
+  },
+  {
+    "title": "Le printemps retourné - Renaissance",
+    "artist": "Chantal Grimm",
+    "isrc": "FRZ832200298"
+  },
+  {
+    "title": "Le luneux",
+    "artist": "Malicorne",
+    "isrc": "FR66F7600070"
+  },
+  {
+    "title": "Ma chérie",
+    "artist": "Anne Sylvestre, Alice",
+    "isrc": "FR6V80570883"
+  },
+  {
+    "title": "Saint Martin D'auray",
+    "artist": "Michel Hindenoch",
+    "isrc": "FR6V89400510"
+  },
+  {
+    "title": "Nuba",
+    "artist": "Patrick Bouffard, Anne-Lise Foy, Stephane Robert, Abdelati El Boussehabi, Leonore Grollemund, Gabriel Fernadez, Benoit Mager",
+    "isrc": "FR6V80904084"
+  },
+  {
+    "title": "Piloune, Tout En Allant",
+    "artist": "La Chavannee",
+    "isrc": "FR6V80819880"
+  },
+  {
+    "title": "Valse Nouvelle",
+    "artist": "Gilles Chabenat, Patrick Bouffard",
+    "isrc": "FR6V80903904"
+  },
+  {
+    "title": "Je Voudrais Être Mariée",
+    "artist": "Sylvie Berger",
+    "isrc": "FR6V89400293"
+  },
+  {
+    "title": "Le duc du Maine (bal paludier)",
+    "artist": "Roland Brou, Mathieu Hamon, Charles Quimbert",
+    "isrc": "FRX612000188"
+  },
+  {
+    "title": "Nous irons en France",
+    "artist": "La Bergère",
+    "isrc": "FRP560300203"
+  },
+  {
+    "title": "Gavotte des carpati",
+    "artist": "Vach'inton.g",
+    "isrc": "FR0O70795546"
+  },
+  {
+    "title": "Sur Le Pont Du Nord",
+    "artist": "Tonio Gémème",
+    "isrc": "FR6V89400582"
+  },
+  {
+    "title": "Nous sommes quatre compagnons",
+    "artist": "Mélusine",
+    "isrc": "FRY399106902"
+  },
+  {
+    "title": "Petit capitan - Henna en Kabyle",
+    "artist": "Evelyne Girardon",
+    "isrc": "FR9W11103721"
+  },
+  {
+    "title": "Je chante pour vous",
+    "artist": "Julos Beaucarne",
+    "isrc": "FRZ831309053"
+  },
+  {
+    "title": "Mazurka De La Beluse",
+    "artist": "Zef",
+    "isrc": "CH6542331207"
+  },
+  {
+    "title": "Ex nihilo",
+    "artist": "Djal",
+    "isrc": "FR9W11800388"
+  },
+  {
+    "title": "Marjolaine",
+    "artist": "Francis Lemarque",
+    "isrc": "FRZ035701330"
+  },
+  {
+    "title": "L'écolier Assassin",
+    "artist": "Pain D'Epices",
+    "isrc": "FRP0X0814010"
+  },
+  {
+    "title": "Les 180 pucelles",
+    "artist": "La Bamboche",
+    "isrc": "FR66F7500080"
+  },
+  {
+    "title": "Une Fillette À Quatorze Ans",
+    "artist": "Bernard Indeau",
+    "isrc": "FR6V89400301"
+  },
+  {
+    "title": "Quand Viendra T Elle",
+    "artist": "Catherine Perrier",
+    "isrc": "FR6V89400534"
+  },
+  {
+    "title": "Brassons Bien Partout Carré",
+    "artist": "Christian Desnos",
+    "isrc": "FR6V89400412"
+  },
+  {
+    "title": "Adieu Marie",
+    "artist": "Denis Le Vraux",
+    "isrc": "FR6V89400450"
+  },
+  {
+    "title": "Amis Buvons",
+    "artist": "Hal Collomb",
+    "isrc": "FR6V89400173"
+  },
+  {
+    "title": "Villa de Chambéry",
+    "artist": "Jacky Bardot",
+    "isrc": "FR6V89400449"
+  },
+  {
+    "title": "Dessus Le Pont Du Havre",
+    "artist": "Jean-Loup Baly",
+    "isrc": "FR6V89400191"
+  },
+  {
+    "title": "La Raclette",
+    "artist": "La Kinkerne",
+    "isrc": "FR6V89400193"
+  },
+  {
+    "title": "Au Delà Du Vent",
+    "artist": "Emmanuelle Parrenin, Colin Johnco",
+    "isrc": "FRDR72300140"
+  },
+  {
+    "title": "Les Tuileries",
+    "artist": "Colette Magny",
+    "isrc": "FRZ086400590"
+  },
+  {
+    "title": "Le Taitou",
+    "artist": "Gentiane",
+    "isrc": "NLB369700403"
+  },
+  {
+    "title": "Bateau Bleu",
+    "artist": "Novar",
+    "isrc": "BED061670006"
+  },
+  {
+    "title": "Oh Gai Lan Lire",
+    "artist": "La Machine",
+    "isrc": "FR9W12150175"
+  },
+  {
+    "title": "Petite hippie - Féline",
+    "artist": "Aurélien Claranbaux",
+    "isrc": "CH6541762376"
+  },
+  {
+    "title": "Ivoirine",
+    "artist": "Duo Brotto Milleret",
+    "isrc": "FR9W12004159"
+  },
+  {
+    "title": "Suite de congos d'après Marcel Lagardere",
+    "artist": "Arnaud Bibonne, Camille Raibaud",
+    "isrc": "CH6541970543"
+  },
+  {
+    "title": "Moi je fais la vaisselle (parodie de j ai encore r",
+    "artist": "Chanson Plus Bifluoree",
+    "isrc": "FR6V80104982"
+  },
+  {
+    "title": "Initium",
+    "artist": "Bruno Le Tron, Franck Fagon, Laurent Cabané",
+    "isrc": "FR9W11720262"
+  },
+  {
+    "title": "L'ivrogne",
+    "artist": "Komred",
+    "isrc": "CH6542126126"
+  },
+  {
+    "title": "Fiouc",
+    "artist": "Ciac Boum",
+    "isrc": "FR9W11932508"
+  },
+  {
+    "title": "Ohé Oh",
+    "artist": "Anne-Claire Marin",
+    "isrc": "QZHN82483611"
+  },
+  {
+    "title": "Comprenez Vous",
+    "artist": "Gabriel Yacoub",
+    "isrc": "FR6V89400529"
+  },
+  {
+    "title": "Jeanneton Prend Sa Faucille",
+    "artist": "Marc Robine",
+    "isrc": "FR6V89400188"
+  },
+  {
+    "title": "Caravanserail",
+    "artist": "La Chifonnie",
+    "isrc": "FR66F7700680"
+  },
+  {
+    "title": "La Bataille De Waterloo",
+    "artist": "Gilles Elbaz",
+    "isrc": "FR6V89400532"
+  },
+  {
+    "title": "La Rose Et Le Rosier",
+    "artist": "Jean Blanchard",
+    "isrc": "FR6V89400262"
+  },
+  {
+    "title": "Nomade",
+    "artist": "Michèle Bernard",
+    "isrc": "FR6V80704094"
+  },
+  {
+    "title": "Maintenant que la jeunesse",
+    "artist": "Marc Ogeret",
+    "isrc": "FR6V89201273"
+  },
+  {
+    "title": "Je serai toujours un musicien",
+    "artist": "Emmanuel Pariselle, Accordzêam, Paris Scoring Orchestra, Nicolas André",
+    "isrc": "FR9W11407783"
+  },
+  {
+    "title": "Les Herbes Folles / Brincadeiro",
+    "artist": "Trio Patrick Bouffard",
+    "isrc": "FR6V80903993"
+  },
+  {
+    "title": "La Chanson De Craonne",
+    "artist": "Gérard Pierron",
+    "isrc": "FR6V89400543"
+  },
+  {
+    "title": "Sur les bancs de Terre-Neuve",
+    "artist": "Jean-François Dutertre",
+    "isrc": "FRY390209587"
+  },
+  {
+    "title": "La ronde des loups-garous",
+    "artist": "Chantal Grimm",
+    "isrc": "FRZ099700316"
+  },
+  {
+    "title": "Les tristes noces",
+    "artist": "Malicorne",
+    "isrc": "FR66F7600040"
+  },
+  {
+    "title": "Par Un Beau Clair De Lune",
+    "artist": "Michel Hindenoch",
+    "isrc": "FR6V89400273"
+  },
+  {
+    "title": "La Complainte Des Infideles",
+    "artist": "Patrick Bouffard, Stephane Robert, Abdelati El Boussehabi, Anne-Lise Foy, Benoit Mager, Leonore Grollemund, Gabriel Fernadez",
+    "isrc": "FR6V80904079"
+  },
+  {
+    "title": "Avant soleil levé",
+    "artist": "La Chavannee",
+    "isrc": "FR49Z0600995"
+  },
+  {
+    "title": "Les yaourts à tout",
+    "artist": "Anne Sylvestre",
+    "isrc": "FR6V89000131"
+  },
+  {
+    "title": "En route / Le beau voyage",
+    "artist": "Gilles Chabenat",
+    "isrc": "FR0O70800492"
+  },
+  {
+    "title": "La Digne Journée",
+    "artist": "Sylvie Berger",
+    "isrc": "FR6V89400478"
+  },
+  {
+    "title": "Mon père m'a mariée (tour)",
+    "artist": "Roland Brou, Mathieu Hamon, Charles Quimbert",
+    "isrc": "FRX612000183"
+  },
+  {
+    "title": "La chanson du spectre",
+    "artist": "La Bergère",
+    "isrc": "FRP560300202"
+  },
+  {
+    "title": "Bigoudi",
+    "artist": "Vach'inton.g",
+    "isrc": "FR0O70795543"
+  },
+  {
+    "title": "Ballade du roi des gueux",
+    "artist": "Tonio Gémème",
+    "isrc": "FR6V80518121"
+  },
+  {
+    "title": "Branles de village",
+    "artist": "Mélusine",
+    "isrc": "FR2X41762803"
+  },
+  {
+    "title": "Voici le temps et la saison - Voici la Saint Jean",
+    "artist": "Evelyne Girardon",
+    "isrc": "FR9W11103711"
+  },
+  {
+    "title": "Je ne songeais pas à Rose - 1969",
+    "artist": "Julos Beaucarne",
+    "isrc": "FR6V80872762"
+  },
+  {
+    "title": "Scottish a Julo",
+    "artist": "Zef",
+    "isrc": "CH6542331202"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "title": "For All the Walters in the World",
+    "artist": "Tall Dwarfs",
+    "isrc": "USMRG2281601"
+  },
+  {
+    "title": "Husband House",
+    "artist": "Sneaky Feelings",
+    "isrc": "NZFN00401174"
+  },
+  {
+    "title": "What Was That Thing?",
+    "artist": "Able Tasmans",
+    "isrc": "NZFN00400984"
+  },
+  {
+    "title": "Beautiful Things",
+    "artist": "3Ds",
+    "isrc": "NZFN00400573"
+  },
+  {
+    "title": "Anything Could Happen",
+    "artist": "The Clean",
+    "isrc": "USMRG2073604"
+  },
+  {
+    "title": "Death And The Maiden",
+    "artist": "The Verlaines",
+    "isrc": "NZFN08700004"
+  },
+  {
+    "title": "Born in the Wrong Time",
+    "artist": "The Great Unwashed",
+    "isrc": "NZFN00400412"
+  },
+  {
+    "title": "She Speeds",
+    "artist": "Straitjacket Fits",
+    "isrc": "NZFN00400129"
+  },
+  {
+    "title": "Not Given Lightly",
+    "artist": "Chris Knox",
+    "isrc": "NZFN00400276"
+  },
+  {
+    "title": "Pink Frost",
+    "artist": "The Chills",
+    "isrc": "NZFN00401524"
+  },
+  {
+    "title": "Smoke you right out of here",
+    "artist": "David Kilgour, The Heavy Eights, David Kilgour And The Heavy Eights",
+    "isrc": "USMRG1968802"
+  },
+  {
+    "title": "Cactus Cat",
+    "artist": "Look Blue Go Purple",
+    "isrc": "NZFN00400361"
+  },
+  {
+    "title": "Made Up In Blue",
+    "artist": "The Bats",
+    "isrc": "AUMUO8700061"
+  },
+  {
+    "title": "Lights Are Low",
+    "artist": "Robert Scott",
+    "isrc": "NZFN01300056"
+  },
+  {
+    "title": "Splat",
+    "artist": "Bailter Space",
+    "isrc": "USMTD9514202"
+  },
+  {
+    "title": "Needles and Plastic - EP Version",
+    "artist": "Double Happys",
+    "isrc": "NZFN00400391"
+  },
+  {
+    "title": "Swimming Pool",
+    "artist": "Toy Love",
+    "isrc": "QM6MZ1459820"
+  },
+  {
+    "title": "Adults and Children",
+    "artist": "Gordons",
+    "isrc": "NZFN00400262"
+  },
+  {
+    "title": "I Got It Clean",
+    "artist": "Superette",
+    "isrc": "NZFN00501649"
+  },
+  {
+    "title": "Your Heavy Dream (Won't Fly)",
+    "artist": "Alec Bathgate",
+    "isrc": "NZFN00400789"
+  },
+  {
+    "title": "Ambivalence",
+    "artist": "Pin Group",
+    "isrc": "USELN0600127"
+  },
+  {
+    "title": "It's in My Blood",
+    "artist": "Loves Ugly Children",
+    "isrc": "NZFN00400861"
+  },
+  {
+    "title": "Fingerpops",
+    "artist": "Garageland",
+    "isrc": "NZFN00400757"
+  },
+  {
+    "title": "Glass Walls",
+    "artist": "The Terminals",
+    "isrc": "USCPT1710071"
+  },
+  {
+    "title": "Before We Go Under",
+    "artist": "The Magick Heads",
+    "isrc": "NZFN09500057"
+  },
+  {
+    "title": "I Like Rain",
+    "artist": "The Jean Paul Sartre Experience",
+    "isrc": "GBCKK1435312"
+  },
+  {
+    "title": "Heathery Men",
+    "artist": "Skeptics",
+    "isrc": "NZFN09000065"
+  },
+  {
+    "title": "From the Diary of Hermann Doubt",
+    "artist": "This Kind Of Punishment",
+    "isrc": "USA2Z1810083"
+  },
+  {
+    "title": "On an Unknown Beach",
+    "artist": "Peter Jefferies",
+    "isrc": "USA2Z2201254"
+  },
+  {
+    "title": "Exit the King",
+    "artist": "King Loser",
+    "isrc": "NZFN00400622"
+  },
+  {
+    "title": "The Field",
+    "artist": "The Dead C",
+    "isrc": "USCPT2016205"
+  },
+  {
+    "title": "Alien",
+    "artist": "Bird Nest Roys",
+    "isrc": "NZFN08700070"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Jps Experience",
+    "isrc": "NZFN00400489"
+  },
+  {
+    "title": "Down and Around",
+    "artist": "The Stones",
+    "isrc": "NZFN08300007"
+  },
+  {
+    "title": "Palm Singing",
+    "artist": "Bressa Creeting Cake",
+    "isrc": "NZFN00400896"
+  },
+  {
+    "title": "Dimmer Waters",
+    "artist": "The Renderers",
+    "isrc": "USELN0600147"
+  },
+  {
+    "title": "Cruise Control - 1994",
+    "artist": "Headless Chickens",
+    "isrc": "NZFN00401368"
+  },
+  {
+    "title": "Camera Eye",
+    "artist": "The Subliminals",
+    "isrc": "NZFN00000006"
+  },
+  {
+    "title": "McCarthy",
+    "artist": "The Cakekitchen",
+    "isrc": "QMFME1542845"
+  },
+  {
+    "title": "Bakunin",
+    "artist": "Alastair Galbraith",
+    "isrc": "FRX452467756"
+  },
+  {
+    "title": "Joe 90",
+    "artist": "Bored Games",
+    "isrc": "NZFN00501740"
+  },
+  {
+    "title": "birthday",
+    "artist": "The Stereo Bus",
+    "isrc": "NZEM09900053"
+  },
+  {
+    "title": "Lonely",
+    "artist": "Peter Gutteridge",
+    "isrc": "USA2Z2301175"
+  },
+  {
+    "title": "Ghost Club Theme Song",
+    "artist": "Ghost Club",
+    "isrc": "NZFN00401101"
+  },
+  {
+    "title": "Stupormodel",
+    "artist": "High Dependency Unit",
+    "isrc": "QZFYY2482111"
+  },
+  {
+    "title": "Randolph's Going Home",
+    "artist": "Shayne Carter, Peter Jefferies",
+    "isrc": "NZFN00400110"
+  },
+  {
+    "title": "Gentle Hour",
+    "artist": "Snapper",
+    "isrc": "NZFN00501727"
+  },
+  {
+    "title": "Mary Sunshine",
+    "artist": "Hamish Kilgour",
+    "isrc": "USCPT1812809"
+  },
+  {
+    "title": "Surf's up in Malibu",
+    "artist": "Chris Heazlewood",
+    "isrc": "NZFN00400937"
+  },
+  {
+    "title": "The Winter Song",
+    "artist": "Goblin Mix",
+    "isrc": "NZFN09100146"
+  },
+  {
+    "title": "There Is No Depression in New Zealand",
+    "artist": "Blam Blam Blam",
+    "isrc": "NZFM00400218"
+  },
+  {
+    "title": "The Boy with the Sad Hands",
+    "artist": "Jay Clarkson",
+    "isrc": "QM6MZ1594063"
+  },
+  {
+    "title": "Kokomo Joe",
+    "artist": "The Mad Scene",
+    "isrc": "USMRG0314026"
+  },
+  {
+    "title": "Bitter Nest",
+    "artist": "Solid Gold Hell",
+    "isrc": "QM6MZ1594085"
+  },
+  {
+    "title": "What Am I Going to Do",
+    "artist": "Pop Art Toasters",
+    "isrc": "NZFN09400049"
+  },
+  {
+    "title": "Russian Rug",
+    "artist": "Bilders",
+    "isrc": "NZFN08200004"
+  },
+  {
+    "title": "Since the Accident",
+    "artist": "Scorched-Earth Policy",
+    "isrc": "NZFN08500011"
+  },
+  {
+    "title": "On My Way to You",
+    "artist": "Don McGlashan",
+    "isrc": "NZRI11403103"
+  },
+  {
+    "title": "Loved by You",
+    "artist": "Stephen",
+    "isrc": "NZSW02000083"
+  },
+  {
+    "title": "Sunflower",
+    "artist": "The Exploding Budgies",
+    "isrc": "NZFN09100140"
+  },
+  {
+    "title": "Ley Lines of Kneecaps",
+    "artist": "Pumice",
+    "isrc": "USA2Z2200839"
+  },
+  {
+    "title": "Dirty & Disgusting",
+    "artist": "Builders",
+    "isrc": "USCPT1610080"
+  },
+  {
+    "title": "Buffalo",
+    "artist": "The Phoenix Foundation",
+    "isrc": "NZPF11000002"
+  },
+  {
+    "title": "I Know Not Where I Stand",
+    "artist": "Shayne P. Carter",
+    "isrc": "NZFN01600146"
+  },
+  {
+    "title": "Isn't That Strange?",
+    "artist": "Nocturnal Projections",
+    "isrc": "QMDA61899399"
+  },
+  {
+    "title": "Tomorrow Night",
+    "artist": "The Front Lawn",
+    "isrc": "NZEM08900011"
+  },
+  {
+    "title": "Everyone",
+    "artist": "Voom",
+    "isrc": "NZFN02400118"
+  },
+  {
+    "title": "See Me Go - 7\" version",
+    "artist": "The Screaming MeeMees",
+    "isrc": "NZAM02224760"
+  },
+  {
+    "title": "Jesus I Was Evil",
+    "artist": "Darcy Clay",
+    "isrc": "NZPG00700194"
+  },
+  {
+    "title": "Leave It to You",
+    "artist": "Minisnap",
+    "isrc": "NZPT00700002"
+  },
+  {
+    "title": "Anchor Me",
+    "artist": "The Mutton Birds",
+    "isrc": "AUEM09400091"
+  },
+  {
+    "title": "Streets Of Your Town",
+    "artist": "The Go-Betweens",
+    "isrc": "GBAZP8700127"
+  },
+  {
+    "title": "High Tension House",
+    "artist": "Dadamah",
+    "isrc": "USI4R0401551"
+  },
+  {
+    "title": "Let's Go",
+    "artist": "The Feelies",
+    "isrc": "GBCEL0900537"
+  },
+  {
+    "title": "Save My Life",
+    "artist": "Bike",
+    "isrc": "NZFN01800134"
+  },
+  {
+    "title": "Beautiful Haze",
+    "artist": "SJD",
+    "isrc": "NZRT00700010"
+  },
+  {
+    "title": "Junk",
+    "artist": "The Puddle",
+    "isrc": "NZFN00400334"
+  },
+  {
+    "title": "Sweet Disorder",
+    "artist": "Strawpeople",
+    "isrc": "NZSM09400011"
+  },
+  {
+    "title": "Achieved Not Achieved",
+    "artist": "avoid!avoid",
+    "isrc": "NZFN01500147"
+  },
+  {
+    "title": "Hollow Way",
+    "artist": "Sundae Painters",
+    "isrc": "QZWFE2310478"
+  },
+  {
+    "title": "Rewind",
+    "artist": "Hallelujah Picassos",
+    "isrc": "NZRI10900207"
+  },
+  {
+    "title": "Exterminate!!!",
+    "artist": "Futurians",
+    "isrc": "GB-SMU-16-40822"
+  },
+  {
+    "title": "Endure",
+    "artist": "Tall Dwarfs",
+    "isrc": "USMRG2281808"
+  },
+  {
+    "title": "Throwing Stones",
+    "artist": "Sneaky Feelings",
+    "isrc": "NZFN00401177"
+  },
+  {
+    "title": "Hold Me 1",
+    "artist": "Able Tasmans",
+    "isrc": "NZFN00400988"
+  },
+  {
+    "title": "Outer Space",
+    "artist": "3Ds",
+    "isrc": "NZFN00400469"
+  },
+  {
+    "title": "Pyromaniac",
+    "artist": "The Verlaines",
+    "isrc": "NZFN08700011"
+  },
+  {
+    "title": "Hold onto the Rail",
+    "artist": "The Great Unwashed",
+    "isrc": "NZFN00400404"
+  },
+  {
+    "title": "Down in Splendour",
+    "artist": "Straitjacket Fits",
+    "isrc": "NZFN00401008"
+  },
+  {
+    "title": "A Break in the Weather",
+    "artist": "David Kilgour, The Heavy Eights, David Kilgour And The Heavy Eights",
+    "isrc": "USMRG1141903"
+  },
+  {
+    "title": "Crazy",
+    "artist": "The Clean",
+    "isrc": "USMRG1618803"
+  },
+  {
+    "title": "It's Love",
+    "artist": "Chris Knox",
+    "isrc": "NZFN00401194"
+  },
+  {
+    "title": "I Don't Want You Anyway",
+    "artist": "Look Blue Go Purple",
+    "isrc": "NZFN00400363"
+  },
+  {
+    "title": "Heavenly Pop Hit",
+    "artist": "The Chills",
+    "isrc": "USRH10802282"
+  },
+  {
+    "title": "He Ain't Heavy He's My Brother",
+    "artist": "Robert Scott, Sidney Russell, Fron Male Voice Choir",
+    "isrc": "GBUM71103856"
+  },
+  {
+    "title": "North By North",
+    "artist": "The Bats",
+    "isrc": "AUMUO8700049"
+  },
+  {
+    "title": "Collider",
+    "artist": "Bailter Space",
+    "isrc": "USA370302553"
+  },
+  {
+    "title": "Others Way",
+    "artist": "Double Happys",
+    "isrc": "NZFN00400386"
+  },
+  {
+    "title": "Rebel",
+    "artist": "Toy Love",
+    "isrc": "QM6MZ1459816"
+  },
+  {
+    "title": "Spik and Span",
+    "artist": "Gordons",
+    "isrc": "NZFN00400254"
+  },
+  {
+    "title": "Saskatchewan",
+    "artist": "Superette",
+    "isrc": "NZFN00400974"
+  },
+  {
+    "title": "Glide",
+    "artist": "Alec Bathgate",
+    "isrc": "NZRH10900349"
+  },
+  {
+    "title": "The Power",
+    "artist": "Pin Group",
+    "isrc": "USELN0600131"
+  },
+  {
+    "title": "Space Suit",
+    "artist": "Loves Ugly Children",
+    "isrc": "NZFN09400048"
+  },
+  {
+    "title": "Come Back",
+    "artist": "Garageland",
+    "isrc": "NZFN00400760"
+  },
+  {
+    "title": "Frozen Car",
+    "artist": "The Terminals",
+    "isrc": "USA2Z1611662"
+  },
+  {
+    "title": "The Back Of Her Hand",
+    "artist": "The Magick Heads",
+    "isrc": "NZFN00501725"
+  },
+  {
+    "title": "Flex",
+    "artist": "The Jean Paul Sartre Experience",
+    "isrc": "GBCKK1435313"
+  },
+  {
+    "title": "Affco",
+    "artist": "Skeptics",
+    "isrc": "NZFN00400263"
+  },
+  {
+    "title": "The Sleepwalker",
+    "artist": "This Kind Of Punishment",
+    "isrc": "USA2Z1810089"
+  },
+  {
+    "title": "The Fate of the Human Carbine",
+    "artist": "Peter Jefferies",
+    "isrc": "USA2Z2201259"
+  },
+  {
+    "title": "Troubled Land",
+    "artist": "King Loser",
+    "isrc": "NZFN00400862"
+  },
+  {
+    "title": "Bitcher",
+    "artist": "The Dead C",
+    "isrc": "USELN0600069"
+  },
+  {
+    "title": "Ain't Mutatin'",
+    "artist": "Bird Nest Roys",
+    "isrc": "NZFN08500013"
+  },
+  {
+    "title": "Bleeding Star",
+    "artist": "Jps Experience",
+    "isrc": "NZFN00400488"
+  },
+  {
+    "title": "Gunner Ho",
+    "artist": "The Stones",
+    "isrc": "NZFN01300081"
+  },
+  {
+    "title": "A Chip That Sells Millions",
+    "artist": "Bressa Creeting Cake",
+    "isrc": "NZFN00400901"
+  },
+  {
+    "title": "Dream of the Sea",
+    "artist": "The Renderers",
+    "isrc": "USELN0600140"
+  },
+  {
+    "title": "Uh-Oh",
+    "artist": "The Subliminals",
+    "isrc": "NZFN00501763"
+  },
+  {
+    "title": "George",
+    "artist": "Headless Chickens",
+    "isrc": "NZFN00400186"
+  },
+  {
+    "title": "Witness to Your Secrets",
+    "artist": "The Cakekitchen",
+    "isrc": "QMFME1542849"
+  },
+  {
+    "title": "As In A Blender",
+    "artist": "Alastair Galbraith",
+    "isrc": "USELN0600207"
+  },
+  {
+    "title": "Happy Endings",
+    "artist": "Bored Games",
+    "isrc": "NZFN08200009"
+  },
+  {
+    "title": "Shallow",
+    "artist": "The Stereo Bus",
+    "isrc": "NZEM09900070"
+  },
+  {
+    "title": "Hang On",
+    "artist": "Peter Gutteridge",
+    "isrc": "USA2Z2301178"
+  },
+  {
+    "title": "Punch (Your Brother)",
+    "artist": "Ghost Club",
+    "isrc": "NZFN00401092"
+  },
+  {
+    "title": "Schallblute",
+    "artist": "High Dependency Unit",
+    "isrc": "NZFN00401240"
+  },
+  {
+    "title": "The Slide",
+    "artist": "Shayne Carter",
+    "isrc": "NZRH10900340"
+  },
+  {
+    "title": "Buddy - EP Version",
+    "artist": "Snapper",
+    "isrc": "NZFN00400975"
+  },
+  {
+    "title": "Crazy Radiance",
+    "artist": "Hamish Kilgour",
+    "isrc": "USCPT1410169"
+  },
+  {
+    "title": "Euro Disco",
+    "artist": "Chris Heazlewood",
+    "isrc": "NZFN00400940"
+  },
+  {
+    "title": "The Water",
+    "artist": "Goblin Mix",
+    "isrc": "NZFN09100142"
+  },
+  {
+    "title": "Don't Fight It Marsha, Its Bigger Than Both of Us",
+    "artist": "Blam Blam Blam",
+    "isrc": "NZFM00400226"
+  },
+  {
+    "title": "Lovescarf",
+    "artist": "Jay Clarkson",
+    "isrc": "NZAH00800001"
+  },
+  {
+    "title": "Spilled Oranges",
+    "artist": "The Mad Scene",
+    "isrc": "USMRG0314012"
+  },
+  {
+    "title": "The Country Sow",
+    "artist": "Solid Gold Hell",
+    "isrc": "NZFN00400199"
+  },
+  {
+    "title": "I Won't Hurt You",
+    "artist": "Pop Art Toasters",
+    "isrc": "NZFN09400051"
+  },
+  {
+    "title": "Rosko",
+    "artist": "Bilders",
+    "isrc": "USX9P2339835"
+  },
+  {
+    "title": "Nothing's Going to Happen",
+    "artist": "Tall Dwarfs",
+    "isrc": "USMRG2279801"
+  },
+  {
+    "title": "Not to Take Sides",
+    "artist": "Sneaky Feelings",
+    "isrc": "NZFN00401181"
+  },
+  {
+    "title": "Sour Queen",
+    "artist": "Able Tasmans",
+    "isrc": "NZFN00400985"
+  },
+  {
+    "title": "Hey Seuss",
+    "artist": "3Ds",
+    "isrc": "NZFN00400568"
+  },
+  {
+    "title": "A Crib at Flat-line Bay",
+    "artist": "The Verlaines",
+    "isrc": "USPSZ2100023"
+  },
+  {
+    "title": "Can't Find Water",
+    "artist": "The Great Unwashed",
+    "isrc": "NZFN00400411"
+  },
+  {
+    "title": "If I Were You",
+    "artist": "Straitjacket Fits",
+    "isrc": "NZFN00401010"
+  },
+  {
+    "title": "Looks like I’m running out",
+    "artist": "David Kilgour, The Heavy Eights, David Kilgour And The Heavy Eights",
+    "isrc": "USMRG1968809"
+  },
+  {
+    "title": "Billy Two",
+    "artist": "The Clean",
+    "isrc": "USMRG2073601"
+  },
+  {
+    "title": "The Woman Inside of Me",
+    "artist": "Chris Knox",
+    "isrc": "NZFN00400273"
+  },
+  {
+    "title": "As Does the Sun",
+    "artist": "Look Blue Go Purple",
+    "isrc": "NZFN00400355"
+  },
+  {
+    "title": "This Is the Way",
+    "artist": "The Chills",
+    "isrc": "NZFN00401526"
+  },
+  {
+    "title": "Now in Your Hands",
+    "artist": "Robert Scott",
+    "isrc": "NZFN01300061"
+  },
+  {
+    "title": "Untied",
+    "artist": "Bailter Space",
+    "isrc": "USMTD9514201"
+  },
+  {
+    "title": "Block Of Wood",
+    "artist": "The Bats",
+    "isrc": "AUMUO8700051"
+  },
+  {
+    "title": "Needles and Plastic",
+    "artist": "Double Happys",
+    "isrc": "NZFN00400391"
+  },
+  {
+    "title": "Squeeze",
+    "artist": "Toy Love",
+    "isrc": "QM6MZ1459815"
+  },
+  {
+    "title": "Coalminers Song",
+    "artist": "Gordons",
+    "isrc": "NZFN00400256"
+  },
+  {
+    "title": "Touch Me",
+    "artist": "Superette",
+    "isrc": "NZFN00400185"
+  },
+  {
+    "title": "Win Your Love",
+    "artist": "Alec Bathgate",
+    "isrc": "NZFN00400783"
+  },
+  {
+    "title": "Jim",
+    "artist": "Pin Group",
+    "isrc": "USELN0600130"
+  },
+  {
+    "title": "Falling Down",
+    "artist": "Loves Ugly Children",
+    "isrc": "NZFN09400046"
+  },
+  {
+    "title": "Beelines to Heaven",
+    "artist": "Garageland",
+    "isrc": "NZFN00400759"
+  },
+  {
+    "title": "Love Hate Revenge",
+    "artist": "The Terminals",
+    "isrc": "USA2Z1611657"
+  },
+  {
+    "title": "Standing at the Edge",
+    "artist": "The Magick Heads",
+    "isrc": "NZFN09500051"
+  },
+  {
+    "title": "Grey Parade",
+    "artist": "The Jean Paul Sartre Experience",
+    "isrc": "GBCKK1435304"
+  },
+  {
+    "title": "And We Bake",
+    "artist": "Skeptics",
+    "isrc": "NZFN09200002"
+  },
+  {
+    "title": "The Horrible Tango",
+    "artist": "This Kind Of Punishment",
+    "isrc": "USA2Z1810084"
+  }
+]

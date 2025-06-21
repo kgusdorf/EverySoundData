@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Olen homo",
+    "artist": "Lama",
+    "isrc": "FIUM71100135"
+  },
+  {
+    "title": "Sätkynukkehuorat",
+    "artist": "Aivolävistys",
+    "isrc": "CH6540813189"
+  },
+  {
+    "title": "Synti - 2007 Digital Remaster;",
+    "artist": "KOHU-63",
+    "isrc": "FIUNP0700593"
+  },
+  {
+    "title": "Aikaa ostamaan",
+    "artist": "Nolla Nolla Nolla",
+    "isrc": "FITTS2400091"
+  },
+  {
+    "title": "Espooseen",
+    "artist": "Lapinpolthajat",
+    "isrc": "FITTS1500151"
+  },
+  {
+    "title": "Enää Kiväärit Laulaa",
+    "artist": "Maailmanloppu",
+    "isrc": "SEYOK1639804"
+  },
+  {
+    "title": "Kuitenkin Kuolemme",
+    "artist": "Appendix",
+    "isrc": "FIPRS1200021"
+  },
+  {
+    "title": "Tuttipullonimijä",
+    "artist": "Kakkahätä-77",
+    "isrc": "FITTS1100111"
+  },
+  {
+    "title": "Hengissä Läpi Helsingin - 2009 Digital Remaster",
+    "artist": "Sensuuri",
+    "isrc": "FIUNP0900051"
+  },
+  {
+    "title": "Raitis ja valveillaoleva työväenluokka",
+    "artist": "Ydinperhe",
+    "isrc": "QZFYX2436038"
+  },
+  {
+    "title": "Antti - 2001 Digital Remaster",
+    "artist": "Karanteeni",
+    "isrc": "FIUNP0100162"
+  },
+  {
+    "title": "Verenperintö",
+    "artist": "Terveet Kädet",
+    "isrc": "FI7S52200220"
+  },
+  {
+    "title": "Ei / Oikeus valita - Ei ep",
+    "artist": "Mellakka",
+    "isrc": "SEYOK1118056"
+  },
+  {
+    "title": "Tytöt hymyilee",
+    "artist": "Vaavi",
+    "isrc": "FILKA7900058"
+  },
+  {
+    "title": "Sodan Tragedia",
+    "artist": "Rattus, Vesku Jokinen",
+    "isrc": "USL4R2326874"
+  },
+  {
+    "title": "Todellisuus",
+    "artist": "Kaaos",
+    "isrc": "FIPRS0300068"
+  },
+  {
+    "title": "Hyväksikäytetyt",
+    "artist": "Bastards",
+    "isrc": "FIPRS1300051"
+  },
+  {
+    "title": "Vapaaehtoiset kuolemaan",
+    "artist": "Riistetyt",
+    "isrc": "FIPRS1200142"
+  },
+  {
+    "title": "Earth Junk",
+    "artist": "Hero Dishonest",
+    "isrc": "SEYOK2402703"
+  },
+  {
+    "title": "Enkelit sulkivat silmänsä",
+    "artist": "Pyhät Nuket",
+    "isrc": "FIFMF8500101"
+  },
+  {
+    "title": "Who's Got the Biggest Balls In Town",
+    "artist": "Nazi Death Camp",
+    "isrc": "FI6JT0900012"
+  },
+  {
+    "title": "Sinivalkoinen Lama",
+    "artist": "H.I.C. Systeemi",
+    "isrc": "FIPRS1400762"
+  },
+  {
+    "title": "Sainthood",
+    "artist": "St.Hood",
+    "isrc": "FILGC0500002"
+  },
+  {
+    "title": "(Oh No) I Took Too Much",
+    "artist": "God Given Ass",
+    "isrc": "SEYOK2401644"
+  },
+  {
+    "title": "Katkeamaton",
+    "artist": "M.O.R.A.",
+    "isrc": "QZK6N2354993"
+  },
+  {
+    "title": "Here Comes the Darkness",
+    "artist": "Wasted",
+    "isrc": "QZK6G2094239"
+  },
+  {
+    "title": "Voittaja",
+    "artist": "ÄPÄRÄT",
+    "isrc": "SEYOK2024304"
+  },
+  {
+    "title": "Syvää unta",
+    "artist": "Rakkaus",
+    "isrc": "CH6540820435"
+  },
+  {
+    "title": "HC-Bailut Notkean Rotan Ja Rautaperseen Seurassa",
+    "artist": "ratface, Rautaperse, Notkea Rotta",
+    "isrc": "SEYOK1929008"
+  },
+  {
+    "title": "Kuutamokeikka",
+    "artist": "Himanes",
+    "isrc": "FIKRA9200044"
+  },
+  {
+    "title": "Vaatteet",
+    "artist": "Maukka Perusjätkä",
+    "isrc": "FIUM71201485"
+  },
+  {
+    "title": "Hulluuden Dynastia",
+    "artist": "Ääritila",
+    "isrc": "USQY51046894"
+  },
+  {
+    "title": "Moottoroitu irtopää",
+    "artist": "Rytmihäiriö",
+    "isrc": "FI5ST2300006"
+  },
+  {
+    "title": "Hei hei hei",
+    "artist": "Korroosio",
+    "isrc": "FILKA8200238"
+  },
+  {
+    "title": "Become A Threat",
+    "artist": "Become A Threat",
+    "isrc": "FILGC1000025"
+  },
+  {
+    "title": "Rise And Fall",
+    "artist": "Cutdown, Raipati",
+    "isrc": "FILGC0900010"
+  },
+  {
+    "title": "Vainot",
+    "artist": "Lighthouse Project",
+    "isrc": "FIKHY1700004"
+  },
+  {
+    "title": "Mustavalkoinen Maailma - 2001 Digital Remaster",
+    "artist": "Tinneri",
+    "isrc": "FIUNG0100034"
+  },
+  {
+    "title": "The Fuel",
+    "artist": "Endstand",
+    "isrc": "QZNWY2081063"
+  },
+  {
+    "title": "Burn",
+    "artist": "Down My Throat",
+    "isrc": "FILGC0100023"
+  },
+  {
+    "title": "No Rest No Peace",
+    "artist": "Worth The Pain",
+    "isrc": "SEYOK1302765"
+  },
+  {
+    "title": "Naapurit",
+    "artist": "Radiopuhelimet",
+    "isrc": "SEYOK2003618"
+  },
+  {
+    "title": "Helsinkiin vai helvettiin",
+    "artist": "James Puhto-Ren",
+    "isrc": "FIKRA9400028"
+  },
+  {
+    "title": "Kaipaan sua",
+    "artist": "Pelle Miljoona & Rockers, Andy McCoy",
+    "isrc": "FIJKA9600129"
+  },
+  {
+    "title": "Takaisin kompostiin",
+    "artist": "Valse Triste",
+    "isrc": "USAYS0600202"
+  },
+  {
+    "title": "Bound to Burn",
+    "artist": "GRAY STATE",
+    "isrc": "QZWFR2328877"
+  },
+  {
+    "title": "Paralyzed",
+    "artist": "Manifesto Jukebox",
+    "isrc": "DEZ650602761"
+  },
+  {
+    "title": "Under the Ashes of This Tyranny",
+    "artist": "Cleansing",
+    "isrc": "QZFZ32464984"
+  },
+  {
+    "title": "Nameless & Faceless",
+    "artist": "Presley Bastards",
+    "isrc": "FICOB1000031"
+  },
+  {
+    "title": "Closure",
+    "artist": "Last Drop",
+    "isrc": "SEYOK1842385"
+  },
+  {
+    "title": "Primordial Possession",
+    "artist": "Baron",
+    "isrc": "QMEU32400808"
+  },
+  {
+    "title": "Face of My Enemy",
+    "artist": "Cigarette Crossfire",
+    "isrc": "FIAD81400015"
+  },
+  {
+    "title": "Kameratutkat, suoriksi mutkat",
+    "artist": "Kylähullut",
+    "isrc": "FIKRA0700296"
+  },
+  {
+    "title": "Hidebound",
+    "artist": "Watery",
+    "isrc": "SEYOK1519587"
+  },
+  {
+    "title": "Hypocrisy",
+    "artist": "Voice Of Treason, Ben Mason",
+    "isrc": "SEYOK1927829"
+  },
+  {
+    "title": "Jag älskar att supa",
+    "artist": "Bob Malmström, Anni Lötjönen",
+    "isrc": "FIEBL2000003"
+  },
+  {
+    "title": "O.G.B.D.",
+    "artist": ".45 Stainless",
+    "isrc": "DEBL61152451"
+  },
+  {
+    "title": "None Fated",
+    "artist": "RATS WILL FEAST",
+    "isrc": "ITY862400099"
+  },
+  {
+    "title": "Paska Kopio",
+    "artist": "Ruaste, Vesku Jokinen",
+    "isrc": "FIJJ20900012"
+  },
+  {
+    "title": "Dance with Me Satan",
+    "artist": "Black Magic Six",
+    "isrc": "DEZ651705372"
+  },
+  {
+    "title": "Second Generation Junkie",
+    "artist": "Frankie the Damage",
+    "isrc": "CH6541958943"
+  },
+  {
+    "title": "Rakkaudesta...",
+    "artist": "UnKind",
+    "isrc": "US2641021701"
+  },
+  {
+    "title": "Subject of Mockery",
+    "artist": "Instant",
+    "isrc": "QZES91882482"
+  },
+  {
+    "title": "Protestilaulu",
+    "artist": "Abortti 13",
+    "isrc": "QZK6P2064728"
+  },
+  {
+    "title": "Nocturnal Torture",
+    "artist": "Another One Dead",
+    "isrc": "SEYOK1835121"
+  },
+  {
+    "title": "Kiss Of Insurrection",
+    "artist": "Armageddon Clock",
+    "isrc": "DEZ650710081"
+  },
+  {
+    "title": "The Departure Point",
+    "artist": "Heartbreak Stereo",
+    "isrc": "DEFS40900422"
+  },
+  {
+    "title": "Makumba",
+    "artist": "Kaivosurma",
+    "isrc": "QZDA61801540"
+  },
+  {
+    "title": "Hotter Than Heka",
+    "artist": "Koljosen Tiekiista",
+    "isrc": "FILPM2100001"
+  },
+  {
+    "title": "Kukaan Ei Enää Kysy Miksi",
+    "artist": "Kuolleet Kukat",
+    "isrc": "FIPRS0300077"
+  },
+  {
+    "title": "Lost in a World of Waste",
+    "artist": "Out Of Breath",
+    "isrc": "DEZ651700101"
+  },
+  {
+    "title": "Sähkö, Johdot Ja Päätteet",
+    "artist": "Pro Et Contra",
+    "isrc": "FIORF1101305"
+  },
+  {
+    "title": "Bite It You Scum (GG Allin cover)",
+    "artist": "Psykoanalyysi",
+    "isrc": "FI5CK1507305"
+  },
+  {
+    "title": "Vitun punkit ei käy punkkisalilla",
+    "artist": "Puhelinkoppi",
+    "isrc": "FI5CK1606281"
+  },
+  {
+    "title": "Bare Footin",
+    "artist": "Satura Lanx",
+    "isrc": "FR6V80153168"
+  },
+  {
+    "title": "Raadonsyöjä",
+    "artist": "Sekaannus",
+    "isrc": "TCACL1631189"
+  },
+  {
+    "title": "Palavan kaupungin reunoilla",
+    "artist": "Ydinmätä",
+    "isrc": "CH6540819778"
+  },
+  {
+    "title": "Iso Pasi",
+    "artist": "Lama",
+    "isrc": "FIUM71100136"
+  },
+  {
+    "title": "Mistä on pienet fasistit tehty?",
+    "artist": "Aivolävistys",
+    "isrc": "CH6540813203"
+  },
+  {
+    "title": "Idiootti - 2007 Digital Remaster;",
+    "artist": "KOHU-63",
+    "isrc": "FIUNP0700595"
+  },
+  {
+    "title": "Hyvästi huominen",
+    "artist": "Nolla Nolla Nolla",
+    "isrc": "FILKA8400071"
+  },
+  {
+    "title": "Paperittomana steissillä",
+    "artist": "Lapinpolthajat",
+    "isrc": "FITTS1900028"
+  },
+  {
+    "title": "Sinä Ja Minä",
+    "artist": "Appendix",
+    "isrc": "FIPRS1200037"
+  },
+  {
+    "title": "Odotukset",
+    "artist": "Maailmanloppu",
+    "isrc": "SEYOK1658823"
+  },
+  {
+    "title": "Goodnight N.Y.C. - 2009 Digital Remaster",
+    "artist": "Sensuuri",
+    "isrc": "FIUNP0900054"
+  },
+  {
+    "title": "Vuosisadan rakkaustarina",
+    "artist": "Kakkahätä-77",
+    "isrc": "FITTS1100119"
+  },
+  {
+    "title": "Poliisi On Pop - 2001 Digital Remaster",
+    "artist": "Karanteeni",
+    "isrc": "FIUNP0100170"
+  },
+  {
+    "title": "The Horse - Electric",
+    "artist": "Terveet Kädet",
+    "isrc": "FILPM1200019"
+  },
+  {
+    "title": "Itsenaisyyspaiva - Itsenaisyyspaiva ep",
+    "artist": "Mellakka",
+    "isrc": "SEYOK1118059"
+  },
+  {
+    "title": "Kymmenen välivuotta",
+    "artist": "Ydinperhe",
+    "isrc": "QZPLS2120547"
+  },
+  {
+    "title": "Mihin jäi punk?",
+    "artist": "Vaavi",
+    "isrc": "FILKA8100836"
+  },
+  {
+    "title": "Viina Ei Petä",
+    "artist": "Rattus, Jarkko Martikainen",
+    "isrc": "USL4R2326875"
+  },
+  {
+    "title": "Uskonsota",
+    "artist": "Kaaos",
+    "isrc": "FIPRS0300072"
+  },
+  {
+    "title": "Tomorrow Remix",
+    "artist": "Bastards",
+    "isrc": "FIPRS2300011"
+  },
+  {
+    "title": "Protest & Survive",
+    "artist": "Riistetyt",
+    "isrc": "FIPRS1200041"
+  },
+  {
+    "title": "Emme voi mitään",
+    "artist": "Hero Dishonest",
+    "isrc": "SEYOK2402707"
+  },
+  {
+    "title": "The Boy Whose Head Exploded",
+    "artist": "Nazi Death Camp",
+    "isrc": "FI6JT0900017"
+  },
+  {
+    "title": "Sekasortoa",
+    "artist": "Pyhät Nuket, Kaaos",
+    "isrc": "FIPRS0300067"
+  },
+  {
+    "title": "Lunttu",
+    "artist": "H.I.C. Systeemi",
+    "isrc": "FIPRS1400754"
+  },
+  {
+    "title": "Heart of a Lion",
+    "artist": "St.Hood",
+    "isrc": "FILGC1700003"
+  },
+  {
+    "title": "She Won't Come Tonight",
+    "artist": "God Given Ass",
+    "isrc": "FIMRR1100096"
+  },
+  {
+    "title": "Se ja sama",
+    "artist": "M.O.R.A.",
+    "isrc": "QZPLR2329738"
+  },
+  {
+    "title": "Break You",
+    "artist": "Wasted",
+    "isrc": "DEFS42202338"
+  },
+  {
+    "title": "3. Terroristi.",
+    "artist": "ÄPÄRÄT",
+    "isrc": "SEYOK1711443"
+  },
+  {
+    "title": "Testamentti",
+    "artist": "Rakkaus",
+    "isrc": "CH6540820440"
+  },
+  {
+    "title": "M.A.C. Mehujää",
+    "artist": "Himanes",
+    "isrc": "SE59D2300601"
+  },
+  {
+    "title": "Ratassed",
+    "artist": "ratface, Peachey Six Ft Ditch",
+    "isrc": "SEYOK1929013"
+  },
+  {
+    "title": "Kuolleen Kukan Maa",
+    "artist": "Ääritila",
+    "isrc": "USQY51046905"
+  },
+  {
+    "title": "Terra Nova",
+    "artist": "Become A Threat",
+    "isrc": "FILGC1800001"
+  },
+  {
+    "title": "Olen kännissä",
+    "artist": "Rytmihäiriö",
+    "isrc": "FI5ST1300005"
+  },
+  {
+    "title": "Kuurankukka",
+    "artist": "Korroosio",
+    "isrc": "FIPRS1300092"
+  },
+  {
+    "title": "Vaatteet (on mun aatteet)",
+    "artist": "Maukka Perusjätkä, Ralf Örn Pop",
+    "isrc": "FILKA8000052"
+  },
+  {
+    "title": "Unbeaten",
+    "artist": "Cutdown",
+    "isrc": "FILGC0400012"
+  },
+  {
+    "title": "Typerä virhe, pysyvä vamma",
+    "artist": "Lighthouse Project",
+    "isrc": "FIKHY1700006"
+  },
+  {
+    "title": "Kotikaupumgin Katupöly",
+    "artist": "Tinneri",
+    "isrc": "FIPRS1300123"
+  },
+  {
+    "title": "I Promise Not To Stay Quiet",
+    "artist": "Endstand",
+    "isrc": "QZNWY2081061"
+  },
+  {
+    "title": "Vermouth Breath",
+    "artist": "Down My Throat",
+    "isrc": "FILGC0500102"
+  },
+  {
+    "title": "Conquer It All",
+    "artist": "Worth The Pain",
+    "isrc": "SEYOK1302764"
+  },
+  {
+    "title": "Tommin pornolehdet",
+    "artist": "Radiopuhelimet",
+    "isrc": "SEYOK1317166"
+  },
+  {
+    "title": "Tahdon sinut",
+    "artist": "James Puhto-Ren",
+    "isrc": "FIKRA9300202"
+  },
+  {
+    "title": "Hän Uskoi Tuuleen",
+    "artist": "Pelle Miljoona & Rockers",
+    "isrc": "FIJKA0100035"
+  },
+  {
+    "title": "Kompastus",
+    "artist": "Valse Triste",
+    "isrc": "USAYS0600197"
+  },
+  {
+    "title": "Desire",
+    "artist": "Manifesto Jukebox",
+    "isrc": "DEZ650602768"
+  },
+  {
+    "title": "The Death of True Love",
+    "artist": "GRAY STATE, Ulla Ahola, Simo Perkiömäki",
+    "isrc": "QZWFG2355382"
+  },
+  {
+    "title": "Words of Valour",
+    "artist": "Cleansing",
+    "isrc": "QZFZ72421419"
+  },
+  {
+    "title": "Confront It All",
+    "artist": "Presley Bastards",
+    "isrc": "FICOB1000032"
+  },
+  {
+    "title": "Disgrace",
+    "artist": "Last Drop, Josh / Defilement",
+    "isrc": "SEYOK1842384"
+  },
+  {
+    "title": "Infernal Atonement",
+    "artist": "Baron",
+    "isrc": "QMEU32400809"
+  },
+  {
+    "title": "Patriot = Idiot",
+    "artist": "Cigarette Crossfire",
+    "isrc": "QZFZ52010598"
+  },
+  {
+    "title": "World Beaten",
+    "artist": "Watery, Jesse Soisalo",
+    "isrc": "SEYOK1822283"
+  },
+  {
+    "title": "Tänään kotona",
+    "artist": "Lama",
+    "isrc": "FIUM71100132"
+  },
+  {
+    "title": "Leikitäänkö rauhaa?",
+    "artist": "Aivolävistys",
+    "isrc": "CH6540813184"
+  },
+  {
+    "title": "Silminnäkijä",
+    "artist": "Nolla Nolla Nolla",
+    "isrc": "FILKA8400072"
+  },
+  {
+    "title": "Vittu mä vihaan punkkia!",
+    "artist": "Lapinpolthajat",
+    "isrc": "FITTS1900029"
+  },
+  {
+    "title": "L.O.P.P.U",
+    "artist": "Maailmanloppu",
+    "isrc": "SEYOK1658825"
+  },
+  {
+    "title": "Ei Raha Oo ...",
+    "artist": "Appendix",
+    "isrc": "FIPRS1200040"
+  },
+  {
+    "title": "Kaupunki Nukkuu - 2009 Digital Remaster",
+    "artist": "Sensuuri",
+    "isrc": "FIUNP0900049"
+  },
+  {
+    "title": "Kaljupäinen Gansteri - 2001 Digital Remaster",
+    "artist": "Karanteeni",
+    "isrc": "FIUNP0100175"
+  },
+  {
+    "title": "Oma Koloni - Electric",
+    "artist": "Terveet Kädet",
+    "isrc": "FILPM1200010"
+  },
+  {
+    "title": "Yritän katsoo huomiseen",
+    "artist": "Kakkahätä-77",
+    "isrc": "FITTS1100124"
+  },
+  {
+    "title": "Kirous - Itsenaisyyspaiva ep",
+    "artist": "Mellakka",
+    "isrc": "SEYOK1118061"
+  },
+  {
+    "title": "Sano ei",
+    "artist": "Ydinperhe",
+    "isrc": "QZTBA2379899"
+  },
+  {
+    "title": "Pää ei toimi",
+    "artist": "Vaavi",
+    "isrc": "FIHNA1700004"
+  },
+  {
+    "title": "Massapsykoosi",
+    "artist": "Rattus",
+    "isrc": "QMPKX1644839"
+  },
+  {
+    "title": "Hyvinvoinnin Toinen Puoli",
+    "artist": "Kaaos",
+    "isrc": "FIPRS0300071"
+  },
+  {
+    "title": "War Heroes",
+    "artist": "Bastards",
+    "isrc": "FIPRS2300012"
+  },
+  {
+    "title": "Kadut on meidän",
+    "artist": "Riistetyt",
+    "isrc": "FIPRS1200143"
+  },
+  {
+    "title": "Veronpalautus",
+    "artist": "Hero Dishonest",
+    "isrc": "SEYOK2402702"
+  },
+  {
+    "title": "Syyskuu",
+    "artist": "Pyhät Nuket",
+    "isrc": "FIPRS0300054"
+  },
+  {
+    "title": "Itsetuho",
+    "artist": "H.I.C. Systeemi",
+    "isrc": "FIPRS1400763"
+  },
+  {
+    "title": "Bring Forth The War",
+    "artist": "St.Hood",
+    "isrc": "FITXD2300484"
+  },
+  {
+    "title": "I´m Not Alright",
+    "artist": "God Given Ass",
+    "isrc": "SEYOK1428787"
+  },
+  {
+    "title": "Hengen palo",
+    "artist": "M.O.R.A.",
+    "isrc": "QZPLR2329739"
+  },
+  {
+    "title": "Tragedy",
+    "artist": "Wasted",
+    "isrc": "QZK6G2094240"
+  },
+  {
+    "title": "1. Tää On Mun.",
+    "artist": "ÄPÄRÄT",
+    "isrc": "SEYOK1711441"
+  },
+  {
+    "title": "Jokainen päivä",
+    "artist": "Rakkaus",
+    "isrc": "CH6540820444"
+  }
+]

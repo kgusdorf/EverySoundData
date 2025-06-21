@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Radiatus Generis",
+    "artist": "Cytotoxin",
+    "isrc": "QMZNK1700255"
+  },
+  {
+    "title": "Alter Freund",
+    "artist": "Argorok, Alik",
+    "isrc": "DEYW82405851"
+  },
+  {
+    "title": "Satanica",
+    "artist": "Bitchhammer",
+    "isrc": "uscgj1958716"
+  },
+  {
+    "title": "Delirium",
+    "artist": "Deathrite",
+    "isrc": "DEZC62255555"
+  },
+  {
+    "title": "Fall from Reality",
+    "artist": "Evil Warriors",
+    "isrc": "DELS41708101"
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "Escape The Madness",
+    "isrc": "CH6542364489"
+  },
+  {
+    "title": "Chandelier",
+    "artist": "Trynity",
+    "isrc": "CAHQJ2010897"
+  },
+  {
+    "title": "Blood Splattered Symphony",
+    "artist": "Burn Down Eden",
+    "isrc": "QM4TW2443396"
+  },
+  {
+    "title": "Burning Abyss",
+    "artist": "Vidargängr",
+    "isrc": "DELS41607402"
+  },
+  {
+    "title": "Erheben aus Grau",
+    "artist": "CNTMPT",
+    "isrc": "DEZC62290577"
+  },
+  {
+    "title": "Born To Die",
+    "artist": "Epidemic Scorn",
+    "isrc": "DEZC62203693"
+  },
+  {
+    "title": "Untold",
+    "artist": "Audhumpla",
+    "isrc": "QZK6Q2082381"
+  },
+  {
+    "title": "Because of Death",
+    "artist": "Human Prey",
+    "isrc": "DETJ52100052"
+  },
+  {
+    "title": "A Change in the Darkness",
+    "artist": "Ravenpath",
+    "isrc": "CH6541924530"
+  },
+  {
+    "title": "Vergiftet",
+    "artist": "GrooVenoM, Vanessa Katakalos",
+    "isrc": "DEBZ72000286"
+  },
+  {
+    "title": "Tempest",
+    "artist": "The Sleeper",
+    "isrc": "QZFYZ2208860"
+  },
+  {
+    "title": "Auf nach Walhalla",
+    "artist": "Wolfstavar",
+    "isrc": "DEVL12100313"
+  },
+  {
+    "title": "Remedy",
+    "artist": "Through Devastation",
+    "isrc": "QZNWS2197819"
+  },
+  {
+    "title": "Die Proklamation",
+    "artist": "Todbringer",
+    "isrc": "QZHNC2398720"
+  },
+  {
+    "title": "Winter",
+    "artist": "Walking Beyond, Christoph Wieczorek",
+    "isrc": "DEZC62274929"
+  },
+  {
+    "title": "Incubus",
+    "artist": "Dying Empire",
+    "isrc": "DETP12000017"
+  },
+  {
+    "title": "Little Ease",
+    "artist": "The last hangmen",
+    "isrc": "DET551300185"
+  },
+  {
+    "title": "Hadopelagial",
+    "artist": "Hadopelagial",
+    "isrc": "QM6P42009792"
+  },
+  {
+    "title": "The Healing",
+    "artist": "End of Sanctum",
+    "isrc": "DEZC62494166"
+  },
+  {
+    "title": "Thundertower",
+    "artist": "Goat Explosion",
+    "isrc": "DEZC62331481"
+  },
+  {
+    "title": "Dampfhammer",
+    "artist": "Blindgänger",
+    "isrc": "QZK6F2021755"
+  },
+  {
+    "title": "Bring Back",
+    "artist": "Peak Inc.",
+    "isrc": "DEZC62118233"
+  },
+  {
+    "title": "Cathartic Rain",
+    "artist": "Aeveron",
+    "isrc": "USI4R0900402"
+  },
+  {
+    "title": "Crawling Chaos",
+    "artist": "Where We Walk, Phil Sorger",
+    "isrc": "QZDA41864914"
+  },
+  {
+    "title": "Shadows of Doubt",
+    "artist": "Ad Cinerem",
+    "isrc": "QZFYZ2054651"
+  },
+  {
+    "title": "Final Curtain",
+    "artist": "Age of Alteration",
+    "isrc": "QZFYW1915091"
+  },
+  {
+    "title": "Inside",
+    "artist": "Dawn of the Unleashed",
+    "isrc": "DEPI81904353"
+  },
+  {
+    "title": "Shapeshifter",
+    "artist": "Hysteria",
+    "isrc": "DEVL11901212"
+  },
+  {
+    "title": "Saksen",
+    "artist": "Saxorior",
+    "isrc": "DEZ901501644"
+  },
+  {
+    "title": "Identify the Sick",
+    "artist": "Yardfield Colony",
+    "isrc": "DETJ52000015"
+  },
+  {
+    "title": "Ghosts of Waste",
+    "artist": "Metabolic",
+    "isrc": "DEPI81902817"
+  },
+  {
+    "title": "Storm Of Fury",
+    "artist": "Heksebrann",
+    "isrc": "QZES62009118"
+  },
+  {
+    "title": "As Hell Emerged",
+    "artist": "Omega Purge",
+    "isrc": "DELJ82078481"
+  },
+  {
+    "title": "Hvbris",
+    "artist": "Doublewide",
+    "isrc": "DETY71700452"
+  },
+  {
+    "title": "Broken Chalice",
+    "artist": "Destillat",
+    "isrc": "QMEU32119314"
+  },
+  {
+    "title": "Sol Devina",
+    "artist": "Kalmen",
+    "isrc": "DENI11900010"
+  },
+  {
+    "title": "Paranoid Destruction",
+    "artist": "Agonize",
+    "isrc": "USY251634122"
+  },
+  {
+    "title": "I Thought I Would Not",
+    "artist": "Slow Green Thing",
+    "isrc": "DESC62400001"
+  },
+  {
+    "title": "Into Cascades of Blood and Burning Soil",
+    "artist": "Profanation",
+    "isrc": "UKL261900002"
+  },
+  {
+    "title": "Full Speed Ahead",
+    "artist": "Next Step Down",
+    "isrc": "DEAR41766512"
+  },
+  {
+    "title": "Mama Always Told Me",
+    "artist": "Stonehead",
+    "isrc": "DENQ81600425"
+  },
+  {
+    "title": "Catacombs of Horror",
+    "artist": "Saprobiontic",
+    "isrc": "GBLFP1807295"
+  },
+  {
+    "title": "Wolves & Vultures",
+    "artist": "Check the Fridge",
+    "isrc": "TCACZ1700147"
+  },
+  {
+    "title": "Resolution",
+    "artist": "Reaper's Scythe",
+    "isrc": "DELJ81897708"
+  },
+  {
+    "title": "Die Augen längst blind",
+    "artist": "Nephilim",
+    "isrc": "SE3OH1614792"
+  },
+  {
+    "title": "Long Way Home",
+    "artist": "Deadend In Venice",
+    "isrc": "GBKLB1191980"
+  },
+  {
+    "title": "Desolation, Collective, Scapegoat",
+    "artist": "Beyond the Setting Sun",
+    "isrc": "QM2PV1780583"
+  },
+  {
+    "title": "Catch22",
+    "artist": "John Matrix",
+    "isrc": "QZTBF2348016"
+  },
+  {
+    "title": "Defcon",
+    "artist": "Extinctionist",
+    "isrc": "CH6542094823"
+  },
+  {
+    "title": "From Outer Space",
+    "artist": "Alpha Tiger",
+    "isrc": "US4E41397203"
+  },
+  {
+    "title": "Moon Is Rising",
+    "artist": "Moon Shepherd",
+    "isrc": "QZHN32257944"
+  },
+  {
+    "title": "Fern der Sonne",
+    "artist": "Fjørdal",
+    "isrc": "QZTB82309106"
+  },
+  {
+    "title": "Brach",
+    "artist": "Meijar",
+    "isrc": "DEZC62403230"
+  },
+  {
+    "title": "Vast Eradication",
+    "artist": "Incremate",
+    "isrc": "DEZC62377063"
+  },
+  {
+    "title": "Passing Lights",
+    "artist": "Apoa",
+    "isrc": "CH6542166613"
+  },
+  {
+    "title": "Under The Wig",
+    "artist": "Thybeaux",
+    "isrc": "DELJ82074561"
+  },
+  {
+    "title": "Hope Remains",
+    "artist": "Agony",
+    "isrc": "QZHN72245980"
+  },
+  {
+    "title": "Under Lethal Command",
+    "artist": "Animus Delet",
+    "isrc": "QZFZ71990932"
+  },
+  {
+    "title": "Platz der Sorgen",
+    "artist": "Arbor Ira",
+    "isrc": "DEAR41733000"
+  },
+  {
+    "title": "Antivalence",
+    "artist": "Colony Collapse",
+    "isrc": "DELJ81893141"
+  },
+  {
+    "title": "Dead Men - Live",
+    "artist": "Dead Man's Anthem",
+    "isrc": "DEPI81905296"
+  },
+  {
+    "title": "Clouds",
+    "artist": "Divine X",
+    "isrc": "DEL211803742"
+  },
+  {
+    "title": "Death By Trucker",
+    "artist": "Doublewide",
+    "isrc": "ushm20806850"
+  },
+  {
+    "title": "Back to Origin",
+    "artist": "Dreadburn",
+    "isrc": "DETO12010374"
+  },
+  {
+    "title": "Creatures of the Night",
+    "artist": "Ebony Wall",
+    "isrc": "DEAR41520977"
+  },
+  {
+    "title": "Sixty-Four",
+    "artist": "Eternal Red",
+    "isrc": "DELJ82067759"
+  },
+  {
+    "title": "Fall Apart",
+    "artist": "Fimbulthier",
+    "isrc": "DEZ901000640"
+  },
+  {
+    "title": "Law of the Riff",
+    "artist": "Gorilla Monsoon",
+    "isrc": "DEHW41505206"
+  },
+  {
+    "title": "Lurching Through Debris",
+    "artist": "Intoxicum",
+    "isrc": "usdy41712037"
+  },
+  {
+    "title": "Newman",
+    "artist": "Living the Fire",
+    "isrc": "CH6542377347"
+  },
+  {
+    "title": "Axethrower",
+    "artist": "Lumberhead",
+    "isrc": "QZES51901225"
+  },
+  {
+    "title": "Voluntary Death",
+    "artist": "Mimosis",
+    "isrc": "QZMEM2062762"
+  },
+  {
+    "title": "Mine of Pictures",
+    "artist": "Morlas Memoria",
+    "isrc": "DEKM61601606"
+  },
+  {
+    "title": "Hell Tank 666",
+    "artist": "Musical Massacre",
+    "isrc": "DELJ82022226"
+  },
+  {
+    "title": "Drake",
+    "artist": "Narph",
+    "isrc": "QZDA61912464"
+  },
+  {
+    "title": "Dunkelheit",
+    "artist": "Sado Sathanas",
+    "isrc": "DEMJ40900125"
+  },
+  {
+    "title": "Traveller",
+    "artist": "Take me to the Ocean",
+    "isrc": "QZFYZ2094711"
+  },
+  {
+    "title": "Trve Reign",
+    "artist": "Trve Reign",
+    "isrc": "DEAR41644289"
+  },
+  {
+    "title": "Anymore",
+    "artist": "Warped Cross",
+    "isrc": "CH6541603254"
+  },
+  {
+    "title": "Insanity's Sinkhole",
+    "artist": "Widdershins",
+    "isrc": "NL4NL2141579"
+  },
+  {
+    "title": "Grim.",
+    "artist": "emniti",
+    "isrc": "DELJ81956181"
+  },
+  {
+    "title": "Sector Zero",
+    "artist": "Cytotoxin",
+    "isrc": "QMZNK1700264"
+  },
+  {
+    "title": "Asche und Blut",
+    "artist": "Argorok",
+    "isrc": "DEYW82310496"
+  },
+  {
+    "title": "Satanic Violence",
+    "artist": "Bitchhammer",
+    "isrc": "uscgj1958715"
+  },
+  {
+    "title": "Excess",
+    "artist": "Evil Warriors",
+    "isrc": "DELS41708102"
+  },
+  {
+    "title": "Melting Skies",
+    "artist": "Deathrite",
+    "isrc": "USERN1009081"
+  },
+  {
+    "title": "Doomed",
+    "artist": "Escape The Madness",
+    "isrc": "CH6542367252"
+  },
+  {
+    "title": "Voyager",
+    "artist": "Trynity",
+    "isrc": "NLS6R1823017"
+  },
+  {
+    "title": "Reap The Apocalypse",
+    "artist": "Burn Down Eden",
+    "isrc": "QM4TW2443394"
+  },
+  {
+    "title": "No More Lust",
+    "artist": "Vidargängr",
+    "isrc": "DELS41607403"
+  },
+  {
+    "title": "Augen in der Dunkelheit",
+    "artist": "CNTMPT",
+    "isrc": "DELJ82068714"
+  },
+  {
+    "title": "Spartacus",
+    "artist": "Epidemic Scorn",
+    "isrc": "DEZC62203692"
+  },
+  {
+    "title": "Longship",
+    "artist": "Audhumpla",
+    "isrc": "QZK6Q2082379"
+  },
+  {
+    "title": "Blood sucking undead zombie knights templar from hell slaying victims at midnight",
+    "artist": "Human Prey",
+    "isrc": "DETJ52300056"
+  },
+  {
+    "title": "No Warning",
+    "artist": "Ravenpath",
+    "isrc": "CH6541924525"
+  },
+  {
+    "title": "Swan Dive",
+    "artist": "The Sleeper",
+    "isrc": "QZFYY1919063"
+  },
+  {
+    "title": "Du bist es wert",
+    "artist": "GrooVenoM",
+    "isrc": "DEBZ72000285"
+  },
+  {
+    "title": "Black Crows",
+    "artist": "Through Devastation",
+    "isrc": "QZB4J1873292"
+  },
+  {
+    "title": "Todeskorps von Krieg",
+    "artist": "Todbringer",
+    "isrc": "QZHN52181280"
+  },
+  {
+    "title": "Ruf des Nordens",
+    "artist": "Wolfstavar",
+    "isrc": "DEVL12100317"
+  },
+  {
+    "title": "Falling",
+    "artist": "Walking Beyond",
+    "isrc": "DEZC62144851"
+  },
+  {
+    "title": "We Are Not Gods",
+    "artist": "Dying Empire",
+    "isrc": "DETP12000014"
+  },
+  {
+    "title": "Lupara Bianca",
+    "artist": "The last hangmen",
+    "isrc": "DET551300182"
+  },
+  {
+    "title": "Helios",
+    "artist": "Hadopelagial",
+    "isrc": "QM6P42009793"
+  },
+  {
+    "title": "Spit On My Grave",
+    "artist": "End of Sanctum",
+    "isrc": "DEZC62494163"
+  },
+  {
+    "title": "Dawn Of The Red",
+    "artist": "Goat Explosion",
+    "isrc": "DEZC62331482"
+  },
+  {
+    "title": "Flamme an",
+    "artist": "Blindgänger",
+    "isrc": "QZK6K2452725"
+  },
+  {
+    "title": "Break The Cage",
+    "artist": "Peak Inc.",
+    "isrc": "DEZC62129813"
+  },
+  {
+    "title": "Make Me Numb",
+    "artist": "Where We Walk",
+    "isrc": "QZDA41864912"
+  },
+  {
+    "title": "The Embodiment of All Misery",
+    "artist": "Aeveron",
+    "isrc": "USI4R0900401"
+  },
+  {
+    "title": "Fields of Memory",
+    "artist": "Ad Cinerem",
+    "isrc": "QZFYX1900339"
+  },
+  {
+    "title": "Just a Dream",
+    "artist": "Age of Alteration",
+    "isrc": "QZHNB2257238"
+  },
+  {
+    "title": "Rising Storm",
+    "artist": "Dawn of the Unleashed",
+    "isrc": "DEPI81904343"
+  },
+  {
+    "title": "Crusaders",
+    "artist": "Hysteria",
+    "isrc": "DEVL11901206"
+  },
+  {
+    "title": "Hexenpest",
+    "artist": "Saxorior",
+    "isrc": "FR96X1940073"
+  },
+  {
+    "title": "The Harvester",
+    "artist": "Yardfield Colony",
+    "isrc": "DETJ52000071"
+  },
+  {
+    "title": "Areaera",
+    "artist": "Metabolic",
+    "isrc": "DEPI81902813"
+  },
+  {
+    "title": "Well Of Creation",
+    "artist": "Heksebrann",
+    "isrc": "QZES62009116"
+  },
+  {
+    "title": "Walk Astray",
+    "artist": "Omega Purge",
+    "isrc": "DELJ82078479"
+  },
+  {
+    "title": "Astonished Mind",
+    "artist": "Doublewide",
+    "isrc": "DETY71700456"
+  },
+  {
+    "title": "Black 47",
+    "artist": "Destillat",
+    "isrc": "QMEU32119315"
+  },
+  {
+    "title": "Katharseas",
+    "artist": "Kalmen",
+    "isrc": "DENI11900013"
+  },
+  {
+    "title": "Rotten Saints",
+    "artist": "Agonize",
+    "isrc": "TCACL1630863"
+  },
+  {
+    "title": "The Sunshine in Me",
+    "artist": "Slow Green Thing",
+    "isrc": "DESC62400002"
+  },
+  {
+    "title": "Circle Of Blood",
+    "artist": "Profanation",
+    "isrc": "PLI368365710"
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "Next Step Down",
+    "isrc": "DEAR42161899"
+  },
+  {
+    "title": "Heaven Ain't A Good Place To Be",
+    "artist": "Stonehead",
+    "isrc": "DENQ81600426"
+  },
+  {
+    "title": "Curtain of Truth",
+    "artist": "Saprobiontic",
+    "isrc": "DEEE32103833"
+  },
+  {
+    "title": "Street Action",
+    "artist": "Check the Fridge",
+    "isrc": "GBSMU7680170"
+  },
+  {
+    "title": "Autophobia",
+    "artist": "Reaper's Scythe",
+    "isrc": "DEZC62388274"
+  },
+  {
+    "title": "Aufbruch",
+    "artist": "Nephilim",
+    "isrc": "SE3OH1614794"
+  },
+  {
+    "title": "Tomorrow Never Comes",
+    "artist": "Deadend In Venice",
+    "isrc": "GBKLB1191984"
+  },
+  {
+    "title": "Unnamed",
+    "artist": "Beyond the Setting Sun",
+    "isrc": "QM2PV1780588"
+  },
+  {
+    "title": "Lose Myself",
+    "artist": "John Matrix",
+    "isrc": "QZTB52258081"
+  },
+  {
+    "title": "Gravity",
+    "artist": "Extinctionist",
+    "isrc": "CH6542094822"
+  },
+  {
+    "title": "Karma",
+    "artist": "Alpha Tiger",
+    "isrc": "DEZ901100167"
+  },
+  {
+    "title": "Broken Heart",
+    "artist": "Moon Shepherd",
+    "isrc": "QZNWU2279254"
+  },
+  {
+    "title": "In kühlen Gründen",
+    "artist": "Fjørdal",
+    "isrc": "QZTB82309104"
+  },
+  {
+    "title": "Katarakt",
+    "artist": "Meijar",
+    "isrc": "DEZC62403229"
+  },
+  {
+    "title": "Construct Of Lunacy",
+    "artist": "Incremate",
+    "isrc": "DEZC62377062"
+  },
+  {
+    "title": "Jophar",
+    "artist": "Apoa",
+    "isrc": "CH6542166616"
+  },
+  {
+    "title": "Atomb",
+    "artist": "Cytotoxin",
+    "isrc": "QM6MZ2046300"
+  },
+  {
+    "title": "Funeral Sorcery",
+    "artist": "Bitchhammer",
+    "isrc": "uscgj1958714"
+  },
+  {
+    "title": "Katharsis",
+    "artist": "Argorok",
+    "isrc": "DEYW82001288"
+  },
+  {
+    "title": "Pillow of Cold Water",
+    "artist": "Evil Warriors",
+    "isrc": "DELS41708103"
+  },
+  {
+    "title": "Repulsive Obsession",
+    "artist": "Deathrite",
+    "isrc": "DEZC62255556"
+  },
+  {
+    "title": "Anxiety",
+    "artist": "Escape The Madness",
+    "isrc": "CH6542223610"
+  },
+  {
+    "title": "Here's To Life",
+    "artist": "Trynity",
+    "isrc": "NLS6R1823015"
+  },
+  {
+    "title": "Contempt",
+    "artist": "Vidargängr",
+    "isrc": "DELS41607404"
+  },
+  {
+    "title": "The War Within",
+    "artist": "Burn Down Eden",
+    "isrc": "QM4TW2443398"
+  },
+  {
+    "title": "Schwarzes Tuch",
+    "artist": "CNTMPT",
+    "isrc": "DEZC62290578"
+  },
+  {
+    "title": "Manson",
+    "artist": "Epidemic Scorn",
+    "isrc": "DEZC62203694"
+  },
+  {
+    "title": "Satisfaction",
+    "artist": "Audhumpla",
+    "isrc": "QZK6Q2082376"
+  },
+  {
+    "title": "Grave Robbers from Outer Space",
+    "artist": "Human Prey",
+    "isrc": "DETJ52100051"
+  },
+  {
+    "title": "The Raven's Wisdom",
+    "artist": "Ravenpath",
+    "isrc": "CH6541924529"
+  },
+  {
+    "title": "Haven",
+    "artist": "The Sleeper",
+    "isrc": "QZK6P2185215"
+  },
+  {
+    "title": "The Anthem",
+    "artist": "Through Devastation",
+    "isrc": "QM4DW1884524"
+  },
+  {
+    "title": "Tränen unter dem Kreuz",
+    "artist": "Todbringer",
+    "isrc": "QZHNC2398727"
+  },
+  {
+    "title": "Defekt",
+    "artist": "GrooVenoM, Christoph Wieczorek",
+    "isrc": "DEBZ72000289"
+  },
+  {
+    "title": "Hymirs Versagen",
+    "artist": "Wolfstavar",
+    "isrc": "DEVL12100318"
+  },
+  {
+    "title": "Wings Of Icarus",
+    "artist": "Walking Beyond",
+    "isrc": "DEZC62274928"
+  },
+  {
+    "title": "Samsara",
+    "artist": "Dying Empire",
+    "isrc": "DETP12000015"
+  },
+  {
+    "title": "The Abolition of Acquittal",
+    "artist": "The last hangmen",
+    "isrc": "DET551300192"
+  },
+  {
+    "title": "Leviathan",
+    "artist": "Hadopelagial",
+    "isrc": "QM6P42009794"
+  },
+  {
+    "title": "Leftover",
+    "artist": "End of Sanctum",
+    "isrc": "DEZC62494160"
+  },
+  {
+    "title": "If Crimson Was My Tower",
+    "artist": "Goat Explosion",
+    "isrc": "DELJ81914379"
+  },
+  {
+    "title": "Festung Europa",
+    "artist": "Blindgänger",
+    "isrc": "QZK6F2021753"
+  },
+  {
+    "title": "Circles",
+    "artist": "Peak Inc.",
+    "isrc": "DEZC62138830"
+  },
+  {
+    "title": "Godly Play",
+    "artist": "Where We Walk",
+    "isrc": "QZMEM2395905"
+  },
+  {
+    "title": "Existential Dead End",
+    "artist": "Aeveron",
+    "isrc": "USI4R0900409"
+  },
+  {
+    "title": "Coldness Went Beyond a Heart",
+    "artist": "Ad Cinerem",
+    "isrc": "QZFYZ2054653"
+  }
+]

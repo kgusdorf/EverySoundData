@@ -1,0 +1,977 @@
+[
+  {
+    "title": "Fam la zeness",
+    "artist": "Sylvain Kaleecharan",
+    "isrc": "FR6V80081770"
+  },
+  {
+    "title": "Eliana",
+    "artist": "Jason Lejuste",
+    "isrc": "TCAFJ2158902"
+  },
+  {
+    "title": "Angélina",
+    "artist": "Désiré François, Cassiya",
+    "isrc": "FRYFD1200525"
+  },
+  {
+    "title": "Jalsa",
+    "artist": "Zotsa",
+    "isrc": "FR6V81161382"
+  },
+  {
+    "title": "Tik tike",
+    "artist": "Laura Beg",
+    "isrc": "FR6V81338238"
+  },
+  {
+    "title": "Kitole",
+    "artist": "Clarel Armelle",
+    "isrc": "FR6V80877388"
+  },
+  {
+    "title": "Zoli",
+    "artist": "JSB Morning Game, Madii",
+    "isrc": "ushm91964812"
+  },
+  {
+    "title": "Pomper",
+    "artist": "Gary Victor",
+    "isrc": "TCACS1689233"
+  },
+  {
+    "title": "Le roi to leker",
+    "artist": "Didier Clarel",
+    "isrc": "FR6V81468297"
+  },
+  {
+    "title": "Falling in Luv",
+    "artist": "MR LOVE, Ric Hassani",
+    "isrc": "usl4r2128624"
+  },
+  {
+    "title": "Mo la vie",
+    "artist": "Tian Corentin",
+    "isrc": "FR6V82489949"
+  },
+  {
+    "title": "Alimé difé - Version originale",
+    "artist": "Cariño",
+    "isrc": "FR6V80260469"
+  },
+  {
+    "title": "Pran ca pou toi",
+    "artist": "Steve Augustin",
+    "isrc": "FR6V80152633"
+  },
+  {
+    "title": "Sa Pa Zot Traka",
+    "artist": "Lin",
+    "isrc": "TCAFY2159795"
+  },
+  {
+    "title": "Agatha",
+    "artist": "Christopher Warren Permal",
+    "isrc": "TCADT1823425"
+  },
+  {
+    "title": "Mo Pena Ni Larzan Ni Lor",
+    "artist": "Bruno Raya, Linzy Bacbotte",
+    "isrc": "TCAGC2267231"
+  },
+  {
+    "title": "L'été Ek Liver",
+    "artist": "Caroline Jodun",
+    "isrc": "TCACS1679665"
+  },
+  {
+    "title": "Kifer to Pale Danse",
+    "artist": "Jason Heerah, Otentik Groove",
+    "isrc": "TCADG1777023"
+  },
+  {
+    "title": "Angui la Kordé",
+    "artist": "Clarel Armel, Médérice",
+    "isrc": "FRX872285142"
+  },
+  {
+    "title": "Dodo baba",
+    "artist": "Sky to Be",
+    "isrc": "FR10S1800280"
+  },
+  {
+    "title": "Goblet",
+    "artist": "Coulouce",
+    "isrc": "FR6V80648383"
+  },
+  {
+    "title": "Repenti",
+    "artist": "LION VIBE",
+    "isrc": "TCAFH2062196"
+  },
+  {
+    "title": "Nuvel vision",
+    "artist": "Ras Natty Baby",
+    "isrc": "FR6V81980803"
+  },
+  {
+    "title": "Si Ou Les",
+    "artist": "Madii Madii, Jason Le Boucher",
+    "isrc": "TCAEZ2033728"
+  },
+  {
+    "title": "Dhobi de classe",
+    "artist": "Jean-Claude",
+    "isrc": "FR6V81149630"
+  },
+  {
+    "title": "Mo paradis",
+    "artist": "System R",
+    "isrc": "FR6V80148348"
+  },
+  {
+    "title": "Erase U",
+    "artist": "Mr. Love, Nuttea",
+    "isrc": "DGA062045911"
+  },
+  {
+    "title": "Rev nou ancétres",
+    "artist": "Cassiya",
+    "isrc": "FR6V80082495"
+  },
+  {
+    "title": "Soley Pou Leve",
+    "artist": "Justice Lecoq",
+    "isrc": "TCAFP2102434"
+  },
+  {
+    "title": "Simié la limière",
+    "artist": "KAYA",
+    "isrc": "FR6V81291189"
+  },
+  {
+    "title": "Li tourné - Version ambiance",
+    "artist": "Alain Ramanisum",
+    "isrc": "FR6V81449385"
+  },
+  {
+    "title": "Kabané",
+    "artist": "Jah Mike, Long Pa",
+    "isrc": "FR6V80154631"
+  },
+  {
+    "title": "Zoli Fi",
+    "artist": "Les Inkonus",
+    "isrc": "TCACZ1706193"
+  },
+  {
+    "title": "La métisse",
+    "artist": "Zulu, Mario Ramsamy",
+    "isrc": "FR6V82340135"
+  },
+  {
+    "title": "La Flamme Sega",
+    "artist": "Yansley, Sega Nou Zanset",
+    "isrc": "TCAGC2231608"
+  },
+  {
+    "title": "Tangati",
+    "artist": "Mario Justin",
+    "isrc": "FR6V80154206"
+  },
+  {
+    "title": "Laglwar",
+    "artist": "The Prophecy",
+    "isrc": "USCGJ1852666"
+  },
+  {
+    "title": "Promi Zire",
+    "artist": "Solda Kenz, Blakkayo",
+    "isrc": "ushm92002355"
+  },
+  {
+    "title": "Whine sa slowly",
+    "artist": "Blakkayo, General Love",
+    "isrc": "FR2EI2101690"
+  },
+  {
+    "title": "Roule Matak, Pt. 1",
+    "artist": "Bigg Frankii, Jor'dan",
+    "isrc": "QZHN52082531"
+  },
+  {
+    "title": "Met dan la joie",
+    "artist": "AUBIN",
+    "isrc": "FR96X2143086"
+  },
+  {
+    "title": "Deroulement lamour",
+    "artist": "Momemsa",
+    "isrc": "ushm82155124"
+  },
+  {
+    "title": "Moris",
+    "artist": "Evoloziq",
+    "isrc": "ushm22012396"
+  },
+  {
+    "title": "Defouler",
+    "artist": "Mary Jane Gaspard",
+    "isrc": "TCAGO2278593"
+  },
+  {
+    "title": "Le morne",
+    "artist": "Lin",
+    "isrc": "FR6V80148349"
+  },
+  {
+    "title": "Ambalaba",
+    "artist": "Denis Azor",
+    "isrc": "ITE731000092"
+  },
+  {
+    "title": "Sega alalila",
+    "artist": "Gérard Louis",
+    "isrc": "FR6V80148350"
+  },
+  {
+    "title": "Mone ManzE",
+    "artist": "Denis Claude Gaspard",
+    "isrc": "TCAFR2185174"
+  },
+  {
+    "title": "Ti Marmit",
+    "artist": "ABAIM",
+    "isrc": "uscgj1057146"
+  },
+  {
+    "title": "Alice (Compote)",
+    "artist": "Yohan, Dj Wayn",
+    "isrc": "QZFYX2491310"
+  },
+  {
+    "title": "Pop Lékonomi",
+    "artist": "Menwar",
+    "isrc": "GBSMU7285997"
+  },
+  {
+    "title": "Mo Baby Oh",
+    "artist": "Helix Dynasty, Tii Alexandre",
+    "isrc": "QZMHP2384179"
+  },
+  {
+    "title": "Mo santiman pou toi",
+    "artist": "Laura et le groupe Ravanna",
+    "isrc": "FR6V81366082"
+  },
+  {
+    "title": "TI MAMZEL",
+    "artist": "Ejilen Music, DJ EJILEN FAYA, DONOVAN, Yohan",
+    "isrc": "QZMEM2259201"
+  },
+  {
+    "title": "Sega banané",
+    "artist": "Sandra Mayotte",
+    "isrc": "FR6V80148340"
+  },
+  {
+    "title": "Malonet",
+    "artist": "Clarel Armelle",
+    "isrc": "QZFZ42290335"
+  },
+  {
+    "title": "Bye Luke",
+    "artist": "Sylvio Louise",
+    "isrc": "FR6V81161460"
+  },
+  {
+    "title": "To mem mo Lamour",
+    "artist": "Tipti Delia",
+    "isrc": "FR2X42109263"
+  },
+  {
+    "title": "La vi lontan",
+    "artist": "Frico",
+    "isrc": "FR6V80661102"
+  },
+  {
+    "title": "Baigun Bagee",
+    "artist": "Bhojpuri Boys",
+    "isrc": "QZAMM1939677"
+  },
+  {
+    "title": "All of Me",
+    "artist": "Ludovic Lamarque",
+    "isrc": "FR26V1528123"
+  },
+  {
+    "title": "SERRER CONTRE MOI",
+    "artist": "Barth",
+    "isrc": "FRDFE2300090"
+  },
+  {
+    "title": "Elida",
+    "artist": "Michel Legris",
+    "isrc": "DEG931591470"
+  },
+  {
+    "title": "Amour en or",
+    "artist": "David Ramen",
+    "isrc": "FR6V81337928"
+  },
+  {
+    "title": "Li Tourner - Radio Edit",
+    "artist": "DJ Assad, Alain Ramanisum & Willy William",
+    "isrc": "FR22F1300240"
+  },
+  {
+    "title": "Pik sort orite",
+    "artist": "Mario Immouche",
+    "isrc": "FR6V81542670"
+  },
+  {
+    "title": "Pechos Calientes",
+    "artist": "Marcelino",
+    "isrc": "ARG991021879"
+  },
+  {
+    "title": "Bato la rentrer",
+    "artist": "Nancy",
+    "isrc": "FR6V81468978"
+  },
+  {
+    "title": "Dan camp sega tipik",
+    "artist": "Michael Veeraragoo",
+    "isrc": "FR6V80148412"
+  },
+  {
+    "title": "Sofé séga",
+    "artist": "Daniella Residu",
+    "isrc": "FR6V80164033"
+  },
+  {
+    "title": "L'amitier - Original Mix",
+    "artist": "Don Panik, Double K",
+    "isrc": "MUA001200381"
+  },
+  {
+    "title": "Tora Tora - Original Mix",
+    "artist": "H Nelson",
+    "isrc": "MUA001200380"
+  },
+  {
+    "title": "Natcho Béti",
+    "artist": "Ino Nakeed",
+    "isrc": "FR6V81166505"
+  },
+  {
+    "title": "Utan kläder - PTO Radio Remix",
+    "artist": "Kriton, Lijon, PTO",
+    "isrc": "SEREM1500101"
+  },
+  {
+    "title": "Badia - Original Mix",
+    "artist": "Mamie Kloune",
+    "isrc": "MUA001000012"
+  },
+  {
+    "title": "Konsékans",
+    "artist": "Wilson Felix",
+    "isrc": "FR6V81483855"
+  },
+  {
+    "title": "Soter kart",
+    "artist": "Ziakazom",
+    "isrc": "FR10S1800743"
+  },
+  {
+    "title": "Palabri",
+    "artist": "Yoan Catherine",
+    "isrc": "FR6V82079417"
+  },
+  {
+    "title": "Olé Olé",
+    "artist": "Marie-Josée, Roger Clency",
+    "isrc": "FR6V81845615"
+  },
+  {
+    "title": "Malbar Dance - Meteor Remix",
+    "artist": "LOYA, Meteor",
+    "isrc": "FR59R1645536"
+  },
+  {
+    "title": "Timbali",
+    "artist": "Benette Martin",
+    "isrc": "FR6V81449376"
+  },
+  {
+    "title": "Ki responsable",
+    "artist": "Berger Agathe",
+    "isrc": "FR10S1616555"
+  },
+  {
+    "title": "Séga tonik",
+    "artist": "Boyzini",
+    "isrc": "FR6V81436567"
+  },
+  {
+    "title": "Ti Marsan",
+    "artist": "DIDIER CLAREL",
+    "isrc": "TCAGL2262939"
+  },
+  {
+    "title": "Sega Champagne",
+    "artist": "Dj sebak, Allkind",
+    "isrc": "QZHN51951083"
+  },
+  {
+    "title": "Circuitry (Pt.2)",
+    "artist": "Elijah, Spiffy Man",
+    "isrc": "TCACR1615091"
+  },
+  {
+    "title": "Kan nou mazine",
+    "artist": "Frico Labelle",
+    "isrc": "FR6V81738180"
+  },
+  {
+    "title": "L'amour",
+    "artist": "Georgy Valentin",
+    "isrc": "FR6V81449380"
+  },
+  {
+    "title": "Nou allé",
+    "artist": "Jim Mayen",
+    "isrc": "FR6V81449379"
+  },
+  {
+    "title": "Vulamasango",
+    "artist": "Kaya",
+    "isrc": "ZAC930702024"
+  },
+  {
+    "title": "Toi Maurice",
+    "artist": "Ketty Martin",
+    "isrc": "FR6V81449377"
+  },
+  {
+    "title": "Joli joli",
+    "artist": "Laval Disco",
+    "isrc": "FR6V81541764"
+  },
+  {
+    "title": "Dilo Dire Oui - Original Mix",
+    "artist": "Nancy Derougere",
+    "isrc": "MUA001000011"
+  },
+  {
+    "title": "Rezonnman tamnbour",
+    "artist": "Nas T Black",
+    "isrc": "FR6V80148345"
+  },
+  {
+    "title": "Vanité",
+    "artist": "Natty Jah",
+    "isrc": "FR6V81542724"
+  },
+  {
+    "title": "Soup sa",
+    "artist": "Nesty Jhany",
+    "isrc": "FR26V1530658"
+  },
+  {
+    "title": "Pép dé zil",
+    "artist": "Nitin Chinien",
+    "isrc": "FR6V81436566"
+  },
+  {
+    "title": "La vie somer",
+    "artist": "Renel Trapu",
+    "isrc": "FR6V80148351"
+  },
+  {
+    "title": "Donne ton numéro",
+    "artist": "Ruan Clarel",
+    "isrc": "FR6V81541771"
+  },
+  {
+    "title": "Ki ti lé",
+    "artist": "Ton Georges",
+    "isrc": "FR6V81127102"
+  },
+  {
+    "title": "Katyink katyink",
+    "artist": "Sylvain Kaleecharan",
+    "isrc": "FR6V81216240"
+  },
+  {
+    "title": "La Route Karanbol",
+    "artist": "Jason Lejuste",
+    "isrc": "TCAFY2188827"
+  },
+  {
+    "title": "Di pain griyé",
+    "artist": "Désiré François, Cassiya",
+    "isrc": "FR2X41575904"
+  },
+  {
+    "title": "Medley Zotsa Revival: E Bayo / Coq Licou Touni / Soulard / Matante Meriza / Azordi Nu Amize",
+    "artist": "Zotsa",
+    "isrc": "ushm22173971"
+  },
+  {
+    "title": "Bate la po - 2012",
+    "artist": "Clarel Armelle",
+    "isrc": "FR6V81436569"
+  },
+  {
+    "title": "Savanne",
+    "artist": "Laura Beg",
+    "isrc": "FR6V81338240"
+  },
+  {
+    "title": "Ayo mama",
+    "artist": "JSB Morning Game, T-Matt",
+    "isrc": "ushm92005058"
+  },
+  {
+    "title": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
+    "artist": "Gary Victor, Kymaï, DJ Cutson, Dj Cedrik",
+    "isrc": "TCACS1689238"
+  },
+  {
+    "title": "Cecilia",
+    "artist": "Didier Clarel",
+    "isrc": "FR6V81468301"
+  },
+  {
+    "title": "La faya séga",
+    "artist": "Tian Corentin",
+    "isrc": "FR6V82489947"
+  },
+  {
+    "title": "Atrap Mo lame",
+    "artist": "MR LOVE, Désiré François",
+    "isrc": "QZFZ22124374"
+  },
+  {
+    "title": "Mo la po kabri",
+    "artist": "Cariño",
+    "isrc": "FR6V80137795"
+  },
+  {
+    "title": "Tape la main",
+    "artist": "Steve Augustin",
+    "isrc": "FR6V80648508"
+  },
+  {
+    "title": "Eliza",
+    "artist": "Christopher Warren Permal",
+    "isrc": "QZNWQ2138630"
+  },
+  {
+    "title": "Nou dir li mem",
+    "artist": "Bruno Raya, Alain Ramanisum",
+    "isrc": "ushm82110567"
+  },
+  {
+    "title": "La Limiere",
+    "artist": "Caroline Jodun",
+    "isrc": "TCACS1679642"
+  },
+  {
+    "title": "Leve (feat. Laura Beg)",
+    "artist": "Jason Heerah, Otentik Groove, Laura Beg",
+    "isrc": "TCADG1777035"
+  },
+  {
+    "title": "Mo ti apé dansé bord la mer",
+    "artist": "Clarel Armel",
+    "isrc": "FR6V80154205"
+  },
+  {
+    "title": "Ti kote ti kote",
+    "artist": "Sky to Be",
+    "isrc": "FR10S1800283"
+  },
+  {
+    "title": "Socolat",
+    "artist": "Coulouce",
+    "isrc": "FR6V80648387"
+  },
+  {
+    "title": "LaForce Mama",
+    "artist": "LION VIBE",
+    "isrc": "TCAFH2062217"
+  },
+  {
+    "title": "Lève mo pèp",
+    "artist": "Ras Natty Baby",
+    "isrc": "FR6V81980805"
+  },
+  {
+    "title": "Feeling",
+    "artist": "Madii Madii",
+    "isrc": "TCAGA2223544"
+  },
+  {
+    "title": "Belle mère belle sœur",
+    "artist": "Jean-Claude",
+    "isrc": "FR6V81149618"
+  },
+  {
+    "title": "Pou toi",
+    "artist": "Mr. Love, Médérice, Ludovic Lamarque",
+    "isrc": "FRX202232242"
+  },
+  {
+    "title": "Marléne",
+    "artist": "Cassiya",
+    "isrc": "FR6V81543928"
+  },
+  {
+    "title": "Bizin Twa Mo Baba",
+    "artist": "Justice Lecoq",
+    "isrc": "TCAFC2031470"
+  },
+  {
+    "title": "Seggae Man",
+    "artist": "KAYA",
+    "isrc": "TCAEU2070891"
+  },
+  {
+    "title": "La Réunion lé la",
+    "artist": "Alain Ramanisum",
+    "isrc": "FR6V82525654"
+  },
+  {
+    "title": "Enn Nuit Sega",
+    "artist": "Jah Mike, Dominique Vaillant, yansley, olivier machabe, burning groove",
+    "isrc": "TCAIB2498772"
+  },
+  {
+    "title": "Andrea",
+    "artist": "Les Inkonus",
+    "isrc": "TCACZ1706206"
+  },
+  {
+    "title": "Seggae Paradise",
+    "artist": "Zulu, Jason Heerah",
+    "isrc": "TCACH1565856"
+  },
+  {
+    "title": "Marilaine",
+    "artist": "Mario Justin",
+    "isrc": "FR10S1800747"
+  },
+  {
+    "title": "Zis Souvenir",
+    "artist": "The Prophecy",
+    "isrc": "USCGJ1852657"
+  },
+  {
+    "title": "Lentouraz",
+    "artist": "Solda Kenz",
+    "isrc": "ushm92002349"
+  },
+  {
+    "title": "Mo Solo",
+    "artist": "Blakkayo, Vergino",
+    "isrc": "FR2EI2101590"
+  },
+  {
+    "title": "MANGO",
+    "artist": "Bigg Frankii",
+    "isrc": "FRX872283835"
+  },
+  {
+    "title": "Robert soulard",
+    "artist": "AUBIN",
+    "isrc": "FR96X2143084"
+  },
+  {
+    "title": "Madam pipine",
+    "artist": "Momemsa",
+    "isrc": "ushm82155126"
+  },
+  {
+    "title": "Atann Lapli Pase",
+    "artist": "Evoloziq",
+    "isrc": "ushm22012399"
+  },
+  {
+    "title": "Vre Lamour Durer",
+    "artist": "Mary Jane Gaspard",
+    "isrc": "TCAGO2278617"
+  },
+  {
+    "title": "La natir",
+    "artist": "Lin",
+    "isrc": "FR6V80877389"
+  },
+  {
+    "title": "Ala li la",
+    "artist": "Denis Azor",
+    "isrc": "ITE731000090"
+  },
+  {
+    "title": "Banbolé",
+    "artist": "Gérard Louis",
+    "isrc": "FR6V81541766"
+  },
+  {
+    "title": "Kot Monn FotE",
+    "artist": "Denis Claude Gaspard",
+    "isrc": "CI2DY2300636"
+  },
+  {
+    "title": "Rouz, Ble, Zonn, Ver",
+    "artist": "ABAIM",
+    "isrc": "uscgj1457458"
+  },
+  {
+    "title": "Sik Ou",
+    "artist": "Yohan, Dj Wayn, Ryan Trapu",
+    "isrc": "QZFYX2491307"
+  },
+  {
+    "title": "Tek nanaru",
+    "artist": "Menwar",
+    "isrc": "FR6V81127100"
+  },
+  {
+    "title": "Ote kafrine",
+    "artist": "Laura et le groupe Ravanna",
+    "isrc": "FR6V81366085"
+  },
+  {
+    "title": "La Chienneté",
+    "artist": "Helix Dynasty, La'Chienneté, VIP",
+    "isrc": "QM42K2486679"
+  },
+  {
+    "title": "BAMBAM",
+    "artist": "Ejilen Music, DJ EJILEN FAYA, Bigg Frankii, Stnb",
+    "isrc": "QZMEP2205605"
+  },
+  {
+    "title": "Makalapo",
+    "artist": "Sandra Mayotte",
+    "isrc": "FR6V81543460"
+  },
+  {
+    "title": "Lakouzinn Vwazinn",
+    "artist": "Clarel Armelle",
+    "isrc": "QZFZ42290334"
+  },
+  {
+    "title": "Madam'dam",
+    "artist": "Sylvio Louise, Katia Kréol",
+    "isrc": "FR6V81166506"
+  },
+  {
+    "title": "vey to zaffaire",
+    "artist": "Tipti Delia",
+    "isrc": "TCAIH2452383"
+  },
+  {
+    "title": "Ti bato",
+    "artist": "Frico",
+    "isrc": "FR6V80661108"
+  },
+  {
+    "title": "Naya Sirey",
+    "artist": "Bhojpuri Boys",
+    "isrc": "QZAMM1939681"
+  },
+  {
+    "title": "Embeli",
+    "artist": "Barth",
+    "isrc": "FR96X2205652"
+  },
+  {
+    "title": "Mo Capitan",
+    "artist": "Michel Legris",
+    "isrc": "QZZ8B2377479"
+  },
+  {
+    "title": "Kollé serré",
+    "artist": "David Ramen",
+    "isrc": "FR6V81337158"
+  },
+  {
+    "title": "Addicted (feat. Mohombi, Craig David & Greg Parys) - Radio Edit",
+    "artist": "DJ Assad, Mohombi, Craig David, Greg Parys",
+    "isrc": "FR22F1200560"
+  },
+  {
+    "title": "Casse cabine",
+    "artist": "Mario Immouche",
+    "isrc": "FR6V81542669"
+  },
+  {
+    "title": "Mo kontan planter",
+    "artist": "Marcelino",
+    "isrc": "FR6V81166496"
+  },
+  {
+    "title": "Nun voglio fa l 'mante",
+    "artist": "Nancy Coppola",
+    "isrc": "FR6V81103810"
+  },
+  {
+    "title": "Séga dans manahe",
+    "artist": "Sylvain Kaleecharan",
+    "isrc": "FR6V80154209"
+  },
+  {
+    "title": "Palab Ipokrite",
+    "artist": "Jason Lejuste",
+    "isrc": "TCAFY2191341"
+  },
+  {
+    "title": "To Kontan Koze",
+    "artist": "Zotsa",
+    "isrc": "ushm22173970"
+  },
+  {
+    "title": "Ti madame la",
+    "artist": "Désiré François, Cassiya",
+    "isrc": "FR96X1808216"
+  },
+  {
+    "title": "Sa Li Amene Lambians",
+    "artist": "Clarel Armelle, Yannick Tiolo, Maxwell Armelle",
+    "isrc": "TCAHA2306170"
+  },
+  {
+    "title": "Enn lot kuma mwa",
+    "artist": "Laura Beg",
+    "isrc": "FRX282268501"
+  },
+  {
+    "title": "Madame ohh",
+    "artist": "JSB Morning Game",
+    "isrc": "usl4q2123807"
+  },
+  {
+    "title": "Elle danse",
+    "artist": "Gary Victor",
+    "isrc": "TCACS1689232"
+  },
+  {
+    "title": "Sérinité",
+    "artist": "Didier Clarel",
+    "isrc": "FR6V81449378"
+  },
+  {
+    "title": "L'amour maternel",
+    "artist": "Tian Corentin",
+    "isrc": "FR6V82489948"
+  },
+  {
+    "title": "Enn Realite",
+    "artist": "MR LOVE, The Prophecy",
+    "isrc": "usl4r2128633"
+  },
+  {
+    "title": "Levé vous dansé",
+    "artist": "Cariño",
+    "isrc": "FR6V80260475"
+  },
+  {
+    "title": "Viré viré",
+    "artist": "Steve Augustin",
+    "isrc": "FR6V80152643"
+  },
+  {
+    "title": "Samem Pou Arive",
+    "artist": "Bruno Raya, Blakkayo",
+    "isrc": "TCAGC2267269"
+  },
+  {
+    "title": "L’essentiel",
+    "artist": "Caroline Jodun, Mr. Love",
+    "isrc": "TCADZ1851613"
+  },
+  {
+    "title": "Ingra",
+    "artist": "Jason Heerah, Otentik Groove, Désiré François",
+    "isrc": "FR2EI2102000"
+  },
+  {
+    "title": "Bat lapo",
+    "artist": "Clarel Armel",
+    "isrc": "FR6V81384788"
+  },
+  {
+    "title": "Angela",
+    "artist": "Coulouce",
+    "isrc": "FR6V80648386"
+  },
+  {
+    "title": "Respe Ceki Gran",
+    "artist": "Sky to Be",
+    "isrc": "TCAGW2393167"
+  },
+  {
+    "title": "Laventir Parfait",
+    "artist": "LION VIBE",
+    "isrc": "TCAFH2062186"
+  },
+  {
+    "title": "Zom",
+    "artist": "Ras Natty Baby, Les Natty Rebels",
+    "isrc": "FR96X1903182"
+  },
+  {
+    "title": "Manipil Mwa",
+    "artist": "Madii Madii",
+    "isrc": "TCAGY2370742"
+  },
+  {
+    "title": "Pile pile",
+    "artist": "Jean-Claude",
+    "isrc": "FR6V81149628"
+  },
+  {
+    "title": "Rann Mwa Fou",
+    "artist": "Mr. Love",
+    "isrc": "TCAEU2065331"
+  },
+  {
+    "title": "Closer to Me",
+    "artist": "Justice Lecoq",
+    "isrc": "TCAFC2031247"
+  },
+  {
+    "title": "Rève nou ancètre",
+    "artist": "Cassiya",
+    "isrc": "FR6V81242286"
+  },
+  {
+    "title": "Racin pé brilé",
+    "artist": "KAYA",
+    "isrc": "TCAEU2070859"
+  },
+  {
+    "title": "Medley Maurice",
+    "artist": "Alain Ramanisum",
+    "isrc": "FR6V82194172"
+  },
+  {
+    "title": "Pare pa pare (feat. Jason Lejuste)",
+    "artist": "Jah Mike, Jason Lejuste",
+    "isrc": "uscgh1966730"
+  },
+  {
+    "title": "Marinade",
+    "artist": "Les Inkonus",
+    "isrc": "TCACZ1706201"
+  },
+  {
+    "title": "Gabriella",
+    "artist": "Zulu, Anouchka Massoudy",
+    "isrc": "FR6V82340138"
+  }
+]

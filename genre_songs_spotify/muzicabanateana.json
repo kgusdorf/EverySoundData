@@ -1,0 +1,857 @@
+[
+  {
+    "title": "Din Lugoj pan' la Resita",
+    "artist": "Andreea Voica",
+    "isrc": "BGA671522003"
+  },
+  {
+    "title": "Din Timiș până-n Caraș",
+    "artist": "Liliana Laichici",
+    "isrc": "ESA031511033"
+  },
+  {
+    "title": "Vezi mai bage ce-am ajuns",
+    "artist": "Stana Stepanescu",
+    "isrc": "DGA082217620"
+  },
+  {
+    "title": "Cu Ce M-Am Ales In Viata",
+    "artist": "Mirela Petrean, Florin Ionas Generalul",
+    "isrc": "ROGM82100222"
+  },
+  {
+    "title": "Cat Esti Mandra De Frumoasa",
+    "artist": "Petrică Miulescu Irimică",
+    "isrc": "FR59R1890796"
+  },
+  {
+    "title": "Dodă, fă-mi lângă tine loc!",
+    "artist": "Nicoleta Voica",
+    "isrc": "ROB010800290"
+  },
+  {
+    "title": "Cand A Fi La Judecata",
+    "artist": "Lele Crăciunescu",
+    "isrc": "FR59R1871076"
+  },
+  {
+    "title": "Nevasta De Ce Nu Taci",
+    "artist": "Dan Nistor",
+    "isrc": "QZP3W2050513"
+  },
+  {
+    "title": "Viata E Faina",
+    "artist": "Mihaela Petrovici",
+    "isrc": "FR59R1899183"
+  },
+  {
+    "title": "Lume lasa-ma nu ma vorbi",
+    "artist": "Petrica Moise",
+    "isrc": "QM4TW1515282"
+  },
+  {
+    "title": "Da-mi Doamne de ziua mea",
+    "artist": "Adrian Stanca",
+    "isrc": "FRX452369960"
+  },
+  {
+    "title": "Jos în vale la livezi",
+    "artist": "Mariana Drăghicescu",
+    "isrc": "ROB010908409"
+  },
+  {
+    "title": "Tot asa ma bate gandu', Liliana (Colaj)",
+    "artist": "Vasile Conea",
+    "isrc": "QZFZ72234645"
+  },
+  {
+    "title": "Ce-I Frumos Nu Ține Mult",
+    "artist": "Dumitru Teleaga Meka",
+    "isrc": "FR96X1822607"
+  },
+  {
+    "title": "Eu La Toti Dusmanii",
+    "artist": "Ionela Pascu",
+    "isrc": "FR59R1897930"
+  },
+  {
+    "title": "De-Ar Stii Cucu Sa Vorbeasca - Nici Bogatii, Nici Saracii",
+    "artist": "Lucian Dragan, Florin Ionas Generalul",
+    "isrc": "ROGM82102278"
+  },
+  {
+    "title": "Doina lui Luca Novac",
+    "artist": "Luca Novac",
+    "isrc": "ROB010800602"
+  },
+  {
+    "title": "Peste Caraș-Severin",
+    "artist": "Ana Pacatius",
+    "isrc": "ROB010801211"
+  },
+  {
+    "title": "Frumoasă vecina noastră",
+    "artist": "Tiberiu Ceia",
+    "isrc": "ROB010800670"
+  },
+  {
+    "title": "Omul bun și pomul copt",
+    "artist": "Traian Jurchela",
+    "isrc": "ROB010800382"
+  },
+  {
+    "title": "Uită-te mândruță părul albește",
+    "artist": "Adrian Stanca și prietenii",
+    "isrc": "ESA031508146"
+  },
+  {
+    "title": "Asa-S Banatenii Mei",
+    "artist": "Tinu Veresezan",
+    "isrc": "FR96X1998223"
+  },
+  {
+    "title": "Munte, frate bun",
+    "artist": "Ramona Vita",
+    "isrc": "QM4TW1515294"
+  },
+  {
+    "title": "Umblu noaptea ca un lotru",
+    "artist": "Simion Moise, Ramona Vita",
+    "isrc": "QM6P41467512"
+  },
+  {
+    "title": "Am Ajuns la Jumatatea Vietii",
+    "artist": "Nicu Novac",
+    "isrc": "QZES62090170"
+  },
+  {
+    "title": "Vara Asta",
+    "artist": "Georgiana Marina",
+    "isrc": "TCAHG2301376"
+  },
+  {
+    "title": "Hai Vecine Bate Cuiu'",
+    "artist": "Rodica Mitran, Danut Dinca",
+    "isrc": "FR2X41952370"
+  },
+  {
+    "title": "Las' să Bem Că n-a Fi Bai",
+    "artist": "Florentina Vlad",
+    "isrc": "TCAGT2372625"
+  },
+  {
+    "title": "Vin ciobanii muntelui",
+    "artist": "Alina Pinca",
+    "isrc": "ESA031508288"
+  },
+  {
+    "title": "Cât ești omule pe lume",
+    "artist": "Ciprian Roman",
+    "isrc": "ESA031508137"
+  },
+  {
+    "title": "Bârlădeanca",
+    "artist": "Ion Dragoi",
+    "isrc": "ROB010800544"
+  },
+  {
+    "title": "Am o dambla",
+    "artist": "CARMEN IENCI",
+    "isrc": "BGA671419307"
+  },
+  {
+    "title": "Cine face legile (feat. Ionut Guver)",
+    "artist": "Paula Pasca, Ionut Guver",
+    "isrc": "BGA671581501"
+  },
+  {
+    "title": "Colaj samba 2022",
+    "artist": "Paula Lezeu",
+    "isrc": "FR10S2283844"
+  },
+  {
+    "title": "Cine Detine Audi",
+    "artist": "Roberta Selagea",
+    "isrc": "TCAHI2330279"
+  },
+  {
+    "title": "S-o trudit o viață moșu'",
+    "artist": "Doriana Talpeș",
+    "isrc": "QZES62084127"
+  },
+  {
+    "title": "Iedera",
+    "artist": "Lia Lungu",
+    "isrc": "ROB011644884"
+  },
+  {
+    "title": "Ascultări de cafană",
+    "artist": "Alex Surdea",
+    "isrc": "FR59R2482110"
+  },
+  {
+    "title": "Plaiuri românești",
+    "artist": "Grupul folcloric Hora",
+    "isrc": "ROB010800481"
+  },
+  {
+    "title": "Bagea Cu Ochii Caprui",
+    "artist": "Vanesa Jarja",
+    "isrc": "TCAGZ2383818"
+  },
+  {
+    "title": "Tată Astăzi Mă Însor",
+    "artist": "Adi Săbădâș",
+    "isrc": "FR59R1871091"
+  },
+  {
+    "title": "FATA MEA",
+    "artist": "Aida Busuioc",
+    "isrc": "QZDA82376998"
+  },
+  {
+    "title": "A Venit Crăciunul Iară",
+    "artist": "Alexandra Creț și Marinel Jeflea",
+    "isrc": "FR59R1871147"
+  },
+  {
+    "title": "Da-mi Doamne zile",
+    "artist": "Bianca Sirbu",
+    "isrc": "DGA0L2308069"
+  },
+  {
+    "title": "Bade, de dragostea noastră",
+    "artist": "Ana Munteanu",
+    "isrc": "ROB010800287"
+  },
+  {
+    "title": "Asta Vara Am Plecat",
+    "artist": "Ciprian Trusescu",
+    "isrc": "FR59R1897944"
+  },
+  {
+    "title": "Gura Lumii Bade",
+    "artist": "Diana Tătăran",
+    "isrc": "FR59R1871081"
+  },
+  {
+    "title": "Am Umblat Pe Tot Pamantul",
+    "artist": "Gabi Nicolae",
+    "isrc": "FR59R1897951"
+  },
+  {
+    "title": "Floare De Măruț",
+    "artist": "Ioana Pricop",
+    "isrc": "FR59R1871088"
+  },
+  {
+    "title": "Rosmarin bănăţenesc",
+    "artist": "Iosif Ciocloda",
+    "isrc": "ROB011675201"
+  },
+  {
+    "title": "As Vrea Sa Spun Cat Te Iubesc",
+    "artist": "Iuliana Tătar",
+    "isrc": "FR59R1897948"
+  },
+  {
+    "title": "Bade Azi E Nunta Noastra",
+    "artist": "Karina Petrovici",
+    "isrc": "FR59R1871089"
+  },
+  {
+    "title": "Sârba bătrânilor și Rusasca din Liteni",
+    "artist": "Leonard Zamă",
+    "isrc": "ESA031508696"
+  },
+  {
+    "title": "Cand Ai Dusmani, Ai De Toate",
+    "artist": "Luiza Tarlea",
+    "isrc": "FR59R1897943"
+  },
+  {
+    "title": "Numar Toamna Dupa Toamna",
+    "artist": "Mihaela de la Orastie",
+    "isrc": "FR59R1897942"
+  },
+  {
+    "title": "Stiu Pe Badea Sa Mi-L Tin",
+    "artist": "Mădălina Dasiana",
+    "isrc": "FR59R1871090"
+  },
+  {
+    "title": "Sorocul din Secusigiu",
+    "artist": "Orchestra condusă de George Mițin Vărieșescu",
+    "isrc": "ROB010800331"
+  },
+  {
+    "title": "Țânțăroiul de la Iaslovăț",
+    "artist": "Orchestra condusă de George Sârbu",
+    "isrc": "ROB010800335"
+  },
+  {
+    "title": "Geamparalele de la Mangalia",
+    "artist": "Orchestra condusă de Gheorghe Parnica",
+    "isrc": "ROB010800353"
+  },
+  {
+    "title": "Galaonul",
+    "artist": "Orchestra condusă de Ion Albeșteanu",
+    "isrc": "ROB010800340"
+  },
+  {
+    "title": "Care Este Toata Averea Mea",
+    "artist": "Paula Grigore",
+    "isrc": "FR59R1871087"
+  },
+  {
+    "title": "Fosta-I Lume Pentru Mine",
+    "artist": "Petrisor Voda",
+    "isrc": "FR59R1897940"
+  },
+  {
+    "title": "Toata Lumea Asa Imi Spune",
+    "artist": "Puiu Codreanu si Ionela Clepa",
+    "isrc": "FR59R1871079"
+  },
+  {
+    "title": "Floare din grădină",
+    "artist": "Raveca Săndulescu",
+    "isrc": "ROB010800305"
+  },
+  {
+    "title": "Drag De Pusca Si Vanat",
+    "artist": "Simi Belea",
+    "isrc": "FR59R1871082"
+  },
+  {
+    "title": "Rumunska svita",
+    "artist": "Borko Radivojevic, Ork. Mladena Spasojevica",
+    "isrc": "BAA052443474"
+  },
+  {
+    "title": "Badea-l meu tare-i beteag",
+    "artist": "Valeria Colojoara",
+    "isrc": "ROB010800299"
+  },
+  {
+    "title": "Asculta, fetita mea",
+    "artist": "Nineta Popa Ionescu",
+    "isrc": "QM6P41561187"
+  },
+  {
+    "title": "Fara tine n-as fi eu",
+    "artist": "Maria Didraga",
+    "isrc": "BAA052007649"
+  },
+  {
+    "title": "Folk Instrumental",
+    "artist": "Deian Galetin",
+    "isrc": "BGA671524007"
+  },
+  {
+    "title": "Neicuță dacă mă vrei",
+    "artist": "Ana Dabija",
+    "isrc": "FR96X2418295"
+  },
+  {
+    "title": "Calusari",
+    "artist": "Ansamblul Timisul",
+    "isrc": "GBLV62026045"
+  },
+  {
+    "title": "Sarba Acordeonistilor",
+    "artist": "Aurel Tudor",
+    "isrc": "QM7G92044157"
+  },
+  {
+    "title": "Firuta, nana firuta",
+    "artist": "Doina Timisului",
+    "isrc": "GBCKG0501950"
+  },
+  {
+    "title": "Breaza ca pe Argeș",
+    "artist": "George Udilă",
+    "isrc": "ROB010802828"
+  },
+  {
+    "title": "Daca vremea ar sta pe loc",
+    "artist": "Gheorghe Luca",
+    "isrc": "QM7281515373"
+  },
+  {
+    "title": "Doină bănățeană",
+    "artist": "Gigi Tabacar",
+    "isrc": "ROCRP1001744"
+  },
+  {
+    "title": "Sus în vârful muntelui",
+    "artist": "Maria Filimon",
+    "isrc": "ESA031508952"
+  },
+  {
+    "title": "Ma gandesc, mama, la tine",
+    "artist": "Maria Ionescu Capitanescu",
+    "isrc": "QM6P41561739"
+  },
+  {
+    "title": "Mult mă-ntreabă frunza vara",
+    "artist": "Mariana Stoica",
+    "isrc": "ESA031508579"
+  },
+  {
+    "title": "Ardeleana si Brau ca la Sacosul Mare",
+    "artist": "Pavel Rosu",
+    "isrc": "GBLV62113177"
+  },
+  {
+    "title": "Spune mandro draga",
+    "artist": "Petrica Irimica Miulescu",
+    "isrc": "QM4TW1515289"
+  },
+  {
+    "title": "Buna E Ciorba De Burta",
+    "artist": "Raba",
+    "isrc": "FRS182098862"
+  },
+  {
+    "title": "Ardeleana lui Dorin Cuibariu",
+    "artist": "Remus Novac",
+    "isrc": "ESA031602946"
+  },
+  {
+    "title": "Buna dimineata nana",
+    "artist": "Traian Barbu",
+    "isrc": "QM4TW1515292"
+  },
+  {
+    "title": "Ardeleana pe picior",
+    "artist": "Andreea Voica",
+    "isrc": "BGA671521903"
+  },
+  {
+    "title": "Mi-au ieșit iar vorbe rele",
+    "artist": "Liliana Laichici",
+    "isrc": "ESA031511038"
+  },
+  {
+    "title": "Vine Toamna, Usca Iarba",
+    "artist": "Mirela Petrean, Ducu Caraneant, Florin Ionas Generalul",
+    "isrc": "ROGM82100149"
+  },
+  {
+    "title": "Vino Bagita",
+    "artist": "Stana Stepanescu",
+    "isrc": "DGA052208336"
+  },
+  {
+    "title": "M-O Bagat O Mandra-N Boala",
+    "artist": "Petrică Miulescu Irimică",
+    "isrc": "FR59R1899193"
+  },
+  {
+    "title": "Banatean mi-i numele",
+    "artist": "Nicoleta Voica",
+    "isrc": "QM4TW1515283"
+  },
+  {
+    "title": "În Viață Nimeni Nu Știe, Cât E De La Rău La Bine",
+    "artist": "Lele Crăciunescu",
+    "isrc": "FR59R1871122"
+  },
+  {
+    "title": "Pune-ti O Rachie",
+    "artist": "Dan Nistor",
+    "isrc": "QZP3W2150575"
+  },
+  {
+    "title": "Banatana-s cum ma vezi",
+    "artist": "Mihaela Petrovici",
+    "isrc": "FRX452323420"
+  },
+  {
+    "title": "Cine-aude cucul seara",
+    "artist": "Petrica Moise",
+    "isrc": "ROB011678744"
+  },
+  {
+    "title": "Mandro, se paleste fanul",
+    "artist": "Adrian Stanca",
+    "isrc": "FRX452369958"
+  },
+  {
+    "title": "Sus, sus, sus la Furca Cernii",
+    "artist": "Mariana Drăghicescu",
+    "isrc": "ROB010908415"
+  },
+  {
+    "title": "Din bucata mea de paine",
+    "artist": "Vasile Conea",
+    "isrc": "QZFZ72234638"
+  },
+  {
+    "title": "Mi-E Drag De Tine Şi Ştii Prea Bine",
+    "artist": "Dumitru Teleaga Meka",
+    "isrc": "FRX201838109"
+  },
+  {
+    "title": "Lumea-I Rea Și Prefăcută",
+    "artist": "Ionela Pascu",
+    "isrc": "TCAHQ2365428"
+  },
+  {
+    "title": "Doi Parinti Stau Singurei",
+    "artist": "Lucian Dragan",
+    "isrc": "FRX452069311"
+  },
+  {
+    "title": "Gugulani cu car cu mere",
+    "artist": "Luca Novac",
+    "isrc": "ROB010800590"
+  },
+  {
+    "title": "Bade cu cocia goală",
+    "artist": "Ana Pacatius",
+    "isrc": "ROB010801199"
+  },
+  {
+    "title": "Mărie, poale ciurate",
+    "artist": "Traian Jurchela",
+    "isrc": "ROB010800390"
+  },
+  {
+    "title": "Tot așa mă bate gândul",
+    "artist": "Tiberiu Ceia",
+    "isrc": "ROB010801424"
+  },
+  {
+    "title": "Din Banat la Severin",
+    "artist": "Adrian Stanca și prietenii",
+    "isrc": "ESA031508147"
+  },
+  {
+    "title": "Cu camasa rupta-n coate",
+    "artist": "Tinu Veresezan, Florin Ionas Generalul",
+    "isrc": "ROGM82300413"
+  },
+  {
+    "title": "Cand am bani si o duc bine",
+    "artist": "Ramona Vita",
+    "isrc": "FR96X2436866"
+  },
+  {
+    "title": "Munte, munte frate drag",
+    "artist": "Simion Moise, Ramona Vita",
+    "isrc": "QM6P41467518"
+  },
+  {
+    "title": "Paharele, Paharele",
+    "artist": "Nicu Novac",
+    "isrc": "QZES62090167"
+  },
+  {
+    "title": "Să Curgă Șampania",
+    "artist": "Georgiana Marina",
+    "isrc": "TCAHG2307381"
+  },
+  {
+    "title": "Am Si Fata Si Baiat",
+    "artist": "Florentina Vlad",
+    "isrc": "TCAHF2399133"
+  },
+  {
+    "title": "Mi-Ajunge Atata Suferinta",
+    "artist": "Rodica Mitran",
+    "isrc": "FRX202060989"
+  },
+  {
+    "title": "De La Alba La Sibiu",
+    "artist": "Alina Pinca",
+    "isrc": "FRX452076880"
+  },
+  {
+    "title": "La poale de Retezat",
+    "artist": "Ciprian Roman",
+    "isrc": "ESA031508130"
+  },
+  {
+    "title": "Ca la nuntă la Bacău",
+    "artist": "Ion Dragoi",
+    "isrc": "ROB010800555"
+  },
+  {
+    "title": "Ochii tai nu-i pot uita",
+    "artist": "CARMEN IENCI",
+    "isrc": "BGA671419302"
+  },
+  {
+    "title": "Muzicantii Din Tot Locu'",
+    "artist": "Paula Pasca",
+    "isrc": "FRX452069368"
+  },
+  {
+    "title": "Toate fetele mortale",
+    "artist": "Paula Lezeu",
+    "isrc": "FR10S2283303"
+  },
+  {
+    "title": "Ce părinți am, Doamne!",
+    "artist": "Doriana Talpeș",
+    "isrc": "QZES62084129"
+  },
+  {
+    "title": "Spune-Mi Tu",
+    "artist": "Roberta Selagea",
+    "isrc": "FRX282143646"
+  },
+  {
+    "title": "Pomu-i pom și are ram",
+    "artist": "Lia Lungu",
+    "isrc": "ROB011642226"
+  },
+  {
+    "title": "Unde ești !?",
+    "artist": "Alex Surdea",
+    "isrc": "FRX452468622"
+  },
+  {
+    "title": "Horă din Bucovina",
+    "artist": "Grupul folcloric Hora",
+    "isrc": "ROB010800480"
+  },
+  {
+    "title": "Dragoste Uitata",
+    "artist": "Vanesa Jarja",
+    "isrc": "TCAHN2397602"
+  },
+  {
+    "title": "Floare De Margaritar",
+    "artist": "Aida Busuioc",
+    "isrc": "TCAFA2086721"
+  },
+  {
+    "title": "Mândră M-O Facut Mama",
+    "artist": "Alexandra Creț și Marinel Jeflea",
+    "isrc": "FR59R1871092"
+  },
+  {
+    "title": "Cântă cucu-n prun",
+    "artist": "Ana Munteanu",
+    "isrc": "ROB011124381"
+  },
+  {
+    "title": "Cumpar zile pentru mama",
+    "artist": "Bianca Sirbu",
+    "isrc": "FR96X2466723"
+  },
+  {
+    "title": "Doua Inimii Si-O Iubire",
+    "artist": "Gabi Nicolae",
+    "isrc": "FR59R1897936"
+  },
+  {
+    "title": "Frunza bătută de vânt",
+    "artist": "Iosif Ciocloda",
+    "isrc": "ROB011675204"
+  },
+  {
+    "title": "De Ce Doamne Mi-A Fost Scris",
+    "artist": "Iuliana Tătar",
+    "isrc": "FR59R1897956"
+  },
+  {
+    "title": "Soferii boala muierii",
+    "artist": "Ghita Olaru, Karina Petrovici",
+    "isrc": "FRX202233846"
+  },
+  {
+    "title": "Joc din Bucovina și Valea Siretului",
+    "artist": "Leonard Zamă",
+    "isrc": "ESA031508706"
+  },
+  {
+    "title": "Pe loc din Seigna",
+    "artist": "Orchestra condusă de George Mițin Vărieșescu",
+    "isrc": "ROB010800351"
+  },
+  {
+    "title": "Anii Cei Mai Buni",
+    "artist": "Paula Grigore",
+    "isrc": "TCAHR2369907"
+  },
+  {
+    "title": "As Petrece Si-As Canta",
+    "artist": "Petrisor Voda",
+    "isrc": "FR59R1897939"
+  },
+  {
+    "title": "Hai Deiane Canta",
+    "artist": "Andreea Voica",
+    "isrc": "BGA671524002"
+  },
+  {
+    "title": "Doamne mândru’ ai fost Banat",
+    "artist": "Liliana Laichici",
+    "isrc": "ESA031509314"
+  },
+  {
+    "title": "Am Plecat Candva Pe Jos",
+    "artist": "Mirela Petrean, Florin Ionas Generalul",
+    "isrc": "ROGM82100504"
+  },
+  {
+    "title": "Nu știu bage ce sa cred",
+    "artist": "Stana Stepanescu",
+    "isrc": "DGA0M2375721"
+  },
+  {
+    "title": "Patimile Toate",
+    "artist": "Petrică Miulescu Irimică",
+    "isrc": "FR10S1948202"
+  },
+  {
+    "title": "Peste munti si peste sate",
+    "artist": "Nicoleta Voica",
+    "isrc": "QM6P41562492"
+  },
+  {
+    "title": "Din Bătrâni Se Povestește",
+    "artist": "Lele Crăciunescu",
+    "isrc": "FR59R1871123"
+  },
+  {
+    "title": "Sine zice ca ii bine",
+    "artist": "Mihaela Petrovici",
+    "isrc": "DGA0H2350003"
+  },
+  {
+    "title": "Ce credeti voi fetelor",
+    "artist": "Dan Nistor",
+    "isrc": "QZP3W2152337"
+  },
+  {
+    "title": "Lume mult am patimit in tine",
+    "artist": "Petrica Moise",
+    "isrc": "QM4TW1515296"
+  },
+  {
+    "title": "Stau cu paharul pe masa",
+    "artist": "Adrian Stanca",
+    "isrc": "DGA0H2349772"
+  },
+  {
+    "title": "Ard-o focul dragostea",
+    "artist": "Mariana Drăghicescu",
+    "isrc": "ROB010908422"
+  },
+  {
+    "title": "Floare alba de sulfina",
+    "artist": "Vasile Conea",
+    "isrc": "QZFZ72215093"
+  },
+  {
+    "title": "Azi In Sat E Sarbatoare",
+    "artist": "Dumitru Teleaga Meka",
+    "isrc": "FRX201838118"
+  },
+  {
+    "title": "Pacatos ii omul care vrea sa taie pomul",
+    "artist": "Ionela Pascu",
+    "isrc": "FR96X2247237"
+  },
+  {
+    "title": "Colaj Bihor",
+    "artist": "Lucian Dragan",
+    "isrc": "FRX452069310"
+  },
+  {
+    "title": "Ardelene, bănățene",
+    "artist": "Luca Novac",
+    "isrc": "ROB010800592"
+  },
+  {
+    "title": "Ana mea, draga mea",
+    "artist": "Ana Pacatius",
+    "isrc": "ROB010800288"
+  },
+  {
+    "title": "Frunzuță verde de fag",
+    "artist": "Traian Jurchela",
+    "isrc": "ROB010801923"
+  },
+  {
+    "title": "Am trăit cum mi-o fost dat",
+    "artist": "Adrian Stanca și prietenii",
+    "isrc": "ESA031508149"
+  },
+  {
+    "title": "Mult îmi place vinul roșu",
+    "artist": "Tiberiu Ceia",
+    "isrc": "ROB010801426"
+  },
+  {
+    "title": "Fir-Ai Sa Fii Mandro Pacatoasa",
+    "artist": "Tinu Veresezan, Alex De La Orastie",
+    "isrc": "FR10S1966603"
+  },
+  {
+    "title": "Hai Cu Tine In Casa",
+    "artist": "Ramona Vita",
+    "isrc": "FR59R1899190"
+  },
+  {
+    "title": "Badita, falos te tine",
+    "artist": "Simion Moise, Ramona Vita",
+    "isrc": "QM6P41467522"
+  },
+  {
+    "title": "Joaca Mandra, Joaca Numa-N Ciuda",
+    "artist": "Nicu Novac",
+    "isrc": "QZES62090173"
+  },
+  {
+    "title": "Am Putini Prieteni Buni",
+    "artist": "Georgiana Marina",
+    "isrc": "TCAHO2392604"
+  },
+  {
+    "title": "S-O Dat Drumul La Cazane",
+    "artist": "Florentina Vlad",
+    "isrc": "TCAGT2372768"
+  },
+  {
+    "title": "Mai Omule, Mai",
+    "artist": "Rodica Mitran, Danut Dinca",
+    "isrc": "FR2X41952386"
+  },
+  {
+    "title": "Mai Badita De La Oi",
+    "artist": "Alina Pinca",
+    "isrc": "FRX452076881"
+  },
+  {
+    "title": "Dragu’ mi-i paharul plin",
+    "artist": "Ciprian Roman",
+    "isrc": "ESA031508143"
+  },
+  {
+    "title": "Horă de mână pe bătăi",
+    "artist": "Ion Dragoi",
+    "isrc": "ROB010800545"
+  },
+  {
+    "title": "MORARITA MEA",
+    "artist": "CARMEN IENCI",
+    "isrc": "BGA671419301"
+  },
+  {
+    "title": "Cucule, Pasare Rara",
+    "artist": "Paula Pasca",
+    "isrc": "FRX452076195"
+  },
+  {
+    "title": "Nici O Sărbătoare-N Lume",
+    "artist": "Paula Lezeu",
+    "isrc": "FR59R1871143"
+  }
+]

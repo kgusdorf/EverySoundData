@@ -1,0 +1,982 @@
+[
+  {
+    "title": "Metela Sacala",
+    "artist": "El Chevo, MC Productions Inc",
+    "isrc": "USUYG1041112"
+  },
+  {
+    "title": "Pedazo De Mujer",
+    "artist": "Polache",
+    "isrc": "TCAAZ1143229"
+  },
+  {
+    "title": "Baila",
+    "artist": "Syrome, Chapasonic",
+    "isrc": "TCAFQ2169032"
+  },
+  {
+    "title": "La Solicitud",
+    "artist": "Menor Menor, Mr. Perez, Myke Towers",
+    "isrc": "QZ7R41853310"
+  },
+  {
+    "title": "SOÑANDO DESPIERTO",
+    "artist": "Juan Oliva, El Hombre Lobo",
+    "isrc": "QZK6K2449490"
+  },
+  {
+    "title": "Volver Contigo",
+    "artist": "J Calix, Jesus Aguilar",
+    "isrc": "QZ8251843768"
+  },
+  {
+    "title": "Ninfomana",
+    "artist": "Big Nango",
+    "isrc": "ushm91423599"
+  },
+  {
+    "title": "Estás de Miedo",
+    "artist": "Los Bohemios",
+    "isrc": "ushm82212027"
+  },
+  {
+    "title": "A Escondidas",
+    "artist": "Bullaka Family",
+    "isrc": "TCAAZ1163836"
+  },
+  {
+    "title": "Te Ves Buena (Remix)",
+    "artist": "Maynor MC, El Chevo, Mr Jc, Big Nango, Aaron Bodden, Syrome",
+    "isrc": "USHM81949215"
+  },
+  {
+    "title": "Hablame Directo",
+    "artist": "JCP el Especialista, Big Nango",
+    "isrc": "QM4DW1793208"
+  },
+  {
+    "title": "Page Flipped",
+    "artist": "Jesus Aguilar",
+    "isrc": "TCAFT2182204"
+  },
+  {
+    "title": "La Parranda (Sei Sei Bei)",
+    "artist": "Kazzabe, MC Productions",
+    "isrc": "QZNJW2077587"
+  },
+  {
+    "title": "Puesta Pa Mi",
+    "artist": "Nassir Chahin, Farid Nassar, Jacoboi",
+    "isrc": "TCAEM1938890"
+  },
+  {
+    "title": "Te Alucino (Remix) [feat. Lipstickfables]",
+    "artist": "Abeldidit, Lipstickfables",
+    "isrc": "TCADL1817432"
+  },
+  {
+    "title": "Desde Cero",
+    "artist": "Mr Jc, La Santa Grifa, MC Productions Inc",
+    "isrc": "QZNJW2160718"
+  },
+  {
+    "title": "Vicio",
+    "artist": "Steven Pineda, Nassir Chahin, Juan Oliva, Jesus Aguilar, J Calix",
+    "isrc": "TCAEH1982100"
+  },
+  {
+    "title": "No Me Quisiste Ver",
+    "artist": "Chia Casanova, Rootz",
+    "isrc": "uscgj1837308"
+  },
+  {
+    "title": "Perder el Control",
+    "artist": "Allanv, Mr. Three, Frano Man",
+    "isrc": "QZFZ61960055"
+  },
+  {
+    "title": "Hazme El Amor",
+    "artist": "Shabakan",
+    "isrc": "TCABI1251796"
+  },
+  {
+    "title": "Cultura Urbana",
+    "artist": "JWolfy",
+    "isrc": "TCAGJ2264273"
+  },
+  {
+    "title": "Tamo En Algo (Remix)",
+    "artist": "Andro Skrt, Manu Destroy, Syrome, El Chevo, Mr Jc",
+    "isrc": "TCAEQ2006187"
+  },
+  {
+    "title": "Issa Vibe",
+    "artist": "Capi, Jesus Aguilar, Jacoboi",
+    "isrc": "QZ8251844608"
+  },
+  {
+    "title": "Bésame",
+    "artist": "Nelson Padilla",
+    "isrc": "SE5751891512"
+  },
+  {
+    "title": "Me Pegué (Remix)",
+    "artist": "DiBrasco, Manu Destroy, Suiry, Juan Oliva",
+    "isrc": "TCAFB2017275"
+  },
+  {
+    "title": "Baila",
+    "artist": "Rodolfo Bueso",
+    "isrc": "TCADS1871298"
+  },
+  {
+    "title": "Vida Tranquila",
+    "artist": "Eduardo Umanzor",
+    "isrc": "ushm21930619"
+  },
+  {
+    "title": "Confiesaselo (feat. Kbp)",
+    "artist": "Kd La Caracola, KBP",
+    "isrc": "TCADA1713257"
+  },
+  {
+    "title": "Muévete Así (Remix)",
+    "artist": "Liam, Big Nango, El Chevo, Gatillero",
+    "isrc": "ushm91817476"
+  },
+  {
+    "title": "Chillin' Drillin'",
+    "artist": "Jay Handal, FerraMusic",
+    "isrc": "QZPLR2154632"
+  },
+  {
+    "title": "Rip Menor Menor",
+    "artist": "Davis Flow",
+    "isrc": "TCAEA1987681"
+  },
+  {
+    "title": "Sexy Gial",
+    "artist": "Yerbaklan",
+    "isrc": "ushm81110457"
+  },
+  {
+    "title": "Main Thing",
+    "artist": "Jacoboi",
+    "isrc": "QZBRF1842665"
+  },
+  {
+    "title": "El Mundo Se Detiene",
+    "artist": "Mr. Yambo, Chia Casanova",
+    "isrc": "USCGJ2461384"
+  },
+  {
+    "title": "Mas Que Amigos",
+    "artist": "Javi Sabat",
+    "isrc": "TCADT1854399"
+  },
+  {
+    "title": "El Compa",
+    "artist": "El Sol Caracol",
+    "isrc": "HNA010505002"
+  },
+  {
+    "title": "Nunca Me Abandono",
+    "artist": "King Jeka",
+    "isrc": "QZNWX2330837"
+  },
+  {
+    "title": "Cumbia de mi Tierra",
+    "artist": "Madame Gruv",
+    "isrc": "SE5751906720"
+  },
+  {
+    "title": "vv ntc :)",
+    "artist": "Yoro, Atomic Rose",
+    "isrc": "QZES52385324"
+  },
+  {
+    "title": "Socadita",
+    "artist": "Eddy Ranks",
+    "isrc": "USJ3V1261792"
+  },
+  {
+    "title": "Mi Numero 2.0",
+    "artist": "narvy, Lion B, Jay Handal",
+    "isrc": "TCAGE2241091"
+  },
+  {
+    "title": "Welcome to San Pedro",
+    "artist": "Montuca Sound System, Eduardo Umanzor",
+    "isrc": "uscgh2137363"
+  },
+  {
+    "title": "Holy Fire",
+    "artist": "GodDessey",
+    "isrc": "SE6I32297786"
+  },
+  {
+    "title": "Recuerdos",
+    "artist": "Sebas C",
+    "isrc": "TCAEE1950107"
+  },
+  {
+    "title": "Sopa de Caracol (Remix)",
+    "artist": "Pilo Tejeda, Polache",
+    "isrc": "TCABT1497362"
+  },
+  {
+    "title": "Buena",
+    "artist": "Aaron Bodden",
+    "isrc": "US3Z41800479"
+  },
+  {
+    "title": "Imaginación",
+    "artist": "Alexa Ferrari",
+    "isrc": "TCAFU2110118"
+  },
+  {
+    "title": "Cuando Estamos Juntos",
+    "artist": "Nio Nassar, Farid Nassar",
+    "isrc": "TCAED1985183"
+  },
+  {
+    "title": "Ella Salio",
+    "artist": "Alejandro Ulloa, YOG1, Andy Ruiz",
+    "isrc": "TCAEO1948963"
+  },
+  {
+    "title": "Raspe De Coco",
+    "artist": "Lil Roy, Prince Kalag, ALEMVN",
+    "isrc": "TCAHT2493452"
+  },
+  {
+    "title": "LA MERCEDES (recd. 2020)",
+    "artist": "Chevy, Sebas C",
+    "isrc": "QZK6F2369538"
+  },
+  {
+    "title": "Bicycle",
+    "artist": "Albeezy",
+    "isrc": "US7VG1695836"
+  },
+  {
+    "title": "Lejos de Aqui",
+    "artist": "Maria Maria",
+    "isrc": "uscgh1928161"
+  },
+  {
+    "title": "A TU RESCATE",
+    "artist": "Merek Supraboy, Alessandro Corea",
+    "isrc": "QZTAT2195262"
+  },
+  {
+    "title": "Bend Down Pause Medley",
+    "artist": "Roatan Island Music, Jensen & The Boys",
+    "isrc": "QZK6Q2144990"
+  },
+  {
+    "title": "Pal Lado",
+    "artist": "IZZY Cuestas",
+    "isrc": "TCAEE1961567"
+  },
+  {
+    "title": "Tela",
+    "artist": "Daniel Giron, Daniel Zablah, Jose Reina",
+    "isrc": "TCAEE1955842"
+  },
+  {
+    "title": "Honduras En Mi Corazón",
+    "artist": "Jorge Alejandro",
+    "isrc": "QMPKX1874500"
+  },
+  {
+    "title": "Hacemos Lo Que Sea",
+    "artist": "Sebastian Cerrato",
+    "isrc": "TCADS1877893"
+  },
+  {
+    "title": "Te Senti",
+    "artist": "Karlo Rod",
+    "isrc": "TCAFW2148006"
+  },
+  {
+    "title": "Si Me Llamas",
+    "artist": "Andro, El Chevo",
+    "isrc": "USUYG1170943"
+  },
+  {
+    "title": "Touch It (Kidi Touch It)",
+    "artist": "Jimmy James",
+    "isrc": "QZNWU2194378"
+  },
+  {
+    "title": "BEND DOWN PAUSE (MEDLEY)",
+    "artist": "SelectaDj_Dango, Joseph James & The Boys",
+    "isrc": "QZMEQ2213961"
+  },
+  {
+    "title": "Todo Serio (Original)",
+    "artist": "Los Chicos de la Quimica",
+    "isrc": "TCAEG1908681"
+  },
+  {
+    "title": "Hotboxiando",
+    "artist": "En$o, Faker",
+    "isrc": "QZNJW2326282"
+  },
+  {
+    "title": "Dansal",
+    "artist": "Armani la Gucci",
+    "isrc": "usl4r1900991"
+  },
+  {
+    "title": "Amor Suicida",
+    "artist": "Katheryn",
+    "isrc": "MXUM71901071"
+  },
+  {
+    "title": "No Es Mi Culpa",
+    "artist": "Trooko, Diogo Piçarra",
+    "isrc": "CA5KR2095258"
+  },
+  {
+    "title": "El Maniquiu",
+    "artist": "Papi Cordero, Lipstickfables, El Chevo",
+    "isrc": "TCAER2020776"
+  },
+  {
+    "title": "Bailamos Lento",
+    "artist": "MarlonG, SkyJos",
+    "isrc": "TCAFZ2271846"
+  },
+  {
+    "title": "Rewind",
+    "artist": "Angie Flores",
+    "isrc": "UKXN21993753"
+  },
+  {
+    "title": "A Escondidas",
+    "artist": "Lipstickfables, Andro, Abeldidit",
+    "isrc": "TCADS1834160"
+  },
+  {
+    "title": "Tearin' up My Heart",
+    "artist": "John Paul Lakes",
+    "isrc": "DEPY32100102"
+  },
+  {
+    "title": "Our Distance",
+    "artist": "Chapa",
+    "isrc": "TCJPU2201515"
+  },
+  {
+    "title": "La Rompe Pantalones",
+    "artist": "B.O.C.",
+    "isrc": "US3Z40500306"
+  },
+  {
+    "title": "F150",
+    "artist": "Pitagoras, JCO",
+    "isrc": "QZNJV2327048"
+  },
+  {
+    "title": "De Party en Party",
+    "artist": "Daniel Zablah, Jose Reina, IZZY",
+    "isrc": "TCAEC1907061"
+  },
+  {
+    "title": "Falling",
+    "artist": "IanTheKid",
+    "isrc": "SE5BU2002151"
+  },
+  {
+    "title": "Cuando Esto Se Acabe",
+    "artist": "Jesús Pineda",
+    "isrc": "QZHN92173206"
+  },
+  {
+    "title": "Vamos a un Lugar",
+    "artist": "Gerson T, Lion B, Nanu",
+    "isrc": "TCAER2033682"
+  },
+  {
+    "title": "Santa",
+    "artist": "Andro El Protagonista, Benny Benni",
+    "isrc": "ushm91828579"
+  },
+  {
+    "title": "I'm Not Ready",
+    "artist": "Vale Rosales",
+    "isrc": "GBLFP2208310"
+  },
+  {
+    "title": "Y Eras Tu (feat. Elias Ayaviri)",
+    "artist": "Abelitro, Elias Ayaviri",
+    "isrc": "TCACX1724935"
+  },
+  {
+    "title": "Horóscopo",
+    "artist": "Cesia Sáenz",
+    "isrc": "MXF012300498"
+  },
+  {
+    "title": "Cuando Me Tocas",
+    "artist": "Carlos Vindel, Noé",
+    "isrc": "FR96X1968346"
+  },
+  {
+    "title": "Me Amaste Tu",
+    "artist": "David Gómez",
+    "isrc": "usx9p1367229"
+  },
+  {
+    "title": "Junto Al Mar",
+    "artist": "Ian Jant",
+    "isrc": "QZMEM2074322"
+  },
+  {
+    "title": "Escapemonos",
+    "artist": "J Ledez, Ari",
+    "isrc": "TCAEG1907872"
+  },
+  {
+    "title": "Ella Conmigo",
+    "artist": "Jacoboi, JD, Javi Sabat",
+    "isrc": "TCADO1872123"
+  },
+  {
+    "title": "Is Da Funk - Original Mix",
+    "artist": "Jean E La Plastique",
+    "isrc": "GBKQU1539733"
+  },
+  {
+    "title": "not 4 me.",
+    "artist": "Kool, ROBA, narvy",
+    "isrc": "QZ85M1980798"
+  },
+  {
+    "title": "Mine",
+    "artist": "Lil Chenks",
+    "isrc": "QMPKX1848743"
+  },
+  {
+    "title": "Yo No Te Pertenezco",
+    "artist": "Mauri Marchetti",
+    "isrc": "TCAEG1903591"
+  },
+  {
+    "title": "Cumbia Católica Jesús esta",
+    "artist": "Misión Celestial",
+    "isrc": "GB-SMU-54-39579"
+  },
+  {
+    "title": "Ella Está Loca",
+    "artist": "Montalvo El Kazanova",
+    "isrc": "uscgh2033383"
+  },
+  {
+    "title": "Casualidad",
+    "artist": "Olvin George, Shock.Ni, Memo MC, J Solis, R Castro",
+    "isrc": "QZHN91917600"
+  },
+  {
+    "title": "Dejame Entrar",
+    "artist": "R Castro, Carlos Argueta, J Solis",
+    "isrc": "QZFZ41918134"
+  },
+  {
+    "title": "Sola",
+    "artist": "Sebas Zepeda",
+    "isrc": "TCAES2075229"
+  },
+  {
+    "title": "AmarTE Duele",
+    "artist": "Sherry & Sheyla",
+    "isrc": "TCACD1535038"
+  },
+  {
+    "title": "Hablo Español",
+    "artist": "Polache",
+    "isrc": "TCAAZ1143117"
+  },
+  {
+    "title": "El Misterio",
+    "artist": "Syrome, JDC",
+    "isrc": "TCAFQ2168988"
+  },
+  {
+    "title": "55",
+    "artist": "Juan Oliva, JavyDade",
+    "isrc": "QZPLS2336114"
+  },
+  {
+    "title": "Que Tiemble",
+    "artist": "El Chevo, MC Productions Inc",
+    "isrc": "QZGLS2365323"
+  },
+  {
+    "title": "Volver Contigo (Remix)",
+    "artist": "J Calix, Jesus Aguilar, Juan Oliva, Nassir Chahin",
+    "isrc": "TCAEZ2058064"
+  },
+  {
+    "title": "Amor Bonito",
+    "artist": "Los Bohemios, Josh Dibrasco",
+    "isrc": "ushm82205010"
+  },
+  {
+    "title": "Mal De Amores",
+    "artist": "Big Nango",
+    "isrc": "uscgh1735632"
+  },
+  {
+    "title": "Restaurame",
+    "artist": "Menor Menor",
+    "isrc": "QZL432300073"
+  },
+  {
+    "title": "Miedo (feat. Divino)",
+    "artist": "Bullaka Family, Divino",
+    "isrc": "TCAAZ1163839"
+  },
+  {
+    "title": "I Love You Baby",
+    "artist": "Maynor MC, Emilee",
+    "isrc": "USHM22042213"
+  },
+  {
+    "title": "De Pies a Cabeza",
+    "artist": "Jesus Aguilar, JD",
+    "isrc": "QZ8251837924"
+  },
+  {
+    "title": "Niña Bella (Raggamofin Killas)",
+    "artist": "JCP el Especialista",
+    "isrc": "QZAPG1771792"
+  },
+  {
+    "title": "Sensacion",
+    "artist": "Nassir Chahin, Alejandro Ulloa, Steven Pineda, Andy Ruiz",
+    "isrc": "TCAEE1969219"
+  },
+  {
+    "title": "Si Pudiera Yo",
+    "artist": "Kazzabe, MC Productions",
+    "isrc": "QZNJW2077594"
+  },
+  {
+    "title": "Te Alucino",
+    "artist": "Abeldidit",
+    "isrc": "TCACZ1745297"
+  },
+  {
+    "title": "Nunca Olvidaras",
+    "artist": "Steven Pineda, Alejandro Ulloa, Jacoboi",
+    "isrc": "TCAEJ1985892"
+  },
+  {
+    "title": "Por Mujeres Como Tu - Remix",
+    "artist": "Mr Jc, C-Kan, MC Productions Inc",
+    "isrc": "QZHZ42117886"
+  },
+  {
+    "title": "Supernova",
+    "artist": "Chia Casanova",
+    "isrc": "usy282011798"
+  },
+  {
+    "title": "Me Gusta la Navidad",
+    "artist": "Allanv, DiBrasco, Syrome, Dahitai",
+    "isrc": "QZFZ61960057"
+  },
+  {
+    "title": "Que Rico",
+    "artist": "Shabakan",
+    "isrc": "TCABI1251789"
+  },
+  {
+    "title": "Pensando En Vos",
+    "artist": "JWolfy, Marcocky",
+    "isrc": "TCADU1834761"
+  },
+  {
+    "title": "Pablo Y El Chapo",
+    "artist": "Andro Skrt, Manu Destroy",
+    "isrc": "TCAFD2001533"
+  },
+  {
+    "title": "Mia Todavia",
+    "artist": "Capi, JWolfy",
+    "isrc": "TCAEE1972544"
+  },
+  {
+    "title": "Día a Día",
+    "artist": "Nelson Padilla",
+    "isrc": "SE5751891488"
+  },
+  {
+    "title": "Me Pegué",
+    "artist": "DiBrasco",
+    "isrc": "TCAEU2070267"
+  },
+  {
+    "title": "Como Le Digo",
+    "artist": "Rodolfo Bueso",
+    "isrc": "TCACX1776654"
+  },
+  {
+    "title": "Sólo Sé Que Eres Bella",
+    "artist": "Eduardo Umanzor",
+    "isrc": "usdy41716695"
+  },
+  {
+    "title": "Preguntale",
+    "artist": "Kd La Caracola",
+    "isrc": "TCAEC1991922"
+  },
+  {
+    "title": "Teresa",
+    "artist": "Liam",
+    "isrc": "ushm81655213"
+  },
+  {
+    "title": "Acelerao",
+    "artist": "Jay Handal",
+    "isrc": "QZNWV2129863"
+  },
+  {
+    "title": "Pa' Que Baile",
+    "artist": "Davis Flow, Syrome",
+    "isrc": "QZHNC1919570"
+  },
+  {
+    "title": "Ahora Marchate",
+    "artist": "Yerbaklan",
+    "isrc": "ushm81110450"
+  },
+  {
+    "title": "CAP",
+    "artist": "Jacoboi",
+    "isrc": "QZMER2181914"
+  },
+  {
+    "title": "La Cumbia de la Limpia",
+    "artist": "Mr. Yambo",
+    "isrc": "uscgh1700907"
+  },
+  {
+    "title": "Luna en Verano",
+    "artist": "Javi Sabat",
+    "isrc": "TCAEE1925080"
+  },
+  {
+    "title": "Un Dia Volvera",
+    "artist": "El Sol Caracol",
+    "isrc": "HNA010505001"
+  },
+  {
+    "title": "Freeky",
+    "artist": "King Jeka, El Dollar, Letra Musiq, Big Chacha",
+    "isrc": "QZFYY2301826"
+  },
+  {
+    "title": "Yo No Sé",
+    "artist": "Madame Gruv",
+    "isrc": "SE5751906722"
+  },
+  {
+    "title": "Pretty Little Fangz",
+    "artist": "Yoro, Atomic Rose, Farî",
+    "isrc": "QZMER2030410"
+  },
+  {
+    "title": "X TI",
+    "artist": "narvy, Farî",
+    "isrc": "QZNWW2142080"
+  },
+  {
+    "title": "Un Poco de Amor",
+    "artist": "Montuca Sound System, Eduardo Umanzor",
+    "isrc": "uscgh2145130"
+  },
+  {
+    "title": "Cocoh",
+    "artist": "GodDessey",
+    "isrc": "QZWFH2344861"
+  },
+  {
+    "title": "Socadita 2",
+    "artist": "Eddy Ranks",
+    "isrc": "USJ3V1380839"
+  },
+  {
+    "title": "Na De Ti",
+    "artist": "Sebas C",
+    "isrc": "TCAEJ1912035"
+  },
+  {
+    "title": "Catalina",
+    "artist": "Aaron Bodden, Ethika Music",
+    "isrc": "QZNW72368309"
+  },
+  {
+    "title": "Por Si Se Te Olvida - Remix",
+    "artist": "Alexa Ferrari, Ken-Y",
+    "isrc": "QZW9L2235163"
+  },
+  {
+    "title": "La Gorra No Se Me Cae",
+    "artist": "Pilo Tejeda",
+    "isrc": "QM6N22297180"
+  },
+  {
+    "title": "3am",
+    "artist": "Nio Nassar, Farid Nassar",
+    "isrc": "TCAEJ1911834"
+  },
+  {
+    "title": "Cuando Decidas Amar",
+    "artist": "Alejandro Ulloa, SkyJos",
+    "isrc": "TCAEY2004631"
+  },
+  {
+    "title": "Twerk",
+    "artist": "Lil Roy, Kbp el Terrorista, Syrome, El Dollar",
+    "isrc": "TCAGD2200623"
+  },
+  {
+    "title": "Marbella",
+    "artist": "Chevy",
+    "isrc": "QZHN72219137"
+  },
+  {
+    "title": "Big Truck",
+    "artist": "Albeezy",
+    "isrc": "GBLFP1847319"
+  },
+  {
+    "title": "Fayah",
+    "artist": "Maria Maria",
+    "isrc": "TCAFO2141228"
+  },
+  {
+    "title": "Me Deje Llevar",
+    "artist": "Merek Supraboy",
+    "isrc": "QZ9JZ1712722"
+  },
+  {
+    "title": "Reggea Mix",
+    "artist": "Roatan Island Music, Jensen & The Boys",
+    "isrc": "QZDA42112220"
+  },
+  {
+    "title": "A Mi Lado",
+    "artist": "IZZY Cuestas",
+    "isrc": "QZNJX2177223"
+  },
+  {
+    "title": "Loco Enamorado",
+    "artist": "Jorge Alejandro",
+    "isrc": "QZK6L2040775"
+  },
+  {
+    "title": "Anoche Soñé (Remix)",
+    "artist": "Karlo Rod, Farî, Juan Oliva, narvy, Marlon G",
+    "isrc": "TCAFW2192756"
+  },
+  {
+    "title": "Luna",
+    "artist": "Andro, Suiry, Manu Destroy",
+    "isrc": "TCAEI1920385"
+  },
+  {
+    "title": "Nah Goin Home - Biggie irie",
+    "artist": "Jimmy James",
+    "isrc": "QZNWV2100415"
+  },
+  {
+    "title": "I LIKE THE WAY RIDDIM ''Roatán Live Band Dance''",
+    "artist": "SelectaDj_Dango, Joseph James & The Boys",
+    "isrc": "QZMEP2250820"
+  },
+  {
+    "title": "Bandido",
+    "artist": "En$o, Faker, Apache",
+    "isrc": "QZW9N2218626"
+  },
+  {
+    "title": "Soy un Viajero de Este Mundo",
+    "artist": "Armani la Gucci",
+    "isrc": "ushm92090756"
+  },
+  {
+    "title": "A La Cima Del Cielo - En Vivo",
+    "artist": "Katheryn",
+    "isrc": "MXF311800055"
+  },
+  {
+    "title": "Mira Honduras",
+    "artist": "Polache",
+    "isrc": "TCAAZ1143119"
+  },
+  {
+    "title": "Dejate Llevar",
+    "artist": "Juan Oliva, Javi Sabat, Max-A, Capi",
+    "isrc": "TCAEB1923826"
+  },
+  {
+    "title": "Enciendan Los Motores",
+    "artist": "Syrome",
+    "isrc": "TCAFQ2169061"
+  },
+  {
+    "title": "Nada Serio",
+    "artist": "J Calix, Juan Oliva",
+    "isrc": "TCAEF1927096"
+  },
+  {
+    "title": "Ay Ay Ay",
+    "artist": "El Chevo, MC Productions Inc",
+    "isrc": "TCABT1454443"
+  },
+  {
+    "title": "Borracho de Amor",
+    "artist": "Los Bohemios, Josh Dibrasco",
+    "isrc": "usdy42306300"
+  },
+  {
+    "title": "Una Noche Mas",
+    "artist": "Big Nango",
+    "isrc": "ushm21630805"
+  },
+  {
+    "title": "YoNi",
+    "artist": "Menor Menor, Ankhal",
+    "isrc": "QZL432000003"
+  },
+  {
+    "title": "Señorita (feat. J King & Maximan)",
+    "artist": "Bullaka Family, J-King y Maximan",
+    "isrc": "TCAAZ1163830"
+  },
+  {
+    "title": "La Niña de la Esquina",
+    "artist": "Maynor MC, Bullaka Family",
+    "isrc": "USCGJ2122736"
+  },
+  {
+    "title": "Marciana",
+    "artist": "Jesus Aguilar, Juan Oliva, Syrome",
+    "isrc": "TCAFM2188154"
+  },
+  {
+    "title": "Miami",
+    "artist": "Nassir Chahin, Saint Vivo",
+    "isrc": "QZDA82006295"
+  },
+  {
+    "title": "Punta Raton Remix",
+    "artist": "Kazzabe, MC Productions",
+    "isrc": "QZNJX2076533"
+  },
+  {
+    "title": "Me Desesperas",
+    "artist": "JCP el Especialista",
+    "isrc": "QZAPG1771793"
+  },
+  {
+    "title": "Didit Session, Pt. 3",
+    "artist": "Abeldidit, Jossiel",
+    "isrc": "QZHZ32242694"
+  },
+  {
+    "title": "Sin Amarte",
+    "artist": "Steven Pineda, Nassir Chahin, Yogi",
+    "isrc": "QZES81997710"
+  },
+  {
+    "title": "Somos el Universo",
+    "artist": "Chia Casanova",
+    "isrc": "ushm81839464"
+  },
+  {
+    "title": "Tu - Dashitai Remix",
+    "artist": "Allanv, Syrome, Dashitai",
+    "isrc": "QZFZ61960050"
+  },
+  {
+    "title": "Bb",
+    "artist": "Mr Jc, KBP EL ALIEN, Fresh Bodden, BIG CHACHA, ALEMVN",
+    "isrc": "QZ5AB2420405"
+  },
+  {
+    "title": "Lloras Sola",
+    "artist": "JWolfy",
+    "isrc": "TCAGJ2264321"
+  },
+  {
+    "title": "Como Me Gusta",
+    "artist": "Shabakan",
+    "isrc": "TCABI1251793"
+  },
+  {
+    "title": "Pendiente (Remix)",
+    "artist": "Andro Skrt, Suiry, Syrome, Manu Destroy",
+    "isrc": "TCAEZ2033173"
+  },
+  {
+    "title": "SLIMNELLY",
+    "artist": "Nelson Padilla",
+    "isrc": "SE5752465659"
+  },
+  {
+    "title": "Pal Piso",
+    "artist": "DiBrasco, Anthony Campbell, Chapa",
+    "isrc": "TCAHO2321690"
+  },
+  {
+    "title": "Me Enamoré",
+    "artist": "Rodolfo Bueso",
+    "isrc": "QZGLM1921948"
+  },
+  {
+    "title": "Verla Otra Vez",
+    "artist": "Eduardo Umanzor",
+    "isrc": "ushm81757783"
+  },
+  {
+    "title": "No Vuelvo a Caer (feat. Jcp & Fresh)",
+    "artist": "Kd La Caracola, JCP, Fresh",
+    "isrc": "TCACI1570029"
+  },
+  {
+    "title": "Hot Like Fire",
+    "artist": "Liam",
+    "isrc": "QZFZ31970332"
+  },
+  {
+    "title": "Legendarios",
+    "artist": "Jay Handal, narvy",
+    "isrc": "TCAFB2012192"
+  },
+  {
+    "title": "Se Medio",
+    "artist": "Davis Flow",
+    "isrc": "TCADY1821574"
+  },
+  {
+    "title": "No Pares",
+    "artist": "Yerbaklan",
+    "isrc": "ushm81110446"
+  },
+  {
+    "title": "Grasa",
+    "artist": "Jacoboi",
+    "isrc": "QZFZ71955703"
+  },
+  {
+    "title": "Ya Me Di Cuenta - Remix",
+    "artist": "Mr. Yambo, Los Ajenos, Maul On The Mix",
+    "isrc": "US7VG2118056"
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Rap Pesado",
+    "artist": "Marmota",
+    "isrc": "QZNJY2298342"
+  },
+  {
+    "title": "Finura",
+    "artist": "El Bloque",
+    "isrc": "usl4q1877293"
+  },
+  {
+    "title": "Aterriza",
+    "artist": "Mugre Sur",
+    "isrc": "QZDA82071585"
+  },
+  {
+    "title": "Como Es Cual Es Donde Es",
+    "artist": "DISTRITO Q, BDC, Mugre Sur",
+    "isrc": "QZGLM1973638"
+  },
+  {
+    "title": "Odio en la Sangre",
+    "artist": "Tzantza Matantza",
+    "isrc": "usl4q2011656"
+  },
+  {
+    "title": "Pataflys (Versión Sucia)",
+    "artist": "Equis.",
+    "isrc": "ES71G2063927"
+  },
+  {
+    "title": "Fumafu",
+    "artist": "Da Monsters Gang",
+    "isrc": "ushm91943829"
+  },
+  {
+    "title": "Para Rato",
+    "artist": "Langolier",
+    "isrc": "usy282002489"
+  },
+  {
+    "title": "Fuego",
+    "artist": "R de Nexo",
+    "isrc": "uscgh1992751"
+  },
+  {
+    "title": "Mi Manera de Vivir - Remix",
+    "artist": "Sudamery Jane's, Neutro Shorty",
+    "isrc": "QZHZ52111751"
+  },
+  {
+    "title": "Yo Te Pido Señor",
+    "artist": "STRATGIA FAMILIA",
+    "isrc": "QZHZ42154378"
+  },
+  {
+    "title": "La Llamada",
+    "artist": "GUANACO, Alvaro Bermeo",
+    "isrc": "ES71G2330294"
+  },
+  {
+    "title": "Cypher 8",
+    "artist": "BoomBapKillaz, R de Nexo, Trahhco, Menin, Jkr, Jako, Forty Dmg, Sudamery Jane's",
+    "isrc": "QZDA61830502"
+  },
+  {
+    "title": "Pa' Qué?",
+    "artist": "Forty Dmg",
+    "isrc": "usdy42195910"
+  },
+  {
+    "title": "Los Gasta Tinta Internacional",
+    "artist": "Liric Traffic, Soires Naes, Falta De Respeto, Xkary, Dibujo Mc, Marmota, Gera MX, Discípulos del Concreto, Afaz Natural",
+    "isrc": "AEA0Q1926322"
+  },
+  {
+    "title": "Huu Mama",
+    "artist": "Real Conexion, Bigan RC, Slacc",
+    "isrc": "QZTPX2143882"
+  },
+  {
+    "title": "Dirty Swing",
+    "artist": "Da Monsters Gang",
+    "isrc": "GBMA21861862"
+  },
+  {
+    "title": "Cuatro y Veinte",
+    "artist": "E2 Doctor, Vespa",
+    "isrc": "usl4q1865073"
+  },
+  {
+    "title": "Consecuencia",
+    "artist": "A2h+, Ganjah Roots",
+    "isrc": "QM4DW1868808"
+  },
+  {
+    "title": "Despierta",
+    "artist": "Cholo, Eztone",
+    "isrc": "QZDA62111021"
+  },
+  {
+    "title": "Y Seguiré Bebiendo",
+    "artist": "38 que no juega",
+    "isrc": "ES71G1736801"
+  },
+  {
+    "title": "Let's Get It On",
+    "artist": "Da Fuckryminal's",
+    "isrc": "GBKQU1990946"
+  },
+  {
+    "title": "Si Me Pides",
+    "artist": "Spiritual",
+    "isrc": "QM6MZ1874227"
+  },
+  {
+    "title": "Longevirap",
+    "artist": "Mac Tempo",
+    "isrc": "usx9p2069586"
+  },
+  {
+    "title": "Katary",
+    "artist": "Los Nin",
+    "isrc": "ushm21736271"
+  },
+  {
+    "title": "Navegación Nocturna",
+    "artist": "Clo Sismico",
+    "isrc": "uscgh2273664"
+  },
+  {
+    "title": "Anoche",
+    "artist": "Jhonny Lexus",
+    "isrc": "QMGR32215415"
+  },
+  {
+    "title": "Raíces",
+    "artist": "Cósmico, Forty Dmg, GUANACO, Macu, Slacc, Tufiño",
+    "isrc": "ushm82086067"
+  },
+  {
+    "title": "The Dozzens - Mic Check",
+    "artist": "JKR & DJ \"D\"",
+    "isrc": "QZHZ32025927"
+  },
+  {
+    "title": "Tsunami",
+    "artist": "Mr. Sak, Baloo, Gandhi",
+    "isrc": "USL4Q1761503"
+  },
+  {
+    "title": "Sin Frenos",
+    "artist": "Ratas Gquil",
+    "isrc": "QZES92055822"
+  },
+  {
+    "title": "Un Trago No Está Mal",
+    "artist": "Método, Alvaro Bermeo",
+    "isrc": "GBLFP1860331"
+  },
+  {
+    "title": "Respeto",
+    "artist": "Oslyn, Trilugang",
+    "isrc": "ushm82114889"
+  },
+  {
+    "title": "Buena Vida Mala Fama",
+    "artist": "Diego Villacis DVM, Crish Ramirez, Defab, Luandy",
+    "isrc": "QZ22B2021197"
+  },
+  {
+    "title": "Fuego Sanandonos",
+    "artist": "Roja MC",
+    "isrc": "QZ5AB1613688"
+  },
+  {
+    "title": "Cumbia Mañanera",
+    "artist": "Guanchaka",
+    "isrc": "DEAR41737603"
+  },
+  {
+    "title": "H.n.o.",
+    "artist": "QSYDF",
+    "isrc": "GBSMU6148961"
+  },
+  {
+    "title": "Zumba el piquete (Remix)",
+    "artist": "Dennys The Black, Ronny Flow",
+    "isrc": "USDY41730266"
+  },
+  {
+    "title": "Por ti",
+    "artist": "Geo Pro, Spiritual",
+    "isrc": "GBLFP2047266"
+  },
+  {
+    "title": "Libre",
+    "artist": "Carlos Zamora, Rocca",
+    "isrc": "QZHZ42222137"
+  },
+  {
+    "title": "Sometimes You Make the Love",
+    "artist": "Da Culkin Clan",
+    "isrc": "ushm21556148"
+  },
+  {
+    "title": "Fantastica Rkt - Remix",
+    "artist": "Vaioflow, Japanese",
+    "isrc": "QZW9M2315952"
+  },
+  {
+    "title": "Nacimiento",
+    "artist": "Danilo Arroyo, Ana, Kaya Cachimuel de Yarina",
+    "isrc": "QZDA61919340"
+  },
+  {
+    "title": "Visaje",
+    "artist": "Smith King",
+    "isrc": "QZTAX2363788"
+  },
+  {
+    "title": "Legalai Deyvid SA.",
+    "artist": "Quito Hip Hop",
+    "isrc": "QZFZ22024410"
+  },
+  {
+    "title": "Cumbia de la Soledad",
+    "artist": "Dess Liss",
+    "isrc": "QZTVM2257407"
+  },
+  {
+    "title": "Mentalismo",
+    "artist": "Rimax Mussaq, Mr. Sak, ZEN P",
+    "isrc": "USMH92399802"
+  },
+  {
+    "title": "Ella es el diablo",
+    "artist": "Miztha Flava & Banton Og",
+    "isrc": "QZFZ62116940"
+  },
+  {
+    "title": "Yo Sé (La Mata)",
+    "artist": "Vespa",
+    "isrc": "usl4q2131364"
+  },
+  {
+    "title": "Vino Barato",
+    "artist": "Pato Romo",
+    "isrc": "GBSMU6547612"
+  },
+  {
+    "title": "Todos Somos Ecuador",
+    "artist": "Jose Victoria, Caro Gordon",
+    "isrc": "usdy41851700"
+  },
+  {
+    "title": "Via Jugoslavija",
+    "artist": "Black Mama",
+    "isrc": "HRA372400066"
+  },
+  {
+    "title": "Ojos Atormentados",
+    "artist": "Sumo Semblante",
+    "isrc": "QZFZ32076358"
+  },
+  {
+    "title": "Party",
+    "artist": "Gabo Con C",
+    "isrc": "QZDA72023039"
+  },
+  {
+    "title": "Madrugada",
+    "artist": "ANANKÉ",
+    "isrc": "QZGLM2320100"
+  },
+  {
+    "title": "GLUE 94",
+    "artist": "AkaOne 593",
+    "isrc": "QZTAY2244314"
+  },
+  {
+    "title": "Ojeras",
+    "artist": "Andy Novem",
+    "isrc": "QZZ662334884"
+  },
+  {
+    "title": "Ain't 4 Dummies",
+    "artist": "Bullet, DaniChacon",
+    "isrc": "SE5752290118"
+  },
+  {
+    "title": "Rap Combinación - Remix",
+    "artist": "C.M Rapper",
+    "isrc": "QM4TX2198298"
+  },
+  {
+    "title": "Un estilo diferente",
+    "artist": "Cetres, Rolex",
+    "isrc": "USQZW2100003"
+  },
+  {
+    "title": "Princesa",
+    "artist": "Chino Flow Bless",
+    "isrc": "QZTAX2258609"
+  },
+  {
+    "title": "Loco por Ti",
+    "artist": "Dafawuer, Amperson, racs killah, AkilisMusic",
+    "isrc": "US7VG2176599"
+  },
+  {
+    "title": "13. BAD BOY",
+    "artist": "Dafuckryminal's, Lion",
+    "isrc": "SEYOK1602447"
+  },
+  {
+    "title": "Desahogo Mental",
+    "artist": "Dei-Vid, Chino Flow Bless",
+    "isrc": "USDY42103424"
+  },
+  {
+    "title": "Date Cuenta",
+    "artist": "Dezeer",
+    "isrc": "QZHN52182900"
+  },
+  {
+    "title": "La Carta",
+    "artist": "Fareed Y Jasa",
+    "isrc": "TCAEW2075381"
+  },
+  {
+    "title": "Pasito Shampoo",
+    "artist": "Gino Salsa Sur",
+    "isrc": "USHM81789750"
+  },
+  {
+    "title": "Authority Abuse",
+    "artist": "Fuerza Kallejera, Crstyle, Dimuffing, The Coolman Beatz",
+    "isrc": "QZK6H2092722"
+  },
+  {
+    "title": "Mi Atucucho Querido (Rosalía Narvay)",
+    "artist": "JUA-MER, Harmonny Mounsta Studios",
+    "isrc": "QZFZ62242879"
+  },
+  {
+    "title": "Candy",
+    "artist": "Jay D, Zmooking",
+    "isrc": "QZMEP2167936"
+  },
+  {
+    "title": "Rebote (feat. Dgroove)",
+    "artist": "José Micrófono, Dgroove",
+    "isrc": "QZ93L1906839"
+  },
+  {
+    "title": "Pandemia",
+    "artist": "La Junta 593",
+    "isrc": "SE6A92141915"
+  },
+  {
+    "title": "Pa la Calle",
+    "artist": "Leo El Jodedor",
+    "isrc": "TCAFC2096598"
+  },
+  {
+    "title": "Fana Fana",
+    "artist": "Lil Efonx",
+    "isrc": "QZK6M2011344"
+  },
+  {
+    "title": "Green Day",
+    "artist": "Mercury Sagent",
+    "isrc": "SE6HN2145233"
+  },
+  {
+    "title": "Herida",
+    "artist": "MsKillah",
+    "isrc": "QZHZ32049056"
+  },
+  {
+    "title": "Adios",
+    "artist": "Químico la Evolución, Jho Fama",
+    "isrc": "ushm21819806"
+  },
+  {
+    "title": "Ahé Ahé",
+    "artist": "Real Rangsta",
+    "isrc": "ushm91995832"
+  },
+  {
+    "title": "El Juego",
+    "artist": "Rlive, Jho Fama, Low, Manny Alpacino, Dolly, Halis Tews",
+    "isrc": "QZHN52187783"
+  },
+  {
+    "title": "Con Una Plana",
+    "artist": "Sagentfam, Stivy Sagent, Mercury Sagent",
+    "isrc": "QZMEN2011419"
+  },
+  {
+    "title": "Si no me crees",
+    "artist": "Stivy Sagent, Sagentfam",
+    "isrc": "QZDA52153869"
+  },
+  {
+    "title": "Quisiera Ser",
+    "artist": "Taggy Tbp, Monfils, Bryant Chavez",
+    "isrc": "UKXN22331719"
+  },
+  {
+    "title": "Y Pegate Ahí",
+    "artist": "The Capo Mc 07, Samya Dennis",
+    "isrc": "QZNJX2048655"
+  },
+  {
+    "title": "Luna",
+    "artist": "Una Mezcla de Razas",
+    "isrc": "QZ5AB2178665"
+  },
+  {
+    "title": "La Niña de mis Ojos",
+    "artist": "Yogui Mc",
+    "isrc": "QZHN62118241"
+  },
+  {
+    "title": "Iz Barniz",
+    "artist": "Marmota",
+    "isrc": "ushm91865601"
+  },
+  {
+    "title": "Natural",
+    "artist": "El Bloque",
+    "isrc": "QZMEQ2364080"
+  },
+  {
+    "title": "Come arroz con cuchara",
+    "artist": "Mugre Sur",
+    "isrc": "QZNWU2082044"
+  },
+  {
+    "title": "El Dolor de la Ira",
+    "artist": "DISTRITO Q",
+    "isrc": "QZGLM1973643"
+  },
+  {
+    "title": "Pataflys",
+    "artist": "Equis.",
+    "isrc": "QM4TX2162018"
+  },
+  {
+    "title": "El Estrujón Cerebral",
+    "artist": "Tzantza Matantza",
+    "isrc": "usl4q2011657"
+  },
+  {
+    "title": "Desde el Centro de la Tierra",
+    "artist": "R de Nexo, Callao Cartel",
+    "isrc": "QM3DF2279741"
+  },
+  {
+    "title": "Cosas de la Vida",
+    "artist": "STRATGIA FAMILIA",
+    "isrc": "QZHZ42154377"
+  },
+  {
+    "title": "Mi Manera de Vivir",
+    "artist": "Sudamery Jane's",
+    "isrc": "QZHZ42188976"
+  },
+  {
+    "title": "Cypher 15",
+    "artist": "BoomBapKillaz, Big Flay, Shock, Mc Grec, Pejota Mc, Skinny Buay, Sudamery Jane's",
+    "isrc": "QZDA61827664"
+  },
+  {
+    "title": "Soledad",
+    "artist": "GUANACO, Roberto Calero Piedrahita",
+    "isrc": "ES71G1602476"
+  },
+  {
+    "title": "Veneno",
+    "artist": "Forty Dmg",
+    "isrc": "uscgj2055295"
+  },
+  {
+    "title": "Latino Soy Yo",
+    "artist": "Liric Traffic, Marmota",
+    "isrc": "AEA0Q1926321"
+  },
+  {
+    "title": "En Busca De Ella",
+    "artist": "Real Conexion",
+    "isrc": "AEA0D1894609"
+  },
+  {
+    "title": "Alfaro Vive Hip Hop",
+    "artist": "E2 Doctor, Loko Cuerdo, Marmota, Norick, Vespa",
+    "isrc": "usl4q1865074"
+  },
+  {
+    "title": "Sonido Adictivo",
+    "artist": "A2h+",
+    "isrc": "QM2PV1715532"
+  },
+  {
+    "title": "Siente",
+    "artist": "Cholo, Eztone",
+    "isrc": "QZDA62111026"
+  },
+  {
+    "title": "Slam South Killah",
+    "artist": "Da Fuckryminal's",
+    "isrc": "GBKQU1990948"
+  },
+  {
+    "title": "Brahmac",
+    "artist": "Mac Tempo",
+    "isrc": "usx9p2069588"
+  },
+  {
+    "title": "En algún lugar",
+    "artist": "Spiritual",
+    "isrc": "QM6MZ1873620"
+  },
+  {
+    "title": "Yuyay",
+    "artist": "Los Nin",
+    "isrc": "ushm21736270"
+  },
+  {
+    "title": "Quién Diría",
+    "artist": "Cósmico, Norick",
+    "isrc": "usl4q2026927"
+  },
+  {
+    "title": "Perfecto",
+    "artist": "Jhonny Lexus",
+    "isrc": "QMGR32215575"
+  },
+  {
+    "title": "De Ti",
+    "artist": "Mr. Sak, Kenny Die",
+    "isrc": "uscgj2079520"
+  },
+  {
+    "title": "Once Rata",
+    "artist": "Ratas Gquil",
+    "isrc": "QZPLS2018014"
+  },
+  {
+    "title": "Gold Chain",
+    "artist": "Método, Neoma, Amantina",
+    "isrc": "GBLFP2047952"
+  },
+  {
+    "title": "Gang Gang",
+    "artist": "Oslyn, Forty Dmg",
+    "isrc": "QZFZ72150819"
+  },
+  {
+    "title": "Si Crees Estar Firme",
+    "artist": "Roja MC",
+    "isrc": "QZ5AB1613689"
+  },
+  {
+    "title": "Sueltas y Solteras (El Tra)",
+    "artist": "Diego Villacis DVM, Luandy, Crish Ramirez, Defab",
+    "isrc": "ART0G1802293"
+  },
+  {
+    "title": "Monte Abajo",
+    "artist": "Guanchaka",
+    "isrc": "DEAR41732205"
+  },
+  {
+    "title": "Momento",
+    "artist": "QSYDF",
+    "isrc": "GBSMU6148957"
+  },
+  {
+    "title": "Malcriada",
+    "artist": "Dennys The Black, Milo Mae",
+    "isrc": "ES71G2147356"
+  },
+  {
+    "title": "Siehst du es",
+    "artist": "Carlos Zamora, Jambeatz",
+    "isrc": "QZDA52012888"
+  },
+  {
+    "title": "La Tierra de la Guayaba",
+    "artist": "Da Culkin Clan",
+    "isrc": "ushm21556151"
+  },
+  {
+    "title": "Profuga",
+    "artist": "Vaioflow",
+    "isrc": "QZGLM2486341"
+  },
+  {
+    "title": "Cotacachi",
+    "artist": "Danilo Arroyo, Alex Paza",
+    "isrc": "QZDA61919346"
+  },
+  {
+    "title": "Inquietosa",
+    "artist": "Smith King",
+    "isrc": "QZDA72379934"
+  },
+  {
+    "title": "Princesa Artificial",
+    "artist": "Quito Hip Hop",
+    "isrc": "QZK6Q1944303"
+  },
+  {
+    "title": "Cumbia del Deconstruido",
+    "artist": "Dess Liss, Ataw Allpa",
+    "isrc": "QZW9K2397222"
+  },
+  {
+    "title": "Rap Criminals",
+    "artist": "Rimax Mussaq, Nebla, Ríal Guawankó",
+    "isrc": "usdy42093534"
+  },
+  {
+    "title": "Vicio",
+    "artist": "Miztha Flava & Banton Og",
+    "isrc": "QZES72280941"
+  },
+  {
+    "title": "Pupilas Dilatadas",
+    "artist": "Vespa",
+    "isrc": "usl4q2131358"
+  },
+  {
+    "title": "Líos",
+    "artist": "Pato Romo",
+    "isrc": "GBSMU5500601"
+  },
+  {
+    "title": "Enrrolen",
+    "artist": "Jose Victoria, El Drama, El Perla",
+    "isrc": "QM6DC2090941"
+  },
+  {
+    "title": "Shaban Moze Da Leti",
+    "artist": "Black Mama",
+    "isrc": "HRA371800692"
+  },
+  {
+    "title": "Manipular",
+    "artist": "Sumo Semblante",
+    "isrc": "QZK6N2077594"
+  },
+  {
+    "title": "One Take",
+    "artist": "Gabo Con C",
+    "isrc": "QZMEP2461155"
+  },
+  {
+    "title": "Buleria",
+    "artist": "ANANKÉ",
+    "isrc": "QZGLM2320099"
+  },
+  {
+    "title": "FOR REAL Santo Skillz X AkaOne",
+    "artist": "AkaOne 593",
+    "isrc": "QZDA42374320"
+  },
+  {
+    "title": "Coima",
+    "artist": "Marmota",
+    "isrc": "QZ5AB2230289"
+  },
+  {
+    "title": "CIUDAD INFIERNO",
+    "artist": "El Bloque",
+    "isrc": "ES71G2325682"
+  },
+  {
+    "title": "Asnos Caso",
+    "artist": "Mugre Sur",
+    "isrc": "QZDA82071590"
+  },
+  {
+    "title": "Somos del Sur",
+    "artist": "DISTRITO Q",
+    "isrc": "QZGLM1973639"
+  },
+  {
+    "title": "El Postre (Sabor Electro Espacial)",
+    "artist": "Equis.",
+    "isrc": "ES71G2039990"
+  },
+  {
+    "title": "Kon Mi Tribu",
+    "artist": "Tzantza Matantza",
+    "isrc": "QZNWR2030025"
+  },
+  {
+    "title": "Another Motherfocker",
+    "artist": "R de Nexo",
+    "isrc": "QZNJX2029567"
+  },
+  {
+    "title": "Lluvia en Mi Alma",
+    "artist": "STRATGIA FAMILIA",
+    "isrc": "QZHZ32177539"
+  },
+  {
+    "title": "Cypher 65",
+    "artist": "BoomBapKillaz, Farc-o Mc Priano, Lmc Nano, El Padrino, Mc Troba, Real Rangsta",
+    "isrc": "QZHNA2080694"
+  },
+  {
+    "title": "Muralla China",
+    "artist": "Sudamery Jane's",
+    "isrc": "QZ5AB2439225"
+  },
+  {
+    "title": "Siembra",
+    "artist": "GUANACO, Dina Mendez",
+    "isrc": "ES71G1504224"
+  },
+  {
+    "title": "Mala",
+    "artist": "Forty Dmg",
+    "isrc": "usdy42195918"
+  },
+  {
+    "title": "Gesta Maestra",
+    "artist": "Liric Traffic, Discipulos del Concreto, Xkary, JKR",
+    "isrc": "QZGLM2113022"
+  },
+  {
+    "title": "Marca de Rapero",
+    "artist": "Real Conexion, Bigan RC, Slacc",
+    "isrc": "QZTPX2143994"
+  },
+  {
+    "title": "Bendición de Ser Mujer",
+    "artist": "E2 Doctor, Rima Roja En Venus",
+    "isrc": "usl4q1865072"
+  },
+  {
+    "title": "En el Mapa",
+    "artist": "A2h+, Mr Yako",
+    "isrc": "QM4DW1868809"
+  },
+  {
+    "title": "Entre & Tener",
+    "artist": "Cholo",
+    "isrc": "QZK6L2339964"
+  },
+  {
+    "title": "The Real Hood Is Back",
+    "artist": "Da Fuckryminal's",
+    "isrc": "GBKQU1990941"
+  },
+  {
+    "title": "Rudra",
+    "artist": "Mac Tempo",
+    "isrc": "usx9p2069587"
+  },
+  {
+    "title": "Down Babylon",
+    "artist": "Spiritual, Guanaco Mc",
+    "isrc": "QM6MZ1873468"
+  },
+  {
+    "title": "Americanos",
+    "artist": "Los Nin",
+    "isrc": "ushm21736272"
+  },
+  {
+    "title": "Desde Abajo",
+    "artist": "Cósmico, Trilugang",
+    "isrc": "usl4r2151007"
+  },
+  {
+    "title": "Perdón (Desahogo)",
+    "artist": "Jhonny Lexus",
+    "isrc": "QMGR32215568"
+  },
+  {
+    "title": "So What You Say",
+    "artist": "Mr. Sak, Nasty Killah",
+    "isrc": "USLZJ2429903"
+  },
+  {
+    "title": "R-A-T-A-S",
+    "artist": "Ratas Gquil",
+    "isrc": "QZES62055477"
+  },
+  {
+    "title": "J-I-T",
+    "artist": "Método, Amantina",
+    "isrc": "GBLFP2047959"
+  }
+]

@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Figlio Della Luna",
+    "artist": "Theatres Des Vampires",
+    "isrc": "ITJ351100766"
+  },
+  {
+    "title": "Dark Lantern",
+    "artist": "Mandragora Scream",
+    "isrc": "FR6V81158146"
+  },
+  {
+    "title": "A Gothic Overture",
+    "artist": "Macbeth",
+    "isrc": "USA561096434"
+  },
+  {
+    "title": "The Dream",
+    "artist": "Cadaveria",
+    "isrc": "QM2PV1712968"
+  },
+  {
+    "title": "Spettralia",
+    "artist": "Setanera",
+    "isrc": "DEKM61505486"
+  },
+  {
+    "title": "Bela Lugosi's Dead",
+    "artist": "Opera IX",
+    "isrc": "GBCQV0000007"
+  },
+  {
+    "title": "Land of Memories, Pt. 1",
+    "artist": "Teodasia",
+    "isrc": "ITZQ71300021"
+  },
+  {
+    "title": "Nostalgiaplatz",
+    "artist": "Novembre",
+    "isrc": "GBDHC0502563"
+  },
+  {
+    "title": "In Your Eyes",
+    "artist": "Godyva",
+    "isrc": "uscgh1333961"
+  },
+  {
+    "title": "Lost Soldiers",
+    "artist": "The Foreshadowing",
+    "isrc": "QZNWQ2398230"
+  },
+  {
+    "title": "Enjoy the Silence - cover version",
+    "artist": "Lacuna Coil",
+    "isrc": "US4E40636013"
+  },
+  {
+    "title": "Last Siren",
+    "artist": "Walk in Darkness",
+    "isrc": "TCACX1723308"
+  },
+  {
+    "title": "Hateful Design",
+    "artist": "Graveworm",
+    "isrc": "DED830478003"
+  },
+  {
+    "title": "Bang Bang",
+    "artist": "Domina Noctis",
+    "isrc": "ITO370800174"
+  },
+  {
+    "title": "Frozen",
+    "artist": "Regardless Of Me",
+    "isrc": "SE3FF1200406"
+  },
+  {
+    "title": "The Portal",
+    "artist": "Alight",
+    "isrc": "DETX21800302"
+  },
+  {
+    "title": "Oscillation",
+    "artist": "Ravenscry",
+    "isrc": "ITQFK1700015"
+  },
+  {
+    "title": "Your Heaven",
+    "artist": "Sin Deadly Sin",
+    "isrc": "FR6V81224079"
+  },
+  {
+    "title": "Coraline",
+    "artist": "Armonight",
+    "isrc": "ushm91203451"
+  },
+  {
+    "title": "First Embrace",
+    "artist": "Tystnaden",
+    "isrc": "DET270609401"
+  },
+  {
+    "title": "Being Human",
+    "artist": "My Black Light",
+    "isrc": "ITI731000869"
+  },
+  {
+    "title": "Cry of Mankind",
+    "artist": "Lenore S. Fingers",
+    "isrc": "ITD241409704"
+  },
+  {
+    "title": "Entre Dos Tierras",
+    "artist": "Evenfall",
+    "isrc": "GBDHC0503614"
+  },
+  {
+    "title": "Dream On",
+    "artist": "Inner Shrine",
+    "isrc": "USA371592823"
+  },
+  {
+    "title": "The Sum of All Fears",
+    "artist": "Cultus Sanguine",
+    "isrc": "FR33T0002301"
+  },
+  {
+    "title": "Rise from the Flames",
+    "artist": "Tothem",
+    "isrc": "uscgj2074536"
+  },
+  {
+    "title": "Can You Hear Me?",
+    "artist": "The Lovecrave",
+    "isrc": "DES130600034"
+  },
+  {
+    "title": "Unbreakable",
+    "artist": "Silentlie",
+    "isrc": "QM6P41441337"
+  },
+  {
+    "title": "Our Withering Will",
+    "artist": "Crown of Autumn",
+    "isrc": "ITD241913911"
+  },
+  {
+    "title": "Christvampire",
+    "artist": "Lord Vampyr",
+    "isrc": "USY251945845"
+  },
+  {
+    "title": "Shamble",
+    "artist": "Revenience",
+    "isrc": "ITN581520872"
+  },
+  {
+    "title": "Reach for Me",
+    "artist": "Raven Tide",
+    "isrc": "TCAHJ2388237"
+  },
+  {
+    "title": "Dreambook",
+    "artist": "Eternal Silence",
+    "isrc": "GBLFP1521474"
+  },
+  {
+    "title": "Fairytales of Lies",
+    "artist": "Lightless Moor",
+    "isrc": "ITO371502944"
+  },
+  {
+    "title": "Abyss",
+    "artist": "Levania",
+    "isrc": "ITN581901600"
+  },
+  {
+    "title": "A Flower That Sears In Silence",
+    "artist": "How Like A Winter",
+    "isrc": "USA560804262"
+  },
+  {
+    "title": "Zombie",
+    "artist": "Absynth Aura",
+    "isrc": "ITCV01100011"
+  },
+  {
+    "title": "Hope",
+    "artist": "Synful Ira",
+    "isrc": "ushm21290479"
+  },
+  {
+    "title": "A Satana",
+    "artist": "Ecnephias",
+    "isrc": "ITD291100548"
+  },
+  {
+    "title": "Icons In A Wasteland",
+    "artist": "Tragodia",
+    "isrc": "USDHM0901630"
+  },
+  {
+    "title": "Wings of Honneamise",
+    "artist": "Labyrinthus Noctis",
+    "isrc": "UKCVA1805036"
+  },
+  {
+    "title": "Signore e dio in te confido",
+    "artist": "Deviate Damaen",
+    "isrc": "UKCVA1900900"
+  },
+  {
+    "title": "Far from Grace",
+    "artist": "Resonance Room",
+    "isrc": "ITD240904703"
+  },
+  {
+    "title": "Heaven's Sword",
+    "artist": "Mourn in Silence",
+    "isrc": "usl4r2073971"
+  },
+  {
+    "title": "Consuming Jerusalem",
+    "artist": "Monumentum",
+    "isrc": "DEPI82320813"
+  },
+  {
+    "title": "Love Will Tear Us Apart",
+    "artist": "Witches of Doom",
+    "isrc": "ITN581800776"
+  },
+  {
+    "title": "Sophia's Fall",
+    "artist": "Ensoph",
+    "isrc": "ITI290400603"
+  },
+  {
+    "title": "Speranza una perfetta menzogna",
+    "artist": "Soul S Chains",
+    "isrc": "usdy41910915"
+  },
+  {
+    "title": "Shed Nightward Beauty",
+    "artist": "Entwined",
+    "isrc": "GBBPB0701018"
+  },
+  {
+    "title": "Dawning Gloom",
+    "artist": "Even Vast",
+    "isrc": "CB2CY0947857"
+  },
+  {
+    "title": "Microcosm & Macrocosm",
+    "artist": "Dismal",
+    "isrc": "TCAEP2097797"
+  },
+  {
+    "title": "La Casa dell' Alchimista",
+    "artist": "Dunwich",
+    "isrc": "ushm80844381"
+  },
+  {
+    "title": "Shadows In My Love",
+    "artist": "My Sixth Shadow",
+    "isrc": "uscgj0655673"
+  },
+  {
+    "title": "Awake",
+    "artist": "Ravenouse",
+    "isrc": "QZHN41914809"
+  },
+  {
+    "title": "Tendencies",
+    "artist": "A Day in Venice",
+    "isrc": "TCAHW2448321"
+  },
+  {
+    "title": "Behind the Curtains I'm Dying",
+    "artist": "A Tear Beyond",
+    "isrc": "QZK6H2010065"
+  },
+  {
+    "title": "Seven",
+    "artist": "Abyssian",
+    "isrc": "DGA072127717"
+  },
+  {
+    "title": "Lost",
+    "artist": "Alchimia",
+    "isrc": "ITL791700033"
+  },
+  {
+    "title": "Genesis",
+    "artist": "Brvmak",
+    "isrc": "USY251832692"
+  },
+  {
+    "title": "System",
+    "artist": "Chaosphere",
+    "isrc": "GBSVH1199795"
+  },
+  {
+    "title": "Great Anxious Night",
+    "artist": "Darkest Clouds",
+    "isrc": "SEYOK1776027"
+  },
+  {
+    "title": "The Lost Soul Echoes",
+    "artist": "Drammagothica",
+    "isrc": "CH6540809022"
+  },
+  {
+    "title": "My Place Among the Elements",
+    "artist": "Drastisch",
+    "isrc": "ushm81236284"
+  },
+  {
+    "title": "Damien",
+    "artist": "Dreamlike Horror",
+    "isrc": "USY252011284"
+  },
+  {
+    "title": "In Vain",
+    "artist": "Evergaze Eternity",
+    "isrc": "FR6V80447323"
+  },
+  {
+    "title": "My Night",
+    "artist": "Filthy Teens",
+    "isrc": "USA560757933"
+  },
+  {
+    "title": "Perseverance/Ignorance",
+    "artist": "Forgotten Hope",
+    "isrc": "uscgj1250504"
+  },
+  {
+    "title": "Shades",
+    "artist": "Ghost of Mary",
+    "isrc": "FR59R1692445"
+  },
+  {
+    "title": "Great Abomination - Invocation",
+    "artist": "Graves of Nosgoth",
+    "isrc": "ITI731400150"
+  },
+  {
+    "title": "Reality Scares",
+    "artist": "Madness of Sorrow",
+    "isrc": "FR96X1866290"
+  },
+  {
+    "title": "Wrong Way",
+    "artist": "Maledia",
+    "isrc": "ITN582202675"
+  },
+  {
+    "title": "Douce Dame Jolie",
+    "artist": "Guillaume de Machaut, Misericordia",
+    "isrc": "USANA0480217"
+  },
+  {
+    "title": "Soul Expression",
+    "artist": "Motus Tenebrae",
+    "isrc": "ITI640700173"
+  },
+  {
+    "title": "Turandot",
+    "artist": "Raving Season",
+    "isrc": "ITD241309301"
+  },
+  {
+    "title": "Playin' With A Swindler",
+    "artist": "Scarecrown",
+    "isrc": "GBKLB0991376"
+  },
+  {
+    "title": "Madness",
+    "artist": "Settima Draconis",
+    "isrc": "BGA471403592"
+  },
+  {
+    "title": "Come From Hell",
+    "artist": "Shining Fear",
+    "isrc": "FR6V81017199"
+  },
+  {
+    "title": "La Marcia dell'Alviano, mi son veneto",
+    "artist": "Sirgaus",
+    "isrc": "DEAR41733845"
+  },
+  {
+    "title": "Gone With The Storm",
+    "artist": "So Cold",
+    "isrc": "USY252014578"
+  },
+  {
+    "title": "Kill Your Idol",
+    "artist": "Solifuge",
+    "isrc": "FR6V80259893"
+  },
+  {
+    "title": "Fenix",
+    "artist": "Son Et Lumiere",
+    "isrc": "RUA1H1929205"
+  },
+  {
+    "title": "The 21st Trump",
+    "artist": "Stramonia",
+    "isrc": "FR10S1931706"
+  },
+  {
+    "title": "The Broken Shield",
+    "artist": "The Burning Dogma",
+    "isrc": "FRX282032881"
+  },
+  {
+    "title": "Floating Deserts",
+    "artist": "The Sun of Weakness",
+    "isrc": "ITD240702301"
+  },
+  {
+    "title": "Star's - Original Mix",
+    "artist": "Valkiria",
+    "isrc": "GBKQU1653278"
+  },
+  {
+    "title": "They Speak by Silences",
+    "artist": "Visionoir",
+    "isrc": "FR96X2143855"
+  },
+  {
+    "title": "Far from the Sight",
+    "artist": "Your Tomorrow Alone",
+    "isrc": "ITD241207706"
+  },
+  {
+    "title": "Carmilla",
+    "artist": "Theatres Des Vampires",
+    "isrc": "ITJ351100764"
+  },
+  {
+    "title": "Blight Trills",
+    "artist": "Mandragora Scream",
+    "isrc": "FR6V81158149"
+  },
+  {
+    "title": "Forever,,,",
+    "artist": "Macbeth",
+    "isrc": "USA561096435"
+  },
+  {
+    "title": "Carnival of Doom",
+    "artist": "Cadaveria",
+    "isrc": "QZHNC1928608"
+  },
+  {
+    "title": "Journey to the Freedom",
+    "artist": "Setanera",
+    "isrc": "DEKM61505494"
+  },
+  {
+    "title": "The First Seal",
+    "artist": "Opera IX",
+    "isrc": "GBCQV0000001"
+  },
+  {
+    "title": "My Minotaur",
+    "artist": "Teodasia",
+    "isrc": "uscgj1243212"
+  },
+  {
+    "title": "Australis",
+    "artist": "Novembre",
+    "isrc": "GBCQV1500394"
+  },
+  {
+    "title": "I Feel You (Ti Sento)",
+    "artist": "Godyva",
+    "isrc": "uscgh1333960"
+  },
+  {
+    "title": "Departure",
+    "artist": "The Foreshadowing",
+    "isrc": "GBADD0716504"
+  },
+  {
+    "title": "Time to Rise",
+    "artist": "Walk in Darkness",
+    "isrc": "TCAEB1968205"
+  },
+  {
+    "title": "Fear of the Dark",
+    "artist": "Graveworm",
+    "isrc": "DEU601203994"
+  },
+  {
+    "title": "Heaven's a Lie",
+    "artist": "Lacuna Coil",
+    "isrc": "US4E40416002"
+  },
+  {
+    "title": "Metamorphia",
+    "artist": "Domina Noctis",
+    "isrc": "ITDB81300017"
+  },
+  {
+    "title": "The World Within",
+    "artist": "Regardless Of Me",
+    "isrc": "GBSMU7775025"
+  },
+  {
+    "title": "The Shame",
+    "artist": "Alight",
+    "isrc": "DETX21800307"
+  },
+  {
+    "title": "Missing Words",
+    "artist": "Ravenscry",
+    "isrc": "FR6V82438211"
+  },
+  {
+    "title": "Ophelia's Dream",
+    "artist": "Sin Deadly Sin",
+    "isrc": "FR6V81224084"
+  },
+  {
+    "title": "With Your Knife",
+    "artist": "Armonight",
+    "isrc": "ushm91203446"
+  },
+  {
+    "title": "Hamlet",
+    "artist": "Tystnaden",
+    "isrc": "DET270609406"
+  },
+  {
+    "title": "Ti Sento",
+    "artist": "My Black Light",
+    "isrc": "ITI731000878"
+  },
+  {
+    "title": "To the Path of Loss",
+    "artist": "Lenore S. Fingers",
+    "isrc": "ITD241409705"
+  },
+  {
+    "title": "Rawish",
+    "artist": "Evenfall",
+    "isrc": "GBDHC0503611"
+  },
+  {
+    "title": "To the Last Breath",
+    "artist": "Inner Shrine",
+    "isrc": "USA371592824"
+  },
+  {
+    "title": "Verrà Il Tempo Dei Morti",
+    "artist": "Cultus Sanguine",
+    "isrc": "FR33T0002302"
+  },
+  {
+    "title": "The Rains of Castamere",
+    "artist": "Tothem",
+    "isrc": "usdy41602320"
+  },
+  {
+    "title": "Vampires - The Light That We Are",
+    "artist": "The Lovecrave",
+    "isrc": "DES130600031"
+  },
+  {
+    "title": "The One Who Disappears",
+    "artist": "Silentlie",
+    "isrc": "IT8SF2200053"
+  },
+  {
+    "title": "Towers of Doleful Triumph",
+    "artist": "Crown of Autumn",
+    "isrc": "ITD241107402"
+  },
+  {
+    "title": "The Vampire's Legacy",
+    "artist": "Lord Vampyr",
+    "isrc": "USY252145701"
+  },
+  {
+    "title": "Blown Away by the Wind",
+    "artist": "Revenience",
+    "isrc": "ITN581520871"
+  },
+  {
+    "title": "Frozen",
+    "artist": "Raven Tide",
+    "isrc": "TCAHE2386654"
+  },
+  {
+    "title": "Prayer of the Resilient",
+    "artist": "Eternal Silence",
+    "isrc": "IT8SF2300289"
+  },
+  {
+    "title": "The Lyrics of the Journey",
+    "artist": "Lightless Moor",
+    "isrc": "ITO371101521"
+  },
+  {
+    "title": "Trace",
+    "artist": "Levania",
+    "isrc": "ITN581800818"
+  },
+  {
+    "title": "Believe Me",
+    "artist": "Absynth Aura",
+    "isrc": "ITCV01100001"
+  },
+  {
+    "title": "Sounf of Life",
+    "artist": "Synful Ira",
+    "isrc": "ushm21290472"
+  },
+  {
+    "title": "Sad Summer Night",
+    "artist": "Ecnephias",
+    "isrc": "ITD241712303"
+  },
+  {
+    "title": "Adrift",
+    "artist": "Tragodia",
+    "isrc": "FR96X1854901"
+  },
+  {
+    "title": "Linear A",
+    "artist": "Labyrinthus Noctis",
+    "isrc": "UKCVA1805030"
+  },
+  {
+    "title": "Aspetterò l'altrove",
+    "artist": "Deviate Damaen",
+    "isrc": "UKCVA1900896"
+  },
+  {
+    "title": "New Life",
+    "artist": "Resonance Room",
+    "isrc": "ITD241308804"
+  },
+  {
+    "title": "Beginning of Ruin",
+    "artist": "Mourn in Silence",
+    "isrc": "uscgh1356428"
+  },
+  {
+    "title": "Fade to Grey",
+    "artist": "Monumentum",
+    "isrc": "DEPI82320814"
+  },
+  {
+    "title": "New Year's Day - Bonus Track",
+    "artist": "Witches of Doom, Fredrik Folkare",
+    "isrc": "QMFMG1571940"
+  },
+  {
+    "title": "In The Flesh",
+    "artist": "Ensoph",
+    "isrc": "ITI290400602"
+  },
+  {
+    "title": "Vento di guerra, Pt. 1: L'uomo è il demone",
+    "artist": "Soul S Chains",
+    "isrc": "usdy41910910"
+  },
+  {
+    "title": "The Sound Of Her Wings",
+    "artist": "Entwined",
+    "isrc": "GBBPB0701017"
+  },
+  {
+    "title": "Imaginary Friend",
+    "artist": "Even Vast",
+    "isrc": "USA2P1911271"
+  },
+  {
+    "title": "Pale Blue Dot",
+    "artist": "Dismal",
+    "isrc": "ITZXI2000008"
+  },
+  {
+    "title": "Il giro di vite",
+    "artist": "Dunwich",
+    "isrc": "FR6V81861376"
+  },
+  {
+    "title": "With Or Without You",
+    "artist": "My Sixth Shadow",
+    "isrc": "uscgj0655681"
+  },
+  {
+    "title": "Inquisition",
+    "artist": "Ravenouse",
+    "isrc": "QZHN71933450"
+  },
+  {
+    "title": "Secret Lights",
+    "artist": "A Day in Venice",
+    "isrc": "TCAHX2467463"
+  },
+  {
+    "title": "The Human Zoo",
+    "artist": "A Tear Beyond",
+    "isrc": "QZK6H2010062"
+  },
+  {
+    "title": "No Place for the Heart",
+    "artist": "Abyssian",
+    "isrc": "BGA471604008"
+  },
+  {
+    "title": "Orizzonte",
+    "artist": "Alchimia",
+    "isrc": "ITL791700032"
+  },
+  {
+    "title": "Tetragrammaton",
+    "artist": "Brvmak",
+    "isrc": "USY251832693"
+  },
+  {
+    "title": "We Are The Bass",
+    "artist": "Chaosphere",
+    "isrc": "NLC059900189"
+  },
+  {
+    "title": "La Danse Macabre du Vampire",
+    "artist": "Theatres Des Vampires",
+    "isrc": "QMBZ91501972"
+  },
+  {
+    "title": "Frozen Space",
+    "artist": "Mandragora Scream",
+    "isrc": "FR6V81158150"
+  },
+  {
+    "title": "The Dark Side of My Angel",
+    "artist": "Macbeth",
+    "isrc": "USA561096436"
+  },
+  {
+    "title": "Flowers in Fire",
+    "artist": "Cadaveria",
+    "isrc": "QZ4JJ1791413"
+  },
+  {
+    "title": "New Era",
+    "artist": "Setanera",
+    "isrc": "DEKM61505484"
+  },
+  {
+    "title": "Maleventum - Original Mix",
+    "artist": "Opera IX",
+    "isrc": "GBKQU1599877"
+  },
+  {
+    "title": "Lost Words of Forgiveness",
+    "artist": "Teodasia",
+    "isrc": "uscgj1243204"
+  },
+  {
+    "title": "Umana",
+    "artist": "Novembre",
+    "isrc": "GBCQV1500396"
+  },
+  {
+    "title": "Apocalypse Fire",
+    "artist": "Godyva",
+    "isrc": "uscgh1333956"
+  },
+  {
+    "title": "Ground Zero",
+    "artist": "The Foreshadowing",
+    "isrc": "QZNWQ2367332"
+  },
+  {
+    "title": "Nothing",
+    "artist": "Walk in Darkness",
+    "isrc": "TCAFD2065563"
+  },
+  {
+    "title": "Renaissance in Blood",
+    "artist": "Graveworm",
+    "isrc": "DED830301803"
+  },
+  {
+    "title": "Our Truth",
+    "artist": "Lacuna Coil",
+    "isrc": "US4E40636003"
+  },
+  {
+    "title": "Electric Dragonfly",
+    "artist": "Domina Noctis",
+    "isrc": "ITO370800165"
+  },
+  {
+    "title": "City Of Glass",
+    "artist": "Regardless Of Me",
+    "isrc": "GBSMU7775015"
+  },
+  {
+    "title": "Spiral of Silence",
+    "artist": "Alight",
+    "isrc": "DETX21800301"
+  },
+  {
+    "title": "The Witness",
+    "artist": "Ravenscry",
+    "isrc": "FR6V82438210"
+  },
+  {
+    "title": "Don't Sleep Anymore",
+    "artist": "Sin Deadly Sin",
+    "isrc": "FR6V81224080"
+  },
+  {
+    "title": "Past Shadows",
+    "artist": "Armonight",
+    "isrc": "FR6V80768985"
+  },
+  {
+    "title": "Pride vs. Intellect",
+    "artist": "Tystnaden",
+    "isrc": "DET270609410"
+  },
+  {
+    "title": "Guiding Light",
+    "artist": "My Black Light",
+    "isrc": "ITI731000877"
+  },
+  {
+    "title": "Song to Eros",
+    "artist": "Lenore S. Fingers",
+    "isrc": "ITD241409706"
+  },
+  {
+    "title": "Forbidden Tales",
+    "artist": "Evenfall",
+    "isrc": "GBDHC0502661"
+  },
+  {
+    "title": "The Inner Shrine",
+    "artist": "Inner Shrine",
+    "isrc": "It0500412302"
+  },
+  {
+    "title": "Dust Once Alive",
+    "artist": "Cultus Sanguine",
+    "isrc": "CH6542360137"
+  },
+  {
+    "title": "Rebirth",
+    "artist": "Tothem",
+    "isrc": "uscgj2074537"
+  },
+  {
+    "title": "Little Suicide",
+    "artist": "The Lovecrave",
+    "isrc": "DES130600033"
+  },
+  {
+    "title": "On My Skin",
+    "artist": "Silentlie",
+    "isrc": "IT8SF2200050"
+  },
+  {
+    "title": "Thou Mayst in Mee Behold",
+    "artist": "Crown of Autumn",
+    "isrc": "ITD241107407"
+  },
+  {
+    "title": "The Evil's Origin (Strigoi Pt. II)",
+    "artist": "Lord Vampyr",
+    "isrc": "USY252145702"
+  },
+  {
+    "title": "A-Maze",
+    "artist": "Revenience",
+    "isrc": "ITN581520875"
+  }
+]

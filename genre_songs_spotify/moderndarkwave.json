@@ -1,0 +1,762 @@
+[
+  {
+    "title": "Dream House",
+    "artist": "European Ghost",
+    "isrc": "TCADS1818454"
+  },
+  {
+    "title": "This Violence",
+    "artist": "IAMTHESHADOW",
+    "isrc": "TCADL1858814"
+  },
+  {
+    "title": "Sad Bodies",
+    "artist": "Shad Shadows",
+    "isrc": "QZK6N2083113"
+  },
+  {
+    "title": "I Am the Ghost",
+    "artist": "Slow Danse With the Dead",
+    "isrc": "QZK6F2032526"
+  },
+  {
+    "title": "Lamb",
+    "artist": "Terminal Serious",
+    "isrc": "ITR892100061"
+  },
+  {
+    "title": "Endless Ending",
+    "artist": "The Cold Field",
+    "isrc": "AUB2N2100001"
+  },
+  {
+    "title": "Garden of Lies",
+    "artist": "Grey Gallows",
+    "isrc": "usx9p2014663"
+  },
+  {
+    "title": "She Walks Away",
+    "artist": "This Eternal Decay, Hapax",
+    "isrc": "FRX872103103"
+  },
+  {
+    "title": "Neglected Synapses",
+    "artist": "Pulsations",
+    "isrc": "QZHN42182165"
+  },
+  {
+    "title": "Fallout",
+    "artist": "Social Station",
+    "isrc": "TCAGL2284580"
+  },
+  {
+    "title": "No fear",
+    "artist": "Ohne Nomen",
+    "isrc": "QM7282301199"
+  },
+  {
+    "title": "Crimson",
+    "artist": "Claustraphobia",
+    "isrc": "QZNWV2183754"
+  },
+  {
+    "title": "Black Lipstick",
+    "artist": "Deus Ex Lumina",
+    "isrc": "GX38U2364095"
+  },
+  {
+    "title": "Fuck Like Me",
+    "artist": "Death Loves Veronica, Veronica Campbell",
+    "isrc": "QZMEN2152107"
+  },
+  {
+    "title": "Into the Beyond",
+    "artist": "Echoberyl",
+    "isrc": "TCAFA2073929"
+  },
+  {
+    "title": "Murder's Prayer",
+    "artist": "Neila Invo",
+    "isrc": "usdy42112501"
+  },
+  {
+    "title": "Call My Name",
+    "artist": "Reflection Black",
+    "isrc": "ushm22130258"
+  },
+  {
+    "title": "Flesh",
+    "artist": "Stridulum",
+    "isrc": "GXBDS2327238"
+  },
+  {
+    "title": "Hold & Dissolve",
+    "artist": "Bootblacks",
+    "isrc": "QM6P41735251"
+  },
+  {
+    "title": "Bitter End",
+    "artist": "Hallows",
+    "isrc": "QZHN72301178"
+  },
+  {
+    "title": "Research on Fatigue",
+    "artist": "Propter Hoc",
+    "isrc": "QZTAU2139281"
+  },
+  {
+    "title": "Undercover",
+    "artist": "Fall Shock",
+    "isrc": "FR9W12322465"
+  },
+  {
+    "title": "Fear Makes Violence",
+    "artist": "My Own Burial",
+    "isrc": "usl4q2214637"
+  },
+  {
+    "title": "The Color of Desire",
+    "artist": "Scene Noir",
+    "isrc": "TCAIC2458155"
+  },
+  {
+    "title": "Inmost Desire?",
+    "artist": "Kalte Nacht",
+    "isrc": "TCAEW2041940"
+  },
+  {
+    "title": "Whatever",
+    "artist": "Ill Humans",
+    "isrc": "QZDA41975014"
+  },
+  {
+    "title": "The Key",
+    "artist": "Velvet Kills",
+    "isrc": "QM4TX2013769"
+  },
+  {
+    "title": "Cendre",
+    "artist": "Denuit",
+    "isrc": "FR96X2414555"
+  },
+  {
+    "title": "Stranger Kind",
+    "artist": "Dead Cool",
+    "isrc": "uscgj2325327"
+  },
+  {
+    "title": "Was Is Will Be",
+    "artist": "Black Arcade",
+    "isrc": "usdy41894268"
+  },
+  {
+    "title": "Anoxia",
+    "artist": "Fluid Ghost",
+    "isrc": "TCAHF2383592"
+  },
+  {
+    "title": "Alcibiades",
+    "artist": "Bone Pixie",
+    "isrc": "QZHN52046546"
+  },
+  {
+    "title": "Drama",
+    "artist": "Ash Code",
+    "isrc": "ushm91423389"
+  },
+  {
+    "title": "The Only Angel - Caged Remix",
+    "artist": "Cult Of Alia",
+    "isrc": "QZHNC2147459"
+  },
+  {
+    "title": "Lost in the Light",
+    "artist": "Night Haze",
+    "isrc": "UST8K1829377"
+  },
+  {
+    "title": "Dysnomia",
+    "artist": "Psychic Guilt",
+    "isrc": "GBSMU5734561"
+  },
+  {
+    "title": "A Spooky Host",
+    "artist": "Cirque d'Ess",
+    "isrc": "uscgh2160650"
+  },
+  {
+    "title": "Persona Non Grata",
+    "artist": "Suzi Sabotage",
+    "isrc": "GBSMU8068625"
+  },
+  {
+    "title": "It's over Now",
+    "artist": "Velvet Vega",
+    "isrc": "usl4r2104716"
+  },
+  {
+    "title": "BLOODLETTING",
+    "artist": "SOFT VEIN",
+    "isrc": "QMBZ92346619"
+  },
+  {
+    "title": "In Deep",
+    "artist": "NOKTVA",
+    "isrc": "ITDHY2000001"
+  },
+  {
+    "title": "Lasher",
+    "artist": "Blood Handsome",
+    "isrc": "QM6XS2002058"
+  },
+  {
+    "title": "Paralyzed",
+    "artist": "Glaring",
+    "isrc": "GX5MX2214551"
+  },
+  {
+    "title": "She Walks in Beauty",
+    "artist": "Kriistal Ann",
+    "isrc": "GBSMU5443106"
+  },
+  {
+    "title": "Bloody Eyes",
+    "artist": "Schrödinger",
+    "isrc": "usl4r2014121"
+  },
+  {
+    "title": "Your Funeral",
+    "artist": "Prudence",
+    "isrc": "usl4q1876435"
+  },
+  {
+    "title": "Raindrops",
+    "artist": "Corlyx, Massive Ego",
+    "isrc": "DEBZ72200022"
+  },
+  {
+    "title": "À Contrecoeur",
+    "artist": "Hante.",
+    "isrc": "SEYOK1644734"
+  },
+  {
+    "title": "Facade",
+    "artist": "Yama Uba",
+    "isrc": "QZWFK2304398"
+  },
+  {
+    "title": "Relief/Relive",
+    "artist": "The Ending Nights",
+    "isrc": "QMDA62133692"
+  },
+  {
+    "title": "You Are the One",
+    "artist": "Clone Culture",
+    "isrc": "uscgh2069709"
+  },
+  {
+    "title": "Opaque",
+    "artist": "Terror Forms",
+    "isrc": "QZHN62040369"
+  },
+  {
+    "title": "Please Stay",
+    "artist": "Haunt Me",
+    "isrc": "QZHNB2298689"
+  },
+  {
+    "title": "Into the Sun",
+    "artist": "Casket Cassette",
+    "isrc": "QZK6J2276152"
+  },
+  {
+    "title": "Hammershøi assassiné",
+    "artist": "Hammershøi",
+    "isrc": "uscgj2167857"
+  },
+  {
+    "title": "False Consciousness",
+    "artist": "Camlann",
+    "isrc": "RUA3R2327947"
+  },
+  {
+    "title": "Distant Dreaming",
+    "artist": "Scyr",
+    "isrc": "uscgh2186142"
+  },
+  {
+    "title": "Nasha",
+    "artist": "Aurat",
+    "isrc": "SEYOK2015413"
+  },
+  {
+    "title": "tensions",
+    "artist": "Nass Zuruck",
+    "isrc": "QZDA52334833"
+  },
+  {
+    "title": "Waste Away",
+    "artist": "Closed Tear",
+    "isrc": "QZDA42176595"
+  },
+  {
+    "title": "Deprived",
+    "artist": "Totengeläut",
+    "isrc": "DELJ81810206"
+  },
+  {
+    "title": "Dream",
+    "artist": "Flesh of Morning",
+    "isrc": "QZES62134016"
+  },
+  {
+    "title": "Wild World",
+    "artist": "Days of Sorrow",
+    "isrc": "DELJ81895741"
+  },
+  {
+    "title": "Modern",
+    "artist": "Paar",
+    "isrc": "DEXN81800239"
+  },
+  {
+    "title": "Midnight & Angel",
+    "artist": "Matte Blvck",
+    "isrc": "QZMEP2224520"
+  },
+  {
+    "title": "A Stab of Loneliness",
+    "artist": "Denner",
+    "isrc": "FRPAM2100020"
+  },
+  {
+    "title": "Deine Nase Meine Hand",
+    "artist": "Bendi Boi",
+    "isrc": "QZFZ22226092"
+  },
+  {
+    "title": "Chaos Reigns",
+    "artist": "Aspect Noir",
+    "isrc": "usl4r2104708"
+  },
+  {
+    "title": "This Night",
+    "artist": "God in a Black Suit",
+    "isrc": "ushm22323595"
+  },
+  {
+    "title": "Another Closing Door",
+    "artist": "Ropes Of Night",
+    "isrc": "DEGM92100205"
+  },
+  {
+    "title": "Letting Go",
+    "artist": "Qyburn",
+    "isrc": "QZTBE2335357"
+  },
+  {
+    "title": "Helena",
+    "artist": "Ruin Of Romantics",
+    "isrc": "TCAFH2032141"
+  },
+  {
+    "title": "Szczodre Gody - Romance Disaster Remix",
+    "artist": "Mala Herba, Romance Disaster",
+    "isrc": "QM4TX2177723"
+  },
+  {
+    "title": "Bowie in Daydreams",
+    "artist": "Astari Nite",
+    "isrc": "USY252209220"
+  },
+  {
+    "title": "Apparition",
+    "artist": "Life Cult",
+    "isrc": "QZNWT2177658"
+  },
+  {
+    "title": "Preset",
+    "artist": "European Ghost",
+    "isrc": "ITJ501700181"
+  },
+  {
+    "title": "There is Nothing More to See (The Frozen Autumn Remix)",
+    "artist": "IAMTHESHADOW, The Frozen Autumn",
+    "isrc": "QMDA72134169"
+  },
+  {
+    "title": "Nocturnal",
+    "artist": "Shad Shadows",
+    "isrc": "QZES61891556"
+  },
+  {
+    "title": "He Speaks Too Much",
+    "artist": "Slow Danse With the Dead",
+    "isrc": "QZHN82048505"
+  },
+  {
+    "title": "New Jail",
+    "artist": "Terminal Serious",
+    "isrc": "ITR892100069"
+  },
+  {
+    "title": "All Alone",
+    "artist": "The Cold Field",
+    "isrc": "QM4TX2480116"
+  },
+  {
+    "title": "Dying Light (ACTORS Remix)",
+    "artist": "Grey Gallows, ACTORS",
+    "isrc": "QM6MZ2300222"
+  },
+  {
+    "title": "Love+Curse",
+    "artist": "This Eternal Decay",
+    "isrc": "FR59R2343969"
+  },
+  {
+    "title": "Delusional Paragon",
+    "artist": "Pulsations",
+    "isrc": "QZES62316277"
+  },
+  {
+    "title": "The Wake",
+    "artist": "Social Station",
+    "isrc": "TCAGS2212838"
+  },
+  {
+    "title": "My Body is moving",
+    "artist": "Ohne Nomen",
+    "isrc": "QM7282301189"
+  },
+  {
+    "title": "Give Me The Poison",
+    "artist": "Claustraphobia",
+    "isrc": "QZDA42324569"
+  },
+  {
+    "title": "Burn",
+    "artist": "Death Loves Veronica",
+    "isrc": "uscgj2186209"
+  },
+  {
+    "title": "Save Yourself - Demo",
+    "artist": "Deus Ex Lumina",
+    "isrc": "GBSMU8532184"
+  },
+  {
+    "title": "Doll Heart",
+    "artist": "Echoberyl",
+    "isrc": "TCAIE2410087"
+  },
+  {
+    "title": "B.P.D",
+    "artist": "Neila Invo",
+    "isrc": "USCGJ2427656"
+  },
+  {
+    "title": "No Stars In The Sky",
+    "artist": "Reflection Black",
+    "isrc": "uscgh2303466"
+  },
+  {
+    "title": "Refugium",
+    "artist": "Stridulum",
+    "isrc": "GXBDS2325682"
+  },
+  {
+    "title": "Forbidden Flames",
+    "artist": "Bootblacks",
+    "isrc": "QMDA72336564"
+  },
+  {
+    "title": "In a Sleeping World",
+    "artist": "Hallows",
+    "isrc": "QZFZ42015432"
+  },
+  {
+    "title": "Ask Dr. Mueller",
+    "artist": "Propter Hoc",
+    "isrc": "QZFZ22354898"
+  },
+  {
+    "title": "Feels Eternal",
+    "artist": "Fall Shock",
+    "isrc": "DEP551914916"
+  },
+  {
+    "title": "Fresh Flesh",
+    "artist": "My Own Burial",
+    "isrc": "ESA011996265"
+  },
+  {
+    "title": "Black Wedding Day",
+    "artist": "Scene Noir",
+    "isrc": "TCAHG2390557"
+  },
+  {
+    "title": "Humans Are Mistakes",
+    "artist": "Kalte Nacht",
+    "isrc": "TCAEW2041883"
+  },
+  {
+    "title": "Luster",
+    "artist": "Ill Humans",
+    "isrc": "QZFZ72262717"
+  },
+  {
+    "title": "Bitch Face",
+    "artist": "Velvet Kills",
+    "isrc": "QM4TX2013765"
+  },
+  {
+    "title": "Skeletons",
+    "artist": "Denuit",
+    "isrc": "FR9W12324846"
+  },
+  {
+    "title": "Nothing but Us",
+    "artist": "Dead Cool",
+    "isrc": "uscgh2161666"
+  },
+  {
+    "title": "Mechanical Soul",
+    "artist": "Black Arcade",
+    "isrc": "ushm21683030"
+  },
+  {
+    "title": "Forbidden",
+    "artist": "Fluid Ghost",
+    "isrc": "TCAFX2162776"
+  },
+  {
+    "title": "Nail in the Coffin",
+    "artist": "Bone Pixie",
+    "isrc": "QZTB32335361"
+  },
+  {
+    "title": "Dry Your Eyes",
+    "artist": "Ash Code",
+    "isrc": "ushm91423384"
+  },
+  {
+    "title": "A Voice Inside",
+    "artist": "Cult Of Alia",
+    "isrc": "QZNWW2039847"
+  },
+  {
+    "title": "Love Is Chaos",
+    "artist": "Night Haze",
+    "isrc": "UST8K1829375"
+  },
+  {
+    "title": "4th Floor",
+    "artist": "Psychic Guilt",
+    "isrc": "GX89G2295996"
+  },
+  {
+    "title": "Sexxxy Leah",
+    "artist": "Cirque d'Ess",
+    "isrc": "uscgh2160652"
+  },
+  {
+    "title": "Love At First Bite",
+    "artist": "Suzi Sabotage",
+    "isrc": "DEBZ72300134"
+  },
+  {
+    "title": "My Desire",
+    "artist": "Velvet Vega",
+    "isrc": "usl4r2104722"
+  },
+  {
+    "title": "LEASH",
+    "artist": "SOFT VEIN",
+    "isrc": "QMBZ92346621"
+  },
+  {
+    "title": "You Left Me Hanging",
+    "artist": "NOKTVA",
+    "isrc": "ITDHY2000002"
+  },
+  {
+    "title": "Don't Let Me Go",
+    "artist": "Blood Handsome",
+    "isrc": "QZHN92247465"
+  },
+  {
+    "title": "Fall of Misery",
+    "artist": "Kriistal Ann, Schönwald",
+    "isrc": "DEGQ81604743"
+  },
+  {
+    "title": "Consciousness",
+    "artist": "Glaring",
+    "isrc": "GX5MX2214554"
+  },
+  {
+    "title": "Last Night",
+    "artist": "Schrödinger",
+    "isrc": "usl4r2014124"
+  },
+  {
+    "title": "Her Desire",
+    "artist": "Prudence",
+    "isrc": "usl4q1876436"
+  },
+  {
+    "title": "Wasted And Alone",
+    "artist": "Corlyx",
+    "isrc": "DEBZ72300159"
+  },
+  {
+    "title": "Lies//Light",
+    "artist": "Hante.",
+    "isrc": "SEYOK1727168"
+  },
+  {
+    "title": "Isolation",
+    "artist": "Yama Uba",
+    "isrc": "QZHN82274073"
+  },
+  {
+    "title": "A Landscape to Die",
+    "artist": "The Ending Nights",
+    "isrc": "QMFMF2102909"
+  },
+  {
+    "title": "Feed Me Tonight",
+    "artist": "Clone Culture",
+    "isrc": "uscgh2069701"
+  },
+  {
+    "title": "Lost Highway",
+    "artist": "European Ghost",
+    "isrc": "ITJ501700183"
+  },
+  {
+    "title": "Draw a Line",
+    "artist": "IAMTHESHADOW",
+    "isrc": "TCADL1858716"
+  },
+  {
+    "title": "DESTROY",
+    "artist": "Shad Shadows",
+    "isrc": "QZFZ42271394"
+  },
+  {
+    "title": "Awaiting My Death",
+    "artist": "Slow Danse With the Dead",
+    "isrc": "QZES82062437"
+  },
+  {
+    "title": "Burdened with Usury",
+    "artist": "Terminal Serious",
+    "isrc": "USCGJ2492348"
+  },
+  {
+    "title": "Quiet on the border",
+    "artist": "The Cold Field",
+    "isrc": "QMBZ92323865"
+  },
+  {
+    "title": "Dying Light",
+    "artist": "Grey Gallows",
+    "isrc": "QMDA62215814"
+  },
+  {
+    "title": "No Apologies",
+    "artist": "This Eternal Decay",
+    "isrc": "FRX872103098"
+  },
+  {
+    "title": "Reckless Son",
+    "artist": "Pulsations",
+    "isrc": "QZES62316276"
+  },
+  {
+    "title": "Until Today Is Tomorrow",
+    "artist": "Social Station",
+    "isrc": "QMAAK1690289"
+  },
+  {
+    "title": "Cold Sadness",
+    "artist": "Ohne Nomen",
+    "isrc": "QM7282301202"
+  },
+  {
+    "title": "Death Wish",
+    "artist": "Claustraphobia",
+    "isrc": "QZTB22213762"
+  },
+  {
+    "title": "Addicted To Your Pain",
+    "artist": "Deus Ex Lumina",
+    "isrc": "GX8LD2323416"
+  },
+  {
+    "title": "The Sinner",
+    "artist": "Death Loves Veronica",
+    "isrc": "uscgj2186218"
+  },
+  {
+    "title": "Salome (Suffer Me)",
+    "artist": "Echoberyl",
+    "isrc": "TCAFR2138329"
+  },
+  {
+    "title": "Bright and Tempting",
+    "artist": "Neila Invo",
+    "isrc": "usl4q2123750"
+  },
+  {
+    "title": "I Ran (So Far Away)",
+    "artist": "Reflection Black",
+    "isrc": "usdy42209647"
+  },
+  {
+    "title": "Fear",
+    "artist": "Stridulum",
+    "isrc": "GX5MY2143144"
+  },
+  {
+    "title": "Hidden Things",
+    "artist": "Bootblacks",
+    "isrc": "QM6MZ1999469"
+  },
+  {
+    "title": "Things That Hurt",
+    "artist": "Hallows",
+    "isrc": "QZHN72301177"
+  },
+  {
+    "title": "Immortelle",
+    "artist": "Propter Hoc",
+    "isrc": "QMFMG2350161"
+  },
+  {
+    "title": "Protect",
+    "artist": "Fall Shock",
+    "isrc": "FR9W12322459"
+  },
+  {
+    "title": "Boiling Rain",
+    "artist": "My Own Burial",
+    "isrc": "ESA011996262"
+  },
+  {
+    "title": "She Lives at Night",
+    "artist": "Scene Noir",
+    "isrc": "TCAHG2314771"
+  },
+  {
+    "title": "The Last Breath",
+    "artist": "Kalte Nacht",
+    "isrc": "QM4TX2482773"
+  },
+  {
+    "title": "Lonely Soulmates",
+    "artist": "Ill Humans",
+    "isrc": "QZHN91989819"
+  }
+]

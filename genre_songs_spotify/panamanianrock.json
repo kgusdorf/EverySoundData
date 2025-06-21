@@ -1,0 +1,912 @@
+[
+  {
+    "title": "Desliz",
+    "artist": "Factor VIII",
+    "isrc": "TCADE1720247"
+  },
+  {
+    "title": "Trágate Esta Canción Para El Dolor",
+    "artist": "Polyphase",
+    "isrc": "ushm80954265"
+  },
+  {
+    "title": "Gracias, Atte. Yo",
+    "artist": "TMV",
+    "isrc": "ushm91382378"
+  },
+  {
+    "title": "Dicen Que Estoy Loco",
+    "artist": "MD",
+    "isrc": "TCABU1489767"
+  },
+  {
+    "title": "Ave Espacial",
+    "artist": "Pepe Bahia",
+    "isrc": "usdy41594714"
+  },
+  {
+    "title": "Comejen",
+    "artist": "Los Guayas",
+    "isrc": "TCADH1796791"
+  },
+  {
+    "title": "Si Sabes lo que quieres",
+    "artist": "Los 33",
+    "isrc": "ushm20926251"
+  },
+  {
+    "title": "Procura",
+    "artist": "EX-NOVIOS",
+    "isrc": "uscgj1675280"
+  },
+  {
+    "title": "Ay Ay Ay",
+    "artist": "Carlos Méndez, Andrea Echeverri",
+    "isrc": "GBLFP1865176"
+  },
+  {
+    "title": "Lágrimas De Sangre",
+    "artist": "Xantos Jorge",
+    "isrc": "RUA1H2086460"
+  },
+  {
+    "title": "Me Guío por los Signos",
+    "artist": "Instinto",
+    "isrc": "ushm81824107"
+  },
+  {
+    "title": "La 16",
+    "artist": "Out-Reazon, Ian Pascod",
+    "isrc": "MX3741400811"
+  },
+  {
+    "title": "Maryhen",
+    "artist": "Big Fat Hen",
+    "isrc": "uscgh0532671"
+  },
+  {
+    "title": "Chica Punk Rock",
+    "artist": "2 Huevos 1 Camino",
+    "isrc": "QZK6P1996061"
+  },
+  {
+    "title": "Desconéctate",
+    "artist": "Sana Capital, Lilo Sanchez",
+    "isrc": "ARC851900099"
+  },
+  {
+    "title": "Chance",
+    "artist": "Llevarte a Marte",
+    "isrc": "GBMA21862661"
+  },
+  {
+    "title": "Dìa Normal",
+    "artist": "Calibre 57",
+    "isrc": "TCADB1794310"
+  },
+  {
+    "title": "El Cambio",
+    "artist": "Radicales Libres",
+    "isrc": "QZAPG1855535"
+  },
+  {
+    "title": "Hoy",
+    "artist": "TVRBO",
+    "isrc": "USHM22428461"
+  },
+  {
+    "title": "Injusto",
+    "artist": "Orquesta Garash, Juan Cirerol",
+    "isrc": "ushm81976610"
+  },
+  {
+    "title": "Trippy Beach",
+    "artist": "Entre Nos",
+    "isrc": "USMH92396874"
+  },
+  {
+    "title": "Invasion",
+    "artist": "Cabeza de Martillo",
+    "isrc": "GBSMU5638378"
+  },
+  {
+    "title": "Life in the Tropics",
+    "artist": "Cienfue",
+    "isrc": "ushm91896608"
+  },
+  {
+    "title": "El Vicio Perfecto",
+    "artist": "Filtro Medusa",
+    "isrc": "ushm80634199"
+  },
+  {
+    "title": "Escenario",
+    "artist": "Rencilla",
+    "isrc": "ushm20844691"
+  },
+  {
+    "title": "Ganas de Verte",
+    "artist": "Son Miserables",
+    "isrc": "usdy41575000"
+  },
+  {
+    "title": "Quitter",
+    "artist": "Lemmiwinks",
+    "isrc": "QZNWZ2025741"
+  },
+  {
+    "title": "Realidad",
+    "artist": "DVRSO",
+    "isrc": "QZK6N2405590"
+  },
+  {
+    "title": "Todo Es Proceso",
+    "artist": "Hellouw",
+    "isrc": "USX9P2378545"
+  },
+  {
+    "title": "Lo Que Hay",
+    "artist": "Señor Loop",
+    "isrc": "QMHW51300009"
+  },
+  {
+    "title": "Otra Vez",
+    "artist": "F.I.M.",
+    "isrc": "QZFYX1911087"
+  },
+  {
+    "title": "Después de Todo",
+    "artist": "Les Indigents",
+    "isrc": "GBLFP2320394"
+  },
+  {
+    "title": "Wolverine Blues",
+    "artist": "Lilo Sanchez",
+    "isrc": "ushm81866961"
+  },
+  {
+    "title": "Jesucristo Me Toco - En Vivo",
+    "artist": "Os Almirantes, Los Rabanes",
+    "isrc": "QZMZ92063581"
+  },
+  {
+    "title": "Dónde Está el Mañana",
+    "artist": "Walbert S.A.",
+    "isrc": "uscgj1979216"
+  },
+  {
+    "title": "Hearts and Stars",
+    "artist": "Cage9",
+    "isrc": "uscgh0544573"
+  },
+  {
+    "title": "Música Caliza",
+    "artist": "Diez 12",
+    "isrc": "ushm21712065"
+  },
+  {
+    "title": "El Traficante",
+    "artist": "Caras de Hambre",
+    "isrc": "ushm22223569"
+  },
+  {
+    "title": "No Me Arrepiento",
+    "artist": "Los Vegas",
+    "isrc": "USDY42401567"
+  },
+  {
+    "title": "A Prueba de Balas",
+    "artist": "VILE",
+    "isrc": "ushm81709161"
+  },
+  {
+    "title": "Un País de Abrazos",
+    "artist": "Javier Medina Bernal, Ivan Barrios",
+    "isrc": "ushm21813443"
+  },
+  {
+    "title": "El derramo su amor por ti",
+    "artist": "Oceano",
+    "isrc": "USCGH1298250"
+  },
+  {
+    "title": "Benzo",
+    "artist": "ITALICS",
+    "isrc": "usdy41692880"
+  },
+  {
+    "title": "Cada Día",
+    "artist": "ReyBenz, I Nesta",
+    "isrc": "GBMA22039917"
+  },
+  {
+    "title": "Mentes Egoístas",
+    "artist": "Metheora",
+    "isrc": "ushm91915797"
+  },
+  {
+    "title": "Señorita a Mi Me Gusta Su Style",
+    "artist": "Los Rabanes",
+    "isrc": "NLB630070002"
+  },
+  {
+    "title": "Gate to Love",
+    "artist": "Flipao",
+    "isrc": "QZANL1744599"
+  },
+  {
+    "title": "Chancho",
+    "artist": "Tiburón Amarillo",
+    "isrc": "USDY42451392"
+  },
+  {
+    "title": "Lince Sonico",
+    "artist": "Los Flasheros",
+    "isrc": "uscgj0808826"
+  },
+  {
+    "title": "Mi Revolver",
+    "artist": "Lucyfernandez",
+    "isrc": "ushm81343154"
+  },
+  {
+    "title": "Dicen Que A Ti",
+    "artist": "Los Yegüeros",
+    "isrc": "ushm21000163"
+  },
+  {
+    "title": "Los Amigos",
+    "artist": "El Papo Vecino",
+    "isrc": "usl4q1768766"
+  },
+  {
+    "title": "Love Is a Dog from Hell",
+    "artist": "Solo Sánchez, Flipao, Lilo Sanchez",
+    "isrc": "uscgh1830537"
+  },
+  {
+    "title": "Seconds To Go",
+    "artist": "Stone Sonora",
+    "isrc": "usl4r2227634"
+  },
+  {
+    "title": "Peregrino II: Decepción",
+    "artist": "Hacienda Libre",
+    "isrc": "CAGOO2362893"
+  },
+  {
+    "title": "Profiláctico",
+    "artist": "Sektor3",
+    "isrc": "QZMEM2067052"
+  },
+  {
+    "title": "Siempre",
+    "artist": "Nomada Sur",
+    "isrc": "USCGH1769314"
+  },
+  {
+    "title": "Los Recuerdos de Mi Vida - Versión Acústica",
+    "artist": "Ivan Barrios",
+    "isrc": "UKXN22068916"
+  },
+  {
+    "title": "Tus Ojos",
+    "artist": "Dozel",
+    "isrc": "uscgh1736493"
+  },
+  {
+    "title": "Reset",
+    "artist": "Calidonians",
+    "isrc": "QZFZ72154106"
+  },
+  {
+    "title": "Vergüenza",
+    "artist": "5 Gramos, Porretas",
+    "isrc": "usl4r2139175"
+  },
+  {
+    "title": "Vacílalo",
+    "artist": "Panta Rey",
+    "isrc": "uscgh2338966"
+  },
+  {
+    "title": "Sin salida",
+    "artist": "A Closer Ending",
+    "isrc": "GB-SMU-42-26665"
+  },
+  {
+    "title": "...Y En El 69 Pisamos La Luna...",
+    "artist": "Gonzalo Horna",
+    "isrc": "uscgh0806532"
+  },
+  {
+    "title": "Llorarás",
+    "artist": "Raster",
+    "isrc": "TCADP1892384"
+  },
+  {
+    "title": "Miel",
+    "artist": "Alfredo Gasnell",
+    "isrc": "QZTAU2395000"
+  },
+  {
+    "title": "Mente Skinhead",
+    "artist": "Grand Malota",
+    "isrc": "QZES81972758"
+  },
+  {
+    "title": "Vinegar",
+    "artist": "Gargage",
+    "isrc": "usdy41762213"
+  },
+  {
+    "title": "A Kilómetros De Aquí",
+    "artist": "Pay",
+    "isrc": "TCAFF2034702"
+  },
+  {
+    "title": "Salida",
+    "artist": "Grannada",
+    "isrc": "GB-SMU-22-60709"
+  },
+  {
+    "title": "Vivo de la Musica",
+    "artist": "Radio Metropoliz, El Kid, Cienfue, Rasta Lloyd",
+    "isrc": "ushm81847440"
+  },
+  {
+    "title": "Vida Efimera",
+    "artist": "Shoked",
+    "isrc": "uscgj1740310"
+  },
+  {
+    "title": "Pink Sugar Cloud",
+    "artist": "Clouded Skies",
+    "isrc": "usdy41867124"
+  },
+  {
+    "title": "Urge el Amor",
+    "artist": "Los Timidos",
+    "isrc": "GBBFT9100027"
+  },
+  {
+    "title": "Santería",
+    "artist": "Los Doberman",
+    "isrc": "ARC851400006"
+  },
+  {
+    "title": "Love War",
+    "artist": "Mabi",
+    "isrc": "GBKEZ1209204"
+  },
+  {
+    "title": "Contigo Estare",
+    "artist": "2 Con 8",
+    "isrc": "usdy41765700"
+  },
+  {
+    "title": "Mil Razones",
+    "artist": "Sinestesia 507",
+    "isrc": "USQY51046655"
+  },
+  {
+    "title": "Joanna",
+    "artist": "Retz",
+    "isrc": "TCACA1475570"
+  },
+  {
+    "title": "Santos y Demonios",
+    "artist": "Billy Mata Musico",
+    "isrc": "UST8K1785023"
+  },
+  {
+    "title": "Montaña Rusa",
+    "artist": "El Papo Vecino",
+    "isrc": "uscgj0808825"
+  },
+  {
+    "title": "Tras la Niebla",
+    "artist": "Fósiles Mecánicos",
+    "isrc": "usdy41765695"
+  },
+  {
+    "title": "The Lingering",
+    "artist": "Komodo",
+    "isrc": "USCGH2334315"
+  },
+  {
+    "title": "Caffeine",
+    "artist": "Laika",
+    "isrc": "TCADY1835651"
+  },
+  {
+    "title": "Colores Turquesa",
+    "artist": "Luci and the Soul Brokers",
+    "isrc": "ushm91757504"
+  },
+  {
+    "title": "Plan Ancestral",
+    "artist": "Nightwalkers",
+    "isrc": "ushm92152944"
+  },
+  {
+    "title": "Lagarto",
+    "artist": "Oxidant",
+    "isrc": "TCACK1532971"
+  },
+  {
+    "title": "Vampiro Abstemio",
+    "artist": "Peso Neto",
+    "isrc": "usdy41765687"
+  },
+  {
+    "title": "Presidio",
+    "artist": "Tierra de Nadie",
+    "isrc": "usdy41765691"
+  },
+  {
+    "title": "Kabanga",
+    "artist": "Factor VIII",
+    "isrc": "TCADE1720252"
+  },
+  {
+    "title": "Bloody Umbrella",
+    "artist": "Polyphase",
+    "isrc": "ushm80954263"
+  },
+  {
+    "title": "Male",
+    "artist": "TMV",
+    "isrc": "ushm91382385"
+  },
+  {
+    "title": "Atentamente Yo",
+    "artist": "MD",
+    "isrc": "TCABU1489751"
+  },
+  {
+    "title": "Fiori",
+    "artist": "Pepe Bahia",
+    "isrc": "usdy41594716"
+  },
+  {
+    "title": "Blancanieve",
+    "artist": "Los Guayas",
+    "isrc": "TCADH1796799"
+  },
+  {
+    "title": "Vuelve",
+    "artist": "Los 33",
+    "isrc": "ushm22076748"
+  },
+  {
+    "title": "Juega Vivo Buay",
+    "artist": "EX-NOVIOS",
+    "isrc": "usdy41871771"
+  },
+  {
+    "title": "Capa love",
+    "artist": "Carlos Méndez",
+    "isrc": "GBLFP1865186"
+  },
+  {
+    "title": "Estrellas De Hielo",
+    "artist": "Xantos Jorge",
+    "isrc": "RUA1H2086463"
+  },
+  {
+    "title": "Rozando el Cielo",
+    "artist": "Instinto",
+    "isrc": "ushm81824110"
+  },
+  {
+    "title": "A quien concierne",
+    "artist": "Out-Reazon",
+    "isrc": "MX3741400808"
+  },
+  {
+    "title": "Somos Panameños (remix)",
+    "artist": "Big Fat Hen",
+    "isrc": "uscgh0532726"
+  },
+  {
+    "title": "Verdugo",
+    "artist": "2 Huevos 1 Camino",
+    "isrc": "QZK6P1996070"
+  },
+  {
+    "title": "La Llamada",
+    "artist": "Sana Capital, Carlos Méndez",
+    "isrc": "ARC851900076"
+  },
+  {
+    "title": "Las Nubes Sangran",
+    "artist": "Llevarte a Marte",
+    "isrc": "GBMA21862403"
+  },
+  {
+    "title": "Los Borrachos",
+    "artist": "Calibre 57",
+    "isrc": "TCADB1794318"
+  },
+  {
+    "title": "La Misma Mierda de Siempre",
+    "artist": "Radicales Libres",
+    "isrc": "QZDA51865854"
+  },
+  {
+    "title": "Tripolar",
+    "artist": "TVRBO",
+    "isrc": "uscgj1652393"
+  },
+  {
+    "title": "Mudando Piel",
+    "artist": "Orquesta Garash",
+    "isrc": "usx9p1238590"
+  },
+  {
+    "title": "El Verdugo",
+    "artist": "Cabeza de Martillo",
+    "isrc": "uscgj2139752"
+  },
+  {
+    "title": "Aprendiendo a Respirar",
+    "artist": "Entre Nos",
+    "isrc": "USMH92396871"
+  },
+  {
+    "title": "Oscuro Corazón",
+    "artist": "Filtro Medusa",
+    "isrc": "ushm80634198"
+  },
+  {
+    "title": "Habito",
+    "artist": "Rencilla",
+    "isrc": "ushm20844697"
+  },
+  {
+    "title": "Mírame (En Vivo)",
+    "artist": "Son Miserables",
+    "isrc": "uscgj1740561"
+  },
+  {
+    "title": "Corpus Christi",
+    "artist": "Lemmiwinks",
+    "isrc": "QZHN72485870"
+  },
+  {
+    "title": "Shining in the Dark",
+    "artist": "Cienfue",
+    "isrc": "uscgj1945128"
+  },
+  {
+    "title": "La Cruz",
+    "artist": "DVRSO",
+    "isrc": "QZNWU2192127"
+  },
+  {
+    "title": "Cactus",
+    "artist": "Hellouw",
+    "isrc": "USCGH2418059"
+  },
+  {
+    "title": "Jazz Fest",
+    "artist": "Señor Loop",
+    "isrc": "PACU21900005"
+  },
+  {
+    "title": "Sirenas",
+    "artist": "F.I.M.",
+    "isrc": "QZFYX1911085"
+  },
+  {
+    "title": "No Quiero Olvidarte",
+    "artist": "Les Indigents",
+    "isrc": "GBLFP2320395"
+  },
+  {
+    "title": "Candanga",
+    "artist": "Lilo Sanchez",
+    "isrc": "uscgj1808563"
+  },
+  {
+    "title": "Hola Mami",
+    "artist": "Os Almirantes",
+    "isrc": "US7VG1855215"
+  },
+  {
+    "title": "Luna Llena",
+    "artist": "Walbert S.A.",
+    "isrc": "uscgj1979218"
+  },
+  {
+    "title": "Rimas Nuevas",
+    "artist": "Diez 12",
+    "isrc": "ushm91848050"
+  },
+  {
+    "title": "Anarquia para Todos",
+    "artist": "Caras de Hambre",
+    "isrc": "ushm22189128"
+  },
+  {
+    "title": "Dead Letter",
+    "artist": "Cage9",
+    "isrc": "uscgh0544577"
+  },
+  {
+    "title": "Algunas Veces",
+    "artist": "Los Vegas",
+    "isrc": "USX9P2300438"
+  },
+  {
+    "title": "A Fuego Lento",
+    "artist": "VILE",
+    "isrc": "usdy41913952"
+  },
+  {
+    "title": "Tu Pecho Es Mi Hogar",
+    "artist": "Javier Medina Bernal",
+    "isrc": "ushm21681314"
+  },
+  {
+    "title": "I'd Rather Die Like a Viking",
+    "artist": "ITALICS",
+    "isrc": "usdy41807457"
+  },
+  {
+    "title": "Lejos de ti",
+    "artist": "ReyBenz, Dj Paunch",
+    "isrc": "SE62M2237934"
+  },
+  {
+    "title": "Te Lo Digo - 2021 Remasterizado",
+    "artist": "Oceano",
+    "isrc": "USCGJ2245687"
+  },
+  {
+    "title": "Campanas",
+    "artist": "Metheora",
+    "isrc": "ushm22330847"
+  },
+  {
+    "title": "Panama 1989",
+    "artist": "Flipao",
+    "isrc": "QZDA52020958"
+  },
+  {
+    "title": "Prieta Soledad",
+    "artist": "Tiburón Amarillo",
+    "isrc": "usdy41752116"
+  },
+  {
+    "title": "Invasión de los Zombies III",
+    "artist": "Los Flasheros",
+    "isrc": "QZES61909811"
+  },
+  {
+    "title": "Perfidia",
+    "artist": "Los Rabanes",
+    "isrc": "NLB630070003"
+  },
+  {
+    "title": "Victor",
+    "artist": "Lucyfernandez",
+    "isrc": "ushm81343156"
+  },
+  {
+    "title": "La Conocí en Tonosí",
+    "artist": "Los Yegüeros",
+    "isrc": "ushm21000171"
+  },
+  {
+    "title": "Ecosabotaje",
+    "artist": "El Papo Vecino",
+    "isrc": "usl4q1768767"
+  },
+  {
+    "title": "Perdon",
+    "artist": "Solo Sánchez",
+    "isrc": "usdy41896213"
+  },
+  {
+    "title": "The Call",
+    "artist": "Stone Sonora",
+    "isrc": "usl4r2227627"
+  },
+  {
+    "title": "Peregrino III: Reflejo",
+    "artist": "Hacienda Libre",
+    "isrc": "USDY42423712"
+  },
+  {
+    "title": "Recuerdos",
+    "artist": "Sektor3",
+    "isrc": "QZFZ42058612"
+  },
+  {
+    "title": "Firme",
+    "artist": "Nomada Sur",
+    "isrc": "USCGH1769310"
+  },
+  {
+    "title": "Luz de Día",
+    "artist": "Ivan Barrios",
+    "isrc": "USCGH1188816"
+  },
+  {
+    "title": "Ceguera",
+    "artist": "Dozel",
+    "isrc": "uscgh1736494"
+  },
+  {
+    "title": "Smash",
+    "artist": "Calidonians",
+    "isrc": "ushm81927639"
+  },
+  {
+    "title": "Jugando a las Guerras",
+    "artist": "5 Gramos",
+    "isrc": "usl4r2139184"
+  },
+  {
+    "title": "Bonsái",
+    "artist": "Panta Rey",
+    "isrc": "uscgh1827921"
+  },
+  {
+    "title": "Agenda",
+    "artist": "Factor VIII",
+    "isrc": "TCADE1720225"
+  },
+  {
+    "title": "Dansu",
+    "artist": "Polyphase",
+    "isrc": "ushm91760622"
+  },
+  {
+    "title": "Tu Novio Suckea",
+    "artist": "TMV",
+    "isrc": "ushm91382382"
+  },
+  {
+    "title": "Enséñame a Bailar",
+    "artist": "MD",
+    "isrc": "TCADQ1893827"
+  },
+  {
+    "title": "Despegar",
+    "artist": "Pepe Bahia",
+    "isrc": "uscgj1691948"
+  },
+  {
+    "title": "Monosilabo",
+    "artist": "Los Guayas",
+    "isrc": "TCADH1796800"
+  },
+  {
+    "title": "Cosas Que Pasan",
+    "artist": "Los 33",
+    "isrc": "uscgj1574388"
+  },
+  {
+    "title": "Ciega, Sordomuda",
+    "artist": "EX-NOVIOS",
+    "isrc": "uscgj1675278"
+  },
+  {
+    "title": "Desayuno Chino",
+    "artist": "Carlos Méndez",
+    "isrc": "QMFMF1396278"
+  },
+  {
+    "title": "La Pinta",
+    "artist": "Xantos Jorge",
+    "isrc": "RUA1H2086461"
+  },
+  {
+    "title": "Grisoscuro",
+    "artist": "Instinto",
+    "isrc": "ushm81824104"
+  },
+  {
+    "title": "La venganza del último apóstol",
+    "artist": "Out-Reazon",
+    "isrc": "MX3741400807"
+  },
+  {
+    "title": "Donkey",
+    "artist": "Big Fat Hen",
+    "isrc": "uscgh0532633"
+  },
+  {
+    "title": "Mejores Cosas",
+    "artist": "2 Huevos 1 Camino",
+    "isrc": "QZK6P1996063"
+  },
+  {
+    "title": "Oracaster",
+    "artist": "Sana Capital, Aitor Iriberri",
+    "isrc": "ARC851900094"
+  },
+  {
+    "title": "Al Final del Día",
+    "artist": "Llevarte a Marte",
+    "isrc": "GBMA21862662"
+  },
+  {
+    "title": "Paradoja City",
+    "artist": "Calibre 57",
+    "isrc": "TCADB1794302"
+  },
+  {
+    "title": "Perdido en la tontería",
+    "artist": "Radicales Libres",
+    "isrc": "QZAPG1855533"
+  },
+  {
+    "title": "Gamuza",
+    "artist": "TVRBO",
+    "isrc": "QZFZ62156290"
+  },
+  {
+    "title": "Hitler",
+    "artist": "Orquesta Garash",
+    "isrc": "usx9p1238594"
+  },
+  {
+    "title": "Mente sobre Materia",
+    "artist": "Cabeza de Martillo",
+    "isrc": "USCGH2444754"
+  },
+  {
+    "title": "Ángel Eterno",
+    "artist": "Filtro Medusa",
+    "isrc": "ushm22142257"
+  },
+  {
+    "title": "Memorizarte",
+    "artist": "Entre Nos",
+    "isrc": "uscgj1775085"
+  },
+  {
+    "title": "Adrenalina - Versión 2020",
+    "artist": "Rencilla",
+    "isrc": "uscgj2090768"
+  },
+  {
+    "title": "Lógico",
+    "artist": "Lemmiwinks",
+    "isrc": "uscgh0991313"
+  },
+  {
+    "title": "Marchita la Flor",
+    "artist": "Son Miserables",
+    "isrc": "uscgj1713862"
+  },
+  {
+    "title": "Panama Verde Panama Red",
+    "artist": "Cienfue, Lilo Sanchez",
+    "isrc": "usdy41642915"
+  },
+  {
+    "title": "Cada Segundo",
+    "artist": "DVRSO",
+    "isrc": "TCAEH1918033"
+  },
+  {
+    "title": "Buenos Días Anite",
+    "artist": "Hellouw",
+    "isrc": "ushm91660240"
+  },
+  {
+    "title": "Invisible",
+    "artist": "F.I.M.",
+    "isrc": "QZDA62473970"
+  },
+  {
+    "title": "EFÍMERO (Psicosis)",
+    "artist": "Les Indigents",
+    "isrc": "GBLFP2337316"
+  }
+]

@@ -1,0 +1,752 @@
+[
+  {
+    "title": "La Caña",
+    "artist": "Chuchumbé",
+    "isrc": "ushm20662173"
+  },
+  {
+    "title": "Guacamaya",
+    "artist": "Utrera, Los",
+    "isrc": "MXF580401379"
+  },
+  {
+    "title": "El Amanecer",
+    "artist": "Son De Madera",
+    "isrc": "MXF589700187"
+  },
+  {
+    "title": "Sembrando Flores",
+    "artist": "Los Cojolites",
+    "isrc": "USQGT1200015"
+  },
+  {
+    "title": "Chiles Verdes",
+    "artist": "Grupo Mono Blanco",
+    "isrc": "MX3741300240"
+  },
+  {
+    "title": "Moliendo café",
+    "artist": "La Negra Graciana",
+    "isrc": "FRV960400030"
+  },
+  {
+    "title": "El Buscapiés",
+    "artist": "Zacamandú",
+    "isrc": "MXF600600994"
+  },
+  {
+    "title": "Son Guerrerense",
+    "artist": "Juan Reynoso",
+    "isrc": "MX2160900143"
+  },
+  {
+    "title": "Danza de los Viejitos (Danza)",
+    "artist": "Los Folkloristas",
+    "isrc": "MXF600900859"
+  },
+  {
+    "title": "El Toro Requesón",
+    "artist": "Trio Xoxocapa",
+    "isrc": "USGH80711661"
+  },
+  {
+    "title": "La Caña",
+    "artist": "Son del Centro",
+    "isrc": "ushm90690635"
+  },
+  {
+    "title": "Las Olas Del Mar",
+    "artist": "Los Parientes De Playa Vicente",
+    "isrc": "USGH80712104"
+  },
+  {
+    "title": "El fandanguito (The Little Fandango)",
+    "artist": "Los Camperos de Valles",
+    "isrc": "USSF10551202"
+  },
+  {
+    "title": "El Balajú",
+    "artist": "ARCADIO HIDALGO, Grupo Mono Blanco",
+    "isrc": "MXF017100442"
+  },
+  {
+    "title": "Las Canastas",
+    "artist": "Grupo Chicontepec",
+    "isrc": "MXF170811118"
+  },
+  {
+    "title": "Se acaba el mundo (The World is coming to an end)",
+    "artist": "Grupo Mono Blanco Y Stone Lips",
+    "isrc": "MXF589700190"
+  },
+  {
+    "title": "Danzón Afrojarocho",
+    "artist": "Patricio Hidalgo y el Afrojarocho",
+    "isrc": "FR59R1566034"
+  },
+  {
+    "title": "Trovador",
+    "artist": "Chéjere",
+    "isrc": "MXF601600344"
+  },
+  {
+    "title": "Nicte Ha (Jarana Mestiza, Yucatán)",
+    "artist": "Zazhil",
+    "isrc": "MXF601300749"
+  },
+  {
+    "title": "Balada Jarocha",
+    "artist": "Sonex",
+    "isrc": "QZHZ42029727"
+  },
+  {
+    "title": "La Morena",
+    "artist": "Laura Rebolloso, Ensamble Marinero",
+    "isrc": "QMDA71375476"
+  },
+  {
+    "title": "El Borracho",
+    "artist": "Macuilxochitl",
+    "isrc": "ushm90714542"
+  },
+  {
+    "title": "La Gallina",
+    "artist": "Son De Tres Zapotes",
+    "isrc": "MX1090910008"
+  },
+  {
+    "title": "El Apasionado",
+    "artist": "Dinastía Hidalguense",
+    "isrc": "MX2160900386"
+  },
+  {
+    "title": "Arrancazacate",
+    "artist": "Grupo Yolotecuani",
+    "isrc": "MXF170810410"
+  },
+  {
+    "title": "LAs Amarillas",
+    "artist": "Ensamble Folklorico de Veracruz",
+    "isrc": "USDDY0710049"
+  },
+  {
+    "title": "El Estudiante",
+    "artist": "Los Vega",
+    "isrc": "USZUP1011962"
+  },
+  {
+    "title": "Los Pollos",
+    "artist": "CONJUNTO TLACOTALPAN",
+    "isrc": "MXF018100795"
+  },
+  {
+    "title": "Hoy Vine Aquí",
+    "artist": "Ramita de Cedro, RC",
+    "isrc": "QZ5AB1931822"
+  },
+  {
+    "title": "El Chuchumbé",
+    "artist": "Son de Barro",
+    "isrc": "ushm91400546"
+  },
+  {
+    "title": "El Buscapiés",
+    "artist": "La Manta",
+    "isrc": "uscgh1295594"
+  },
+  {
+    "title": "Son Guerrerense",
+    "artist": "Yolotecuani",
+    "isrc": "MXF601900100"
+  },
+  {
+    "title": "La bruja de la huasteca",
+    "artist": "Soraima y sus Huastecos",
+    "isrc": "SE6HN2054094"
+  },
+  {
+    "title": "El Toro Zacamandú",
+    "artist": "Rural Musicians from Santiago Tuxtla and San Andrés Tuxtla",
+    "isrc": "uscgj1088516"
+  },
+  {
+    "title": "La Bruja",
+    "artist": "Los Monarcas del Papaloapan",
+    "isrc": "MX4971527577"
+  },
+  {
+    "title": "El Recuerdo",
+    "artist": "Tlacuatzin",
+    "isrc": "ushm82124078"
+  },
+  {
+    "title": "Las Dos Huastecas",
+    "artist": "Los Cantores Del Panuco",
+    "isrc": "FRX871589590"
+  },
+  {
+    "title": "El tecolotito",
+    "artist": "Los Carácuaros de Serafín Ibarra",
+    "isrc": "ushm20567209"
+  },
+  {
+    "title": "El Amuleto",
+    "artist": "Colectivo Carretoneros",
+    "isrc": "QZTPX2234170"
+  },
+  {
+    "title": "Xochipitzahuatl",
+    "artist": "Sones de Mexico Ensemble",
+    "isrc": "ushm21373875"
+  },
+  {
+    "title": "El Balaju",
+    "artist": "Alebrijes Son Jarocho",
+    "isrc": "QZTPX2234097"
+  },
+  {
+    "title": "La Vieja",
+    "artist": "Radio Jarocho & Zenen Zeferino",
+    "isrc": "uscgj1863326"
+  },
+  {
+    "title": "Cariño Mío",
+    "artist": "Los Jarocho Barrio",
+    "isrc": "QZTPX2234767"
+  },
+  {
+    "title": "La Llorona",
+    "artist": "Los Caimanes",
+    "isrc": "USAP39543103"
+  },
+  {
+    "title": "El Pichón",
+    "artist": "La Tuza",
+    "isrc": "ushm90940233"
+  },
+  {
+    "title": "El cantador",
+    "artist": "El Negro Ojeda",
+    "isrc": "MXF600600506"
+  },
+  {
+    "title": "Pasodoble Yodjo Xio'o",
+    "artist": "Pasatono Orquesta",
+    "isrc": "QM6P41421615"
+  },
+  {
+    "title": "Ya me voy a Morir a los Desiertos",
+    "artist": "Los Cardencheros de Sapioriz",
+    "isrc": "US8JA1522006"
+  },
+  {
+    "title": "Palomo Miahuateco",
+    "artist": "Alebrijes",
+    "isrc": "FR10S1744085"
+  },
+  {
+    "title": "La revolcada",
+    "artist": "Grupo Siembra",
+    "isrc": "MXF170810985"
+  },
+  {
+    "title": "Las Mañanitas Huastecas",
+    "artist": "Avispones Huastecos",
+    "isrc": "ushm91413336"
+  },
+  {
+    "title": "Los Pollos",
+    "artist": "Siquisiri",
+    "isrc": "USGH80712576"
+  },
+  {
+    "title": "El Aguanieve",
+    "artist": "Trio Despertar Huasteco",
+    "isrc": "FR6V80311593"
+  },
+  {
+    "title": "El Nuevo Querreque",
+    "artist": "Hermanos Calderón",
+    "isrc": "MXF160200553"
+  },
+  {
+    "title": "No Vale Nada",
+    "artist": "Flor de Uvero",
+    "isrc": "QZTPX2234646"
+  },
+  {
+    "title": "Quiebro Mi Vaso",
+    "artist": "Andres Vega",
+    "isrc": "QZDA62078510"
+  },
+  {
+    "title": "El balajú",
+    "artist": "Octavio Vega Hernández",
+    "isrc": "MX1091200252"
+  },
+  {
+    "title": "Las olas del mar",
+    "artist": "Los Parientes de Playa Vicente Veracruz",
+    "isrc": "ARC571901728"
+  },
+  {
+    "title": "Mi Credo Huasteco",
+    "artist": "Staku y sus Huastecos",
+    "isrc": "GB-SMU-55-85940"
+  },
+  {
+    "title": "A Qué Le Tiras Cuando Sueñas Mexicano?",
+    "artist": "Ernesto Anaya",
+    "isrc": "MXF601301099"
+  },
+  {
+    "title": "De Carne y Saliva",
+    "artist": "Chilaquiles Verdes",
+    "isrc": "ushm21277654"
+  },
+  {
+    "title": "Serrano de corazón (Highlander at Heart)",
+    "artist": "Guillermo Velázquez Y los Leones de la Sierra de Xichú",
+    "isrc": "USSF11557201"
+  },
+  {
+    "title": "Obertura Maromera",
+    "artist": "Pasatono",
+    "isrc": "MXF602000286"
+  },
+  {
+    "title": "Makochi Pitensin",
+    "artist": "Jaramar",
+    "isrc": "TCABA1110371"
+  },
+  {
+    "title": "El Venado",
+    "artist": "Manguito con Chile",
+    "isrc": "QZHN82351809"
+  },
+  {
+    "title": "La Tequilera",
+    "artist": "Astrid Hadad",
+    "isrc": "USTCD1046310"
+  },
+  {
+    "title": "El Gustito",
+    "artist": "Los Caporales De Panuco",
+    "isrc": "USAP39543117"
+  },
+  {
+    "title": "Mujer Faisán - Mujer Mariposa",
+    "artist": "Casa Sotaventina",
+    "isrc": "QZMEN2183975"
+  },
+  {
+    "title": "La Bamba",
+    "artist": "Los Nacionales De Jacinto Gatica",
+    "isrc": "MXF550701308"
+  },
+  {
+    "title": "15 mts. 3\", 8/8, 16",
+    "artist": "León Chávez Teixeiro, Guillermo Briseño",
+    "isrc": "QMFME1967222"
+  },
+  {
+    "title": "Se Va el Caimán",
+    "artist": "Conjunto Villa del Mar",
+    "isrc": "MXF550702520"
+  },
+  {
+    "title": "Xochipikzawak",
+    "artist": "Nostalgia Huasteca",
+    "isrc": "QMFMG1545671"
+  },
+  {
+    "title": "El Becerrillo (Son Calentano)",
+    "artist": "La Yerbabuena",
+    "isrc": "MXF601600279"
+  },
+  {
+    "title": "El Zacahuil - Cumbia Huasteca",
+    "artist": "Gorrión Serrano",
+    "isrc": "MXF601800640"
+  },
+  {
+    "title": "Colas",
+    "artist": "Utrera, Los",
+    "isrc": "MXF580401377"
+  },
+  {
+    "title": "La Iguana",
+    "artist": "Chuchumbé",
+    "isrc": "ushm20662172"
+  },
+  {
+    "title": "La bamba (The Bamba)",
+    "artist": "Son De Madera",
+    "isrc": "USSF10855010"
+  },
+  {
+    "title": "La Candela",
+    "artist": "Grupo Mono Blanco",
+    "isrc": "USGH80712162"
+  },
+  {
+    "title": "La Guanabana",
+    "artist": "Zacamandú",
+    "isrc": "MXF600600990"
+  },
+  {
+    "title": "El Conejo",
+    "artist": "Los Cojolites",
+    "isrc": "DEN960230703"
+  },
+  {
+    "title": "Estampas Jarochas",
+    "artist": "La Negra Graciana",
+    "isrc": "FRV960400023"
+  },
+  {
+    "title": "El Pañuelo",
+    "artist": "Juan Reynoso",
+    "isrc": "FR59R1648918"
+  },
+  {
+    "title": "La Presumida",
+    "artist": "Trio Xoxocapa",
+    "isrc": "USGH80711659"
+  },
+  {
+    "title": "La Guacamaya",
+    "artist": "Son del Centro",
+    "isrc": "ushm90690637"
+  },
+  {
+    "title": "El Coco (Son Jarocho) [México]",
+    "artist": "Los Folkloristas",
+    "isrc": "MXF601400890"
+  },
+  {
+    "title": "La Piña",
+    "artist": "Los Parientes De Playa Vicente",
+    "isrc": "USGH80711004"
+  },
+  {
+    "title": "El Valedor",
+    "artist": "ARCADIO HIDALGO, Grupo Mono Blanco",
+    "isrc": "MXF017100445"
+  },
+  {
+    "title": "Las Tres Huastecas",
+    "artist": "Los Camperos de Valles",
+    "isrc": "MX2160900582"
+  },
+  {
+    "title": "La Xochipitzahuatl",
+    "artist": "Grupo Chicontepec",
+    "isrc": "MXF170811111"
+  },
+  {
+    "title": "Quemayama",
+    "artist": "Patricio Hidalgo y el Afrojarocho",
+    "isrc": "FR59R1566035"
+  },
+  {
+    "title": "El chuchumbe",
+    "artist": "Grupo Mono Blanco Y Stone Lips",
+    "isrc": "MXF589700189"
+  },
+  {
+    "title": "Sones de Tamborileros (Tabasco)",
+    "artist": "Zazhil",
+    "isrc": "MXF601300746"
+  },
+  {
+    "title": "Maladie",
+    "artist": "Chéjere",
+    "isrc": "MXF600900756"
+  },
+  {
+    "title": "Café",
+    "artist": "Sonex",
+    "isrc": "MX3741300303"
+  },
+  {
+    "title": "Cascabel 2012",
+    "artist": "Laura Rebolloso, Ensamble Marinero",
+    "isrc": "QMDA71375483"
+  },
+  {
+    "title": "Xochitpitzahuac",
+    "artist": "Macuilxochitl",
+    "isrc": "ushm90714422"
+  },
+  {
+    "title": "El Butaquito",
+    "artist": "Son De Tres Zapotes",
+    "isrc": "MX1090910003"
+  },
+  {
+    "title": "El Gavilán",
+    "artist": "Dinastía Hidalguense",
+    "isrc": "MX2160900394"
+  },
+  {
+    "title": "El toro rabón",
+    "artist": "Grupo Yolotecuani",
+    "isrc": "MXF170810411"
+  },
+  {
+    "title": "Alingo",
+    "artist": "Ensamble Folklorico de Veracruz",
+    "isrc": "USDDY0710050"
+  },
+  {
+    "title": "La Cancion Que Te Dedico",
+    "artist": "Los Vega",
+    "isrc": "USZUP1011970"
+  },
+  {
+    "title": "El Conejo",
+    "artist": "CONJUNTO TLACOTALPAN",
+    "isrc": "MXF018100803"
+  },
+  {
+    "title": "María Chuchena",
+    "artist": "Ramita de Cedro, RC",
+    "isrc": "QZ5AB1931825"
+  },
+  {
+    "title": "El Navegante",
+    "artist": "Son de Barro",
+    "isrc": "usdy41692733"
+  },
+  {
+    "title": "Por tu Mirada",
+    "artist": "La Manta",
+    "isrc": "MX3741500585"
+  },
+  {
+    "title": "Costeñita (Son de Tarima) (Tixtla)",
+    "artist": "Yolotecuani",
+    "isrc": "MXF601900087"
+  },
+  {
+    "title": "Oye Refugio",
+    "artist": "Rural Musicians from Santiago Tuxtla and San Andrés Tuxtla",
+    "isrc": "uscgj1088509"
+  },
+  {
+    "title": "El Tepetzintleco",
+    "artist": "Soraima y sus Huastecos, Los Hermanos Reyes",
+    "isrc": "FRZ170311070"
+  },
+  {
+    "title": "El Canelo",
+    "artist": "Los Monarcas del Papaloapan",
+    "isrc": "MX4971527582"
+  },
+  {
+    "title": "La Rosa",
+    "artist": "Tlacuatzin",
+    "isrc": "uscgh1799808"
+  },
+  {
+    "title": "La Leva",
+    "artist": "Los Cantores Del Panuco",
+    "isrc": "FRX871589505"
+  },
+  {
+    "title": "Jovencita idolatrada",
+    "artist": "Los Carácuaros de Serafín Ibarra",
+    "isrc": "ushm20567207"
+  },
+  {
+    "title": "El Perro",
+    "artist": "Colectivo Carretoneros",
+    "isrc": "QZTPX2234172"
+  },
+  {
+    "title": "La Morena",
+    "artist": "Sones de Mexico Ensemble",
+    "isrc": "ushm21373883"
+  },
+  {
+    "title": "La Vieja",
+    "artist": "Alebrijes Son Jarocho",
+    "isrc": "QZTPX2234103"
+  },
+  {
+    "title": "Chiles Verdes",
+    "artist": "Radio Jarocho & Zenen Zeferino",
+    "isrc": "uscgj1863330"
+  },
+  {
+    "title": "Cupido",
+    "artist": "Los Jarocho Barrio",
+    "isrc": "QZTPX2234768"
+  },
+  {
+    "title": "La Leva",
+    "artist": "Los Caimanes",
+    "isrc": "USAP39543101"
+  },
+  {
+    "title": "El Colás",
+    "artist": "La Tuza",
+    "isrc": "ushm90940229"
+  },
+  {
+    "title": "Mexico City - Mi México / Tuxa Ndoko",
+    "artist": "El Negro Ojeda, José Luis Santiago, Susana Harp",
+    "isrc": "DEA291500149"
+  },
+  {
+    "title": "Yaa Chinuni",
+    "artist": "Pasatono Orquesta",
+    "isrc": "QM6P41421625"
+  },
+  {
+    "title": "Al pie de un Arbol",
+    "artist": "Los Cardencheros de Sapioriz",
+    "isrc": "US8JA1522013"
+  },
+  {
+    "title": "Guacamaya",
+    "artist": "Alebrijes",
+    "isrc": "FR10S1744079"
+  },
+  {
+    "title": "Danza de parachicos",
+    "artist": "Grupo Siembra",
+    "isrc": "MXF170810982"
+  },
+  {
+    "title": "El Triunfo",
+    "artist": "Avispones Huastecos",
+    "isrc": "ushm91413325"
+  },
+  {
+    "title": "Cafe con pan",
+    "artist": "Utrera, Los",
+    "isrc": "MXF580100802"
+  },
+  {
+    "title": "La Gallina",
+    "artist": "Chuchumbé",
+    "isrc": "ushm20662175"
+  },
+  {
+    "title": "Las poblanas (The Women from Puebla)",
+    "artist": "Son De Madera",
+    "isrc": "USSF10855001"
+  },
+  {
+    "title": "El Butaquito",
+    "artist": "Grupo Mono Blanco",
+    "isrc": "MX3741300241"
+  },
+  {
+    "title": "El Trompito",
+    "artist": "Zacamandú",
+    "isrc": "MXF600600989"
+  },
+  {
+    "title": "El Párajo Cú",
+    "artist": "La Negra Graciana",
+    "isrc": "FRV960400029"
+  },
+  {
+    "title": "Nada Es Verdad",
+    "artist": "Los Cojolites, Natalia Lafourcade",
+    "isrc": "QZGLS1903192"
+  },
+  {
+    "title": "La Tortolita",
+    "artist": "Juan Reynoso",
+    "isrc": "MX2160900144"
+  },
+  {
+    "title": "Buscapiés",
+    "artist": "Son del Centro",
+    "isrc": "ushm90690643"
+  },
+  {
+    "title": "Alma Huasteca",
+    "artist": "Trio Xoxocapa",
+    "isrc": "USGH80711673"
+  },
+  {
+    "title": "Tierra Mestiza - En Vivo",
+    "artist": "Los Folkloristas",
+    "isrc": "MXF601100828"
+  },
+  {
+    "title": "Son Llanero",
+    "artist": "Los Parientes De Playa Vicente",
+    "isrc": "USGH80712111"
+  },
+  {
+    "title": "La Morena",
+    "artist": "ARCADIO HIDALGO, Grupo Mono Blanco",
+    "isrc": "MXF017100451"
+  },
+  {
+    "title": "El aguanieve (The Mist)",
+    "artist": "Los Camperos de Valles",
+    "isrc": "USSF10551201"
+  },
+  {
+    "title": "La Azucena",
+    "artist": "Grupo Chicontepec",
+    "isrc": "MXF170811112"
+  },
+  {
+    "title": "Política Sifilítica",
+    "artist": "Patricio Hidalgo y el Afrojarocho",
+    "isrc": "FR59R1566037"
+  },
+  {
+    "title": "Malhaya",
+    "artist": "Grupo Mono Blanco Y Stone Lips",
+    "isrc": "MXF589700191"
+  },
+  {
+    "title": "La Prietita Clara",
+    "artist": "Zazhil",
+    "isrc": "MXF600700443"
+  },
+  {
+    "title": "Luz de Mi Vida",
+    "artist": "Chéjere",
+    "isrc": "MXF600900753"
+  },
+  {
+    "title": "Paisajes",
+    "artist": "Laura Rebolloso, Ensamble Marinero",
+    "isrc": "QMDA71375478"
+  },
+  {
+    "title": "El Pájaro Cú",
+    "artist": "Sonex",
+    "isrc": "TCACN1677300"
+  },
+  {
+    "title": "La Llorona",
+    "artist": "Macuilxochitl",
+    "isrc": "ushm90714549"
+  },
+  {
+    "title": "El Chocolate",
+    "artist": "Son De Tres Zapotes",
+    "isrc": "MX1090910007"
+  },
+  {
+    "title": "El Caimán",
+    "artist": "Dinastía Hidalguense",
+    "isrc": "MX2160900398"
+  },
+  {
+    "title": "La iguana",
+    "artist": "Grupo Yolotecuani",
+    "isrc": "MXF170810418"
+  }
+]

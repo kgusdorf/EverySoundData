@@ -1,0 +1,687 @@
+[
+  {
+    "title": "Dungeon Master",
+    "artist": "Visigoth",
+    "isrc": "USMBR1511035"
+  },
+  {
+    "title": "Learn To Love It",
+    "artist": "Cult Leader",
+    "isrc": "QZ22D2400090"
+  },
+  {
+    "title": "Borrowed Time, Borrowed Eyes",
+    "artist": "SubRosa",
+    "isrc": "USN681110018"
+  },
+  {
+    "title": "Abuse",
+    "artist": "DiseNgaged",
+    "isrc": "QZFZ21901274"
+  },
+  {
+    "title": "A Terrible Pilgrimage to Seek the Nighted Throne",
+    "artist": "Sacrilegion",
+    "isrc": "ushm92266614"
+  },
+  {
+    "title": "Mary Immaculate",
+    "artist": "Arsenic Addiction",
+    "isrc": "TCAHN2377942"
+  },
+  {
+    "title": "Sentinel",
+    "artist": "Pinewalker",
+    "isrc": "QZHN41943142"
+  },
+  {
+    "title": "Rotten Trajectory",
+    "artist": "Deathblow",
+    "isrc": "USL4Q2360066"
+  },
+  {
+    "title": "Reduced to Ash",
+    "artist": "Necrowolf",
+    "isrc": "QZDA42327476"
+  },
+  {
+    "title": "Gloria",
+    "artist": "Judicator",
+    "isrc": "USERN1010182"
+  },
+  {
+    "title": "Heavy Hoof",
+    "artist": "Eagle Twin",
+    "isrc": "USZPA0901632"
+  },
+  {
+    "title": "Exile",
+    "artist": "The Ditch and the Delta",
+    "isrc": "USERN1010013"
+  },
+  {
+    "title": "Meteor",
+    "artist": "Moon Wizard",
+    "isrc": "QZFZ22460793"
+  },
+  {
+    "title": "The Dying Firmament",
+    "artist": "Disforia",
+    "isrc": "ushm21488736"
+  },
+  {
+    "title": "Egocentric Imperium",
+    "artist": "Delusions of Godhood",
+    "isrc": "usdy41574000"
+  },
+  {
+    "title": "Funeral March of the Dark Ruler",
+    "artist": "Unceremonial",
+    "isrc": "TCADB1700860"
+  },
+  {
+    "title": "Luminous Beings",
+    "artist": "Naeramarth",
+    "isrc": "QZ9ZB1700005"
+  },
+  {
+    "title": "Divinity",
+    "artist": "Mummy",
+    "isrc": "QZK6G2328543"
+  },
+  {
+    "title": "This Is Suffering",
+    "artist": "False Witness",
+    "isrc": "QM4DW1742892"
+  },
+  {
+    "title": "Symbiosis",
+    "artist": "Machines of Man",
+    "isrc": "usdy41717989"
+  },
+  {
+    "title": "You Don't Belong Here",
+    "artist": "Bird Eater",
+    "isrc": "TCABP1398011"
+  },
+  {
+    "title": "The Sky Split Wide Open (feat. Kim Pack, Sarah Pendleton & Rebecca Vernon)",
+    "artist": "Huldra, Kim Pack, Sarah Pendleton, Rebecca Vernon",
+    "isrc": "ushm81462264"
+  },
+  {
+    "title": "Abhorrent Absorbant (The Salivation of Sand)",
+    "artist": "Gravecode Nebula",
+    "isrc": "GB-SMU-23-20310"
+  },
+  {
+    "title": "Pt. VII - Abandonement of All Humanity",
+    "artist": "Odium Totus",
+    "isrc": "GBSMU9812424"
+  },
+  {
+    "title": "Smoke 'em While You Can",
+    "artist": "Thunderfist",
+    "isrc": "uscgj1217958"
+  },
+  {
+    "title": "Lucifers Hammer",
+    "artist": "Top Dead Celebrity",
+    "isrc": "USA560950213"
+  },
+  {
+    "title": "A Beginning Without an End",
+    "artist": "Oxcross",
+    "isrc": "ushm21407508"
+  },
+  {
+    "title": "No Such Agency (N.S.A)",
+    "artist": "A Balance of Power",
+    "isrc": "QZES82025076"
+  },
+  {
+    "title": "Morning Breaks",
+    "artist": "Founders of Ruin",
+    "isrc": "usl4q1719197"
+  },
+  {
+    "title": "Juggernaut",
+    "artist": "Sonic Prophecy",
+    "isrc": "ushm81100526"
+  },
+  {
+    "title": "Vanished",
+    "artist": "Chronicles",
+    "isrc": "QZFZ21955618"
+  },
+  {
+    "title": "Sex, Sex, Sex",
+    "artist": "4saken1",
+    "isrc": "uscgj0547201"
+  },
+  {
+    "title": "Udopia",
+    "artist": "Aura Surreal",
+    "isrc": "ushm21991298"
+  },
+  {
+    "title": "I Eat Your Skin",
+    "artist": "Blood Purge",
+    "isrc": "usl4q1808114"
+  },
+  {
+    "title": "Fear of Death",
+    "artist": "Burn Your World",
+    "isrc": "UST8K1629647"
+  },
+  {
+    "title": "Rotting Mind",
+    "artist": "Cosmic Entity",
+    "isrc": "QZK6H2186769"
+  },
+  {
+    "title": "In Fear Reborn",
+    "artist": "Deathead",
+    "isrc": "QZFZ21955604"
+  },
+  {
+    "title": "Blood Mountain",
+    "artist": "Dipped in Whiskey",
+    "isrc": "usdy41716784"
+  },
+  {
+    "title": "The Golden Horde",
+    "artist": "Dissension",
+    "isrc": "USLZJ1786417"
+  },
+  {
+    "title": "The Great Dissolver",
+    "artist": "Iota",
+    "isrc": "US22K2419405"
+  },
+  {
+    "title": "Dust on the Chamber Floor",
+    "artist": "Fiendlord",
+    "isrc": "QZK6P1949117"
+  },
+  {
+    "title": "Sem Compromisso",
+    "artist": "INVDRS, Artwo, enzo dicarlo",
+    "isrc": "GXBAV2318986"
+  },
+  {
+    "title": "Murder Division",
+    "artist": "Iconoclast Contra",
+    "isrc": "USI4R1132766"
+  },
+  {
+    "title": "Eclipse of Justice",
+    "artist": "Liar's Tongue",
+    "isrc": "QZ9JZ1700382"
+  },
+  {
+    "title": "Mormon Guilt",
+    "artist": "Making Fuck",
+    "isrc": "TCACO1616687"
+  },
+  {
+    "title": "Mirror, The Darkened Masses",
+    "artist": "Malignant Inception",
+    "isrc": "ushm80682065"
+  },
+  {
+    "title": "Never Surrender - Remastered",
+    "artist": "Megattack",
+    "isrc": "USASN2300044"
+  },
+  {
+    "title": "Chambers of Loss and Misery",
+    "artist": "Moon of Delirium",
+    "isrc": "usl4q1943385"
+  },
+  {
+    "title": "Ancient Scripts",
+    "artist": "Onethium",
+    "isrc": "QZK6F2070035"
+  },
+  {
+    "title": "Running",
+    "artist": "Real Horror Show",
+    "isrc": "QZNWX2271039"
+  },
+  {
+    "title": "Hair Burst Blooms Red",
+    "artist": "Riksha",
+    "isrc": "uscgh1368484"
+  },
+  {
+    "title": "High Rider of Death",
+    "artist": "Screaming Condors",
+    "isrc": "uscgj1048733"
+  },
+  {
+    "title": "3 Degrees",
+    "artist": "Separation of Self",
+    "isrc": "ushm21781020"
+  },
+  {
+    "title": "Different Breed",
+    "artist": "Sevenpoint",
+    "isrc": "ushm21684517"
+  },
+  {
+    "title": "Before the End of Life",
+    "artist": "Shadowseer",
+    "isrc": "TCABY1493850"
+  },
+  {
+    "title": "A Stroll Through the Cold",
+    "artist": "Slumdweller",
+    "isrc": "QZRP52316271"
+  },
+  {
+    "title": "Law Giver",
+    "artist": "Sonic Brew",
+    "isrc": "usx9p1028204"
+  },
+  {
+    "title": "Repent?",
+    "artist": "Such Vengeance",
+    "isrc": "ushm21167135"
+  },
+  {
+    "title": "Righteous",
+    "artist": "TRUCE in BLOOD",
+    "isrc": "QZ8251905153"
+  },
+  {
+    "title": "Balance Of Power",
+    "artist": "Tempered Steel",
+    "isrc": "SE6A92009176"
+  },
+  {
+    "title": "Last Rites",
+    "artist": "Thalgora",
+    "isrc": "QZAPG1846226"
+  },
+  {
+    "title": "The Prometheus Curse",
+    "artist": "The Bankrupt Conspiracy",
+    "isrc": "QZDA61967085"
+  },
+  {
+    "title": "Existential Antithesis",
+    "artist": "Through the Eyes of Carrion",
+    "isrc": "uscgj1022553"
+  },
+  {
+    "title": "Profane Flesh Magick",
+    "artist": "Tryygon",
+    "isrc": "ushm22158726"
+  },
+  {
+    "title": "Frozen Castles Defy",
+    "artist": "Winterlore",
+    "isrc": "QZNWQ2064191"
+  },
+  {
+    "title": "La Gran Limpia de Ix Chel",
+    "artist": "Xolotl",
+    "isrc": "QZDA71980798"
+  },
+  {
+    "title": "Litany #7",
+    "artist": "Zero To Ballistic",
+    "isrc": "ustc10602561"
+  },
+  {
+    "title": "Picketts Charge",
+    "artist": "ZombieShakerBox",
+    "isrc": "usdy41935553"
+  },
+  {
+    "title": "Steel and Silver",
+    "artist": "Visigoth",
+    "isrc": "USMBR1812840"
+  },
+  {
+    "title": "I Am Healed",
+    "artist": "Cult Leader",
+    "isrc": "QZ22D1800115"
+  },
+  {
+    "title": "Cosey Mo",
+    "artist": "SubRosa",
+    "isrc": "USN681310090"
+  },
+  {
+    "title": "Faith",
+    "artist": "DiseNgaged",
+    "isrc": "QZHNB2029824"
+  },
+  {
+    "title": "Transfixed in Spiral Ambiguity",
+    "artist": "Sacrilegion",
+    "isrc": "ushm92266620"
+  },
+  {
+    "title": "Moon & Sun",
+    "artist": "Arsenic Addiction",
+    "isrc": "TCAEK1938895"
+  },
+  {
+    "title": "The Thaw",
+    "artist": "Pinewalker",
+    "isrc": "QZHN41943148"
+  },
+  {
+    "title": "In Plain Sight",
+    "artist": "Deathblow",
+    "isrc": "USL4Q2360068"
+  },
+  {
+    "title": "Mountains of Madness",
+    "artist": "Necrowolf",
+    "isrc": "QZDA42327473"
+  },
+  {
+    "title": "Elk Wolfv Hymn",
+    "artist": "Eagle Twin",
+    "isrc": "USZPA0901631"
+  },
+  {
+    "title": "Take up Your Cross",
+    "artist": "Judicator",
+    "isrc": "QMAAK1830921"
+  },
+  {
+    "title": "Maimed",
+    "artist": "The Ditch and the Delta",
+    "isrc": "USERN1010012"
+  },
+  {
+    "title": "Mothership",
+    "artist": "Moon Wizard",
+    "isrc": "QZTBF2323041"
+  },
+  {
+    "title": "Dream Eater",
+    "artist": "Disforia",
+    "isrc": "ushm21488730"
+  },
+  {
+    "title": "Breaking the Crown",
+    "artist": "Delusions of Godhood",
+    "isrc": "usdy41574003"
+  },
+  {
+    "title": "Night, Sweet Night",
+    "artist": "Unceremonial",
+    "isrc": "TCADB1700861"
+  },
+  {
+    "title": "Starkindler",
+    "artist": "Naeramarth",
+    "isrc": "USL4R2350276"
+  },
+  {
+    "title": "Spineless",
+    "artist": "Mummy",
+    "isrc": "QZK6G2330049"
+  },
+  {
+    "title": "King Rat",
+    "artist": "False Witness",
+    "isrc": "QZHN92375034"
+  },
+  {
+    "title": "I Am the Colossus",
+    "artist": "Machines of Man",
+    "isrc": "usdy41717993"
+  },
+  {
+    "title": "Never Buried",
+    "artist": "Bird Eater",
+    "isrc": "TCABP1398013"
+  },
+  {
+    "title": "Monuments",
+    "artist": "Huldra",
+    "isrc": "usx9p1250048"
+  },
+  {
+    "title": "Lethal Aether",
+    "artist": "Gravecode Nebula",
+    "isrc": "GB-SMU-23-20309"
+  },
+  {
+    "title": "Pt. II - The Dissolution of Pity",
+    "artist": "Odium Totus",
+    "isrc": "GBSMU9812419"
+  },
+  {
+    "title": "Rock And Roll",
+    "artist": "Thunderfist",
+    "isrc": "ushm90879436"
+  },
+  {
+    "title": "Midwestern Rube",
+    "artist": "Top Dead Celebrity",
+    "isrc": "uscgh1162811"
+  },
+  {
+    "title": "Infinite Loop",
+    "artist": "Oxcross",
+    "isrc": "ushm21407510"
+  },
+  {
+    "title": "Voice to Skull",
+    "artist": "A Balance of Power",
+    "isrc": "QZES82025069"
+  },
+  {
+    "title": "Concept of the Void",
+    "artist": "Founders of Ruin",
+    "isrc": "usl4q1719200"
+  },
+  {
+    "title": "Sacred Ashes",
+    "artist": "Sonic Prophecy",
+    "isrc": "ushm81100524"
+  },
+  {
+    "title": "Synopsis",
+    "artist": "Chronicles",
+    "isrc": "QZFZ21955617"
+  },
+  {
+    "title": "Haunting the Nation",
+    "artist": "4saken1",
+    "isrc": "uscgj0547202"
+  },
+  {
+    "title": "Wordporn",
+    "artist": "Aura Surreal",
+    "isrc": "ushm21991296"
+  },
+  {
+    "title": "Terricide",
+    "artist": "Blood Purge",
+    "isrc": "usl4q1808113"
+  },
+  {
+    "title": "Let the Wound Bleed",
+    "artist": "Burn Your World",
+    "isrc": "UST8K1629651"
+  },
+  {
+    "title": "Undead Nightmare",
+    "artist": "Cosmic Entity",
+    "isrc": "QZ4JJ1927201"
+  },
+  {
+    "title": "Blessed in Blasphemy",
+    "artist": "Deathead",
+    "isrc": "QZFZ21955605"
+  },
+  {
+    "title": "The Green",
+    "artist": "Dipped in Whiskey",
+    "isrc": "usdy41716787"
+  },
+  {
+    "title": "The Age of the Six",
+    "artist": "Dissension",
+    "isrc": "USLZJ1786412"
+  },
+  {
+    "title": "Into the Cortex",
+    "artist": "Fiendlord",
+    "isrc": "QZK6P1948258"
+  },
+  {
+    "title": "Enzo - Sacanagem",
+    "artist": "INVDRS, enzo dicarlo, Chediak",
+    "isrc": "ES71G1933548"
+  },
+  {
+    "title": "Warheads Towards the Holy Land",
+    "artist": "Iconoclast Contra",
+    "isrc": "USI4R1132772"
+  },
+  {
+    "title": "The Witness",
+    "artist": "Iota",
+    "isrc": "US22K2419402"
+  },
+  {
+    "title": "Plea for Atonement",
+    "artist": "Liar's Tongue",
+    "isrc": "QZ9JZ1700383"
+  },
+  {
+    "title": "Rats Get Fat",
+    "artist": "Making Fuck",
+    "isrc": "TCACO1616688"
+  },
+  {
+    "title": "My Before, As I Was Less",
+    "artist": "Malignant Inception",
+    "isrc": "ushm80682070"
+  },
+  {
+    "title": "Abysswalker",
+    "artist": "Visigoth",
+    "isrc": "USMBR1913716"
+  },
+  {
+    "title": "to: Achlys",
+    "artist": "Cult Leader",
+    "isrc": "QZ22D1800118"
+  },
+  {
+    "title": "Riptide",
+    "artist": "DiseNgaged",
+    "isrc": "QZK6Q2093302"
+  },
+  {
+    "title": "Puritanical Dementia",
+    "artist": "Sacrilegion",
+    "isrc": "ushm92266615"
+  },
+  {
+    "title": "Beneath the Crown",
+    "artist": "SubRosa",
+    "isrc": "USN681110019"
+  },
+  {
+    "title": "Tomb of Sleep",
+    "artist": "Arsenic Addiction",
+    "isrc": "TCAEK1938898"
+  },
+  {
+    "title": "Space Witch",
+    "artist": "Pinewalker",
+    "isrc": "QZHN41943146"
+  },
+  {
+    "title": "Insect Politics",
+    "artist": "Deathblow",
+    "isrc": "QMAAK2096778"
+  },
+  {
+    "title": "Mortal Coil",
+    "artist": "Necrowolf",
+    "isrc": "QZDA42327475"
+  },
+  {
+    "title": "In the Beginning was the Scream",
+    "artist": "Eagle Twin",
+    "isrc": "USZPA0900038"
+  },
+  {
+    "title": "Spiritual Treason",
+    "artist": "Judicator",
+    "isrc": "QMAAK1830924"
+  },
+  {
+    "title": "Tectonic Selves",
+    "artist": "The Ditch and the Delta",
+    "isrc": "USERN1010018"
+  },
+  {
+    "title": "Sunday",
+    "artist": "Moon Wizard",
+    "isrc": "QZFZ22460797"
+  },
+  {
+    "title": "Lunar Sunrise",
+    "artist": "Disforia",
+    "isrc": "ushm21488735"
+  },
+  {
+    "title": "Through the Jaws of Perdition (feat. Urban Granbacke)",
+    "artist": "Delusions of Godhood, Urban Granbacke",
+    "isrc": "usdy41574002"
+  },
+  {
+    "title": "Onward to Oblivion",
+    "artist": "Unceremonial",
+    "isrc": "TCADB1700866"
+  },
+  {
+    "title": "Asterisms",
+    "artist": "Naeramarth",
+    "isrc": "QZ9ZB1700002"
+  },
+  {
+    "title": "Thorns",
+    "artist": "Mummy",
+    "isrc": "QZK6G2330050"
+  },
+  {
+    "title": "Out of Ruin",
+    "artist": "False Witness",
+    "isrc": "QZES72183420"
+  },
+  {
+    "title": "Cryogenesis",
+    "artist": "Machines of Man",
+    "isrc": "usdy41717991"
+  },
+  {
+    "title": "Carrion Totem",
+    "artist": "Bird Eater",
+    "isrc": "TCABP1398017"
+  },
+  {
+    "title": "Twisted Tongues and Gnarled Roots",
+    "artist": "Huldra",
+    "isrc": "usx9p1250049"
+  },
+  {
+    "title": "Adulation of Poisons",
+    "artist": "Gravecode Nebula",
+    "isrc": "GB-SMU-23-20308"
+  }
+]

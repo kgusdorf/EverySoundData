@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Bjór",
+    "artist": "Fræbbblarnir",
+    "isrc": "ISA109801115"
+  },
+  {
+    "title": "Kyrrlátt kvöld",
+    "artist": "Utangarðsmenn",
+    "isrc": "ISA109202003"
+  },
+  {
+    "title": "Rúdolf",
+    "artist": "Þeyr",
+    "isrc": "ISA109801111"
+  },
+  {
+    "title": "Flughoppið",
+    "artist": "Purrkur Pillnikk",
+    "isrc": "ISC109300306"
+  },
+  {
+    "title": "Gegnum holt og hæðir",
+    "artist": "Þursaflokkurinn",
+    "isrc": "ISA110800602"
+  },
+  {
+    "title": "Reykjavík er ömurleg",
+    "artist": "Innvortis",
+    "isrc": "ISA111201303"
+  },
+  {
+    "title": "Sísí",
+    "artist": "Grýlurnar",
+    "isrc": "ISA109200701"
+  },
+  {
+    "title": "Ó Reykjavík",
+    "artist": "Vonbrigði",
+    "isrc": "ISC108201001"
+  },
+  {
+    "title": "Djamma",
+    "artist": "Morðingjarnir",
+    "isrc": "GBSMU2821297"
+  },
+  {
+    "title": "Draumaprinsessan",
+    "artist": "S.H. Draumur, Prins Póló",
+    "isrc": "TCAGL2269981"
+  },
+  {
+    "title": "Eistnaflugsdans",
+    "artist": "Saktmóðigur",
+    "isrc": "TCAFW2117916"
+  },
+  {
+    "title": "Raunsæ rómantík",
+    "artist": "Elín Helena",
+    "isrc": "ISV441313201"
+  },
+  {
+    "title": "The Long Face",
+    "artist": "Mínus",
+    "isrc": "USVIC0320807"
+  },
+  {
+    "title": "Ráðherrann",
+    "artist": "Tuð",
+    "isrc": "ISV441520810"
+  },
+  {
+    "title": "Lífsflótti",
+    "artist": "Rass",
+    "isrc": "ISC110500205"
+  },
+  {
+    "title": "Hver er svo sekur? - Live",
+    "artist": "Jonee Jonee",
+    "isrc": "ISC108201020"
+  },
+  {
+    "title": "Sparks",
+    "artist": "I Adapt",
+    "isrc": "CH6541620098"
+  },
+  {
+    "title": "Spilafíkill",
+    "artist": "Búdrýgindi",
+    "isrc": "ISE100201504"
+  },
+  {
+    "title": "Böring",
+    "artist": "Q4U",
+    "isrc": "USQY51741603"
+  },
+  {
+    "title": "Bella Ciao",
+    "artist": "Eilíf Sjálfsfróun",
+    "isrc": "ISV442094101"
+  },
+  {
+    "title": "Blindsker",
+    "artist": "Das Kapital",
+    "isrc": "ISZ108700211"
+  },
+  {
+    "title": "Sætar stelpur",
+    "artist": "Skoffín",
+    "isrc": "QZES82079373"
+  },
+  {
+    "title": "Susie takes a soundbath",
+    "artist": "Sucks to be you Nigel",
+    "isrc": "QZTBB2346638"
+  },
+  {
+    "title": "Ljósbrá",
+    "artist": "DIMMA",
+    "isrc": "TCACG1583733"
+  },
+  {
+    "title": "Bungee Gum",
+    "artist": "Korter í flog, GRÓA",
+    "isrc": "QZFYX1934420"
+  },
+  {
+    "title": "My City",
+    "artist": "Muck",
+    "isrc": "USERN1008952"
+  },
+  {
+    "title": "Body Language",
+    "artist": "Pink Street Boys",
+    "isrc": "ISU111500101"
+  },
+  {
+    "title": "Svo skal böl bæta",
+    "artist": "Íkarus, Megas",
+    "isrc": "ISB112002708"
+  },
+  {
+    "title": "Another Little Storm",
+    "artist": "Benny Crespo's Gang",
+    "isrc": "ISV441850502"
+  },
+  {
+    "title": "Nurses - I'm a nurse",
+    "artist": "Fóstbræður",
+    "isrc": "ISA100101751"
+  },
+  {
+    "title": "Sea Wolves",
+    "artist": "Gavin Portland",
+    "isrc": "DEZ650905032"
+  },
+  {
+    "title": "Get Ekki Meira l",
+    "artist": "Roht",
+    "isrc": "QZ2YP1812604"
+  },
+  {
+    "title": "Ég skal bíða eftir þér",
+    "artist": "GRÓA",
+    "isrc": "QZMEM2147990"
+  },
+  {
+    "title": "Kynsvelt",
+    "artist": "Hórmónar",
+    "isrc": "ISV441841402"
+  },
+  {
+    "title": "Dúkkulísur - Live",
+    "artist": "Tappi Tíkarrass",
+    "isrc": "ISC108201018"
+  },
+  {
+    "title": "Gleipnir",
+    "artist": "Skálmöld",
+    "isrc": "ATN261245703"
+  },
+  {
+    "title": "Í kirkju",
+    "artist": "Friðryk",
+    "isrc": "ISA109901619"
+  },
+  {
+    "title": "Helluvanight!",
+    "artist": "Mercy Buckets",
+    "isrc": "QM9A91615214"
+  },
+  {
+    "title": "Sermon",
+    "artist": "Une Misère",
+    "isrc": "DED831900385"
+  },
+  {
+    "title": "Heima",
+    "artist": "Ekkert",
+    "isrc": "usl4r2073965"
+  },
+  {
+    "title": "Hot Tears",
+    "artist": "Tófa",
+    "isrc": "ISV442437501"
+  },
+  {
+    "title": "Vesturbæjar Beach",
+    "artist": "BSÍ",
+    "isrc": "QZDA52135317"
+  },
+  {
+    "title": "Meiri bjór",
+    "artist": "DDT skordýraeitur",
+    "isrc": "ISV441976503"
+  },
+  {
+    "title": "Hatrið mun sigra",
+    "artist": "Hatari",
+    "isrc": "ISV441903104"
+  },
+  {
+    "title": "Depra",
+    "artist": "World Narcosis",
+    "isrc": "QZ4JJ1981524"
+  },
+  {
+    "title": "Fluoxetine: Burden Me",
+    "artist": "Great Grief",
+    "isrc": "USZZ81810109"
+  },
+  {
+    "title": "Aldauði",
+    "artist": "Dauðyflin",
+    "isrc": "QZ2YP1811801"
+  },
+  {
+    "title": "Korobeiniki Theme - Radio Edit",
+    "artist": "Klink",
+    "isrc": "FRX202045053"
+  },
+  {
+    "title": "Dáinn",
+    "artist": "SPÜNK",
+    "isrc": "QZHNA1968682"
+  },
+  {
+    "title": "Here Comes The Rain",
+    "artist": "Velvet Villain",
+    "isrc": "ISV441928701"
+  },
+  {
+    "title": "Breaking Point",
+    "artist": "The Moronic",
+    "isrc": "QZDA61999273"
+  },
+  {
+    "title": "Freak Out",
+    "artist": "Suð",
+    "isrc": "TCAFY2164852"
+  },
+  {
+    "title": "Hér skeður aldrei neitt",
+    "artist": "Tolli, Þorlákur Kristinsson",
+    "isrc": "ISB112004510"
+  },
+  {
+    "title": "perlin worm",
+    "artist": "sideproject",
+    "isrc": "GBHLW2400746"
+  },
+  {
+    "title": "Going Mad",
+    "artist": "Ari Orrason",
+    "isrc": "QZES81857609"
+  },
+  {
+    "title": "Smile In Reverse",
+    "artist": "InZeros",
+    "isrc": "QZPLR2229524"
+  },
+  {
+    "title": "Sleepy snake",
+    "artist": "Dead Herring",
+    "isrc": "ISV982206103"
+  },
+  {
+    "title": "Duck, You Sucker!",
+    "artist": "Brött Brekka",
+    "isrc": "ISV441972312"
+  },
+  {
+    "title": "Reflect Yourself",
+    "artist": "Conflictions",
+    "isrc": "QZ4JJ1601584"
+  },
+  {
+    "title": "Lollipops - Live",
+    "artist": "Sjálfsfróun",
+    "isrc": "ISC108201029"
+  },
+  {
+    "title": "The Demons Of My Past - Radio Edit",
+    "artist": "Anton How",
+    "isrc": "QZK6L2241451"
+  },
+  {
+    "title": "Knife to Your Eye",
+    "artist": "Ballados",
+    "isrc": "ISV442437201"
+  },
+  {
+    "title": "I'm A Villain",
+    "artist": "Jakobínarína",
+    "isrc": "GB01A0700825"
+  },
+  {
+    "title": "Touching The Void",
+    "artist": "GG blús",
+    "isrc": "ISV621900102"
+  },
+  {
+    "title": "Nóttin",
+    "artist": "Dýrið gengur laust",
+    "isrc": "ISC100601215"
+  },
+  {
+    "title": "ULTRA 1",
+    "artist": "PANG",
+    "isrc": "GBHLW2102688"
+  },
+  {
+    "title": "Feel",
+    "artist": "Winter Leaves",
+    "isrc": "ISV982226001"
+  },
+  {
+    "title": "Æskuminning",
+    "artist": "Fræbbblarnir",
+    "isrc": "ISZRU1005644"
+  },
+  {
+    "title": "Rúdolf - Live",
+    "artist": "Þeyr",
+    "isrc": "ISC108201005"
+  },
+  {
+    "title": "Hiroshima",
+    "artist": "Utangarðsmenn",
+    "isrc": "ISA110510401"
+  },
+  {
+    "title": "Ekki enn",
+    "artist": "Purrkur Pillnikk",
+    "isrc": "ISC109300303"
+  },
+  {
+    "title": "Pínulítill karl",
+    "artist": "Þursaflokkurinn",
+    "isrc": "ISA110800601"
+  },
+  {
+    "title": "Andrea",
+    "artist": "Innvortis",
+    "isrc": "ISA111201312"
+  },
+  {
+    "title": "Guðfræði",
+    "artist": "Vonbrigði",
+    "isrc": "ISC108201025"
+  },
+  {
+    "title": "Ekkert mál",
+    "artist": "Grýlurnar",
+    "isrc": "ISA111203202"
+  },
+  {
+    "title": "Get ekki gleymt",
+    "artist": "Morðingjarnir",
+    "isrc": "GBSMU2821290"
+  },
+  {
+    "title": "Öxnadalsheiði",
+    "artist": "S.H. Draumur",
+    "isrc": "ISV441619507"
+  },
+  {
+    "title": "Kjöt",
+    "artist": "Saktmóðigur",
+    "isrc": "USA561408626"
+  },
+  {
+    "title": "Einu sinni var",
+    "artist": "Elín Helena",
+    "isrc": "ISV441313205"
+  },
+  {
+    "title": "Senex homo",
+    "artist": "Tuð",
+    "isrc": "ISV442133612"
+  },
+  {
+    "title": "Romantic Exorcism",
+    "artist": "Mínus",
+    "isrc": "USVIC0320803"
+  },
+  {
+    "title": "Bræður",
+    "artist": "Rass",
+    "isrc": "ISC110500212"
+  },
+  {
+    "title": "Jonee Jonee",
+    "artist": "Jonee Jonee",
+    "isrc": "ISB112006701"
+  },
+  {
+    "title": "Familiar Ghosts (2024 mix)",
+    "artist": "I Adapt",
+    "isrc": "ISV442426501"
+  },
+  {
+    "title": "Sigga-la-fó",
+    "artist": "Búdrýgindi",
+    "isrc": "ISE100201501"
+  },
+  {
+    "title": "Sigurinn",
+    "artist": "Q4U",
+    "isrc": "USQY51741612"
+  },
+  {
+    "title": "Ég ætla að mála allan heiminn, elsku mamma",
+    "artist": "Eilíf Sjálfsfróun",
+    "isrc": "ISV442050801"
+  },
+  {
+    "title": "Leyndarmál frægðarinnar",
+    "artist": "Das Kapital",
+    "isrc": "ISZ108700212"
+  },
+  {
+    "title": "Skoffín vinnur sem tæknifræðingur hjá borginni",
+    "artist": "Skoffín",
+    "isrc": "QZHN32055685"
+  },
+  {
+    "title": "Maskín",
+    "artist": "Sucks to be you Nigel",
+    "isrc": "QZTBB2346639"
+  },
+  {
+    "title": "Andvaka",
+    "artist": "DIMMA, Guðrún Árný",
+    "isrc": "ISV982102303"
+  },
+  {
+    "title": "Árni 3",
+    "artist": "Korter í flog",
+    "isrc": "QZFYX1934419"
+  },
+  {
+    "title": "Provoke Me",
+    "artist": "Muck",
+    "isrc": "USERN1008950"
+  },
+  {
+    "title": "Nazi Homo Sex",
+    "artist": "Pink Street Boys",
+    "isrc": "ISU111700106"
+  },
+  {
+    "title": "Hor",
+    "artist": "Íkarus",
+    "isrc": "ISB112002705"
+  },
+  {
+    "title": "Strangers Thing",
+    "artist": "Benny Crespo's Gang",
+    "isrc": "ISV441850701"
+  },
+  {
+    "title": "This ain't the Dakota",
+    "artist": "Gavin Portland",
+    "isrc": "ISURU1000312"
+  },
+  {
+    "title": "Ekki Neitt",
+    "artist": "Roht",
+    "isrc": "QZ2YP1812603"
+  },
+  {
+    "title": "Jetpackstelpan",
+    "artist": "GRÓA",
+    "isrc": "QZDA41987920"
+  },
+  {
+    "title": "Ekki Sleppa",
+    "artist": "Hórmónar",
+    "isrc": "ISV441841408"
+  },
+  {
+    "title": "London",
+    "artist": "Tappi Tíkarrass",
+    "isrc": "ISA109801116"
+  },
+  {
+    "title": "Kvadning",
+    "artist": "Skálmöld",
+    "isrc": "ATN261138407"
+  },
+  {
+    "title": "Í kirkju - Live",
+    "artist": "Friðryk",
+    "isrc": "ISC108201013"
+  },
+  {
+    "title": "It's Young...",
+    "artist": "Mercy Buckets",
+    "isrc": "QM9A91615212"
+  },
+  {
+    "title": "Sever",
+    "artist": "Une Misère",
+    "isrc": "DGA0L2393641"
+  },
+  {
+    "title": "Ofbeldi",
+    "artist": "Ekkert",
+    "isrc": "ushm92185674"
+  },
+  {
+    "title": "Fightgirl",
+    "artist": "Tófa",
+    "isrc": "ISV441626901"
+  },
+  {
+    "title": "lily (hot dog)",
+    "artist": "BSÍ",
+    "isrc": "QZHN52492014"
+  },
+  {
+    "title": "Lærifaðir",
+    "artist": "DDT skordýraeitur",
+    "isrc": "ISV441976506"
+  },
+  {
+    "title": "Slyðra",
+    "artist": "World Narcosis",
+    "isrc": "QZ4JJ1981526"
+  },
+  {
+    "title": "Ivory (Lie)",
+    "artist": "Great Grief",
+    "isrc": "USZZ81810116"
+  },
+  {
+    "title": "Klámstrákur",
+    "artist": "Hatari",
+    "isrc": "ISV441970001"
+  },
+  {
+    "title": "Skítablóð",
+    "artist": "Dauðyflin",
+    "isrc": "QZ2YP1811806"
+  },
+  {
+    "title": "Aurora - Radio Edit",
+    "artist": "Klink",
+    "isrc": "FRX282001973"
+  },
+  {
+    "title": "Buchanan",
+    "artist": "SPÜNK",
+    "isrc": "QZHNA1968687"
+  },
+  {
+    "title": "Tough Luck",
+    "artist": "Velvet Villain",
+    "isrc": "ISV982001501"
+  },
+  {
+    "title": "Hippar",
+    "artist": "Fræbbblarnir",
+    "isrc": "ISZRU1005650"
+  },
+  {
+    "title": "En",
+    "artist": "Þeyr",
+    "isrc": "ISA109801118"
+  },
+  {
+    "title": "Svefnpurkur",
+    "artist": "Purrkur Pillnikk",
+    "isrc": "ISC109300301"
+  },
+  {
+    "title": "Brúðkaupsvísur",
+    "artist": "Þursaflokkurinn",
+    "isrc": "ISA110800403"
+  },
+  {
+    "title": "Ha ha ha (Rækjureggae) (af 7\" plötunni Rækjureggae)",
+    "artist": "Utangarðsmenn",
+    "isrc": "ISA110510415"
+  },
+  {
+    "title": "Lyfin",
+    "artist": "Innvortis",
+    "isrc": "ISA111201306"
+  },
+  {
+    "title": "Börnin Þín",
+    "artist": "Vonbrigði",
+    "isrc": "USHM91442990"
+  },
+  {
+    "title": "Hlakka til að hitta þig",
+    "artist": "Morðingjarnir",
+    "isrc": "GBSMU2805109"
+  },
+  {
+    "title": "Valur og jarðarberjamaukið hans",
+    "artist": "Grýlurnar",
+    "isrc": "ISA111203303"
+  },
+  {
+    "title": "Sjoppan",
+    "artist": "S.H. Draumur, Prins Póló",
+    "isrc": "TCAGL2269928"
+  },
+  {
+    "title": "Ása Hása",
+    "artist": "Saktmóðigur",
+    "isrc": "USA561408621"
+  },
+  {
+    "title": "Listamaður",
+    "artist": "Elín Helena",
+    "isrc": "ISV441313208"
+  },
+  {
+    "title": "Þuklarinn á Næsta bar",
+    "artist": "Tuð",
+    "isrc": "ISV441520818"
+  },
+  {
+    "title": "My Name Is Cocaine",
+    "artist": "Mínus",
+    "isrc": "USVIC0320808"
+  },
+  {
+    "title": "Þyrnirós",
+    "artist": "Jonee Jonee",
+    "isrc": "ISB112006705"
+  },
+  {
+    "title": "Ape City (2024 mix)",
+    "artist": "I Adapt",
+    "isrc": "ISV442410101"
+  },
+  {
+    "title": "Ósonlagið",
+    "artist": "Búdrýgindi",
+    "isrc": "ISIRU1000706"
+  },
+  {
+    "title": "Toys - Live",
+    "artist": "Q4U",
+    "isrc": "ISC108201028"
+  },
+  {
+    "title": "Flestir mega fokka sér",
+    "artist": "Eilíf Sjálfsfróun",
+    "isrc": "ISV982113206"
+  },
+  {
+    "title": "Leyndarmál frægðarinnar (Live)",
+    "artist": "Das Kapital",
+    "isrc": "ISA110604610"
+  },
+  {
+    "title": "Rottur",
+    "artist": "Skoffín",
+    "isrc": "QZFZ72113415"
+  },
+  {
+    "title": "Raflost",
+    "artist": "Sucks to be you Nigel",
+    "isrc": "QZNWX2178457"
+  },
+  {
+    "title": "Bergmál",
+    "artist": "DIMMA",
+    "isrc": "TCADB1757018"
+  },
+  {
+    "title": "Chapter 7: Bureaucracy",
+    "artist": "Korter í flog",
+    "isrc": "QZK6F2014816"
+  }
+]

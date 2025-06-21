@@ -1,0 +1,612 @@
+[
+  {
+    "title": "Sunoh (From \"The Archies\")",
+    "artist": "Tejas, Javed Akhtar, Ankur Tewari, The Islanders, Dot.",
+    "isrc": "INS172310217"
+  },
+  {
+    "title": "Faasle",
+    "artist": "Anand Bhaskar Collective",
+    "isrc": "INO131602282"
+  },
+  {
+    "title": "Yeh Sama",
+    "artist": "Raghav Meattle",
+    "isrc": "INUM72303056"
+  },
+  {
+    "title": "Roz Roz",
+    "artist": "The Yellow Diary, Shilpa Rao",
+    "isrc": "INS172100470"
+  },
+  {
+    "title": "Parinda",
+    "artist": "Maalavika Manoj, Rahul Pais, Nariman Khambata, Priya Malik",
+    "isrc": "INS182400744"
+  },
+  {
+    "title": "Muqadama",
+    "artist": "Daira",
+    "isrc": "INU252413868"
+  },
+  {
+    "title": "September Embers",
+    "artist": "Anoushka Maskey",
+    "isrc": "QZNWR2016996"
+  },
+  {
+    "title": "Taqdeer",
+    "artist": "Donn Bhat, Rashmeet Kaur, Prabh Deep, Sakur Khan",
+    "isrc": "INUM72300148"
+  },
+  {
+    "title": "Paheli",
+    "artist": "Saptak Chatterjee",
+    "isrc": "USHM82088308"
+  },
+  {
+    "title": "Stuff on Our Minds",
+    "artist": "Aditi Ramesh",
+    "isrc": "GBLLT1802201"
+  },
+  {
+    "title": "Daydream",
+    "artist": "Fox in the Garden",
+    "isrc": "USCGJ2077211"
+  },
+  {
+    "title": "Homebound",
+    "artist": "Corner Cafe Chronicles",
+    "isrc": "FR59R2300910"
+  },
+  {
+    "title": "Diet Coke",
+    "artist": "The Lightyears Explode",
+    "isrc": "INO131603280"
+  },
+  {
+    "title": "Autumn",
+    "artist": "Short Round, Rahul Pais, Mali",
+    "isrc": "INO131602392"
+  },
+  {
+    "title": "Holy Fire",
+    "artist": "The Earth Below",
+    "isrc": "USDY42434674"
+  },
+  {
+    "title": "Hold Tight",
+    "artist": "Ape Echoes",
+    "isrc": "INO131605218"
+  },
+  {
+    "title": "Greyscale Dreams",
+    "artist": "Pacifist",
+    "isrc": "GBLLT1907720"
+  },
+  {
+    "title": "Redefine",
+    "artist": "Letterz",
+    "isrc": "INO132001096"
+  },
+  {
+    "title": "Khwabon Mein Teri",
+    "artist": "Paradigm Shift",
+    "isrc": "INO131300136"
+  },
+  {
+    "title": "Sakhi Tore Naina",
+    "artist": "Alchemy",
+    "isrc": "QZHN91922637"
+  },
+  {
+    "title": "Upside Down",
+    "artist": "Unohu",
+    "isrc": "ushm91926653"
+  },
+  {
+    "title": "tell me how?",
+    "artist": "Khoya Firdaus",
+    "isrc": "QZK6H2090834"
+  },
+  {
+    "title": "tfru",
+    "artist": "Water & Rum",
+    "isrc": "QZFYY2157500"
+  },
+  {
+    "title": "Bewajah",
+    "artist": "Azamaan Hoyvoy, Kamakshi Khanna",
+    "isrc": "TCAHU2410187"
+  },
+  {
+    "title": "Tani Sun La (From \"Very Parivarik\")",
+    "artist": "Vaibhav Bundhoo, Tradional",
+    "isrc": "INC442400007"
+  },
+  {
+    "title": "Divergent Theory",
+    "artist": "Jatin Talukdar Project",
+    "isrc": "QMPKX1890875"
+  },
+  {
+    "title": "Pieces",
+    "artist": "Nothing Anonymous",
+    "isrc": "QZES91977653"
+  },
+  {
+    "title": "Gunguni",
+    "artist": "The Vipin Mishra Project, Pervez Quadir",
+    "isrc": "QM4TW2417231"
+  },
+  {
+    "title": "Sharaabi",
+    "artist": "Madboy Mink",
+    "isrc": "INO131601827"
+  },
+  {
+    "title": "DO/DON'T",
+    "artist": "Saachi",
+    "isrc": "QMEU32027011"
+  },
+  {
+    "title": "What You See Is What You Get",
+    "artist": "The Fanculos",
+    "isrc": "QZES81828220"
+  },
+  {
+    "title": "Vultures",
+    "artist": "Serpents of Pakhangba",
+    "isrc": "INO132102116"
+  },
+  {
+    "title": "Baadal",
+    "artist": "Sparsh The Band, Siddharth Basrur",
+    "isrc": "INO132003371"
+  },
+  {
+    "title": "Ni Aar Di / Ladies Who Lift",
+    "artist": "Pratika",
+    "isrc": "FRX452221812"
+  },
+  {
+    "title": "Khaali Si Rooh",
+    "artist": "Athul Prabhu",
+    "isrc": "ushm92015445"
+  },
+  {
+    "title": "Ye Safar",
+    "artist": "The Sleeping Satellite",
+    "isrc": "TCAIF2404320"
+  },
+  {
+    "title": "Last Ticket Journey",
+    "artist": "Shubhangi Joshi Collective",
+    "isrc": "GBKPL1958751"
+  },
+  {
+    "title": "Perfection",
+    "artist": "Protocol",
+    "isrc": "ushm22014423"
+  },
+  {
+    "title": "New Day - Re:cover",
+    "artist": "Shaa'ir + Func",
+    "isrc": "ATR981145682"
+  },
+  {
+    "title": "Faults of Youth",
+    "artist": "Little Whales",
+    "isrc": "QZHN32059727"
+  },
+  {
+    "title": "Yehi Toh Life Hai",
+    "artist": "Karan Malhotra, Akanksha Sethi, Manaswi Mohata",
+    "isrc": "INV422302125"
+  },
+  {
+    "title": "Lifafe",
+    "artist": "Nikhil Posé",
+    "isrc": "QZK6N2182886"
+  },
+  {
+    "title": "Mere Ban Jao",
+    "artist": "Nisa Shetty, Amjad Nadeem Aamir",
+    "isrc": "INZ031415213"
+  },
+  {
+    "title": "Fizaa",
+    "artist": "Khoj",
+    "isrc": "QZFZ32023351"
+  },
+  {
+    "title": "Do Gallan",
+    "artist": "Alisha Batth, Vijay Prakash, Munna Dhiman, Hitesh Sonik",
+    "isrc": "INE182302430"
+  },
+  {
+    "title": "Astral Drift",
+    "artist": "Across Seconds",
+    "isrc": "INO131604753"
+  },
+  {
+    "title": "Kabir Ki Vani",
+    "artist": "Folk Masti",
+    "isrc": "FRX281950575"
+  },
+  {
+    "title": "Just Like a Fool",
+    "artist": "Riatsu, Neil Gomes",
+    "isrc": "QZHN61988641"
+  },
+  {
+    "title": "Gulaam",
+    "artist": "Sri",
+    "isrc": "INO131900057"
+  },
+  {
+    "title": "Motion",
+    "artist": "Dino Siren",
+    "isrc": "ushm82085369"
+  },
+  {
+    "title": "Yeh Pal",
+    "artist": "Ashwin Nishith",
+    "isrc": "QZHN52034245"
+  },
+  {
+    "title": "The Wolf Who Cried Boy",
+    "artist": "Barty's Path",
+    "isrc": "INO131602019"
+  },
+  {
+    "title": "Spell",
+    "artist": "Colaba Point, Doug Coulter",
+    "isrc": "INO131301028"
+  },
+  {
+    "title": "Sahara",
+    "artist": "Debanjan Biswas, Akshay Dabhadkar",
+    "isrc": "QZFYZ2072192"
+  },
+  {
+    "title": "Mistake",
+    "artist": "Esani Dey",
+    "isrc": "TCAFB2083699"
+  },
+  {
+    "title": "Things I Never Knew (Demo)",
+    "artist": "Mikhail Cazi",
+    "isrc": "USCGH2496677"
+  },
+  {
+    "title": "Colours",
+    "artist": "My Kind Of Blue",
+    "isrc": "INO131603346"
+  },
+  {
+    "title": "Aadat",
+    "artist": "Nirvik, Mohak",
+    "isrc": "FR10S2274084"
+  },
+  {
+    "title": "Baarish",
+    "artist": "Rohan Puntambekar, Aisha Sayed",
+    "isrc": "ushm82027989"
+  },
+  {
+    "title": "The Shepherd Song",
+    "artist": "Yash Sahai",
+    "isrc": "ushm21959053"
+  },
+  {
+    "title": "Semi Automatic Butane",
+    "artist": "Mali",
+    "isrc": "DGA0M2370995"
+  },
+  {
+    "title": "City Life",
+    "artist": "Raghav Meattle",
+    "isrc": "INO132000397"
+  },
+  {
+    "title": "Va Va Voom (From \"The Archies\")",
+    "artist": "Tejas, Shankar-Ehsaan-Loy, Javed Akhtar",
+    "isrc": "INS172316370"
+  },
+  {
+    "title": "Mann",
+    "artist": "The Yellow Diary",
+    "isrc": "INS172307965"
+  },
+  {
+    "title": "Jaadoogari",
+    "artist": "Anand Bhaskar Collective",
+    "isrc": "FRX202199606"
+  },
+  {
+    "title": "Basar",
+    "artist": "Daira",
+    "isrc": "FRX762075747"
+  },
+  {
+    "title": "Most of the Days",
+    "artist": "Anoushka Maskey",
+    "isrc": "TCAHT2455942"
+  },
+  {
+    "title": "Ishq",
+    "artist": "Donn Bhat",
+    "isrc": "TCAGZ2365085"
+  },
+  {
+    "title": "Jaadu",
+    "artist": "Saptak Chatterjee",
+    "isrc": "TCAHR2339722"
+  },
+  {
+    "title": "Efflux of Time",
+    "artist": "Aditi Ramesh",
+    "isrc": "GBLLT1802200"
+  },
+  {
+    "title": "Getting By",
+    "artist": "Fox in the Garden",
+    "isrc": "USCGJ2077213"
+  },
+  {
+    "title": "Midas",
+    "artist": "Corner Cafe Chronicles",
+    "isrc": "usdy42013354"
+  },
+  {
+    "title": "Kunj Gutka",
+    "artist": "The Lightyears Explode",
+    "isrc": "INO131603277"
+  },
+  {
+    "title": "Losing Day",
+    "artist": "Short Round, Siddharth Basrur",
+    "isrc": "INO131602390"
+  },
+  {
+    "title": "Come to Me",
+    "artist": "The Earth Below",
+    "isrc": "uscgh2197880"
+  },
+  {
+    "title": "Seven Lives",
+    "artist": "Ape Echoes",
+    "isrc": "QZFYX2061110"
+  },
+  {
+    "title": "The Bridge Between Us",
+    "artist": "Pacifist",
+    "isrc": "GBLLT2344801"
+  },
+  {
+    "title": "Imagine Salt",
+    "artist": "Letterz",
+    "isrc": "INO132001098"
+  },
+  {
+    "title": "Khoye The Hum",
+    "artist": "Paradigm Shift",
+    "isrc": "INO131604744"
+  },
+  {
+    "title": "Aao Suno",
+    "artist": "Alchemy",
+    "isrc": "TCAHT2324682"
+  },
+  {
+    "title": "Call My Name",
+    "artist": "Unohu",
+    "isrc": "QZES51970385"
+  },
+  {
+    "title": "Khwabida",
+    "artist": "Khoya Firdaus, Smriti Thakur",
+    "isrc": "QZNWZ2042509"
+  },
+  {
+    "title": "If I Dive Drunk",
+    "artist": "Water & Rum",
+    "isrc": "INO131603566"
+  },
+  {
+    "title": "Inna Minute",
+    "artist": "Azamaan Hoyvoy, NATE08",
+    "isrc": "FRX872373981"
+  },
+  {
+    "title": "Segments",
+    "artist": "Jatin Talukdar Project",
+    "isrc": "QZES82316056"
+  },
+  {
+    "title": "Tere Jaisa",
+    "artist": "Vaibhav Bundhoo, Kamakshi Khanna",
+    "isrc": "INC442100059"
+  },
+  {
+    "title": "Waste Away",
+    "artist": "Nothing Anonymous",
+    "isrc": "QM6P42064667"
+  },
+  {
+    "title": "Kya Tu Jaane (Lofi)",
+    "artist": "The Vipin Mishra Project",
+    "isrc": "GBLLT2153359"
+  },
+  {
+    "title": "Laika",
+    "artist": "Madboy Mink",
+    "isrc": "GBLLT1821687"
+  },
+  {
+    "title": "Doom's My Religion",
+    "artist": "Saachi, Ayan De",
+    "isrc": "QZTAY2389458"
+  },
+  {
+    "title": "Nothing to Say",
+    "artist": "The Fanculos",
+    "isrc": "INO131602884"
+  },
+  {
+    "title": "Ima",
+    "artist": "Serpents of Pakhangba, Tamara Kazziha",
+    "isrc": "INO132102117"
+  },
+  {
+    "title": "Durava",
+    "artist": "Sparsh The Band, Raman Pujari, Kunal Khade",
+    "isrc": "QMFMF2309247"
+  },
+  {
+    "title": "Love Duet",
+    "artist": "Pratika, Puneet Sharma, Charan Singh Pathana",
+    "isrc": "INZ031405942"
+  },
+  {
+    "title": "Ae Adaa",
+    "artist": "Athul Prabhu, Kanishk Seth",
+    "isrc": "INO132101821"
+  },
+  {
+    "title": "Udd Chala",
+    "artist": "The Sleeping Satellite",
+    "isrc": "QZHN42082150"
+  },
+  {
+    "title": "Surfing with the Times",
+    "artist": "Shubhangi Joshi Collective",
+    "isrc": "GBKPL1958753"
+  },
+  {
+    "title": "Gullible Child",
+    "artist": "Protocol, Siddharth Shankar",
+    "isrc": "ushm22014418"
+  },
+  {
+    "title": "Juxtapose - Re:cover",
+    "artist": "Shaa'ir + Func",
+    "isrc": "ATR981145678"
+  },
+  {
+    "title": "The Totem, a Friend",
+    "artist": "Little Whales",
+    "isrc": "QZHN32059729"
+  },
+  {
+    "title": "Baeth Bozakh Nae",
+    "artist": "Karan Malhotra, Nupoor Khedkar, Mohammad Muneem",
+    "isrc": "QZTB72286110"
+  },
+  {
+    "title": "Tu Hai",
+    "artist": "Raghav Meattle",
+    "isrc": "INUM72400267"
+  },
+  {
+    "title": "Anniku Raathiri",
+    "artist": "Mali, Madhan Karky",
+    "isrc": "INT202304094"
+  },
+  {
+    "title": "Tere Jeya Hor Disda",
+    "artist": "The Yellow Diary",
+    "isrc": "INS171807361"
+  },
+  {
+    "title": "Mera Safar",
+    "artist": "Anand Bhaskar Collective",
+    "isrc": "INO131300685"
+  },
+  {
+    "title": "Jab Tum Na Theen",
+    "artist": "Tejas, Shankar-Ehsaan-Loy, Javed Akhtar, Suhana Khan, Dot.",
+    "isrc": "INS172316366"
+  },
+  {
+    "title": "Bhaari Nasha",
+    "artist": "Daira, Karan Chitra Deshmukh",
+    "isrc": "FRX202303943"
+  },
+  {
+    "title": "Empire of Fear",
+    "artist": "Anoushka Maskey",
+    "isrc": "INO132100644"
+  },
+  {
+    "title": "Until You See",
+    "artist": "Donn Bhat, Toymob, Blackstratblues",
+    "isrc": "TCAHK2368610"
+  },
+  {
+    "title": "Yaadein Banate Hai",
+    "artist": "Saptak Chatterjee",
+    "isrc": "FR10S2204109"
+  },
+  {
+    "title": "Sambar Soul",
+    "artist": "Aditi Ramesh",
+    "isrc": "usl4r2012992"
+  },
+  {
+    "title": "Japan",
+    "artist": "Fox in the Garden",
+    "isrc": "USCGJ2077212"
+  },
+  {
+    "title": "Gloria's Kitchen",
+    "artist": "Corner Cafe Chronicles",
+    "isrc": "INO131604962"
+  },
+  {
+    "title": "I Am a Disco Dancer",
+    "artist": "The Lightyears Explode",
+    "isrc": "INO131603279"
+  },
+  {
+    "title": "Nowhere to Go",
+    "artist": "Short Round, Saurabh Roy",
+    "isrc": "INO131602391"
+  },
+  {
+    "title": "Brave Noise",
+    "artist": "The Earth Below",
+    "isrc": "uscgh2197878"
+  },
+  {
+    "title": "Silver (Poem by Walter de la Mare) [feat. Shreya Bhattacharya]",
+    "artist": "Ape Echoes, Shreya Bhattacharya",
+    "isrc": "QZFYY2059521"
+  },
+  {
+    "title": "Reactionary",
+    "artist": "Pacifist",
+    "isrc": "GBLLT1907717"
+  },
+  {
+    "title": "More Zero",
+    "artist": "Letterz",
+    "isrc": "INO132001099"
+  },
+  {
+    "title": "Wajah",
+    "artist": "Paradigm Shift",
+    "isrc": "INO131604743"
+  },
+  {
+    "title": "Woh Nahin Aayenge",
+    "artist": "Alchemy, Akanksha Sethi",
+    "isrc": "INUM72300227"
+  },
+  {
+    "title": "Waiting for Caesar",
+    "artist": "Unohu",
+    "isrc": "QZES51970386"
+  }
+]

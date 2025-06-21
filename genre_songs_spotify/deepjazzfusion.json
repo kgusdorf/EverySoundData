@@ -1,0 +1,847 @@
+[
+  {
+    "title": "Paradoxon",
+    "artist": "Gerald Gradwohl, Adam Nitti, Kirk Covington",
+    "isrc": "ATG652424101"
+  },
+  {
+    "title": "Odd Garage",
+    "artist": "Electric Outlet",
+    "isrc": "usx9p0686592"
+  },
+  {
+    "title": "Pink Partido",
+    "artist": "Tore Morten Andreassen",
+    "isrc": "uscgj1274398"
+  },
+  {
+    "title": "High Pressure",
+    "artist": "Alex Milella",
+    "isrc": "ITD880700183"
+  },
+  {
+    "title": "Groove Machine",
+    "artist": "Technical Info",
+    "isrc": "usy280714675"
+  },
+  {
+    "title": "Crime Scene",
+    "artist": "Hugh Ferguson",
+    "isrc": "uscgj0624392"
+  },
+  {
+    "title": "Moscow",
+    "artist": "Impact Fuze",
+    "isrc": "usx9p1152626"
+  },
+  {
+    "title": "Trace Of Jazz",
+    "artist": "Nico Stufano",
+    "isrc": "USA370534182"
+  },
+  {
+    "title": "Big Wig",
+    "artist": "Shane Theriot",
+    "isrc": "us5km0983101"
+  },
+  {
+    "title": "The Quiet",
+    "artist": "Phil Turcio",
+    "isrc": "uscgh2178030"
+  },
+  {
+    "title": "Augusta's Ankle",
+    "artist": "Project Z, Col. Bruce Hampton, Count M'Butu, Derek Trucks, Jeff Sipe, Jimmy Herring, Rev. Oliver Wells, Ricky Keller",
+    "isrc": "US28Q0008205"
+  },
+  {
+    "title": "Corny",
+    "artist": "Joel Hoekstra",
+    "isrc": "ushm90572946"
+  },
+  {
+    "title": "Billy's Saloon",
+    "artist": "Gamalon",
+    "isrc": "USAR49917001"
+  },
+  {
+    "title": "Skippy",
+    "artist": "David Hines",
+    "isrc": "ushm90518957"
+  },
+  {
+    "title": "Dream On",
+    "artist": "Gregg Bissonette, Paul Taylor, Ronnie James Dio, Stuart Hamm, Yngwie Malmsteen",
+    "isrc": "USA560623821"
+  },
+  {
+    "title": "Jungle City",
+    "artist": "Livio Lamonea",
+    "isrc": "uscgj0768362"
+  },
+  {
+    "title": "Wristkiller (feat. Alex Machacek)",
+    "artist": "Richard Hallebeek",
+    "isrc": "usx9p1242648"
+  },
+  {
+    "title": "Birdland",
+    "artist": "El Grupo",
+    "isrc": "ushm80674416"
+  },
+  {
+    "title": "Dorothy (feat. Greg Howe)",
+    "artist": "Peter Fernandes, Greg Howe",
+    "isrc": "ushm21452105"
+  },
+  {
+    "title": "First Light",
+    "artist": "Al Garcia",
+    "isrc": "uscgh2162214"
+  },
+  {
+    "title": "Lady Ann (Prologue)",
+    "artist": "Marc Guillermont",
+    "isrc": "DEBL60901228"
+  },
+  {
+    "title": "Berlin",
+    "artist": "Steve Hunt, Roberto Badoglio, Bjossi Klutsch, Virgil Donati",
+    "isrc": "USJAV1510010"
+  },
+  {
+    "title": "Trance",
+    "artist": "MSM Schmidt, Dave Weckl, Allan Holdsworth, Scott Kinsey, Jimmy Haslip, Katisse Buckingham",
+    "isrc": "DEK931735301"
+  },
+  {
+    "title": "Back to Life",
+    "artist": "Alberto Rigoni, Marco Minnemann",
+    "isrc": "ITQ821800021"
+  },
+  {
+    "title": "Someone Said You Were Dead",
+    "artist": "OHMphrey",
+    "isrc": "US78S0591011"
+  },
+  {
+    "title": "Conflict",
+    "artist": "Hemispheres",
+    "isrc": "usx9p0723506"
+  },
+  {
+    "title": "Fruits and Fibre",
+    "artist": "Sebastiaan Cornelissen",
+    "isrc": "USJQK1700002"
+  },
+  {
+    "title": "Aggressive Syncopes",
+    "artist": "Benny Jansson",
+    "isrc": "SERVA9924010"
+  },
+  {
+    "title": "Zaku Patatu (feat. Philippe Saisse)",
+    "artist": "Renaud Louis-Servais Group, Philippe Saisse",
+    "isrc": "FR9W11510331"
+  },
+  {
+    "title": "Splinter",
+    "artist": "Johannes Zetterberg",
+    "isrc": "seyo30900105"
+  },
+  {
+    "title": "Flashlights",
+    "artist": "Alex Argento",
+    "isrc": "TCAFL2101124"
+  },
+  {
+    "title": "Wrong Format",
+    "artist": "Frans Vollink",
+    "isrc": "uscgj0589097"
+  },
+  {
+    "title": "NIGHT VIEW",
+    "artist": "ExhiVision",
+    "isrc": "JPE561115224"
+  },
+  {
+    "title": "\"Oh, Yeah?\"",
+    "artist": "Jeff Richman, Vinnie Colaiuta, Jummy Haslip, Jeff Lorber, Jimmy Branly",
+    "isrc": "US3CR1501113"
+  },
+  {
+    "title": "Dorothy (Live)",
+    "artist": "Jeff Babko, David Piltch",
+    "isrc": "TCAHC2319489"
+  },
+  {
+    "title": "Nite in Bahia",
+    "artist": "Andrea Marcelli",
+    "isrc": "IT7151389863"
+  },
+  {
+    "title": "Tapatah",
+    "artist": "On Impulse",
+    "isrc": "NLF5X1400007"
+  },
+  {
+    "title": "Little Wing",
+    "artist": "Carl Filipiak, Dennis Chambers",
+    "isrc": "USDSL0610191"
+  },
+  {
+    "title": "Woody Chimer",
+    "artist": "Steve Topping",
+    "isrc": "GBGCS0400130"
+  },
+  {
+    "title": "D Funk'd",
+    "artist": "t lavitz, Jeff Berlin, Dennis Chambers, David Fiuczynski",
+    "isrc": "QM7281540679"
+  },
+  {
+    "title": "Peace for 4",
+    "artist": "Antoine Fafard",
+    "isrc": "CAU291308701"
+  },
+  {
+    "title": "Goes To Reason",
+    "artist": "Marc Norgaard",
+    "isrc": "ushm90745724"
+  },
+  {
+    "title": "Star Gazing",
+    "artist": "Chad Wackerman",
+    "isrc": "QMT3J1100004"
+  },
+  {
+    "title": "Victims of the Groove",
+    "artist": "Scott Kinsey, Gergo Borlai, Hadrien Feraud, Katisse Buckingham",
+    "isrc": "GB4DA1900161"
+  },
+  {
+    "title": "Falling Up",
+    "artist": "Allen Hinds",
+    "isrc": "ushm90834770"
+  },
+  {
+    "title": "Give Us This Day",
+    "artist": "Gary Husband",
+    "isrc": "GBHMX0825227"
+  },
+  {
+    "title": "Scirocco's Theory",
+    "artist": "Roberto Badoglio",
+    "isrc": "usx9p0994756"
+  },
+  {
+    "title": "Tunnel Elevator",
+    "artist": "Gerald Gradwohl Trio",
+    "isrc": "ATG650909102"
+  },
+  {
+    "title": "blues on the blvd.",
+    "artist": "Dean Brown",
+    "isrc": "ushm90497329"
+  },
+  {
+    "title": "Floating Fretless Dreams",
+    "artist": "Per Mathisen, Ruggero Robin, Gergo Borlai",
+    "isrc": "ATP021503701"
+  },
+  {
+    "title": "Special Treatment",
+    "artist": "Jazz Pistols",
+    "isrc": "ushm80675008"
+  },
+  {
+    "title": "Twisted Impression",
+    "artist": "Jason Sadites",
+    "isrc": "ushm81858251"
+  },
+  {
+    "title": "Symphony No. 9 in E Minor, Op. 95, B. 178 \"From the New World\": IV. Allegro con fuoco - Arranged for Drums",
+    "artist": "Mike Terrana",
+    "isrc": "FR6V82124531"
+  },
+  {
+    "title": "Bassick",
+    "artist": "Matalex",
+    "isrc": "DEE579810101"
+  },
+  {
+    "title": "A Star in the Hills",
+    "artist": "Joe Bergamini",
+    "isrc": "ushm90482215"
+  },
+  {
+    "title": "'Cause We've Ended As Lovers",
+    "artist": "William Stravato",
+    "isrc": "ITCZ61920015"
+  },
+  {
+    "title": "It's About Time",
+    "artist": "Bring Back Pluto",
+    "isrc": "uscgh1023198"
+  },
+  {
+    "title": "Shadow Of A Glance",
+    "artist": "Carl Eichman, Hidden Symmetry",
+    "isrc": "US4QL1800016"
+  },
+  {
+    "title": "Hej Där",
+    "artist": "Coste Apetrea",
+    "isrc": "GB7RM1700017"
+  },
+  {
+    "title": "Oxidation",
+    "artist": "HLMP",
+    "isrc": "DEZC62181388"
+  },
+  {
+    "title": "Ritual Factory",
+    "artist": "MCM",
+    "isrc": "ushm80559489"
+  },
+  {
+    "title": "Tigres",
+    "artist": "Mateus Starling",
+    "isrc": "BR27M1800001"
+  },
+  {
+    "title": "Tragedy Strikes - Original Mix",
+    "artist": "Scott Jones",
+    "isrc": "ITH641821388"
+  },
+  {
+    "title": "Rasta Pasta",
+    "artist": "Wayward Monks",
+    "isrc": "ushm80876488"
+  },
+  {
+    "title": "I Hate Sundays",
+    "artist": "Peter Szendofi",
+    "isrc": "usl4q0765010"
+  },
+  {
+    "title": "Big Bone",
+    "artist": "Los Lobotomys",
+    "isrc": "US4R30515290"
+  },
+  {
+    "title": "Billy",
+    "artist": "Gergo Borlai",
+    "isrc": "US3D61901082"
+  },
+  {
+    "title": "Roller Coaster",
+    "artist": "Tim Miller",
+    "isrc": "ushm81767571"
+  },
+  {
+    "title": "Stan Key - Live",
+    "artist": "Jing Chi",
+    "isrc": "QM7281541096"
+  },
+  {
+    "title": "Bilgewater Blues",
+    "artist": "Jimmy Herring",
+    "isrc": "USJQK3500010"
+  },
+  {
+    "title": "Peek-a-Boo",
+    "artist": "Mike Gotthard, Scott Kinsey, Gary Willis, Gergo Borlai",
+    "isrc": "HUC251600068"
+  },
+  {
+    "title": "On Fire (feat. Steve Morse)",
+    "artist": "School Of The Arts, Steve Morse",
+    "isrc": "US78S0571502"
+  },
+  {
+    "title": "Let's Stay Together",
+    "artist": "David Garfield, Michael McDonald",
+    "isrc": "US4R30602416"
+  },
+  {
+    "title": "Narkissos",
+    "artist": "Yiorgos Fakanas",
+    "isrc": "usl4r0706514"
+  },
+  {
+    "title": "Spain",
+    "artist": "The Elba Triangle",
+    "isrc": "usdy41768493"
+  },
+  {
+    "title": "Crowd Tectonics",
+    "artist": "Jens Johansson",
+    "isrc": "SERVA9716070"
+  },
+  {
+    "title": "Time is the Enemy",
+    "artist": "Jonas Hellborg, Jeff Sipe, Shawn Lane",
+    "isrc": "USKCV0704101"
+  },
+  {
+    "title": "American Jingo",
+    "artist": "Attention Deficit, Michael Manring, Alex Skolnick, Tim Alexander",
+    "isrc": "US78S0505401"
+  },
+  {
+    "title": "Dodging The Blues",
+    "artist": "Carl Verheyen",
+    "isrc": "QZ3DT1700004"
+  },
+  {
+    "title": "Elementa",
+    "artist": "Jonathan Lundberg, Hadrien Feraud, Carl Mörner Ringström, Kristian Kraftling, Karzan Mahmood",
+    "isrc": "QZES52364183"
+  },
+  {
+    "title": "Human Hardware",
+    "artist": "Icefish",
+    "isrc": "QMEU31721155"
+  },
+  {
+    "title": "King of Nothing",
+    "artist": "Drift Lab, Manuele Montesanti, Matteo Mancuso, Federico Malaman, Daniele Chiantese",
+    "isrc": "TCAGT2328150"
+  },
+  {
+    "title": "Silkroad",
+    "artist": "Matteo Mancuso",
+    "isrc": "NLB932301101"
+  },
+  {
+    "title": "Cheap Chunk",
+    "artist": "Gerald Gradwohl, Bill Evans, Adam Nitti, Kirk Covington",
+    "isrc": "ATG652424102"
+  },
+  {
+    "title": "Comprendes",
+    "artist": "Electric Outlet",
+    "isrc": "usx9p0686590"
+  },
+  {
+    "title": "The G-Spot",
+    "artist": "Tore Morten Andreassen",
+    "isrc": "uscgj1274397"
+  },
+  {
+    "title": "Orient Express (Chinese Way)",
+    "artist": "Alex Milella",
+    "isrc": "ITD880700184"
+  },
+  {
+    "title": "Well Organized Crime",
+    "artist": "Technical Info",
+    "isrc": "usy280714673"
+  },
+  {
+    "title": "A-D-D",
+    "artist": "Hugh Ferguson",
+    "isrc": "uscgj0624395"
+  },
+  {
+    "title": "Focused Power",
+    "artist": "Impact Fuze",
+    "isrc": "usx9p1152630"
+  },
+  {
+    "title": "Il Piccolo Klaus",
+    "artist": "Nico Stufano",
+    "isrc": "USA370534184"
+  },
+  {
+    "title": "Old Men",
+    "artist": "Shane Theriot",
+    "isrc": "us5km0983091"
+  },
+  {
+    "title": "Lost",
+    "artist": "Phil Turcio",
+    "isrc": "AUNZF1500101"
+  },
+  {
+    "title": "Mud Bug",
+    "artist": "Project Z, Col. Bruce Hampton, Count M'Butu, Derek Trucks, Jeff Sipe, Jimmy Herring, Rev. Oliver Wells, Ricky Keller",
+    "isrc": "US28Q0008203"
+  },
+  {
+    "title": "Twigs",
+    "artist": "Joel Hoekstra",
+    "isrc": "usl4r0752241"
+  },
+  {
+    "title": "Cabin #14",
+    "artist": "Gamalon",
+    "isrc": "USAR49917005"
+  },
+  {
+    "title": "Funk Harbor",
+    "artist": "David Hines, Steve Hunt, Steve Michaud, Pete McCann",
+    "isrc": "USJAV1010001"
+  },
+  {
+    "title": "I Don't Care",
+    "artist": "Livio Lamonea",
+    "isrc": "uscgj0768363"
+  },
+  {
+    "title": "Bring It On (feat. Guthrie Govan)",
+    "artist": "Richard Hallebeek",
+    "isrc": "usx9p1242650"
+  },
+  {
+    "title": "Tu Me Acostumbraste",
+    "artist": "El Grupo",
+    "isrc": "USZZR1200768"
+  },
+  {
+    "title": "Quod Erat Demonstrandum (feat. Derek Sherinian, Richard Hallebeek & Virgil Donati)",
+    "artist": "Peter Fernandes, Derek Sherinian, Richard Hallebeek, Virgil Donati",
+    "isrc": "ushm21452109"
+  },
+  {
+    "title": "Between Worlds",
+    "artist": "Al Garcia",
+    "isrc": "uscgh2162213"
+  },
+  {
+    "title": "T.S.A.",
+    "artist": "Marc Guillermont",
+    "isrc": "FR9W10501209"
+  },
+  {
+    "title": "Half Life",
+    "artist": "Steve Hunt, Roberto Badoglio, Bjossi Klutsch, Virgil Donati",
+    "isrc": "USJAV1510012"
+  },
+  {
+    "title": "Rush",
+    "artist": "MSM Schmidt, Dave Weckl, MonoNeon, Ruslan Sirota, John Daversa, Larry Koonse",
+    "isrc": "DEK931735307"
+  },
+  {
+    "title": "Grains of Sand",
+    "artist": "Alberto Rigoni, Michael Manring, Billy Sheehan",
+    "isrc": "TCAGJ2278840"
+  },
+  {
+    "title": "The Girl from Chi Town",
+    "artist": "OHMphrey",
+    "isrc": "US78S0591012"
+  },
+  {
+    "title": "Submarine",
+    "artist": "Gregg Bissonette, Doug Bossi",
+    "isrc": "USFN10020102"
+  },
+  {
+    "title": "Gravity",
+    "artist": "Hemispheres",
+    "isrc": "usx9p0723512"
+  },
+  {
+    "title": "Actual Proof",
+    "artist": "Sebastiaan Cornelissen, Bryan Baker, Bob van Luijt",
+    "isrc": "CH6540825818"
+  },
+  {
+    "title": "The Void",
+    "artist": "Benny Jansson",
+    "isrc": "SERVA9924020"
+  },
+  {
+    "title": "Carry'n",
+    "artist": "Renaud Louis-Servais Group",
+    "isrc": "FR9W11510327"
+  },
+  {
+    "title": "Thrill Minute",
+    "artist": "Johannes Zetterberg",
+    "isrc": "seyo30900101"
+  },
+  {
+    "title": "Straight",
+    "artist": "Frans Vollink",
+    "isrc": "uscgj0589092"
+  },
+  {
+    "title": "SCENT OF NOVA",
+    "artist": "ExhiVision",
+    "isrc": "JPE561115220"
+  },
+  {
+    "title": "Sizzle",
+    "artist": "Jeff Richman, Gergo Borlai, Jimmy Haslip, Paul Tavener",
+    "isrc": "US3CR1600300"
+  },
+  {
+    "title": "Rad Avenger",
+    "artist": "Jeff Babko",
+    "isrc": "QZFGF1800306"
+  },
+  {
+    "title": "Sunset in Rio",
+    "artist": "Andrea Marcelli",
+    "isrc": "IT7151389867"
+  },
+  {
+    "title": "Henry Goes Out for Blueberries",
+    "artist": "On Impulse",
+    "isrc": "NLF5X1400003"
+  },
+  {
+    "title": "I Got Your Mantra",
+    "artist": "Carl Filipiak, John Thomakos, Paul Soroka, Steve Zerlin",
+    "isrc": "USDSL0702904"
+  },
+  {
+    "title": "The Lost Song",
+    "artist": "Steve Topping",
+    "isrc": "GBGCS0400057"
+  },
+  {
+    "title": "The New Berkley Park",
+    "artist": "t lavitz",
+    "isrc": "QM7281540901"
+  },
+  {
+    "title": "Shuffle It! (feat. Jerry De Villiers Jr)",
+    "artist": "Antoine Fafard, Jerry De Villiers Jr.",
+    "isrc": "CAU291409201"
+  },
+  {
+    "title": "Pirate Sized Hangover",
+    "artist": "Marc Norgaard",
+    "isrc": "ushm90745730"
+  },
+  {
+    "title": "Holiday Insane",
+    "artist": "Chad Wackerman",
+    "isrc": "GBAJC9902564"
+  },
+  {
+    "title": "Cucumber Slumber / World Citizen",
+    "artist": "Scott Kinsey, Hadrien Feraud, Katisse Buckingham, Michael Baker",
+    "isrc": "GB4DA1900162"
+  },
+  {
+    "title": "Now Really",
+    "artist": "Allen Hinds",
+    "isrc": "ushm90660742"
+  },
+  {
+    "title": "If I Should Lose You",
+    "artist": "Gary Husband",
+    "isrc": "QMFME2343434"
+  },
+  {
+    "title": "Inner Urge",
+    "artist": "Roberto Badoglio",
+    "isrc": "usx9p0994759"
+  },
+  {
+    "title": "Viper",
+    "artist": "Gerald Gradwohl Trio",
+    "isrc": "ATG650909106"
+  },
+  {
+    "title": "Takethis!",
+    "artist": "Dean Brown",
+    "isrc": "uscgh1011727"
+  },
+  {
+    "title": "Now We Are Free",
+    "artist": "Per Mathisen, Jan Gunnar Hoff, Gary Novak",
+    "isrc": "NO2NJ2136060"
+  },
+  {
+    "title": "Angry Dragon",
+    "artist": "Jazz Pistols",
+    "isrc": "ushm80675015"
+  },
+  {
+    "title": "That's Gonna Leave a Mark (2017)",
+    "artist": "Jason Sadites, Tony Levin, Marco Minnemann",
+    "isrc": "usdy41762386"
+  },
+  {
+    "title": "The Barber of Seville: Overture - Arranged for Drums",
+    "artist": "Mike Terrana",
+    "isrc": "FR6V82124536"
+  },
+  {
+    "title": "A whales dream",
+    "artist": "Matalex",
+    "isrc": "DEE579810104"
+  },
+  {
+    "title": "Arrival",
+    "artist": "Joe Bergamini",
+    "isrc": "ushm90482206"
+  },
+  {
+    "title": "Invisible",
+    "artist": "William Stravato, Brett Garsed",
+    "isrc": "ITCZ61920001"
+  },
+  {
+    "title": "India Looking West 2",
+    "artist": "Bring Back Pluto",
+    "isrc": "ushm20734199"
+  },
+  {
+    "title": "Rebel in the Wheel",
+    "artist": "Carl Eichman",
+    "isrc": "US4QL1700034"
+  },
+  {
+    "title": "Still There",
+    "artist": "Gerald Gradwohl, Adam Nitti, Kirk Covington",
+    "isrc": "ATG652424106"
+  },
+  {
+    "title": "Propellorhead",
+    "artist": "Electric Outlet",
+    "isrc": "usx9p0686591"
+  },
+  {
+    "title": "Endless Space",
+    "artist": "Tore Morten Andreassen",
+    "isrc": "QM6N22469845"
+  },
+  {
+    "title": "Signal For Scott (To Scott Henderson)",
+    "artist": "Alex Milella",
+    "isrc": "ITD880700187"
+  },
+  {
+    "title": "Ritual",
+    "artist": "Technical Info",
+    "isrc": "usy280714676"
+  },
+  {
+    "title": "Savannah",
+    "artist": "Hugh Ferguson",
+    "isrc": "ushm80337148"
+  },
+  {
+    "title": "Punisher",
+    "artist": "Impact Fuze",
+    "isrc": "usx9p1152627"
+  },
+  {
+    "title": "Kiss Me Stupid !!",
+    "artist": "Nico Stufano",
+    "isrc": "USA370534183"
+  },
+  {
+    "title": "F Thing!",
+    "artist": "Shane Theriot",
+    "isrc": "us5km0983103"
+  },
+  {
+    "title": "The Futurist",
+    "artist": "Phil Turcio",
+    "isrc": "uscgh2178029"
+  },
+  {
+    "title": "Raging Torrent",
+    "artist": "Project Z, Col. Bruce Hampton, Count M'Butu, Derek Trucks, Jeff Sipe, Jimmy Herring, Rev. Oliver Wells, Ricky Keller",
+    "isrc": "US28Q0008201"
+  },
+  {
+    "title": "Electric Fields",
+    "artist": "Joel Hoekstra",
+    "isrc": "ushm90572942"
+  },
+  {
+    "title": "Ooh...Babe",
+    "artist": "Gamalon",
+    "isrc": "USAR49917002"
+  },
+  {
+    "title": "Kinesis",
+    "artist": "David Hines, Steve Hunt, Steve Michaud, Pete McCann",
+    "isrc": "USJAV1010003"
+  },
+  {
+    "title": "Too High",
+    "artist": "Livio Lamonea",
+    "isrc": "uscgj0768366"
+  },
+  {
+    "title": "East Side Bridge (feat. Greg Howe)",
+    "artist": "Richard Hallebeek",
+    "isrc": "usx9p1242656"
+  },
+  {
+    "title": "Somos Novios",
+    "artist": "El Grupo",
+    "isrc": "USZZR1200767"
+  },
+  {
+    "title": "Western Capital",
+    "artist": "Peter Fernandes",
+    "isrc": "QMAAK2258188"
+  },
+  {
+    "title": "Make It So",
+    "artist": "Al Garcia",
+    "isrc": "ushm20301036"
+  },
+  {
+    "title": "Ory 107",
+    "artist": "Marc Guillermont",
+    "isrc": "FR9W10501200"
+  },
+  {
+    "title": "Wring It Out",
+    "artist": "Steve Hunt",
+    "isrc": "ushm20546091"
+  },
+  {
+    "title": "Vista",
+    "artist": "MSM Schmidt, Virgil Donati, Allan Holdsworth, John Daversa, Andy Milne, Jimmy Haslip",
+    "isrc": "DEK931735303"
+  },
+  {
+    "title": "Ocean Traveler",
+    "artist": "Alberto Rigoni, Vitalij Kuprij, Josh Sapna",
+    "isrc": "ITN582403559"
+  },
+  {
+    "title": "Tom Bombadil",
+    "artist": "OHMphrey",
+    "isrc": "US78S0511403"
+  },
+  {
+    "title": "No Hay Parqueo",
+    "artist": "Gregg Bissonette, Gary Hoey, David Garfield",
+    "isrc": "USFN10020103"
+  },
+  {
+    "title": "Avenue Of The Righteous",
+    "artist": "Hemispheres",
+    "isrc": "usx9p0723509"
+  },
+  {
+    "title": "Stevenage",
+    "artist": "Sebastiaan Cornelissen",
+    "isrc": "USJQK1700009"
+  },
+  {
+    "title": "Boogie Man",
+    "artist": "Benny Jansson",
+    "isrc": "SERVA9924030"
+  },
+  {
+    "title": "Epic Circus (feat. Virgil Donati & Philippe Saisse)",
+    "artist": "Renaud Louis-Servais Group, Virgil Donati, Philippe Saisse",
+    "isrc": "FR9W11510329"
+  }
+]

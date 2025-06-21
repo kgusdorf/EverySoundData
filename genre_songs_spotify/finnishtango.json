@@ -1,0 +1,647 @@
+[
+  {
+    "title": "Kaipuu",
+    "artist": "Kari Piironen",
+    "isrc": "FITAT0100057"
+  },
+  {
+    "title": "Hiljaa kuiskaa nimeäs",
+    "artist": "Tiina Räsänen",
+    "isrc": "FIK3E0900001"
+  },
+  {
+    "title": "Kulkurin Saappaat",
+    "artist": "Teuvo Oinas",
+    "isrc": "FITAT9800047"
+  },
+  {
+    "title": "Oot rakkain",
+    "artist": "Erkki Räsänen",
+    "isrc": "FIMTA0200018"
+  },
+  {
+    "title": "Tahto rakastaa",
+    "artist": "Heidi Pakarinen",
+    "isrc": "FIMGM2300022"
+  },
+  {
+    "title": "En tekisi toisin",
+    "artist": "Jukka Hallikainen",
+    "isrc": "FIMTA0800095"
+  },
+  {
+    "title": "Ei aika mennyt koskaan palaa",
+    "artist": "Jaana Lammi",
+    "isrc": "FIFMF1221216"
+  },
+  {
+    "title": "Tuhon tietä kuljen",
+    "artist": "Sebastian Ahlgren",
+    "isrc": "FIMTA9301012"
+  },
+  {
+    "title": "Vain taivas tietää",
+    "artist": "Taina Kokkonen",
+    "isrc": "FIPFP9900058"
+  },
+  {
+    "title": "Soita mulle kitarain",
+    "artist": "Mika Pohjonen, The Malando Tango Orchestra",
+    "isrc": "FIFMF9500158"
+  },
+  {
+    "title": "Yksi Kaunis Päivä Vaan",
+    "artist": "Esko Rahkonen",
+    "isrc": "FITAT1500015"
+  },
+  {
+    "title": "Taivas salamoi",
+    "artist": "Jouni Keronen",
+    "isrc": "FIMTA9800103"
+  },
+  {
+    "title": "Sade",
+    "artist": "Mira Sunnari",
+    "isrc": "FI2AJ2100001"
+  },
+  {
+    "title": "Kaunista ja hyvää",
+    "artist": "Marko Maunuksela",
+    "isrc": "FIBAR1200060"
+  },
+  {
+    "title": "Kallein aarre",
+    "artist": "Matti Korkiala",
+    "isrc": "FIFMF9700471"
+  },
+  {
+    "title": "Soita Hiljaa Kitaraani",
+    "artist": "Jaska Mäkynen",
+    "isrc": "FIPT61200016"
+  },
+  {
+    "title": "Kukkasia sinulle",
+    "artist": "Kauko Simonen",
+    "isrc": "FISSE9900018"
+  },
+  {
+    "title": "Siks oon mä suruinen",
+    "artist": "Aino Niemi, Teijo Lindström",
+    "isrc": "FIGRF1700027"
+  },
+  {
+    "title": "Emmanuelle",
+    "artist": "Topi ja Toivottomat",
+    "isrc": "FIRCR1300332"
+  },
+  {
+    "title": "Katseet kertovat",
+    "artist": "Maria Tyyster",
+    "isrc": "FIBAR1500175"
+  },
+  {
+    "title": "Tango merellä",
+    "artist": "Taisto Tammi",
+    "isrc": "FIFMF6301000"
+  },
+  {
+    "title": "Pelkää en",
+    "artist": "Teijo Lindström",
+    "isrc": "FIBAR1800146"
+  },
+  {
+    "title": "Ensi kerran",
+    "artist": "Henri Stenroth",
+    "isrc": "FIMTA0700046"
+  },
+  {
+    "title": "Vain rakkaus",
+    "artist": "Amadeus Lundberg",
+    "isrc": "FIMGM1400011"
+  },
+  {
+    "title": "En antaa muuta voi",
+    "artist": "Saana Sassali",
+    "isrc": "FIGRF1800015"
+  },
+  {
+    "title": "Pettäjän tie",
+    "artist": "Taisto Ahlgren",
+    "isrc": "FIFSC7000100"
+  },
+  {
+    "title": "Muumipapan laiva",
+    "artist": "Risto Nevala",
+    "isrc": "FIMAP9500016"
+  },
+  {
+    "title": "Satumaa",
+    "artist": "Reijo Taipale",
+    "isrc": "FIFSC6200800"
+  },
+  {
+    "title": "Tahdon!",
+    "artist": "Aki Samuli",
+    "isrc": "FIBAR1500672"
+  },
+  {
+    "title": "En kasvojas muista",
+    "artist": "Hanna Talikainen",
+    "isrc": "FIMTA0800067"
+  },
+  {
+    "title": "Tiikerihai - Tiger Shark",
+    "artist": "Juha Eirto",
+    "isrc": "FIFMF5500027"
+  },
+  {
+    "title": "Aamuyö",
+    "artist": "Merja Raski",
+    "isrc": "FIEMS9302201"
+  },
+  {
+    "title": "Sydämesi tyhjä huone (feat. Saara Aalto)",
+    "artist": "Teemu Roivainen, Saara Aalto",
+    "isrc": "FIBAR1400726"
+  },
+  {
+    "title": "Taas lasken tiilten päät",
+    "artist": "Arja Sipola",
+    "isrc": "FIMTA1000020"
+  },
+  {
+    "title": "La Cumparsita",
+    "artist": "Tanssiorkesteri Pekkaniskan pojat",
+    "isrc": "FIMGM1100017"
+  },
+  {
+    "title": "Kosketa",
+    "artist": "Neitoset",
+    "isrc": "FI2TI2000001"
+  },
+  {
+    "title": "Hyvä niin",
+    "artist": "Benjamin Enroth",
+    "isrc": "FIMGM1700003"
+  },
+  {
+    "title": "Sanatonta rakkautta",
+    "artist": "Jenna Bågeberg",
+    "isrc": "FIMTA0700063"
+  },
+  {
+    "title": "Sua syleilen",
+    "artist": "Marco Lundberg, Virtuoso",
+    "isrc": "FILDB2200002"
+  },
+  {
+    "title": "Tummansininen sävel",
+    "artist": "Jarno Kokko",
+    "isrc": "FIGRF1800016"
+  },
+  {
+    "title": "Hopeinen kuu - Guarda che luna",
+    "artist": "Olavi Virta",
+    "isrc": "FIFSC6002200"
+  },
+  {
+    "title": "VIIMEINEN ILTA",
+    "artist": "Hannu Kause",
+    "isrc": "FIEDN9800014"
+  },
+  {
+    "title": "Rakastavaiset",
+    "artist": "Petri Hervanto",
+    "isrc": "FIYAM0000006"
+  },
+  {
+    "title": "Soittakaa lujempaa",
+    "artist": "Mikko Kilkkinen",
+    "isrc": "FIMTA0200067"
+  },
+  {
+    "title": "Sydämeni yksin tietää",
+    "artist": "Dimitri Isberg",
+    "isrc": "FIBAR9000901"
+  },
+  {
+    "title": "Jos minut vielä kohtaat",
+    "artist": "Tango Orkesteri Unto",
+    "isrc": "FITOU1400003"
+  },
+  {
+    "title": "Lapin Tango (Tango of Lappland)",
+    "artist": "Tango Pohjan Tähden",
+    "isrc": "uscgj1315446"
+  },
+  {
+    "title": "Tulkaa tytöt takaisin",
+    "artist": "Pekka Mikkola",
+    "isrc": "FIMTA1200024"
+  },
+  {
+    "title": "Naiseni kanssa eduskuntatalon puistossa",
+    "artist": "Unto Mononen, M.A. Numminen",
+    "isrc": "FIMAN6600005"
+  },
+  {
+    "title": "Täysikuu",
+    "artist": "A. Malando And His Tango Orchestra",
+    "isrc": "FIFMF7300093"
+  },
+  {
+    "title": "Piazzolla / Arr. Juhola & Viljamaa: Oblivion",
+    "artist": "Astor Piazzolla, Duo Milla Viljamaa & Johanna Juhola",
+    "isrc": "FIFIN0300189"
+  },
+  {
+    "title": "Mustalaisviulu",
+    "artist": "Harri Lahti",
+    "isrc": "FIFMF1226264"
+  },
+  {
+    "title": "Triunfal",
+    "artist": "Intime Quintet, Tampere Philharmonic Orchestra",
+    "isrc": "USB8U1062976"
+  },
+  {
+    "title": "Keinumorsian",
+    "artist": "Jouni Raitio",
+    "isrc": "FIMTA9100018"
+  },
+  {
+    "title": "Hiljaa yössä",
+    "artist": "Kari Piiroinen",
+    "isrc": "FIFMF1226260"
+  },
+  {
+    "title": "Vie meidät rakkauteen",
+    "artist": "Kirsi Rissanen",
+    "isrc": "FIFMF1226192"
+  },
+  {
+    "title": "Sinun kanssasi tähtisilmä",
+    "artist": "Marja-Riitta Aro",
+    "isrc": "FIFMF1225851"
+  },
+  {
+    "title": "Elämää Juoksuhaudoissa",
+    "artist": "Markku Uhlbäck",
+    "isrc": "FIA151800003"
+  },
+  {
+    "title": "Tule luoksein iltarusko",
+    "artist": "Mia Leivo",
+    "isrc": "FIMTA0800062"
+  },
+  {
+    "title": "Kultaiset korvarenkaat",
+    "artist": "Sirkka Peippo",
+    "isrc": "FIFMF1226262"
+  },
+  {
+    "title": "Romance del Diablo - Romance of The Devil",
+    "artist": "Tango for Four",
+    "isrc": "FIFIN9900162"
+  },
+  {
+    "title": "Tuuli tunturiin käy",
+    "artist": "Tapio Tammilehto",
+    "isrc": "FIFMF1238947"
+  },
+  {
+    "title": "Helsingfors, ljusa stad",
+    "artist": "Toivo Kärki Ensemble",
+    "isrc": "FIWMA0900312"
+  },
+  {
+    "title": "Hiljaa yössä",
+    "artist": "Kari Piironen",
+    "isrc": "FIMTA0400117"
+  },
+  {
+    "title": "Kerran, Vain Yhden Kerran",
+    "artist": "Teuvo Oinas",
+    "isrc": "FITAT9800048"
+  },
+  {
+    "title": "Rakkauden synty",
+    "artist": "Tiina Räsänen",
+    "isrc": "FIFMF9600304"
+  },
+  {
+    "title": "Anna tunteen tulla",
+    "artist": "Erkki Räsänen",
+    "isrc": "FIMTA0200004"
+  },
+  {
+    "title": "Minulla on sinut",
+    "artist": "Heidi Pakarinen",
+    "isrc": "FIB2M1600015"
+  },
+  {
+    "title": "Nuoruus, hulluus ja ihanuus",
+    "artist": "Jukka Hallikainen",
+    "isrc": "FIMTA0800068"
+  },
+  {
+    "title": "Missä Olit Silloin",
+    "artist": "Jaana Lammi",
+    "isrc": "FISPN9600047"
+  },
+  {
+    "title": "Vielä kerran",
+    "artist": "Sebastian Ahlgren",
+    "isrc": "FIMTR9300004"
+  },
+  {
+    "title": "Täältä ikuisuuteen",
+    "artist": "Taina Kokkonen",
+    "isrc": "FIPFP0100025"
+  },
+  {
+    "title": "Sua rakastan",
+    "artist": "Mika Pohjonen",
+    "isrc": "FIURA9700044"
+  },
+  {
+    "title": "Maailman naisista kaunein",
+    "artist": "Jouni Keronen",
+    "isrc": "FIMTA9900001"
+  },
+  {
+    "title": "Kotiseutu Pohjolassa",
+    "artist": "Esko Rahkonen",
+    "isrc": "FITAT7400002"
+  },
+  {
+    "title": "Myrskyöinä",
+    "artist": "Mira Sunnari",
+    "isrc": "FIMTA0100067"
+  },
+  {
+    "title": "Yö kerran unhoa annoit",
+    "artist": "Matti Korkiala",
+    "isrc": "FIFMF9700475"
+  },
+  {
+    "title": "Maailmanloppu",
+    "artist": "Marko Maunuksela",
+    "isrc": "FIBAR1000335"
+  },
+  {
+    "title": "Minä tuun nelostietä",
+    "artist": "Jaska Mäkynen",
+    "isrc": "FIVLM0400069"
+  },
+  {
+    "title": "Elämäni nainen",
+    "artist": "Kauko Simonen",
+    "isrc": "FIWMA0400702"
+  },
+  {
+    "title": "Valoa ikkunassa",
+    "artist": "Aino Niemi",
+    "isrc": "FIGRF1700017"
+  },
+  {
+    "title": "Kultalankaa",
+    "artist": "Topi ja Toivottomat",
+    "isrc": "FIRCR1200068"
+  },
+  {
+    "title": "Nuoruustango",
+    "artist": "Maria Tyyster",
+    "isrc": "FIBAR1100128"
+  },
+  {
+    "title": "Lago Maggiore",
+    "artist": "Teijo Lindström",
+    "isrc": "FIGRF1700019"
+  },
+  {
+    "title": "Tango Sinikalle",
+    "artist": "Taisto Tammi",
+    "isrc": "FIFMF6600017"
+  },
+  {
+    "title": "Onko rikos rakastaa",
+    "artist": "Henri Stenroth",
+    "isrc": "FIMTA0700041"
+  },
+  {
+    "title": "Poika varjoiselta kujalta - Guaglione",
+    "artist": "Amadeus Lundberg",
+    "isrc": "FIMGM1600039"
+  },
+  {
+    "title": "En kasvojas muista - STM 2018 Live",
+    "artist": "Saana Sassali",
+    "isrc": "FIGRF1800019"
+  },
+  {
+    "title": "Tumman orren alla",
+    "artist": "Taisto Ahlgren",
+    "isrc": "FIFSC7300017"
+  },
+  {
+    "title": "Sinitaivas",
+    "artist": "Risto Nevala",
+    "isrc": "FIMTA8900005"
+  },
+  {
+    "title": "Hei Buonanotte",
+    "artist": "Aki Samuli",
+    "isrc": "FIS632400003"
+  },
+  {
+    "title": "Repivää on rakkaus",
+    "artist": "Hanna Talikainen",
+    "isrc": "FIMTA0800094"
+  },
+  {
+    "title": "Tähdet meren yllä",
+    "artist": "Reijo Taipale",
+    "isrc": "FIFSC6300037"
+  },
+  {
+    "title": "Venezuela",
+    "artist": "Juha Eirto",
+    "isrc": "FIFMF5900033"
+  },
+  {
+    "title": "Mies ja huuliharppu",
+    "artist": "Merja Raski",
+    "isrc": "FIEMS9600056"
+  },
+  {
+    "title": "Kun aika on",
+    "artist": "Teemu Roivainen",
+    "isrc": "FITRO1700005"
+  },
+  {
+    "title": "Vaaralliset huulet",
+    "artist": "Arja Sipola",
+    "isrc": "FIFMF1226060"
+  },
+  {
+    "title": "Tuuliajolla",
+    "artist": "Tanssiorkesteri Pekkaniskan pojat",
+    "isrc": "FIMGM1100010"
+  },
+  {
+    "title": "Sulamith",
+    "artist": "Neitoset",
+    "isrc": "FISOJ2300028"
+  },
+  {
+    "title": "En oo",
+    "artist": "Benjamin Enroth",
+    "isrc": "FIGRF1900037"
+  },
+  {
+    "title": "Salaisuus",
+    "artist": "Jenna Bågeberg",
+    "isrc": "FIBAR1200113"
+  },
+  {
+    "title": "Sua vailla",
+    "artist": "Marco Lundberg",
+    "isrc": "FIBAR1700209"
+  },
+  {
+    "title": "Rakkaudesta riutunut - STM 2018 Live",
+    "artist": "Jarno Kokko",
+    "isrc": "FIGRF1800022"
+  },
+  {
+    "title": "Yhden tähden hotelli",
+    "artist": "Hannu Kause",
+    "isrc": "FIURA9600021"
+  },
+  {
+    "title": "Metsäkukkia",
+    "artist": "Olavi Virta",
+    "isrc": "FIFMF5200800"
+  },
+  {
+    "title": "Seuraavaan satamaan",
+    "artist": "Petri Hervanto",
+    "isrc": "FIYAM0000002"
+  },
+  {
+    "title": "Ei lähtevää saa viivyttää",
+    "artist": "Mikko Kilkkinen",
+    "isrc": "FIMTA0300003"
+  },
+  {
+    "title": "Elämän Mittainen Matka",
+    "artist": "Kari Piironen",
+    "isrc": "FITAT0800017"
+  },
+  {
+    "title": "Lakunauhaa",
+    "artist": "Tiina Räsänen",
+    "isrc": "FIYAM9400021"
+  },
+  {
+    "title": "Kesän tango",
+    "artist": "Teuvo Oinas",
+    "isrc": "FIFSC8900008"
+  },
+  {
+    "title": "Kahden tie",
+    "artist": "Erkki Räsänen",
+    "isrc": "FIHKY0300001"
+  },
+  {
+    "title": "Värähtelyjä",
+    "artist": "Heidi Pakarinen",
+    "isrc": "FIBAR1300471"
+  },
+  {
+    "title": "Pyhä toimitus",
+    "artist": "Jukka Hallikainen",
+    "isrc": "FIMTA0900021"
+  },
+  {
+    "title": "Olen Sinun Vain",
+    "artist": "Jaana Lammi",
+    "isrc": "FITAT0000036"
+  },
+  {
+    "title": "A-lei-o-lai",
+    "artist": "Sebastian Ahlgren",
+    "isrc": "FIEMS9400074"
+  },
+  {
+    "title": "Poika muukalainen",
+    "artist": "Taina Kokkonen",
+    "isrc": "FIPFP9900150"
+  },
+  {
+    "title": "Öiset kitarat",
+    "artist": "Mika Pohjonen",
+    "isrc": "FIMTA9200005"
+  },
+  {
+    "title": "Käy tanssiin",
+    "artist": "Jouni Keronen",
+    "isrc": "FIMTA9800167"
+  },
+  {
+    "title": "Erottamattomat",
+    "artist": "Esko Rahkonen",
+    "isrc": "FIFMF6600010"
+  },
+  {
+    "title": "Palaan lapsuusmaisemaan",
+    "artist": "Mira Sunnari",
+    "isrc": "FIMTA0200024"
+  },
+  {
+    "title": "Jos minut vielä kohtaat",
+    "artist": "Matti Korkiala",
+    "isrc": "FIMTA9700070"
+  },
+  {
+    "title": "Vanamo",
+    "artist": "Marko Maunuksela",
+    "isrc": "FIGRF2000020"
+  },
+  {
+    "title": "Kaunein katse",
+    "artist": "Jaska Mäkynen",
+    "isrc": "FIVLM0400067"
+  },
+  {
+    "title": "La cumparsita",
+    "artist": "Kauko Simonen",
+    "isrc": "FIFMF1237536"
+  },
+  {
+    "title": "Tango Poesie",
+    "artist": "Aino Niemi",
+    "isrc": "FIGRF1700023"
+  },
+  {
+    "title": "Duunarin Humppa",
+    "artist": "Topi ja Toivottomat",
+    "isrc": "FIRCR1200063"
+  },
+  {
+    "title": "Kenen yhden vaan",
+    "artist": "Maria Tyyster, Remu",
+    "isrc": "FIAXK2200002"
+  },
+  {
+    "title": "Ruusunoksa ja kyyhkynen",
+    "artist": "Teijo Lindström",
+    "isrc": "FIGRF1700030"
+  },
+  {
+    "title": "Suopursu",
+    "artist": "Taisto Tammi",
+    "isrc": "FIFMF7400107"
+  }
+]

@@ -1,0 +1,827 @@
+[
+  {
+    "title": "Lady Lazarus",
+    "artist": "Sylvia Plath",
+    "isrc": "QMBZ91304582"
+  },
+  {
+    "title": "Mending Wall",
+    "artist": "Robert Frost",
+    "isrc": "QMFME1463506"
+  },
+  {
+    "title": "When faces called flowers float out of the ground",
+    "artist": "E.E. Cummings",
+    "isrc": "USCQE1011030"
+  },
+  {
+    "title": "The Lake of Innisfree",
+    "artist": "William Butler Yeats",
+    "isrc": "GBMNA0914396"
+  },
+  {
+    "title": "Lapis Lazuli (William Butler Yeats)",
+    "artist": "Dylan Thomas",
+    "isrc": "USA561380611"
+  },
+  {
+    "title": "As I Walked out One Evening",
+    "artist": "W. H. Auden",
+    "isrc": "USCQE1111060"
+  },
+  {
+    "title": "America",
+    "artist": "Allen Ginsberg",
+    "isrc": "USFI85900488"
+  },
+  {
+    "title": "The Idea of Order at Key West",
+    "artist": "Wallace Stevens",
+    "isrc": "QMDA61470008"
+  },
+  {
+    "title": "The Love Song of J. Alfred Prufrock",
+    "artist": "T. S. Eliot",
+    "isrc": "USCQE1011031"
+  },
+  {
+    "title": "Edna St. Vincent Millay - Childhood is the Kingdom Where Nobody Dies",
+    "artist": "Edna St. Vincent Millay",
+    "isrc": "USCQE1011254"
+  },
+  {
+    "title": "A Rouse for Stevens / Song for the Squeeze Box",
+    "artist": "Theodore Roethke",
+    "isrc": "USSF16273601"
+  },
+  {
+    "title": "Canto #3",
+    "artist": "Ezra Pound",
+    "isrc": "QMDA61417100"
+  },
+  {
+    "title": "Rhythms of the World",
+    "artist": "Langston Hughes",
+    "isrc": "USSF19500117"
+  },
+  {
+    "title": "Sounds of the Universe Coming in My Window (with Steve Allen)",
+    "artist": "Jack Kerouac",
+    "isrc": "USRHD1102694"
+  },
+  {
+    "title": "Skunk Hour",
+    "artist": "Robert Lowell",
+    "isrc": "USA371576973"
+  },
+  {
+    "title": "To Elsie",
+    "artist": "William Carlos Williams",
+    "isrc": "USA371576980"
+  },
+  {
+    "title": "In Distrust of Merits",
+    "artist": "Marianne Moore",
+    "isrc": "USCQE1010447"
+  },
+  {
+    "title": "Part 4 - Time and Eternity.7 & Closing Credits - Poems: Series One",
+    "artist": "Emily Dickinson",
+    "isrc": "DEXQ60711361"
+  },
+  {
+    "title": "To Juan At the Winter Solstice",
+    "artist": "Robert Graves",
+    "isrc": "USA371576977"
+  },
+  {
+    "title": "The Fish",
+    "artist": "Elizabeth Bishop",
+    "isrc": "USCQE1010470"
+  },
+  {
+    "title": "Pike",
+    "artist": "Ted Hughes",
+    "isrc": "USCQE1111357"
+  },
+  {
+    "title": "All My Pretty Ones",
+    "artist": "Anne Sexton",
+    "isrc": "USCQE1011514"
+  },
+  {
+    "title": "The Secret of My Endurance",
+    "artist": "Charles Bukowski",
+    "isrc": "USA371576923"
+  },
+  {
+    "title": "Church Going",
+    "artist": "Philip Larkin",
+    "isrc": "GBK7D1000015"
+  },
+  {
+    "title": "Prejudice",
+    "artist": "Carl Sandburg",
+    "isrc": "QMFME1470086"
+  },
+  {
+    "title": "A Hymne To Christ",
+    "artist": "John Donne, Sir Peter Pears",
+    "isrc": "GBF077642802"
+  },
+  {
+    "title": "Putting to Sea",
+    "artist": "Louise Bogan",
+    "isrc": "QM4TW1923500"
+  },
+  {
+    "title": "An Bonnán Buí",
+    "artist": "Seamus Heaney",
+    "isrc": "IEAAQ1100132"
+  },
+  {
+    "title": "Advent 1966",
+    "artist": "Denise Levertov",
+    "isrc": "QM6P41538212"
+  },
+  {
+    "title": "Dover Beach",
+    "artist": "Matthew Arnold",
+    "isrc": "GBHFE1206021"
+  },
+  {
+    "title": "Bradley The Buyer",
+    "artist": "William S. Burroughs",
+    "isrc": "US2391562601"
+  },
+  {
+    "title": "The World Is a Beautiful Place",
+    "artist": "Lawrence Ferlinghetti",
+    "isrc": "QMFME1367933"
+  },
+  {
+    "title": "Monologue: \"Now Listen! Can't You See That When Language...\"",
+    "artist": "Gertrude Stein, John Yap, Stephen Flaherty, Tom Murray",
+    "isrc": "GBDGA0703701"
+  },
+  {
+    "title": "Portrait of the Artist As a Prematurely Old Man",
+    "artist": "Ogden Nash",
+    "isrc": "USA371576957"
+  },
+  {
+    "title": "Epistle to Be Left in the Earth",
+    "artist": "Archibald MacLeish",
+    "isrc": "QMDA61417108"
+  },
+  {
+    "title": "Kapitel 3 - Angst vorm Sterben",
+    "artist": "Erica Jong",
+    "isrc": "DEXO62107888"
+  },
+  {
+    "title": "Evangeline, Chapter 1 & Evangeline, Chapter 2.1 - Evangeline (Unabridged)",
+    "artist": "Henry Wadsworth Longfellow",
+    "isrc": "DEXQ61291815"
+  },
+  {
+    "title": "El Banquete De Los Sapos 1 - El Banquete De Los Sapos",
+    "artist": "Dorothy Parker, Luis Marquez",
+    "isrc": "DEXN82253760"
+  },
+  {
+    "title": "To A Skylark",
+    "artist": "Percy Bysshe Shelley, Vincent Price",
+    "isrc": "GBHFE0630774"
+  },
+  {
+    "title": "Give Me The Splendid Silent Sun",
+    "artist": "Walt Whitman",
+    "isrc": "GBHFE1012306"
+  },
+  {
+    "title": "Tintern Abbey - Track 4",
+    "artist": "William Wordsworth, Steve Patriarca",
+    "isrc": "ATAZ92063367"
+  },
+  {
+    "title": "Chapter 1.1 - B. J. Harrison Reads Lamia",
+    "artist": "John Keats",
+    "isrc": "DEVP81245196"
+  },
+  {
+    "title": "Poems of William Blake, Chapter 1 & Poems of William Blake, Chapter 2.1 - Poems of William Blake (Unabridged)",
+    "artist": "William Blake",
+    "isrc": "DEXQ61291385"
+  },
+  {
+    "title": "Ode to Joy",
+    "artist": "Frank O'Hara",
+    "isrc": "QMBZ91345015"
+  },
+  {
+    "title": "Letters and Poems: Poem: Disabled",
+    "artist": "Wilfred Owen, Samuel West",
+    "isrc": "GBYDS0800027"
+  },
+  {
+    "title": "The Raven",
+    "artist": "Edgar Allan Poe, William Dufris",
+    "isrc": "GBHFE0623089"
+  },
+  {
+    "title": "Kapitel 1 - Jeder Engel ist schrecklich - Freie Rezitation von Rainer Maria Rilkes \"Duineser Elegien\". Live-Mitschnitt",
+    "artist": "Rainer Maria Rilke, Edgar Selge, Franziska Walser",
+    "isrc": "DEXO22337253"
+  },
+  {
+    "title": "Chapter 1 - Hamlet",
+    "artist": "William Shakespeare",
+    "isrc": "DEVU52250426"
+  },
+  {
+    "title": "Last Gods",
+    "artist": "Galway Kinnell",
+    "isrc": "USA371576989"
+  },
+  {
+    "title": "My Father, In Heaven, Is Reading Out Loud",
+    "artist": "Li-Young Lee",
+    "isrc": "USA371576942"
+  },
+  {
+    "title": "Dragon Country",
+    "artist": "Robert Penn Warren",
+    "isrc": "USA371401638"
+  },
+  {
+    "title": "Frankly Speaking - Dame Edith Sitwell Interviewed by Paul Dehn, Lionel Hale and Margaret Lane: 'Introduction…' what is the most beautiful line of poetry?'",
+    "artist": "Edith Sitwell, Paul Dehn, Lionel Hale, Margaret Lane",
+    "isrc": "GBYDS1700071"
+  },
+  {
+    "title": "nightclub",
+    "artist": "Billy Collins",
+    "isrc": "USA560584937"
+  },
+  {
+    "title": "Chapter 1 - Kubla Khan, or, A Vision in a Dream: A Fragment",
+    "artist": "Samuel Taylor Coleridge",
+    "isrc": "DEWM41885205"
+  },
+  {
+    "title": "I Cannot Live With You",
+    "artist": "Julie Harris",
+    "isrc": "GBMNA1019995"
+  },
+  {
+    "title": "Chapter 1.1 - The Melodramatists",
+    "artist": "Howard Nemerov",
+    "isrc": "DEVP80365221"
+  },
+  {
+    "title": "The Ballad of Orange and Grape",
+    "artist": "Muriel Rukeyser",
+    "isrc": "USA371577007"
+  },
+  {
+    "title": "King of the River",
+    "artist": "Stanley Kunitz",
+    "isrc": "USA371576968"
+  },
+  {
+    "title": "Chapter 1 - William Wordsworth Selected Poems",
+    "artist": "William Wordsworth, Steve Patriarca",
+    "isrc": "DEXO72129772"
+  },
+  {
+    "title": "Al Gallo",
+    "artist": "Pablo Neruda",
+    "isrc": "CLBB26400362"
+  },
+  {
+    "title": "Lollingdon Downs: II. O Wretched Man, That For A Little Mile / V. I Could Not Sleep For Thinking Of The Sky / VI. How Did The Nothing Become, How Did These Fires / VII. It May Be So; But Let The Unkno",
+    "artist": "John Masefield",
+    "isrc": "GBLGL1104192"
+  },
+  {
+    "title": "The House Of Clouds By Elizabeth Barrett Browning",
+    "artist": "Elizabeth Barrett Browning",
+    "isrc": "GBHFE1105177"
+  },
+  {
+    "title": "Louis MacNeice - Meeting Point",
+    "artist": "Louis MacNeice",
+    "isrc": "USCQE1011251"
+  },
+  {
+    "title": "Melvin B. Tolson - An Ex-Judge at the Bar",
+    "artist": "Melvin B. Tolson",
+    "isrc": "USCQE1011259"
+  },
+  {
+    "title": "Randall Jarrell - Seele im Raum",
+    "artist": "Randall Jarrell",
+    "isrc": "USCQE1011246"
+  },
+  {
+    "title": "The Old Vicarage, Grantchester",
+    "artist": "Rupert Brooke",
+    "isrc": "GBGHW0700030"
+  },
+  {
+    "title": "Like This Together",
+    "artist": "Adrienne Rich",
+    "isrc": "QM6P41538199"
+  },
+  {
+    "title": "Part II - The Glory: Little Brown Baby",
+    "artist": "Langston Hughes, Paul Laurence Dunbar",
+    "isrc": "USSF15575224"
+  },
+  {
+    "title": "Introduction",
+    "artist": "Charles Osgood",
+    "isrc": "USLDA0800008"
+  },
+  {
+    "title": "Countee Cullen - To John Keats, Poet, at Spring Time",
+    "artist": "Countee Cullen",
+    "isrc": "GBHFE1605245"
+  },
+  {
+    "title": "Beverly Hills, Chicago",
+    "artist": "Gwendolyn Brooks",
+    "isrc": "USSF15479120"
+  },
+  {
+    "title": "Ransom - Captain Carpenter",
+    "artist": "John Crowe Ransom",
+    "isrc": "USCQE1010893"
+  },
+  {
+    "title": "Laurie Lee: The Abandoned Shade / Day of These Days",
+    "artist": "Laurie Lee",
+    "isrc": "USSF16188720"
+  },
+  {
+    "title": "Blueberries",
+    "artist": "Lesley Frost",
+    "isrc": "USSF16173313"
+  },
+  {
+    "title": "What It Was",
+    "artist": "Mark Strand, Various Artists",
+    "isrc": "US75Y0570004"
+  },
+  {
+    "title": "Neutralize!",
+    "artist": "Mitsuye Yamada",
+    "isrc": "USFVZ0900088"
+  },
+  {
+    "title": "Jeffers - Oh, Lovely Rock",
+    "artist": "Robinson Jeffers",
+    "isrc": "USCQE1010892"
+  },
+  {
+    "title": "The Annihilation of Nothing / Innocence",
+    "artist": "Thom Gunn",
+    "isrc": "USSF16787912"
+  },
+  {
+    "title": "Desiderata",
+    "artist": "Richard Burton",
+    "isrc": "USX761650312"
+  },
+  {
+    "title": "Nocturne",
+    "artist": "Sylvia Plath",
+    "isrc": "USA371401588"
+  },
+  {
+    "title": "Two Tramps in Mud Time",
+    "artist": "Robert Frost",
+    "isrc": "QMFME1463508"
+  },
+  {
+    "title": "The Acrobat Passage",
+    "artist": "E.E. Cummings",
+    "isrc": "USCQE1011010"
+  },
+  {
+    "title": "The Fiddler of Dooney",
+    "artist": "William Butler Yeats",
+    "isrc": "GBMNA0914395"
+  },
+  {
+    "title": "Chapter 1 - Under Milk Wood",
+    "artist": "Dylan Thomas, Matthew Rhys, Kate Burton, Laura Evans, John H. Francis, Jason Hughes, Christopher Monger, Cerris Morgan-Moyer, Jo Osmond, Morgan Ritchie",
+    "isrc": "DEVU52238571"
+  },
+  {
+    "title": "The Wanderer",
+    "artist": "W. H. Auden",
+    "isrc": "USCQE1111056"
+  },
+  {
+    "title": "A Supermarket In California - Live / 1/29/1959",
+    "artist": "Allen Ginsberg",
+    "isrc": "USFI85900486"
+  },
+  {
+    "title": "So and So Reclining On Her Couch",
+    "artist": "Wallace Stevens",
+    "isrc": "USA371576941"
+  },
+  {
+    "title": "The Hollow Men",
+    "artist": "T. S. Eliot, Robert Speaight",
+    "isrc": "GBKTV0404134"
+  },
+  {
+    "title": "The Dream / All the Earth, All the Air / Words for the Wind",
+    "artist": "Theodore Roethke",
+    "isrc": "USSF16273603"
+  },
+  {
+    "title": "Canto #38",
+    "artist": "Ezra Pound",
+    "isrc": "QMDA61417101"
+  },
+  {
+    "title": "The Struggle",
+    "artist": "Langston Hughes",
+    "isrc": "USSF19500116"
+  },
+  {
+    "title": "For the Union Dead",
+    "artist": "Robert Lowell",
+    "isrc": "QMBZ91345931"
+  },
+  {
+    "title": "San Francisco Scene - The Beat Generation",
+    "artist": "Jack Kerouac",
+    "isrc": "USWWW0139495"
+  },
+  {
+    "title": "To Daphne and Virginia",
+    "artist": "William Carlos Williams",
+    "isrc": "USCQE1110002"
+  },
+  {
+    "title": "Bird-Witted",
+    "artist": "Marianne Moore",
+    "isrc": "USA371576954"
+  },
+  {
+    "title": "Part 3 - Nature.2 - Poems: Series Two",
+    "artist": "Emily Dickinson",
+    "isrc": "DEXQ60711427"
+  },
+  {
+    "title": "The White Goddess: pp. 3,10,11",
+    "artist": "Robert Graves",
+    "isrc": "USCQE1111073"
+  },
+  {
+    "title": "Poem",
+    "artist": "Elizabeth Bishop",
+    "isrc": "USCQE1110067"
+  },
+  {
+    "title": "Six Young Men",
+    "artist": "Ted Hughes",
+    "isrc": "USCQE1111352"
+  },
+  {
+    "title": "You, Doctor Martin",
+    "artist": "Anne Sexton",
+    "isrc": "USCQE1011499"
+  },
+  {
+    "title": "Lines On A Young Lady's Photograph Album",
+    "artist": "Philip Larkin",
+    "isrc": "GBK7D1000001"
+  },
+  {
+    "title": "Proverbs from the People, Yes",
+    "artist": "Carl Sandburg",
+    "isrc": "QMDA61417975"
+  },
+  {
+    "title": "I Am a Reasonable Man - Live",
+    "artist": "Charles Bukowski",
+    "isrc": "US48L0900118"
+  },
+  {
+    "title": "Track 1 - Metaphysical Poems",
+    "artist": "John Donne, Henry King, Andrew Marvell, Steve Patriarca",
+    "isrc": "DE1A32156326"
+  },
+  {
+    "title": "Song for the Last Act",
+    "artist": "Louise Bogan",
+    "isrc": "QM4TW1923510"
+  },
+  {
+    "title": "The Glamoured",
+    "artist": "Seamus Heaney",
+    "isrc": "IEAAQ1100134"
+  },
+  {
+    "title": "Cities of the Red Night",
+    "artist": "William S. Burroughs",
+    "isrc": "USA371576926"
+  },
+  {
+    "title": "A Wish",
+    "artist": "Matthew Arnold, Ghizela Rowe",
+    "isrc": "GBHFE1206024"
+  },
+  {
+    "title": "Baseball Canto",
+    "artist": "Lawrence Ferlinghetti",
+    "isrc": "ushm20570341"
+  },
+  {
+    "title": "If I Told Him (A Completed Portrait of Picasso)",
+    "artist": "Gertrude Stein",
+    "isrc": "USA371577013"
+  },
+  {
+    "title": "Everybody Tells Me Everything",
+    "artist": "Ogden Nash",
+    "isrc": "GBELT1229580"
+  },
+  {
+    "title": "Geography of This Time",
+    "artist": "Archibald MacLeish",
+    "isrc": "QMDA61417112"
+  },
+  {
+    "title": "Kapitel 1 - Angst vorm Sterben",
+    "artist": "Erica Jong",
+    "isrc": "DEXO62107886"
+  },
+  {
+    "title": "Evangeline, Chapter 5.3 & Evangeline, Chapter 6.1 - Evangeline (Unabridged)",
+    "artist": "Henry Wadsworth Longfellow",
+    "isrc": "DEXQ61291823"
+  },
+  {
+    "title": "El Banquete De Los Sapos 2 - El Banquete De Los Sapos",
+    "artist": "Dorothy Parker, Luis Marquez",
+    "isrc": "DEXN82253761"
+  },
+  {
+    "title": "From Prometheus Unbound",
+    "artist": "Percy Bysshe Shelley, Vincent Price",
+    "isrc": "GBHFE0630778"
+  },
+  {
+    "title": "Chapter 14.2 & Chapter 15 & Chapter 16 & Chapter 17.1 - Poèmes de Walt Whitman",
+    "artist": "Walt Whitman",
+    "isrc": "DEWM51399701"
+  },
+  {
+    "title": "Tintern Abbey - Track 1",
+    "artist": "William Wordsworth, Steve Patriarca",
+    "isrc": "ATAZ92063364"
+  },
+  {
+    "title": "Chapter 1.3 - B. J. Harrison Reads Lamia",
+    "artist": "John Keats",
+    "isrc": "DEVP81245198"
+  },
+  {
+    "title": "Poems of William Blake, Chapter 2.2 - Poems of William Blake (Unabridged)",
+    "artist": "William Blake",
+    "isrc": "DEXQ61291386"
+  },
+  {
+    "title": "Adieu to Norman, Bon Jour to Joan and Jean-Paul",
+    "artist": "Frank O'Hara",
+    "isrc": "QMBZ91345016"
+  },
+  {
+    "title": "Letters and Poems: Poem: Exposure",
+    "artist": "Wilfred Owen, Samuel West",
+    "isrc": "GBYDS0800020"
+  },
+  {
+    "title": "Chapter 1 - Macbeth",
+    "artist": "William Shakespeare, Josh Cooke, JD Cullum, Dan Donohue, Jeannie Elias, Chuma Gault, James Marsters, Jon Matthews, Alan Shearman, Andre Sogliuzzo, Kate Steele, Kristoffer Tabori, Joanne Whalley",
+    "isrc": "DEVU52241624"
+  },
+  {
+    "title": "Kapitel 1.1 - Rainer Maria Rilke: Briefe an einen jungen Dichter",
+    "artist": "Rainer Maria Rilke",
+    "isrc": "DEWM51320704"
+  },
+  {
+    "title": "Chapter 1 - Edgar Allan Poe: The Complete Stories",
+    "artist": "Edgar Allan Poe",
+    "isrc": "DEXN82252542"
+  },
+  {
+    "title": "The Decline in Human Values",
+    "artist": "Robert Penn Warren",
+    "isrc": "QZANV1800691"
+  },
+  {
+    "title": "Frankly Speaking - Dame Edith Sitwell Interviewed by Paul Dehn, Lionel Hale and Margaret Lane: Childhood reading",
+    "artist": "Edith Sitwell, Paul Dehn, Lionel Hale, Margaret Lane",
+    "isrc": "GBYDS1700078"
+  },
+  {
+    "title": "forgetfulness",
+    "artist": "Billy Collins",
+    "isrc": "USA560584911"
+  },
+  {
+    "title": "Chapter 09 - B. J. Harrison Reads The Rime of the Ancient Mariner",
+    "artist": "Samuel Taylor Coleridge",
+    "isrc": "DEWI19942880"
+  },
+  {
+    "title": "Aphrodite",
+    "artist": "Julie Harris",
+    "isrc": "USV351469332"
+  },
+  {
+    "title": "Chapter 2.3 - The Melodramatists",
+    "artist": "Howard Nemerov",
+    "isrc": "DEVP80365226"
+  },
+  {
+    "title": "Daddy",
+    "artist": "Sylvia Plath",
+    "isrc": "USV351374590"
+  },
+  {
+    "title": "Birches",
+    "artist": "Robert Frost",
+    "isrc": "USCQE1010990"
+  },
+  {
+    "title": "What if a much of a which of a wind",
+    "artist": "E.E. Cummings",
+    "isrc": "USCQE1011022"
+  },
+  {
+    "title": "Modern Poetry",
+    "artist": "William Butler Yeats",
+    "isrc": "GBMNA0914398"
+  },
+  {
+    "title": "King Lear - Lear and the Fool",
+    "artist": "Dylan Thomas",
+    "isrc": "GBMNA1200359"
+  },
+  {
+    "title": "Death's Echo",
+    "artist": "W. H. Auden",
+    "isrc": "USCQE1111063"
+  },
+  {
+    "title": "To the One of Fictive Music",
+    "artist": "Wallace Stevens",
+    "isrc": "QMDA61470006"
+  },
+  {
+    "title": "Transcription Of Organ Music",
+    "artist": "Allen Ginsberg",
+    "isrc": "USFI85900487"
+  },
+  {
+    "title": "The Burial Of The Dead",
+    "artist": "T. S. Eliot",
+    "isrc": "USJ3V1147878"
+  },
+  {
+    "title": "The Pure Fury / The Renewal / The Sensualists",
+    "artist": "Theodore Roethke",
+    "isrc": "USSF16273605"
+  },
+  {
+    "title": "Hugh Selwyn Mauberley (Excerpt)",
+    "artist": "Ezra Pound",
+    "isrc": "USA371577002"
+  },
+  {
+    "title": "Testament",
+    "artist": "Langston Hughes",
+    "isrc": "USUM72012625"
+  },
+  {
+    "title": "Falling Asleep over the Aeneid",
+    "artist": "Robert Lowell",
+    "isrc": "QMBZ91345915"
+  },
+  {
+    "title": "The Orchestra",
+    "artist": "William Carlos Williams",
+    "isrc": "USCQE1110003"
+  },
+  {
+    "title": "Lucien Midnight: The Sounds Of The Universe In My Window",
+    "artist": "Jack Kerouac",
+    "isrc": "USWWW0139497"
+  },
+  {
+    "title": "Spenser's Ireland",
+    "artist": "Marianne Moore",
+    "isrc": "QMFME1498677"
+  },
+  {
+    "title": "Part 1 - Life.2 - Poems: Series One",
+    "artist": "Emily Dickinson",
+    "isrc": "DEXQ60711343"
+  },
+  {
+    "title": "The Cuirassiers of the Frontier",
+    "artist": "Robert Graves",
+    "isrc": "GBKTV0404160"
+  },
+  {
+    "title": "Roosters",
+    "artist": "Elizabeth Bishop",
+    "isrc": "USCQE1110057"
+  },
+  {
+    "title": "An Otter",
+    "artist": "Ted Hughes",
+    "isrc": "USCQE1111358"
+  },
+  {
+    "title": "Some Foreign Letters",
+    "artist": "Anne Sexton",
+    "isrc": "USCQE1011503"
+  },
+  {
+    "title": "An Arundel Tomb / Mr. Bleaney",
+    "artist": "Philip Larkin",
+    "isrc": "USSF16787906"
+  },
+  {
+    "title": "The Dinner Toast",
+    "artist": "Carl Sandburg",
+    "isrc": "USA371681264"
+  },
+  {
+    "title": "Charles Reporting",
+    "artist": "Charles Bukowski",
+    "isrc": "USA561055833"
+  },
+  {
+    "title": "Track 2 - Metaphysical Poems",
+    "artist": "John Donne, Henry King, Andrew Marvell, Steve Patriarca",
+    "isrc": "DE1A32156327"
+  },
+  {
+    "title": "The Sleeping Fury",
+    "artist": "Louise Bogan",
+    "isrc": "QM4TW1923498"
+  },
+  {
+    "title": "Two Lorries",
+    "artist": "Seamus Heaney",
+    "isrc": "IEAAQ1100142"
+  },
+  {
+    "title": "Meeting Of International Conference Of Technological Psychiatry",
+    "artist": "William S. Burroughs",
+    "isrc": "US2391562602"
+  },
+  {
+    "title": "The Future",
+    "artist": "Matthew Arnold, Richard Mitchley",
+    "isrc": "GBHFE1206003"
+  },
+  {
+    "title": "Underwear",
+    "artist": "Lawrence Ferlinghetti",
+    "isrc": "USA371577000"
+  },
+  {
+    "title": "From a Valentine to Sherwood Anderson",
+    "artist": "Gertrude Stein",
+    "isrc": "QMBZ91398476"
+  },
+  {
+    "title": "The Strange Case of Mr Donnybrook's Boredom",
+    "artist": "Ogden Nash",
+    "isrc": "GBELT1227012"
+  },
+  {
+    "title": "Bernal Diaz, Preface to His Book",
+    "artist": "Archibald MacLeish",
+    "isrc": "QMDA61312811"
+  },
+  {
+    "title": "Kapitel 58 - Angst vorm Sterben",
+    "artist": "Erica Jong",
+    "isrc": "DEXO62107943"
+  }
+]

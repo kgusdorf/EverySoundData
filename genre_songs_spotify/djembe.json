@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Kassa",
+    "artist": "Koungbanan Conde Ensemble",
+    "isrc": "uscgj0918488"
+  },
+  {
+    "title": "Yole",
+    "artist": "Fore-Fote",
+    "isrc": "ushm20332418"
+  },
+  {
+    "title": "Dundunba",
+    "artist": "Ballet Warraba",
+    "isrc": "ushm80588048"
+  },
+  {
+    "title": "Djolé",
+    "artist": "Fodé Bangoura",
+    "isrc": "ushm80698069"
+  },
+  {
+    "title": "Sounou",
+    "artist": "Group Bwazan",
+    "isrc": "USWK31100002"
+  },
+  {
+    "title": "Marakadon",
+    "artist": "Drissa Kone",
+    "isrc": "ATR981153522"
+  },
+  {
+    "title": "Tissamba",
+    "artist": "Moussa Traore",
+    "isrc": "USA2P0505384"
+  },
+  {
+    "title": "Koredjuga",
+    "artist": "Basidi Kone",
+    "isrc": "USTC60832818"
+  },
+  {
+    "title": "Jarafoli",
+    "artist": "Soungalo Coulibaly",
+    "isrc": "FRZ170220420"
+  },
+  {
+    "title": "Jembekan",
+    "artist": "Bolokada Conde",
+    "isrc": "ushm80588038"
+  },
+  {
+    "title": "Soboninkun",
+    "artist": "Fode Moussa Camara",
+    "isrc": "ushm90851893"
+  },
+  {
+    "title": "Dunungbe",
+    "artist": "Famoudou Konate, Mamady Keïta",
+    "isrc": "MXD781804197"
+  },
+  {
+    "title": "Manden",
+    "artist": "Dartagnan Camara",
+    "isrc": "FR9W11813556"
+  },
+  {
+    "title": "Yamira",
+    "artist": "Fara Tolno",
+    "isrc": "uscgh1503559"
+  },
+  {
+    "title": "Kotoba",
+    "artist": "Thione Diop",
+    "isrc": "ushm80918295"
+  },
+  {
+    "title": "Soh",
+    "artist": "Rhythm Manding",
+    "isrc": "usx9p1247900"
+  },
+  {
+    "title": "Djomaya",
+    "artist": "Adama Dramé",
+    "isrc": "FRY391515273"
+  },
+  {
+    "title": "Djembekan",
+    "artist": "Les Merveilles D'afrique",
+    "isrc": "uscgj0977802"
+  },
+  {
+    "title": "Djole",
+    "artist": "Mamady Keïta",
+    "isrc": "MXD781804099"
+  },
+  {
+    "title": "Soko",
+    "artist": "Fanta Konatê & Petit Mamady Keita",
+    "isrc": "BRPOU0700043"
+  },
+  {
+    "title": "Soli",
+    "artist": "Mamady Ijalit Keita",
+    "isrc": "QM4TW2104860"
+  },
+  {
+    "title": "Sunu",
+    "artist": "Abdouli Diakite",
+    "isrc": "usy280790993"
+  },
+  {
+    "title": "Soko",
+    "artist": "Les Bay-Fall De Guinee",
+    "isrc": "uscgh0734468"
+  },
+  {
+    "title": "Forest Dance",
+    "artist": "Universal African Dance & Drum Ensemble",
+    "isrc": "ushm90689320"
+  },
+  {
+    "title": "Foli",
+    "artist": "Akliso",
+    "isrc": "ES7860800446"
+  },
+  {
+    "title": "Sinte",
+    "artist": "Jason Hann",
+    "isrc": "ushm80691853"
+  },
+  {
+    "title": "Saa",
+    "artist": "Ladji Camara",
+    "isrc": "US4BQ0401084"
+  },
+  {
+    "title": "Prenpreni - Bush Spirit",
+    "artist": "Abdoulaye Diakite, Mamadou Sidibe",
+    "isrc": "usy280791027"
+  },
+  {
+    "title": "Kaki Lambe",
+    "artist": "Sidiki Diallo",
+    "isrc": "ushm80335236"
+  },
+  {
+    "title": "Bolemon",
+    "artist": "Les Percussions de Guinee",
+    "isrc": "uscgj0940906"
+  },
+  {
+    "title": "Koukou-Beyla",
+    "artist": "Ensemble National des percussions de Guinée",
+    "isrc": "FR6V80505595"
+  },
+  {
+    "title": "Yamama - tiamba",
+    "artist": "Ensemble National de la République de Guinée",
+    "isrc": "FR6V80503648"
+  },
+  {
+    "title": "Boloba",
+    "artist": "El Hadj Djeli Sory Kouyate",
+    "isrc": "FR6V80504261"
+  },
+  {
+    "title": "Doundounba",
+    "artist": "Abdoulaye Mbaye",
+    "isrc": "FR6V80008643"
+  },
+  {
+    "title": "Diphala",
+    "artist": "Ubukho Bethu",
+    "isrc": "ZAC030600347"
+  },
+  {
+    "title": "Bordstabelen",
+    "artist": "Sidiki Camara",
+    "isrc": "NOPC72304010"
+  },
+  {
+    "title": "Sofa",
+    "artist": "Black Bear Moon Rhythm Ensemble",
+    "isrc": "ushm80803785"
+  },
+  {
+    "title": "N' Goron",
+    "artist": "Dr. Djo Bi",
+    "isrc": "ushm81214326"
+  },
+  {
+    "title": "Koukou",
+    "artist": "Djembé Kaan",
+    "isrc": "ushm80417687"
+  },
+  {
+    "title": "Djembe Tempo",
+    "artist": "Djembe Drum Academy from Sénégal",
+    "isrc": "ITO101056957"
+  },
+  {
+    "title": "Soli",
+    "artist": "Issa Coulibaly",
+    "isrc": "ushm20981266"
+  },
+  {
+    "title": "Tiriba",
+    "artist": "Alisco Diabate",
+    "isrc": "USTC60832768"
+  },
+  {
+    "title": "Tiriba",
+    "artist": "Amadou Kienou",
+    "isrc": "ITI400800238"
+  },
+  {
+    "title": "Mamaya",
+    "artist": "Sokan",
+    "isrc": "FR6V80721251"
+  },
+  {
+    "title": "Congas, Bongos and Percussion",
+    "artist": "Bang - African Djembe Music",
+    "isrc": "TCAAS1002716"
+  },
+  {
+    "title": "Sinte'",
+    "artist": "Bashir-Shakur",
+    "isrc": "uscgh1003501"
+  },
+  {
+    "title": "Black Panther",
+    "artist": "African Dances Academy",
+    "isrc": "ITLU51833357"
+  },
+  {
+    "title": "Duniaman",
+    "artist": "Guinea C",
+    "isrc": "uscgj0796544"
+  },
+  {
+    "title": "N'gri",
+    "artist": "Ibrahima Sarr",
+    "isrc": "TCABM1312556"
+  },
+  {
+    "title": "Mendiani",
+    "artist": "Dahui",
+    "isrc": "ushm20627679"
+  },
+  {
+    "title": "Yankadi",
+    "artist": "The Griot Drum Ensemble",
+    "isrc": "ushm20872482"
+  },
+  {
+    "title": "Farafina",
+    "artist": "Ausecuma Beats",
+    "isrc": "QMFME2354763"
+  },
+  {
+    "title": "Dembagnouma (Madan, djagbe)",
+    "artist": "Baba Touré",
+    "isrc": "BET490200022"
+  },
+  {
+    "title": "Kakilambe",
+    "artist": "Ghana M'Baye",
+    "isrc": "ushm20539266"
+  },
+  {
+    "title": "Tama",
+    "artist": "Hawa Damba, Umu Damba, Yamadu Bani Dumbia, Ndulay Ja, Jaraba Jakite, Madu Jakite",
+    "isrc": "NLC199700201"
+  },
+  {
+    "title": "Konja",
+    "artist": "Ibro Konaté, Anta",
+    "isrc": "ushm90572830"
+  },
+  {
+    "title": "Djembach: I. Prelude",
+    "artist": "Christian Woehr, Israelievitch Duo",
+    "isrc": "USXA21000311"
+  },
+  {
+    "title": "Sogonikum",
+    "artist": "Jaraba Jakite",
+    "isrc": "USA2P0725337"
+  },
+  {
+    "title": "Mendiani",
+    "artist": "Jeli Madi Kuyate, Vieux Kamara, Madu Jakite, Fasiriman Keita",
+    "isrc": "NLC199700203"
+  },
+  {
+    "title": "Dansa",
+    "artist": "Mali Drummers",
+    "isrc": "DEC831100182"
+  },
+  {
+    "title": "Sunun",
+    "artist": "Sita Ye Jabate, Fatumata Kulibali, Na Kulibali, Jaraba Jakite, Madu Jakite, Solo Samake, Fasiriman Keita",
+    "isrc": "NLC199700192"
+  },
+  {
+    "title": "Ligueba",
+    "artist": "Fore-Fote",
+    "isrc": "ushm20332420"
+  },
+  {
+    "title": "Tiriba",
+    "artist": "Ballet Warraba",
+    "isrc": "ushm80588047"
+  },
+  {
+    "title": "Kuku",
+    "artist": "Koungbanan Conde Ensemble",
+    "isrc": "uscgj0918491"
+  },
+  {
+    "title": "Djaa",
+    "artist": "Fodé Bangoura",
+    "isrc": "ushm80698068"
+  },
+  {
+    "title": "Djeliya",
+    "artist": "Group Bwazan",
+    "isrc": "USWK31100010"
+  },
+  {
+    "title": "Bamanan Foli",
+    "artist": "Basidi Kone",
+    "isrc": "USTC60832767"
+  },
+  {
+    "title": "Ngri",
+    "artist": "Moussa Traore",
+    "isrc": "US23A0401290"
+  },
+  {
+    "title": "Suku + Farabakan",
+    "artist": "Drissa Kone",
+    "isrc": "ATR981153523"
+  },
+  {
+    "title": "Kassa Kondon - Live",
+    "artist": "Bolokada Conde",
+    "isrc": "QM9A92031788"
+  },
+  {
+    "title": "Jina muso",
+    "artist": "Soungalo Coulibaly",
+    "isrc": "FRZ179511390"
+  },
+  {
+    "title": "Soli Des Manians",
+    "artist": "Fode Moussa Camara",
+    "isrc": "ushm90851892"
+  },
+  {
+    "title": "Khuma Badera",
+    "artist": "Dartagnan Camara",
+    "isrc": "FR9W11813555"
+  },
+  {
+    "title": "Kania Soli",
+    "artist": "Fara Tolno",
+    "isrc": "uscgh1503562"
+  },
+  {
+    "title": "Donaba",
+    "artist": "Famoudou Konate, Mamady Keïta",
+    "isrc": "MXD781804198"
+  },
+  {
+    "title": "Djona",
+    "artist": "Rhythm Manding",
+    "isrc": "usx9p1247907"
+  },
+  {
+    "title": "Djole",
+    "artist": "Thione Diop",
+    "isrc": "ushm80904035"
+  },
+  {
+    "title": "Sakawonde",
+    "artist": "Les Merveilles D'afrique",
+    "isrc": "uscgj0977799"
+  },
+  {
+    "title": "Foliba",
+    "artist": "Adama Dramé",
+    "isrc": "FRY391515263"
+  },
+  {
+    "title": "Waraba",
+    "artist": "Fanta Konatê & Petit Mamady Keita",
+    "isrc": "BRPOU0700044"
+  },
+  {
+    "title": "Sorsornet",
+    "artist": "Mamady Keïta",
+    "isrc": "MXD781804132"
+  },
+  {
+    "title": "Ngri",
+    "artist": "Abdouli Diakite",
+    "isrc": "usy280790990"
+  },
+  {
+    "title": "Yagba Odienne",
+    "artist": "Mamady Ijalit Keita",
+    "isrc": "QM4TW2104861"
+  },
+  {
+    "title": "Lamban Et Frokoba",
+    "artist": "Les Bay-Fall De Guinee",
+    "isrc": "uscgh0734470"
+  },
+  {
+    "title": "Temate",
+    "artist": "Akliso",
+    "isrc": "ES7860800450"
+  },
+  {
+    "title": "Soko - Choreography",
+    "artist": "Jason Hann",
+    "isrc": "ushm80691857"
+  },
+  {
+    "title": "Kou Kou",
+    "artist": "Universal African Dance & Drum Ensemble",
+    "isrc": "ushm90689325"
+  },
+  {
+    "title": "Nofoule",
+    "artist": "Ladji Camara",
+    "isrc": "US4BQ0401086"
+  },
+  {
+    "title": "Minajamba - Tall Zebra",
+    "artist": "Abdoulaye Diakite, Mamadou Sidibe",
+    "isrc": "usy280791030"
+  },
+  {
+    "title": "Kora Juga",
+    "artist": "Sidiki Diallo",
+    "isrc": "ushm80335227"
+  },
+  {
+    "title": "Yandi Yandi",
+    "artist": "Les Percussions de Guinee",
+    "isrc": "uscgj0940902"
+  },
+  {
+    "title": "Doudoumbe",
+    "artist": "Ensemble National des percussions de Guinée",
+    "isrc": "FR6V80505594"
+  },
+  {
+    "title": "Kolon kalan",
+    "artist": "Ensemble National de la République de Guinée",
+    "isrc": "FR6V80503646"
+  },
+  {
+    "title": "Nana mourou",
+    "artist": "El Hadj Djeli Sory Kouyate",
+    "isrc": "FR6V80504262"
+  },
+  {
+    "title": "Assico",
+    "artist": "Abdoulaye Mbaye",
+    "isrc": "FR6V80008658"
+  },
+  {
+    "title": "Niakalemba",
+    "artist": "Sidiki Camara",
+    "isrc": "NOPC72304020"
+  },
+  {
+    "title": "Stimela",
+    "artist": "Ubukho Bethu",
+    "isrc": "ZAC030600346"
+  },
+  {
+    "title": "Soliwulen",
+    "artist": "Black Bear Moon Rhythm Ensemble",
+    "isrc": "ushm80803792"
+  },
+  {
+    "title": "Boloye",
+    "artist": "Dr. Djo Bi",
+    "isrc": "ushm81214324"
+  },
+  {
+    "title": "Lamba",
+    "artist": "Djembé Kaan",
+    "isrc": "ushm80417681"
+  },
+  {
+    "title": "Djembé",
+    "artist": "Djembe Drum Academy from Sénégal",
+    "isrc": "ITO101056955"
+  },
+  {
+    "title": "Manjani Foli",
+    "artist": "Issa Coulibaly",
+    "isrc": "ushm20981271"
+  },
+  {
+    "title": "Bena Mane",
+    "artist": "Alisco Diabate",
+    "isrc": "USTC60832259"
+  },
+  {
+    "title": "Doundounba",
+    "artist": "Amadou Kienou",
+    "isrc": "ITI400800244"
+  },
+  {
+    "title": "Temate",
+    "artist": "Ballet Warraba",
+    "isrc": "ushm80588037"
+  },
+  {
+    "title": "Guine Fare",
+    "artist": "Fore-Fote",
+    "isrc": "ushm20332423"
+  },
+  {
+    "title": "Daununbe-Takosaba-Bolokuonondo",
+    "artist": "Koungbanan Conde Ensemble",
+    "isrc": "uscgj0918490"
+  },
+  {
+    "title": "Yankadi",
+    "artist": "Fodé Bangoura",
+    "isrc": "ushm80698067"
+  },
+  {
+    "title": "Doundounba",
+    "artist": "Group Bwazan",
+    "isrc": "USWK31100012"
+  },
+  {
+    "title": "Konia",
+    "artist": "Basidi Kone",
+    "isrc": "USTC60827582"
+  },
+  {
+    "title": "Dansa",
+    "artist": "Moussa Traore",
+    "isrc": "USA2P0505385"
+  },
+  {
+    "title": "Manjani",
+    "artist": "Drissa Kone",
+    "isrc": "ATR981153524"
+  },
+  {
+    "title": "Kognoumalon - Live",
+    "artist": "Bolokada Conde",
+    "isrc": "QM9A92031789"
+  },
+  {
+    "title": "Kalla",
+    "artist": "Fode Moussa Camara",
+    "isrc": "ushm90851890"
+  },
+  {
+    "title": "Yankady / Makuru",
+    "artist": "Fara Tolno",
+    "isrc": "uscgh1503560"
+  },
+  {
+    "title": "Africa Dime",
+    "artist": "Dartagnan Camara",
+    "isrc": "FR9W11813554"
+  },
+  {
+    "title": "Dengo",
+    "artist": "Soungalo Coulibaly",
+    "isrc": "FRZ179511340"
+  },
+  {
+    "title": "Takosaba",
+    "artist": "Famoudou Konate, Mamady Keïta",
+    "isrc": "MXD781804201"
+  },
+  {
+    "title": "Yaba Yembe (Live)",
+    "artist": "Rhythm Manding",
+    "isrc": "usx9p1247904"
+  },
+  {
+    "title": "Mendiani",
+    "artist": "Thione Diop",
+    "isrc": "ushm80918300"
+  },
+  {
+    "title": "Doundoun Ba",
+    "artist": "Les Merveilles D'afrique",
+    "isrc": "uscgj0977808"
+  },
+  {
+    "title": "Balimaya",
+    "artist": "Adama Dramé",
+    "isrc": "FRY391515262"
+  },
+  {
+    "title": "Namarama",
+    "artist": "Fanta Konatê & Petit Mamady Keita",
+    "isrc": "BRPOU0700045"
+  },
+  {
+    "title": "Soli",
+    "artist": "Abdouli Diakite",
+    "isrc": "usy280790994"
+  },
+  {
+    "title": "Doundounba Hadja Daloba",
+    "artist": "Les Bay-Fall De Guinee",
+    "isrc": "uscgh0734476"
+  },
+  {
+    "title": "Yankadi",
+    "artist": "Mamady Ijalit Keita",
+    "isrc": "QM4TW2104862"
+  }
+]

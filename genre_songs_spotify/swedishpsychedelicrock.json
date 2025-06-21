@@ -1,0 +1,642 @@
+[
+  {
+    "title": "Two Man Gang",
+    "artist": "Les Big Byrd",
+    "isrc": "SE49G1700801"
+  },
+  {
+    "title": "Stockholmsnatt",
+    "artist": "Den Stora Vilan",
+    "isrc": "SE3D71202106"
+  },
+  {
+    "title": "Fredag",
+    "artist": "Dungen",
+    "isrc": "SEWRL0800206"
+  },
+  {
+    "title": "Månen tur och retur",
+    "artist": "Kungens Män",
+    "isrc": "SEYOK1763344"
+  },
+  {
+    "title": "Anukthal Is Here",
+    "artist": "Hills",
+    "isrc": "UK2SX1528703"
+  },
+  {
+    "title": "Punkrockaren",
+    "artist": "Träd Gräs Och Stenar",
+    "isrc": "SEWRL0900201"
+  },
+  {
+    "title": "Smut - Digital Only",
+    "artist": "VED",
+    "isrc": "SE2872200109"
+  },
+  {
+    "title": "Mjuk skog",
+    "artist": "Sagor & Swing",
+    "isrc": "GB-SMU-19-98194"
+  },
+  {
+    "title": "Hemåt i Soluppgången",
+    "artist": "Our Solar System",
+    "isrc": "SE3V61700102"
+  },
+  {
+    "title": "Misty Mountainside",
+    "artist": "My Brother The Wind",
+    "isrc": "USET71401105"
+  },
+  {
+    "title": "When Day Turns To Night",
+    "artist": "Magna Mater",
+    "isrc": "SEYOK1536927"
+  },
+  {
+    "title": "Hjärtat som en slägga",
+    "artist": "Samling",
+    "isrc": "DEZN23000020"
+  },
+  {
+    "title": "Hilma",
+    "artist": "Pershagen",
+    "isrc": "SE3D72200402"
+  },
+  {
+    "title": "City Lights",
+    "artist": "Truls Mörck",
+    "isrc": "SEXCH1401262"
+  },
+  {
+    "title": "Annika",
+    "artist": "Björn Olsson",
+    "isrc": "sewfn0300103"
+  },
+  {
+    "title": "Run To Your Mama",
+    "artist": "Goat",
+    "isrc": "SEUM71200830"
+  },
+  {
+    "title": "Det brinner i horisonten",
+    "artist": "Jättedam",
+    "isrc": "SEYOK1862310"
+  },
+  {
+    "title": "Hit",
+    "artist": "Flowers Must Die",
+    "isrc": "UK2SX1714402"
+  },
+  {
+    "title": "Stig Berglings Saga",
+    "artist": "Tross",
+    "isrc": "SE34R1400601"
+  },
+  {
+    "title": "Hymn",
+    "artist": "Träden, Träd Gräs Och Stenar",
+    "isrc": "SEWRL1800707"
+  },
+  {
+    "title": "Tornet XVI",
+    "artist": "Tornet",
+    "isrc": "QZNWY2293882"
+  },
+  {
+    "title": "Space Normal Speed",
+    "artist": "Lamagaia",
+    "isrc": "SE34R1400701"
+  },
+  {
+    "title": "Floating Downstream",
+    "artist": "Automatism",
+    "isrc": "DEUT21800072"
+  },
+  {
+    "title": "Clouds",
+    "artist": "Besvärjelsen",
+    "isrc": "DES562210053"
+  },
+  {
+    "title": "Vid Liv",
+    "artist": "Mylla",
+    "isrc": "SE3V61300103"
+  },
+  {
+    "title": "Instant Repeater '99",
+    "artist": "The Soundtrack Of Our Lives",
+    "isrc": "SEPQA9622030"
+  },
+  {
+    "title": "Wild Flowers",
+    "artist": "Lykantropi",
+    "isrc": "SE5PA1900101"
+  },
+  {
+    "title": "At The Center Of All Infinity",
+    "artist": "Yuri Gagarin (SWE)",
+    "isrc": "GB-SMU-24-43100"
+  },
+  {
+    "title": "Tre månader",
+    "artist": "Thomas E Frank",
+    "isrc": "SE4FB1600402"
+  },
+  {
+    "title": "Desert Cold",
+    "artist": "Snowy Dunes",
+    "isrc": "SEYOK1412248"
+  },
+  {
+    "title": "The Band",
+    "artist": "Me and My Kites, Fuchsia",
+    "isrc": "SEYOK2404590"
+  },
+  {
+    "title": "You and Me",
+    "artist": "The Cult of Boydah",
+    "isrc": "QZDA82401281"
+  },
+  {
+    "title": "När Man Allting Sett",
+    "artist": "Fanatism",
+    "isrc": "ushm81826507"
+  },
+  {
+    "title": "Kursk",
+    "artist": "Audionom",
+    "isrc": "SE3PY2000211"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Dead Vibrations",
+    "isrc": "UST8K1654979"
+  },
+  {
+    "title": "Clear-Out Clouds",
+    "artist": "Time Is a Mountain",
+    "isrc": "SEWQN1200101"
+  },
+  {
+    "title": "Simma hem",
+    "artist": "Riddarna",
+    "isrc": "SELNA1300422"
+  },
+  {
+    "title": "Goin' over the Hill",
+    "artist": "Dead Man",
+    "isrc": "SEWSR0500101"
+  },
+  {
+    "title": "Leaves",
+    "artist": "Children of the Sün",
+    "isrc": "SE3D72102402"
+  },
+  {
+    "title": "Summer Lover",
+    "artist": "Life On Earth!",
+    "isrc": "SEYOK1119355"
+  },
+  {
+    "title": "Avaritia",
+    "artist": "Year Of The Goat",
+    "isrc": "ATN261879307"
+  },
+  {
+    "title": "Plutonia",
+    "artist": "Gunget",
+    "isrc": "FI5CK1800902"
+  },
+  {
+    "title": "Come On (Get Yer' Led Out)",
+    "artist": "Maddox Street",
+    "isrc": "SE5QO1700102"
+  },
+  {
+    "title": "Vart tog du vägen",
+    "artist": "Neon Heart",
+    "isrc": "QZHN32305204"
+  },
+  {
+    "title": "I'm Falling",
+    "artist": "side effects",
+    "isrc": "CHB701700117"
+  },
+  {
+    "title": "Saluto!",
+    "artist": "Skeppet",
+    "isrc": "USA2Z1511569"
+  },
+  {
+    "title": "Lianerna",
+    "artist": "Kosmos",
+    "isrc": "SEYOK1766610"
+  },
+  {
+    "title": "Synesthesia",
+    "artist": "The Good Morning Spider",
+    "isrc": "SEYOK1404930"
+  },
+  {
+    "title": "The Grasp Of The King´s Hand Is Not Enough",
+    "artist": "The Movements, Space Edition",
+    "isrc": "SEYOK1001852"
+  },
+  {
+    "title": "Swirl Like Water",
+    "artist": "Betty Goes A Go-Go",
+    "isrc": "SEYOK2327021"
+  },
+  {
+    "title": "Teenage Dream",
+    "artist": "Black Light White Light",
+    "isrc": "DKMW21800102"
+  },
+  {
+    "title": "One to Three",
+    "artist": "Cholera Jasna",
+    "isrc": "SEYOK1207046"
+  },
+  {
+    "title": "Lost In The Cosmic Room",
+    "artist": "El Pompero",
+    "isrc": "NL1AP1917334"
+  },
+  {
+    "title": "Voyage to Proxima B",
+    "artist": "Fungus Hill",
+    "isrc": "NLS6R1831346"
+  },
+  {
+    "title": "Det ger jag dig",
+    "artist": "Helmersson, Pettersson, Karlsson, Sjönvall & Möller",
+    "isrc": "SE6I32064168"
+  },
+  {
+    "title": "Svagheten",
+    "artist": "Jamsällskapet",
+    "isrc": "SEYOK1864347"
+  },
+  {
+    "title": "Interstellar Overdrive",
+    "artist": "Marble Mammoth",
+    "isrc": "SE5XG2372601"
+  },
+  {
+    "title": "Haze",
+    "artist": "Mojo Harvest",
+    "isrc": "QMPKX1689352"
+  },
+  {
+    "title": "Ta farväl",
+    "artist": "Qoph",
+    "isrc": "ushm21001951"
+  },
+  {
+    "title": "Cross",
+    "artist": "Sorcerer's Pyramid",
+    "isrc": "GBMJG1503344"
+  },
+  {
+    "title": "Mining, for Hurt and Fraud",
+    "artist": "The Howling Owl",
+    "isrc": "ushm81850323"
+  },
+  {
+    "title": "Loving Arms",
+    "artist": "Wondermind",
+    "isrc": "QZDA61800902"
+  },
+  {
+    "title": "Bränstaholm",
+    "artist": "Ödemarken",
+    "isrc": "SEYOK1547346"
+  },
+  {
+    "title": "Diamonds, Rhinestones and Hard Rain",
+    "artist": "Les Big Byrd",
+    "isrc": "SE6UI2300404"
+  },
+  {
+    "title": "För Långt Ut",
+    "artist": "Den Stora Vilan",
+    "isrc": "SE3D71202104"
+  },
+  {
+    "title": "Loop",
+    "artist": "Dungen, Woods",
+    "isrc": "QMV8L1724401"
+  },
+  {
+    "title": "Grovmotorik",
+    "artist": "Kungens Män",
+    "isrc": "USCGH2470767"
+  },
+  {
+    "title": "Claras Vaggvisa",
+    "artist": "Hills",
+    "isrc": "QMFME1361159"
+  },
+  {
+    "title": "Sanningens Silverflod",
+    "artist": "Träd Gräs Och Stenar",
+    "isrc": "SELFA9504030"
+  },
+  {
+    "title": "Sture External",
+    "artist": "VED",
+    "isrc": "NOAPI1215512"
+  },
+  {
+    "title": "In i skogen",
+    "artist": "Sagor & Swing",
+    "isrc": "GB-SMU-19-77841"
+  },
+  {
+    "title": "Försiktigt med den där Kniven, Anders",
+    "artist": "Our Solar System",
+    "isrc": "SE3V61700106"
+  },
+  {
+    "title": "Into The Cosmic Halo",
+    "artist": "My Brother The Wind",
+    "isrc": "USET71401104"
+  },
+  {
+    "title": "Tankarna",
+    "artist": "Magna Mater",
+    "isrc": "SEYOK1536928"
+  },
+  {
+    "title": "Pappa",
+    "artist": "Samling",
+    "isrc": "DEZN23000022"
+  },
+  {
+    "title": "En dag ska vi alla härifrån",
+    "artist": "Pershagen",
+    "isrc": "SE5AD1800108"
+  },
+  {
+    "title": "What A Time",
+    "artist": "Truls Mörck",
+    "isrc": "SEXCH2100302"
+  },
+  {
+    "title": "Tjörn",
+    "artist": "Björn Olsson",
+    "isrc": "sewfn0300102"
+  },
+  {
+    "title": "Farlig Uppe på scenen",
+    "artist": "Jättedam",
+    "isrc": "SEYOK1862309"
+  },
+  {
+    "title": "Let it Burn",
+    "artist": "Goat",
+    "isrc": "UK2SX1805251"
+  },
+  {
+    "title": "Ejefjallajökull",
+    "artist": "Flowers Must Die",
+    "isrc": "QMEU31807154"
+  },
+  {
+    "title": "Time Leaves Us",
+    "artist": "Tross",
+    "isrc": "SE34R1602601"
+  },
+  {
+    "title": "Kung Karlsson (King Karlsson)",
+    "artist": "Träden, Träd Gräs Och Stenar",
+    "isrc": "SEWRL1800702"
+  },
+  {
+    "title": "Att Bryta Dödens pilar",
+    "artist": "Tornet",
+    "isrc": "QZNWY2211603"
+  },
+  {
+    "title": "Seabass",
+    "artist": "Lamagaia",
+    "isrc": "SE34R1400702"
+  },
+  {
+    "title": "Monochrome Torpedo",
+    "artist": "Automatism",
+    "isrc": "DEUT22000194"
+  },
+  {
+    "title": "The Cardinal Ride",
+    "artist": "Besvärjelsen",
+    "isrc": "DES562210051"
+  },
+  {
+    "title": "Kobran",
+    "artist": "Mylla",
+    "isrc": "SEWRL0700405"
+  },
+  {
+    "title": "Sister Surround",
+    "artist": "The Soundtrack Of Our Lives",
+    "isrc": "SEPQA0101020"
+  },
+  {
+    "title": "Black Old Stone",
+    "artist": "Lykantropi",
+    "isrc": "SEVVF1701201"
+  },
+  {
+    "title": "Cluster Of Minds",
+    "artist": "Yuri Gagarin (SWE)",
+    "isrc": "GB-SMU-24-43097"
+  },
+  {
+    "title": "Träden",
+    "artist": "Thomas E Frank",
+    "isrc": "SE4FB1600401"
+  },
+  {
+    "title": "Tranquil Mountain Lake",
+    "artist": "Snowy Dunes",
+    "isrc": "QMDA71534152"
+  },
+  {
+    "title": "Sense Nonsense",
+    "artist": "Me and My Kites",
+    "isrc": "SEYOK2404589"
+  },
+  {
+    "title": "French Kiss",
+    "artist": "The Cult of Boydah",
+    "isrc": "QZDA82401278"
+  },
+  {
+    "title": "The Great Hunger",
+    "artist": "Fanatism",
+    "isrc": "usl4q2188284"
+  },
+  {
+    "title": "Kristall",
+    "artist": "Audionom",
+    "isrc": "USKDO0600096"
+  },
+  {
+    "title": "Drain",
+    "artist": "Dead Vibrations",
+    "isrc": "UST8K1654978"
+  },
+  {
+    "title": "Alicetti",
+    "artist": "Time Is a Mountain",
+    "isrc": "SE3MN1500201"
+  },
+  {
+    "title": "Further",
+    "artist": "Dead Man",
+    "isrc": "SEWSR0500105"
+  },
+  {
+    "title": "Kolla kolla",
+    "artist": "Riddarna",
+    "isrc": "SEUM71301392"
+  },
+  {
+    "title": "Gaslighting",
+    "artist": "Children of the Sün",
+    "isrc": "SE3D72102404"
+  },
+  {
+    "title": "The Perfect Spot",
+    "artist": "Life On Earth!",
+    "isrc": "SEYOK1119352"
+  },
+  {
+    "title": "Spirits of Fire",
+    "artist": "Year Of The Goat",
+    "isrc": "DENI11200076"
+  },
+  {
+    "title": "Visa Från Obygden",
+    "artist": "Gunget",
+    "isrc": "FI5CK1800905"
+  },
+  {
+    "title": "Wanna Be Your Lover",
+    "artist": "Maddox Street",
+    "isrc": "SE5QO1700101"
+  },
+  {
+    "title": "Anton",
+    "artist": "Den Stora Vilan",
+    "isrc": "SE3D71202101"
+  },
+  {
+    "title": "Ensam i stan på sommarlovet",
+    "artist": "Les Big Byrd",
+    "isrc": "SE6UI2300405"
+  },
+  {
+    "title": "Panda",
+    "artist": "Dungen",
+    "isrc": "SEWRL0400201"
+  },
+  {
+    "title": "Tycka rakt",
+    "artist": "Kungens Män",
+    "isrc": "USCGH2470766"
+  },
+  {
+    "title": "Kollektiv",
+    "artist": "Hills",
+    "isrc": "UK2SX1528701"
+  },
+  {
+    "title": "All Along the Watchtower",
+    "artist": "Träd Gräs Och Stenar",
+    "isrc": "SELFA9504010"
+  },
+  {
+    "title": "Black Garden",
+    "artist": "VED",
+    "isrc": "SE6SA2327880"
+  },
+  {
+    "title": "Klonkmelodin",
+    "artist": "Sagor & Swing",
+    "isrc": "GB-SMU-19-84127"
+  },
+  {
+    "title": "Stormen är Kommen",
+    "artist": "Our Solar System",
+    "isrc": "SE3V61700104"
+  },
+  {
+    "title": "Thomas Mera Gartz",
+    "artist": "My Brother The Wind",
+    "isrc": "USET71401107"
+  },
+  {
+    "title": "Flickan",
+    "artist": "Magna Mater",
+    "isrc": "SEYOK1536930"
+  },
+  {
+    "title": "Baby",
+    "artist": "Samling",
+    "isrc": "DEZN23000023"
+  },
+  {
+    "title": "Den siste av mitt namn",
+    "artist": "Pershagen",
+    "isrc": "SE5AD1600102"
+  },
+  {
+    "title": "Blizzard",
+    "artist": "Truls Mörck",
+    "isrc": "SEXCH1401266"
+  },
+  {
+    "title": "anna norling",
+    "artist": "Björn Olsson",
+    "isrc": "SEWFN1200108"
+  },
+  {
+    "title": "Het temp",
+    "artist": "Jättedam",
+    "isrc": "SE3D72301201"
+  },
+  {
+    "title": "Golden Dawn",
+    "artist": "Goat",
+    "isrc": "SEUM71200828"
+  },
+  {
+    "title": "Hey, Shut Up - Mai Mai Mai Mix",
+    "artist": "Flowers Must Die, Mai Mai Mai",
+    "isrc": "UK2SX1812107"
+  },
+  {
+    "title": "Reverse Pyramid",
+    "artist": "Tross",
+    "isrc": "SE34R1805502"
+  },
+  {
+    "title": "Å nej (Oh No)",
+    "artist": "Träden, Träd Gräs Och Stenar",
+    "isrc": "SEWRL1800704"
+  },
+  {
+    "title": "Nemesis",
+    "artist": "Tornet",
+    "isrc": "QZNWV2270153"
+  },
+  {
+    "title": "Jam 3674",
+    "artist": "Lamagaia",
+    "isrc": "SEYOK2145979"
+  }
+]

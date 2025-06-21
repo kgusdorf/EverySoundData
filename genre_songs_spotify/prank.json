@@ -1,0 +1,767 @@
+[
+  {
+    "title": "Car Salesman",
+    "artist": "The Jerky Boys",
+    "isrc": "US39N0400238"
+  },
+  {
+    "title": "No, No",
+    "artist": "Jim Florentine",
+    "isrc": "uscgj0667199"
+  },
+  {
+    "title": "The Cable Guy",
+    "artist": "Bad Dog McCormack",
+    "isrc": "uscgh1193211"
+  },
+  {
+    "title": "X-Rated Hotel",
+    "artist": "Kamal (of the Jerky Boys)",
+    "isrc": "USY9M0610026"
+  },
+  {
+    "title": "Taco Bell Dog and Taz Tattoos",
+    "artist": "Earles and Jensen Present",
+    "isrc": "USMTD0876503"
+  },
+  {
+    "title": "A Wedding and a Funeral",
+    "artist": "Nephew Tommy",
+    "isrc": "USACX1202097"
+  },
+  {
+    "title": "Free Clinic, Raccoons",
+    "artist": "Don Jamieson",
+    "isrc": "USMBR1712447"
+  },
+  {
+    "title": "Fat",
+    "artist": "Tom Mabe",
+    "isrc": "USME30900786"
+  },
+  {
+    "title": "Switchin' Babies - Live",
+    "artist": "Willie P. Richardson",
+    "isrc": "US4R30602953"
+  },
+  {
+    "title": "Woman's Lingerie",
+    "artist": "Neil Hamburger",
+    "isrc": "US58L0509707"
+  },
+  {
+    "title": "Porta Pottie",
+    "artist": "Bob Sage",
+    "isrc": "ushm80349861"
+  },
+  {
+    "title": "Young Buck Prank Call",
+    "artist": "Ralphige",
+    "isrc": "USTCZ0940359"
+  },
+  {
+    "title": "Gay And Lesbian Channel - Ned",
+    "artist": "Bubba The Love Sponge",
+    "isrc": "USJ3V0750156"
+  },
+  {
+    "title": "Digitally Automated Confessions Booth",
+    "artist": "Father Rick",
+    "isrc": "USKSY0710008"
+  },
+  {
+    "title": "Red Returns With the Z! 3",
+    "artist": "Bum Bar Bastards",
+    "isrc": "TCAAZ1109129"
+  },
+  {
+    "title": "Barter",
+    "artist": "Jack Vale",
+    "isrc": "TCAAT1058194"
+  },
+  {
+    "title": "Eileen",
+    "artist": "Lucius Tate Prank Calls",
+    "isrc": "USJ3V1180255"
+  },
+  {
+    "title": "Nash",
+    "artist": "Longmont Potion Castle",
+    "isrc": "USA560905020"
+  },
+  {
+    "title": "You're No Psychic!",
+    "artist": "The Phone Militia",
+    "isrc": "ushm20325406"
+  },
+  {
+    "title": "Grandma's Answering Machine (ISATA 1999)",
+    "artist": "Rickey Smiley",
+    "isrc": "QZ5HC1781102"
+  },
+  {
+    "title": "On the floor again: Fist fight #2",
+    "artist": "Peter and Raymond",
+    "isrc": "USMGC0810011"
+  },
+  {
+    "title": "Call 3",
+    "artist": "Riley Girt",
+    "isrc": "uscgj0921164"
+  },
+  {
+    "title": "Blow Job Plants",
+    "artist": "Matt Besser",
+    "isrc": "QMJYX1974314"
+  },
+  {
+    "title": "Camel Toe Jeans",
+    "artist": "Friggen Comedy Network",
+    "isrc": "ushm20437564"
+  },
+  {
+    "title": "Andrew Dice Clay",
+    "artist": "Andrew Earles",
+    "isrc": "uscgj0943571"
+  },
+  {
+    "title": "Episode 2",
+    "artist": "Audioville",
+    "isrc": "GBCEJ0698060"
+  },
+  {
+    "title": "Plumber Strikes Back",
+    "artist": "Braiden",
+    "isrc": "USJ3V0725509"
+  },
+  {
+    "title": "Carry Out Order",
+    "artist": "Buck$",
+    "isrc": "USY9M0610034"
+  },
+  {
+    "title": "Birchum Looks For A Job",
+    "artist": "Crank Yankers / Birchum",
+    "isrc": "US39N0400160"
+  },
+  {
+    "title": "Grandpa's Bath",
+    "artist": "Crank Yankers / Bobby Fletcher",
+    "isrc": "US39N0400179"
+  },
+  {
+    "title": "Power Jammin' & Mega Mixin'",
+    "artist": "Crank Yankers / Boomer & The Nudge",
+    "isrc": "US39N0400162"
+  },
+  {
+    "title": "Blind Stripper",
+    "artist": "Crank Yankers / Cammie",
+    "isrc": "US39N0400167"
+  },
+  {
+    "title": "Building A House - Part Two",
+    "artist": "Crank Yankers / Chip Douglas",
+    "isrc": "US39N0400200"
+  },
+  {
+    "title": "Phone Sex Vomit",
+    "artist": "Crank Yankers / Danny",
+    "isrc": "US39N0400184"
+  },
+  {
+    "title": "Security Guard Job",
+    "artist": "Crank Yankers / Dick Birchum",
+    "isrc": "US39N0400197"
+  },
+  {
+    "title": "Your Son Hit My Car",
+    "artist": "Crank Yankers / Dom",
+    "isrc": "US39N0400202"
+  },
+  {
+    "title": "Black Guy Masterbating In Park",
+    "artist": "Crank Yankers / Elmer",
+    "isrc": "US39N0400195"
+  },
+  {
+    "title": "Pee Delivery",
+    "artist": "Crank Yankers / Elmer Higgins",
+    "isrc": "US39N0400183"
+  },
+  {
+    "title": "Wheelchair Library",
+    "artist": "Crank Yankers / Gene Winterbuck",
+    "isrc": "US39N0400186"
+  },
+  {
+    "title": "Turd In Car",
+    "artist": "Crank Yankers / Gladys Murphy",
+    "isrc": "US39N0400156"
+  },
+  {
+    "title": "Nanny Job",
+    "artist": "Crank Yankers / Hadassah",
+    "isrc": "US39N0400175"
+  },
+  {
+    "title": "Lost $25 Chip",
+    "artist": "Crank Yankers / Hadassah Guberman",
+    "isrc": "US39N0400194"
+  },
+  {
+    "title": "Parot #1",
+    "artist": "Crank Yankers / Helen Higgins",
+    "isrc": "US39N0400177"
+  },
+  {
+    "title": "Penis Pump",
+    "artist": "Crank Yankers / Jimmy & His Mom",
+    "isrc": "US39N0400166"
+  },
+  {
+    "title": "Attached By A Monkey",
+    "artist": "Crank Yankers / Joe Smith",
+    "isrc": "US39N0400165"
+  },
+  {
+    "title": "Beanie Babies",
+    "artist": "Crank Yankers / Karl Malone",
+    "isrc": "US39N0400180"
+  },
+  {
+    "title": "8 LB Balls",
+    "artist": "Crank Yankers / Katie & Kevin",
+    "isrc": "US39N0400198"
+  },
+  {
+    "title": "Beat Around The Bush Phone Sex",
+    "artist": "Crank Yankers / Ken",
+    "isrc": "US39N0400192"
+  },
+  {
+    "title": "Tech Orgasm",
+    "artist": "Crank Yankers / Lisa",
+    "isrc": "US39N0400158"
+  },
+  {
+    "title": "Dr. Drew Talks Hip Hop",
+    "artist": "Crank Yankers / Loveline",
+    "isrc": "US39N0400204"
+  },
+  {
+    "title": "Chinese Rapper",
+    "artist": "Crank Yankers / Moo Shu",
+    "isrc": "US39N0400157"
+  },
+  {
+    "title": "Niles Calls Healthcare",
+    "artist": "Crank Yankers / Niles Standish",
+    "isrc": "US39N0400170"
+  },
+  {
+    "title": "We Get To Drink",
+    "artist": "Crank Yankers / Pete Dzoghi",
+    "isrc": "US39N0400171"
+  },
+  {
+    "title": "The Phone Zone",
+    "artist": "Crank Yankers / Sav Macauley",
+    "isrc": "US39N0400173"
+  },
+  {
+    "title": "Wu Tang At Reba's",
+    "artist": "Crank Yankers / Shavin'",
+    "isrc": "US39N0400164"
+  },
+  {
+    "title": "I Got Mail",
+    "artist": "Crank Yankers / Special Ed",
+    "isrc": "US39N0400172"
+  },
+  {
+    "title": "Spoonie Takes Out A Personal",
+    "artist": "Crank Yankers / Spoonie Luv",
+    "isrc": "US39N0400174"
+  },
+  {
+    "title": "Porn Survey",
+    "artist": "Crank Yankers / Survey Operator",
+    "isrc": "US39N0400169"
+  },
+  {
+    "title": "Rosie's Candy Birthday",
+    "artist": "Crank Yankers / Terrance Catheter",
+    "isrc": "US39N0400203"
+  },
+  {
+    "title": "Terrence Calls Spago",
+    "artist": "Crank Yankers / Terrence",
+    "isrc": "US39N0400187"
+  },
+  {
+    "title": "The Nemesis",
+    "artist": "Crank Yankers / The Nemesis",
+    "isrc": "US39N0400159"
+  },
+  {
+    "title": "Sporting Goods Salesperson",
+    "artist": "Crank Yankers / The Truth",
+    "isrc": "US39N0400191"
+  },
+  {
+    "title": "Westrope",
+    "artist": "Crank Yankers / Tony Deloge",
+    "isrc": "US39N0400181"
+  },
+  {
+    "title": "Shoulda Sent It Sooner",
+    "artist": "Crank Yankers / Touch-Tone Terrorists",
+    "isrc": "US39N0400178"
+  },
+  {
+    "title": "Intro (feat. Ceasar, Mario, Ely & Alby)",
+    "artist": "Danny Masterson, Ceasar, Márió, Ely, Alby",
+    "isrc": "TCABY1434821"
+  },
+  {
+    "title": "You're Harshing My Trip",
+    "artist": "Earles and Jensen",
+    "isrc": "uscgj0943517"
+  },
+  {
+    "title": "Facebook Stalker Prank Call",
+    "artist": "Friday Night Cranks",
+    "isrc": "TCAAY1116527"
+  },
+  {
+    "title": "The Sofa Bed",
+    "artist": "Internet Comedy Network",
+    "isrc": "uscgh0780519"
+  },
+  {
+    "title": "Hip Hop Donut Shop",
+    "artist": "Lazee Lamont",
+    "isrc": "ushm80641893"
+  },
+  {
+    "title": "Prank Call: Chaz",
+    "artist": "Lonnie Prachyl",
+    "isrc": "ushm21061977"
+  },
+  {
+    "title": "Large Casket",
+    "artist": "Lucretia Richardson",
+    "isrc": "USASN0623703"
+  },
+  {
+    "title": "Restaurant Runner",
+    "artist": "Matt Tilley",
+    "isrc": "AULI00740510"
+  },
+  {
+    "title": "\"I'm Not Racist\" Senseless Survey #145",
+    "artist": "Mojo In The Morning",
+    "isrc": "ushm91159542"
+  },
+  {
+    "title": "40 Dollah",
+    "artist": "MokMok",
+    "isrc": "ushm80464402"
+  },
+  {
+    "title": "Muther Fu**er",
+    "artist": "Musacha Tapes",
+    "isrc": "USHKJ0800161"
+  },
+  {
+    "title": "Teeth",
+    "artist": "Old Mrs Galloway",
+    "isrc": "GBMJG0901765"
+  },
+  {
+    "title": "Emergency Room I",
+    "artist": "Pizzacalls",
+    "isrc": "ushm81062133"
+  },
+  {
+    "title": "Shanakiel",
+    "artist": "REDFM",
+    "isrc": "GBLMS1011162"
+  },
+  {
+    "title": "Hog Needs Oxygen",
+    "artist": "Rickey Smiley|Big Al",
+    "isrc": "US38L1101267"
+  },
+  {
+    "title": "Huh?",
+    "artist": "Rickey Smiley|Lil' Darrl",
+    "isrc": "US38L1101276"
+  },
+  {
+    "title": "Uncle Melvin",
+    "artist": "Rickey Smiley|Ray Ray",
+    "isrc": "US38L1101268"
+  },
+  {
+    "title": "My Baby Daddy",
+    "artist": "Rickey Smiley|Small Fry",
+    "isrc": "US38L1101272"
+  },
+  {
+    "title": "Unlucky Charmer",
+    "artist": "Roy D. Mercer",
+    "isrc": "USVRN0000003"
+  },
+  {
+    "title": "Apply For A Job At Bookies",
+    "artist": "Steve Penk",
+    "isrc": "GBKPL0601223"
+  },
+  {
+    "title": "KFC Prank Call",
+    "artist": "TeamAussie",
+    "isrc": "UST8K1515932"
+  },
+  {
+    "title": "Ironing, Ironing, Ironing",
+    "artist": "The Serial Caller",
+    "isrc": "GBHWV0801047"
+  },
+  {
+    "title": "They So Cute",
+    "artist": "The Spam Avenger",
+    "isrc": "ushm20367102"
+  },
+  {
+    "title": "Get It Right Next Time",
+    "artist": "Tim Prince",
+    "isrc": "ushm20674105"
+  },
+  {
+    "title": "Is Ben There?",
+    "artist": "Tube Bar",
+    "isrc": "USHKJ0800159"
+  },
+  {
+    "title": "Automotive Mongoloid School",
+    "artist": "Vincent DeMayo",
+    "isrc": "TCACC1468038"
+  },
+  {
+    "title": "Destroyed Wedding Dress",
+    "artist": "Whackhead Simpson",
+    "isrc": "ZAP131100008"
+  },
+  {
+    "title": "The Escort Service",
+    "artist": "Zack Kahn",
+    "isrc": "TCABK1285320"
+  },
+  {
+    "title": "Irate Tile Man",
+    "artist": "The Jerky Boys",
+    "isrc": "US39N0400232"
+  },
+  {
+    "title": "Pizza Pie",
+    "artist": "Jim Florentine",
+    "isrc": "uscgj0667201"
+  },
+  {
+    "title": "Dog Man",
+    "artist": "Bad Dog McCormack",
+    "isrc": "uscgh1193212"
+  },
+  {
+    "title": "Chinese Restaurant",
+    "artist": "Kamal (of the Jerky Boys)",
+    "isrc": "USY9M0610018"
+  },
+  {
+    "title": "Waking Up Alone On The 4th Of July, Part II",
+    "artist": "Earles and Jensen Present",
+    "isrc": "USMTD0876526"
+  },
+  {
+    "title": "The Wedding",
+    "artist": "Nephew Tommy",
+    "isrc": "USACX1202096"
+  },
+  {
+    "title": "Vagina No-No's, Van Fucker, Doggie Style",
+    "artist": "Don Jamieson",
+    "isrc": "USMBR1712451"
+  },
+  {
+    "title": "Hotel Call: Insomnia",
+    "artist": "Tom Mabe",
+    "isrc": "USME30900794"
+  },
+  {
+    "title": "Movin' Pappy - Live",
+    "artist": "Willie P. Richardson",
+    "isrc": "QZKXM2000307"
+  },
+  {
+    "title": "Hearing Aid",
+    "artist": "Bob Sage",
+    "isrc": "ushm80349860"
+  },
+  {
+    "title": "Scott Storch & Hulk Hogan",
+    "artist": "Ralphige",
+    "isrc": "USTC80907500"
+  },
+  {
+    "title": "Ned - Truck Nuts Call",
+    "artist": "Bubba The Love Sponge",
+    "isrc": "USJ3V1318955"
+  },
+  {
+    "title": "The Cleaner",
+    "artist": "Father Rick",
+    "isrc": "USKSY0710004"
+  },
+  {
+    "title": "Tube Bar Red 1",
+    "artist": "Bum Bar Bastards",
+    "isrc": "TCAAZ1109088"
+  },
+  {
+    "title": "The Scam",
+    "artist": "Jack Vale",
+    "isrc": "TCAAT1051514"
+  },
+  {
+    "title": "Rock and Roll Will Never Die",
+    "artist": "Neil Hamburger",
+    "isrc": "US58L1043702"
+  },
+  {
+    "title": "Leon Sold Me Your Wheels!",
+    "artist": "Lucius Tate Prank Calls",
+    "isrc": "USJ3V1182531"
+  },
+  {
+    "title": "To Sir With Millipedes",
+    "artist": "Longmont Potion Castle",
+    "isrc": "USA560905022"
+  },
+  {
+    "title": "Too Much Yang Energy",
+    "artist": "The Phone Militia",
+    "isrc": "ushm20325408"
+  },
+  {
+    "title": "Mary Mac",
+    "artist": "Rickey Smiley",
+    "isrc": "QZ5HC1600148"
+  },
+  {
+    "title": "Nova Express Times Survey On Alcoholism",
+    "artist": "Peter and Raymond",
+    "isrc": "USMGC0810061"
+  },
+  {
+    "title": "Call 13",
+    "artist": "Riley Girt",
+    "isrc": "uscgj0921174"
+  },
+  {
+    "title": "Most Jokes in One Minute",
+    "artist": "Matt Besser",
+    "isrc": "QMJYX1650211"
+  },
+  {
+    "title": "Moe Fugger Malt Liquor",
+    "artist": "Friggen Comedy Network",
+    "isrc": "ushm20437561"
+  },
+  {
+    "title": "The Art of Meditation",
+    "artist": "Audioville",
+    "isrc": "GBCEJ0698052"
+  },
+  {
+    "title": "Sheilas Wheels",
+    "artist": "Braiden",
+    "isrc": "USJ3V0725513"
+  },
+  {
+    "title": "Lost Leg",
+    "artist": "Crank Yankers / Birchum",
+    "isrc": "US39N0400168"
+  },
+  {
+    "title": "Hits A Deer",
+    "artist": "Crank Yankers / Bobby Fletcher",
+    "isrc": "US39N0400193"
+  },
+  {
+    "title": "I Have the Junk!",
+    "artist": "Crank Yankers / Boomer & The Nudge",
+    "isrc": "US39N0400201"
+  },
+  {
+    "title": "Raven",
+    "artist": "Crank Yankers / Cammie",
+    "isrc": "US39N0400206"
+  },
+  {
+    "title": "Kids Saw Porn",
+    "artist": "Crank Yankers / Gladys Murphy",
+    "isrc": "US39N0400199"
+  },
+  {
+    "title": "Waste Management",
+    "artist": "Crank Yankers / Hadassah",
+    "isrc": "US39N0400182"
+  },
+  {
+    "title": "Helen Looks For Cookies",
+    "artist": "Crank Yankers / Helen Higgins",
+    "isrc": "US39N0400185"
+  },
+  {
+    "title": "Caulk",
+    "artist": "Crank Yankers / Niles Standish",
+    "isrc": "US39N0400196"
+  },
+  {
+    "title": "Do You Know That Song",
+    "artist": "Crank Yankers / Special Ed",
+    "isrc": "US39N0400190"
+  },
+  {
+    "title": "Spoonie Luv Sends Flowers",
+    "artist": "Crank Yankers / Spoonie Luv",
+    "isrc": "US39N0400161"
+  },
+  {
+    "title": "I Sell Anything",
+    "artist": "Danny Masterson",
+    "isrc": "TCABY1434686"
+  },
+  {
+    "title": "Unemployed Painter",
+    "artist": "The Jerky Boys",
+    "isrc": "US39N0400233"
+  },
+  {
+    "title": "Motel Room",
+    "artist": "Jim Florentine",
+    "isrc": "uscgj0667204"
+  },
+  {
+    "title": "Gaylord Calls a Sex Line",
+    "artist": "Bad Dog McCormack",
+    "isrc": "uscgh1193214"
+  },
+  {
+    "title": "Spanish Lessons",
+    "artist": "Kamal (of the Jerky Boys)",
+    "isrc": "USY9M0610025"
+  },
+  {
+    "title": "Waking Up Alone On the 4th of July - Live On the Radio",
+    "artist": "Earles and Jensen Present",
+    "isrc": "USMTD0876506"
+  },
+  {
+    "title": "Repo the Pews",
+    "artist": "Nephew Tommy",
+    "isrc": "USACX1202098"
+  },
+  {
+    "title": "That Metal Show, Wedding Songs & Guns N' F@ckin' Roses",
+    "artist": "Don Jamieson",
+    "isrc": "USMBR1410515"
+  },
+  {
+    "title": "Thanks For Holding",
+    "artist": "Tom Mabe",
+    "isrc": "USME30900785"
+  },
+  {
+    "title": "Fish Record - Live",
+    "artist": "Willie P. Richardson",
+    "isrc": "QZKXM2000305"
+  },
+  {
+    "title": "Language Translation",
+    "artist": "Bob Sage",
+    "isrc": "ushm80349868"
+  },
+  {
+    "title": "Benzino",
+    "artist": "Ralphige",
+    "isrc": "USTC80907539"
+  },
+  {
+    "title": "Ned - Three Little Pigs Muslim Call",
+    "artist": "Bubba The Love Sponge",
+    "isrc": "USJ3V1318938"
+  },
+  {
+    "title": "Whatever With That Church",
+    "artist": "Father Rick",
+    "isrc": "USKSY0710002"
+  },
+  {
+    "title": "Tube Bar Red 7",
+    "artist": "Bum Bar Bastards",
+    "isrc": "TCAAZ1109099"
+  },
+  {
+    "title": "Baked Goods",
+    "artist": "Jack Vale",
+    "isrc": "TCAAT1051511"
+  },
+  {
+    "title": "Shutup & Listen Asshole!!",
+    "artist": "Lucius Tate Prank Calls",
+    "isrc": "USJ3V1182526"
+  },
+  {
+    "title": "Dating",
+    "artist": "Neil Hamburger",
+    "isrc": "US58L0509741"
+  },
+  {
+    "title": "Studded Montoyan",
+    "artist": "Longmont Potion Castle",
+    "isrc": "USA560905021"
+  },
+  {
+    "title": "Is this for Real?",
+    "artist": "The Phone Militia",
+    "isrc": "ushm20325386"
+  },
+  {
+    "title": "Hush Juju!",
+    "artist": "Rickey Smiley",
+    "isrc": "TCABF1280599"
+  },
+  {
+    "title": "Call 1",
+    "artist": "Riley Girt",
+    "isrc": "uscgj0921162"
+  },
+  {
+    "title": "Kid Buzz",
+    "artist": "Matt Besser",
+    "isrc": "QMJYX1974309"
+  },
+  {
+    "title": "Moe Fugger's Nuts",
+    "artist": "Friggen Comedy Network",
+    "isrc": "ushm20437581"
+  },
+  {
+    "title": "Banana Man Part 2",
+    "artist": "Braiden",
+    "isrc": "USJ3V0725532"
+  }
+]

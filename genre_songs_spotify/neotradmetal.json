@@ -1,0 +1,822 @@
+[
+  {
+    "title": "No Turning Back",
+    "artist": "Jack Starr's Burning Starr",
+    "isrc": "GB4J92108501"
+  },
+  {
+    "title": "Until the End",
+    "artist": "Lonewolf",
+    "isrc": "DER371691406"
+  },
+  {
+    "title": "We Are What We Are",
+    "artist": "Lion's Share",
+    "isrc": "SEXLT1900201"
+  },
+  {
+    "title": "Venom",
+    "artist": "Herman Frank",
+    "isrc": "DEU602109240"
+  },
+  {
+    "title": "Mental Messiah",
+    "artist": "Seven Witches",
+    "isrc": "CA16K1100023"
+  },
+  {
+    "title": "The Swords Are Drawn",
+    "artist": "Battleroar",
+    "isrc": "ITI291406702"
+  },
+  {
+    "title": "We Rule The Night",
+    "artist": "Iron Fate",
+    "isrc": "DER372121803"
+  },
+  {
+    "title": "Slaves To The Metal Horde",
+    "artist": "Crescent Shield, Dan Delucie, Melanie Sisneros, Michael Grant, Craig Anderson",
+    "isrc": "ITI290601702"
+  },
+  {
+    "title": "Heavy Metal Is Forever",
+    "artist": "Metal Law",
+    "isrc": "usx9p1068217"
+  },
+  {
+    "title": "Die By the Power of the Axe",
+    "artist": "Battlerage",
+    "isrc": "ushm21156687"
+  },
+  {
+    "title": "Remission Of Sin",
+    "artist": "Scheepers",
+    "isrc": "ITG271100092"
+  },
+  {
+    "title": "Speed Demon",
+    "artist": "Dragonsfire",
+    "isrc": "DEAR41816157"
+  },
+  {
+    "title": "The Pain Inside",
+    "artist": "Stormzone",
+    "isrc": "GBBLY2201278"
+  },
+  {
+    "title": "Ode To Salvation",
+    "artist": "Airged L'amh",
+    "isrc": "CH6540801838"
+  },
+  {
+    "title": "Call the Banners",
+    "artist": "Metal Inquisitor",
+    "isrc": "DER371484203"
+  },
+  {
+    "title": "Two Powers",
+    "artist": "Sacred Oath",
+    "isrc": "USCGH0518832"
+  },
+  {
+    "title": "Warrior",
+    "artist": "Steel Tormentor",
+    "isrc": "ushm81076068"
+  },
+  {
+    "title": "Demon Slayer",
+    "artist": "Ignitor",
+    "isrc": "ushm20490276"
+  },
+  {
+    "title": "Wargods Of Metal",
+    "artist": "Sacred Steel",
+    "isrc": "USMBR0705172"
+  },
+  {
+    "title": "Larger Than Life",
+    "artist": "Paragon",
+    "isrc": "DER370860110"
+  },
+  {
+    "title": "Steelwheeler - Instrumental",
+    "artist": "Rocka Rollas",
+    "isrc": "CH6541660402"
+  },
+  {
+    "title": "Blood of My Enemies",
+    "artist": "Ross The Boss",
+    "isrc": "DEU601706836"
+  },
+  {
+    "title": "Anubis",
+    "artist": "Tad Morose",
+    "isrc": "GBDHC0304941"
+  },
+  {
+    "title": "My Last Attack",
+    "artist": "Holy Grail",
+    "isrc": "USERN1000733"
+  },
+  {
+    "title": "The Soulless",
+    "artist": "Charred Walls Of The Damned",
+    "isrc": "USMBR1611961"
+  },
+  {
+    "title": "Town of Skulls",
+    "artist": "Rawhead Rexx",
+    "isrc": "DEZ900500225"
+  },
+  {
+    "title": "New Revelation",
+    "artist": "Astral Doors",
+    "isrc": "DEDL81002428"
+  },
+  {
+    "title": "The Night of Metal Kill",
+    "artist": "Skullview",
+    "isrc": "USA370354302"
+  },
+  {
+    "title": "Ride Through the Achaemenid Empire",
+    "artist": "Sacred Blood",
+    "isrc": "CYA081101512"
+  },
+  {
+    "title": "Warp 7",
+    "artist": "Scanner",
+    "isrc": "DER371799202"
+  },
+  {
+    "title": "Cast Iron",
+    "artist": "Skelator",
+    "isrc": "ITI291901502"
+  },
+  {
+    "title": "Upon the Throne",
+    "artist": "Ironsword",
+    "isrc": "PT1GX1800068"
+  },
+  {
+    "title": "Rule the World",
+    "artist": "Feinstein",
+    "isrc": "USMC71000940"
+  },
+  {
+    "title": "The God Machine",
+    "artist": "Steel Prophet",
+    "isrc": "DEZ901900136"
+  },
+  {
+    "title": "Soul Collector",
+    "artist": "Gallows End",
+    "isrc": "ushm21075620"
+  },
+  {
+    "title": "Down in the Crypt",
+    "artist": "Crystal Viper",
+    "isrc": "FR1PP2000630"
+  },
+  {
+    "title": "Feel The Fire",
+    "artist": "Riot V",
+    "isrc": "DE1AH2305002"
+  },
+  {
+    "title": "Hair of the Dog",
+    "artist": "Monument",
+    "isrc": "FR2X41619941"
+  },
+  {
+    "title": "Fire the Cannons",
+    "artist": "Blazon Stone",
+    "isrc": "CH6542416567"
+  },
+  {
+    "title": "This Is War",
+    "artist": "Phantom-X",
+    "isrc": "uscgh1704303"
+  },
+  {
+    "title": "Hold Up The Night",
+    "artist": "Hitten",
+    "isrc": "QZTB22373961"
+  },
+  {
+    "title": "Burn It Down",
+    "artist": "Sencirow",
+    "isrc": "DEZ900501434"
+  },
+  {
+    "title": "BEST of the BEST of the BEST",
+    "artist": "Striker",
+    "isrc": "USL4Q2311869"
+  },
+  {
+    "title": "We Are One",
+    "artist": "Mean Streak",
+    "isrc": "SEVVF1300501"
+  },
+  {
+    "title": "The Barbarian",
+    "artist": "Grey Wolf",
+    "isrc": "BRT7H1600006"
+  },
+  {
+    "title": "After The Fire",
+    "artist": "Pharaoh, TIM AYMAR (Control Denied)",
+    "isrc": "ITI290300102"
+  },
+  {
+    "title": "Rise with Me",
+    "artist": "Lechery",
+    "isrc": "SEYOK1614907"
+  },
+  {
+    "title": "Decapitation Attack",
+    "artist": "Vainglory",
+    "isrc": "usdy41977469"
+  },
+  {
+    "title": "Spartan Killing Machine",
+    "artist": "Sacred Gate",
+    "isrc": "uscgj1381589"
+  },
+  {
+    "title": "Beyond The North Wind",
+    "artist": "Ancient Empire",
+    "isrc": "QZK6H2194283"
+  },
+  {
+    "title": "All Hell Is Breaking Loose",
+    "artist": "ROADWOLF",
+    "isrc": "FRX762026876"
+  },
+  {
+    "title": "Voulez Vous - Remastered",
+    "artist": "Morgana Lefay",
+    "isrc": "SEXHQ9500906"
+  },
+  {
+    "title": "The Watcher",
+    "artist": "Destiny's End",
+    "isrc": "USMBR0502646"
+  },
+  {
+    "title": "Six Ribbons",
+    "artist": "Black Majesty",
+    "isrc": "DET270508203"
+  },
+  {
+    "title": "The Inevitable End",
+    "artist": "Manimal",
+    "isrc": "DEU602109498"
+  },
+  {
+    "title": "Dominator",
+    "artist": "OZ",
+    "isrc": "SE2WD1100101"
+  },
+  {
+    "title": "Unholy",
+    "artist": "FireWölfe",
+    "isrc": "DET272119002"
+  },
+  {
+    "title": "Gunslinger",
+    "artist": "Death Dealer",
+    "isrc": "SE4KY1500101"
+  },
+  {
+    "title": "Gates of Hell",
+    "artist": "Ruthless",
+    "isrc": "usx9p1362659"
+  },
+  {
+    "title": "Out of Nowhere",
+    "artist": "Stray Gods",
+    "isrc": "DEZ902300318"
+  },
+  {
+    "title": "Rising Force",
+    "artist": "Victory",
+    "isrc": "DEU602109614"
+  },
+  {
+    "title": "Guardian Angel",
+    "artist": "Celtic Legacy",
+    "isrc": "uscgh0513755"
+  },
+  {
+    "title": "Sword Of Vengeance",
+    "artist": "Validor",
+    "isrc": "QZNWZ2150936"
+  },
+  {
+    "title": "Beerrun",
+    "artist": "Absolute Steel",
+    "isrc": "USA370566338"
+  },
+  {
+    "title": "Run Away (ASOT 900 - Part 1)",
+    "artist": "Airborn, Bogdan Vix, KeyPlayer, Alexandra Badoi",
+    "isrc": "NLF711900959"
+  },
+  {
+    "title": "Only the Devil Can Stop Us Now",
+    "artist": "Conquest of Steel",
+    "isrc": "ushm21250835"
+  },
+  {
+    "title": "Gypsy",
+    "artist": "Exxplorer",
+    "isrc": "DEOM31100231"
+  },
+  {
+    "title": "Mjöllnir",
+    "artist": "Icy Steel",
+    "isrc": "ushm81051093"
+  },
+  {
+    "title": "The Last Templars",
+    "artist": "Shadowkiller",
+    "isrc": "QZFYX2089010"
+  },
+  {
+    "title": "The Answer",
+    "artist": "Ashes Of Ares",
+    "isrc": "DED831300423"
+  },
+  {
+    "title": "I Love The Night",
+    "artist": "Gravestone",
+    "isrc": "DEF830622001"
+  },
+  {
+    "title": "Another Return To Church Hill",
+    "artist": "Artch",
+    "isrc": "USMBR0705098"
+  },
+  {
+    "title": "Sign of the Spider",
+    "artist": "Ravage",
+    "isrc": "USCGJ2437802"
+  },
+  {
+    "title": "Never Surrender",
+    "artist": "Masters Of Disguise",
+    "isrc": "DET271214202"
+  },
+  {
+    "title": "Rise of the Dragon",
+    "artist": "Feanor",
+    "isrc": "DER372119301"
+  },
+  {
+    "title": "Shockwaves",
+    "artist": "Tyran Pace",
+    "isrc": "GB5KW1904252"
+  },
+  {
+    "title": "Nexus Inferis",
+    "artist": "Nightmare",
+    "isrc": "DEU602410942"
+  },
+  {
+    "title": "The Void (feat. Sherry St. Germain)",
+    "artist": "Cage, Sherry St.Germain",
+    "isrc": "US92U1201101"
+  },
+  {
+    "title": "The First Stride",
+    "artist": "Strider",
+    "isrc": "ushm82270540"
+  },
+  {
+    "title": "Line of Danger",
+    "artist": "Blazing Rust",
+    "isrc": "DEOM32000149"
+  },
+  {
+    "title": "Child Of The Damned",
+    "artist": "Warlord",
+    "isrc": "GB4J92107203"
+  },
+  {
+    "title": "Sands Of Time",
+    "artist": "Jack Starr's Burning Starr",
+    "isrc": "GB4J92109002"
+  },
+  {
+    "title": "Raised on Metal",
+    "artist": "Lonewolf",
+    "isrc": "DER371798004"
+  },
+  {
+    "title": "We Will Rock",
+    "artist": "Lion's Share",
+    "isrc": "SEXLT2400102"
+  },
+  {
+    "title": "Can't Take It",
+    "artist": "Herman Frank",
+    "isrc": "DEU601606473"
+  },
+  {
+    "title": "See You In Hell",
+    "artist": "Seven Witches",
+    "isrc": "CA16K1100041"
+  },
+  {
+    "title": "The Wrathforge",
+    "artist": "Battleroar",
+    "isrc": "ITI290802901"
+  },
+  {
+    "title": "Crimson Messiah",
+    "artist": "Iron Fate",
+    "isrc": "DER372121801"
+  },
+  {
+    "title": "The Last Of My Kind",
+    "artist": "Crescent Shield, Dan Delucie, Melanie Sisneros, Michael Grant, Craig Anderson",
+    "isrc": "ITI290601705"
+  },
+  {
+    "title": "Metal Law",
+    "artist": "Metal Law",
+    "isrc": "usx9p1068215"
+  },
+  {
+    "title": "The Devil's Wings Bring Fire From Hell",
+    "artist": "Battlerage",
+    "isrc": "ushm21156686"
+  },
+  {
+    "title": "Before The Dawn",
+    "artist": "Scheepers",
+    "isrc": "ITG271100097"
+  },
+  {
+    "title": "W.I.T.G.A.G.O.T.O.S.",
+    "artist": "Dragonsfire",
+    "isrc": "DEAR42392447"
+  },
+  {
+    "title": "Tolling of the Bell",
+    "artist": "Stormzone",
+    "isrc": "DEPI82013850"
+  },
+  {
+    "title": "The Hunter's Path",
+    "artist": "Airged L'amh",
+    "isrc": "CH6540801837"
+  },
+  {
+    "title": "Free Fire Zone",
+    "artist": "Metal Inquisitor",
+    "isrc": "DER371904601"
+  },
+  {
+    "title": "Hammer Of An Angry God",
+    "artist": "Sacred Oath",
+    "isrc": "US2HT2100006"
+  },
+  {
+    "title": "Evil Coming",
+    "artist": "Steel Tormentor",
+    "isrc": "ushm81076066"
+  },
+  {
+    "title": "Hatchet (The Ballad of Victor Crowley)",
+    "artist": "Ignitor",
+    "isrc": "QZ8CE1700004"
+  },
+  {
+    "title": "Heavy Metal Sacrifice",
+    "artist": "Sacred Steel",
+    "isrc": "ITI291608202"
+  },
+  {
+    "title": "Mean Machine",
+    "artist": "Paragon",
+    "isrc": "DER371905704"
+  },
+  {
+    "title": "Blazing Wings",
+    "artist": "Rocka Rollas",
+    "isrc": "CH6541660395"
+  },
+  {
+    "title": "Denied by the Cross",
+    "artist": "Ross The Boss",
+    "isrc": "DEU601908615"
+  },
+  {
+    "title": "No Mercy",
+    "artist": "Tad Morose",
+    "isrc": "GBDHC0304942"
+  },
+  {
+    "title": "Call of Valhalla",
+    "artist": "Holy Grail",
+    "isrc": "USERN1000735"
+  },
+  {
+    "title": "My Eyes",
+    "artist": "Charred Walls Of The Damned",
+    "isrc": "USMBR1611960"
+  },
+  {
+    "title": "The Scream",
+    "artist": "Rawhead Rexx",
+    "isrc": "DEZ900500236"
+  },
+  {
+    "title": "Blood on the Blade",
+    "artist": "Skullview",
+    "isrc": "USA370354303"
+  },
+  {
+    "title": "Bride of Christ",
+    "artist": "Astral Doors",
+    "isrc": "DEDL81002427"
+  },
+  {
+    "title": "Hellenic Steel",
+    "artist": "Sacred Blood",
+    "isrc": "CYA081503502"
+  },
+  {
+    "title": "Across the Universe",
+    "artist": "Scanner",
+    "isrc": "DER371692004"
+  },
+  {
+    "title": "Elric: the Dragon Prince",
+    "artist": "Skelator",
+    "isrc": "QMPKX1480211"
+  },
+  {
+    "title": "Forging the Sword",
+    "artist": "Ironsword",
+    "isrc": "USKUT1510201"
+  },
+  {
+    "title": "Third Wish",
+    "artist": "Feinstein",
+    "isrc": "USMC71000939"
+  },
+  {
+    "title": "Dreamer, Deceiver",
+    "artist": "Steel Prophet",
+    "isrc": "USEWC1183784"
+  },
+  {
+    "title": "The Curse",
+    "artist": "Gallows End",
+    "isrc": "ushm21075623"
+  },
+  {
+    "title": "Love Beyond The Grave",
+    "artist": "Riot V",
+    "isrc": "DE1AH2305003"
+  },
+  {
+    "title": "Still Alive",
+    "artist": "Crystal Viper",
+    "isrc": "DEU601908359"
+  },
+  {
+    "title": "A Bridge Too Far",
+    "artist": "Monument",
+    "isrc": "FR2X41619948"
+  },
+  {
+    "title": "Down in the Dark",
+    "artist": "Blazon Stone",
+    "isrc": "CH6541835478"
+  },
+  {
+    "title": "Storms of Hell (chpt 1)",
+    "artist": "Phantom-X",
+    "isrc": "uscgj0597214"
+  },
+  {
+    "title": "Dreamspace",
+    "artist": "Sencirow",
+    "isrc": "DEZ900501442"
+  },
+  {
+    "title": "In The Heat Of The Night",
+    "artist": "Hitten",
+    "isrc": "DEQN41800023"
+  },
+  {
+    "title": "Give It All",
+    "artist": "Striker",
+    "isrc": "CAOPL2390065"
+  },
+  {
+    "title": "Metal Slave",
+    "artist": "Mean Streak",
+    "isrc": "SEVVF0900109"
+  },
+  {
+    "title": "Cimmerian Hordes",
+    "artist": "Grey Wolf",
+    "isrc": "BRT7H2100002"
+  },
+  {
+    "title": "Slaves",
+    "artist": "Pharaoh, TIM AYMAR (Control Denied)",
+    "isrc": "ITI290300109"
+  },
+  {
+    "title": "Mechanical Beast",
+    "artist": "Lechery",
+    "isrc": "SEYOK1615115"
+  },
+  {
+    "title": "Comin' Back",
+    "artist": "Vainglory",
+    "isrc": "usdy41912885"
+  },
+  {
+    "title": "Tides of War",
+    "artist": "Sacred Gate",
+    "isrc": "uscgj1381584"
+  },
+  {
+    "title": "Immortal",
+    "artist": "Ancient Empire",
+    "isrc": "QZK6H2194282"
+  },
+  {
+    "title": "Wheels of Fire",
+    "artist": "ROADWOLF",
+    "isrc": "FRX762026883"
+  },
+  {
+    "title": "Maleficium",
+    "artist": "Morgana Lefay",
+    "isrc": "SEXHQ9600606"
+  },
+  {
+    "title": "To Be Immortal",
+    "artist": "Destiny's End",
+    "isrc": "USMBR0502636"
+  },
+  {
+    "title": "Silent Company",
+    "artist": "Black Majesty",
+    "isrc": "DET270508202"
+  },
+  {
+    "title": "Forged in Metal",
+    "artist": "Manimal",
+    "isrc": "DEU602109340"
+  },
+  {
+    "title": "I Am The Sinner",
+    "artist": "Jack Starr's Burning Starr",
+    "isrc": "GB4J92111003"
+  },
+  {
+    "title": "Wolfsblut",
+    "artist": "Lonewolf",
+    "isrc": "DER371691402"
+  },
+  {
+    "title": "Judas Must Die",
+    "artist": "Lion's Share",
+    "isrc": "SEXLT0900301"
+  },
+  {
+    "title": "Teutonic Order",
+    "artist": "Herman Frank",
+    "isrc": "DEU602109239"
+  },
+  {
+    "title": "Metal Tyrant",
+    "artist": "Seven Witches",
+    "isrc": "CA16K1100032"
+  },
+  {
+    "title": "Finis Mundi",
+    "artist": "Battleroar",
+    "isrc": "ITI290802903"
+  },
+  {
+    "title": "Malleus Maleficarum",
+    "artist": "Iron Fate",
+    "isrc": "DER372121802"
+  },
+  {
+    "title": "Rise Of The Red Crescent Moon",
+    "artist": "Crescent Shield, Dan Delucie, Melanie Sisneros, Michael Grant, Craig Anderson",
+    "isrc": "ITI290601703"
+  },
+  {
+    "title": "In Metal We Trust",
+    "artist": "Metal Law",
+    "isrc": "uscgh1700827"
+  },
+  {
+    "title": "Return of the Axeman",
+    "artist": "Battlerage",
+    "isrc": "ushm91167999"
+  },
+  {
+    "title": "Locked In The Dungeon",
+    "artist": "Scheepers",
+    "isrc": "ITG271100091"
+  },
+  {
+    "title": "Blood for Blood",
+    "artist": "Dragonsfire",
+    "isrc": "DEAR41859608"
+  },
+  {
+    "title": "Ignite the Machine",
+    "artist": "Stormzone",
+    "isrc": "DEPI82013851"
+  },
+  {
+    "title": "Glide On The Wings",
+    "artist": "Airged L'amh",
+    "isrc": "CH6540801844"
+  },
+  {
+    "title": "Doomsday for the Heretic",
+    "artist": "Metal Inquisitor",
+    "isrc": "DER371590302"
+  },
+  {
+    "title": "Cthulhu Wakes",
+    "artist": "Sacred Oath",
+    "isrc": "US2HT2100001"
+  },
+  {
+    "title": "Soul Stealer",
+    "artist": "Steel Tormentor",
+    "isrc": "ushm81076069"
+  },
+  {
+    "title": "Fast as a Shark",
+    "artist": "Ignitor",
+    "isrc": "uscgj1322776"
+  },
+  {
+    "title": "Sacred Bloody Steel",
+    "artist": "Sacred Steel",
+    "isrc": "DEZC62329783"
+  },
+  {
+    "title": "Intro/Impaler",
+    "artist": "Paragon",
+    "isrc": "DEKS80504201"
+  },
+  {
+    "title": "The Price of Vengeance",
+    "artist": "Rocka Rollas",
+    "isrc": "CH6541815393"
+  },
+  {
+    "title": "Glory to the Slain",
+    "artist": "Ross The Boss",
+    "isrc": "DEU601908613"
+  },
+  {
+    "title": "Afraid to Die",
+    "artist": "Tad Morose",
+    "isrc": "GBDHC0304943"
+  },
+  {
+    "title": "Fight to Kill",
+    "artist": "Holy Grail",
+    "isrc": "USERN1000734"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Charred Walls Of The Damned",
+    "isrc": "USMBR1007168"
+  },
+  {
+    "title": "Six Feet from the Edge",
+    "artist": "Rawhead Rexx",
+    "isrc": "DEW110300013"
+  },
+  {
+    "title": "Watching Below From My Moonlight Throne",
+    "artist": "Skullview",
+    "isrc": "USA370354305"
+  },
+  {
+    "title": "The Bold Prince of Macedonia",
+    "artist": "Sacred Blood",
+    "isrc": "CYA081101502"
+  }
+]

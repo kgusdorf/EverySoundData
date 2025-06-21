@@ -1,0 +1,942 @@
+[
+  {
+    "title": "All the Cats Are Grey",
+    "artist": "Lloyd Spiegel",
+    "isrc": "AULS51700002"
+  },
+  {
+    "title": "Shout Into The Noise",
+    "artist": "Ash Grunwald",
+    "isrc": "AULI02142700"
+  },
+  {
+    "title": "Dutchman's Blues",
+    "artist": "Dutch Tilders",
+    "isrc": "AUBK40900376"
+  },
+  {
+    "title": "Cry To Me",
+    "artist": "Bondi Cigars",
+    "isrc": "usl4q0755197"
+  },
+  {
+    "title": "Haunted Heart",
+    "artist": "Ray Beadle",
+    "isrc": "AUMGB2300610"
+  },
+  {
+    "title": "Can't Stop",
+    "artist": "Phil Manning",
+    "isrc": "AUBK40900206"
+  },
+  {
+    "title": "What A Night",
+    "artist": "19-Twenty, Lachy Doley, Hussy Hicks",
+    "isrc": "AUMGB2000599"
+  },
+  {
+    "title": "Howling Dog",
+    "artist": "Blue Shaddy",
+    "isrc": "USJ3V1256497"
+  },
+  {
+    "title": "The Road Leads Down",
+    "artist": "Jeff Lang, Chris Whitley",
+    "isrc": "AUABO0600259"
+  },
+  {
+    "title": "Down by the Riverbed",
+    "artist": "Backsliders",
+    "isrc": "AUBX20700021"
+  },
+  {
+    "title": "St. James Infirmary",
+    "artist": "Collard Greens & Gravy",
+    "isrc": "AUCVO0500034"
+  },
+  {
+    "title": "High Wire",
+    "artist": "Geoff Achison",
+    "isrc": "AUMRI1600001"
+  },
+  {
+    "title": "Get up (Raise Your Head)",
+    "artist": "Marshall & the Fro",
+    "isrc": "AUMF20700001"
+  },
+  {
+    "title": "Goin' down South",
+    "artist": "The Swamp Stompers",
+    "isrc": "AUB8A2100002"
+  },
+  {
+    "title": "When The Moment Comes",
+    "artist": "Mia Dyson",
+    "isrc": "AUEZ01200001"
+  },
+  {
+    "title": "Seen Her Before",
+    "artist": "The Mason Rack Band",
+    "isrc": "usy280704356"
+  },
+  {
+    "title": "You Should Have Been Here Yesterday",
+    "artist": "Marshall Okell",
+    "isrc": "AUMO31300003"
+  },
+  {
+    "title": "You Dont Know",
+    "artist": "Genevieve Chadwick",
+    "isrc": "GBSMU0971403"
+  },
+  {
+    "title": "I Remember When I Was Young",
+    "artist": "Matt Taylor",
+    "isrc": "USA2P1613815"
+  },
+  {
+    "title": "Voodoo and Honey",
+    "artist": "Minnie Marks",
+    "isrc": "AUMC40900016"
+  },
+  {
+    "title": "Goin' Somewhere",
+    "artist": "Kevin Borich Express",
+    "isrc": "AULB41700112"
+  },
+  {
+    "title": "Howlin' At The Moon",
+    "artist": "Shaun Kirk",
+    "isrc": "AUBEC1715717"
+  },
+  {
+    "title": "Remember To Breathe",
+    "artist": "Owen Campbell",
+    "isrc": "AUNOF1500006"
+  },
+  {
+    "title": "Black Cat Bone",
+    "artist": "Hat Fitz & Cara Robinson",
+    "isrc": "GBHVP1000208"
+  },
+  {
+    "title": "Boom Boom",
+    "artist": "Matty T Wall, Dave Hole",
+    "isrc": "AUDFM1900001"
+  },
+  {
+    "title": "Success is the Best Revenge",
+    "artist": "Dallas Frasca",
+    "isrc": "FR7Z81500058"
+  },
+  {
+    "title": "Slow Me Down",
+    "artist": "Darren Jack",
+    "isrc": "ushm92138290"
+  },
+  {
+    "title": "Kingston",
+    "artist": "Juzzie Smith",
+    "isrc": "AUVR12103377"
+  },
+  {
+    "title": "Oh Josephine",
+    "artist": "Mike Elrington",
+    "isrc": "AUBEC1816334"
+  },
+  {
+    "title": "Number's Down",
+    "artist": "Andrew Winton",
+    "isrc": "AUYB00600001"
+  },
+  {
+    "title": "Money and Fools",
+    "artist": "Benny Walker",
+    "isrc": "AUBEC2090048"
+  },
+  {
+    "title": "Stop Listening to the Blues",
+    "artist": "The Lachy Doley Group",
+    "isrc": "AU8P11500036"
+  },
+  {
+    "title": "Cover Me",
+    "artist": "The Urban Chiefs",
+    "isrc": "AUYWJ1700002"
+  },
+  {
+    "title": "Devil Town",
+    "artist": "Julian James, Moonshine State",
+    "isrc": "TCAFH2071500"
+  },
+  {
+    "title": "Jackson",
+    "artist": "Kate Lush",
+    "isrc": "AUZN31600014"
+  },
+  {
+    "title": "Please Don't Leave Me Be",
+    "artist": "Justin Yap Band",
+    "isrc": "GBLFP1619092"
+  },
+  {
+    "title": "Hell Cat Blues",
+    "artist": "Bakelite Radio",
+    "isrc": "AUHF00505013"
+  },
+  {
+    "title": "Walkin' Now",
+    "artist": "James Southwell",
+    "isrc": "AUJS31500017"
+  },
+  {
+    "title": "Esmeralda",
+    "artist": "Mike Rudd, The Indelible Murtceps",
+    "isrc": "AUOWA1201317"
+  },
+  {
+    "title": "Little Wing",
+    "artist": "Simon Kinny-Lewis, Valeriy Stepanov",
+    "isrc": "ushm21670711"
+  },
+  {
+    "title": "The Blues in Me",
+    "artist": "Blue Eyes Cry",
+    "isrc": "AUCV00501188"
+  },
+  {
+    "title": "Freight Train",
+    "artist": "Catfish Voodoo",
+    "isrc": "usx9p1142439"
+  },
+  {
+    "title": "Three Lines Deep",
+    "artist": "Nick Charles",
+    "isrc": "AUCV00501428"
+  },
+  {
+    "title": "Australian Blues",
+    "artist": "Two Rivers Blues",
+    "isrc": "USQY51345857"
+  },
+  {
+    "title": "Knock Back That Whiskey",
+    "artist": "White Lightning",
+    "isrc": "QZBRF1837314"
+  },
+  {
+    "title": "The Love Me Or Die",
+    "artist": "C.W. Stoneking",
+    "isrc": "AUQC30800008"
+  },
+  {
+    "title": "Woolamai",
+    "artist": "Smoke Stack Rhino",
+    "isrc": "AUPJJ2100006"
+  },
+  {
+    "title": "Running in the Red (Live)",
+    "artist": "Pete Cornelius & the DeVilles",
+    "isrc": "TCABX1493298"
+  },
+  {
+    "title": "Get out Your Ear's Way",
+    "artist": "Lachy Doley, Bootsy Collins",
+    "isrc": "AU8P12300094"
+  },
+  {
+    "title": "Love's Truly Blind",
+    "artist": "Anni Piper",
+    "isrc": "ushm90728689"
+  },
+  {
+    "title": "The Riddle",
+    "artist": "Sid Rumpo",
+    "isrc": "AUFE01300005"
+  },
+  {
+    "title": "You're in New Orleans",
+    "artist": "Kara Grainger, Anders Osborne",
+    "isrc": "QZBLC1800005"
+  },
+  {
+    "title": "#98",
+    "artist": "Matt Corcoran",
+    "isrc": "AUCV00500133"
+  },
+  {
+    "title": "Dead End Town",
+    "artist": "Shannon Bourne",
+    "isrc": "ushm20903110"
+  },
+  {
+    "title": "He Only Rocks On Stage...Andrea Marr (Vic)",
+    "artist": "Andrea Marr",
+    "isrc": "ushm90797084"
+  },
+  {
+    "title": "You Made Me Feel This Way",
+    "artist": "Kelly Auty",
+    "isrc": "AUBK40900209"
+  },
+  {
+    "title": "Can We Still Be Friends",
+    "artist": "Lazy Eye",
+    "isrc": "AUXFF1900003"
+  },
+  {
+    "title": "Celtic Blues",
+    "artist": "Chris Finnen",
+    "isrc": "AUBK40900226"
+  },
+  {
+    "title": "Tell Me Baby",
+    "artist": "T.K. Reeve",
+    "isrc": "AUBEC1709177"
+  },
+  {
+    "title": "You Shook Me All Night Long",
+    "artist": "Steve Edmonds",
+    "isrc": "ushm80492436"
+  },
+  {
+    "title": "Key to the Highway",
+    "artist": "Alex Burns, Nick Charles",
+    "isrc": "QM4TW1710496"
+  },
+  {
+    "title": "Somethings Wrong In Our House",
+    "artist": "Andy Cowan",
+    "isrc": "AUBK40900251"
+  },
+  {
+    "title": "Can't Do Nothing Wrong",
+    "artist": "Doc Span, Matt Hanley",
+    "isrc": "QZFZ41930706"
+  },
+  {
+    "title": "Unravelling",
+    "artist": "Liza Ohlback",
+    "isrc": "ushm22361620"
+  },
+  {
+    "title": "The Love Will Come Around",
+    "artist": "Pat Powell",
+    "isrc": "AUBO21800078"
+  },
+  {
+    "title": "Pass That Bottle",
+    "artist": "Catfish Soup",
+    "isrc": "USQY51359538"
+  },
+  {
+    "title": "Kaleidoscope Eyes",
+    "artist": "Cuppa Shred",
+    "isrc": "KIMAU1800005"
+  },
+  {
+    "title": "Bittersweet",
+    "artist": "Jimmy Davis",
+    "isrc": "ushm81640395"
+  },
+  {
+    "title": "Steel On Steel",
+    "artist": "Adam Hole",
+    "isrc": "uscgh0697641"
+  },
+  {
+    "title": "A stand by your man girl",
+    "artist": "Bo jenkins",
+    "isrc": "AUNC10807563"
+  },
+  {
+    "title": "All Along The Watchtower",
+    "artist": "Brewster Brothers",
+    "isrc": "AUBD31200066"
+  },
+  {
+    "title": "Jersey Girl",
+    "artist": "Brian Fraser",
+    "isrc": "AUCV00500363"
+  },
+  {
+    "title": "Break Out a Party",
+    "artist": "Chris Mawer Band",
+    "isrc": "AUCV00500380"
+  },
+  {
+    "title": "Who's Bin Talking",
+    "artist": "Continental Robert Susz",
+    "isrc": "uscgj1583934"
+  },
+  {
+    "title": "Fly",
+    "artist": "Corey Legge & The Swamp Stompers",
+    "isrc": "USQY51328833"
+  },
+  {
+    "title": "Dont Fight the World",
+    "artist": "Dean Haitani",
+    "isrc": "usl4q2120912"
+  },
+  {
+    "title": "That's Your Problem",
+    "artist": "Foreday Riders",
+    "isrc": "AUBK40900212"
+  },
+  {
+    "title": "Down Under Blues",
+    "artist": "Georgia Lee",
+    "isrc": "AUDD31400220"
+  },
+  {
+    "title": "Cape Tribulation",
+    "artist": "Johnno's Blues Band",
+    "isrc": "AUBK40900232"
+  },
+  {
+    "title": "When Night Comes Round",
+    "artist": "Lazy James Band",
+    "isrc": "AUBK40900250"
+  },
+  {
+    "title": "You Want Me Back",
+    "artist": "Marco Goldsmith Band",
+    "isrc": "AU3F21100004"
+  },
+  {
+    "title": "Hey Baby Hey",
+    "artist": "Marisa Quigley",
+    "isrc": "AUK711000001"
+  },
+  {
+    "title": "Two Words",
+    "artist": "Matt Dwyer",
+    "isrc": "AUBK41200088"
+  },
+  {
+    "title": "Little Yellow Wand",
+    "artist": "Matt Stillert",
+    "isrc": "AU9C41500006"
+  },
+  {
+    "title": "I Can't Hold Out",
+    "artist": "Matt Walker",
+    "isrc": "CAI370714732"
+  },
+  {
+    "title": "Blue Eyes",
+    "artist": "Midweek Blues, Sherri Parry",
+    "isrc": "AURAL1900010"
+  },
+  {
+    "title": "Five Minutes Time",
+    "artist": "Morningside Fats",
+    "isrc": "ushm91796589"
+  },
+  {
+    "title": "Alligator River",
+    "artist": "Oozin' Blues",
+    "isrc": "AUBK40900278"
+  },
+  {
+    "title": "I Just Want to Make Love to You",
+    "artist": "Orange Whip",
+    "isrc": "QZES51841527"
+  },
+  {
+    "title": "Soul Storm",
+    "artist": "Richard Perso",
+    "isrc": "TCABL1229113"
+  },
+  {
+    "title": "So Many Roads",
+    "artist": "Ross Ward & Wards Xpress",
+    "isrc": "USQY51269377"
+  },
+  {
+    "title": "Monkey Skulls & Thunderstones",
+    "artist": "Steve Tallis",
+    "isrc": "AUBK40900269"
+  },
+  {
+    "title": "Cant Find My Way",
+    "artist": "The Adam Hole And Marji Curran Band",
+    "isrc": "AUVO41000002"
+  },
+  {
+    "title": "Sweet South West Blues",
+    "artist": "Lloyd Spiegel",
+    "isrc": "AULS51800008"
+  },
+  {
+    "title": "Going Back To The City",
+    "artist": "Dutch Tilders",
+    "isrc": "AUBK40900321"
+  },
+  {
+    "title": "Ain't My Problem",
+    "artist": "Ash Grunwald, The Teskey Brothers",
+    "isrc": "AULI01923010"
+  },
+  {
+    "title": "Howling At The Moon",
+    "artist": "Bondi Cigars",
+    "isrc": "usl4q0755196"
+  },
+  {
+    "title": "Southbound Line",
+    "artist": "Ray Beadle",
+    "isrc": "TCABC1160638"
+  },
+  {
+    "title": "I Wish There Was a Way",
+    "artist": "Phil Manning",
+    "isrc": "USA2P1547462"
+  },
+  {
+    "title": "2 & 4",
+    "artist": "19-Twenty",
+    "isrc": "USQY51556501"
+  },
+  {
+    "title": "Frypan",
+    "artist": "Blue Shaddy",
+    "isrc": "USJ3V1255165"
+  },
+  {
+    "title": "The Save",
+    "artist": "Jeff Lang",
+    "isrc": "AUABO0400116"
+  },
+  {
+    "title": "Moon Going Down",
+    "artist": "Backsliders",
+    "isrc": "AUBK40900202"
+  },
+  {
+    "title": "Worried Now",
+    "artist": "Collard Greens & Gravy",
+    "isrc": "AUCV00500055"
+  },
+  {
+    "title": "Crazy Horse",
+    "artist": "Geoff Achison, Souldiggers",
+    "isrc": "uscgj1240587"
+  },
+  {
+    "title": "Thongs",
+    "artist": "Marshall & the Fro",
+    "isrc": "AUMF20700006"
+  },
+  {
+    "title": "Swamp Stomp Boogie",
+    "artist": "The Swamp Stompers",
+    "isrc": "TCACD1501050"
+  },
+  {
+    "title": "Tell Me",
+    "artist": "Mia Dyson",
+    "isrc": "AUEZ01200003"
+  },
+  {
+    "title": "Time Again",
+    "artist": "The Mason Rack Band",
+    "isrc": "AUBEC1714535"
+  },
+  {
+    "title": "Amsterdam",
+    "artist": "Marshall Okell",
+    "isrc": "AUMO21500001"
+  },
+  {
+    "title": "Jack in the Box",
+    "artist": "Minnie Marks",
+    "isrc": "AUMC40900012"
+  },
+  {
+    "title": "Brisbane to Beechworth",
+    "artist": "Matt Taylor",
+    "isrc": "USA2P1613808"
+  },
+  {
+    "title": "Ease Up",
+    "artist": "Genevieve Chadwick",
+    "isrc": "GBSMU0971409"
+  },
+  {
+    "title": "Goin' Down Town",
+    "artist": "Kevin Borich Express",
+    "isrc": "AULB41700114"
+  },
+  {
+    "title": "Save My Soul",
+    "artist": "Shaun Kirk",
+    "isrc": "AUBEC1830807"
+  },
+  {
+    "title": "You Know I'm Gone",
+    "artist": "Owen Campbell",
+    "isrc": "AUZN31300259"
+  },
+  {
+    "title": "Backdoor Man",
+    "artist": "Hat Fitz & Cara Robinson",
+    "isrc": "GBHVP1000221"
+  },
+  {
+    "title": "Hi Heel Sneakers",
+    "artist": "Matty T Wall, Eric Gales",
+    "isrc": "AUDFM1900002"
+  },
+  {
+    "title": "Stand on My Shoulders",
+    "artist": "Dallas Frasca",
+    "isrc": "AUBEC2434758"
+  },
+  {
+    "title": "You Make Me Feel So Good",
+    "artist": "Darren Jack",
+    "isrc": "AUBEC2179163"
+  },
+  {
+    "title": "Keep Life Simple",
+    "artist": "Juzzie Smith",
+    "isrc": "AUVR12103376"
+  },
+  {
+    "title": "She's On My Mind Again",
+    "artist": "Mike Elrington",
+    "isrc": "AUBEC2026634"
+  },
+  {
+    "title": "Walk On The Wild Side",
+    "artist": "Andrew Winton",
+    "isrc": "AUYB01100032"
+  },
+  {
+    "title": "All Ya Gotta Do Is Call",
+    "artist": "Benny Walker",
+    "isrc": "AUBEC1990214"
+  },
+  {
+    "title": "Lakes & Ocean",
+    "artist": "The Urban Chiefs",
+    "isrc": "AUYWJ1700001"
+  },
+  {
+    "title": "Silver Spade",
+    "artist": "Julian James",
+    "isrc": "TCAED1998383"
+  },
+  {
+    "title": "Get It While You Can (feat. Zkye Blue)",
+    "artist": "The Lachy Doley Group, Zkye Blue",
+    "isrc": "AU8P11600042"
+  },
+  {
+    "title": "Do You Know What Love Is",
+    "artist": "Kate Lush",
+    "isrc": "AUZN31200596"
+  },
+  {
+    "title": "Cross The River",
+    "artist": "Justin Yap Band",
+    "isrc": "GBLFP1619098"
+  },
+  {
+    "title": "Ninety Eight Degrees",
+    "artist": "Bakelite Radio",
+    "isrc": "AUHF00505004"
+  },
+  {
+    "title": "Give Up",
+    "artist": "James Southwell",
+    "isrc": "AUJS31600020"
+  },
+  {
+    "title": "I'll Be Gone - Live",
+    "artist": "Mike Rudd, The Heaters",
+    "isrc": "AULI00511640"
+  },
+  {
+    "title": "Blue and Lonesome",
+    "artist": "Simon Kinny-Lewis, Dewayne Pate, Nate Ginsberg, Tony Boyd",
+    "isrc": "ushm82017223"
+  },
+  {
+    "title": "Sleepin' Alone",
+    "artist": "Blue Eyes Cry",
+    "isrc": "AUCV00501182"
+  },
+  {
+    "title": "Voodoo Blues",
+    "artist": "Catfish Voodoo",
+    "isrc": "usx9p1142434"
+  },
+  {
+    "title": "Penelope",
+    "artist": "Nick Charles",
+    "isrc": "AUCV00501432"
+  },
+  {
+    "title": "Hats At Home",
+    "artist": "Two Rivers Blues",
+    "isrc": "USQY51345859"
+  },
+  {
+    "title": "Highway 31",
+    "artist": "White Lightning",
+    "isrc": "QZBRF1837316"
+  },
+  {
+    "title": "Funky Tonight",
+    "artist": "Smoke Stack Rhino",
+    "isrc": "AUMEV2452735"
+  },
+  {
+    "title": "Rock n Roll",
+    "artist": "Pete Cornelius & the DeVilles",
+    "isrc": "TCABX1463533"
+  },
+  {
+    "title": "Mama Got The Blues",
+    "artist": "C.W. Stoneking",
+    "isrc": "AUQC31400006"
+  },
+  {
+    "title": "Gimme Some Lovin'",
+    "artist": "Lachy Doley",
+    "isrc": "AU8P12000073"
+  },
+  {
+    "title": "Chasin' Tail",
+    "artist": "Anni Piper",
+    "isrc": "uscgh1004047"
+  },
+  {
+    "title": "Breakin' My Back",
+    "artist": "Sid Rumpo",
+    "isrc": "AUFE01300002"
+  },
+  {
+    "title": "Living With Your Ghost",
+    "artist": "Kara Grainger",
+    "isrc": "QZBLC1800001"
+  },
+  {
+    "title": "Hush Hush",
+    "artist": "Matt Corcoran",
+    "isrc": "AUCV00500143"
+  },
+  {
+    "title": "Burn It Down",
+    "artist": "Shannon Bourne",
+    "isrc": "ushm20903111"
+  },
+  {
+    "title": "If I Didn't Love You",
+    "artist": "Andrea Marr",
+    "isrc": "uscgh0830520"
+  },
+  {
+    "title": "I’d Rather Go Blind (Live)",
+    "artist": "Kelly Auty",
+    "isrc": "AUWOC1600074"
+  },
+  {
+    "title": "Close",
+    "artist": "Lazy Eye",
+    "isrc": "AUXFF1900009"
+  },
+  {
+    "title": "Zing It up and Down",
+    "artist": "Chris Finnen",
+    "isrc": "TCACI1518110"
+  },
+  {
+    "title": "Panhandler",
+    "artist": "T.K. Reeve",
+    "isrc": "AUBEC1819978"
+  },
+  {
+    "title": "The Wind Cries Mary",
+    "artist": "Steve Edmonds",
+    "isrc": "ushm80492439"
+  },
+  {
+    "title": "'Davey' Street",
+    "artist": "Alex Burns, Nick Charles",
+    "isrc": "QM4TW1710513"
+  },
+  {
+    "title": "Everybody Wants to Be Somebody Else",
+    "artist": "Andy Cowan",
+    "isrc": "uscgh0830519"
+  },
+  {
+    "title": "Cane Toads",
+    "artist": "Doc Span, Matt Hanley",
+    "isrc": "QZFZ41930710"
+  },
+  {
+    "title": "Let Your Love Lie Down",
+    "artist": "Lloyd Spiegel",
+    "isrc": "AULS61900005"
+  },
+  {
+    "title": "High Heel Sneakers",
+    "artist": "Dutch Tilders",
+    "isrc": "GBRKQ2121465"
+  },
+  {
+    "title": "Steppin' In",
+    "artist": "Bondi Cigars",
+    "isrc": "usl4q0755199"
+  },
+  {
+    "title": "That's What The Blues Is All About",
+    "artist": "Ray Beadle",
+    "isrc": "AUMGB2200900"
+  },
+  {
+    "title": "Life Without You",
+    "artist": "Ash Grunwald",
+    "isrc": "AUMGB2301208"
+  },
+  {
+    "title": "Tend to My Friend",
+    "artist": "Phil Manning",
+    "isrc": "USA2P1547467"
+  },
+  {
+    "title": "Tramp Stamp",
+    "artist": "19-Twenty",
+    "isrc": "AUMGB1700178"
+  },
+  {
+    "title": "Moonshine",
+    "artist": "Blue Shaddy",
+    "isrc": "USJ3V1256183"
+  },
+  {
+    "title": "Twelve Thousand Miles",
+    "artist": "Jeff Lang, Chris Whitley",
+    "isrc": "AUABO0600256"
+  },
+  {
+    "title": "Hellhound on My Trail",
+    "artist": "Backsliders",
+    "isrc": "TCAGP2271087"
+  },
+  {
+    "title": "You Don't Love Me",
+    "artist": "Collard Greens & Gravy",
+    "isrc": "AUCV00500919"
+  },
+  {
+    "title": "Tell Me Something I Don't Know (Live)",
+    "artist": "Geoff Achison",
+    "isrc": "ushm91496211"
+  },
+  {
+    "title": "Bleeding Hearts",
+    "artist": "Marshall & the Fro",
+    "isrc": "AUMF21000010"
+  },
+  {
+    "title": "Wishing I Had You",
+    "artist": "The Swamp Stompers",
+    "isrc": "QMEU31816879"
+  },
+  {
+    "title": "Only One M.P",
+    "artist": "The Mason Rack Band, Tom Curren",
+    "isrc": "AUL6D2300001"
+  },
+  {
+    "title": "Roll Me Out (Revisited)",
+    "artist": "Mia Dyson",
+    "isrc": "AUMGB2000604"
+  },
+  {
+    "title": "Glad to Be Alive",
+    "artist": "Marshall Okell",
+    "isrc": "AUMO31300004"
+  },
+  {
+    "title": "Liar Liar Pants On Fire",
+    "artist": "Minnie Marks",
+    "isrc": "AUMC40900013"
+  },
+  {
+    "title": "Boogie 2 (Son of Boogie)",
+    "artist": "Matt Taylor, Phil Manning",
+    "isrc": "USA2P1547461"
+  },
+  {
+    "title": "Tell Me Lies",
+    "artist": "Genevieve Chadwick",
+    "isrc": "GBSMU0971408"
+  },
+  {
+    "title": "Little Red Rooster",
+    "artist": "Kevin Borich Express",
+    "isrc": "AULB41700441"
+  },
+  {
+    "title": "Slow and Steady",
+    "artist": "Shaun Kirk",
+    "isrc": "AUBEC1990284"
+  },
+  {
+    "title": "Gimea Bay",
+    "artist": "Hat Fitz & Cara Robinson",
+    "isrc": "GBHVP1000209"
+  },
+  {
+    "title": "Sidewinder",
+    "artist": "Matty T Wall",
+    "isrc": "AUDFM1800002"
+  },
+  {
+    "title": "Thirsty Now",
+    "artist": "Owen Campbell",
+    "isrc": "DKGY21100035"
+  },
+  {
+    "title": "River Queen - radio edit",
+    "artist": "Dallas Frasca",
+    "isrc": "AUBEC2417146"
+  },
+  {
+    "title": "My Lucky Day",
+    "artist": "Darren Jack",
+    "isrc": "usl4r2068755"
+  },
+  {
+    "title": "I Got A Woman",
+    "artist": "Mike Elrington",
+    "isrc": "UK9E41500033"
+  },
+  {
+    "title": "Jamming",
+    "artist": "Juzzie Smith",
+    "isrc": "AUVR12103379"
+  },
+  {
+    "title": "Roland The Headless Thompson Gunner",
+    "artist": "Andrew Winton",
+    "isrc": "AUYBO1500057"
+  },
+  {
+    "title": "Woman",
+    "artist": "Benny Walker",
+    "isrc": "AUBWB1300005"
+  },
+  {
+    "title": "Three Fish",
+    "artist": "The Urban Chiefs",
+    "isrc": "AUYWJ1700007"
+  }
+]

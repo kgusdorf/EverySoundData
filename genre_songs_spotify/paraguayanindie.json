@@ -1,0 +1,617 @@
+[
+  {
+    "title": "Musa",
+    "artist": "Mauricio y las Cigarras",
+    "isrc": "GBLFP1507298"
+  },
+  {
+    "title": "1978",
+    "artist": "The Crayolas",
+    "isrc": "GBLFP1704381"
+  },
+  {
+    "title": "Una Ciudad",
+    "artist": "El Culto Casero",
+    "isrc": "GBLFP1891075"
+  },
+  {
+    "title": "Mariposa",
+    "artist": "Gaia",
+    "isrc": "ES71G1608553"
+  },
+  {
+    "title": "Mundo Habitable",
+    "artist": "Deliverans",
+    "isrc": "PYC842304109"
+  },
+  {
+    "title": "A Donde Fue",
+    "artist": "Marcelo Soler, Miguel Narváez",
+    "isrc": "TCADD1712281"
+  },
+  {
+    "title": "El camino",
+    "artist": "Entre Hojas",
+    "isrc": "GBSMU5735995"
+  },
+  {
+    "title": "Acelerado",
+    "artist": "Mocasinos",
+    "isrc": "PYB701900001"
+  },
+  {
+    "title": "Hotel Boston",
+    "artist": "Funk´chula",
+    "isrc": "PYB671900001"
+  },
+  {
+    "title": "Johnny MeCanso",
+    "artist": "The Bacalaos",
+    "isrc": "PYC842403059"
+  },
+  {
+    "title": "A Lack of Feel",
+    "artist": "Tender Cage",
+    "isrc": "GBLFP1820419"
+  },
+  {
+    "title": "Jodete",
+    "artist": "La Secreta",
+    "isrc": "ES71G1600625"
+  },
+  {
+    "title": "Es Más",
+    "artist": "Pornostars",
+    "isrc": "uscgj1576318"
+  },
+  {
+    "title": "Vendiendo Espejitos",
+    "artist": "Dokma",
+    "isrc": "ES71G1729671"
+  },
+  {
+    "title": "Sere Yo",
+    "artist": "Tempranos",
+    "isrc": "GBLFP1849176"
+  },
+  {
+    "title": "Cada Cual por Su Lado",
+    "artist": "Super Turbo Diesel",
+    "isrc": "PYA511800013"
+  },
+  {
+    "title": "Princesa",
+    "artist": "Banana Pereira",
+    "isrc": "GMBA21467697"
+  },
+  {
+    "title": "Il Novo 60's",
+    "artist": "EEEKS",
+    "isrc": "ushm91666859"
+  },
+  {
+    "title": "Puedo Irme",
+    "artist": "Tribu Sonica",
+    "isrc": "PYC502100004"
+  },
+  {
+    "title": "Departamento",
+    "artist": "Auroras",
+    "isrc": "PYB601800003"
+  },
+  {
+    "title": "Baby You Can Drive Tonight",
+    "artist": "Pat And The Jurassic Band",
+    "isrc": "GBLFP1583384"
+  },
+  {
+    "title": "Techagau",
+    "artist": "Roberto Simbron",
+    "isrc": "uscgj1953188"
+  },
+  {
+    "title": "En una Copa al Infinito",
+    "artist": "Nde Pomberos",
+    "isrc": "ES71G1630472"
+  },
+  {
+    "title": "Eighties Romance",
+    "artist": "mati",
+    "isrc": "QZHN81979919"
+  },
+  {
+    "title": "Viento a Favor",
+    "artist": "Funka",
+    "isrc": "PYB711900008"
+  },
+  {
+    "title": "Desapego",
+    "artist": "Purahei Soul",
+    "isrc": "PYB552100001"
+  },
+  {
+    "title": "Señuelo de Luna",
+    "artist": "Jose Manfredi",
+    "isrc": "USY282014683"
+  },
+  {
+    "title": "Cooperen",
+    "artist": "Charlie Nutela, La Secreta",
+    "isrc": "PYC842200471"
+  },
+  {
+    "title": "Catalina",
+    "artist": "Partes Iguales",
+    "isrc": "GBSMU5235284"
+  },
+  {
+    "title": "La Ley de la Atracción",
+    "artist": "Nico Vera",
+    "isrc": "TCAEP2038931"
+  },
+  {
+    "title": "Rock & Roll Mike",
+    "artist": "Steinkrug",
+    "isrc": "MX3741501905"
+  },
+  {
+    "title": "Mágicas",
+    "artist": "Bastianes",
+    "isrc": "PYD342200001"
+  },
+  {
+    "title": "Hombre Vampiro",
+    "artist": "Marcela Lezcano",
+    "isrc": "ushm81785757"
+  },
+  {
+    "title": "Carta Al Futuro",
+    "artist": "Mario Amarilla, Maria Rehnfeldt",
+    "isrc": "PYD192000003"
+  },
+  {
+    "title": "Stage",
+    "artist": "Nine Bits",
+    "isrc": "GBMA21828426"
+  },
+  {
+    "title": "Medicina (Vos sos la cura)",
+    "artist": "-Histeria-",
+    "isrc": "QZRP42117754"
+  },
+  {
+    "title": "Lejos de aqui",
+    "artist": "Supernova PY",
+    "isrc": "GBLFP1513656"
+  },
+  {
+    "title": "Recorte y Pegue",
+    "artist": "Neine y Los Perros de la Calle Luna, Kevin Johansen",
+    "isrc": "PYA161700004"
+  },
+  {
+    "title": "Malbec - The Carrulims",
+    "artist": "The Carrulims",
+    "isrc": "ES18B1600879"
+  },
+  {
+    "title": "Fuera de Lugar",
+    "artist": "Amalghama",
+    "isrc": "uscgj1840612"
+  },
+  {
+    "title": "Golpes del Destino",
+    "artist": "Don Sabandija",
+    "isrc": "QZ22B2009957"
+  },
+  {
+    "title": "Instinto Animal",
+    "artist": "Dalia Roja",
+    "isrc": "ushm21869649"
+  },
+  {
+    "title": "Soy de la Chacarita",
+    "artist": "Cecilia Henriquez, José Galeano",
+    "isrc": "ES71G1510972"
+  },
+  {
+    "title": "Falsos Profetas",
+    "artist": "Hatebox",
+    "isrc": "ushm81734315"
+  },
+  {
+    "title": "Lose Myself",
+    "artist": "Mothership",
+    "isrc": "GBLFP1811431"
+  },
+  {
+    "title": "Cheek Tweak Surfer",
+    "artist": "The Mars Supials",
+    "isrc": "PYB631800001"
+  },
+  {
+    "title": "Escúchame Loca",
+    "artist": "Joshua Dietrich",
+    "isrc": "ARU4C2000050"
+  },
+  {
+    "title": "End of The World - Original Mix",
+    "artist": "Jodi, Merdz, Hosta",
+    "isrc": "GBKQU1221930"
+  },
+  {
+    "title": "Pendiente De Tus Ojos",
+    "artist": "ROCANOVA",
+    "isrc": "QZDFP1879904"
+  },
+  {
+    "title": "Ella",
+    "artist": "Dos & Medio",
+    "isrc": "GBLFP1770469"
+  },
+  {
+    "title": "Tu Canción (Track por Track Comentarios)",
+    "artist": "Stefy Ramirez",
+    "isrc": "PYA772000009"
+  },
+  {
+    "title": "La Mamba Negra",
+    "artist": "Tarambana",
+    "isrc": "usl4q1891460"
+  },
+  {
+    "title": "Slide",
+    "artist": "Rollerqueen",
+    "isrc": "SE3OH1613594"
+  },
+  {
+    "title": "Volver A Sentir",
+    "artist": "MELODIGMA",
+    "isrc": "GBSMU5634446"
+  },
+  {
+    "title": "Faithful to Your Promises",
+    "artist": "Bluenoise, Lauren Bell, CJay",
+    "isrc": "ZA26G2000056"
+  },
+  {
+    "title": "La Loca del Jeep",
+    "artist": "Fernando Figueredo",
+    "isrc": "TCACR1643461"
+  },
+  {
+    "title": "Me Haces Falta",
+    "artist": "Filars",
+    "isrc": "QZ5AB2012652"
+  },
+  {
+    "title": "Viento A Favor",
+    "artist": "Funka",
+    "isrc": "GBLFP1804234"
+  },
+  {
+    "title": "Holy Spirit My Comforter",
+    "artist": "Josephine",
+    "isrc": "UKXN22332381"
+  },
+  {
+    "title": "Tanto",
+    "artist": "MandioRoots",
+    "isrc": "PEBQ91814598"
+  },
+  {
+    "title": "Melbourne This - Hayashi Remix",
+    "artist": "Square Pants, Hayashi",
+    "isrc": "GBKQU1320799"
+  },
+  {
+    "title": "Fuego",
+    "artist": "Mauricio y las Cigarras, Rodas",
+    "isrc": "PYA661900009"
+  },
+  {
+    "title": "Disco Stu",
+    "artist": "The Crayolas",
+    "isrc": "TCAFI2012165"
+  },
+  {
+    "title": "La Cumbre",
+    "artist": "Deliverans",
+    "isrc": "ES71G1511026"
+  },
+  {
+    "title": "Te Quiero",
+    "artist": "El Culto Casero",
+    "isrc": "QM6P42304804"
+  },
+  {
+    "title": "Adicto",
+    "artist": "Gaia",
+    "isrc": "TCABH1200204"
+  },
+  {
+    "title": "Para Ernesto",
+    "artist": "Marcelo Soler, Miguel Narváez, Nico Vera",
+    "isrc": "TCADD1712320"
+  },
+  {
+    "title": "Anhelo",
+    "artist": "Entre Hojas",
+    "isrc": "GBSMU4346442"
+  },
+  {
+    "title": "Decile No",
+    "artist": "Mocasinos",
+    "isrc": "PYB701900002"
+  },
+  {
+    "title": "Todo va a Estar Peor",
+    "artist": "The Bacalaos",
+    "isrc": "PYC312200028"
+  },
+  {
+    "title": "Regards",
+    "artist": "Tender Cage",
+    "isrc": "GBLFP1820425"
+  },
+  {
+    "title": "El Útimo Tren",
+    "artist": "Funk´chula",
+    "isrc": "PYC842201749"
+  },
+  {
+    "title": "Gatillo Fácil",
+    "artist": "Pornostars",
+    "isrc": "uscgj1576313"
+  },
+  {
+    "title": "Soldado del Divague",
+    "artist": "La Secreta",
+    "isrc": "ES71G1600613"
+  },
+  {
+    "title": "El Mañanero",
+    "artist": "Dokma",
+    "isrc": "ES71G1729668"
+  },
+  {
+    "title": "Simple y Fácil",
+    "artist": "Tempranos",
+    "isrc": "PYC081900001"
+  },
+  {
+    "title": "Solo para vos",
+    "artist": "Super Turbo Diesel",
+    "isrc": "PYG072300001"
+  },
+  {
+    "title": "Historias del Pasado",
+    "artist": "Banana Pereira",
+    "isrc": "PYA161800006"
+  },
+  {
+    "title": "Ringo's Teenage Dreams",
+    "artist": "EEEKS",
+    "isrc": "ushm91666860"
+  },
+  {
+    "title": "Al Sol",
+    "artist": "Tribu Sonica",
+    "isrc": "TCACL1653737"
+  },
+  {
+    "title": "Isla Negra",
+    "artist": "Auroras",
+    "isrc": "PYB602000002"
+  },
+  {
+    "title": "Don't Bother Me Now",
+    "artist": "Pat And The Jurassic Band",
+    "isrc": "GBLFP1583385"
+  },
+  {
+    "title": "Tambo Liberado para Todos Mis Compis",
+    "artist": "Roberto Simbron",
+    "isrc": "uscgj1953186"
+  },
+  {
+    "title": "Calle Luna",
+    "artist": "Nde Pomberos",
+    "isrc": "ES71G1616095"
+  },
+  {
+    "title": "Te Ves Tan Bien",
+    "artist": "mati",
+    "isrc": "QZHN81979930"
+  },
+  {
+    "title": "Viaje Eterno",
+    "artist": "Funka",
+    "isrc": "PYB711900011"
+  },
+  {
+    "title": "Cuando me Quede en Silencio",
+    "artist": "Jose Manfredi",
+    "isrc": "PYC842401779"
+  },
+  {
+    "title": "Seniores",
+    "artist": "Charlie Nutela",
+    "isrc": "PYA991900031"
+  },
+  {
+    "title": "Mas allá del tiempo",
+    "artist": "Partes Iguales",
+    "isrc": "GBSMU5235370"
+  },
+  {
+    "title": "Soles en la Luna - Ma'ẽna anga",
+    "artist": "Purahei Soul",
+    "isrc": "PYC842403053"
+  },
+  {
+    "title": "Cante Cigarrero",
+    "artist": "Nico Vera",
+    "isrc": "TCACK1550487"
+  },
+  {
+    "title": "Live Forever",
+    "artist": "Steinkrug",
+    "isrc": "MX3741401057"
+  },
+  {
+    "title": "Hombre Vampiro - Live Session",
+    "artist": "Marcela Lezcano",
+    "isrc": "GBMA21404545"
+  },
+  {
+    "title": "Tus Señales",
+    "artist": "Bastianes",
+    "isrc": "PYB301900004"
+  },
+  {
+    "title": "Que Nos Vuelva A Encontrar",
+    "artist": "Mario Amarilla",
+    "isrc": "PYD192000006"
+  },
+  {
+    "title": "Against the Wall",
+    "artist": "Nine Bits",
+    "isrc": "PYB841900001"
+  },
+  {
+    "title": "Confesión - Radio Edit",
+    "artist": "-Histeria-",
+    "isrc": "QZMEM2283331"
+  },
+  {
+    "title": "Cuando No Estás",
+    "artist": "Supernova PY",
+    "isrc": "PYB881900001"
+  },
+  {
+    "title": "Siesta",
+    "artist": "Neine y Los Perros de la Calle Luna",
+    "isrc": "PYA161700007"
+  },
+  {
+    "title": "Perdóname",
+    "artist": "The Carrulims",
+    "isrc": "ES18B2005573"
+  },
+  {
+    "title": "Frontera",
+    "artist": "Amalghama",
+    "isrc": "uscgj1678405"
+  },
+  {
+    "title": "Fulana",
+    "artist": "Don Sabandija",
+    "isrc": "QZ22B2009954"
+  },
+  {
+    "title": "Muy Lejos",
+    "artist": "Mauricio y las Cigarras, Rodas, Chirola",
+    "isrc": "USHM81835656"
+  },
+  {
+    "title": "Tiempos Modernos",
+    "artist": "The Crayolas",
+    "isrc": "PYC842304675"
+  },
+  {
+    "title": "Serpiente Cascabel",
+    "artist": "Deliverans",
+    "isrc": "ES71G1511020"
+  },
+  {
+    "title": "Todo Gira Igual",
+    "artist": "Gaia",
+    "isrc": "ES71G1601317"
+  },
+  {
+    "title": "Ruido Blanco",
+    "artist": "El Culto Casero",
+    "isrc": "PYC942100004"
+  },
+  {
+    "title": "Cuánto Falta?",
+    "artist": "Marcelo Soler",
+    "isrc": "PYC112100003"
+  },
+  {
+    "title": "Sueño Constante",
+    "artist": "Entre Hojas",
+    "isrc": "PYC842200245"
+  },
+  {
+    "title": "Por Culpa del Gin",
+    "artist": "Mocasinos",
+    "isrc": "PYB701900006"
+  },
+  {
+    "title": "Eusebio Ayala",
+    "artist": "The Bacalaos",
+    "isrc": "PYC842302619"
+  },
+  {
+    "title": "The Man From Earth",
+    "artist": "Tender Cage",
+    "isrc": "GBLFP1585194"
+  },
+  {
+    "title": "ASU",
+    "artist": "Funk´chula",
+    "isrc": "PYC842301506"
+  },
+  {
+    "title": "Ovni",
+    "artist": "Pornostars",
+    "isrc": "PYA162200004"
+  },
+  {
+    "title": "Mitai Akahata",
+    "artist": "La Secreta",
+    "isrc": "ES71G1600620"
+  },
+  {
+    "title": "La Murga del Chivo",
+    "artist": "Dokma",
+    "isrc": "ES71G1729669"
+  },
+  {
+    "title": "Oreko La Orekoa",
+    "artist": "Tempranos",
+    "isrc": "GBLFP1849213"
+  },
+  {
+    "title": "A Mi No Me Molesta",
+    "artist": "Super Turbo Diesel",
+    "isrc": "PYA522200009"
+  },
+  {
+    "title": "Rincones",
+    "artist": "Banana Pereira",
+    "isrc": "GMBA21467695"
+  },
+  {
+    "title": "Howlin' Teen Wolfe",
+    "artist": "EEEKS",
+    "isrc": "usdy41822361"
+  },
+  {
+    "title": "Una Voz Potente",
+    "artist": "Tribu Sonica",
+    "isrc": "PYA811800014"
+  },
+  {
+    "title": "Cuentos de Infancia",
+    "artist": "Auroras",
+    "isrc": "PYB602000001"
+  },
+  {
+    "title": "Sick Love",
+    "artist": "Pat And The Jurassic Band",
+    "isrc": "GBLFP1583387"
+  }
+]

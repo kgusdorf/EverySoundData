@@ -1,0 +1,977 @@
+[
+  {
+    "title": "Firmans Man",
+    "artist": "KAJ",
+    "isrc": "FIHGJ2400001"
+  },
+  {
+    "title": "Leevi & the Leavings",
+    "artist": "Vasas flora och fauna",
+    "isrc": "SEUHA1500101"
+  },
+  {
+    "title": "Va vet nån jävel",
+    "artist": "Månskensbonden",
+    "isrc": "SEUHA2200603"
+  },
+  {
+    "title": "Traktor Alban",
+    "artist": "Sås och Kopp",
+    "isrc": "FISKX9500001"
+  },
+  {
+    "title": "Finland",
+    "artist": "Rickard Eklund",
+    "isrc": "FIRCE1800001"
+  },
+  {
+    "title": "Volvoräägör",
+    "artist": "Vörjeans",
+    "isrc": "FIHGJ1900003"
+  },
+  {
+    "title": "Klöver Åtton",
+    "artist": "Josefin Sirén",
+    "isrc": "QZHN52051360"
+  },
+  {
+    "title": "Bråtas",
+    "artist": "1G3B",
+    "isrc": "FI5CK1803594"
+  },
+  {
+    "title": "SVENSKFINLAND",
+    "artist": "Seesar XL",
+    "isrc": "SEYOK2043585"
+  },
+  {
+    "title": "Ein flickå från lande",
+    "artist": "Guns Rosor",
+    "isrc": "FIKRM1600019"
+  },
+  {
+    "title": "Snakke Norsk",
+    "artist": "Bastupojkarna",
+    "isrc": "FIHVV1800018"
+  },
+  {
+    "title": "Paradiset",
+    "artist": "Frida Andersson, Bo Sundström",
+    "isrc": "SE3OH1615862"
+  },
+  {
+    "title": "Uvi have",
+    "artist": "Hanna",
+    "isrc": "TCAEM1948725"
+  },
+  {
+    "title": "Ett litet liv",
+    "artist": "Iiris Viljanen",
+    "isrc": "SEVUE2400101"
+  },
+  {
+    "title": "Arne Alligator",
+    "artist": "Arne Alligator & Djungeltrumman",
+    "isrc": "FIDT91600003"
+  },
+  {
+    "title": "Dagar & nätter",
+    "artist": "Fredrik Furu",
+    "isrc": "FIFFM0900003"
+  },
+  {
+    "title": "Gung I Kajutan",
+    "artist": "X3m",
+    "isrc": "QM4DW1522636"
+  },
+  {
+    "title": "Kjärringa min, kan inte spela dragspel",
+    "artist": "Tommys",
+    "isrc": "SEAOF0604010"
+  },
+  {
+    "title": "Mååhe",
+    "artist": "Bubbeli",
+    "isrc": "QZES51872319"
+  },
+  {
+    "title": "Hold",
+    "artist": "The Heartbeat Band",
+    "isrc": "SE39U2300101"
+  },
+  {
+    "title": "Sup me Gud",
+    "artist": "Nektor",
+    "isrc": "FI5CK1605703"
+  },
+  {
+    "title": "Ståndskallets tid",
+    "artist": "Tom Håkans",
+    "isrc": "FIHAY1600003"
+  },
+  {
+    "title": "Kom och gör mig galen",
+    "artist": "Högtryck",
+    "isrc": "FR6V81706190"
+  },
+  {
+    "title": "Vår balkong",
+    "artist": "Fågelmannen",
+    "isrc": "USDHM2403882"
+  },
+  {
+    "title": "Dance Me to the End of Love",
+    "artist": "Timshel",
+    "isrc": "GBMJG1715847"
+  },
+  {
+    "title": "Nu Lyfter Vi Igen",
+    "artist": "San Marino & Linda",
+    "isrc": "FISMB1600002"
+  },
+  {
+    "title": "Inget mer att hämta",
+    "artist": "Tomas Fantz",
+    "isrc": "QZTBC2387983"
+  },
+  {
+    "title": "Förbudstiidin (feat. Vörå Spelmansklubb)",
+    "artist": "Alfred Backa, Vörå Spelmansklubb",
+    "isrc": "FIFAF1500102"
+  },
+  {
+    "title": "Bassbros - Suomenruotsalainen",
+    "artist": "Bassbros",
+    "isrc": "SEYOK1424259"
+  },
+  {
+    "title": "Viva La Vida",
+    "artist": "Fork",
+    "isrc": "FIFL21100002"
+  },
+  {
+    "title": "In the Real World",
+    "artist": "Philip Järvenpää",
+    "isrc": "FITE50160198"
+  },
+  {
+    "title": "Finn et helt fantastisk lysglimt",
+    "artist": "Erik-André Hvidsten, Emilie Christensen, Even Bergan, Hennie Horn Hynne, Peter Moseng, Oscar Stålhand Arnø, Lyktere",
+    "isrc": "USWD11891052"
+  },
+  {
+    "title": "Förevigt nu",
+    "artist": "Susann Sonntag, Thomas Lundin",
+    "isrc": "FI7SS1700002"
+  },
+  {
+    "title": "Like It or Not",
+    "artist": "Jannike",
+    "isrc": "FIRPR2200006"
+  },
+  {
+    "title": "Där rosor aldrig dör",
+    "artist": "Hans Martin",
+    "isrc": "SEAOF0204020"
+  },
+  {
+    "title": "Even the Gods",
+    "artist": "Erik Sjøholm",
+    "isrc": "FIEDS2100020"
+  },
+  {
+    "title": "Pimeän värit",
+    "artist": "Paul Elias",
+    "isrc": "FIUM72100227"
+  },
+  {
+    "title": "Vår tid - vårt land",
+    "artist": "Artister för tolerans och öppenhet med Nina Lassander, Fredrik Furu, André Linman, Paradise Oskar, Redrama, Frida Andersson, Geir Rönning, Ville Pusa, Elin Blom, Krista Siegfrids",
+    "isrc": "FIRPR1100003"
+  },
+  {
+    "title": "Grannen mitt emot",
+    "artist": "Pappas Eget Band, Patrik Isaksson",
+    "isrc": "FIRPR1300002"
+  },
+  {
+    "title": "Dancing In The Rain",
+    "artist": "Hans On The Bass",
+    "isrc": "SEYOK2400689"
+  },
+  {
+    "title": "Vacay",
+    "artist": "The Pappa Betalars",
+    "isrc": "USHM22457940"
+  },
+  {
+    "title": "With You",
+    "artist": "Sam´s Garage",
+    "isrc": "FISFO2200001"
+  },
+  {
+    "title": "Make Me Dance",
+    "artist": "Sam Zimon",
+    "isrc": "FIS5G1900001"
+  },
+  {
+    "title": "Varje Dag",
+    "artist": "Ville Pusa",
+    "isrc": "FIVPU2400001"
+  },
+  {
+    "title": "Åminnevalsen",
+    "artist": "Tomas Fant, Stefan Väglund",
+    "isrc": "QZTAY2249833"
+  },
+  {
+    "title": "Du är vad du är - Remastered",
+    "artist": "Musikalen Hype, Maria Lindeman, Ville Pusa, Tua Jonasson",
+    "isrc": "FIRPR2000012"
+  },
+  {
+    "title": "Säg Vad Du Vill",
+    "artist": "Kometfabriken",
+    "isrc": "FIECA0500074"
+  },
+  {
+    "title": "För att du inte tog det gudomliga",
+    "artist": "Mrs Bighill Singers",
+    "isrc": "FI3BG1400014"
+  },
+  {
+    "title": "Vilse",
+    "artist": "Tove Ljungqvist",
+    "isrc": "FILJG1900001"
+  },
+  {
+    "title": "Hyperventilating",
+    "artist": "Ronya",
+    "isrc": "FIWMA1200072"
+  },
+  {
+    "title": "Åland",
+    "artist": "Pumpa På",
+    "isrc": "SEBJA9403010"
+  },
+  {
+    "title": "Klapp Stamp Hej",
+    "artist": "Apan Anders",
+    "isrc": "FIAG71600007"
+  },
+  {
+    "title": "Grand Hotel Heaven",
+    "artist": "Anna & Klaus",
+    "isrc": "uscgj2213115"
+  },
+  {
+    "title": "Liite myky bra dåålit",
+    "artist": "Robin Hund, Elna Romberg",
+    "isrc": "FIPC91900001"
+  },
+  {
+    "title": "Höstvisa",
+    "artist": "Elna Romberg",
+    "isrc": "GBMJG2327847"
+  },
+  {
+    "title": "Kunhan Kruunun Saan Kuninkaan",
+    "artist": "Christopher Romberg, Meri Holopainen, Veikko Honkanen",
+    "isrc": "USWD10524330"
+  },
+  {
+    "title": "1000 Män",
+    "artist": "Nina Lassander",
+    "isrc": "ushm21078633"
+  },
+  {
+    "title": "I mörkret finner du ljus",
+    "artist": "Elisabeth Ehrnrooth",
+    "isrc": "QMFME2349948"
+  },
+  {
+    "title": "Skuggan av den jag är",
+    "artist": "Markus Lytts",
+    "isrc": "FITE50880299"
+  },
+  {
+    "title": "Endless Days",
+    "artist": "Emeline Sigfrids",
+    "isrc": "FISFO1800030"
+  },
+  {
+    "title": "Sidospår",
+    "artist": "Sandra Långbacka",
+    "isrc": "SE5BU1922995"
+  },
+  {
+    "title": "Myrskyluodon Maija",
+    "artist": "Linda Lampenius",
+    "isrc": "FIMJP2100001"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Hugo",
+    "isrc": "FIS7D1800001"
+  },
+  {
+    "title": "Tur att jag har dig",
+    "artist": "Amanda Oscarsson & Kristian Meurman",
+    "isrc": "FI5CK1402723"
+  },
+  {
+    "title": "Du och jag",
+    "artist": "Annika Cleo",
+    "isrc": "FIGHJ1006009"
+  },
+  {
+    "title": "Korv reggae - Remix",
+    "artist": "Böhlström B.S.T.O Band",
+    "isrc": "FIBCE1900008"
+  },
+  {
+    "title": "Två Ljus",
+    "artist": "Cecilia Kyllinge",
+    "isrc": "SE3FQ1400101"
+  },
+  {
+    "title": "Chaos & Anarchy",
+    "artist": "Cim Dahlle",
+    "isrc": "SE4E51700201"
+  },
+  {
+    "title": "Hem igen - Kotiin taas",
+    "artist": "Clarissa, Emilia Ekström, Joseph, Mikko Sipola",
+    "isrc": "FIRPR1700014"
+  },
+  {
+    "title": "Daddy Frank (The Guitar Man)",
+    "artist": "Country Express",
+    "isrc": "FIEFE7500106"
+  },
+  {
+    "title": "Snart 50",
+    "artist": "David Strömbäck",
+    "isrc": "FIDM51000009"
+  },
+  {
+    "title": "Du vet",
+    "artist": "Désirée Saarela, Maria Kalaniemi",
+    "isrc": "FIDS81800007"
+  },
+  {
+    "title": "Whatever",
+    "artist": "Felin, 2 Far Out",
+    "isrc": "FIEB22402001"
+  },
+  {
+    "title": "Höstvisa",
+    "artist": "Erna Tauro & Bo Andersson",
+    "isrc": "FISBA7800274"
+  },
+  {
+    "title": "Vår tur",
+    "artist": "Finlands Svenska Gymnastikförbund",
+    "isrc": "SE5751864511"
+  },
+  {
+    "title": "Filmen Är Slut",
+    "artist": "Folkrörelsen",
+    "isrc": "FIRID1300011"
+  },
+  {
+    "title": "Rum för alla",
+    "artist": "Folktinget, Elna Romberg, Simon Zion",
+    "isrc": "SEYHW1900101"
+  },
+  {
+    "title": "Spellbound",
+    "artist": "Freddi Waselius",
+    "isrc": "QZK6Q1975586"
+  },
+  {
+    "title": "Why",
+    "artist": "Geir Rönning",
+    "isrc": "FIKFK0500043"
+  },
+  {
+    "title": "King of the Floor",
+    "artist": "Hott File",
+    "isrc": "FIRGJ2000009"
+  },
+  {
+    "title": "Sleeping Beast",
+    "artist": "Jessica Wolff",
+    "isrc": "FI3WF2300001"
+  },
+  {
+    "title": "Åström",
+    "artist": "Jim Videgård",
+    "isrc": "SE6HN1994652"
+  },
+  {
+    "title": "Hold on to Your Dreams",
+    "artist": "Kata Bonds",
+    "isrc": "NL1AP1955025"
+  },
+  {
+    "title": "Vi har varann",
+    "artist": "Kents pappa Guy, Sonja Biskop",
+    "isrc": "FISFO1900018"
+  },
+  {
+    "title": "Adore You",
+    "artist": "Kiara Nelson",
+    "isrc": "DEQ321900269"
+  },
+  {
+    "title": "Som en gummiball kommer jag tillbaks till dej",
+    "artist": "M.A. Numminen och hans nyfolkliga allmogeorkester",
+    "isrc": "FISBA7700274"
+  },
+  {
+    "title": "I karantän",
+    "artist": "Macke Granberg",
+    "isrc": "FIDT92000001"
+  },
+  {
+    "title": "I'll Remember You in My Heart",
+    "artist": "Nicke Sebbas",
+    "isrc": "SE3UG2000101"
+  },
+  {
+    "title": "Hundra år av ensamhet",
+    "artist": "Nicklas Lantz",
+    "isrc": "SE5BU1906000"
+  },
+  {
+    "title": "Da Da Dam",
+    "artist": "Paradise Oskar",
+    "isrc": "FIWMA1100203"
+  },
+  {
+    "title": "Som en himmel",
+    "artist": "Patricia Bergroth",
+    "isrc": "FIHRI1900003"
+  },
+  {
+    "title": "One More Dance",
+    "artist": "Paul Oxley's Acoustic Circus",
+    "isrc": "FIST12300013"
+  },
+  {
+    "title": "Jessie's Not My Girl",
+    "artist": "Peter Svanström",
+    "isrc": "GBMA21982814"
+  },
+  {
+    "title": "Barfotaland",
+    "artist": "Sofie Lundell",
+    "isrc": "FIHXB2300009"
+  },
+  {
+    "title": "Live and You Learn",
+    "artist": "TIKA",
+    "isrc": "FIBAR1900028"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Tears Apart",
+    "isrc": "FIIMM2100002"
+  },
+  {
+    "title": "För alltid nu",
+    "artist": "Therese Karlsson, Pekka Westerholm",
+    "isrc": "FIPWM2300004"
+  },
+  {
+    "title": "Jandojo",
+    "artist": "Tom Sonntag, John Sund",
+    "isrc": "DK7EA2100101"
+  },
+  {
+    "title": "Karar i arbeit",
+    "artist": "KAJ",
+    "isrc": "FIHGJ2400002"
+  },
+  {
+    "title": "Om jag nånsin far till Jakobstad igen",
+    "artist": "Vasas flora och fauna",
+    "isrc": "SEUHA1500202"
+  },
+  {
+    "title": "Döpt i Kyro älv",
+    "artist": "Månskensbonden",
+    "isrc": "SE39U1500101"
+  },
+  {
+    "title": "Tuva",
+    "artist": "Rickard Eklund",
+    "isrc": "FIRCE1800002"
+  },
+  {
+    "title": "Born to Börn",
+    "artist": "Vörjeans",
+    "isrc": "FIHGJ1900001"
+  },
+  {
+    "title": "Chili con carne",
+    "artist": "Sås och Kopp",
+    "isrc": "FISKX9300001"
+  },
+  {
+    "title": "Jåolin brindär",
+    "artist": "Josefin Sirén",
+    "isrc": "FIJX72200009"
+  },
+  {
+    "title": "Allsångsjävel",
+    "artist": "1G3B",
+    "isrc": "QZNWY2180265"
+  },
+  {
+    "title": "Några hundra Euro",
+    "artist": "Seesar XL",
+    "isrc": "SEYOK2154186"
+  },
+  {
+    "title": "Hii bland stein å stubba",
+    "artist": "Guns Rosor",
+    "isrc": "FIWBB2000039"
+  },
+  {
+    "title": "Dröömin",
+    "artist": "Bastupojkarna",
+    "isrc": "FI5CK1601859"
+  },
+  {
+    "title": "Vindan viender",
+    "artist": "Hanna",
+    "isrc": "TCAEM1948706"
+  },
+  {
+    "title": "För dig",
+    "artist": "Frida Andersson",
+    "isrc": "FICFM1600301"
+  },
+  {
+    "title": "Själsligt uppvaknande vid Slussen",
+    "artist": "Iiris Viljanen",
+    "isrc": "SEVUE2400105"
+  },
+  {
+    "title": "En gång i livet",
+    "artist": "Fredrik Furu",
+    "isrc": "FIPI32300007"
+  },
+  {
+    "title": "Åhi Ån",
+    "artist": "X3m",
+    "isrc": "FIS7D1700001"
+  },
+  {
+    "title": "Vi laddar om",
+    "artist": "Tommys",
+    "isrc": "SEVSZ2401801"
+  },
+  {
+    "title": "Mot bättre tider",
+    "artist": "Bubbeli",
+    "isrc": "FIBXB2300001"
+  },
+  {
+    "title": "Vi åker till landet",
+    "artist": "Arne Alligator & Djungeltrumman",
+    "isrc": "FIDT91700011"
+  },
+  {
+    "title": "Hands That Built",
+    "artist": "The Heartbeat Band",
+    "isrc": "SE4RC1400102"
+  },
+  {
+    "title": "ABC",
+    "artist": "Nektor",
+    "isrc": "FI5CK1605700"
+  },
+  {
+    "title": "Ring imorgon",
+    "artist": "Tom Håkans",
+    "isrc": "FIHAY2200002"
+  },
+  {
+    "title": "Tallinn, du och jag",
+    "artist": "Fågelmannen",
+    "isrc": "FIM3A2300001"
+  },
+  {
+    "title": "Mariehamn",
+    "artist": "Högtryck",
+    "isrc": "FR6V81706189"
+  },
+  {
+    "title": "When We Fall",
+    "artist": "Timshel",
+    "isrc": "SE3BN1303106"
+  },
+  {
+    "title": "Min äng av lyckoklöver",
+    "artist": "San Marino & Linda",
+    "isrc": "FIKRM1200005"
+  },
+  {
+    "title": "Tårar i ett regn",
+    "artist": "Tomas Fantz",
+    "isrc": "QZTBC2387979"
+  },
+  {
+    "title": "Brändöromantik",
+    "artist": "Alfred Backa",
+    "isrc": "FIFAF1500103"
+  },
+  {
+    "title": "Du Hast",
+    "artist": "Fork",
+    "isrc": "FIFL21700007"
+  },
+  {
+    "title": "Hurrina Rovajärvelle",
+    "artist": "Bassbros",
+    "isrc": "SEYOK1626102"
+  },
+  {
+    "title": "All That You Are",
+    "artist": "Philip Järvenpää",
+    "isrc": "FITE50190041"
+  },
+  {
+    "title": "Over London by",
+    "artist": "Erik-André Hvidsten",
+    "isrc": "USWD11891044"
+  },
+  {
+    "title": "Farväl Mamma",
+    "artist": "Susann Sonntag",
+    "isrc": "FIS5G2100044"
+  },
+  {
+    "title": "Welcome to My Life",
+    "artist": "Jannike",
+    "isrc": "FIRPR2200002"
+  },
+  {
+    "title": "Den blomstertid nu kommer",
+    "artist": "Hans Martin",
+    "isrc": "SEAOF0403010"
+  },
+  {
+    "title": "Välkommen hem",
+    "artist": "Erik Sjøholm, Svante Sjöholm, The Sjöholm Family Band",
+    "isrc": "FIEDS2000012"
+  },
+  {
+    "title": "Sanat takas",
+    "artist": "Paul Elias",
+    "isrc": "FIUM72100085"
+  },
+  {
+    "title": "Sand Mellan Tårna",
+    "artist": "Pappas Eget Band",
+    "isrc": "FIRPR1100002"
+  },
+  {
+    "title": "A Year, A Week and Half a Day",
+    "artist": "Hans On The Bass",
+    "isrc": "SE4GE1500101"
+  },
+  {
+    "title": "The Pappa Betalars - Finlandssvenska bättre folk",
+    "artist": "The Pappa Betalars",
+    "isrc": "SEYOK1505147"
+  },
+  {
+    "title": "Never Wanted To Say Goodbye",
+    "artist": "Sam´s Garage, Mariah Hortans",
+    "isrc": "FISFO2200002"
+  },
+  {
+    "title": "Finlandia (English Remix)",
+    "artist": "Sam Zimon",
+    "isrc": "TCAEH1987859"
+  },
+  {
+    "title": "Kiinteä maa",
+    "artist": "Ville Pusa",
+    "isrc": "FIVPU2000002"
+  },
+  {
+    "title": "My Way",
+    "artist": "Tomas Fant",
+    "isrc": "QZFYX2320240"
+  },
+  {
+    "title": "Hypedance - Remastered",
+    "artist": "Musikalen Hype, Tino Singh",
+    "isrc": "FIRPR2000005"
+  },
+  {
+    "title": "Snedsteg - Feat. Sara Löfgren)",
+    "artist": "Kometfabriken, Sara Löfgren",
+    "isrc": "FIECA0500076"
+  },
+  {
+    "title": "In Christ Alone",
+    "artist": "Mrs Bighill Singers",
+    "isrc": "USDY42423063"
+  },
+  {
+    "title": "Vill Gå Nu",
+    "artist": "Tove Ljungqvist",
+    "isrc": "FIS5G2000013"
+  },
+  {
+    "title": "Work Harder",
+    "artist": "Ronya",
+    "isrc": "FIC301400054"
+  },
+  {
+    "title": "Mobilen & Jag",
+    "artist": "Pumpa På",
+    "isrc": "SEBJA9406060"
+  },
+  {
+    "title": "Hej Hej Tuff Tuff Tuff",
+    "artist": "Apan Anders",
+    "isrc": "FIAG71600018"
+  },
+  {
+    "title": "Simple Life",
+    "artist": "Anna & Klaus",
+    "isrc": "FIPEO1900002"
+  },
+  {
+    "title": "Mjölk & Bulla",
+    "artist": "Robin Hund, Hans Glada Orkester",
+    "isrc": "FIPC91300006"
+  },
+  {
+    "title": "Never Leave My Side",
+    "artist": "Elna Romberg, Samuel Ljungblahd",
+    "isrc": "SEVTM1701701"
+  },
+  {
+    "title": "Jag skall måla hela världen, lilla mamma",
+    "artist": "Christopher Romberg",
+    "isrc": "FIFMF1100053"
+  },
+  {
+    "title": "Cider Hill",
+    "artist": "Nina Lassander",
+    "isrc": "FIJCM0900001"
+  },
+  {
+    "title": "Melted Glass",
+    "artist": "Elisabeth Ehrnrooth",
+    "isrc": "USCGH1858393"
+  },
+  {
+    "title": "Learning to Fly",
+    "artist": "Markus Lytts",
+    "isrc": "FIM5Y1500002"
+  },
+  {
+    "title": "Totally over You",
+    "artist": "Emeline Sigfrids",
+    "isrc": "FISFO1700002"
+  },
+  {
+    "title": "Armé",
+    "artist": "Sandra Långbacka",
+    "isrc": "SE6A92053514"
+  },
+  {
+    "title": "Stormskärs Maja",
+    "artist": "Linda Lampenius",
+    "isrc": "SELBI0500209"
+  },
+  {
+    "title": "Stuck in My Head",
+    "artist": "Hugo",
+    "isrc": "FIS7D1800003"
+  },
+  {
+    "title": "Never Tell You",
+    "artist": "Annika Cleo",
+    "isrc": "SEWQV1000302"
+  },
+  {
+    "title": "Dansgolv",
+    "artist": "KAJ",
+    "isrc": "FIHGJ2400011"
+  },
+  {
+    "title": "Kajanaland",
+    "artist": "Vasas flora och fauna",
+    "isrc": "SEUHA2000201"
+  },
+  {
+    "title": "Varenda veranda",
+    "artist": "Månskensbonden, Hanna",
+    "isrc": "SEUHA2200608"
+  },
+  {
+    "title": "Sömntåg",
+    "artist": "Rickard Eklund",
+    "isrc": "FIRCE1800009"
+  },
+  {
+    "title": "Grillin",
+    "artist": "Vörjeans",
+    "isrc": "FIHGJ1900004"
+  },
+  {
+    "title": "Kottar i karburatorn",
+    "artist": "Sås och Kopp",
+    "isrc": "FISKX9800001"
+  },
+  {
+    "title": "Säg va do vil",
+    "artist": "Josefin Sirén",
+    "isrc": "QZHNA2128579"
+  },
+  {
+    "title": "Jag Älskar De (så inet fitton)",
+    "artist": "1G3B",
+    "isrc": "FI5CK1803582"
+  },
+  {
+    "title": "Slåas",
+    "artist": "Seesar XL",
+    "isrc": "SEYOK2401493"
+  },
+  {
+    "title": "Ein Flickå från lande - EPA Remix",
+    "artist": "Guns Rosor, DJ Dynjo, Holger Lund",
+    "isrc": "FIWBB2300071"
+  },
+  {
+    "title": "Vår Stuga",
+    "artist": "Bastupojkarna",
+    "isrc": "FIHVV1700001"
+  },
+  {
+    "title": "Näst sist",
+    "artist": "Hanna",
+    "isrc": "TCAEM1948719"
+  },
+  {
+    "title": "Kom dagar kom år",
+    "artist": "Frida Andersson",
+    "isrc": "FICFM2300002"
+  },
+  {
+    "title": "Mitt inre barn",
+    "artist": "Iiris Viljanen",
+    "isrc": "SEVUE2400107"
+  },
+  {
+    "title": "Finlandsbarn",
+    "artist": "Fredrik Furu",
+    "isrc": "FIPI31200003"
+  },
+  {
+    "title": "Pampas City",
+    "artist": "X3m, Seesar XL",
+    "isrc": "FIS7D1900002"
+  },
+  {
+    "title": "En solig dag",
+    "artist": "Bubbeli",
+    "isrc": "FIBXB2100001"
+  },
+  {
+    "title": "Dansa Hucklebuck",
+    "artist": "Tommys",
+    "isrc": "SEAOF0005030"
+  },
+  {
+    "title": "I djupaste djungeln (Arne-mix) (2019 Remastered)",
+    "artist": "Arne Alligator & Djungeltrumman",
+    "isrc": "FIDT90900001"
+  },
+  {
+    "title": "Spring",
+    "artist": "The Heartbeat Band",
+    "isrc": "SE4RC1400103"
+  },
+  {
+    "title": "Isolation",
+    "artist": "Nektor",
+    "isrc": "FI5CK1605707"
+  },
+  {
+    "title": "Volvo 142",
+    "artist": "Tom Håkans",
+    "isrc": "FIHAY2100008"
+  },
+  {
+    "title": "Moder jord",
+    "artist": "Fågelmannen",
+    "isrc": "SE3T62101801"
+  },
+  {
+    "title": "Floating",
+    "artist": "Timshel",
+    "isrc": "GBMJG1606974"
+  },
+  {
+    "title": "Brevet",
+    "artist": "Högtryck",
+    "isrc": "FR6V81706196"
+  },
+  {
+    "title": "Ord som försvann",
+    "artist": "San Marino & Linda",
+    "isrc": "FIKRM1100005"
+  },
+  {
+    "title": "Förlorad",
+    "artist": "Tomas Fantz",
+    "isrc": "FIHAY2300005"
+  },
+  {
+    "title": "En man på en perrong",
+    "artist": "Alfred Backa",
+    "isrc": "FIFAF1500107"
+  },
+  {
+    "title": "Comfortably Numb",
+    "artist": "Fork",
+    "isrc": "FIFL21700002"
+  },
+  {
+    "title": "Only in Dreams",
+    "artist": "Philip Järvenpää",
+    "isrc": "FITE50200901"
+  },
+  {
+    "title": "Lupa Purra",
+    "artist": "Bassbros",
+    "isrc": "SEYOK1741771"
+  },
+  {
+    "title": "Årstidshymn",
+    "artist": "Erik-André Hvidsten, Kalle Moraeus",
+    "isrc": "FITE50480376"
+  },
+  {
+    "title": "Linblomman",
+    "artist": "Susann Sonntag",
+    "isrc": "FI7SS1000006"
+  },
+  {
+    "title": "Motherland",
+    "artist": "Jannike",
+    "isrc": "FIRPR2200004"
+  }
+]

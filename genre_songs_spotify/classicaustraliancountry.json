@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Oh What A Beautiful Day",
+    "artist": "Buddy Williams",
+    "isrc": "AUUC01301022"
+  },
+  {
+    "title": "Armstrong",
+    "artist": "Reg Lindsay",
+    "isrc": "AUFE07100013"
+  },
+  {
+    "title": "The Australian Bushman",
+    "artist": "Gordon Parsons",
+    "isrc": "AUDD31106204"
+  },
+  {
+    "title": "Little Boy Lost",
+    "artist": "Johnny Ashcroft",
+    "isrc": "AUUC01701500"
+  },
+  {
+    "title": "The Shotgun Wedding",
+    "artist": "Chad Morgan",
+    "isrc": "AUEM05500004"
+  },
+  {
+    "title": "The Man from Nulla Nulla",
+    "artist": "Shorty Ranger",
+    "isrc": "ushm21504583"
+  },
+  {
+    "title": "Wild Colonial Boy",
+    "artist": "Smoky Dawson",
+    "isrc": "GBELT1226049"
+  },
+  {
+    "title": "Blue Bonnet Blues",
+    "artist": "Shirley Thoms",
+    "isrc": "AUDD30800605"
+  },
+  {
+    "title": "Three Rivers Hotel",
+    "artist": "Stan Coster",
+    "isrc": "AUU911000107"
+  },
+  {
+    "title": "Goin' Rodeoin'",
+    "artist": "Reg Poole",
+    "isrc": "AUY501000049"
+  },
+  {
+    "title": "Hello, Mr Peters",
+    "artist": "Rick And Thel Carey",
+    "isrc": "QZ5FN2150382"
+  },
+  {
+    "title": "The Black Sheep",
+    "artist": "Tex Morton",
+    "isrc": "GBRKQ2272520"
+  },
+  {
+    "title": "Two Beers Away",
+    "artist": "Nev Nicholls",
+    "isrc": "USLZJ2255909"
+  },
+  {
+    "title": "Ya Gotta Try",
+    "artist": "Sammy Nestico, Tim McNamara, Michael Stryker, Bob Rummage, DePaul University Jazz Ensemble, Bob Lark",
+    "isrc": "USFKZ0611125"
+  },
+  {
+    "title": "The Worlds Greatest Mum",
+    "artist": "Johnny Chester",
+    "isrc": "AUGO41000496"
+  },
+  {
+    "title": "Back to the Sailbush Plains",
+    "artist": "Tracy Coster",
+    "isrc": "AUH111000001"
+  },
+  {
+    "title": "Old Wallerawang",
+    "artist": "Rex Dallas",
+    "isrc": "AUGO41604058"
+  },
+  {
+    "title": "The Man from Humpty-Doo",
+    "artist": "Ted Egan",
+    "isrc": "AUMGB1600409"
+  },
+  {
+    "title": "If It Ain't Broke",
+    "artist": "Ernie Constance",
+    "isrc": "AUGO41704378"
+  },
+  {
+    "title": "Black Cotton Strand - Live From Theatre Royal,Townsville,Australia/1956 / 1996 Remaster",
+    "artist": "Barry Thornton",
+    "isrc": "AUEM09600264"
+  },
+  {
+    "title": "Carefree Cowboy",
+    "artist": "Dusty Rankin",
+    "isrc": "AURN00607702"
+  },
+  {
+    "title": "When Things Go Wrong",
+    "artist": "Lily Connors",
+    "isrc": "AURN00607780"
+  },
+  {
+    "title": "Been A Fool Too Long",
+    "artist": "The Le Garde Twins",
+    "isrc": "AUEM06700022"
+  },
+  {
+    "title": "One Small Photograph",
+    "artist": "Kevin Shegog",
+    "isrc": "AUV401464790"
+  },
+  {
+    "title": "I Remember You",
+    "artist": "Frank Ifield",
+    "isrc": "GBAYE6200141"
+  },
+  {
+    "title": "I Need a Heart to Come Home To",
+    "artist": "Dianne Lindsay",
+    "isrc": "AUZH30900017"
+  },
+  {
+    "title": "Sydney Town",
+    "artist": "Terry Gordon",
+    "isrc": "USLZJ2266838"
+  },
+  {
+    "title": "Oil Rig Man",
+    "artist": "Keith Jamieson",
+    "isrc": "GBKPL1796140"
+  },
+  {
+    "title": "The Campdrafter",
+    "artist": "Norma O'Hara Murphy",
+    "isrc": "AUA621040206"
+  },
+  {
+    "title": "Who Put the Roo in the Stew",
+    "artist": "The Webb Brothers",
+    "isrc": "AUWA01000683"
+  },
+  {
+    "title": "Thistles on the Hillside",
+    "artist": "Brian Young",
+    "isrc": "ushm92179549"
+  },
+  {
+    "title": "Can I Sleep In Your Barn Tonight, Mister?",
+    "artist": "Art Leonard",
+    "isrc": "QZYGC2307598"
+  },
+  {
+    "title": "Spitfire The Outlaw",
+    "artist": "Buddy Bishop",
+    "isrc": "AURN00607646"
+  },
+  {
+    "title": "The Hobo’s Meditation",
+    "artist": "Gil Harris",
+    "isrc": "AURN00607736"
+  },
+  {
+    "title": "Highland Yodel",
+    "artist": "Joan Ridgeway",
+    "isrc": "AUDD30800598"
+  },
+  {
+    "title": "Happy Yodelling Cowgirl",
+    "artist": "June Holms",
+    "isrc": "QZYGC2307599"
+  },
+  {
+    "title": "Outlaw Bumble Bee",
+    "artist": "Kid Mahoney",
+    "isrc": "AUDD30800607"
+  },
+  {
+    "title": "Old Buffalo Trail",
+    "artist": "Laurie Croisette",
+    "isrc": "AURN00607763"
+  },
+  {
+    "title": "The Valley Where The Frangipanis Grow",
+    "artist": "McKean Sisters",
+    "isrc": "AUEM08300031"
+  },
+  {
+    "title": "Sunny Queensland",
+    "artist": "Smilin’ Billy Blinkhorn",
+    "isrc": "AURN00607861"
+  },
+  {
+    "title": "Where The Frangipani Grow",
+    "artist": "The Mckean Sisters",
+    "isrc": "QZYGC2307603"
+  },
+  {
+    "title": "Hillbilly Valley",
+    "artist": "The Singing Stockmen",
+    "isrc": "AUDD31101828"
+  },
+  {
+    "title": "Come On Aussie",
+    "artist": "Frankie Davidson",
+    "isrc": "USLZJ2026734"
+  },
+  {
+    "title": "Crazy On You Crazy On Me",
+    "artist": "Tommy Mack",
+    "isrc": "ushm90644376"
+  },
+  {
+    "title": "Family Tradition (feat. Lee Kernaghan)",
+    "artist": "Ray Kernaghan, Lee Kernaghan",
+    "isrc": "AUTK11300055"
+  },
+  {
+    "title": "Sink the Bismarck",
+    "artist": "Wayne Horsburgh",
+    "isrc": "USEWC0881689"
+  },
+  {
+    "title": "In The Territory",
+    "artist": "Big Mal Coad",
+    "isrc": "AUV401432754"
+  },
+  {
+    "title": "15 Gears 22 Wheels",
+    "artist": "Truckin' Stevens",
+    "isrc": "AUV401433777"
+  },
+  {
+    "title": "Shearin’ Time",
+    "artist": "Arthur Blanch",
+    "isrc": "AURN00607609"
+  },
+  {
+    "title": "My Blue Eyes Darling of the Darling Downs",
+    "artist": "Billy Starlight",
+    "isrc": "AUDD31201908"
+  },
+  {
+    "title": "My Yodelling Song To You",
+    "artist": "Jacqueline Hall",
+    "isrc": "AUDD30800609"
+  },
+  {
+    "title": "Snake Gully Swagger",
+    "artist": "Jim Davidson's Dandies",
+    "isrc": "AUDD31201893"
+  },
+  {
+    "title": "Rolling Wagons",
+    "artist": "Les Wilson, Jean Calder",
+    "isrc": "NZEM05700012"
+  },
+  {
+    "title": "Between Two Trees",
+    "artist": "Lili Connors",
+    "isrc": "AURN00607777"
+  },
+  {
+    "title": "When The Sun Peeps Over The Hill",
+    "artist": "Reg Lindsay & Heather McKean",
+    "isrc": "AUDD30800599"
+  },
+  {
+    "title": "Never Never",
+    "artist": "Rickie Jones",
+    "isrc": "AUDD31201892"
+  },
+  {
+    "title": "My Mother's Prayer",
+    "artist": "Rocky Cameron",
+    "isrc": "AUDD31101802"
+  },
+  {
+    "title": "Rock My Cradle Once Again",
+    "artist": "Tex Morton and Sister Dorrie",
+    "isrc": "AUDD31105509"
+  },
+  {
+    "title": "Headin' Back To Town",
+    "artist": "The Rhythm Rambers",
+    "isrc": "AUDD30800616"
+  },
+  {
+    "title": "My Pony And Me",
+    "artist": "The Rhythm Ramblers",
+    "isrc": "AUDD30800595"
+  },
+  {
+    "title": "Mary Jane Waltz",
+    "artist": "The Two Barnstormers",
+    "isrc": "AUDD31201903"
+  },
+  {
+    "title": "I'm Sorry Now",
+    "artist": "Tim And Ted McNamara",
+    "isrc": "AUDD30800615"
+  },
+  {
+    "title": "My Kind Of Country",
+    "artist": "Tim Mcknamara",
+    "isrc": "AURN00608034"
+  },
+  {
+    "title": "Follow The Hillbillies",
+    "artist": "Tim Mcnamara And The Mckean Sisters",
+    "isrc": "AURN00608040"
+  },
+  {
+    "title": "Mare, Mare, Mare",
+    "artist": "Judy Stone",
+    "isrc": "USLZJ2263322"
+  },
+  {
+    "title": "Calling You",
+    "artist": "Lindsay Butler, Peggy Gilchrist",
+    "isrc": "ushm21820851"
+  },
+  {
+    "title": "She's Gotta Be Emu Export",
+    "artist": "Brian Letton",
+    "isrc": "QZNWR2120548"
+  },
+  {
+    "title": "Chicken Yodel",
+    "artist": "Owen Blundell",
+    "isrc": "AUGO41604008"
+  },
+  {
+    "title": "Down in the Riverina",
+    "artist": "Jade Hurley",
+    "isrc": "AUFE00100766"
+  },
+  {
+    "title": "Put Another Log On the Fire",
+    "artist": "Bill & Boyd",
+    "isrc": "AULB41700155"
+  },
+  {
+    "title": "My Pony, My Guitar and Me",
+    "artist": "Martin and Putin",
+    "isrc": "AUDD31201889"
+  },
+  {
+    "title": "Rock All the Babies to Sleep",
+    "artist": "Nev Nichols",
+    "isrc": "AUDD31201882"
+  },
+  {
+    "title": "Hillbilly Fever",
+    "artist": "Smoky Dawson and Lily Connors",
+    "isrc": "AUDD31101849"
+  },
+  {
+    "title": "Tumbling Tumbleweeds",
+    "artist": "The Bar B-Q Gals",
+    "isrc": "AUDD31201901"
+  },
+  {
+    "title": "That's What I Like About The West",
+    "artist": "The Schneider Sisters",
+    "isrc": "AU1T21100012"
+  },
+  {
+    "title": "Can't Live Without you I Know",
+    "artist": "Tim McNamara and Lorna Whiteside",
+    "isrc": "AUDD31101850"
+  },
+  {
+    "title": "Don't Forget Me Little Darling",
+    "artist": "Tommy Hurst",
+    "isrc": "AUDD31201906"
+  },
+  {
+    "title": "This World Is Not My Home",
+    "artist": "Jean Stafford",
+    "isrc": "uscgj1690753"
+  },
+  {
+    "title": "I'm A Bloke",
+    "artist": "Errol Gray",
+    "isrc": "AUNC10805103"
+  },
+  {
+    "title": "20 Miles",
+    "artist": "Ray Brown And The Whispers",
+    "isrc": "AUFE06500002"
+  },
+  {
+    "title": "Dance Puppet Dance - Remaster 2000",
+    "artist": "Little Pattie",
+    "isrc": "AUEM00000197"
+  },
+  {
+    "title": "Be-Bop-a-Lula",
+    "artist": "Col Joye, The Joy Boys",
+    "isrc": "DEM071204633"
+  },
+  {
+    "title": "The Overlander Trail",
+    "artist": "Buddy Williams",
+    "isrc": "AUUC01301055"
+  },
+  {
+    "title": "Where The Bellinger River Flows",
+    "artist": "Gordon Parsons",
+    "isrc": "AUDD31106203"
+  },
+  {
+    "title": "July Youre a Woman",
+    "artist": "Reg Lindsay",
+    "isrc": "AUFE08000023"
+  },
+  {
+    "title": "Hang It In The Henhouse",
+    "artist": "Shorty Ranger",
+    "isrc": "AURN00607855"
+  },
+  {
+    "title": "Homestead Of My Dreams",
+    "artist": "Smoky Dawson",
+    "isrc": "USA370512489"
+  },
+  {
+    "title": "I'm My Own Grandpa",
+    "artist": "Chad Morgan",
+    "isrc": "AUEM06600016"
+  },
+  {
+    "title": "The Cowgirl Yodel",
+    "artist": "Shirley Thoms",
+    "isrc": "AUUC01501285"
+  },
+  {
+    "title": "It's The Same Old Story",
+    "artist": "Johnny Ashcroft",
+    "isrc": "AUUC01701514"
+  },
+  {
+    "title": "The Wobbly Boot Hotel",
+    "artist": "Stan Coster",
+    "isrc": "AUU911000065"
+  },
+  {
+    "title": "Chainsaw",
+    "artist": "Reg Poole",
+    "isrc": "AUY501000060"
+  },
+  {
+    "title": "She Was Happy Till She Met You",
+    "artist": "Rick And Thel Carey",
+    "isrc": "AUDD30800593"
+  },
+  {
+    "title": "The Goondiwindi Grey",
+    "artist": "Tex Morton",
+    "isrc": "QZYGC2310878"
+  },
+  {
+    "title": "Happy Cowboy",
+    "artist": "Tim McNamara",
+    "isrc": "DEU472201203"
+  },
+  {
+    "title": "Glory Bound",
+    "artist": "Tracy Coster, Bill Chambers",
+    "isrc": "AUH111000029"
+  },
+  {
+    "title": "Supertrucker",
+    "artist": "Nev Nicholls",
+    "isrc": "USLZJ2255735"
+  },
+  {
+    "title": "She's My Kind of Woman",
+    "artist": "Johnny Chester",
+    "isrc": "AUD221000007"
+  },
+  {
+    "title": "Yodelling King",
+    "artist": "Rex Dallas",
+    "isrc": "GBKPL2082380"
+  },
+  {
+    "title": "Sayonara Nakamura",
+    "artist": "Ted Egan",
+    "isrc": "AUMGB1600422"
+  },
+  {
+    "title": "Liveringa Station",
+    "artist": "Ernie Constance",
+    "isrc": "AUGO41301983"
+  },
+  {
+    "title": "A Wasted Life",
+    "artist": "Dusty Rankin",
+    "isrc": "AURN00607701"
+  },
+  {
+    "title": "Cup Of Joy",
+    "artist": "Lily Connors",
+    "isrc": "AUDD30800590"
+  },
+  {
+    "title": "Cooee Call",
+    "artist": "The Le Garde Twins",
+    "isrc": "AUUC02001745"
+  },
+  {
+    "title": "Phar Lap",
+    "artist": "Kevin Shegog",
+    "isrc": "AUV401467997"
+  },
+  {
+    "title": "Country All the Way",
+    "artist": "Dianne Lindsay, Reg Lindsay",
+    "isrc": "AUZH31000009"
+  },
+  {
+    "title": "She Taught Me How to Yodel",
+    "artist": "Frank Ifield",
+    "isrc": "GBAYE6200445"
+  },
+  {
+    "title": "Cousin Ratsack",
+    "artist": "Keith Jamieson, Caitlyn Jamieson",
+    "isrc": "GBKPL1957074"
+  },
+  {
+    "title": "Australia All Over",
+    "artist": "Terry Gordon",
+    "isrc": "USLZJ2266818"
+  },
+  {
+    "title": "Who's Takin' You Home",
+    "artist": "Norma O'Hara Murphy",
+    "isrc": "AUA621040506"
+  },
+  {
+    "title": "Clancy Of The Overflow",
+    "artist": "The Webb Brothers",
+    "isrc": "AUV401464795"
+  },
+  {
+    "title": "Kakadu",
+    "artist": "Brian Young",
+    "isrc": "ushm92179537"
+  },
+  {
+    "title": "Rain Come Down",
+    "artist": "Art Leonard",
+    "isrc": "uscgj0977575"
+  },
+  {
+    "title": "I Want To Go Back To The Farm",
+    "artist": "Buddy Bishop",
+    "isrc": "AURN00607645"
+  },
+  {
+    "title": "True Blue",
+    "artist": "Gil Harris",
+    "isrc": "AURN00607737"
+  },
+  {
+    "title": "Swiss Sweetheart",
+    "artist": "Joan Ridgeway",
+    "isrc": "AUDD31101848"
+  },
+  {
+    "title": "Song Of Queensland",
+    "artist": "June Holms",
+    "isrc": "AURN00607760"
+  },
+  {
+    "title": "My Little Brown Eyed Son",
+    "artist": "Kid Mahoney",
+    "isrc": "AUDD31105515"
+  },
+  {
+    "title": "The Cowboy",
+    "artist": "Laurie Croisette",
+    "isrc": "AUDD31201867"
+  },
+  {
+    "title": "Yodel Medley (Medley) - Live",
+    "artist": "McKean Sisters",
+    "isrc": "AUEM00000328"
+  },
+  {
+    "title": "Back To The Old Carriboo",
+    "artist": "Smilin’ Billy Blinkhorn",
+    "isrc": "AURN00607859"
+  },
+  {
+    "title": "By The Banks Of The Sunny Tweed",
+    "artist": "The Mckean Sisters",
+    "isrc": "AURN00607928"
+  },
+  {
+    "title": "The Little Red Barn",
+    "artist": "The Singing Stockmen",
+    "isrc": "AURN00607994"
+  },
+  {
+    "title": "Teardrop Waltz",
+    "artist": "Tommy Mack",
+    "isrc": "AURN00608046"
+  },
+  {
+    "title": "Shaddup You Face",
+    "artist": "Frankie Davidson",
+    "isrc": "GBRKQ2236303"
+  },
+  {
+    "title": "Me and Louie on the Road",
+    "artist": "Ray Kernaghan",
+    "isrc": "AUTK11300065"
+  },
+  {
+    "title": "What Shall We Do with the Drunken Sailor",
+    "artist": "Wayne Horsburgh",
+    "isrc": "USEWC0881656"
+  },
+  {
+    "title": "Me An My Old Mack",
+    "artist": "Big Mal Coad",
+    "isrc": "AUV401432760"
+  },
+  {
+    "title": "Truckin' Around",
+    "artist": "Truckin' Stevens",
+    "isrc": "AUV401433768"
+  },
+  {
+    "title": "Whatever Floats Your Boat",
+    "artist": "Arthur Blanch",
+    "isrc": "AU0421300087"
+  },
+  {
+    "title": "Train Whistle Blues",
+    "artist": "Billy Starlight",
+    "isrc": "AUDD31201866"
+  },
+  {
+    "title": "Along the Road to Gundagai",
+    "artist": "Jim Davidson's Dandies",
+    "isrc": "AUDD31002359"
+  },
+  {
+    "title": "The Wahine Song",
+    "artist": "Les Wilson, Jean Calder",
+    "isrc": "NZEM05500016"
+  },
+  {
+    "title": "On The Gundagai Line",
+    "artist": "Buddy Williams",
+    "isrc": "AUUC01301028"
+  },
+  {
+    "title": "The Happy Bushman",
+    "artist": "Gordon Parsons",
+    "isrc": "AUDD31106202"
+  },
+  {
+    "title": "Beautiful Memories And Beautiful Dreams (Remastered)",
+    "artist": "Reg Lindsay",
+    "isrc": "AUMGB2200311"
+  },
+  {
+    "title": "Clarabelle",
+    "artist": "Shorty Ranger",
+    "isrc": "AURN00607854"
+  },
+  {
+    "title": "The Wild Colonial Boy",
+    "artist": "Smoky Dawson",
+    "isrc": "USA370512500"
+  },
+  {
+    "title": "When The Sun Sinks Low In The West",
+    "artist": "Shirley Thoms",
+    "isrc": "AUUC01501298"
+  },
+  {
+    "title": "Women Do Funny Things",
+    "artist": "Chad Morgan",
+    "isrc": "AUGO41603393"
+  },
+  {
+    "title": "Playground In My Mind",
+    "artist": "Johnny Ashcroft",
+    "isrc": "AUUC01701506"
+  },
+  {
+    "title": "Lawson's Loaded Dog",
+    "artist": "Stan Coster",
+    "isrc": "AU9110000061"
+  },
+  {
+    "title": "Goondiwindi Grey",
+    "artist": "Reg Poole",
+    "isrc": "USHM90802199"
+  },
+  {
+    "title": "Maker Of Raindrops & Roses",
+    "artist": "Rick And Thel Carey",
+    "isrc": "QZ5FN2150383"
+  },
+  {
+    "title": "Beautiful Queensland",
+    "artist": "Tex Morton, Sister Dorrie",
+    "isrc": "AUUC01701539"
+  },
+  {
+    "title": "Red River Valley",
+    "artist": "Tim McNamara, The Mckean Sisters",
+    "isrc": "QZYGC2307612"
+  },
+  {
+    "title": "Barcoo Water",
+    "artist": "Tracy Coster",
+    "isrc": "AUEN02000257"
+  },
+  {
+    "title": "Teddy Bear's Last Ride",
+    "artist": "Nev Nicholls",
+    "isrc": "USBKY0510127"
+  },
+  {
+    "title": "Shame And Scandal In The Family",
+    "artist": "Johnny Chester",
+    "isrc": "AUPD41000357"
+  },
+  {
+    "title": "I Yodel For Jesus",
+    "artist": "Rex Dallas, Jan Windolf, George Dobbie",
+    "isrc": "AUV401432784"
+  },
+  {
+    "title": "When the Currawongs Come Down",
+    "artist": "Ernie Constance",
+    "isrc": "AUGO41302005"
+  },
+  {
+    "title": "The Goanna Drover",
+    "artist": "Ted Egan",
+    "isrc": "AUMGB1600408"
+  },
+  {
+    "title": "Currabubula",
+    "artist": "Dusty Rankin",
+    "isrc": "AUDD31105514"
+  },
+  {
+    "title": "Brave Man",
+    "artist": "Lily Connors",
+    "isrc": "AUDD31201898"
+  },
+  {
+    "title": "Yodelling Our Way Round The World",
+    "artist": "The Le Garde Twins",
+    "isrc": "AUDD30800591"
+  },
+  {
+    "title": "Melbourne Airport, Tullamarine",
+    "artist": "Kevin Shegog",
+    "isrc": "AUV401464793"
+  },
+  {
+    "title": "Bush Haven",
+    "artist": "Dianne Lindsay",
+    "isrc": "AUZH31000013"
+  },
+  {
+    "title": "Doug Mcintyre Freight Lines",
+    "artist": "Keith Jamieson",
+    "isrc": "GBKPL1957087"
+  },
+  {
+    "title": "Iron Bark Jim",
+    "artist": "Terry Gordon",
+    "isrc": "USLZJ2266810"
+  },
+  {
+    "title": "Sydney or the Bush",
+    "artist": "Norma O'Hara Murphy",
+    "isrc": "AUA621040406"
+  },
+  {
+    "title": "The Call Of The Bellbird",
+    "artist": "The Webb Brothers",
+    "isrc": "AUV401464796"
+  }
+]

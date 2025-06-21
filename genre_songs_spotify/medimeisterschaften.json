@@ -1,0 +1,837 @@
+[
+  {
+    "title": "Wildgoats",
+    "artist": "Medimeisterschaften Köln",
+    "isrc": "DEZC62413037"
+  },
+  {
+    "title": "Nimmerland",
+    "artist": "Medimeisterschaften Tübingen",
+    "isrc": "TCAIB2405548"
+  },
+  {
+    "title": "TRINKEN",
+    "artist": "Medimeisterschaften Essen",
+    "isrc": "QZK6K2454856"
+  },
+  {
+    "title": "Botanik",
+    "artist": "Medimeisterschaften Bochum",
+    "isrc": "TCAHB2370356"
+  },
+  {
+    "title": "mitdirbauich",
+    "artist": "Medimeisterschaften Marburg",
+    "isrc": "GBMJG2412784"
+  },
+  {
+    "title": "737",
+    "artist": "Medimeister Groningen",
+    "isrc": "QZHN62493976"
+  },
+  {
+    "title": "Smile",
+    "artist": "Medimeisterschaften Gießen",
+    "isrc": "QZK6K2459803"
+  },
+  {
+    "title": "Checked Tits Club",
+    "artist": "Medimeister Witten, MediMeister Münster",
+    "isrc": "QZHN92470083"
+  },
+  {
+    "title": "Lieferfieber",
+    "artist": "Medimeisterschaften Lübeck",
+    "isrc": "DEZC62415390"
+  },
+  {
+    "title": "Main Gartencenter",
+    "artist": "Medimeisterschaften Frankfurt",
+    "isrc": "QZHNB2488791"
+  },
+  {
+    "title": "Medi Baby",
+    "artist": "Medimeisterschaften Alumni",
+    "isrc": "DEZC62411162"
+  },
+  {
+    "title": "Manege Frei!",
+    "artist": "Medimeisterschaften Freiburg",
+    "isrc": "QZHNA2427087"
+  },
+  {
+    "title": "Highway to Health (Ballern)",
+    "artist": "Medimeisterschaften Hannover",
+    "isrc": "TCAIC2463848"
+  },
+  {
+    "title": "Nie allein",
+    "artist": "Medimeisterschaften Greifswald",
+    "isrc": "DEZC62288411"
+  },
+  {
+    "title": "Duschrave",
+    "artist": "Medimeisterschaften Düsseldorf",
+    "isrc": "DEZC62413369"
+  },
+  {
+    "title": "ExMa",
+    "artist": "Medimeisterschaften Leipzig",
+    "isrc": "DEZC62407954"
+  },
+  {
+    "title": "Beef",
+    "artist": "Medimeisterschaften Magdeburg",
+    "isrc": "TCAHC2397959"
+  },
+  {
+    "title": "Dopawien",
+    "artist": "Medimeisterschaften SFU Wien",
+    "isrc": "SEYOK2411847"
+  },
+  {
+    "title": "Home Run",
+    "artist": "Medimeisterschaften Erlangen",
+    "isrc": "QZK6H2479972"
+  },
+  {
+    "title": "Alle an Deck (Yo Ho)",
+    "artist": "Medimeisterschaften Kiel",
+    "isrc": "DEZC62413883"
+  },
+  {
+    "title": "Zurück Auf Die Medis",
+    "artist": "Medimeisterschaften Brandenburg, Medimeisterschaften Leipzig",
+    "isrc": "TCAGY2371960"
+  },
+  {
+    "title": "Saarfari",
+    "artist": "Medimeisterschaften Homburg",
+    "isrc": "DEZC62417568"
+  },
+  {
+    "title": "Ravioli Effekt",
+    "artist": "Medimeisterschaften Rostock",
+    "isrc": "TCAID2462846"
+  },
+  {
+    "title": "Krachklub - Songs für Varna",
+    "artist": "Medimeisterschaften Varna",
+    "isrc": "QZMEM2435761"
+  },
+  {
+    "title": "Coffeina",
+    "artist": "Medimeisterschaften Würzburg",
+    "isrc": "DEZC62414467"
+  },
+  {
+    "title": "HDAC",
+    "artist": "Medimeisterschaften Heidelberg",
+    "isrc": "TCAIF2462067"
+  },
+  {
+    "title": "Wiendl",
+    "artist": "Medimeisterschaften Wien",
+    "isrc": "DEZC62416512"
+  },
+  {
+    "title": "Raver oder Ballerina",
+    "artist": "Medimeisterschaften Riga",
+    "isrc": "QZMEN2469016"
+  },
+  {
+    "title": "Hüttinngaudi",
+    "artist": "Medimeisterschaften Innsbruck",
+    "isrc": "TCAIC2400821"
+  },
+  {
+    "title": "Auf Achse",
+    "artist": "MediMeister Münster",
+    "isrc": "CH6542426260"
+  },
+  {
+    "title": "Ulmterwäsche",
+    "artist": "Medimeisterschaften Ulm",
+    "isrc": "DEZC62415932"
+  },
+  {
+    "title": "Mademoiselle Mattel",
+    "artist": "Medimeisterschaften Team Jena",
+    "isrc": "DEZC62411704"
+  },
+  {
+    "title": "Hart bleiben",
+    "artist": "Medimeisterschaften Graz",
+    "isrc": "DEZC62415294"
+  },
+  {
+    "title": "Raatatouille (Voulez-Vous Küché)",
+    "artist": "Medimeisterschaften Aachen",
+    "isrc": "QZK6F2481239"
+  },
+  {
+    "title": "BLUB (Bitte Lass Uns...)",
+    "artist": "Medimeisterschaften München",
+    "isrc": "QZMEM2490037"
+  },
+  {
+    "title": "Frag nicht was für Saft",
+    "artist": "Medimeisterschaften Mannheim",
+    "isrc": "QZK6F2475529"
+  },
+  {
+    "title": "Vetoria's Secret",
+    "artist": "Medimeisterschaften TiHo Hannover",
+    "isrc": "DEYX82194204"
+  },
+  {
+    "title": "20:15",
+    "artist": "Medimeisterschaften Regensburg",
+    "isrc": "DEZC62418542"
+  },
+  {
+    "title": "Hybrid Heart",
+    "artist": "Medimeister Dirty South, Medimeisterschaften Ulm, Medimeisterschaften Freiburg, Medimeisterschaften Tübingen",
+    "isrc": "DEZC62412495"
+  },
+  {
+    "title": "Too Hot To Händel",
+    "artist": "Medimeisterschaften Halle",
+    "isrc": "DEZC62417163"
+  },
+  {
+    "title": "Wer Hat Die Paprika Geklaut?",
+    "artist": "Medimeister Budapest",
+    "isrc": "TCAHC2317707"
+  },
+  {
+    "title": "Moschus im Moshpit",
+    "artist": "Medimeisterschaften Cluj",
+    "isrc": "QZK6J2447122"
+  },
+  {
+    "title": "Westside",
+    "artist": "Medimeisterschaften NRW, Medimeisterschaften Bonn, Medimeisterschaften Düsseldorf, Medimeisterschaften Köln, Medimeisterschaften Aachen, MediMeister Münster, Medimeister Witten, Medimeisterschaften Essen",
+    "isrc": "DEZC62291502"
+  },
+  {
+    "title": "Checkpoint Party",
+    "artist": "Medimeisterschaften Berlin",
+    "isrc": "DEZC62415706"
+  },
+  {
+    "title": "Bonndesliga",
+    "artist": "Medimeisterschaften Bonn",
+    "isrc": "DEZC62414608"
+  },
+  {
+    "title": "KETAWIEN",
+    "artist": "Medimeisterschaften Vetmed Uni Wien",
+    "isrc": "SEYOK2410210"
+  },
+  {
+    "title": "REH-Animation",
+    "artist": "Medimeisterschaften Göttingen",
+    "isrc": "QZWFQ2309171"
+  },
+  {
+    "title": "Tierisch verliebt (in veti veritas)",
+    "artist": "Medimeisterschaften FU Berlin",
+    "isrc": "QZMEQ2453170"
+  },
+  {
+    "title": "Extrapyramidal!",
+    "artist": "Medimeisterschaften Prag",
+    "isrc": "DEZC62416786"
+  },
+  {
+    "title": "Hep Bre",
+    "artist": "Medimeisterschaften Breslau",
+    "isrc": "DEZC62414313"
+  },
+  {
+    "title": "PflasterKLeber",
+    "artist": "Medimeisterschaften Krems KL",
+    "isrc": "TCAIG2472748"
+  },
+  {
+    "title": "112 Dalmakieler",
+    "artist": "Medimeister Kiel",
+    "isrc": "NLS6R1846965"
+  },
+  {
+    "title": "Weil Du Hier Bist",
+    "artist": "Medimeisterschaften Augsburg",
+    "isrc": "TCAIH2404134"
+  },
+  {
+    "title": "O.L.P.D.",
+    "artist": "Medimeister Oldenburg",
+    "isrc": "DEZC62413431"
+  },
+  {
+    "title": "BERNta-hCG",
+    "artist": "Medimeisterschaften Bern",
+    "isrc": "QZMEN2475117"
+  },
+  {
+    "title": "Osten",
+    "artist": "Ostpol Medimeisterschaften, Medimeisterschaften Halle, Medimeister Dresden, Medimeisterschaften Leipzig",
+    "isrc": "NL1AP2025378"
+  },
+  {
+    "title": "Medicopter Mainz17",
+    "artist": "Medimeister Mainz",
+    "isrc": "TCADC1702193"
+  },
+  {
+    "title": "La Love",
+    "artist": "Medimeisterschaften UMCH Hamburg",
+    "isrc": "TCAHD2336693"
+  },
+  {
+    "title": "Ich lieb die Medis",
+    "artist": "einpaarbois",
+    "isrc": "CH6541828470"
+  },
+  {
+    "title": "PMUfo",
+    "artist": "Medimeister Salzburg",
+    "isrc": "USHM22455150"
+  },
+  {
+    "title": "Creme dich ein",
+    "artist": "Medimeisterschaften Kollektiv Sonnenschutz",
+    "isrc": "NL1AP1938269"
+  },
+  {
+    "title": "Skandale",
+    "artist": "Medimeisterschaften Linz",
+    "isrc": "DEZC62417368"
+  },
+  {
+    "title": "Tripper",
+    "artist": "Medimeisterschaften Pécs",
+    "isrc": "QZMEQ2482747"
+  },
+  {
+    "title": "I Can't Breathe (Club Edit)",
+    "artist": "Medimeister Groningen, Medimeister Oldenburg",
+    "isrc": "ushm92137020"
+  },
+  {
+    "title": "Hopfen, Malz & Liebe",
+    "artist": "Medimeister Dresden",
+    "isrc": "CACWV2438874"
+  },
+  {
+    "title": "SPLITzialeinheit",
+    "artist": "Medimeisterschaften Split/Coburg",
+    "isrc": "QZK6M2312725"
+  },
+  {
+    "title": "#NurLiebe",
+    "artist": "Goldfell",
+    "isrc": "DENL81701037"
+  },
+  {
+    "title": "Feiern geh'n (auf Wish bestellt)",
+    "artist": "Medimeisterschaften Basel",
+    "isrc": "DEZC62416928"
+  },
+  {
+    "title": "Hoden",
+    "artist": "Die Urologen",
+    "isrc": "DEEQ82200098"
+  },
+  {
+    "title": "Der Ursus Tourbus",
+    "artist": "Medimeisterschaften Targu Mures",
+    "isrc": "QZMEP2270114"
+  },
+  {
+    "title": "C2 (Medimeisterschaften 2020)",
+    "artist": "Pechblack, Camou",
+    "isrc": "NL1AP2020385"
+  },
+  {
+    "title": "Berlin, du bist so wunderbar - Remix",
+    "artist": "Karlito",
+    "isrc": "NL4NL2156704"
+  },
+  {
+    "title": "Fabelhafte Welt Der Medizin",
+    "artist": "Medimeisterschaften 2022 HipHop-Ingenieure",
+    "isrc": "TCAGK2228919"
+  },
+  {
+    "title": "Pures Dopamin",
+    "artist": "Medimeisterschaften Dresden",
+    "isrc": "NL4NL2163037"
+  },
+  {
+    "title": "Löwen aus dem Pott",
+    "artist": "Medimeisterschaften Essen",
+    "isrc": "SE5BU1833719"
+  },
+  {
+    "title": "Nerds Pornos Amphetamine",
+    "artist": "Medimeisterschaften Prag",
+    "isrc": "NL1AP1938255"
+  },
+  {
+    "title": "Elvis Rocks The Pelvis - Rock Around The Cock",
+    "artist": "Medis Kiel 2019",
+    "isrc": "NL1AP1935681"
+  },
+  {
+    "title": "Meditrip",
+    "artist": "Meditricks, Beese",
+    "isrc": "CH6542256116"
+  },
+  {
+    "title": "Und Sie Sagt (\"Pfandsong\")",
+    "artist": "Tight Junctions",
+    "isrc": "TCADR1804494"
+  },
+  {
+    "title": "Auf Tour",
+    "artist": "Medimeisterschaften Köln, Medimeisterschaften Cluj, Medimeisterschaften Düsseldorf, Medimeisterschaften Hannover, luxuS",
+    "isrc": "DEZC62383804"
+  },
+  {
+    "title": "Gottlos 4ever",
+    "artist": "Medimeisterschaften Essen",
+    "isrc": "QZK6J2486233"
+  },
+  {
+    "title": "Bochumer Schlümpfe",
+    "artist": "Medimeisterschaften Bochum",
+    "isrc": "DELJ81897068"
+  },
+  {
+    "title": "90's Nikes",
+    "artist": "Medimeisterschaften Tübingen",
+    "isrc": "TCAHD2376042"
+  },
+  {
+    "title": "Burnout",
+    "artist": "Medimeisterschaften Gießen",
+    "isrc": "QZK6M2454302"
+  },
+  {
+    "title": "Atomar 2021",
+    "artist": "Medimeisterschaften Marburg",
+    "isrc": "GBMJG2117759"
+  },
+  {
+    "title": "Du und Ich",
+    "artist": "Medimeister Groningen, GRO'sbusters vs. Phantome",
+    "isrc": "QZK6L2383588"
+  },
+  {
+    "title": "Gewitter",
+    "artist": "Medimeister Witten",
+    "isrc": "QZK6N2492524"
+  },
+  {
+    "title": "Dieses Lied mit Käse Eier Butter und Eier",
+    "artist": "Medimeisterschaften Lübeck",
+    "isrc": "DEZC62290144"
+  },
+  {
+    "title": "069",
+    "artist": "Medimeisterschaften Frankfurt",
+    "isrc": "QZHN52365212"
+  },
+  {
+    "title": "Fry auf den Medis",
+    "artist": "Medimeisterschaften Greifswald",
+    "isrc": "NL1AP1926143"
+  },
+  {
+    "title": "Haywatch",
+    "artist": "Medimeisterschaften Hannover",
+    "isrc": "TCAHC2350527"
+  },
+  {
+    "title": "112 Baby ruf mich an",
+    "artist": "Medimeisterschaften Alumni",
+    "isrc": "DEZC62290852"
+  },
+  {
+    "title": "Magdeburger Rave Taxi",
+    "artist": "Medimeisterschaften Magdeburg",
+    "isrc": "TCAIH2452281"
+  },
+  {
+    "title": "Freilandhaltung",
+    "artist": "Medimeisterschaften Freiburg",
+    "isrc": "QZHNC2395451"
+  },
+  {
+    "title": "Einmalmitalles",
+    "artist": "Medimeisterschaften Düsseldorf",
+    "isrc": "DEZC62341864"
+  },
+  {
+    "title": "Bleip Wach",
+    "artist": "Medimeisterschaften Leipzig",
+    "isrc": "DEZC62417165"
+  },
+  {
+    "title": "Ultravieolett",
+    "artist": "Medimeisterschaften SFU Wien",
+    "isrc": "SEYOK2314720"
+  },
+  {
+    "title": "Herzalarm",
+    "artist": "Medimeisterschaften Erlangen, Medimeisterschaften SFU Wien, Medimeisterschaften Berlin, Medimeisterschaften Innsbruck",
+    "isrc": "SEYOK2318474"
+  },
+  {
+    "title": "Kielafornia Love",
+    "artist": "Medimeisterschaften Kiel",
+    "isrc": "DEZC62289096"
+  },
+  {
+    "title": "Durst",
+    "artist": "Medimeisterschaften Brandenburg",
+    "isrc": "DEZC62415079"
+  },
+  {
+    "title": "Cantina Drip",
+    "artist": "Medimeisterschaften Homburg",
+    "isrc": "DEZC62342806"
+  },
+  {
+    "title": "Woodstock Peace & Love",
+    "artist": "Medimeisterschaften Rostock",
+    "isrc": "TCADQ1859324"
+  },
+  {
+    "title": "Faktor V",
+    "artist": "Medimeisterschaften Varna",
+    "isrc": "QZK6Q2318070"
+  },
+  {
+    "title": "Shot'n'Rock",
+    "artist": "Medimeisterschaften Würzburg, DJ Katheter",
+    "isrc": "DEZC62417792"
+  },
+  {
+    "title": "Heidelbärenbande (VIP Remix)",
+    "artist": "Medimeisterschaften Heidelberg, BENEMY",
+    "isrc": "TCAIC2405397"
+  },
+  {
+    "title": "Bradycardiyolo",
+    "artist": "Medimeisterschaften Riga",
+    "isrc": "QZK6F2191543"
+  },
+  {
+    "title": "Inn Shape",
+    "artist": "Medimeisterschaften Innsbruck",
+    "isrc": "TCAGZ2375286"
+  },
+  {
+    "title": "Wienergy",
+    "artist": "Medimeisterschaften Wien",
+    "isrc": "DEZC62288602"
+  },
+  {
+    "title": "Münspa",
+    "artist": "MediMeister Münster",
+    "isrc": "CH6542335866"
+  },
+  {
+    "title": "Europäische Ulmion",
+    "artist": "Medimeisterschaften Ulm",
+    "isrc": "DEZC62285633"
+  },
+  {
+    "title": "Für Elisa",
+    "artist": "Medimeisterschaften Team Jena",
+    "isrc": "DEZC62284790"
+  },
+  {
+    "title": "Goldaura",
+    "artist": "Medimeisterschaften Graz",
+    "isrc": "DEZC62346721"
+  },
+  {
+    "title": "Dr. Oetker",
+    "artist": "Medimeisterschaften München",
+    "isrc": "QZK6M2310128"
+  },
+  {
+    "title": "GTAachen (Nice City)",
+    "artist": "Medimeisterschaften Aachen",
+    "isrc": "NL4NL2161983"
+  },
+  {
+    "title": "Café au Lait",
+    "artist": "Medimeisterschaften Mannheim",
+    "isrc": "QZK6G2165342"
+  },
+  {
+    "title": "Liebe Espresso (Tanziamo)",
+    "artist": "Medimeisterschaften Regensburg, Rainy Bianco & Die Ratisbona Boys",
+    "isrc": "DEZC62346717"
+  },
+  {
+    "title": "Dirty South",
+    "artist": "Medimeister Dirty South, Medimeisterschaften Ulm, Medimeisterschaften Freiburg, Medimeisterschaften Tübingen",
+    "isrc": "DEZC62343091"
+  },
+  {
+    "title": "Selfcare",
+    "artist": "Medimeisterschaften Halle, Medimeisterschaften Leipzig",
+    "isrc": "DEZC62414468"
+  },
+  {
+    "title": "Vetracyclin",
+    "artist": "Medimeisterschaften TiHo Hannover",
+    "isrc": "DEZC62343821"
+  },
+  {
+    "title": "Budaschaft",
+    "artist": "Medimeister Budapest",
+    "isrc": "TCAGI2281831"
+  },
+  {
+    "title": "NRWeAreOne",
+    "artist": "Medimeisterschaften NRW, Medimeisterschaften Aachen, Medimeisterschaften Bochum, Medimeisterschaften Bonn, Medimeisterschaften Düsseldorf, Medimeisterschaften Essen, Medimeisterschaften Köln, MediMeister Münster, Medimeister Witten",
+    "isrc": "DEZC62347149"
+  },
+  {
+    "title": "Ab in den AUrlaub!",
+    "artist": "Medimeisterschaften Cluj",
+    "isrc": "QZK6M2365525"
+  },
+  {
+    "title": "Napoleon Bonnerparty",
+    "artist": "Medimeisterschaften Bonn",
+    "isrc": "NL1AP1935969"
+  },
+  {
+    "title": "RTW",
+    "artist": "Medimeisterschaften Berlin, Medimeisterschaften Bonn",
+    "isrc": "NL1AP2053197"
+  },
+  {
+    "title": "Boxenstopp",
+    "artist": "Medimeisterschaften Göttingen",
+    "isrc": "QZK6G2452368"
+  },
+  {
+    "title": "Viehbiza",
+    "artist": "Medimeisterschaften Vetmed Uni Wien",
+    "isrc": "SEYOK2315569"
+  },
+  {
+    "title": "Vetamine & Naschen",
+    "artist": "Medimeisterschaften FU Berlin, furry j",
+    "isrc": "QZNWQ2259526"
+  },
+  {
+    "title": "DocCzech (Ostblockflimmern)",
+    "artist": "Medimeisterschaften Prag",
+    "isrc": "DEZC62344146"
+  },
+  {
+    "title": "Ostblocktherapie",
+    "artist": "Medimeisterschaften Breslau",
+    "isrc": "DEZC62342614"
+  },
+  {
+    "title": "Donau Duck",
+    "artist": "Medimeisterschaften Krems KL, Billie Steirisch, NOOIVI, Jay Carraway, Pablo",
+    "isrc": "TCAGJ2295120"
+  },
+  {
+    "title": "Doktordaddy",
+    "artist": "Medimeisterschaften Augsburg",
+    "isrc": "TCAIH2428480"
+  },
+  {
+    "title": "Willst Pooh?",
+    "artist": "Medimeisterschaften Bern",
+    "isrc": "QZK6L2374120"
+  },
+  {
+    "title": "Olaf",
+    "artist": "Medimeister Oldenburg",
+    "isrc": "DEZC62345933"
+  },
+  {
+    "title": "Angeleckt, Mainz!",
+    "artist": "Medimeister Mainz",
+    "isrc": "TCAEG1934142"
+  },
+  {
+    "title": "Rausfahren",
+    "artist": "einpaarbois, Justus3000",
+    "isrc": "CH6542267203"
+  },
+  {
+    "title": "PMuuuh",
+    "artist": "Medimeister Salzburg",
+    "isrc": "ushm22383927"
+  },
+  {
+    "title": "Flinz Asozial - Meine Welt",
+    "artist": "Medimeisterschaften Linz",
+    "isrc": "DEZC62344970"
+  },
+  {
+    "title": "Auf der Landebahn",
+    "artist": "Medimeisterschaften Köln, Medimeisterschaften Bonn",
+    "isrc": "DEZC62414072"
+  },
+  {
+    "title": "Obermehler Sonnenbank 2.0 - Clean Westside Version",
+    "artist": "Medimeisterschaften Essen, Medimeisterschaften Bonn, Medimeisterschaften Köln",
+    "isrc": "DEZC62417618"
+  },
+  {
+    "title": "Bochummer - Medis 2019",
+    "artist": "Medimeisterschaften Bochum",
+    "isrc": "DELJ81924163"
+  },
+  {
+    "title": "Ibuprofen - Der Song",
+    "artist": "Medimeisterschaften Tübingen",
+    "isrc": "TCAHD2317932"
+  },
+  {
+    "title": "Marburger Bunt",
+    "artist": "Medimeisterschaften Marburg",
+    "isrc": "GBMJG2218281"
+  },
+  {
+    "title": "Irgendwie ganz geil",
+    "artist": "Medimeisterschaften Gießen",
+    "isrc": "QZNWR2241053"
+  },
+  {
+    "title": "Absturz im Anflug",
+    "artist": "Medimeisterschaften Lübeck",
+    "isrc": "DEZC62343170"
+  },
+  {
+    "title": "Wittnesstrainer",
+    "artist": "Medimeister Witten",
+    "isrc": "QZHN92328412"
+  },
+  {
+    "title": "Frapunzel",
+    "artist": "Medimeisterschaften Frankfurt",
+    "isrc": "QZK6M2370864"
+  },
+  {
+    "title": "Die Pommesboten (MclenBurger VorPommes)",
+    "artist": "Medimeisterschaften Greifswald",
+    "isrc": "NL1AP1936460"
+  },
+  {
+    "title": "Havana #nurLibre",
+    "artist": "Medimeisterschaften Hannover",
+    "isrc": "TCAEG1917471"
+  },
+  {
+    "title": "Heart Boom Boom",
+    "artist": "Medimeisterschaften Alumni",
+    "isrc": "DEZC62341244"
+  },
+  {
+    "title": "#NURKittel Freiburg (Ärzte aus der Schwanzwaldklinik)",
+    "artist": "Medimeisterschaften Freiburg",
+    "isrc": "QZB4J1820519"
+  },
+  {
+    "title": "Rausch",
+    "artist": "Medimeisterschaften Magdeburg",
+    "isrc": "TCAGK2204134"
+  },
+  {
+    "title": "Labdance",
+    "artist": "Medimeisterschaften Düsseldorf",
+    "isrc": "NL4NL2156166"
+  },
+  {
+    "title": "LeipZisch ab ins All",
+    "artist": "Medimeisterschaften Leipzig",
+    "isrc": "QZK6Q2317832"
+  },
+  {
+    "title": "Wientensivstation",
+    "artist": "Medimeisterschaften SFU Wien",
+    "isrc": "SEYOK2222727"
+  },
+  {
+    "title": "J.FAU.A",
+    "artist": "Medimeisterschaften Erlangen",
+    "isrc": "QZK6P2398385"
+  },
+  {
+    "title": "Kielectricity - Alles Watt Ihr Volt.",
+    "artist": "Medimeisterschaften Kiel",
+    "isrc": "NL4NL2162241"
+  },
+  {
+    "title": "Gelbe Engel (Na Na Na)",
+    "artist": "Medimeisterschaften Homburg, SAARDAC",
+    "isrc": "DELJ81926538"
+  },
+  {
+    "title": "Anki Durch",
+    "artist": "Medimeisterschaften Brandenburg",
+    "isrc": "TCAHC2364219"
+  },
+  {
+    "title": "Imbi$$",
+    "artist": "Medimeisterschaften Rostock",
+    "isrc": "TCAIH2453629"
+  },
+  {
+    "title": "Cosmo & Varna",
+    "artist": "Medimeisterschaften Varna",
+    "isrc": "QZK6G2237610"
+  },
+  {
+    "title": "Vapen im OP",
+    "artist": "Medimeisterschaften Würzburg",
+    "isrc": "DEZC62349266"
+  },
+  {
+    "title": "Rigallien",
+    "artist": "Medimeisterschaften Riga",
+    "isrc": "QZK6N2392699"
+  },
+  {
+    "title": "Vienna Fashion Infekt",
+    "artist": "Medimeisterschaften Wien",
+    "isrc": "NLS6R1842796"
+  },
+  {
+    "title": "Pearl Inndex",
+    "artist": "Medimeisterschaften Innsbruck",
+    "isrc": "TCAGJ2240301"
+  },
+  {
+    "title": "*HDGDL - Medicine",
+    "artist": "Medimeisterschaften Heidelberg",
+    "isrc": "TCAHC2323788"
+  },
+  {
+    "title": "Highlig",
+    "artist": "MediMeister Münster",
+    "isrc": "CH6542257941"
+  },
+  {
+    "title": "Aquariulm",
+    "artist": "Medimeisterschaften Ulm",
+    "isrc": "DEZC62345886"
+  }
+]

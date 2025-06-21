@@ -1,0 +1,817 @@
+[
+  {
+    "title": "The Great Design",
+    "artist": "Black Rainbows",
+    "isrc": "ITM462000054"
+  },
+  {
+    "title": "Red Sun",
+    "artist": "Mr. Bison",
+    "isrc": "ITM461800093"
+  },
+  {
+    "title": "Bad Rebel",
+    "artist": "Killer Boogie",
+    "isrc": "FRX201557523"
+  },
+  {
+    "title": "Gone Again",
+    "artist": "Humulus",
+    "isrc": "TCAER2060043"
+  },
+  {
+    "title": "Kismet",
+    "artist": "Ufomammut",
+    "isrc": "US4JA2412902"
+  },
+  {
+    "title": "Die Of Thirst",
+    "artist": "Gorilla Pulp",
+    "isrc": "FR26V1635198"
+  },
+  {
+    "title": "Cosmic Soul",
+    "artist": "Black Elephant",
+    "isrc": "US22K1817101"
+  },
+  {
+    "title": "The Night",
+    "artist": "Kayleth",
+    "isrc": "USA2P2421742"
+  },
+  {
+    "title": "The Sweetest Nightmare",
+    "artist": "Giobia",
+    "isrc": "ITM462300001"
+  },
+  {
+    "title": "The Whale",
+    "artist": "Isaak",
+    "isrc": "ITM462400044"
+  },
+  {
+    "title": "Rivers: Water and Earth Stream",
+    "artist": "Da Captain Trips",
+    "isrc": "usdy42206827"
+  },
+  {
+    "title": "99 Weed Balloons",
+    "artist": "Tons",
+    "isrc": "ITM461800233"
+  },
+  {
+    "title": "Heckle Yuppies",
+    "artist": "Lee Van Cleef",
+    "isrc": "GBSMU6105826"
+  },
+  {
+    "title": "The Flood",
+    "artist": "Elepharmers",
+    "isrc": "TCAEC1985874"
+  },
+  {
+    "title": "Hypnosis",
+    "artist": "Atomic Mold",
+    "isrc": "uscgj1859255"
+  },
+  {
+    "title": "Psychonauts In The Forest",
+    "artist": "Otehi",
+    "isrc": "SEYOK1616683"
+  },
+  {
+    "title": "Cosmic Evoked Potentials",
+    "artist": "L'Ira del Baccano",
+    "isrc": "ITM462300067"
+  },
+  {
+    "title": "Morning Demon",
+    "artist": "Tuna de Tierra",
+    "isrc": "USQY51758236"
+  },
+  {
+    "title": "The King",
+    "artist": "UltraCombo",
+    "isrc": "QZHN51918135"
+  },
+  {
+    "title": "Catamorph",
+    "artist": "Haunted",
+    "isrc": "USY252335517"
+  },
+  {
+    "title": "Trivial Visions",
+    "artist": "La Morte Viene Dallo Spazio",
+    "isrc": "QM4TW2119676"
+  },
+  {
+    "title": "Madras",
+    "artist": "Deadpeach",
+    "isrc": "QZWFL2308923"
+  },
+  {
+    "title": "Meteor Blast",
+    "artist": "Rancho Bizzarro",
+    "isrc": "USA2P2311976"
+  },
+  {
+    "title": "Cosmo",
+    "artist": "Dustrider",
+    "isrc": "USQY51745829"
+  },
+  {
+    "title": "Cactus Bloom",
+    "artist": "El Rojo",
+    "isrc": "ITCG52017007"
+  },
+  {
+    "title": "Germanium Run",
+    "artist": "Void Generator",
+    "isrc": "usdy41937213"
+  },
+  {
+    "title": "Horizons",
+    "artist": "Psychedelic Witchcraft",
+    "isrc": "FR1PP1700770"
+  },
+  {
+    "title": "Emersion of the Islands",
+    "artist": "Lento",
+    "isrc": "ITCL40700405"
+  },
+  {
+    "title": "I Got Time",
+    "artist": "OJM",
+    "isrc": "FR6V80906217"
+  },
+  {
+    "title": "Ratking",
+    "artist": "The Ossuary",
+    "isrc": "DEHW42109701"
+  },
+  {
+    "title": "Hashish",
+    "artist": "Fvzz Popvli",
+    "isrc": "ITM461700126"
+  },
+  {
+    "title": "Lonely Devil",
+    "artist": "Doctor Cyclops",
+    "isrc": "ITM461700049"
+  },
+  {
+    "title": "Old Rats",
+    "artist": "Prehistoric Pigs",
+    "isrc": "FRX762164901"
+  },
+  {
+    "title": "Wisdom of Doom",
+    "artist": "Void of Sleep",
+    "isrc": "ITJ351301152"
+  },
+  {
+    "title": "Uomo fa cibo",
+    "artist": "Liquido Di Morte",
+    "isrc": "ushm91974863"
+  },
+  {
+    "title": "The Raven",
+    "artist": "Doomraiser",
+    "isrc": "FR6V80430226"
+  },
+  {
+    "title": "21 June",
+    "artist": "Raikinas",
+    "isrc": "usdy41828537"
+  },
+  {
+    "title": "Giardini Di Plastica",
+    "artist": "Varego",
+    "isrc": "QZWFQ2393608"
+  },
+  {
+    "title": "Black River Mill",
+    "artist": "Space Paranoids",
+    "isrc": "ITCG52306003"
+  },
+  {
+    "title": "Rebel",
+    "artist": "Mutonia",
+    "isrc": "ITB002101124"
+  },
+  {
+    "title": "THC",
+    "artist": "Mondo Naif",
+    "isrc": "FR26V1501285"
+  },
+  {
+    "title": "Like a Seashell",
+    "artist": "Elevators To The Grateful Sky",
+    "isrc": "QM6N21982985"
+  },
+  {
+    "title": "Kim",
+    "artist": "Sherpa",
+    "isrc": "DEAR41821790"
+  },
+  {
+    "title": "Tsunami Dust",
+    "artist": "Zippo",
+    "isrc": "QM2PV1817601"
+  },
+  {
+    "title": "Liquid Eternity",
+    "artist": "Rama",
+    "isrc": "TCACN1653340"
+  },
+  {
+    "title": "We Are Nowhere",
+    "artist": "Veuve",
+    "isrc": "FR26V1647724"
+  },
+  {
+    "title": "Odessa",
+    "artist": "Anuseye",
+    "isrc": "DGA072316007"
+  },
+  {
+    "title": "Dead Head Bone Blues",
+    "artist": "Cross Highest Trip",
+    "isrc": "TCACL1682445"
+  },
+  {
+    "title": "Apocalipse Begins",
+    "artist": "Desert Wizards",
+    "isrc": "FR6V81170730"
+  },
+  {
+    "title": "rAmen",
+    "artist": "Duocane",
+    "isrc": "QZFZ32483690"
+  },
+  {
+    "title": "Supavacuum Cleaner and the Atomic Mushrooms Eaters",
+    "artist": "E.X.P.",
+    "isrc": "FR2X41439356"
+  },
+  {
+    "title": "Adam Bomb",
+    "artist": "El Thule",
+    "isrc": "FR6V80778285"
+  },
+  {
+    "title": "Everytime",
+    "artist": "Favequaid",
+    "isrc": "USY251707552"
+  },
+  {
+    "title": "Going Slow",
+    "artist": "Gandhi's Gunn",
+    "isrc": "uscgh1170103"
+  },
+  {
+    "title": "Boogie Mouse",
+    "artist": "HERBA MATE",
+    "isrc": "ITM032400014"
+  },
+  {
+    "title": "Ghost Wolf",
+    "artist": "Hyperwülff",
+    "isrc": "QZDA41884183"
+  },
+  {
+    "title": "Dharma",
+    "artist": "Indivia",
+    "isrc": "USA2P1681173"
+  },
+  {
+    "title": "Divine Breath",
+    "artist": "Insider",
+    "isrc": "FR6V80764291"
+  },
+  {
+    "title": "Baby I Wanna Fuck You so Hard",
+    "artist": "Jack & Jin",
+    "isrc": "FRX201564663"
+  },
+  {
+    "title": "Crazy Lady",
+    "artist": "Johnfish Sparkle",
+    "isrc": "SEWXU1101110"
+  },
+  {
+    "title": "Absolution",
+    "artist": "Kavod",
+    "isrc": "QZES61961754"
+  },
+  {
+    "title": "We'll Smoke The Monster Out",
+    "artist": "King Bong",
+    "isrc": "FI5CK1601770"
+  },
+  {
+    "title": "Lies Are The Stars",
+    "artist": "Love In Elevator",
+    "isrc": "SE6A91892953"
+  },
+  {
+    "title": "Vespucci",
+    "artist": "Mexican Chili Funeral Party",
+    "isrc": "ITN581700046"
+  },
+  {
+    "title": "Carnival of Souls",
+    "artist": "Monolithic Elephant",
+    "isrc": "TCADK1765172"
+  },
+  {
+    "title": "La Custre",
+    "artist": "Muschio",
+    "isrc": "USA2P1640221"
+  },
+  {
+    "title": "Waterwall",
+    "artist": "Nagual",
+    "isrc": "ITNCE2403008"
+  },
+  {
+    "title": "Povero Diavolo",
+    "artist": "Pater Nembrot",
+    "isrc": "FR6V80905747"
+  },
+  {
+    "title": "Where Once Was Light",
+    "artist": "Red Sun",
+    "isrc": "ITM462400061"
+  },
+  {
+    "title": "Radiance",
+    "artist": "Rosàrio",
+    "isrc": "FR96X1608526"
+  },
+  {
+    "title": "Monsters",
+    "artist": "Satori Junk",
+    "isrc": "ushm81643632"
+  },
+  {
+    "title": "Stone Rider",
+    "artist": "Solar Mantra",
+    "isrc": "USA2P2124763"
+  },
+  {
+    "title": "Space Goat",
+    "artist": "Stonewood",
+    "isrc": "FR10S1906653"
+  },
+  {
+    "title": "Capricorn",
+    "artist": "Temple of Dust",
+    "isrc": "ushm91434868"
+  },
+  {
+    "title": "Under Antares Light (Monolith Mix 2023)",
+    "artist": "Teverts",
+    "isrc": "ITCG52323003"
+  },
+  {
+    "title": "Natural Extinctions",
+    "artist": "The Haunting Green",
+    "isrc": "uscgh1984269"
+  },
+  {
+    "title": "Arpeggio",
+    "artist": "The Weakest Baboons",
+    "isrc": "FRX201709020"
+  },
+  {
+    "title": "Onlooker",
+    "artist": "Treehorn",
+    "isrc": "usl4q1951991"
+  },
+  {
+    "title": "My Brother the Godhead",
+    "artist": "Veracrash",
+    "isrc": "TCACZ1786467"
+  },
+  {
+    "title": "I'm The Light",
+    "artist": "Vortice Cremisi",
+    "isrc": "DEBL61042356"
+  },
+  {
+    "title": "Master Rocket Power Blast",
+    "artist": "Black Rainbows",
+    "isrc": "ITM462000056"
+  },
+  {
+    "title": "Roots",
+    "artist": "Mr. Bison",
+    "isrc": "ITM461800086"
+  },
+  {
+    "title": "Summertime",
+    "artist": "Killer Boogie",
+    "isrc": "FRX201557529"
+  },
+  {
+    "title": "Humulus",
+    "artist": "Humulus",
+    "isrc": "FR2X41991905"
+  },
+  {
+    "title": "Leeched",
+    "artist": "Ufomammut",
+    "isrc": "US4JA2412905"
+  },
+  {
+    "title": "Cosmic Blues For Solitary Moose",
+    "artist": "Black Elephant",
+    "isrc": "US22K1817106"
+  },
+  {
+    "title": "The Throne",
+    "artist": "Kayleth",
+    "isrc": "USA2P2424854"
+  },
+  {
+    "title": "In Your Waters",
+    "artist": "Gorilla Pulp",
+    "isrc": "usdy41831032"
+  },
+  {
+    "title": "Canyon Moon",
+    "artist": "Giobia",
+    "isrc": "ITM462100132"
+  },
+  {
+    "title": "Crisis",
+    "artist": "Isaak",
+    "isrc": "ITM462400045"
+  },
+  {
+    "title": "The Calm and the Storm",
+    "artist": "Da Captain Trips",
+    "isrc": "uscgj1766122"
+  },
+  {
+    "title": "A Hash Day's Night",
+    "artist": "Tons",
+    "isrc": "ITM462200261"
+  },
+  {
+    "title": "Mahana",
+    "artist": "Lee Van Cleef",
+    "isrc": "GBSMU6105829"
+  },
+  {
+    "title": "Ziqqurat",
+    "artist": "Elepharmers",
+    "isrc": "TCAEC1985873"
+  },
+  {
+    "title": "Yellow Crocodile",
+    "artist": "Atomic Mold",
+    "isrc": "uscgj1859258"
+  },
+  {
+    "title": "Naked God",
+    "artist": "Otehi",
+    "isrc": "SEYOK2300961"
+  },
+  {
+    "title": "The Electric Resolution",
+    "artist": "L'Ira del Baccano",
+    "isrc": "ITM462300066"
+  },
+  {
+    "title": "Slow Burn",
+    "artist": "Tuna de Tierra",
+    "isrc": "USQY51759837"
+  },
+  {
+    "title": "Il momento in cui non penso",
+    "artist": "UltraCombo",
+    "isrc": "QZHN51918139"
+  },
+  {
+    "title": "Malevolent",
+    "artist": "Haunted",
+    "isrc": "USY252335520"
+  },
+  {
+    "title": "Cursed Invader",
+    "artist": "La Morte Viene Dallo Spazio",
+    "isrc": "QMFMF2012078"
+  },
+  {
+    "title": "Motor peach",
+    "artist": "Deadpeach",
+    "isrc": "QZWFL2361066"
+  },
+  {
+    "title": "King of the Van",
+    "artist": "Rancho Bizzarro",
+    "isrc": "USA2P1928327"
+  },
+  {
+    "title": "Ultima IV",
+    "artist": "Dustrider",
+    "isrc": "USQY51745835"
+  },
+  {
+    "title": "Ascension",
+    "artist": "El Rojo",
+    "isrc": "ITCG52017005"
+  },
+  {
+    "title": "The Dark Side of the Doom",
+    "artist": "Void Generator",
+    "isrc": "usdy41937214"
+  },
+  {
+    "title": "Hymn",
+    "artist": "Lento",
+    "isrc": "DEZ651109899"
+  },
+  {
+    "title": "2012 - Remastered",
+    "artist": "OJM",
+    "isrc": "FR10S2149631"
+  },
+  {
+    "title": "A. Creature",
+    "artist": "Psychedelic Witchcraft",
+    "isrc": "FR2X41636419"
+  },
+  {
+    "title": "Serpent Magic",
+    "artist": "The Ossuary",
+    "isrc": "DEHW42109703"
+  },
+  {
+    "title": "Kvng Fvzz",
+    "artist": "Fvzz Popvli",
+    "isrc": "ITF3E2100050"
+  },
+  {
+    "title": "My Revolution",
+    "artist": "Doctor Cyclops",
+    "isrc": "DEC831200240"
+  },
+  {
+    "title": "The Fourth Moon",
+    "artist": "Prehistoric Pigs",
+    "isrc": "FRX762150685"
+  },
+  {
+    "title": "Lost in the Void",
+    "artist": "Void of Sleep",
+    "isrc": "ITJ351301154"
+  },
+  {
+    "title": "Strateron 2323",
+    "artist": "Liquido Di Morte",
+    "isrc": "ushm91974864"
+  },
+  {
+    "title": "Chimera",
+    "artist": "Doomraiser",
+    "isrc": "ITM461900306"
+  },
+  {
+    "title": "Klepsydra",
+    "artist": "Raikinas",
+    "isrc": "usdy41828532"
+  },
+  {
+    "title": "Raptus (Un passo e muori)",
+    "artist": "Varego",
+    "isrc": "QZHN52186753"
+  },
+  {
+    "title": "Collardente",
+    "artist": "Space Paranoids",
+    "isrc": "ITCG52306005"
+  },
+  {
+    "title": "BABY",
+    "artist": "Mutonia",
+    "isrc": "ITH502338002"
+  },
+  {
+    "title": "Verve",
+    "artist": "Mondo Naif",
+    "isrc": "FR26V1501288"
+  },
+  {
+    "title": "Ridernaut",
+    "artist": "Elevators To The Grateful Sky",
+    "isrc": "SEWXU1302801"
+  },
+  {
+    "title": "Creatures from Ur",
+    "artist": "Sherpa",
+    "isrc": "DEAR41815363"
+  },
+  {
+    "title": "Ask Yourself a Question",
+    "artist": "Zippo",
+    "isrc": "QZB4J1882630"
+  },
+  {
+    "title": "Magnetic Wind",
+    "artist": "Rama",
+    "isrc": "TCACN1655717"
+  },
+  {
+    "title": "Taste of Mud",
+    "artist": "Veuve",
+    "isrc": "USA2P1919025"
+  },
+  {
+    "title": "Churchofchrist",
+    "artist": "Anuseye",
+    "isrc": "DGA072316009"
+  },
+  {
+    "title": "Time Travel",
+    "artist": "Cross Highest Trip",
+    "isrc": "TCACL1682434"
+  },
+  {
+    "title": "Last Call to Saturn",
+    "artist": "Desert Wizards",
+    "isrc": "FR6V81170738"
+  },
+  {
+    "title": "Poi si pensa",
+    "artist": "Duocane",
+    "isrc": "QZWFN2351287"
+  },
+  {
+    "title": "Sex, Beatific Night, Magma Mother Lights",
+    "artist": "E.X.P.",
+    "isrc": "FR2X41439359"
+  },
+  {
+    "title": "Bud Orange",
+    "artist": "El Thule",
+    "isrc": "FR6V80778286"
+  },
+  {
+    "title": "Hypochondria EAG",
+    "artist": "Favequaid",
+    "isrc": "USY251707553"
+  },
+  {
+    "title": "Overhanging Rock",
+    "artist": "Gandhi's Gunn",
+    "isrc": "uscgh1170102"
+  },
+  {
+    "title": "Aragosta vs Panther",
+    "artist": "HERBA MATE",
+    "isrc": "GBMJG1701854"
+  },
+  {
+    "title": "At Midnight You Cry",
+    "artist": "Black Rainbows",
+    "isrc": "ITM462000051"
+  },
+  {
+    "title": "Earth Breath",
+    "artist": "Mr. Bison",
+    "isrc": "ITM461800089"
+  },
+  {
+    "title": "Dino-Sour",
+    "artist": "Killer Boogie",
+    "isrc": "ITM461800107"
+  },
+  {
+    "title": "Buried by Tree",
+    "artist": "Humulus",
+    "isrc": "TCAHJ2374782"
+  },
+  {
+    "title": "Spidher",
+    "artist": "Ufomammut",
+    "isrc": "US4JA2412903"
+  },
+  {
+    "title": "Giants’ March",
+    "artist": "Kayleth",
+    "isrc": "USA2P2424855"
+  },
+  {
+    "title": "Helter Skelter",
+    "artist": "Black Elephant",
+    "isrc": "US22K1817102"
+  },
+  {
+    "title": "Peyote Queen",
+    "artist": "Gorilla Pulp",
+    "isrc": "FR26V1635201"
+  },
+  {
+    "title": "Queen of Wands",
+    "artist": "Giobia",
+    "isrc": "ITM462300000"
+  },
+  {
+    "title": "Hey",
+    "artist": "Isaak",
+    "isrc": "ITM462200315"
+  },
+  {
+    "title": "Oceans: Air and Water Form",
+    "artist": "Da Captain Trips",
+    "isrc": "usdy42206831"
+  },
+  {
+    "title": "Dope Dealer Scum",
+    "artist": "Tons",
+    "isrc": "ITM462200260"
+  },
+  {
+    "title": "Hell Malo",
+    "artist": "Lee Van Cleef",
+    "isrc": "GBSMU6105828"
+  },
+  {
+    "title": "Dragonfly Pilot",
+    "artist": "Elepharmers",
+    "isrc": "FR96X2098674"
+  },
+  {
+    "title": "Night Rider",
+    "artist": "Atomic Mold",
+    "isrc": "ushm92166571"
+  },
+  {
+    "title": "Verbena",
+    "artist": "Otehi",
+    "isrc": "SEYOK2300959"
+  },
+  {
+    "title": "Paradox Hourglass Pt. 2: No Razor for Occam",
+    "artist": "L'Ira del Baccano",
+    "isrc": "FR59R1789245"
+  },
+  {
+    "title": "Laguna",
+    "artist": "Tuna de Tierra",
+    "isrc": "USQY51759842"
+  },
+  {
+    "title": "12345",
+    "artist": "UltraCombo",
+    "isrc": "QZHNA2244691"
+  },
+  {
+    "title": "Garden Of Evil",
+    "artist": "Haunted",
+    "isrc": "USY252335518"
+  },
+  {
+    "title": "Zombies of the Stratosphere",
+    "artist": "La Morte Viene Dallo Spazio",
+    "isrc": "QZB4J1895159"
+  },
+  {
+    "title": "Man on the hill",
+    "artist": "Deadpeach",
+    "isrc": "QZWFL2361067"
+  },
+  {
+    "title": "Yo Man",
+    "artist": "Rancho Bizzarro",
+    "isrc": "USQY51763496"
+  },
+  {
+    "title": "Fallout Criminal",
+    "artist": "Dustrider",
+    "isrc": "USQY51745831"
+  },
+  {
+    "title": "Pontiac",
+    "artist": "El Rojo",
+    "isrc": "CH6541828548"
+  },
+  {
+    "title": "40 Kiloparsecs",
+    "artist": "Void Generator",
+    "isrc": "ushm21749457"
+  },
+  {
+    "title": "Hadrons",
+    "artist": "Lento",
+    "isrc": "ITCL40700401"
+  },
+  {
+    "title": "Stoned love",
+    "artist": "OJM",
+    "isrc": "DET530001126"
+  }
+]

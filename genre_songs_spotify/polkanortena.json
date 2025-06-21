@@ -1,0 +1,512 @@
+[
+  {
+    "title": "El Mesquiton",
+    "artist": "Los Hermanos Cardenas",
+    "isrc": "QZS1Z1643425"
+  },
+  {
+    "title": "La Y Griega",
+    "artist": "Chencho Herrera y su Conjunto",
+    "isrc": "QZS1Z1643865"
+  },
+  {
+    "title": "El Pávido Návido",
+    "artist": "Rogelio Gutierrez Y Los Clarinetes De Linares",
+    "isrc": "US3DF1424758"
+  },
+  {
+    "title": "Valle Hermoso",
+    "artist": "Dueto Carta Blanca",
+    "isrc": "FR2X41556590"
+  },
+  {
+    "title": "Esthela",
+    "artist": "Hermanos Cardenas",
+    "isrc": "QM6N21850636"
+  },
+  {
+    "title": "El pavido navido",
+    "artist": "Rogelio Gutierrez",
+    "isrc": "USDHM1317906"
+  },
+  {
+    "title": "Los Jacalitos",
+    "artist": "El Flaco Sandoval Y Los 4 Texanos",
+    "isrc": "QM6DC1525651"
+  },
+  {
+    "title": "Corazón de Texas",
+    "artist": "Los Coyotes De Rio Bravo",
+    "isrc": "FR2X41539024"
+  },
+  {
+    "title": "Llegando a Teran",
+    "artist": "Los Dos De Teran",
+    "isrc": "USJTQ0904255"
+  },
+  {
+    "title": "El Barrilito",
+    "artist": "Los Montanes Del Alamo",
+    "isrc": "QM6DC1664137"
+  },
+  {
+    "title": "La Caprichosa",
+    "artist": "Chencho Cardenas",
+    "isrc": "QM6N21899819"
+  },
+  {
+    "title": "Corazón De Texas",
+    "artist": "Los Montaneses Del Alamo",
+    "isrc": "MXF061000180"
+  },
+  {
+    "title": "Monterrey en Polka",
+    "artist": "Los Hermanos Prado",
+    "isrc": "MX2620283130"
+  },
+  {
+    "title": "La Cápsula",
+    "artist": "Lalo Garcia Y Su Conjunto",
+    "isrc": "MXF146500004"
+  },
+  {
+    "title": "Viva Linares",
+    "artist": "Los Clarinetes de Linares",
+    "isrc": "MXD781903554"
+  },
+  {
+    "title": "El Pajuelazo",
+    "artist": "Nortenos de Rio Bravo",
+    "isrc": "TCADG1757975"
+  },
+  {
+    "title": "Pasos Cortos",
+    "artist": "Juan López",
+    "isrc": "USAP39340715"
+  },
+  {
+    "title": "Arriba Torreon",
+    "artist": "Hnos. Banda de Salamanca",
+    "isrc": "uscgh1590972"
+  },
+  {
+    "title": "maria bonita",
+    "artist": "pilo y sus monarcas",
+    "isrc": "USPWN1300147"
+  },
+  {
+    "title": "Los Coconitos",
+    "artist": "Conjuntos Linares",
+    "isrc": "QZDQH1813171"
+  },
+  {
+    "title": "Ruedas (Remasterizado 2019)",
+    "artist": "Rogelio Gutiérrez y Su Conjunto",
+    "isrc": "USDHM1905610"
+  },
+  {
+    "title": "La Loca",
+    "artist": "Andres Pedraza",
+    "isrc": "QZS1Z1643012"
+  },
+  {
+    "title": "Josefita",
+    "artist": "Hermanos Flores",
+    "isrc": "QZFZ32064945"
+  },
+  {
+    "title": "Monterrey",
+    "artist": "Gustavo Siordia",
+    "isrc": "QM4TW1793044"
+  },
+  {
+    "title": "Asi Se Baila en Laredo - 2020 Remasterizado",
+    "artist": "Los Norteños De Nuevo Laredo",
+    "isrc": "USDHM2028380"
+  },
+  {
+    "title": "La Bola",
+    "artist": "Los Rancheros del Norte",
+    "isrc": "US4XG0409562"
+  },
+  {
+    "title": "La Evangelina",
+    "artist": "Los Gavilanes Del Norte",
+    "isrc": "QM4TX2423089"
+  },
+  {
+    "title": "Rosa Ana",
+    "artist": "Frutty Villarreal",
+    "isrc": "USLZJ1757574"
+  },
+  {
+    "title": "El naranjo",
+    "artist": "Antonio Tanguma",
+    "isrc": "MXF160201903"
+  },
+  {
+    "title": "Muchachos Alegres",
+    "artist": "Narciso Martinez",
+    "isrc": "USAP39336101"
+  },
+  {
+    "title": "El Cerro de la Silla",
+    "artist": "Antonio Tanguma Jr.",
+    "isrc": "QM6P41868807"
+  },
+  {
+    "title": "Luz y Sombra",
+    "artist": "Esencias",
+    "isrc": "ushm91364450"
+  },
+  {
+    "title": "El Brinquito",
+    "artist": "Los Tamborileros De Linares",
+    "isrc": "QZDQH1819737"
+  },
+  {
+    "title": "Tampico Hermoso",
+    "artist": "Tony De La Rosa",
+    "isrc": "US2Y30632266"
+  },
+  {
+    "title": "El potrillo",
+    "artist": "Desafio Norteño",
+    "isrc": "QZDA82241907"
+  },
+  {
+    "title": "Evagelina",
+    "artist": "Polkas Famosas",
+    "isrc": "CA5KR1710657"
+  },
+  {
+    "title": "El Cerro de las Abejas",
+    "artist": "Polka Cero",
+    "isrc": "ushm21630120"
+  },
+  {
+    "title": "Mexico en Polka",
+    "artist": "Polkas Con Mariachi",
+    "isrc": "FR6V81418094"
+  },
+  {
+    "title": "Silverio Perez",
+    "artist": "Mariachi México de Pepe Villa",
+    "isrc": "GBSMU3854525"
+  },
+  {
+    "title": "Hasta La Vista",
+    "artist": "Flaco Jimenez",
+    "isrc": "USZUP1010394"
+  },
+  {
+    "title": "La Polka de Moterrey",
+    "artist": "Polkas Famosas",
+    "isrc": "QM6DC1667093"
+  },
+  {
+    "title": "Mi Favorita",
+    "artist": "Paulino Bernal",
+    "isrc": "QM6DC1556804"
+  },
+  {
+    "title": "Patito Patito",
+    "artist": "Los Caminantes de Monterrey",
+    "isrc": "QMFME1460777"
+  },
+  {
+    "title": "Pajaro Campana",
+    "artist": "Los Cuatro Ases",
+    "isrc": "QMFME1460770"
+  },
+  {
+    "title": "La Bola",
+    "artist": "Rogelio Y Macario",
+    "isrc": "QZGLM1993511"
+  },
+  {
+    "title": "Nuevo Laredo",
+    "artist": "Los Alegres Norteños",
+    "isrc": "CA5KR1709212"
+  },
+  {
+    "title": "Corazón de Texas",
+    "artist": "Los Hnos. Banda",
+    "isrc": "US7VG2150816"
+  },
+  {
+    "title": "El Revolcadero",
+    "artist": "Los Montanese Del Alamo",
+    "isrc": "MXF144900060"
+  },
+  {
+    "title": "El Niño Perdido",
+    "artist": "Los Sonidos Del Norte",
+    "isrc": "MXD781904539"
+  },
+  {
+    "title": "Concha (Puras Polkas) (Instrumental)",
+    "artist": "Socorro Lopez",
+    "isrc": "US4XG0410362"
+  },
+  {
+    "title": "El Copeton",
+    "artist": "Los Hermanos Cardenas",
+    "isrc": "QZS1Z1626492"
+  },
+  {
+    "title": "El Crucero del Coyote",
+    "artist": "Chencho Herrera y su Conjunto",
+    "isrc": "QZS1Z1643867"
+  },
+  {
+    "title": "Jesucita En Chihuahua",
+    "artist": "Rogelio Gutierrez Y Los Clarinetes De Linares",
+    "isrc": "US3DF1424764"
+  },
+  {
+    "title": "Angelita",
+    "artist": "Hermanos Cardenas",
+    "isrc": "QM6N21850637"
+  },
+  {
+    "title": "Río Conchos",
+    "artist": "Dueto Carta Blanca",
+    "isrc": "FR2X41556589"
+  },
+  {
+    "title": "Ruedas",
+    "artist": "Rogelio Gutierrez",
+    "isrc": "QZDQH2003969"
+  },
+  {
+    "title": "Robestan",
+    "artist": "El Flaco Sandoval Y Los 4 Texanos",
+    "isrc": "QM6DC1525660"
+  },
+  {
+    "title": "Polka Monterrey",
+    "artist": "Los Coyotes De Rio Bravo",
+    "isrc": "FR2X41539036"
+  },
+  {
+    "title": "El Cerrito",
+    "artist": "Los Dos De Teran",
+    "isrc": "USJTQ0904253"
+  },
+  {
+    "title": "La Popular",
+    "artist": "Chencho Cardenas",
+    "isrc": "QM6N21899810"
+  },
+  {
+    "title": "El Cerro De La Cilla",
+    "artist": "Los Montanes Del Alamo",
+    "isrc": "QM6DC1664149"
+  },
+  {
+    "title": "El Gallito",
+    "artist": "Los Montaneses Del Alamo",
+    "isrc": "MXF367724289"
+  },
+  {
+    "title": "El Circo",
+    "artist": "Los Hermanos Prado",
+    "isrc": "MX2620283122"
+  },
+  {
+    "title": "La Cacahuata",
+    "artist": "Lalo Garcia Y Su Conjunto",
+    "isrc": "MXF146500005"
+  },
+  {
+    "title": "La Cápsula",
+    "artist": "Los Clarinetes de Linares",
+    "isrc": "MXD781903557"
+  },
+  {
+    "title": "Nona",
+    "artist": "Juan López",
+    "isrc": "USAP39790509"
+  },
+  {
+    "title": "El Tamatan",
+    "artist": "Nortenos de Rio Bravo",
+    "isrc": "TCADG1758447"
+  },
+  {
+    "title": "jesusita en chihuahua",
+    "artist": "pilo y sus monarcas",
+    "isrc": "USPWN1300151"
+  },
+  {
+    "title": "El Naranjo",
+    "artist": "Hnos. Banda de Salamanca",
+    "isrc": "uscgh1590969"
+  },
+  {
+    "title": "Los Coconitos (Remasterizado 2019)",
+    "artist": "Rogelio Gutiérrez y Su Conjunto",
+    "isrc": "USDHM1905614"
+  },
+  {
+    "title": "El Cerro De La Silla",
+    "artist": "Conjuntos Linares, Juan Torres",
+    "isrc": "QZDQH1813099"
+  },
+  {
+    "title": "Las Tres Huastecas",
+    "artist": "Andres Pedraza",
+    "isrc": "QZS1Z1642898"
+  },
+  {
+    "title": "Aurora",
+    "artist": "Hermanos Flores",
+    "isrc": "QZFZ32064940"
+  },
+  {
+    "title": "Entrenle en Ayunas",
+    "artist": "Gustavo Siordia",
+    "isrc": "QM4TW1793035"
+  },
+  {
+    "title": "Lindas Mexicanas - 2020 Remasterizado",
+    "artist": "Los Norteños De Nuevo Laredo",
+    "isrc": "USDHM2028377"
+  },
+  {
+    "title": "Marfa (Instrumental)",
+    "artist": "Los Rancheros del Norte",
+    "isrc": "US4XG0410604"
+  },
+  {
+    "title": "El Suba Y Baja",
+    "artist": "Los Gavilanes Del Norte",
+    "isrc": "QM4TX2423084"
+  },
+  {
+    "title": "Labios De Coral",
+    "artist": "Frutty Villarreal",
+    "isrc": "USLZJ1757578"
+  },
+  {
+    "title": "Puro norte, sí señor",
+    "artist": "Antonio Tanguma",
+    "isrc": "MXF160600103"
+  },
+  {
+    "title": "La Chicharonera",
+    "artist": "Narciso Martinez",
+    "isrc": "USAP39790502"
+  },
+  {
+    "title": "La Leona",
+    "artist": "Antonio Tanguma Jr.",
+    "isrc": "USA560757544"
+  },
+  {
+    "title": "El Naranjo",
+    "artist": "Los Tamborileros De Linares",
+    "isrc": "QZDQH1819728"
+  },
+  {
+    "title": "Santa Rita",
+    "artist": "Esencias",
+    "isrc": "ushm91364442"
+  },
+  {
+    "title": "Olaya",
+    "artist": "Tony De La Rosa",
+    "isrc": "QM6DC1556814"
+  },
+  {
+    "title": "Gatos Gueros",
+    "artist": "Chencho Herrera y su Conjunto",
+    "isrc": "QZS1Z1643866"
+  },
+  {
+    "title": "El Senderito",
+    "artist": "Los Hermanos Cardenas",
+    "isrc": "QM6N21850799"
+  },
+  {
+    "title": "Viva Ramones",
+    "artist": "Rogelio Gutierrez Y Los Clarinetes De Linares",
+    "isrc": "US3DF1424795"
+  },
+  {
+    "title": "Marfa",
+    "artist": "Hermanos Cardenas",
+    "isrc": "QM6N21850642"
+  },
+  {
+    "title": "Nuevo Progreso",
+    "artist": "Dueto Carta Blanca",
+    "isrc": "FR2X41556586"
+  },
+  {
+    "title": "Tamatán",
+    "artist": "Rogelio Gutierrez",
+    "isrc": "USDHM1711410"
+  },
+  {
+    "title": "Ni Fu Ni Fa",
+    "artist": "El Flaco Sandoval Y Los 4 Texanos",
+    "isrc": "QM6DC1525647"
+  },
+  {
+    "title": "Llegando a Reynosa",
+    "artist": "Los Coyotes De Rio Bravo",
+    "isrc": "FR2X41539025"
+  },
+  {
+    "title": "La Pelota",
+    "artist": "Los Dos De Teran",
+    "isrc": "USJTQ0904251"
+  },
+  {
+    "title": "Gloria",
+    "artist": "Chencho Cardenas",
+    "isrc": "QM6N21899813"
+  },
+  {
+    "title": "Así Se Baila En El Rancho",
+    "artist": "Los Montanes Del Alamo",
+    "isrc": "QM6DC1664132"
+  },
+  {
+    "title": "El Cerro de la Silla",
+    "artist": "Los Montaneses Del Alamo",
+    "isrc": "QMBZ91719083"
+  },
+  {
+    "title": "La Cápsula",
+    "artist": "Los Hermanos Prado",
+    "isrc": "QMBZ91768553"
+  },
+  {
+    "title": "Café de Roma",
+    "artist": "Lalo Garcia Y Su Conjunto",
+    "isrc": "MXF146500241"
+  },
+  {
+    "title": "Brinquitos",
+    "artist": "Los Clarinetes de Linares",
+    "isrc": "USDHM1524437"
+  },
+  {
+    "title": "La Pluma",
+    "artist": "Juan López",
+    "isrc": "USAP39340705"
+  },
+  {
+    "title": "El Circo",
+    "artist": "Nortenos de Rio Bravo",
+    "isrc": "TCADG1758442"
+  },
+  {
+    "title": "viva seguin",
+    "artist": "pilo y sus monarcas",
+    "isrc": "USPWN1300149"
+  }
+]

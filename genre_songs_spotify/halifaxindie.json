@@ -1,0 +1,822 @@
+[
+  {
+    "title": "Cocaine Cowgirl",
+    "artist": "Matt Mays, El Torpedo",
+    "isrc": "CASA10400027"
+  },
+  {
+    "title": "From the Back of the Film",
+    "artist": "Thrush Hermit",
+    "isrc": "CAPA81900001"
+  },
+  {
+    "title": "Scratches",
+    "artist": "Dog Day",
+    "isrc": "CA4TU1100008"
+  },
+  {
+    "title": "Weighty Ghost",
+    "artist": "Wintersleep",
+    "isrc": "CALK50800007"
+  },
+  {
+    "title": "10 Lbs.",
+    "artist": "The Super Friendz",
+    "isrc": "USA6B9703001"
+  },
+  {
+    "title": "Hockey Fights",
+    "artist": "The Town Heroes",
+    "isrc": "CAKPT2400003"
+  },
+  {
+    "title": "The Great Escape",
+    "artist": "Mo Kenney",
+    "isrc": "CAPA81200005"
+  },
+  {
+    "title": "Money City Maniacs",
+    "artist": "Sloan",
+    "isrc": "USKO10407912"
+  },
+  {
+    "title": "Good Measure",
+    "artist": "Beauts",
+    "isrc": "CAINH1900002"
+  },
+  {
+    "title": "Africvillean Funk",
+    "artist": "Aquakultre, Trobiz",
+    "isrc": "CAUJ22200025"
+  },
+  {
+    "title": "Darkest of Discos",
+    "artist": "Slowcoaster",
+    "isrc": "CA38F1000001"
+  },
+  {
+    "title": "Mourning Dove",
+    "artist": "Jon McKiel",
+    "isrc": "CA0LX2000001"
+  },
+  {
+    "title": "Dig",
+    "artist": "Like A Motorcycle",
+    "isrc": "CAVO82400009"
+  },
+  {
+    "title": "Associate",
+    "artist": "Designosaur",
+    "isrc": "QZHN61903602"
+  },
+  {
+    "title": "Black Cloud",
+    "artist": "POSTDATA",
+    "isrc": "CAP431701466"
+  },
+  {
+    "title": "Telephones",
+    "artist": "Mardeen",
+    "isrc": "CAAA20890110"
+  },
+  {
+    "title": "Cool to Who",
+    "artist": "Walrus",
+    "isrc": "CAO371912902"
+  },
+  {
+    "title": "Black Cherries",
+    "artist": "Hello Delaware",
+    "isrc": "ushm21686465"
+  },
+  {
+    "title": "Any Sense of Time",
+    "artist": "The Inbreds",
+    "isrc": "CAU260610025"
+  },
+  {
+    "title": "Rain",
+    "artist": "Crossed Wires",
+    "isrc": "CAH492300012"
+  },
+  {
+    "title": "Yelling In Sleep",
+    "artist": "Rich Aucoin",
+    "isrc": "CA2O51400004"
+  },
+  {
+    "title": "Get High",
+    "artist": "Hillsburn",
+    "isrc": "CAINH2100002"
+  },
+  {
+    "title": "Goodbye",
+    "artist": "Reeny Smith",
+    "isrc": "CAXT61500017"
+  },
+  {
+    "title": "You Won't Be Punished for the Lie",
+    "artist": "Stewart Legere",
+    "isrc": "USHM82362670"
+  },
+  {
+    "title": "It Keeps Me Up",
+    "artist": "Museum Pieces",
+    "isrc": "CABM50500501"
+  },
+  {
+    "title": "Helah",
+    "artist": "Mauno",
+    "isrc": "USHM21723039"
+  },
+  {
+    "title": "Are We Waiting",
+    "artist": "Mike O'Neill",
+    "isrc": "USDY42460260"
+  },
+  {
+    "title": "Thunder",
+    "artist": "Cousins",
+    "isrc": "CASW11200016"
+  },
+  {
+    "title": "In The Heat Of The Fire",
+    "artist": "Arsoniste",
+    "isrc": "CAI372101212"
+  },
+  {
+    "title": "The 80's Runway Model",
+    "artist": "The Jimmy Swift Band",
+    "isrc": "ushm20472456"
+  },
+  {
+    "title": "Feline Wave Race",
+    "artist": "Nap Eyes",
+    "isrc": "QM5L82400004"
+  },
+  {
+    "title": "We Were Here",
+    "artist": "Quiet Parade",
+    "isrc": "CAV7W1500006"
+  },
+  {
+    "title": "Not Happy",
+    "artist": "Jale",
+    "isrc": "USSUB0310453"
+  },
+  {
+    "title": "Whoa",
+    "artist": "Gianna Lauren",
+    "isrc": "CAUJ22000010"
+  },
+  {
+    "title": "Straight Shooter",
+    "artist": "Jody Upshaw",
+    "isrc": "ushm81863694"
+  },
+  {
+    "title": "Gemini",
+    "artist": "Contrived",
+    "isrc": "CAINH2400500"
+  },
+  {
+    "title": "New Wave",
+    "artist": "The Hardship Post",
+    "isrc": "USSUB0310556"
+  },
+  {
+    "title": "Built Sought Destination",
+    "artist": "North of America",
+    "isrc": "DEZ650509531"
+  },
+  {
+    "title": "Every Red Road",
+    "artist": "Al Tuck",
+    "isrc": "CABM50900337"
+  },
+  {
+    "title": "Way Up (BONUS)",
+    "artist": "Quake Matthews, Snak The Ripper",
+    "isrc": "CAM371902543"
+  },
+  {
+    "title": "New Mexico",
+    "artist": "Brian Borcherdt",
+    "isrc": "CAD390401907"
+  },
+  {
+    "title": "Forward",
+    "artist": "Kayo, Nulo",
+    "isrc": "USLD91757755"
+  },
+  {
+    "title": "If You Stay",
+    "artist": "Vogue Dots",
+    "isrc": "CAM371602050"
+  },
+  {
+    "title": "Static",
+    "artist": "Spirit of the Wildfire",
+    "isrc": "CAITU1800001"
+  },
+  {
+    "title": "Octavio",
+    "artist": "Kestrels",
+    "isrc": "QM4TX1769693"
+  },
+  {
+    "title": "Autumn Of The Fighter",
+    "artist": "Heaven For Real, Dorothea Paas",
+    "isrc": "CAMA12219605"
+  },
+  {
+    "title": "Crystal Mountains",
+    "artist": "Sleepless Nights",
+    "isrc": "CAUJ21700077"
+  },
+  {
+    "title": "Mabel",
+    "artist": "Not You",
+    "isrc": "CAO371795101"
+  },
+  {
+    "title": "Out for Treats",
+    "artist": "Ghettosocks",
+    "isrc": "USTCZ0952391"
+  },
+  {
+    "title": "Puppet Creek",
+    "artist": "Monomyth",
+    "isrc": "CAMA11616602"
+  },
+  {
+    "title": "925-5212",
+    "artist": "Loveland",
+    "isrc": "CAM371602235"
+  },
+  {
+    "title": "How It's Always Been",
+    "artist": "Chudi Harris",
+    "isrc": "CAT222280033"
+  },
+  {
+    "title": "Red Lipstick (feat. Aux & Alfie)",
+    "artist": "Jay Mayne, Aux, Alfie",
+    "isrc": "ushm91339214"
+  },
+  {
+    "title": "Mr.Bangbadaboom",
+    "artist": "Thrillah",
+    "isrc": "QZNMZ2265510"
+  },
+  {
+    "title": "If Not Depression, Then What?",
+    "artist": "Special Costello",
+    "isrc": "DEX262100831"
+  },
+  {
+    "title": "Get Out Of My Head",
+    "artist": "Kin Crew",
+    "isrc": "CARFQ2200582"
+  },
+  {
+    "title": "Try Telling That to My Baby",
+    "artist": "The Heavy Blinkers",
+    "isrc": "ushm20492178"
+  },
+  {
+    "title": "Pop Like That",
+    "artist": "Mitchell Bailey",
+    "isrc": "SE6SA2028989"
+  },
+  {
+    "title": "Turn On Me",
+    "artist": "The Superfantastics",
+    "isrc": "uscgj0977838"
+  },
+  {
+    "title": "Down to the River",
+    "artist": "Ben Caplan",
+    "isrc": "CA5KB1101007"
+  },
+  {
+    "title": "Scott Pilgrim",
+    "artist": "Plumtree",
+    "isrc": "cae380400347"
+  },
+  {
+    "title": "Send Your Signals",
+    "artist": "Each Other",
+    "isrc": "USFP71340802"
+  },
+  {
+    "title": "Steady",
+    "artist": "Strongboy",
+    "isrc": "UST8K1719191"
+  },
+  {
+    "title": "Swear to God",
+    "artist": "Famba",
+    "isrc": "CAHUZ1900001"
+  },
+  {
+    "title": "Bring It",
+    "artist": "The Stolen Minks",
+    "isrc": "US4XR0906101"
+  },
+  {
+    "title": "Best Out",
+    "artist": "Baseline",
+    "isrc": "uscgh1857618"
+  },
+  {
+    "title": "Laughlines",
+    "artist": "The Everywheres",
+    "isrc": "FR59R1756165"
+  },
+  {
+    "title": "Money",
+    "artist": "Acres and Acres",
+    "isrc": "ushm90936655"
+  },
+  {
+    "title": "Sigh",
+    "artist": "Down With The Butterfly",
+    "isrc": "uscgh0788724"
+  },
+  {
+    "title": "Kill Scene",
+    "artist": "JOYFULTALK",
+    "isrc": "CACQ21813403"
+  },
+  {
+    "title": "Misery",
+    "artist": "Vulva Culture",
+    "isrc": "ushm81920415"
+  },
+  {
+    "title": "Diamonds on the Moon",
+    "artist": "Corey Isenor",
+    "isrc": "TCACR1672041"
+  },
+  {
+    "title": "Federation Law",
+    "artist": "Fossil Cliffs",
+    "isrc": "TCACO1685449"
+  },
+  {
+    "title": "Sometimes Ya Can",
+    "artist": "Jonahmeltwave",
+    "isrc": "CA6531900024"
+  },
+  {
+    "title": "Bathtime",
+    "artist": "Kurt Inder",
+    "isrc": "QZ4JJ1659319"
+  },
+  {
+    "title": "Company",
+    "artist": "Natalie Lynn",
+    "isrc": "CAF0P1801001"
+  },
+  {
+    "title": "Candles",
+    "artist": "Ominar",
+    "isrc": "QM9AA1503823"
+  },
+  {
+    "title": "We Are Always",
+    "artist": "Sarah Denim",
+    "isrc": "ushm21772558"
+  },
+  {
+    "title": "Sidekick",
+    "artist": "SoHo Ghetto",
+    "isrc": "CA6VL1400002"
+  },
+  {
+    "title": "Highschool",
+    "artist": "The Flashing Lights",
+    "isrc": "CAMS32200522"
+  },
+  {
+    "title": "Focus",
+    "artist": "aRENYE, Nulo",
+    "isrc": "QZSYP2353389"
+  },
+  {
+    "title": "The Day We Hit The Coast",
+    "artist": "Thrush Hermit",
+    "isrc": "CAPA81900004"
+  },
+  {
+    "title": "Concentration",
+    "artist": "Dog Day",
+    "isrc": "CABM51110032"
+  },
+  {
+    "title": "Karate Man",
+    "artist": "The Super Friendz",
+    "isrc": "USA6B9703002"
+  },
+  {
+    "title": "City Of Lakes",
+    "artist": "Matt Mays",
+    "isrc": "CASA10400021"
+  },
+  {
+    "title": "Olden Days",
+    "artist": "The Town Heroes",
+    "isrc": "CAKPT2400002"
+  },
+  {
+    "title": "Amerika",
+    "artist": "Wintersleep",
+    "isrc": "CADE70903020"
+  },
+  {
+    "title": "Telephones",
+    "artist": "Mo Kenney",
+    "isrc": "CAM371401630"
+  },
+  {
+    "title": "The Rest of My Life",
+    "artist": "Sloan",
+    "isrc": "CAV160301771"
+  },
+  {
+    "title": "Cave",
+    "artist": "Beauts",
+    "isrc": "CAINH2200602"
+  },
+  {
+    "title": "Don't Trip",
+    "artist": "Aquakultre",
+    "isrc": "CAUJ22200020"
+  },
+  {
+    "title": "Once in a Big Blue Moon",
+    "artist": "Slowcoaster",
+    "isrc": "TCAEJ1916206"
+  },
+  {
+    "title": "Hex",
+    "artist": "Jon McKiel",
+    "isrc": "CA0LX2300022"
+  },
+  {
+    "title": "Cruel",
+    "artist": "Like A Motorcycle",
+    "isrc": "CAVO82400007"
+  },
+  {
+    "title": "Miss My Love",
+    "artist": "Designosaur",
+    "isrc": "TCADC1781509"
+  },
+  {
+    "title": "Pretty Smart",
+    "artist": "Mardeen",
+    "isrc": "CAAA20890108"
+  },
+  {
+    "title": "Inside Out",
+    "artist": "POSTDATA",
+    "isrc": "CAP432101651"
+  },
+  {
+    "title": "Glam",
+    "artist": "Walrus",
+    "isrc": "CAAA11700309"
+  },
+  {
+    "title": "I Never Asked",
+    "artist": "Hello Delaware",
+    "isrc": "ushm21686468"
+  },
+  {
+    "title": "Looped",
+    "artist": "Crossed Wires",
+    "isrc": "CAH492300011"
+  },
+  {
+    "title": "Reset",
+    "artist": "Rich Aucoin",
+    "isrc": "CADE72001102"
+  },
+  {
+    "title": "You Will Know",
+    "artist": "The Inbreds",
+    "isrc": "CAU260610024"
+  },
+  {
+    "title": "Husha",
+    "artist": "Hillsburn",
+    "isrc": "CAINH2100001"
+  },
+  {
+    "title": "Good Girl Swag",
+    "artist": "Reeny Smith",
+    "isrc": "CAXT61500004"
+  },
+  {
+    "title": "Dig into the Dirt",
+    "artist": "Stewart Legere, Rose Cousins",
+    "isrc": "uscgj1728515"
+  },
+  {
+    "title": "Salesman",
+    "artist": "Museum Pieces",
+    "isrc": "CA6331600005"
+  },
+  {
+    "title": "Benny",
+    "artist": "Mauno",
+    "isrc": "USHM21523026"
+  },
+  {
+    "title": "Henry",
+    "artist": "Mike O'Neill",
+    "isrc": "usdy42320557"
+  },
+  {
+    "title": "Jules",
+    "artist": "Cousins",
+    "isrc": "CASW11200011"
+  },
+  {
+    "title": "Change is a Coming",
+    "artist": "Arsoniste",
+    "isrc": "CAI371721540"
+  },
+  {
+    "title": "Two Hands On The Wheel",
+    "artist": "The Jimmy Swift Band",
+    "isrc": "ushm20472453"
+  },
+  {
+    "title": "Mixer",
+    "artist": "Nap Eyes",
+    "isrc": "QM5L81500065"
+  },
+  {
+    "title": "Teenage Engineering",
+    "artist": "Quiet Parade",
+    "isrc": "CAV7W2000005"
+  },
+  {
+    "title": "Nebulous",
+    "artist": "Jale",
+    "isrc": "USSUB0310454"
+  },
+  {
+    "title": "Disappear",
+    "artist": "Gianna Lauren",
+    "isrc": "CAUJ22000013"
+  },
+  {
+    "title": "Glitter & Gold",
+    "artist": "Jody Upshaw, Shay",
+    "isrc": "ushm81736886"
+  },
+  {
+    "title": "Not A Goodbye",
+    "artist": "Contrived",
+    "isrc": "CAHL40800201"
+  },
+  {
+    "title": "Garbage Truck",
+    "artist": "The Hardship Post",
+    "isrc": "USSUB0310557"
+  },
+  {
+    "title": "Central Port of Equal Times",
+    "artist": "North of America",
+    "isrc": "DEZ650509529"
+  },
+  {
+    "title": "Eliminate Ya",
+    "artist": "Al Tuck",
+    "isrc": "CABM51010052"
+  },
+  {
+    "title": "Motel",
+    "artist": "Brian Borcherdt",
+    "isrc": "CAD390401906"
+  },
+  {
+    "title": "Rain Man",
+    "artist": "Quake Matthews",
+    "isrc": "QZTRX2361300"
+  },
+  {
+    "title": "Way with Silence",
+    "artist": "Vogue Dots",
+    "isrc": "ATD751607702"
+  },
+  {
+    "title": "Relax",
+    "artist": "Kayo, Nulo",
+    "isrc": "USLD91756503"
+  },
+  {
+    "title": "Ski-Mask",
+    "artist": "Spirit of the Wildfire",
+    "isrc": "GX4R52151204"
+  },
+  {
+    "title": "Grey and Blue",
+    "artist": "Kestrels, J Mascis",
+    "isrc": "USA4D2035202"
+  },
+  {
+    "title": "Energy Bar",
+    "artist": "Heaven For Real",
+    "isrc": "CAMA12219704"
+  },
+  {
+    "title": "Greatest Hits",
+    "artist": "Sleepless Nights",
+    "isrc": "TCAEW2031833"
+  },
+  {
+    "title": "Soup",
+    "artist": "Not You",
+    "isrc": "CAO371795103"
+  },
+  {
+    "title": "Read-A-Book",
+    "artist": "Ghettosocks",
+    "isrc": "USTC90902996"
+  },
+  {
+    "title": "Palpitations",
+    "artist": "Monomyth",
+    "isrc": "CAMA11616609"
+  },
+  {
+    "title": "Singing Sand",
+    "artist": "Loveland",
+    "isrc": "QZNWQ2137807"
+  },
+  {
+    "title": "Nobody Moves",
+    "artist": "Chudi Harris",
+    "isrc": "QZANL1753750"
+  },
+  {
+    "title": "Glenwood Life",
+    "artist": "Jay Mayne",
+    "isrc": "ushm91215035"
+  },
+  {
+    "title": "City Back",
+    "artist": "Thrillah",
+    "isrc": "QZNMZ2265501"
+  },
+  {
+    "title": "In Yer Car",
+    "artist": "Special Costello",
+    "isrc": "QZES91856213"
+  },
+  {
+    "title": "North Dakota",
+    "artist": "Thrush Hermit",
+    "isrc": "USEE10000234"
+  },
+  {
+    "title": "Within Reach",
+    "artist": "Dog Day",
+    "isrc": "QZDA42457070"
+  },
+  {
+    "title": "Undertow",
+    "artist": "The Super Friendz",
+    "isrc": "USA6B9703003"
+  },
+  {
+    "title": "Tall Trees",
+    "artist": "Matt Mays, El Torpedo",
+    "isrc": "CASA10800130"
+  },
+  {
+    "title": "In Your Head",
+    "artist": "The Town Heroes",
+    "isrc": "CAKPT2300001"
+  },
+  {
+    "title": "Orca",
+    "artist": "Wintersleep",
+    "isrc": "CASA70607095"
+  },
+  {
+    "title": "Sucker",
+    "artist": "Mo Kenney",
+    "isrc": "CAPA81200002"
+  },
+  {
+    "title": "Ether",
+    "artist": "Beauts",
+    "isrc": "QM2PV1606512"
+  },
+  {
+    "title": "The Good in Everyone",
+    "artist": "Sloan",
+    "isrc": "USKO10407920"
+  },
+  {
+    "title": "I Doubt It",
+    "artist": "Aquakultre",
+    "isrc": "CAKRO1901007"
+  },
+  {
+    "title": "Town",
+    "artist": "Slowcoaster",
+    "isrc": "CA38F1000007"
+  },
+  {
+    "title": "Skin",
+    "artist": "Like A Motorcycle",
+    "isrc": "CAVO82300002"
+  },
+  {
+    "title": "Management",
+    "artist": "Jon McKiel",
+    "isrc": "CA0LX2000003"
+  },
+  {
+    "title": "Colourblind",
+    "artist": "Designosaur",
+    "isrc": "QZHN61903604"
+  },
+  {
+    "title": "Kids",
+    "artist": "Mardeen",
+    "isrc": "CAAA20890101"
+  },
+  {
+    "title": "Paranoid Clusters",
+    "artist": "POSTDATA",
+    "isrc": "CA0L81800004"
+  },
+  {
+    "title": "Half Smoke",
+    "artist": "Walrus",
+    "isrc": "CAO371912903"
+  },
+  {
+    "title": "Holdin' On",
+    "artist": "Hello Delaware",
+    "isrc": "ushm21686467"
+  },
+  {
+    "title": "Jinx",
+    "artist": "Crossed Wires",
+    "isrc": "TCACO1630306"
+  },
+  {
+    "title": "It",
+    "artist": "Rich Aucoin",
+    "isrc": "CASA11000212"
+  },
+  {
+    "title": "North Window",
+    "artist": "The Inbreds",
+    "isrc": "CAU260610036"
+  },
+  {
+    "title": "Run Down",
+    "artist": "Hillsburn",
+    "isrc": "CA1MD1500058"
+  },
+  {
+    "title": "You Got It",
+    "artist": "Reeny Smith",
+    "isrc": "CAXT61500006"
+  },
+  {
+    "title": "Please Say",
+    "artist": "Stewart Legere",
+    "isrc": "uscgj1728517"
+  },
+  {
+    "title": "Hitchhiking with Your Photograph",
+    "artist": "Museum Pieces",
+    "isrc": "CA6331600007"
+  },
+  {
+    "title": "Nothing",
+    "artist": "Mauno",
+    "isrc": "USHM21523022"
+  },
+  {
+    "title": "Nothing Ever Was",
+    "artist": "Mike O'Neill",
+    "isrc": "USDY42460267"
+  },
+  {
+    "title": "Speech",
+    "artist": "Cousins",
+    "isrc": "CASW11200017"
+  }
+]

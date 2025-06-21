@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Gwlad Y Rasta Gwyn",
+    "artist": "Sobin A'R Smaeliaid",
+    "isrc": "GBCFU0500754"
+  },
+  {
+    "title": "Sunshine Dan",
+    "artist": "Mim Twm Llai",
+    "isrc": "GBCFU0500370"
+  },
+  {
+    "title": "Safwn Yn Y Bwlch",
+    "artist": "Hogia'R Wyddfa",
+    "isrc": "GBCFU0300693"
+  },
+  {
+    "title": "Y Cwm",
+    "artist": "Huw Chiswell",
+    "isrc": "GBCFU0500197"
+  },
+  {
+    "title": "Dawns Y Glaw",
+    "artist": "Anweledig",
+    "isrc": "GBCFU0600238"
+  },
+  {
+    "title": "Harbwr Diogel",
+    "artist": "Elin Fflur",
+    "isrc": "GBCFU0200674"
+  },
+  {
+    "title": "Bytholwyrdd",
+    "artist": "Tecwyn Ifan",
+    "isrc": "GBCFU0601371"
+  },
+  {
+    "title": "Ceidwad Y Goleudy",
+    "artist": "Bryn Fôn",
+    "isrc": "GBCFU9900346"
+  },
+  {
+    "title": "Ymlaen Mae Canaan",
+    "artist": "Steve Eaves",
+    "isrc": "GBCFU0700599"
+  },
+  {
+    "title": "Lleucu Llwyd",
+    "artist": "Tebot Piws",
+    "isrc": "GBCFU9900399"
+  },
+  {
+    "title": "Goleuadau Llundain",
+    "artist": "Daniel Lloyd A Mr Pinc",
+    "isrc": "GBHHX0500067"
+  },
+  {
+    "title": "Adre",
+    "artist": "Caryl Parry Jones",
+    "isrc": "GBCFU0400579"
+  },
+  {
+    "title": "Chwarelwr",
+    "artist": "John Ac Alun",
+    "isrc": "GBCFU9900348"
+  },
+  {
+    "title": "Gyrru Ni 'Mlaen",
+    "artist": "Meinir Gwilym, Bwncath",
+    "isrc": "gbflp2300405"
+  },
+  {
+    "title": "Haleliwia",
+    "artist": "Brigyn",
+    "isrc": "GBFLP1900109"
+  },
+  {
+    "title": "Celwydd Golau Ydi Cariad",
+    "artist": "Cowbois Rhos Botwnnog",
+    "isrc": "GBTUR1000019"
+  },
+  {
+    "title": "Trons Dy Dad",
+    "artist": "Gwibdaith Hen Fran",
+    "isrc": "GBHHX0700026"
+  },
+  {
+    "title": "Yma O Hyd",
+    "artist": "Dafydd Iwan, Ar Log",
+    "isrc": "GBCFU9900395"
+  },
+  {
+    "title": "Cerrig yr afon",
+    "artist": "Iwcs A Doyle",
+    "isrc": "GBCFU0600054"
+  },
+  {
+    "title": "Mor O Gariad",
+    "artist": "Meic Stevens",
+    "isrc": "GBCFU0601594"
+  },
+  {
+    "title": "Mi ganaf gân",
+    "artist": "Mynediad Am Ddim",
+    "isrc": "GBCFU9900377"
+  },
+  {
+    "title": "(Disgyn) Amdana Ti",
+    "artist": "Sibrydion",
+    "isrc": "GBHHX0500055"
+  },
+  {
+    "title": "Yma Wyf Finna I Fod",
+    "artist": "Geraint Lovgreen",
+    "isrc": "GBCFU0800309"
+  },
+  {
+    "title": "Bwthyn",
+    "artist": "Derwyddon Dr Gonzo",
+    "isrc": "GBHHX0800011"
+  },
+  {
+    "title": "Ar Noson Fel Hon",
+    "artist": "Cwmni Theatr Maldwyn",
+    "isrc": "GBCFU0000497"
+  },
+  {
+    "title": "Cofion Gorau",
+    "artist": "Tony Ac Aloma",
+    "isrc": "GBCFU1200128"
+  },
+  {
+    "title": "Make a Little Room",
+    "artist": "Al Lewis",
+    "isrc": "GBRPC1300001"
+  },
+  {
+    "title": "Nid Llwynog Oedd Yr Haul",
+    "artist": "Geraint Lovgreen A'R Enw Da",
+    "isrc": "GBCFU0600043"
+  },
+  {
+    "title": "Y Mab Penfelyn",
+    "artist": "Bob Delyn A'R Ebillion",
+    "isrc": "GBCFU1700230"
+  },
+  {
+    "title": "Defaid William Morgan",
+    "artist": "Moniars",
+    "isrc": "GBCFU0602003"
+  },
+  {
+    "title": "Seidir Ddoe",
+    "artist": "Plethyn",
+    "isrc": "GBCFU0300355"
+  },
+  {
+    "title": "Dwynwen",
+    "artist": "Endaf Emlyn",
+    "isrc": "GBCFU0100596"
+  },
+  {
+    "title": "Pontypridd",
+    "artist": "Edward H Dafis",
+    "isrc": "GBCFU0500292"
+  },
+  {
+    "title": "Ffydd Gobaith Cariad",
+    "artist": "Fflur Dafydd",
+    "isrc": "GBHHX1200002"
+  },
+  {
+    "title": "Cân y cŵn",
+    "artist": "Gwyneth Glyn",
+    "isrc": "GBCKG1700154"
+  },
+  {
+    "title": "Defaid William Morgan",
+    "artist": "Hogia Llandegai",
+    "isrc": "GBCFU9900413"
+  },
+  {
+    "title": "Un Dydd Ar Y Tro",
+    "artist": "Trebor Edwards",
+    "isrc": "GBCFU9900380"
+  },
+  {
+    "title": "Ben Rhys",
+    "artist": "Gwilym Bowen Rhys",
+    "isrc": "GBPEF1600423"
+  },
+  {
+    "title": "Pen Llŷn",
+    "artist": "Gai Toms",
+    "isrc": "GBCFU2300090"
+  },
+  {
+    "title": "Dy Garu O Bell",
+    "artist": "Cwmni Theatr Meirion",
+    "isrc": "GBCFU0602591"
+  },
+  {
+    "title": "Anfonaf Angel",
+    "artist": "Rhys Meirion",
+    "isrc": "GBCFU1300090"
+  },
+  {
+    "title": "Dŵr",
+    "artist": "Huw Jones",
+    "isrc": "GBCFU9900396"
+  },
+  {
+    "title": "Mam Wnaeth Got I Mi",
+    "artist": "Dafydd Iwan/Edward",
+    "isrc": "GBCFU0600157"
+  },
+  {
+    "title": "Man Rhydd",
+    "artist": "Ryland Teifi",
+    "isrc": "GBHHX1600048"
+  },
+  {
+    "title": "Merch O Port",
+    "artist": "Neil Rosser",
+    "isrc": "GBCFU0602066"
+  },
+  {
+    "title": "Can Beic Dau",
+    "artist": "Alun Tan Lan",
+    "isrc": "GCHHX0400002"
+  },
+  {
+    "title": "Egwyddorion",
+    "artist": "Dan Amor",
+    "isrc": "GBTWV1800009"
+  },
+  {
+    "title": "Bore Da",
+    "artist": "Euros Childs",
+    "isrc": "GBDNH0600892"
+  },
+  {
+    "title": "Fideo Hud",
+    "artist": "Texas Radio Band",
+    "isrc": "GBHHX0500001"
+  },
+  {
+    "title": "O Gymru",
+    "artist": "Eleri Llwyd",
+    "isrc": "GBCFU0700456"
+  },
+  {
+    "title": "Can Yr Wyddor",
+    "artist": "Steffan Rhys Williams",
+    "isrc": "GBCFU1200050"
+  },
+  {
+    "title": "Ysbryd Y Gael",
+    "artist": "Cor Meibion Llangwm Male Voice Choir",
+    "isrc": "GBCFU0600855"
+  },
+  {
+    "title": "#9 Blackpool Rock",
+    "artist": "Plant Bach Annifyr",
+    "isrc": "SEYOK1107040"
+  },
+  {
+    "title": "Mil Harddach",
+    "artist": "Lleuwen Steffan",
+    "isrc": "GBCFU0500502"
+  },
+  {
+    "title": "Bran I Bob Bran",
+    "artist": "Tara Bethan",
+    "isrc": "GBCFU0500380"
+  },
+  {
+    "title": "Y Cwm",
+    "artist": "Geraint Griffiths",
+    "isrc": "GBCFU0300120"
+  },
+  {
+    "title": "Dagrau'R Glaw",
+    "artist": "Rhian Mair Lewis",
+    "isrc": "GBCFU0500231"
+  },
+  {
+    "title": "Merch O Gaerdydd",
+    "artist": "Rheinallt H. Rowlands",
+    "isrc": "gbcsh9607104"
+  },
+  {
+    "title": "A47 Dim",
+    "artist": "Fflur Dafydd A'R Barf",
+    "isrc": "GBHHX0900107"
+  },
+  {
+    "title": "Tra Bo Dau",
+    "artist": "Gwilym Morus",
+    "isrc": "GBHHX0600005"
+  },
+  {
+    "title": "Yfory",
+    "artist": "Eirlys Parri",
+    "isrc": "GBCFU9900388"
+  },
+  {
+    "title": "Dim Ond Un",
+    "artist": "Cordia",
+    "isrc": "GBLFP1658240"
+  },
+  {
+    "title": "He Was Beautiful",
+    "artist": "Iris Williams",
+    "isrc": "GBAYE7900105"
+  },
+  {
+    "title": "Can I'r Ynys Werdd",
+    "artist": "Gwenda Owen",
+    "isrc": "GBPEF0100869"
+  },
+  {
+    "title": "Nos Da (Heulwen Haf)",
+    "artist": "Ysbryd Chouchen",
+    "isrc": "GBCFU9800164"
+  },
+  {
+    "title": "Jipsi",
+    "artist": "Bwchadanas",
+    "isrc": "GBCFU1093603"
+  },
+  {
+    "title": "Côr Gore'r Dre'",
+    "artist": "Aled Myrddin, Côr Meibion Machynlleth",
+    "isrc": "GBCFU1800442"
+  },
+  {
+    "title": "Drinking in L.A.",
+    "artist": "Bran Van 3000",
+    "isrc": "CAA509814003"
+  },
+  {
+    "title": "The River is Here - Live",
+    "artist": "Andy Park",
+    "isrc": "US2T30400057"
+  },
+  {
+    "title": "Rho Dy Law",
+    "artist": "Arwel Wyn Roberts",
+    "isrc": "GBCFU0600056"
+  },
+  {
+    "title": "Dafydd Ap Gwilym",
+    "artist": "Cawl Sefin",
+    "isrc": "GBCFU0600040"
+  },
+  {
+    "title": "Dal I Gredu",
+    "artist": "Eifion Williams",
+    "isrc": "GBCFU0600050"
+  },
+  {
+    "title": "Gloria Tyrd Adre",
+    "artist": "Eryr Wen",
+    "isrc": "GBCFU0600046"
+  },
+  {
+    "title": "Yr Awel O Dan Fy Adain I",
+    "artist": "Gillian Elisa",
+    "isrc": "GBCFU9900273"
+  },
+  {
+    "title": "Oh Death",
+    "artist": "Gregory Paul",
+    "isrc": "ushm90878217"
+  },
+  {
+    "title": "Stay the Night",
+    "artist": "Heather Jones",
+    "isrc": "QZDA71921987"
+  },
+  {
+    "title": "Twll Triongl",
+    "artist": "Hefin Huws",
+    "isrc": "GBCFU0600048"
+  },
+  {
+    "title": "Can Wini",
+    "artist": "Manon Llwyd",
+    "isrc": "GBCFU0600047"
+  },
+  {
+    "title": "Old Commandment Blues - Part 1",
+    "artist": "Margaret Williams",
+    "isrc": "USA560590832"
+  },
+  {
+    "title": "Cae O Yd",
+    "artist": "Martin Beattie",
+    "isrc": "GBCFU0000203"
+  },
+  {
+    "title": "Mae 'Nghariad I'N Fenws",
+    "artist": "Pererin",
+    "isrc": "GBCFU0602370"
+  },
+  {
+    "title": "Nerth dy draed",
+    "artist": "Plant Duw",
+    "isrc": "GBLBX1000007"
+  },
+  {
+    "title": "Y Llanc Glas Lygad",
+    "artist": "Rhian Rowe",
+    "isrc": "GBCFU0600039"
+  },
+  {
+    "title": "Pretty Woman Pass On By",
+    "artist": "Richard Marks",
+    "isrc": "US2S71516020"
+  },
+  {
+    "title": "It's Magic",
+    "artist": "Sarah Vaughan Acc. By Richard Maltby's Orchestra",
+    "isrc": "GBSUW1826783"
+  },
+  {
+    "title": "Dim Troi Yn Ol",
+    "artist": "Sarah Wynn",
+    "isrc": "UKAPB1500008"
+  },
+  {
+    "title": "Dydd O Haf",
+    "artist": "Y Canolwyr",
+    "isrc": "GBCFU0600034"
+  },
+  {
+    "title": "Byw Mewn Bocsus",
+    "artist": "Sobin A'R Smaeliaid",
+    "isrc": "GBCFU0500763"
+  },
+  {
+    "title": "Tafarn yn Nolrhedyn",
+    "artist": "Mim Twm Llai",
+    "isrc": "GBCFU0200466"
+  },
+  {
+    "title": "Pan Fyddo'R Nos Yn Hir",
+    "artist": "Hogia'R Wyddfa",
+    "isrc": "GBCFU0601746"
+  },
+  {
+    "title": "Rhywbeth O'I Le",
+    "artist": "Huw Chiswell",
+    "isrc": "GBCFU9900390"
+  },
+  {
+    "title": "Hunaniaeth",
+    "artist": "Anweledig",
+    "isrc": "GBCFU0100040"
+  },
+  {
+    "title": "Y Dref Wen",
+    "artist": "Tecwyn Ifan",
+    "isrc": "GBCFU9900407"
+  },
+  {
+    "title": "Dwylo Dros y Môr 2020",
+    "artist": "Elin Fflur, Mared Williams, Rhys Gwynfor, Iwan Fon, Kizzy Crawford, Ifan Pritchard, Heledd Watkins, Osian Huw Williams, Llywelyn Elidyr Glyn, Lisa Angharad, Gwenno Elan, Mari Gwenllian, Ed Holden",
+    "isrc": "GBCFU2000059"
+  },
+  {
+    "title": "Un Funud Fach",
+    "artist": "Bryn Fôn",
+    "isrc": "GBCFU0600574"
+  },
+  {
+    "title": "Gad Iddi Fynd",
+    "artist": "Steve Eaves",
+    "isrc": "GBCFU0700600"
+  },
+  {
+    "title": "Blaenau Ffestiniog",
+    "artist": "Tebot Piws",
+    "isrc": "GBCFU0602072"
+  },
+  {
+    "title": "Gorwedd Gyda'I Nerth",
+    "artist": "Caryl Parry Jones",
+    "isrc": "GBCFU0300683"
+  },
+  {
+    "title": "Hanes Eldon Terrace",
+    "artist": "Daniel Lloyd A Mr Pinc",
+    "isrc": "GBHHX0500071"
+  },
+  {
+    "title": "Gafael Yn Fy Llaw",
+    "artist": "John Ac Alun",
+    "isrc": "GBCFU0400631"
+  },
+  {
+    "title": "Os na wnei di adael nawr",
+    "artist": "Brigyn",
+    "isrc": "GBFLP0400121"
+  },
+  {
+    "title": "Ar Hyd Y Nos",
+    "artist": "Meinir Gwilym",
+    "isrc": "GBFLP0200007"
+  },
+  {
+    "title": "Dyddiau Du, Dyddiau Gwyn",
+    "artist": "Cowbois Rhos Botwnnog",
+    "isrc": "GBTUR1000015"
+  },
+  {
+    "title": "Coffi Du",
+    "artist": "Gwibdaith Hen Fran",
+    "isrc": "GBHHX0700015"
+  },
+  {
+    "title": "Trawscrwban",
+    "artist": "Iwcs A Doyle",
+    "isrc": "GBCFU0602617"
+  },
+  {
+    "title": "Y Brawd Hwdini",
+    "artist": "Meic Stevens",
+    "isrc": "GBCFU0200429"
+  },
+  {
+    "title": "Cofio dy wyneb",
+    "artist": "Mynediad Am Ddim",
+    "isrc": "GBCFU0601339"
+  },
+  {
+    "title": "Twll y Mwg",
+    "artist": "Sibrydion",
+    "isrc": "GBHHX0700059"
+  },
+  {
+    "title": "Can Yr Ysgol",
+    "artist": "Dafydd Iwan",
+    "isrc": "GBCFU9800271"
+  },
+  {
+    "title": "Canu Gwlad",
+    "artist": "Geraint Lovgreen",
+    "isrc": "GBCFU0800321"
+  },
+  {
+    "title": "Shampŵ",
+    "artist": "Derwyddon Dr Gonzo",
+    "isrc": "GBHHX0900100"
+  },
+  {
+    "title": "Eryr Pengwern",
+    "artist": "Cwmni Theatr Maldwyn",
+    "isrc": "GB43M1700021"
+  },
+  {
+    "title": "Ddoi Di'm Yn Ol I Gymru",
+    "artist": "Tony Ac Aloma",
+    "isrc": "GBCFU1200148"
+  },
+  {
+    "title": "Llosgi",
+    "artist": "Al Lewis",
+    "isrc": "GBRPC1300007"
+  },
+  {
+    "title": "Mae'r Haul Wedi Dod",
+    "artist": "Geraint Lovgreen A'R Enw Da",
+    "isrc": "GBCFU1900101"
+  },
+  {
+    "title": "Swn ar Gardyn Post",
+    "artist": "Bob Delyn A'R Ebillion",
+    "isrc": "GBCFU1700232"
+  },
+  {
+    "title": "Mae'n wlad i mi",
+    "artist": "Moniars",
+    "isrc": "GBCFU0601995"
+  },
+  {
+    "title": "Ffarwel i Blwy Llangywer (Farewell to the Parish of Llangywer)",
+    "artist": "Plethyn",
+    "isrc": "GBCFU0602340"
+  },
+  {
+    "title": "Macrall wedi Ffrio",
+    "artist": "Endaf Emlyn",
+    "isrc": "GBCFU0100626"
+  },
+  {
+    "title": "Calan Gaea",
+    "artist": "Edward H Dafis",
+    "isrc": "GBCFU0500299"
+  },
+  {
+    "title": "Rhoces",
+    "artist": "Fflur Dafydd",
+    "isrc": "GBHHX1200001"
+  },
+  {
+    "title": "Tren Bach Yr Wyddfa",
+    "artist": "Hogia Llandegai",
+    "isrc": "GBCFU0600267"
+  },
+  {
+    "title": "Cwlwm",
+    "artist": "Gwyneth Glyn",
+    "isrc": "GBCKG1700155"
+  },
+  {
+    "title": "Mor Fawr Wyt Ti",
+    "artist": "Trebor Edwards",
+    "isrc": "GBCFU0600189"
+  },
+  {
+    "title": "Yr Hogyn Pren",
+    "artist": "Gwilym Bowen Rhys",
+    "isrc": "GBCFU1800177"
+  },
+  {
+    "title": "Coliseum",
+    "artist": "Gai Toms",
+    "isrc": "GBWLB1200088"
+  },
+  {
+    "title": "Er Mwyn Yfory",
+    "artist": "Cwmni Theatr Meirion",
+    "isrc": "GBCFU0602602"
+  },
+  {
+    "title": "Fel Hyn Am Byth",
+    "artist": "Robat Arwyn, Hywel Gwynfryn, Rhys Meirion",
+    "isrc": "GB33V2200018"
+  },
+  {
+    "title": "Mathonwy",
+    "artist": "Huw Jones",
+    "isrc": "GBCFU0700447"
+  },
+  {
+    "title": "Tyrd Am Dro I'R Coed",
+    "artist": "Dafydd Iwan/Edward",
+    "isrc": "GBCFU0600144"
+  },
+  {
+    "title": "Craig Cwmtydu",
+    "artist": "Ryland Teifi",
+    "isrc": "GBHHX1600050"
+  },
+  {
+    "title": "Ar y radio",
+    "artist": "Neil Rosser",
+    "isrc": "QM7281880552"
+  },
+  {
+    "title": "Plant y Tonnau",
+    "artist": "Alun Tan Lan",
+    "isrc": "GCHHX0400001"
+  },
+  {
+    "title": "Square One",
+    "artist": "Dan Amor",
+    "isrc": "GBTWV2400001"
+  },
+  {
+    "title": "Henry a Matilda Supermarketsuper",
+    "artist": "Euros Childs",
+    "isrc": "GBDNH0600894"
+  },
+  {
+    "title": "Love is Informal",
+    "artist": "Texas Radio Band",
+    "isrc": "QM4TW2155529"
+  },
+  {
+    "title": "Nwy Yn Y Nen",
+    "artist": "Eleri Llwyd",
+    "isrc": "GBCFU0600035"
+  },
+  {
+    "title": "Mynd Ar Y Bws",
+    "artist": "Steffan Rhys Williams",
+    "isrc": "GBCFU1200044"
+  },
+  {
+    "title": "Mae D'Eisiau Di",
+    "artist": "Cor Meibion Llangwm Male Voice Choir",
+    "isrc": "GBCFU0600852"
+  },
+  {
+    "title": "#9 Blackpool Rock Remix - Remix Gwrachod",
+    "artist": "Plant Bach Annifyr",
+    "isrc": "SEYOK1107041"
+  },
+  {
+    "title": "Ebeneser (Dyma Gariad Fel Y Moroedd) (Ton Potel)",
+    "artist": "Lleuwen Steffan",
+    "isrc": "GBCFU0500494"
+  },
+  {
+    "title": "Rhywle Draw Dros Yr Enfys",
+    "artist": "Tara Bethan",
+    "isrc": "GBCFU0500387"
+  },
+  {
+    "title": "W Capten",
+    "artist": "Geraint Griffiths",
+    "isrc": "GBCFU0300686"
+  },
+  {
+    "title": "Y Dagrau Tawel",
+    "artist": "Rhian Mair Lewis",
+    "isrc": "GBCFU0500227"
+  },
+  {
+    "title": "Gwawr newydd yn cilio",
+    "artist": "Rheinallt H. Rowlands",
+    "isrc": "GBCSH9561009"
+  },
+  {
+    "title": "Porthgain",
+    "artist": "Fflur Dafydd A'R Barf",
+    "isrc": "GBHHX0900092"
+  },
+  {
+    "title": "Hiraeth am y Glaw",
+    "artist": "Gwilym Morus",
+    "isrc": "GBHSG0600014"
+  },
+  {
+    "title": "Trên i Afonwen",
+    "artist": "Sobin A'R Smaeliaid",
+    "isrc": "GBCFU9900392"
+  },
+  {
+    "title": "Ellis Humphrey Evans",
+    "artist": "Mim Twm Llai",
+    "isrc": "GBCFU0603112"
+  },
+  {
+    "title": "Titw Tomos Las",
+    "artist": "Hogia'R Wyddfa",
+    "isrc": "GBCFU0601733"
+  },
+  {
+    "title": "Nos Sul A Baglan Bay",
+    "artist": "Huw Chiswell",
+    "isrc": "GBCFU0500201"
+  },
+  {
+    "title": "Chwarae Dy Gem",
+    "artist": "Anweledig",
+    "isrc": "GBCFU0600237"
+  },
+  {
+    "title": "Ofergoelion",
+    "artist": "Tecwyn Ifan",
+    "isrc": "GBCFU0601373"
+  },
+  {
+    "title": "Ar Lan Y Mor",
+    "artist": "Elin Fflur",
+    "isrc": "GBCFU0300720"
+  },
+  {
+    "title": "Rebal Wicend",
+    "artist": "Bryn Fôn",
+    "isrc": "GBCFU0600770"
+  },
+  {
+    "title": "Nos Da, Mam",
+    "artist": "Steve Eaves",
+    "isrc": "GBCFU0500008"
+  },
+  {
+    "title": "Mae Rhywun Wedi Dwyn Fy Nhrwyn",
+    "artist": "Tebot Piws",
+    "isrc": "GBCFU0400473"
+  },
+  {
+    "title": "Space Invaders",
+    "artist": "Caryl Parry Jones",
+    "isrc": "GBCFU0400023"
+  },
+  {
+    "title": "Tro Ar Ol Tro",
+    "artist": "Daniel Lloyd A Mr Pinc",
+    "isrc": "GBHHX0500072"
+  },
+  {
+    "title": "Penrhyn Llyn",
+    "artist": "John Ac Alun",
+    "isrc": "GBCFU0000380"
+  },
+  {
+    "title": "Paid â mynd i'r nos heb ofyn pam",
+    "artist": "Brigyn",
+    "isrc": "GBFLP0800473"
+  },
+  {
+    "title": "Cymru, Usa",
+    "artist": "Meinir Gwilym",
+    "isrc": "GBFLP0300063"
+  },
+  {
+    "title": "Clawdd Eithin",
+    "artist": "Cowbois Rhos Botwnnog",
+    "isrc": "GBTUR2300001"
+  },
+  {
+    "title": "Car Bach Fi",
+    "artist": "Gwibdaith Hen Fran",
+    "isrc": "GBHHX0700014"
+  },
+  {
+    "title": "Clywed swn",
+    "artist": "Iwcs A Doyle",
+    "isrc": "GBCFU9900356"
+  },
+  {
+    "title": "Loved Owed - aka Love Ode",
+    "artist": "Meic Stevens",
+    "isrc": "USWB10502316"
+  },
+  {
+    "title": "Hi yw fy ffrind",
+    "artist": "Mynediad Am Ddim",
+    "isrc": "GBCFU0601337"
+  },
+  {
+    "title": "Dafad Ddu",
+    "artist": "Sibrydion",
+    "isrc": "GBHHX0500045"
+  },
+  {
+    "title": "Hawl I Fyw",
+    "artist": "Dafydd Iwan",
+    "isrc": "GBCFU0600205"
+  },
+  {
+    "title": "Nid Eu Hanes Nhw Yw Fy Stori I",
+    "artist": "Geraint Lovgreen",
+    "isrc": "GBCFU0800315"
+  },
+  {
+    "title": "K.O.",
+    "artist": "Derwyddon Dr Gonzo",
+    "isrc": "GBLBX0700004"
+  },
+  {
+    "title": "Mae'r Dyfodol yn Ein Dwylo Ni",
+    "artist": "Cwmni Theatr Maldwyn",
+    "isrc": "GB43M1700025"
+  },
+  {
+    "title": "Wedi Colli Rhywbeth Sy'n Annwyl",
+    "artist": "Tony Ac Aloma",
+    "isrc": "GBCFU1200138"
+  },
+  {
+    "title": "Thirty Five",
+    "artist": "Al Lewis, Darling West",
+    "isrc": "GBRPC2300006"
+  },
+  {
+    "title": "Myfi Sy'N Magu'R Baban",
+    "artist": "Geraint Lovgreen A'R Enw Da",
+    "isrc": "GBCFU0500022"
+  },
+  {
+    "title": "Ffair Y Bala",
+    "artist": "Bob Delyn A'R Ebillion",
+    "isrc": "USA560581713"
+  },
+  {
+    "title": "Blaenau Ffestiniog",
+    "artist": "Moniars",
+    "isrc": "GBCFU0601991"
+  }
+]

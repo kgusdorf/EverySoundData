@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Insista Em Mim",
+    "artist": "Ana Frango Elétrico",
+    "isrc": "BXU9F2300007"
+  },
+  {
+    "title": "The Samurai Who Smells of Sunflowers",
+    "artist": "Cadu Tenório",
+    "isrc": "BRTRB1910691"
+  },
+  {
+    "title": "Ich Bin Der Fluss - Frontinn Remix",
+    "artist": "Tantão e os Fita, Frontinn",
+    "isrc": "FRX202074535"
+  },
+  {
+    "title": "Décio, O Psicodélico",
+    "artist": "Gui Amabis",
+    "isrc": "QZ57D2200310"
+  },
+  {
+    "title": "Cerimônia",
+    "artist": "Mbé, Juçara Marçal",
+    "isrc": "BX0L22100002"
+  },
+  {
+    "title": "Epidemia de Dança",
+    "artist": "Chelpa Ferro, Fausto Fawcett, Cabelo Cobra Coral",
+    "isrc": "BX0L22100051"
+  },
+  {
+    "title": "Altos Traumas",
+    "artist": "Satanique Samba Trio",
+    "isrc": "BXTBZ1700001"
+  },
+  {
+    "title": "Um Novo Dia",
+    "artist": "Vitor Brauer, deb, gorduratrans",
+    "isrc": "BXVMN2300043"
+  },
+  {
+    "title": "Rei da Cocada",
+    "artist": "M. Takara",
+    "isrc": "GBMA22166362"
+  },
+  {
+    "title": "Proposta Solares",
+    "artist": "Objeto Amarelo",
+    "isrc": "QZGLM1981136"
+  },
+  {
+    "title": "Aurino",
+    "artist": "M.TAKARA & CARLA BOREGAS",
+    "isrc": "QZTAU2242240"
+  },
+  {
+    "title": "Angústia",
+    "artist": "Nvblado",
+    "isrc": "US7VG1620148"
+  },
+  {
+    "title": "Soixante Kilomètres",
+    "artist": "Chico Correa",
+    "isrc": "QZ5AB1932302"
+  },
+  {
+    "title": "Pele de Leopardo - Cornelius Remix",
+    "artist": "Thiago Nassif, Cornelius",
+    "isrc": "GBYG52160011"
+  },
+  {
+    "title": "Folguedo da Colheita - Matheus Padoca Remix",
+    "artist": "Radiola Serra Alta, Matheus Padoca",
+    "isrc": "BREOQ2300011"
+  },
+  {
+    "title": "Etiópia Mundo Negro - Instrumental",
+    "artist": "Ubunto",
+    "isrc": "BXO6F1900002"
+  },
+  {
+    "title": "Tropical Punk",
+    "artist": "Tetine",
+    "isrc": "GBTXZ0900089"
+  },
+  {
+    "title": "Chuva",
+    "artist": "Marco Scarassatti",
+    "isrc": "QZW9K2306331"
+  },
+  {
+    "title": "Paranormal",
+    "artist": "Ricardo Dias Gomes",
+    "isrc": "GBHLW1802031"
+  },
+  {
+    "title": "Uma Beleza De Barriga",
+    "artist": "Barulhista",
+    "isrc": "QZNJV2455667"
+  },
+  {
+    "title": "Virtual Sunset",
+    "artist": "Ceticências",
+    "isrc": "BRTRB1632619"
+  },
+  {
+    "title": "Martim Pescador",
+    "artist": "Priscilla Ermel",
+    "isrc": "NLD7H1900121"
+  },
+  {
+    "title": "Violão Domingueiro",
+    "artist": "Pigmalião",
+    "isrc": "NL1JL2000012"
+  },
+  {
+    "title": "Sonho das Flores",
+    "artist": "Sentidor",
+    "isrc": "QZHZ52263138"
+  },
+  {
+    "title": "Ipanema",
+    "artist": "As Amigas de Plástico",
+    "isrc": "US7VG1325808"
+  },
+  {
+    "title": "O Vampiro Em Você",
+    "artist": "Raf F Guimarães",
+    "isrc": "QZGWX2093166"
+  },
+  {
+    "title": "Loteria/malária",
+    "artist": "Bodes & Elefantes",
+    "isrc": "BRMUK0700042"
+  },
+  {
+    "title": "O M M",
+    "artist": "Bené Fonteles",
+    "isrc": "NLD7H1700038"
+  },
+  {
+    "title": "Toototobí",
+    "artist": "Kovtun, God Pussy",
+    "isrc": "BRTRB1910638"
+  },
+  {
+    "title": "Mixolydia",
+    "artist": "Jorge Antunes, Lydia Kavina",
+    "isrc": "US4BP0400655"
+  },
+  {
+    "title": "Cosmosamba",
+    "artist": "Projeto Mujique, Thomash",
+    "isrc": "QZNJV2113276"
+  },
+  {
+    "title": "Nunca Esperei Por Ti - Le Frit Sad Perreo Remix",
+    "artist": "Kid From Amazon, Le Frit",
+    "isrc": "US83Z2125219"
+  },
+  {
+    "title": "Iyami Oshoronga",
+    "artist": "Marcela Lucatelli, Anders Vestergaard, Lars Bech Pilgaard",
+    "isrc": "usdy42333745"
+  },
+  {
+    "title": "Esculaxxxo",
+    "artist": "ASSHAKE",
+    "isrc": "QZ5AB1625022"
+  },
+  {
+    "title": "Bando Desalmado",
+    "artist": "Acessórios Essenciais",
+    "isrc": "USQY51553810"
+  },
+  {
+    "title": "Chico Saiu para Caça",
+    "artist": "Afro Hooligans",
+    "isrc": "US7VG1625503"
+  },
+  {
+    "title": "Keops",
+    "artist": "Arthur III",
+    "isrc": "QM4DW1568740"
+  },
+  {
+    "title": "uma nuvem",
+    "artist": "Arubu Avua",
+    "isrc": "DEU672301227"
+  },
+  {
+    "title": "Summertime Our League - Four Tet Rework",
+    "artist": "Babe, Terror, Four Tet",
+    "isrc": "GBTZZ1000010"
+  },
+  {
+    "title": "Pânico em Paquetá",
+    "artist": "Baby Hitler",
+    "isrc": "QZ5AB1783234"
+  },
+  {
+    "title": "Cimeries",
+    "artist": "Bemônio",
+    "isrc": "GBNQA1601013"
+  },
+  {
+    "title": "The Psyche",
+    "artist": "Bruno Belluomini",
+    "isrc": "ITH641499238"
+  },
+  {
+    "title": "Todsh Kegozah",
+    "artist": "Bruno Real",
+    "isrc": "QZNJV2082488"
+  },
+  {
+    "title": "Santos 3am",
+    "artist": "Cæs",
+    "isrc": "BXUH71700001"
+  },
+  {
+    "title": "No nos Une El Amor Sino El Espanto; Será por Eso Que La Quiero Tanto",
+    "artist": "Domingo Blanco",
+    "isrc": "US7VG1610203"
+  },
+  {
+    "title": "Menti Pra Você, Mas Foi Sem Querer",
+    "artist": "Felappi, Marcello Callado",
+    "isrc": "BRTRB1600705"
+  },
+  {
+    "title": "12zodiacsign",
+    "artist": "Fernando Visockis",
+    "isrc": "GB-SMU-17-20665"
+  },
+  {
+    "title": "Fluir",
+    "artist": "Formafluida, GEO, Fabriccio",
+    "isrc": "US7VG1840578"
+  },
+  {
+    "title": "Whether if it Was a Dream or Not",
+    "artist": "Giant Gutter From Outer Space",
+    "isrc": "GB-SMU-27-16597"
+  },
+  {
+    "title": "Breaking Madera",
+    "artist": "Gorilla Brutality",
+    "isrc": "DEAR41610936"
+  },
+  {
+    "title": "Rádio Bahia",
+    "artist": "Heitor Dantas, Uru Pereira, Romulo Alexis",
+    "isrc": "BXEKW2000023"
+  },
+  {
+    "title": "Orbita Sincronizada",
+    "artist": "Holocaos",
+    "isrc": "DEH741509444"
+  },
+  {
+    "title": "Handsome Devil",
+    "artist": "I Buried Paul",
+    "isrc": "USZ540710062"
+  },
+  {
+    "title": "Mulher Experimental",
+    "artist": "INFARRT",
+    "isrc": "GX3HH2342220"
+  },
+  {
+    "title": "Onírico",
+    "artist": "Jocy de Oliveira",
+    "isrc": "BRTRB0900178"
+  },
+  {
+    "title": "The Body State (O Estado do Corpo)",
+    "artist": "Luiza Prado, Isabella Lauermann",
+    "isrc": "QZNJW2011379"
+  },
+  {
+    "title": "Fuuudeu",
+    "artist": "Marginal Men, Ruxell",
+    "isrc": "BXBFB1600029"
+  },
+  {
+    "title": "Walls",
+    "artist": "Matschulat",
+    "isrc": "CH6541704651"
+  },
+  {
+    "title": "Sea of Stars",
+    "artist": "Melies",
+    "isrc": "US7VG1728037"
+  },
+  {
+    "title": "Rove",
+    "artist": "Missiles at a Wedding, Iridescent",
+    "isrc": "BXFRE1400003"
+  },
+  {
+    "title": "Medo",
+    "artist": "Muepetmo",
+    "isrc": "GBTXZ1100007"
+  },
+  {
+    "title": "Morto",
+    "artist": "Música de Selvagem, Tim Bernardes",
+    "isrc": "BXT051800003"
+  },
+  {
+    "title": "Smooth Ambient",
+    "artist": "Neguim Beats",
+    "isrc": "FR6V82083809"
+  },
+  {
+    "title": "Pasteurization Is Boring",
+    "artist": "Paulo Dandrea",
+    "isrc": "US7VG1474443"
+  },
+  {
+    "title": "Grafico",
+    "artist": "QRG",
+    "isrc": "QZTBF2384699"
+  },
+  {
+    "title": "Hostile Environments",
+    "artist": "Ricardo Donoso",
+    "isrc": "DERK92136202"
+  },
+  {
+    "title": "Curiosa Herança",
+    "artist": "Ruido de Maquina",
+    "isrc": "uscgj1589552"
+  },
+  {
+    "title": "Captain Ahab",
+    "artist": "Rumbo Reverso",
+    "isrc": "TCACX1761814"
+  },
+  {
+    "title": "Tele-Sexo",
+    "artist": "Seixlack",
+    "isrc": "USDY42145587"
+  },
+  {
+    "title": "Oito",
+    "artist": "Sobre a Máquina",
+    "isrc": "BRTRB1632524"
+  },
+  {
+    "title": "Pagodão",
+    "artist": "Som Peba",
+    "isrc": "BRH7D1400002"
+  },
+  {
+    "title": "Lounge Porn (Elevator)",
+    "artist": "The Innernettes",
+    "isrc": "UST8K1569532"
+  },
+  {
+    "title": "My Sick Mind",
+    "artist": "The Wolfpack Journey",
+    "isrc": "US7VG1528896"
+  },
+  {
+    "title": "No Escape",
+    "artist": "Verjault",
+    "isrc": "BRTRB1755034"
+  },
+  {
+    "title": "Night Shift - DIGESTIVO Remix",
+    "artist": "Yan Higa, DIGESTIVO",
+    "isrc": "GX53U2058293"
+  },
+  {
+    "title": "Drugstore Cowboy",
+    "artist": "^L_",
+    "isrc": "GBKQU2407756"
+  },
+  {
+    "title": "Coisa Nº5",
+    "artist": "grassmass, Lucas dos Prazeres, Guilherme Kastrup",
+    "isrc": "BRR941800002"
+  },
+  {
+    "title": "Death - Remix",
+    "artist": "thingamajicks, Valesuchi",
+    "isrc": "FRX452062434"
+  },
+  {
+    "title": "Electric Fish",
+    "artist": "Ana Frango Elétrico",
+    "isrc": "BXU9F2300001"
+  },
+  {
+    "title": "Eká",
+    "artist": "Cadu Tenório, Juçara Marçal",
+    "isrc": "BRHXF1600015"
+  },
+  {
+    "title": "Tosse Break",
+    "artist": "Tantão e os Fita",
+    "isrc": "BX0L22000096"
+  },
+  {
+    "title": "Para Sempre Bel",
+    "artist": "Gui Amabis",
+    "isrc": "QZ8BZ2000424"
+  },
+  {
+    "title": "Celebração do Xingu ao Congo",
+    "artist": "Mbé",
+    "isrc": "BX0L22100003"
+  },
+  {
+    "title": "Cavalo sem nome",
+    "artist": "Chelpa Ferro",
+    "isrc": "BR68F1400313"
+  },
+  {
+    "title": "Vendo Vultos",
+    "artist": "Satanique Samba Trio",
+    "isrc": "BXTBZ1700002"
+  },
+  {
+    "title": "Autoflagelação",
+    "artist": "Vitor Brauer, Alcyr Vergetti",
+    "isrc": "BXVMN2300010"
+  },
+  {
+    "title": "Tudo é muito bonito mas sei lá",
+    "artist": "M. Takara",
+    "isrc": "BRMUK0700037"
+  },
+  {
+    "title": "Dia Vermelho",
+    "artist": "Objeto Amarelo",
+    "isrc": "QZGLM1981130"
+  },
+  {
+    "title": "Mãe de Ouro",
+    "artist": "M.TAKARA & CARLA BOREGAS",
+    "isrc": "BRFSK1900008"
+  },
+  {
+    "title": "Avalanche, Pt. II",
+    "artist": "Nvblado",
+    "isrc": "US7VG1620150"
+  },
+  {
+    "title": "Zum Zum",
+    "artist": "Chico Correa, João Cassiano da Silva Bisneto",
+    "isrc": "US7VG1697322"
+  },
+  {
+    "title": "Soar Estranho",
+    "artist": "Thiago Nassif, Arto Lindsay, Gabriela Riley",
+    "isrc": "GBYG52060001"
+  },
+  {
+    "title": "Folguedo da Colheita",
+    "artist": "Radiola Serra Alta",
+    "isrc": "BREOQ2300002"
+  },
+  {
+    "title": "O Vento",
+    "artist": "Ubunto, As Ganhadeiras de Itapuã",
+    "isrc": "BXO6F2200009"
+  },
+  {
+    "title": "Burning Land",
+    "artist": "Tetine",
+    "isrc": "GBTXZ1200005"
+  },
+  {
+    "title": "Ọ̀bẹ",
+    "artist": "Marco Scarassatti",
+    "isrc": "ES71G2132297"
+  },
+  {
+    "title": "Morrerei Por Isso",
+    "artist": "Ricardo Dias Gomes",
+    "isrc": "QZHN92317392"
+  },
+  {
+    "title": "A Caneta Caiu No Chão Da Afonso Pena",
+    "artist": "Barulhista",
+    "isrc": "BX6MY1900001"
+  },
+  {
+    "title": "Il",
+    "artist": "Ceticências",
+    "isrc": "BRTRB1632614"
+  },
+  {
+    "title": "Corpo Do Vento",
+    "artist": "Priscilla Ermel",
+    "isrc": "NLD7H1700048"
+  },
+  {
+    "title": "Árvore dos Pássaros",
+    "artist": "Sentidor",
+    "isrc": "QZHZ52263139"
+  },
+  {
+    "title": "Jojo Is On Plastics",
+    "artist": "As Amigas de Plástico",
+    "isrc": "QZ5AB1746171"
+  },
+  {
+    "title": "Rainha Diaba",
+    "artist": "Raf F Guimarães",
+    "isrc": "QZGWX2093168"
+  },
+  {
+    "title": "À Dois",
+    "artist": "Pigmalião",
+    "isrc": "NL1JL1900043"
+  },
+  {
+    "title": "Do chão",
+    "artist": "Bodes & Elefantes",
+    "isrc": "BRMUK0700052"
+  },
+  {
+    "title": "Na Verdura do Mar",
+    "artist": "Bené Fonteles",
+    "isrc": "BRJJN1300057"
+  },
+  {
+    "title": "The Life of the Bee",
+    "artist": "Kovtun",
+    "isrc": "BRTRB1880295"
+  },
+  {
+    "title": "Short Piece For E Natural and Harmonics",
+    "artist": "Jorge Antunes",
+    "isrc": "US4C80400147"
+  },
+  {
+    "title": "Tenho Me Sentido Assim",
+    "artist": "Kid From Amazon",
+    "isrc": "GBMJG2308668"
+  },
+  {
+    "title": "Mama Bahia",
+    "artist": "Projeto Mujique",
+    "isrc": "USLZJ1980985"
+  },
+  {
+    "title": "Live in Köln, Pt. I",
+    "artist": "Marcela Lucatelli, Jonas Engel, Mariá Portugal",
+    "isrc": "ushm22359816"
+  },
+  {
+    "title": "Tremendo Bum Bum",
+    "artist": "ASSHAKE",
+    "isrc": "BR6NK1600048"
+  },
+  {
+    "title": "Livro",
+    "artist": "Acessórios Essenciais",
+    "isrc": "USQY51553816"
+  },
+  {
+    "title": "Fogo",
+    "artist": "Afro Hooligans",
+    "isrc": "US7VG1625507"
+  },
+  {
+    "title": "Mellotrama",
+    "artist": "Arthur III",
+    "isrc": "QM4DW1568743"
+  },
+  {
+    "title": "sujos brilhos",
+    "artist": "Arubu Avua",
+    "isrc": "DEU672301230"
+  },
+  {
+    "title": "Lifantastic I",
+    "artist": "Babe, Terror",
+    "isrc": "GBTZZ1200001"
+  },
+  {
+    "title": "Satanghost Nightmare",
+    "artist": "Baby Hitler",
+    "isrc": "QZ5AB1783232"
+  },
+  {
+    "title": "The Solution",
+    "artist": "Bruno Belluomini",
+    "isrc": "ITH641499239"
+  },
+  {
+    "title": "Aqa'97",
+    "artist": "Bruno Real",
+    "isrc": "QZGLS2016221"
+  },
+  {
+    "title": "Vila",
+    "artist": "Cæs, Fabio Machado",
+    "isrc": "BXUH71700003"
+  },
+  {
+    "title": "Wasabi",
+    "artist": "Domingo Blanco",
+    "isrc": "US7VG1610204"
+  },
+  {
+    "title": "Surrounding Hongdae",
+    "artist": "Fernando Visockis",
+    "isrc": "GB-SMU-23-06728"
+  },
+  {
+    "title": "Linha Reta",
+    "artist": "Formafluida",
+    "isrc": "US7VG1643990"
+  },
+  {
+    "title": "Joy and Misery",
+    "artist": "Giant Gutter From Outer Space",
+    "isrc": "GB-SMU-27-16598"
+  },
+  {
+    "title": "Todos os Santos Estão Surdos",
+    "artist": "Heitor Dantas, Uru Pereira, Romulo Alexis",
+    "isrc": "BXEKW2000020"
+  },
+  {
+    "title": "Singularidade - Original mix",
+    "artist": "Holocaos, Leozzone",
+    "isrc": "ITH641481705"
+  },
+  {
+    "title": "Utopia I",
+    "artist": "I Buried Paul",
+    "isrc": "BRTRB1634982"
+  },
+  {
+    "title": "Mulher Homem Bicho",
+    "artist": "Ana Frango Elétrico",
+    "isrc": "BXU9F2000002"
+  },
+  {
+    "title": "Candombe - La Cacundê Iauê",
+    "artist": "Cadu Tenório, Juçara Marçal",
+    "isrc": "GBCLQ2200734"
+  },
+  {
+    "title": "Piorou",
+    "artist": "Tantão e os Fita",
+    "isrc": "BX0L22000084"
+  },
+  {
+    "title": "Nesse Meio Tempo",
+    "artist": "Gui Amabis, Juçara Marçal",
+    "isrc": "BXT4O2400006"
+  },
+  {
+    "title": "A Caminho de Palmares",
+    "artist": "Mbé, Juçara Marçal, Orlando Costa, Luizinho do Jêje",
+    "isrc": "BX0L22100006"
+  },
+  {
+    "title": "Trinca Ferro",
+    "artist": "Chelpa Ferro, Tantão",
+    "isrc": "BX0L22100065"
+  },
+  {
+    "title": "Samba de Todas as Notas",
+    "artist": "Satanique Samba Trio",
+    "isrc": "BXTBZ1700006"
+  },
+  {
+    "title": "Fogo-Fátuo",
+    "artist": "Vitor Brauer",
+    "isrc": "BXVMN2100034"
+  },
+  {
+    "title": "Antícope",
+    "artist": "M. Takara",
+    "isrc": "GBMA22166354"
+  },
+  {
+    "title": "Eclusa A",
+    "artist": "Objeto Amarelo, Rob Mazurek",
+    "isrc": "BRTRB1515502"
+  },
+  {
+    "title": "Linha D'água",
+    "artist": "M.TAKARA & CARLA BOREGAS",
+    "isrc": "BRFSK1900004"
+  },
+  {
+    "title": "Arpoador",
+    "artist": "Nvblado",
+    "isrc": "US7VG1620151"
+  },
+  {
+    "title": "Berra Boi",
+    "artist": "Chico Correa",
+    "isrc": "US7VG1697321"
+  },
+  {
+    "title": "Voz Única Foto Sem Calcinha",
+    "artist": "Thiago Nassif, Ana Frango Elétrico",
+    "isrc": "GBYG52060003"
+  },
+  {
+    "title": "Coco de Nosso Senhor",
+    "artist": "Radiola Serra Alta",
+    "isrc": "US7VG1599859"
+  },
+  {
+    "title": "Abafabanca",
+    "artist": "Ubunto, Nara Gil",
+    "isrc": "BXO6F2200002"
+  },
+  {
+    "title": "I Go to the Doctor - Css Remix",
+    "artist": "Tetine",
+    "isrc": "GBBCK0800024"
+  },
+  {
+    "title": "Atacama",
+    "artist": "Marco Scarassatti",
+    "isrc": "QZ5AB1996182"
+  },
+  {
+    "title": "Muito Sol",
+    "artist": "Ricardo Dias Gomes",
+    "isrc": "QZHN92317391"
+  },
+  {
+    "title": "Existir Ser Coletivo",
+    "artist": "Barulhista",
+    "isrc": "GX53U2042904"
+  },
+  {
+    "title": "Zero",
+    "artist": "Ceticências",
+    "isrc": "BRTRB1632607"
+  },
+  {
+    "title": "Americua",
+    "artist": "Priscilla Ermel",
+    "isrc": "NLD7H1900125"
+  },
+  {
+    "title": "Os Momentos Plenos da Minha Vida São Verdes",
+    "artist": "Sentidor",
+    "isrc": "US7VG1675612"
+  },
+  {
+    "title": "(Meine Süße) Schlampe!",
+    "artist": "As Amigas de Plástico",
+    "isrc": "US7VG1325810"
+  },
+  {
+    "title": "Você Será Só Mais Uma",
+    "artist": "Raf F Guimarães",
+    "isrc": "QZGWX2120903"
+  },
+  {
+    "title": "Mora perto, mas vive longe",
+    "artist": "Bodes & Elefantes",
+    "isrc": "BRMUK0700051"
+  },
+  {
+    "title": "Saudação às Aves do Brasil",
+    "artist": "Pigmalião, Rodrigo Gallardo",
+    "isrc": "NL1JL2400002"
+  },
+  {
+    "title": "Dentro da Nuvem",
+    "artist": "Bené Fonteles",
+    "isrc": "BRJJN1300058"
+  }
+]

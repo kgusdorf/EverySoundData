@@ -1,0 +1,657 @@
+[
+  {
+    "title": "Under Control",
+    "artist": "F.G. Noise",
+    "isrc": "GBLV62319726"
+  },
+  {
+    "title": "Барабан",
+    "artist": "Artem Pivovarov, Klavdia Petrivna",
+    "isrc": "UABM12400263"
+  },
+  {
+    "title": "Зоряний саундтрек",
+    "artist": "Sonya Kay",
+    "isrc": "UAUG11600695"
+  },
+  {
+    "title": "Такі молоді",
+    "artist": "Ivan NAVI",
+    "isrc": "UABM11600014"
+  },
+  {
+    "title": "Sunglasses",
+    "artist": "Sagan, Sam Russell",
+    "isrc": "GBKQU2075091"
+  },
+  {
+    "title": "Fortress - Dan Stone Edit",
+    "artist": "Ost & Meyer, Ronski Speed, Cate Kanell, Dan Stone",
+    "isrc": "NLC731500040"
+  },
+  {
+    "title": "Till The Sun Is Up High",
+    "artist": "Natalie Gioia",
+    "isrc": "NLE712300418"
+  },
+  {
+    "title": "Парова машина",
+    "artist": "DMNTED, Ярина Квасній",
+    "isrc": "UABM12300127"
+  },
+  {
+    "title": "Ghost Town 2 (FYH368)",
+    "artist": "Vadim Bonkrashkov, Cristi Sena",
+    "isrc": "GBKQU2383856"
+  },
+  {
+    "title": "Solovey",
+    "artist": "Dj Quba, Sandra K",
+    "isrc": "GB8KE2211788"
+  },
+  {
+    "title": "The Fusion - Blastoyz Remix",
+    "artist": "Omnia, Ira, Blastoyz",
+    "isrc": "NLF712108617"
+  },
+  {
+    "title": "Trigger",
+    "artist": "MalYar, Crasca",
+    "isrc": "ATEK02277137"
+  },
+  {
+    "title": "Polaris",
+    "artist": "Indieveed, YAME",
+    "isrc": "ZZOPM2221899"
+  },
+  {
+    "title": "Gravity",
+    "artist": "Depdramez",
+    "isrc": "GBLV61800207"
+  },
+  {
+    "title": "Desert Divinity",
+    "artist": "Overdream, Ugentu",
+    "isrc": "QZMHN2339845"
+  },
+  {
+    "title": "As I Ran",
+    "artist": "YAME",
+    "isrc": "GBKQU2204730"
+  },
+  {
+    "title": "Mountain Breeze - Sergey Salekhov Remix",
+    "artist": "Alaera, Belokrinitsky, Sergey Salekhov",
+    "isrc": "US83Z2001202"
+  },
+  {
+    "title": "Color In The Night",
+    "artist": "Blamers, Cyborgs",
+    "isrc": "GBSMU6617282"
+  },
+  {
+    "title": "Mirror",
+    "artist": "Hardcore Buddhist, Zymosis",
+    "isrc": "QM4TW2399004"
+  },
+  {
+    "title": "Моя правда",
+    "artist": "Annahata, Alexander Hotra",
+    "isrc": "UABM12100675"
+  },
+  {
+    "title": "Sun Touch - Original Mix",
+    "artist": "Soty",
+    "isrc": "UKACT1613423"
+  },
+  {
+    "title": "Слухай",
+    "artist": "BADWOR7H, renie cares",
+    "isrc": "SE5752404539"
+  },
+  {
+    "title": "Tokyo",
+    "artist": "Leat'eq",
+    "isrc": "QZB4J1810678"
+  },
+  {
+    "title": "Glaze",
+    "artist": "The Madison",
+    "isrc": "GBEWA2106212"
+  },
+  {
+    "title": "Universe",
+    "artist": "MEHÍLOVE",
+    "isrc": "CA6D22100264"
+  },
+  {
+    "title": "Jasmine - Protoculture Remix",
+    "artist": "Oleg Farrier, Protoculture",
+    "isrc": "NLD681904453"
+  },
+  {
+    "title": "I'm Waiting",
+    "artist": "Stage Rockers",
+    "isrc": "ITU221205142"
+  },
+  {
+    "title": "Ocean - Christian Monique Remix",
+    "artist": "Serge Landar, Christian Monique",
+    "isrc": "US83Z1915381"
+  },
+  {
+    "title": "Aicha",
+    "artist": "Midnight Daddies, Denis Kalytovskyi",
+    "isrc": "RUB422002459"
+  },
+  {
+    "title": "Base Rock - Adip Kiyoi NRGY Mix",
+    "artist": "Axel Walters, Adip Kiyoi",
+    "isrc": "GBKQU2203832"
+  },
+  {
+    "title": "Technologic",
+    "artist": "Juicy M, HÜMAN",
+    "isrc": "NL5WB2200015"
+  },
+  {
+    "title": "Allium",
+    "artist": "Sendr, Kanallia",
+    "isrc": "GBKQU2344185"
+  },
+  {
+    "title": "Home - Benjamin Torino Remix",
+    "artist": "F4T4L3RR0R, Benjamin Torino",
+    "isrc": "US83Z2333067"
+  },
+  {
+    "title": "After Coma",
+    "artist": "Omon Breaker",
+    "isrc": "NLCK41094055"
+  },
+  {
+    "title": "Sun",
+    "artist": "A.SWIFT",
+    "isrc": "GBLV62312032"
+  },
+  {
+    "title": "Bloody Samaritan",
+    "artist": "ALEX IVA",
+    "isrc": "QZNWZ2298066"
+  },
+  {
+    "title": "Venus (ABGT324) - Reiklavik Remix",
+    "artist": "Addictive Glance, Reiklavik",
+    "isrc": "GBEWA1901085"
+  },
+  {
+    "title": "Sunrays - Original Mix",
+    "artist": "Alex Vale",
+    "isrc": "UKACT2131473"
+  },
+  {
+    "title": "Regenerate - Extended Mix",
+    "artist": "Andy Tate, Dima Krasnik",
+    "isrc": "GBLV62029476"
+  },
+  {
+    "title": "Zoned Out",
+    "artist": "Angelina Lavo, The Williams Fam",
+    "isrc": "GBKQU2179184"
+  },
+  {
+    "title": "Save It",
+    "artist": "Assol",
+    "isrc": "UADZ32010073"
+  },
+  {
+    "title": "Day and Night [Mix Cut]",
+    "artist": "Azotti, Bagga Bownz",
+    "isrc": "NLD681400520"
+  },
+  {
+    "title": "Leave This Place",
+    "artist": "Deenight",
+    "isrc": "US83Z2001151"
+  },
+  {
+    "title": "Routu Pudichom",
+    "artist": "Dippu, Srinivas",
+    "isrc": "INL180500276"
+  },
+  {
+    "title": "Summer Nights... - deep Remix",
+    "artist": "Djeff-Z",
+    "isrc": "QZMEP2015080"
+  },
+  {
+    "title": "Dream Alone",
+    "artist": "GIO DARA",
+    "isrc": "QZES82492169"
+  },
+  {
+    "title": "Red Dice",
+    "artist": "Gidro",
+    "isrc": "CA5KR1935454"
+  },
+  {
+    "title": "Depth Of My Dreams - Original Mix",
+    "artist": "Global Influence",
+    "isrc": "GBKQU1349956"
+  },
+  {
+    "title": "One More Night - John Grand Remix",
+    "artist": "Heyem, Groozin, John Grand",
+    "isrc": "ESA012062017"
+  },
+  {
+    "title": "Party",
+    "artist": "KAEF, Tricky Nicki",
+    "isrc": "FR59R1957278"
+  },
+  {
+    "title": "All Night",
+    "artist": "Mordax Bastards, O-Dee",
+    "isrc": "CA5KR2253080"
+  },
+  {
+    "title": "It's Wavy - Original Mix",
+    "artist": "Pastiche",
+    "isrc": "CA5KR2132984"
+  },
+  {
+    "title": "Searching For The Truth - Den Rize pres. Rizen Remix",
+    "artist": "Progressiver, Den Rize",
+    "isrc": "GBKQU1274016"
+  },
+  {
+    "title": "RAWA",
+    "artist": "Rudboii, ba-Blow",
+    "isrc": "QZ5FN1935778"
+  },
+  {
+    "title": "Lonely World - Original Mix",
+    "artist": "Sanani",
+    "isrc": "GBLV61716363"
+  },
+  {
+    "title": "Burning Love - Radio Edit",
+    "artist": "Skarny, Sovgray",
+    "isrc": "FR59R2295176"
+  },
+  {
+    "title": "When We Fight",
+    "artist": "Skytek, NSSND",
+    "isrc": "NLDD61900039"
+  },
+  {
+    "title": "Renaissance [ASOT 622] - Odonbat Remix",
+    "artist": "Turn, Natali Kryzhanovski, Odonbat",
+    "isrc": "NLF711308245"
+  },
+  {
+    "title": "Dancing Shadows - Hernan Cattaneo & SoundExile Remix",
+    "artist": "Tvardovsky, Hernan Cattaneo, Soundexile",
+    "isrc": "US83Z1205788"
+  },
+  {
+    "title": "Time Loop Jump",
+    "artist": "VOLIANSKYI",
+    "isrc": "CAHQJ2268145"
+  },
+  {
+    "title": "Dance With Me",
+    "artist": "Vtecha",
+    "isrc": "DEPI82402776"
+  },
+  {
+    "title": "Whoja Vu",
+    "artist": "Wanna Wake",
+    "isrc": "QM2PV1767155"
+  },
+  {
+    "title": "Jackie's Racing - Alternate mix",
+    "artist": "Whiteout",
+    "isrc": "GBCST0929019"
+  },
+  {
+    "title": "Midnight (One Life)",
+    "artist": "Winter Kid",
+    "isrc": "NL9EM2300018"
+  },
+  {
+    "title": "Dune",
+    "artist": "snowbody",
+    "isrc": "QZNWX2158471"
+  },
+  {
+    "title": "Waiting For The Thunder (Killing Time)",
+    "artist": "F.G. Noise, Lauren Ní Chasaide",
+    "isrc": "NLC731800653"
+  },
+  {
+    "title": "Рай",
+    "artist": "Sonya Kay",
+    "isrc": "UAUG11700923"
+  },
+  {
+    "title": "На Мить",
+    "artist": "Ivan NAVI",
+    "isrc": "UABM12300475"
+  },
+  {
+    "title": "Lowly",
+    "artist": "Sagan, Sam Russell",
+    "isrc": "GB2LD1900174"
+  },
+  {
+    "title": "О, Панно!",
+    "artist": "Artem Pivovarov, The Вуса, Дурнєв, Леви На Джипі, Куцевалов",
+    "isrc": "UABM12400134"
+  },
+  {
+    "title": "Make It High",
+    "artist": "Ost & Meyer, Stage Rockers",
+    "isrc": "GBKQU1765937"
+  },
+  {
+    "title": "Saving Me From Night",
+    "artist": "Natalie Gioia, Eximinds",
+    "isrc": "NLF711711017"
+  },
+  {
+    "title": "Добрий день, Everybody",
+    "artist": "DMNTED, DIVKA, Борис Джонсонюк",
+    "isrc": "UABM12200289"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Vadim Bonkrashkov, Cristi Sena",
+    "isrc": "QZTV32361666"
+  },
+  {
+    "title": "Relax, Take It Easy",
+    "artist": "Dj Quba, Sandra K, Ka Reem",
+    "isrc": "GX8LE2412517"
+  },
+  {
+    "title": "Карпатський реп - DakhaBrakha cover",
+    "artist": "MalYar, 2K DJ, ANKA",
+    "isrc": "UAEO12300114"
+  },
+  {
+    "title": "For You",
+    "artist": "Omnia, Danyka Nadeau",
+    "isrc": "NLF711810934"
+  },
+  {
+    "title": "Polaris - Extended Mix",
+    "artist": "Indieveed, YAME",
+    "isrc": "ZZOPM2221900"
+  },
+  {
+    "title": "On My Own",
+    "artist": "Depdramez, Markhese",
+    "isrc": "GBSMU6285887"
+  },
+  {
+    "title": "Skywalker",
+    "artist": "Overdream, Proff",
+    "isrc": "GBWUL1929552"
+  },
+  {
+    "title": "I Love You Fantomas",
+    "artist": "YAME, Arsanit",
+    "isrc": "GBKQU2278601"
+  },
+  {
+    "title": "Mountain Breeze",
+    "artist": "Alaera, Belokrinitsky",
+    "isrc": "US83Z1915151"
+  },
+  {
+    "title": "Won't Go Down",
+    "artist": "Blamers, Cyborgs, Luke Jackson-Miller",
+    "isrc": "USLZJ1924086"
+  },
+  {
+    "title": "Above the sky",
+    "artist": "Hardcore Buddhist",
+    "isrc": "QM4TW2399012"
+  },
+  {
+    "title": "Живи",
+    "artist": "Annahata, Alexander Hotra",
+    "isrc": "UABM12300425"
+  },
+  {
+    "title": "A Day with You - Original Mix",
+    "artist": "Soty",
+    "isrc": "UKACT1825079"
+  },
+  {
+    "title": "Blue",
+    "artist": "BADWOR7H",
+    "isrc": "QZTBE2308648"
+  },
+  {
+    "title": "Angel - Willem de Roo Radio Edit",
+    "artist": "The Madison, Simon J, Aelyn, Willem de Roo",
+    "isrc": "NLC731700635"
+  },
+  {
+    "title": "Gravity",
+    "artist": "MEHÍLOVE",
+    "isrc": "CA6D22100263"
+  },
+  {
+    "title": "Tokyo - Sped Up",
+    "artist": "Leat'eq",
+    "isrc": "USUM72403485"
+  },
+  {
+    "title": "Dusk Till Dawn",
+    "artist": "Oleg Farrier",
+    "isrc": "NLC732300127"
+  },
+  {
+    "title": "I'm Waiting - Radio Edit",
+    "artist": "Stage Rockers",
+    "isrc": "ITU221205143"
+  },
+  {
+    "title": "Signal - RPO Remix - Mixed",
+    "artist": "Serge Landar, Rick Pier O'Neil",
+    "isrc": "US83Z2113345"
+  },
+  {
+    "title": "In My Life - Extended Mix",
+    "artist": "Midnight Daddies, Olya Gram",
+    "isrc": "GBKQU1786368"
+  },
+  {
+    "title": "Viktoria - Extended Mix",
+    "artist": "Axel Walters",
+    "isrc": "CA5KR1945570"
+  },
+  {
+    "title": "Blade - Original Mix",
+    "artist": "Juicy M, TWEAK",
+    "isrc": "NL9KQ2390174"
+  },
+  {
+    "title": "Who U Are (ABGT569)",
+    "artist": "Sendr, Quizzow",
+    "isrc": "GBEWA2401113"
+  },
+  {
+    "title": "Come Home - Luis Buehler Extended Remix",
+    "artist": "F4T4L3RR0R, ROYALÈ (US), Luis Buehler",
+    "isrc": "US83Z2347662"
+  },
+  {
+    "title": "Misconduct",
+    "artist": "Omon Breaker",
+    "isrc": "NLCK41094054"
+  },
+  {
+    "title": "Charge",
+    "artist": "A.SWIFT",
+    "isrc": "UKU932422393"
+  },
+  {
+    "title": "Your Attention - Extended DJ Version",
+    "artist": "ALEX IVA, Jovynn",
+    "isrc": "GBKPL2286541"
+  },
+  {
+    "title": "Off Limits (WYM256) - Chronosapien Remix",
+    "artist": "Addictive Glance, Chronosapien",
+    "isrc": "NLD681900869"
+  },
+  {
+    "title": "Lighthearted - Extended Mix",
+    "artist": "Alex Vale",
+    "isrc": "CH3132116225"
+  },
+  {
+    "title": "Regenerate - Mixed",
+    "artist": "Andy Tate, Dima Krasnik",
+    "isrc": "GBLV62026669"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Angelina Lavo, Blamers, Cyborgs",
+    "isrc": "GBSMU6861420"
+  },
+  {
+    "title": "Find Me - MalYar Remix",
+    "artist": "Assol, MalYar",
+    "isrc": "UADZ32010072"
+  },
+  {
+    "title": "First Kiss - Radio Edit",
+    "artist": "Azotti",
+    "isrc": "NLE711500631"
+  },
+  {
+    "title": "Take My Hand",
+    "artist": "Deenight",
+    "isrc": "QZNJV2061695"
+  },
+  {
+    "title": "Kozak",
+    "artist": "Dippu",
+    "isrc": "UKU932112985"
+  },
+  {
+    "title": "Summer nights... - Deep remix",
+    "artist": "Djeff-Z",
+    "isrc": "QZHNB2255424"
+  },
+  {
+    "title": "Delphi - XiJaro & Pitch Remix",
+    "artist": "F.G. Noise, XiJaro & Pitch",
+    "isrc": "NLC731900412"
+  },
+  {
+    "title": "Драйв",
+    "artist": "Sonya Kay",
+    "isrc": "FRX762125733"
+  },
+  {
+    "title": "Пишу тобі листа",
+    "artist": "Ivan NAVI",
+    "isrc": "UABM12200059"
+  },
+  {
+    "title": "Dance With Me",
+    "artist": "Sagan",
+    "isrc": "GB2LD1800514"
+  },
+  {
+    "title": "Очі",
+    "artist": "Artem Pivovarov, Quest Pistols",
+    "isrc": "UABM12300245"
+  },
+  {
+    "title": "Fortress - Dan Stone Remix",
+    "artist": "Ost & Meyer, Ronski Speed, Cate Kanell, Dan Stone",
+    "isrc": "NLC731500016"
+  },
+  {
+    "title": "Your Love Is My Compas - AYU (UA) x Iversoon & Alex Daf Remix",
+    "artist": "Natalie Gioia, AYU (UA), Iversoon & Alex Daf",
+    "isrc": "NLE712400087"
+  },
+  {
+    "title": "Русня",
+    "artist": "DMNTED",
+    "isrc": "UABM12200158"
+  },
+  {
+    "title": "Motherland",
+    "artist": "Vadim Bonkrashkov",
+    "isrc": "QZ5FN2318086"
+  },
+  {
+    "title": "Asereje",
+    "artist": "Dj Quba, Sandra K, NVSV",
+    "isrc": "RUB422102034"
+  },
+  {
+    "title": "Wonderful Life",
+    "artist": "MalYar",
+    "isrc": "QZS642473913"
+  },
+  {
+    "title": "CYBERPUNK",
+    "artist": "Omnia",
+    "isrc": "NLF711806673"
+  },
+  {
+    "title": "Polaris - Indieveed Remix",
+    "artist": "Indieveed, YAME",
+    "isrc": "ZZOPM2221901"
+  },
+  {
+    "title": "All I Wanted",
+    "artist": "Depdramez",
+    "isrc": "QMBZ92303552"
+  },
+  {
+    "title": "Flat Earther (Beautiful Edit)",
+    "artist": "Overdream",
+    "isrc": "QZ5FN1755835"
+  },
+  {
+    "title": "Teens",
+    "artist": "YAME",
+    "isrc": "AUDCB1702231"
+  },
+  {
+    "title": "Daydream",
+    "artist": "Blamers",
+    "isrc": "PL83A1800010"
+  },
+  {
+    "title": "Starchild",
+    "artist": "Hardcore Buddhist",
+    "isrc": "QM4TW2399003"
+  },
+  {
+    "title": "Meganom",
+    "artist": "Soty, Seven24",
+    "isrc": "UKACT1721242"
+  },
+  {
+    "title": "По колу",
+    "artist": "BADWOR7H",
+    "isrc": "SE5752404538"
+  },
+  {
+    "title": "Breathe - Extended Mix",
+    "artist": "The Madison",
+    "isrc": "NLE712100997"
+  }
+]

@@ -1,0 +1,832 @@
+[
+  {
+    "title": "tre",
+    "artist": "Oren Ambarchi, Johan Berthling, Andreas Werliin",
+    "isrc": "US58L2491703"
+  },
+  {
+    "title": "Glass c/w Steel",
+    "artist": "Fred Frith",
+    "isrc": "DEU672400014"
+  },
+  {
+    "title": "Larynx Live, Pt. 1 (Live)",
+    "artist": "Elliott Sharp, Orchestra Carbon",
+    "isrc": "USCGJ2433326"
+  },
+  {
+    "title": "What Do You Do With Memory",
+    "artist": "Bill Orcutt",
+    "isrc": "QMQQH2310609"
+  },
+  {
+    "title": "oto",
+    "artist": "Fennesz, Ryuichi Sakamoto",
+    "isrc": "JPB600675701"
+  },
+  {
+    "title": "The Gate",
+    "artist": "Mary Halvorson",
+    "isrc": "USNO12300201"
+  },
+  {
+    "title": "Stella By Starlight",
+    "artist": "Derek Bailey",
+    "isrc": "USCRW0260704"
+  },
+  {
+    "title": "Compositions 1960: No. 9 - Arr. for Guitar",
+    "artist": "La Monte Young, Noël Akchoté",
+    "isrc": "FR2X41646660"
+  },
+  {
+    "title": "Flight to New Harbor",
+    "artist": "Henry Kaiser, David Lindley",
+    "isrc": "US7CA1300222"
+  },
+  {
+    "title": "Kafka Was Correct",
+    "artist": "Roy Montgomery",
+    "isrc": "USBY50500106"
+  },
+  {
+    "title": "Beautiful Love",
+    "artist": "Nels Cline",
+    "isrc": "USUG11600178"
+  },
+  {
+    "title": "Aqui Como Alla",
+    "artist": "Marc Ribot, Los Cubanos",
+    "isrc": "USAT29800290"
+  },
+  {
+    "title": "Lesson No. 2",
+    "artist": "Glenn Branca",
+    "isrc": "US22N0420201"
+  },
+  {
+    "title": "Trains And Boats And Planes",
+    "artist": "Jim O'Rourke",
+    "isrc": "JPJ900919210"
+  },
+  {
+    "title": "The C In Certain",
+    "artist": "David Grubbs",
+    "isrc": "QM4WV1701307"
+  },
+  {
+    "title": "Mantis",
+    "artist": "Steven R. Smith",
+    "isrc": "GX5MX2162939"
+  },
+  {
+    "title": "Forest Trails",
+    "artist": "Windy & Carl",
+    "isrc": "QM24S1915609"
+  },
+  {
+    "title": "Sad At Times",
+    "artist": "Alan Licht, Loren Connors",
+    "isrc": "US58L0515103"
+  },
+  {
+    "title": "Echolocation",
+    "artist": "Ava Mendoza, Devin Hoff, Mendoza Hoff Revels",
+    "isrc": "USEZ92311702"
+  },
+  {
+    "title": "Paumalu",
+    "artist": "Mike Cooper",
+    "isrc": "QM6N21945981"
+  },
+  {
+    "title": "Wind On Wind",
+    "artist": "Robert Fripp, Brian Eno",
+    "isrc": "GBCTX1801081"
+  },
+  {
+    "title": "Do You Ever Feel Cursed? - From \"Friday Night Lights\" Soundtrack",
+    "artist": "David Torn",
+    "isrc": "USUG10400426"
+  },
+  {
+    "title": "Untitled",
+    "artist": "Harry Pussy",
+    "isrc": "USELN0600093"
+  },
+  {
+    "title": "Rain Tea",
+    "artist": "Ulaan Khol",
+    "isrc": "GX8KD2326296"
+  },
+  {
+    "title": "Part 7",
+    "artist": "Bill Nace",
+    "isrc": "US58L2073707"
+  },
+  {
+    "title": "The Girl With the Flesh Colored Crayon",
+    "artist": "Aix Em Klemm",
+    "isrc": "USI4R0401866"
+  },
+  {
+    "title": "Bells Of...",
+    "artist": "Taku Sugimoto",
+    "isrc": "QM4TW1546417"
+  },
+  {
+    "title": "In the Morning Twilight",
+    "artist": "Steffen Basho-Junghans",
+    "isrc": "SEYTP0600301"
+  },
+  {
+    "title": "Carthage",
+    "artist": "Hayden Pedigo",
+    "isrc": "QMV8L2131901"
+  },
+  {
+    "title": "Two Different People",
+    "artist": "Mark McGuire",
+    "isrc": "ATE691010705"
+  },
+  {
+    "title": "Could Be Nice Too",
+    "artist": "Hans Reichel",
+    "isrc": "QMFMG2302723"
+  },
+  {
+    "title": "Mchifieck Ssuckbp",
+    "artist": "Kazuhisa Uchihashi, Tatsuya Yoshida",
+    "isrc": "USCRW1181950"
+  },
+  {
+    "title": "Sky Breaking, Clouds Falling",
+    "artist": "Mason Lindahl",
+    "isrc": "USCBL2070001"
+  },
+  {
+    "title": "Midway",
+    "artist": "Scott Tuma",
+    "isrc": "uscgh1061918"
+  },
+  {
+    "title": "Effektology",
+    "artist": "Noveller",
+    "isrc": "USCPT2015902"
+  },
+  {
+    "title": "Dance of the Fair Folk",
+    "artist": "Joseph Allred",
+    "isrc": "GBHLW2200617"
+  },
+  {
+    "title": "The Key To Conscience",
+    "artist": "Markus Reuter",
+    "isrc": "US4HD0600010"
+  },
+  {
+    "title": "Climbing",
+    "artist": "Steve Tibbetts, Marc Anderson",
+    "isrc": "DEB338327002"
+  },
+  {
+    "title": "Improvisation PT. 6",
+    "artist": "Keith Rowe, Otomo Yoshihide, Taku Sugimoto",
+    "isrc": "ATD410002008"
+  },
+  {
+    "title": "Soothe the String",
+    "artist": "Norman Westberg",
+    "isrc": "QM4TX1837990"
+  },
+  {
+    "title": "Migrant Song",
+    "artist": "Jean-François Pauvros",
+    "isrc": "PTNF11010405"
+  },
+  {
+    "title": "Juvenescence",
+    "artist": "Yasmin Williams",
+    "isrc": "USA2Z2001830"
+  },
+  {
+    "title": "Darker Trees",
+    "artist": "Michael Grigoni, Chihei Hatakeyama, Stephen Vitiello",
+    "isrc": "QZGWX2090724"
+  },
+  {
+    "title": "Broken Pledges",
+    "artist": "David Kollar, Arve Henriksen",
+    "isrc": "SKA922204043"
+  },
+  {
+    "title": "Home: Ruitor",
+    "artist": "Richard Pinhas",
+    "isrc": "DELI51802602"
+  },
+  {
+    "title": "Unfinished - Sailing",
+    "artist": "Burkhard Stangl",
+    "isrc": "GBJYX1392202"
+  },
+  {
+    "title": "V.3 (1100110_66_*102)",
+    "artist": "Gunnar Geisse",
+    "isrc": "DEGF71712006"
+  },
+  {
+    "title": "Poker Star",
+    "artist": "Hans Tammen, Chuck Bettis, Laura Feathers, Mike Bazini, Nick Berry, Greg Neeld, Matthew Gantt, Sofy Yuditskaya, David Keay, Lorenz Fish, Crystal Penalosa",
+    "isrc": "USFHC1699003"
+  },
+  {
+    "title": "Heater",
+    "artist": "Janet Feder",
+    "isrc": "PTNF11010406"
+  },
+  {
+    "title": "Now Who Are These Guys?",
+    "artist": "Loren Connors, Jim O'Rourke",
+    "isrc": "QM4TW1546436"
+  },
+  {
+    "title": "Worthnt (Rust Mine)",
+    "artist": "Mick Barr",
+    "isrc": "USA2P1604878"
+  },
+  {
+    "title": "Pt. 2",
+    "artist": "Rhys Chatham",
+    "isrc": "USNO11000074"
+  },
+  {
+    "title": "The Garden Of Earthly Flanger",
+    "artist": "Dustin Wong, Takako Minekawa, Good Willsmith",
+    "isrc": "DEX261800244"
+  },
+  {
+    "title": "Theme from an Imaginary Slasher",
+    "artist": "Reg Bloor",
+    "isrc": "usdy41587305"
+  },
+  {
+    "title": "In der Zeit",
+    "artist": "Günter Schickert",
+    "isrc": "DELI51100661"
+  },
+  {
+    "title": "Ooze",
+    "artist": "Remko Scha And The Machines",
+    "isrc": "QMQQH1607624"
+  },
+  {
+    "title": "Early Gray",
+    "artist": "Free Dust, M. Sage",
+    "isrc": "TCAFI2158572"
+  },
+  {
+    "title": "Light Dream",
+    "artist": "Acheloo",
+    "isrc": "GBCCR1310315"
+  },
+  {
+    "title": "Song for an Unborn Sun",
+    "artist": "Midwife",
+    "isrc": "QZANL1725462"
+  },
+  {
+    "title": "Lament",
+    "artist": "Ondrej Zajac",
+    "isrc": "QZS642222542"
+  },
+  {
+    "title": "Into The Mist",
+    "artist": "Davis Redford Triad",
+    "isrc": "USA3C0400001"
+  },
+  {
+    "title": "Mute Massaker",
+    "artist": "Caspar Brötzmann",
+    "isrc": "DEAF70917610"
+  },
+  {
+    "title": "Hailuoto II",
+    "artist": "Heikki Ruokangas",
+    "isrc": "FIZEN2000005"
+  },
+  {
+    "title": "Improvisation (2)",
+    "artist": "Arthur Bull, John Heward, Adam Linson",
+    "isrc": "CAA4J1610056"
+  },
+  {
+    "title": "Glen/Ganges",
+    "artist": "Bill Horist",
+    "isrc": "uscgh1030057"
+  },
+  {
+    "title": "Lucifer Rising 6",
+    "artist": "Bobby BeauSoleil",
+    "isrc": "uscgj0698271"
+  },
+  {
+    "title": "F# Song",
+    "artist": "David Daniell, Douglas McCombs",
+    "isrc": "USTJ20921601"
+  },
+  {
+    "title": "Take Me",
+    "artist": "Deathless",
+    "isrc": "USLZJ1616393"
+  },
+  {
+    "title": "Eyes Of Jewels, Mirrored Bodies",
+    "artist": "Eleven Twenty-Nine",
+    "isrc": "USWEX1000054"
+  },
+  {
+    "title": "Revenge 101",
+    "artist": "FerrariLover",
+    "isrc": "QZTB62251786"
+  },
+  {
+    "title": "Mystery Travel",
+    "artist": "Guillaume Gargaud",
+    "isrc": "US92U1902556"
+  },
+  {
+    "title": "Electric Counterpoint: II. Slow",
+    "artist": "Huw Cheston",
+    "isrc": "UKFSU1600002"
+  },
+  {
+    "title": "La religion est une salope",
+    "artist": "Jon Catler",
+    "isrc": "usz6m0720201"
+  },
+  {
+    "title": "kao-on",
+    "artist": "Joseph Suchy",
+    "isrc": "DES010600331"
+  },
+  {
+    "title": "Delay 160715",
+    "artist": "Kazuo Imai",
+    "isrc": "US2391900127"
+  },
+  {
+    "title": "What Have We Given?",
+    "artist": "Masayuki Takayanagi New Direction Unit",
+    "isrc": "US2391900191"
+  },
+  {
+    "title": "Drug",
+    "artist": "Michael Vallera",
+    "isrc": "DERK91727405"
+  },
+  {
+    "title": "Toque por Solenoide",
+    "artist": "Raúl Cantizano",
+    "isrc": "ES80D2107901"
+  },
+  {
+    "title": "Sand Storm Won't Cover It",
+    "artist": "Shouwang Zhang",
+    "isrc": "PTNF11200144"
+  },
+  {
+    "title": "Pluto In Retrograde",
+    "artist": "Steven Wray Lobdell",
+    "isrc": "USA3C0400073"
+  },
+  {
+    "title": "Es Stand Ein Haus in Nedw Orleans (House of the Rising Sun)",
+    "artist": "Uwe Kropinski",
+    "isrc": "USB8U1008669"
+  },
+  {
+    "title": "Skin and Bones",
+    "artist": "Yoshie Fruchter",
+    "isrc": "USCRW0812801"
+  },
+  {
+    "title": "en",
+    "artist": "Oren Ambarchi, Johan Berthling, Andreas Werliin",
+    "isrc": "US58L2491701"
+  },
+  {
+    "title": "Barn Dance",
+    "artist": "Fred Frith, Darren Johnston",
+    "isrc": "PTNF11609381"
+  },
+  {
+    "title": "Sidetracked",
+    "artist": "Elliott Sharp",
+    "isrc": "usdy41843714"
+  },
+  {
+    "title": "Odds Against Tomorrow",
+    "artist": "Bill Orcutt",
+    "isrc": "QMQQH1910101"
+  },
+  {
+    "title": "Tom",
+    "artist": "Fennesz",
+    "isrc": "DEOE81410089"
+  },
+  {
+    "title": "When Your Lover Has Gone",
+    "artist": "Derek Bailey",
+    "isrc": "USCRW0260703"
+  },
+  {
+    "title": "Collapsing Mouth",
+    "artist": "Mary Halvorson",
+    "isrc": "USNO12300203"
+  },
+  {
+    "title": "The Well-Tuned Piano - Arr. for Guitar",
+    "artist": "La Monte Young, Noël Akchoté",
+    "isrc": "FR2X41631508"
+  },
+  {
+    "title": "Platelet Ice",
+    "artist": "Henry Kaiser, David Lindley",
+    "isrc": "US7CA1300224"
+  },
+  {
+    "title": "The Soul Quietens",
+    "artist": "Roy Montgomery",
+    "isrc": "USI4R0401610"
+  },
+  {
+    "title": "In The Wee Small Hours Of The Morning",
+    "artist": "Nels Cline",
+    "isrc": "USUG11700190"
+  },
+  {
+    "title": "No Me Llores Mas",
+    "artist": "Marc Ribot, Los Cubanos",
+    "isrc": "USAT29800293"
+  },
+  {
+    "title": "Structure",
+    "artist": "Glenn Branca",
+    "isrc": "US22N0420203"
+  },
+  {
+    "title": "Night Driving Sorcerer",
+    "artist": "Jim O'Rourke",
+    "isrc": "NLH981600002"
+  },
+  {
+    "title": "Whirlweek",
+    "artist": "David Grubbs",
+    "isrc": "US58L0518602"
+  },
+  {
+    "title": "Cane Stops",
+    "artist": "Steven R. Smith",
+    "isrc": "TCAFO2103652"
+  },
+  {
+    "title": "Undercurrent",
+    "artist": "Windy & Carl",
+    "isrc": "USI4R0401725"
+  },
+  {
+    "title": "Everybody's Talkin'",
+    "artist": "Alan Licht",
+    "isrc": "USGQ22212206"
+  },
+  {
+    "title": "Diablada",
+    "artist": "Ava Mendoza, Devin Hoff, Mendoza Hoff Revels",
+    "isrc": "USEZ92311706"
+  },
+  {
+    "title": "Kokoke Nalu",
+    "artist": "Mike Cooper",
+    "isrc": "AUYF10910153"
+  },
+  {
+    "title": "I Don't Care About Sleep Anymore",
+    "artist": "Harry Pussy",
+    "isrc": "USELN0600116"
+  },
+  {
+    "title": "Apology Drawn / Gramercy Park",
+    "artist": "David Torn",
+    "isrc": "US3M51325006"
+  },
+  {
+    "title": "Wind On Water",
+    "artist": "Robert Fripp, Brian Eno",
+    "isrc": "GBCTX1801078"
+  },
+  {
+    "title": "From Overland They Came in Droves",
+    "artist": "Ulaan Khol",
+    "isrc": "USBTH1200002"
+  },
+  {
+    "title": "Boil First",
+    "artist": "Bill Nace",
+    "isrc": "US58L2285203"
+  },
+  {
+    "title": "The Luxury of Dirt",
+    "artist": "Aix Em Klemm",
+    "isrc": "USI4R0401870"
+  },
+  {
+    "title": "Spoon River I",
+    "artist": "Taku Sugimoto",
+    "isrc": "QM4TW1546419"
+  },
+  {
+    "title": "Charlette",
+    "artist": "Steffen Basho-Junghans",
+    "isrc": "SEYTP0600304"
+  },
+  {
+    "title": "Extended Forecast",
+    "artist": "Mark McGuire",
+    "isrc": "QZHNC2357250"
+  },
+  {
+    "title": "Elsewhere",
+    "artist": "Hayden Pedigo",
+    "isrc": "QMV8L2234503"
+  },
+  {
+    "title": "Mini-Suite",
+    "artist": "Hans Reichel",
+    "isrc": "USHRZ9300098"
+  },
+  {
+    "title": "Walk on the wild side - Cover",
+    "artist": "Kazuhisa Uchihashi",
+    "isrc": "TCJPS2212893"
+  },
+  {
+    "title": "Distress",
+    "artist": "Mason Lindahl",
+    "isrc": "USCBL2070004"
+  },
+  {
+    "title": "Beautiful Dreamer",
+    "artist": "Scott Tuma",
+    "isrc": "uscgh1061914"
+  },
+  {
+    "title": "Glacial Wave",
+    "artist": "Noveller",
+    "isrc": "GBCKK1541102"
+  },
+  {
+    "title": "Sweetcorn Ramble",
+    "artist": "Joseph Allred",
+    "isrc": "GBHLW2200613"
+  },
+  {
+    "title": "Hold",
+    "artist": "Markus Reuter",
+    "isrc": "deq750300053"
+  },
+  {
+    "title": "With Hidden Noise",
+    "artist": "Keith Rowe, Kim Cascone",
+    "isrc": "QMFMF1517421"
+  },
+  {
+    "title": "The Big Wind",
+    "artist": "Steve Tibbetts",
+    "isrc": "DEB338121801"
+  },
+  {
+    "title": "Drops in a Bucket",
+    "artist": "Norman Westberg",
+    "isrc": "QM4TX1837991"
+  },
+  {
+    "title": "While Searching",
+    "artist": "Jean-François Pauvros, Jean Marc Montera, Noël Akchoté",
+    "isrc": "FR2X41813242"
+  },
+  {
+    "title": "Breeze Rises",
+    "artist": "Michael Grigoni, Chihei Hatakeyama, Stephen Vitiello",
+    "isrc": "QZGWX2090726"
+  },
+  {
+    "title": "Alma and the Silhouette of Hope",
+    "artist": "David Kollar, Arve Henriksen",
+    "isrc": "SKA922204040"
+  },
+  {
+    "title": "Sunshowers",
+    "artist": "Yasmin Williams",
+    "isrc": "USA2Z2001828"
+  },
+  {
+    "title": "Variations VII Sur Le Thème Des Bene Gesserit",
+    "artist": "Richard Pinhas",
+    "isrc": "GBBCK1701197"
+  },
+  {
+    "title": "VII.6 (10101011_AB_*171)",
+    "artist": "Gunnar Geisse",
+    "isrc": "DEGF71712010"
+  },
+  {
+    "title": "Intersection",
+    "artist": "Hans Tammen, Dominic Duval",
+    "isrc": "USA560448287"
+  },
+  {
+    "title": "Distance to Home",
+    "artist": "Janet Feder",
+    "isrc": "USEBN2100034"
+  },
+  {
+    "title": "Airs 12",
+    "artist": "Loren Connors",
+    "isrc": "DEX260992856"
+  },
+  {
+    "title": "Blespac (Spathages)",
+    "artist": "Mick Barr",
+    "isrc": "USA2P1604877"
+  },
+  {
+    "title": "Part One",
+    "artist": "Rhys Chatham",
+    "isrc": "UK5HD1600001"
+  },
+  {
+    "title": "Cityscape Floated",
+    "artist": "Dustin Wong",
+    "isrc": "USTJ21334807"
+  },
+  {
+    "title": "Devil Without a God",
+    "artist": "Reg Bloor",
+    "isrc": "ushm22310435"
+  },
+  {
+    "title": "Puls",
+    "artist": "Günter Schickert",
+    "isrc": "DELI51100660"
+  },
+  {
+    "title": "Passing, Passing Off",
+    "artist": "Free Dust, M. Sage",
+    "isrc": "TCAEC1937629"
+  },
+  {
+    "title": "två",
+    "artist": "Oren Ambarchi, Johan Berthling, Andreas Werliin",
+    "isrc": "US58L2491702"
+  },
+  {
+    "title": "Dawns",
+    "artist": "Fred Frith",
+    "isrc": "DEU672400021"
+  },
+  {
+    "title": "The Man Who Shot Liberty Valance",
+    "artist": "Elliott Sharp",
+    "isrc": "USCRW9711412"
+  },
+  {
+    "title": "The Sun and Its Horizon",
+    "artist": "Bill Orcutt",
+    "isrc": "QMQQH1910102"
+  },
+  {
+    "title": "Rain Dance Pt 1",
+    "artist": "Derek Bailey",
+    "isrc": "USF2B9720101"
+  },
+  {
+    "title": "Desiderata",
+    "artist": "Mary Halvorson",
+    "isrc": "USNO12300205"
+  },
+  {
+    "title": "haru",
+    "artist": "Fennesz, Ryuichi Sakamoto",
+    "isrc": "JPB600675703"
+  },
+  {
+    "title": "Sederunt principes, Pt. 1 - Arr. for Guitar",
+    "artist": "Pérotin, Noël Akchoté",
+    "isrc": "FR2X41527108"
+  },
+  {
+    "title": "Over the Ice",
+    "artist": "Henry Kaiser, David Lindley",
+    "isrc": "US7CA1300221"
+  },
+  {
+    "title": "She Waits On Temple IV",
+    "artist": "Roy Montgomery",
+    "isrc": "USI4R0401608"
+  },
+  {
+    "title": "Racy",
+    "artist": "Nels Cline, Julian Lage",
+    "isrc": "USMAR1409102"
+  },
+  {
+    "title": "The Spectacular Commodity",
+    "artist": "Glenn Branca",
+    "isrc": "US22N0420202"
+  },
+  {
+    "title": "Esclavo Triste",
+    "artist": "Marc Ribot, Los Cubanos",
+    "isrc": "USAT29800297"
+  },
+  {
+    "title": "Kokytos",
+    "artist": "Jim O'Rourke, Elliott Sharp",
+    "isrc": "QZ6WV2108102"
+  },
+  {
+    "title": "Fallowfield",
+    "artist": "David Grubbs, Liam Keenan",
+    "isrc": "QM4TW2428397"
+  },
+  {
+    "title": "Last Opening",
+    "artist": "Steven R. Smith",
+    "isrc": "GX5MX2162943"
+  },
+  {
+    "title": "The Sun",
+    "artist": "Windy & Carl",
+    "isrc": "USI4R0401872"
+  },
+  {
+    "title": "Block That Nixon",
+    "artist": "Alan Licht, Loren Connors",
+    "isrc": "US58L0515102"
+  },
+  {
+    "title": "Mangrove Sea",
+    "artist": "Ava Mendoza, Dave Sewelson",
+    "isrc": "USA2B2400074"
+  },
+  {
+    "title": "Saudade Do Santos-o-Velho",
+    "artist": "Mike Cooper, Steve Gunn",
+    "isrc": "US6PQ1400040"
+  },
+  {
+    "title": "Lost My E",
+    "artist": "Harry Pussy",
+    "isrc": "USELN0600122"
+  },
+  {
+    "title": "end credit suite",
+    "artist": "David Torn",
+    "isrc": "US5940700248"
+  },
+  {
+    "title": "Pariah Dogs",
+    "artist": "Ulaan Khol",
+    "isrc": "USBTH1200001"
+  },
+  {
+    "title": "The Heavenly Music Corporation I",
+    "artist": "Robert Fripp, Brian Eno",
+    "isrc": "GBCTX1801069"
+  },
+  {
+    "title": "Les Echos (Piece for Tuba)",
+    "artist": "Bill Nace",
+    "isrc": "US58L2285202"
+  },
+  {
+    "title": "Spoon River II",
+    "artist": "Taku Sugimoto",
+    "isrc": "QM4TW1546429"
+  },
+  {
+    "title": "Sparkwood and Twentyone",
+    "artist": "Aix Em Klemm",
+    "isrc": "USI4R0401871"
+  },
+  {
+    "title": "Waiting for the Clouds",
+    "artist": "Steffen Basho-Junghans",
+    "isrc": "QZFZ31963481"
+  },
+  {
+    "title": "To Continue",
+    "artist": "Mark McGuire",
+    "isrc": "USA2Z1710906"
+  }
+]

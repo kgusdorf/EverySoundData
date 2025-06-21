@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Ua Lologo",
+    "artist": "Mount Fao Band",
+    "isrc": "USJ3V1095165"
+  },
+  {
+    "title": "Lo'u Au e Lau Pele Ea",
+    "artist": "Mt Fao Band",
+    "isrc": "USJ3V1202246"
+  },
+  {
+    "title": "E Mafaia Le Atua Mea Uma",
+    "artist": "Joe Failua",
+    "isrc": "USJ3V1243308"
+  },
+  {
+    "title": "Pretty Teine",
+    "artist": "Tama Ole Mua'au",
+    "isrc": "USJ3V1133218"
+  },
+  {
+    "title": "Ua Le Faamaoni",
+    "artist": "Shado Avia",
+    "isrc": "USJ3V1242867"
+  },
+  {
+    "title": "Lou Nei Tino Ua Vaivai",
+    "artist": "Tatiana Band",
+    "isrc": "QZHN61960521"
+  },
+  {
+    "title": "I'M So Sorry",
+    "artist": "Ta'i Logoipule, Chris Pomare",
+    "isrc": "NZAM01903513"
+  },
+  {
+    "title": "Ma'a Samoa",
+    "artist": "Rosa Pa'epa'e",
+    "isrc": "NZVP01101640"
+  },
+  {
+    "title": "Tama o Le Fetu Fou",
+    "artist": "Soo Joe Tiatia",
+    "isrc": "USJ3V1233101"
+  },
+  {
+    "title": "Malu Ae O Le Afiafi",
+    "artist": "Laumata Meaalofa Ikenasio",
+    "isrc": "USJ3V1156640"
+  },
+  {
+    "title": "E oso a'e pea le La",
+    "artist": "Le La Oso Band",
+    "isrc": "NZVS02000077"
+  },
+  {
+    "title": "Eva Ia Mamaia",
+    "artist": "Michael Mamaia",
+    "isrc": "NZPB12300946"
+  },
+  {
+    "title": "Siva Samoa",
+    "artist": "Nanai Ofisa Ofisa",
+    "isrc": "USJ3V1219151"
+  },
+  {
+    "title": "Sei E Koe Sau Kasi A La - Remix",
+    "artist": "Dr. Rome Production, DJ Dave",
+    "isrc": "NZAM01902911"
+  },
+  {
+    "title": "Pule Aoao Le Atua",
+    "artist": "Tiama'a",
+    "isrc": "QZKSK2150522"
+  },
+  {
+    "title": "Gata Ula",
+    "artist": "Mareko Pailate Eteru",
+    "isrc": "USJ3V1115699"
+  },
+  {
+    "title": "Ma'asoama",
+    "artist": "Fautua Legaoi",
+    "isrc": "USJ3V1176160"
+  },
+  {
+    "title": "Sini O Lo'u Olaga",
+    "artist": "Le Nifoloa",
+    "isrc": "USJ3V1114535"
+  },
+  {
+    "title": "Nofo Pologa",
+    "artist": "Aniseto Falemoe",
+    "isrc": "NZPB12201029"
+  },
+  {
+    "title": "Feiloai I Talosaga",
+    "artist": "Fau'ula",
+    "isrc": "USJ3V1134078"
+  },
+  {
+    "title": "Taufonofono Lou Fatu",
+    "artist": "Saia Frank Sola",
+    "isrc": "TCAEL1907417"
+  },
+  {
+    "title": "Rise - Tu I Luga",
+    "artist": "Lole Usoalii",
+    "isrc": "nzuso0700002"
+  },
+  {
+    "title": "O Le Olaga O Samoa",
+    "artist": "Jerome Grey",
+    "isrc": "USX9P1349415"
+  },
+  {
+    "title": "Manaia Le Lagi",
+    "artist": "Della Jensen, Lagi Jensen",
+    "isrc": "GBMA22152319"
+  },
+  {
+    "title": "Tatau A Samoa",
+    "artist": "The Golden Ali'is",
+    "isrc": "NZKP01808804"
+  },
+  {
+    "title": "Taeao Segi Segi",
+    "artist": "Suliveta Kurene",
+    "isrc": "NZOD00800660"
+  },
+  {
+    "title": "Fa'Afofoga Maia Samoa",
+    "artist": "Penina O Tiafau",
+    "isrc": "NZOD00800004"
+  },
+  {
+    "title": "Sulu I Le Papa Gagala",
+    "artist": "Punialava’a",
+    "isrc": "NZAM01801506"
+  },
+  {
+    "title": "Uma mea uma",
+    "artist": "Uso Mikey, Tapu Aumua Soli, Dr. Rome Production",
+    "isrc": "NZAM01902473"
+  },
+  {
+    "title": "Ua E Melea Ita",
+    "artist": "Mautoatasi Asuao",
+    "isrc": "QZKSK2150196"
+  },
+  {
+    "title": "Taute",
+    "artist": "RSA Band",
+    "isrc": "QZHN81930470"
+  },
+  {
+    "title": "Sei Koe Sau Kasi A La",
+    "artist": "Romeo Samoa, Penehuro Lemauai",
+    "isrc": "NZAM01902052"
+  },
+  {
+    "title": "A'apa Mai",
+    "artist": "Chrisjes",
+    "isrc": "QZKSK2130045"
+  },
+  {
+    "title": "Loimata O Le Fiafia",
+    "artist": "Annie Grace",
+    "isrc": "NZAM01600250"
+  },
+  {
+    "title": "Lo'u Sei",
+    "artist": "Eric Niu Vili, Dr. Rome Production",
+    "isrc": "NZAM01902603"
+  },
+  {
+    "title": "Sui Tulaga",
+    "artist": "Tapu Aumua Soli, Dr. Rome Production",
+    "isrc": "NZAM02001180"
+  },
+  {
+    "title": "Samoan Girl",
+    "artist": "2421 Brothers",
+    "isrc": "uscgj1255428"
+  },
+  {
+    "title": "Fika Mai Le Pese",
+    "artist": "Zipso, Mr Tee, Loces, Shy Guy",
+    "isrc": "NZPB12200869"
+  },
+  {
+    "title": "Fa'afofoga Maia Samoa",
+    "artist": "Lagi Jensen, Della Jensen",
+    "isrc": "GBMA22164653"
+  },
+  {
+    "title": "Pele Moana",
+    "artist": "Ali's of Samoa",
+    "isrc": "NZVP01000854"
+  },
+  {
+    "title": "La'u Samoa E",
+    "artist": "Fob Shop",
+    "isrc": "USJ3V1137575"
+  },
+  {
+    "title": "Aumaia Lou Alofa (Remix)",
+    "artist": "Ava Boyz",
+    "isrc": "uscgh1308822"
+  },
+  {
+    "title": "Baby Why (feat. Azzy)",
+    "artist": "Richard Parker, Azzy",
+    "isrc": "TCACP1651203"
+  },
+  {
+    "title": "Tofa Lau Pele",
+    "artist": "Taps Band",
+    "isrc": "TCAAT1091020"
+  },
+  {
+    "title": "Faitatala",
+    "artist": "Penehuro Lemauai, King A",
+    "isrc": "NZAM01902053"
+  },
+  {
+    "title": "O Le Taualuga",
+    "artist": "Marina Davis",
+    "isrc": "TCAEA1819268"
+  },
+  {
+    "title": "Mapu Maia I Galuega",
+    "artist": "Tala Pauga",
+    "isrc": "USJ3V1147394"
+  },
+  {
+    "title": "Tautai A'e",
+    "artist": "SJ Demarco, Wesley Lafaialii",
+    "isrc": "QZPLR2302531"
+  },
+  {
+    "title": "Songs For A Samoan Siva",
+    "artist": "Choir Of Western Samoa Teachers' Training College, Apia",
+    "isrc": "NZKP01202108"
+  },
+  {
+    "title": "Samoae Maopoopo Mai",
+    "artist": "Vaniah Toloa",
+    "isrc": "TCABK1289006"
+  },
+  {
+    "title": "Iesu O Le Vine Moni (feat. Tanielu Aiono Sataraka & Peniamina Peniamina)",
+    "artist": "Eni F. H. Faleomavaega, Tanielu Aiono Sataraka, Peniamina Peniamina",
+    "isrc": "TCACZ1708825"
+  },
+  {
+    "title": "A Samoan Wedding Song",
+    "artist": "Jamoa Jam",
+    "isrc": "NZAM00801018"
+  },
+  {
+    "title": "Lia'ina I Le Ala",
+    "artist": "Sammy Atoa, Young Davie",
+    "isrc": "NZPB12201880"
+  },
+  {
+    "title": "Alright",
+    "artist": "Pacific Soul",
+    "isrc": "NZAM01200302"
+  },
+  {
+    "title": "Fai Mai Nei",
+    "artist": "Bad Enough, Avia Brothers, Sefa",
+    "isrc": "NZAM01901920"
+  },
+  {
+    "title": "Kisi Mai Baby",
+    "artist": "LOVE.KING",
+    "isrc": "USL4Q2021709"
+  },
+  {
+    "title": "Savalivali Mai A",
+    "artist": "The Pride of Samoa",
+    "isrc": "NZVP01101602"
+  },
+  {
+    "title": "Siva Samoa 2K22",
+    "artist": "Wayno",
+    "isrc": "NZPB12202208"
+  },
+  {
+    "title": "Tele Fetu",
+    "artist": "Vaovasa Segi, Tacy",
+    "isrc": "TCAEW2082946"
+  },
+  {
+    "title": "Uso Song 4:35",
+    "artist": "Alo Key",
+    "isrc": "TCAAR1044483"
+  },
+  {
+    "title": "We Are Samoa",
+    "artist": "Anne Robertson",
+    "isrc": "USJ3V0661352"
+  },
+  {
+    "title": "Afai E Te Alofa Ia A'U",
+    "artist": "The Five Stars",
+    "isrc": "NZKP01108703"
+  },
+  {
+    "title": "Dark Moon",
+    "artist": "Daniel Rae Costello",
+    "isrc": "QZKSK2150003"
+  },
+  {
+    "title": "My Girl",
+    "artist": "BrownHill",
+    "isrc": "NZDR01300003"
+  },
+  {
+    "title": "O'u Mafaufauga",
+    "artist": "Ozki Band",
+    "isrc": "usdy41830087"
+  },
+  {
+    "title": "If Tomorrow Never Comes",
+    "artist": "Swiss, Etana",
+    "isrc": "NZDR01300027"
+  },
+  {
+    "title": "Lota Nuu",
+    "artist": "Samoan Gospel Heralds",
+    "isrc": "ushm91051086"
+  },
+  {
+    "title": "Lamepa",
+    "artist": "Miriama Samuelu",
+    "isrc": "TCACE1570940"
+  },
+  {
+    "title": "Umoya Wami",
+    "artist": "Mr Tee, Bobzin, Nhlekziin",
+    "isrc": "ZAK572000012"
+  },
+  {
+    "title": "Lady Love",
+    "artist": "Bina Butta, Kennyon Brown",
+    "isrc": "QZK6J2187654"
+  },
+  {
+    "title": "Faitala",
+    "artist": "Sam Chookoon",
+    "isrc": "ushm91809366"
+  },
+  {
+    "title": "Oute Tuu Atu Nei Lou Ola",
+    "artist": "Ieova Irae '95",
+    "isrc": "NZVP01101577"
+  },
+  {
+    "title": "Pate Pate",
+    "artist": "Te Vaka",
+    "isrc": "nzso09900004"
+  },
+  {
+    "title": "La'u Honey",
+    "artist": "Tama Samoa",
+    "isrc": "NZVP01000893"
+  },
+  {
+    "title": "O Oe Lau Lili",
+    "artist": "Bruce Paterika Gase",
+    "isrc": "USJ3V1164706"
+  },
+  {
+    "title": "Goodbye I'll Never Forget You",
+    "artist": "The Grey Sisters",
+    "isrc": "NZVK07502119"
+  },
+  {
+    "title": "Hiva Oe Ofa",
+    "artist": "Pan Pacific Singers",
+    "isrc": "USKYW1007436"
+  },
+  {
+    "title": "Lo'u Matai (My Chief)",
+    "artist": "Aggie Grey's Hotel Stringband",
+    "isrc": "NLC199500278"
+  },
+  {
+    "title": "Le Nu'u O Fa'atali",
+    "artist": "Avia Brothers, Sefa, Bad Enough",
+    "isrc": "NZAM01901586"
+  },
+  {
+    "title": "When a Man Cries",
+    "artist": "Joe Wilson",
+    "isrc": "USMR51371587"
+  },
+  {
+    "title": "Tina Amiolelei",
+    "artist": "Sive Vaiga Ualesi",
+    "isrc": "QZNWX2100450"
+  },
+  {
+    "title": "Nofo I Salafai Lo'u Motu",
+    "artist": "Mount Fao Band",
+    "isrc": "USJ3V1093522"
+  },
+  {
+    "title": "Siva Siva Mai",
+    "artist": "Mt Fao Band",
+    "isrc": "USJ3V1423247"
+  },
+  {
+    "title": "Tauga Apu",
+    "artist": "Joe Failua",
+    "isrc": "QZK6L2083011"
+  },
+  {
+    "title": "Toa O Samoa",
+    "artist": "Tama Ole Mua'au",
+    "isrc": "USJ3V1133219"
+  },
+  {
+    "title": "Ua Faigofie Mea e Faigata",
+    "artist": "Shado Avia",
+    "isrc": "USJ3V1242870"
+  },
+  {
+    "title": "Fiafia Lou Loto",
+    "artist": "Tatiana Band",
+    "isrc": "QZHN61960526"
+  },
+  {
+    "title": "Pe Aisea Na Ta Masani",
+    "artist": "Ta'i Logoipule",
+    "isrc": "NZAM02103103"
+  },
+  {
+    "title": "La'u Pele O Fea Oe",
+    "artist": "Rosa Pa'epa'e",
+    "isrc": "NZVP01101639"
+  },
+  {
+    "title": "Koso I Fafo",
+    "artist": "Soo Joe Tiatia",
+    "isrc": "USJ3V1122454"
+  },
+  {
+    "title": "Taliga I Sou Alofa",
+    "artist": "Laumata Meaalofa Ikenasio",
+    "isrc": "USJ3V1156637"
+  },
+  {
+    "title": "O Aso Uma",
+    "artist": "Le La Oso Band",
+    "isrc": "NZVS02000105"
+  },
+  {
+    "title": "Nanei Le Po Manaia",
+    "artist": "Michael Mamaia",
+    "isrc": "NZPB12300942"
+  },
+  {
+    "title": "Sau Ta O",
+    "artist": "Nanai Ofisa Ofisa",
+    "isrc": "USJ3V1219129"
+  },
+  {
+    "title": "OUTE FIA MANA'O I LOU FATU",
+    "artist": "Dr. Rome Production, Ta'i Logoipule",
+    "isrc": "NZAM02222428"
+  },
+  {
+    "title": "Lou Matai",
+    "artist": "Tiama'a, Vili Ieru, Iopu Faivalu, Fafo Aulalo, Fale Aulalo, Tavita Mose",
+    "isrc": "NZVS02000009"
+  },
+  {
+    "title": "O Fea Sa E Moe Ai",
+    "artist": "Mareko Pailate Eteru",
+    "isrc": "USJ3V1115693"
+  },
+  {
+    "title": "Mafutaga Motusia",
+    "artist": "Fautua Legaoi",
+    "isrc": "USJ3V1176165"
+  },
+  {
+    "title": "Ua Lalelei Oe",
+    "artist": "Le Nifoloa",
+    "isrc": "USJ3V1115653"
+  },
+  {
+    "title": "Oe La'u Tausala",
+    "artist": "Aniseto Falemoe",
+    "isrc": "NZVS02000023"
+  },
+  {
+    "title": "Tau Laia Sou Sei",
+    "artist": "Fau'ula",
+    "isrc": "USJ3V1134080"
+  },
+  {
+    "title": "Ua Liu Malala Lo'u Faamaoni",
+    "artist": "Saia Frank Sola, SJ Demarco, Moni",
+    "isrc": "QZES52013173"
+  },
+  {
+    "title": "Sweet Lady of Waiahole",
+    "artist": "Jerome Grey",
+    "isrc": "USX9P1356098"
+  },
+  {
+    "title": "Le Aso Fia Fia",
+    "artist": "Lole Usoalii",
+    "isrc": "nzuso0700010"
+  },
+  {
+    "title": "Sili Ai Lena",
+    "artist": "Della Jensen, Lagi Jensen",
+    "isrc": "GBLFP2024372"
+  },
+  {
+    "title": "Pele Moana",
+    "artist": "The Golden Ali'is",
+    "isrc": "NZKP01808805"
+  },
+  {
+    "title": "Alofa I Ou Tuaoi",
+    "artist": "Suliveta Kurene",
+    "isrc": "NZOD00800900"
+  },
+  {
+    "title": "Nofo I Salafai Lo'U Motu",
+    "artist": "Penina O Tiafau",
+    "isrc": "NZOD00800001"
+  },
+  {
+    "title": "Fea upu ma tala",
+    "artist": "Uso Mikey, Brother Nabo, Dr. Rome Production",
+    "isrc": "NZAM01902484"
+  },
+  {
+    "title": "Ana Lē Seanoa 'oe",
+    "artist": "Punialava’a",
+    "isrc": "NZAM01801505"
+  },
+  {
+    "title": "Tolu Manuiti",
+    "artist": "Mautoatasi Asuao",
+    "isrc": "QZKSK2100076"
+  },
+  {
+    "title": "Tama Samoa (Manu Samoa Anthem)",
+    "artist": "RSA Band",
+    "isrc": "QZHN81975663"
+  },
+  {
+    "title": "Suki Le Fiafia",
+    "artist": "Romeo Samoa, Penehuro Lemauai, Shorty Kap",
+    "isrc": "NZAM01902051"
+  },
+  {
+    "title": "Toe Fo'i Mai",
+    "artist": "Chrisjes",
+    "isrc": "TCADD1724495"
+  },
+  {
+    "title": "E Moni le alofa",
+    "artist": "Eric Niu Vili, Dr. Rome Production",
+    "isrc": "NZAM01902598"
+  },
+  {
+    "title": "Lalelei Tofaina Oe",
+    "artist": "Annie Grace, Loma Komiti Iosefa",
+    "isrc": "NZAM01903028"
+  },
+  {
+    "title": "Tago Lima Lua",
+    "artist": "Tapu Aumua Soli, Dr. Rome Production",
+    "isrc": "NZAM01902057"
+  },
+  {
+    "title": "Le Mafai",
+    "artist": "2421 Brothers",
+    "isrc": "uscgj1255425"
+  },
+  {
+    "title": "Teine Tama",
+    "artist": "Zipso, Mr Tee",
+    "isrc": "NZPB12200885"
+  },
+  {
+    "title": "Tatau O Samoa",
+    "artist": "Ali's of Samoa",
+    "isrc": "NZVP01000846"
+  },
+  {
+    "title": "Masina",
+    "artist": "Fob Shop",
+    "isrc": "USJ3V1137580"
+  },
+  {
+    "title": "Keys (Ignition Remixx)",
+    "artist": "Ava Boyz",
+    "isrc": "ushm91757052"
+  },
+  {
+    "title": "Samoan Wedding Song (Now & Forever)",
+    "artist": "Taps Band",
+    "isrc": "USTCG1071218"
+  },
+  {
+    "title": "Polynesian Girl",
+    "artist": "Richard Parker",
+    "isrc": "TCADB1735564"
+  },
+  {
+    "title": "Faamagalo Mai",
+    "artist": "Penehuro Lemauai, Ta'i Logoipule",
+    "isrc": "NZAM01902255"
+  },
+  {
+    "title": "La'u Samoa",
+    "artist": "Marina Davis",
+    "isrc": "TCAEA1809793"
+  },
+  {
+    "title": "Iesu E, Ua Na'o Oe",
+    "artist": "Tala Pauga, Sau Siufanua Seuseu, Sau Si'ufanua",
+    "isrc": "NZAM01402000"
+  },
+  {
+    "title": "Rosa Oe",
+    "artist": "SJ Demarco",
+    "isrc": "QZMEM2321301"
+  },
+  {
+    "title": "Malie E Tagifa",
+    "artist": "Choir Of Western Samoa Teachers' Training College, Apia",
+    "isrc": "NZKP01202103"
+  },
+  {
+    "title": "Falealili Uma (Medley/Traditional) [feat. Tanielu Aiono Sataraka & Peniamina Peniamina]",
+    "artist": "Eni F. H. Faleomavaega, Tanielu Aiono Sataraka, Peniamina Peniamina",
+    "isrc": "TCACZ1708819"
+  },
+  {
+    "title": "Osana",
+    "artist": "Vaniah Toloa",
+    "isrc": "QZKSK2199735"
+  },
+  {
+    "title": "Fatu Na Toto",
+    "artist": "Jamoa Jam, Pacific Soul",
+    "isrc": "NZAM00801026"
+  },
+  {
+    "title": "E Leai Seisi E Tonu I Lenei Olaga",
+    "artist": "Sammy Atoa",
+    "isrc": "NZPB12302383"
+  },
+  {
+    "title": "Uku Pegisigi",
+    "artist": "Bad Enough, Kas Futialo, Master Sony, Lil Mike, King Afa, PJM",
+    "isrc": "NZAM01900087"
+  },
+  {
+    "title": "Mamalu O Samoa",
+    "artist": "Pacific Soul",
+    "isrc": "NZAM01200300"
+  },
+  {
+    "title": "Le Tausala Samoa",
+    "artist": "LOVE.KING",
+    "isrc": "USHM21870240"
+  },
+  {
+    "title": "Tausagi Mai Manu",
+    "artist": "The Pride of Samoa",
+    "isrc": "NZVP01101597"
+  },
+  {
+    "title": "E Tasi Ae Lasi",
+    "artist": "Mount Fao Band",
+    "isrc": "USJ3V1093527"
+  },
+  {
+    "title": "Evaeva Mai",
+    "artist": "Mt Fao Band",
+    "isrc": "USJ3V1202244"
+  },
+  {
+    "title": "Avatu Ita Nei",
+    "artist": "Joe Failua",
+    "isrc": "USJ3V1243307"
+  },
+  {
+    "title": "Le Paipa I Gau",
+    "artist": "Tama Ole Mua'au",
+    "isrc": "USJ3V1133217"
+  },
+  {
+    "title": "Siva Mai Ma Luelue",
+    "artist": "Shado Avia",
+    "isrc": "USJ3V1242871"
+  },
+  {
+    "title": "O Oe O Le Fualaau",
+    "artist": "Tatiana Band",
+    "isrc": "QZHN61960518"
+  },
+  {
+    "title": "Lo'u Ivi",
+    "artist": "Ta'i Logoipule",
+    "isrc": "NZAM02200353"
+  },
+  {
+    "title": "Uo Moni",
+    "artist": "Rosa Pa'epa'e",
+    "isrc": "NZVP01101632"
+  },
+  {
+    "title": "Sweet Island Teine",
+    "artist": "Soo Joe Tiatia",
+    "isrc": "USJ3V1233098"
+  },
+  {
+    "title": "Tupulaga Aoga",
+    "artist": "Laumata Meaalofa Ikenasio",
+    "isrc": "USJ3V1156638"
+  },
+  {
+    "title": "Tepa I le Amataga",
+    "artist": "Le La Oso Band",
+    "isrc": "NZVS02000098"
+  },
+  {
+    "title": "Mamao Ma Maualuga Le Nuu",
+    "artist": "Michael Mamaia",
+    "isrc": "NZPB12300941"
+  },
+  {
+    "title": "Sau Ia Iesu",
+    "artist": "Nanai Ofisa Ofisa",
+    "isrc": "USJ3V1219143"
+  },
+  {
+    "title": "Lue Mai O",
+    "artist": "Dr. Rome Production, Tapu Aumua Soli, Penehuro Lemauai, Uso Mikey",
+    "isrc": "NZAM01902945"
+  },
+  {
+    "title": "Seu Lou Pologa",
+    "artist": "Tiama'a, Vili Ieru, Iopu Faivalu, Fafo Aulalo, Fale Aulalo, Tavita Mose",
+    "isrc": "NZVS02000004"
+  },
+  {
+    "title": "Seu Au Fika",
+    "artist": "Mareko Pailate Eteru",
+    "isrc": "USJ3V1115690"
+  },
+  {
+    "title": "Naumati Lagona",
+    "artist": "Fautua Legaoi",
+    "isrc": "USJ3V1176162"
+  },
+  {
+    "title": "L'ou Faavalea",
+    "artist": "Le Nifoloa",
+    "isrc": "USJ3V1114537"
+  },
+  {
+    "title": "Pouligia Ole Alofa",
+    "artist": "Aniseto Falemoe",
+    "isrc": "NZVS02000026"
+  },
+  {
+    "title": "Lo'u Au E Lau Pele Ea",
+    "artist": "Fau'ula",
+    "isrc": "USJ3V1134076"
+  },
+  {
+    "title": "La'u Mate Poto",
+    "artist": "Saia Frank Sola",
+    "isrc": "QZK6F2175237"
+  },
+  {
+    "title": "Eleni",
+    "artist": "Jerome Grey, AVA",
+    "isrc": "USX9P1369020"
+  },
+  {
+    "title": "Samoana - Bonus Track",
+    "artist": "Lole Usoalii",
+    "isrc": "nzuso0700017"
+  },
+  {
+    "title": "Ou te Masalo Ua e Musu",
+    "artist": "Della Jensen",
+    "isrc": "NZPB12300425"
+  },
+  {
+    "title": "La'u Lupe Ua Lele",
+    "artist": "The Golden Ali'is",
+    "isrc": "NZKP01808809"
+  },
+  {
+    "title": "Faamalosi Pea",
+    "artist": "Suliveta Kurene",
+    "isrc": "NZOD00800648"
+  },
+  {
+    "title": "Siva Maia Oe La Tausala",
+    "artist": "Penina O Tiafau",
+    "isrc": "NZOD00800020"
+  },
+  {
+    "title": "Tiga lo'u ola",
+    "artist": "Uso Mikey, Dr. Rome Production",
+    "isrc": "NZAM01902475"
+  },
+  {
+    "title": "Pe a Lūlūina Papa Fa'avae",
+    "artist": "Punialava’a",
+    "isrc": "NZPB12202875"
+  }
+]

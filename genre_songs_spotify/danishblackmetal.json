@@ -1,0 +1,562 @@
+[
+  {
+    "title": "Tåge",
+    "artist": "Solbrud",
+    "isrc": "DKJ3K2300102"
+  },
+  {
+    "title": "Altid Veltilfreds",
+    "artist": "Afsky",
+    "isrc": "GBSMU7769638"
+  },
+  {
+    "title": "Trance/Floden, som kan lede",
+    "artist": "ORM",
+    "isrc": "DKMB52200103"
+  },
+  {
+    "title": "Dødslængsel",
+    "artist": "Sunken",
+    "isrc": "QZHNB2020524"
+  },
+  {
+    "title": "Voldsom trolddom",
+    "artist": "Stikkersvin",
+    "isrc": "SE5752370572"
+  },
+  {
+    "title": "I Afgørende Stunder",
+    "artist": "Morild",
+    "isrc": "DKMB51900103"
+  },
+  {
+    "title": "Jylland i Brand",
+    "artist": "Ildskær",
+    "isrc": "QZTBC2389562"
+  },
+  {
+    "title": "Børnemorder, Elisabeth",
+    "artist": "NyreDolk",
+    "isrc": "QZGWW2070980"
+  },
+  {
+    "title": "Vinden, Den Kalder Dit Navn",
+    "artist": "Kold",
+    "isrc": "DKC4A2200201"
+  },
+  {
+    "title": "Mod Afgrund",
+    "artist": "Glemsel",
+    "isrc": "DKW002101002"
+  },
+  {
+    "title": "I Smell Blood",
+    "artist": "Slaegt",
+    "isrc": "DENI11600161"
+  },
+  {
+    "title": "Træk stikket",
+    "artist": "Gabestok",
+    "isrc": "QZGWX2165283"
+  },
+  {
+    "title": "Skarntyder",
+    "artist": "(0)",
+    "isrc": "ATN262092503"
+  },
+  {
+    "title": "Vie Disse Runer",
+    "artist": "Wulfaz",
+    "isrc": "QZHN32071810"
+  },
+  {
+    "title": "Galgenat",
+    "artist": "Genfærd",
+    "isrc": "QZFZ22065040"
+  },
+  {
+    "title": "The Frozen Hope",
+    "artist": "Saxtorph",
+    "isrc": "QZK6P2111901"
+  },
+  {
+    "title": "Luk Dine Øjne",
+    "artist": "Angstskríg, Nils Courbaron's Project",
+    "isrc": "SEXTE2201302"
+  },
+  {
+    "title": "Microgravity",
+    "artist": "Redwood Hill",
+    "isrc": "GBLPF0035533"
+  },
+  {
+    "title": "Storm",
+    "artist": "MØL",
+    "isrc": "GBMLT1501102"
+  },
+  {
+    "title": "Svaerdet og Bettelstaven",
+    "artist": "Ligfaerd",
+    "isrc": "GX3HH2230251"
+  },
+  {
+    "title": "Ascension of Fever and Plague",
+    "artist": "Horned Almighty",
+    "isrc": "QM6N22406358"
+  },
+  {
+    "title": "Sorgens Taage",
+    "artist": "Gespenst",
+    "isrc": "NODU71769010"
+  },
+  {
+    "title": "Et varsel om død",
+    "artist": "Angantyr",
+    "isrc": "QZHN51936280"
+  },
+  {
+    "title": "Kimbrerkongen",
+    "artist": "Blodfest",
+    "isrc": "USI4R1121684"
+  },
+  {
+    "title": "Behind the Coffin's Lid",
+    "artist": "DENIAL OF GOD",
+    "isrc": "FR4E62100790"
+  },
+  {
+    "title": "Solens Stund Svinder",
+    "artist": "Í Myrkri",
+    "isrc": "QZPLS2193214"
+  },
+  {
+    "title": "Voldtaget Pa Doedslejet",
+    "artist": "Myrd",
+    "isrc": "SEYOK1320546"
+  },
+  {
+    "title": "Mordet et Pulvis",
+    "artist": "Sinnrs",
+    "isrc": "QZK6K2467653"
+  },
+  {
+    "title": "Umbrae",
+    "artist": "Hexis",
+    "isrc": "GBMJG2409591"
+  },
+  {
+    "title": "III",
+    "artist": "Vaabnet",
+    "isrc": "DKQ591800362"
+  },
+  {
+    "title": "Angrboða",
+    "artist": "Eldjudnir",
+    "isrc": "DK1F31300101"
+  },
+  {
+    "title": "Alt sønderhugges så småt",
+    "artist": "Drüben",
+    "isrc": "QZFYY2345111"
+  },
+  {
+    "title": "House Carpenter",
+    "artist": "Myrkur",
+    "isrc": "US2641942609"
+  },
+  {
+    "title": "Til Gravens Vi",
+    "artist": "Nortt",
+    "isrc": "USY251960376"
+  },
+  {
+    "title": "Self Immolated Darkness",
+    "artist": "Abdunor",
+    "isrc": "DKQ4A1303906"
+  },
+  {
+    "title": "Urtidens Ekko",
+    "artist": "Solhverv",
+    "isrc": "DKFDD9600203"
+  },
+  {
+    "title": "Sinister Glorification",
+    "artist": "Church Bizarre",
+    "isrc": "USI4R1016069"
+  },
+  {
+    "title": "Tyrants Genocide",
+    "artist": "Victimizer",
+    "isrc": "USI4R1016050"
+  },
+  {
+    "title": "Legions of the North",
+    "artist": "Fjorsvartnir",
+    "isrc": "FR6V81283686"
+  },
+  {
+    "title": "Terror Regime",
+    "artist": "Satanic Assault Division",
+    "isrc": "ushm91381785"
+  },
+  {
+    "title": "Peace Was Never Mine to Be Found",
+    "artist": "Cartographs",
+    "isrc": "DK4V61900301"
+  },
+  {
+    "title": "Mysteries of an Ancient Church",
+    "artist": "Pafund",
+    "isrc": "QZNWQ2023057"
+  },
+  {
+    "title": "Nkwanzi Yange",
+    "artist": "Ajuna",
+    "isrc": "QZSR42189179"
+  },
+  {
+    "title": "Omnia In Majorem Diaboli Gloriam",
+    "artist": "Apollyon",
+    "isrc": "USBW80610442"
+  },
+  {
+    "title": "Serpent Bearer",
+    "artist": "Betrayer of Light",
+    "isrc": "QZ4JJ1916529"
+  },
+  {
+    "title": "Flamekeeper",
+    "artist": "Blodarv",
+    "isrc": "USA2P1552652"
+  },
+  {
+    "title": "Wear Her Flesh",
+    "artist": "Djævles Skrig",
+    "isrc": "DKE231700124"
+  },
+  {
+    "title": "Seven Bells",
+    "artist": "Hahn Kult",
+    "isrc": "DKQ591800161"
+  },
+  {
+    "title": "Du Er Alene",
+    "artist": "Make A Change... Kill Yourself",
+    "isrc": "USCGJ1701311"
+  },
+  {
+    "title": "Benzo-Benny",
+    "artist": "Molok",
+    "isrc": "QZES91955019"
+  },
+  {
+    "title": "Away Under",
+    "artist": "Råttkung",
+    "isrc": "UK-CVA-17-01132"
+  },
+  {
+    "title": "IV",
+    "artist": "Sanctus Daemoneon",
+    "isrc": "USI4R1043526"
+  },
+  {
+    "title": "Frozen Wastes of North",
+    "artist": "Shattering Ice",
+    "isrc": "GBSMU1702304"
+  },
+  {
+    "title": "Va'Eira",
+    "artist": "Whorls",
+    "isrc": "FR2X41614284"
+  },
+  {
+    "title": "Tree, Pt. 4",
+    "artist": "Witchcult",
+    "isrc": "GX8KD2425397"
+  },
+  {
+    "title": "Hvile",
+    "artist": "Solbrud",
+    "isrc": "DKJ3K2300101"
+  },
+  {
+    "title": "Tyende Sang",
+    "artist": "Afsky",
+    "isrc": "GBSMU7769639"
+  },
+  {
+    "title": "Notes to You",
+    "artist": "ORM",
+    "isrc": "DKMB52000102"
+  },
+  {
+    "title": "Ensomhed",
+    "artist": "Sunken",
+    "isrc": "QZHNB2020521"
+  },
+  {
+    "title": "Bondekarl",
+    "artist": "Stikkersvin",
+    "isrc": "SE5752370577"
+  },
+  {
+    "title": "En Sort Sky Af Minder",
+    "artist": "Morild",
+    "isrc": "DKMB51900102"
+  },
+  {
+    "title": "Thyras Værn",
+    "artist": "Ildskær",
+    "isrc": "QZTBC2389560"
+  },
+  {
+    "title": "Indvold",
+    "artist": "NyreDolk",
+    "isrc": "QM7281827807"
+  },
+  {
+    "title": "Ødeland",
+    "artist": "Kold",
+    "isrc": "DKC4A2200202"
+  },
+  {
+    "title": "Det Gamle Må Vige",
+    "artist": "Glemsel",
+    "isrc": "DKW002101005"
+  },
+  {
+    "title": "Kiss from a Knife",
+    "artist": "Slaegt",
+    "isrc": "GBDHC2213202"
+  },
+  {
+    "title": "Det er mig der står herude og lurer",
+    "artist": "Gabestok",
+    "isrc": "QZPJ32247023"
+  },
+  {
+    "title": "Tyndere end Hud",
+    "artist": "(0)",
+    "isrc": "ATN262092501"
+  },
+  {
+    "title": "Døden Ved Hedeby",
+    "artist": "Wulfaz",
+    "isrc": "QZDA51985458"
+  },
+  {
+    "title": "Det Grå Rige",
+    "artist": "Genfærd",
+    "isrc": "QZFZ22065045"
+  },
+  {
+    "title": "Swallowed By Nothingness",
+    "artist": "Saxtorph, Mika Filborne",
+    "isrc": "QZK6P2111907"
+  },
+  {
+    "title": "Midt i en Angstkrig",
+    "artist": "Angstskríg, Jøden",
+    "isrc": "SEXTE2201303"
+  },
+  {
+    "title": "Albedo",
+    "artist": "Redwood Hill",
+    "isrc": "GBLPF0035535"
+  },
+  {
+    "title": "Bruma",
+    "artist": "MØL",
+    "isrc": "GBMLT1501104"
+  },
+  {
+    "title": "Ingen Foer Ham",
+    "artist": "Ligfaerd",
+    "isrc": "GX3HH2230252"
+  },
+  {
+    "title": "World of Tombs",
+    "artist": "Horned Almighty",
+    "isrc": "ITD291400956"
+  },
+  {
+    "title": "Dødsfærd",
+    "artist": "Gespenst",
+    "isrc": "QZGWX2245834"
+  },
+  {
+    "title": "Thulens Ord",
+    "artist": "Angantyr",
+    "isrc": "QZHN51936281"
+  },
+  {
+    "title": "Skofnungs Sejr",
+    "artist": "Blodfest",
+    "isrc": "USI4R1121685"
+  },
+  {
+    "title": "Funeral",
+    "artist": "DENIAL OF GOD",
+    "isrc": "FR4E62100780"
+  },
+  {
+    "title": "Stemmer fra Skoven",
+    "artist": "Í Myrkri",
+    "isrc": "QZPLS2193213"
+  },
+  {
+    "title": "De Dodes Sang",
+    "artist": "Myrd",
+    "isrc": "SEYOK1320548"
+  },
+  {
+    "title": "Death's Etude",
+    "artist": "Sinnrs",
+    "isrc": "QZK6G2470954"
+  },
+  {
+    "title": "Amissus",
+    "artist": "Hexis",
+    "isrc": "FXQ732100062"
+  },
+  {
+    "title": "II",
+    "artist": "Vaabnet",
+    "isrc": "DKQ591800361"
+  },
+  {
+    "title": "Skade",
+    "artist": "Eldjudnir",
+    "isrc": "DK1F31600103"
+  },
+  {
+    "title": "Med den er hver levende og døde ting",
+    "artist": "Drüben",
+    "isrc": "QZFYY2345106"
+  },
+  {
+    "title": "Leaves of Yggdrasil",
+    "artist": "Myrkur",
+    "isrc": "US2641942603"
+  },
+  {
+    "title": "Af Døde",
+    "artist": "Nortt",
+    "isrc": "USY251960377"
+  },
+  {
+    "title": "Enchanted Warfare Betrayed",
+    "artist": "Abdunor",
+    "isrc": "DKQ4A1303902"
+  },
+  {
+    "title": "Gravkammerets Gru",
+    "artist": "Solhverv",
+    "isrc": "DKFDD9600207"
+  },
+  {
+    "title": "Into the Dark Where Witches Burned",
+    "artist": "Church Bizarre",
+    "isrc": "USI4R1016070"
+  },
+  {
+    "title": "Iron Cobra (Pride of the Zombie Squad)",
+    "artist": "Victimizer",
+    "isrc": "USI4R1016052"
+  },
+  {
+    "title": "Når Solen Brydes Del III - For Evigt, For Altid, Forandret",
+    "artist": "Solbrud",
+    "isrc": "DKJ3K2300105"
+  },
+  {
+    "title": "Stormfulde hav",
+    "artist": "Afsky",
+    "isrc": "QZFZ22393172"
+  },
+  {
+    "title": "Ancient Echoes",
+    "artist": "ORM",
+    "isrc": "DKMB51700302"
+  },
+  {
+    "title": "Delirium",
+    "artist": "Sunken",
+    "isrc": "QZHNB2020523"
+  },
+  {
+    "title": "Dagsløs",
+    "artist": "Stikkersvin",
+    "isrc": "SE5752370573"
+  },
+  {
+    "title": "Frosset Fast Til Mit Indre",
+    "artist": "Morild",
+    "isrc": "DKMB51900104"
+  },
+  {
+    "title": "Ærens Mark",
+    "artist": "Ildskær",
+    "isrc": "QZTBC2389561"
+  },
+  {
+    "title": "Formanet til sandhed",
+    "artist": "NyreDolk",
+    "isrc": "QZGWW2070981"
+  },
+  {
+    "title": "Forgabt I Virvar",
+    "artist": "Kold",
+    "isrc": "DKC4A2200203"
+  },
+  {
+    "title": "Savn",
+    "artist": "Glemsel",
+    "isrc": "DKW002101003"
+  },
+  {
+    "title": "Deceived by an Amethyst",
+    "artist": "Slaegt",
+    "isrc": "GBDHC2213201"
+  },
+  {
+    "title": "Én gang rådden, altid rådden",
+    "artist": "Gabestok",
+    "isrc": "QZGWX2165284"
+  },
+  {
+    "title": "(1136)",
+    "artist": "(0)",
+    "isrc": "ATN261992401"
+  },
+  {
+    "title": "Eriks Kumbl",
+    "artist": "Wulfaz",
+    "isrc": "QZDA51985459"
+  },
+  {
+    "title": "Splittelse",
+    "artist": "Genfærd",
+    "isrc": "QZFZ22065041"
+  },
+  {
+    "title": "When Depression Devastates The Dreams",
+    "artist": "Saxtorph, Thomas AG",
+    "isrc": "QZK6P2111905"
+  },
+  {
+    "title": "Skyggespil",
+    "artist": "Angstskríg, Attila Vörös",
+    "isrc": "SEXTE2001901"
+  },
+  {
+    "title": "Poseidon",
+    "artist": "Redwood Hill",
+    "isrc": "GBLPF0013015"
+  },
+  {
+    "title": "Kiøge Huskors 1608 – 1615",
+    "artist": "Ligfaerd",
+    "isrc": "DEOV41900240"
+  }
+]

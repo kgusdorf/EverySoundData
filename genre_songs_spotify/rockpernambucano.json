@@ -1,0 +1,932 @@
+[
+  {
+    "title": "Seu Waldir",
+    "artist": "Ave Sangria",
+    "isrc": "BXMRN1400007"
+  },
+  {
+    "title": "Periferia Fria",
+    "artist": "Devotos, Criolo",
+    "isrc": "BCA7I2200002"
+  },
+  {
+    "title": "Punk, Rock, Hardcore Alto Jose Do Pinho",
+    "artist": "Devotos Do Odio",
+    "isrc": "BRBMG9700170"
+  },
+  {
+    "title": "Repente Envenenado",
+    "artist": "Sheik Tosado",
+    "isrc": "BRYAT2100008"
+  },
+  {
+    "title": "Hino do Centenário Sport Clube Recife",
+    "artist": "OS CACHORROS",
+    "isrc": "BRTRB1992148"
+  },
+  {
+    "title": "Tanto Faz o Apocalipse",
+    "artist": "Rabujos",
+    "isrc": "US7VG1715535"
+  },
+  {
+    "title": "Playboy",
+    "artist": "Dani Carmesim",
+    "isrc": "BX5ZD1900021"
+  },
+  {
+    "title": "Homens Fardados",
+    "artist": "Faces do Subúrbio",
+    "isrc": "BRMZA9800018"
+  },
+  {
+    "title": "Priminha",
+    "artist": "Matalanamão",
+    "isrc": "QZ5AB1803094"
+  },
+  {
+    "title": "(Propóstata)",
+    "artist": "Textículos de Mary & A Banda D'as Cachorra",
+    "isrc": "BRDEP0200085"
+  },
+  {
+    "title": "Insecure",
+    "artist": "Surt",
+    "isrc": "BCMBJ2000001"
+  },
+  {
+    "title": "Janela",
+    "artist": "Acervo, Ela e o Bando",
+    "isrc": "BXQ242100001"
+  },
+  {
+    "title": "A Dança do Caos",
+    "artist": "Sargaço Nightclub",
+    "isrc": "BX85R2100002"
+  },
+  {
+    "title": "A Espera",
+    "artist": "Diablo Angel",
+    "isrc": "BXK1U2300001"
+  },
+  {
+    "title": "Carpe Diem",
+    "artist": "Ela e o Bando",
+    "isrc": "BXJ8G1600001"
+  },
+  {
+    "title": "Mil Pedaços Egocêntricos",
+    "artist": "Verdes & Valterianos",
+    "isrc": "QZMZ92461771"
+  },
+  {
+    "title": "Bafo do Dragão 2023",
+    "artist": "Cospefogo, Rinaldo Veiga, Pablo Lins",
+    "isrc": "QZW9K2324352"
+  },
+  {
+    "title": "Hino Soviético",
+    "artist": "Subversivos",
+    "isrc": "QZGLS1901651"
+  },
+  {
+    "title": "Mauriceia Cogumelo Cósmica",
+    "artist": "Zeca Viana",
+    "isrc": "BRTRB2027408"
+  },
+  {
+    "title": "Incomodar",
+    "artist": "Ugly Boys",
+    "isrc": "QZ5AB1782217"
+  },
+  {
+    "title": "Panelas",
+    "artist": "Liverina",
+    "isrc": "BXV842400001"
+  },
+  {
+    "title": "Sem-Ti",
+    "artist": "Viena, Sargaço Nightclub",
+    "isrc": "QZMZ92305229"
+  },
+  {
+    "title": "Surto",
+    "artist": "Howay, Skabong",
+    "isrc": "BRFBE2100071"
+  },
+  {
+    "title": "Discussão",
+    "artist": "Iluminácidos",
+    "isrc": "uscgj1652885"
+  },
+  {
+    "title": "Libriana",
+    "artist": "Boa Vista Hard Club, Dani Carmesim",
+    "isrc": "QZGLS2371246"
+  },
+  {
+    "title": "O Novo Reich",
+    "artist": "Revolta Civil",
+    "isrc": "US7VG1708390"
+  },
+  {
+    "title": "Stupidity",
+    "artist": "Alkymenia",
+    "isrc": "QZGLM2302503"
+  },
+  {
+    "title": "Vai Ter Mormaço!",
+    "artist": "Mascates",
+    "isrc": "BXZ4R2300001"
+  },
+  {
+    "title": "Pedra Vermelha",
+    "artist": "70mg",
+    "isrc": "BXZ1V1800002"
+  },
+  {
+    "title": "De Repente o Fim",
+    "artist": "Sob Efeito Q66, Mikaia",
+    "isrc": "QZGLM1903646"
+  },
+  {
+    "title": "Dentro de um País",
+    "artist": "Vapor Maligno",
+    "isrc": "QZHZ52000416"
+  },
+  {
+    "title": "Frozen Bones",
+    "artist": "Sun Diamond",
+    "isrc": "usl4q1710696"
+  },
+  {
+    "title": "Sistema Natural",
+    "artist": "Carranza",
+    "isrc": "US7VG2112029"
+  },
+  {
+    "title": "Mad",
+    "artist": "Mondo Bizarro",
+    "isrc": "QZ5AB1618594"
+  },
+  {
+    "title": "Só para os Seus Olhos",
+    "artist": "contos de fraldas",
+    "isrc": "QZW9K2292919"
+  },
+  {
+    "title": "Homem de Lata",
+    "artist": "Os Magnatas da Beira Mar",
+    "isrc": "QZ5AB2043711"
+  },
+  {
+    "title": "Isso Não é Real - Live",
+    "artist": "Bizouro Verde",
+    "isrc": "BCDJQ2100061"
+  },
+  {
+    "title": "Egoísta",
+    "artist": "Arles",
+    "isrc": "US7VG2445075"
+  },
+  {
+    "title": "Eu Sou uma Planta",
+    "artist": "Serrapilheira",
+    "isrc": "usdy41669531"
+  },
+  {
+    "title": "Helenira",
+    "artist": "Palafita",
+    "isrc": "usl4q1730228"
+  },
+  {
+    "title": "Ladijane",
+    "artist": "Rodrigo Morcego",
+    "isrc": "US7VG1502871"
+  },
+  {
+    "title": "Isso É Real",
+    "artist": "A Casa de Ouro",
+    "isrc": "BRHVJ1600011"
+  },
+  {
+    "title": "Janga",
+    "artist": "A Lenda do Palhaço do Coqueiro",
+    "isrc": "BXI711700001"
+  },
+  {
+    "title": "Democracia da Bala",
+    "artist": "Allbedos",
+    "isrc": "US7VG1929646"
+  },
+  {
+    "title": "MG-42",
+    "artist": "ArtilhariA",
+    "isrc": "QZ5AB1813833"
+  },
+  {
+    "title": "1976",
+    "artist": "BKP76",
+    "isrc": "ushm81741630"
+  },
+  {
+    "title": "Amor, Nicotina e Vinho",
+    "artist": "Babi Jaques e Os Sicilianos",
+    "isrc": "BRQBG1700004"
+  },
+  {
+    "title": "O Tempo É Inimigo",
+    "artist": "Banda Dead Speed, SoMarksStudio",
+    "isrc": "US7VG1908338"
+  },
+  {
+    "title": "Aonde Estou? - Ao Vivo",
+    "artist": "Banda Gone",
+    "isrc": "BX50T2200001"
+  },
+  {
+    "title": "Vida Negra",
+    "artist": "BlackSoda",
+    "isrc": "BXCQE1600012"
+  },
+  {
+    "title": "Sabbahana Jam",
+    "artist": "Buffalo Lecter",
+    "isrc": "BRTRB1995402"
+  },
+  {
+    "title": "O Ecologista Morto",
+    "artist": "Campo Minado",
+    "isrc": "QZ5AB1799185"
+  },
+  {
+    "title": "Jornal",
+    "artist": "Caridade De Um Mundo Medíocre, José Teixeira Junior",
+    "isrc": "QZ5AB1842960"
+  },
+  {
+    "title": "Falso Amigo",
+    "artist": "Companhia de Amores Mizeraveis",
+    "isrc": "QZ5AB1871560"
+  },
+  {
+    "title": "Não Importa",
+    "artist": "Conspiração Alienígena",
+    "isrc": "QZW9N2260991"
+  },
+  {
+    "title": "Eu Quero Estar Lá",
+    "artist": "Conspiração Reptiliana",
+    "isrc": "US7VG1812142"
+  },
+  {
+    "title": "Olhos de Outono",
+    "artist": "Coxas d'Amélia",
+    "isrc": "US7VG1831713"
+  },
+  {
+    "title": "Lobos em Pele de Cordeiro 2020",
+    "artist": "De Cujos",
+    "isrc": "QZHZ62089563"
+  },
+  {
+    "title": "Missa Macabra",
+    "artist": "Eroc",
+    "isrc": "QZ5AB1714013"
+  },
+  {
+    "title": "It's The Final Age",
+    "artist": "Final Age, Willyton Lucas, J A Studio",
+    "isrc": "QZ5AB1942291"
+  },
+  {
+    "title": "A Corda",
+    "artist": "Geração Mangue",
+    "isrc": "QZGLS2440994"
+  },
+  {
+    "title": "Entre Nós Dois Não Há Segredos",
+    "artist": "Gabriel Galilei",
+    "isrc": "QZGLS1904863"
+  },
+  {
+    "title": "Emergência",
+    "artist": "Guerra Urbana",
+    "isrc": "QZ5AB1799181"
+  },
+  {
+    "title": "Novo Adeus",
+    "artist": "ILÍADA 1",
+    "isrc": "ushm22154101"
+  },
+  {
+    "title": "Nevermore",
+    "artist": "Jet Cats",
+    "isrc": "ushm91738187"
+  },
+  {
+    "title": "I See the Light",
+    "artist": "Joanatan Richard",
+    "isrc": "BRHVJ2000021"
+  },
+  {
+    "title": "Se o Mundo Acabasse Hoje: P-115",
+    "artist": "KASMÜRRO",
+    "isrc": "usl4r2044583"
+  },
+  {
+    "title": "Zé da Silva",
+    "artist": "Koiza",
+    "isrc": "BXCGJ1900008"
+  },
+  {
+    "title": "Chuva",
+    "artist": "Lucas Lyra",
+    "isrc": "BX1XK2000045"
+  },
+  {
+    "title": "De Piercing no Nariz - Ao Vivo",
+    "artist": "Jet Cats",
+    "isrc": "US7VG1770740"
+  },
+  {
+    "title": "Calma dos Budas",
+    "artist": "Manolo e o hospício",
+    "isrc": "QZHZ41974704"
+  },
+  {
+    "title": "Blue Jay Way",
+    "artist": "Novanguarda",
+    "isrc": "BR2RA1000026"
+  },
+  {
+    "title": "Lutar por um Ideal",
+    "artist": "One Black Two White",
+    "isrc": "QZ5AB1881044"
+  },
+  {
+    "title": "Esquina da Avenida Rio Branco",
+    "artist": "Os Bons Pessimistas",
+    "isrc": "QZGLS1925024"
+  },
+  {
+    "title": "Diferentes mais um só",
+    "artist": "Plugins Rock, João Ferreira",
+    "isrc": "QM4DW1602357"
+  },
+  {
+    "title": "O Menino e o Mundo",
+    "artist": "Prometheu Liberto",
+    "isrc": "US7VG1317346"
+  },
+  {
+    "title": "Eu Errei",
+    "artist": "Radares",
+    "isrc": "RUA1H1703758"
+  },
+  {
+    "title": "Dia Bom",
+    "artist": "Rafa Emery",
+    "isrc": "QZHZ52024766"
+  },
+  {
+    "title": "Roxo!",
+    "artist": "Rasga Mortalha",
+    "isrc": "BXZBC1900007"
+  },
+  {
+    "title": "Tá no Inferno... Abraça o Capeta",
+    "artist": "Serial Drunks",
+    "isrc": "QZ5AB1605974"
+  },
+  {
+    "title": "Mistérios da Mente",
+    "artist": "Sistema em Caos",
+    "isrc": "QZGLS1964014"
+  },
+  {
+    "title": "Primeiro Raio de Sol",
+    "artist": "Snowblinders",
+    "isrc": "US7VG1980212"
+  },
+  {
+    "title": "Pedra do Urubu",
+    "artist": "Sobreviventes do IDR",
+    "isrc": "QZ5AB1940591"
+  },
+  {
+    "title": "Not the Same",
+    "artist": "Sticky Riot",
+    "isrc": "QZ5AB1606837"
+  },
+  {
+    "title": "O Plano",
+    "artist": "Sumulla, Lauro Alcântara",
+    "isrc": "QZGLS1918158"
+  },
+  {
+    "title": "Blind",
+    "artist": "The Samadhi",
+    "isrc": "QZ5AB2067087"
+  },
+  {
+    "title": "O Melhor Whisky Daqui",
+    "artist": "Therly Lemos",
+    "isrc": "QZGLS1985455"
+  },
+  {
+    "title": "Deixa o Samba Te Levar",
+    "artist": "Tôtto",
+    "isrc": "BX86N1900002"
+  },
+  {
+    "title": "Will to Kill",
+    "artist": "Will2kill",
+    "isrc": "BRTRB1751891"
+  },
+  {
+    "title": "Lost on a Straight Line",
+    "artist": "Yellow Threat",
+    "isrc": "BXCQE1800013"
+  },
+  {
+    "title": "Festa do Fogo",
+    "artist": "Zabumba Bacamarte",
+    "isrc": "BRUME0600130"
+  },
+  {
+    "title": "Sugar Cane",
+    "artist": "neil arnold",
+    "isrc": "QZMZ92361089"
+  },
+  {
+    "title": "Quest",
+    "artist": "Última Tribo",
+    "isrc": "BCTBV2100018"
+  },
+  {
+    "title": "Dois Navegantes",
+    "artist": "Ave Sangria",
+    "isrc": "BXMRN1400001"
+  },
+  {
+    "title": "Eu Tenho Pressa",
+    "artist": "Devotos Do Odio",
+    "isrc": "BRBMG9700181"
+  },
+  {
+    "title": "Mas Será o Benedito?",
+    "artist": "Devotos",
+    "isrc": "BCA7I2300052"
+  },
+  {
+    "title": "Puta Que Pariu",
+    "artist": "OS CACHORROS",
+    "isrc": "BRTRB1992091"
+  },
+  {
+    "title": "Toda Casa Tem um Pouco de África",
+    "artist": "Sheik Tosado",
+    "isrc": "BRYAT2100002"
+  },
+  {
+    "title": "Motivo Fútil",
+    "artist": "Rabujos",
+    "isrc": "US7VG1715541"
+  },
+  {
+    "title": "De Dentro pra Fora",
+    "artist": "Dani Carmesim",
+    "isrc": "BX5ZD2000004"
+  },
+  {
+    "title": "Pinota",
+    "artist": "Faces do Subúrbio, Nando Cordel",
+    "isrc": "BRMAX1900070"
+  },
+  {
+    "title": "O Urso, a Cadela e o Cão",
+    "artist": "Matalanamão",
+    "isrc": "QZ5AB1803091"
+  },
+  {
+    "title": "Natasha Orloff",
+    "artist": "Textículos de Mary & A Banda D'as Cachorra",
+    "isrc": "BRDEP0200086"
+  },
+  {
+    "title": "Flames",
+    "artist": "Surt",
+    "isrc": "QZ5AB2195766"
+  },
+  {
+    "title": "Ciclo",
+    "artist": "Acervo",
+    "isrc": "BXT9Y2300001"
+  },
+  {
+    "title": "Nunca Mais",
+    "artist": "Sargaço Nightclub, Marlon Silva, Fernando Alakejá",
+    "isrc": "BX85R2000003"
+  },
+  {
+    "title": "Mais Um Dia de Sol",
+    "artist": "Diablo Angel",
+    "isrc": "BXK1U2300003"
+  },
+  {
+    "title": "Refúgio",
+    "artist": "Ela e o Bando, Cellestino",
+    "isrc": "BXJ8G1600005"
+  },
+  {
+    "title": "Social Climber",
+    "artist": "Verdes & Valterianos",
+    "isrc": "QZMZ92461775"
+  },
+  {
+    "title": "Barril de Pólvora",
+    "artist": "Cospefogo, Rinaldo Veiga, Pablo Lins",
+    "isrc": "QZW9K2350420"
+  },
+  {
+    "title": "Amanhãs Na Paris De 68",
+    "artist": "Subversivos",
+    "isrc": "QZGLS1901643"
+  },
+  {
+    "title": "Fata Morgana",
+    "artist": "Zeca Viana",
+    "isrc": "BRTRB2027419"
+  },
+  {
+    "title": "Make to Happen",
+    "artist": "Ugly Boys",
+    "isrc": "QZ5AB1782550"
+  },
+  {
+    "title": "Lugar de Fala",
+    "artist": "Liverina, Dani Carmesim, Miguel Guerra",
+    "isrc": "BXV842300005"
+  },
+  {
+    "title": "Mundo Melhor",
+    "artist": "Viena, MD",
+    "isrc": "QZ5AB1758071"
+  },
+  {
+    "title": "Cidadão Exemplar",
+    "artist": "Howay",
+    "isrc": "QZMZ92141779"
+  },
+  {
+    "title": "Quatro Paredes",
+    "artist": "Iluminácidos",
+    "isrc": "QZHZ31914899"
+  },
+  {
+    "title": "Alcatrão de Alcatraz",
+    "artist": "Boa Vista Hard Club",
+    "isrc": "BRTRB1908471"
+  },
+  {
+    "title": "Agonia de 64",
+    "artist": "Revolta Civil",
+    "isrc": "QZ5AB1799176"
+  },
+  {
+    "title": "Another World Is Possible",
+    "artist": "Alkymenia",
+    "isrc": "BXTWS1900002"
+  },
+  {
+    "title": "Olinda",
+    "artist": "Mascates",
+    "isrc": "BXZ4R1800006"
+  },
+  {
+    "title": "Canto pra Lua",
+    "artist": "70mg",
+    "isrc": "BXZ1V1800004"
+  },
+  {
+    "title": "Deixa Acontecer",
+    "artist": "Sob Efeito Q66",
+    "isrc": "QZGLM1903643"
+  },
+  {
+    "title": "Rising from the Ashes",
+    "artist": "Sun Diamond",
+    "isrc": "usl4q2216802"
+  },
+  {
+    "title": "Descarte o Mal",
+    "artist": "Vapor Maligno, Diego Alexandre",
+    "isrc": "QZGLM1926273"
+  },
+  {
+    "title": "O Homem Que Engoliu o Sol",
+    "artist": "Carranza",
+    "isrc": "US7VG2112027"
+  },
+  {
+    "title": "Too Loud Is Not Enough",
+    "artist": "Mondo Bizarro",
+    "isrc": "QZ5AB1618595"
+  },
+  {
+    "title": "A Hora Mais Escura",
+    "artist": "contos de fraldas",
+    "isrc": "QZGLS1995200"
+  },
+  {
+    "title": "O Perfume",
+    "artist": "Os Magnatas da Beira Mar",
+    "isrc": "US7VG1747147"
+  },
+  {
+    "title": "Da Vida Mosaico",
+    "artist": "Bizouro Verde",
+    "isrc": "BCDJQ2100052"
+  },
+  {
+    "title": "Procure",
+    "artist": "Arles",
+    "isrc": "US7VG2445079"
+  },
+  {
+    "title": "Volúpia",
+    "artist": "Serrapilheira",
+    "isrc": "usdy41712044"
+  },
+  {
+    "title": "Jazz Dela",
+    "artist": "Palafita, Larissa Moura",
+    "isrc": "US7VG2025454"
+  },
+  {
+    "title": "Irmão Blues",
+    "artist": "Rodrigo Morcego",
+    "isrc": "BRA221301703"
+  },
+  {
+    "title": "A Cada Passo",
+    "artist": "A Casa de Ouro",
+    "isrc": "BRHVJ1600013"
+  },
+  {
+    "title": "Pedrada",
+    "artist": "A Lenda do Palhaço do Coqueiro",
+    "isrc": "BXI711700007"
+  },
+  {
+    "title": "Severino Vulgo Biu",
+    "artist": "Allbedos",
+    "isrc": "QZ5AB2013129"
+  },
+  {
+    "title": "Tempestade de Aço",
+    "artist": "ArtilhariA",
+    "isrc": "QZ5AB1813832"
+  },
+  {
+    "title": "Programado",
+    "artist": "BKP76",
+    "isrc": "ushm81741622"
+  },
+  {
+    "title": "Palavras",
+    "artist": "Babi Jaques e Os Sicilianos",
+    "isrc": "BRQBG1700003"
+  },
+  {
+    "title": "Foda-Se",
+    "artist": "Banda Dead Speed",
+    "isrc": "QZNJV2129461"
+  },
+  {
+    "title": "Eu Vou Te Dizer (Canção do Coração) - Ao Vivo",
+    "artist": "Banda Gone",
+    "isrc": "BX50T2200003"
+  },
+  {
+    "title": "O Peso - Acústico",
+    "artist": "BlackSoda",
+    "isrc": "BXCQE1600013"
+  },
+  {
+    "title": "Buffalo Lecter",
+    "artist": "Buffalo Lecter",
+    "isrc": "BRTRB1995405"
+  },
+  {
+    "title": "Olhares de Chuva",
+    "artist": "Caridade De Um Mundo Medíocre, José Teixeira Junior",
+    "isrc": "QZ5AB1842959"
+  },
+  {
+    "title": "Máscaras da Verdade",
+    "artist": "Companhia de Amores Mizeraveis",
+    "isrc": "QZ5AB1871558"
+  },
+  {
+    "title": "Crianças Sem Nome",
+    "artist": "Conspiração Alienígena",
+    "isrc": "QZW9N2260989"
+  },
+  {
+    "title": "Corcel '73",
+    "artist": "Conspiração Reptiliana",
+    "isrc": "US7VG1812138"
+  },
+  {
+    "title": "Sabe Onde Pisa?",
+    "artist": "Coxas d'Amélia",
+    "isrc": "US7VG1831714"
+  },
+  {
+    "title": "Die, Die My Darling - Ao Vivo",
+    "artist": "De Cujos",
+    "isrc": "QZNJW2052862"
+  },
+  {
+    "title": "Indulgência",
+    "artist": "Eroc",
+    "isrc": "QZ5AB1714010"
+  },
+  {
+    "title": "Desperate Running",
+    "artist": "Final Age",
+    "isrc": "usl4r2081648"
+  },
+  {
+    "title": "Paraíso Infernal",
+    "artist": "Gabriel Galilei",
+    "isrc": "QZGLS1904864"
+  },
+  {
+    "title": "Skate e Grafite",
+    "artist": "Geração Mangue",
+    "isrc": "BXCQE1900057"
+  },
+  {
+    "title": "Hei! Man",
+    "artist": "Ave Sangria",
+    "isrc": "BXMRN1400008"
+  },
+  {
+    "title": "Dia Morto",
+    "artist": "Devotos Do Odio",
+    "isrc": "BRBMG9700168"
+  },
+  {
+    "title": "Nossa História",
+    "artist": "Devotos",
+    "isrc": "BCA7I2100099"
+  },
+  {
+    "title": "Tubarão",
+    "artist": "OS CACHORROS",
+    "isrc": "BRTRB1992134"
+  },
+  {
+    "title": "Sheik Tosado",
+    "artist": "Sheik Tosado",
+    "isrc": "BRYAT2100005"
+  },
+  {
+    "title": "Beco",
+    "artist": "Rabujos",
+    "isrc": "US7VG1715539"
+  },
+  {
+    "title": "Gelo",
+    "artist": "Dani Carmesim",
+    "isrc": "BX5ZD2100001"
+  },
+  {
+    "title": "Não Somos Marginais",
+    "artist": "Faces do Subúrbio",
+    "isrc": "BRMZA9800020"
+  },
+  {
+    "title": "Amorzinho",
+    "artist": "Matalanamão",
+    "isrc": "QZ5AB1803102"
+  },
+  {
+    "title": "Todinha Sua (She-Ra)",
+    "artist": "Textículos de Mary & A Banda D'as Cachorra",
+    "isrc": "BRDEP0200088"
+  },
+  {
+    "title": "Break Out",
+    "artist": "Surt",
+    "isrc": "QZ5AB2002986"
+  },
+  {
+    "title": "Cata Lixo",
+    "artist": "Acervo",
+    "isrc": "US7VG1647156"
+  },
+  {
+    "title": "O Grande Irmão",
+    "artist": "Sargaço Nightclub",
+    "isrc": "BX85R2300002"
+  },
+  {
+    "title": "Placere",
+    "artist": "Diablo Angel, Ju Orange",
+    "isrc": "BXK1U2300002"
+  },
+  {
+    "title": "Andarilho",
+    "artist": "Ela e o Bando",
+    "isrc": "BRMAX1700492"
+  },
+  {
+    "title": "Família Margarina",
+    "artist": "Verdes & Valterianos",
+    "isrc": "QZMZ92461772"
+  },
+  {
+    "title": "Carro 2023",
+    "artist": "Cospefogo, Pablo Lins, Rinaldo Veiga",
+    "isrc": "QZW9K2337377"
+  },
+  {
+    "title": "Século de Ferro e Flor",
+    "artist": "Subversivos",
+    "isrc": "US7VG1984175"
+  },
+  {
+    "title": "Coração Atonal",
+    "artist": "Zeca Viana",
+    "isrc": "BR6J31100001"
+  },
+  {
+    "title": "Bem Vindo ao Clube",
+    "artist": "Ugly Boys",
+    "isrc": "QZ5AB1782213"
+  },
+  {
+    "title": "Eu Sou Objetivo",
+    "artist": "Liverina",
+    "isrc": "BXV841700001"
+  },
+  {
+    "title": "A Verdade É Individual",
+    "artist": "Viena",
+    "isrc": "QZ5AB1758069"
+  },
+  {
+    "title": "Dia de Reis",
+    "artist": "Howay",
+    "isrc": "US7VG1771962"
+  },
+  {
+    "title": "4:20",
+    "artist": "Iluminácidos",
+    "isrc": "uscgj1652887"
+  },
+  {
+    "title": "Anger",
+    "artist": "Boa Vista Hard Club",
+    "isrc": "US7VG2247728"
+  },
+  {
+    "title": "Causa e Efeito",
+    "artist": "Revolta Civil",
+    "isrc": "US7VG1708391"
+  },
+  {
+    "title": "A Feira de Caruaru",
+    "artist": "Alkymenia, Onildo Almeida",
+    "isrc": "QZNJW2404712"
+  },
+  {
+    "title": "Lara",
+    "artist": "Mascates",
+    "isrc": "BXZ4R1800004"
+  },
+  {
+    "title": "Eu Vejo Medo na Sua Cabeça",
+    "artist": "70mg",
+    "isrc": "BXZ1V1800001"
+  },
+  {
+    "title": "Sua Essência (Não Mude de Lado)",
+    "artist": "Sob Efeito Q66",
+    "isrc": "QZNJX2076090"
+  },
+  {
+    "title": "Go to the Yard",
+    "artist": "Sun Diamond",
+    "isrc": "usl4q1710699"
+  },
+  {
+    "title": "Spartacus",
+    "artist": "Vapor Maligno",
+    "isrc": "QZGLM1946341"
+  }
+]

@@ -1,0 +1,912 @@
+[
+  {
+    "title": "Sempre",
+    "artist": "Riviera",
+    "isrc": "ITP842400064"
+  },
+  {
+    "title": "Fiato",
+    "artist": "Do Nascimiento",
+    "isrc": "US6R21454020"
+  },
+  {
+    "title": "Va tutto malone",
+    "artist": "Verme",
+    "isrc": "QMDA61374701"
+  },
+  {
+    "title": "Siberia",
+    "artist": "Lantern",
+    "isrc": "FR6V82563198"
+  },
+  {
+    "title": "Il bisogno delle salite",
+    "artist": "And So Your Life Is Ruined",
+    "isrc": "FR10S1655133"
+  },
+  {
+    "title": "27 volumi",
+    "artist": "Marcovaldo",
+    "isrc": "IT0501601009"
+  },
+  {
+    "title": "Facile",
+    "artist": "Nient'altro che macerie",
+    "isrc": "FR2X41520060"
+  },
+  {
+    "title": "Gelo Chiama Gelo",
+    "artist": "Dummo",
+    "isrc": "ushm80823961"
+  },
+  {
+    "title": "To All the Teen Crushes on Earth",
+    "artist": "Futbolín",
+    "isrc": "FRX991595110"
+  },
+  {
+    "title": "Paura di tutto",
+    "artist": "Le Sacerdotesse dell'Isola del Piacere",
+    "isrc": "FR2X41657308"
+  },
+  {
+    "title": "La Finestra",
+    "artist": "Castagna",
+    "isrc": "QZARB1850992"
+  },
+  {
+    "title": "Tempesta di Colpe",
+    "artist": "Cabrera",
+    "isrc": "QZFZ62409463"
+  },
+  {
+    "title": "Nubi",
+    "artist": "Quercia",
+    "isrc": "FR96X1653636"
+  },
+  {
+    "title": "Colorare/Ritagliare",
+    "artist": "Renàra",
+    "isrc": "QZTB92336675"
+  },
+  {
+    "title": "Horror",
+    "artist": "Cucineremo Ciambelle",
+    "isrc": "FR10S1811974"
+  },
+  {
+    "title": "La fine del giorno",
+    "artist": "Cosmetic",
+    "isrc": "ITP841200029"
+  },
+  {
+    "title": "Essere",
+    "artist": "Garda 1990",
+    "isrc": "ITFJK2000046"
+  },
+  {
+    "title": "Combustibile",
+    "artist": "Mary in June",
+    "isrc": "FR10S1677120"
+  },
+  {
+    "title": "Materia e Memoria",
+    "artist": "Chivàla",
+    "isrc": "ITE8Q2000010"
+  },
+  {
+    "title": "Senza di te",
+    "artist": "Gazebo Penguins",
+    "isrc": "USCHR1324575"
+  },
+  {
+    "title": "Estate",
+    "artist": "Kairo <3",
+    "isrc": "GB-SMU-25-78492"
+  },
+  {
+    "title": "Abbattere Rituali",
+    "artist": "Dhole",
+    "isrc": "QZES91822885"
+  },
+  {
+    "title": "Preludio - Valentina Gallini Remix",
+    "artist": "Stormo, Tacobellas, Valentina Gallini",
+    "isrc": "QM6P42047255"
+  },
+  {
+    "title": "Capire settembre",
+    "artist": "Fine Before You Came",
+    "isrc": "FR6V81735637"
+  },
+  {
+    "title": "Figlio Di Puttana",
+    "artist": "Distanti",
+    "isrc": "DGA0L2301265"
+  },
+  {
+    "title": "23 settembre (tu non sai quante cose ci siamo persi in questi anni)",
+    "artist": "Nenè Azzurra",
+    "isrc": "GX8LE2490778"
+  },
+  {
+    "title": "TOMBA",
+    "artist": "SAAM",
+    "isrc": "ITAIL2400099"
+  },
+  {
+    "title": "Naufragio con spettatore",
+    "artist": "Leita",
+    "isrc": "QZHN52224108"
+  },
+  {
+    "title": "Jap'n Cazz",
+    "artist": "Stegosauro",
+    "isrc": "IT3QE2300001"
+  },
+  {
+    "title": "Precisamente",
+    "artist": "Altro",
+    "isrc": "ITP841300100"
+  },
+  {
+    "title": "Non è semplice slacciare un reggiseno non soltanto perché non è semplice slacciare un reggiseno",
+    "artist": "L'AMO",
+    "isrc": "QM4TW1514184"
+  },
+  {
+    "title": "New Winds",
+    "artist": "Regarde",
+    "isrc": "QZPJ32345672"
+  },
+  {
+    "title": "Il Tempo Che Ho Perso",
+    "artist": "Øjne",
+    "isrc": "QZK6L2375189"
+  },
+  {
+    "title": "Aestheticism",
+    "artist": "Shizune",
+    "isrc": "SEYOK1506462"
+  },
+  {
+    "title": "Gödel",
+    "artist": "Majno",
+    "isrc": "QZ5FN1887687"
+  },
+  {
+    "title": "Quello Che Non C'è",
+    "artist": "The Death Of Anna Karina",
+    "isrc": "ITO971100003"
+  },
+  {
+    "title": "Elefanti",
+    "artist": "Gomma",
+    "isrc": "ITQ1M1603904"
+  },
+  {
+    "title": "Ginnastica nell'acqua",
+    "artist": "Action Dead Mouse",
+    "isrc": "GBMJG1603574"
+  },
+  {
+    "title": "Giugno",
+    "artist": "La quiete",
+    "isrc": "QMDA61422839"
+  },
+  {
+    "title": "Nottata",
+    "artist": "I Botanici",
+    "isrc": "ITT741900027"
+  },
+  {
+    "title": "La mia prima casa",
+    "artist": "Tonno",
+    "isrc": "ITCV32210403"
+  },
+  {
+    "title": "Tragedia",
+    "artist": "Minnie's",
+    "isrc": "USV291346118"
+  },
+  {
+    "title": "Tigersuit",
+    "artist": "Raein",
+    "isrc": "QMFME2365583"
+  },
+  {
+    "title": "Colourblind",
+    "artist": "Leute",
+    "isrc": "ITP841600081"
+  },
+  {
+    "title": "We All Like Theories, Let's Not Make Anything Ever Happen",
+    "artist": "DAGS!",
+    "isrc": "QMFME1509491"
+  },
+  {
+    "title": "Quando finirà",
+    "artist": "Elephant Brain",
+    "isrc": "FRX281906415"
+  },
+  {
+    "title": "Mi sono bruciato con i coriandoli",
+    "artist": "Asino",
+    "isrc": "USA561135623"
+  },
+  {
+    "title": "Forse",
+    "artist": "TENUE",
+    "isrc": "ITQ1M1804602"
+  },
+  {
+    "title": "Morforama",
+    "artist": "AlGot",
+    "isrc": "ITCQ22300023"
+  },
+  {
+    "title": "Spostare",
+    "artist": "Yolao",
+    "isrc": "FR10S1852505"
+  },
+  {
+    "title": "Escamotage",
+    "artist": "Moregrè",
+    "isrc": "ITAIL2300101"
+  },
+  {
+    "title": "Tutti i miei demoni",
+    "artist": "!housebroken, Radura",
+    "isrc": "QZHN32277487"
+  },
+  {
+    "title": "Il tuo nome",
+    "artist": "Caso",
+    "isrc": "IT0501601981"
+  },
+  {
+    "title": "Ufo",
+    "artist": "Malkovic",
+    "isrc": "ITAZ61600040"
+  },
+  {
+    "title": "Pop porno",
+    "artist": "Exhibit, Serpe Terror",
+    "isrc": "QZFYX2471587"
+  },
+  {
+    "title": "Con il sole negli occhi",
+    "artist": "Rami",
+    "isrc": "QM4TW1514051"
+  },
+  {
+    "title": "On canvas",
+    "artist": "Amalia Bloom",
+    "isrc": "ITAPC2200016"
+  },
+  {
+    "title": "Chiuso per fiere",
+    "artist": "Chambers",
+    "isrc": "USA561226639"
+  },
+  {
+    "title": "New Love",
+    "artist": "Jaguero",
+    "isrc": "QZPJ32265617"
+  },
+  {
+    "title": "Ora ti spiego come ci si sente a diventare quello che non ho mai voluto essere",
+    "artist": "Lenostrepaure",
+    "isrc": "CH6541983386"
+  },
+  {
+    "title": "Ventre",
+    "artist": "Gli Altri",
+    "isrc": "GB-SMU-30-64188"
+  },
+  {
+    "title": "Miseria",
+    "artist": "CASEMURATE",
+    "isrc": "ITQ1M1805002"
+  },
+  {
+    "title": "Argentina Mon Amour",
+    "artist": "DISQUIETED BY",
+    "isrc": "USCHR1324582"
+  },
+  {
+    "title": "Il lunedì è la domenica del rock",
+    "artist": "Capra",
+    "isrc": "ITT741500001"
+  },
+  {
+    "title": "EKOMOSTRO",
+    "artist": "Marrano",
+    "isrc": "ITJEN2200002"
+  },
+  {
+    "title": "Cuore",
+    "artist": "Albedo",
+    "isrc": "FR6V81639952"
+  },
+  {
+    "title": "Maledetta gioventù",
+    "artist": "Flowers And Paraffin",
+    "isrc": "GBLPF0226954"
+  },
+  {
+    "title": "4",
+    "artist": "Tante Anna",
+    "isrc": "IT0501600670"
+  },
+  {
+    "title": "Even Less",
+    "artist": "Eversor",
+    "isrc": "IT0501602139"
+  },
+  {
+    "title": "A Febbraio",
+    "artist": "Malkomforto",
+    "isrc": "QZHNC1980579"
+  },
+  {
+    "title": "Frantumato",
+    "artist": "Dispersi",
+    "isrc": "SE6I31926028"
+  },
+  {
+    "title": "SARANNO ALTRI",
+    "artist": "I Boschi Bruciano",
+    "isrc": "ITQGW1800077"
+  },
+  {
+    "title": "No One Cares",
+    "artist": "Barbed Wire",
+    "isrc": "QZK6M2068857"
+  },
+  {
+    "title": "Devo fare presto",
+    "artist": "Majakovich",
+    "isrc": "IT2QU1400001"
+  },
+  {
+    "title": "Orchidea",
+    "artist": "Suirami",
+    "isrc": "GB-SMU-46-59793"
+  },
+  {
+    "title": "Hey Sis",
+    "artist": "Labradors",
+    "isrc": "ITG372100168"
+  },
+  {
+    "title": "You (at the Twilight)",
+    "artist": "The Miles Apart",
+    "isrc": "IT0501602192"
+  },
+  {
+    "title": "Post-qualcosa",
+    "artist": "Il Sistema di Mel",
+    "isrc": "FRX201947785"
+  },
+  {
+    "title": "The Barnacle Beach",
+    "artist": "Settlefish",
+    "isrc": "US4KH1044511"
+  },
+  {
+    "title": "Maledetto me",
+    "artist": "LENIN!",
+    "isrc": "FRX201762163"
+  },
+  {
+    "title": "Se tornerà il sole",
+    "artist": "Zeman",
+    "isrc": "QM4TW1514057"
+  },
+  {
+    "title": "3/4 Di Addio",
+    "artist": "I Sogni di Dickens",
+    "isrc": "QZFZ32051088"
+  },
+  {
+    "title": "A Separation",
+    "artist": "More Lemonade",
+    "isrc": "GB-SMU-23-63687"
+  },
+  {
+    "title": "Quattro quattrini",
+    "artist": "Lagarto",
+    "isrc": "QZGWW2019787"
+  },
+  {
+    "title": "Shonen",
+    "artist": "Qualunque, Verano",
+    "isrc": "ITFJK2200048"
+  },
+  {
+    "title": "Santa Marta",
+    "artist": "Breaking The Fence",
+    "isrc": "ITV191602302"
+  },
+  {
+    "title": "Dove non si muore",
+    "artist": "Cenere",
+    "isrc": "QZHN72146539"
+  },
+  {
+    "title": "HOUDINI",
+    "artist": "Franek Windy, Arssalendo",
+    "isrc": "ITA642200040"
+  },
+  {
+    "title": "Claudio",
+    "artist": "Latente",
+    "isrc": "ITZ4H1900019"
+  },
+  {
+    "title": "Corro",
+    "artist": "Narcisisma",
+    "isrc": "usl4r1904510"
+  },
+  {
+    "title": "Scuba",
+    "artist": "Regata",
+    "isrc": "ITQ1M1604004"
+  },
+  {
+    "title": "Chitarra",
+    "artist": "Do Nascimiento",
+    "isrc": "US6R21454019"
+  },
+  {
+    "title": "Risse risse risse",
+    "artist": "Verme",
+    "isrc": "QMDA61374700"
+  },
+  {
+    "title": "Ruvida ruvida",
+    "artist": "Riviera",
+    "isrc": "ITP842400070"
+  },
+  {
+    "title": "Cimitero",
+    "artist": "Lantern",
+    "isrc": "IT0501601983"
+  },
+  {
+    "title": "Febbraio",
+    "artist": "And So Your Life Is Ruined",
+    "isrc": "FR10S1407438"
+  },
+  {
+    "title": "La vita è sopravvivenza delle cose, apprezzamento della natura, consolidamento dell'amicizia e...",
+    "artist": "Marcovaldo",
+    "isrc": "IT0501601012"
+  },
+  {
+    "title": "Ancora",
+    "artist": "Nient'altro che macerie",
+    "isrc": "FR2X41520065"
+  },
+  {
+    "title": "Gli Scienziati L'hanno Capito Prima Di Te",
+    "artist": "Dummo",
+    "isrc": "ushm80823959"
+  },
+  {
+    "title": "The Blonde Song",
+    "artist": "Futbolín",
+    "isrc": "FRX991595107"
+  },
+  {
+    "title": "Ricordati del sogno",
+    "artist": "Le Sacerdotesse dell'Isola del Piacere",
+    "isrc": "FR59R1652646"
+  },
+  {
+    "title": "Leggero",
+    "artist": "Castagna",
+    "isrc": "QZARB1850994"
+  },
+  {
+    "title": "Mantidi",
+    "artist": "Cabrera",
+    "isrc": "QZDA82433855"
+  },
+  {
+    "title": "Crollo",
+    "artist": "Quercia",
+    "isrc": "QZWFF2382607"
+  },
+  {
+    "title": "Nuvolone",
+    "artist": "Renàra",
+    "isrc": "QZDA42342029"
+  },
+  {
+    "title": "Vibrisse",
+    "artist": "Cucineremo Ciambelle",
+    "isrc": "CACWV1825407"
+  },
+  {
+    "title": "Martello",
+    "artist": "Garda 1990",
+    "isrc": "ITFJK2000048"
+  },
+  {
+    "title": "Fango",
+    "artist": "Mary in June",
+    "isrc": "FR10S1677121"
+  },
+  {
+    "title": "Lenta conquista",
+    "artist": "Cosmetic",
+    "isrc": "ITP841200024"
+  },
+  {
+    "title": "Lavoisier",
+    "artist": "Chivàla",
+    "isrc": "ITE8Q2100001"
+  },
+  {
+    "title": "B",
+    "artist": "Kairo <3",
+    "isrc": "GB-SMU-33-13478"
+  },
+  {
+    "title": "Nubifragio",
+    "artist": "Gazebo Penguins",
+    "isrc": "ITT742200317"
+  },
+  {
+    "title": "I Tratti Poetici / I Lati Semantici",
+    "artist": "Dhole",
+    "isrc": "QZES91822888"
+  },
+  {
+    "title": "Supernova",
+    "artist": "Stormo",
+    "isrc": "DEZ651354399"
+  },
+  {
+    "title": "Boston",
+    "artist": "Distanti, THE GAUDO SHOW",
+    "isrc": "DGA0L2301261"
+  },
+  {
+    "title": "Lista",
+    "artist": "Fine Before You Came",
+    "isrc": "FR6V81732772"
+  },
+  {
+    "title": "Amaca",
+    "artist": "Nenè Azzurra",
+    "isrc": "GX8LE2412074"
+  },
+  {
+    "title": "Pizzata",
+    "artist": "SAAM",
+    "isrc": "FR10S1867854"
+  },
+  {
+    "title": "Menura",
+    "artist": "Leita",
+    "isrc": "QZHN52224112"
+  },
+  {
+    "title": "Aspetta no",
+    "artist": "Altro",
+    "isrc": "IT0501601839"
+  },
+  {
+    "title": "Squalo",
+    "artist": "Stegosauro",
+    "isrc": "IT3QE2300002"
+  },
+  {
+    "title": "Marinai",
+    "artist": "L'AMO",
+    "isrc": "QMFMG1393471"
+  },
+  {
+    "title": "The River",
+    "artist": "Regarde",
+    "isrc": "QZPJ32346308"
+  },
+  {
+    "title": "Tredici",
+    "artist": "Øjne",
+    "isrc": "DEE021701190"
+  },
+  {
+    "title": "Un telefono che non squilla",
+    "artist": "Shizune",
+    "isrc": "SEYOK1506464"
+  },
+  {
+    "title": "glicini",
+    "artist": "Majno",
+    "isrc": "QZ5FN1887690"
+  },
+  {
+    "title": "Sparate Sempre Prima Di Strisciare",
+    "artist": "The Death Of Anna Karina",
+    "isrc": "ITO971100002"
+  },
+  {
+    "title": "Rimini",
+    "artist": "Action Dead Mouse",
+    "isrc": "GBMJG1905739"
+  },
+  {
+    "title": "Foresteria",
+    "artist": "Gomma",
+    "isrc": "ITQ1M1604103"
+  },
+  {
+    "title": "Cosa sei disposto a perdere",
+    "artist": "La quiete",
+    "isrc": "QMDA61422841"
+  },
+  {
+    "title": "Camomilla",
+    "artist": "I Botanici, Lo Stato Sociale",
+    "isrc": "ITT741900030"
+  },
+  {
+    "title": "Vhs",
+    "artist": "Tonno",
+    "isrc": "TCADS1880048"
+  },
+  {
+    "title": "L'Esercizio Delle Distanze",
+    "artist": "Minnie's",
+    "isrc": "ITT541000011"
+  },
+  {
+    "title": "1 di 6",
+    "artist": "Raein",
+    "isrc": "QMDA61422832"
+  },
+  {
+    "title": "Overdue",
+    "artist": "Leute",
+    "isrc": "ITP841600078"
+  },
+  {
+    "title": "With so Many Signatures, You Could Make a Petition",
+    "artist": "DAGS!",
+    "isrc": "US6R21454015"
+  },
+  {
+    "title": "Scappare sempre",
+    "artist": "Elephant Brain",
+    "isrc": "FRX281906417"
+  },
+  {
+    "title": "Lui era contentissimo",
+    "artist": "Asino",
+    "isrc": "USA561135618"
+  },
+  {
+    "title": "Rissa",
+    "artist": "TENUE",
+    "isrc": "ITQ1M2400102"
+  },
+  {
+    "title": "Esseri caotici",
+    "artist": "AlGot",
+    "isrc": "ITCQ22300020"
+  },
+  {
+    "title": "Marò liberi",
+    "artist": "Yolao",
+    "isrc": "FR10S1852517"
+  },
+  {
+    "title": "Gelido ricordo",
+    "artist": "Moregrè",
+    "isrc": "QZGWX2050030"
+  },
+  {
+    "title": "Confine",
+    "artist": "!housebroken",
+    "isrc": "QZHN32277489"
+  },
+  {
+    "title": "Ogni volta l'inverno",
+    "artist": "Caso",
+    "isrc": "IT0501601979"
+  },
+  {
+    "title": "Sai Te",
+    "artist": "Malkovic",
+    "isrc": "ITV191602408"
+  },
+  {
+    "title": "L'ultima occasione",
+    "artist": "Exhibit, Serpe Terror",
+    "isrc": "QZFYX2471586"
+  },
+  {
+    "title": "Duello",
+    "artist": "Rami",
+    "isrc": "QM4TW1514050"
+  },
+  {
+    "title": "Fatigue",
+    "artist": "Amalia Bloom",
+    "isrc": "ITAPC2200025"
+  },
+  {
+    "title": "200 metri d’orso",
+    "artist": "Chambers",
+    "isrc": "USA561226640"
+  },
+  {
+    "title": "All I Think About",
+    "artist": "Jaguero",
+    "isrc": "QZPJ32283259"
+  },
+  {
+    "title": "Cosa rimane",
+    "artist": "Lenostrepaure",
+    "isrc": "CH6541958103"
+  },
+  {
+    "title": "Prati",
+    "artist": "Gli Altri",
+    "isrc": "GB-SMU-30-64181"
+  },
+  {
+    "title": "Estate",
+    "artist": "Do Nascimiento",
+    "isrc": "US6R21454018"
+  },
+  {
+    "title": "La semplicità della montagna",
+    "artist": "Verme",
+    "isrc": "QMDA61374693"
+  },
+  {
+    "title": "Terra violenta",
+    "artist": "Riviera, maggio",
+    "isrc": "ITP842400066"
+  },
+  {
+    "title": "Antonio",
+    "artist": "Lantern",
+    "isrc": "FR6V82563197"
+  },
+  {
+    "title": "Senza mai guardarsi indietro",
+    "artist": "And So Your Life Is Ruined",
+    "isrc": "USHM82317233"
+  },
+  {
+    "title": "Abile",
+    "artist": "Nient'altro che macerie",
+    "isrc": "FR10S1571862"
+  },
+  {
+    "title": "Da Una Parte E Dall'altra",
+    "artist": "Dummo",
+    "isrc": "ushm80823960"
+  },
+  {
+    "title": "French Fries",
+    "artist": "Futbolín",
+    "isrc": "FRX281701991"
+  },
+  {
+    "title": "\"Trionfo del tempo e del disinganno\"",
+    "artist": "Le Sacerdotesse dell'Isola del Piacere",
+    "isrc": "QZPJ32316435"
+  },
+  {
+    "title": "Fronteretro",
+    "artist": "Castagna",
+    "isrc": "QZARB1850995"
+  },
+  {
+    "title": "Lunedì",
+    "artist": "Cabrera",
+    "isrc": "QZDA82433859"
+  },
+  {
+    "title": "Posto di blocco",
+    "artist": "Quercia",
+    "isrc": "FR96X1653642"
+  },
+  {
+    "title": "Limone",
+    "artist": "Renàra",
+    "isrc": "QZK6P1967182"
+  },
+  {
+    "title": "Dada",
+    "artist": "Cucineremo Ciambelle",
+    "isrc": "UST8K1665994"
+  },
+  {
+    "title": "Bordo",
+    "artist": "Garda 1990",
+    "isrc": "ITFJK2000047"
+  },
+  {
+    "title": "Un giorno come tanti",
+    "artist": "Mary in June, Giorgio Canali",
+    "isrc": "FR10S1677126"
+  },
+  {
+    "title": "Né noi né Leandro",
+    "artist": "Cosmetic",
+    "isrc": "ITP840900030"
+  },
+  {
+    "title": "Terra",
+    "artist": "Chivàla",
+    "isrc": "ITE8Q1900005"
+  },
+  {
+    "title": "Tempesta",
+    "artist": "Kairo <3",
+    "isrc": "GB-SMU-25-78498"
+  },
+  {
+    "title": "Cpr14",
+    "artist": "Gazebo Penguins",
+    "isrc": "ITT742200318"
+  },
+  {
+    "title": "Le Conseguenze Delle Parole",
+    "artist": "Dhole",
+    "isrc": "QZES91822886"
+  },
+  {
+    "title": "Delle Nostre Vite Appese",
+    "artist": "Stormo",
+    "isrc": "DEZ651354405"
+  },
+  {
+    "title": "Intro (Distanza)",
+    "artist": "Distanti",
+    "isrc": "DGA0L2301259"
+  },
+  {
+    "title": "Vixi",
+    "artist": "Fine Before You Came",
+    "isrc": "FR6V81732778"
+  },
+  {
+    "title": "Riposo",
+    "artist": "Nenè Azzurra",
+    "isrc": "GBSMU6255800"
+  },
+  {
+    "title": "Sandro",
+    "artist": "SAAM",
+    "isrc": "FR10S1867855"
+  },
+  {
+    "title": "Verso la foce",
+    "artist": "Leita",
+    "isrc": "QZHN52224109"
+  },
+  {
+    "title": "Rumba",
+    "artist": "Altro",
+    "isrc": "FR6V82139952"
+  },
+  {
+    "title": "Van Houten",
+    "artist": "Stegosauro",
+    "isrc": "IT3QE2300003"
+  },
+  {
+    "title": "Stupida",
+    "artist": "L'AMO",
+    "isrc": "QMFMG1393475"
+  }
+]

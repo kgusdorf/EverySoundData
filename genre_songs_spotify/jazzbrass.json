@@ -1,0 +1,817 @@
+[
+  {
+    "title": "Grove's Groove",
+    "artist": "Michael Dease, Tim Green, Glenn Zaleski, Rodney Whitaker, Ulysses Owens",
+    "isrc": "QM6N21531194"
+  },
+  {
+    "title": "Carl",
+    "artist": "Carl Fontana, Stan Kenton & His Orchestra",
+    "isrc": "USA371219127"
+  },
+  {
+    "title": "I Remember You",
+    "artist": "Mark Nightingale",
+    "isrc": "DEE289476301"
+  },
+  {
+    "title": "Pennies from Heaven",
+    "artist": "Frank Rosolino",
+    "isrc": "USAT20502530"
+  },
+  {
+    "title": "Reminiscent Blues",
+    "artist": "Urbie Green",
+    "isrc": "AUXN22337932"
+  },
+  {
+    "title": "My One and Only Love",
+    "artist": "Jimmy Cleveland",
+    "isrc": "AUXN22155624"
+  },
+  {
+    "title": "Puddle Jumping",
+    "artist": "Marshall Gilkes, The WDR Big Band",
+    "isrc": "usdy41845049"
+  },
+  {
+    "title": "Night Train",
+    "artist": "Al Grey, Jimmy Forrest",
+    "isrc": "DKEFA9902706"
+  },
+  {
+    "title": "Better Days (Theme from \"Man and Boy\")",
+    "artist": "J.J. Johnson, Bill Withers",
+    "isrc": "QM7281755011"
+  },
+  {
+    "title": "Figment Fragment",
+    "artist": "Jimmy Knepper, Al Cohn, Roland Hanna, George Mraz, Dannie Richmond",
+    "isrc": "DKARS8701501"
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "Delfeayo Marsalis",
+    "isrc": "USGG21300007"
+  },
+  {
+    "title": "Walk Spirit, Talk Spirit",
+    "artist": "Conrad Herwig, Eddie Palmieri",
+    "isrc": "USSTR2421604"
+  },
+  {
+    "title": "Ceora",
+    "artist": "Robin Eubanks",
+    "isrc": "GBAJC9700062"
+  },
+  {
+    "title": "Fleeting Modernity - Instrumental",
+    "artist": "Nils Wogram, Root 70",
+    "isrc": "DEWR32300002"
+  },
+  {
+    "title": "Yesterdays",
+    "artist": "Bob McChesney",
+    "isrc": "USH6B1400004"
+  },
+  {
+    "title": "Little Wing",
+    "artist": "Ron Westray",
+    "isrc": "US3D61400782"
+  },
+  {
+    "title": "Uphill",
+    "artist": "Karin Hammar, Andreas Hourdakis, Niklas Fernqvist, Fredrik Rundqvist",
+    "isrc": "SEBAA1800609"
+  },
+  {
+    "title": "Campinas",
+    "artist": "Ryan Keberle, Catharsis, Camila Meza, Scott Robinson, Jorge Roeder, Eric Doob",
+    "isrc": "USAS91972005"
+  },
+  {
+    "title": "Doxy",
+    "artist": "The Andy Martin Quartet, Andy Martin, Jan Lundgren, Tom Warrington, Paul Kreibich",
+    "isrc": "QM6MZ1831392"
+  },
+  {
+    "title": "A Beautiful Friendship",
+    "artist": "The Carl Fontana Quartet",
+    "isrc": "ushm81020140"
+  },
+  {
+    "title": "I Guess I'll Hang My Tears out to Dry",
+    "artist": "Vincent Gardner, Walter Blanding, Aaron Goldberg, Greg Williams, Quincy Davis",
+    "isrc": "DKARS0501603"
+  },
+  {
+    "title": "Ruby, My Dear",
+    "artist": "John Fedchock",
+    "isrc": "QM7281733050"
+  },
+  {
+    "title": "Walk Like the Guv",
+    "artist": "Michael Davis",
+    "isrc": "usdy41632100"
+  },
+  {
+    "title": "Body & Soul",
+    "artist": "The Bill Watrous Quartet",
+    "isrc": "USP2R0714705"
+  },
+  {
+    "title": "Black Trombone",
+    "artist": "Glenn Ferris, Serge Gainsbourg",
+    "isrc": "FR47Q0401435"
+  },
+  {
+    "title": "Lament",
+    "artist": "Nick Finzer",
+    "isrc": "QM3JE2402519"
+  },
+  {
+    "title": "Nice and Easy Blues",
+    "artist": "Vic Dickenson",
+    "isrc": "DKEFA1301702"
+  },
+  {
+    "title": "Pow!",
+    "artist": "Melba Liston, Jimmy Cleveland, Frank Rehak, Slide Hampton, Ray Bryant, George Tucker, Frank Dunlop",
+    "isrc": "ES7710740805"
+  },
+  {
+    "title": "24/7",
+    "artist": "Mason Brothers Quintet",
+    "isrc": "ushm91160900"
+  },
+  {
+    "title": "Pussy Willow",
+    "artist": "Harry \"Sweets\" Edison",
+    "isrc": "USGR19906356"
+  },
+  {
+    "title": "In a Meditating Mood",
+    "artist": "Eddie Bert",
+    "isrc": "CAM460439695"
+  },
+  {
+    "title": "When I'm 64 / Octopus's Garden",
+    "artist": "Phil Abraham",
+    "isrc": "ushm21453331"
+  },
+  {
+    "title": "Am I Blue",
+    "artist": "Jiggs Whigham",
+    "isrc": "DEPI81502634"
+  },
+  {
+    "title": "Dre's Blues",
+    "artist": "Andre Hayward",
+    "isrc": "uscgj1297905"
+  },
+  {
+    "title": "Naptown U.S.A.",
+    "artist": "The J.J. Johnson Quintet",
+    "isrc": "USSM11504468"
+  },
+  {
+    "title": "The Preacher",
+    "artist": "John Allred And Wycliffe Gordon",
+    "isrc": "US89R0611971"
+  },
+  {
+    "title": "Love for Sale",
+    "artist": "John Allred",
+    "isrc": "USFPZ1140023"
+  },
+  {
+    "title": "Beautiful Bed of Lies",
+    "artist": "Samuel Blaser, Carroll Thompson, Alex Wilson, Ira Coleman",
+    "isrc": "CHB772200043"
+  },
+  {
+    "title": "What Is This Thing Called First Strike Capability?",
+    "artist": "Tom Varner",
+    "isrc": "ITC000851322"
+  },
+  {
+    "title": "Linda Delia - 1998 Digital Remaster",
+    "artist": "Julius Watkins",
+    "isrc": "USBN29800582"
+  },
+  {
+    "title": "I Hear a Rhapsody",
+    "artist": "Bart van Lier, Metropole Orkest, Vince Mendoza",
+    "isrc": "NLHR51956086"
+  },
+  {
+    "title": "Cluster",
+    "artist": "John Graas",
+    "isrc": "ADA010809812"
+  },
+  {
+    "title": "Insight",
+    "artist": "Bobby Shew, Ricardo, Mark Levine, Jose, Michito Sanchez",
+    "isrc": "US9930610528"
+  },
+  {
+    "title": "The Spell",
+    "artist": "Vincent Chancey, Floros Floridis, Peter Kowald, Louis Moholo",
+    "isrc": "USB8U1082125"
+  },
+  {
+    "title": "Leaves",
+    "artist": "Joo Kraus, The SWR Big Band, Ralf Schmid, Tama Waipara",
+    "isrc": "DES290300045"
+  },
+  {
+    "title": "Blue Bossa",
+    "artist": "Bill Watrous Combo, Danny Stiles",
+    "isrc": "USP2R1516005"
+  },
+  {
+    "title": "The Eternal Triangle",
+    "artist": "Nick Vayenas, Elliot Mason",
+    "isrc": "uscgh2020674"
+  },
+  {
+    "title": "SOMETHIN' (feat. Ego Ella May)",
+    "artist": "Theo Croker, Ego Ella May",
+    "isrc": "USQX92201472"
+  },
+  {
+    "title": "El Cajon (feat. The Los Angeles Vocal Alliance, Rich Bullock, Jonathan Dane, Larry Williams, Ken Peplowski & Jennifer Leitham)",
+    "artist": "Scott Whitfield, The Los Angeles Vocal Alliance, Rich Bullock, Jonathan Dane, Larry Williams, Ken Peplowski, Jennifer Leitham",
+    "isrc": "ushm21480528"
+  },
+  {
+    "title": "Mad Be Bop",
+    "artist": "Robert Edwards",
+    "isrc": "QM4TX2495029"
+  },
+  {
+    "title": "Daddy Gonna Tell You No Lie",
+    "artist": "Josh Roseman, Lester Bowie, John Medeski",
+    "isrc": "DEA590009205"
+  },
+  {
+    "title": "An Ever Changing View",
+    "artist": "Matthew Halsall",
+    "isrc": "GBVTB2362003"
+  },
+  {
+    "title": "Stand By Me",
+    "artist": "Till Brönner, Gregory Porter",
+    "isrc": "DEUM71402954"
+  },
+  {
+    "title": "Swinging At The Haven",
+    "artist": "The Marsalis Family",
+    "isrc": "USMMX0330201"
+  },
+  {
+    "title": "Six Times Ten",
+    "artist": "Ramon Fossati, Ignasi Terraza Trio, Toni Solà",
+    "isrc": "ES7710651001"
+  },
+  {
+    "title": "Hurdles",
+    "artist": "Reggie Watkins",
+    "isrc": "ushm21478120"
+  },
+  {
+    "title": "The Year Of Two Summers",
+    "artist": "Jennifer Wharton",
+    "isrc": "US2W61953001"
+  },
+  {
+    "title": "The Way You Look Tonight",
+    "artist": "Lew Soloff",
+    "isrc": "JPPC00701407"
+  },
+  {
+    "title": "Totsuka-no-tsurugi",
+    "artist": "Eijiro Nakagawa, Samurai Brass",
+    "isrc": "JPF311600042"
+  },
+  {
+    "title": "Contact",
+    "artist": "Paul Olenick Sextet",
+    "isrc": "ES7710831501"
+  },
+  {
+    "title": "Don't Be That Way",
+    "artist": "Bob Enevoldsen, Marty Paich, Red Mitchell, Howard Roberts, Don Heath, Larry Bunker",
+    "isrc": "US6R21344099"
+  },
+  {
+    "title": "Midnight Jazz",
+    "artist": "Nicolas Folmer",
+    "isrc": "FRG140001560"
+  },
+  {
+    "title": "Homeboyz",
+    "artist": "Bheki Mseleku, Annie Whitehead, Dudley Phillips, Jim Watson, Nic France",
+    "isrc": "GBEYQ0328511"
+  },
+  {
+    "title": "Shinning Star",
+    "artist": "Luis Bonilla",
+    "isrc": "GBCWU0601520"
+  },
+  {
+    "title": "Aan Lager Wal (feat. Wilbert de Joode)",
+    "artist": "Wolter Wierbos",
+    "isrc": "uscgj1141234"
+  },
+  {
+    "title": "Ta-ta for Now",
+    "artist": "Mike Metheny",
+    "isrc": "uscgj0545263"
+  },
+  {
+    "title": "Little Waltz For My Baby",
+    "artist": "Christian Muthspiel, Franck Tortiller, Georg Breinschmid",
+    "isrc": "ATUM70600761"
+  },
+  {
+    "title": "Think Before You Talk",
+    "artist": "Matthias Bergmann",
+    "isrc": "DETA12100032"
+  },
+  {
+    "title": "Swing Train",
+    "artist": "Booty Wood",
+    "isrc": "FR6V89804281"
+  },
+  {
+    "title": "L'amour Des Moules",
+    "artist": "Eric Vloeimans, Tuur Florizoone, Jörg Brinkmann",
+    "isrc": "NLB151300365"
+  },
+  {
+    "title": "Rest And Go",
+    "artist": "Henning Berg, Hendrik Soll",
+    "isrc": "DEKD80615605"
+  },
+  {
+    "title": "The Climb",
+    "artist": "John Allred",
+    "isrc": "TCACL1619980"
+  },
+  {
+    "title": "Ladies in Their Sensitivities",
+    "artist": "John Rapson, Jamie Jackson, Stephen Sondheim, Sweeney Todd 2023 Broadway Company",
+    "isrc": "USRH12301843"
+  },
+  {
+    "title": "Song Of Delilah - 2006 - Remastered",
+    "artist": "Lou Blackburn",
+    "isrc": "USBN20600241"
+  },
+  {
+    "title": "Awakening",
+    "artist": "Louise Wilson",
+    "isrc": "TCACT1635085"
+  },
+  {
+    "title": "Blues Walk",
+    "artist": "New York Jazz Collective",
+    "isrc": "NLG620579058"
+  },
+  {
+    "title": "All-Purpose Remedy for Indescribable Emotional Discomfort",
+    "artist": "Rick Parker, Li Daiguo",
+    "isrc": "USGYQ1600001"
+  },
+  {
+    "title": "Cripple Crapple Crutch",
+    "artist": "Ronald Baker, Gerard Nieto, Ignasi González, Xavi Hinojosa",
+    "isrc": "ES5302272420"
+  },
+  {
+    "title": "ARAZU",
+    "artist": "Robinson Khoury, Natacha Atlas",
+    "isrc": "FXQ312300095"
+  },
+  {
+    "title": "ファイヴ・スポット・アフター・ダーク",
+    "artist": "Curtis Fuller Quintet",
+    "isrc": "JPCO05901290"
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "Michael Dease, Wycliffe Gordon, Tony Lustig, Alphonso Horne, Linda May Han Oh",
+    "isrc": "QMFMG1461970"
+  },
+  {
+    "title": "Polka Dots And Moonbeams",
+    "artist": "Carl Fontana, Jimmy Cook Big Band",
+    "isrc": "USA371219124"
+  },
+  {
+    "title": "Alone Toghether",
+    "artist": "Mark Nightingale",
+    "isrc": "DEE289476307"
+  },
+  {
+    "title": "Autumn Leaves",
+    "artist": "Frank Rosolino",
+    "isrc": "USYND0700120"
+  },
+  {
+    "title": "With the Wind and the Rain in Your Hair",
+    "artist": "Urbie Green",
+    "isrc": "AUXN22342179"
+  },
+  {
+    "title": "You Don't Know What Love Is",
+    "artist": "Jimmy Cleveland",
+    "isrc": "AUXN22155622"
+  },
+  {
+    "title": "Bonus Track: Sin Filtro",
+    "artist": "Marshall Gilkes, Adam Unsworth, Brandon Ridenour, Demondrae Thurman, Ethan Bensdorf, Joseph Alessi, Marcus Rojas, Nick Schwartz, Tony Kadleck",
+    "isrc": "ushm22214377"
+  },
+  {
+    "title": "My Favorite Things",
+    "artist": "J.J. Johnson",
+    "isrc": "USGR10300580"
+  },
+  {
+    "title": "On Green Dolphin Street",
+    "artist": "Al Grey",
+    "isrc": "USGR10110175"
+  },
+  {
+    "title": "Tell Me",
+    "artist": "Jimmy Knepper, Jimmy Knepper Sextet, Nico Bunink, Dick Vennik, Harry Emmery, John Engels",
+    "isrc": "NLB150000240"
+  },
+  {
+    "title": "Such Sweet Thunder",
+    "artist": "Delfeayo Marsalis",
+    "isrc": "USGG22010001"
+  },
+  {
+    "title": "Nica's Dream",
+    "artist": "Conrad Herwig",
+    "isrc": "USSTR2018701"
+  },
+  {
+    "title": "United",
+    "artist": "Robin Eubanks",
+    "isrc": "GBAJC9700061"
+  },
+  {
+    "title": "Beatrice's Rituals - Instrumental",
+    "artist": "Nils Wogram, Root 70",
+    "isrc": "DEWR32300001"
+  },
+  {
+    "title": "You May Have It Wrong",
+    "artist": "Bob McChesney",
+    "isrc": "USH6B1400001"
+  },
+  {
+    "title": "The Jiggy",
+    "artist": "Ron Westray",
+    "isrc": "US3D60800220"
+  },
+  {
+    "title": "Blackbird",
+    "artist": "Ryan Keberle",
+    "isrc": "usz6c0600003"
+  },
+  {
+    "title": "Alone Together",
+    "artist": "The Andy Martin Quartet",
+    "isrc": "ushm81010022"
+  },
+  {
+    "title": "Habbit Rabbit",
+    "artist": "Karin Hammar, Andreas Hourdakis, Niklas Fernqvist, Fredrik Rundqvist",
+    "isrc": "SEBAA1800608"
+  },
+  {
+    "title": "Flintstones",
+    "artist": "The Carl Fontana Quartet",
+    "isrc": "ushm81020145"
+  },
+  {
+    "title": "Blubber",
+    "artist": "Vincent Gardner, Walter Blanding, Aaron Goldberg, Greg Williams, Quincy Davis",
+    "isrc": "DKARS0501606"
+  },
+  {
+    "title": "Epistrophy",
+    "artist": "John Fedchock",
+    "isrc": "QM7281758870"
+  },
+  {
+    "title": "Bone Appetit",
+    "artist": "Michael Davis",
+    "isrc": "uscgh1196087"
+  },
+  {
+    "title": "Blue Bossa",
+    "artist": "The Bill Watrous Quartet",
+    "isrc": "USP2R0714707"
+  },
+  {
+    "title": "X Actimo!",
+    "artist": "Glenn Ferris",
+    "isrc": "FR47Q0507160"
+  },
+  {
+    "title": "Say When",
+    "artist": "Nick Finzer, Lewis Nash, Renee Rosnes, Rufus Reid",
+    "isrc": "QM3JE2402516"
+  },
+  {
+    "title": "Russian Lullaby",
+    "artist": "Vic Dickenson",
+    "isrc": "GBLGL0981942"
+  },
+  {
+    "title": "You Don't Say - Remastered. Stereo version",
+    "artist": "Melba Liston, Benny Powell, Bennie Green, Al Grey, George Joyner, Kenny Burrell, Charlie Persip",
+    "isrc": "ES7712414507"
+  },
+  {
+    "title": "Stage Pints",
+    "artist": "Mason Brothers Quintet",
+    "isrc": "ushm91160901"
+  },
+  {
+    "title": "Willow Weep For Me",
+    "artist": "Harry \"Sweets\" Edison, Buck Clayton",
+    "isrc": "USGR10500039"
+  },
+  {
+    "title": "I'm Thru with Love",
+    "artist": "Eddie Bert",
+    "isrc": "CAM460439693"
+  },
+  {
+    "title": "It Don't Mean a Thing",
+    "artist": "Phil Abraham",
+    "isrc": "NLB151400145"
+  },
+  {
+    "title": "Values",
+    "artist": "Jiggs Whigham",
+    "isrc": "DEPI81502630"
+  },
+  {
+    "title": "Way Back Home",
+    "artist": "Andre Hayward, Chris Jones",
+    "isrc": "QZDQU1800001"
+  },
+  {
+    "title": "Solar",
+    "artist": "The J.J. Johnson Quintet",
+    "isrc": "USSM11504466"
+  },
+  {
+    "title": "It's All Right With Me",
+    "artist": "John Allred And Wycliffe Gordon",
+    "isrc": "US89R0611970"
+  },
+  {
+    "title": "Lucky Southern",
+    "artist": "John Allred",
+    "isrc": "USFPZ1140030"
+  },
+  {
+    "title": "Green Island",
+    "artist": "Samuel Blaser, Steve Turre, Alex Wilson, Soweto Kinch, Glenn Ferris",
+    "isrc": "CHB772200041"
+  },
+  {
+    "title": "Quasimodo",
+    "artist": "Tom Varner",
+    "isrc": "ITC000851321"
+  },
+  {
+    "title": "I Have Known - 1998 Digital Remaster",
+    "artist": "Julius Watkins",
+    "isrc": "USBN29800584"
+  },
+  {
+    "title": "Blue Bass",
+    "artist": "Bart van Lier",
+    "isrc": "NLR031300108"
+  },
+  {
+    "title": "Blue Haze",
+    "artist": "John Graas",
+    "isrc": "AUXN22337470"
+  },
+  {
+    "title": "I Couldn't Have Loved You More",
+    "artist": "Bobby Shew",
+    "isrc": "USEAE0100210"
+  },
+  {
+    "title": "Mongezi - Dedicated to Mongezi Feza",
+    "artist": "Vincent Chancey, Floros Floridis, Peter Kowald, Louis Moholo",
+    "isrc": "USB8U1082124"
+  },
+  {
+    "title": "Just Fiends - Take 2",
+    "artist": "Bill Watrous Combo, Danny Stiles",
+    "isrc": "USP2R0111501"
+  },
+  {
+    "title": "Love Is All We Need",
+    "artist": "Joo Kraus, The SWR Big Band, Ralf Schmid, Sheryl Hackett",
+    "isrc": "DES290300049"
+  },
+  {
+    "title": "Smile",
+    "artist": "Nick Vayenas",
+    "isrc": "uscgh2020671"
+  },
+  {
+    "title": "ROYAL CONVERSATION (feat. James Tillman)",
+    "artist": "Theo Croker, James Tillman",
+    "isrc": "USQX92201466"
+  },
+  {
+    "title": "Big Darlin",
+    "artist": "Scott Whitfield, Christian Jacob, Kevin Axt, Peter Erskine",
+    "isrc": "US9931302007"
+  },
+  {
+    "title": "Stand Up!",
+    "artist": "Robert Edwards",
+    "isrc": "QM4TW2341401"
+  },
+  {
+    "title": "Theme Constellations (Live)",
+    "artist": "Josh Roseman, Barney McCall",
+    "isrc": "DEA590730606"
+  },
+  {
+    "title": "The Sun In September",
+    "artist": "Matthew Halsall",
+    "isrc": "GBVTB1207006"
+  },
+  {
+    "title": "Twelve's It",
+    "artist": "The Marsalis Family",
+    "isrc": "USMMX0330208"
+  },
+  {
+    "title": "But Not for Me",
+    "artist": "Ramon Fossati, Ignasi Terraza Trio, Toni Solà",
+    "isrc": "ES7710651002"
+  },
+  {
+    "title": "Save Your Love for Me",
+    "artist": "Till Brönner, Bob James, Harvey Mason, Christian von Kaphengst",
+    "isrc": "USQX92003915"
+  },
+  {
+    "title": "For Hofsa",
+    "artist": "Michael Dease, Steve Wilson, Renee Rosnes, Gerald Cannon, Lewis Nash, Jocelyn Gould",
+    "isrc": "QM9Z91900086"
+  },
+  {
+    "title": "Ballad Medley - If You Could See Me Now / Come Back To Sorrento",
+    "artist": "Carl Fontana, Vido Musso Quintet",
+    "isrc": "USA371219118"
+  },
+  {
+    "title": "Eight Inch Clock",
+    "artist": "Mark Nightingale, Nigel Hitchcock, Graham Harvey, Laurence Cottle, Ian Thomas",
+    "isrc": "GBFGB0900047"
+  },
+  {
+    "title": "Corcovado",
+    "artist": "Frank Rosolino",
+    "isrc": "USYND0700119"
+  },
+  {
+    "title": "Mertensia",
+    "artist": "Urbie Green",
+    "isrc": "USSM11603101"
+  },
+  {
+    "title": "Little Beaver",
+    "artist": "Jimmy Cleveland",
+    "isrc": "AUXN22155623"
+  },
+  {
+    "title": "Morning Smiles",
+    "artist": "Marshall Gilkes, The WDR Big Band",
+    "isrc": "usdy41845051"
+  },
+  {
+    "title": "Blue Trombone (Part 1 & 2)",
+    "artist": "J.J. Johnson",
+    "isrc": "USSM11800858"
+  },
+  {
+    "title": "The Girl From Ipanema",
+    "artist": "Al Grey, Wallace Davenport, Isauro Hernández",
+    "isrc": "QMFME1428386"
+  },
+  {
+    "title": "You Stepped Out A Dream",
+    "artist": "Jimmy Knepper",
+    "isrc": "NLP431100053"
+  },
+  {
+    "title": "The Secret Love Affair",
+    "artist": "Delfeayo Marsalis",
+    "isrc": "USGG21300001"
+  },
+  {
+    "title": "Passion Dance",
+    "artist": "Conrad Herwig",
+    "isrc": "USSTR2421602"
+  },
+  {
+    "title": "Midtown",
+    "artist": "Robin Eubanks, NSU Jazz Ensemble",
+    "isrc": "ushm80851145"
+  },
+  {
+    "title": "Va Lentement - Instrumental",
+    "artist": "Nils Wogram, Root 70",
+    "isrc": "DEWR32300003"
+  },
+  {
+    "title": "The Preakness",
+    "artist": "Bob McChesney",
+    "isrc": "USH6B1400003"
+  },
+  {
+    "title": "One Rainy Wish",
+    "artist": "Ron Westray",
+    "isrc": "US3D61400787"
+  },
+  {
+    "title": "Peering",
+    "artist": "Ryan Keberle, Catharsis, Camila Meza, Jorge Roeder",
+    "isrc": "USAS91972007"
+  },
+  {
+    "title": "Carl",
+    "artist": "The Andy Martin Quartet, Andy Martin, Jan Lundgren, Tom Warrington, Paul Kreibich",
+    "isrc": "QM6MZ1831390"
+  },
+  {
+    "title": "Nadar com tartarugas",
+    "artist": "Karin Hammar, Rita Marcotulli, Andreas Hourdakis, Niklas Fernqvist, Fredrik Rundqvist",
+    "isrc": "SEBAA2300107"
+  },
+  {
+    "title": "Gigi",
+    "artist": "The Carl Fontana Quartet",
+    "isrc": "ushm81020144"
+  },
+  {
+    "title": "Doomzoom",
+    "artist": "Vincent Gardner, Walter Blanding, Aaron Goldberg, Greg Williams, Quincy Davis",
+    "isrc": "DKARS0501601"
+  },
+  {
+    "title": "Flintstoned",
+    "artist": "John Fedchock",
+    "isrc": "QM7281733057"
+  },
+  {
+    "title": "Fog City",
+    "artist": "Michael Davis",
+    "isrc": "usdy41632105"
+  },
+  {
+    "title": "La Zorra",
+    "artist": "The Bill Watrous Quartet",
+    "isrc": "USP2R1415401"
+  },
+  {
+    "title": "Boy Boy",
+    "artist": "Glenn Ferris",
+    "isrc": "FR47Q0401390"
+  },
+  {
+    "title": "I Cover The Waterfront",
+    "artist": "Vic Dickenson",
+    "isrc": "GBLGL0981939"
+  },
+  {
+    "title": "Judy",
+    "artist": "Nick Finzer, Renee Rosnes, Rufus Reid, Lewis Nash",
+    "isrc": "QM3JE2402525"
+  },
+  {
+    "title": "The Trolley Song - Remastered. Stereo version",
+    "artist": "Melba Liston, Benny Powell, Bennie Green, Al Grey, George Joyner, Kenny Burrell, Charlie Persip",
+    "isrc": "ES7712414502"
+  }
+]

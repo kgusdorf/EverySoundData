@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Kalt' Ritt in leicht faltiger Leere",
+    "artist": "Bethlehem",
+    "isrc": "DES561620202"
+  },
+  {
+    "title": "Ten Bodies Hanging",
+    "artist": "Gnaw Their Tongues",
+    "isrc": "QZES51983853"
+  },
+  {
+    "title": "Scion",
+    "artist": "Manes",
+    "isrc": "FR9W11807526"
+  },
+  {
+    "title": "No More Sorry",
+    "artist": "Liturgy",
+    "isrc": "US2392400123"
+  },
+  {
+    "title": "Vileness Slim",
+    "artist": "Mamaleek",
+    "isrc": "USA2Z2400193"
+  },
+  {
+    "title": "Angelus Novus",
+    "artist": "Jute Gyte",
+    "isrc": "SEYOK1931095"
+  },
+  {
+    "title": "Ghosts of Grace",
+    "artist": "Nachtmystium",
+    "isrc": "US4E40849603"
+  },
+  {
+    "title": "Black Light Aeon Apocryphia",
+    "artist": "Utarm",
+    "isrc": "QZMER2134369"
+  },
+  {
+    "title": "Za ćmą, W Dym",
+    "artist": "Furia",
+    "isrc": "QMS2M1700175"
+  },
+  {
+    "title": "Peste",
+    "artist": "Diapsiquir",
+    "isrc": "USA561452948"
+  },
+  {
+    "title": "80 Grains of Sand",
+    "artist": "The Meads Of Asphodel",
+    "isrc": "ushm21417367"
+  },
+  {
+    "title": "Fragments of the Witch",
+    "artist": "Wormsblood",
+    "isrc": "uscgj0962984"
+  },
+  {
+    "title": "Foresee His Infernal Rites",
+    "artist": "Furze",
+    "isrc": "NO2MV2401020"
+  },
+  {
+    "title": "Psyche",
+    "artist": "Aenaon",
+    "isrc": "PLC172100301"
+  },
+  {
+    "title": "Breath of Doors",
+    "artist": "Wrnlrd",
+    "isrc": "USHC50800002"
+  },
+  {
+    "title": "The Swing",
+    "artist": "Jumalhämärä",
+    "isrc": "USI4R0708770"
+  },
+  {
+    "title": "IV XII MMX",
+    "artist": "Aluk Todolo",
+    "isrc": "DEVF41600284"
+  },
+  {
+    "title": "Man vs. Flesh - Structured Suicide",
+    "artist": "Havoc Unit",
+    "isrc": "FIK671000021"
+  },
+  {
+    "title": "Star-Spawn",
+    "artist": "Kraken Duumvirate",
+    "isrc": "SEVVF2009101"
+  },
+  {
+    "title": "The Beginning of Fortune (feat. Chip King)",
+    "artist": "VMO, Chip King",
+    "isrc": "TCJPE1672792"
+  },
+  {
+    "title": "Destroyer of Constellations",
+    "artist": "Adaestuo",
+    "isrc": "ushm81691235"
+  },
+  {
+    "title": "It's Not Reality - Scott Brown Evolution Mix",
+    "artist": "Ewigkeit",
+    "isrc": "GBBPB1700301"
+  },
+  {
+    "title": "Bitter Tears and Grave Dirt",
+    "artist": "Nyss",
+    "isrc": "USY251959879"
+  },
+  {
+    "title": "Vajra",
+    "artist": "Temple Koludra",
+    "isrc": "QMEU31906189"
+  },
+  {
+    "title": "Vracejte Konve Na Místo",
+    "artist": "Master's Hammer",
+    "isrc": "usl4q2092801"
+  },
+  {
+    "title": "Thy Way with the Serpent Entwined",
+    "artist": "Dkharmakhaoz",
+    "isrc": "TCAIA2490856"
+  },
+  {
+    "title": "They Shorten",
+    "artist": "Cssaba",
+    "isrc": "USV291392724"
+  },
+  {
+    "title": "Sturmgeist_89",
+    "artist": "Sturmgeist",
+    "isrc": "NOX9X3697809"
+  },
+  {
+    "title": "Cryogenian",
+    "artist": "Fractal Generator",
+    "isrc": "USHM22419307"
+  },
+  {
+    "title": "Minnets melankoli",
+    "artist": "Bergraven",
+    "isrc": "SEVVF1801404"
+  },
+  {
+    "title": "Slave Destroyed",
+    "artist": "Sect Pig",
+    "isrc": "QM4TW1726222"
+  },
+  {
+    "title": "Standing On Bedlam, Burning In Bliss",
+    "artist": "Howls Of Ebb",
+    "isrc": "JMA271501609"
+  },
+  {
+    "title": "Curtains of Light",
+    "artist": "Procer Veneficus",
+    "isrc": "QMDA61386562"
+  },
+  {
+    "title": "Therefore I Worship",
+    "artist": "Self Spiller",
+    "isrc": "QMPKX1322702"
+  },
+  {
+    "title": "Kundalini",
+    "artist": "Arkheth",
+    "isrc": "QMDA62245488"
+  },
+  {
+    "title": "Black Embrace",
+    "artist": "A.V.D.L",
+    "isrc": "QMFMF1500894"
+  },
+  {
+    "title": "Real Of Purity",
+    "artist": "Aevlord",
+    "isrc": "FR6V80718189"
+  },
+  {
+    "title": "Antica Arcana",
+    "artist": "Antica Arcana",
+    "isrc": "usx9p1209666"
+  },
+  {
+    "title": "Diabolus",
+    "artist": "Antidiocese",
+    "isrc": "uscgj1535123"
+  },
+  {
+    "title": "The Trembling Eye",
+    "artist": "Ave Maria",
+    "isrc": "GB-SMU-18-63737"
+  },
+  {
+    "title": "Black Metal Interior Design",
+    "artist": "Bleating Apocalypse",
+    "isrc": "QZ9Y21735471"
+  },
+  {
+    "title": "Cold Forever",
+    "artist": "China Girl",
+    "isrc": "QZ9YD1700003"
+  },
+  {
+    "title": "Balistic Tears",
+    "artist": "Daemon Forest",
+    "isrc": "QZMEM2455642"
+  },
+  {
+    "title": "Fallen",
+    "artist": "Death and the Lament",
+    "isrc": "uscgh1469830"
+  },
+  {
+    "title": "Healing Hara (417 Hz)",
+    "artist": "Dream Projector",
+    "isrc": "SE4RG2301940"
+  },
+  {
+    "title": "Mechanism of Gaia",
+    "artist": "Distorted Cognitions",
+    "isrc": "uscgh1163338"
+  },
+  {
+    "title": "As I Descend Into the Bottomless Void",
+    "artist": "Dødkvlt",
+    "isrc": "GB-SMU-20-92105"
+  },
+  {
+    "title": "Sophist's Death: Legacy and Bitter Tears",
+    "artist": "Eclectika",
+    "isrc": "FR6V81400828"
+  },
+  {
+    "title": "Finisterre",
+    "artist": "Epistasis",
+    "isrc": "US33D1410009"
+  },
+  {
+    "title": "Let Me Know",
+    "artist": "Felis Catus, Melinda Pearl Dew",
+    "isrc": "BGA471908034"
+  },
+  {
+    "title": "No for an Answer",
+    "artist": "Genevieve",
+    "isrc": "ushm91730195"
+  },
+  {
+    "title": "Lines",
+    "artist": "Husere Grav",
+    "isrc": "US33D1310117"
+  },
+  {
+    "title": "Steel Reserve",
+    "artist": "Initial Point",
+    "isrc": "ushm90750251"
+  },
+  {
+    "title": "Antipathy",
+    "artist": "Kama-Mara",
+    "isrc": "uscgh1362520"
+  },
+  {
+    "title": "Algol 1",
+    "artist": "Kavra",
+    "isrc": "GB-SMU-51-06757"
+  },
+  {
+    "title": "Sowing the Seeds of Extinction",
+    "artist": "Kvoid",
+    "isrc": "QM2PV1572900"
+  },
+  {
+    "title": "LMDCM",
+    "artist": "Lesmentor",
+    "isrc": "FR6V81170215"
+  },
+  {
+    "title": "As The Wound In Your Hand Festers",
+    "artist": "Livercage",
+    "isrc": "uscgj0891843"
+  },
+  {
+    "title": "Canção em Lua Negra de Averno",
+    "artist": "Malkuth",
+    "isrc": "GBSMU4682046"
+  },
+  {
+    "title": "Yagrum Bagarn",
+    "artist": "Meolestis",
+    "isrc": "ushm21375993"
+  },
+  {
+    "title": "Celestial Mechanism",
+    "artist": "Nagaarum",
+    "isrc": "HUA632000707"
+  },
+  {
+    "title": "Talkin' in Tongues with Mountain Spirits",
+    "artist": "Primeval Well",
+    "isrc": "QZMEP2180045"
+  },
+  {
+    "title": "Open Casket (feat. Tim Roth & Chuck Wepfer)",
+    "artist": "Psychotic Gardening, Tim Roth, Chuck Wepfer",
+    "isrc": "uscgj1477266"
+  },
+  {
+    "title": "Fire Lord",
+    "artist": "Reverence",
+    "isrc": "usl4q1707900"
+  },
+  {
+    "title": "Worship",
+    "artist": "Servants Of The Apocalyptic Goat Rave",
+    "isrc": "UK6821736509"
+  },
+  {
+    "title": "I",
+    "artist": "Seven Chains",
+    "isrc": "ESA011870054"
+  },
+  {
+    "title": "Askens Despot",
+    "artist": "Skrømt",
+    "isrc": "NOM1C1401050"
+  },
+  {
+    "title": "The Gun Is Perched Between My Teeth",
+    "artist": "The Last Surrealist",
+    "isrc": "USE830942023"
+  },
+  {
+    "title": "Curious Instruments",
+    "artist": "The Lower Mantle",
+    "isrc": "QZAPG1732091"
+  },
+  {
+    "title": "Currents",
+    "artist": "The Sun and the Mirror",
+    "isrc": "QZDA82180226"
+  },
+  {
+    "title": "Escaping The Crowd - Original",
+    "artist": "Vent d'Automne",
+    "isrc": "GBKQU1230173"
+  },
+  {
+    "title": "Prothesensucht",
+    "artist": "Vom Fetisch der Unbeirrtheit",
+    "isrc": "USME31303893"
+  },
+  {
+    "title": "Hornbearer",
+    "artist": "Voz De Nenhum",
+    "isrc": "usdy41901348"
+  },
+  {
+    "title": "Gros Morne",
+    "artist": "Wisent",
+    "isrc": "usdy41693941"
+  },
+  {
+    "title": "A Drink to Malice",
+    "artist": "Wytchfilth",
+    "isrc": "QZANL1719183"
+  },
+  {
+    "title": "The Plague of Lord Belial",
+    "artist": "Zwetwezen",
+    "isrc": "UKCVA1803896"
+  },
+  {
+    "title": "Underwater",
+    "artist": "coldnight",
+    "isrc": "KRNAR2235677"
+  },
+  {
+    "title": "Schatten Aus Der Alexander Welt",
+    "artist": "Bethlehem",
+    "isrc": "USY251513539"
+  },
+  {
+    "title": "My Orifices Await Ravaging",
+    "artist": "Gnaw Their Tongues",
+    "isrc": "US33D0910017"
+  },
+  {
+    "title": "Endetidstegn",
+    "artist": "Manes",
+    "isrc": "FR9W11807525"
+  },
+  {
+    "title": "Ancient Souls, No Longer Sorrowful",
+    "artist": "Mamaleek",
+    "isrc": "USA2Z2400195"
+  },
+  {
+    "title": "Sleipnir Fossa",
+    "artist": "Jute Gyte",
+    "isrc": "QZNWZ2371085"
+  },
+  {
+    "title": "Djennaration",
+    "artist": "Liturgy",
+    "isrc": "USTJ22358102"
+  },
+  {
+    "title": "Silver Lanterns",
+    "artist": "Nachtmystium",
+    "isrc": "DES561898703"
+  },
+  {
+    "title": "Altetende Skaper",
+    "artist": "Utarm",
+    "isrc": "QZMER2134367"
+  },
+  {
+    "title": "Zamawianie Trzecie",
+    "artist": "Furia",
+    "isrc": "USL4Q2316466"
+  },
+  {
+    "title": "A.N.T.I.",
+    "artist": "Diapsiquir",
+    "isrc": "USA561452950"
+  },
+  {
+    "title": "Creed of Abraham",
+    "artist": "The Meads Of Asphodel",
+    "isrc": "ushm21417369"
+  },
+  {
+    "title": "Blood Blood Blood",
+    "artist": "Wormsblood",
+    "isrc": "QZNWT2233933"
+  },
+  {
+    "title": "Post Mortem Trippin'",
+    "artist": "Furze",
+    "isrc": "NO2MV2401030"
+  },
+  {
+    "title": "Oneirodynia",
+    "artist": "Aenaon",
+    "isrc": "ITJ351601512"
+  },
+  {
+    "title": "Silent Command",
+    "artist": "Wrnlrd",
+    "isrc": "USHC50800003"
+  },
+  {
+    "title": "Discover the Pigtail",
+    "artist": "Jumalhämärä",
+    "isrc": "USI4R0708771"
+  },
+  {
+    "title": "Woodchurch",
+    "artist": "Aluk Todolo",
+    "isrc": "USI4R0915432"
+  },
+  {
+    "title": "When Children Are No Longer Enough - C.Oitus O.Rgasm C.Atholic K.Ids",
+    "artist": "Havoc Unit",
+    "isrc": "FIK671000016"
+  },
+  {
+    "title": "The Temple",
+    "artist": "Kraken Duumvirate",
+    "isrc": "SEVVF2009103"
+  },
+  {
+    "title": "Pursuit of Dignity",
+    "artist": "VMO",
+    "isrc": "TCJPE1672811"
+  },
+  {
+    "title": "Red Moon",
+    "artist": "Adaestuo",
+    "isrc": "usl4q1816140"
+  },
+  {
+    "title": "It's Not Reality",
+    "artist": "Ewigkeit",
+    "isrc": "GBBPB0500264"
+  },
+  {
+    "title": "II",
+    "artist": "Nyss",
+    "isrc": "QM7281794302"
+  },
+  {
+    "title": "Trimurti",
+    "artist": "Temple Koludra",
+    "isrc": "QMEU31906188"
+  },
+  {
+    "title": "Nordfrostkrampfland",
+    "artist": "Master's Hammer",
+    "isrc": "usl4q2092795"
+  },
+  {
+    "title": "The Cycle Ov Omega",
+    "artist": "Dkharmakhaoz",
+    "isrc": "TCAIA2490853"
+  },
+  {
+    "title": "Nails",
+    "artist": "Cssaba",
+    "isrc": "USV291392720"
+  },
+  {
+    "title": "Himmelen Faller",
+    "artist": "Sturmgeist",
+    "isrc": "NOX9X3697802"
+  },
+  {
+    "title": "Askesis",
+    "artist": "Fractal Generator",
+    "isrc": "USDY42446515"
+  },
+  {
+    "title": "Den följsamma plågan",
+    "artist": "Bergraven",
+    "isrc": "SEVVF1801403"
+  },
+  {
+    "title": "Self Reversed - Swine Denounced - F.O.W.M. - 7.2 Billion Dead",
+    "artist": "Sect Pig",
+    "isrc": "QM4TW1726345"
+  },
+  {
+    "title": "Iron Laurels, Woven In Rust",
+    "artist": "Howls Of Ebb",
+    "isrc": "JMA271501611"
+  },
+  {
+    "title": "Incorporeal Acclimation",
+    "artist": "Procer Veneficus",
+    "isrc": "QMDA61386563"
+  },
+  {
+    "title": "Rot On Root",
+    "artist": "Self Spiller",
+    "isrc": "QMPKX1322703"
+  },
+  {
+    "title": "Neptune Beaches",
+    "artist": "Arkheth",
+    "isrc": "QMDA62245490"
+  },
+  {
+    "title": "How Is Your Life Today?",
+    "artist": "A.V.D.L",
+    "isrc": "QMFMF1500888"
+  },
+  {
+    "title": "The Apogee",
+    "artist": "Aevlord",
+    "isrc": "FR6V80718190"
+  },
+  {
+    "title": "Awake",
+    "artist": "Antica Arcana",
+    "isrc": "usx9p1209672"
+  },
+  {
+    "title": "Heretic's Prayer",
+    "artist": "Antidiocese",
+    "isrc": "uscgj1535129"
+  },
+  {
+    "title": "With Words Like Ecstasy",
+    "artist": "Ave Maria",
+    "isrc": "GB-SMU-18-63743"
+  },
+  {
+    "title": "Eat Wood Glue",
+    "artist": "Bleating Apocalypse",
+    "isrc": "QZ9Y21735462"
+  },
+  {
+    "title": "No More Fun",
+    "artist": "China Girl",
+    "isrc": "QZ9YD1700004"
+  },
+  {
+    "title": "The March of the Youth Army",
+    "artist": "Daemon Forest",
+    "isrc": "QZMEM2456485"
+  },
+  {
+    "title": "Between Still Dimensions",
+    "artist": "Death and the Lament",
+    "isrc": "uscgh1469824"
+  },
+  {
+    "title": "Hegelian Dialectic",
+    "artist": "Distorted Cognitions",
+    "isrc": "uscgh1230562"
+  },
+  {
+    "title": "Isolation",
+    "artist": "Dream Projector",
+    "isrc": "TCAGZ2386605"
+  },
+  {
+    "title": "Children of a Failed God",
+    "artist": "Dødkvlt",
+    "isrc": "GB-SMU-20-92079"
+  },
+  {
+    "title": "The Last Blue Bird",
+    "artist": "Eclectika",
+    "isrc": "FR6V81073045"
+  },
+  {
+    "title": "Time's Vomiting Mouth",
+    "artist": "Epistasis",
+    "isrc": "US33D1410008"
+  },
+  {
+    "title": "Transition - Act I - Landscapes of a Lost Civilization",
+    "artist": "Felis Catus",
+    "isrc": "FR6V82022865"
+  },
+  {
+    "title": "Smoke",
+    "artist": "Genevieve",
+    "isrc": "ushm91730192"
+  },
+  {
+    "title": "Serpent Saviour",
+    "artist": "Husere Grav",
+    "isrc": "US33D1310119"
+  },
+  {
+    "title": "Wahn schmiedet Sarg",
+    "artist": "Bethlehem",
+    "isrc": "DES561620208"
+  },
+  {
+    "title": "All the Dread Magnificence of Perversity",
+    "artist": "Gnaw Their Tongues",
+    "isrc": "US33D0910024"
+  },
+  {
+    "title": "Submerged",
+    "artist": "Manes",
+    "isrc": "NOEHU2413401"
+  },
+  {
+    "title": "Eating Unblessed Meat",
+    "artist": "Mamaleek",
+    "isrc": "USA2Z2000010"
+  },
+  {
+    "title": "Only Castles Burning",
+    "artist": "Jute Gyte",
+    "isrc": "QZTAW2371599"
+  },
+  {
+    "title": "Vessel of Everthirst",
+    "artist": "Liturgy",
+    "isrc": "US2392400124"
+  },
+  {
+    "title": "Epitaph for a Dying Star",
+    "artist": "Nachtmystium, Scott Judd",
+    "isrc": "US4E41402609"
+  },
+  {
+    "title": "Of Rape, Solitude and Bliss: The Triangle of Flesh",
+    "artist": "Utarm",
+    "isrc": "QZMER2134368"
+  },
+  {
+    "title": "Ωlow",
+    "artist": "Diapsiquir",
+    "isrc": "USA561452947"
+  },
+  {
+    "title": "Ciało",
+    "artist": "Furia",
+    "isrc": "QMS2M1700176"
+  },
+  {
+    "title": "Guts for Sale",
+    "artist": "The Meads Of Asphodel",
+    "isrc": "ushm21417368"
+  },
+  {
+    "title": "Wildegeeses",
+    "artist": "Wormsblood",
+    "isrc": "QZNWT2233932"
+  },
+  {
+    "title": "A Blacksmith for the Souls of Metal",
+    "artist": "Furze",
+    "isrc": "NO2MV1511060"
+  },
+  {
+    "title": "Earth Tomb",
+    "artist": "Aenaon",
+    "isrc": "ITJ351601514"
+  },
+  {
+    "title": "Diamond",
+    "artist": "Wrnlrd",
+    "isrc": "USHC50800041"
+  },
+  {
+    "title": "Dawn Saturnine",
+    "artist": "Jumalhämärä",
+    "isrc": "USI4R0708772"
+  },
+  {
+    "title": "A Collaboration I",
+    "artist": "Aluk Todolo, Der Blutharsch",
+    "isrc": "DEKB31100078"
+  },
+  {
+    "title": "Vermicide",
+    "artist": "Havoc Unit",
+    "isrc": "FIK671000014"
+  },
+  {
+    "title": "The Stars Below, The Seas Above",
+    "artist": "Kraken Duumvirate",
+    "isrc": "SEVVF2009105"
+  },
+  {
+    "title": "At The Bank",
+    "artist": "VMO",
+    "isrc": "TCJPE1672807"
+  },
+  {
+    "title": "Monument",
+    "artist": "Adaestuo",
+    "isrc": "usl4q1816142"
+  },
+  {
+    "title": "Christendom Falls",
+    "artist": "Ewigkeit",
+    "isrc": "usdy42007803"
+  },
+  {
+    "title": "I",
+    "artist": "Nyss",
+    "isrc": "QM7281794301"
+  },
+  {
+    "title": "Grey Apparition",
+    "artist": "Temple Koludra",
+    "isrc": "QMEU31906190"
+  },
+  {
+    "title": "Fascinator",
+    "artist": "Master's Hammer",
+    "isrc": "usdy41872404"
+  },
+  {
+    "title": "Beyond the Transcendental Luminescence",
+    "artist": "Dkharmakhaoz",
+    "isrc": "TCAIA2490860"
+  },
+  {
+    "title": "Tarts",
+    "artist": "Cssaba",
+    "isrc": "USV291392722"
+  }
+]

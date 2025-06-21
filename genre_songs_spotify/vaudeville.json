@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Alexander's Ragtime Band",
+    "artist": "Arthur Collins",
+    "isrc": "USA2P1440906"
+  },
+  {
+    "title": "Are You Lonesome Tonight?",
+    "artist": "Henry Burr",
+    "isrc": "US2Y30748923"
+  },
+  {
+    "title": "Hes Me Pal",
+    "artist": "Ada Jones",
+    "isrc": "GBLPF0033247"
+  },
+  {
+    "title": "You've Been a Good Old Wagon, but You've Done Broke Down",
+    "artist": "Len Spencer, Studio pianist",
+    "isrc": "USA4A0901003"
+  },
+  {
+    "title": "Keep The Home Fires Burning ('Till The Boys Come Home)",
+    "artist": "Nora Bayes, Murray Johnson, John McCormack",
+    "isrc": "ATR981126571"
+  },
+  {
+    "title": "Its a Long Way to Tipperary",
+    "artist": "Billy Murray",
+    "isrc": "DEXO22207496"
+  },
+  {
+    "title": "Sweetheart Days",
+    "artist": "Harry Macdonough",
+    "isrc": "USV351309114"
+  },
+  {
+    "title": "You're a Grand Old Flag",
+    "artist": "American Quartet",
+    "isrc": "DEXO32237134"
+  },
+  {
+    "title": "Sweatheart May",
+    "artist": "Dan W. Quinn",
+    "isrc": "QMFME1484669"
+  },
+  {
+    "title": "Persian Lamb Rag",
+    "artist": "Vess L. Ossman",
+    "isrc": "USSF17934004"
+  },
+  {
+    "title": "Charleston",
+    "artist": "Eddie Cantor, Al Jolson, Cliff Edwards, Billy Jones, Vernon Dalhart, Johnny Marvin, Gene Austin",
+    "isrc": "DEXN92266696"
+  },
+  {
+    "title": "Nobody",
+    "artist": "Bert Williams",
+    "isrc": "USJ3V1308567"
+  },
+  {
+    "title": "Magnolia",
+    "artist": "Van & Schenck",
+    "isrc": "USXTG1100603"
+  },
+  {
+    "title": "Charleston Crazy",
+    "artist": "Marion Harris, Blossom Seeley",
+    "isrc": "DEZZ52172323"
+  },
+  {
+    "title": "Over There",
+    "artist": "George M. Cohan, Arthur Fields",
+    "isrc": "USSM11700002"
+  },
+  {
+    "title": "Au Revoir But Not Good-bye",
+    "artist": "The Peerless Quartet",
+    "isrc": "FR0O70885818"
+  },
+  {
+    "title": "Memphis Blues",
+    "artist": "W.C. Handy, Victor Military Band",
+    "isrc": "USA4A0901011"
+  },
+  {
+    "title": "The Girl Who Threw Me Down",
+    "artist": "Edward M. Favor",
+    "isrc": "USSF16188706"
+  },
+  {
+    "title": "My Little Bimbo Down On the Bambo Isle (Recorded August 1920)",
+    "artist": "Aileen Stanley",
+    "isrc": "USDHM1428494"
+  },
+  {
+    "title": "Dream of the Rarebit Fiend",
+    "artist": "Edison Military Band",
+    "isrc": "USSF16188604"
+  },
+  {
+    "title": "Whispering",
+    "artist": "Paul Whiteman & His Orchestra",
+    "isrc": "DEXO32237071"
+  },
+  {
+    "title": "At A Georgia Camp Meeting",
+    "artist": "Sousa's Band",
+    "isrc": "US4FU0840301"
+  },
+  {
+    "title": "I Married the Bootlegger's Daughter",
+    "artist": "Frank Crumit",
+    "isrc": "DEXO32237222"
+  },
+  {
+    "title": "Silver Threads Among the Gold",
+    "artist": "Will Oakland",
+    "isrc": "USV291388554"
+  },
+  {
+    "title": "Some of These Days",
+    "artist": "Sophie Tucker",
+    "isrc": "DEXN82257614"
+  },
+  {
+    "title": "Tell Me Pretty Maiden",
+    "artist": "Byron Harlan",
+    "isrc": "FR0O70885224"
+  },
+  {
+    "title": "I'm a Yiddish Cowboy",
+    "artist": "Edward Meeker",
+    "isrc": "USA2M9917029"
+  },
+  {
+    "title": "We Don't Want the Bacon--What We Want Is a Piece of the Rhine",
+    "artist": "Peerless Quartet",
+    "isrc": "TCADL1868607"
+  },
+  {
+    "title": "If You Want the Rainbow",
+    "artist": "Lee Morse",
+    "isrc": "DEXO32237309"
+  },
+  {
+    "title": "The Laughing Song",
+    "artist": "George W. Johnson",
+    "isrc": "AUXN22201174"
+  },
+  {
+    "title": "Chatterbox Rag",
+    "artist": "Fred Van Eps",
+    "isrc": "USSF17934001"
+  },
+  {
+    "title": "Don't Bite The Hand That's Feeding You",
+    "artist": "Walter Van Brunt",
+    "isrc": "ATR981126577"
+  },
+  {
+    "title": "Masculine Women! Feminine Men!",
+    "artist": "Irving Kaufman",
+    "isrc": "DEXO32237192"
+  },
+  {
+    "title": "The Mocking Bird",
+    "artist": "Billy Golden",
+    "isrc": "QMFME1484658"
+  },
+  {
+    "title": "Come Josephine In My Flying Machine",
+    "artist": "Harry Tally",
+    "isrc": "CB2CY0918312"
+  },
+  {
+    "title": "In the Good Old Summer Time - Haydn Quartet",
+    "artist": "Haydn Quartet",
+    "isrc": "QMBZ92045221"
+  },
+  {
+    "title": "Yes She Do (No She Don't)",
+    "artist": "The California Ramblers",
+    "isrc": "NLA410810923"
+  },
+  {
+    "title": "Happy Days Are Here Again",
+    "artist": "Johnny Marvin",
+    "isrc": "DEXO32237005"
+  },
+  {
+    "title": "Under the Big September Moon",
+    "artist": "Albert Campbell, Henry Burr",
+    "isrc": "USV291388570"
+  },
+  {
+    "title": "'Deed I Do",
+    "artist": "Ben Pollack, Ben Pollack's Californians",
+    "isrc": "GBBMR1981502"
+  },
+  {
+    "title": "Happy Days Are Here Again",
+    "artist": "Ben Selvin & His Orchestra",
+    "isrc": "DEXO32234338"
+  },
+  {
+    "title": "Sing You Sinners (Recorded April 1930)",
+    "artist": "Belle Baker",
+    "isrc": "USDHM1427083"
+  },
+  {
+    "title": "When The Birds Go North Again",
+    "artist": "Silas Leachman",
+    "isrc": "QMFME1484711"
+  },
+  {
+    "title": "Let's Go in to a Picture Show",
+    "artist": "Albert von Tilzer, Byron G. Harlan",
+    "isrc": "USXF21801639"
+  },
+  {
+    "title": "Yes! We Have No Bananas",
+    "artist": "Billy Jones",
+    "isrc": "DEXO32237342"
+  },
+  {
+    "title": "I'm always chasing rainbows",
+    "artist": "Charles Harrison",
+    "isrc": "FR0O70820848"
+  },
+  {
+    "title": "Let Me Call You Sweetheart (I'm in Love with You)",
+    "artist": "Shannon Quartet",
+    "isrc": "USV351305933"
+  },
+  {
+    "title": "I'm a Member of the Midnight Crew (1909)",
+    "artist": "Eddie Morton",
+    "isrc": "GBLPF0032253"
+  },
+  {
+    "title": "Tramp Tramp Tramp (the Boys Are Marching)",
+    "artist": "Knickerbocker Quartet",
+    "isrc": "GBSWE1445696"
+  },
+  {
+    "title": "Clarinet Marmalade",
+    "artist": "Ted Lewis",
+    "isrc": "DEXO22207550"
+  },
+  {
+    "title": "Doin' the Uptown Lowdown",
+    "artist": "Isham Jones",
+    "isrc": "DEXN92266519"
+  },
+  {
+    "title": "Somebody Stole My Gal",
+    "artist": "Ted Weems",
+    "isrc": "DEXN92267651"
+  },
+  {
+    "title": "That Baboon Baby Dance",
+    "artist": "Collins and Harlan, Oppenheim, Cooper",
+    "isrc": "QM4TW1870784"
+  },
+  {
+    "title": "Life Is Just a Bowl of Cherries",
+    "artist": "Rudy Vallee",
+    "isrc": "DEXO32236986"
+  },
+  {
+    "title": "Let's Misbehave",
+    "artist": "Irving Aaronson and His Commanders",
+    "isrc": "USV351326115"
+  },
+  {
+    "title": "Hardhearted Hannah - Jazz Vampires",
+    "artist": "Dolly Kay",
+    "isrc": "USSM10802260"
+  },
+  {
+    "title": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+    "artist": "Al Jolson",
+    "isrc": "USMC14750012"
+  },
+  {
+    "title": "All Alone Monday (Recorded October 1926)",
+    "artist": "Esther Walker",
+    "isrc": "USDHM1428845"
+  },
+  {
+    "title": "Dancing in the Moonlight",
+    "artist": "Rudy Vallee and His Connecticut Yankees",
+    "isrc": "DEBL61298721"
+  },
+  {
+    "title": "Banana Oil",
+    "artist": "Vaughn de Leath",
+    "isrc": "USM2U0804407"
+  },
+  {
+    "title": "Puttin' On The Ritz",
+    "artist": "Irving Berlin, Harry Richman",
+    "isrc": "USUM70951431"
+  },
+  {
+    "title": "You'll Never Know the Good Fellow I've Been Till I've Gone Away Comic Ragtime Song (Recorded 1912)",
+    "artist": "Gene Greene, Charley Straight",
+    "isrc": "USDHM1911637"
+  },
+  {
+    "title": "Dream Train",
+    "artist": "Nat Shilkret",
+    "isrc": "USXTG1100826"
+  },
+  {
+    "title": "My Pretty Little Piece Of Dresden China",
+    "artist": "Bessie Wynn & The orchestra",
+    "isrc": "USX7N1007413"
+  },
+  {
+    "title": "Auld Lang Syne",
+    "artist": "Frank C. Stanley",
+    "isrc": "USV291417162"
+  },
+  {
+    "title": "My Irish Rosie",
+    "artist": "J. W. Myers",
+    "isrc": "FR0O70885420"
+  },
+  {
+    "title": "My Sweetheart's the Man in the Moon",
+    "artist": "Manuel Romain",
+    "isrc": "USA561138521"
+  },
+  {
+    "title": "Time Is Money",
+    "artist": "Will F. Denny",
+    "isrc": "QMFME1485102"
+  },
+  {
+    "title": "My Blue Heaven",
+    "artist": "Gene Austin",
+    "isrc": "DEZZ52171459"
+  },
+  {
+    "title": "The Darktown Strutters' Ball",
+    "artist": "Paul Whiteman",
+    "isrc": "DEXO22207583"
+  },
+  {
+    "title": "Ain'tcha",
+    "artist": "Helen Kane",
+    "isrc": "DEZZ42172026"
+  },
+  {
+    "title": "The Runaway Train",
+    "artist": "Vernon Dalhart",
+    "isrc": "GBAYE5600004"
+  },
+  {
+    "title": "Crazy Rhythm",
+    "artist": "Roger Wolfe Kahn and His Orchestra",
+    "isrc": "DEBL60439843"
+  },
+  {
+    "title": "It's a Long Way to Tipperary",
+    "artist": "John McCormack",
+    "isrc": "DEXO22207476"
+  },
+  {
+    "title": "I'm Gonna Charleston Back to Charleston",
+    "artist": "The Original Coon-Sanders Nighthawk Orchestra",
+    "isrc": "USJ3V1303937"
+  },
+  {
+    "title": "The Best Things in Life Are Free",
+    "artist": "George Olsen and His Music",
+    "isrc": "DEBL60642829"
+  },
+  {
+    "title": "Winchester Cathedral",
+    "artist": "New Vaudeville Band",
+    "isrc": "USA371129161"
+  },
+  {
+    "title": "The village choir - Recording Take 3 (Digitally Remastered)",
+    "artist": "S. H. Dudley",
+    "isrc": "DE1D32358646"
+  },
+  {
+    "title": "Hello! Ma Baby - Remastered",
+    "artist": "Arthur Collins",
+    "isrc": "CA5KR2026866"
+  },
+  {
+    "title": "My Buddy",
+    "artist": "Henry Burr",
+    "isrc": "TCADL1868626"
+  },
+  {
+    "title": "By the Light of the Silvery Moon",
+    "artist": "Ada Jones",
+    "isrc": "QMDA61346626"
+  },
+  {
+    "title": "Can't You See My Heart Beats All For You",
+    "artist": "Len Spencer",
+    "isrc": "FR0O70885309"
+  },
+  {
+    "title": "Japanese Sandman: The Japanese Sandman",
+    "artist": "Richard A. Whiting, Nora Bayes, Charles A. Prince Orchestra",
+    "isrc": "HKI190216102"
+  },
+  {
+    "title": "Come Josephine in My Flying Machine",
+    "artist": "Billy Murray",
+    "isrc": "DEXO22207498"
+  },
+  {
+    "title": "Red Wing",
+    "artist": "Harry Macdonough",
+    "isrc": "USV351309112"
+  },
+  {
+    "title": "Hurrah For Baffin's Bay",
+    "artist": "Dan W. Quinn",
+    "isrc": "USX7N1007417"
+  },
+  {
+    "title": "Buffalo Rag",
+    "artist": "Vess L. Ossman",
+    "isrc": "NLA410811214"
+  },
+  {
+    "title": "Passing Show: Goodbye Broadway, Hello France",
+    "artist": "American Quartet",
+    "isrc": "DEXO32237137"
+  },
+  {
+    "title": "Play That Barber Shop Chord",
+    "artist": "Bert Williams",
+    "isrc": "USJ3V1308570"
+  },
+  {
+    "title": "Lambeth Walk",
+    "artist": "Eddie Cantor",
+    "isrc": "DEXN92266699"
+  },
+  {
+    "title": "Get Out and Get Under the Moon - Original Mix",
+    "artist": "Van & Schenck",
+    "isrc": "RUA491480213"
+  },
+  {
+    "title": "After You've Gone",
+    "artist": "Marion Harris",
+    "isrc": "DEZZ52172308"
+  },
+  {
+    "title": "Good Morning, Mr Zip-Zip-Zip",
+    "artist": "Arthur Fields, Peerless Quartet",
+    "isrc": "DEXO32237167"
+  },
+  {
+    "title": "Au Revoir, But Not Good Bye Soldier Boy",
+    "artist": "The Peerless Quartet",
+    "isrc": "GBCJG1400117"
+  },
+  {
+    "title": "Blame It on the Blues",
+    "artist": "Doc Cook, Victor Military Band",
+    "isrc": "USA4A0901013"
+  },
+  {
+    "title": "That’s Where I Come In",
+    "artist": "Edward M. Favor",
+    "isrc": "USSF16188702"
+  },
+  {
+    "title": "When My Sugar Walks Down the Street (Recorded January, 1925)",
+    "artist": "Aileen Stanley",
+    "isrc": "USDHM1426478"
+  },
+  {
+    "title": "Dream of a Rarebit Fiend",
+    "artist": "T. W. Thurban, Edison Military Band",
+    "isrc": "USXF21801640"
+  },
+  {
+    "title": "How deep is the ocean",
+    "artist": "Paul Whiteman & His Orchestra, Paul Whiteman",
+    "isrc": "FR0O70817549"
+  },
+  {
+    "title": "Hu-La Hu-La Cakewalk",
+    "artist": "Sousa's Band",
+    "isrc": "US4FU0840303"
+  },
+  {
+    "title": "Show Me the Way to Go Home",
+    "artist": "Frank Crumit",
+    "isrc": "DEXO32237221"
+  },
+  {
+    "title": "Norah Acushla",
+    "artist": "Will Oakland",
+    "isrc": "USV291388303"
+  },
+  {
+    "title": "Some of These Days 2",
+    "artist": "Sophie Tucker",
+    "isrc": "DEXN82257624"
+  },
+  {
+    "title": "The Good Old USA",
+    "artist": "Byron Harlan",
+    "isrc": "FR0O70885377"
+  },
+  {
+    "title": "The Argentines, The Portuguese and the Greeks (Recorded 1920) [Edison 4083 Comic Ragtime Song]",
+    "artist": "Edward Meeker",
+    "isrc": "USDHM1918065"
+  },
+  {
+    "title": "I'm Gonna Pin My Medal on the Girl I Left Behind",
+    "artist": "Peerless Quartet",
+    "isrc": "TCADL1868558"
+  },
+  {
+    "title": "Old Fashioned Romance",
+    "artist": "Lee Morse, The Blue Grass Boys",
+    "isrc": "DEXO32237305"
+  },
+  {
+    "title": "The Laughing Coon (Second Recording)",
+    "artist": "George W. Johnson",
+    "isrc": "AUXN22201176"
+  },
+  {
+    "title": "Grace and Beauty",
+    "artist": "Fred Van Eps, Frank Banta",
+    "isrc": "USSF17934006"
+  },
+  {
+    "title": "When I Was 21 and You Were Sweet 16",
+    "artist": "Walter Van Brunt",
+    "isrc": "USSF16188611"
+  },
+  {
+    "title": "A Precious Little Thing Called Love",
+    "artist": "Irving Kaufman",
+    "isrc": "DEXO32237194"
+  },
+  {
+    "title": "Wait Till the Sun Shines Nellie Remastered",
+    "artist": "Harry Tally",
+    "isrc": "CA5KR1923728"
+  },
+  {
+    "title": "Sweet Adeline",
+    "artist": "Haydn Quartet",
+    "isrc": "FR0O70885306"
+  },
+  {
+    "title": "Vo-Do-Do-De-O Blues",
+    "artist": "The California Ramblers",
+    "isrc": "NLA410810925"
+  },
+  {
+    "title": "Oh! You Have No Idea",
+    "artist": "Johnny Marvin",
+    "isrc": "DEXO32237006"
+  },
+  {
+    "title": "Where the Moonbeams Gleam",
+    "artist": "Albert Campbell, Henry Burr",
+    "isrc": "USV291388575"
+  },
+  {
+    "title": "Sweet Sue-Just You",
+    "artist": "Ben Pollack, Ben Pollack's Californians",
+    "isrc": "GBBMR1981509"
+  },
+  {
+    "title": "Hard Hearted Hannah (Recorded August, 1924)",
+    "artist": "Belle Baker",
+    "isrc": "USDHM1420523"
+  },
+  {
+    "title": "The Fortune Telling Man",
+    "artist": "Silas Leachman",
+    "isrc": "TCABH1213566"
+  },
+  {
+    "title": "With His Hands in His Pockets and His Pockets in His Pants",
+    "artist": "Byron G. Harlan",
+    "isrc": "USV291399772"
+  },
+  {
+    "title": "I Made a Mistake",
+    "artist": "Billy Jones",
+    "isrc": "NLE321700819"
+  },
+  {
+    "title": "Love, Your Spell Is Everywhere",
+    "artist": "Ben Selvin & His Orchestra",
+    "isrc": "DEXO32234340"
+  },
+  {
+    "title": "The Last Long Mile",
+    "artist": "Charles Harrison",
+    "isrc": "USCXG0900543"
+  },
+  {
+    "title": "Break the News to Mother (Recorded 1917)",
+    "artist": "Shannon Quartet",
+    "isrc": "USDHM1504288"
+  },
+  {
+    "title": "Nearer My God to Thee",
+    "artist": "Knickerbocker Quartet",
+    "isrc": "USV291388304"
+  },
+  {
+    "title": "I'm a Member of the Midnight Club",
+    "artist": "Eddie Morton",
+    "isrc": "USQY51772855"
+  },
+  {
+    "title": "On the Sunny Side of the Street",
+    "artist": "Ted Lewis",
+    "isrc": "DEXO22207554"
+  },
+  {
+    "title": "The Man from the South (With a Big Cigar in His Mouth)",
+    "artist": "Ted Weems",
+    "isrc": "DEXN92267655"
+  },
+  {
+    "title": "Alexanders's Ragtime Band",
+    "artist": "Collins and Harlan",
+    "isrc": "GBKTV0401977"
+  },
+  {
+    "title": "It Had to Be You",
+    "artist": "Isham Jones",
+    "isrc": "DEXN92266516"
+  },
+  {
+    "title": "Deep Night",
+    "artist": "Rudy Vallee",
+    "isrc": "DEXO32236953"
+  },
+  {
+    "title": "An' Furthermore",
+    "artist": "Irving Aaronson and His Commanders",
+    "isrc": "USV351326116"
+  },
+  {
+    "title": "It Takes a Good Woman (Recorded October 1926)",
+    "artist": "Dolly Kay",
+    "isrc": "USDHM1428482"
+  },
+  {
+    "title": "The Suicide Blues (Recorded 1919)",
+    "artist": "Arthur Collins",
+    "isrc": "USDHM1429517"
+  },
+  {
+    "title": "I Wonder Who's Kissing Her Now",
+    "artist": "Henry Burr",
+    "isrc": "CB2CY0918232"
+  },
+  {
+    "title": "Any Little Girl That's a Nice",
+    "artist": "Ada Jones",
+    "isrc": "QMDA61346623"
+  },
+  {
+    "title": "You’ve Been a Good Old Wagon but You Done Broke Down",
+    "artist": "Len Spencer",
+    "isrc": "TCABH1213559"
+  },
+  {
+    "title": "How 'Ya Gonna Keep 'Em Down on the Farm? (After They've Seen Paree)",
+    "artist": "Nora Bayes, Studio Orchestra",
+    "isrc": "GBCJG1400116"
+  },
+  {
+    "title": "Over There",
+    "artist": "Billy Murray",
+    "isrc": "DEXO22207547"
+  },
+  {
+    "title": "It's a Long Way to Tipperary: It's A Long Way To Tipperary",
+    "artist": "Jack Judge, Harry Williams, Harry Macdonough, William F. Hooley, John McCormack, Reinald Werrenrath, Studio Orchestra",
+    "isrc": "HKI190742722"
+  },
+  {
+    "title": "Must You'",
+    "artist": "Dan W. Quinn",
+    "isrc": "USX7N1007392"
+  },
+  {
+    "title": "Ethiopean Mardi Gras",
+    "artist": "Vess L. Ossman",
+    "isrc": "NLA410811238"
+  },
+  {
+    "title": "I Want a Girl (Just Like the Girl That Married Dear Old Dad)",
+    "artist": "American Quartet",
+    "isrc": "DEXO32237139"
+  },
+  {
+    "title": "When the Moon Shines On the Moonshine",
+    "artist": "Bert Williams",
+    "isrc": "USJ3V1308574"
+  },
+  {
+    "title": "Makin' Whoopee",
+    "artist": "Eddie Cantor",
+    "isrc": "DEXN92266698"
+  },
+  {
+    "title": "Carolina in the Morning - Original Mix",
+    "artist": "Van & Schenck",
+    "isrc": "RUA491480209"
+  },
+  {
+    "title": "Nobody's Sweetheart",
+    "artist": "Marion Harris",
+    "isrc": "DEZZ52172309"
+  },
+  {
+    "title": "Oui Oui Marie",
+    "artist": "Arthur Fields",
+    "isrc": "DEXO32237166"
+  },
+  {
+    "title": "I May Be Gone For A Long, Long Time",
+    "artist": "The Peerless Quartet",
+    "isrc": "USCXG0900535"
+  },
+  {
+    "title": "Poor Butterfly",
+    "artist": "Victor Military Band",
+    "isrc": "GBSWE1445700"
+  },
+  {
+    "title": "Ma honey Lou - Recording Take 1",
+    "artist": "Edward M. Favor",
+    "isrc": "DE1D32365238"
+  },
+  {
+    "title": "Everybody Loves My Baby (Recorded September, 1924)",
+    "artist": "Aileen Stanley",
+    "isrc": "USDHM1426477"
+  },
+  {
+    "title": "Wacht Am Rhein",
+    "artist": "Edison Military Band",
+    "isrc": "QM6N21594215"
+  },
+  {
+    "title": "Sweet and Low Down",
+    "artist": "Paul Whiteman & His Orchestra",
+    "isrc": "DEXO32237085"
+  },
+  {
+    "title": "Stars and Stripes Forever March",
+    "artist": "Sousa's Band",
+    "isrc": "FRX191003872"
+  },
+  {
+    "title": "Get Away Old Man, Get Way",
+    "artist": "Frank Crumit",
+    "isrc": "DEXO32237223"
+  },
+  {
+    "title": "Just Before the Battle",
+    "artist": "Will Oakland",
+    "isrc": "GBAJX8635803"
+  },
+  {
+    "title": "He Hadn't up Till Yesterday",
+    "artist": "Sophie Tucker",
+    "isrc": "DEXN82257633"
+  },
+  {
+    "title": "In The Village By The Sea",
+    "artist": "Byron Harlan",
+    "isrc": "FR0O70885293"
+  },
+  {
+    "title": "Rap Rap Rap on Your Minstrel Bones (Recorded 1912) [Edison 1576 Comic Ragtime Song]",
+    "artist": "Edward Meeker",
+    "isrc": "USDHM1918055"
+  },
+  {
+    "title": "We'll Do Our Share While You're over There",
+    "artist": "Peerless Quartet",
+    "isrc": "TCADL1868545"
+  }
+]

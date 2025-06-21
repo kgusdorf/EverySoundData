@@ -1,0 +1,532 @@
+[
+  {
+    "title": "The Spark",
+    "artist": "William Prince",
+    "isrc": "USYAH1900119"
+  },
+  {
+    "title": "Let You",
+    "artist": "Don Amero, Raquel Cole",
+    "isrc": "CA74P1800038"
+  },
+  {
+    "title": "All The Time",
+    "artist": "David James",
+    "isrc": "CA6JR1800012"
+  },
+  {
+    "title": "All She Wrote",
+    "artist": "Petric",
+    "isrc": "TCACI1579361"
+  },
+  {
+    "title": "That's How I Know",
+    "artist": "Desiree Dorion",
+    "isrc": "uscgj2315614"
+  },
+  {
+    "title": "That Wind",
+    "artist": "Jade Turner",
+    "isrc": "TCAIB2497851"
+  },
+  {
+    "title": "Rocket Girl",
+    "artist": "Doc Walker",
+    "isrc": "uscgh0839879"
+  },
+  {
+    "title": "Swinging Door",
+    "artist": "Kendra Kay",
+    "isrc": "TCACP1611164"
+  },
+  {
+    "title": "Love Is Just A Wrecking Ball",
+    "artist": "Del Barber",
+    "isrc": "CAT241300126"
+  },
+  {
+    "title": "Someday Sunday",
+    "artist": "Quinton Blair",
+    "isrc": "CAKXC1900006"
+  },
+  {
+    "title": "Right Where I Want You",
+    "artist": "Jason Kirkness",
+    "isrc": "QZWFN2303733"
+  },
+  {
+    "title": "Lethbridge County Blue",
+    "artist": "Richard Inman",
+    "isrc": "USDY42457151"
+  },
+  {
+    "title": "Take Me Backroad (feat. High Valley)",
+    "artist": "Tim & The Glory Boys, High Valley",
+    "isrc": "TCAEQ2200015"
+  },
+  {
+    "title": "Love Me Still",
+    "artist": "Leanne Pearson",
+    "isrc": "CAP8Y2400002"
+  },
+  {
+    "title": "I'm a Fighter",
+    "artist": "Renee Lamoureux",
+    "isrc": "USCGH1681542"
+  },
+  {
+    "title": "Run As One",
+    "artist": "C-Weed Band",
+    "isrc": "USJ3V1048816"
+  },
+  {
+    "title": "Sweet Soul Love",
+    "artist": "JC Campbell",
+    "isrc": "CAMMJ2200001"
+  },
+  {
+    "title": "Heartland Heartbreak",
+    "artist": "Ridley Bent",
+    "isrc": "CAD240700204"
+  },
+  {
+    "title": "Can't Get Over You",
+    "artist": "Tracy Bone",
+    "isrc": "CAHEG1900002"
+  },
+  {
+    "title": "All to Yourself",
+    "artist": "Raquel Cole",
+    "isrc": "CBB1J2300018"
+  },
+  {
+    "title": "Hyde",
+    "artist": "Rhianna Rae Saj",
+    "isrc": "CAHYW1800001"
+  },
+  {
+    "title": "Wolf In The Hen House",
+    "artist": "Tyler Del Pino",
+    "isrc": "CADK52300005"
+  },
+  {
+    "title": "Keep Me Rockin'",
+    "artist": "Patricia Conroy",
+    "isrc": "CAW119400766"
+  },
+  {
+    "title": "Best Thing",
+    "artist": "Ryan Keown",
+    "isrc": "CARK11602359"
+  },
+  {
+    "title": "Next To Me",
+    "artist": "Two Crows for Comfort",
+    "isrc": "QZTB52392263"
+  },
+  {
+    "title": "Easy",
+    "artist": "Past the Perimeter",
+    "isrc": "CADHU1900001"
+  },
+  {
+    "title": "See A Little More of You",
+    "artist": "Foster Martin Band",
+    "isrc": "USA370518567"
+  },
+  {
+    "title": "Just the Way you are",
+    "artist": "Keith And Renee",
+    "isrc": "CA1NL1000006"
+  },
+  {
+    "title": "Wedding Day",
+    "artist": "Kimberley Dawn",
+    "isrc": "uscgj2033821"
+  },
+  {
+    "title": "Dynamite Woman",
+    "artist": "Ray St. Germain",
+    "isrc": "CAAB60500174"
+  },
+  {
+    "title": "God Willing",
+    "artist": "Richard Farrow",
+    "isrc": "SEYOK1807613"
+  },
+  {
+    "title": "Keep Me in Mind",
+    "artist": "Sol James",
+    "isrc": "CAJIF1900001"
+  },
+  {
+    "title": "The Time It Takes",
+    "artist": "Kayla Luky",
+    "isrc": "CA4081100007"
+  },
+  {
+    "title": "Won't Need My Shoes ( on Heaven's Floor)",
+    "artist": "Oh My Darling",
+    "isrc": "uscgh1075454"
+  },
+  {
+    "title": "Shadows",
+    "artist": "Johnson Crook",
+    "isrc": "CA4441700010"
+  },
+  {
+    "title": "Manitoba Girl",
+    "artist": "Ed Wayne and the North Border Band",
+    "isrc": "CAQP71600006"
+  },
+  {
+    "title": "Back in Manitoba",
+    "artist": "Ashley Robertson",
+    "isrc": "CARB90803397"
+  },
+  {
+    "title": "The Mad Butcher of Kingsbury Run",
+    "artist": "Black River Drifters",
+    "isrc": "QZARB1899654"
+  },
+  {
+    "title": "Good Times",
+    "artist": "Chris Ising",
+    "isrc": "QZK6P2189790"
+  },
+  {
+    "title": "That's What I'm Talking About",
+    "artist": "David Pestrak",
+    "isrc": "TCACM1625415"
+  },
+  {
+    "title": "Sucker Punch",
+    "artist": "Elsie Morden",
+    "isrc": "CALF41300004"
+  },
+  {
+    "title": "All I Need",
+    "artist": "Four Mile Road",
+    "isrc": "ushm81692123"
+  },
+  {
+    "title": "Silhouettes of Rose",
+    "artist": "Greg Arcade",
+    "isrc": "QZDA41888814"
+  },
+  {
+    "title": "Jack Daniels",
+    "artist": "Heather Longstaffe",
+    "isrc": "QMCWT1500009"
+  },
+  {
+    "title": "Jam",
+    "artist": "Kevin Roy, Cookie Chua",
+    "isrc": "PHS090100935"
+  },
+  {
+    "title": "This Is Us",
+    "artist": "L Rae & J",
+    "isrc": "ushm21847013"
+  },
+  {
+    "title": "Somebody's Hero",
+    "artist": "Lindsay Rae",
+    "isrc": "ushm91375959"
+  },
+  {
+    "title": "Vulture Choir (feat. Joey Landreth)",
+    "artist": "Murray Pulver, Joey Landreth",
+    "isrc": "CA0ZC1505903"
+  },
+  {
+    "title": "She Moves Mountains",
+    "artist": "Ross Roteliuk",
+    "isrc": "CALO11400001"
+  },
+  {
+    "title": "Looking for a Lover",
+    "artist": "Russell Lee",
+    "isrc": "uscgj1584405"
+  },
+  {
+    "title": "Somebody Like You",
+    "artist": "Tom Dutiaume",
+    "isrc": "usl4q1760352"
+  },
+  {
+    "title": "Where Wheat Grew Tall (Home Studio)",
+    "artist": "Warren Friesen",
+    "isrc": "CA9SY1324013"
+  },
+  {
+    "title": "When You Miss Someone",
+    "artist": "William Prince",
+    "isrc": "CASB12316801"
+  },
+  {
+    "title": "Wasn't The Dress",
+    "artist": "Don Amero",
+    "isrc": "CA6JR1800060"
+  },
+  {
+    "title": "Sun Set On It",
+    "artist": "David James",
+    "isrc": "CA74P1700036"
+  },
+  {
+    "title": "It Girl",
+    "artist": "Petric",
+    "isrc": "TCACU1616764"
+  },
+  {
+    "title": "Your Last Name",
+    "artist": "Desiree Dorion",
+    "isrc": "uscgj2315616"
+  },
+  {
+    "title": "That's All",
+    "artist": "Doc Walker",
+    "isrc": "QZNWZ2290078"
+  },
+  {
+    "title": "Deadweight",
+    "artist": "Jade Turner",
+    "isrc": "TCAHB2391791"
+  },
+  {
+    "title": "How Great Thou Art",
+    "artist": "Kendra Kay, Jason Benoit",
+    "isrc": "TCAFX2132270"
+  },
+  {
+    "title": "Nothing Left To Find",
+    "artist": "Del Barber",
+    "isrc": "CABU21000002"
+  },
+  {
+    "title": "20 Dollar Bottle",
+    "artist": "Quinton Blair",
+    "isrc": "CAKXC1900005"
+  },
+  {
+    "title": "Waiting on the River",
+    "artist": "Richard Inman",
+    "isrc": "uscgh2266512"
+  },
+  {
+    "title": "The Way He Was Raised",
+    "artist": "Leanne Pearson",
+    "isrc": "CAP8Y2400003"
+  },
+  {
+    "title": "When You Know You Know",
+    "artist": "Tim & The Glory Boys",
+    "isrc": "TCAEQ2027253"
+  },
+  {
+    "title": "Over You",
+    "artist": "Renee Lamoureux",
+    "isrc": "USHM22437811"
+  },
+  {
+    "title": "Anywhere the Night Goes",
+    "artist": "Jason Kirkness",
+    "isrc": "QZFZ72251681"
+  },
+  {
+    "title": "Six String",
+    "artist": "JC Campbell",
+    "isrc": "CAY6J2100001"
+  },
+  {
+    "title": "Magic In The Music",
+    "artist": "C-Weed Band",
+    "isrc": "USJ3V1048168"
+  },
+  {
+    "title": "Buckles & Boots",
+    "artist": "Ridley Bent",
+    "isrc": "CAD240700201"
+  },
+  {
+    "title": "No Lies",
+    "artist": "Tracy Bone",
+    "isrc": "USJ3V1048292"
+  },
+  {
+    "title": "Find the One",
+    "artist": "Raquel Cole",
+    "isrc": "TCAFA2052839"
+  },
+  {
+    "title": "Monster",
+    "artist": "Rhianna Rae Saj",
+    "isrc": "CAHYW1800002"
+  },
+  {
+    "title": "The Drugs Still Work",
+    "artist": "Tyler Del Pino",
+    "isrc": "CADK52300006"
+  },
+  {
+    "title": "My Baby Loves Me - Just The Way That I Am",
+    "artist": "Patricia Conroy",
+    "isrc": "FR6V80488981"
+  },
+  {
+    "title": "Guilty as Charged",
+    "artist": "Ryan Keown",
+    "isrc": "CARK11401975"
+  },
+  {
+    "title": "Friday Night",
+    "artist": "Two Crows for Comfort",
+    "isrc": "QZTBC2370173"
+  },
+  {
+    "title": "Catch a Little Buzz",
+    "artist": "Past the Perimeter",
+    "isrc": "CADHU1900002"
+  },
+  {
+    "title": "Four By Four",
+    "artist": "Foster Martin Band",
+    "isrc": "ushm80794470"
+  },
+  {
+    "title": "Shoulda Stayed in Bed",
+    "artist": "Keith And Renee",
+    "isrc": "CA1NL1100015"
+  },
+  {
+    "title": "Built That Way",
+    "artist": "Kimberley Dawn",
+    "isrc": "usl4q1960643"
+  },
+  {
+    "title": "The Metis",
+    "artist": "Ray St. Germain",
+    "isrc": "CAAB60500169"
+  },
+  {
+    "title": "Saving",
+    "artist": "Richard Farrow",
+    "isrc": "SEYOK1807614"
+  },
+  {
+    "title": "So Much Love",
+    "artist": "Sol James",
+    "isrc": "CAJIF1900002"
+  },
+  {
+    "title": "You Won't Find Me",
+    "artist": "Kayla Luky",
+    "isrc": "CA4081100004"
+  },
+  {
+    "title": "What's Love Got To Do With It",
+    "artist": "Oh My Darling",
+    "isrc": "uscgh1129031"
+  },
+  {
+    "title": "Minnedosa",
+    "artist": "Johnson Crook",
+    "isrc": "usdy41616536"
+  },
+  {
+    "title": "Paint the Moon",
+    "artist": "Ed Wayne and the North Border Band",
+    "isrc": "CAQP71600012"
+  },
+  {
+    "title": "All I Know",
+    "artist": "William Prince",
+    "isrc": "USYAH1700262"
+  },
+  {
+    "title": "Can't Fix This",
+    "artist": "Don Amero",
+    "isrc": "CA74P2300039"
+  },
+  {
+    "title": "Don't Mind If I Do",
+    "artist": "David James",
+    "isrc": "CA6JR1800092"
+  },
+  {
+    "title": "Over A Girl",
+    "artist": "Petric",
+    "isrc": "CAJLY1900015"
+  },
+  {
+    "title": "Love You to Death",
+    "artist": "Desiree Dorion",
+    "isrc": "uscgj2315617"
+  },
+  {
+    "title": "Stay Wild Child",
+    "artist": "Jade Turner",
+    "isrc": "TCAGL2205249"
+  },
+  {
+    "title": "I'm Gonna Make You Love Me - Radio Version",
+    "artist": "Doc Walker",
+    "isrc": "CAO200900780"
+  },
+  {
+    "title": "Good People",
+    "artist": "Kendra Kay",
+    "isrc": "TCAIF2400473"
+  },
+  {
+    "title": "Spade",
+    "artist": "Del Barber",
+    "isrc": "CA2BU2300008"
+  },
+  {
+    "title": "Wild Horse Rider",
+    "artist": "Quinton Blair",
+    "isrc": "CAKXC1900004"
+  },
+  {
+    "title": "Faded Love Better Days",
+    "artist": "Richard Inman",
+    "isrc": "usdy42068958"
+  },
+  {
+    "title": "I Do Again",
+    "artist": "Leanne Pearson",
+    "isrc": "CAP8Y2300002"
+  },
+  {
+    "title": "Float",
+    "artist": "Tim & The Glory Boys",
+    "isrc": "TCAEQ2200004"
+  },
+  {
+    "title": "Alone",
+    "artist": "Renee Lamoureux",
+    "isrc": "USHM82362455"
+  },
+  {
+    "title": "Whiskey Kiss",
+    "artist": "Jason Kirkness",
+    "isrc": "QM4DW1709043"
+  },
+  {
+    "title": "Residential School Pain",
+    "artist": "JC Campbell",
+    "isrc": "CAY6J1700006"
+  },
+  {
+    "title": "Loving You",
+    "artist": "C-Weed Band",
+    "isrc": "USJ3V1048169"
+  },
+  {
+    "title": "Pastures Of Heaven",
+    "artist": "Ridley Bent",
+    "isrc": "CAM370500439"
+  }
+]

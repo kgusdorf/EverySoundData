@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Kirathimo",
+    "artist": "Grace Mwai",
+    "isrc": "QMFMG1382687"
+  },
+  {
+    "title": "Mawiko",
+    "artist": "Nd Githuka",
+    "isrc": "QZK6H2210618"
+  },
+  {
+    "title": "Maya Ni Mabataro",
+    "artist": "Ben Githae",
+    "isrc": "QMFMG1386860"
+  },
+  {
+    "title": "Ngai Kihoti",
+    "artist": "Charles King'ori",
+    "isrc": "QMFMG1386196"
+  },
+  {
+    "title": "Tiga Niwe",
+    "artist": "Ruth Wamuyu",
+    "isrc": "ZAQN32102659"
+  },
+  {
+    "title": "Mucamo",
+    "artist": "Shiru wa GP",
+    "isrc": "ZA41S1806317"
+  },
+  {
+    "title": "Ngatho, Pt. 2",
+    "artist": "Elijah Murugami",
+    "isrc": "QMDA71420273"
+  },
+  {
+    "title": "Gatheri Original",
+    "artist": "John Ndungu",
+    "isrc": "QZES52266208"
+  },
+  {
+    "title": "Ngai Ndungiiriria",
+    "artist": "Jane Muthoni",
+    "isrc": "KEA9R2400042"
+  },
+  {
+    "title": "Amukira Ngatho Ciakwa",
+    "artist": "Njoroge Ngari",
+    "isrc": "ushm90523649"
+  },
+  {
+    "title": "Nja-Ini Ciaku",
+    "artist": "Paul Waiganjo",
+    "isrc": "TCAFH2092161"
+  },
+  {
+    "title": "Ngai Wa Ngai Ciothe",
+    "artist": "Edith Wairimu",
+    "isrc": "QZNWW2121979"
+  },
+  {
+    "title": "Napokea Kwako",
+    "artist": "Janet Otieno, Christina Shusho",
+    "isrc": "ZA41S1642566"
+  },
+  {
+    "title": "Minyororo",
+    "artist": "Betty Mwangi",
+    "isrc": "QMDA71420980"
+  },
+  {
+    "title": "Kirathimo - Remix",
+    "artist": "Martin Wa Janet",
+    "isrc": "QZAMM1831944"
+  },
+  {
+    "title": "Kiriro",
+    "artist": "Allan Aaron",
+    "isrc": "QMDA71420666"
+  },
+  {
+    "title": "Kirathimo",
+    "artist": "Muhiko Nebster",
+    "isrc": "QMFMG1386664"
+  },
+  {
+    "title": "Hari Wee",
+    "artist": "Bitty Wamaitha",
+    "isrc": "QZAMM1859278"
+  },
+  {
+    "title": "Kiriro",
+    "artist": "Simon Njihia",
+    "isrc": "QMDA71420941"
+  },
+  {
+    "title": "No IRA Tu",
+    "artist": "Sammy Boy",
+    "isrc": "QMFMG1386227"
+  },
+  {
+    "title": "Mwambie",
+    "artist": "M.O.G",
+    "isrc": "QMDA71420566"
+  },
+  {
+    "title": "Ruciu",
+    "artist": "David Mambo",
+    "isrc": "QMFMG1386321"
+  },
+  {
+    "title": "Ngai Mamakie",
+    "artist": "Muigai Wa Njoroge",
+    "isrc": "ESA011888021"
+  },
+  {
+    "title": "Laleiyio",
+    "artist": "L Jay Maasai, Shiru wa GP",
+    "isrc": "QMFMG1382449"
+  },
+  {
+    "title": "Mami",
+    "artist": "Isaiah Ndungu",
+    "isrc": "QM7281400048"
+  },
+  {
+    "title": "Nota Hema",
+    "artist": "Anthony Maina Githinji",
+    "isrc": "QMFMG1382996"
+  },
+  {
+    "title": "Mundu Murathime",
+    "artist": "Apostle Job Ayub",
+    "isrc": "QM6MZ1472118"
+  },
+  {
+    "title": "Irathiro Ria Riua",
+    "artist": "Austin Muturi",
+    "isrc": "ESA011724853"
+  },
+  {
+    "title": "Muratha",
+    "artist": "Beatrice Wangui",
+    "isrc": "US6R21463531"
+  },
+  {
+    "title": "Mwaramia Wa Mihaka",
+    "artist": "Boniface Gichuru",
+    "isrc": "QM6N21401287"
+  },
+  {
+    "title": "Munduiriri",
+    "artist": "Carol Wanjiru",
+    "isrc": "QMFMG1386060"
+  },
+  {
+    "title": "Nyita Guoko Baba",
+    "artist": "D G",
+    "isrc": "QMDA71420018"
+  },
+  {
+    "title": "Nianjaramiirie Mihaka",
+    "artist": "Catherine Wa Tony",
+    "isrc": "US6R21460488"
+  },
+  {
+    "title": "Mami Figa Kurira",
+    "artist": "D.k Karanja",
+    "isrc": "QM6N21412129"
+  },
+  {
+    "title": "Big God",
+    "artist": "Dafari",
+    "isrc": "QMDA71421018"
+  },
+  {
+    "title": "Ngukwambararia",
+    "artist": "Daniel Kamau Karanja",
+    "isrc": "USV351464814"
+  },
+  {
+    "title": "Ikai Ungikiagira",
+    "artist": "Dennis Mutara",
+    "isrc": "QM6MZ1496485"
+  },
+  {
+    "title": "Ngwihoka Na Njeterere",
+    "artist": "Elizabeth Nyambere",
+    "isrc": "ZA41S1809821"
+  },
+  {
+    "title": "Korwo Nowende",
+    "artist": "Ev. John Mwangi",
+    "isrc": "QM6N21420018"
+  },
+  {
+    "title": "Kaba Jesu",
+    "artist": "Evangelist Anastasia Karanja",
+    "isrc": "USV351466345"
+  },
+  {
+    "title": "Aria Moragire Jesu",
+    "artist": "Ezekiel M. Jacob",
+    "isrc": "USV351444776"
+  },
+  {
+    "title": "Muhaturi",
+    "artist": "Fred K",
+    "isrc": "QMDA71420458"
+  },
+  {
+    "title": "Mundu Murathime",
+    "artist": "Gerald Maina",
+    "isrc": "QM6N21416724"
+  },
+  {
+    "title": "Munduiiri",
+    "artist": "Hellen Muthoni",
+    "isrc": "QM6N21411150"
+  },
+  {
+    "title": "Kuigua Wega",
+    "artist": "Hezeh Ndung'u",
+    "isrc": "QMDA71420669"
+  },
+  {
+    "title": "Gatheri",
+    "artist": "John Ndungu",
+    "isrc": "QM6P41470647"
+  },
+  {
+    "title": "Araramia Mihaka",
+    "artist": "Josephat Macharia Chege",
+    "isrc": "USA560606608"
+  },
+  {
+    "title": "Ruriri Rurathime",
+    "artist": "Loise Kim",
+    "isrc": "ESA011887919"
+  },
+  {
+    "title": "Uhotani",
+    "artist": "Loise Mbugua",
+    "isrc": "QM4TW1557070"
+  },
+  {
+    "title": "Njaramiria Mihaka",
+    "artist": "Mercy Njeri Victoria",
+    "isrc": "US6R21468135"
+  },
+  {
+    "title": "Murungu",
+    "artist": "Mirugi Dishon",
+    "isrc": "QMFMG1386758"
+  },
+  {
+    "title": "Baraka Za Mungu",
+    "artist": "Moses Gitonga",
+    "isrc": "USV351423012"
+  },
+  {
+    "title": "Kirathimo",
+    "artist": "Moses Wachira",
+    "isrc": "QM6MZ1557085"
+  },
+  {
+    "title": "Mugunda Wa Kiguta",
+    "artist": "Mrs Nancy Torome",
+    "isrc": "QM6MZ1558549"
+  },
+  {
+    "title": "Ndagiriirwo Ni Gukua",
+    "artist": "Muigai Njoroge",
+    "isrc": "US6R21460775"
+  },
+  {
+    "title": "Unyite Na Guoko",
+    "artist": "Mwalimu Elijah N Karanja",
+    "isrc": "QM6MZ1563935"
+  },
+  {
+    "title": "Muririkane",
+    "artist": "Obadiah Gachanja",
+    "isrc": "US6R21469520"
+  },
+  {
+    "title": "Uhiki",
+    "artist": "Obedee",
+    "isrc": "QMDA71458122"
+  },
+  {
+    "title": "Mwathani Wakwa",
+    "artist": "Paul Ndungu Wambui",
+    "isrc": "US6R21463201"
+  },
+  {
+    "title": "Angauga Kindayaya",
+    "artist": "Phillip Kimani",
+    "isrc": "FR10S2113389"
+  },
+  {
+    "title": "Muheani",
+    "artist": "Phylliss Mbuthia, Sammy Irungu",
+    "isrc": "UKQBR1803733"
+  },
+  {
+    "title": "Maisha Bila Wewe",
+    "artist": "Princess Farida",
+    "isrc": "QMDA71420753"
+  },
+  {
+    "title": "Uhiki Wakwa Na Jesu",
+    "artist": "S K Karuri",
+    "isrc": "USV351464478"
+  },
+  {
+    "title": "Mataifa Yote",
+    "artist": "Salome Gakii Mugambi",
+    "isrc": "QM6MZ1559198"
+  },
+  {
+    "title": "Mundu Murathime",
+    "artist": "Sam K. Kagoiya",
+    "isrc": "USV351468645"
+  },
+  {
+    "title": "Ni Ngatoria Ngahuruke",
+    "artist": "Sarah Wambui Kimunyi",
+    "isrc": "US6R21463387"
+  },
+  {
+    "title": "Roho Yangu",
+    "artist": "Sikkollo",
+    "isrc": "TCABU1484025"
+  },
+  {
+    "title": "Marurumi",
+    "artist": "Wakabura Joseph",
+    "isrc": "QM6P41565799"
+  },
+  {
+    "title": "Hari Wee",
+    "artist": "Grace Mwai",
+    "isrc": "GX8LD2380806"
+  },
+  {
+    "title": "Irathimo Ciakwa",
+    "artist": "Ben Githae",
+    "isrc": "QMFMG1382377"
+  },
+  {
+    "title": "Ahiurania",
+    "artist": "Nd Githuka",
+    "isrc": "QZK6H2210649"
+  },
+  {
+    "title": "Ningutira Maitho",
+    "artist": "Charles King'ori",
+    "isrc": "QMFMG1386198"
+  },
+  {
+    "title": "Kanitha",
+    "artist": "Ruth Wamuyu",
+    "isrc": "ZAQN32102654"
+  },
+  {
+    "title": "Mwaki",
+    "artist": "Shiru wa GP",
+    "isrc": "QZ5AB2364089"
+  },
+  {
+    "title": "Muhikania",
+    "artist": "Elijah Murugami",
+    "isrc": "QMDA71420274"
+  },
+  {
+    "title": "Jesu Ningwedete",
+    "artist": "John Ndungu",
+    "isrc": "QZES52266941"
+  },
+  {
+    "title": "Ee Muoyo Jesu",
+    "artist": "Njoroge Ngari",
+    "isrc": "ushm90523651"
+  },
+  {
+    "title": "Ngwika Atia",
+    "artist": "Jane Muthoni",
+    "isrc": "KEA9R2400043"
+  },
+  {
+    "title": "Nitasimama",
+    "artist": "Edith Wairimu",
+    "isrc": "QZHN32417965"
+  },
+  {
+    "title": "Wi Ngai Mahinda Mother",
+    "artist": "Paul Waiganjo",
+    "isrc": "ESA011887922"
+  },
+  {
+    "title": "Mtafute",
+    "artist": "Janet Otieno",
+    "isrc": "ZA41S1652227"
+  },
+  {
+    "title": "Atoria",
+    "artist": "Betty Mwangi",
+    "isrc": "QMDA71420978"
+  },
+  {
+    "title": "Ni Mahoya",
+    "artist": "Martin Wa Janet",
+    "isrc": "GBLFP2340850"
+  },
+  {
+    "title": "Wi Mutheru",
+    "artist": "Allan Aaron",
+    "isrc": "QMDA71420664"
+  },
+  {
+    "title": "Niwega",
+    "artist": "Muhiko Nebster",
+    "isrc": "QMFMG1386660"
+  },
+  {
+    "title": "Wimuoyo",
+    "artist": "Simon Njihia",
+    "isrc": "QMDA71420944"
+  },
+  {
+    "title": "Gatirica",
+    "artist": "Sammy Boy",
+    "isrc": "QMDA71419984"
+  },
+  {
+    "title": "Naona Macho",
+    "artist": "M.O.G, Skizza, Eunice Njeri",
+    "isrc": "QMDA71420564"
+  },
+  {
+    "title": "Uteithio Wakwa",
+    "artist": "David Mambo",
+    "isrc": "QMDA71419606"
+  },
+  {
+    "title": "Mbari Ya Kimendero",
+    "artist": "Muigai Wa Njoroge",
+    "isrc": "UKQBR1803718"
+  },
+  {
+    "title": "Iyaiyo",
+    "artist": "L Jay Maasai",
+    "isrc": "QMDA71420948"
+  },
+  {
+    "title": "Muturire Wakwa",
+    "artist": "Anthony Maina Githinji",
+    "isrc": "QMFMG1383071"
+  },
+  {
+    "title": "Mahana Riua",
+    "artist": "Apostle Job Ayub",
+    "isrc": "QM6MZ1472119"
+  },
+  {
+    "title": "Uhoro Wama",
+    "artist": "Austin Muturi",
+    "isrc": "QM6MZ1473357"
+  },
+  {
+    "title": "Jordan",
+    "artist": "Beatrice Wangui",
+    "isrc": "US6R21463525"
+  },
+  {
+    "title": "Kiria Giciare",
+    "artist": "Boniface Gichuru",
+    "isrc": "QM6N21401291"
+  },
+  {
+    "title": "Mungu Wa Kweli",
+    "artist": "Carol Wanjiru",
+    "isrc": "ZAZ941203531"
+  },
+  {
+    "title": "Muthenya Munene",
+    "artist": "Catherine Wa Tony",
+    "isrc": "US6R21460489"
+  },
+  {
+    "title": "Ndingihota Gugucokeria",
+    "artist": "D G",
+    "isrc": "QMDA71420022"
+  },
+  {
+    "title": "Tuiriaii Mumenye",
+    "artist": "D.k Karanja",
+    "isrc": "QM6N21412128"
+  },
+  {
+    "title": "Your Love",
+    "artist": "Dafari, Havoc musiq",
+    "isrc": "QZNJY2316657"
+  },
+  {
+    "title": "Muthamaki",
+    "artist": "Daniel Kamau Karanja",
+    "isrc": "USV351464818"
+  },
+  {
+    "title": "Tigana Na Andu",
+    "artist": "Dennis Mutara",
+    "isrc": "QM6MZ1496492"
+  },
+  {
+    "title": "Tiga Twitikitie Wi Muoyo",
+    "artist": "Elizabeth Nyambere",
+    "isrc": "ZA41S1809820"
+  },
+  {
+    "title": "O Nanii Nguga ta Daudi",
+    "artist": "Ev. John Mwangi",
+    "isrc": "QM6N21420019"
+  },
+  {
+    "title": "Ndikwenda Kumomoka",
+    "artist": "Evangelist Anastasia Karanja",
+    "isrc": "USV351466341"
+  },
+  {
+    "title": "Uhiki",
+    "artist": "Ezekiel M. Jacob",
+    "isrc": "USV351444783"
+  },
+  {
+    "title": "Ta Nderi",
+    "artist": "Fred K",
+    "isrc": "QM6N21420515"
+  },
+  {
+    "title": "Ngai Wi Kihoti",
+    "artist": "Gerald Maina",
+    "isrc": "QM6N21416722"
+  },
+  {
+    "title": "Tiga Kumaka",
+    "artist": "Hellen Muthoni",
+    "isrc": "QM6N21410983"
+  },
+  {
+    "title": "Irima-Ini",
+    "artist": "Hezeh Ndung'u",
+    "isrc": "QMDA71420667"
+  },
+  {
+    "title": "Amukira Ngatho",
+    "artist": "Grace Mwai, Hiram Maina",
+    "isrc": "QZNW72377951"
+  },
+  {
+    "title": "Ngai Munyenderi Mega",
+    "artist": "Ben Githae",
+    "isrc": "QMFMG1386859"
+  },
+  {
+    "title": "Hingurira",
+    "artist": "Nd Githuka",
+    "isrc": "QZK6H2231330"
+  },
+  {
+    "title": "Matigari",
+    "artist": "Charles King'ori",
+    "isrc": "QMFMG1386180"
+  },
+  {
+    "title": "Irema",
+    "artist": "Shiru wa GP",
+    "isrc": "ZA41S1806318"
+  },
+  {
+    "title": "Bendera",
+    "artist": "Ruth Wamuyu",
+    "isrc": "ZAQN32102615"
+  },
+  {
+    "title": "Amukira Ngatho",
+    "artist": "Elijah Murugami",
+    "isrc": "QMDA71420271"
+  },
+  {
+    "title": "Mwitio Wa Mwiri",
+    "artist": "John Ndungu",
+    "isrc": "QZES52266938"
+  },
+  {
+    "title": "Gocai Mwathani Wa Atheru",
+    "artist": "Njoroge Ngari",
+    "isrc": "ushm20311762"
+  },
+  {
+    "title": "Munyuniri Migwi",
+    "artist": "Jane Muthoni",
+    "isrc": "KEA9R2400036"
+  },
+  {
+    "title": "The Best In My Life",
+    "artist": "Edith Wairimu",
+    "isrc": "QZHN32417972"
+  },
+  {
+    "title": "Muthenya",
+    "artist": "Betty Mwangi",
+    "isrc": "QMDA71420981"
+  },
+  {
+    "title": "Nitutwaranite Wega",
+    "artist": "Martin Wa Janet",
+    "isrc": "GBLFP2340849"
+  },
+  {
+    "title": "Mwari Wa Maitu",
+    "artist": "Muhiko Nebster",
+    "isrc": "QMFMG1386315"
+  },
+  {
+    "title": "Uniongoze",
+    "artist": "Janet Otieno",
+    "isrc": "DGA0L2385460"
+  },
+  {
+    "title": "Waku",
+    "artist": "Allan Aaron",
+    "isrc": "QMDA71420665"
+  },
+  {
+    "title": "Vazi",
+    "artist": "Simon Njihia",
+    "isrc": "QMDA71420942"
+  },
+  {
+    "title": "Njuiri",
+    "artist": "Sammy Boy",
+    "isrc": "QMDA71419980"
+  },
+  {
+    "title": "Heartbreaker",
+    "artist": "M.O.G, Mr. Vee",
+    "isrc": "QMDA71420565"
+  },
+  {
+    "title": "Niwega Mwathani",
+    "artist": "David Mambo",
+    "isrc": "QMDA71419613"
+  },
+  {
+    "title": "Tene",
+    "artist": "Muigai Wa Njoroge",
+    "isrc": "QM6MZ1563921"
+  }
+]

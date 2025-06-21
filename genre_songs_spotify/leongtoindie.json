@@ -1,0 +1,602 @@
+[
+  {
+    "title": "La Rumba del Mezcal",
+    "artist": "Los Fibos",
+    "isrc": "GBMA21861491"
+  },
+  {
+    "title": "Viaje",
+    "artist": "Clan de Venus",
+    "isrc": "QZHN91918738"
+  },
+  {
+    "title": "Gotas De Vinagre",
+    "artist": "BUDAYA, Baldomero Azuela",
+    "isrc": "MXG381900007"
+  },
+  {
+    "title": "Pasajero",
+    "artist": "Virgilio",
+    "isrc": "QZAPG1745291"
+  },
+  {
+    "title": "Blackmail",
+    "artist": "Inhabitants MX",
+    "isrc": "GB-SMU-49-79610"
+  },
+  {
+    "title": "Ghost",
+    "artist": "Hexagrams",
+    "isrc": "SEYOK1666240"
+  },
+  {
+    "title": "Sombras",
+    "artist": "DUVVII",
+    "isrc": "QM6N21937989"
+  },
+  {
+    "title": "Mictlán",
+    "artist": "Neptune's Beach",
+    "isrc": "GB-SMU-49-93209"
+  },
+  {
+    "title": "He Said",
+    "artist": "Modern Vice",
+    "isrc": "QZ8LD1715972"
+  },
+  {
+    "title": "Me Acuerdo de Ti",
+    "artist": "Roy Aguado",
+    "isrc": "PEBQ91612553"
+  },
+  {
+    "title": "Bailes Modernos",
+    "artist": "Somos Logan",
+    "isrc": "QZHZ62048083"
+  },
+  {
+    "title": "Mariposas Adentro",
+    "artist": "Javier Gasca",
+    "isrc": "uscgh1675135"
+  },
+  {
+    "title": "Inmune",
+    "artist": "Waterfalls",
+    "isrc": "RUA1H1809565"
+  },
+  {
+    "title": "Quédate",
+    "artist": "Johnny Karvan",
+    "isrc": "usdy41827359"
+  },
+  {
+    "title": "Lean (Sanssoleil Remix)",
+    "artist": "Never Been To Budapest, SANSSOLEIL",
+    "isrc": "TCAEG1980999"
+  },
+  {
+    "title": "Bacardí",
+    "artist": "Pet Friendly",
+    "isrc": "QZW9K2258226"
+  },
+  {
+    "title": "Olvida dormir",
+    "artist": "ROBOT JUNKIE PARADISE, Tino El Pingüino",
+    "isrc": "MX3741501329"
+  },
+  {
+    "title": "Yo Soy Tú",
+    "artist": "Sarmad",
+    "isrc": "USQY51223018"
+  },
+  {
+    "title": "Lo Que Dijimos",
+    "artist": "Lunes de Honores",
+    "isrc": "ushm21861029"
+  },
+  {
+    "title": "Dameon Sol Daellá",
+    "artist": "Nimb",
+    "isrc": "GBWUL2361264"
+  },
+  {
+    "title": "Cozumel",
+    "artist": "Blackpony",
+    "isrc": "uscgh1946025"
+  },
+  {
+    "title": "Idealista",
+    "artist": "Knives",
+    "isrc": "QZ22B1997224"
+  },
+  {
+    "title": "Increxendo",
+    "artist": "Camino Dividido",
+    "isrc": "SE6XY2283270"
+  },
+  {
+    "title": "Yo Estaré Bailando",
+    "artist": "La Kalandria",
+    "isrc": "QZ5AB1833426"
+  },
+  {
+    "title": "Whispering Wind",
+    "artist": "Alizyan and the Drives",
+    "isrc": "ushm91710097"
+  },
+  {
+    "title": "Azul - Live",
+    "artist": "PARKER",
+    "isrc": "SE5751861508"
+  },
+  {
+    "title": "Ni un Paso Atrás",
+    "artist": "Distro SkaPunk",
+    "isrc": "US7VG1987623"
+  },
+  {
+    "title": "Cielo",
+    "artist": "Decibeles",
+    "isrc": "USHM81703202"
+  },
+  {
+    "title": "Por Siempre",
+    "artist": "Aviónicos",
+    "isrc": "TCACG1554192"
+  },
+  {
+    "title": "Se Fue",
+    "artist": "Vedette",
+    "isrc": "usdy41943782"
+  },
+  {
+    "title": "Hermosa y Primorosa",
+    "artist": "Esencia Ambar",
+    "isrc": "US7VG1696927"
+  },
+  {
+    "title": "Silencio",
+    "artist": "BASTIØN",
+    "isrc": "SE5751895199"
+  },
+  {
+    "title": "La Máquina del Tiempo",
+    "artist": "Sintonía Zero",
+    "isrc": "usl4q1704264"
+  },
+  {
+    "title": "Cristalino",
+    "artist": "Zohm",
+    "isrc": "SE5BU2186833"
+  },
+  {
+    "title": "24/7",
+    "artist": "Oktover",
+    "isrc": "US7VG1788293"
+  },
+  {
+    "title": "Money Kids",
+    "artist": "Monklicks, Jotha Stark",
+    "isrc": "uscgh2049293"
+  },
+  {
+    "title": "Rayo de Luz",
+    "artist": "Lu Ruenes",
+    "isrc": "QM6N22249724"
+  },
+  {
+    "title": "Esto No Es Un Simulacro",
+    "artist": "Qualia",
+    "isrc": "QZW9N2261055"
+  },
+  {
+    "title": "Domingo",
+    "artist": "Rex Attack",
+    "isrc": "ushm91728696"
+  },
+  {
+    "title": "Ilusión",
+    "artist": "Casa de Zorros",
+    "isrc": "ushm81812372"
+  },
+  {
+    "title": "Tumores",
+    "artist": "Cena de Negros",
+    "isrc": "MX3741900101"
+  },
+  {
+    "title": "Animal",
+    "artist": "Daphne",
+    "isrc": "MX4381300022"
+  },
+  {
+    "title": "Baby",
+    "artist": "ENE, dsk",
+    "isrc": "GBSMU9564402"
+  },
+  {
+    "title": "Me Siento Bien",
+    "artist": "Factory Ganjah",
+    "isrc": "ushm81804646"
+  },
+  {
+    "title": "Music doesn´t pay the bills",
+    "artist": "Gilberto Enriquez",
+    "isrc": "QZK6P2378599"
+  },
+  {
+    "title": "Azus Ukegui",
+    "artist": "Gnosys",
+    "isrc": "usl4q1811353"
+  },
+  {
+    "title": "Yangın Var Burda",
+    "artist": "Kuzey",
+    "isrc": "CAHZG1800005"
+  },
+  {
+    "title": "Pegadito al tecolote",
+    "artist": "Los Padrinos",
+    "isrc": "QZHNB1902933"
+  },
+  {
+    "title": "Soy Igual Que Tú",
+    "artist": "Los Sunshine",
+    "isrc": "AEA0D1887442"
+  },
+  {
+    "title": "La marcha de los locos",
+    "artist": "Mamut",
+    "isrc": "MX3741800596"
+  },
+  {
+    "title": "Alguien Más",
+    "artist": "Mike Madrigal",
+    "isrc": "QMEZE1744710"
+  },
+  {
+    "title": "Mercy",
+    "artist": "Nath Bravo",
+    "isrc": "SE3OH1615692"
+  },
+  {
+    "title": "El Mismo Mal",
+    "artist": "Niuton",
+    "isrc": "usx9p1410509"
+  },
+  {
+    "title": "Sin Respirar",
+    "artist": "Pax Modular",
+    "isrc": "USDHM1625209"
+  },
+  {
+    "title": "Why Do You Do That",
+    "artist": "Raccoons",
+    "isrc": "MX3741501114"
+  },
+  {
+    "title": "Vortex",
+    "artist": "Reverbe Aura",
+    "isrc": "QZDA41819820"
+  },
+  {
+    "title": "Home to Mama",
+    "artist": "The Head Honcho",
+    "isrc": "ushm81899989"
+  },
+  {
+    "title": "La Falda Del Sol",
+    "artist": "The Líbertis",
+    "isrc": "TCADR1823577"
+  },
+  {
+    "title": "Todo acaba",
+    "artist": "Weak End",
+    "isrc": "SE6A91883207"
+  },
+  {
+    "title": "Dime tres platillos italianos",
+    "artist": "Los Fibos",
+    "isrc": "GBLFP2444994"
+  },
+  {
+    "title": "Si Pudiera Verte",
+    "artist": "Clan de Venus",
+    "isrc": "QM4TX1629714"
+  },
+  {
+    "title": "Fugitiva",
+    "artist": "Virgilio, Sarmad",
+    "isrc": "QZB4J1848869"
+  },
+  {
+    "title": "Espinas",
+    "artist": "Inhabitants MX",
+    "isrc": "GBSMU7911289"
+  },
+  {
+    "title": "La Marea",
+    "artist": "BUDAYA, Pahua",
+    "isrc": "MX2682300025"
+  },
+  {
+    "title": "Mona China",
+    "artist": "Hexagrams",
+    "isrc": "USX9P2348649"
+  },
+  {
+    "title": "Eternos",
+    "artist": "DUVVII",
+    "isrc": "QM6N21937990"
+  },
+  {
+    "title": "Ashly",
+    "artist": "Neptune's Beach",
+    "isrc": "uscgj2088637"
+  },
+  {
+    "title": "I'm Doing It Again",
+    "artist": "Modern Vice",
+    "isrc": "QZBRF1864428"
+  },
+  {
+    "title": "Quién te crees",
+    "artist": "Roy Aguado, Nacho Llantada",
+    "isrc": "PEBQ91609990"
+  },
+  {
+    "title": "Entre Acústica Un Loco Y Un Montón De Estrellas",
+    "artist": "Javier Gasca",
+    "isrc": "uscgh1675137"
+  },
+  {
+    "title": "Amar Abierto",
+    "artist": "Somos Logan, Sutil2",
+    "isrc": "QZNJW2066983"
+  },
+  {
+    "title": "Momentos",
+    "artist": "Waterfalls",
+    "isrc": "RUA1H2092808"
+  },
+  {
+    "title": "Fuego Florece",
+    "artist": "Johnny Karvan",
+    "isrc": "usdy41826454"
+  },
+  {
+    "title": "Stay",
+    "artist": "Never Been To Budapest",
+    "isrc": "TCADN1807244"
+  },
+  {
+    "title": "Asesino",
+    "artist": "ROBOT JUNKIE PARADISE",
+    "isrc": "MXF011400181"
+  },
+  {
+    "title": "Undostres",
+    "artist": "Pet Friendly",
+    "isrc": "QZGLS2252537"
+  },
+  {
+    "title": "Me Quedo a Vivir",
+    "artist": "Sarmad",
+    "isrc": "MX3621500017"
+  },
+  {
+    "title": "Todo Fue un Sueño",
+    "artist": "Lunes de Honores",
+    "isrc": "ushm21861031"
+  },
+  {
+    "title": "Torii",
+    "artist": "Nimb",
+    "isrc": "GBWUL2360922"
+  },
+  {
+    "title": "Lo Que Nos Pasa",
+    "artist": "Blackpony",
+    "isrc": "uscgh1946022"
+  },
+  {
+    "title": "Linnea",
+    "artist": "Knives",
+    "isrc": "QZ22B1997226"
+  },
+  {
+    "title": "TragaMentiras",
+    "artist": "Camino Dividido",
+    "isrc": "SE6A91874061"
+  },
+  {
+    "title": "Pulque Curado",
+    "artist": "La Kalandria",
+    "isrc": "QZ5AB1833428"
+  },
+  {
+    "title": "The Runaway",
+    "artist": "Alizyan and the Drives",
+    "isrc": "ushm21682302"
+  },
+  {
+    "title": "Error 404",
+    "artist": "PARKER",
+    "isrc": "SE6A91830413"
+  },
+  {
+    "title": "Seguridad Pública",
+    "artist": "Distro SkaPunk",
+    "isrc": "US7VG1671610"
+  },
+  {
+    "title": "1un Do2 Tr3s",
+    "artist": "Decibeles",
+    "isrc": "USHM81703201"
+  },
+  {
+    "title": "Directo Al Corazon / Por Unas Monedas",
+    "artist": "Aviónicos",
+    "isrc": "TCADU1801122"
+  },
+  {
+    "title": "Dime",
+    "artist": "Vedette",
+    "isrc": "uscgj2095028"
+  },
+  {
+    "title": "Solo Tú",
+    "artist": "Esencia Ambar",
+    "isrc": "US7VG1696933"
+  },
+  {
+    "title": "A donde fui",
+    "artist": "BASTIØN",
+    "isrc": "SE5751857839"
+  },
+  {
+    "title": "Entiéndelo",
+    "artist": "Sintonía Zero",
+    "isrc": "QZK6K2267226"
+  },
+  {
+    "title": "Amor de Monarca",
+    "artist": "Zohm",
+    "isrc": "SE6HN2127955"
+  },
+  {
+    "title": "House Of Hell",
+    "artist": "Oktover",
+    "isrc": "US7VG1768158"
+  },
+  {
+    "title": "Dudo",
+    "artist": "Monklicks",
+    "isrc": "usl4q1811116"
+  },
+  {
+    "title": "Vivir Otra Vez - Live",
+    "artist": "Lu Ruenes, Jorge Lee",
+    "isrc": "QMDA62276755"
+  },
+  {
+    "title": "Paps ¡shot!",
+    "artist": "Qualia",
+    "isrc": "QZ5AB2071656"
+  },
+  {
+    "title": "Valium",
+    "artist": "Rex Attack",
+    "isrc": "ushm91728697"
+  },
+  {
+    "title": "Agosto",
+    "artist": "Casa de Zorros, Pudin Cosmico",
+    "isrc": "ushm81812371"
+  },
+  {
+    "title": "Infierno",
+    "artist": "Cena de Negros, Raul Carrasco",
+    "isrc": "MX3741800440"
+  },
+  {
+    "title": "Coincidencia Perfecta",
+    "artist": "Los Fibos",
+    "isrc": "ushm21766123"
+  },
+  {
+    "title": "Entre las Ruinas del Pasado",
+    "artist": "Clan de Venus",
+    "isrc": "QZHNB2417286"
+  },
+  {
+    "title": "Carretera",
+    "artist": "Virgilio",
+    "isrc": "QZAPG1768337"
+  },
+  {
+    "title": "Last notes",
+    "artist": "Inhabitants MX",
+    "isrc": "GBSMU5689536"
+  },
+  {
+    "title": "Tu Color",
+    "artist": "BUDAYA",
+    "isrc": "MXD782200609"
+  },
+  {
+    "title": "Fantasma",
+    "artist": "Hexagrams",
+    "isrc": "USL4R2382970"
+  },
+  {
+    "title": "Desastre Natural (Una Vez Mas)",
+    "artist": "DUVVII",
+    "isrc": "QM6N21937993"
+  },
+  {
+    "title": "Deep Ocean",
+    "artist": "Modern Vice",
+    "isrc": "QZ8LD1715970"
+  },
+  {
+    "title": "Babún",
+    "artist": "Roy Aguado, Juan Solo",
+    "isrc": "PEBQ91716566"
+  },
+  {
+    "title": "Si Alguna Vez",
+    "artist": "Javier Gasca",
+    "isrc": "uscgh1675134"
+  },
+  {
+    "title": "Momentos",
+    "artist": "Somos Logan",
+    "isrc": "QZW9L2221864"
+  },
+  {
+    "title": "Métodos",
+    "artist": "Waterfalls",
+    "isrc": "RUA1H1730771"
+  },
+  {
+    "title": "Libertad",
+    "artist": "Johnny Karvan",
+    "isrc": "usdy41826452"
+  },
+  {
+    "title": "Lean",
+    "artist": "Never Been To Budapest",
+    "isrc": "TCAEE1902558"
+  },
+  {
+    "title": "Zig zag",
+    "artist": "ROBOT JUNKIE PARADISE, Lng Sht",
+    "isrc": "MX3741501323"
+  },
+  {
+    "title": "Se Vale Llorar",
+    "artist": "Pet Friendly",
+    "isrc": "QZ5AB2374474"
+  },
+  {
+    "title": "Que Bueno Que Me Atreví",
+    "artist": "Sarmad, La Santísima Voladora",
+    "isrc": "MX3622200058"
+  },
+  {
+    "title": "Me Voy a Ir",
+    "artist": "Lunes de Honores",
+    "isrc": "ushm21861030"
+  },
+  {
+    "title": "Páramo",
+    "artist": "Nimb",
+    "isrc": "QZDFP1956069"
+  },
+  {
+    "title": "12 12 12",
+    "artist": "Blackpony",
+    "isrc": "uscgh1946028"
+  }
+]

@@ -1,0 +1,877 @@
+[
+  {
+    "title": "Enchanting Flute",
+    "artist": "Rakesh Chaurasia",
+    "isrc": "INS181202100"
+  },
+  {
+    "title": "Jogiya",
+    "artist": "Hariprasad Chaurasia",
+    "isrc": "GBAJU0600237"
+  },
+  {
+    "title": "Raaga Bhairav - Dadra",
+    "artist": "Ronu Majumdar, Ajeet Pathak",
+    "isrc": "INH101704161"
+  },
+  {
+    "title": "India Blue (Dhani)",
+    "artist": "Ali Akbar Khan",
+    "isrc": "USAR50412305"
+  },
+  {
+    "title": "Vaisnava Bhajan",
+    "artist": "Vishwa Mohan Bhatt, Sukhvinder Singh Namdhari",
+    "isrc": "US4R31122784"
+  },
+  {
+    "title": "Bhairavi Gat",
+    "artist": "Shivkumar Sharma",
+    "isrc": "USA560684788"
+  },
+  {
+    "title": "Bhairavi",
+    "artist": "Amjad Ali Khan",
+    "isrc": "USA560856289"
+  },
+  {
+    "title": "Cosmos",
+    "artist": "G.S. Sachdev",
+    "isrc": "US4BQ8910256"
+  },
+  {
+    "title": "Mangal Dhun",
+    "artist": "Bismillah Khan",
+    "isrc": "INH100334590"
+  },
+  {
+    "title": "Raga Mishra Bhairavi: Alap",
+    "artist": "Ram Narayan, Kronos Quartet, Terry Riley, Wu Man",
+    "isrc": "USNO10900019"
+  },
+  {
+    "title": "Tal Pravh and Laggi",
+    "artist": "Anindo Chatterjee",
+    "isrc": "GBBCV9111614"
+  },
+  {
+    "title": "Freethm",
+    "artist": "Vijay Ghate, Kedar Pandit",
+    "isrc": "INV141100324"
+  },
+  {
+    "title": "Drut Teen Taal -16 Beats",
+    "artist": "Swapan Chaudhuri",
+    "isrc": "INS101600045"
+  },
+  {
+    "title": "Gypsy Anandi",
+    "artist": "Debashish Bhattacharya",
+    "isrc": "GBDTM0849005"
+  },
+  {
+    "title": "Pashto",
+    "artist": "Alla Rakha, Zakir Hussain",
+    "isrc": "USA560591419"
+  },
+  {
+    "title": "Making Music",
+    "artist": "Zakir Hussain",
+    "isrc": "DEB338634901"
+  },
+  {
+    "title": "Raga Chayya Nat",
+    "artist": "Kala Ramnath",
+    "isrc": "INL110900846"
+  },
+  {
+    "title": "Peace and Meditation",
+    "artist": "Bhavani Shankar",
+    "isrc": "INW130901428"
+  },
+  {
+    "title": "Pilgrimage - Raag Bhimpalasi",
+    "artist": "Traditional, Aashish Khan",
+    "isrc": "INS172300284"
+  },
+  {
+    "title": "Dhun In Misra Anandi",
+    "artist": "Tarun Bhattacharya",
+    "isrc": "USA560772340"
+  },
+  {
+    "title": "Nakul - Thumri Ang - Raag Mishra Khamaj",
+    "artist": "Rupak Kulkarni",
+    "isrc": "INT130800666"
+  },
+  {
+    "title": "Pune, January, 1997",
+    "artist": "Sultan Khan, Zakir Hussain",
+    "isrc": "USQMP0200001"
+  },
+  {
+    "title": "Ardha Jai Taal (Tabla solo in 6.5 beats)",
+    "artist": "Anuradha Pal",
+    "isrc": "QM4TX2284974"
+  },
+  {
+    "title": "Jhor/Jhalla",
+    "artist": "Abhijit Banerjee, Kadri Gopalnath, Rajshekar, Ronu Majumdar, Patri Satish Kumar",
+    "isrc": "USA560876657"
+  },
+  {
+    "title": "Raga Gaud Malhar",
+    "artist": "Sabri Khan",
+    "isrc": "USA560716206"
+  },
+  {
+    "title": "Bhairavi - Alap",
+    "artist": "Bahauddin Dagar, Zia Mohiuddin Dagar",
+    "isrc": "SEWQY2300301"
+  },
+  {
+    "title": "Suddh Sarang",
+    "artist": "Raghunath Seth",
+    "isrc": "USA370547775"
+  },
+  {
+    "title": "Dhun in Madhyam se Gara - Studio",
+    "artist": "Tejendra Majumdar, Swapan Chaudhuri",
+    "isrc": "USABC0810015"
+  },
+  {
+    "title": "Tabla Solo - Taal Rupak",
+    "artist": "Nayan Ghosh, Ishaan Ghosh",
+    "isrc": "TCAGZ2381967"
+  },
+  {
+    "title": "Raag Jhinjhoti",
+    "artist": "Arnab Chakrabarty",
+    "isrc": "INT130600163"
+  },
+  {
+    "title": "Raga Rageshwari - Teentaal",
+    "artist": "Amaan Ali Bangash",
+    "isrc": "USA370548638"
+  },
+  {
+    "title": "Raga Kalavati - Alaap",
+    "artist": "Satish Vyas",
+    "isrc": "USA370547572"
+  },
+  {
+    "title": "Rag Rageshri",
+    "artist": "V. G. Jog, Zakir Hussain",
+    "isrc": "USQMP9100024"
+  },
+  {
+    "title": "Raga Kedar: Fast Gat in Tintala",
+    "artist": "Buddhadev Das Gupta, Debendra Kanti Chakrabarty",
+    "isrc": "GBAJU9200060"
+  },
+  {
+    "title": "Tabla Solo in Teentaal (16 Beats) Featuring Peshkar,Paran,Laggi,Chakradar",
+    "artist": "Yogesh Samsi",
+    "isrc": "GBHNS0400248"
+  },
+  {
+    "title": "Ahmad",
+    "artist": "Kumar Bose",
+    "isrc": "USA560671567"
+  },
+  {
+    "title": "Tabla Lahara",
+    "artist": "Tanmoy Bose",
+    "isrc": "INB562201284"
+  },
+  {
+    "title": "Rhythms of India",
+    "artist": "Taufiq Qureshi",
+    "isrc": "TCAAZ1139164"
+  },
+  {
+    "title": "Benares Gharana Tabla Solo In Teental, Section II",
+    "artist": "Kishan Maharaj",
+    "isrc": "USA560856398"
+  },
+  {
+    "title": "Spring Flowers: Smile Of Goddess Sarasvati",
+    "artist": "Vasant Rai",
+    "isrc": "FR6V80212751"
+  },
+  {
+    "title": "Ghara Dadra - Pt Brij Bhushan Kabra",
+    "artist": "Brij Bhushan Kabra",
+    "isrc": "INH100375130"
+  },
+  {
+    "title": "Rag Gaoti: II. Drut laya – teental",
+    "artist": "Wajahat Khan, Rohini Rathore, Sukhvinder Singh Namdhari",
+    "isrc": "GBAJY9690005"
+  },
+  {
+    "title": "Raga Chandranandan - Gat In Madhya-Laya Teentaal",
+    "artist": "Rajeev Taranath",
+    "isrc": "USA370547628"
+  },
+  {
+    "title": "Romantic Flute-Gorakh Kalyan-Teen Taal",
+    "artist": "Milind Date",
+    "isrc": "INR3D2300279"
+  },
+  {
+    "title": "Kaida",
+    "artist": "Shankar Ghosh, Bickram Ghosh, Ustad Kamal Sabri",
+    "isrc": "INE182123536"
+  },
+  {
+    "title": "Dhrupad Compostion In Chautaal",
+    "artist": "Bahauddin Dagar",
+    "isrc": "USA560694150"
+  },
+  {
+    "title": "Kashmiri Dhun",
+    "artist": "Bhajan Sopori, Enayet Hossain",
+    "isrc": "USXNY1200073"
+  },
+  {
+    "title": "Raga Darbari Kanada: Jhala",
+    "artist": "Asad Ali Khan, Pandit Gopal Das, Mohamed Saklain",
+    "isrc": "USSF11220503"
+  },
+  {
+    "title": "Raag Bhupal Todi",
+    "artist": "Kamalesh Maitra",
+    "isrc": "USSF19643603"
+  },
+  {
+    "title": "Raga Desh: Drut In Teen Taal - Live",
+    "artist": "Abhisek Lahiri, Parimal Chakrabarty",
+    "isrc": "FR2X41414980"
+  },
+  {
+    "title": "Thumri in Raga Mishra Piloo",
+    "artist": "Nityanand Haldipur",
+    "isrc": "INM129800142"
+  },
+  {
+    "title": "Raga Bairagi Bhairav",
+    "artist": "Brij Narayan, Zakir Hussain",
+    "isrc": "GBAJU0300396"
+  },
+  {
+    "title": "Kya Khabar Thi",
+    "artist": "Sabir Khan, Aruna Kundanani",
+    "isrc": "INH100627259"
+  },
+  {
+    "title": "Vaishnav Janto",
+    "artist": "Ayaan Ali Khan",
+    "isrc": "QM7281428417"
+  },
+  {
+    "title": "Raga Kausi-Kanada",
+    "artist": "Sharan Rani",
+    "isrc": "DEPZ61153212"
+  },
+  {
+    "title": "Banarsi Dadra - 6 Beats",
+    "artist": "Rajendra Prasanna",
+    "isrc": "INS180262062"
+  },
+  {
+    "title": "Raga Rageshree",
+    "artist": "Bahadur Khan",
+    "isrc": "INE181708517"
+  },
+  {
+    "title": "Jhaptaal - Pt Samta Prasad",
+    "artist": "Samta Prasad",
+    "isrc": "INH100468640"
+  },
+  {
+    "title": "Raag Ahir Bhairav",
+    "artist": "Salil Bhatt",
+    "isrc": "INT131201018"
+  },
+  {
+    "title": "Taaal Teentaal By Ramkumar Mishra",
+    "artist": "Ramkumar Mishra",
+    "isrc": "INM241818877"
+  },
+  {
+    "title": "Raga Kafi: Dhun in AddhaTaal",
+    "artist": "Pradeep Barot, Riccardo Battaglia, Federico Sanesi",
+    "isrc": "ITI401600099"
+  },
+  {
+    "title": "Raga Jog (Alap)",
+    "artist": "Sangeeta Shankar",
+    "isrc": "USA560460480"
+  },
+  {
+    "title": "Raga Piloo",
+    "artist": "Asad Qizilbash",
+    "isrc": "FR6V80816612"
+  },
+  {
+    "title": "Raga Malkauns",
+    "artist": "Vijay Raghav Rao",
+    "isrc": "QM6MZ1951395"
+  },
+  {
+    "title": "Tabla",
+    "artist": "Jnan Prakash Ghosh",
+    "isrc": "INH100607797"
+  },
+  {
+    "title": "Raga Chandranandan - Alap",
+    "artist": "Steve Oda",
+    "isrc": "usl4q0715591"
+  },
+  {
+    "title": "Thumari Banarasi",
+    "artist": "Vikash Maharaj",
+    "isrc": "ushm90893353"
+  },
+  {
+    "title": "Raga Darbari Kanhra: Drutgat",
+    "artist": "Gopal Shankar Misra",
+    "isrc": "GBCPA0000448"
+  },
+  {
+    "title": "Khyal : Raga Mangal-Bhairav - Drut Gat (Tîn-tal)",
+    "artist": "Gopal Krishan, Anindo Chatterjee",
+    "isrc": "FR6V80844629"
+  },
+  {
+    "title": "Raga Gavati - Gat in Drut Teentaal",
+    "artist": "Abdul Latif Khan, Nifees Ahmed Khan",
+    "isrc": "INL351900618"
+  },
+  {
+    "title": "Raga Desh - Jor",
+    "artist": "Hafiz Ali Khan",
+    "isrc": "USA370547468"
+  },
+  {
+    "title": "Teentaal 1",
+    "artist": "Sankha Chatterjee",
+    "isrc": "INB241200165"
+  },
+  {
+    "title": "Kafi Malhar - Alaap and Gat in Vilambit Teentaal",
+    "artist": "Harsh Narayan, Achyut Tijare",
+    "isrc": "QM4TX2342100"
+  },
+  {
+    "title": "Ganesha at 432 Hz",
+    "artist": "Pravin Godkhindi",
+    "isrc": "INF022001005"
+  },
+  {
+    "title": "Raga Pahadi Jhinjhoti: Gat In Madhyalaya Jhap Taal - Live in Copenhagen",
+    "artist": "Apratim Majumdar, Amit Chatterjee",
+    "isrc": "FRX201522487"
+  },
+  {
+    "title": "Makhnu",
+    "artist": "Bundu Khan",
+    "isrc": "INY131413758"
+  },
+  {
+    "title": "Thumri in the Tilang mode",
+    "artist": "Raghunath Prasanna, Motilal",
+    "isrc": "FRZ139681700"
+  },
+  {
+    "title": "Geometry",
+    "artist": "Ritesh Das Toronto Tabla Ensemble",
+    "isrc": "HKI190120903"
+  },
+  {
+    "title": "Thumri in Raga Khammaj",
+    "artist": "Sabir Khan, Wajahat Khan",
+    "isrc": "GBBCV0114702"
+  },
+  {
+    "title": "Elephant Strings - Our Beginnings",
+    "artist": "Surinder Sandhu",
+    "isrc": "gbfmp0300005"
+  },
+  {
+    "title": "Raag Peeloo",
+    "artist": "Umrao Bundu Khan",
+    "isrc": "USA560919114"
+  },
+  {
+    "title": "Rag Jainjhoti - Alap & Gat in Teental",
+    "artist": "Ronu Majumdar, Abhijit Banerjee",
+    "isrc": "US4R31122902"
+  },
+  {
+    "title": "Gratitude at 432 Hz",
+    "artist": "Rakesh Chaurasia",
+    "isrc": "INF021801007"
+  },
+  {
+    "title": "Raga Chandranandan",
+    "artist": "Ali Akbar Khan",
+    "isrc": "USFI86500055"
+  },
+  {
+    "title": "Asavari",
+    "artist": "Hariprasad Chaurasia",
+    "isrc": "GBAJU0600236"
+  },
+  {
+    "title": "Raga Tilak Kamodi",
+    "artist": "Vishwa Mohan Bhatt",
+    "isrc": "INM129200160"
+  },
+  {
+    "title": "Raga Pahadi - Dogri Folk Dhun in Dipcandi Tal",
+    "artist": "Shivkumar Sharma, Shafaat Ahmed Khan",
+    "isrc": "GBBCV9114101"
+  },
+  {
+    "title": "Ekla Chalo Re",
+    "artist": "Amjad Ali Khan, Bickram Ghosh",
+    "isrc": "INE182220548"
+  },
+  {
+    "title": "Banarasi Dhun - Taal Dadra",
+    "artist": "Bismillah Khan",
+    "isrc": "USA560767936"
+  },
+  {
+    "title": "Romantic Dialogue",
+    "artist": "G.S. Sachdev",
+    "isrc": "US4BQ8910259"
+  },
+  {
+    "title": "Raag Jogiya",
+    "artist": "Ram Narayan",
+    "isrc": "INN092005362"
+  },
+  {
+    "title": "8.5 Beats",
+    "artist": "Anindo Chatterjee",
+    "isrc": "GBBCV9111613"
+  },
+  {
+    "title": "Path To Peace",
+    "artist": "Vijay Ghate, Kedar Pandit",
+    "isrc": "INV141100329"
+  },
+  {
+    "title": "Vilambit - Teen Taal - 16 Beats",
+    "artist": "Swapan Chaudhuri",
+    "isrc": "INS101600042"
+  },
+  {
+    "title": "The Sound of the Soul",
+    "artist": "Debashish Bhattacharya",
+    "isrc": "USJQK6700003"
+  },
+  {
+    "title": "Jugalbandi in Teen Taal",
+    "artist": "Alla Rakha, Zakir Hussain",
+    "isrc": "INM129000148"
+  },
+  {
+    "title": "Raga Purvi",
+    "artist": "Kala Ramnath",
+    "isrc": "INL110900845"
+  },
+  {
+    "title": "Balinese Fantasy",
+    "artist": "Zakir Hussain, Dana Pandey, Mickey Hart, Syed Arshad, Vince Delgado, Aushim Chaudhuri, Anthony Hindson",
+    "isrc": "USQMP9100014"
+  },
+  {
+    "title": "Darbar",
+    "artist": "Bhavani Shankar",
+    "isrc": "INW130901425"
+  },
+  {
+    "title": "Under The Stars - Raag Mishra Kafi",
+    "artist": "Traditional, Aashish Khan",
+    "isrc": "INS172300289"
+  },
+  {
+    "title": "Raag Hament (Tintal, 16 beats) [arr. T. Bhattacharya]",
+    "artist": "Tarun Bhattacharya, Shiv Shankar Ray, Jayashree Acharya",
+    "isrc": "GBCKG1000257"
+  },
+  {
+    "title": "Ahmedabad, January, 1999",
+    "artist": "Sultan Khan, Zakir Hussain",
+    "isrc": "USQMP0200002"
+  },
+  {
+    "title": "Dhun Addha Taal - Raga Mishra Bhairavi",
+    "artist": "Rupak Kulkarni",
+    "isrc": "USCHR1315520"
+  },
+  {
+    "title": "Drut Teentaal (Tabla solo)",
+    "artist": "Anuradha Pal",
+    "isrc": "QM4TX2284975"
+  },
+  {
+    "title": "The Veda",
+    "artist": "Abhijit Banerjee",
+    "isrc": "DEU240304256"
+  },
+  {
+    "title": "Gorh Sarang",
+    "artist": "Sabri Khan",
+    "isrc": "QMFMG1427668"
+  },
+  {
+    "title": "Bhairavi - Jhala",
+    "artist": "Bahauddin Dagar, Zia Mohiuddin Dagar",
+    "isrc": "SEWQY2300303"
+  },
+  {
+    "title": "Raga - Yaman - Flute",
+    "artist": "Raghunath Seth",
+    "isrc": "INH100702720"
+  },
+  {
+    "title": "Misra Mand",
+    "artist": "Tejendra Majumdar",
+    "isrc": "USA560460535"
+  },
+  {
+    "title": "Bhatiyali Dhun",
+    "artist": "Nayan Ghosh, Ishaan Ghosh",
+    "isrc": "TCAGZ2381984"
+  },
+  {
+    "title": "Raag Bihag",
+    "artist": "Arnab Chakrabarty",
+    "isrc": "INT130600165"
+  },
+  {
+    "title": "Raga Desh",
+    "artist": "Amaan Ali Bangash",
+    "isrc": "INH101600267"
+  },
+  {
+    "title": "Inner Resolve (Part One)",
+    "artist": "Satish Vyas",
+    "isrc": "USA370547962"
+  },
+  {
+    "title": "Dhun - Version, 1",
+    "artist": "Traditional, V. G. Jog",
+    "isrc": "INS172206894"
+  },
+  {
+    "title": "Raga Jaijaivanti: Fast Gat in Tintala",
+    "artist": "Buddhadev Das Gupta, Debendra Kanti Chakrabarty",
+    "isrc": "GBAJU9200057"
+  },
+  {
+    "title": "Tabla Solo in Deepchandi (14 Beats) Featuring Peshkar,Uthan,Anagat,Chakradar",
+    "artist": "Yogesh Samsi",
+    "isrc": "GBHNS0400257"
+  },
+  {
+    "title": "Tabla solo (tintaal pt 1)",
+    "artist": "Kumar Bose",
+    "isrc": "USA560460574"
+  },
+  {
+    "title": "Raga Kirwani - Gat in Matta Taal",
+    "artist": "Tanmoy Bose, Ayaan Ali Bangash",
+    "isrc": "GBBFW1402547"
+  },
+  {
+    "title": "Ranthambor - The Tiger Hunts",
+    "artist": "Taufiq Qureshi",
+    "isrc": "USA560610853"
+  },
+  {
+    "title": "Benares Gharana Tabla Solo In Teental, Section III",
+    "artist": "Kishan Maharaj",
+    "isrc": "USA560856399"
+  },
+  {
+    "title": "Spring Flowers: Spring Wind",
+    "artist": "Vasant Rai",
+    "isrc": "FR6V80212753"
+  },
+  {
+    "title": "Raga Puriya Alap (Part 2)",
+    "artist": "Brij Bhushan Kabra",
+    "isrc": "GBHCD1150890"
+  },
+  {
+    "title": "Rag Yaman Kalyan: III. Vilambit laya – teental",
+    "artist": "Wajahat Khan, Sukhvinder Singh Namdhari, Rohini Rathore",
+    "isrc": "GBAJY9690003"
+  },
+  {
+    "title": "Raga bhairavi : Gat in deepchandi",
+    "artist": "Rajeev Taranath",
+    "isrc": "FR6V80741947"
+  },
+  {
+    "title": "Durga-Teen Taal (feat. Charudatta Phadke)",
+    "artist": "Milind Date, Charudatta Phadke",
+    "isrc": "INR3D2200009"
+  },
+  {
+    "title": "Live Tabla Duet - Teen Taal - Shuruaat",
+    "artist": "Shankar Ghosh, Bickram Ghosh",
+    "isrc": "INT561900003"
+  },
+  {
+    "title": "Kasmiri Folk",
+    "artist": "Bhajan Sopori, Enayet Hossain",
+    "isrc": "USA370680156"
+  },
+  {
+    "title": "Raga Purvi: Jor and Jhala",
+    "artist": "Asad Ali Khan, Mohan Shyam Sharma, Zaki Haiper",
+    "isrc": "GBAJU9700753"
+  },
+  {
+    "title": "Raag Deen Todi",
+    "artist": "Kamalesh Maitra",
+    "isrc": "USSF19643601"
+  },
+  {
+    "title": "Aelwyn",
+    "artist": "Abhisek Lahiri",
+    "isrc": "INB241100193"
+  },
+  {
+    "title": "Raga Gaud Sarang - Gat in Madhyalay Ektaal",
+    "artist": "Brij Narayan, Pt. Omkar Gulvady",
+    "isrc": "INL351900396"
+  },
+  {
+    "title": "Tabla Recital - Drut Teentaal - Ustad Sabir Khan",
+    "artist": "Sabir Khan",
+    "isrc": "INH109970340"
+  },
+  {
+    "title": "Raga Lalit",
+    "artist": "Sharan Rani",
+    "isrc": "DEPZ61153213"
+  },
+  {
+    "title": "Raag Des - Vilambit & Drut Teen Taal 16 Beats",
+    "artist": "Rajendra Prasanna",
+    "isrc": "INS180262061"
+  },
+  {
+    "title": "Raga Ahir Bivash - Gat Vilambit Drut And Jhala - Sarod",
+    "artist": "Bahadur Khan",
+    "isrc": "INH100607743"
+  },
+  {
+    "title": "Teentaal - Ptsamta Prasad - Tabla",
+    "artist": "Samta Prasad",
+    "isrc": "INH109970580"
+  },
+  {
+    "title": "Dhun In Bhoopali - Studio",
+    "artist": "Salil Bhatt, Ankit Bhatt, Ramkumar Mishra",
+    "isrc": "INT131000061"
+  },
+  {
+    "title": "Raga Bageshri: Gat in Tintaal",
+    "artist": "Pradeep Barot, Riccardo Battaglia, Federico Sanesi",
+    "isrc": "ITI401600096"
+  },
+  {
+    "title": "Waves of Sound",
+    "artist": "Sangeeta Shankar, Brian D'Oliveira",
+    "isrc": "INL351900608"
+  },
+  {
+    "title": "Malkauns",
+    "artist": "Asad Qizilbash",
+    "isrc": "QM4TW2043520"
+  },
+  {
+    "title": "Raga Megh Drut",
+    "artist": "Vijay Raghav Rao",
+    "isrc": "INH101301400"
+  },
+  {
+    "title": "Relaxation - Raag Jait",
+    "artist": "Ronu Majumdar",
+    "isrc": "INT131010081"
+  },
+  {
+    "title": "Raga: Durgeshwari",
+    "artist": "Ali Akbar Khan",
+    "isrc": "QM6P41432761"
+  },
+  {
+    "title": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
+    "artist": "Hariprasad Chaurasia, Rakesh Chaurasia, Rupak Kulkarni",
+    "isrc": "INF020011009"
+  },
+  {
+    "title": "Dhun in Rag Pilu",
+    "artist": "Vishwa Mohan Bhatt, Sukhvinder Singh Namdhari",
+    "isrc": "US4R31122785"
+  },
+  {
+    "title": "Bhopali",
+    "artist": "Shivkumar Sharma, Hariprasad Chaurasia",
+    "isrc": "USA560856293"
+  },
+  {
+    "title": "Gratitude",
+    "artist": "Rakesh Chaurasia",
+    "isrc": "INF020101114"
+  },
+  {
+    "title": "Raga Miya-Ki-Malhar Teental",
+    "artist": "Amjad Ali Khan, Shafaat Ahmed Khan",
+    "isrc": "FR6V80414045"
+  },
+  {
+    "title": "Chaiti - Dhun In Raga Khamaj",
+    "artist": "Bismillah Khan",
+    "isrc": "USA560636345"
+  },
+  {
+    "title": "Bairagi - Aalap",
+    "artist": "Ram Narayan, Chatur Lal",
+    "isrc": "INO132103392"
+  },
+  {
+    "title": "Tal Teental",
+    "artist": "Anindo Chatterjee",
+    "isrc": "GBBCV9111622"
+  },
+  {
+    "title": "Raga Des Bhajan",
+    "artist": "G.S. Sachdev",
+    "isrc": "usx9p1123370"
+  },
+  {
+    "title": "Peshkaar – An Evolution",
+    "artist": "Vijay Ghate, Kedar Pandit",
+    "isrc": "INV141100330"
+  },
+  {
+    "title": "Vilambit - Jhamptaal - 10 Beats",
+    "artist": "Swapan Chaudhuri",
+    "isrc": "INS101600044"
+  },
+  {
+    "title": "Playful Melina on Diamond Head",
+    "artist": "Debashish Bhattacharya",
+    "isrc": "GBDTM1710001"
+  },
+  {
+    "title": "Tani Avartanam",
+    "artist": "Alla Rakha, Zakir Hussain",
+    "isrc": "USA370548074"
+  },
+  {
+    "title": "Raga Chayya Nat - Tala Teentaal",
+    "artist": "Kala Ramnath, Akram Khan, Kadak singh",
+    "isrc": "QM6N22465759"
+  },
+  {
+    "title": "Jai Taal",
+    "artist": "Zakir Hussain",
+    "isrc": "USA560610464"
+  },
+  {
+    "title": "Journey",
+    "artist": "Bhavani Shankar",
+    "isrc": "INW130901427"
+  },
+  {
+    "title": "Two Dimensions - Raag Jog",
+    "artist": "Traditional, Aashish Khan",
+    "isrc": "INS172300285"
+  },
+  {
+    "title": "Folk Tune From Assam",
+    "artist": "Tarun Bhattacharya",
+    "isrc": "USA560772341"
+  },
+  {
+    "title": "Raag Maand - Dadra Taal",
+    "artist": "Sultan Khan",
+    "isrc": "INS189120754"
+  },
+  {
+    "title": "Arjun - Tantrakari Ang - Raag Hemant",
+    "artist": "Rupak Kulkarni",
+    "isrc": "INT130800665"
+  },
+  {
+    "title": "Cloud Nine",
+    "artist": "Anuradha Pal, Aditya Dev, Raghavendra Rao",
+    "isrc": "QMDA61424335"
+  },
+  {
+    "title": "Drive East From Andalucia",
+    "artist": "Abhijit Banerjee, Kala Ramnath, Somnath Roy",
+    "isrc": "USA370661315"
+  },
+  {
+    "title": "Puria Kalyan",
+    "artist": "Sabri Khan",
+    "isrc": "QMFMG1427667"
+  },
+  {
+    "title": "Bhairavi - Jor",
+    "artist": "Bahauddin Dagar, Zia Mohiuddin Dagar",
+    "isrc": "SEWQY2300302"
+  },
+  {
+    "title": "Raga Abhogi",
+    "artist": "Raghunath Seth",
+    "isrc": "QM4TX1594893"
+  },
+  {
+    "title": "Raga Basant Mukhari (Gat in Drut Teental)",
+    "artist": "Tejendra Majumdar",
+    "isrc": "USA560460534"
+  },
+  {
+    "title": "Raga Kamod: Drut in Ek Taal - Live",
+    "artist": "Nayan Ghosh, Yogesh Samsi",
+    "isrc": "FR10S1482435"
+  },
+  {
+    "title": "Raag Miyan Ki Malhar",
+    "artist": "Arnab Chakrabarty",
+    "isrc": "INT130600162"
+  },
+  {
+    "title": "Hanswadhwani - Original",
+    "artist": "Amaan Ali Bangash, Ayaan Ali Bangash",
+    "isrc": "USDCH1040539"
+  },
+  {
+    "title": "Raga Kalavati - Madhyalay Gat In Teentaal",
+    "artist": "Satish Vyas",
+    "isrc": "USA370547574"
+  },
+  {
+    "title": "Jog And Profvgjog",
+    "artist": "V. G. Jog, Hariprasad Chaurasia",
+    "isrc": "INH100604802"
+  },
+  {
+    "title": "Medium tintal",
+    "artist": "Buddhadev Das Gupta",
+    "isrc": "uscgh0786056"
+  }
+]

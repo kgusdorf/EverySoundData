@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Wings of Fire",
+    "artist": "Brymir",
+    "isrc": "FIRAN1900021"
+  },
+  {
+    "title": "Timeless Despair",
+    "artist": "Atavistia",
+    "isrc": "QZK6G2433126"
+  },
+  {
+    "title": "Heavenly Skies",
+    "artist": "Crepuscle",
+    "isrc": "ushm91949885"
+  },
+  {
+    "title": "Svept i Sorgepläd",
+    "artist": "Meadows End",
+    "isrc": "SE5DN1805103"
+  },
+  {
+    "title": "Toss a Coin to Your Witcher",
+    "artist": "Kambrium",
+    "isrc": "TCAEQ2025186"
+  },
+  {
+    "title": "Moonlight",
+    "artist": "Black Forest",
+    "isrc": "ATEH91800105"
+  },
+  {
+    "title": "Bloodline",
+    "artist": "Aephanemer",
+    "isrc": "ATN261990707"
+  },
+  {
+    "title": "Burning Bridges",
+    "artist": "Eternal Delyria",
+    "isrc": "TCAEM1949657"
+  },
+  {
+    "title": "A New Aeon's Birth",
+    "artist": "Inthraced",
+    "isrc": "QZDA81947272"
+  },
+  {
+    "title": "Black and White",
+    "artist": "Silent Line",
+    "isrc": "ushm21585990"
+  },
+  {
+    "title": "Hold the Sword",
+    "artist": "Whispered",
+    "isrc": "FIRED1200012"
+  },
+  {
+    "title": "The Emperor's Hounds",
+    "artist": "Eonian, Oliver Palotai, Grant Truesdell",
+    "isrc": "QZHNB2454612"
+  },
+  {
+    "title": "Plague King",
+    "artist": "Crowheart",
+    "isrc": "QZES71835622"
+  },
+  {
+    "title": "The End of the Endless",
+    "artist": "Sacrificed Alliance",
+    "isrc": "TCACP1609063"
+  },
+  {
+    "title": "The River Flows Frozen",
+    "artist": "Eternal Tears Of Sorrow",
+    "isrc": "FIUM71300322"
+  },
+  {
+    "title": "Solitude's Bane",
+    "artist": "Gladenfold",
+    "isrc": "DE1AH2283806"
+  },
+  {
+    "title": "Fear My Name",
+    "artist": "Fading Aeon",
+    "isrc": "QZ4JJ1931470"
+  },
+  {
+    "title": "Blessing of Freyja",
+    "artist": "Blind Stare",
+    "isrc": "FI3FC1207106"
+  },
+  {
+    "title": "Until We Fall",
+    "artist": "Starkill",
+    "isrc": "QZES81908184"
+  },
+  {
+    "title": "The Division of a Spiral Synergy",
+    "artist": "Path of Destiny",
+    "isrc": "DEQD61200572"
+  },
+  {
+    "title": "Revolt",
+    "artist": "Serenity In Murder",
+    "isrc": "DEQD62200666"
+  },
+  {
+    "title": "So It Ends",
+    "artist": "Solemnity",
+    "isrc": "UKXDE2000003"
+  },
+  {
+    "title": "March Through the Endless Snow - 2020 version",
+    "artist": "Warfarer",
+    "isrc": "FIPUU2000001"
+  },
+  {
+    "title": "Smoke And Iron",
+    "artist": "Gravecloud",
+    "isrc": "QZHN62376310"
+  },
+  {
+    "title": "Lands of Snow",
+    "artist": "Ghosts Of Atlantis",
+    "isrc": "NLWJ22300337"
+  },
+  {
+    "title": "My Bloody JJ",
+    "artist": "Monumentum Damnati",
+    "isrc": "ESA012225477"
+  },
+  {
+    "title": "Ikiruoste",
+    "artist": "Northern Genocide",
+    "isrc": "FINGC1900011"
+  },
+  {
+    "title": "Let the World Forget Me",
+    "artist": "Helioss",
+    "isrc": "ESA012044286"
+  },
+  {
+    "title": "Spirit of Valor",
+    "artist": "Vagrant",
+    "isrc": "QM6P42032205"
+  },
+  {
+    "title": "Bleak Future",
+    "artist": "Tragederia",
+    "isrc": "USDHM1718886"
+  },
+  {
+    "title": "Discomposed Malformation",
+    "artist": "Tartarum",
+    "isrc": "GBSMU7099256"
+  },
+  {
+    "title": "Sending Death",
+    "artist": "Journey Into Darkness",
+    "isrc": "QZK6Q2028312"
+  },
+  {
+    "title": "Embrace The Cold",
+    "artist": "Obsidieth",
+    "isrc": "usx9p0970032"
+  },
+  {
+    "title": "The Conqueror",
+    "artist": "Khrysaor",
+    "isrc": "GB-SMU-23-84485"
+  },
+  {
+    "title": "Stormrider",
+    "artist": "Yrzen",
+    "isrc": "TCAGJ2248787"
+  },
+  {
+    "title": "Dolls",
+    "artist": "Dark Lunacy",
+    "isrc": "IT0681100580"
+  },
+  {
+    "title": "Monster",
+    "artist": "Nepumuc",
+    "isrc": "QZHN51930193"
+  },
+  {
+    "title": "Banish and Burn",
+    "artist": "Neverus",
+    "isrc": "NL7NQ2200002"
+  },
+  {
+    "title": "As Hope Welcomes Death",
+    "artist": "Gone in April",
+    "isrc": "TCACL1654483"
+  },
+  {
+    "title": "Blinding Lights",
+    "artist": "Starwraith, Vincent Jones",
+    "isrc": "QZK6J2147121"
+  },
+  {
+    "title": "Y Draig Goch",
+    "artist": "Hollenthon",
+    "isrc": "ATN261109101"
+  },
+  {
+    "title": "Refuge",
+    "artist": "Suodeth",
+    "isrc": "GBLFP2463744"
+  },
+  {
+    "title": "Castle Under Siege",
+    "artist": "Axis Mundi",
+    "isrc": "QZHN72280313"
+  },
+  {
+    "title": "Nadir",
+    "artist": "Spectral Resonanze",
+    "isrc": "QZTVM2327907"
+  },
+  {
+    "title": "Resurrection",
+    "artist": "Obliteration Imminent",
+    "isrc": "QZB4J1891629"
+  },
+  {
+    "title": "Doomdiver",
+    "artist": "Zgripsorum",
+    "isrc": "QZTAS2180615"
+  },
+  {
+    "title": "Minokawa",
+    "artist": "Neperia",
+    "isrc": "QZTB22353265"
+  },
+  {
+    "title": "Unbearably Human",
+    "artist": "InHuman",
+    "isrc": "NLL6R2001372"
+  },
+  {
+    "title": "Serpentry",
+    "artist": "Drearyym",
+    "isrc": "QZDA61829105"
+  },
+  {
+    "title": "Distorting of Perception",
+    "artist": "Until We Die, Guillaume Villeneuve",
+    "isrc": "QZ4JJ1631863"
+  },
+  {
+    "title": "God Our Fortress and Refuge",
+    "artist": "Renascent",
+    "isrc": "QZ2YY1600008"
+  },
+  {
+    "title": "Alpha & Omega",
+    "artist": "Haemic",
+    "isrc": "QZFZ32078497"
+  },
+  {
+    "title": "Fireborn",
+    "artist": "The World Within",
+    "isrc": "USJ3V1803232"
+  },
+  {
+    "title": "Snowbound Elegy",
+    "artist": "Suffocate the Skies",
+    "isrc": "usl4r2011604"
+  },
+  {
+    "title": "The Three Roses of Destiny",
+    "artist": "Arthemion",
+    "isrc": "QZDA82086164"
+  },
+  {
+    "title": "Ancestral vision",
+    "artist": "Era of ephemeris",
+    "isrc": "SEXAT1901006"
+  },
+  {
+    "title": "Acceptance",
+    "artist": "Hope For The Dying",
+    "isrc": "US38J1312601"
+  },
+  {
+    "title": "Autumn Wed Us, Sinned And Lone",
+    "artist": "Arcane Grail",
+    "isrc": "GB-SMU-08-89806"
+  },
+  {
+    "title": "Threshold",
+    "artist": "Massakren",
+    "isrc": "TCABC1127061"
+  },
+  {
+    "title": "Blod",
+    "artist": "The Few Against Many",
+    "isrc": "SGA510906303"
+  },
+  {
+    "title": "Withdrawn",
+    "artist": "Stormcast",
+    "isrc": "CYA081403305"
+  },
+  {
+    "title": "Into The Dawn",
+    "artist": "Aegius",
+    "isrc": "QZDA52125956"
+  },
+  {
+    "title": "Transcending Malevolent Heaven",
+    "artist": "Darkest Path",
+    "isrc": "ushm81427136"
+  },
+  {
+    "title": "Clyde Jefferson Rag",
+    "artist": "Divine Insanity",
+    "isrc": "usdy41870536"
+  },
+  {
+    "title": "Thorns",
+    "artist": "Elarmir",
+    "isrc": "FRX871530065"
+  },
+  {
+    "title": "Of Dreams and Silence",
+    "artist": "Elderdawn",
+    "isrc": "CH6541634399"
+  },
+  {
+    "title": "Ghost At The Feast",
+    "artist": "Isle of the Cross",
+    "isrc": "IT8SF2300123"
+  },
+  {
+    "title": "Don't Close Your Eyes",
+    "artist": "Jumpscare",
+    "isrc": "QZHN71904548"
+  },
+  {
+    "title": "Hades Hellhound",
+    "artist": "NightMyHeaven",
+    "isrc": "QMDA71556966"
+  },
+  {
+    "title": "Conqueror Worm",
+    "artist": "NimphaioN",
+    "isrc": "RUA1D2154711"
+  },
+  {
+    "title": "The Exorcists",
+    "artist": "Nox Aeterna",
+    "isrc": "QZDA52059604"
+  },
+  {
+    "title": "Angel of the Damned",
+    "artist": "NÉMESIS",
+    "isrc": "GBSMU3071839"
+  },
+  {
+    "title": "Of Most Resistance - Single Version",
+    "artist": "Omnisium",
+    "isrc": "QZES92446972"
+  },
+  {
+    "title": "Her",
+    "artist": "Qliphoth",
+    "isrc": "uscgh1925573"
+  },
+  {
+    "title": "Tövöstánc",
+    "artist": "Scerra",
+    "isrc": "HUA631200337"
+  },
+  {
+    "title": "A Lifetime of War",
+    "artist": "Screams of Vengeance",
+    "isrc": "TCAEM1970181"
+  },
+  {
+    "title": "Providence",
+    "artist": "Seal of Solomon",
+    "isrc": "ITO371402336"
+  },
+  {
+    "title": "Nightmare Circus",
+    "artist": "Silent Opera",
+    "isrc": "DER371485102"
+  },
+  {
+    "title": "The Forgotten War",
+    "artist": "Starforger",
+    "isrc": "QZFYX2163599"
+  },
+  {
+    "title": "Wasteland",
+    "artist": "The Seer",
+    "isrc": "QZFYX1950813"
+  },
+  {
+    "title": "Catatonic Continuum",
+    "artist": "Theomania",
+    "isrc": "FIMI71800003"
+  },
+  {
+    "title": "The Storm",
+    "artist": "Winterbreed",
+    "isrc": "ESA011982882"
+  },
+  {
+    "title": "Voices in the Sky",
+    "artist": "Brymir",
+    "isrc": "ATN262212301"
+  },
+  {
+    "title": "Cosmic Warfare",
+    "artist": "Atavistia",
+    "isrc": "FR10S2332068"
+  },
+  {
+    "title": "Severed",
+    "artist": "Crepuscle",
+    "isrc": "ushm91949887"
+  },
+  {
+    "title": "Non-Dreaming Eye",
+    "artist": "Meadows End",
+    "isrc": "SE5DN1805105"
+  },
+  {
+    "title": "Dawn",
+    "artist": "Black Forest",
+    "isrc": "ATEH91800104"
+  },
+  {
+    "title": "Among the Lost",
+    "artist": "Kambrium",
+    "isrc": "DER371174902"
+  },
+  {
+    "title": "Dying to Live",
+    "artist": "Eternal Delyria",
+    "isrc": "QZFZ22021491"
+  },
+  {
+    "title": "The Sovereign",
+    "artist": "Aephanemer",
+    "isrc": "ATN261990702"
+  },
+  {
+    "title": "Beyond the Veil of Time",
+    "artist": "Inthraced",
+    "isrc": "QZDA81947271"
+  },
+  {
+    "title": "New Dominion",
+    "artist": "Silent Line",
+    "isrc": "QZDA52173957"
+  },
+  {
+    "title": "Strike!",
+    "artist": "Whispered",
+    "isrc": "FIRED1600002"
+  },
+  {
+    "title": "Winter Wanderer",
+    "artist": "Eonian",
+    "isrc": "QZHN52138875"
+  },
+  {
+    "title": "Friendship",
+    "artist": "Crowheart",
+    "isrc": "QZFYZ2472273"
+  },
+  {
+    "title": "A Dying Star",
+    "artist": "Sacrificed Alliance",
+    "isrc": "TCACP1609069"
+  },
+  {
+    "title": "Starborn",
+    "artist": "Gladenfold",
+    "isrc": "ATN268003701"
+  },
+  {
+    "title": "The Journey Ends",
+    "artist": "Fading Aeon",
+    "isrc": "QZ4JJ1931474"
+  },
+  {
+    "title": "Dark Alliance",
+    "artist": "Eternal Tears Of Sorrow",
+    "isrc": "FIKHY1200075"
+  },
+  {
+    "title": "Shotgun Symphony",
+    "artist": "Blind Stare",
+    "isrc": "GX8LD2230361"
+  },
+  {
+    "title": "March of the Antichrist",
+    "artist": "Path of Destiny",
+    "isrc": "DEQD61200579"
+  },
+  {
+    "title": "The Pretender",
+    "artist": "Starkill",
+    "isrc": "QZDA62150395"
+  },
+  {
+    "title": "Anthem",
+    "artist": "Serenity In Murder",
+    "isrc": "TCJPO2164981"
+  },
+  {
+    "title": "Our Demise",
+    "artist": "Solemnity",
+    "isrc": "UKXDE2000005"
+  },
+  {
+    "title": "Brotherslayer - 2018 version",
+    "artist": "Warfarer",
+    "isrc": "FIPUU1800001"
+  },
+  {
+    "title": "The Covert King",
+    "artist": "Gravecloud",
+    "isrc": "QZTAT2371008"
+  },
+  {
+    "title": "The Third Pillar",
+    "artist": "Ghosts Of Atlantis",
+    "isrc": "SE5DN2101001"
+  },
+  {
+    "title": "There's No Place for Life",
+    "artist": "Monumentum Damnati",
+    "isrc": "ESA012225478"
+  },
+  {
+    "title": "To Serve the Pestilence",
+    "artist": "Northern Genocide",
+    "isrc": "FINGC2300001"
+  },
+  {
+    "title": "A Wall of Certainty",
+    "artist": "Helioss",
+    "isrc": "ESA012044284"
+  },
+  {
+    "title": "Blinded by Destiny",
+    "artist": "Vagrant",
+    "isrc": "QM6P42032184"
+  },
+  {
+    "title": "Devilborn (1674)",
+    "artist": "Tragederia",
+    "isrc": "USDHM1718885"
+  },
+  {
+    "title": "Worlds of Agony",
+    "artist": "Tartarum",
+    "isrc": "GBSMU7099258"
+  },
+  {
+    "title": "To Be Human Is to Be Inhuman",
+    "artist": "Journey Into Darkness",
+    "isrc": "QZK6Q2028308"
+  },
+  {
+    "title": "Armada",
+    "artist": "Obsidieth",
+    "isrc": "usx9p0970026"
+  },
+  {
+    "title": "Lone Wolf",
+    "artist": "Khrysaor",
+    "isrc": "GB-SMU-23-84490"
+  },
+  {
+    "title": "Heathen on Earth",
+    "artist": "Yrzen",
+    "isrc": "TCAGJ2248679"
+  },
+  {
+    "title": "Metro 2033",
+    "artist": "Nepumuc",
+    "isrc": "QZHN51922536"
+  },
+  {
+    "title": "Cold Embrace",
+    "artist": "Dark Lunacy",
+    "isrc": "IT0681100584"
+  },
+  {
+    "title": "One for Blood",
+    "artist": "Neverus",
+    "isrc": "NL7NQ2200008"
+  },
+  {
+    "title": "Empire of Loss",
+    "artist": "Gone in April",
+    "isrc": "TCAEJ1937939"
+  },
+  {
+    "title": "Inferno",
+    "artist": "Starwraith",
+    "isrc": "QZFZ22185067"
+  },
+  {
+    "title": "Son of Perdition",
+    "artist": "Hollenthon",
+    "isrc": "ATN260824203"
+  },
+  {
+    "title": "Occupation",
+    "artist": "Suodeth",
+    "isrc": "GBMA22302767"
+  },
+  {
+    "title": "Beati Pauperes Spiritu",
+    "artist": "Axis Mundi",
+    "isrc": "QZHN72280316"
+  },
+  {
+    "title": "Eximus",
+    "artist": "Spectral Resonanze",
+    "isrc": "QZNJX2186009"
+  },
+  {
+    "title": "Final Stand",
+    "artist": "Obliteration Imminent",
+    "isrc": "QZB4J1890508"
+  },
+  {
+    "title": "Empyrean",
+    "artist": "Zgripsorum",
+    "isrc": "QZK6F2142247"
+  },
+  {
+    "title": "iΔÆA",
+    "artist": "Neperia",
+    "isrc": "QZHN72204804"
+  },
+  {
+    "title": "Clockwork in the Past",
+    "artist": "InHuman",
+    "isrc": "NLL6R2001127"
+  },
+  {
+    "title": "Nine Divines",
+    "artist": "Drearyym",
+    "isrc": "QZAPG1877106"
+  },
+  {
+    "title": "Sabaoth Arise",
+    "artist": "Renascent",
+    "isrc": "QZ2YY1600006"
+  },
+  {
+    "title": "Countdown to Extinction",
+    "artist": "Until We Die",
+    "isrc": "QZ4JJ1631859"
+  },
+  {
+    "title": "Behold, Sycroburion",
+    "artist": "Haemic",
+    "isrc": "QZFZ32078494"
+  },
+  {
+    "title": "Point of No Return",
+    "artist": "The World Within",
+    "isrc": "USJ3V1803233"
+  },
+  {
+    "title": "Heathenwulf",
+    "artist": "Suffocate the Skies",
+    "isrc": "usl4r2011607"
+  },
+  {
+    "title": "Elements",
+    "artist": "Arthemion",
+    "isrc": "QZDA82086165"
+  },
+  {
+    "title": "Secret Garden",
+    "artist": "Era of ephemeris",
+    "isrc": "SEXAT2001601"
+  },
+  {
+    "title": "Ride On, Spirit",
+    "artist": "Brymir",
+    "isrc": "FIRAN1800091"
+  },
+  {
+    "title": "Fault Line",
+    "artist": "Crepuscle",
+    "isrc": "ushm91949886"
+  },
+  {
+    "title": "Ethereal Wanderer",
+    "artist": "Atavistia",
+    "isrc": "FR10S2332069"
+  },
+  {
+    "title": "This Coming Nightfall",
+    "artist": "Meadows End",
+    "isrc": "uscgj1417269"
+  },
+  {
+    "title": "Dream",
+    "artist": "Black Forest",
+    "isrc": "ATEH91800106"
+  },
+  {
+    "title": "From Skin to Rust",
+    "artist": "Eternal Delyria",
+    "isrc": "QZFZ32014010"
+  },
+  {
+    "title": "Cybernetic Overload",
+    "artist": "Kambrium",
+    "isrc": "ATN268002702"
+  },
+  {
+    "title": "Le Radeau de La Méduse",
+    "artist": "Aephanemer",
+    "isrc": "ATN262108004"
+  },
+  {
+    "title": "Interstellar",
+    "artist": "Inthraced",
+    "isrc": "QZFYX1962056"
+  },
+  {
+    "title": "A Quiet Condition",
+    "artist": "Silent Line",
+    "isrc": "QZDA52173956"
+  },
+  {
+    "title": "Lay All Your Love On Me",
+    "artist": "Eonian, Christopher Amott",
+    "isrc": "QZTAZ2224914"
+  },
+  {
+    "title": "Sakura Omen",
+    "artist": "Whispered",
+    "isrc": "FIRED1600004"
+  },
+  {
+    "title": "Tycoon",
+    "artist": "Crowheart",
+    "isrc": "QZES71835621"
+  },
+  {
+    "title": "The Price of Innocence",
+    "artist": "Sacrificed Alliance",
+    "isrc": "TCACP1609064"
+  },
+  {
+    "title": "Beyond the Veil",
+    "artist": "Fading Aeon",
+    "isrc": "QZ4JJ1931473"
+  },
+  {
+    "title": "Prophetian",
+    "artist": "Eternal Tears Of Sorrow",
+    "isrc": "FIUM71300320"
+  },
+  {
+    "title": "Brothers",
+    "artist": "Gladenfold",
+    "isrc": "DEZ901900261"
+  },
+  {
+    "title": "Mind's Armor",
+    "artist": "Blind Stare",
+    "isrc": "FI3FC1207102"
+  },
+  {
+    "title": "From Heaven They Fall",
+    "artist": "Path of Destiny",
+    "isrc": "DEQD61200577"
+  },
+  {
+    "title": "Leaves Burned To Ashes",
+    "artist": "Serenity In Murder",
+    "isrc": "TCJPO2165022"
+  },
+  {
+    "title": "Detonate",
+    "artist": "Starkill",
+    "isrc": "QZES81908183"
+  },
+  {
+    "title": "Pray for the Light",
+    "artist": "Solemnity",
+    "isrc": "QZES52099505"
+  },
+  {
+    "title": "Dirge of the Wind",
+    "artist": "Warfarer",
+    "isrc": "FI-PUU-17-00003"
+  },
+  {
+    "title": "The Fall of Man",
+    "artist": "Gravecloud",
+    "isrc": "QZRP52119868"
+  },
+  {
+    "title": "The Lycaon King",
+    "artist": "Ghosts Of Atlantis",
+    "isrc": "NLWJ22300339"
+  },
+  {
+    "title": "In the Tomb of a Forgotten King",
+    "artist": "Monumentum Damnati",
+    "isrc": "ESA012225480"
+  },
+  {
+    "title": "Para Bellum",
+    "artist": "Northern Genocide",
+    "isrc": "FINGC2300008"
+  },
+  {
+    "title": "... Et Dieu se Tut",
+    "artist": "Helioss",
+    "isrc": "ESA012044283"
+  }
+]

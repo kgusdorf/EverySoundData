@@ -1,0 +1,597 @@
+[
+  {
+    "title": "Tik dzintars vien",
+    "artist": "Ojārs Grīnbergs",
+    "isrc": "USA561425116"
+  },
+  {
+    "title": "Baltā saule",
+    "artist": "Margarita Vilcāne, Raimonds Pauls",
+    "isrc": "LVA100200002"
+  },
+  {
+    "title": "Sanāciet, sadziediet, sasadancojiet",
+    "artist": "Viktors Lapčenoks",
+    "isrc": "USA370580627"
+  },
+  {
+    "title": "Manai Dzimtenei",
+    "artist": "Nora Bumbiere un Viktors Lapčenoks",
+    "isrc": "USA370580580"
+  },
+  {
+    "title": "Nepareiza Dziesma",
+    "artist": "Dālderi",
+    "isrc": "USA370580897"
+  },
+  {
+    "title": "Brauciet lēnām pār tiltu",
+    "artist": "Jānis Paukštello, Raimonds Pauls",
+    "isrc": "MRVX20109405"
+  },
+  {
+    "title": "Ģenoveva",
+    "artist": "Žoržs Siksna",
+    "isrc": "LVA100600274"
+  },
+  {
+    "title": "Tik Un Tā",
+    "artist": "Uldis Stabulnieks",
+    "isrc": "LVA100200185"
+  },
+  {
+    "title": "Tāpēc jau",
+    "artist": "Edgars Liepiņš",
+    "isrc": "USA370580227"
+  },
+  {
+    "title": "Salds Itāliešu kino",
+    "artist": "Nora Bumbiere, Viktors Lapčenoks, Modo",
+    "isrc": "USA370580587"
+  },
+  {
+    "title": "Tu Būsi Vēl",
+    "artist": "Vaidava",
+    "isrc": "QM6P41405534"
+  },
+  {
+    "title": "Deviņvīru Spēks",
+    "artist": "Andrejs Lihtenbergs",
+    "isrc": "QM7281496546"
+  },
+  {
+    "title": "Mežrozīte",
+    "artist": "Zigfrīds Račiņš",
+    "isrc": "LVC100600001"
+  },
+  {
+    "title": "Mammu, Es Gribu",
+    "artist": "Sipoli",
+    "isrc": "QM6P41401086"
+  },
+  {
+    "title": "Pasaule, Pasaulīt",
+    "artist": "Eolika",
+    "isrc": "QM4TX2302267"
+  },
+  {
+    "title": "Svešā zemē stādu rozes",
+    "artist": "Larisa Mondrusa",
+    "isrc": "USA370580661"
+  },
+  {
+    "title": "Laternu Stundā",
+    "artist": "Raimonds Pauls, Nora Bumbiere, Viktors Lapčenoks",
+    "isrc": "LVA051000003"
+  },
+  {
+    "title": "Ceļu policistu dziesma",
+    "artist": "Mūžīgais unisons",
+    "isrc": "LVA051402111"
+  },
+  {
+    "title": "Kad Nekas Nav Palicis Tevi",
+    "artist": "Imants Skrastins",
+    "isrc": "USA370580127"
+  },
+  {
+    "title": "Zied Ievas Siguldā",
+    "artist": "Andris Daņiļenko",
+    "isrc": "LVA100600133"
+  },
+  {
+    "title": "Atgriežoties",
+    "artist": "Adrians Kukuvass",
+    "isrc": "LVF331400051"
+  },
+  {
+    "title": "Vasara Sauc",
+    "artist": "Jānis Zābers",
+    "isrc": "QM7281472650"
+  },
+  {
+    "title": "Akāciju Palags",
+    "artist": "Austra Pumpure, Ieva Akuratere",
+    "isrc": "LVA109500388"
+  },
+  {
+    "title": "Un Tieši Tāpēc!",
+    "artist": "Miers un Bērziņš",
+    "isrc": "LVA101200015"
+  },
+  {
+    "title": "Paldies",
+    "artist": "Daiga Petkevica, Normunds Jaušonoks",
+    "isrc": "QM4TW1566459"
+  },
+  {
+    "title": "Maza Zala Vardite",
+    "artist": "Aktieru Ansamblis Ilga\"\"",
+    "isrc": "LVA100700082"
+  },
+  {
+    "title": "Minikleitiņa",
+    "artist": "Aleksandrs Kublinskis, Eolika",
+    "isrc": "QMDA61874365"
+  },
+  {
+    "title": "Lelle",
+    "artist": "Aino Bāliņa",
+    "isrc": "QM7281472641"
+  },
+  {
+    "title": "Tikai Nesaki Nevienam",
+    "artist": "Aivars Brīze, Elita Veidemane",
+    "isrc": "QM6N21408672"
+  },
+  {
+    "title": "Krakovjaks",
+    "artist": "Alberts Mednis",
+    "isrc": "LVA320800072"
+  },
+  {
+    "title": "Sarma",
+    "artist": "Aleksandrs Daškovs",
+    "isrc": "QM7281475281"
+  },
+  {
+    "title": "Cauri Pilsētai",
+    "artist": "Arnolds Liniņš",
+    "isrc": "QM7281472640"
+  },
+  {
+    "title": "Zilais Karbunkuls",
+    "artist": "Dailes teātra aktieri",
+    "isrc": "QMFMF1403849"
+  },
+  {
+    "title": "Kur Tu Biji?",
+    "artist": "Bruno Oja, DJ Uga",
+    "isrc": "TCAGS2384902"
+  },
+  {
+    "title": "Lai tik līst",
+    "artist": "Edgars Zveja, Raimonds Pauls",
+    "isrc": "MRVX20109303"
+  },
+  {
+    "title": "Zilais Lakatiņš",
+    "artist": "Eduards Rozenštrauhs",
+    "isrc": "LVA109500260"
+  },
+  {
+    "title": "Par Vēju, Tevi Un Mani",
+    "artist": "Eriks Kamaruts",
+    "isrc": "QM7281496555"
+  },
+  {
+    "title": "Nes mani vēl - Likteņdzirnas",
+    "artist": "Ivars Kalnins, Raimonds Pauls, Ojārs Vācietis",
+    "isrc": "QM6P41710155"
+  },
+  {
+    "title": "Paņemt Tevi Aiz Rokas",
+    "artist": "Ivars Rutmanis",
+    "isrc": "QM6P41401090"
+  },
+  {
+    "title": "Balle Baložos",
+    "artist": "Jātnieki",
+    "isrc": "LVA101100239"
+  },
+  {
+    "title": "Pidirallā",
+    "artist": "Janis Are",
+    "isrc": "QZS1Z1636792"
+  },
+  {
+    "title": "Kad Kastaņi Krīt",
+    "artist": "Jānis Krūzītis",
+    "isrc": "QM7281472651"
+  },
+  {
+    "title": "Vakara Saulei",
+    "artist": "Laima Sproģe",
+    "isrc": "QM6P41403843"
+  },
+  {
+    "title": "Popūrijs",
+    "artist": "Liepājas Kvartets",
+    "isrc": "QM6P41401093"
+  },
+  {
+    "title": "Es Neesmu Burve",
+    "artist": "Lolita Vambute",
+    "isrc": "QM6P41403849"
+  },
+  {
+    "title": "Nāk Nakts!",
+    "artist": "Metronoms",
+    "isrc": "QM6P41401083"
+  },
+  {
+    "title": "Figaro",
+    "artist": "Mara Krievkalne",
+    "isrc": "LVC100800001"
+  },
+  {
+    "title": "Lauku Gurkis Rigas Tirgu",
+    "artist": "Nora Bumbiere, Viktors Lapcenoks",
+    "isrc": "USA370580187"
+  },
+  {
+    "title": "Tur Es Dzēru, Tur Man Tika",
+    "artist": "Parlaments",
+    "isrc": "LVA100900142"
+  },
+  {
+    "title": "Dziesma Par Četriem Baltiem Krekliem",
+    "artist": "Pauls Butkevičs",
+    "isrc": "LVA109600227"
+  },
+  {
+    "title": "Laša kundze bola acis",
+    "artist": "Rūdolfs Bērziņš",
+    "isrc": "LVA109600223"
+  },
+  {
+    "title": "Dziesmiņa Par Parīzi",
+    "artist": "Rūdolfs Plēpis",
+    "isrc": "QMFMF1403865"
+  },
+  {
+    "title": "Par Visu Maksāju Es Dārgi",
+    "artist": "Sandra Ozolīte",
+    "isrc": "QM6P41403850"
+  },
+  {
+    "title": "Tā tas ir",
+    "artist": "Sieviešu vokālais ansamblis",
+    "isrc": "LVC100800006"
+  },
+  {
+    "title": "Rudens Rozes",
+    "artist": "Valentīna Butāne",
+    "isrc": "QM7281472647"
+  },
+  {
+    "title": "Uz Laukiem Prom",
+    "artist": "Valmieras teātra aktieri",
+    "isrc": "QMFMF1403856"
+  },
+  {
+    "title": "Zēns Paņēma Līgaviņu",
+    "artist": "Zdislavs Romanovskis",
+    "isrc": "QM7281496550"
+  },
+  {
+    "title": "Ceriņi",
+    "artist": "Zigismunds Lorencs",
+    "isrc": "QM6P41403848"
+  },
+  {
+    "title": "Lilioma Dziesma",
+    "artist": "Ģirts Jakovļevs",
+    "isrc": "QMFMF1403867"
+  },
+  {
+    "title": "Margarita",
+    "artist": "Ojārs Grīnbergs, Margarita Vilcāne",
+    "isrc": "LVA100200310"
+  },
+  {
+    "title": "Man Šodien 18 Gadu",
+    "artist": "Margarita Vilcāne",
+    "isrc": "QM7281472639"
+  },
+  {
+    "title": "Pēc Simt' Gadiem Piebalgā",
+    "artist": "Viktors Lapčenoks",
+    "isrc": "LVA100600136"
+  },
+  {
+    "title": "Dzeltenie Aizskari",
+    "artist": "Dālderi",
+    "isrc": "QM6P41401085"
+  },
+  {
+    "title": "Dzel mani sauli",
+    "artist": "Nora Bumbiere un Viktors Lapčenoks",
+    "isrc": "USA370580568"
+  },
+  {
+    "title": "Cielaviņa",
+    "artist": "Jānis Paukštello",
+    "isrc": "LVA100600135"
+  },
+  {
+    "title": "Jel, dod man bučiņ'",
+    "artist": "Žoržs Siksna",
+    "isrc": "LVA109600215"
+  },
+  {
+    "title": "Ejot Cauri Rudziem",
+    "artist": "Uldis Stabulnieks, Rita Trence",
+    "isrc": "LVA100200293"
+  },
+  {
+    "title": "Trīs runči",
+    "artist": "Edgars Liepiņš",
+    "isrc": "USA370580224"
+  },
+  {
+    "title": "Skauģu dziesmiņa",
+    "artist": "Nora Bumbiere, Viktors Lapčenoks",
+    "isrc": "USA370580595"
+  },
+  {
+    "title": "Pusnakts Stundā",
+    "artist": "Vaidava, Roberts Lejasmeijers, Reverss",
+    "isrc": "QMFMF1492919"
+  },
+  {
+    "title": "Vakara Dziesma",
+    "artist": "Andrejs Lihtenbergs",
+    "isrc": "QM7281496551"
+  },
+  {
+    "title": "Vakardiena",
+    "artist": "Zigfrīds Račiņš",
+    "isrc": "LVC100600017"
+  },
+  {
+    "title": "Dvēselīte",
+    "artist": "Sipoli",
+    "isrc": "LVA109600043"
+  },
+  {
+    "title": "Es Neesmu Džeina Fonda",
+    "artist": "Eolika",
+    "isrc": "LVA109600148"
+  },
+  {
+    "title": "Neticu, ka tā var izgaist mīla",
+    "artist": "Larisa Mondrusa",
+    "isrc": "USA370580660"
+  },
+  {
+    "title": "Muļķe sirds",
+    "artist": "Raimonds Pauls, Žoržs Siksna",
+    "isrc": "MRVX20109412"
+  },
+  {
+    "title": "Tāpēc Jau, Ka Nevar Zināt...",
+    "artist": "Mūžīgais unisons, Valdies Liepiņš, Artis Robežnieks",
+    "isrc": "LVA100600145"
+  },
+  {
+    "title": "Un Kamer Mazs",
+    "artist": "Imants Skrastins",
+    "isrc": "USA370580126"
+  },
+  {
+    "title": "Kad Klētiņā Dusēsi",
+    "artist": "Andris Daņiļenko",
+    "isrc": "QM4TX1579875"
+  },
+  {
+    "title": "Krīt visbaltākie sniegi",
+    "artist": "Adrians Kukuvass",
+    "isrc": "QMFMF1532531"
+  },
+  {
+    "title": "Brīnos es",
+    "artist": "Alfrēds Kalniņš, Jānis Zābers, Vilma Cīrule",
+    "isrc": "LVL152100970"
+  },
+  {
+    "title": "Upe nesa ozoliņu",
+    "artist": "Austra Pumpure",
+    "isrc": "LVF311400096"
+  },
+  {
+    "title": "Zemeņu lauks",
+    "artist": "Miers un Bērziņš",
+    "isrc": "LVA101200023"
+  },
+  {
+    "title": "Rudenī Vēlu",
+    "artist": "Daiga Petkevica, Normunds Jakusonoks",
+    "isrc": "LVA100700012"
+  },
+  {
+    "title": "Sulamite",
+    "artist": "Aktieru Ansamblis Ilga\"\"",
+    "isrc": "LVA100700047"
+  },
+  {
+    "title": "Noktrine",
+    "artist": "Aleksandrs Kublinskis, Eolika",
+    "isrc": "LVA051402335"
+  },
+  {
+    "title": "Reiz nāksi tu",
+    "artist": "Aino Bāliņa, Raimonds Pauls",
+    "isrc": "MRVX20109302"
+  },
+  {
+    "title": "Deviņvīru spēks",
+    "artist": "Aivars Brīze",
+    "isrc": "LVA109900132"
+  },
+  {
+    "title": "Put Vejini",
+    "artist": "Alberts Mednis",
+    "isrc": "LVA320800085"
+  },
+  {
+    "title": "Sniegpulkstenītis",
+    "artist": "Arnolds Liniņš",
+    "isrc": "QM7281475272"
+  },
+  {
+    "title": "Tas Trakais Kavalieru Gads",
+    "artist": "Dailes teātra aktieri",
+    "isrc": "QMFMF1403869"
+  },
+  {
+    "title": "Silavas Valsis",
+    "artist": "Edgars Zveja, Valentīna Butāne",
+    "isrc": "QM7281472646"
+  },
+  {
+    "title": "Jāņu nakts",
+    "artist": "Eduards Rozenštrauhs",
+    "isrc": "LVA100500105"
+  },
+  {
+    "title": "Ak, Skaista Jauniba",
+    "artist": "Eriks Kamaruts",
+    "isrc": "USA370580188"
+  },
+  {
+    "title": "Bizes",
+    "artist": "Ivars Kalnins",
+    "isrc": "LVA100700406"
+  },
+  {
+    "title": "Rīmju polka",
+    "artist": "Janis Are",
+    "isrc": "QZS1Z1636603"
+  },
+  {
+    "title": "Sens Ir Tas Stāsts",
+    "artist": "Ojārs Grīnbergs",
+    "isrc": "LVA100600139"
+  },
+  {
+    "title": "Kādēļ Vēlu Nāci Tu?",
+    "artist": "Margarita Vilcāne, Ojārs Grīnbergs",
+    "isrc": "LVA100100186"
+  },
+  {
+    "title": "Vecpiebalgas Ūdensrozes",
+    "artist": "Viktors Lapčenoks",
+    "isrc": "LVA109500267"
+  },
+  {
+    "title": "Veja stunda",
+    "artist": "Nora Bumbiere un Viktors Lapčenoks",
+    "isrc": "USA370580570"
+  },
+  {
+    "title": "Anno Domini",
+    "artist": "Dālderi",
+    "isrc": "USA370580893"
+  },
+  {
+    "title": "Jā, Šos Vārdus",
+    "artist": "Jānis Paukštello",
+    "isrc": "QMFMF1403859"
+  },
+  {
+    "title": "Mans Bišu Koks",
+    "artist": "Uldis Stabulnieks",
+    "isrc": "LVA100200303"
+  },
+  {
+    "title": "Vālodzīte",
+    "artist": "Žoržs Siksna",
+    "isrc": "QM6N22285479"
+  },
+  {
+    "title": "Nerātnā Dziesma",
+    "artist": "Edgars Liepiņš, Maija Lusena",
+    "isrc": "QM4TX1552973"
+  },
+  {
+    "title": "Autobraucēju dziesmiņa",
+    "artist": "Nora Bumbiere, Viktors Lapčenoks",
+    "isrc": "USA370580596"
+  },
+  {
+    "title": "Kafijpupiņas",
+    "artist": "Vaidava",
+    "isrc": "LVA100800219"
+  },
+  {
+    "title": "Ieva",
+    "artist": "Andrejs Lihtenbergs",
+    "isrc": "LVA101000078"
+  },
+  {
+    "title": "Kā Kuģiem Ardievas Mēs Saucam",
+    "artist": "Zigfrīds Račiņš",
+    "isrc": "QM7281472649"
+  },
+  {
+    "title": "Daugaviņa",
+    "artist": "Sipoli",
+    "isrc": "USA561408472"
+  },
+  {
+    "title": "Zemeņu Lauks",
+    "artist": "Eolika",
+    "isrc": "QM4TX2302275"
+  },
+  {
+    "title": "Zīlniece",
+    "artist": "Larisa Mondrusa",
+    "isrc": "USA370580673"
+  },
+  {
+    "title": "Ar mani atkal runā kaijas",
+    "artist": "Raimonds Pauls, Nora Bumbiere",
+    "isrc": "LVA100200205"
+  },
+  {
+    "title": "Ganāms pulks",
+    "artist": "Mūžīgais unisons",
+    "isrc": "LVA051402087"
+  },
+  {
+    "title": "Par Labu Dzivosanu",
+    "artist": "Imants Skrastins",
+    "isrc": "USA370580123"
+  },
+  {
+    "title": "Atmiņas",
+    "artist": "Andris Daņiļenko",
+    "isrc": "LVA109500268"
+  },
+  {
+    "title": "Piezvani man",
+    "artist": "Adrians Kukuvass",
+    "isrc": "LVL152004577"
+  },
+  {
+    "title": "Cavalleria rusticana: Mamma, quel vino é generoso",
+    "artist": "Pietro Mascagni, Jānis Zābers",
+    "isrc": "DEHB51279262"
+  },
+  {
+    "title": "Visskaistākās ogas pasaulē",
+    "artist": "Austra Pumpure",
+    "isrc": "QZN882220030"
+  }
+]

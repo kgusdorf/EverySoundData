@@ -1,0 +1,937 @@
+[
+  {
+    "title": "Iris - triple j Like A Version",
+    "artist": "Luca Brasi",
+    "isrc": "AUAB02300261"
+  },
+  {
+    "title": "Connect To Consume",
+    "artist": "A. Swayze & The Ghosts",
+    "isrc": "AULI01926010"
+  },
+  {
+    "title": "Nothing's Really Changed",
+    "artist": "The Sleepyheads",
+    "isrc": "QZDA61924571"
+  },
+  {
+    "title": "Unwritten - triple j Like A Version",
+    "artist": "Maddy Jane",
+    "isrc": "AUAB02001570"
+  },
+  {
+    "title": "Stranded",
+    "artist": "Sumner",
+    "isrc": "AUNV02100018"
+  },
+  {
+    "title": "Dilettantes",
+    "artist": "Lincoln Le Fevre",
+    "isrc": "USI4R1228856"
+  },
+  {
+    "title": "Childish",
+    "artist": "Kat Edwards",
+    "isrc": "AUOXM2400041"
+  },
+  {
+    "title": "Maggies Lane",
+    "artist": "Bec Stevens",
+    "isrc": "SEYOK1637653"
+  },
+  {
+    "title": "Useless Shit",
+    "artist": "Lincoln Le Fevre & The Insiders",
+    "isrc": "QM4TX1728831"
+  },
+  {
+    "title": "Simple Mistakes",
+    "artist": "The Bad Dad Orchestra",
+    "isrc": "AUNAL2300037"
+  },
+  {
+    "title": "December",
+    "artist": "Christopher Coleman Collective, Christopher Coleman",
+    "isrc": "AUHMB1500015"
+  },
+  {
+    "title": "Shitty Weather",
+    "artist": "Squid Fishing",
+    "isrc": "AUBEC2000449"
+  },
+  {
+    "title": "Crave",
+    "artist": "Little Island",
+    "isrc": "AUKWM1900001"
+  },
+  {
+    "title": "Slippery Slope",
+    "artist": "Cuban Heel",
+    "isrc": "AUBEC1922910"
+  },
+  {
+    "title": "So Lonely",
+    "artist": "Lazer Baby",
+    "isrc": "QMPKX1871136"
+  },
+  {
+    "title": "Too Scared",
+    "artist": "Jed Appleton",
+    "isrc": "TCACE1535432"
+  },
+  {
+    "title": "Bombs Been Dropped",
+    "artist": "The Surreal Estate Agents",
+    "isrc": "uscgh1722234"
+  },
+  {
+    "title": "You're Not Always On My Mind",
+    "artist": "Quivers",
+    "isrc": "AUUM72100068"
+  },
+  {
+    "title": "Help Me",
+    "artist": "Jensen",
+    "isrc": "AURKF1500004"
+  },
+  {
+    "title": "SOULACOASTA",
+    "artist": "Close Counters",
+    "isrc": "DEQ021801906"
+  },
+  {
+    "title": "MON TEMPS",
+    "artist": "Carl Renshaw",
+    "isrc": "FR2X42183229"
+  },
+  {
+    "title": "Danny",
+    "artist": "Ride the Tiger",
+    "isrc": "NLPM11620139"
+  },
+  {
+    "title": "Grow",
+    "artist": "Hurricane Youth",
+    "isrc": "QZARB1807798"
+  },
+  {
+    "title": "Astronaut",
+    "artist": "Verticoli",
+    "isrc": "QZHN32098764"
+  },
+  {
+    "title": "Surrounded",
+    "artist": "Chase City",
+    "isrc": "TCACR1691968"
+  },
+  {
+    "title": "Dogs",
+    "artist": "Slag Queens",
+    "isrc": "AUZEM1801154"
+  },
+  {
+    "title": "Copper",
+    "artist": "The Nation Blue",
+    "isrc": "AUJQ10700110"
+  },
+  {
+    "title": "Tommy Gun",
+    "artist": "Captives",
+    "isrc": "AUGAC1900001"
+  },
+  {
+    "title": "Middle of the Night",
+    "artist": "Seth Henderson, Jed Appleton, James Mackey",
+    "isrc": "AUBEC2348747"
+  },
+  {
+    "title": "Sending You My Heart",
+    "artist": "KOWL",
+    "isrc": "QM24S1702343"
+  },
+  {
+    "title": "Savage River Mine",
+    "artist": "The Dead Maggies",
+    "isrc": "AUCLH1500011"
+  },
+  {
+    "title": "The Architect",
+    "artist": "Speech Patterns",
+    "isrc": "TCADB1779356"
+  },
+  {
+    "title": "Bitches Kitchen",
+    "artist": "Guthrie",
+    "isrc": "USCGH1175848"
+  },
+  {
+    "title": "Mood Swings",
+    "artist": "New Wave Saints",
+    "isrc": "QZ8LD1737219"
+  },
+  {
+    "title": "Nothing is Broken",
+    "artist": "Paper Souls",
+    "isrc": "AUQHD1500007"
+  },
+  {
+    "title": "Brittle",
+    "artist": "Heart Beach",
+    "isrc": "AUUM71601042"
+  },
+  {
+    "title": "Blame It on the Devil",
+    "artist": "Robotikus",
+    "isrc": "QZ4851700008"
+  },
+  {
+    "title": "Stagnant",
+    "artist": "Slow Descent",
+    "isrc": "SEYOK1818887"
+  },
+  {
+    "title": "Mulberry Mouse",
+    "artist": "Alan Gogoll",
+    "isrc": "USCGH1745303"
+  },
+  {
+    "title": "God Knows",
+    "artist": "empire park.",
+    "isrc": "AUBEC1815683"
+  },
+  {
+    "title": "Virginia Slims",
+    "artist": "Héloise",
+    "isrc": "AUQYF1600006"
+  },
+  {
+    "title": "Deadman Theme",
+    "artist": "Pete Cornelius",
+    "isrc": "TCADO1836352"
+  },
+  {
+    "title": "Hammer on the Door",
+    "artist": "Treehouse",
+    "isrc": "QM4TW1793301"
+  },
+  {
+    "title": "Arcadia",
+    "artist": "EWAH & The Vision of Paradise",
+    "isrc": "AUWHI1700020"
+  },
+  {
+    "title": "Tractor",
+    "artist": "Little Ugly Girls",
+    "isrc": "AUCI11814801"
+  },
+  {
+    "title": "Little Town",
+    "artist": "Alex Vann",
+    "isrc": "QZDA52474047"
+  },
+  {
+    "title": "Apple Isle",
+    "artist": "Teresa Dixon",
+    "isrc": "QZ8251836174"
+  },
+  {
+    "title": "The Welcome",
+    "artist": "Cary Lewincamp",
+    "isrc": "AUV401100228"
+  },
+  {
+    "title": "Robin Hood",
+    "artist": "Ben Wells and the Middle Names",
+    "isrc": "AU2Q31200001"
+  },
+  {
+    "title": "My Brother And I",
+    "artist": "The Middle Names",
+    "isrc": "AU2Q31400013"
+  },
+  {
+    "title": "Feelings",
+    "artist": "Peak Body",
+    "isrc": "GB-SMU-38-87979"
+  },
+  {
+    "title": "Submarine",
+    "artist": "Enola Fall",
+    "isrc": "QZK6L2036507"
+  },
+  {
+    "title": "Bad Body",
+    "artist": "Ani Lou",
+    "isrc": "ushm91974245"
+  },
+  {
+    "title": "Four Three",
+    "artist": "All India Radio",
+    "isrc": "uscgj0700381"
+  },
+  {
+    "title": "Travelling Long",
+    "artist": "Adam Cousens",
+    "isrc": "uscgh0836983"
+  },
+  {
+    "title": "That's Gotta Hurt",
+    "artist": "Kilbey Kennedy",
+    "isrc": "AUFG02464806"
+  },
+  {
+    "title": "Last Time",
+    "artist": "Akouo",
+    "isrc": "TCABX1468469"
+  },
+  {
+    "title": "Eat Your Fucking Biscuit Mr. Quint",
+    "artist": "Bennylava",
+    "isrc": "QZ9JZ1781157"
+  },
+  {
+    "title": "Shani",
+    "artist": "Tiger Choir",
+    "isrc": "AUW631101010"
+  },
+  {
+    "title": "Norman",
+    "artist": "Bansheeland",
+    "isrc": "TCADJ1751763"
+  },
+  {
+    "title": "Dreaming of You",
+    "artist": "Zac Slater",
+    "isrc": "TCACS1679588"
+  },
+  {
+    "title": "Le Corbusier",
+    "artist": "All Fires The Fire",
+    "isrc": "USA2P1115269"
+  },
+  {
+    "title": "Take It All",
+    "artist": "Annia Baron",
+    "isrc": "AUHVG1500002"
+  },
+  {
+    "title": "Parasep Discothèque",
+    "artist": "Anthony Rochester",
+    "isrc": "QMDA61857978"
+  },
+  {
+    "title": "Time",
+    "artist": "August Wolfbiter",
+    "isrc": "QZCE61858787"
+  },
+  {
+    "title": "Egg Carton Blues",
+    "artist": "Black Hole Sugar",
+    "isrc": "QZ8LD1796052"
+  },
+  {
+    "title": "Vein",
+    "artist": "Boss Witch",
+    "isrc": "TCADX1860865"
+  },
+  {
+    "title": "I'm On The Battlefield For My Lord",
+    "artist": "Charles Du Cane",
+    "isrc": "AUNC10700386"
+  },
+  {
+    "title": "Kinda Carefree",
+    "artist": "Concrete Lines",
+    "isrc": "AUHNA1200001"
+  },
+  {
+    "title": "Too Good To Be Good",
+    "artist": "Dali and The Paper Band",
+    "isrc": "AUFG01536801"
+  },
+  {
+    "title": "Lack of Sleep",
+    "artist": "Dark Matter of Story Telling",
+    "isrc": "TCACZ1777600"
+  },
+  {
+    "title": "The Fractured Room",
+    "artist": "Filthy Little Star",
+    "isrc": "GB-SMU-36-34389"
+  },
+  {
+    "title": "Lee Roy",
+    "artist": "Let The Cat Out",
+    "isrc": "AUNC10803358"
+  },
+  {
+    "title": "Innsmouth",
+    "artist": "Lizard Johnny",
+    "isrc": "GB-SMU-28-93961"
+  },
+  {
+    "title": "Trainwreck",
+    "artist": "Meg Doherty",
+    "isrc": "AUKMI1600007"
+  },
+  {
+    "title": "Scratch",
+    "artist": "Nice Pie",
+    "isrc": "GB-SMU-34-49858"
+  },
+  {
+    "title": "IV",
+    "artist": "Oceans",
+    "isrc": "GB-SMU-34-90738"
+  },
+  {
+    "title": "I Walk To Work/Kicking A Ball Into Powerlines",
+    "artist": "Paint Your Golden Face",
+    "isrc": "GB-SMU-13-39654"
+  },
+  {
+    "title": "The Missing O",
+    "artist": "Peter Escott",
+    "isrc": "USV351496656"
+  },
+  {
+    "title": "Two Little Words (I Do)",
+    "artist": "Reuben Koops",
+    "isrc": "AUFGD1400003"
+  },
+  {
+    "title": "Priestess",
+    "artist": "Samuel Marshall",
+    "isrc": "ushm21758460"
+  },
+  {
+    "title": "All Roads",
+    "artist": "Spiral Kites",
+    "isrc": "QZES51811970"
+  },
+  {
+    "title": "Tarraleah Sunset",
+    "artist": "Tarraleah Power Station",
+    "isrc": "QZES71893657"
+  },
+  {
+    "title": "Brain Dead",
+    "artist": "Teens",
+    "isrc": "TCAEF1989010"
+  },
+  {
+    "title": "E.N.D.W.O.R.L.D.",
+    "artist": "The Ruben Reeves Band",
+    "isrc": "uscgj1752951"
+  },
+  {
+    "title": "Gravity",
+    "artist": "The Silverbeets",
+    "isrc": "AUNBH2300045"
+  },
+  {
+    "title": "Grass Is Greener",
+    "artist": "The Sin & Tonics",
+    "isrc": "ushm21260874"
+  },
+  {
+    "title": "Frost",
+    "artist": "The Steadfast Shepherd",
+    "isrc": "AUFA40900010"
+  },
+  {
+    "title": "Enough of What I Need",
+    "artist": "The Stoics",
+    "isrc": "QM6MZ1947050"
+  },
+  {
+    "title": "Far",
+    "artist": "Triangles In Heat",
+    "isrc": "TCADJ1740104"
+  },
+  {
+    "title": "Wookiee",
+    "artist": "Unleash the Nugget",
+    "isrc": "uscgj0822451"
+  },
+  {
+    "title": "Into the Ether",
+    "artist": "Violet Swells",
+    "isrc": "FRU451500017"
+  },
+  {
+    "title": "How to Make Gravy (Triple J Like a Version) [Live]",
+    "artist": "Luca Brasi",
+    "isrc": "TCADE1712305"
+  },
+  {
+    "title": "Never Forget You're Here For Them",
+    "artist": "The Sleepyheads, Tyler Richardson, Luca Brasi",
+    "isrc": "SEYOK1762204"
+  },
+  {
+    "title": "Cool Cucumber",
+    "artist": "A. Swayze & The Ghosts",
+    "isrc": "FR96X2479989"
+  },
+  {
+    "title": "Thank You and Sorry",
+    "artist": "Maddy Jane",
+    "isrc": "AUBM02000095"
+  },
+  {
+    "title": "Good Light",
+    "artist": "Sumner",
+    "isrc": "AUNV02201103"
+  },
+  {
+    "title": "Get Drunk, See Bands",
+    "artist": "Lincoln Le Fevre",
+    "isrc": "USI4R1228864"
+  },
+  {
+    "title": "Safety",
+    "artist": "Kat Edwards",
+    "isrc": "AUOXM2100579"
+  },
+  {
+    "title": "Big Worry",
+    "artist": "Bec Stevens",
+    "isrc": "AUBEC2214327"
+  },
+  {
+    "title": "Constellations",
+    "artist": "Lincoln Le Fevre & The Insiders",
+    "isrc": "QM6MZ1790862"
+  },
+  {
+    "title": "Rockin' My Heart",
+    "artist": "The Bad Dad Orchestra",
+    "isrc": "AUNAL2300033"
+  },
+  {
+    "title": "Spotify Suggests You Starry, Starry Night",
+    "artist": "Christopher Coleman Collective, Christopher Coleman",
+    "isrc": "TCACU1686927"
+  },
+  {
+    "title": "Elevator",
+    "artist": "Squid Fishing",
+    "isrc": "AUBEC2015209"
+  },
+  {
+    "title": "Hazy",
+    "artist": "Little Island",
+    "isrc": "AUKWM1700001"
+  },
+  {
+    "title": "Coins",
+    "artist": "Cuban Heel",
+    "isrc": "AUBEC2127601"
+  },
+  {
+    "title": "Enemy",
+    "artist": "Lazer Baby",
+    "isrc": "QZHNB2110592"
+  },
+  {
+    "title": "Home",
+    "artist": "Jed Appleton",
+    "isrc": "FR10S1723426"
+  },
+  {
+    "title": "If It Aint Broken",
+    "artist": "The Surreal Estate Agents",
+    "isrc": "uscgh1722228"
+  },
+  {
+    "title": "Running Through the Streets",
+    "artist": "Jensen",
+    "isrc": "AURKF1500003"
+  },
+  {
+    "title": "SOMETHING IN MY DRINK - Fouk Remix",
+    "artist": "Close Counters, Fouk, Jay Gabriel",
+    "isrc": "FR59R2165795"
+  },
+  {
+    "title": "Apparition",
+    "artist": "Quivers",
+    "isrc": "USMRG2485604"
+  },
+  {
+    "title": "Sence",
+    "artist": "Carl Renshaw",
+    "isrc": "QZDA51882683"
+  },
+  {
+    "title": "Hale",
+    "artist": "Ride the Tiger",
+    "isrc": "AUMEV1903947"
+  },
+  {
+    "title": "S.D.D.C",
+    "artist": "Hurricane Youth",
+    "isrc": "QZES71811305"
+  },
+  {
+    "title": "DFA",
+    "artist": "Verticoli",
+    "isrc": "QZHN32098768"
+  },
+  {
+    "title": "Feel It All",
+    "artist": "Chase City",
+    "isrc": "TCAFJ2163123"
+  },
+  {
+    "title": "Hazard",
+    "artist": "Slag Queens",
+    "isrc": "AUZEM1801158"
+  },
+  {
+    "title": "We Lost Everything",
+    "artist": "The Nation Blue",
+    "isrc": "AUJQ10700102"
+  },
+  {
+    "title": "Operation Time Machine",
+    "artist": "Captives",
+    "isrc": "AUGAC1900002"
+  },
+  {
+    "title": "You",
+    "artist": "Seth Henderson, Jethro Pickett",
+    "isrc": "AUBEC2348750"
+  },
+  {
+    "title": "Just Words - Lifelike Remix",
+    "artist": "KOWL, Anjulie, Lifelike",
+    "isrc": "QZ4851800002"
+  },
+  {
+    "title": "Jorgen Jorgenson",
+    "artist": "The Dead Maggies",
+    "isrc": "AUCLH1500006"
+  },
+  {
+    "title": "C.H",
+    "artist": "Speech Patterns",
+    "isrc": "TCADB1779350"
+  },
+  {
+    "title": "Last Laugh",
+    "artist": "Guthrie",
+    "isrc": "USCGH1175847"
+  },
+  {
+    "title": "Four and a Half Hours",
+    "artist": "New Wave Saints, Timmyhasheart",
+    "isrc": "QZ8LD1737217"
+  },
+  {
+    "title": "Put Me To Shame",
+    "artist": "Paper Souls",
+    "isrc": "AUQHD1500002"
+  },
+  {
+    "title": "Sleeping",
+    "artist": "Heart Beach",
+    "isrc": "AUUM71601045"
+  },
+  {
+    "title": "Bring it Back",
+    "artist": "Robotikus, Sasquin",
+    "isrc": "usdy42328584"
+  },
+  {
+    "title": "Ending Theme",
+    "artist": "Slow Descent",
+    "isrc": "SEYOK1818889"
+  },
+  {
+    "title": "Tranquiliser",
+    "artist": "empire park.",
+    "isrc": "AUBEC1716361"
+  },
+  {
+    "title": "Delicious Monster",
+    "artist": "Alan Gogoll",
+    "isrc": "USHM82076666"
+  },
+  {
+    "title": "This Is Home",
+    "artist": "Héloise",
+    "isrc": "AUQYF1500001"
+  },
+  {
+    "title": "Love and Happiness",
+    "artist": "Pete Cornelius",
+    "isrc": "TCABP1308994"
+  },
+  {
+    "title": "Stop the Ocean",
+    "artist": "Treehouse",
+    "isrc": "QM4TW1796647"
+  },
+  {
+    "title": "Vanishing Point",
+    "artist": "EWAH & The Vision of Paradise",
+    "isrc": "AUWHI1700021"
+  },
+  {
+    "title": "Jimmeh",
+    "artist": "Little Ugly Girls",
+    "isrc": "AUCI11814803"
+  },
+  {
+    "title": "Blue Heart",
+    "artist": "Alex Vann",
+    "isrc": "QZDA62041460"
+  },
+  {
+    "title": "Here We Go Again",
+    "artist": "Teresa Dixon",
+    "isrc": "AUHVW2100002"
+  },
+  {
+    "title": "Passage 11",
+    "artist": "Cary Lewincamp",
+    "isrc": "AUV401100238"
+  },
+  {
+    "title": "River",
+    "artist": "Ben Wells and the Middle Names",
+    "isrc": "AU2Q31200005"
+  },
+  {
+    "title": "Full Friends",
+    "artist": "The Middle Names",
+    "isrc": "AU2Q31300008"
+  },
+  {
+    "title": "Life's Hard",
+    "artist": "Peak Body",
+    "isrc": "GB-SMU-38-87978"
+  },
+  {
+    "title": "Little Phoenix Baby",
+    "artist": "Enola Fall",
+    "isrc": "QZDA72053998"
+  },
+  {
+    "title": "Too Late",
+    "artist": "Ani Lou",
+    "isrc": "ushm21702046"
+  },
+  {
+    "title": "Running Over Rooftops",
+    "artist": "Adam Cousens",
+    "isrc": "uscgh0836984"
+  },
+  {
+    "title": "Lo Fi Groovy",
+    "artist": "All India Radio",
+    "isrc": "uscgh0554810"
+  },
+  {
+    "title": "The Doctor",
+    "artist": "Kilbey Kennedy",
+    "isrc": "AUFG02464803"
+  },
+  {
+    "title": "Feel That (feat. Montaigne)",
+    "artist": "Akouo, Montaigne",
+    "isrc": "AUBM01700468"
+  },
+  {
+    "title": "Georgie Parker Georgie Fucking Parker",
+    "artist": "Bennylava",
+    "isrc": "QZ9JZ1781151"
+  },
+  {
+    "title": "All Time",
+    "artist": "Tiger Choir",
+    "isrc": "AUW631101011"
+  },
+  {
+    "title": "Brand New",
+    "artist": "Bansheeland",
+    "isrc": "TCADB1736079"
+  },
+  {
+    "title": "I Gotta Smile",
+    "artist": "Zac Slater",
+    "isrc": "AUBEC1713548"
+  },
+  {
+    "title": "Silent Type",
+    "artist": "All Fires The Fire",
+    "isrc": "USA2P1115263"
+  },
+  {
+    "title": "Late Nights and Lazy Sundays",
+    "artist": "Annia Baron",
+    "isrc": "AUHVG1500001"
+  },
+  {
+    "title": "Clothes I Slept In",
+    "artist": "Luca Brasi",
+    "isrc": "AUNCC1800017"
+  },
+  {
+    "title": "Spiders",
+    "artist": "The Sleepyheads",
+    "isrc": "QZK6P2266498"
+  },
+  {
+    "title": "Suddenly",
+    "artist": "A. Swayze & The Ghosts",
+    "isrc": "AULI01818550"
+  },
+  {
+    "title": "No Other Way",
+    "artist": "Maddy Jane",
+    "isrc": "AUW631101029"
+  },
+  {
+    "title": "South",
+    "artist": "Sumner",
+    "isrc": "AUNV02100143"
+  },
+  {
+    "title": "Tracey",
+    "artist": "Lincoln Le Fevre",
+    "isrc": "USI4R1228855"
+  },
+  {
+    "title": "Waiting Room",
+    "artist": "Kat Edwards",
+    "isrc": "AUOXM2400129"
+  },
+  {
+    "title": "10 Minute Drive",
+    "artist": "Bec Stevens",
+    "isrc": "AUHB21800003"
+  },
+  {
+    "title": "Undone",
+    "artist": "Lincoln Le Fevre & The Insiders",
+    "isrc": "QM6MZ1790858"
+  },
+  {
+    "title": "Birds of Prey",
+    "artist": "The Bad Dad Orchestra, Julian Moss",
+    "isrc": "AUNAL2300029"
+  },
+  {
+    "title": "Athletes & Artists Respectively",
+    "artist": "Christopher Coleman Collective, Christopher Coleman",
+    "isrc": "TCACS1650124"
+  },
+  {
+    "title": "Delusional",
+    "artist": "Squid Fishing",
+    "isrc": "QZFYZ1930509"
+  },
+  {
+    "title": "Easy Now",
+    "artist": "Little Island",
+    "isrc": "AUKWM2000001"
+  },
+  {
+    "title": "Light On",
+    "artist": "Cuban Heel",
+    "isrc": "AUBEC2135758"
+  },
+  {
+    "title": "Firebreather",
+    "artist": "Lazer Baby",
+    "isrc": "QZTB82368779"
+  },
+  {
+    "title": "Mr. Peterson",
+    "artist": "Jed Appleton",
+    "isrc": "FR10S1723418"
+  },
+  {
+    "title": "Rifle Range Road",
+    "artist": "The Surreal Estate Agents",
+    "isrc": "uscgh1722230"
+  },
+  {
+    "title": "Wake Up",
+    "artist": "Jensen",
+    "isrc": "AURKF1500001"
+  },
+  {
+    "title": "Hard to Make",
+    "artist": "Carl Renshaw",
+    "isrc": "QZES71803301"
+  },
+  {
+    "title": "THIRD GEAR - Olean Remix",
+    "artist": "Close Counters, Olean",
+    "isrc": "DEQ021801920"
+  },
+  {
+    "title": "When It Breaks",
+    "artist": "Quivers",
+    "isrc": "AUUM72100064"
+  },
+  {
+    "title": "Our Moments Pass",
+    "artist": "Ride the Tiger",
+    "isrc": "NLPM11827468"
+  },
+  {
+    "title": "Focus",
+    "artist": "Hurricane Youth",
+    "isrc": "UST8K1747803"
+  },
+  {
+    "title": "The Fear",
+    "artist": "Verticoli",
+    "isrc": "QZTBB2322236"
+  },
+  {
+    "title": "Nostalgia",
+    "artist": "Chase City",
+    "isrc": "AUMEV2254564"
+  },
+  {
+    "title": "Real 1",
+    "artist": "Slag Queens",
+    "isrc": "AUBEC1844987"
+  },
+  {
+    "title": "Damnation",
+    "artist": "The Nation Blue",
+    "isrc": "AUJQ10500101"
+  },
+  {
+    "title": "Shadow Cat (feat. Ryo Kinoshita)",
+    "artist": "Captives, Ryo Kinoshita",
+    "isrc": "AUGAC2300001"
+  },
+  {
+    "title": "Still Beating",
+    "artist": "Seth Henderson, Sam Scholfield, Tilley, Casey Costiuk",
+    "isrc": "AUBEC2348748"
+  },
+  {
+    "title": "Just Words",
+    "artist": "KOWL, Anjulie",
+    "isrc": "QZ4851700006"
+  },
+  {
+    "title": "Billy Hunt",
+    "artist": "The Dead Maggies",
+    "isrc": "AUCLH1500005"
+  },
+  {
+    "title": "Manifest",
+    "artist": "Speech Patterns",
+    "isrc": "TCADB1779352"
+  }
+]

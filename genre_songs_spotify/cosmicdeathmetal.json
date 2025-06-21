@@ -1,0 +1,612 @@
+[
+  {
+    "title": "The Acrimonious Darkness",
+    "artist": "Cosmic Putrefaction",
+    "isrc": "JMA271903621"
+  },
+  {
+    "title": "Celestial Cyst",
+    "artist": "Artificial Brain",
+    "isrc": "USN682227303"
+  },
+  {
+    "title": "Voidspawn",
+    "artist": "Chthe'ilist",
+    "isrc": "USN681610003"
+  },
+  {
+    "title": "Threads of Unknowing (The Paradigm of Linearity)",
+    "artist": "Voidceremony",
+    "isrc": "USJE72317501"
+  },
+  {
+    "title": "Death Invents Itself",
+    "artist": "Afterbirth",
+    "isrc": "USRMX2300144"
+  },
+  {
+    "title": "Churn",
+    "artist": "Ulthar",
+    "isrc": "USJE72012701"
+  },
+  {
+    "title": "The Perfect Memory (Phantasm of Aura)",
+    "artist": "Tomb Mold",
+    "isrc": "USJE72320001"
+  },
+  {
+    "title": "Sinew Censer",
+    "artist": "Spectral Voice",
+    "isrc": "USA2Z2300354"
+  },
+  {
+    "title": "Liquified Mind",
+    "artist": "Outer Heaven",
+    "isrc": "US2642348505"
+  },
+  {
+    "title": "Silent Prayers",
+    "artist": "Vale Of Pnath",
+    "isrc": "USRMX2400024"
+  },
+  {
+    "title": "Endless Waves",
+    "artist": "Inanimate Existence",
+    "isrc": "QM3LS2200000"
+  },
+  {
+    "title": "Automaton Virtulague",
+    "artist": "Wormed",
+    "isrc": "FR33T2378801"
+  },
+  {
+    "title": "(Petrified in the) Hypogean Gaol",
+    "artist": "Cryptic Shift",
+    "isrc": "QM6MZ2010288"
+  },
+  {
+    "title": "Reptilian Bloodsport",
+    "artist": "Xoth",
+    "isrc": "QZTB92389237"
+  },
+  {
+    "title": "Infinitesimal to the Infinite",
+    "artist": "Origin",
+    "isrc": "DED831700530"
+  },
+  {
+    "title": "Hammer From The Howling Void",
+    "artist": "Sulphur Aeon",
+    "isrc": "DENI12300023"
+  },
+  {
+    "title": "Amidst the Ruins",
+    "artist": "Deeds of Flesh",
+    "isrc": "USERN1008470"
+  },
+  {
+    "title": "Slave Species of the Gods",
+    "artist": "Blood Incantation",
+    "isrc": "QZJ461900001"
+  },
+  {
+    "title": "Being",
+    "artist": "Serocs",
+    "isrc": "ushm91817499"
+  },
+  {
+    "title": "Inanimate",
+    "artist": "Abysmal Dawn",
+    "isrc": "US2641423903"
+  },
+  {
+    "title": "Abdication of the Mind",
+    "artist": "Warp Chamber",
+    "isrc": "USN682023801"
+  },
+  {
+    "title": "Psychic Laceration",
+    "artist": "Universally Estranged",
+    "isrc": "QM6P42200610"
+  },
+  {
+    "title": "Cryogenian",
+    "artist": "Fractal Generator",
+    "isrc": "USHM22419307"
+  },
+  {
+    "title": "Solaris",
+    "artist": "Obscura",
+    "isrc": "DED832100202"
+  },
+  {
+    "title": "Perennial Dream",
+    "artist": "Devoid of Thought",
+    "isrc": "USHM82162796"
+  },
+  {
+    "title": "Rain Wound",
+    "artist": "Timeghoul",
+    "isrc": "SE6QE2126489"
+  },
+  {
+    "title": "When the Stars Align",
+    "artist": "Mithras",
+    "isrc": "GBUGX1600002"
+  },
+  {
+    "title": "Descending Pillars",
+    "artist": "Void Rot",
+    "isrc": "USA2P2031045"
+  },
+  {
+    "title": "Plume Of Ink Within A Vacuum",
+    "artist": "Gigan",
+    "isrc": "USRMX1700083"
+  },
+  {
+    "title": "Dormant Retribution",
+    "artist": "Odious Mortem",
+    "isrc": "USRMX1800160"
+  },
+  {
+    "title": "Arsenal of War",
+    "artist": "Frozen Soul",
+    "isrc": "GBDHC2339202"
+  },
+  {
+    "title": "all black 'vette",
+    "artist": "Astral Tomb",
+    "isrc": "QZNWR2397018"
+  },
+  {
+    "title": "Autotheist Movement I: Create",
+    "artist": "The Faceless",
+    "isrc": "USYFZ1210001"
+  },
+  {
+    "title": "Metaphysical Essence",
+    "artist": "Coexistence",
+    "isrc": "QMEU31925432"
+  },
+  {
+    "title": "Tetrastructural Minds",
+    "artist": "Vektor",
+    "isrc": "GBBPB1201762"
+  },
+  {
+    "title": "Crucible Knight",
+    "artist": "Black Hole Deity",
+    "isrc": "USHM22438824"
+  },
+  {
+    "title": "Cotard Delusion",
+    "artist": "Turris Eburnea",
+    "isrc": "uscgh2149353"
+  },
+  {
+    "title": "Azimuth",
+    "artist": "The Scalar Process",
+    "isrc": "QMEU32026370"
+  },
+  {
+    "title": "Eolith",
+    "artist": "Siderean",
+    "isrc": "NOEOK2150010"
+  },
+  {
+    "title": "Grimmenstein",
+    "artist": "Mammoth Grinder",
+    "isrc": "US2641738101"
+  },
+  {
+    "title": "Flame of Consciousness",
+    "artist": "Miscreance",
+    "isrc": "ITX1A2200001"
+  },
+  {
+    "title": "Viciously Consumed by the Unfolding Unknown",
+    "artist": "Bloodsoaked Necrovoid",
+    "isrc": "usl4r2018191"
+  },
+  {
+    "title": "Zero Gravity Massacre",
+    "artist": "Galactic Mechanics",
+    "isrc": "usdy42010971"
+  },
+  {
+    "title": "Entwined In AEther - Original Mix",
+    "artist": "Dissonance In Design",
+    "isrc": "GBKQU1315902"
+  },
+  {
+    "title": "Senseless Massacre",
+    "artist": "Rings of Saturn",
+    "isrc": "USERN1008885"
+  },
+  {
+    "title": "Utpāda",
+    "artist": "Eximperitus",
+    "isrc": "USRMX2100002"
+  },
+  {
+    "title": "Paramantra",
+    "artist": "Plasmodium",
+    "isrc": "QMEU32025951"
+  },
+  {
+    "title": "Gateways to the Necroverse",
+    "artist": "Celestial Swarm",
+    "isrc": "QZFYX2109752"
+  },
+  {
+    "title": "Black Gammon",
+    "artist": "StarGazer",
+    "isrc": "GBSMU7532756"
+  },
+  {
+    "title": "Gestation Within the Lunar Miasmic Envelope",
+    "artist": "Prosanctus Inferi",
+    "isrc": "QM4TW1726120"
+  },
+  {
+    "title": "Mere Humans",
+    "artist": "Jupiterian",
+    "isrc": "QMEU32014684"
+  },
+  {
+    "title": "Colonising The Sun",
+    "artist": "Theory In Practice",
+    "isrc": "FR6V80209249"
+  },
+  {
+    "title": "The Abyss",
+    "artist": "Putrescine",
+    "isrc": "QZES52138543"
+  },
+  {
+    "title": "Sodden Species",
+    "artist": "Visions From Beyond",
+    "isrc": "QZDA72163376"
+  },
+  {
+    "title": "The Crystal Cave",
+    "artist": "Grevlar",
+    "isrc": "SE5752493047"
+  },
+  {
+    "title": "Grapes of Wrath",
+    "artist": "Starseed",
+    "isrc": "QZDA71868195"
+  },
+  {
+    "title": "Hallucigenia",
+    "artist": "Antiverse",
+    "isrc": "UKCVA1804301"
+  },
+  {
+    "title": "The Overseer (Lunar Ascendancy)",
+    "artist": "Gods of Eden",
+    "isrc": "AU3O01501878"
+  },
+  {
+    "title": "Space Eye",
+    "artist": "Plasmodium",
+    "isrc": "USWSE1471505"
+  },
+  {
+    "title": "The Overdose of Suffering",
+    "artist": "Venus Torment",
+    "isrc": "ushm91931085"
+  },
+  {
+    "title": "...Through Withered Horizons",
+    "artist": "Cosmic Putrefaction",
+    "isrc": "USN682228301"
+  },
+  {
+    "title": "Artificial Brain",
+    "artist": "Artificial Brain",
+    "isrc": "USN682227301"
+  },
+  {
+    "title": "Into the Vaults of Ingurgitating Obscurity",
+    "artist": "Chthe'ilist",
+    "isrc": "USN681610002"
+  },
+  {
+    "title": "Writhing in the Facade of Time",
+    "artist": "Voidceremony",
+    "isrc": "USJE72317502"
+  },
+  {
+    "title": "Autoerotic Amputation",
+    "artist": "Afterbirth",
+    "isrc": "USRMX2300138"
+  },
+  {
+    "title": "Saccades",
+    "artist": "Ulthar",
+    "isrc": "USJE72316903"
+  },
+  {
+    "title": "Will of Whispers",
+    "artist": "Tomb Mold",
+    "isrc": "USJE72320003"
+  },
+  {
+    "title": "Thresholds Beyond",
+    "artist": "Spectral Voice",
+    "isrc": "QM6N21787596"
+  },
+  {
+    "title": "Pillars Of Dust",
+    "artist": "Outer Heaven",
+    "isrc": "US2642348502"
+  },
+  {
+    "title": "Voyager",
+    "artist": "Inanimate Existence",
+    "isrc": "QM3LS1900031"
+  },
+  {
+    "title": "Shadow",
+    "artist": "Vale Of Pnath",
+    "isrc": "USRMX2400026"
+  },
+  {
+    "title": "Pseudo-Horizon",
+    "artist": "Wormed",
+    "isrc": "FR33T1637601"
+  },
+  {
+    "title": "The Arctic Chasm",
+    "artist": "Cryptic Shift",
+    "isrc": "QM6MZ2010289"
+  },
+  {
+    "title": "Manuscripts of Madness",
+    "artist": "Xoth",
+    "isrc": "QZTB92389238"
+  },
+  {
+    "title": "Swarm",
+    "artist": "Origin",
+    "isrc": "DED831001122"
+  },
+  {
+    "title": "Usurper Of The Earth And Sea",
+    "artist": "Sulphur Aeon",
+    "isrc": "DENI12300024"
+  },
+  {
+    "title": "Born Then Torn Apart",
+    "artist": "Deeds of Flesh",
+    "isrc": "USERN1000490"
+  },
+  {
+    "title": "The Giza Power Plant",
+    "artist": "Blood Incantation",
+    "isrc": "QZJ461900002"
+  },
+  {
+    "title": "Nihilus",
+    "artist": "Serocs",
+    "isrc": "ushm91817500"
+  },
+  {
+    "title": "In Service of Time",
+    "artist": "Abysmal Dawn",
+    "isrc": "US2641111203"
+  },
+  {
+    "title": "Shadows of Long Forgotten Terror",
+    "artist": "Warp Chamber",
+    "isrc": "USN682023802"
+  },
+  {
+    "title": "Devoured from Another Time",
+    "artist": "Universally Estranged",
+    "isrc": "QM6P42200611"
+  },
+  {
+    "title": "Askesis",
+    "artist": "Fractal Generator",
+    "isrc": "USDY42446515"
+  },
+  {
+    "title": "Four Cereulean Ways",
+    "artist": "Devoid of Thought",
+    "isrc": "USHM82162797"
+  },
+  {
+    "title": "Akróasis",
+    "artist": "Obscura",
+    "isrc": "US2641631403"
+  },
+  {
+    "title": "Boiling in the Hourglass",
+    "artist": "Timeghoul",
+    "isrc": "SE6QE2126493"
+  },
+  {
+    "title": "Why Do We Live?",
+    "artist": "Mithras",
+    "isrc": "GBUGX1600001"
+  },
+  {
+    "title": "Telluric Dismemberment",
+    "artist": "Void Rot",
+    "isrc": "usdy42299244"
+  },
+  {
+    "title": "Elemental Transmography",
+    "artist": "Gigan",
+    "isrc": "USRMX1700082"
+  },
+  {
+    "title": "Fragmented Oblivion",
+    "artist": "Odious Mortem",
+    "isrc": "US4LA0714801"
+  },
+  {
+    "title": "milan",
+    "artist": "Astral Tomb",
+    "isrc": "QZNWR2397016"
+  },
+  {
+    "title": "Crypt of Ice",
+    "artist": "Frozen Soul",
+    "isrc": "GBDHC2018401"
+  },
+  {
+    "title": "Ancient Covenant",
+    "artist": "The Faceless",
+    "isrc": "USYFZ0801302"
+  },
+  {
+    "title": "Symbiosis of Creation",
+    "artist": "Coexistence",
+    "isrc": "QMEU31925433"
+  },
+  {
+    "title": "Charging the Void",
+    "artist": "Vektor",
+    "isrc": "GBBPB1605729"
+  },
+  {
+    "title": "Blast Pit",
+    "artist": "Black Hole Deity",
+    "isrc": "USHM22478832"
+  },
+  {
+    "title": "Malachite Mountains",
+    "artist": "Turris Eburnea",
+    "isrc": "uscgh2159780"
+  },
+  {
+    "title": "Ink Shadow",
+    "artist": "The Scalar Process",
+    "isrc": "QMEU32026366"
+  },
+  {
+    "title": "Lost on Void's Horizon",
+    "artist": "Siderean",
+    "isrc": "NOEOK2150030"
+  },
+  {
+    "title": "Pulverizer",
+    "artist": "Mammoth Grinder",
+    "isrc": "QM6P41729539"
+  },
+  {
+    "title": "Fall Apart",
+    "artist": "Miscreance",
+    "isrc": "ITX1A2200002"
+  },
+  {
+    "title": "Sol's Upheaval Debris",
+    "artist": "Cosmic Putrefaction",
+    "isrc": "USN682228302"
+  },
+  {
+    "title": "Glitch Cannon",
+    "artist": "Artificial Brain",
+    "isrc": "USN682227302"
+  },
+  {
+    "title": "Le Dernier Crépuscule",
+    "artist": "Chthe'ilist",
+    "isrc": "USN681610001"
+  },
+  {
+    "title": "Abyssic Knowledge Bequeathed",
+    "artist": "Voidceremony",
+    "isrc": "USJE72317503"
+  },
+  {
+    "title": "Devils With Dead Eyes",
+    "artist": "Afterbirth",
+    "isrc": "USRMX2300136"
+  },
+  {
+    "title": "Cephalophore",
+    "artist": "Ulthar",
+    "isrc": "USJE72316901"
+  },
+  {
+    "title": "Angelic Fabrications",
+    "artist": "Tomb Mold",
+    "isrc": "USJE72320002"
+  },
+  {
+    "title": "Lurking Gloom",
+    "artist": "Spectral Voice",
+    "isrc": "QM6N21787598"
+  },
+  {
+    "title": "Soul Remnants",
+    "artist": "Outer Heaven",
+    "isrc": "US2642348501"
+  },
+  {
+    "title": "Return to the Dream",
+    "artist": "Inanimate Existence",
+    "isrc": "QM3LS2200005"
+  },
+  {
+    "title": "Soul Offering",
+    "artist": "Vale Of Pnath",
+    "isrc": "USRMX2400025"
+  },
+  {
+    "title": "Neomorph Mindkind",
+    "artist": "Wormed",
+    "isrc": "FR33T1637602"
+  },
+  {
+    "title": "Planetary Hypnosis",
+    "artist": "Cryptic Shift",
+    "isrc": "QM6MZ2010290"
+  },
+  {
+    "title": "Sporecraft Zero",
+    "artist": "Xoth",
+    "isrc": "QZTB92389239"
+  },
+  {
+    "title": "The Aftermath",
+    "artist": "Origin",
+    "isrc": "US2640800201"
+  },
+  {
+    "title": "Devotion to the Cosmic Chaos",
+    "artist": "Sulphur Aeon",
+    "isrc": "DENI11500002"
+  },
+  {
+    "title": "Reduced to Ashes",
+    "artist": "Deeds of Flesh",
+    "isrc": "USERN1007883"
+  },
+  {
+    "title": "Inner Paths (To Outer Space)",
+    "artist": "Blood Incantation",
+    "isrc": "QZJ461900003"
+  },
+  {
+    "title": "Thanatophobia",
+    "artist": "Serocs",
+    "isrc": "ushm91817501"
+  },
+  {
+    "title": "Devouring the Essence of God",
+    "artist": "Abysmal Dawn",
+    "isrc": "US2641423904"
+  },
+  {
+    "title": "Harvesting the Life Force of a Crumbling Orb",
+    "artist": "Warp Chamber",
+    "isrc": "USN682023803"
+  }
+]

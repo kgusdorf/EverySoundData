@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Bivac",
+    "artist": "Roger Pistola",
+    "isrc": "QZFZ62231820"
+  },
+  {
+    "title": "Brilles",
+    "artist": "Jorra i Gomorra",
+    "isrc": "ES09S1900432"
+  },
+  {
+    "title": "Turista",
+    "artist": "Roig!",
+    "isrc": "GBMJG1501391"
+  },
+  {
+    "title": "Viure Sense Tu",
+    "artist": "Antònia Font",
+    "isrc": "ES8570732603"
+  },
+  {
+    "title": "Que té aquesta terra nostra",
+    "artist": "Biel Majoral",
+    "isrc": "ES8570713705"
+  },
+  {
+    "title": "Cap a la llum",
+    "artist": "Salvatge Cor",
+    "isrc": "QMDA62131661"
+  },
+  {
+    "title": "De sol a sol",
+    "artist": "Escarràs, Majava",
+    "isrc": "ESA011947447"
+  },
+  {
+    "title": "Metres per segon",
+    "artist": "Da Souza",
+    "isrc": "ES09S1900467"
+  },
+  {
+    "title": "Jota marinera",
+    "artist": "Música Nostra",
+    "isrc": "ES8480600039"
+  },
+  {
+    "title": "Saps les Meves Eines",
+    "artist": "Miquel Serra",
+    "isrc": "ES42G1900018"
+  },
+  {
+    "title": "Milions D'Estrelles",
+    "artist": "Xanguito",
+    "isrc": "ES17D2001024"
+  },
+  {
+    "title": "Cada nit",
+    "artist": "Anegats",
+    "isrc": "ES8570740703"
+  },
+  {
+    "title": "Honey",
+    "artist": "Joan Miquel Oliver",
+    "isrc": "ES5301867859"
+  },
+  {
+    "title": "Jota de la Rubia",
+    "artist": "Tramudança",
+    "isrc": "ES8570754213"
+  },
+  {
+    "title": "Illes Dins d'un Riu",
+    "artist": "Tomeu Penya",
+    "isrc": "ES8570708607"
+  },
+  {
+    "title": "Intempèrie",
+    "artist": "Saïm",
+    "isrc": "ES6492136502"
+  },
+  {
+    "title": "Fandango de Huelva",
+    "artist": "Es Revetlers",
+    "isrc": "ES8570760315"
+  },
+  {
+    "title": "Juny",
+    "artist": "XARXA, OR (O-ERRA)",
+    "isrc": "QM4TX1949296"
+  },
+  {
+    "title": "Vacasiones a Mallorca",
+    "artist": "Ossifar",
+    "isrc": "ES8570757405"
+  },
+  {
+    "title": "Bolero de ciutadella",
+    "artist": "Sis Som",
+    "isrc": "ES8570717409"
+  },
+  {
+    "title": "Tu d'on véns? - Remix",
+    "artist": "CABOT, Flat Dreams",
+    "isrc": "ES8572476501"
+  },
+  {
+    "title": "Ai ai ai (cicatriu)",
+    "artist": "Lluís Cabot, Renaldo & Clara",
+    "isrc": "ES40B2100033"
+  },
+  {
+    "title": "Dia Gris I Trist",
+    "artist": "Fora des sembrat",
+    "isrc": "ES5950200802"
+  },
+  {
+    "title": "Pa Amb Oli Nacional",
+    "artist": "Ocults",
+    "isrc": "ES8570747302"
+  },
+  {
+    "title": "Dret De Cuixa",
+    "artist": "BOC",
+    "isrc": "ESA031321201"
+  },
+  {
+    "title": "Ca de Bou",
+    "artist": "Tots Sants",
+    "isrc": "ES5060616201"
+  },
+  {
+    "title": "Sa mesura de ses coses",
+    "artist": "Majava",
+    "isrc": "ESA082401635"
+  },
+  {
+    "title": "Blues En Sol",
+    "artist": "Guillem d'Efak",
+    "isrc": "ES8570712505"
+  },
+  {
+    "title": "Com avui",
+    "artist": "Donallop",
+    "isrc": "ES6101825304"
+  },
+  {
+    "title": "Gota Entre Gotes",
+    "artist": "Marga Rotger, MARIA HEIN, Miquel Brunet, Julia Colom, Clara Fiol",
+    "isrc": "QZTVM2210750"
+  },
+  {
+    "title": "Paradís",
+    "artist": "Joana Gomila, Laia Vallès",
+    "isrc": "ES09S2000062"
+  },
+  {
+    "title": "Equilibrista Emocional",
+    "artist": "Suasi, Josep Thió",
+    "isrc": "ES80A1811408"
+  },
+  {
+    "title": "Remei",
+    "artist": "Pujà Fasuà",
+    "isrc": "QM6MZ2018963"
+  },
+  {
+    "title": "Per Quan Tu M'estimis (feat. Pep Álvarez)",
+    "artist": "Ses Bubotes, Pep Àlvarez",
+    "isrc": "ESA031600502"
+  },
+  {
+    "title": "Tsunami Newton",
+    "artist": "Ca de Bou",
+    "isrc": "ES8571972701"
+  },
+  {
+    "title": "La Dama de Mallorca",
+    "artist": "Cap Pela",
+    "isrc": "ES8570743006"
+  },
+  {
+    "title": "Un Tassó de Suc",
+    "artist": "L' Équilibriste",
+    "isrc": "ES8571870908"
+  },
+  {
+    "title": "LLIURE",
+    "artist": "Emboirats, Laura Pallicer",
+    "isrc": "ES5952406997"
+  },
+  {
+    "title": "Ésser Elèctric",
+    "artist": "Jansky",
+    "isrc": "ES8221500015"
+  },
+  {
+    "title": "Dúnia",
+    "artist": "Vers Endins, Xanguito",
+    "isrc": "QZFZ61907420"
+  },
+  {
+    "title": "Ha fallat tot",
+    "artist": "Branca Santa",
+    "isrc": "ES40B1600082"
+  },
+  {
+    "title": "Carrer Robocop",
+    "artist": "Oliva trencada",
+    "isrc": "ES5301354075"
+  },
+  {
+    "title": "Amic e Amat",
+    "artist": "Nou Romancer, Toni Gomila",
+    "isrc": "ES5301764242"
+  },
+  {
+    "title": "30 Anys",
+    "artist": "OMBRA, Anegats",
+    "isrc": "ES5612279101"
+  },
+  {
+    "title": "Siau Qui Sou",
+    "artist": "Taverners",
+    "isrc": "ES5301867554"
+  },
+  {
+    "title": "Sempre Amb Tu",
+    "artist": "Miaulos, Pep Álvarez",
+    "isrc": "ES6101800516"
+  },
+  {
+    "title": "Goigs de Sant Antoni",
+    "artist": "Sant Antoni a Manacor",
+    "isrc": "ESA011800472"
+  },
+  {
+    "title": "Ses Ninetes 2017",
+    "artist": "Posidònia",
+    "isrc": "ES8571769606"
+  },
+  {
+    "title": "Jardineres",
+    "artist": "Damià Oliver",
+    "isrc": "ESA011717708"
+  },
+  {
+    "title": "Mañanas Benjamín",
+    "artist": "Lost Fills",
+    "isrc": "QMBZ91435912"
+  },
+  {
+    "title": "Qualsevol Nit Pot Sortir el Sol",
+    "artist": "S'Arrual Jazz Mort",
+    "isrc": "ES8570730103"
+  },
+  {
+    "title": "TERMINAL 2",
+    "artist": "Go Cactus",
+    "isrc": "ES71G2410748"
+  },
+  {
+    "title": "Per qui ho necessiti",
+    "artist": "TIU",
+    "isrc": "ES80A2420605"
+  },
+  {
+    "title": "Spoiler",
+    "artist": "Roig",
+    "isrc": "BX0QM2000019"
+  },
+  {
+    "title": "Rap rural",
+    "artist": "Swing i Valtonyc, Valtonyc",
+    "isrc": "ESA011103177"
+  },
+  {
+    "title": "Monazo De Amor",
+    "artist": "La Vereda",
+    "isrc": "TCACI1553012"
+  },
+  {
+    "title": "De Colors",
+    "artist": "MEL I SUCRE",
+    "isrc": "ES8571669001"
+  },
+  {
+    "title": "Monkey Bread",
+    "artist": "Ceremoney",
+    "isrc": "ESA011718262"
+  },
+  {
+    "title": "Sa Roqueta",
+    "artist": "Es Reboster",
+    "isrc": "ES5950602003"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "Saxophobia Funk Project",
+    "isrc": "ES8571565703"
+  },
+  {
+    "title": "Someone Like You",
+    "artist": "Sexy Sadie",
+    "isrc": "FR6V80005813"
+  },
+  {
+    "title": "El Salto Del Martin",
+    "artist": "Joan Bibiloni",
+    "isrc": "NLD7H1400040"
+  },
+  {
+    "title": "Balada Para un Loco",
+    "artist": "Els Valldemossa, Alberto Cortez",
+    "isrc": "ES5302374167"
+  },
+  {
+    "title": "Que Caray!",
+    "artist": "Montenegro",
+    "isrc": "ES5301354977"
+  },
+  {
+    "title": "Inevitable",
+    "artist": "Formentera Badminton Fan Club",
+    "isrc": "ES52G1900758"
+  },
+  {
+    "title": "Salta i atrapa sa vida",
+    "artist": "Guillem Sansó",
+    "isrc": "ESA092403711"
+  },
+  {
+    "title": "Entrada A Bilbao",
+    "artist": "Germans Aloy",
+    "isrc": "ES8570759017"
+  },
+  {
+    "title": "Hey Hey",
+    "artist": "Maico",
+    "isrc": "ES71G1704510"
+  },
+  {
+    "title": "Un pis a Praga",
+    "artist": "Hijos de Matxín",
+    "isrc": "ES18B1805102"
+  },
+  {
+    "title": "Déjame Vivir",
+    "artist": "Los Primos",
+    "isrc": "ES56S1700370"
+  },
+  {
+    "title": "Que Tinguem Sort",
+    "artist": "Victoria Maldi",
+    "isrc": "ES8571667008"
+  },
+  {
+    "title": "Sa Rossa Coixa (Que No...)",
+    "artist": "Horris Kamoi",
+    "isrc": "ES8570761906"
+  },
+  {
+    "title": "La lluna de Formentor",
+    "artist": "Espiral D'Embulls",
+    "isrc": "ES8570740009"
+  },
+  {
+    "title": "Bàlitx",
+    "artist": "Xaloc Música",
+    "isrc": "ES8570741511"
+  },
+  {
+    "title": "Sa Perdiu Revetlera",
+    "artist": "iPop's",
+    "isrc": "ES8571870912"
+  },
+  {
+    "title": "Let's Talk About Love",
+    "artist": "No Room",
+    "isrc": "usl4q2026018"
+  },
+  {
+    "title": "Cant Final",
+    "artist": "Victor Ferragut, Banda de Música de Felanitx, Pere Siquier Pons",
+    "isrc": "ES5301765315"
+  },
+  {
+    "title": "Beast from Nowhere",
+    "artist": "Bay City Killers",
+    "isrc": "ES56S1900643"
+  },
+  {
+    "title": "Purple Friend",
+    "artist": "Los Valendas",
+    "isrc": "QMBZ91364672"
+  },
+  {
+    "title": "Pier",
+    "artist": "Fish Memory",
+    "isrc": "SEYOK1415965"
+  },
+  {
+    "title": "Pseudosapiens",
+    "artist": "Islanders",
+    "isrc": "AEA0D1933610"
+  },
+  {
+    "title": "El Meu Amor Sense Casa",
+    "artist": "Llunàtiques",
+    "isrc": "ES8570753905"
+  },
+  {
+    "title": "Fandango per a en Tomeu",
+    "artist": "Manteca Colorá",
+    "isrc": "ES8571566303"
+  },
+  {
+    "title": "Lluna d'Aigua",
+    "artist": "Sebastià Rigo",
+    "isrc": "ES8571769409"
+  },
+  {
+    "title": "Summer 1917",
+    "artist": "The Last Dandies",
+    "isrc": "ESA011207049"
+  },
+  {
+    "title": "Heart And Soul",
+    "artist": "The Tea Servants",
+    "isrc": "ES7460600215"
+  },
+  {
+    "title": "Havanera",
+    "artist": "Vers Endins",
+    "isrc": "ES8571870910"
+  },
+  {
+    "title": "Cercaviles de Muro a Orleans",
+    "artist": "Ximbomba Atòmica",
+    "isrc": "ES5300306105"
+  },
+  {
+    "title": "Filigrana",
+    "artist": "Roger Pistola",
+    "isrc": "ES80A1810503"
+  },
+  {
+    "title": "A Manacor",
+    "artist": "Jorra i Gomorra",
+    "isrc": "ES09S1800287"
+  },
+  {
+    "title": "Verd",
+    "artist": "Roig!",
+    "isrc": "GBMJG1501383"
+  },
+  {
+    "title": "Alegria",
+    "artist": "Antònia Font",
+    "isrc": "ES5300822325"
+  },
+  {
+    "title": "Jo Sóc Català",
+    "artist": "Biel Majoral",
+    "isrc": "ES8570750505"
+  },
+  {
+    "title": "com estimar un mirall",
+    "artist": "Salvatge Cor",
+    "isrc": "QM4TW2234137"
+  },
+  {
+    "title": "Illa de fusta",
+    "artist": "Escarràs, Roba Estesa",
+    "isrc": "ES8572075602"
+  },
+  {
+    "title": "Jota de sa guitarra",
+    "artist": "Música Nostra",
+    "isrc": "ES8480600041"
+  },
+  {
+    "title": "Fotogrames",
+    "artist": "Da Souza",
+    "isrc": "ES40B2200024"
+  },
+  {
+    "title": "Te Vendré a Cercar",
+    "artist": "Xanguito, Pau Debon",
+    "isrc": "ES17D1700265"
+  },
+  {
+    "title": "Setembre",
+    "artist": "Miquel Serra",
+    "isrc": "USA561214462"
+  },
+  {
+    "title": "Paraula de senyor",
+    "artist": "Anegats",
+    "isrc": "ES8570740710"
+  },
+  {
+    "title": "Final Feliç",
+    "artist": "Joan Miquel Oliver",
+    "isrc": "ES8570752504"
+  },
+  {
+    "title": "Fandanguet",
+    "artist": "Tramudança",
+    "isrc": "ES8570754214"
+  },
+  {
+    "title": "Celobert",
+    "artist": "Saïm",
+    "isrc": "ES6492136512"
+  },
+  {
+    "title": "Havanera",
+    "artist": "Tomeu Penya",
+    "isrc": "ES8570710502"
+  },
+  {
+    "title": "Bolero Mel",
+    "artist": "Es Revetlers",
+    "isrc": "ES8570746512"
+  },
+  {
+    "title": "Junts",
+    "artist": "XARXA, Cesk Freixas, Clara Fiol, Escarràs, Frida, Joana Gomila, Vers Endins",
+    "isrc": "QM4TX1949294"
+  },
+  {
+    "title": "L'amo En Pep de Sa Sini",
+    "artist": "Ossifar",
+    "isrc": "ES8570747001"
+  },
+  {
+    "title": "Ses boleres",
+    "artist": "Sis Som",
+    "isrc": "ES8570717417"
+  },
+  {
+    "title": "Tu d'on véns?",
+    "artist": "CABOT",
+    "isrc": "ES8572076501"
+  },
+  {
+    "title": "Verí de s'altra punta",
+    "artist": "Lluís Cabot, Maria Jaume",
+    "isrc": "ES40B2000080"
+  },
+  {
+    "title": "Mira La Mar",
+    "artist": "Fora des sembrat",
+    "isrc": "ES5950200981"
+  },
+  {
+    "title": "Hola Pilar",
+    "artist": "Ocults",
+    "isrc": "ES8570747303"
+  },
+  {
+    "title": "La Fura Dels Bocs",
+    "artist": "BOC",
+    "isrc": "ESA031321108"
+  },
+  {
+    "title": "Illa Maria",
+    "artist": "Tots Sants",
+    "isrc": "ES5060611505"
+  },
+  {
+    "title": "L'aigua és teva",
+    "artist": "Majava",
+    "isrc": "ESA082401398"
+  },
+  {
+    "title": "Febre",
+    "artist": "Guillem d'Efak",
+    "isrc": "ES8570712514"
+  },
+  {
+    "title": "Tots els motors",
+    "artist": "Donallop",
+    "isrc": "ES6102025313"
+  },
+  {
+    "title": "Això És Pecat",
+    "artist": "Marga Rotger",
+    "isrc": "ES8571870909"
+  },
+  {
+    "title": "Ses Transformacions",
+    "artist": "Joana Gomila",
+    "isrc": "ESA081600497"
+  },
+  {
+    "title": "A la Llum de la Lluna",
+    "artist": "Suasi",
+    "isrc": "ES80A2014501"
+  },
+  {
+    "title": "Flames",
+    "artist": "Pujà Fasuà",
+    "isrc": "QM6MZ2018863"
+  },
+  {
+    "title": "No Badis (feat. Agustín El Casta)",
+    "artist": "Ses Bubotes, Agustin el Casta",
+    "isrc": "ESA031439101"
+  },
+  {
+    "title": "Ca de Bou - 2018",
+    "artist": "Ca de Bou",
+    "isrc": "ES8571972712"
+  },
+  {
+    "title": "Proud Mary (Rolling on the River)",
+    "artist": "Cap Pela",
+    "isrc": "ES8570763507"
+  },
+  {
+    "title": "Entre Selma i Denver",
+    "artist": "L' Équilibriste",
+    "isrc": "ES8571566001"
+  },
+  {
+    "title": "Seguir Endavant",
+    "artist": "Emboirats",
+    "isrc": "ES5952106524"
+  },
+  {
+    "title": "Falco vs Polyphylla",
+    "artist": "Jansky",
+    "isrc": "ES8221500016"
+  },
+  {
+    "title": "A la teva manera",
+    "artist": "Vers Endins, Biel Majoral, Pau Mas, M.À. Adrover, J. Ramon Xamena, Blues Destroyers",
+    "isrc": "QZFZ61907423"
+  },
+  {
+    "title": "Arpons",
+    "artist": "Branca Santa",
+    "isrc": "ES40B1600076"
+  },
+  {
+    "title": "Alpinistes - Samurais",
+    "artist": "Oliva trencada",
+    "isrc": "ES5301150820"
+  },
+  {
+    "title": "A la Ciutat de Nàpols",
+    "artist": "Nou Romancer",
+    "isrc": "ES5061119808"
+  },
+  {
+    "title": "Espacio Vital",
+    "artist": "OMBRA",
+    "isrc": "ES71G2011340"
+  },
+  {
+    "title": "Lluitadors",
+    "artist": "Taverners",
+    "isrc": "ES5301867550"
+  },
+  {
+    "title": "Enmig De Cada Braç",
+    "artist": "Miaulos",
+    "isrc": "ES6101800517"
+  },
+  {
+    "title": "Sant Antoni (Tramudança)",
+    "artist": "Sant Antoni a Manacor",
+    "isrc": "ESA011800467"
+  },
+  {
+    "title": "Lluna",
+    "artist": "Posidònia",
+    "isrc": "ES8571769605"
+  },
+  {
+    "title": "Bicicletes",
+    "artist": "Damià Oliver",
+    "isrc": "QMBZ91900583"
+  },
+  {
+    "title": "Setembre",
+    "artist": "Lost Fills",
+    "isrc": "ES71G1306690"
+  },
+  {
+    "title": "Blues des Garrofer",
+    "artist": "S'Arrual Jazz Mort",
+    "isrc": "ES8570730107"
+  },
+  {
+    "title": "Qué pasa",
+    "artist": "Go Cactus",
+    "isrc": "ES71G2406119"
+  },
+  {
+    "title": "Fruita",
+    "artist": "TIU",
+    "isrc": "ES80A2420602"
+  },
+  {
+    "title": "100g",
+    "artist": "Roig, Neo Beats",
+    "isrc": "ushm92194354"
+  },
+  {
+    "title": "Teories",
+    "artist": "Swing i Valtonyc, Valtonyc",
+    "isrc": "ESA011103173"
+  },
+  {
+    "title": "Y Ya Está",
+    "artist": "La Vereda",
+    "isrc": "TCACI1553008"
+  },
+  {
+    "title": "Pam, pam, pam",
+    "artist": "MEL I SUCRE",
+    "isrc": "ES8572075704"
+  },
+  {
+    "title": "Five Years",
+    "artist": "Ceremoney",
+    "isrc": "QZHZ41958878"
+  },
+  {
+    "title": "Solitud",
+    "artist": "Es Reboster",
+    "isrc": "ES5950903148"
+  },
+  {
+    "title": "Oh, That Funky!",
+    "artist": "Saxophobia Funk Project",
+    "isrc": "ES8571565706"
+  },
+  {
+    "title": "Satellites",
+    "artist": "Sexy Sadie",
+    "isrc": "FR6V80311347"
+  },
+  {
+    "title": "Al final",
+    "artist": "Roger Pistola",
+    "isrc": "ES40B1400136"
+  },
+  {
+    "title": "Windom Earle",
+    "artist": "Jorra i Gomorra",
+    "isrc": "ES71G1731899"
+  },
+  {
+    "title": "Insulina i Equinàcia",
+    "artist": "Roig!",
+    "isrc": "GBMJG1501576"
+  },
+  {
+    "title": "La fruita més primerenca",
+    "artist": "Biel Majoral",
+    "isrc": "ES8570713709"
+  },
+  {
+    "title": "Calgary 88",
+    "artist": "Antònia Font",
+    "isrc": "ES21I1100007"
+  },
+  {
+    "title": "Flor de Fusta",
+    "artist": "Salvatge Cor, Maria Jaume",
+    "isrc": "ES5301968651"
+  },
+  {
+    "title": "Volant ras",
+    "artist": "Escarràs",
+    "isrc": "ES8572075601"
+  },
+  {
+    "title": "Bolero de l'amor",
+    "artist": "Música Nostra",
+    "isrc": "ES8480600047"
+  },
+  {
+    "title": "Pep",
+    "artist": "Da Souza",
+    "isrc": "ES40B2100019"
+  },
+  {
+    "title": "L'Elegància Dorm",
+    "artist": "Miquel Serra",
+    "isrc": "ES42G1900012"
+  },
+  {
+    "title": "Es missatge és clar",
+    "artist": "Anegats",
+    "isrc": "ES8570737903"
+  },
+  {
+    "title": "Sempre t’estim",
+    "artist": "Xanguito, Joan Rovira",
+    "isrc": "ES71G2404717"
+  },
+  {
+    "title": "Marès a Radial",
+    "artist": "Joan Miquel Oliver",
+    "isrc": "ES55G1500021"
+  },
+  {
+    "title": "Fandango des Migjorn",
+    "artist": "Tramudança",
+    "isrc": "ES8570754208"
+  },
+  {
+    "title": "Autumne",
+    "artist": "Saïm",
+    "isrc": "ES6492136503"
+  },
+  {
+    "title": "Fandango Llarg",
+    "artist": "Es Revetlers",
+    "isrc": "ES8570760302"
+  },
+  {
+    "title": "De Tot Cor",
+    "artist": "Tomeu Penya",
+    "isrc": "ES5060624201"
+  },
+  {
+    "title": "Llum en la nit",
+    "artist": "XARXA, Al-Mayurqa",
+    "isrc": "QM4TX1949295"
+  },
+  {
+    "title": "Sa Porsella i Es Sivil",
+    "artist": "Ossifar",
+    "isrc": "ES8570747002"
+  },
+  {
+    "title": "Fandango mallorquí",
+    "artist": "Sis Som",
+    "isrc": "ES8570717414"
+  },
+  {
+    "title": "Llengües",
+    "artist": "CABOT",
+    "isrc": "ES8571871501"
+  },
+  {
+    "title": "Més tresors que mapes",
+    "artist": "Lluís Cabot",
+    "isrc": "ES40B2000078"
+  },
+  {
+    "title": "El Nom Dels Estels",
+    "artist": "Fora des sembrat",
+    "isrc": "ES5950200803"
+  },
+  {
+    "title": "País Petit",
+    "artist": "Ocults",
+    "isrc": "ES8571406507"
+  },
+  {
+    "title": "Sa Birra Dance",
+    "artist": "BOC",
+    "isrc": "ESA031321101"
+  },
+  {
+    "title": "Afarrat a Sa Barra",
+    "artist": "Tots Sants",
+    "isrc": "ES5060616210"
+  },
+  {
+    "title": "Ses teves rareses",
+    "artist": "Majava",
+    "isrc": "ESA082401641"
+  },
+  {
+    "title": "Dissabte",
+    "artist": "Guillem d'Efak",
+    "isrc": "ES8570712507"
+  },
+  {
+    "title": "Dos dits",
+    "artist": "Donallop",
+    "isrc": "ES6101825301"
+  },
+  {
+    "title": "Així i aixà",
+    "artist": "Marga Rotger",
+    "isrc": "QM6P41913038"
+  },
+  {
+    "title": "Ses Flors",
+    "artist": "Joana Gomila, Laia Vallès",
+    "isrc": "ES09S2000066"
+  }
+]

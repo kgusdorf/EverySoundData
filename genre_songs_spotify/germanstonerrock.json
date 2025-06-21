@@ -1,0 +1,577 @@
+[
+  {
+    "title": "My First Knife Fight",
+    "artist": "Swan Valley Heights",
+    "isrc": "SEWOL1900304"
+  },
+  {
+    "title": "Justify",
+    "artist": "Samavayo",
+    "isrc": "DEMZ71783008"
+  },
+  {
+    "title": "Aquamaria",
+    "artist": "Colour Haze",
+    "isrc": "NLM930820008"
+  },
+  {
+    "title": "Exoplanet",
+    "artist": "Mother Engine",
+    "isrc": "DESC61300021"
+  },
+  {
+    "title": "Last Living Dinosaur",
+    "artist": "Kadavar",
+    "isrc": "DED831500658"
+  },
+  {
+    "title": "Volllast",
+    "artist": "Rotor",
+    "isrc": "DEAN61500722"
+  },
+  {
+    "title": "Realitaetskontrolle",
+    "artist": "Kosmodrom",
+    "isrc": "DEL211800473"
+  },
+  {
+    "title": "The Ascent",
+    "artist": "Mount Hush",
+    "isrc": "DELJ82085424"
+  },
+  {
+    "title": "I'm Free Tonight",
+    "artist": "Daily Thompson",
+    "isrc": "DEAN62401293"
+  },
+  {
+    "title": "Ephedra",
+    "artist": "My Sleeping Karma",
+    "isrc": "ATN261244703"
+  },
+  {
+    "title": "The Rat Catcher",
+    "artist": "Wucan",
+    "isrc": "DEMV91704754"
+  },
+  {
+    "title": "Guns and Greed",
+    "artist": "Monocluster",
+    "isrc": "TCAED1911495"
+  },
+  {
+    "title": "Singata (Mystic Queen)",
+    "artist": "Samsara Blues Experiment",
+    "isrc": "USTCE1036289"
+  },
+  {
+    "title": "Windhund",
+    "artist": "Nazca Space Fox",
+    "isrc": "DEUT21900127"
+  },
+  {
+    "title": "Dead Space",
+    "artist": "Mindcrawler",
+    "isrc": "DELJ82090140"
+  },
+  {
+    "title": "Devil's Bride",
+    "artist": "Paralyzed",
+    "isrc": "DEZC62258115"
+  },
+  {
+    "title": "Feed Them To The Lions",
+    "artist": "Redscale",
+    "isrc": "ITCG51911001"
+  },
+  {
+    "title": "Easy",
+    "artist": "Vug",
+    "isrc": "DEAN61900969"
+  },
+  {
+    "title": "Eagle",
+    "artist": "Galactic Superlords",
+    "isrc": "DELJ81898683"
+  },
+  {
+    "title": "Donnerwetter",
+    "artist": "Nap",
+    "isrc": "DEAN61600788"
+  },
+  {
+    "title": "Keep on Running",
+    "artist": "Travelin Jack",
+    "isrc": "DEA451705220"
+  },
+  {
+    "title": "Calice",
+    "artist": "Grin",
+    "isrc": "DEZC62499130"
+  },
+  {
+    "title": "St. Tropez",
+    "artist": "Wight",
+    "isrc": "DEYX82192169"
+  },
+  {
+    "title": "Coffin Boogie",
+    "artist": "Church Of Mental Enlightment",
+    "isrc": "DELJ81630213"
+  },
+  {
+    "title": "Future Nostalgia",
+    "artist": "Motorowl",
+    "isrc": "DEHW42413705"
+  },
+  {
+    "title": "Sounds of Illusion",
+    "artist": "Acid Rooster",
+    "isrc": "CH6542350018"
+  },
+  {
+    "title": "Rattlesnake",
+    "artist": "Black Vulpine",
+    "isrc": "QM6MZ2487178"
+  },
+  {
+    "title": "Little Owl",
+    "artist": "Willow Child",
+    "isrc": "ATDF81800007"
+  },
+  {
+    "title": "Gammal Kvinna",
+    "artist": "KVINNA",
+    "isrc": "DEUU41800188"
+  },
+  {
+    "title": "Open Forest",
+    "artist": "The Moth",
+    "isrc": "DEZ651302552"
+  },
+  {
+    "title": "Siren",
+    "artist": "Ursular",
+    "isrc": "DERK42300023"
+  },
+  {
+    "title": "Fever",
+    "artist": "Visdom",
+    "isrc": "DELJ81962859"
+  },
+  {
+    "title": "Forever Damned",
+    "artist": "Zeremony",
+    "isrc": "usdy41718170"
+  },
+  {
+    "title": "Average Man",
+    "artist": "Wolf Prayer",
+    "isrc": "FR10S1996076"
+  },
+  {
+    "title": "Cult of Helios",
+    "artist": "Iguana",
+    "isrc": "DEKA11500018"
+  },
+  {
+    "title": "All Together Now",
+    "artist": "Mandrax Queen",
+    "isrc": "QMEU31825457"
+  },
+  {
+    "title": "Fever",
+    "artist": "Liquid Silk",
+    "isrc": "DELJ81909481"
+  },
+  {
+    "title": "Echolocation",
+    "artist": "Cannahann",
+    "isrc": "FR10S1854963"
+  },
+  {
+    "title": "Down To Earth",
+    "artist": "Mount Atlas",
+    "isrc": "DEZC62335636"
+  },
+  {
+    "title": "Hunted Man",
+    "artist": "Godsground",
+    "isrc": "QZ8252047165"
+  },
+  {
+    "title": "Space Eggs",
+    "artist": "Beam Orchestra",
+    "isrc": "DELJ81896199"
+  },
+  {
+    "title": "Jangle Bowls",
+    "artist": "Pretty Lightning",
+    "isrc": "UKRNU1900156"
+  },
+  {
+    "title": "2Steps Blueskill",
+    "artist": "High Fighter",
+    "isrc": "USA2P2038939"
+  },
+  {
+    "title": "Devil on My Back",
+    "artist": "Hodja",
+    "isrc": "DKJA51200103"
+  },
+  {
+    "title": "Goddess",
+    "artist": "Maentis",
+    "isrc": "ATFS22403502"
+  },
+  {
+    "title": "Brain Utopia",
+    "artist": "Deaf Proof",
+    "isrc": "FI5CK1901491"
+  },
+  {
+    "title": "Hymn To Pan",
+    "artist": "Obelyskkh",
+    "isrc": "QZHNA2189160"
+  },
+  {
+    "title": "Monokraut Jupiter",
+    "artist": "ZQKMGDZ",
+    "isrc": "DEAR41747863"
+  },
+  {
+    "title": "Ghost in the Machine",
+    "artist": "Alligator Rodeo",
+    "isrc": "usdy42206123"
+  },
+  {
+    "title": "Your Bliss",
+    "artist": "Blind Mess",
+    "isrc": "DELJ81744200"
+  },
+  {
+    "title": "Second to None",
+    "artist": "Colored Moth",
+    "isrc": "DEOV42200555"
+  },
+  {
+    "title": "In Disguise",
+    "artist": "Demon Incarnate",
+    "isrc": "DEQ022102164"
+  },
+  {
+    "title": "When in Rome (Live)",
+    "artist": "Joe Kowalski & The Sex Detectives",
+    "isrc": "GB-SMU-49-47176"
+  },
+  {
+    "title": "I Spit Hate",
+    "artist": "Rage Of Samedi",
+    "isrc": "USA2P1962265"
+  },
+  {
+    "title": "Cure",
+    "artist": "Taming The Shrew",
+    "isrc": "DEVF41900016"
+  },
+  {
+    "title": "Ace Of Wands",
+    "artist": "You Guitarprayer",
+    "isrc": "DEGR82217713"
+  },
+  {
+    "title": "Rollin' 2014",
+    "artist": "Samavayo",
+    "isrc": "DEMZ71446001"
+  },
+  {
+    "title": "Mantra",
+    "artist": "Mother Engine",
+    "isrc": "DESC61300026"
+  },
+  {
+    "title": "Love",
+    "artist": "Colour Haze, Stefan Koglek",
+    "isrc": "NLM930820004"
+  },
+  {
+    "title": "Space Bash III",
+    "artist": "Swan Valley Heights",
+    "isrc": "SEWOL2300103"
+  },
+  {
+    "title": "Doomsday Machine",
+    "artist": "Kadavar",
+    "isrc": "DED831300072"
+  },
+  {
+    "title": "Costa Verde",
+    "artist": "Rotor",
+    "isrc": "DEAN61901013"
+  },
+  {
+    "title": "Dazed in Space",
+    "artist": "Kosmodrom",
+    "isrc": "DEL212310199"
+  },
+  {
+    "title": "Black Moon",
+    "artist": "Mount Hush",
+    "isrc": "DELJ82085425"
+  },
+  {
+    "title": "Ghost Bird",
+    "artist": "Daily Thompson",
+    "isrc": "DEAN62401296"
+  },
+  {
+    "title": "Brahama",
+    "artist": "My Sleeping Karma",
+    "isrc": "uscgj1021789"
+  },
+  {
+    "title": "Night to Fall",
+    "artist": "Wucan",
+    "isrc": "DEMV91805509"
+  },
+  {
+    "title": "Ocean in Our Bones",
+    "artist": "Monocluster",
+    "isrc": "TCAED1911442"
+  },
+  {
+    "title": "Army Of Ignorance",
+    "artist": "Samsara Blues Experiment",
+    "isrc": "USTCE1037581"
+  },
+  {
+    "title": "Space Farm Blues",
+    "artist": "Nazca Space Fox",
+    "isrc": "DEUT21900129"
+  },
+  {
+    "title": "Valkyries",
+    "artist": "Mindcrawler",
+    "isrc": "DELJ82090135"
+  },
+  {
+    "title": "Paralyzed",
+    "artist": "Paralyzed",
+    "isrc": "DEVN62000162"
+  },
+  {
+    "title": "Hard To Believe",
+    "artist": "Redscale",
+    "isrc": "SEYOK2134981"
+  },
+  {
+    "title": "Tired Of",
+    "artist": "Vug",
+    "isrc": "DEAN61900970"
+  },
+  {
+    "title": "Freight Train",
+    "artist": "Galactic Superlords",
+    "isrc": "DELJ82054714"
+  },
+  {
+    "title": "Duna",
+    "artist": "Nap",
+    "isrc": "DEAN61600790"
+  },
+  {
+    "title": "Home Sweet Home",
+    "artist": "Travelin Jack",
+    "isrc": "DEZ651360308"
+  },
+  {
+    "title": "Hush",
+    "artist": "Grin",
+    "isrc": "DEZC62499129"
+  },
+  {
+    "title": "Hot",
+    "artist": "Wight",
+    "isrc": "DEHQ30700831"
+  },
+  {
+    "title": "Forces Of The Underground",
+    "artist": "Church Of Mental Enlightment",
+    "isrc": "DEZC62128207"
+  },
+  {
+    "title": "All Bells Ring",
+    "artist": "Motorowl",
+    "isrc": "DEHW42413702"
+  },
+  {
+    "title": "On the Run",
+    "artist": "Acid Rooster",
+    "isrc": "CH6542350019"
+  },
+  {
+    "title": "In the Dawn",
+    "artist": "Black Vulpine",
+    "isrc": "DEOV41801428"
+  },
+  {
+    "title": "Starry Road",
+    "artist": "Willow Child",
+    "isrc": "ATDF81800010"
+  },
+  {
+    "title": "Awaiting",
+    "artist": "The Moth",
+    "isrc": "DEZ651354589"
+  },
+  {
+    "title": "Nocturne",
+    "artist": "Ursular",
+    "isrc": "CH6541897219"
+  },
+  {
+    "title": "White Heart",
+    "artist": "Visdom",
+    "isrc": "DELJ81970727"
+  },
+  {
+    "title": "Darkness",
+    "artist": "Zeremony",
+    "isrc": "ushm21998340"
+  },
+  {
+    "title": "Luna",
+    "artist": "Wolf Prayer",
+    "isrc": "DEZA22200118"
+  },
+  {
+    "title": "Josiah",
+    "artist": "Iguana",
+    "isrc": "DEKA11500015"
+  },
+  {
+    "title": "Faint Smile",
+    "artist": "Mandrax Queen",
+    "isrc": "DEBL61482124"
+  },
+  {
+    "title": "Kosmonaut",
+    "artist": "Liquid Silk",
+    "isrc": "DELJ81909482"
+  },
+  {
+    "title": "A Murky Room",
+    "artist": "Cannahann",
+    "isrc": "FR10S1854961"
+  },
+  {
+    "title": "Go for a Ride",
+    "artist": "Mount Atlas",
+    "isrc": "CH6541701484"
+  },
+  {
+    "title": "Drink Some More",
+    "artist": "Godsground",
+    "isrc": "QZ8252300022"
+  },
+  {
+    "title": "Nutso - 2024 Remastered",
+    "artist": "Samavayo",
+    "isrc": "DEAN62301287"
+  },
+  {
+    "title": "Brett Hart",
+    "artist": "Mother Engine",
+    "isrc": "DESC61300024"
+  },
+  {
+    "title": "Tempel",
+    "artist": "Colour Haze",
+    "isrc": "NLM930820011"
+  },
+  {
+    "title": "The Hunger",
+    "artist": "Swan Valley Heights",
+    "isrc": "SEWOL2300102"
+  },
+  {
+    "title": "Black Sun",
+    "artist": "Kadavar",
+    "isrc": "DEZ651203141"
+  },
+  {
+    "title": "Rabensol",
+    "artist": "Rotor",
+    "isrc": "DEAN61500721"
+  },
+  {
+    "title": "Funkgerät",
+    "artist": "Kosmodrom",
+    "isrc": "DEL211800468"
+  },
+  {
+    "title": "Shinewater",
+    "artist": "Mount Hush",
+    "isrc": "DELJ82085426"
+  },
+  {
+    "title": "Pizza Boy",
+    "artist": "Daily Thompson",
+    "isrc": "DEAN62401294"
+  },
+  {
+    "title": "Father Storm",
+    "artist": "Wucan",
+    "isrc": "DEMV91503017"
+  },
+  {
+    "title": "Leviathan",
+    "artist": "Monocluster",
+    "isrc": "TCAED1911467"
+  },
+  {
+    "title": "Pachyclada",
+    "artist": "My Sleeping Karma",
+    "isrc": "ATN261244701"
+  },
+  {
+    "title": "Space Drift",
+    "artist": "Nazca Space Fox",
+    "isrc": "DEUT21900128"
+  },
+  {
+    "title": "For The Lost Souls",
+    "artist": "Samsara Blues Experiment",
+    "isrc": "USTCE1037583"
+  },
+  {
+    "title": "Bigfoot Walk",
+    "artist": "Mindcrawler",
+    "isrc": "DELJ82090136"
+  },
+  {
+    "title": "Orange Carpet",
+    "artist": "Paralyzed",
+    "isrc": "DEZC62272747"
+  },
+  {
+    "title": "It's a Death Cult, Baby",
+    "artist": "Redscale",
+    "isrc": "SEYOK2134971"
+  },
+  {
+    "title": "Lose",
+    "artist": "Vug",
+    "isrc": "DEAN61800877"
+  },
+  {
+    "title": "Nowhere To Hide",
+    "artist": "Galactic Superlords",
+    "isrc": "DELJ81898690"
+  },
+  {
+    "title": "Sabacia",
+    "artist": "Nap",
+    "isrc": "DEAN61600789"
+  }
+]

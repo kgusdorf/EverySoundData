@@ -1,0 +1,727 @@
+[
+  {
+    "title": "Stormi",
+    "artist": "Iosonouncane",
+    "isrc": "ITT491500005"
+  },
+  {
+    "title": "Il mondo con gli occhi (feat. Fulminacci, Giorgio Poi, Colapesce, VV, Ditonellapiaga, Dimartino)",
+    "artist": "Dente, Fulminacci, Giorgio Poi, Colapesce, VV, Ditonellapiaga, Dimartino",
+    "isrc": "ITK252310010"
+  },
+  {
+    "title": "Altrove",
+    "artist": "Eugenio In Via Di Gioia",
+    "isrc": "ITUM71800983"
+  },
+  {
+    "title": "La Canzone del Pane (feat. Duo Bucolico & Calcutta) - Live",
+    "artist": "I Camillas, Duo bucolico, Calcutta ",
+    "isrc": "ITT742200275"
+  },
+  {
+    "title": "Nu poco ‘e bene",
+    "artist": "Gnut",
+    "isrc": "FR9W11503432"
+  },
+  {
+    "title": "Nascondigli per i cani",
+    "artist": "Emanuele Colandrea",
+    "isrc": "ITQ711500108"
+  },
+  {
+    "title": "Malamore",
+    "artist": "Riccardo Sinigallia",
+    "isrc": "ITC001900386"
+  },
+  {
+    "title": "Serenata per chi è nervoso",
+    "artist": "Luca Carocci",
+    "isrc": "ITL112100057"
+  },
+  {
+    "title": "Con i chilometri contro",
+    "artist": "L'orso",
+    "isrc": "ITT741200075"
+  },
+  {
+    "title": "Il panico dell'ansia",
+    "artist": "Maldestro",
+    "isrc": "ITX282000017"
+  },
+  {
+    "title": "Madonna con bambino rubato",
+    "artist": "Alessandro Fiori",
+    "isrc": "QM4TX1621382"
+  },
+  {
+    "title": "Satisfied Girl",
+    "artist": "Comaneci",
+    "isrc": "ITI730901014"
+  },
+  {
+    "title": "Lucky Girl",
+    "artist": "Thony",
+    "isrc": "IT3GN2200078"
+  },
+  {
+    "title": "Dove cadono i fulmini",
+    "artist": "Erica Mou",
+    "isrc": "ITZ041300006"
+  },
+  {
+    "title": "Madeleine (perché non ridi mai)",
+    "artist": "Calabi",
+    "isrc": "ITA641900108"
+  },
+  {
+    "title": "shhh",
+    "artist": "Te quiero Euridice",
+    "isrc": "ITAZ62100001"
+  },
+  {
+    "title": "Che fine ha fatto la poesia?",
+    "artist": "Davide Di Rosolini",
+    "isrc": "FR26V1560248"
+  },
+  {
+    "title": "Anche basta",
+    "artist": "Tommaso Di Giulio",
+    "isrc": "US38Y2409698"
+  },
+  {
+    "title": "Solo quando sei ubriaca",
+    "artist": "Esposito",
+    "isrc": "ITTQ31807008"
+  },
+  {
+    "title": "Non devo fare finta",
+    "artist": "Mai Stato Altrove",
+    "isrc": "ITA641900096"
+  },
+  {
+    "title": "Ermione",
+    "artist": "Blumosso",
+    "isrc": "TCAET2086093"
+  },
+  {
+    "title": "Love Turns Around (Don't Look Back) - From \"Bangla\"",
+    "artist": "Bob Corn",
+    "isrc": "ITC001900865"
+  },
+  {
+    "title": "changing",
+    "artist": "Her Skin",
+    "isrc": "QZ5FN2272627"
+  },
+  {
+    "title": "A Nice Guy",
+    "artist": "Girless and the Orphan",
+    "isrc": "US6R21454010"
+  },
+  {
+    "title": "Badabum",
+    "artist": "Girless",
+    "isrc": "QMFME2361541"
+  },
+  {
+    "title": "Souvenir",
+    "artist": "Diorama, Bravo, Bravissimo, Assurditè",
+    "isrc": "IT2N62100003"
+  },
+  {
+    "title": "Agatha of Sicily",
+    "artist": "Green Like July",
+    "isrc": "ITP841300064"
+  },
+  {
+    "title": "Nothing Works at 5 O'Clock",
+    "artist": "The Shalalalas",
+    "isrc": "IT7IB1800005"
+  },
+  {
+    "title": "She's an alien",
+    "artist": "Shiva Bakta",
+    "isrc": "GX3HH2222273"
+  },
+  {
+    "title": "Accettami",
+    "artist": "88 folli",
+    "isrc": "ITA581700031"
+  },
+  {
+    "title": "Semplice",
+    "artist": "Adriano Brancato",
+    "isrc": "ITWFY1600167"
+  },
+  {
+    "title": "Girl From The North Country",
+    "artist": "Al the coordinator",
+    "isrc": "ITAE31500057"
+  },
+  {
+    "title": "Cromatiche",
+    "artist": "Antonio Bucci",
+    "isrc": "TCAHS2359831"
+  },
+  {
+    "title": "Fontana delle Rose",
+    "artist": "BIF",
+    "isrc": "ITE2A2210254"
+  },
+  {
+    "title": "Mistico",
+    "artist": "Baryonyx",
+    "isrc": "ITHBR1800027"
+  },
+  {
+    "title": "Stata Mai",
+    "artist": "Benedetta Raina",
+    "isrc": "ITEEM2000040"
+  },
+  {
+    "title": "The Day the World Went Away",
+    "artist": "Blessed Child Opera",
+    "isrc": "QMBZ91960948"
+  },
+  {
+    "title": "Giuro non avevo capito",
+    "artist": "Bombay",
+    "isrc": "TCAHK2380999"
+  },
+  {
+    "title": "Amici miei",
+    "artist": "Caleido, Cordio",
+    "isrc": "ITA881800458"
+  },
+  {
+    "title": "Alzati",
+    "artist": "DEFOLK",
+    "isrc": "TCADG1717310"
+  },
+  {
+    "title": "La pulzella d'Orleans",
+    "artist": "East Sunset",
+    "isrc": "QZAPG1753609"
+  },
+  {
+    "title": "Dimmi chi sei",
+    "artist": "Elena Sanchi",
+    "isrc": "CH6542075908"
+  },
+  {
+    "title": "Il veggente",
+    "artist": "EmmE",
+    "isrc": "TCAEC1967773"
+  },
+  {
+    "title": "Sudore",
+    "artist": "Fantômes Vermeils",
+    "isrc": "TCAEO1977315"
+  },
+  {
+    "title": "Alfista",
+    "artist": "Filippo Villa",
+    "isrc": "QZHN82253703"
+  },
+  {
+    "title": "Temporale",
+    "artist": "Giuseppe Vio",
+    "isrc": "usdy41960722"
+  },
+  {
+    "title": "Spunta Blu",
+    "artist": "Il Conte Biagio",
+    "isrc": "ITPHS2200001"
+  },
+  {
+    "title": "Questo amore non c'è",
+    "artist": "Giò",
+    "isrc": "TCAEC1975579"
+  },
+  {
+    "title": "Meccanica dei sensi",
+    "artist": "Jack Frusciante e' rientrato nel gruppo",
+    "isrc": "ITBJ41800014"
+  },
+  {
+    "title": "Empty Fragment",
+    "artist": "Kyle",
+    "isrc": "QMFME1301101"
+  },
+  {
+    "title": "Neuroni",
+    "artist": "La Roba Di Claudiano",
+    "isrc": "QZES71920876"
+  },
+  {
+    "title": "Foulard",
+    "artist": "Le Strade Del Mediterraneo",
+    "isrc": "ushm81424480"
+  },
+  {
+    "title": "Mademoiselle GPT",
+    "artist": "Leone Marco Bartolo, Aenam",
+    "isrc": "GX4R52336255"
+  },
+  {
+    "title": "Mille",
+    "artist": "Lorenzo Tarantino",
+    "isrc": "QZARB1830189"
+  },
+  {
+    "title": "Domenica",
+    "artist": "MARTA",
+    "isrc": "TCAEL1955185"
+  },
+  {
+    "title": "Sirena",
+    "artist": "Manco",
+    "isrc": "QZHN82488086"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Marius W. Arcadio",
+    "isrc": "QZMEM2008250"
+  },
+  {
+    "title": "Fotosintesi",
+    "artist": "Mattia Faes",
+    "isrc": "ITYIN2000002"
+  },
+  {
+    "title": "In un attimo - Piano Version",
+    "artist": "Michele Pavanello, Paolo Lazzarini",
+    "isrc": "ESA011955355"
+  },
+  {
+    "title": "Sarò Con Te",
+    "artist": "Minerba",
+    "isrc": "TCADW1871820"
+  },
+  {
+    "title": "Amèlie",
+    "artist": "Nannarao",
+    "isrc": "QZHNA1987185"
+  },
+  {
+    "title": "La musica non passa",
+    "artist": "Nico Gulino",
+    "isrc": "FR59R1950585"
+  },
+  {
+    "title": "Amandoti",
+    "artist": "Noteoltretempo",
+    "isrc": "CH6542304121"
+  },
+  {
+    "title": "Mistico a Las Vegas",
+    "artist": "OGNIBENE",
+    "isrc": "ITDT02200117"
+  },
+  {
+    "title": "Nuvole Sul Divano",
+    "artist": "Oreste Muratori",
+    "isrc": "QZNWV2114692"
+  },
+  {
+    "title": "Oggi si va",
+    "artist": "Pablo e il Mare",
+    "isrc": "ushm81941351"
+  },
+  {
+    "title": "Grafite",
+    "artist": "Paolo Di Napoli",
+    "isrc": "QZK6Q1937885"
+  },
+  {
+    "title": "Spread My Love",
+    "artist": "Pocket Chestnut",
+    "isrc": "FR6V82333452"
+  },
+  {
+    "title": "Fammi dimenticare",
+    "artist": "Sala",
+    "isrc": "QZHNA1945628"
+  },
+  {
+    "title": "Tell Me How",
+    "artist": "Songs for the Sleepwalkers",
+    "isrc": "ushm91146990"
+  },
+  {
+    "title": "Giornata imperfetta",
+    "artist": "Sque",
+    "isrc": "CH6542122324"
+  },
+  {
+    "title": "La casa sulla sabbia",
+    "artist": "Umberto Ti.",
+    "isrc": "ITR892200055"
+  },
+  {
+    "title": "Vieni a vivere",
+    "artist": "Dente",
+    "isrc": "ITI830900012"
+  },
+  {
+    "title": "VIUDAS",
+    "artist": "Iosonouncane",
+    "isrc": "ITM382400082"
+  },
+  {
+    "title": "La canzone del pane",
+    "artist": "I Camillas",
+    "isrc": "ITZ621312102"
+  },
+  {
+    "title": "Lentiggini",
+    "artist": "Eugenio In Via Di Gioia",
+    "isrc": "ITCV32311801"
+  },
+  {
+    "title": "Se cucini tu",
+    "artist": "Gnut",
+    "isrc": "ITQD01609206"
+  },
+  {
+    "title": "Con le dita",
+    "artist": "Emanuele Colandrea",
+    "isrc": "ITQ711600124"
+  },
+  {
+    "title": "Prima Di Andare Via",
+    "artist": "Riccardo Sinigallia",
+    "isrc": "ITZ041400007"
+  },
+  {
+    "title": "Senza l'amore",
+    "artist": "Luca Carocci",
+    "isrc": "ITL111400022"
+  },
+  {
+    "title": "Ottobre come Settembre",
+    "artist": "L'orso",
+    "isrc": "ITT741300001"
+  },
+  {
+    "title": "Paranoie",
+    "artist": "Maldestro",
+    "isrc": "ITX282000020"
+  },
+  {
+    "title": "Fuori Piove",
+    "artist": "Alessandro Fiori",
+    "isrc": "ITC251000020"
+  },
+  {
+    "title": "A Pair Of Glasses",
+    "artist": "Comaneci",
+    "isrc": "ITI730901013"
+  },
+  {
+    "title": "Nella Vasca Da Bagno Del Tempo",
+    "artist": "Erica Mou",
+    "isrc": "ITZ041100115"
+  },
+  {
+    "title": "Time Speaks",
+    "artist": "Thony",
+    "isrc": "ITD811242301"
+  },
+  {
+    "title": "Bella Veramente",
+    "artist": "Calabi",
+    "isrc": "ITA641900063"
+  },
+  {
+    "title": "Eppure vedo te",
+    "artist": "Te quiero Euridice",
+    "isrc": "ITTI52100007"
+  },
+  {
+    "title": "Bestemmio",
+    "artist": "Davide Di Rosolini",
+    "isrc": "QZFZ32014784"
+  },
+  {
+    "title": "Borghesi",
+    "artist": "Tommaso Di Giulio",
+    "isrc": "US38Y2407347"
+  },
+  {
+    "title": "Guerramondiale",
+    "artist": "Esposito",
+    "isrc": "ITTQ31909201"
+  },
+  {
+    "title": "I dischi",
+    "artist": "Mai Stato Altrove",
+    "isrc": "ITA641900018"
+  },
+  {
+    "title": "Considerazioni sulla vita",
+    "artist": "Blumosso",
+    "isrc": "TCAEK1947547"
+  },
+  {
+    "title": "My Sweet, We're Bright",
+    "artist": "Bob Corn",
+    "isrc": "uscgj0907279"
+  },
+  {
+    "title": "confident",
+    "artist": "Her Skin",
+    "isrc": "QZ5FN2272434"
+  },
+  {
+    "title": "Hodmen and Ghost Writers",
+    "artist": "Girless and the Orphan",
+    "isrc": "US6R21454006"
+  },
+  {
+    "title": "The Only Two Dreams I Remember",
+    "artist": "Girless",
+    "isrc": "QMFME2361544"
+  },
+  {
+    "title": "Il Cazzo Che Mi Pare",
+    "artist": "Diorama, Bietto",
+    "isrc": "IT2N62300001"
+  },
+  {
+    "title": "Moving to the City",
+    "artist": "Green Like July",
+    "isrc": "ITP841300061"
+  },
+  {
+    "title": "A Week",
+    "artist": "The Shalalalas",
+    "isrc": "FR26V1607673"
+  },
+  {
+    "title": "Where have you been?",
+    "artist": "Shiva Bakta",
+    "isrc": "GX3HH2222279"
+  },
+  {
+    "title": "Ester",
+    "artist": "88 folli",
+    "isrc": "ITA581700058"
+  },
+  {
+    "title": "Umani",
+    "artist": "Adriano Brancato",
+    "isrc": "TCAEB1986767"
+  },
+  {
+    "title": "Don't Worry Baby - Cover Version",
+    "artist": "Al the coordinator",
+    "isrc": "ITSEJ1900017"
+  },
+  {
+    "title": "Serena",
+    "artist": "Antonio Bucci",
+    "isrc": "TCAHY2429899"
+  },
+  {
+    "title": "Nodi",
+    "artist": "BIF",
+    "isrc": "ITE2A2210176"
+  },
+  {
+    "title": "Birramisù",
+    "artist": "Baryonyx",
+    "isrc": "ITHBR2000002"
+  },
+  {
+    "title": "Davvero",
+    "artist": "Benedetta Raina",
+    "isrc": "ITEEM1900034"
+  },
+  {
+    "title": "Nothing can stop me",
+    "artist": "Blessed Child Opera",
+    "isrc": "QM6N21829132"
+  },
+  {
+    "title": "Meduse",
+    "artist": "Bombay",
+    "isrc": "TCAHP2382715"
+  },
+  {
+    "title": "Il maestro e margherita",
+    "artist": "Caleido",
+    "isrc": "ITA881800455"
+  },
+  {
+    "title": "Galileo",
+    "artist": "East Sunset",
+    "isrc": "QZAPG1753611"
+  },
+  {
+    "title": "Diavoli notturni",
+    "artist": "Elena Sanchi",
+    "isrc": "CH6542190121"
+  },
+  {
+    "title": "Benvenuto",
+    "artist": "EmmE",
+    "isrc": "TCAEC1960838"
+  },
+  {
+    "title": "Cartapesta",
+    "artist": "Fantômes Vermeils",
+    "isrc": "TCAEO1977311"
+  },
+  {
+    "title": "La storia del mare",
+    "artist": "Filippo Villa",
+    "isrc": "QZHN82253710"
+  },
+  {
+    "title": "Non ci sono parole",
+    "artist": "Giuseppe Vio",
+    "isrc": "ushm22023265"
+  },
+  {
+    "title": "Piano Bar",
+    "artist": "Il Conte Biagio",
+    "isrc": "ITPHS2300004"
+  },
+  {
+    "title": "La vita ci darà",
+    "artist": "Giò",
+    "isrc": "TCAHQ2370526"
+  },
+  {
+    "title": "È una bomba",
+    "artist": "Jack Frusciante e' rientrato nel gruppo",
+    "isrc": "ITBJ41800120"
+  },
+  {
+    "title": "Coniugati passeggiare",
+    "artist": "Dente",
+    "isrc": "ITPOI1300007"
+  },
+  {
+    "title": "Tanca",
+    "artist": "Iosonouncane",
+    "isrc": "ITT491500004"
+  },
+  {
+    "title": "Portami",
+    "artist": "Eugenio In Via Di Gioia",
+    "isrc": "ITCV32311802"
+  },
+  {
+    "title": "Pirati",
+    "artist": "I Camillas",
+    "isrc": "ITT741300085"
+  },
+  {
+    "title": "L'ammore 'o vero",
+    "artist": "Gnut",
+    "isrc": "FR9W11503431"
+  },
+  {
+    "title": "Il vento forte",
+    "artist": "Emanuele Colandrea",
+    "isrc": "ITQ711500107"
+  },
+  {
+    "title": "Quello che manca",
+    "artist": "L'orso",
+    "isrc": "ITT741400187"
+  },
+  {
+    "title": "Il salvagente",
+    "artist": "Luca Carocci",
+    "isrc": "FRX201602420"
+  },
+  {
+    "title": "A Cuor Leggero",
+    "artist": "Riccardo Sinigallia",
+    "isrc": "ITZ041800101"
+  },
+  {
+    "title": "Dimmi come ti posso amare",
+    "artist": "Maldestro",
+    "isrc": "FR59R1593800"
+  },
+  {
+    "title": "Io e te",
+    "artist": "Alessandro Fiori",
+    "isrc": "IT3GN2100052"
+  },
+  {
+    "title": "Couldn't Help It",
+    "artist": "Comaneci, Luca Cavina, Troy Mytea",
+    "isrc": "IT0501602859"
+  },
+  {
+    "title": "Azzurro",
+    "artist": "Erica Mou",
+    "isrc": "ITKZ91700020"
+  },
+  {
+    "title": "Flowers Blossom",
+    "artist": "Thony",
+    "isrc": "ITD811242303"
+  },
+  {
+    "title": "Cose che non si dicono",
+    "artist": "Calabi",
+    "isrc": "ITDZH2000015"
+  },
+  {
+    "title": "Mandorle",
+    "artist": "Te quiero Euridice",
+    "isrc": "ITTI52100004"
+  },
+  {
+    "title": "Segnali di fumo",
+    "artist": "Davide Di Rosolini",
+    "isrc": "QZHN32463938"
+  },
+  {
+    "title": "Novanta",
+    "artist": "Tommaso Di Giulio",
+    "isrc": "ITT531500120"
+  },
+  {
+    "title": "Biciclette rubate",
+    "artist": "Esposito",
+    "isrc": "ITTQ31807006"
+  },
+  {
+    "title": "Dentro un ricordo",
+    "artist": "Mai Stato Altrove",
+    "isrc": "ITA641900065"
+  },
+  {
+    "title": "Diverso",
+    "artist": "Blumosso",
+    "isrc": "TCADO1809378"
+  },
+  {
+    "title": "Birthday Song",
+    "artist": "Bob Corn",
+    "isrc": "ITF701814401"
+  },
+  {
+    "title": "Karen's Couch",
+    "artist": "Her Skin",
+    "isrc": "GBRKQ2428506"
+  },
+  {
+    "title": "Wings Behind Our Backs",
+    "artist": "Girless and the Orphan",
+    "isrc": "QZHNB2259122"
+  },
+  {
+    "title": "CP With a Twist",
+    "artist": "Girless",
+    "isrc": "QMFME2361546"
+  }
+]
