@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Colores",
+    "artist": "MARTIRES DEL COMPAS",
+    "isrc": "ES5150464008"
+  },
+  {
+    "title": "Tu frialdad",
+    "artist": "Triana",
+    "isrc": "ES5079100030"
+  },
+  {
+    "title": "Soy un Limón",
+    "artist": "Tomasito",
+    "isrc": "ES79A1206701"
+  },
+  {
+    "title": "Baila, gitana",
+    "artist": "Guadalquivir",
+    "isrc": "ES5088300029"
+  },
+  {
+    "title": "Ay Que Gustito Pa' Mis Orejas",
+    "artist": "Raimundo Amador",
+    "isrc": "ES5709500005"
+  },
+  {
+    "title": "Terraplén (feat. Enrique Morente)",
+    "artist": "Gualberto, Enrique Morente",
+    "isrc": "ES5079400356"
+  },
+  {
+    "title": "Yo Me Quedo en Sevilla - Remasterizada",
+    "artist": "Pata Negra",
+    "isrc": "ES5120000375"
+  },
+  {
+    "title": "Aires De La Alameda",
+    "artist": "Alameda",
+    "isrc": "ES5117900042"
+  },
+  {
+    "title": "Echo De Menos",
+    "artist": "Kiko Veneno",
+    "isrc": "ES5029800477"
+  },
+  {
+    "title": "De los malos",
+    "artist": "Elbicho",
+    "isrc": "ES5010300308"
+  },
+  {
+    "title": "Soy de los Verdes",
+    "artist": "Migue Benítez, Juanito Makandé",
+    "isrc": "ES18C1000114"
+  },
+  {
+    "title": "Soñe Contigo - Remasterizado",
+    "artist": "CAI",
+    "isrc": "ES5022101636"
+  },
+  {
+    "title": "El Garrotin",
+    "artist": "Smash",
+    "isrc": "ES5107800048"
+  },
+  {
+    "title": "El aire de la calle",
+    "artist": "Los Delinqüentes",
+    "isrc": "ES5030100103"
+  },
+  {
+    "title": "Recuerdos De Mi Tierra - Remasterizado",
+    "artist": "Mezquita",
+    "isrc": "ES5021801222"
+  },
+  {
+    "title": "Las Leyes De La Frontera",
+    "artist": "Derby Motoreta’s Burrito Kachimba",
+    "isrc": "ES5702101763"
+  },
+  {
+    "title": "Niños",
+    "artist": "Iman, Califato Independiente, Califato Independiente",
+    "isrc": "ES5117800067"
+  },
+  {
+    "title": "Baila Cadera",
+    "artist": "Silvio, Luzbel",
+    "isrc": "ES5020200079"
+  },
+  {
+    "title": "¿Qué malo hay, señor juez?",
+    "artist": "Azahar",
+    "isrc": "ES5079700267"
+  },
+  {
+    "title": "Me Quedo Contigo",
+    "artist": "Miguel Campello",
+    "isrc": "ES71G2138443"
+  },
+  {
+    "title": "En El Blanco",
+    "artist": "Cuarto menguante",
+    "isrc": "GB-SMU-50-86812"
+  },
+  {
+    "title": "Aunque No Seas Virgen",
+    "artist": "Silvio y Sacramento",
+    "isrc": "ES5160500250"
+  },
+  {
+    "title": "Hola, Buenos Días",
+    "artist": "El Canijo de Jerez",
+    "isrc": "ES79A1408202"
+  },
+  {
+    "title": "Andaluza",
+    "artist": "Vega",
+    "isrc": "ES5070300169"
+  },
+  {
+    "title": "En el campito",
+    "artist": "O'Funk'illo",
+    "isrc": "ES5080006893"
+  },
+  {
+    "title": "Testigo Del Tiempo",
+    "artist": "Zaguán",
+    "isrc": "ES5700500165"
+  },
+  {
+    "title": "Pedaleando",
+    "artist": "Estricnina",
+    "isrc": "ES6101629309"
+  },
+  {
+    "title": "Cosa buena",
+    "artist": "Manglis",
+    "isrc": "ES5151102377"
+  },
+  {
+    "title": "Amén",
+    "artist": "Quentin Gas & Los Zíngaros, Enzo Leep",
+    "isrc": "ES71G2329239"
+  },
+  {
+    "title": "Xulería",
+    "artist": "Sevilla Distorsión",
+    "isrc": "BK4DA2412214"
+  },
+  {
+    "title": "El marinero (feat. La Maravillosa Orquesta del Alcohol)",
+    "artist": "Capitán Cobarde, La Maravillosa Orquesta del Alcohol",
+    "isrc": "ES5151501258"
+  },
+  {
+    "title": "Un Señor Llamado Fernández de Córdoba",
+    "artist": "Storm",
+    "isrc": "DEVU51721230"
+  },
+  {
+    "title": "Hablo de una tierra",
+    "artist": "Granada",
+    "isrc": "ES5079000125"
+  },
+  {
+    "title": "Necesito Respirar",
+    "artist": "Medina Azahara",
+    "isrc": "ES5629200319"
+  },
+  {
+    "title": "Cojo el Saco y Me Retiro",
+    "artist": "Astola",
+    "isrc": "ES71G1512047"
+  },
+  {
+    "title": "Para mi Loliya",
+    "artist": "Manuel Molina",
+    "isrc": "ES5039900162"
+  },
+  {
+    "title": "C'est Chic - C'est Bon",
+    "artist": "Pony Bravo",
+    "isrc": "ESA092495074"
+  },
+  {
+    "title": "Pictures of Sadness (Cuadros De Tristeza)",
+    "artist": "Eduardo Bort",
+    "isrc": "ES5078900077"
+  },
+  {
+    "title": "Luna Mora",
+    "artist": "Canastéreo",
+    "isrc": "QM4TX1857204"
+  },
+  {
+    "title": "Quiero Vivir (Remezclado 2021)",
+    "artist": "Sherish, Los Delinqüentes",
+    "isrc": "ES31E2101391"
+  },
+  {
+    "title": "No Pasa Ná",
+    "artist": "Anairt, Mezquita",
+    "isrc": "ES31E2101003"
+  },
+  {
+    "title": "A Mi Andalucía",
+    "artist": "Arábiga",
+    "isrc": "ESA011746514"
+  },
+  {
+    "title": "Bollere",
+    "artist": "Arrajatabla",
+    "isrc": "ES5151000935"
+  },
+  {
+    "title": "Claveles",
+    "artist": "Compro Oro",
+    "isrc": "QM4TW2257055"
+  },
+  {
+    "title": "Me Lié",
+    "artist": "El Niño del Pegamento",
+    "isrc": "ES71G2022227"
+  },
+  {
+    "title": "Te Estoy Amando Locamente",
+    "artist": "Las Grecas",
+    "isrc": "ES5117400004"
+  },
+  {
+    "title": "Córdoba Es la Mezquita",
+    "artist": "Manuel Martínez, Ana Vera, David DeMaría, Mikel de la Riva, Bueno Rodríguez, Mart, Lin Cortés, Manuel Ruiz Queco, Alba Carmona, Lya, Felipe Conde, Jorge Pineda",
+    "isrc": "ESA031513801"
+  },
+  {
+    "title": "Salud y Rock Andaluz",
+    "artist": "Vándalus",
+    "isrc": "GBSMU9314535"
+  },
+  {
+    "title": "Lo difícil",
+    "artist": "Arco",
+    "isrc": "ES5151600014"
+  },
+  {
+    "title": "El bizco de los patios",
+    "artist": "Mezquita",
+    "isrc": "GBSMU4398581"
+  },
+  {
+    "title": "Un Buen Dia",
+    "artist": "Los Planetas",
+    "isrc": "ES5020000465"
+  },
+  {
+    "title": "Tan sólo por esta noche",
+    "artist": "Delola, Juanito Makandé",
+    "isrc": "ES7411100092"
+  },
+  {
+    "title": "Quiereme",
+    "artist": "El Barrio",
+    "isrc": "ES5160300011"
+  },
+  {
+    "title": "Santa Lucia - Remastered 2005",
+    "artist": "Miguel Ríos",
+    "isrc": "ES5700500781"
+  },
+  {
+    "title": "Llorando Por Granada",
+    "artist": "Los Puntos",
+    "isrc": "ES5709900634"
+  },
+  {
+    "title": "One of These Days",
+    "artist": "Tilburi",
+    "isrc": "ES5070600002"
+  },
+  {
+    "title": "Soy de la Mancha",
+    "artist": "Alejandro Conde",
+    "isrc": "ES7581300574"
+  },
+  {
+    "title": "Volver a ser Romeo (feat. Galvan Real)",
+    "artist": "Maki, Galvan Real",
+    "isrc": "ES5152000279"
+  },
+  {
+    "title": "Sentirás y sentirás",
+    "artist": "Puerta Del Agua",
+    "isrc": "ES5151301536"
+  },
+  {
+    "title": "Dime Que Sí",
+    "artist": "Jose Domingo",
+    "isrc": "TCAAW1173659"
+  },
+  {
+    "title": "Camino",
+    "artist": "Las Gipsy Rock",
+    "isrc": "ES18C1901101"
+  },
+  {
+    "title": "Cansado Me Encontré",
+    "artist": "Nuevos Tiempos",
+    "isrc": "ES5060621602"
+  },
+  {
+    "title": "Entradilla",
+    "artist": "Rao Trio, Germán Díaz",
+    "isrc": "ES8540700046"
+  },
+  {
+    "title": "Chu lailo la leilo",
+    "artist": "MARTIRES DEL COMPAS",
+    "isrc": "ES5150464004"
+  },
+  {
+    "title": "Abre la puerta",
+    "artist": "Triana",
+    "isrc": "ES5079100193"
+  },
+  {
+    "title": "Back in Black",
+    "artist": "Tomasito, Mayte Pizarro, Tino Di Geraldo",
+    "isrc": "ES5120800213"
+  },
+  {
+    "title": "Guadalquivir",
+    "artist": "Guadalquivir",
+    "isrc": "ES5088300028"
+  },
+  {
+    "title": "Bolleré",
+    "artist": "Raimundo Amador",
+    "isrc": "ES5709500007"
+  },
+  {
+    "title": "Tarantos - Para Jimi Hendrix",
+    "artist": "Gualberto",
+    "isrc": "ES5079400358"
+  },
+  {
+    "title": "Pasa la Vida - Remasterizada",
+    "artist": "Pata Negra",
+    "isrc": "ES5120000485"
+  },
+  {
+    "title": "Amanecer En El Puerto",
+    "artist": "Alameda",
+    "isrc": "ES5117900051"
+  },
+  {
+    "title": "Volando Voy",
+    "artist": "Kiko Veneno",
+    "isrc": "ES5029400474"
+  },
+  {
+    "title": "Parque Triana",
+    "artist": "Elbicho",
+    "isrc": "ES5010500185"
+  },
+  {
+    "title": "Yo Soy Como el Sol",
+    "artist": "Migue Benítez, Rafael Amador",
+    "isrc": "ES18C1000119"
+  },
+  {
+    "title": "Noche Abierta - Remasterizado",
+    "artist": "CAI",
+    "isrc": "ES5022101639"
+  },
+  {
+    "title": "Alameda's Blues",
+    "artist": "Smash",
+    "isrc": "ES5107800049"
+  },
+  {
+    "title": "El Bizco De Los Patios - Remasterizado",
+    "artist": "Mezquita",
+    "isrc": "ES5022300887"
+  },
+  {
+    "title": "La primavera trompetera",
+    "artist": "Los Delinqüentes",
+    "isrc": "ES5080400611"
+  },
+  {
+    "title": "La Fuente",
+    "artist": "Derby Motoreta’s Burrito Kachimba",
+    "isrc": "ESUM72303249"
+  },
+  {
+    "title": "Darshan - Remasterizado",
+    "artist": "Iman, Califato Independiente",
+    "isrc": "ES5022101519"
+  },
+  {
+    "title": "El Pudridero",
+    "artist": "Silvio, Luzbel",
+    "isrc": "ES5020200083"
+  },
+  {
+    "title": "Expreso a Ketama",
+    "artist": "Azahar",
+    "isrc": "ES5079700591"
+  },
+  {
+    "title": "La Quiero a Morir",
+    "artist": "Miguel Campello",
+    "isrc": "ES71G2138446"
+  },
+  {
+    "title": "Canción de la luna",
+    "artist": "Cuarto menguante",
+    "isrc": "ES5151001862"
+  },
+  {
+    "title": "Stand By Me",
+    "artist": "Silvio y Sacramento",
+    "isrc": "ES5160500247"
+  },
+  {
+    "title": "Juanito Manoverde",
+    "artist": "El Canijo de Jerez, SFDK, Morodo",
+    "isrc": "ES42E2000069"
+  },
+  {
+    "title": "Origen",
+    "artist": "Vega",
+    "isrc": "ES5070300167"
+  },
+  {
+    "title": "Tengo Que Madurar",
+    "artist": "O'Funk'illo",
+    "isrc": "ES71G1908265"
+  },
+  {
+    "title": "Sólo Una Niña",
+    "artist": "Zaguán",
+    "isrc": "ES6380000203"
+  },
+  {
+    "title": "Corazón de Goma",
+    "artist": "Estricnina, Vinila von Bismark",
+    "isrc": "ES6101629311"
+  },
+  {
+    "title": "Muñecas de bar",
+    "artist": "Manglis",
+    "isrc": "ES5151102380"
+  },
+  {
+    "title": "Deserto rosso",
+    "artist": "Quentin Gas & Los Zíngaros",
+    "isrc": "GBMJG1616051"
+  },
+  {
+    "title": "Los Ciclos de la Luna",
+    "artist": "Sevilla Distorsión",
+    "isrc": "BK4DA2411551"
+  },
+  {
+    "title": "Todas las Mañanas",
+    "artist": "Capitán Cobarde, Ratón, Astola",
+    "isrc": "QZHZ52001599"
+  },
+  {
+    "title": "I've Gotta Tell You Mama",
+    "artist": "Storm",
+    "isrc": "DEVU51721228"
+  },
+  {
+    "title": "Rompiendo la oscuridad",
+    "artist": "Granada",
+    "isrc": "ES5079000124"
+  },
+  {
+    "title": "Todo Tiene Su Fin",
+    "artist": "Medina Azahara",
+    "isrc": "ES5620201266"
+  },
+  {
+    "title": "La Luna",
+    "artist": "Astola",
+    "isrc": "DEUD91892692"
+  },
+  {
+    "title": "Por eso",
+    "artist": "Manuel Molina",
+    "isrc": "ES5039900152"
+  },
+  {
+    "title": "Noche de Setas",
+    "artist": "Pony Bravo",
+    "isrc": "ESA011001747"
+  },
+  {
+    "title": "Thoughts (Pensamientos) 2ª Parte",
+    "artist": "Eduardo Bort",
+    "isrc": "ES5070300172"
+  },
+  {
+    "title": "Con Ele de Lorca",
+    "artist": "Canastéreo",
+    "isrc": "QM4TX1857203"
+  },
+  {
+    "title": "Rock Andaluz (Remezclado 2021)",
+    "artist": "Sherish, Mezquita, Medina Azahara",
+    "isrc": "ES31E2101395"
+  },
+  {
+    "title": "Un Avión de Papel",
+    "artist": "Anairt",
+    "isrc": "ES31E2101001"
+  },
+  {
+    "title": "Eres Tú",
+    "artist": "Arábiga",
+    "isrc": "ESA011221179"
+  },
+  {
+    "title": "Tu Hielo",
+    "artist": "MARTIRES DEL COMPAS, Jo Dworniak",
+    "isrc": "FRZ209906610"
+  },
+  {
+    "title": "Una noche de amor desesperada",
+    "artist": "Triana",
+    "isrc": "ES5079100059"
+  },
+  {
+    "title": "Mentira Es",
+    "artist": "Tomasito",
+    "isrc": "ES79A2210704"
+  },
+  {
+    "title": "Generalife",
+    "artist": "Guadalquivir",
+    "isrc": "ES5088300031"
+  },
+  {
+    "title": "Tangos De Los Gitanos",
+    "artist": "Raimundo Amador, El Guadiana",
+    "isrc": "ES5700300459"
+  },
+  {
+    "title": "Cancion del arco iris (feat. Enrique Morente)",
+    "artist": "Gualberto, Enrique Morente",
+    "isrc": "ES5079400354"
+  },
+  {
+    "title": "Todo Lo Que Me Gusta Es Ilegal",
+    "artist": "Pata Negra",
+    "isrc": "ES5120600991"
+  },
+  {
+    "title": "Noche Andaluza",
+    "artist": "Alameda",
+    "isrc": "ES5118300061"
+  },
+  {
+    "title": "En un Mercedes Blanco",
+    "artist": "Kiko Veneno",
+    "isrc": "ES5029200092"
+  },
+  {
+    "title": "Mamá Dolores",
+    "artist": "Elbicho",
+    "isrc": "ES5010300310"
+  },
+  {
+    "title": "El Rock del Cortijo",
+    "artist": "Migue Benítez, Los Delinqüentes",
+    "isrc": "ES18C1000112"
+  },
+  {
+    "title": "Alegrias De Cai - Remasterizado",
+    "artist": "CAI",
+    "isrc": "ES5022101638"
+  },
+  {
+    "title": "Tangos De Ketama",
+    "artist": "Smash",
+    "isrc": "ES5107800052"
+  },
+  {
+    "title": "Desde Que Somos Dos - Remasterizado",
+    "artist": "Mezquita",
+    "isrc": "ES5022300888"
+  },
+  {
+    "title": "Nube de pegatina",
+    "artist": "Los Delinqüentes",
+    "isrc": "ES5030100104"
+  },
+  {
+    "title": "El Valle",
+    "artist": "Derby Motoreta’s Burrito Kachimba",
+    "isrc": "ES5702001586"
+  },
+  {
+    "title": "Cerro Alegre - Remasterizado",
+    "artist": "Iman, Califato Independiente",
+    "isrc": "ES5022101520"
+  },
+  {
+    "title": "Ana No Esta (Anna Perche)",
+    "artist": "Silvio, Luzbel",
+    "isrc": "ES5020200098"
+  },
+  {
+    "title": "Un hombre cansado",
+    "artist": "Azahar",
+    "isrc": "ES5079700270"
+  },
+  {
+    "title": "Madre, hay en Sevilla",
+    "artist": "Cuarto menguante",
+    "isrc": "ES5151001866"
+  },
+  {
+    "title": "Procuro Olvidarte",
+    "artist": "Miguel Campello",
+    "isrc": "ES71G2138449"
+  }
+]

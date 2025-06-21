@@ -1,0 +1,522 @@
+[
+  {
+    "title": "Good Morning",
+    "artist": "Debbie Reynolds, Donald O'Connor, Gene Kelly",
+    "isrc": "DEZZ42172468"
+  },
+  {
+    "title": "Tales From The Vienna Woods",
+    "artist": "Kathryn Grayson",
+    "isrc": "USANG2024659"
+  },
+  {
+    "title": "Goin' Co'tin'",
+    "artist": "Jane Powell, Tommy Rall, Russ Tamblyn, Marc Platt, Matt Mattox, Jeff Richards, Jacques D'Amboise, Howard Hudson, Gene Lanham, Robert Wacker",
+    "isrc": "USNLR1701188"
+  },
+  {
+    "title": "Sobbin' Women",
+    "artist": "Howard Keel, Tommy Rall, Russ Tamblyn, Matt Mattox, Alan Davies, C. Parlato",
+    "isrc": "USNLR1701195"
+  },
+  {
+    "title": "Singin' In The Rain",
+    "artist": "Gene Kelly",
+    "isrc": "USNLR1200586"
+  },
+  {
+    "title": "Always True to You In My Fashion",
+    "artist": "Ann Miller, Tommy Rall",
+    "isrc": "USNLR1300155"
+  },
+  {
+    "title": "Goodnight My Someone - From \"The Music Man\"",
+    "artist": "Shirley Jones",
+    "isrc": "FR6V82693532"
+  },
+  {
+    "title": "Cheek to Cheek",
+    "artist": "Fred Astaire",
+    "isrc": "USSM10027986"
+  },
+  {
+    "title": "Ain't We Got Fun",
+    "artist": "Bob Hope",
+    "isrc": "USCA20300223"
+  },
+  {
+    "title": "Diamonds Are a Girl's Best Friend",
+    "artist": "Jane Russell, Marilyn Monroe",
+    "isrc": "DEVU52396474"
+  },
+  {
+    "title": "Getting to Know You",
+    "artist": "Deborah Kerr, Marni Nixon, Children",
+    "isrc": "UKU6H1937874"
+  },
+  {
+    "title": "My Heart Tells Me",
+    "artist": "Betty Grable",
+    "isrc": "GBDAG9710331"
+  },
+  {
+    "title": "Put the Blame on Mame (Theme from Gilda Original Soundtrack)",
+    "artist": "Rita Hayworth",
+    "isrc": "DEUE22381490"
+  },
+  {
+    "title": "Make 'Em Laugh",
+    "artist": "Donald O'Connor",
+    "isrc": "FR60Z1801170"
+  },
+  {
+    "title": "Yankee Doodle Dandy",
+    "artist": "James Cagney",
+    "isrc": "BGA261803007"
+  },
+  {
+    "title": "Ah Sweet Mystery Of Life",
+    "artist": "Jeanette MacDonald, Nelson Eddy",
+    "isrc": "USANG2097481"
+  },
+  {
+    "title": "The Last Rose Of Summer",
+    "artist": "Deanna Durbin",
+    "isrc": "GBLGL0005030"
+  },
+  {
+    "title": "Personality - from \"Road to Utopia\"",
+    "artist": "Dorothy Lamour",
+    "isrc": "GBDAG0002095"
+  },
+  {
+    "title": "It's a Man (Alternate Take)",
+    "artist": "Betty Hutton",
+    "isrc": "DEXN82256254"
+  },
+  {
+    "title": "If You Feel Like Singing: Mem'ry Island",
+    "artist": "Harry Warren, Gloria DeHaven, Pete Roberts, Gene Kelly, MGM Studio Chorus, MGM Studio Orchestra, Johnny Green",
+    "isrc": "DEL111302190"
+  },
+  {
+    "title": "The Varsity Drag (from \"Good News\") - 2006 Remaster",
+    "artist": "June Allyson, Peter Lawford, Jimmie Garland, MGM Studio Chorus",
+    "isrc": "UST1C0102413"
+  },
+  {
+    "title": "You'll Never Know / No Love, No Nothin - Remastered Version",
+    "artist": "Alice Faye",
+    "isrc": "USRE10300570"
+  },
+  {
+    "title": "I Only Have Eyes for You",
+    "artist": "Dick Powell",
+    "isrc": "USBT21606429"
+  },
+  {
+    "title": "Indian Love Call",
+    "artist": "Ann Blyth, Fernando Lamas",
+    "isrc": "GBBET0800904"
+  },
+  {
+    "title": "I'm in the Mood for Love",
+    "artist": "Frances Langford",
+    "isrc": "AUXN21506704"
+  },
+  {
+    "title": "Don't Tell Me - From \"The Hucksters\" Original Soundtrack",
+    "artist": "Ava Gardner",
+    "isrc": "NLRD51411304"
+  },
+  {
+    "title": "The Lady Loves Me (from the MGM movie soundtrack \"Viva Las Vegas\")",
+    "artist": "Ann-Margret, Elvis Presley",
+    "isrc": "USRC16303573"
+  },
+  {
+    "title": "The Last Time I Saw Paris",
+    "artist": "Ann Sothern",
+    "isrc": "USA370939111"
+  },
+  {
+    "title": "How Long Has This Been Going On?",
+    "artist": "Audrey Hepburn",
+    "isrc": "USPR35607398"
+  },
+  {
+    "title": "I Wanna Be Loved by You",
+    "artist": "Marilyn Monroe",
+    "isrc": "DEUE22381750"
+  },
+  {
+    "title": "With A Song In My Heart",
+    "artist": "Jane Froman",
+    "isrc": "USCA29601398"
+  },
+  {
+    "title": "The Yam",
+    "artist": "Ginger Rogers",
+    "isrc": "USSM11305984"
+  },
+  {
+    "title": "He's a Ladies Man",
+    "artist": "Peter Lawford",
+    "isrc": "GBN8H1336350"
+  },
+  {
+    "title": "Lili Marleen",
+    "artist": "Marlene Dietrich",
+    "isrc": "DEA340101174"
+  },
+  {
+    "title": "How Long Will It Last? (with Leo Reisman & His Orchestra)",
+    "artist": "Joan Crawford, Leo Reisman & His Orchestra",
+    "isrc": "USSM11300073"
+  },
+  {
+    "title": "June Is Bustin' Out All Over",
+    "artist": "Barbara Ruick, Claramae Turner",
+    "isrc": "BGA672335606"
+  },
+  {
+    "title": "Almost in Your Arms",
+    "artist": "Sophia Loren",
+    "isrc": "DEZZ42170307"
+  },
+  {
+    "title": "Gigi (Gaston's Soliloquy) (From \"Gigi\")",
+    "artist": "Louis Jourdan",
+    "isrc": "UKDNQ1503318"
+  },
+  {
+    "title": "Think Pink",
+    "artist": "Kay Thompson",
+    "isrc": "USUM71709916"
+  },
+  {
+    "title": "Say A Prayer For Me Tonight (From \"Gigi\")",
+    "artist": "Leslie Caron",
+    "isrc": "UKDNQ1503316"
+  },
+  {
+    "title": "Overture: I Got Out Of Bed on the Right Side",
+    "artist": "Fernando Lamas, Barbara Whiting",
+    "isrc": "FR6V82699412"
+  },
+  {
+    "title": "It Can't Be Wrong",
+    "artist": "Bette Davis",
+    "isrc": "USKO10405351"
+  },
+  {
+    "title": "A Guy What Takes His Time",
+    "artist": "Mae West",
+    "isrc": "UKU6H1938581"
+  },
+  {
+    "title": "Les Aristochats",
+    "artist": "Maurice Chevalier",
+    "isrc": "USWD10525938"
+  },
+  {
+    "title": "If You Haven't Got Love",
+    "artist": "Gloria Swanson",
+    "isrc": "USV351315317"
+  },
+  {
+    "title": "On the Good Ship Lollipop",
+    "artist": "Shirley Temple",
+    "isrc": "DEZZ42170485"
+  },
+  {
+    "title": "Do the La Conga (from \"Strike Up the Band\") - [Extended Version] [2022 Remaster]",
+    "artist": "Mickey Rooney, Judy Garland, MGM Studio Chorus",
+    "isrc": "USNLR2200588"
+  },
+  {
+    "title": "You Can’t See The Sun When You’re Cryin’—from the film “Shall We Dance”",
+    "artist": "Anita Ellis",
+    "isrc": "US53D0426241"
+  },
+  {
+    "title": "Until Love Comes Along",
+    "artist": "Bebe Daniels",
+    "isrc": "USXTG1100192"
+  },
+  {
+    "title": "I've Got You Under My Skin",
+    "artist": "Virginia Bruce",
+    "isrc": "USBT21606435"
+  },
+  {
+    "title": "Ramona",
+    "artist": "Dolores Del Rio",
+    "isrc": "GBELT1224176"
+  },
+  {
+    "title": "Tammy",
+    "artist": "Debbie Reynolds",
+    "isrc": "DEZZ42172467"
+  },
+  {
+    "title": "Show Boat: Ol' Man River",
+    "artist": "Kathryn Grayson, Howard Keel, Ava Gardner, William Warfield, MGM Studio Orchestra, Adolph Deutsch",
+    "isrc": "DEL111301914"
+  },
+  {
+    "title": "Wonderful, Wonderful Day",
+    "artist": "Jane Powell",
+    "isrc": "USNLR1701185"
+  },
+  {
+    "title": "Spring, Spring, Spring",
+    "artist": "Howard Keel, Tommy Rall, Russ Tamblyn, Matt Mattox, Alan Davies, C. Parlato",
+    "isrc": "USNLR1701199"
+  },
+  {
+    "title": "Tom, Dick or Harry",
+    "artist": "Ann Miller, Bob Fosse, Tommy Rall, Bobby Van",
+    "isrc": "USNLR1300144"
+  },
+  {
+    "title": "Singin' in the Rain",
+    "artist": "Gene Kelly",
+    "isrc": "DEZZ52171504"
+  },
+  {
+    "title": "Till There Was You",
+    "artist": "Shirley Jones",
+    "isrc": "GBH5G2100047"
+  },
+  {
+    "title": "Thanks for the Memory - Remastered",
+    "artist": "Bob Hope",
+    "isrc": "DEXN82089487"
+  },
+  {
+    "title": "Puttin' on the Ritz",
+    "artist": "Fred Astaire",
+    "isrc": "GBAYE9900692"
+  },
+  {
+    "title": "Shall We Dance?",
+    "artist": "Deborah Kerr, Yul Brynner",
+    "isrc": "GBN8H1338603"
+  },
+  {
+    "title": "Kisses and Tears",
+    "artist": "Jane Russell",
+    "isrc": "DEVU52396476"
+  },
+  {
+    "title": "You're MY Little Pin-Up Girl",
+    "artist": "Betty Grable",
+    "isrc": "GBDAG9710334"
+  },
+  {
+    "title": "I've Been Kissed Before",
+    "artist": "Rita Hayworth",
+    "isrc": "DEUE22381493"
+  },
+  {
+    "title": "It's a Lovely Day Today",
+    "artist": "Donald O'Connor, Carole Richards",
+    "isrc": "GBRKQ2260215"
+  },
+  {
+    "title": "Give My Regards to Broadway",
+    "artist": "James Cagney",
+    "isrc": "BGA261803008"
+  },
+  {
+    "title": "Beyond The Blue Horizon",
+    "artist": "Jeanette MacDonald, Nelson Eddy",
+    "isrc": "USANG2097485"
+  },
+  {
+    "title": "Beneath The Lights Of Home",
+    "artist": "Deanna Durbin",
+    "isrc": "GB8XC1433367"
+  },
+  {
+    "title": "Moon over Burma",
+    "artist": "Dorothy Lamour",
+    "isrc": "AUXN22097971"
+  },
+  {
+    "title": "He's a Demon, He's a Devil, He's a Doll",
+    "artist": "Betty Hutton",
+    "isrc": "DEXN82256235"
+  },
+  {
+    "title": "Because of You",
+    "artist": "Gloria DeHaven",
+    "isrc": "USA561178834"
+  },
+  {
+    "title": "Thou Swell (from \"Words and Music\") - 2006 Remaster",
+    "artist": "June Allyson, Eugene Cox, Pete Roberts",
+    "isrc": "UST1C0550544"
+  },
+  {
+    "title": "You'll Never Know",
+    "artist": "Alice Faye",
+    "isrc": "USA561348927"
+  },
+  {
+    "title": "With Plenty of Money and You",
+    "artist": "Dick Powell",
+    "isrc": "GBELT1228835"
+  },
+  {
+    "title": "The Great Caruso: The Loveliest Night of the Year",
+    "artist": "Irving Aaronson, Ann Blyth, MGM Studio Orchestra, Johnny Green",
+    "isrc": "DEL111302205"
+  },
+  {
+    "title": "Speaking Confidentially",
+    "artist": "Frances Langford",
+    "isrc": "GBDAG0101481"
+  },
+  {
+    "title": "Can't Help Lovin' That Man - From \"Show Boat\" Original Soundtrack",
+    "artist": "Ava Gardner",
+    "isrc": "NLRD51411365"
+  },
+  {
+    "title": "Thirteen Men",
+    "artist": "Ann-Margret",
+    "isrc": "USRC16208603"
+  },
+  {
+    "title": "Make It Another Old Fashioned, Please (from \"Panama Hattie\") [Outtake] - 2006 Remaster",
+    "artist": "Ann Sothern",
+    "isrc": "UST1C0550617"
+  },
+  {
+    "title": "La vie en rose - Theme from \"Sabrina\"",
+    "artist": "Audrey Hepburn",
+    "isrc": "FR6V81574852"
+  },
+  {
+    "title": "Blue Moon",
+    "artist": "Jane Froman",
+    "isrc": "AUXN21505396"
+  },
+  {
+    "title": "River of No Return",
+    "artist": "Marilyn Monroe",
+    "isrc": "DEUE22381751"
+  },
+  {
+    "title": "I Used to Be Color Blind",
+    "artist": "Ginger Rogers",
+    "isrc": "USRC10501454"
+  },
+  {
+    "title": "He's a Ladies' Man (From \"Good News\")",
+    "artist": "Peter Lawford",
+    "isrc": "AUXN22219387"
+  },
+  {
+    "title": "Sag mir wo die Blumen sind",
+    "artist": "Marlene Dietrich",
+    "isrc": "DEA340101176"
+  },
+  {
+    "title": "Gotta Feelin' For You (from \"Hollywood Revue of 1929\") - 2006 Remaster",
+    "artist": "Joan Crawford, MGM Studio Chorus",
+    "isrc": "UST1C0550549"
+  },
+  {
+    "title": "They Didn't Believe Me",
+    "artist": "Kathryn Grayson, Mario Lanza",
+    "isrc": "USANG2024693"
+  },
+  {
+    "title": "Am I That Easy To Forget?",
+    "artist": "Debbie Reynolds",
+    "isrc": "USMC10000825"
+  },
+  {
+    "title": "When You're In Love",
+    "artist": "Jane Powell",
+    "isrc": "USNLR1701187"
+  },
+  {
+    "title": "When You're In Love - (Reprise)",
+    "artist": "Howard Keel",
+    "isrc": "USNLR1701191"
+  },
+  {
+    "title": "Shakin' The Blues Away",
+    "artist": "Ann Miller, The Mel-Tones, The Lyttle Sisters",
+    "isrc": "USNLR1701128"
+  },
+  {
+    "title": "Many A New Day - From \"Oklahoma!\" Soundtrack",
+    "artist": "Shirley Jones, Darcy M. Proper",
+    "isrc": "USAR20001332"
+  },
+  {
+    "title": "Singin' in the Rain (Alternate Take)",
+    "artist": "Gene Kelly, MGM Studio Orchestra",
+    "isrc": "DEZZ52171526"
+  },
+  {
+    "title": "Buttons and Bows",
+    "artist": "Bob Hope, The Clark Sisters",
+    "isrc": "USCA20300220"
+  },
+  {
+    "title": "Isn't This A Lovely Day",
+    "artist": "Fred Astaire",
+    "isrc": "USWWW0200657"
+  },
+  {
+    "title": "I Whistle a Happy Tune",
+    "artist": "Deborah Kerr",
+    "isrc": "GBN8H1338592"
+  },
+  {
+    "title": "Do It Again",
+    "artist": "Jane Russell",
+    "isrc": "SEWDL6006430"
+  },
+  {
+    "title": "Halloween - From \"My Blue Heaven\"",
+    "artist": "Betty Grable, Dan Dailey, David Wayne, Jane Wyatt",
+    "isrc": "GBDAG0601680"
+  },
+  {
+    "title": "Put the Blame on Mame (Nightclub Version)",
+    "artist": "Rita Hayworth",
+    "isrc": "DEUE22381492"
+  },
+  {
+    "title": "Where Did You Learn To Dance Like That?",
+    "artist": "Donald O'Connor",
+    "isrc": "GBURF1102440"
+  },
+  {
+    "title": "You're a Grand Old Flag & War Medley",
+    "artist": "James Cagney",
+    "isrc": "BGA261803013"
+  },
+  {
+    "title": "Indian Love Call",
+    "artist": "Jeanette MacDonald, Nelson Eddy",
+    "isrc": "USANG2097474"
+  },
+  {
+    "title": "Danny Boy",
+    "artist": "Deanna Durbin",
+    "isrc": "USJ3V1212757"
+  },
+  {
+    "title": "Perfidia",
+    "artist": "Dorothy Lamour",
+    "isrc": "GBDAG0002115"
+  }
+]

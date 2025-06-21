@@ -1,0 +1,532 @@
+[
+  {
+    "title": "Barquito de Papel",
+    "artist": "Elizabeth Morris",
+    "isrc": "QZ5AB2469521"
+  },
+  {
+    "title": "Te Vas de Mi",
+    "artist": "Tata Barahona",
+    "isrc": "ART0G1202265"
+  },
+  {
+    "title": "Para Ir",
+    "artist": "Camilo Eque, Barrio Sur",
+    "isrc": "FRX201611472"
+  },
+  {
+    "title": "Los Ratones",
+    "artist": "Evelyn Cornejo",
+    "isrc": "ESAAI0268973"
+  },
+  {
+    "title": "Carnavalito del Ciempiés",
+    "artist": "Nano Stern",
+    "isrc": "CLCQ21300602"
+  },
+  {
+    "title": "La Danza de las Libélulas",
+    "artist": "Manuel García, Mon Laferte",
+    "isrc": "ES71G2004458"
+  },
+  {
+    "title": "Colibrí",
+    "artist": "Magdalena Matthey",
+    "isrc": "ES71G1614540"
+  },
+  {
+    "title": "Millones",
+    "artist": "Camila Moreno",
+    "isrc": "ESAAI0256929"
+  },
+  {
+    "title": "Darte Luz",
+    "artist": "Francesca Ancarola",
+    "isrc": "CLEN21400239"
+  },
+  {
+    "title": "Me Fuí a Caminar",
+    "artist": "Daniela Millaleo",
+    "isrc": "TCABW1401562"
+  },
+  {
+    "title": "Huaynito de Amor",
+    "artist": "Javiera Barreau",
+    "isrc": "QM7281739455"
+  },
+  {
+    "title": "Mi Amor",
+    "artist": "Kaskivano",
+    "isrc": "CLCZ21401500"
+  },
+  {
+    "title": "Vecina",
+    "artist": "Demian Rodríguez",
+    "isrc": "QM4TW1818935"
+  },
+  {
+    "title": "Quiero Verte Hoy",
+    "artist": "Benjamín Walker, Vanessa Zamora",
+    "isrc": "ES71G2061980"
+  },
+  {
+    "title": "Astronauta",
+    "artist": "Paisano",
+    "isrc": "QMBZ91630424"
+  },
+  {
+    "title": "Oye, Yo Te Quiero",
+    "artist": "Angelo Escobar",
+    "isrc": "QM6MZ2063488"
+  },
+  {
+    "title": "Vamos Cayendo a la Tierra",
+    "artist": "Natalia Contesse",
+    "isrc": "ES71G2335472"
+  },
+  {
+    "title": "Al Centro De La Injusticia",
+    "artist": "Isabel Parra",
+    "isrc": "USLZJ2397078"
+  },
+  {
+    "title": "La Retirada",
+    "artist": "La Pájara",
+    "isrc": "QMDA61318438"
+  },
+  {
+    "title": "En Mi Bolsillo",
+    "artist": "Martina Montaldo",
+    "isrc": "FR96X1660576"
+  },
+  {
+    "title": "La Hierbatera",
+    "artist": "Vasti Michel",
+    "isrc": "ESAAI0258529"
+  },
+  {
+    "title": "La Primera Piedra",
+    "artist": "Juanjo Montecinos",
+    "isrc": "QMFME2038243"
+  },
+  {
+    "title": "Amante de Fuego",
+    "artist": "Alexis Venegas",
+    "isrc": "CLEN21401360"
+  },
+  {
+    "title": "Tú No Estabas",
+    "artist": "Manuel Huerta",
+    "isrc": "usl4q2274817"
+  },
+  {
+    "title": "Vagamundo",
+    "artist": "Federico Wolf",
+    "isrc": "uscgh1756673"
+  },
+  {
+    "title": "Pal Viento",
+    "artist": "Glo Herrera, Solosiberia",
+    "isrc": "QZW9K2398225"
+  },
+  {
+    "title": "Ríe Chinito",
+    "artist": "La Paula Herrera",
+    "isrc": "USX9P1214593"
+  },
+  {
+    "title": "Palestina Libre",
+    "artist": "Chask",
+    "isrc": "QZ5AB2146993"
+  },
+  {
+    "title": "Animal",
+    "artist": "Peyo",
+    "isrc": "AEA0Q1849003"
+  },
+  {
+    "title": "Soltar",
+    "artist": "Amapola Puz Medioli",
+    "isrc": "AEA0Q1890789"
+  },
+  {
+    "title": "Magnolia",
+    "artist": "Doctor Pez",
+    "isrc": "ES71G2334751"
+  },
+  {
+    "title": "Chacarera De San Antonio",
+    "artist": "Jose Manuel Lattus, José Luis Aguirre, Raly Barrionuevo, Ramiro Gonzalez",
+    "isrc": "RUA1H1798371"
+  },
+  {
+    "title": "De Viaje Pt2",
+    "artist": "Trostrigo, VerDor",
+    "isrc": "TCACD1503325"
+  },
+  {
+    "title": "El Buen Hombre",
+    "artist": "Felipe Grandón",
+    "isrc": "TCABX1453910"
+  },
+  {
+    "title": "Me Gustan los Estudiantes",
+    "artist": "Tita Parra",
+    "isrc": "ES71G1830750"
+  },
+  {
+    "title": "Dones de la tierra",
+    "artist": "Alejandro Soto Lacoste",
+    "isrc": "USDHM1321543"
+  },
+  {
+    "title": "El Sol Celebra la Mañana",
+    "artist": "Marco Andreu",
+    "isrc": "ES71G2235100"
+  },
+  {
+    "title": "Rocas del Agua",
+    "artist": "Sara Pozo",
+    "isrc": "QZHZ52057309"
+  },
+  {
+    "title": "No Vales Nada",
+    "artist": "Luna Lamilla, Morena Pastene",
+    "isrc": "ushm22288813"
+  },
+  {
+    "title": "Tiene Sentido",
+    "artist": "Florencia Lira, PORO",
+    "isrc": "DGA072301047"
+  },
+  {
+    "title": "Noches Lunares",
+    "artist": "Hombre De Cerro, Los Furtivos Gnomos",
+    "isrc": "RUA1H1768114"
+  },
+  {
+    "title": "Pedacito de Alma",
+    "artist": "Rodrigo Santa María",
+    "isrc": "ES71G1758416"
+  },
+  {
+    "title": "En la Otra Vida",
+    "artist": "Camilo Lebert",
+    "isrc": "US7VG2341529"
+  },
+  {
+    "title": "La Parte Naranja",
+    "artist": "Carmen Salvador",
+    "isrc": "ARC571601883"
+  },
+  {
+    "title": "Date Prisa",
+    "artist": "Cristian Toro",
+    "isrc": "QZNJZ2317074"
+  },
+  {
+    "title": "El Principio del Final",
+    "artist": "Eduardo Yáñez",
+    "isrc": "DEQQ11700307"
+  },
+  {
+    "title": "Tereza",
+    "artist": "Isabela Ro",
+    "isrc": "QZ9Y21707611"
+  },
+  {
+    "title": "Tu color café",
+    "artist": "Mariana Montalvo",
+    "isrc": "FR6V89901969"
+  },
+  {
+    "title": "Calles",
+    "artist": "Matías Saavedra",
+    "isrc": "FR10S1799870"
+  },
+  {
+    "title": "El color de tu edad",
+    "artist": "Naara Andariega",
+    "isrc": "GX3Q92378943"
+  },
+  {
+    "title": "Diamonds & Rust",
+    "artist": "Paula Batarce",
+    "isrc": "ES71G1611031"
+  },
+  {
+    "title": "Quinto Elemento",
+    "artist": "ZOI",
+    "isrc": "USDHM1425906"
+  },
+  {
+    "title": "Darte Luz",
+    "artist": "Elizabeth Morris",
+    "isrc": "CLCZ21501730"
+  },
+  {
+    "title": "Paz",
+    "artist": "Camilo Eque, Tata Barahona",
+    "isrc": "ES71G2008894"
+  },
+  {
+    "title": "Adicciones y resentimientos",
+    "artist": "Tata Barahona",
+    "isrc": "ART0G1203214"
+  },
+  {
+    "title": "La chusma inconsciente",
+    "artist": "Evelyn Cornejo, Juan Ayala",
+    "isrc": "ARC571702041"
+  },
+  {
+    "title": "Casualidad",
+    "artist": "Nano Stern",
+    "isrc": "CLCQ21200212"
+  },
+  {
+    "title": "Mariposas",
+    "artist": "Magdalena Matthey",
+    "isrc": "ES71G1614313"
+  },
+  {
+    "title": "La Danza de las Libelulas",
+    "artist": "Manuel García",
+    "isrc": "USA561351243"
+  },
+  {
+    "title": "Te Quise",
+    "artist": "Camila Moreno",
+    "isrc": "CLCZ21300232"
+  },
+  {
+    "title": "Espantamales",
+    "artist": "Francesca Ancarola",
+    "isrc": "CLEN21400250"
+  },
+  {
+    "title": "Werken",
+    "artist": "Daniela Millaleo",
+    "isrc": "TCABW1401563"
+  },
+  {
+    "title": "Ruka",
+    "artist": "Javiera Barreau, sgomez",
+    "isrc": "QM7281739450"
+  },
+  {
+    "title": "Del alma mia",
+    "artist": "Kaskivano, La Fabrica De Chocolates",
+    "isrc": "CLCZ21300140"
+  },
+  {
+    "title": "Cuando Llegan las 6",
+    "artist": "Demian Rodríguez",
+    "isrc": "QM4TW1818934"
+  },
+  {
+    "title": "Te Ando Buscando",
+    "artist": "Paisano",
+    "isrc": "QMBZ91754647"
+  },
+  {
+    "title": "Quería Olvidarte",
+    "artist": "Benjamín Walker, Fármacos",
+    "isrc": "QZ7362300026"
+  },
+  {
+    "title": "Libélulas",
+    "artist": "Angelo Escobar",
+    "isrc": "QM6MZ2066734"
+  },
+  {
+    "title": "Que Me Entierren Con Semillas",
+    "artist": "Natalia Contesse",
+    "isrc": "ES71G1715558"
+  },
+  {
+    "title": "Ni Toda la Tierra Entera",
+    "artist": "Isabel Parra",
+    "isrc": "ESAAI0257158"
+  },
+  {
+    "title": "La Pájara",
+    "artist": "La Pájara",
+    "isrc": "QMDA61318437"
+  },
+  {
+    "title": "Individual Sociedad",
+    "artist": "Vasti Michel",
+    "isrc": "ESAAI0258528"
+  },
+  {
+    "title": "Canción de Amor, Pt. 1",
+    "artist": "Martina Montaldo",
+    "isrc": "FR96X1660577"
+  },
+  {
+    "title": "De Temuco",
+    "artist": "Juanjo Montecinos",
+    "isrc": "QMFME2038251"
+  },
+  {
+    "title": "Ay Amor",
+    "artist": "Alexis Venegas",
+    "isrc": "CLEN21401317"
+  },
+  {
+    "title": "La Marraqueta",
+    "artist": "Manuel Huerta",
+    "isrc": "uscgh1784472"
+  },
+  {
+    "title": "Veranos de un Sueño de Invierno",
+    "artist": "Federico Wolf",
+    "isrc": "uscgh1756668"
+  },
+  {
+    "title": "Keep Trying",
+    "artist": "Glo Herrera, Solosiberia",
+    "isrc": "QZNJY2365334"
+  },
+  {
+    "title": "Yo No Sé",
+    "artist": "La Paula Herrera",
+    "isrc": "QMFME2139704"
+  },
+  {
+    "title": "El Mono Jazz",
+    "artist": "Chask",
+    "isrc": "QZ5AB2146995"
+  },
+  {
+    "title": "Me Dirán",
+    "artist": "Peyo",
+    "isrc": "AEA0Q1842446"
+  },
+  {
+    "title": "No Serás",
+    "artist": "Amapola Puz Medioli",
+    "isrc": "AEA0Q1890787"
+  },
+  {
+    "title": "Madera",
+    "artist": "Doctor Pez",
+    "isrc": "GB-SMU-45-54468"
+  },
+  {
+    "title": "Al Sur Del Sur",
+    "artist": "Jose Manuel Lattus, Alonso Núñez",
+    "isrc": "RUA1H1762623"
+  },
+  {
+    "title": "Doleser",
+    "artist": "Trostrigo, VerDor, Cine Mental",
+    "isrc": "TCACC1599025"
+  },
+  {
+    "title": "El Pelo",
+    "artist": "Felipe Grandón",
+    "isrc": "TCABX1453919"
+  },
+  {
+    "title": "Danza Violeta - Instrumental",
+    "artist": "Tita Parra",
+    "isrc": "ES71G1854409"
+  },
+  {
+    "title": "La buena paciencia",
+    "artist": "Alejandro Soto Lacoste",
+    "isrc": "USDHM1321545"
+  },
+  {
+    "title": "Pajarillo",
+    "artist": "Elizabeth Morris",
+    "isrc": "CLCZ21401518"
+  },
+  {
+    "title": "Llévense",
+    "artist": "Camilo Eque, La Bandada",
+    "isrc": "FR2X41626610"
+  },
+  {
+    "title": "No le entregues el poder",
+    "artist": "Tata Barahona",
+    "isrc": "ART0G1202268"
+  },
+  {
+    "title": "Este amor",
+    "artist": "Evelyn Cornejo",
+    "isrc": "ARC571702032"
+  },
+  {
+    "title": "Necesito Una Canción",
+    "artist": "Nano Stern",
+    "isrc": "CLCQ21200202"
+  },
+  {
+    "title": "Amándote - Acústico",
+    "artist": "Magdalena Matthey",
+    "isrc": "QZNJV2159156"
+  },
+  {
+    "title": "Hablar de Ti",
+    "artist": "Manuel García",
+    "isrc": "USA561351241"
+  },
+  {
+    "title": "Lo Cierto",
+    "artist": "Camila Moreno",
+    "isrc": "ESAAI0256935"
+  },
+  {
+    "title": "Manifiesto",
+    "artist": "Francesca Ancarola",
+    "isrc": "CLEN21400225"
+  },
+  {
+    "title": "Ko (agua)",
+    "artist": "Daniela Millaleo",
+    "isrc": "TCABW1401564"
+  },
+  {
+    "title": "Como Arte",
+    "artist": "Javiera Barreau, sgomez",
+    "isrc": "QM7281739453"
+  },
+  {
+    "title": "Respira Un Fin",
+    "artist": "Kaskivano",
+    "isrc": "CLCZ21401502"
+  },
+  {
+    "title": "Si Cruzas la Puerta",
+    "artist": "Demian Rodríguez",
+    "isrc": "QM4TW1818936"
+  },
+  {
+    "title": "Revolución",
+    "artist": "Paisano",
+    "isrc": "QMBZ91630422"
+  },
+  {
+    "title": "y arderán",
+    "artist": "Benjamín Walker",
+    "isrc": "ES71G1904418"
+  },
+  {
+    "title": "Ella y Él",
+    "artist": "Angelo Escobar",
+    "isrc": "QM6MZ2066739"
+  },
+  {
+    "title": "Quiero Bailar Contigo",
+    "artist": "Natalia Contesse",
+    "isrc": "ES71G1715555"
+  },
+  {
+    "title": "Con los Pies Sobre la Tierra",
+    "artist": "Isabel Parra",
+    "isrc": "CLEP21400137"
+  }
+]

@@ -1,0 +1,3047 @@
+[
+  {
+    "title": "André",
+    "artist": "Marita Taavitsainen",
+    "isrc": "FIPST9800023"
+  },
+  {
+    "title": "Ei oo, ei tuu",
+    "artist": "Lea Laven",
+    "isrc": "FISMC8000045"
+  },
+  {
+    "title": "Kuurankukka",
+    "artist": "Joel Hallikainen",
+    "isrc": "FIFMF9201101"
+  },
+  {
+    "title": "De Va Kukku De",
+    "artist": "Anita Hirvonen",
+    "isrc": "FISMC8200035"
+  },
+  {
+    "title": "Kaikki Tytöt",
+    "artist": "Markku Aro",
+    "isrc": "FIPT60400053"
+  },
+  {
+    "title": "Seine",
+    "artist": "Tarja Lunnas",
+    "isrc": "FIBMB9700027"
+  },
+  {
+    "title": "Sininen ja valkoinen",
+    "artist": "Jukka Kuoppamäki",
+    "isrc": "FIEFE7200001"
+  },
+  {
+    "title": "Dirlanda",
+    "artist": "Kai Hyttinen",
+    "isrc": "FIFMF7200008"
+  },
+  {
+    "title": "Kotiviini",
+    "artist": "Anna Hanski",
+    "isrc": "FIEMS8900100"
+  },
+  {
+    "title": "Perutaan häät",
+    "artist": "Anne Mattila",
+    "isrc": "FIBAR0500076"
+  },
+  {
+    "title": "Yksinäinen Pitkä Tie",
+    "artist": "Janne Tulkki",
+    "isrc": "FIBAR0100242"
+  },
+  {
+    "title": "Sun Suomineitos oon",
+    "artist": "Heidi Kyrö",
+    "isrc": "FIMTA9400040"
+  },
+  {
+    "title": "Rasputin",
+    "artist": "Mona Carita",
+    "isrc": "FIFPS7900003"
+  },
+  {
+    "title": "Sata suudelmaa",
+    "artist": "Eija Kantola",
+    "isrc": "FIYAM9800016"
+  },
+  {
+    "title": "Se on salaisuus",
+    "artist": "Rainer Friman",
+    "isrc": "FIEMS9000600"
+  },
+  {
+    "title": "Kerrasta poikki",
+    "artist": "Tarja Ylitalo",
+    "isrc": "FIFMT7900100"
+  },
+  {
+    "title": "Suvivalssi",
+    "artist": "Reijo Kallio",
+    "isrc": "FISMC8000003"
+  },
+  {
+    "title": "Kolmatta linjaa takaisin - Beautiful in the Rain",
+    "artist": "Fredi",
+    "isrc": "FIFMF6800008"
+  },
+  {
+    "title": "Tiikerihai - Tiger Shark",
+    "artist": "Juha Eirto",
+    "isrc": "FIFMF5500027"
+  },
+  {
+    "title": "Kuumat kyyneleet",
+    "artist": "Jamppa Tuominen",
+    "isrc": "FIBMB8300101"
+  },
+  {
+    "title": "Meksikon pikajuna I",
+    "artist": "Reino Helismaa",
+    "isrc": "FIFMF6300600"
+  },
+  {
+    "title": "Vaskikellot",
+    "artist": "Antti Huovila",
+    "isrc": "FIBAR0000167"
+  },
+  {
+    "title": "Sata salamaa",
+    "artist": "Virve Rosti",
+    "isrc": "FIFLF8700800"
+  },
+  {
+    "title": "Oikeesti",
+    "artist": "Finlanders",
+    "isrc": "FIFPA0500005"
+  },
+  {
+    "title": "Haaveissa Vainko Oot Mun",
+    "artist": "Riki Sorsa",
+    "isrc": "FISMC8500011"
+  },
+  {
+    "title": "Ne Na Na Na",
+    "artist": "Anneli Mattila",
+    "isrc": "FIBAR0800071"
+  },
+  {
+    "title": "Onnenmaa",
+    "artist": "Kari Vepsä",
+    "isrc": "FIBAR9600105"
+  },
+  {
+    "title": "Satumaa",
+    "artist": "Reijo Taipale",
+    "isrc": "FIFSC6200800"
+  },
+  {
+    "title": "Sata kesää, tuhat yötä - Boogie Woogie Dancing Shoes",
+    "artist": "Paula Koivuniemi",
+    "isrc": "FIFMF8100008"
+  },
+  {
+    "title": "Kaikkea hyvää",
+    "artist": "Simo Silmu",
+    "isrc": "FIWMA0400420"
+  },
+  {
+    "title": "Kuinka rakkaus alkoi",
+    "artist": "Pirkko Mannola",
+    "isrc": "FIFSC6000005"
+  },
+  {
+    "title": "Kun aika on",
+    "artist": "Seija Simola",
+    "isrc": "FIFDP6900300"
+  },
+  {
+    "title": "Kuiskaten",
+    "artist": "Saija Varjus",
+    "isrc": "FIMTA0000001"
+  },
+  {
+    "title": "Mombasa",
+    "artist": "Taiska",
+    "isrc": "FIFMF7600026"
+  },
+  {
+    "title": "Hittiputki",
+    "artist": "Katri Helena, Lea Laven, Marion, Paula Koivuniemi, Leidit",
+    "isrc": "FIBAR0000042"
+  },
+  {
+    "title": "R-a-k-a-s",
+    "artist": "Tapani Kansa",
+    "isrc": "FIFSC7600400"
+  },
+  {
+    "title": "Souvarin humppa",
+    "artist": "Souvarit",
+    "isrc": "FIMMV0300020"
+  },
+  {
+    "title": "Musta ruusu",
+    "artist": "Veikko Tuomi",
+    "isrc": "FIFPS6200100"
+  },
+  {
+    "title": "Jossain",
+    "artist": "Merja Rantamäki",
+    "isrc": "FIFMF7700013"
+  },
+  {
+    "title": "Rekkamies",
+    "artist": "Matti Esko",
+    "isrc": "FIMMS8600015"
+  },
+  {
+    "title": "Mä putoan",
+    "artist": "Yölintu",
+    "isrc": "FIWMA0500036"
+  },
+  {
+    "title": "Pure mua",
+    "artist": "Meiju Suvas",
+    "isrc": "FIFMF9100500"
+  },
+  {
+    "title": "Taivaskalliolla",
+    "artist": "Tomi Markkola",
+    "isrc": "FIMTA0100096"
+  },
+  {
+    "title": "Yksi Kaunis Päivä Vaan",
+    "artist": "Esko Rahkonen",
+    "isrc": "FITAT1500015"
+  },
+  {
+    "title": "Hunajata",
+    "artist": "Erkki Liikanen, Tuire Pentikäinen",
+    "isrc": "FIFPS8200007"
+  },
+  {
+    "title": "Soitellaan",
+    "artist": "Kirsi Ranto",
+    "isrc": "FIMTA0000091"
+  },
+  {
+    "title": "Kaunis pesijätär",
+    "artist": "Tuula-Anneli Rantanen",
+    "isrc": "FIFMF5600046"
+  },
+  {
+    "title": "Jos Vielä Oot Vapaa",
+    "artist": "Pasi Kaunisto",
+    "isrc": "FIPT60900006"
+  },
+  {
+    "title": "Liian nuori",
+    "artist": "Seija Lampila",
+    "isrc": "FIFMF5100010"
+  },
+  {
+    "title": "Lapin tango",
+    "artist": "Tamara Lund",
+    "isrc": "FIFMF6400400"
+  },
+  {
+    "title": "Lähtisitkö",
+    "artist": "Pave Maijanen",
+    "isrc": "FIEFP8400004"
+  },
+  {
+    "title": "Sinä olet hän",
+    "artist": "Berit",
+    "isrc": "FIFMT8400007"
+  },
+  {
+    "title": "Vedän Elämän Henkeen",
+    "artist": "Charles Plogman",
+    "isrc": "FIMMZ2000001"
+  },
+  {
+    "title": "Viimeiseen Korttiin",
+    "artist": "Topi Sorsakoski",
+    "isrc": "FIEFE1100216"
+  },
+  {
+    "title": "Kerran",
+    "artist": "Laura Voutilainen",
+    "isrc": "FIFMF9301506"
+  },
+  {
+    "title": "Kun Paljon Antaa",
+    "artist": "Kisu",
+    "isrc": "FIEFC7200006"
+  },
+  {
+    "title": "Omenapuu",
+    "artist": "Johanna Pakonen",
+    "isrc": "FIMTA0400108"
+  },
+  {
+    "title": "Mä joka päivä töitä teen",
+    "artist": "Matti ja Teppo",
+    "isrc": "FIFMT8200002"
+  },
+  {
+    "title": "Oi niitä aikoja - Those Were the Days",
+    "artist": "Päivi Paunu",
+    "isrc": "FIEFC6800001"
+  },
+  {
+    "title": "Mikä Sulle Oikein Tuli",
+    "artist": "Juhamatti",
+    "isrc": "FIPT60300102"
+  },
+  {
+    "title": "Maruzzella",
+    "artist": "Seija Karpiomaa",
+    "isrc": "FIFSC5700013"
+  },
+  {
+    "title": "Paratiisi",
+    "artist": "Rauli Badding Somerjoki",
+    "isrc": "FISBA7400076"
+  },
+  {
+    "title": "Sä kuulut päivään jokaiseen",
+    "artist": "Eino Grön",
+    "isrc": "FIFSC6600300"
+  },
+  {
+    "title": "Hengaillaan",
+    "artist": "Kirka",
+    "isrc": "FISMC8400017"
+  },
+  {
+    "title": "Kappale kauneinta Suomea",
+    "artist": "Erkki Junkkarinen",
+    "isrc": "FIFPS7600014"
+  },
+  {
+    "title": "Suruko se puserossa pullottaa TS73 Remix",
+    "artist": "Isto Hiltunen, Poju, TS73",
+    "isrc": "FITVD2400004"
+  },
+  {
+    "title": "Saisit haudatun kuun",
+    "artist": "Eini",
+    "isrc": "FIKHY1100103"
+  },
+  {
+    "title": "Kirje",
+    "artist": "Janne Hurme",
+    "isrc": "FIURA9500011"
+  },
+  {
+    "title": "Tipi-tii",
+    "artist": "Marion Rung",
+    "isrc": "FIFMF6200003"
+  },
+  {
+    "title": "Enkelin silmin",
+    "artist": "Arja Koriseva",
+    "isrc": "FIFMF9100058"
+  },
+  {
+    "title": "Luvannut en ruusutarhaa - Rose Garden",
+    "artist": "Eija Merilä",
+    "isrc": "FIFSC7100006"
+  },
+  {
+    "title": "Känkkäränkkä",
+    "artist": "Mikko Alatalo",
+    "isrc": "FIBAR0700425"
+  },
+  {
+    "title": "Valokuvia",
+    "artist": "Mamba",
+    "isrc": "FIFMF9400190"
+  },
+  {
+    "title": "Lintu",
+    "artist": "Anna Eriksson",
+    "isrc": "FIUM70500047"
+  },
+  {
+    "title": "Minä soitan sulle illalla",
+    "artist": "Seppo Hanski",
+    "isrc": "FIFMF6500016"
+  },
+  {
+    "title": "Tosimies",
+    "artist": "Kaija Pohjola",
+    "isrc": "FIKFP9900051"
+  },
+  {
+    "title": "Rafaelin enkeli",
+    "artist": "Pekka Ruuska",
+    "isrc": "FIPST9000301"
+  },
+  {
+    "title": "Olen suomalainen - L'Italiano",
+    "artist": "Kari Tapio",
+    "isrc": "FIARA9500222"
+  },
+  {
+    "title": "Hiekkaa",
+    "artist": "Jorma Lyytinen",
+    "isrc": "FIFMF5700076"
+  },
+  {
+    "title": "Tango pelargonia",
+    "artist": "Kari Kuuva",
+    "isrc": "FIFSC6403000"
+  },
+  {
+    "title": "Lokki",
+    "artist": "Arja Havakka",
+    "isrc": "FIARA9500005"
+  },
+  {
+    "title": "Torremolinos",
+    "artist": "Johnny Forsell",
+    "isrc": "FIWMA0300633"
+  },
+  {
+    "title": "Satulinna",
+    "artist": "Jari Sillanpää",
+    "isrc": "FIMTA9500116"
+  },
+  {
+    "title": "Tarja Sinä Rakas",
+    "artist": "Kake Randelin",
+    "isrc": "FIPT60200088"
+  },
+  {
+    "title": "Päivän työ",
+    "artist": "Rita Elmgren",
+    "isrc": "FIWMA0400468"
+  },
+  {
+    "title": "Romanssi",
+    "artist": "Leif Wager",
+    "isrc": "FIFMF7100002"
+  },
+  {
+    "title": "Luona kioskin",
+    "artist": "Susanna Heikki",
+    "isrc": "FIMTA9900046"
+  },
+  {
+    "title": "Daa-Da Daa-Da",
+    "artist": "Sammy Babitzin",
+    "isrc": "FIEFC7200018"
+  },
+  {
+    "title": "Njet Molotoff",
+    "artist": "Solistiyhtye Suomi",
+    "isrc": "FIARA8900101"
+  },
+  {
+    "title": "Iltanuotiolla",
+    "artist": "Kalevi Korpi",
+    "isrc": "FIFPS5800001"
+  },
+  {
+    "title": "Saanko luvan",
+    "artist": "Taikakuu",
+    "isrc": "FIPFP0200071"
+  },
+  {
+    "title": "Myrskylyhty",
+    "artist": "Mikko Mäkeläinen",
+    "isrc": "FIYAM0100001"
+  },
+  {
+    "title": "Valkoinen ruusu",
+    "artist": "Saija Tuupanen",
+    "isrc": "FIMGM1400050"
+  },
+  {
+    "title": "Saunaralli",
+    "artist": "Tommi Soidinmäki",
+    "isrc": "FIHC81800024"
+  },
+  {
+    "title": "Muisto vain jää - Only a Fool Breaks His Own Heart",
+    "artist": "Jouko ja Kosti",
+    "isrc": "FIFMF6801100"
+  },
+  {
+    "title": "Illan Varjoon Himmeään",
+    "artist": "Jorma Kaariainen, Agents",
+    "isrc": "FIEFP9800028"
+  },
+  {
+    "title": "Kerro kultainen kuu",
+    "artist": "Pärre Förars",
+    "isrc": "FIFMF5800062"
+  },
+  {
+    "title": "Liljankukka",
+    "artist": "Markus Allan",
+    "isrc": "FIFMF6300900"
+  },
+  {
+    "title": "Vangin toive",
+    "artist": "Jukka Raitanen",
+    "isrc": "FIFSC7000014"
+  },
+  {
+    "title": "Rattaanpyörä",
+    "artist": "Ilkka Rinne",
+    "isrc": "FIFMF5700083"
+  },
+  {
+    "title": "Kultaiset korvarenkaat",
+    "artist": "Anna-Liisa Pyykkö",
+    "isrc": "FIFMF5900066"
+  },
+  {
+    "title": "Vain ajan hiekkaa",
+    "artist": "Maarit Peltoniemi",
+    "isrc": "FIEDN0000014"
+  },
+  {
+    "title": "Kulkurin Saappaat",
+    "artist": "Teuvo Oinas",
+    "isrc": "FITAT9800047"
+  },
+  {
+    "title": "Silakka-apajalla",
+    "artist": "Veikko Lavi",
+    "isrc": "FIFMF7100049"
+  },
+  {
+    "title": "Vanhan veräjän luona",
+    "artist": "Eila Pienimäki",
+    "isrc": "FIFMF5900004"
+  },
+  {
+    "title": "Noussut on kuu",
+    "artist": "Tanssiorkesteri Syke",
+    "isrc": "FIBAR0100125"
+  },
+  {
+    "title": "Jykevää On Rakkaus",
+    "artist": "Agents, Ville Valo",
+    "isrc": "FIEFP9900068"
+  },
+  {
+    "title": "Rakkauden aamu",
+    "artist": "Juhani Markola",
+    "isrc": "FIFFD7500006"
+  },
+  {
+    "title": "Eeva",
+    "artist": "Topi Sorsakoski & Agents",
+    "isrc": "FIEFP8500039"
+  },
+  {
+    "title": "Kaksi kauneinta",
+    "artist": "Neljänsuora",
+    "isrc": "FIWMA1500103"
+  },
+  {
+    "title": "Aivan sama mulle mä oon onnellinen",
+    "artist": "Pepe Willberg",
+    "isrc": "FIKHY1400046"
+  },
+  {
+    "title": "Pieni Sydän",
+    "artist": "Sakari Kuosmanen, Riikka Kuosmanen",
+    "isrc": "FIECA0200002"
+  },
+  {
+    "title": "Parempaa",
+    "artist": "Johanna Debreczeni",
+    "isrc": "FIMTA0400103"
+  },
+  {
+    "title": "Sataman valot - Harbour Lights",
+    "artist": "Harmony Sisters, Dallapé-orkesteri",
+    "isrc": "FIFPS3700006"
+  },
+  {
+    "title": "Päivät kuin unta - Le Moribond",
+    "artist": "Arto Sotavalta",
+    "isrc": "FIFSC7400001"
+  },
+  {
+    "title": "Käyn ahon laitaa",
+    "artist": "Juha Vainio",
+    "isrc": "FIFFD7900005"
+  },
+  {
+    "title": "Kulkurin valssi",
+    "artist": "Tauno Palo, Ansa Ikonen",
+    "isrc": "FIFMF7400131"
+  },
+  {
+    "title": "Sinä vain",
+    "artist": "Tauski",
+    "isrc": "FIBBA9400060"
+  },
+  {
+    "title": "Domino",
+    "artist": "Maire Ojonen",
+    "isrc": "FIFSC5200002"
+  },
+  {
+    "title": "Eviva Espanja",
+    "artist": "Tuula Siponius",
+    "isrc": "FIFMF7300017"
+  },
+  {
+    "title": "Pettäjän tie",
+    "artist": "Taisto Ahlgren",
+    "isrc": "FIFSC7000100"
+  },
+  {
+    "title": "Jäit sateen taa",
+    "artist": "Kurre",
+    "isrc": "FIWMA9200403"
+  },
+  {
+    "title": "Shanghain valot",
+    "artist": "Annika Eklund",
+    "isrc": "FIWMA0600044"
+  },
+  {
+    "title": "Kultainen nuoruus",
+    "artist": "Eero Väre",
+    "isrc": "FIFMF4900009"
+  },
+  {
+    "title": "Hilma Ja Onni",
+    "artist": "Jaakko Teppo",
+    "isrc": "FIVDC8000070"
+  },
+  {
+    "title": "Karjalan Marjaana",
+    "artist": "Tulipunaruusut, Raimo Piipponen",
+    "isrc": "FIFMF7700001"
+  },
+  {
+    "title": "Enkeleitä toisillemme",
+    "artist": "Jope Ruonansuu",
+    "isrc": "FIARA9600033"
+  },
+  {
+    "title": "Nakit ja muusi",
+    "artist": "Seitsemän Seinähullua Veljestä",
+    "isrc": "FIFFD8400002"
+  },
+  {
+    "title": "Kertokaa se hänelle",
+    "artist": "Mauno Kuusisto",
+    "isrc": "FIFDP5900100"
+  },
+  {
+    "title": "Kuljen Taas Kotiin Päin",
+    "artist": "Agents & Jorma Kääriäinen",
+    "isrc": "FIEFP0400065"
+  },
+  {
+    "title": "Hopeinen kuu - Guarda che luna",
+    "artist": "Olavi Virta",
+    "isrc": "FIFSC6002200"
+  },
+  {
+    "title": "Syli täynnä rentukoita",
+    "artist": "Markku Ketola",
+    "isrc": "FIBMB9700056"
+  },
+  {
+    "title": "Vanha holvikirkko",
+    "artist": "Eero Raittinen",
+    "isrc": "FIFDP6800600"
+  },
+  {
+    "title": "Sä oot mun tangoystäväin",
+    "artist": "Irmeli Mäkelä",
+    "isrc": "FIFPS6100001"
+  },
+  {
+    "title": "Diivaillen - Puttin' on the Style",
+    "artist": "Lasse Liemola",
+    "isrc": "FIFPS5700004"
+  },
+  {
+    "title": "Pariiseja",
+    "artist": "Lasse Hoikka, Souvarit",
+    "isrc": "FITAT9900024"
+  },
+  {
+    "title": "Muumipeikon laulu",
+    "artist": "Ritva Mustonen",
+    "isrc": "FIFMF6100036"
+  },
+  {
+    "title": "Ihanuuteni",
+    "artist": "Ässät",
+    "isrc": "FIPT60700003"
+  },
+  {
+    "title": "Kaunis on kaipaus",
+    "artist": "T.T. Purontaka",
+    "isrc": "FILNM0200005"
+  },
+  {
+    "title": "Suomi tanssii ja kitara soi",
+    "artist": "Anniina Mattila",
+    "isrc": "FIBAR0600013"
+  },
+  {
+    "title": "Gran Canaria",
+    "artist": "Frederik",
+    "isrc": "FIUM71300497"
+  },
+  {
+    "title": "Playboy",
+    "artist": "Ann Christine",
+    "isrc": "FIFSC6600002"
+  },
+  {
+    "title": "Buona sera, signorina",
+    "artist": "Eino Virtanen",
+    "isrc": "FIFSC5800009"
+  },
+  {
+    "title": "Lännen tie - Rawhide",
+    "artist": "Matti Heinivaho",
+    "isrc": "FIFMF6600004"
+  },
+  {
+    "title": "Lullaby of Birdland",
+    "artist": "Wiola Talvikki",
+    "isrc": "FIFMF5600005"
+  },
+  {
+    "title": "Sait multa kukkaset toukokuun - Greensleeves",
+    "artist": "Anneli Sari",
+    "isrc": "FIWMA0700825"
+  },
+  {
+    "title": "Jätkän humppa",
+    "artist": "Mutkattomat",
+    "isrc": "FIFPS7700001"
+  },
+  {
+    "title": "Ota minut nyt",
+    "artist": "Puolikuu",
+    "isrc": "FIFLF9400051"
+  },
+  {
+    "title": "Rentun ruusu",
+    "artist": "Irwin Goodman",
+    "isrc": "FIFLG8800100"
+  },
+  {
+    "title": "Tango merellä",
+    "artist": "Taisto Tammi",
+    "isrc": "FIFMF6301000"
+  },
+  {
+    "title": "Kaipuu",
+    "artist": "Kari Piironen",
+    "isrc": "FITAT0100057"
+  },
+  {
+    "title": "Silmät tummat kuin yö",
+    "artist": "Teijo Joutsela, Humppa-Veikot",
+    "isrc": "FIFSC6300019"
+  },
+  {
+    "title": "Huone 105",
+    "artist": "Kikka",
+    "isrc": "FIARA8900218"
+  },
+  {
+    "title": "Hiljainen kylätie",
+    "artist": "Metro-Tytöt",
+    "isrc": "FIFMF5300100"
+  },
+  {
+    "title": "Odota",
+    "artist": "Aikakone",
+    "isrc": "FIBAR9500028"
+  },
+  {
+    "title": "Kaihomieli ja surusilmä",
+    "artist": "Johanna Siekkinen",
+    "isrc": "FIURA9500009"
+  },
+  {
+    "title": "Liian tyly",
+    "artist": "Jani & Jetsetters",
+    "isrc": "FIUM70900737"
+  },
+  {
+    "title": "Valoa ikkunassa",
+    "artist": "Laila Kinnunen",
+    "isrc": "FIFSC6100001"
+  },
+  {
+    "title": "Etkö uskalla mua rakastaa",
+    "artist": "Helena Siltala",
+    "isrc": "FIFPS5800400"
+  },
+  {
+    "title": "Pornolaulu",
+    "artist": "Simo Salminen",
+    "isrc": "FIFSC6800008"
+  },
+  {
+    "title": "Rempallaan",
+    "artist": "Kauko Käyhkö",
+    "isrc": "FIFMF6000300"
+  },
+  {
+    "title": "Suuret setelit - Greenback Dollar",
+    "artist": "Four Cats",
+    "isrc": "FIFSC6302400"
+  },
+  {
+    "title": "Rosalita",
+    "artist": "Antti Raiski",
+    "isrc": "FIYAM0000037"
+  },
+  {
+    "title": "Liljankukka",
+    "artist": "Henry Theel",
+    "isrc": "FIFPS8300002"
+  },
+  {
+    "title": "Tatuoitu sydän",
+    "artist": "Channel Four",
+    "isrc": "FITAT8500101"
+  },
+  {
+    "title": "Kaikki rakkauteni",
+    "artist": "Eero ja Jussi & The Boys",
+    "isrc": "FIFDP6400800"
+  },
+  {
+    "title": "Tullaan, tullaan",
+    "artist": "Matti Jurva, Dallapé-orkesteri",
+    "isrc": "FIWMA0500576"
+  },
+  {
+    "title": "Mies",
+    "artist": "Saska Helmikallio",
+    "isrc": "QM2PV1536077"
+  },
+  {
+    "title": "Nuoruusmuistoja",
+    "artist": "Lasse Pihlajamaa",
+    "isrc": "FIFSC6103200"
+  },
+  {
+    "title": "Tähdet meren yllä",
+    "artist": "A. Aallon Rytmiorkesteri",
+    "isrc": "FIMTA9200011"
+  },
+  {
+    "title": "Muistatko Monrepos'n",
+    "artist": "Annikki Tähti",
+    "isrc": "FIFSC5500300"
+  },
+  {
+    "title": "Hiljaa kuiskaa nimeäs",
+    "artist": "Tiina Räsänen",
+    "isrc": "FIK3E0900001"
+  },
+  {
+    "title": "Soita Hiljaa Kitaraani",
+    "artist": "Jaska Mäkynen",
+    "isrc": "FIPT61200016"
+  },
+  {
+    "title": "Elsa, kohtalon lapsi",
+    "artist": "Martti Innanen",
+    "isrc": "FIFFD6700001"
+  },
+  {
+    "title": "Suomen Lotta",
+    "artist": "Eugen Malmstén",
+    "isrc": "FIFMF1221465"
+  },
+  {
+    "title": "Sade - Rain",
+    "artist": "Markku Suominen",
+    "isrc": "FIFMF7000003"
+  },
+  {
+    "title": "Suopursu",
+    "artist": "Matti Louhivuori",
+    "isrc": "FIFMF5300059"
+  },
+  {
+    "title": "Eilen Kun Mä Tiennyt En",
+    "artist": "Tapio Heinonen",
+    "isrc": "FIEFC7000003"
+  },
+  {
+    "title": "Iltatuulen viesti",
+    "artist": "Aikamiehet",
+    "isrc": "FIFPS6400001"
+  },
+  {
+    "title": "Kuusi kuuta ja saturnuksen renkaat",
+    "artist": "Ressu Redford",
+    "isrc": "FIFMF9301401"
+  },
+  {
+    "title": "Sydämesi tyhjä huone",
+    "artist": "Marjatta Leppänen",
+    "isrc": "FIFMF6500024"
+  },
+  {
+    "title": "Ukkometso",
+    "artist": "Pate Mustajärvi",
+    "isrc": "FIUNP0000121"
+  },
+  {
+    "title": "Bye Bye Baby",
+    "artist": "Catcat",
+    "isrc": "FIBBA9400007"
+  },
+  {
+    "title": "Onni, jonka annoin pois",
+    "artist": "Eila Pellinen",
+    "isrc": "FIFMF5802300"
+  },
+  {
+    "title": "Sininen uni",
+    "artist": "Tapio Rautavaara",
+    "isrc": "FIFMF5200200"
+  },
+  {
+    "title": "Vie Mut Minne Vaan",
+    "artist": "Yö",
+    "isrc": "FIUNP9101501"
+  },
+  {
+    "title": "Loisteessa Punaisen Kuun",
+    "artist": "Kari Hirvonen",
+    "isrc": "FIKH91900001"
+  },
+  {
+    "title": "Muistojeni laulu",
+    "artist": "Laila Halme",
+    "isrc": "FIFDP6300001"
+  },
+  {
+    "title": "Muistan sua, Elaine",
+    "artist": "Pirkka-Pekka Petelius",
+    "isrc": "FIFSC8400001"
+  },
+  {
+    "title": "Kun syksy saapuu Helsinkiin",
+    "artist": "Maynie Siren",
+    "isrc": "FIEFV5500002"
+  },
+  {
+    "title": "Mister Mambo, Mambo Miss",
+    "artist": "Göran Ödner",
+    "isrc": "FR6F32233880"
+  },
+  {
+    "title": "Pieni nukke - La Bambola",
+    "artist": "Ari Klem",
+    "isrc": "FIYAM8900001"
+  },
+  {
+    "title": "Luodut toisilleen",
+    "artist": "Lasse Hoikka & Souvarit",
+    "isrc": "CH6541838491"
+  },
+  {
+    "title": "En ole hän",
+    "artist": "Mikko Mäkeläinen ja Myrskylyhty",
+    "isrc": "FIYAM0300001"
+  },
+  {
+    "title": "Linjuripolkka",
+    "artist": "Veikko Sato",
+    "isrc": "FIFMF5001800"
+  },
+  {
+    "title": "Kesäkatu",
+    "artist": "Danny",
+    "isrc": "FIFSC6600600"
+  },
+  {
+    "title": "Pauhaava sydän",
+    "artist": "Lauri Tähkä & Elonkerjuu",
+    "isrc": "FIUM70700447"
+  },
+  {
+    "title": "Loppuelämä",
+    "artist": "Neon 2, Mariska",
+    "isrc": "FIK3E2400015"
+  },
+  {
+    "title": "Kankaan kaunis Katriina",
+    "artist": "Pekka Himanka",
+    "isrc": "FIFFD7500004"
+  },
+  {
+    "title": "Me halutaan olla neekereitä",
+    "artist": "Kake Singers",
+    "isrc": "FIFMF7800083"
+  },
+  {
+    "title": "Tinakenkätyttö",
+    "artist": "Kaija Koo",
+    "isrc": "FIPFP9900128"
+  },
+  {
+    "title": "Syysunelmia",
+    "artist": "Matti Viljanen",
+    "isrc": "FIFMF5500002"
+  },
+  {
+    "title": "Metsuri On Metsuri",
+    "artist": "Reijo Viita",
+    "isrc": "FIVDC8100122"
+  },
+  {
+    "title": "Pikkupoika ja pikitie",
+    "artist": "Markus Törmälä & FBI Beat",
+    "isrc": "FIWMA0200007"
+  },
+  {
+    "title": "Ei aika mennyt koskaan palaa",
+    "artist": "Jaana Lammi",
+    "isrc": "FIFMF1221216"
+  },
+  {
+    "title": "Tulisuudelma",
+    "artist": "Marko Lämsä",
+    "isrc": "FIMTA0800088"
+  },
+  {
+    "title": "Tanssin sun kanssasi aamuun",
+    "artist": "Oili Vainio",
+    "isrc": "FIFMF6200008"
+  },
+  {
+    "title": "Hän on mun",
+    "artist": "Hanne",
+    "isrc": "FIFMF7700015"
+  },
+  {
+    "title": "Aamu",
+    "artist": "Pepe Willberg & The Paradise",
+    "isrc": "FIFMF7302000"
+  },
+  {
+    "title": "Kadonneet kyyneleet",
+    "artist": "Jukka Lampela",
+    "isrc": "FITAT1700003"
+  },
+  {
+    "title": "Haaveet Kaatuu",
+    "artist": "Jore Marjaranta",
+    "isrc": "FIEFP0200063"
+  },
+  {
+    "title": "Kaksi kitaraa",
+    "artist": "Dallapé-orkesteri",
+    "isrc": "FIFMF1233039"
+  },
+  {
+    "title": "Kaunis",
+    "artist": "Sani",
+    "isrc": "FIB2E2300051"
+  },
+  {
+    "title": "Please Mr. Postman",
+    "artist": "Rauni Pekkala",
+    "isrc": "FIFMF6200002"
+  },
+  {
+    "title": "Tuollainen tyttö",
+    "artist": "Timo Jämsen",
+    "isrc": "FIFSC6102500"
+  },
+  {
+    "title": "Raatteentie",
+    "artist": "Korsuorkesteri",
+    "isrc": "FIARA0700080"
+  },
+  {
+    "title": "Sellaiset silmät",
+    "artist": "Kaija Lustila",
+    "isrc": "FIFMF9200501"
+  },
+  {
+    "title": "Kaikki muuttuu",
+    "artist": "Jani Wickholm",
+    "isrc": "FIBAR0400189"
+  },
+  {
+    "title": "Kapteeni-Kalle ja muut kaverit",
+    "artist": "Vieno Kekkonen",
+    "isrc": "FIFSC6300020"
+  },
+  {
+    "title": "Villihevosia",
+    "artist": "Hanna Ekola",
+    "isrc": "FIPST9000402"
+  },
+  {
+    "title": "Moottoripyörä on moottoripyörä",
+    "artist": "Mika Sundqvist",
+    "isrc": "FIWMA0400254"
+  },
+  {
+    "title": "Musta Aurinko Nousee",
+    "artist": "Juice Leskinen",
+    "isrc": "FIJKM8500211"
+  },
+  {
+    "title": "Rengin laulu",
+    "artist": "Kai Lind",
+    "isrc": "FIFMF1235881"
+  },
+  {
+    "title": "Kuuma kesä",
+    "artist": "Popeda",
+    "isrc": "FIUNP8500309"
+  },
+  {
+    "title": "No justiinsa juu",
+    "artist": "Eino Valtanen",
+    "isrc": "FIWMA0400240"
+  },
+  {
+    "title": "Jos sulla on toinen",
+    "artist": "Taikapeili",
+    "isrc": "FIWMA9400002"
+  },
+  {
+    "title": "Silmät",
+    "artist": "Samuli Edelmann",
+    "isrc": "FIWMA2400223"
+  },
+  {
+    "title": "Bella",
+    "artist": "Tuula ja Paula",
+    "isrc": "FIWMA0700945"
+  },
+  {
+    "title": "Viidestoista yö",
+    "artist": "Juice Leskinen Slam",
+    "isrc": "FIFHH8000200"
+  },
+  {
+    "title": "Elämä juoksuhaudoissa",
+    "artist": "A. Aimo",
+    "isrc": "FIFMF4000300"
+  },
+  {
+    "title": "Mysteriet (Mysteeri) -Mysteriet deg- (with Lisa Nilsson)",
+    "artist": "Aki Sirkesalo, Lisa Nilsson",
+    "isrc": "FISME0300002"
+  },
+  {
+    "title": "Perjantai neljältä",
+    "artist": "Raimo Piipponen",
+    "isrc": "FIBMB8600006"
+  },
+  {
+    "title": "Mieheni",
+    "artist": "Mira Kunnasluoto",
+    "isrc": "FIYAM0000048"
+  },
+  {
+    "title": "Lentävä kalakukko - 1951 versio",
+    "artist": "Esa Pakarinen",
+    "isrc": "FIFMF5102400"
+  },
+  {
+    "title": "Keinu Kanssani",
+    "artist": "Charlies",
+    "isrc": "FIBAR0000307"
+  },
+  {
+    "title": "Friduna skikuna",
+    "artist": "Hullujussi",
+    "isrc": "FIFDP7400002"
+  },
+  {
+    "title": "Ilta Välimerellä",
+    "artist": "Taito Vainio",
+    "isrc": "FIFMF7800050"
+  },
+  {
+    "title": "Liian paljon rahaa",
+    "artist": "Seija Eskola",
+    "isrc": "FIFMF5600052"
+  },
+  {
+    "title": "Pienestä pitäen",
+    "artist": "Juice Leskinen Grand Slam",
+    "isrc": "FIJKA9100602"
+  },
+  {
+    "title": "Tunnetko Tään Rakkauden",
+    "artist": "Anneli Saaristo, Annimaria Rinne, Paavo Kerosuo",
+    "isrc": "USWD10524333"
+  },
+  {
+    "title": "Metsämökin tonttu",
+    "artist": "Jussi & The Boys",
+    "isrc": "FIFSC7400002"
+  },
+  {
+    "title": "Hämärtyvä ilta",
+    "artist": "Varjokuva",
+    "isrc": "FIMTA0800023"
+  },
+  {
+    "title": "Prinsessa - 65 - Queen of 1964",
+    "artist": "Seppo Närhi",
+    "isrc": "FIFHH7500001"
+  },
+  {
+    "title": "Äiti",
+    "artist": "Juha Metsäperä",
+    "isrc": "FI3HM1200005"
+  },
+  {
+    "title": "Iltaloma - Japanese Boy",
+    "artist": "Armi Aavikko",
+    "isrc": "FIFSC8100070"
+  },
+  {
+    "title": "Mun aika mennä on",
+    "artist": "Sauli Lehtonen",
+    "isrc": "FIMTA9500072"
+  },
+  {
+    "title": "Jos vielä oot vapaa",
+    "artist": "Markus",
+    "isrc": "FIFMF7000001"
+  },
+  {
+    "title": "Napakymppi",
+    "artist": "Jarkko Honkanen, Taiga",
+    "isrc": "FI73H2000039"
+  },
+  {
+    "title": "Krokotiili rock",
+    "artist": "Muska",
+    "isrc": "FISBA7300027"
+  },
+  {
+    "title": "Kun Tänään Lähden",
+    "artist": "Suurlähettiläät",
+    "isrc": "FIART9302101"
+  },
+  {
+    "title": "Valssi menneiltä ajoilta",
+    "artist": "Viljo Vesterinen, Dallapé-orkesteri",
+    "isrc": "FIFPS3900007"
+  },
+  {
+    "title": "Striptease tanssija",
+    "artist": "Kaseva",
+    "isrc": "FISBA7400092"
+  },
+  {
+    "title": "Purista mua hiljaa",
+    "artist": "Leif Lindeman",
+    "isrc": "FIBAR1500177"
+  },
+  {
+    "title": "Lapponia",
+    "artist": "Monica Aspelund",
+    "isrc": "FIFDP7700014"
+  },
+  {
+    "title": "Aurora",
+    "artist": "Mikko Kuustonen",
+    "isrc": "FISME9302002"
+  },
+  {
+    "title": "Emmanuelle",
+    "artist": "Topi ja Toivottomat",
+    "isrc": "FIRCR1300332"
+  },
+  {
+    "title": "Lumi teki enkelin eteiseen",
+    "artist": "Hector",
+    "isrc": "FIFPS7300300"
+  },
+  {
+    "title": "Tankeros Love",
+    "artist": "Kivikasvot",
+    "isrc": "FIFFD7500005"
+  },
+  {
+    "title": "Rakkauden haudalla",
+    "artist": "Jonna Tervomaa",
+    "isrc": "FIPFP0300075"
+  },
+  {
+    "title": "Tunteella ja sydämellä",
+    "artist": "Sami Keskitalo",
+    "isrc": "FIEAM2400003"
+  },
+  {
+    "title": "Aa, aa Allin lasta",
+    "artist": "Brita Koivunen",
+    "isrc": "FIWNA1000758"
+  },
+  {
+    "title": "Rantakoivun alla",
+    "artist": "Veikko Ahvenainen",
+    "isrc": "FIFPS8400002"
+  },
+  {
+    "title": "Suoraan suoneen - Mellow Lovin'",
+    "artist": "Päivi",
+    "isrc": "FIFMF7800089"
+  },
+  {
+    "title": "Ikävä lokakuu",
+    "artist": "Hausmylly",
+    "isrc": "FISMC9500086"
+  },
+  {
+    "title": "Umpilumijenkka",
+    "artist": "Tanssiorkesteri Channel Four",
+    "isrc": "FITAT1500011"
+  },
+  {
+    "title": "Mikkihiiri merihädässä",
+    "artist": "Georg Malmstén, Greta Pitkänen",
+    "isrc": "FIFPS3600002"
+  },
+  {
+    "title": "Alle Mun Sateenvarjon",
+    "artist": "Sinitaivas",
+    "isrc": "FIMGM1000026"
+  },
+  {
+    "title": "Rempallaan",
+    "artist": "Mikko Järvinen",
+    "isrc": "FIFMF1227307"
+  },
+  {
+    "title": "En koskaan",
+    "artist": "Kristina Hautala",
+    "isrc": "FIFSC6600004"
+  },
+  {
+    "title": "Kaksi lensi yli käenpesän",
+    "artist": "Menneisyyden Vangit",
+    "isrc": "FIFME9300007"
+  },
+  {
+    "title": "Savonmuan Mambo",
+    "artist": "Taru Pyhälä",
+    "isrc": "FIFMF1239502"
+  },
+  {
+    "title": "Onnen Askeleet",
+    "artist": "Pekkaniskan pojat",
+    "isrc": "FIMGM0800038"
+  },
+  {
+    "title": "Ehkä otin, ehkä en",
+    "artist": "Matti Nykänen",
+    "isrc": "FIARA0600024"
+  },
+  {
+    "title": "Tekovika",
+    "artist": "Timo Koivusalo",
+    "isrc": "FIFMF1100040"
+  },
+  {
+    "title": "Lounatuulen laulu",
+    "artist": "Finntrio",
+    "isrc": "FIVLM8600017"
+  },
+  {
+    "title": "Jäätelökesä",
+    "artist": "Maarit",
+    "isrc": "FIFMF7800001"
+  },
+  {
+    "title": "Naltioon",
+    "artist": "Eero Avén",
+    "isrc": "FIVLM0600088"
+  },
+  {
+    "title": "Teddykarhujen huviretki",
+    "artist": "Kipparikvartetti",
+    "isrc": "FIFPS5300100"
+  },
+  {
+    "title": "Ihana aamu",
+    "artist": "Johnny",
+    "isrc": "FIFDP7003900"
+  },
+  {
+    "title": "Saarenmaan valssi",
+    "artist": "Georg Ots",
+    "isrc": "FIFMF5700700"
+  },
+  {
+    "title": "Myrskyluodon Maija - Stormskärs Maja",
+    "artist": "Lasse Mårtenson",
+    "isrc": "FIMR87600001"
+  },
+  {
+    "title": "Nuori rytmi",
+    "artist": "Vesa Enne",
+    "isrc": "FIFMF5900029"
+  },
+  {
+    "title": "Varisevat lehdet",
+    "artist": "Paul Norrback",
+    "isrc": "FIFMF5201700"
+  },
+  {
+    "title": "Rakkauden jälkeen - Was Ich Dir Sagen Will",
+    "artist": "Carola",
+    "isrc": "FIFSC6801000"
+  },
+  {
+    "title": "Kissankulman kauhu - Eemeli",
+    "artist": "Ragni Malmstén, Yrjö Tähtelä",
+    "isrc": "FIFMF7300091"
+  },
+  {
+    "title": "Auringon lasku",
+    "artist": "Veikko Huuskonen, Veikko Ahvenainen",
+    "isrc": "FIFMF1239023"
+  },
+  {
+    "title": "Kuinka Ihmeessä Nukkuukaan Hauki",
+    "artist": "Essi Wuorela",
+    "isrc": "FIEFE0900214"
+  },
+  {
+    "title": "Sinulle kuuluu lempeni - Tuyo es mi amor",
+    "artist": "Pirteät Pelimannit",
+    "isrc": "FIWMA0400601"
+  },
+  {
+    "title": "Miljoona ruusua",
+    "artist": "Vera Telenius",
+    "isrc": "FIWMA0601010"
+  },
+  {
+    "title": "Seitsemän päivää",
+    "artist": "Anita Kuusi",
+    "isrc": "FIFSC5300007"
+  },
+  {
+    "title": "Ruusunnuppu - Rose, Rose, I Love You",
+    "artist": "Börje Lampenius",
+    "isrc": "FIWMA0400323"
+  },
+  {
+    "title": "Mä päivänsäteen näin kerran pienen",
+    "artist": "Inkeri Ketola",
+    "isrc": "FIFPS5900020"
+  },
+  {
+    "title": "Yöperhonen",
+    "artist": "Iris Kangasniemi",
+    "isrc": "FIWMA0400598"
+  },
+  {
+    "title": "Heinäsirkka ja unikko",
+    "artist": "Leea Solja",
+    "isrc": "FIFMF1241358"
+  },
+  {
+    "title": "Brigitte Bardot",
+    "artist": "Maria Lessig",
+    "isrc": "FIWMA0700935"
+  },
+  {
+    "title": "Keltaruusu - The Yellow Rose of Texas",
+    "artist": "Pirkko Jaakkola",
+    "isrc": "FIFMF5300063"
+  },
+  {
+    "title": "On syömmesi jäätä",
+    "artist": "Sinikka Koskela",
+    "isrc": "FIFMF5300060"
+  },
+  {
+    "title": "Elämäni tarina",
+    "artist": "Stig Fransman",
+    "isrc": "FIWMA0400050"
+  },
+  {
+    "title": "Jätkän lauantai",
+    "artist": "Yrjö Haapanen",
+    "isrc": "FIWMA0400614"
+  },
+  {
+    "title": "Manjuska",
+    "artist": "Lasse Huurre",
+    "isrc": "FIWMA0400735"
+  },
+  {
+    "title": "Äiti pien' - Mütterlein",
+    "artist": "Virve Nortia",
+    "isrc": "FIWMA0500025"
+  },
+  {
+    "title": "Tumma nainen",
+    "artist": "Lea Laven",
+    "isrc": "FIBMB8600002"
+  },
+  {
+    "title": "Kun kosket mua",
+    "artist": "Marita Taavitsainen",
+    "isrc": "FIPST9800016"
+  },
+  {
+    "title": "Mihin kaarnalaivat katoaa",
+    "artist": "Joel Hallikainen",
+    "isrc": "FIFMF9500215"
+  },
+  {
+    "title": "Sydän rakastaa (Amor Con Amor Se Paga)",
+    "artist": "Anita Hirvonen",
+    "isrc": "FIRCR1400061"
+  },
+  {
+    "title": "Keskiyön aikaan - I'll Meet You at Midnight",
+    "artist": "Markku Aro",
+    "isrc": "FIFMF7700400"
+  },
+  {
+    "title": "Lemmenpölyä",
+    "artist": "Tarja Lunnas",
+    "isrc": "FIBAR9900247"
+  },
+  {
+    "title": "Pieni Mies",
+    "artist": "Jukka Kuoppamäki",
+    "isrc": "FIEFP7100003"
+  },
+  {
+    "title": "Nosta lippu salkoon",
+    "artist": "Kai Hyttinen",
+    "isrc": "FIFMF7302100"
+  },
+  {
+    "title": "Hei Mitä Kuuluu",
+    "artist": "Anne Mattila",
+    "isrc": "FI78M2400002"
+  },
+  {
+    "title": "Tule Poika Uimaan (Bylo no proshio)",
+    "artist": "Anna Hanski",
+    "isrc": "FIBAR8900012"
+  },
+  {
+    "title": "Tulvii Pohjanmaa",
+    "artist": "Janne Tulkki",
+    "isrc": "FIBAR9900033"
+  },
+  {
+    "title": "270 päivää",
+    "artist": "Heidi Kyrö",
+    "isrc": "FIMTA0100085"
+  },
+  {
+    "title": "Anna kulta, anna - Hands Up",
+    "artist": "Mona Carita",
+    "isrc": "FIFMF8100006"
+  },
+  {
+    "title": "Yön kuningatar",
+    "artist": "Eija Kantola",
+    "isrc": "FIYAM0800021"
+  },
+  {
+    "title": "Sinä iltana tähdet",
+    "artist": "Rainer Friman",
+    "isrc": "FIEMS8800400"
+  },
+  {
+    "title": "Ei tämä tyttö lempeä anele",
+    "artist": "Tarja Ylitalo",
+    "isrc": "FIFMT8300008"
+  },
+  {
+    "title": "Yksinäinen",
+    "artist": "Reijo Kallio",
+    "isrc": "FISMC7900012"
+  },
+  {
+    "title": "Venezuela",
+    "artist": "Juha Eirto",
+    "isrc": "FIFMF5900033"
+  },
+  {
+    "title": "Puhu hiljaa rakkaudesta - Speak Softly Love",
+    "artist": "Fredi",
+    "isrc": "FIFMF7200600"
+  },
+  {
+    "title": "Kevään ensi kukkanen",
+    "artist": "Jamppa Tuominen",
+    "isrc": "FIBMB8900016"
+  },
+  {
+    "title": "Rakovalkealla",
+    "artist": "Reino Helismaa, Joose Vähäsöyrinki, Ilona Vähäsöyrinki",
+    "isrc": "FIJC72100028"
+  },
+  {
+    "title": "Muuttolinnut",
+    "artist": "Antti Huovila",
+    "isrc": "FIBAR9900246"
+  },
+  {
+    "title": "Kaikki tytöt",
+    "artist": "Finlanders",
+    "isrc": "FIFMT8600011"
+  },
+  {
+    "title": "Oon voimissain - I Will Survive",
+    "artist": "Virve Rosti",
+    "isrc": "FIFFD7900001"
+  },
+  {
+    "title": "Seitsemäs taivas",
+    "artist": "Anneli Mattila",
+    "isrc": "FIARA1100133"
+  },
+  {
+    "title": "Joki - Boat on the River",
+    "artist": "Riki Sorsa",
+    "isrc": "FIARA9301301"
+  },
+  {
+    "title": "Vierivät kivet",
+    "artist": "Kari Vepsä",
+    "isrc": "FIARA1200004"
+  },
+  {
+    "title": "Tähdet meren yllä",
+    "artist": "Reijo Taipale",
+    "isrc": "FIFSC6300037"
+  },
+  {
+    "title": "Kun Kuuntelen Tomppaa",
+    "artist": "Paula Koivuniemi",
+    "isrc": "FIBAR9900004"
+  },
+  {
+    "title": "Elä vielä",
+    "artist": "Simo Silmu",
+    "isrc": "FIWMA0800407"
+  },
+  {
+    "title": "Maailman paras levy",
+    "artist": "Pirkko Mannola",
+    "isrc": "FIFSC6100009"
+  },
+  {
+    "title": "Sulle silmäni annan - Ti regalo gli occhi miei",
+    "artist": "Seija Simola",
+    "isrc": "FIFDP6900500"
+  },
+  {
+    "title": "Kauriinmetsästäjä",
+    "artist": "Saija Varjus",
+    "isrc": "FIMTA0000005"
+  },
+  {
+    "title": "Moi moi vain - Take Me High",
+    "artist": "Taiska",
+    "isrc": "FIFMF7600056"
+  },
+  {
+    "title": "Anna mulle tähtitaivas",
+    "artist": "Katri Helena",
+    "isrc": "FIFMF9200801"
+  },
+  {
+    "title": "Inarijärvi",
+    "artist": "Souvarit",
+    "isrc": "FIVP90100004"
+  },
+  {
+    "title": "Äidin pikkupoika",
+    "artist": "Tapani Kansa",
+    "isrc": "FISMC7800010"
+  },
+  {
+    "title": "Erämaajärven mökki",
+    "artist": "Veikko Tuomi",
+    "isrc": "FIFPS6500100"
+  },
+  {
+    "title": "Saan Olla Yksin (Kun Paljon Antaa)",
+    "artist": "Merja Rantamäki",
+    "isrc": "FIBBA9200201"
+  },
+  {
+    "title": "Tytöt ovat kauniita",
+    "artist": "Yölintu",
+    "isrc": "FIWMA0300258"
+  },
+  {
+    "title": "Huomenta Suomi - City of New Orleans",
+    "artist": "Matti Esko",
+    "isrc": "FIARA8900026"
+  },
+  {
+    "title": "Tahdon sinut",
+    "artist": "Meiju Suvas",
+    "isrc": "FIFPS8200001"
+  },
+  {
+    "title": "Aurinko, kuu ja tähdet",
+    "artist": "Tomi Markkola",
+    "isrc": "FIMTA0100001"
+  },
+  {
+    "title": "Kotiseutu Pohjolassa",
+    "artist": "Esko Rahkonen",
+    "isrc": "FITAT7400002"
+  },
+  {
+    "title": "Evakkoreki",
+    "artist": "Erkki Liikanen",
+    "isrc": "FIFDP7500001"
+  },
+  {
+    "title": "Ciao Romero",
+    "artist": "Kirsi Ranto",
+    "isrc": "FIMTA9900013"
+  },
+  {
+    "title": "Laulu Jamaikan rommista",
+    "artist": "Tuula-Anneli Rantanen",
+    "isrc": "FIFMF1239047"
+  },
+  {
+    "title": "Sade",
+    "artist": "Pasi Kaunisto",
+    "isrc": "FIPT60900002"
+  },
+  {
+    "title": "Ikkunaprinssi - Glendora",
+    "artist": "Seija Lampila",
+    "isrc": "FIWMA0300519"
+  },
+  {
+    "title": "Sinun omasi",
+    "artist": "Tamara Lund",
+    "isrc": "FIFMF6500027"
+  },
+  {
+    "title": "Elämän Nälkä",
+    "artist": "Pave Maijanen",
+    "isrc": "FIEFP8700034"
+  },
+  {
+    "title": "Kultani mun",
+    "artist": "Berit",
+    "isrc": "FIFMF1232027"
+  },
+  {
+    "title": "Lanka jo palaa",
+    "artist": "Charles Plogman",
+    "isrc": "FIBAR0800250"
+  },
+  {
+    "title": "Olet Kaikki (You're My World) [Il Mio Mondo]",
+    "artist": "Topi Sorsakoski",
+    "isrc": "FIEFP9100014"
+  },
+  {
+    "title": "Mä en kestä",
+    "artist": "Laura Voutilainen",
+    "isrc": "FIK3E1700228"
+  },
+  {
+    "title": "Uneen Aika Vaipuu",
+    "artist": "Kisu",
+    "isrc": "FIEFC7300003"
+  },
+  {
+    "title": "Niin kiire rakkauteen",
+    "artist": "Johanna Pakonen",
+    "isrc": "FIMTA0400066"
+  },
+  {
+    "title": "Jokainen päivä on liikaa - Killing Me Softly",
+    "artist": "Päivi Paunu",
+    "isrc": "FIFMF7300021"
+  },
+  {
+    "title": "Rakasta Mua Juuri Näin",
+    "artist": "Juhamatti",
+    "isrc": "FIPT60300094"
+  },
+  {
+    "title": "Kaiken takana on nainen",
+    "artist": "Matti ja Teppo",
+    "isrc": "FIFMT8600013"
+  },
+  {
+    "title": "Delfiinipoika",
+    "artist": "Seija Karpiomaa",
+    "isrc": "FIFSC5700002"
+  },
+  {
+    "title": "Myrskyluodon Maija - Stormskärs Maja",
+    "artist": "Eino Grön",
+    "isrc": "FIFSC8300019"
+  },
+  {
+    "title": "Villit Ruusut",
+    "artist": "Eija Sinikka",
+    "isrc": "FITAT9700023"
+  },
+  {
+    "title": "Surun pyyhit silmistäni",
+    "artist": "Kirka",
+    "isrc": "FIFLF8800500"
+  },
+  {
+    "title": "Laivat",
+    "artist": "Rauli Badding Somerjoki",
+    "isrc": "FIAAB8500413"
+  },
+  {
+    "title": "Lappeenrantaan",
+    "artist": "Erkki Junkkarinen",
+    "isrc": "FIFPS7700002"
+  },
+  {
+    "title": "Suruko se puserossa pullottaa",
+    "artist": "Isto Hiltunen",
+    "isrc": "FIMIC1900049"
+  },
+  {
+    "title": "Kesä ja yö",
+    "artist": "Eini",
+    "isrc": "FIPJP0500021"
+  },
+  {
+    "title": "Eviva Espanja",
+    "artist": "Marion Rung",
+    "isrc": "FIFLF8801200"
+  },
+  {
+    "title": "Tinasormus",
+    "artist": "Janne Hurme",
+    "isrc": "FIURA9500034"
+  },
+  {
+    "title": "Kuningaskobra - Snake Charmer",
+    "artist": "Arja Koriseva",
+    "isrc": "FIFMF9000026"
+  },
+  {
+    "title": "Kerenski",
+    "artist": "Eija Merilä",
+    "isrc": "FIFMF1221456"
+  },
+  {
+    "title": "Ihmisen ikävä toisen luo",
+    "artist": "Mikko Alatalo",
+    "isrc": "FIFHH8000100"
+  },
+  {
+    "title": "Vielä on kesää jäljellä",
+    "artist": "Mamba",
+    "isrc": "FIWMA0200112"
+  },
+  {
+    "title": "Erehdyin Kerran",
+    "artist": "Seppo Hanski",
+    "isrc": "FIRCR1400133"
+  },
+  {
+    "title": "Kun katsoit minuun",
+    "artist": "Anna Eriksson",
+    "isrc": "FIPFP0100096"
+  },
+  {
+    "title": "Ei Turhia Murheita",
+    "artist": "Kaija Pohjola",
+    "isrc": "FIPT61300008"
+  },
+  {
+    "title": "Tulivuori",
+    "artist": "Jorma Lyytinen",
+    "isrc": "FIFMF5700077"
+  },
+  {
+    "title": "Myrskyn jälkeen",
+    "artist": "Kari Tapio",
+    "isrc": "FIARA9500158"
+  },
+  {
+    "title": "Pikku Nina",
+    "artist": "Kari Kuuva",
+    "isrc": "FIFSC6501900"
+  },
+  {
+    "title": "Usko puolet mitä näet",
+    "artist": "Arja Havakka",
+    "isrc": "FIARA9500010"
+  },
+  {
+    "title": "Yhdestoista hetki",
+    "artist": "Pekka Ruuska",
+    "isrc": "FIPST9000304"
+  },
+  {
+    "title": "Esperanza",
+    "artist": "Johnny Forsell",
+    "isrc": "FIFMF6200023"
+  },
+  {
+    "title": "Maruzella",
+    "artist": "Rita Elmgren",
+    "isrc": "FIT3H1700044"
+  },
+  {
+    "title": "Sinä ansaitset kultaa",
+    "artist": "Jari Sillanpää",
+    "isrc": "FIWMA1400189"
+  },
+  {
+    "title": "Juhannusyö",
+    "artist": "Kake Randelin",
+    "isrc": "FIFMF1221028"
+  },
+  {
+    "title": "Tähdet kertovat",
+    "artist": "Leif Wager",
+    "isrc": "FIFMF6000058"
+  },
+  {
+    "title": "Kuin helminauhaa",
+    "artist": "Susanna Heikki",
+    "isrc": "FIBAR1500964"
+  },
+  {
+    "title": "Kuin Tuhka Tuuleen - Don't Pull Your Love",
+    "artist": "Sammy Babitzin",
+    "isrc": "FIEFC7200010"
+  },
+  {
+    "title": "Mahtava peräsin ja pulleat purjeet",
+    "artist": "Solistiyhtye Suomi",
+    "isrc": "FIFMF8300006"
+  },
+  {
+    "title": "Hiljainen Kylätie",
+    "artist": "Kalevi Korpi",
+    "isrc": "FIVDC8200015"
+  },
+  {
+    "title": "Raakalautaa",
+    "artist": "Mikko Mäkeläinen, Myrskylyhty",
+    "isrc": "FIMGM1600059"
+  },
+  {
+    "title": "Hiljainen on Laulu Rakkauden",
+    "artist": "Taikakuu",
+    "isrc": "FIMGM0400038"
+  },
+  {
+    "title": "Haluan sut",
+    "artist": "Saija Tuupanen",
+    "isrc": "FIMGM2300008"
+  },
+  {
+    "title": "Iskelmä ja kesä",
+    "artist": "Tommi Soidinmäki",
+    "isrc": "FIMTA0700028"
+  },
+  {
+    "title": "Illasta aamuun - Early in the Morning",
+    "artist": "Jouko ja Kosti",
+    "isrc": "FIFMF6900017"
+  },
+  {
+    "title": "Päivin, Öin",
+    "artist": "Jorma Kaariainen, Agents",
+    "isrc": "FIEFP9800037"
+  },
+  {
+    "title": "Hiiri Gonzales",
+    "artist": "Pärre Förars",
+    "isrc": "FIWMA0700943"
+  },
+  {
+    "title": "Sokeripala",
+    "artist": "Markus Allan",
+    "isrc": "FIFMF6400054"
+  },
+  {
+    "title": "Vapaa oon",
+    "artist": "Jukka Raitanen",
+    "isrc": "FIFFD7700007"
+  },
+  {
+    "title": "Kotiseutuni",
+    "artist": "Ilkka Rinne",
+    "isrc": "FIFMF6000022"
+  },
+  {
+    "title": "Luokseni jääthän - Love Me Forever",
+    "artist": "Anna-Liisa Pyykkö",
+    "isrc": "FIFMF1238614"
+  },
+  {
+    "title": "Hiekkaan piirretyt sydämet",
+    "artist": "Maarit Peltoniemi",
+    "isrc": "FIEDN9900001"
+  },
+  {
+    "title": "Kerran, Vain Yhden Kerran",
+    "artist": "Teuvo Oinas",
+    "isrc": "FITAT9800048"
+  },
+  {
+    "title": "Jokainen ihminen on laulun arvoinen",
+    "artist": "Veikko Lavi",
+    "isrc": "FIFMF7600024"
+  },
+  {
+    "title": "Tulenliekki",
+    "artist": "Eila Pienimäki",
+    "isrc": "FIFMF6000018"
+  },
+  {
+    "title": "Kahden",
+    "artist": "Tanssiorkesteri Syke",
+    "isrc": "FIBAR0300121"
+  },
+  {
+    "title": "Muistan kesän",
+    "artist": "Agents, Jorma Kaariainen",
+    "isrc": "FIEFP9600006"
+  },
+  {
+    "title": "Surujen Kitara",
+    "artist": "Topi Sorsakoski & Agents",
+    "isrc": "FIEFE0700688"
+  },
+  {
+    "title": "Eilinen - Yesterday",
+    "artist": "Juhani Markola",
+    "isrc": "FIWMA0700962"
+  },
+  {
+    "title": "Mansikkaa ja valkoapilaa",
+    "artist": "Neljänsuora",
+    "isrc": "FI3HM0900002"
+  },
+  {
+    "title": "Rööperiin",
+    "artist": "Pepe Willberg",
+    "isrc": "FIVDC8700014"
+  },
+  {
+    "title": "Savolainen Nainen",
+    "artist": "Sakari Kuosmanen, Åttopojat",
+    "isrc": "FI73K1400002"
+  },
+  {
+    "title": "Saat katsoo muttet koskettaa",
+    "artist": "Johanna Debreczeni",
+    "isrc": "FIMTA0800033"
+  },
+  {
+    "title": "Josef, Josef",
+    "artist": "Harmony Sisters, Dallapé-orkesteri",
+    "isrc": "FIFPS3900009"
+  },
+  {
+    "title": "Ei maitoa tänään - No Milk Today",
+    "artist": "Arto Sotavalta",
+    "isrc": "FIFSC6700008"
+  },
+  {
+    "title": "Ruusu on punainen",
+    "artist": "Tauno Palo",
+    "isrc": "FIFDP6700200"
+  },
+  {
+    "title": "Vanhojapoikia viiksekkäitä",
+    "artist": "Juha Vainio, Hyvän Tuulen Laulajat",
+    "isrc": "FIFFD8200200"
+  },
+  {
+    "title": "Niin Minä Sinulle Kuulun - At Remix",
+    "artist": "Tauski",
+    "isrc": "FI3PG0900022"
+  },
+  {
+    "title": "Joet tulvimaan itke - Cry Me a River",
+    "artist": "Maire Ojonen",
+    "isrc": "FIWMA0400463"
+  },
+  {
+    "title": "Kotiseutu pohjolassa",
+    "artist": "Tuula Siponius",
+    "isrc": "FIFMF1224933"
+  },
+  {
+    "title": "Tumman orren alla",
+    "artist": "Taisto Ahlgren",
+    "isrc": "FIFSC7300017"
+  },
+  {
+    "title": "Jäit sateen taa - 2004 Version",
+    "artist": "Kurre",
+    "isrc": "FIRMC0400001"
+  },
+  {
+    "title": "Siks oon mä suruinen",
+    "artist": "Eero Väre",
+    "isrc": "FIFMF4500004"
+  },
+  {
+    "title": "Ieva",
+    "artist": "Jaakko Teppo",
+    "isrc": "FIVDC8400030"
+  },
+  {
+    "title": "Tulipunaruusut",
+    "artist": "Tulipunaruusut",
+    "isrc": "FIFMF7700071"
+  },
+  {
+    "title": "Haaveet tallella",
+    "artist": "Annika Eklund",
+    "isrc": "FIFRC2000004"
+  },
+  {
+    "title": "Kelpaisiko seksi? - Da Ya Think I'm Sexy?",
+    "artist": "Seitsemän Seinähullua Veljestä",
+    "isrc": "FIFFD7900009"
+  },
+  {
+    "title": "Jaa jaa keskikaljaa",
+    "artist": "Jope Ruonansuu",
+    "isrc": "FIARA0100107"
+  },
+  {
+    "title": "Kesäpäivä Kangasalla",
+    "artist": "Mauno Kuusisto",
+    "isrc": "FIFMF5900025"
+  },
+  {
+    "title": "Mä Elän Vieläkin",
+    "artist": "Agents & Jorma Kääriäinen",
+    "isrc": "FIEFP0400062"
+  },
+  {
+    "title": "Metsäkukkia",
+    "artist": "Olavi Virta",
+    "isrc": "FIFMF5200800"
+  },
+  {
+    "title": "Silmät Kuin Enkelillä",
+    "artist": "Markku Ketola",
+    "isrc": "FIBAR0200030"
+  },
+  {
+    "title": "Toivotaan, toivotaan - Che sara",
+    "artist": "Eero Raittinen",
+    "isrc": "FIFDP7100007"
+  },
+  {
+    "title": "Liian vähän aikaa",
+    "artist": "Irmeli Mäkelä",
+    "isrc": "FIFPS5900007"
+  },
+  {
+    "title": "Anna pois - Hand Me Down",
+    "artist": "Lasse Liemola",
+    "isrc": "FIFPS5900005"
+  },
+  {
+    "title": "Kauneimmat ruusut",
+    "artist": "Lasse Hoikka, Souvarit",
+    "isrc": "FITAT9600025"
+  },
+  {
+    "title": "Ikäväni laulu",
+    "artist": "Ritva Mustonen",
+    "isrc": "FIFMF1239299"
+  },
+  {
+    "title": "Tähtitaivas tähtisilmät",
+    "artist": "T.T. Purontaka",
+    "isrc": "FILNM9500135"
+  },
+  {
+    "title": "Karataan pois",
+    "artist": "Anniina Mattila",
+    "isrc": "FIBAR0600109"
+  },
+  {
+    "title": "Salattu Rakkaus",
+    "artist": "Ässät",
+    "isrc": "FIBBA9300702"
+  },
+  {
+    "title": "Odota en - Quando Vedrai La Mia Ragazza",
+    "artist": "Ann Christine",
+    "isrc": "FIFSC6400020"
+  },
+  {
+    "title": "Tsingis Khan - Dschingis Khan",
+    "artist": "Frederik",
+    "isrc": "FIFMF7900008"
+  },
+  {
+    "title": "Laulaen sateessa",
+    "artist": "Eino Virtanen",
+    "isrc": "FIWMA0500235"
+  },
+  {
+    "title": "Arosusi",
+    "artist": "Matti Heinivaho",
+    "isrc": "FIFMF6800032"
+  },
+  {
+    "title": "Amado mio",
+    "artist": "Wiola Talvikki",
+    "isrc": "FIFPS5800004"
+  },
+  {
+    "title": "Valkoakaasiat",
+    "artist": "Anneli Sari",
+    "isrc": "FIFFD8100010"
+  },
+  {
+    "title": "Makeaa myrkkyä",
+    "artist": "Puolikuu",
+    "isrc": "FIFLF9200001"
+  },
+  {
+    "title": "Tukkipojan jenkka",
+    "artist": "Mutkattomat",
+    "isrc": "FIFPS8100009"
+  },
+  {
+    "title": "Ei tippa tapa",
+    "artist": "Irwin Goodman",
+    "isrc": "FIFMF6600014"
+  },
+  {
+    "title": "Tango Sinikalle",
+    "artist": "Taisto Tammi",
+    "isrc": "FIFMF6600017"
+  },
+  {
+    "title": "Hiljaa yössä",
+    "artist": "Kari Piironen",
+    "isrc": "FIMTA0400117"
+  },
+  {
+    "title": "Yö Altailla",
+    "artist": "Teijo Joutsela, Humppa-Veikot",
+    "isrc": "FIFSC6100022"
+  },
+  {
+    "title": "Vanha riimu",
+    "artist": "Metro-Tytöt",
+    "isrc": "FIFMF5400200"
+  },
+  {
+    "title": "Sukkula Venukseen",
+    "artist": "Kikka",
+    "isrc": "FIARA9000004"
+  },
+  {
+    "title": "Neliapila",
+    "artist": "Johanna Siekkinen",
+    "isrc": "FIURA9600016"
+  },
+  {
+    "title": "Lupaan",
+    "artist": "Aikakone",
+    "isrc": "FIHC82400010"
+  },
+  {
+    "title": "Musta sulhanen",
+    "artist": "Jani & Jetsetters",
+    "isrc": "FIUM70600153"
+  },
+  {
+    "title": "Pieni sydän",
+    "artist": "Laila Kinnunen",
+    "isrc": "FIFSC6500016"
+  },
+  {
+    "title": "Ranskalaiset korot",
+    "artist": "Helena Siltala",
+    "isrc": "FIFPS5801200"
+  },
+  {
+    "title": "Alle Lujaa",
+    "artist": "Simo Salminen",
+    "isrc": "FIFSC6900043"
+  },
+  {
+    "title": "Rovaniemen markkinoilla",
+    "artist": "Kauko Käyhkö",
+    "isrc": "FIFMF5100100"
+  },
+  {
+    "title": "Vanhan merirosvon kapakassa",
+    "artist": "Four Cats",
+    "isrc": "FIFSC6600015"
+  },
+  {
+    "title": "Angelle",
+    "artist": "Antti Raiski",
+    "isrc": "FIYAM0000042"
+  },
+  {
+    "title": "Rattaanpyörä",
+    "artist": "Henry Theel",
+    "isrc": "FIFMF7100086"
+  },
+  {
+    "title": "Mutkainen Tie",
+    "artist": "Channel Four",
+    "isrc": "FITAT8500097"
+  },
+  {
+    "title": "Kaunis nainen - Pretty Woman",
+    "artist": "Eero ja Jussi & The Boys",
+    "isrc": "FIFDP6400900"
+  },
+  {
+    "title": "Savonmuan Hilima",
+    "artist": "Matti Jurva",
+    "isrc": "FIFMF1121199"
+  },
+  {
+    "title": "Niin kuin tähdet",
+    "artist": "Saska Helmikallio",
+    "isrc": "FIMTA0500051"
+  },
+  {
+    "title": "Valssi menneiltä ajoilta",
+    "artist": "Lasse Pihlajamaa",
+    "isrc": "FIFSC5700900"
+  },
+  {
+    "title": "Saattue Murmanskiin",
+    "artist": "A. Aallon Rytmiorkesteri",
+    "isrc": "FIMTA9500031"
+  },
+  {
+    "title": "Lapinäidin kehtolaulu",
+    "artist": "Annikki Tähti",
+    "isrc": "FIWMA0300027"
+  },
+  {
+    "title": "Rakkauden synty",
+    "artist": "Tiina Räsänen",
+    "isrc": "FIFMF9600304"
+  },
+  {
+    "title": "Minä tuun nelostietä",
+    "artist": "Jaska Mäkynen",
+    "isrc": "FIVLM0400069"
+  },
+  {
+    "title": "Urjalan taikayö",
+    "artist": "Martti Innanen",
+    "isrc": "FIFFD6700002"
+  },
+  {
+    "title": "Takaisin Karjalaan",
+    "artist": "Eugen Malmstén",
+    "isrc": "FIFMF1221464"
+  },
+  {
+    "title": "Hän - Honey",
+    "artist": "Markku Suominen",
+    "isrc": "FIFMF6800900"
+  },
+  {
+    "title": "Mummon kaappikello",
+    "artist": "Matti Louhivuori, Metro-Tytöt",
+    "isrc": "FIFMF5400100"
+  },
+  {
+    "title": "Vanha tie - Take Me Home Country Roads",
+    "artist": "Tapio Heinonen",
+    "isrc": "FIFMF1244790"
+  },
+  {
+    "title": "Ankkurit ylös",
+    "artist": "Aikamiehet",
+    "isrc": "FIFPS7500048"
+  },
+  {
+    "title": "Mä vien",
+    "artist": "Ressu Redford",
+    "isrc": "FIUM72300316"
+  },
+  {
+    "title": "Laulu maailmansodasta",
+    "artist": "Marjatta Leppänen",
+    "isrc": "FIFMF1221455"
+  },
+  {
+    "title": "Mä Elän Vieläkin - Highwayman / 2006 Remaster",
+    "artist": "Pate Mustajärvi, Jorma Kaariainen, Harri Marstio, Topi Sorsakoski",
+    "isrc": "FIUNP0600369"
+  },
+  {
+    "title": "Aurinkotanssija",
+    "artist": "Catcat",
+    "isrc": "FIPT61200009"
+  },
+  {
+    "title": "Kaksi kitaraa",
+    "artist": "Eila Pellinen",
+    "isrc": "FIFMF5802400"
+  },
+  {
+    "title": "Juokse sinä humma",
+    "artist": "Tapio Rautavaara",
+    "isrc": "FIFMF6700002"
+  },
+  {
+    "title": "Laulu Rakkaudelle",
+    "artist": "Yö",
+    "isrc": "FIUNP8800306"
+  },
+  {
+    "title": "Onneni edessä",
+    "artist": "Kari Hirvonen",
+    "isrc": "FIGRF2300022"
+  },
+  {
+    "title": "Surujen kitara - Johnny Guitar",
+    "artist": "Laila Halme",
+    "isrc": "FIFDP6300300"
+  },
+  {
+    "title": "Tral-la-la -Acuareala Homosexual-",
+    "artist": "Pirkka-Pekka Petelius",
+    "isrc": "FIEFE8500029"
+  },
+  {
+    "title": "Pikku Tiinan Kehtolaulu",
+    "artist": "Maynie Siren",
+    "isrc": "FIVLM6200885"
+  },
+  {
+    "title": "Ethän kultasein - Don't Sit Under the Apple Tree",
+    "artist": "Göran Ödner",
+    "isrc": "FIWMA0300301"
+  },
+  {
+    "title": "Sademies - Always in the Rain",
+    "artist": "Ari Klem",
+    "isrc": "FIYAM9100004"
+  },
+  {
+    "title": "Sininen huivi",
+    "artist": "Lasse Hoikka & Souvarit",
+    "isrc": "FIVP90400078"
+  },
+  {
+    "title": "Kovaa ja korkealta",
+    "artist": "Mikko Mäkeläinen ja Myrskylyhty",
+    "isrc": "FIYAM0600001"
+  },
+  {
+    "title": "Savon poeka",
+    "artist": "Veikko Sato",
+    "isrc": "FIFMF5300066"
+  },
+  {
+    "title": "Tuuliviiri - Mulino A Vento",
+    "artist": "Danny",
+    "isrc": "FIFSC6800003"
+  },
+  {
+    "title": "Hetkeksi en sulle rupia - Single Version",
+    "artist": "Lauri Tähkä & Elonkerjuu",
+    "isrc": "FIUM70700399"
+  },
+  {
+    "title": "Maailman valot",
+    "artist": "Pekka Himanka",
+    "isrc": "FIFFD7600019"
+  },
+  {
+    "title": "Pieninä palasina",
+    "artist": "Neon 2",
+    "isrc": "FIGPF2100004"
+  },
+  {
+    "title": "Mäntsälä mielessäin",
+    "artist": "Kake Singers",
+    "isrc": "FIFMF7900005"
+  },
+  {
+    "title": "Kaunis rietas onnellinen",
+    "artist": "Kaija Koo",
+    "isrc": "FIWMA1100701"
+  },
+  {
+    "title": "Misty",
+    "artist": "Matti Viljanen",
+    "isrc": "FIFPS7800018"
+  },
+  {
+    "title": "Haaveita tanssilavan luona",
+    "artist": "Reijo Viita",
+    "isrc": "FIFMF6500075"
+  },
+  {
+    "title": "Kesälauantai",
+    "artist": "Markus Törmälä & FBI Beat",
+    "isrc": "FIWMA0200004"
+  },
+  {
+    "title": "Samppanjaa",
+    "artist": "Lea Laven",
+    "isrc": "FIBAR0700017"
+  },
+  {
+    "title": "Puuterilunta",
+    "artist": "Marita Taavitsainen",
+    "isrc": "FIPFP9900111"
+  },
+  {
+    "title": "Anna vierellesi tulla",
+    "artist": "Joel Hallikainen",
+    "isrc": "FIFMF9300901"
+  },
+  {
+    "title": "Ihanaa Elämää",
+    "artist": "Anita Hirvonen",
+    "isrc": "FISMC8200036"
+  },
+  {
+    "title": "Hyvännäköinen",
+    "artist": "Markku Aro",
+    "isrc": "FIPT60400052"
+  },
+  {
+    "title": "Oi beibi jää",
+    "artist": "Tarja Lunnas",
+    "isrc": "FIBMB9600003"
+  },
+  {
+    "title": "Tämä Taivas, Tämä Maa",
+    "artist": "Jukka Kuoppamäki",
+    "isrc": "FIB8P0400031"
+  },
+  {
+    "title": "Naiset - Girls Girls Girls",
+    "artist": "Kai Hyttinen",
+    "isrc": "FIFMF7600010"
+  },
+  {
+    "title": "Asfalttiviidakko",
+    "artist": "Anne Mattila",
+    "isrc": "FIBAR0100148"
+  },
+  {
+    "title": "Jääkenttien kehtolaulu",
+    "artist": "Anna Hanski",
+    "isrc": "FIBMB9301007"
+  },
+  {
+    "title": "Kevät",
+    "artist": "Heidi Kyrö",
+    "isrc": "FIMTA0100059"
+  },
+  {
+    "title": "Sinisen Taivaan Sateenkaari",
+    "artist": "Janne Tulkki",
+    "isrc": "FIBMB9800019"
+  },
+  {
+    "title": "Mikä fiilis - Flashdance",
+    "artist": "Mona Carita",
+    "isrc": "FIFMF8300014"
+  },
+  {
+    "title": "Yössä sielujen",
+    "artist": "Eija Kantola",
+    "isrc": "FIYAM9400002"
+  },
+  {
+    "title": "Linnut",
+    "artist": "Rainer Friman",
+    "isrc": "FIEMS8901500"
+  },
+  {
+    "title": "Silmät kuin yö",
+    "artist": "Tarja Ylitalo",
+    "isrc": "FIFMF1226053"
+  },
+  {
+    "title": "Sinua sinua ainoastaan",
+    "artist": "Reijo Kallio",
+    "isrc": "FISMC8100057"
+  },
+  {
+    "title": "Marokosta Sudaniin - El Cumbanchero",
+    "artist": "Juha Eirto",
+    "isrc": "FIWMA0400443"
+  },
+  {
+    "title": "Avaa sydämesi mulle",
+    "artist": "Fredi",
+    "isrc": "FIFMF7400300"
+  },
+  {
+    "title": "Aamu toi ilta vei",
+    "artist": "Jamppa Tuominen",
+    "isrc": "FISMC7700053"
+  },
+  {
+    "title": "Daiga-daiga-duu",
+    "artist": "Reino Helismaa",
+    "isrc": "FIFMF4900100"
+  },
+  {
+    "title": "Mutsi ja faija",
+    "artist": "Antti Huovila",
+    "isrc": "FIBAR0100021"
+  },
+  {
+    "title": "En",
+    "artist": "Finlanders",
+    "isrc": "FIFPA0500002"
+  },
+  {
+    "title": "Tuolta saapuu Charlie Brown - Charlie Brown",
+    "artist": "Virve Rosti",
+    "isrc": "FIFFD7600003"
+  },
+  {
+    "title": "Suojaan",
+    "artist": "Anneli Mattila",
+    "isrc": "FIBAR0400228"
+  },
+  {
+    "title": "Afrikan tähti",
+    "artist": "Riki Sorsa",
+    "isrc": "FIARA9301311"
+  },
+  {
+    "title": "Eldorado",
+    "artist": "Kari Vepsä",
+    "isrc": "FIHC82400006"
+  },
+  {
+    "title": "Ihan kuin nuo toiset -Dom andra-",
+    "artist": "Reijo Taipale",
+    "isrc": "FIBAR0300001"
+  },
+  {
+    "title": "Odotetaan",
+    "artist": "Simo Silmu",
+    "isrc": "FIWMA0400427"
+  },
+  {
+    "title": "Tummat silmät, ruskea tukka",
+    "artist": "Paula Koivuniemi",
+    "isrc": "FIFMF8000200"
+  },
+  {
+    "title": "Autoajelulla",
+    "artist": "Pirkko Mannola",
+    "isrc": "FIFSC6000007"
+  },
+  {
+    "title": "Jos katsot silmiini - Woman in Love",
+    "artist": "Seija Simola",
+    "isrc": "FIFDP8000090"
+  },
+  {
+    "title": "Dam dam da da di dum",
+    "artist": "Saija Varjus",
+    "isrc": "FIMTA9700037"
+  },
+  {
+    "title": "Moi moi vain",
+    "artist": "Taiska",
+    "isrc": "FIPT61100023"
+  },
+  {
+    "title": "Vasten auringon siltaa - Alle porte del sole",
+    "artist": "Katri Helena",
+    "isrc": "FIFSC7500100"
+  },
+  {
+    "title": "Kylmän kukkia",
+    "artist": "Souvarit",
+    "isrc": "FIMMV0300002"
+  },
+  {
+    "title": "Muistoja karpaateilta",
+    "artist": "Veikko Tuomi",
+    "isrc": "FIFPS7800034"
+  },
+  {
+    "title": "Kalajoen Hiekat (California Dreamin')",
+    "artist": "Tapani Kansa",
+    "isrc": "FISMC7800002"
+  },
+  {
+    "title": "Veit sydämein",
+    "artist": "Merja Rantamäki",
+    "isrc": "FIFMF7700033"
+  },
+  {
+    "title": "Lämmin, hellä, pehmoinen",
+    "artist": "Matti Esko",
+    "isrc": "FIARA9500219"
+  },
+  {
+    "title": "Ajopuu",
+    "artist": "Yölintu",
+    "isrc": "FIUM71700221"
+  },
+  {
+    "title": "Suorinta tietä",
+    "artist": "Meiju Suvas",
+    "isrc": "FIMFI1900001"
+  },
+  {
+    "title": "Kohtaloni",
+    "artist": "Tomi Markkola",
+    "isrc": "FIMTA9700035"
+  },
+  {
+    "title": "Erottamattomat",
+    "artist": "Esko Rahkonen",
+    "isrc": "FIFMF6600010"
+  },
+  {
+    "title": "Jokkantii",
+    "artist": "Erkki Liikanen",
+    "isrc": "FIFDP7600001"
+  },
+  {
+    "title": "Rotunainen",
+    "artist": "Kirsi Ranto",
+    "isrc": "FI83R1000001"
+  },
+  {
+    "title": "Miksi kuljen",
+    "artist": "Tuula-Anneli Rantanen",
+    "isrc": "FIFMF1222818"
+  },
+  {
+    "title": "Taivaan Tulet - Bonus Track",
+    "artist": "Pasi Kaunisto",
+    "isrc": "FIPT61300018"
+  },
+  {
+    "title": "Ota tai jätä",
+    "artist": "Seija Lampila",
+    "isrc": "FIFPS5800010"
+  },
+  {
+    "title": "Jäljet hiekassa",
+    "artist": "Tamara Lund",
+    "isrc": "FIFMF6500028"
+  },
+  {
+    "title": "Keurusselän sini",
+    "artist": "Berit",
+    "isrc": "FIFPS8600100"
+  },
+  {
+    "title": "Olisitpa täällä",
+    "artist": "Charles Plogman",
+    "isrc": "FIBAR0900171"
+  },
+  {
+    "title": "Pidä Huolta - with Mistakes",
+    "artist": "Pave Maijanen",
+    "isrc": "FIFSC8100017"
+  },
+  {
+    "title": "Kellot Soi (Un Giorno tu Mi Cercherai)",
+    "artist": "Topi Sorsakoski, Agents",
+    "isrc": "FIEFE0700395"
+  },
+  {
+    "title": "Miks ei",
+    "artist": "Laura Voutilainen",
+    "isrc": "FIK3E1600204"
+  },
+  {
+    "title": "Onnestain On Puolet Sinun",
+    "artist": "Kisu",
+    "isrc": "FIEFE7700005"
+  },
+  {
+    "title": "Anna yksi yö",
+    "artist": "Johanna Pakonen",
+    "isrc": "FIMTA0200088"
+  },
+  {
+    "title": "Muistathan",
+    "artist": "Päivi Paunu, Kim Floor",
+    "isrc": "FIFMF7200800"
+  },
+  {
+    "title": "Voitko Unohtaa",
+    "artist": "Juhamatti",
+    "isrc": "FIPT60300095"
+  },
+  {
+    "title": "Pöytä täyteen!",
+    "artist": "Matti ja Teppo",
+    "isrc": "FIMTR0600001"
+  },
+  {
+    "title": "Novgorodin ruusu",
+    "artist": "Seija Karpiomaa",
+    "isrc": "FIFSC6102900"
+  },
+  {
+    "title": "Kohtalon tango",
+    "artist": "Eino Grön",
+    "isrc": "FIFSC6303500"
+  },
+  {
+    "title": "Lapin Kultaa",
+    "artist": "Eija Sinikka",
+    "isrc": "FITAT9700024"
+  },
+  {
+    "title": "Hetki lyö",
+    "artist": "Kirka",
+    "isrc": "FIBAR9000301"
+  },
+  {
+    "title": "Ruusuja hopeamaljassa",
+    "artist": "Erkki Junkkarinen",
+    "isrc": "FIFPS7500002"
+  },
+  {
+    "title": "Ikkunaprinsessa",
+    "artist": "Rauli Badding Somerjoki",
+    "isrc": "FILKA8200102"
+  },
+  {
+    "title": "Täältä ikuisuuteen (Niente)",
+    "artist": "Isto Hiltunen",
+    "isrc": "FIEDN0000001"
+  },
+  {
+    "title": "Tää kaikki olis voinut olla sun",
+    "artist": "Eini",
+    "isrc": "FIBAR2400125"
+  },
+  {
+    "title": "My Boy Lollipop",
+    "artist": "Marion Rung",
+    "isrc": "FIFMF6400005"
+  },
+  {
+    "title": "Tuulen Värit (Colors Of The Wind) - Elokuvasta Pocahontas",
+    "artist": "Arja Koriseva",
+    "isrc": "FISMC9500106"
+  },
+  {
+    "title": "Homman nimi (Jake & Almo Remix)",
+    "artist": "Janne Hurme, Jake & Almo",
+    "isrc": "FITVD2300012"
+  },
+  {
+    "title": "Yö saaristossa",
+    "artist": "Eija Merilä",
+    "isrc": "FIFSC6400016"
+  },
+  {
+    "title": "Mä maalaispoika oon",
+    "artist": "Mikko Alatalo",
+    "isrc": "FIARA1200131"
+  },
+  {
+    "title": "Mitä yhdestä särkyneestä sydämestä",
+    "artist": "Mamba",
+    "isrc": "FIFMF8400044"
+  },
+  {
+    "title": "Erehdyin kerran",
+    "artist": "Seppo Hanski",
+    "isrc": "FIFMF6700007"
+  },
+  {
+    "title": "Kaikista kasvoista",
+    "artist": "Anna Eriksson",
+    "isrc": "FIPFP0300139"
+  },
+  {
+    "title": "Hilu Hilu",
+    "artist": "Kaija Pohjola",
+    "isrc": "FIPT60500024"
+  },
+  {
+    "title": "Rakkauden satu",
+    "artist": "Jorma Lyytinen",
+    "isrc": "FIFMF5900032"
+  },
+  {
+    "title": "Juna kulkee - Il Treno Va",
+    "artist": "Kari Tapio",
+    "isrc": "FIARA0300028"
+  },
+  {
+    "title": "Lärvätsalo go-go",
+    "artist": "Kari Kuuva",
+    "isrc": "FIFSC6601400"
+  },
+  {
+    "title": "Syvälle silmiin",
+    "artist": "Arja Havakka",
+    "isrc": "FIARA9900125"
+  },
+  {
+    "title": "Mä tahdon sun elämään",
+    "artist": "Pekka Ruuska",
+    "isrc": "FIPST9300401"
+  },
+  {
+    "title": "Syksyn tango",
+    "artist": "Johnny Forsell",
+    "isrc": "FIFMF6100019"
+  },
+  {
+    "title": "Aurinkoinen Rio",
+    "artist": "Rita Elmgren",
+    "isrc": "FIFMF1320894"
+  },
+  {
+    "title": "Malagaan",
+    "artist": "Jari Sillanpää",
+    "isrc": "FIWMA1400142"
+  },
+  {
+    "title": "Tilipäivä koittaa",
+    "artist": "Kake Randelin",
+    "isrc": "FIFMF1221022"
+  },
+  {
+    "title": "Mustanmeren valssi",
+    "artist": "Leif Wager",
+    "isrc": "FIFMF6000057"
+  },
+  {
+    "title": "Lentosuukko",
+    "artist": "Susanna Heikki",
+    "isrc": "FIMTA9800054"
+  },
+  {
+    "title": "Kukat Kauniit Aamuin Sulle Toisin (If I Thought You'd Ever Change Your Mind)",
+    "artist": "Sammy Babitzin",
+    "isrc": "FIEFC7000018"
+  },
+  {
+    "title": "Ei myö myyvä villihevosia (Villihevosia)",
+    "artist": "Solistiyhtye Suomi",
+    "isrc": "FIBAR0200056"
+  },
+  {
+    "title": "Poika varjoiselta kujalta",
+    "artist": "Kalevi Korpi",
+    "isrc": "FIFPS7600032"
+  },
+  {
+    "title": "Lupaus",
+    "artist": "Mikko Mäkeläinen",
+    "isrc": "FIMOM2400001"
+  },
+  {
+    "title": "Syystuuli",
+    "artist": "Taikakuu",
+    "isrc": "FIPFP0000061"
+  },
+  {
+    "title": "En voi sydantä siirtää",
+    "artist": "Saija Tuupanen",
+    "isrc": "FIMGM2400010"
+  },
+  {
+    "title": "Suuret setelit",
+    "artist": "Tommi Soidinmäki",
+    "isrc": "FIHC81800029"
+  },
+  {
+    "title": "Sisäinen kauneus - You and the Looking Class",
+    "artist": "Jouko ja Kosti",
+    "isrc": "FIFMF7100018"
+  },
+  {
+    "title": "Mandschurian Beat",
+    "artist": "Jorma Kaariainen, Agents",
+    "isrc": "FIEFP9700040"
+  },
+  {
+    "title": "Naurava kulkuri",
+    "artist": "Pärre Förars",
+    "isrc": "FIFMF5800061"
+  },
+  {
+    "title": "Kaipaan kahta sanaa",
+    "artist": "Markus Allan",
+    "isrc": "FIFMF6600012"
+  },
+  {
+    "title": "Lumikenttien kutsu",
+    "artist": "Jukka Raitanen",
+    "isrc": "FIFFD7600017"
+  },
+  {
+    "title": "Tunturin juurella",
+    "artist": "Ilkka Rinne",
+    "isrc": "FIFMF6000021"
+  },
+  {
+    "title": "Piove",
+    "artist": "Anna-Liisa Pyykkö",
+    "isrc": "FIFMF5900068"
+  },
+  {
+    "title": "Haaveiden Laiva",
+    "artist": "Maarit Peltoniemi",
+    "isrc": "FIEDN9800001"
+  }
+]

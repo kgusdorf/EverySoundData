@@ -1,0 +1,722 @@
+[
+  {
+    "title": "Cidade Vazia",
+    "artist": "Milton Banana Trio",
+    "isrc": "BREMI6600080"
+  },
+  {
+    "title": "Upa, Neguinho",
+    "artist": "Rio 65 Trio",
+    "isrc": "BRMCA6600058"
+  },
+  {
+    "title": "Coisa Nº 10",
+    "artist": "Moacir Santos",
+    "isrc": "BRMUD0100010"
+  },
+  {
+    "title": "Que Maravilha / Chove Chuva",
+    "artist": "Zimbo Trio",
+    "isrc": "BRUM70800373"
+  },
+  {
+    "title": "Síntese",
+    "artist": "Quarteto Novo",
+    "isrc": "BREMI6700319"
+  },
+  {
+    "title": "Samba Pro Pedrinho",
+    "artist": "Sambalanço Trio",
+    "isrc": "BRSGL6600058"
+  },
+  {
+    "title": "Pinta Lá",
+    "artist": "Meirelles E Os Copa 5",
+    "isrc": "BRDUM0200049"
+  },
+  {
+    "title": "Influência Do Jazz",
+    "artist": "Tamba Trio",
+    "isrc": "BRPGD6200001"
+  },
+  {
+    "title": "Tristeza Vai Embora",
+    "artist": "Edison Machado",
+    "isrc": "BRSME9400351"
+  },
+  {
+    "title": "Kaô, Xangô",
+    "artist": "Johnny Alf",
+    "isrc": "FR6V82246434"
+  },
+  {
+    "title": "Escravos de Jo",
+    "artist": "Dom Um Romao",
+    "isrc": "USFI87600453"
+  },
+  {
+    "title": "San Salvador",
+    "artist": "Tamba 4",
+    "isrc": "USUM70600187"
+  },
+  {
+    "title": "Bebe",
+    "artist": "Hermeto Pascoal, Doug deVries, James Macauley",
+    "isrc": "AUHF01316501"
+  },
+  {
+    "title": "Ginger Bread Boy",
+    "artist": "Victor Assis Brasil",
+    "isrc": "GBDCR1700040"
+  },
+  {
+    "title": "Canto De Ossanha",
+    "artist": "Baden Powell, Vinícius de Moraes",
+    "isrc": "BRMCA6600001"
+  },
+  {
+    "title": "Ain't No Sunshine",
+    "artist": "Sivuca",
+    "isrc": "USVG29707603"
+  },
+  {
+    "title": "Primavera",
+    "artist": "Sérgio Mendes Trio",
+    "isrc": "BRMCA6700214"
+  },
+  {
+    "title": "Ilha do Mel",
+    "artist": "Raul De Souza",
+    "isrc": "FR0G01500524"
+  },
+  {
+    "title": "Lady Samba",
+    "artist": "Waltel Branco",
+    "isrc": "BRSME7500122"
+  },
+  {
+    "title": "San Roque",
+    "artist": "The Ipanemas",
+    "isrc": "GBDCR0500142"
+  },
+  {
+    "title": "Nanã",
+    "artist": "Os Cobras",
+    "isrc": "BRBMG6400086"
+  },
+  {
+    "title": "Samblues",
+    "artist": "Som/3",
+    "isrc": "BRSGL6600036"
+  },
+  {
+    "title": "A Vontade Mesmo",
+    "artist": "Raulzinho",
+    "isrc": "BRBMG6400083"
+  },
+  {
+    "title": "Imprevisto",
+    "artist": "Bossa Tres",
+    "isrc": "GBCLQ0000422"
+  },
+  {
+    "title": "Embalo",
+    "artist": "Tenorio Jr.",
+    "isrc": "BRSGL6400031"
+  },
+  {
+    "title": "Sambalamento",
+    "artist": "Luiz Bonfá, Lalo Schifrin, Oscar Castro-Neves",
+    "isrc": "USGR19906223"
+  },
+  {
+    "title": "Samba Novo",
+    "artist": "Sambrasa Trio",
+    "isrc": "QMBZ91931697"
+  },
+  {
+    "title": "Roda Mundo",
+    "artist": "Ana Mazzotti",
+    "isrc": "GBDCR1900037"
+  },
+  {
+    "title": "Águas De Março",
+    "artist": "Milton Banana",
+    "isrc": "BREMI7200506"
+  },
+  {
+    "title": "Não Me Diga Adeus",
+    "artist": "Bossa 3",
+    "isrc": "BREMI6600183"
+  },
+  {
+    "title": "Águas de Março",
+    "artist": "Quarteto Jobim-Morelenbaum",
+    "isrc": "BRVLS9900043"
+  },
+  {
+    "title": "Melanina",
+    "artist": "Amaro Freitas",
+    "isrc": "USANG2232924"
+  },
+  {
+    "title": "Caminhemos",
+    "artist": "Marilia Medalha",
+    "isrc": "BRRGE9400519"
+  },
+  {
+    "title": "Água de Beber",
+    "artist": "Astrud Gilberto, Antônio Carlos Jobim",
+    "isrc": "USPR36500060"
+  },
+  {
+    "title": "Garota de Copacabana",
+    "artist": "Edson Frederico",
+    "isrc": "BX4E52016861"
+  },
+  {
+    "title": "That's What She Says",
+    "artist": "Manfredo Fest",
+    "isrc": "GBDCR2000028"
+  },
+  {
+    "title": "The Girl From Ipanema",
+    "artist": "Stan Getz",
+    "isrc": "USPR36305146"
+  },
+  {
+    "title": "Mais Kriola",
+    "artist": "Helio Matheus",
+    "isrc": "BRBMG7500184"
+  },
+  {
+    "title": "Tema Pro Gaguinho",
+    "artist": "Don Salvador Trio",
+    "isrc": "GBEWZ0506701"
+  },
+  {
+    "title": "Noite",
+    "artist": "Fabiano do Nascimento",
+    "isrc": "USA2P2133780"
+  },
+  {
+    "title": "Leilão",
+    "artist": "Werther",
+    "isrc": "DEXX21900002"
+  },
+  {
+    "title": "Com Lágrimas Na Voz",
+    "artist": "Guilherme Vergueiro, Paulinho Lima, Luiza Possi",
+    "isrc": "BRLUZ0700008"
+  },
+  {
+    "title": "Tema Três",
+    "artist": "Tema Tres",
+    "isrc": "GBDCR0900221"
+  },
+  {
+    "title": "Olhou Pra Mim",
+    "artist": "Moacyr Silva",
+    "isrc": "BREMI0300870"
+  },
+  {
+    "title": "Mestre Bimba",
+    "artist": "Duduka Da Fonseca",
+    "isrc": "ushm80681249"
+  },
+  {
+    "title": "Bossa Só",
+    "artist": "Sansa Trio",
+    "isrc": "BRSGL6600149"
+  },
+  {
+    "title": "G.R.E.S. Luxo Artesanal / O Camponês",
+    "artist": "Nando Carneiro",
+    "isrc": "NLD7H1700031"
+  },
+  {
+    "title": "O Gondoleiro Do Amor",
+    "artist": "Andréa Daltro, Manuel Veiga, Luciano Bahia, Luciano Chaves, Eduardo Fagundes",
+    "isrc": "GBAJU9600513"
+  },
+  {
+    "title": "Gaúcho – Corta Jaca",
+    "artist": "Orquestra Popular de Câmara",
+    "isrc": "QMDA61497346"
+  },
+  {
+    "title": "The Spell of the Samba (Samba da Minha Terra)",
+    "artist": "The Paul Winter Sextet",
+    "isrc": "USSM11402915"
+  },
+  {
+    "title": "Roda",
+    "artist": "Conjunto 3 d",
+    "isrc": "BREMI6700297"
+  },
+  {
+    "title": "Mentira",
+    "artist": "Quintetto X",
+    "isrc": "ITO0P0502096"
+  },
+  {
+    "title": "Giro",
+    "artist": "Conjunto Sambacana",
+    "isrc": "BREMI0400133"
+  },
+  {
+    "title": "Samba de Verão",
+    "artist": "Conjunto Som 4",
+    "isrc": "BRWMB0200932"
+  },
+  {
+    "title": "Cidade Vazia",
+    "artist": "Djalma Dias and Sambossa 5",
+    "isrc": "GBDCR0700059"
+  },
+  {
+    "title": "Estudos Populares Brasileiros, No. 3",
+    "artist": "Paulo Martelli",
+    "isrc": "BRTRB2069007"
+  },
+  {
+    "title": "Yemanja",
+    "artist": "Ginga Trio",
+    "isrc": "GB4FX1409622"
+  },
+  {
+    "title": "Tokio",
+    "artist": "Hector Costita Sexteto",
+    "isrc": "AUXN22173287"
+  },
+  {
+    "title": "Upa Neguinho",
+    "artist": "Luiz Loy Quinteto",
+    "isrc": "BRSGL6600013"
+  },
+  {
+    "title": "Berimbau",
+    "artist": "Mandrake Som",
+    "isrc": "BX4E52016728"
+  },
+  {
+    "title": "Jequibach (Arr. for Guitar by Sérgio Assad)",
+    "artist": "Mario Albanese, Plínio Fernandes",
+    "isrc": "USUM72309389"
+  },
+  {
+    "title": "Onda Quebrando",
+    "artist": "Neyde Fraga",
+    "isrc": "GBDCR1300043"
+  },
+  {
+    "title": "Sambules",
+    "artist": "Octeto de Cesar Camargo Mariano",
+    "isrc": "GBDCR0700060"
+  },
+  {
+    "title": "Birimbau",
+    "artist": "Os Cincos Pados",
+    "isrc": "QMDA71547075"
+  },
+  {
+    "title": "O Mandrake",
+    "artist": "Os Pilantrocratas",
+    "isrc": "GBEWZ0204103"
+  },
+  {
+    "title": "Primavera",
+    "artist": "Primo Trio",
+    "isrc": "QM4TX1900248"
+  },
+  {
+    "title": "Stella By Starlight - Swing",
+    "artist": "Salvador Trio",
+    "isrc": "QZDFP1906090"
+  },
+  {
+    "title": "Comendo Faca",
+    "artist": "Satanique Samba Trio",
+    "isrc": "BRA5P0400075"
+  },
+  {
+    "title": "Santa Morena",
+    "artist": "Terça Feira Trio",
+    "isrc": "FRY390912645"
+  },
+  {
+    "title": "Cidade Luz",
+    "artist": "Zé Leônidas, Mônica Salmaso, Teco Cardoso",
+    "isrc": "BXJUK1900031"
+  },
+  {
+    "title": "Barquinho Diferente",
+    "artist": "Milton Banana Trio",
+    "isrc": "BREMI6600241"
+  },
+  {
+    "title": "Deve Ser Bonito",
+    "artist": "Rio 65 Trio",
+    "isrc": "BRMCA6600051"
+  },
+  {
+    "title": "Maracatu, Nação do Amor (April Child)",
+    "artist": "Moacir Santos, Gilberto Gil",
+    "isrc": "BRMUD0100020"
+  },
+  {
+    "title": "Só Danço Samba",
+    "artist": "Zimbo Trio",
+    "isrc": "BRMVP0300455"
+  },
+  {
+    "title": "O Ovo",
+    "artist": "Quarteto Novo",
+    "isrc": "BREMI6700314"
+  },
+  {
+    "title": "Deixa",
+    "artist": "Sambalanço Trio",
+    "isrc": "BRSGL6600059"
+  },
+  {
+    "title": "Mandinga",
+    "artist": "Meirelles E Os Copa 5",
+    "isrc": "BRDUM0200052"
+  },
+  {
+    "title": "Batida Diferente",
+    "artist": "Tamba Trio",
+    "isrc": "BRPGD6200002"
+  },
+  {
+    "title": "Nanã",
+    "artist": "Edison Machado",
+    "isrc": "BRSME9400348"
+  },
+  {
+    "title": "Despedida De Mangueira",
+    "artist": "Johnny Alf",
+    "isrc": "BREMI7100640"
+  },
+  {
+    "title": "Ponteio",
+    "artist": "Dom Um Romao",
+    "isrc": "USSJ10905078"
+  },
+  {
+    "title": "Pra você, ilza - Hermeto Pascoal & Grupo",
+    "artist": "Hermeto Pascoal, Ajurinã Zwarg, Andre Marques, Fabio Pascoal, Itiberê Zwarg, Jota P",
+    "isrc": "BXPNP2400014"
+  },
+  {
+    "title": "Samba Blim",
+    "artist": "Tamba 4",
+    "isrc": "USUM70600177"
+  },
+  {
+    "title": "Só Tinha de Ser Com Você",
+    "artist": "Victor Assis Brasil",
+    "isrc": "GBDCR1700015"
+  },
+  {
+    "title": "Consolação",
+    "artist": "Baden Powell",
+    "isrc": "BRMCA6700126"
+  },
+  {
+    "title": "Amor Verdadeiro",
+    "artist": "Sivuca",
+    "isrc": "USC4R9001362"
+  },
+  {
+    "title": "Garota De Ipanema",
+    "artist": "Sérgio Mendes Trio",
+    "isrc": "BRMCA6700211"
+  },
+  {
+    "title": "Bossa Eterna",
+    "artist": "Raul De Souza",
+    "isrc": "FR0G01500518"
+  },
+  {
+    "title": "Luar do Sertão",
+    "artist": "Waltel Branco",
+    "isrc": "BRSME7500124"
+  },
+  {
+    "title": "Música Profissional",
+    "artist": "The Ipanemas",
+    "isrc": "GBDCR0400333"
+  },
+  {
+    "title": "Quintessência",
+    "artist": "Os Cobras",
+    "isrc": "BRBMG6400085"
+  },
+  {
+    "title": "O Morro Não Tem Vez",
+    "artist": "Som/3",
+    "isrc": "BRSGL6600045"
+  },
+  {
+    "title": "Estamos Ai",
+    "artist": "Raulzinho",
+    "isrc": "BRBMG6500081"
+  },
+  {
+    "title": "Bossa Nova Guitar",
+    "artist": "Bossa Tres, Jo Basile",
+    "isrc": "ES7711831112"
+  },
+  {
+    "title": "Inútil Paisagem",
+    "artist": "Tenorio Jr.",
+    "isrc": "BRSGL6400032"
+  },
+  {
+    "title": "Bossa Nova Cha Cha",
+    "artist": "Luiz Bonfá, Lalo Schifrin, Oscar Castro-Neves",
+    "isrc": "USGR19906234"
+  },
+  {
+    "title": "Clerenice",
+    "artist": "Sambrasa Trio",
+    "isrc": "QMBZ91931698"
+  },
+  {
+    "title": "Feel Like Making Love",
+    "artist": "Ana Mazzotti",
+    "isrc": "GBDCR1900043"
+  },
+  {
+    "title": "Bossa Nova Blues",
+    "artist": "Milton Banana, Oscar Castro-Neves",
+    "isrc": "AUXN22142754"
+  },
+  {
+    "title": "Onde Anda O Meu Amor",
+    "artist": "Bossa 3",
+    "isrc": "BREMI6500048"
+  },
+  {
+    "title": "Só Tinha de Ser Com Você",
+    "artist": "Quarteto Jobim-Morelenbaum",
+    "isrc": "BRVLS9900033"
+  },
+  {
+    "title": "Y'Y",
+    "artist": "Amaro Freitas, Shabaka",
+    "isrc": "BC7772300002"
+  },
+  {
+    "title": "Água Escondida",
+    "artist": "Marilia Medalha",
+    "isrc": "BRRGE9400524"
+  },
+  {
+    "title": "Fly Me To The Moon",
+    "artist": "Astrud Gilberto",
+    "isrc": "USPR36409921"
+  },
+  {
+    "title": "Tava mas não tava",
+    "artist": "Edson Frederico",
+    "isrc": "BX4E52016858"
+  },
+  {
+    "title": "Braziliana Nº 1",
+    "artist": "Manfredo Fest",
+    "isrc": "GBDCR2000031"
+  },
+  {
+    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "artist": "Stan Getz, João Gilberto, Astrud Gilberto, Antônio Carlos Jobim",
+    "isrc": "USPR36307074"
+  },
+  {
+    "title": "Briguenta",
+    "artist": "Helio Matheus",
+    "isrc": "BRBMG7500182"
+  },
+  {
+    "title": "Miscelania",
+    "artist": "Don Salvador Trio",
+    "isrc": "GBEWZ0506703"
+  },
+  {
+    "title": "Ewe",
+    "artist": "Fabiano do Nascimento, Airto Moreira, Kana Shimanuki",
+    "isrc": "US2S71521002"
+  },
+  {
+    "title": "Lenda",
+    "artist": "Werther",
+    "isrc": "DEXX21900008"
+  },
+  {
+    "title": "Samba Do Brilho",
+    "artist": "Guilherme Vergueiro",
+    "isrc": "ushm81975572"
+  },
+  {
+    "title": "Sá Marina",
+    "artist": "Tema Tres",
+    "isrc": "QM4TW1554566"
+  },
+  {
+    "title": "Murmurio",
+    "artist": "Moacyr Silva",
+    "isrc": "NLHR52135372"
+  },
+  {
+    "title": "Bala Com Bala",
+    "artist": "Duduka Da Fonseca",
+    "isrc": "USY870800012"
+  },
+  {
+    "title": "Samba Em Blue",
+    "artist": "Sansa Trio",
+    "isrc": "GBDCR0700063"
+  },
+  {
+    "title": "As Gralhas (Paranóia-Música)",
+    "artist": "Nando Carneiro, André Geraissati, Egberto Gismonti",
+    "isrc": "DED538300305"
+  },
+  {
+    "title": "Se Esse Rua Fosse Minha",
+    "artist": "Andréa Daltro, Manuel Veiga, Luciano Bahia, Luciano Chaves, Eduardo Fagundes",
+    "isrc": "GBAJU9600510"
+  },
+  {
+    "title": "Parafuso",
+    "artist": "Orquestra Popular de Câmara",
+    "isrc": "QMDA61497344"
+  },
+  {
+    "title": "Agua de Beber/ Aguas de Março",
+    "artist": "Milton Banana Trio",
+    "isrc": "BRBMG7900330"
+  },
+  {
+    "title": "Ponte Aérea",
+    "artist": "Rio 65 Trio",
+    "isrc": "BRMCA6600054"
+  },
+  {
+    "title": "Sou Eu",
+    "artist": "Moacir Santos, Djavan",
+    "isrc": "BRMUD0100014"
+  },
+  {
+    "title": "Corcovado",
+    "artist": "Zimbo Trio",
+    "isrc": "BRMVP0300169"
+  },
+  {
+    "title": "Vim De Sant'Ana",
+    "artist": "Quarteto Novo",
+    "isrc": "BREMI6700321"
+  },
+  {
+    "title": "Pra Machucar Meu Coração",
+    "artist": "Sambalanço Trio",
+    "isrc": "BRSGL6600063"
+  },
+  {
+    "title": "Naima",
+    "artist": "Meirelles E Os Copa 5",
+    "isrc": "BRDUM0400024"
+  },
+  {
+    "title": "Mas Que Nada",
+    "artist": "Tamba Trio",
+    "isrc": "BRPGD6300004"
+  },
+  {
+    "title": "Quintessência",
+    "artist": "Edison Machado",
+    "isrc": "BRSME9400353"
+  },
+  {
+    "title": "Eu e a Brisa",
+    "artist": "Johnny Alf",
+    "isrc": "FR6V82246446"
+  },
+  {
+    "title": "Lamento Negro",
+    "artist": "Dom Um Romao",
+    "isrc": "USSJ10905083"
+  },
+  {
+    "title": "São Jorge",
+    "artist": "Hermeto Pascoal",
+    "isrc": "BRWMB9800912"
+  },
+  {
+    "title": "We And The Sea (Nos e ou Mar)",
+    "artist": "Tamba 4",
+    "isrc": "USGR10000411"
+  },
+  {
+    "title": "Bonita",
+    "artist": "Victor Assis Brasil",
+    "isrc": "GBDCR1700017"
+  },
+  {
+    "title": "Canto de Ossanha",
+    "artist": "Baden Powell, Quarteto Em Cy",
+    "isrc": "BRPUI0700941"
+  },
+  {
+    "title": "Você Abusou",
+    "artist": "Sivuca",
+    "isrc": "USC4R9001365"
+  },
+  {
+    "title": "So Tinha De Ser Com Voce",
+    "artist": "Sérgio Mendes Trio",
+    "isrc": "BRMCA6700208"
+  },
+  {
+    "title": "Nanã",
+    "artist": "Raul De Souza, Christophe Schweizer, Alex Corrêa, Glauco Solter, Matheus Jardim",
+    "isrc": "ATZ062013702"
+  },
+  {
+    "title": "Jael",
+    "artist": "Waltel Branco",
+    "isrc": "BRSME7500128"
+  },
+  {
+    "title": "Suspeita",
+    "artist": "The Ipanemas",
+    "isrc": "GBDCR0400329"
+  },
+  {
+    "title": "Uganda",
+    "artist": "Os Cobras",
+    "isrc": "BRBMG6400090"
+  },
+  {
+    "title": "Canto de Ossanha",
+    "artist": "Som/3",
+    "isrc": "BRSGL6600037"
+  },
+  {
+    "title": "Jor-Du",
+    "artist": "Raulzinho",
+    "isrc": "BRBMG6500082"
+  },
+  {
+    "title": "Voce e Eu",
+    "artist": "Bossa Tres, Jo Basile",
+    "isrc": "ES7711831103"
+  },
+  {
+    "title": "Fim de Semana Em Eldorado",
+    "artist": "Tenorio Jr.",
+    "isrc": "BRSGL6400035"
+  }
+]

@@ -1,0 +1,867 @@
+[
+  {
+    "title": "Musica leggerissima",
+    "artist": "Colapesce, Dimartino",
+    "isrc": "IT3GN2100008"
+  },
+  {
+    "title": "Ciao Ciao",
+    "artist": "La rappresentante di lista",
+    "isrc": "ITCV32108550"
+  },
+  {
+    "title": "Ci diamo un bacio",
+    "artist": "Dimartino",
+    "isrc": "IT3GN1900005"
+  },
+  {
+    "title": "Taddarita",
+    "artist": "Alessio Bondì",
+    "isrc": "ITV502400001"
+  },
+  {
+    "title": "Nicuzza",
+    "artist": "Tinturia",
+    "isrc": "FR6V81161784"
+  },
+  {
+    "title": "Mi sono perso a Zanzibar",
+    "artist": "Nicolò Carnesi",
+    "isrc": "ITR361200060"
+  },
+  {
+    "title": "Cocciu d'amuri - Dal film di Ficarra e Picone \"Andiamo a quel paese\"",
+    "artist": "Lello Analfino",
+    "isrc": "ITE061400038"
+  },
+  {
+    "title": "Long Shadows",
+    "artist": "Fabrizio Cammarata",
+    "isrc": "GBGLW1700098"
+  },
+  {
+    "title": "Donnafugata",
+    "artist": "Mario Incudine",
+    "isrc": "IT0141700040"
+  },
+  {
+    "title": "Voglio vivere cosi'",
+    "artist": "Qbeta",
+    "isrc": "FR6V80524672"
+  },
+  {
+    "title": "Malamuri",
+    "artist": "Olivia Sellerio",
+    "isrc": "ITE321702134"
+  },
+  {
+    "title": "Quannu moru",
+    "artist": "Ipercussonici",
+    "isrc": "ITA881300079"
+  },
+  {
+    "title": "Pertanto",
+    "artist": "Il Pan Del Diavolo",
+    "isrc": "ITP840900630"
+  },
+  {
+    "title": "Ciuscia",
+    "artist": "Tamuna",
+    "isrc": "ITR891400153"
+  },
+  {
+    "title": "Amatevi",
+    "artist": "Agricantus",
+    "isrc": "ITB200222004"
+  },
+  {
+    "title": "Orfani per desiderio",
+    "artist": "Angelo Sicurella",
+    "isrc": "QMBZ91513898"
+  },
+  {
+    "title": "1908",
+    "artist": "Tony Canto",
+    "isrc": "ITT531600145"
+  },
+  {
+    "title": "Marta",
+    "artist": "Agnello",
+    "isrc": "TCADO1838536"
+  },
+  {
+    "title": "Bedda (feat. Peppe Qbeta)",
+    "artist": "Pachira, Peppe Qbeta",
+    "isrc": "uscgj1567988"
+  },
+  {
+    "title": "Tanto così",
+    "artist": "le Formiche",
+    "isrc": "CH6541872885"
+  },
+  {
+    "title": "Ninna nanna in re",
+    "artist": "Francesca Incudine, Antonio Vasta",
+    "isrc": "ITO141300004"
+  },
+  {
+    "title": "Wooooo",
+    "artist": "Waines",
+    "isrc": "ITV500900202"
+  },
+  {
+    "title": "Non è Caracas",
+    "artist": "I Giocattoli, CIMINI",
+    "isrc": "ITJPA1800017"
+  },
+  {
+    "title": "Vulnerabile",
+    "artist": "The Heron Temple",
+    "isrc": "TCADH1784414"
+  },
+  {
+    "title": "Malamerika",
+    "artist": "Pupi Di Surfaro",
+    "isrc": "ITK602200106"
+  },
+  {
+    "title": "Iermanimei",
+    "artist": "Eleonora Bordonaro",
+    "isrc": "ITO142400001"
+  },
+  {
+    "title": "A Cool Car And A Good Smile",
+    "artist": "Aurora D'Amico",
+    "isrc": "IT2HQ2400002"
+  },
+  {
+    "title": "see you around the bend",
+    "artist": "Sergio Beercock",
+    "isrc": "ITV502003001"
+  },
+  {
+    "title": "Don't Mean a Thing",
+    "artist": "Da Black Jezus",
+    "isrc": "ITJ501706093"
+  },
+  {
+    "title": "Bella Ciao",
+    "artist": "Libero Reina, Cafe De Anatolia",
+    "isrc": "US83Z2471557"
+  },
+  {
+    "title": "Bona crianza",
+    "artist": "Marco Corrao",
+    "isrc": "ITIQW2000043"
+  },
+  {
+    "title": "Malu Signu",
+    "artist": "Federico Stabile",
+    "isrc": "ITLL22001004"
+  },
+  {
+    "title": "Scatterbrained",
+    "artist": "12bbr",
+    "isrc": "ushm21690562"
+  },
+  {
+    "title": "Nova Terra",
+    "artist": "Ottoni Animati",
+    "isrc": "GX5MY2214124"
+  },
+  {
+    "title": "Quannu moru",
+    "artist": "Etta Scollo",
+    "isrc": "DEFL71500952"
+  },
+  {
+    "title": "Mal d'africa",
+    "artist": "Tre Terzi",
+    "isrc": "ITPG01800023"
+  },
+  {
+    "title": "Don Pippuzzu",
+    "artist": "Gabriella Lucia Grasso, Carmen Consoli",
+    "isrc": "ITF291700010"
+  },
+  {
+    "title": "Eliogabalo",
+    "artist": "La Casbah",
+    "isrc": "TCAEK1981113"
+  },
+  {
+    "title": "L'estate non è",
+    "artist": "Chiara Minaldi",
+    "isrc": "TCAEL1920051"
+  },
+  {
+    "title": "Allallatu",
+    "artist": "Reggae Zone Family",
+    "isrc": "usl4q1861965"
+  },
+  {
+    "title": "La Murga de los Niños",
+    "artist": "Mezcal Project, Jah Sazzah, Che Sudaka",
+    "isrc": "DEAR41745606"
+  },
+  {
+    "title": "Pani Mottu",
+    "artist": "Big Mimma",
+    "isrc": "ITZB51300095"
+  },
+  {
+    "title": "L'Albero dei Sogni",
+    "artist": "Ruggiero Mascellino",
+    "isrc": "TCAGS2383921"
+  },
+  {
+    "title": "Segreteria",
+    "artist": "Giusè, Subfix",
+    "isrc": "QZK6H2098975"
+  },
+  {
+    "title": "Mantide",
+    "artist": "10 HP",
+    "isrc": "ITOY01900005"
+  },
+  {
+    "title": "Notte",
+    "artist": "22esimo Quartiere, Zu luciano",
+    "isrc": "FR6V81681231"
+  },
+  {
+    "title": "Unfulfilled Desire",
+    "artist": "Acacia",
+    "isrc": "GBKPL1254189"
+  },
+  {
+    "title": "Gioca Adesso",
+    "artist": "Alberto Cannatella",
+    "isrc": "CH6541990236"
+  },
+  {
+    "title": "Limoncello",
+    "artist": "Alisia Jalsy",
+    "isrc": "CH6541987310"
+  },
+  {
+    "title": "Non mi dedico più a te",
+    "artist": "Andrea Romano Il Fratello, Marcin Öz, The Whitest Boy Alive",
+    "isrc": "FR2X41920176"
+  },
+  {
+    "title": "La siminzina",
+    "artist": "Anita Vitale, Osvaldo Lo Iacono",
+    "isrc": "ITK660810017"
+  },
+  {
+    "title": "I Treni di Tozeur",
+    "artist": "Armando Cacciato, Desiana Bruno",
+    "isrc": "USHM22470708"
+  },
+  {
+    "title": "Coco Pops",
+    "artist": "Beatrice V",
+    "isrc": "ITQ001900263"
+  },
+  {
+    "title": "Amici miei",
+    "artist": "Caleido, Cordio",
+    "isrc": "ITA881800458"
+  },
+  {
+    "title": "La Espera",
+    "artist": "Daniele Guastella, Edgar Oceransky",
+    "isrc": "ITA882000526"
+  },
+  {
+    "title": "Aurora boreale",
+    "artist": "Denso",
+    "isrc": "QZNWU2026790"
+  },
+  {
+    "title": "Oh Yes! Oh Yes!",
+    "artist": "Electric Dreamers",
+    "isrc": "QZ93L1947986"
+  },
+  {
+    "title": "Like a Seashell",
+    "artist": "Elevators To The Grateful Sky",
+    "isrc": "QM6N21982985"
+  },
+  {
+    "title": "LoveRuum",
+    "artist": "Enneo2, Tuccyo",
+    "isrc": "FR2X42246350"
+  },
+  {
+    "title": "Non iemu avanti - Non iemu avanti (feat. Zùluciano & Midaikita)",
+    "artist": "Erreuan, Zu luciano, Midaikita",
+    "isrc": "GBSMU1690728"
+  },
+  {
+    "title": "La cumbia dell'amor",
+    "artist": "Feyra, Che Sudaka",
+    "isrc": "ushm81918732"
+  },
+  {
+    "title": "LUCI ROSSE LUCI BLU",
+    "artist": "Gero Riggio",
+    "isrc": "ITP2W2200007"
+  },
+  {
+    "title": "Ogni giorno",
+    "artist": "Giovanna D'Angi",
+    "isrc": "ITQJL1800025"
+  },
+  {
+    "title": "Metti la E con l'Accento",
+    "artist": "Giuseppe D'Amico",
+    "isrc": "CAHQJ1968928"
+  },
+  {
+    "title": "Belly Dance - J2022",
+    "artist": "Jacomino",
+    "isrc": "ITJKI2200011"
+  },
+  {
+    "title": "Uova Marcie E Pomodori",
+    "artist": "Jason Rader",
+    "isrc": "QZNWS2077005"
+  },
+  {
+    "title": "Marilena",
+    "artist": "Jerusa Barros, Karin Mensah",
+    "isrc": "ITK601500713"
+  },
+  {
+    "title": "Walter è Rimasto in Vietnam",
+    "artist": "Kali Yuga, Big Swords, Baccus Records",
+    "isrc": "QZS662421513"
+  },
+  {
+    "title": "Caffè",
+    "artist": "Knows",
+    "isrc": "QZHN81966180"
+  },
+  {
+    "title": "Metà Africa Metà Europa",
+    "artist": "Kunsertu",
+    "isrc": "ITD009300053"
+  },
+  {
+    "title": "Oud",
+    "artist": "Lino Costa",
+    "isrc": "ushm21292415"
+  },
+  {
+    "title": "Brighter",
+    "artist": "Loozoo",
+    "isrc": "QM6P41460170"
+  },
+  {
+    "title": "Waves",
+    "artist": "Omosumo",
+    "isrc": "ITR361400155"
+  },
+  {
+    "title": "Rainforest - Hacker & Miethig Remix",
+    "artist": "Oneplus, Hacker, Miethig, Wiki",
+    "isrc": "US83Z1530219"
+  },
+  {
+    "title": "Chicharitos - Original Mix",
+    "artist": "Pietro Amico",
+    "isrc": "ITYZ71300001"
+  },
+  {
+    "title": "Ti Preferivo Semplice",
+    "artist": "Riccardo Borsellino",
+    "isrc": "ushm81817647"
+  },
+  {
+    "title": "L'ignoto Blu",
+    "artist": "Riccardo Simoncelli",
+    "isrc": "USJ3V1872852"
+  },
+  {
+    "title": "Rumore",
+    "artist": "Romina & Illusion, Ray Jeezy",
+    "isrc": "ITP2W2100011"
+  },
+  {
+    "title": "Alolò",
+    "artist": "Salvatore Nocera Bracco",
+    "isrc": "FR26V1632175"
+  },
+  {
+    "title": "Good.Bye.Love.",
+    "artist": "Salvo Montante",
+    "isrc": "usl4q2132685"
+  },
+  {
+    "title": "Santa Madre dell'Umanità",
+    "artist": "Samuela Schilirò",
+    "isrc": "ITS042100572"
+  },
+  {
+    "title": "Siciliano medio",
+    "artist": "Sikania, Peppe Qbeta",
+    "isrc": "CH6541990165"
+  },
+  {
+    "title": "Aurora",
+    "artist": "TARANTINO",
+    "isrc": "CH6541992100"
+  },
+  {
+    "title": "Altair",
+    "artist": "The Lay Llamas",
+    "isrc": "UK2SX1801066"
+  },
+  {
+    "title": "Iron Caress",
+    "artist": "Towsky",
+    "isrc": "QZTH82134774"
+  },
+  {
+    "title": "Etna",
+    "artist": "pierfrancesco fazio",
+    "isrc": "ITAMX1900001"
+  },
+  {
+    "title": "Splash",
+    "artist": "Colapesce, Dimartino",
+    "isrc": "ITB002201046"
+  },
+  {
+    "title": "Giorni buoni",
+    "artist": "Dimartino",
+    "isrc": "IT3GN1900001"
+  },
+  {
+    "title": "Paradiso",
+    "artist": "La rappresentante di lista",
+    "isrc": "ITCV32411315"
+  },
+  {
+    "title": "Di cu si",
+    "artist": "Alessio Bondì",
+    "isrc": "ITR361400160"
+  },
+  {
+    "title": "Occhi a pampina",
+    "artist": "Tinturia",
+    "isrc": "FR6V81161786"
+  },
+  {
+    "title": "Levati",
+    "artist": "Nicolò Carnesi, Dente",
+    "isrc": "ITHBZ2200001"
+  },
+  {
+    "title": "92100",
+    "artist": "Lello Analfino, Tinturia",
+    "isrc": "FR2X41400123"
+  },
+  {
+    "title": "Stripped To The Bone",
+    "artist": "Fabrizio Cammarata",
+    "isrc": "GBGLW2300285"
+  },
+  {
+    "title": "Bocca di rosa (Vuccuzza di ciuri)",
+    "artist": "Mario Incudine",
+    "isrc": "ITK601000501"
+  },
+  {
+    "title": "Piccolissima serenata",
+    "artist": "Qbeta",
+    "isrc": "FR6V80718597"
+  },
+  {
+    "title": "Sciddicassi, amuri, la nuttata",
+    "artist": "Olivia Sellerio",
+    "isrc": "ITE321702215"
+  },
+  {
+    "title": "Sicily",
+    "artist": "Ipercussonici",
+    "isrc": "ITO140700200"
+  },
+  {
+    "title": "Centauro",
+    "artist": "Il Pan Del Diavolo",
+    "isrc": "ITP840900640"
+  },
+  {
+    "title": "Passa",
+    "artist": "Tamuna",
+    "isrc": "UKN861700004"
+  },
+  {
+    "title": "Carizzi r'amuri",
+    "artist": "Agricantus",
+    "isrc": "ITB209685005"
+  },
+  {
+    "title": "Tra la Luna e il Mare",
+    "artist": "Angelo Sicurella",
+    "isrc": "QM6N22416705"
+  },
+  {
+    "title": "Casa tua",
+    "artist": "Agnello",
+    "isrc": "TCADF1795476"
+  },
+  {
+    "title": "Fè",
+    "artist": "Pachira",
+    "isrc": "uscgj1567976"
+  },
+  {
+    "title": "Saluta la città",
+    "artist": "le Formiche",
+    "isrc": "CH6541901632"
+  },
+  {
+    "title": "Cajuina",
+    "artist": "Tony Canto",
+    "isrc": "ITT531600143"
+  },
+  {
+    "title": "Ciuri I Limuni",
+    "artist": "Francesca Incudine, Manfredi Tumminello, Raffaele Pullara",
+    "isrc": "ushm22339045"
+  },
+  {
+    "title": "Let Me Be",
+    "artist": "Waines",
+    "isrc": "ITV500900203"
+  },
+  {
+    "title": "Bill Murray",
+    "artist": "I Giocattoli",
+    "isrc": "ITJPA1700025"
+  },
+  {
+    "title": "Sciogliersi un po'",
+    "artist": "The Heron Temple",
+    "isrc": "ITIWE2100673"
+  },
+  {
+    "title": "Parru cu tia",
+    "artist": "Pupi Di Surfaro",
+    "isrc": "ITK602200102"
+  },
+  {
+    "title": "Tridici maneri ri farisi munnu",
+    "artist": "Eleonora Bordonaro",
+    "isrc": "ITO142000016"
+  },
+  {
+    "title": "So Many Things",
+    "artist": "Aurora D'Amico",
+    "isrc": "ITV501801910"
+  },
+  {
+    "title": "feel your fall",
+    "artist": "Sergio Beercock",
+    "isrc": "ITV502003002"
+  },
+  {
+    "title": "Sometimes",
+    "artist": "Da Black Jezus",
+    "isrc": "ITJ501706097"
+  },
+  {
+    "title": "Habibi",
+    "artist": "Libero Reina, Cafe De Anatolia",
+    "isrc": "US83Z2318759"
+  },
+  {
+    "title": "2100",
+    "artist": "Marco Corrao",
+    "isrc": "ITVDD2301184"
+  },
+  {
+    "title": "Palermo City Blues",
+    "artist": "Federico Stabile",
+    "isrc": "FR10S1959293"
+  },
+  {
+    "title": "How Does It End?",
+    "artist": "12bbr",
+    "isrc": "ushm91663352"
+  },
+  {
+    "title": "La Marcia del Sud",
+    "artist": "Ottoni Animati",
+    "isrc": "GX5MY2214108"
+  },
+  {
+    "title": "I Tuoi Fiori",
+    "artist": "Etta Scollo",
+    "isrc": "DEG449900008"
+  },
+  {
+    "title": "Il trittico appuntito",
+    "artist": "Tre Terzi",
+    "isrc": "ITPG01800022"
+  },
+  {
+    "title": "A storia di Rosa",
+    "artist": "Gabriella Lucia Grasso",
+    "isrc": "IT6KE2400174"
+  },
+  {
+    "title": "Sposa di Maju",
+    "artist": "La Casbah",
+    "isrc": "TCAEK1981122"
+  },
+  {
+    "title": "Domenica mattina",
+    "artist": "Chiara Minaldi",
+    "isrc": "TCAEL1920054"
+  },
+  {
+    "title": "Shabbalabba",
+    "artist": "Reggae Zone Family",
+    "isrc": "usdy41927803"
+  },
+  {
+    "title": "Nigghia Nigghia",
+    "artist": "Big Mimma",
+    "isrc": "ITZB51300093"
+  },
+  {
+    "title": "Pioggia",
+    "artist": "Ruggiero Mascellino",
+    "isrc": "TCAGS2383928"
+  },
+  {
+    "title": "punto e a capo",
+    "artist": "Giusè, Achille G",
+    "isrc": "TCAEL1994959"
+  },
+  {
+    "title": "Forse",
+    "artist": "10 HP",
+    "isrc": "ITOY01900010"
+  },
+  {
+    "title": "Un nuovo giorno",
+    "artist": "22esimo Quartiere",
+    "isrc": "FR6V81681239"
+  },
+  {
+    "title": "Maddening Shroud - Jazz Scientist 'Horn Stepper' Mix",
+    "artist": "Acacia",
+    "isrc": "GBKPL1261082"
+  },
+  {
+    "title": "Amore infame",
+    "artist": "Alberto Cannatella",
+    "isrc": "IT0011900535"
+  },
+  {
+    "title": "Se solamente tu",
+    "artist": "Alisia Jalsy",
+    "isrc": "CH6541744104"
+  },
+  {
+    "title": "Cos'ha che il mio mondo non ha",
+    "artist": "Andrea Romano Il Fratello, Colapesce",
+    "isrc": "FR6V81670991"
+  },
+  {
+    "title": "Abballati",
+    "artist": "Anita Vitale, Gaspare Palazzolo",
+    "isrc": "ITK660810008"
+  },
+  {
+    "title": "Sogno Dimensionale",
+    "artist": "Armando Cacciato",
+    "isrc": "usdy42380125"
+  },
+  {
+    "title": "Il maestro e margherita",
+    "artist": "Caleido",
+    "isrc": "ITA881800455"
+  },
+  {
+    "title": "Dimmi Di Si",
+    "artist": "Daniele Guastella",
+    "isrc": "ushm91228683"
+  },
+  {
+    "title": "Per una volta",
+    "artist": "Denso",
+    "isrc": "QZK6Q1940436"
+  },
+  {
+    "title": "Tha Way You Bump",
+    "artist": "Electric Dreamers",
+    "isrc": "QZ93L1947990"
+  },
+  {
+    "title": "Ridernaut",
+    "artist": "Elevators To The Grateful Sky",
+    "isrc": "SEWXU1302801"
+  },
+  {
+    "title": "Vucciria Freestyle",
+    "artist": "Enneo2, Lord Madness",
+    "isrc": "FR26V2021257"
+  },
+  {
+    "title": "Sesso e architettura",
+    "artist": "Colapesce, Dimartino",
+    "isrc": "ITB002301468"
+  },
+  {
+    "title": "La luna e il bingo",
+    "artist": "Dimartino",
+    "isrc": "IT3GN1900007"
+  },
+  {
+    "title": "Amare",
+    "artist": "La rappresentante di lista",
+    "isrc": "ITCV32108509"
+  },
+  {
+    "title": "Rimmillu ru' voti",
+    "artist": "Alessio Bondì",
+    "isrc": "ITR361400165"
+  },
+  {
+    "title": "Abballu senza sballu",
+    "artist": "Tinturia",
+    "isrc": "FR2X41400093"
+  },
+  {
+    "title": "Il colpo",
+    "artist": "Nicolò Carnesi",
+    "isrc": "ITR361200051"
+  },
+  {
+    "title": "Stunz",
+    "artist": "Lello Analfino, Tinturia",
+    "isrc": "FR2X41400121"
+  },
+  {
+    "title": "In The Cold",
+    "artist": "Fabrizio Cammarata",
+    "isrc": "GBGLW1700186"
+  },
+  {
+    "title": "Di cchi culuri",
+    "artist": "Mario Incudine",
+    "isrc": "ITK601000493"
+  },
+  {
+    "title": "M'arrifriscu e m'arricriu",
+    "artist": "Qbeta, Mario Incudine",
+    "isrc": "ITJ111200005"
+  },
+  {
+    "title": "Lu jornu ca cantavanu li manu",
+    "artist": "Olivia Sellerio",
+    "isrc": "ITE321501774"
+  },
+  {
+    "title": "Nata s'un'isola",
+    "artist": "Ipercussonici",
+    "isrc": "ITO140700204"
+  },
+  {
+    "title": "Mediterraneo",
+    "artist": "Il Pan Del Diavolo",
+    "isrc": "ITP841400055"
+  },
+  {
+    "title": "Sirbaggia",
+    "artist": "Tamuna",
+    "isrc": "UKN861700007"
+  },
+  {
+    "title": "Lia",
+    "artist": "Agricantus",
+    "isrc": "ITB200019009"
+  },
+  {
+    "title": "Città Deserte",
+    "artist": "Angelo Sicurella",
+    "isrc": "TCAGU2356871"
+  },
+  {
+    "title": "Sulla sdraio",
+    "artist": "Agnello, Nicolò Carnesi",
+    "isrc": "TCADX1800470"
+  },
+  {
+    "title": "Tanuzzu in Love",
+    "artist": "Pachira",
+    "isrc": "uscgj1567987"
+  },
+  {
+    "title": "Fortuna",
+    "artist": "le Formiche",
+    "isrc": "ITV501401003"
+  },
+  {
+    "title": "Una Vita Normale",
+    "artist": "Tony Canto",
+    "isrc": "ITT531600142"
+  },
+  {
+    "title": "Iettavuci",
+    "artist": "Francesca Incudine",
+    "isrc": "ITO141300003"
+  },
+  {
+    "title": "Flow River Flow",
+    "artist": "Waines",
+    "isrc": "ITV500900201"
+  },
+  {
+    "title": "Astronauta",
+    "artist": "I Giocattoli",
+    "isrc": "ITJPA1700030"
+  },
+  {
+    "title": "Milano ti divora",
+    "artist": "The Heron Temple",
+    "isrc": "TCADN1816236"
+  },
+  {
+    "title": "Amami in sogno",
+    "artist": "Pupi Di Surfaro",
+    "isrc": "ITK602200105"
+  },
+  {
+    "title": "Pinsier",
+    "artist": "Eleonora Bordonaro",
+    "isrc": "ITO142400002"
+  },
+  {
+    "title": "In The Landscape",
+    "artist": "Aurora D'Amico",
+    "isrc": "ITV501801901"
+  },
+  {
+    "title": "An Exaggerated Song",
+    "artist": "Sergio Beercock",
+    "isrc": "ITV501701502"
+  },
+  {
+    "title": "Emptiness Is You",
+    "artist": "Da Black Jezus",
+    "isrc": "ITJ501706094"
+  },
+  {
+    "title": "Medina",
+    "artist": "Libero Reina, Cafe De Anatolia",
+    "isrc": "US83Z2343694"
+  }
+]

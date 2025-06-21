@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Walking the Cow",
+    "artist": "Daniel Johnston",
+    "isrc": "USA560537709"
+  },
+  {
+    "title": "Her Eyes Are a Blue Million Miles",
+    "artist": "Captain Beefheart & His Magic Band",
+    "isrc": "USRE10001164"
+  },
+  {
+    "title": "Philosophy of the World",
+    "artist": "The Shaggs",
+    "isrc": "USGCV1154215"
+  },
+  {
+    "title": "Walking on the Moon",
+    "artist": "Lucia Pamela",
+    "isrc": "USCXG0500018"
+  },
+  {
+    "title": "You're Out of the Computer",
+    "artist": "Bingo Gazingo, My Robot Friend",
+    "isrc": "USCXG1300330"
+  },
+  {
+    "title": "Rock N Roll McDonalds",
+    "artist": "Wesley Willis",
+    "isrc": "US2B20416401"
+  },
+  {
+    "title": "Constantinople - Version 1",
+    "artist": "The Residents",
+    "isrc": "GBBLY1701092"
+  },
+  {
+    "title": "Do You Feel About the Same?",
+    "artist": "R. Stevie Moore",
+    "isrc": "USCXG0700069"
+  },
+  {
+    "title": "Touch of Light",
+    "artist": "Luie Luie",
+    "isrc": "USDLB0810009"
+  },
+  {
+    "title": "The Unicorn",
+    "artist": "Peter Grudzien",
+    "isrc": "SEWRL0700602"
+  },
+  {
+    "title": "Debbie Debbie",
+    "artist": "Gary Wilson",
+    "isrc": "US2S70495004"
+  },
+  {
+    "title": "Bird's Lament",
+    "artist": "Moondog",
+    "isrc": "DEC169400023"
+  },
+  {
+    "title": "Sunday Date",
+    "artist": "Joe Meek",
+    "isrc": "DEUD92301993"
+  },
+  {
+    "title": "Paralyzed",
+    "artist": "The Legendary Stardust Cowboy",
+    "isrc": "USUM71103273"
+  },
+  {
+    "title": "Major Tom",
+    "artist": "The Space Lady",
+    "isrc": "GBCK41200076"
+  },
+  {
+    "title": "Cousin Mosquito #2",
+    "artist": "Congress-Woman Malinda Jackson Parker",
+    "isrc": "USCXG2000755"
+  },
+  {
+    "title": "Miracles Happen Every Day",
+    "artist": "Half Japanese",
+    "isrc": "QM7281416662"
+  },
+  {
+    "title": "In Canada",
+    "artist": "B.J. Snowden",
+    "isrc": "uscgh0599171"
+  },
+  {
+    "title": "Fuck Off",
+    "artist": "The Frogs",
+    "isrc": "ushm80933716"
+  },
+  {
+    "title": "One Mile From Heaven - Short Version",
+    "artist": "Bobb Trimble",
+    "isrc": "US38W0716205"
+  },
+  {
+    "title": "Get Outta My Car",
+    "artist": "Hasil Adkins",
+    "isrc": "USGN30600095"
+  },
+  {
+    "title": "You're Driving Me Mad - Alternate Version",
+    "artist": "Alvin Dahn",
+    "isrc": "USCXG0510058"
+  },
+  {
+    "title": "My Baby Is Coming Back To Me",
+    "artist": "Abner Jay",
+    "isrc": "QZSQG2213204"
+  },
+  {
+    "title": "I'm Glad - (1966 Demo)",
+    "artist": "Captain Beefheart",
+    "isrc": "USF2B9921003"
+  },
+  {
+    "title": "Livin' in the Sunlight, Lovin' in the Moon Light",
+    "artist": "Tiny Tim",
+    "isrc": "USRE10401706"
+  },
+  {
+    "title": "Jailhouse Rock - 1998",
+    "artist": "Eilert Pilarm",
+    "isrc": "SEPQM0610068"
+  },
+  {
+    "title": "Drink It Up",
+    "artist": "Negativland",
+    "isrc": "US2830401702"
+  },
+  {
+    "title": "Teen Age Idol",
+    "artist": "Wild Man Fischer",
+    "isrc": "usl4r0793408"
+  },
+  {
+    "title": "Montreal Canada Blues",
+    "artist": "Eddie Murray",
+    "isrc": "USCXG1102002"
+  },
+  {
+    "title": "These Boots Are Made For Walkin' - Remastered",
+    "artist": "Mrs. Miller",
+    "isrc": "USCA29900157"
+  },
+  {
+    "title": "Dairymaid's Lament (2011 Sonic Boom Remaster)",
+    "artist": "The Red Krayola",
+    "isrc": "GBA7H1124506"
+  },
+  {
+    "title": "Cripple Creek",
+    "artist": "Alexander 'Skip' Spence",
+    "isrc": "USSM16801044"
+  },
+  {
+    "title": "Clowny Clown Clown",
+    "artist": "Crispin Glover",
+    "isrc": "USRY20410331"
+  },
+  {
+    "title": "I Believe In The Unknown",
+    "artist": "David Liebe Hart, Jason The Cat",
+    "isrc": "QZDA62418268"
+  },
+  {
+    "title": "Terrapin",
+    "artist": "Syd Barrett",
+    "isrc": "GBAYE7000307"
+  },
+  {
+    "title": "High Speed",
+    "artist": "Bob Vido",
+    "isrc": "USCXG0500053"
+  },
+  {
+    "title": "Rats In My Room",
+    "artist": "Leona Anderson",
+    "isrc": "GBKTV1000015"
+  },
+  {
+    "title": "I Hear a New World",
+    "artist": "Joe Meek & the Blue Men",
+    "isrc": "QM6N21473342"
+  },
+  {
+    "title": "The Magic Flute: Queen of the Night Aria",
+    "artist": "Florence Foster Jenkins",
+    "isrc": "GBKTV0403878"
+  },
+  {
+    "title": "Losing You",
+    "artist": "Jan Terri",
+    "isrc": "usx9p1234001"
+  },
+  {
+    "title": "Tradewind",
+    "artist": "Eden Ahbez",
+    "isrc": "USRH10721279"
+  },
+  {
+    "title": "Two Studies on Ancient Greek Scales: 1) Olympos' Pentatonic 2) Archytas' Enharmonic",
+    "artist": "Harry Partch, Kronos Quartet",
+    "isrc": "USNO19745705"
+  },
+  {
+    "title": "Let's Go Party",
+    "artist": "K.Lewis",
+    "isrc": "USCXG1300325"
+  },
+  {
+    "title": "Two Headed Dog (Red Temple Prayer)",
+    "artist": "Roky Erickson",
+    "isrc": "USDEA1309701"
+  },
+  {
+    "title": "Ecstacy To Frenzy",
+    "artist": "Rodd Keith",
+    "isrc": "USCRW0440604"
+  },
+  {
+    "title": "Stumble Out Of Bed",
+    "artist": "The Bran Flakes, Mildred Pitt",
+    "isrc": "US89R0910022"
+  },
+  {
+    "title": "Common People",
+    "artist": "William Shatner",
+    "isrc": "USSE90320853"
+  },
+  {
+    "title": "Stout-Hearted Men",
+    "artist": "Shooby Taylor",
+    "isrc": "USCXG0900127"
+  },
+  {
+    "title": "Stairway to Britney",
+    "artist": "The Evolution Control Committee",
+    "isrc": "US2831010034"
+  },
+  {
+    "title": "Moon in the Mind",
+    "artist": "Ed Askew",
+    "isrc": "GBVNV1300035"
+  },
+  {
+    "title": "The Ballad Of Bilbo Baggins",
+    "artist": "Leonard Nimoy",
+    "isrc": "USMC10346151"
+  },
+  {
+    "title": "Hitting The Bottom",
+    "artist": "Tony Mason-Cox, Serge Ermoll",
+    "isrc": "USCXG0600221"
+  },
+  {
+    "title": "Massive",
+    "artist": "John Oswald",
+    "isrc": "JPB621002718"
+  },
+  {
+    "title": "My Daddy Works for the Secret Marines",
+    "artist": "Zoogz Rift",
+    "isrc": "uscgj1711357"
+  },
+  {
+    "title": "Rock & Rolling Dance",
+    "artist": "Gordon Thomas",
+    "isrc": "USCXG1300361"
+  },
+  {
+    "title": "Baby Your Love's in Town",
+    "artist": "\"Dusty Roads\" Rowe",
+    "isrc": "USCXG0900139"
+  },
+  {
+    "title": "Die With Your Boots On",
+    "artist": "Anton Maiden",
+    "isrc": "USCXG1300367"
+  },
+  {
+    "title": "The Birthmark Story",
+    "artist": "Buddy Max",
+    "isrc": "USCXG1300344"
+  },
+  {
+    "title": "The President's Prayer",
+    "artist": "Freddie Martell",
+    "isrc": "USCXG1300372"
+  },
+  {
+    "title": "The Future is Now",
+    "artist": "Neil Dick",
+    "isrc": "USCXG1300356"
+  },
+  {
+    "title": "Love Lives On",
+    "artist": "Paul \"Super Apple\"",
+    "isrc": "USCXG1300376"
+  },
+  {
+    "title": "Settle Down",
+    "artist": "Polly Feazel",
+    "isrc": "USCXG1300366"
+  },
+  {
+    "title": "Lonesome, Lonesome George Jones",
+    "artist": "Queenie Montgomery",
+    "isrc": "USCXG1300358"
+  },
+  {
+    "title": "Rainy Weekend",
+    "artist": "San D'jinn Din",
+    "isrc": "USCXG1300370"
+  },
+  {
+    "title": "Wake Up America",
+    "artist": "Sylvia Boshers",
+    "isrc": "USCXG1300371"
+  },
+  {
+    "title": "Five Feet Nine and a Half Inches Tall",
+    "artist": "Dick Kent",
+    "isrc": "USCXG1300338"
+  },
+  {
+    "title": "The Phone Call That Changed My Life",
+    "artist": "Farrah Abraham",
+    "isrc": "TCABI1205348"
+  },
+  {
+    "title": "She Bangs",
+    "artist": "William Hung",
+    "isrc": "USKO10403353"
+  },
+  {
+    "title": "Pretty Girls",
+    "artist": "The Kids of Widney High",
+    "isrc": "ushm20687318"
+  },
+  {
+    "title": "I Really Don't Want to Know",
+    "artist": "Ali Mapo & His Girls",
+    "isrc": "USCXG1300513"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Ann Lever",
+    "isrc": "USCXG1300353"
+  },
+  {
+    "title": "Niagara Falls",
+    "artist": "Dana Drake",
+    "isrc": "USCXG1300350"
+  },
+  {
+    "title": "You Are My Junkie",
+    "artist": "Doris Lujan",
+    "isrc": "USCXG1300349"
+  },
+  {
+    "title": "The Real Ringo",
+    "artist": "Elvis Don Ringo",
+    "isrc": "USCXG1300324"
+  },
+  {
+    "title": "Star's Ghost",
+    "artist": "Frances Cannon, The Singing Psychic",
+    "isrc": "USCXG1300502"
+  },
+  {
+    "title": "Hello Santa",
+    "artist": "Gail Angelos",
+    "isrc": "USCXG1300322"
+  },
+  {
+    "title": "Recitation About Roy Acuff",
+    "artist": "Gary Mullis",
+    "isrc": "USCXG1300339"
+  },
+  {
+    "title": "Something",
+    "artist": "Gary Strivant",
+    "isrc": "USCXG1300508"
+  },
+  {
+    "title": "Time and Space",
+    "artist": "Jandek",
+    "isrc": "US97F1000143"
+  },
+  {
+    "title": "Can't Stop This Train",
+    "artist": "Little Birdie",
+    "isrc": "CA02Q1200401"
+  },
+  {
+    "title": "Dock of the Bay",
+    "artist": "Mexia State School Sunshine Singers",
+    "isrc": "USCXG1300506"
+  },
+  {
+    "title": "Hey Fireman, Put out the Fire",
+    "artist": "Omo the Hobo",
+    "isrc": "USCXG1300515"
+  },
+  {
+    "title": "Geegalo",
+    "artist": "Schmuel",
+    "isrc": "USCXG1300327"
+  },
+  {
+    "title": "Rapture of the Leaf",
+    "artist": "Shodder Grayson",
+    "isrc": "USCXG1300346"
+  },
+  {
+    "title": "It Just Is",
+    "artist": "Sri Darwin Gross",
+    "isrc": "USCXG1300512"
+  },
+  {
+    "title": "Jet Lady",
+    "artist": "Tangelia Tricoli",
+    "isrc": "USCXG1300343"
+  },
+  {
+    "title": "Hot in the Airport",
+    "artist": "Y. Bhekhirst",
+    "isrc": "USCXG1300323"
+  },
+  {
+    "title": "Visa Hänsyn!",
+    "artist": "Åke Sandin",
+    "isrc": "SEWRL0200103"
+  },
+  {
+    "title": "God Only Knows",
+    "artist": "The Langley Schools Music Project, Hans Fenger (Musical Director), Irwin Chusid (Producer)",
+    "isrc": "NLB550100302"
+  },
+  {
+    "title": "The Unanswered Question",
+    "artist": "Charles Ives, Cincinnati Philharmonia Orchestra, Gerhard Samuel",
+    "isrc": "US8270910441"
+  },
+  {
+    "title": "Pot of Macaroni",
+    "artist": "Weird Paul Petroskey",
+    "isrc": "GBSMU0899580"
+  },
+  {
+    "title": "Chocolate Rain",
+    "artist": "Tay Zonday",
+    "isrc": "USTCC1063058"
+  },
+  {
+    "title": "You're the Reason",
+    "artist": "Andrew Neil",
+    "isrc": "QZZEB2303256"
+  },
+  {
+    "title": "Cycles of the Serpent 1",
+    "artist": "Bruce Lacey",
+    "isrc": "GBKTV0403730"
+  },
+  {
+    "title": "Cuckoo Clock",
+    "artist": "Cosmic Dennis Greenidge",
+    "isrc": "GBYET1200462"
+  },
+  {
+    "title": "Romance",
+    "artist": "Dr. Love",
+    "isrc": "HKH311400050"
+  },
+  {
+    "title": "Stevie Storm",
+    "artist": "Harry Merry",
+    "isrc": "NLM930970010"
+  },
+  {
+    "title": "Rayday",
+    "artist": "Jeff Keen",
+    "isrc": "GBKTV0402181"
+  },
+  {
+    "title": "I Wanna Be the King",
+    "artist": "Kenneth Higney",
+    "isrc": "TCACM1665467"
+  },
+  {
+    "title": "Warm Sea Water",
+    "artist": "Pete Um",
+    "isrc": "USA2P2239940"
+  },
+  {
+    "title": "Also Sprach Zarathustra",
+    "artist": "Portsmouth Sinfonia",
+    "isrc": "GBUM71107277"
+  },
+  {
+    "title": "Fear You Heat-Shield!!",
+    "artist": "Steve Lieberman",
+    "isrc": "USA560318828"
+  },
+  {
+    "title": "Racetrack Playa",
+    "artist": "Steven Warwick",
+    "isrc": "DEX261600885"
+  },
+  {
+    "title": "I'm Glad",
+    "artist": "Captain Beefheart & His Magic Band",
+    "isrc": "USBR16800018"
+  },
+  {
+    "title": "Some Things Last a Long Time",
+    "artist": "Daniel Johnston, Kramer",
+    "isrc": "USPGQ0800017"
+  },
+  {
+    "title": "My Pal Foot Foot",
+    "artist": "The Shaggs",
+    "isrc": "USGCV1154218"
+  },
+  {
+    "title": "Hap-Hap-Happy Heart",
+    "artist": "Lucia Pamela",
+    "isrc": "USCXG0500023"
+  },
+  {
+    "title": "I Love You So Fucking Much I Can't Shit",
+    "artist": "Bingo Gazingo",
+    "isrc": "USCXG0500004"
+  },
+  {
+    "title": "Kaw-Liga",
+    "artist": "The Residents",
+    "isrc": "GBBLY1701925"
+  },
+  {
+    "title": "I'm Only Sleeping",
+    "artist": "R. Stevie Moore",
+    "isrc": "USCXG0600258"
+  },
+  {
+    "title": "El Touchy",
+    "artist": "Luie Luie",
+    "isrc": "USCXG0900134"
+  },
+  {
+    "title": "I Whipped Batman's Ass",
+    "artist": "Wesley Willis",
+    "isrc": "US2B20425119"
+  },
+  {
+    "title": "There's a Star-Spangled Banner Waving Somewhere",
+    "artist": "Peter Grudzien",
+    "isrc": "USCXG0900125"
+  },
+  {
+    "title": "I Wanna Lose Control",
+    "artist": "Gary Wilson",
+    "isrc": "USG320600017"
+  },
+  {
+    "title": "Don't Want to Know",
+    "artist": "Joe Meek, Michael Cox",
+    "isrc": "DEUD92301989"
+  },
+  {
+    "title": "Standing in a Trashcan",
+    "artist": "The Legendary Stardust Cowboy",
+    "isrc": "USCXG0900135"
+  },
+  {
+    "title": "Ghost Riders in the Sky",
+    "artist": "The Space Lady",
+    "isrc": "GBCK41200080"
+  },
+  {
+    "title": "Chicken is Nice (with Palm Butter and Rice)",
+    "artist": "Congress-Woman Malinda Jackson Parker",
+    "isrc": "USCXG2000756"
+  },
+  {
+    "title": "Put Some Sugar on It",
+    "artist": "Half Japanese",
+    "isrc": "GBCKK1430814"
+  },
+  {
+    "title": "High On A Rocky Ledge",
+    "artist": "Moondog",
+    "isrc": "US2391601602"
+  },
+  {
+    "title": "Drug Free",
+    "artist": "B.J. Snowden",
+    "isrc": "ushm80318450"
+  },
+  {
+    "title": "I Don't Care If U Disrespect Me (Just so You Love Me)",
+    "artist": "The Frogs",
+    "isrc": "ushm80933639"
+  },
+  {
+    "title": "Killed By The Hands of An Unknown Rock Starr",
+    "artist": "Bobb Trimble",
+    "isrc": "US38W0716206"
+  },
+  {
+    "title": "Don't Throw Your Dreams Away",
+    "artist": "Alvin Dahn",
+    "isrc": "USCXG0510054"
+  },
+  {
+    "title": "No More Hot Dogs",
+    "artist": "Hasil Adkins",
+    "isrc": "USA370689426"
+  },
+  {
+    "title": "I'm So Depressed",
+    "artist": "Abner Jay",
+    "isrc": "QZSQG2203601"
+  },
+  {
+    "title": "Sure 'Nuff 'N Yes, I Do",
+    "artist": "Captain Beefheart",
+    "isrc": "US78T0747583"
+  },
+  {
+    "title": "In the Ghetto",
+    "artist": "Eilert Pilarm",
+    "isrc": "SEPQM0610067"
+  },
+  {
+    "title": "Christianity Is Stupid",
+    "artist": "Negativland",
+    "isrc": "US2830400614"
+  },
+  {
+    "title": "It's A Hard Business - Feat. Rosemary Clooney",
+    "artist": "Wild Man Fischer",
+    "isrc": "usl4r0793418"
+  },
+  {
+    "title": "Stepping High Dance",
+    "artist": "Eddie Murray",
+    "isrc": "USCXG1102001"
+  },
+  {
+    "title": "People Are Strange",
+    "artist": "Tiny Tim",
+    "isrc": "USRE10501915"
+  },
+  {
+    "title": "Downtown - Remastered",
+    "artist": "Mrs. Miller",
+    "isrc": "USCA29900164"
+  },
+  {
+    "title": "The Shirt (2011 Sonic Boom Remaster)",
+    "artist": "The Red Krayola",
+    "isrc": "GBA7H1124497"
+  },
+  {
+    "title": "Little Hands",
+    "artist": "Alexander 'Skip' Spence",
+    "isrc": "USSM16801066"
+  },
+  {
+    "title": "These Boots Are Made for Walking",
+    "artist": "Crispin Glover",
+    "isrc": "USRY20410333"
+  },
+  {
+    "title": "Ghost Frog (Nelward Remix)",
+    "artist": "David Liebe Hart, Jonah Mociun, nelward",
+    "isrc": "QMDA71876661"
+  },
+  {
+    "title": "Octopus",
+    "artist": "Syd Barrett",
+    "isrc": "GBAYE7000486"
+  },
+  {
+    "title": "Boo-Bah-Bah",
+    "artist": "Bob Vido",
+    "isrc": "USCXG0500054"
+  },
+  {
+    "title": "Habanera from \"Carmen\"",
+    "artist": "Leona Anderson",
+    "isrc": "GBKTV1000009"
+  },
+  {
+    "title": "Orbit Around the Moon",
+    "artist": "Joe Meek & the Blue Men",
+    "isrc": "QM6N21473343"
+  },
+  {
+    "title": "Queen Of The Night's Aria",
+    "artist": "Florence Foster Jenkins",
+    "isrc": "GBLGL0900257"
+  },
+  {
+    "title": "Ave Maria",
+    "artist": "Jan Terri",
+    "isrc": "ushm81393093"
+  },
+  {
+    "title": "Eleven Instrusions II: Study on Archytas' Enharmonic",
+    "artist": "Harry Partch, Ben Johnston, Bill Snead, Donald Pippin, Betty Johnston",
+    "isrc": "US4QP0462102"
+  },
+  {
+    "title": "Full Moon",
+    "artist": "Eden Ahbez",
+    "isrc": "USRH10721280"
+  },
+  {
+    "title": "I Died Today",
+    "artist": "Rodd Keith",
+    "isrc": "USCRW9640101"
+  },
+  {
+    "title": "Night of the Vampire",
+    "artist": "Roky Erickson",
+    "isrc": "USDEA1309703"
+  },
+  {
+    "title": "Gonorrhea",
+    "artist": "The Bran Flakes",
+    "isrc": "US25T0523361"
+  },
+  {
+    "title": "Pwn Monkey",
+    "artist": "The Evolution Control Committee",
+    "isrc": "US2831010036"
+  },
+  {
+    "title": "Rocket Man",
+    "artist": "William Shatner, Steve Hillage",
+    "isrc": "USA371417450"
+  },
+  {
+    "title": "Music To Watch Space Girls By",
+    "artist": "Leonard Nimoy",
+    "isrc": "USMC10001423"
+  },
+  {
+    "title": "Deep Water",
+    "artist": "Ed Askew",
+    "isrc": "US58L1245703"
+  },
+  {
+    "title": "The Ball Of Kerriemuir",
+    "artist": "Tony Mason-Cox",
+    "isrc": "USCXG0600235"
+  },
+  {
+    "title": "Partial (after G.F. Handel's Messiah)",
+    "artist": "John Oswald",
+    "isrc": "US3Q50402011"
+  },
+  {
+    "title": "Would You F-I-B to the FBI?",
+    "artist": "Zoogz Rift",
+    "isrc": "ushm81619503"
+  },
+  {
+    "title": "With You Around",
+    "artist": "Gordon Thomas",
+    "isrc": "uscgj0918165"
+  },
+  {
+    "title": "Genevieve, Oh My Genevieve",
+    "artist": "\"Dusty Roads\" Rowe",
+    "isrc": "USCXG1300522"
+  },
+  {
+    "title": "Apple Love",
+    "artist": "Paul \"Super Apple\"",
+    "isrc": "USCXG1300375"
+  },
+  {
+    "title": "Maker of Smooth Music",
+    "artist": "Dick Kent",
+    "isrc": "GBJCX0600303"
+  },
+  {
+    "title": "After Prom",
+    "artist": "Farrah Abraham",
+    "isrc": "TCABI1205421"
+  },
+  {
+    "title": "I Believe I Can Fly",
+    "artist": "William Hung",
+    "isrc": "USKO10403356"
+  },
+  {
+    "title": "Insects",
+    "artist": "The Kids of Widney High",
+    "isrc": "USRO28901406"
+  },
+  {
+    "title": "Sure 'Nuff 'n' Yes, I Do",
+    "artist": "Captain Beefheart & His Magic Band",
+    "isrc": "USBR16800014"
+  },
+  {
+    "title": "Story of an Artist",
+    "artist": "Daniel Johnston",
+    "isrc": "USA370567875"
+  },
+  {
+    "title": "Flip Flop Fly",
+    "artist": "Lucia Pamela",
+    "isrc": "USCXG0500019"
+  },
+  {
+    "title": "Who Are Parents?",
+    "artist": "The Shaggs",
+    "isrc": "USGCV1154217"
+  },
+  {
+    "title": "The Cook Who Couldn't Cook",
+    "artist": "Bingo Gazingo",
+    "isrc": "USCXG1300702"
+  },
+  {
+    "title": "Hello Skinny",
+    "artist": "The Residents",
+    "isrc": "GBBLY1701104"
+  },
+  {
+    "title": "Another No Answer",
+    "artist": "R. Stevie Moore, Ariel Pink",
+    "isrc": "USCXG1200055"
+  },
+  {
+    "title": "Tastee Touchy",
+    "artist": "Luie Luie",
+    "isrc": "USDLB0810002"
+  },
+  {
+    "title": "Suck A Caribou's Ass",
+    "artist": "Wesley Willis",
+    "isrc": "US2B20422711"
+  },
+  {
+    "title": "Kentucky Candy",
+    "artist": "Peter Grudzien",
+    "isrc": "SEWRL0700610"
+  },
+  {
+    "title": "Kiss Me Once And I'll Kiss You Twice",
+    "artist": "Gary Wilson",
+    "isrc": "QM6XS2303297"
+  },
+  {
+    "title": "Telstar (Demo)",
+    "artist": "Joe Meek",
+    "isrc": "DEUD92301990"
+  },
+  {
+    "title": "I Took A Trip On A Gemini Spaceship",
+    "artist": "The Legendary Stardust Cowboy",
+    "isrc": "USUM71103276"
+  },
+  {
+    "title": "Synthesize Me",
+    "artist": "The Space Lady",
+    "isrc": "GBCK41200079"
+  },
+  {
+    "title": "Precious Palm Tree",
+    "artist": "Congress-Woman Malinda Jackson Parker",
+    "isrc": "USCXG2000751"
+  },
+  {
+    "title": "Said and Done",
+    "artist": "Half Japanese",
+    "isrc": "QM7281416644"
+  },
+  {
+    "title": "Disaster and Tragedy Mem.9/11",
+    "artist": "B.J. Snowden",
+    "isrc": "ushm80318443"
+  },
+  {
+    "title": "Pastoral (Remastered 2000)",
+    "artist": "Moondog",
+    "isrc": "QM7282064029"
+  },
+  {
+    "title": "I've Got Drugs (Out of the Mist)",
+    "artist": "The Frogs",
+    "isrc": "ushm80933638"
+  },
+  {
+    "title": "One Mile From Heaven - Long Version",
+    "artist": "Bobb Trimble",
+    "isrc": "US38W0716208"
+  },
+  {
+    "title": "404",
+    "artist": "Alvin Dahn",
+    "isrc": "USCXG0510044"
+  },
+  {
+    "title": "She Said",
+    "artist": "Hasil Adkins",
+    "isrc": "USA370689425"
+  },
+  {
+    "title": "Hard Working Man",
+    "artist": "Abner Jay",
+    "isrc": "QZSQG2213207"
+  },
+  {
+    "title": "Dachau Blues",
+    "artist": "Captain Beefheart",
+    "isrc": "USF2B9921030"
+  },
+  {
+    "title": "Hound Dog",
+    "artist": "Eilert Pilarm",
+    "isrc": "SEPQM0610077"
+  },
+  {
+    "title": "Aluminum or Glass: The Memo",
+    "artist": "Negativland",
+    "isrc": "US2830401712"
+  },
+  {
+    "title": "Frank",
+    "artist": "Wild Man Fischer",
+    "isrc": "uscgj1948357"
+  },
+  {
+    "title": "Rock 'N Roll Baby",
+    "artist": "Eddie Murray",
+    "isrc": "USCXG1102003"
+  },
+  {
+    "title": "Strangers In The Night - Remastered",
+    "artist": "Mrs. Miller",
+    "isrc": "USCA29900165"
+  },
+  {
+    "title": "Strawberry Tea",
+    "artist": "Tiny Tim",
+    "isrc": "USRE10401711"
+  },
+  {
+    "title": "Green of My Pants (2011 Sonic Boom Remaster)",
+    "artist": "The Red Krayola",
+    "isrc": "GBA7H1124513"
+  },
+  {
+    "title": "All Come to Meet Her",
+    "artist": "Alexander 'Skip' Spence",
+    "isrc": "USSM16801050"
+  },
+  {
+    "title": "New Clean Song",
+    "artist": "Crispin Glover",
+    "isrc": "USRY20410329"
+  },
+  {
+    "title": "Michael Likes To Smoke His Weed",
+    "artist": "David Liebe Hart, Th' Mole",
+    "isrc": "QZLJY2000111"
+  },
+  {
+    "title": "Total Creative Music",
+    "artist": "Bob Vido",
+    "isrc": "USCXG0500057"
+  },
+  {
+    "title": "I Love Paris",
+    "artist": "Leona Anderson",
+    "isrc": "AUXN22409845"
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "title": "Violence for the Sake of Violence",
+    "artist": "Ballista",
+    "isrc": "QZWFP2305242"
+  },
+  {
+    "title": "Portal to the Unknown",
+    "artist": "Life Cycles",
+    "isrc": "QMFMF2346183"
+  },
+  {
+    "title": "Endurance",
+    "artist": "Virtue",
+    "isrc": "QZDA71945057"
+  },
+  {
+    "title": "Mortal Flaw",
+    "artist": "Purifier",
+    "isrc": "QZWFL2343476"
+  },
+  {
+    "title": "Misery",
+    "artist": "Sanity Slip",
+    "isrc": "QZFZ22045666"
+  },
+  {
+    "title": "Old Gods Return",
+    "artist": "Skourge",
+    "isrc": "USKSV2105401"
+  },
+  {
+    "title": "Invocation",
+    "artist": "BLOODHOUND",
+    "isrc": "TCADT1810922"
+  },
+  {
+    "title": "Ego Suicide",
+    "artist": "Hollowed Out",
+    "isrc": "usdy42035617"
+  },
+  {
+    "title": "Dethroned",
+    "artist": "Insvrgence, Matt Honeycutt",
+    "isrc": "QZES91868458"
+  },
+  {
+    "title": "Forever",
+    "artist": "Second Wind",
+    "isrc": "QZHN42335537"
+  },
+  {
+    "title": "Skull Dice",
+    "artist": "Afflictive Nature",
+    "isrc": "QZHN81984293"
+  },
+  {
+    "title": "Sleeping Eye of the Watcher",
+    "artist": "Iron Age",
+    "isrc": "USJE71912301"
+  },
+  {
+    "title": "Guilty As Charged",
+    "artist": "Bitter End",
+    "isrc": "USHTV1010130"
+  },
+  {
+    "title": "Death To Your Name",
+    "artist": "Fortunes TX",
+    "isrc": "QZHN82490852"
+  },
+  {
+    "title": "Tested and True",
+    "artist": "Will To Live",
+    "isrc": "USCBM0500175"
+  },
+  {
+    "title": "Inhuman",
+    "artist": "In Balance",
+    "isrc": "TCAFL2184742"
+  },
+  {
+    "title": "Curse of Ascension",
+    "artist": "New Methods",
+    "isrc": "GBSMU7264659"
+  },
+  {
+    "title": "Unscathed",
+    "artist": "Vulgar Display",
+    "isrc": "QZHN51904562"
+  },
+  {
+    "title": "White Noise",
+    "artist": "Piss Poor",
+    "isrc": "QZES51971445"
+  },
+  {
+    "title": "Forevermore",
+    "artist": "Barbariantx",
+    "isrc": "QZMEQ2154054"
+  },
+  {
+    "title": "Fiend",
+    "artist": "The High Cost of Playing God",
+    "isrc": "QZWFE2305501"
+  },
+  {
+    "title": "Crucified",
+    "artist": "Hardside",
+    "isrc": "QZPLR2275787"
+  },
+  {
+    "title": "Free",
+    "artist": "Mangala",
+    "isrc": "QZES72064356"
+  },
+  {
+    "title": "Foul Mouth",
+    "artist": "GodEndsHere",
+    "isrc": "QZFZ41971839"
+  },
+  {
+    "title": "Executioner's Tax (Swing of the Axe)",
+    "artist": "Power Trip",
+    "isrc": "USZPA0901385"
+  },
+  {
+    "title": "Skinwalking",
+    "artist": "Snake Father",
+    "isrc": "FRX762463320"
+  },
+  {
+    "title": "Evil Lurks",
+    "artist": "Lower Depths",
+    "isrc": "QZK6N1909036"
+  },
+  {
+    "title": "Doubt",
+    "artist": "Biletx",
+    "isrc": "QZTAT2121026"
+  },
+  {
+    "title": "A Proper Burial",
+    "artist": "Departure",
+    "isrc": "QZFZ42306345"
+  },
+  {
+    "title": "Theory of Mind",
+    "artist": "Kublai Khan TX",
+    "isrc": "QMRSZ2300568"
+  },
+  {
+    "title": "death//and//decay",
+    "artist": "Despise",
+    "isrc": "QZHN32111153"
+  },
+  {
+    "title": "Fear",
+    "artist": "Fists of Fury, I AM",
+    "isrc": "QZK6M2168532"
+  },
+  {
+    "title": "Mind Grinder",
+    "artist": "Modern Pain",
+    "isrc": "QMFMF1493631"
+  },
+  {
+    "title": "Better Than This",
+    "artist": "Bitter Taste",
+    "isrc": "TCADR1862522"
+  },
+  {
+    "title": "Promises",
+    "artist": "The Optimist",
+    "isrc": "QZHNA2188591"
+  },
+  {
+    "title": "Allegation",
+    "artist": "Allegation",
+    "isrc": "QZDA51929601"
+  },
+  {
+    "title": "Grimmenstein",
+    "artist": "Mammoth Grinder",
+    "isrc": "US2641738101"
+  },
+  {
+    "title": "Centrist",
+    "artist": "Cease All Control, Grit",
+    "isrc": "QZK6M1912705"
+  },
+  {
+    "title": "Technology",
+    "artist": "Impalers",
+    "isrc": "QM6N21762347"
+  },
+  {
+    "title": "Sick",
+    "artist": "Spineless",
+    "isrc": "QZES92128930"
+  },
+  {
+    "title": "Bloom",
+    "artist": "DSGNS",
+    "isrc": "QZFYZ2459923"
+  },
+  {
+    "title": "In Your Debt",
+    "artist": "Blackhand",
+    "isrc": "QZAPG1829226"
+  },
+  {
+    "title": "Empty",
+    "artist": "Torture",
+    "isrc": "uscgj1781002"
+  },
+  {
+    "title": "Handshakes With Snakes",
+    "artist": "Executioner",
+    "isrc": "QZ4JJ1826772"
+  },
+  {
+    "title": "Maroon",
+    "artist": "The Vinous",
+    "isrc": "QZFZ62016275"
+  },
+  {
+    "title": "Charade (feat. Vincente Void & Hash Gordon)",
+    "artist": "Omerta, Vincente Void, Hash Gordon",
+    "isrc": "US38Y2407940"
+  },
+  {
+    "title": "I Hate You - Just an American Band",
+    "artist": "Verbal Abuse",
+    "isrc": "USH780513103"
+  },
+  {
+    "title": "Denial",
+    "artist": "Miscon",
+    "isrc": "ushm81727309"
+  },
+  {
+    "title": "Too Political?",
+    "artist": "Really Red",
+    "isrc": "US2B21510012"
+  },
+  {
+    "title": "The Taker",
+    "artist": "Sealbreaker",
+    "isrc": "QZFZ62086115"
+  },
+  {
+    "title": "Plainsight",
+    "artist": "Brook Alley",
+    "isrc": "QZK6P2079589"
+  },
+  {
+    "title": "Blow Up The Embassy",
+    "artist": "Fearless Iranians From Hell",
+    "isrc": "USA2Z0400373"
+  },
+  {
+    "title": "Not For You",
+    "artist": "Character Assassin",
+    "isrc": "QZGWW2003973"
+  },
+  {
+    "title": "Blind Leading Dead",
+    "artist": "Slow Slice",
+    "isrc": "TCADE1796668"
+  },
+  {
+    "title": "Detach",
+    "artist": "Bliss",
+    "isrc": "QZFZ72052044"
+  },
+  {
+    "title": "Enemy",
+    "artist": "Contact Grid",
+    "isrc": "SEYOK1959136"
+  },
+  {
+    "title": "Lasting Resentment",
+    "artist": "Corrosion",
+    "isrc": "QZFZ62092486"
+  },
+  {
+    "title": "Pictures of the Future",
+    "artist": "Double Crossed",
+    "isrc": "QZNWZ2009798"
+  },
+  {
+    "title": "Disconnect",
+    "artist": "Eightfifteen",
+    "isrc": "USQY51086109"
+  },
+  {
+    "title": "Fatal Ways",
+    "artist": "Fatebringer",
+    "isrc": "TCADB1712684"
+  },
+  {
+    "title": "Drowning",
+    "artist": "Inkwell",
+    "isrc": "QZFZ72017181"
+  },
+  {
+    "title": "On A Rung",
+    "artist": "Lace",
+    "isrc": "QZNWU2065235"
+  },
+  {
+    "title": "Shame, Regret, Disgust",
+    "artist": "Perseverance TX",
+    "isrc": "QZFZ41985171"
+  },
+  {
+    "title": "Skin Prison",
+    "artist": "Risinger",
+    "isrc": "QZHN72226119"
+  },
+  {
+    "title": "No Trust",
+    "artist": "Startled Calf",
+    "isrc": "usdy41854040"
+  },
+  {
+    "title": "Boo Fucking Hoo",
+    "artist": "The Yuppie Pricks",
+    "isrc": "US2B20532708"
+  },
+  {
+    "title": "Target Practice",
+    "artist": "Ballista, Sanity Slip",
+    "isrc": "QZWFP2305251"
+  },
+  {
+    "title": "Serpent's Kiss",
+    "artist": "Life Cycles",
+    "isrc": "QMFMF2346188"
+  },
+  {
+    "title": "Frame of Mind",
+    "artist": "Virtue",
+    "isrc": "QZTB42373955"
+  },
+  {
+    "title": "Guilt Trip",
+    "artist": "Purifier",
+    "isrc": "QZ5FN1940343"
+  },
+  {
+    "title": "CHIN CHECK",
+    "artist": "Sanity Slip, No Zodiac, .357 Homicide",
+    "isrc": "QZWFH2388776"
+  },
+  {
+    "title": "Torrential Torment",
+    "artist": "Skourge",
+    "isrc": "USKSV2395402"
+  },
+  {
+    "title": "Unanswered",
+    "artist": "BLOODHOUND",
+    "isrc": "TCADT1810921"
+  },
+  {
+    "title": "Illusionist",
+    "artist": "Hollowed Out",
+    "isrc": "usdy42035618"
+  },
+  {
+    "title": "The Grey",
+    "artist": "Insvrgence",
+    "isrc": "USA2P1949332"
+  },
+  {
+    "title": "Virtual Sleep",
+    "artist": "Second Wind",
+    "isrc": "QZK6Q2120478"
+  },
+  {
+    "title": "Cheating Death",
+    "artist": "Afflictive Nature",
+    "isrc": "QZHN81984286"
+  },
+  {
+    "title": "Dispossessed",
+    "artist": "Iron Age",
+    "isrc": "USJE71912302"
+  },
+  {
+    "title": "Conversations with Death",
+    "artist": "Bitter End",
+    "isrc": "QM4TW1597204"
+  },
+  {
+    "title": "A New Era Of Violence",
+    "artist": "Fortunes TX",
+    "isrc": "QZTBD2351186"
+  },
+  {
+    "title": "All of the Above",
+    "artist": "Will To Live",
+    "isrc": "USCBM0500173"
+  },
+  {
+    "title": "Sorrows",
+    "artist": "In Balance",
+    "isrc": "QZK6K2230133"
+  },
+  {
+    "title": "Inferno",
+    "artist": "New Methods",
+    "isrc": "GBSMU5824286"
+  },
+  {
+    "title": "Web of Lies",
+    "artist": "Vulgar Display",
+    "isrc": "QZHN51904564"
+  },
+  {
+    "title": "Unfair Game (Knowthatiamgod)",
+    "artist": "Piss Poor",
+    "isrc": "QZDA62050261"
+  },
+  {
+    "title": "Beyond God",
+    "artist": "Barbariantx",
+    "isrc": "QZMEQ2154052"
+  },
+  {
+    "title": "Black Crosses",
+    "artist": "The High Cost of Playing God, The Vinous",
+    "isrc": "QZWFG2359807"
+  },
+  {
+    "title": "Clean Slate",
+    "artist": "Hardside",
+    "isrc": "CH6540834356"
+  },
+  {
+    "title": "Up to You",
+    "artist": "Mangala",
+    "isrc": "QZK6Q1912541"
+  },
+  {
+    "title": "Crowbeast",
+    "artist": "GodEndsHere",
+    "isrc": "QZFZ22063222"
+  },
+  {
+    "title": "Nightshade",
+    "artist": "Snake Father",
+    "isrc": "TCAEK1997378"
+  },
+  {
+    "title": "Hornet's Nest",
+    "artist": "Power Trip",
+    "isrc": "QM7281960482"
+  },
+  {
+    "title": "Purification Through Self-Sacrifice",
+    "artist": "Lower Depths",
+    "isrc": "QZK6N1909035"
+  },
+  {
+    "title": "New Kings",
+    "artist": "Biletx",
+    "isrc": "QZHN61919735"
+  },
+  {
+    "title": "Enforcers",
+    "artist": "Departure, Alec Torres, Chris Tey",
+    "isrc": "QZFZ42306349"
+  },
+  {
+    "title": "Self-Destruct",
+    "artist": "Kublai Khan TX",
+    "isrc": "QMRSZ1901777"
+  },
+  {
+    "title": "downward//spiral",
+    "artist": "Despise",
+    "isrc": "QZHN32111154"
+  },
+  {
+    "title": "Oppression",
+    "artist": "Fists of Fury",
+    "isrc": "QZK6M2168530"
+  },
+  {
+    "title": "Reality of the Pain",
+    "artist": "Modern Pain",
+    "isrc": "GBSMU1344212"
+  },
+  {
+    "title": "Pessimist",
+    "artist": "Bitter Taste",
+    "isrc": "TCADR1862520"
+  },
+  {
+    "title": "The Truth Unknown",
+    "artist": "The Optimist",
+    "isrc": "UST8K1634035"
+  },
+  {
+    "title": "Burden of Guilt",
+    "artist": "Allegation",
+    "isrc": "QZMEP2189303"
+  },
+  {
+    "title": "Pulverizer",
+    "artist": "Mammoth Grinder",
+    "isrc": "QM6P41729539"
+  },
+  {
+    "title": "Class Traitor",
+    "artist": "Cease All Control, Grit",
+    "isrc": "QZK6M1912708"
+  },
+  {
+    "title": "Spider Sisters",
+    "artist": "Impalers",
+    "isrc": "QM6N21762514"
+  },
+  {
+    "title": "Glassblower",
+    "artist": "Spineless",
+    "isrc": "QZK6M2113121"
+  },
+  {
+    "title": "Second Death",
+    "artist": "DSGNS",
+    "isrc": "QZFYZ2459926"
+  },
+  {
+    "title": "Scour the Earth",
+    "artist": "Blackhand",
+    "isrc": "QZDA61872882"
+  },
+  {
+    "title": "Suffering",
+    "artist": "Torture",
+    "isrc": "uscgj1781003"
+  },
+  {
+    "title": "Unleash Hell",
+    "artist": "Executioner",
+    "isrc": "QZ4JJ1826768"
+  },
+  {
+    "title": "When Heaven Failed",
+    "artist": "The Vinous",
+    "isrc": "QZFZ62016277"
+  },
+  {
+    "title": "Garbage",
+    "artist": "Omerta",
+    "isrc": "QZFZ42018271"
+  },
+  {
+    "title": "1000 Stitches 2000 Cuts",
+    "artist": "Ballista",
+    "isrc": "QZFZ62244516"
+  },
+  {
+    "title": "Sanctioned Territory",
+    "artist": "Life Cycles",
+    "isrc": "QMFMF2346185"
+  },
+  {
+    "title": "The Gift of Pain",
+    "artist": "Virtue",
+    "isrc": "QZTB42373956"
+  },
+  {
+    "title": "Homicide",
+    "artist": "Purifier",
+    "isrc": "GBWUL2087399"
+  },
+  {
+    "title": "MUTILATED",
+    "artist": "Sanity Slip, Field Dressed, Slaughter Swamp",
+    "isrc": "QZWFH2388777"
+  },
+  {
+    "title": "Flagellation",
+    "artist": "Skourge",
+    "isrc": "USKSV2395404"
+  },
+  {
+    "title": "A.O.B",
+    "artist": "BLOODHOUND",
+    "isrc": "TCADT1810923"
+  },
+  {
+    "title": "Swords",
+    "artist": "Hollowed Out",
+    "isrc": "usdy42035619"
+  },
+  {
+    "title": "Misdiagnosis",
+    "artist": "Insvrgence",
+    "isrc": "USA2P1949331"
+  },
+  {
+    "title": "What You're Made Of",
+    "artist": "Second Wind",
+    "isrc": "QZK6Q2120476"
+  },
+  {
+    "title": "Palace of Pain",
+    "artist": "Afflictive Nature",
+    "isrc": "QZHN81984289"
+  },
+  {
+    "title": "Evil Ways",
+    "artist": "Iron Age",
+    "isrc": "USDRS0600004"
+  },
+  {
+    "title": "The Hand That Feeds",
+    "artist": "Bitter End",
+    "isrc": "USHTV1010131"
+  },
+  {
+    "title": "Day After Day",
+    "artist": "Fortunes TX",
+    "isrc": "QZHN82490853"
+  },
+  {
+    "title": "True Hero",
+    "artist": "Will To Live",
+    "isrc": "USCBM0500174"
+  },
+  {
+    "title": "Descend",
+    "artist": "In Balance",
+    "isrc": "TCAFL2184798"
+  },
+  {
+    "title": "Endless Aggression",
+    "artist": "New Methods",
+    "isrc": "GBSMU5824290"
+  },
+  {
+    "title": "Blood Sweat & Skin",
+    "artist": "Vulgar Display",
+    "isrc": "QZHN51904563"
+  },
+  {
+    "title": "Sob (Exaltedamongnations)",
+    "artist": "Piss Poor",
+    "isrc": "QZDA62050263"
+  },
+  {
+    "title": "As It Is In Heaven",
+    "artist": "Barbariantx",
+    "isrc": "QZMEQ2154057"
+  },
+  {
+    "title": "Beyond Me",
+    "artist": "The High Cost of Playing God, The Vinous",
+    "isrc": "QZWFG2359808"
+  },
+  {
+    "title": "Shut It Out",
+    "artist": "Hardside",
+    "isrc": "QZPLR2275792"
+  },
+  {
+    "title": "Vendetta",
+    "artist": "Mangala",
+    "isrc": "QZK6Q1912545"
+  },
+  {
+    "title": "Bitter Featuring Spencer Letsinger from Kill",
+    "artist": "GodEndsHere",
+    "isrc": "TCAEF1913953"
+  }
+]

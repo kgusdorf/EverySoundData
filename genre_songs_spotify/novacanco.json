@@ -1,0 +1,607 @@
+[
+  {
+    "title": "Homenatge a Teresa",
+    "artist": "Ovidi Montllor",
+    "isrc": "ES5060705502"
+  },
+  {
+    "title": "Lladres",
+    "artist": "Al Tall",
+    "isrc": "ES5060700705"
+  },
+  {
+    "title": "Canço de la Plaça del Diamant",
+    "artist": "Ramon Muntaner",
+    "isrc": "ES7581200284"
+  },
+  {
+    "title": "Que tinguem sort",
+    "artist": "Lluis Llach",
+    "isrc": "ES5079100044"
+  },
+  {
+    "title": "Que Volen Aquesta Gent?",
+    "artist": "Maria del Mar Bonet",
+    "isrc": "ES5027700170"
+  },
+  {
+    "title": "Torna, Torna Serrallonga",
+    "artist": "Esquirols",
+    "isrc": "ES5060703306"
+  },
+  {
+    "title": "A Margalida",
+    "artist": "Joan Isaac",
+    "isrc": "ES5300409300"
+  },
+  {
+    "title": "Les Caramelles",
+    "artist": "Núria Feliu",
+    "isrc": "ES7581000226"
+  },
+  {
+    "title": "Les Rondes De Vi",
+    "artist": "Jaume Arnella",
+    "isrc": "ES5300825132"
+  },
+  {
+    "title": "Remena, Nena",
+    "artist": "Guillermina Motta",
+    "isrc": "ES5061005206"
+  },
+  {
+    "title": "Bella Ciao",
+    "artist": "Marina Rossell, Paco Ibanez",
+    "isrc": "ES6101927508"
+  },
+  {
+    "title": "El Corazón Es Agua (with Sílvia Pérez Cruz)",
+    "artist": "Toti Soler, Sílvia Pérez Cruz",
+    "isrc": "ES6101128502"
+  },
+  {
+    "title": "La llarga marxa del pobles",
+    "artist": "Companyia Elèctrica Dharma, Santa Salut, The Tyets",
+    "isrc": "ES80A2420809"
+  },
+  {
+    "title": "A los Arboles Altos",
+    "artist": "Grup De Folk",
+    "isrc": "ES5060620818"
+  },
+  {
+    "title": "Jordi",
+    "artist": "Roger Mas, Núria Graham",
+    "isrc": "ES6101823001"
+  },
+  {
+    "title": "Era Tan Bon Home",
+    "artist": "Pere Tapias",
+    "isrc": "ES7930200143"
+  },
+  {
+    "title": "Jo Vinc D'un Silenci",
+    "artist": "Raimon",
+    "isrc": "ES5061706308"
+  },
+  {
+    "title": "Noia de porcellana",
+    "artist": "Pau Riba, Om",
+    "isrc": "ES5891901391"
+  },
+  {
+    "title": "Methismeno Treno",
+    "artist": "Josep Tero, Lavrentis Machairitsas",
+    "isrc": "GRE011200147"
+  },
+  {
+    "title": "Rossinyol",
+    "artist": "Rafael Subirachs",
+    "isrc": "ES5061608405"
+  },
+  {
+    "title": "No Fa Gaires Anys",
+    "artist": "Enric Barbat",
+    "isrc": "ES5061204305"
+  },
+  {
+    "title": "A la Vora de la Nit (Canta Les Seves Cançons)",
+    "artist": "Josep Maria Espinàs",
+    "isrc": "ES5061213108"
+  },
+  {
+    "title": "La Lluna, la Pruna",
+    "artist": "Xesco Boix",
+    "isrc": "ES5060606317"
+  },
+  {
+    "title": "Paff, el Drac Màgic",
+    "artist": "Falsterbo 3",
+    "isrc": "ES5061009403"
+  },
+  {
+    "title": "Pedro Navaja",
+    "artist": "Orquestra Plateria",
+    "isrc": "ES5061000611"
+  },
+  {
+    "title": "L'home del Carrer",
+    "artist": "Francesc Pi De La Serra",
+    "isrc": "ES5060704811"
+  },
+  {
+    "title": "Amor Particular",
+    "artist": "Sílvia Comes",
+    "isrc": "ES5060705912"
+  },
+  {
+    "title": "Paraules per a Júlia",
+    "artist": "Xavier Ribalta",
+    "isrc": "ES6342300037"
+  },
+  {
+    "title": "Blues En Sol",
+    "artist": "Guillem d'Efak",
+    "isrc": "ES8570712505"
+  },
+  {
+    "title": "El Quinto Regimiento",
+    "artist": "Pi de la Serra, Carme Canela",
+    "isrc": "USJE61710675"
+  },
+  {
+    "title": "Visca L'Amor",
+    "artist": "Teresa Rebull, Baetúria, Blues De Picolat, Gerard Jacquet, Gisela Bellsola, Joan Isaac, Josep Tero, Lluis Llach, Maria del Mar Bonet, Marina Rossell, Mariona Sagarra, Muhel, Patrik Riberibelo, Raimon, Relk, Thierry Parcé, Túrnez & Sesé",
+    "isrc": "ES5060603122"
+  },
+  {
+    "title": "Els Hi Fotrem",
+    "artist": "Jordi Barre",
+    "isrc": "ES5061115303"
+  },
+  {
+    "title": "El Gessamí I la Rosa",
+    "artist": "Ia Clua, Jordi Batiste",
+    "isrc": "ES5060705408"
+  },
+  {
+    "title": "Llavis de Sal",
+    "artist": "Joan Amèric",
+    "isrc": "ES5060609801"
+  },
+  {
+    "title": "Ràdio Capvespre",
+    "artist": "Maria Cinta",
+    "isrc": "ES5252101102"
+  },
+  {
+    "title": "Classe Mitja",
+    "artist": "Remei Margarit",
+    "isrc": "ES5061211501"
+  },
+  {
+    "title": "Mediterraneo",
+    "artist": "Joan Manuel Serrat",
+    "isrc": "ES5020000300"
+  },
+  {
+    "title": "La Meva Petita Terra",
+    "artist": "Manel Camp, Maria del Mar Bonet",
+    "isrc": "ES5061111222"
+  },
+  {
+    "title": "Qualsevol Nit pot Sortir el Sol",
+    "artist": "Jaume Sisa, Arrels, Cor de Noies",
+    "isrc": "ES78G1470009"
+  },
+  {
+    "title": "Els Temps Estan Canviant",
+    "artist": "Oriol Tramvia, Grup De Folk",
+    "isrc": "ES5300003601"
+  },
+  {
+    "title": "Nova Cançó del Senyor Ramon",
+    "artist": "Delfí Abella",
+    "isrc": "ES5061404303"
+  },
+  {
+    "title": "Nova Cançó de S'amor Perdut",
+    "artist": "Joan Ramon Bonet",
+    "isrc": "ES5061116409"
+  },
+  {
+    "title": "Supercalifragilisticexpialidosos",
+    "artist": "Salvador Escamilla",
+    "isrc": "ES5061116114"
+  },
+  {
+    "title": "Portait de Baudelaire",
+    "artist": "Jordi Sabatés",
+    "isrc": "ES5060849024"
+  },
+  {
+    "title": "Desperta't Rosselló",
+    "artist": "Pere Figueres",
+    "isrc": "ES5301458123"
+  },
+  {
+    "title": "El Rei Joan Primer de Catalunya",
+    "artist": "Glòria",
+    "isrc": "ES5061116717"
+  },
+  {
+    "title": "Entrada de Baile de Rueda",
+    "artist": "Marià Albero",
+    "isrc": "ES5060618411"
+  },
+  {
+    "title": "Jo Som, Tu Ets",
+    "artist": "Miquelina Lladó",
+    "isrc": "ES5061208303"
+  },
+  {
+    "title": "...Lejos Queda el Mar: a Antoni Benaiges, el Maestro Que Prometió el Mar",
+    "artist": "Ramon Sauló",
+    "isrc": "ES5061502001"
+  },
+  {
+    "title": "M'en vaig a peu",
+    "artist": "Miquela Lladó",
+    "isrc": "ES8570738802"
+  },
+  {
+    "title": "Les Floristes de la Rambla",
+    "artist": "Miquel Porter",
+    "isrc": "ES5061801204"
+  },
+  {
+    "title": "Ai, Amic Meu",
+    "artist": "Miquel Àngel Tena",
+    "isrc": "ES5060905410"
+  },
+  {
+    "title": "L'Hereu Riera",
+    "artist": "Maria Del Carme Girau",
+    "isrc": "ES5060804612"
+  },
+  {
+    "title": "Pueblo Blanco",
+    "artist": "Ricard Miralles, Josep Mas \"Kitflus\"",
+    "isrc": "ES5061607302"
+  },
+  {
+    "title": "Cançó de la Droga",
+    "artist": "Dolors Laffitte",
+    "isrc": "ES5061214710"
+  },
+  {
+    "title": "El Pobre Romàntic",
+    "artist": "Xavier Elies",
+    "isrc": "ES5061211203"
+  },
+  {
+    "title": "Secret",
+    "artist": "Francesc Burrull",
+    "isrc": "ESA031426016"
+  },
+  {
+    "title": "L'Allioli",
+    "artist": "Joan Pau Giné",
+    "isrc": "ES5061405807"
+  },
+  {
+    "title": "La Llebreta",
+    "artist": "Pau i Jordi",
+    "isrc": "ES5061403614"
+  },
+  {
+    "title": "Llamame",
+    "artist": "Victor Balaguer",
+    "isrc": "DEKB71385343"
+  },
+  {
+    "title": "Va Com Va",
+    "artist": "Ovidi Montllor",
+    "isrc": "ES5060705510"
+  },
+  {
+    "title": "La Colometa",
+    "artist": "Al Tall",
+    "isrc": "ES5060700710"
+  },
+  {
+    "title": "Cançó de Carrer",
+    "artist": "Ramon Muntaner",
+    "isrc": "ES5060710401"
+  },
+  {
+    "title": "L'estaca",
+    "artist": "Lluis Llach",
+    "isrc": "ES5060702507"
+  },
+  {
+    "title": "L'Aguila Negra - L'Aigle Noir",
+    "artist": "Maria del Mar Bonet",
+    "isrc": "ES5107100052"
+  },
+  {
+    "title": "Fent Camí",
+    "artist": "Esquirols",
+    "isrc": "ES5060702801"
+  },
+  {
+    "title": "Petita Serenata Diurna",
+    "artist": "Joan Isaac, Silvio Rodríguez",
+    "isrc": "ES5061500108"
+  },
+  {
+    "title": "El Vestir d'en Pasqual",
+    "artist": "Núria Feliu",
+    "isrc": "ES7581000223"
+  },
+  {
+    "title": "Les Rondes del Vi",
+    "artist": "Jaume Arnella, Grup De Folk",
+    "isrc": "ES5300003602"
+  },
+  {
+    "title": "El Vestir D'en Pasqual",
+    "artist": "Guillermina Motta",
+    "isrc": "ES5061005202"
+  },
+  {
+    "title": "De Que Hablas Habanera",
+    "artist": "Marina Rossell",
+    "isrc": "ES5060604205"
+  },
+  {
+    "title": "Em Dius Que El Nostre Amor",
+    "artist": "Toti Soler",
+    "isrc": "ES6100010403"
+  },
+  {
+    "title": "20 d'abril",
+    "artist": "Companyia Elèctrica Dharma, Celtas Cortos",
+    "isrc": "ES80A2420818"
+  },
+  {
+    "title": "La Vall del Riu Vermell",
+    "artist": "Grup De Folk",
+    "isrc": "ES5060620822"
+  },
+  {
+    "title": "I la pluja es va assecar...",
+    "artist": "Roger Mas, Pau Riba, Jaume Sisa",
+    "isrc": "ES6100313502"
+  },
+  {
+    "title": "La Moto",
+    "artist": "Pere Tapias",
+    "isrc": "ES5061807805"
+  },
+  {
+    "title": "A L'estiu Quan Són Les Nou",
+    "artist": "Raimon",
+    "isrc": "ES5061102001"
+  },
+  {
+    "title": "L'home estàtic",
+    "artist": "Pau Riba",
+    "isrc": "ES5891901398"
+  },
+  {
+    "title": "Cos Meu, Recorda...",
+    "artist": "Josep Tero",
+    "isrc": "ES5061011401"
+  },
+  {
+    "title": "El Mariner",
+    "artist": "Rafael Subirachs",
+    "isrc": "ES5061608403"
+  },
+  {
+    "title": "En una Gran Ciutat",
+    "artist": "Enric Barbat",
+    "isrc": "ES5061204306"
+  },
+  {
+    "title": "La Presó de Lleida (Cançons Tradicionals Catalanes)",
+    "artist": "Josep Maria Espinàs",
+    "isrc": "ES5061213101"
+  },
+  {
+    "title": "Un Peixeten el Fons de L'estany",
+    "artist": "Xesco Boix",
+    "isrc": "ES5060606314"
+  },
+  {
+    "title": "Ai Adéu, Cara Bonica",
+    "artist": "Falsterbo 3",
+    "isrc": "ES5061108807"
+  },
+  {
+    "title": "Camarera de Mi Amor",
+    "artist": "Orquestra Plateria",
+    "isrc": "ES5061000602"
+  },
+  {
+    "title": "El Burgès",
+    "artist": "Francesc Pi De La Serra",
+    "isrc": "ES5060704801"
+  },
+  {
+    "title": "Missatge",
+    "artist": "Sílvia Comes, Lídia Pujol",
+    "isrc": "ES5060624004"
+  },
+  {
+    "title": "Grândola",
+    "artist": "Xavier Ribalta",
+    "isrc": "ES6342300040"
+  },
+  {
+    "title": "Febre",
+    "artist": "Guillem d'Efak",
+    "isrc": "ES8570712514"
+  },
+  {
+    "title": "Canción del Frente Unido",
+    "artist": "Pi de la Serra, Carme Canela",
+    "isrc": "USJE61710681"
+  },
+  {
+    "title": "El Meu País",
+    "artist": "Teresa Rebull",
+    "isrc": "ES5061205802"
+  },
+  {
+    "title": "Parlem Català",
+    "artist": "Jordi Barre",
+    "isrc": "ES5061115304"
+  },
+  {
+    "title": "Bon Dia Lluna",
+    "artist": "Ia Clua, Jordi Batiste",
+    "isrc": "ES5060705401"
+  },
+  {
+    "title": "Parlant de Sirenes",
+    "artist": "Joan Amèric",
+    "isrc": "ES5060614005"
+  },
+  {
+    "title": "Maria Cinta",
+    "artist": "Maria Cinta",
+    "isrc": "ES5060919301"
+  },
+  {
+    "title": "Classe Mitjana",
+    "artist": "Remei Margarit",
+    "isrc": "ES5061116702"
+  },
+  {
+    "title": "Cantares",
+    "artist": "Joan Manuel Serrat",
+    "isrc": "ES5020000250"
+  },
+  {
+    "title": "Shape of My Heart",
+    "artist": "Manel Camp",
+    "isrc": "ES5232012391"
+  },
+  {
+    "title": "Bèstia! - En Directe",
+    "artist": "Oriol Tramvia",
+    "isrc": "ES5060908305"
+  },
+  {
+    "title": "Quan Erem Infants",
+    "artist": "Delfí Abella",
+    "isrc": "ES5061413802"
+  },
+  {
+    "title": "Dóna'm la Mà",
+    "artist": "Ovidi Montllor",
+    "isrc": "ES5060701307"
+  },
+  {
+    "title": "No en Volem Cap",
+    "artist": "Al Tall",
+    "isrc": "ES5060802511"
+  },
+  {
+    "title": "El Ball Dels Cent Mil Diumenges",
+    "artist": "Ramon Muntaner",
+    "isrc": "ES5060710402"
+  },
+  {
+    "title": "Alenar",
+    "artist": "Maria del Mar Bonet",
+    "isrc": "ES5027700172"
+  },
+  {
+    "title": "País petit",
+    "artist": "Lluis Llach",
+    "isrc": "ES34B0900023"
+  },
+  {
+    "title": "Arrels",
+    "artist": "Esquirols",
+    "isrc": "ES5060702803"
+  },
+  {
+    "title": "Aquelles Petites Coses",
+    "artist": "Joan Isaac",
+    "isrc": "ES5300205191"
+  },
+  {
+    "title": "La Marieta de l'ull Viu",
+    "artist": "Núria Feliu",
+    "isrc": "ES7581000217"
+  },
+  {
+    "title": "Les Corrandes",
+    "artist": "Jaume Arnella, Rafel Sala, Ferran Martínez, Michael Weiss",
+    "isrc": "ES5300821439"
+  },
+  {
+    "title": "Jaume I",
+    "artist": "Guillermina Motta, La Trinca",
+    "isrc": "ES5060703804"
+  },
+  {
+    "title": "El Metec",
+    "artist": "Marina Rossell",
+    "isrc": "ES6101320301"
+  },
+  {
+    "title": "Cançó De Suburbi",
+    "artist": "Toti Soler, Ester Formosa",
+    "isrc": "ES6100210607"
+  },
+  {
+    "title": "La Presó del Rei de França",
+    "artist": "Companyia Elèctrica Dharma",
+    "isrc": "ES5060604501"
+  },
+  {
+    "title": "Escolta-ho en el Vent",
+    "artist": "Grup De Folk",
+    "isrc": "ES5060620805"
+  },
+  {
+    "title": "Plus ultra",
+    "artist": "Roger Mas",
+    "isrc": "ES6100811007"
+  },
+  {
+    "title": "Txa Txa Txa",
+    "artist": "Pere Tapias",
+    "isrc": "ES7930200144"
+  },
+  {
+    "title": "Al Vent",
+    "artist": "Raimon",
+    "isrc": "ES5060206901"
+  },
+  {
+    "title": "Helena, desenganya't",
+    "artist": "Pau Riba, Om",
+    "isrc": "ES5891901394"
+  },
+  {
+    "title": "Quan Dic L'Escala",
+    "artist": "Josep Tero",
+    "isrc": "ES5060206201"
+  },
+  {
+    "title": "La Presó del Rei de França",
+    "artist": "Rafael Subirachs",
+    "isrc": "ES5061608402"
+  },
+  {
+    "title": "Anna",
+    "artist": "Enric Barbat",
+    "isrc": "ES5061204302"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "title": "Dulce Ausencia",
+    "artist": "Yolanda Pinares",
+    "isrc": "GBSMU8140940"
+  },
+  {
+    "title": "Adiós Pueblo De Ayacucho",
+    "artist": "Edwin Montoya",
+    "isrc": "USDHM1100850"
+  },
+  {
+    "title": "Adiós Pueblo De Ayacucho",
+    "artist": "Trio Ayacucho",
+    "isrc": "USDHM1100123"
+  },
+  {
+    "title": "Carnavales Ayacuchanos",
+    "artist": "Dúo Ayacucho",
+    "isrc": "USDHM1101346"
+  },
+  {
+    "title": "Bella Mestiza",
+    "artist": "Ángel Bedrillana",
+    "isrc": "FR96X1608675"
+  },
+  {
+    "title": "Donde Estarás Palomita",
+    "artist": "Kiko Revatta",
+    "isrc": "USDHM1011163"
+  },
+  {
+    "title": "No Quiero Más Esta Vida",
+    "artist": "Yawar",
+    "isrc": "PEDJ10310414"
+  },
+  {
+    "title": "Cholita de Ojos Azules",
+    "artist": "Dúo Wayra",
+    "isrc": "ushm21973991"
+  },
+  {
+    "title": "Tu Me Pides Que Te Olvide",
+    "artist": "Max Castro",
+    "isrc": "USDHM1421122"
+  },
+  {
+    "title": "Mi Florcita Viva",
+    "artist": "Luciano Quispe",
+    "isrc": "FR59R2276334"
+  },
+  {
+    "title": "Regresa Cariñito",
+    "artist": "Duo Retama",
+    "isrc": "QZNJW2183954"
+  },
+  {
+    "title": "Koka kintucha",
+    "artist": "Manuelcha Prado",
+    "isrc": "QMPKX1420365"
+  },
+  {
+    "title": "Cómo has hecho",
+    "artist": "Dúo Hnos. Gaitán Castro",
+    "isrc": "US3DF2202032"
+  },
+  {
+    "title": "Flor De Amapola",
+    "artist": "Lucero Del Alba",
+    "isrc": "USDHM1101344"
+  },
+  {
+    "title": "Ay... Mi Cholita",
+    "artist": "Diosdado Gaitán Castro",
+    "isrc": "USHM92016247"
+  },
+  {
+    "title": "Bailemos Carnavales",
+    "artist": "Canto Sur",
+    "isrc": "PEDJ10308206"
+  },
+  {
+    "title": "Mujer Ayacuchana",
+    "artist": "Trudy Palomino",
+    "isrc": "USDHM1011091"
+  },
+  {
+    "title": "Amor Herido",
+    "artist": "Manuel Silva",
+    "isrc": "FR2X41508590"
+  },
+  {
+    "title": "Mix Carnavales Ayacuchanos",
+    "artist": "Los Apus",
+    "isrc": "ushm21963966"
+  },
+  {
+    "title": "A la Hora Exacta",
+    "artist": "Hamylton Fernández",
+    "isrc": "PEDJ10508102"
+  },
+  {
+    "title": "Mentiras",
+    "artist": "Antologia",
+    "isrc": "PEAN51008108"
+  },
+  {
+    "title": "Malaya Quien Dijo Amor",
+    "artist": "Conjunto Lira Paucina, Jaime Guardia",
+    "isrc": "FRX991593085"
+  },
+  {
+    "title": "Ripuy, Ripuy",
+    "artist": "Trío Ayacucho",
+    "isrc": "usl4q1831289"
+  },
+  {
+    "title": "Amor a Primera Vista",
+    "artist": "Milder Oré",
+    "isrc": "QZTB52364559"
+  },
+  {
+    "title": "Paloma Desmemoriada",
+    "artist": "Nelly Munguia, Antonio Gutierrez",
+    "isrc": "FRX282282306"
+  },
+  {
+    "title": "Puka Picante",
+    "artist": "Kishuar",
+    "isrc": "USDHM1101338"
+  },
+  {
+    "title": "Wawa Pampay",
+    "artist": "Consuelo Jerí, Marino Martínez",
+    "isrc": "PEEM31601003"
+  },
+  {
+    "title": "El Hombre",
+    "artist": "Miguel Mansilla",
+    "isrc": "USDHM1011095"
+  },
+  {
+    "title": "Premonición",
+    "artist": "Karina Fernández",
+    "isrc": "USDHM1011165"
+  },
+  {
+    "title": "Mamacha de las Mercedes",
+    "artist": "Hnos. Jorge León",
+    "isrc": "USDHM1011100"
+  },
+  {
+    "title": "Los Profesionales",
+    "artist": "Aldo Rivas",
+    "isrc": "USDHM1100805"
+  },
+  {
+    "title": "Carnaval Andahuaylino",
+    "artist": "Duo Encuentros",
+    "isrc": "USDHM1101343"
+  },
+  {
+    "title": "Pikicha, Pikicha",
+    "artist": "Elizabeth Llantoy",
+    "isrc": "USDHM1100802"
+  },
+  {
+    "title": "Como las flores",
+    "artist": "Ely García",
+    "isrc": "GB-SMU-15-48069"
+  },
+  {
+    "title": "Carnaval Estudiantina",
+    "artist": "Estudiantina Univ. Ciencias Agrarias",
+    "isrc": "USDHM1100803"
+  },
+  {
+    "title": "Marqay Quinta",
+    "artist": "Hnos. Morales",
+    "isrc": "PEMC10606012"
+  },
+  {
+    "title": "Prendida Mi Alma",
+    "artist": "Los Sureños",
+    "isrc": "ushm21641055"
+  },
+  {
+    "title": "Selección De Carnavales",
+    "artist": "Pedro Valencia",
+    "isrc": "USDHM1101340"
+  },
+  {
+    "title": "Castellanito Peruano - Pakinita",
+    "artist": "Rebeca Najarro",
+    "isrc": "USDHM1101342"
+  },
+  {
+    "title": "Saco Largo",
+    "artist": "Sonia Luz Del Castillo",
+    "isrc": "USDHM1100806"
+  },
+  {
+    "title": "Carnaval Ayacuchano",
+    "artist": "Trio Ayacuchano",
+    "isrc": "USDHM1101341"
+  },
+  {
+    "title": "Carnaval De Tuna",
+    "artist": "Tuna Pedagógica",
+    "isrc": "USDHM1100799"
+  },
+  {
+    "title": "Mamacha de las Mercedes",
+    "artist": "Urpicha Del Perú",
+    "isrc": "FR2X41545849"
+  },
+  {
+    "title": "Lucerito amante",
+    "artist": "Conjunto Pollo y Mamá Paulina",
+    "isrc": "PEXM11450401"
+  },
+  {
+    "title": "Quien Te Cantará",
+    "artist": "Flor Navarrete",
+    "isrc": "DELJ82034635"
+  },
+  {
+    "title": "Warma vidaschallay",
+    "artist": "Hermanos Gaitán Castro",
+    "isrc": "USLZJ1705679"
+  },
+  {
+    "title": "Carnaval de Chimborazo",
+    "artist": "Los Vientos de Ayacucho",
+    "isrc": "GBLPF6770865"
+  },
+  {
+    "title": "Quiero Probar",
+    "artist": "Mestiza",
+    "isrc": "QZ7R42151969"
+  },
+  {
+    "title": "Sufrir y llorar",
+    "artist": "Sonia y su Conjunto",
+    "isrc": "PEXM11450404"
+  },
+  {
+    "title": "Pajarillo Carcelero",
+    "artist": "Voces de Huamanga",
+    "isrc": "PEXM11450414"
+  },
+  {
+    "title": "Iskay Sunqu Runa",
+    "artist": "Voces del Colca",
+    "isrc": "USSF10144904"
+  },
+  {
+    "title": "Amigo",
+    "artist": "Edwin Montoya",
+    "isrc": "USDHM1100841"
+  },
+  {
+    "title": "Pañuelo Blanco",
+    "artist": "Yolanda Pinares",
+    "isrc": "GBSMU8140943"
+  },
+  {
+    "title": "Palomita Encantadora",
+    "artist": "Trio Ayacucho",
+    "isrc": "FR10S1583499"
+  },
+  {
+    "title": "Desolación",
+    "artist": "Dúo Ayacucho",
+    "isrc": "PEDJ19900102"
+  },
+  {
+    "title": "Plegaria",
+    "artist": "Kiko Revatta",
+    "isrc": "USDHM1011099"
+  },
+  {
+    "title": "Camino del Cielo",
+    "artist": "Dúo Wayra",
+    "isrc": "ushm21973993"
+  },
+  {
+    "title": "A Dónde Fue",
+    "artist": "Yawar",
+    "isrc": "PEDJ10310403"
+  },
+  {
+    "title": "Lejana",
+    "artist": "Ángel Bedrillana",
+    "isrc": "FR96X1608681"
+  },
+  {
+    "title": "Flor de Cantuta",
+    "artist": "Luciano Quispe",
+    "isrc": "USDHM1011106"
+  },
+  {
+    "title": "Falso Juramento (feat. Mac Salvador)",
+    "artist": "Max Castro, Mac Salvador",
+    "isrc": "USDHM1421125"
+  },
+  {
+    "title": "Seda Pañuelo",
+    "artist": "Duo Retama",
+    "isrc": "QZNJW2183957"
+  },
+  {
+    "title": "Clavel de mi pecho",
+    "artist": "Manuelcha Prado",
+    "isrc": "QMPKX1428115"
+  },
+  {
+    "title": "Amor, amor",
+    "artist": "Dúo Hnos. Gaitán Castro",
+    "isrc": "US3DF2202034"
+  },
+  {
+    "title": "Llora Corazón",
+    "artist": "Lucero Del Alba",
+    "isrc": "ushm81960048"
+  },
+  {
+    "title": "Tu Vida Me Pertenece",
+    "artist": "Diosdado Gaitán Castro",
+    "isrc": "USHM92016248"
+  },
+  {
+    "title": "Solo para Ti",
+    "artist": "Canto Sur",
+    "isrc": "PEDJ10308205"
+  },
+  {
+    "title": "Cárcel De Amor",
+    "artist": "Trudy Palomino",
+    "isrc": "USDHM1011156"
+  },
+  {
+    "title": "Negra del Alma",
+    "artist": "Manuel Silva",
+    "isrc": "FR2X41508594"
+  },
+  {
+    "title": "No Podrás Olvidarme",
+    "artist": "Los Apus",
+    "isrc": "ushm81904479"
+  },
+  {
+    "title": "Carnavales Caxas",
+    "artist": "Hamylton Fernández",
+    "isrc": "PEDJ10823005"
+  },
+  {
+    "title": "Falso Amor",
+    "artist": "Antologia, Agua Marina",
+    "isrc": "QZNJV2111759"
+  },
+  {
+    "title": "Madrecita Linda",
+    "artist": "Conjunto Lira Paucina",
+    "isrc": "FRX991593068"
+  },
+  {
+    "title": "Carnaval Ayacuchano",
+    "artist": "Trío Ayacucho",
+    "isrc": "usl4q1831285"
+  },
+  {
+    "title": "La Noche De Septiembre",
+    "artist": "Milder Oré",
+    "isrc": "QZTB52364567"
+  },
+  {
+    "title": "Utku Pankillay",
+    "artist": "Nelly Munguia",
+    "isrc": "ES71G2028456"
+  },
+  {
+    "title": "Shipibos",
+    "artist": "Kishuar",
+    "isrc": "PEDJ10360014"
+  },
+  {
+    "title": "Ángel De Mi Vida",
+    "artist": "Consuelo Jerí, Marino Martínez",
+    "isrc": "PEEM31601002"
+  },
+  {
+    "title": "Tierra que Duele",
+    "artist": "Miguel Mansilla",
+    "isrc": "USDHM1011107"
+  },
+  {
+    "title": "Flor de Retama",
+    "artist": "Karina Fernández",
+    "isrc": "USDHM1011105"
+  },
+  {
+    "title": "Flor de Retama",
+    "artist": "Hnos. Jorge León",
+    "isrc": "PEDJ18728608"
+  },
+  {
+    "title": "Grandes y maravillosas",
+    "artist": "Ely García",
+    "isrc": "GB-SMU-15-40403"
+  },
+  {
+    "title": "Cuarenta y Veinte",
+    "artist": "Hnos. Morales",
+    "isrc": "PEMC10606017"
+  },
+  {
+    "title": "Bajo el Sauce Solo",
+    "artist": "Los Sureños",
+    "isrc": "ushm21641051"
+  },
+  {
+    "title": "Mi Amor Ha Muerto",
+    "artist": "Edwin Montoya",
+    "isrc": "USDHM1100843"
+  },
+  {
+    "title": "En vano fue",
+    "artist": "Yolanda Pinares",
+    "isrc": "GBSMU8140947"
+  },
+  {
+    "title": "Dile",
+    "artist": "Trio Ayacucho",
+    "isrc": "FR10S1583519"
+  },
+  {
+    "title": "Carnavales Ayacuchanos - En Vivo",
+    "artist": "Dúo Ayacucho",
+    "isrc": "PEDJ10515311"
+  },
+  {
+    "title": "La Rosa Roja",
+    "artist": "Kiko Revatta",
+    "isrc": "USDHM1011103"
+  },
+  {
+    "title": "Torcasitay",
+    "artist": "Dúo Wayra",
+    "isrc": "ushm21973997"
+  },
+  {
+    "title": "Zambito",
+    "artist": "Yawar",
+    "isrc": "FR2X41557401"
+  },
+  {
+    "title": "Destino Marinero",
+    "artist": "Ángel Bedrillana",
+    "isrc": "FR96X1608682"
+  },
+  {
+    "title": "Linda Paisanita",
+    "artist": "Luciano Quispe",
+    "isrc": "QZMZ92161722"
+  },
+  {
+    "title": "Tu Amor No Vale Nada",
+    "artist": "Max Castro",
+    "isrc": "PEDJ10310901"
+  },
+  {
+    "title": "La Proforma",
+    "artist": "Duo Retama",
+    "isrc": "QZNJW2183948"
+  },
+  {
+    "title": "Huaylas ancestral",
+    "artist": "Manuelcha Prado",
+    "isrc": "QMPKX1420315"
+  },
+  {
+    "title": "Brindaré por Ti",
+    "artist": "Lucero Del Alba",
+    "isrc": "ushm81960038"
+  },
+  {
+    "title": "Otra vez me equivoqué",
+    "artist": "Dúo Hnos. Gaitán Castro",
+    "isrc": "US3DF2202033"
+  },
+  {
+    "title": "Hola, Cómo Estás?",
+    "artist": "Diosdado Gaitán Castro",
+    "isrc": "USHM92016251"
+  },
+  {
+    "title": "Amor de Otoño",
+    "artist": "Canto Sur",
+    "isrc": "PEDJ10308207"
+  },
+  {
+    "title": "Que Importa",
+    "artist": "Trudy Palomino",
+    "isrc": "USDHM1011157"
+  },
+  {
+    "title": "Solo He Salido",
+    "artist": "Manuel Silva",
+    "isrc": "FR2X41508589"
+  },
+  {
+    "title": "Tomando por Tí",
+    "artist": "Los Apus",
+    "isrc": "ushm21962628"
+  },
+  {
+    "title": "Misterios",
+    "artist": "Hamylton Fernández",
+    "isrc": "PEDJ10508103"
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "title": "Test Pilot",
+    "artist": "Stilz, The Encounter",
+    "isrc": "ITXDW1600473"
+  },
+  {
+    "title": "DownShift",
+    "artist": "Sub Morphine",
+    "isrc": "GBSMU9493607"
+  },
+  {
+    "title": "Above the Clouds",
+    "artist": "Shikimo, Gibarian",
+    "isrc": "QZHN72091947"
+  },
+  {
+    "title": "Astral Dive (From “In Search of Tomorrow”)",
+    "artist": "Baldocaster",
+    "isrc": "TCAGA2213544"
+  },
+  {
+    "title": "Highrider",
+    "artist": "Starfarer, DreamReaper",
+    "isrc": "QZNWS2199917"
+  },
+  {
+    "title": "Celestial Breakdown",
+    "artist": "Tonebox",
+    "isrc": "TCACR1669322"
+  },
+  {
+    "title": "Velocity",
+    "artist": "CJ Burnett",
+    "isrc": "QZFZ71917787"
+  },
+  {
+    "title": "Children of Cyberpunk",
+    "artist": "Isidor",
+    "isrc": "TCAEF1962267"
+  },
+  {
+    "title": "Warp Drive",
+    "artist": "Andromeda Dreams",
+    "isrc": "QZ4JJ1771374"
+  },
+  {
+    "title": "Infinite Mirrors",
+    "artist": "Galaxy 80, Decisive Koala",
+    "isrc": "QZK6K2187885"
+  },
+  {
+    "title": "New Approach",
+    "artist": "ZAYAZ",
+    "isrc": "QZNWU2164135"
+  },
+  {
+    "title": "Spacebridge",
+    "artist": "STARFORCE",
+    "isrc": "SEYOK1830992"
+  },
+  {
+    "title": "Hypersleep",
+    "artist": "Volkor X",
+    "isrc": "QM4DW1626522"
+  },
+  {
+    "title": "Sector Zero",
+    "artist": "Advection Stride",
+    "isrc": "QZHNB1957213"
+  },
+  {
+    "title": "Light Years",
+    "artist": "Droid Bishop",
+    "isrc": "FRP931400320"
+  },
+  {
+    "title": "Far From Home",
+    "artist": "Juno Dreams",
+    "isrc": "QZFYZ2104510"
+  },
+  {
+    "title": "Ocean Overdrive",
+    "artist": "Dream Shore",
+    "isrc": "QZ4JJ1952957"
+  },
+  {
+    "title": "Red Eyes",
+    "artist": "Zombie Hyperdrive",
+    "isrc": "TCACL1502216"
+  },
+  {
+    "title": "DMC 12 Gauge",
+    "artist": "Red Marker",
+    "isrc": "QZ9JZ1771219"
+  },
+  {
+    "title": "Dreamtime",
+    "artist": "The G",
+    "isrc": "TCAFQ2131156"
+  },
+  {
+    "title": "Throttle Up",
+    "artist": "Dynatron",
+    "isrc": "TCACU1615598"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Ace Buchannon",
+    "isrc": "QZNWW2275520"
+  },
+  {
+    "title": "Midnight Haze",
+    "artist": "Future Fate",
+    "isrc": "GBSMU3235702"
+  },
+  {
+    "title": "Pay Phone",
+    "artist": "Fantom '87",
+    "isrc": "SE5BU1772531"
+  },
+  {
+    "title": "66 MHz",
+    "artist": "Waveshaper",
+    "isrc": "ushm91753018"
+  },
+  {
+    "title": "Genesis",
+    "artist": "Nightcrawler, Dana Jean Phoenix",
+    "isrc": "UST8K1538333"
+  },
+  {
+    "title": "Turbo Drive",
+    "artist": "Synthatiger",
+    "isrc": "QM4DW1717119"
+  },
+  {
+    "title": "Figure 8",
+    "artist": "Z6b3r",
+    "isrc": "ITXDW1700678"
+  },
+  {
+    "title": "Nebula",
+    "artist": "Astral Tales",
+    "isrc": "QZDA51880676"
+  },
+  {
+    "title": "Hazy",
+    "artist": "Thought Beings",
+    "isrc": "TCADR1857348"
+  },
+  {
+    "title": "Interstellar Highway",
+    "artist": "Empyre",
+    "isrc": "GB-SMU-32-00361"
+  },
+  {
+    "title": "Lightyears",
+    "artist": "Dream Fiend, September 87",
+    "isrc": "QZDA42008005"
+  },
+  {
+    "title": "Lazereyes",
+    "artist": "Autovampir",
+    "isrc": "FRX281588284"
+  },
+  {
+    "title": "Locura",
+    "artist": "FacexHugger",
+    "isrc": "QZMEM2385301"
+  },
+  {
+    "title": "Alien Nation",
+    "artist": "Sagittarius V, Giang Pham",
+    "isrc": "QMPKX1710998"
+  },
+  {
+    "title": "Galactic",
+    "artist": "24:7",
+    "isrc": "QM4DW1879066"
+  },
+  {
+    "title": "Evil Disco Force",
+    "artist": "80 Strange Robots",
+    "isrc": "HUA3D1500008"
+  },
+  {
+    "title": "Orion",
+    "artist": "Citizen 12b",
+    "isrc": "QZ4JJ1639489"
+  },
+  {
+    "title": "Astrid",
+    "artist": "The Encounter, Street Cleaner",
+    "isrc": "QZDA81847339"
+  },
+  {
+    "title": "Campfire Party",
+    "artist": "Greyskull",
+    "isrc": "QZKWA2313512"
+  },
+  {
+    "title": "Volt's Theme",
+    "artist": "Volt Age",
+    "isrc": "QM2PV1741865"
+  },
+  {
+    "title": "In Interim",
+    "artist": "Bonggita, Krissy Abshire",
+    "isrc": "QZHN41901494"
+  },
+  {
+    "title": "Aurora",
+    "artist": "COSMO COCKTAIL",
+    "isrc": "GBSMU4299955"
+  },
+  {
+    "title": "Feed Them Lies",
+    "artist": "Nemix",
+    "isrc": "US7VG1520026"
+  },
+  {
+    "title": "Supernal",
+    "artist": "Forhill, oDDling",
+    "isrc": "QZES61943477"
+  },
+  {
+    "title": "The Discovery",
+    "artist": "DOOMROAR, Krosia",
+    "isrc": "QZDA71933234"
+  },
+  {
+    "title": "Space Again",
+    "artist": "Palm / | \\ Highway Chase",
+    "isrc": "ATE691302809"
+  },
+  {
+    "title": "Shoreline",
+    "artist": "Night Raptor",
+    "isrc": "QMPKX1723488"
+  },
+  {
+    "title": "Cavernas",
+    "artist": "Dallas Campbell",
+    "isrc": "FR-9W1-16-23553"
+  },
+  {
+    "title": "Mayday",
+    "artist": "Ozimov",
+    "isrc": "QZDA41882505"
+  },
+  {
+    "title": "Who You Run To",
+    "artist": "The Bad Dreamers",
+    "isrc": "TCADX1818127"
+  },
+  {
+    "title": "Tunnel Run",
+    "artist": "Arcade Summer",
+    "isrc": "UST8K1619462"
+  },
+  {
+    "title": "Sexy Lexy",
+    "artist": "Apollo Zapp",
+    "isrc": "ushm81578975"
+  },
+  {
+    "title": "Missense",
+    "artist": "PatternShift",
+    "isrc": "TCAGY2353772"
+  },
+  {
+    "title": "Endless Grid - Remastered",
+    "artist": "Solar Storm",
+    "isrc": "GBSMU6587582"
+  },
+  {
+    "title": "Drive",
+    "artist": "Mezhdunami",
+    "isrc": "QZMEM2282740"
+  },
+  {
+    "title": "I Hope It Hurts Like Hell",
+    "artist": "Lost Outrider, Sidewalks and Skeletons",
+    "isrc": "GBKQU2070166"
+  },
+  {
+    "title": "Saori (Remix)",
+    "artist": "LVX, Hubrid",
+    "isrc": "TCADZ1840771"
+  },
+  {
+    "title": "Cosmic Surfer - Extended Version",
+    "artist": "OMEGA Danzer",
+    "isrc": "ITH641801986"
+  },
+  {
+    "title": "Cold Wars",
+    "artist": "Python Blue",
+    "isrc": "US7VG1477210"
+  },
+  {
+    "title": "Origin",
+    "artist": "Space Purr",
+    "isrc": "SEYOK1704551"
+  },
+  {
+    "title": "Fringe Society",
+    "artist": "Sami Matar",
+    "isrc": "ushm91772420"
+  },
+  {
+    "title": "Paradise",
+    "artist": "Voyage",
+    "isrc": "GBKQU1807431"
+  },
+  {
+    "title": "Battle of Young",
+    "artist": "Zero Call",
+    "isrc": "SEYOK1319249"
+  },
+  {
+    "title": "Drifting Lights",
+    "artist": "Olivaw",
+    "isrc": "ushm81670856"
+  },
+  {
+    "title": "Drift",
+    "artist": "Star Noir",
+    "isrc": "QZ9JZ1782068"
+  },
+  {
+    "title": "Timmy Goes To Space",
+    "artist": "Mr. Maen",
+    "isrc": "DEY470930540"
+  },
+  {
+    "title": "Taking Control",
+    "artist": "Moskva-Kassiopeya",
+    "isrc": "GBHCD1502474"
+  },
+  {
+    "title": "Elena's Sound-World",
+    "artist": "Sinoia Caves",
+    "isrc": "US38Y1425302"
+  },
+  {
+    "title": "Hourglass",
+    "artist": "S U R V I V E",
+    "isrc": "GBVHV1500070"
+  },
+  {
+    "title": "09h00",
+    "artist": "Cosmic Sand",
+    "isrc": "QZFZ32010470"
+  },
+  {
+    "title": "Moonwalk",
+    "artist": "World Complete",
+    "isrc": "QZDA52269916"
+  },
+  {
+    "title": "Circuit Breakdown",
+    "artist": "Ethereal Delusions",
+    "isrc": "QZAPG1803569"
+  },
+  {
+    "title": "Ephemeral",
+    "artist": "Stellar Exodus",
+    "isrc": "QZB4J1846868"
+  },
+  {
+    "title": "Disco (don\\'t Stop)",
+    "artist": "Cyberspace",
+    "isrc": "DEA311501690"
+  },
+  {
+    "title": "Lost World",
+    "artist": "Galactic Warriors",
+    "isrc": "usx9p1104583"
+  },
+  {
+    "title": "Stay With Me - Vinyl Version",
+    "artist": "2DCAT",
+    "isrc": "GBRKQ2239113"
+  },
+  {
+    "title": "Boss Fight in Space",
+    "artist": "Abducted By Sharks",
+    "isrc": "usx9p1404729"
+  },
+  {
+    "title": "Nominal Performance",
+    "artist": "Away From Earth",
+    "isrc": "CH6541813361"
+  },
+  {
+    "title": "Fading Memories",
+    "artist": "Dune Rain",
+    "isrc": "uscgh1808093"
+  },
+  {
+    "title": "Invaders and Visitors",
+    "artist": "Ellen Replay",
+    "isrc": "GBSMU3188584"
+  },
+  {
+    "title": "Electromechanics Nostalgia",
+    "artist": "Globalix",
+    "isrc": "RUA1H2244741"
+  },
+  {
+    "title": "Takeoff",
+    "artist": "Starcop",
+    "isrc": "GBSMU4051903"
+  },
+  {
+    "title": "Hello Tomorrow",
+    "artist": "Syntax",
+    "isrc": "QMEQB1300012"
+  },
+  {
+    "title": "Stand Still",
+    "artist": "Stilz",
+    "isrc": "ITXDW1800190"
+  },
+  {
+    "title": "Revenant",
+    "artist": "Sub Morphine",
+    "isrc": "GBSMU6172019"
+  },
+  {
+    "title": "Stardust",
+    "artist": "Shikimo",
+    "isrc": "QZK6P1904381"
+  },
+  {
+    "title": "Persona",
+    "artist": "Baldocaster",
+    "isrc": "QZMEQ2213536"
+  },
+  {
+    "title": "To the Stars",
+    "artist": "Starfarer, Elevate the Sky",
+    "isrc": "QZHN91924962"
+  },
+  {
+    "title": "System Error",
+    "artist": "Tonebox",
+    "isrc": "TCACR1669320"
+  },
+  {
+    "title": "Dark Skies",
+    "artist": "CJ Burnett",
+    "isrc": "QZFZ71917791"
+  },
+  {
+    "title": "Obsidian",
+    "artist": "Andromeda Dreams",
+    "isrc": "GB8UU2400456"
+  },
+  {
+    "title": "Burning Saber",
+    "artist": "Isidor",
+    "isrc": "TCACY1707038"
+  },
+  {
+    "title": "F L I G H T",
+    "artist": "Galaxy 80, System96",
+    "isrc": "QZNWX2134817"
+  },
+  {
+    "title": "Waiting for You",
+    "artist": "ZAYAZ",
+    "isrc": "QZARB1818614"
+  },
+  {
+    "title": "Age of Nano",
+    "artist": "STARFORCE",
+    "isrc": "QZES61989166"
+  },
+  {
+    "title": "Highway Fighters",
+    "artist": "Advection Stride",
+    "isrc": "QZB4J1838582"
+  },
+  {
+    "title": "In the House - In a Heartbeat",
+    "artist": "Volkor X",
+    "isrc": "SE6I31998140"
+  },
+  {
+    "title": "The Ghost and The Highway",
+    "artist": "Droid Bishop",
+    "isrc": "UKZGC2304014"
+  },
+  {
+    "title": "Echo",
+    "artist": "Juno Dreams",
+    "isrc": "QZFYW1929597"
+  },
+  {
+    "title": "Resilience",
+    "artist": "Dream Shore",
+    "isrc": "QZDA61812203"
+  },
+  {
+    "title": "Refuse to Lose",
+    "artist": "Zombie Hyperdrive",
+    "isrc": "TCAEW2073790"
+  },
+  {
+    "title": "Taiko (Retouch)",
+    "artist": "Red Marker",
+    "isrc": "QZDA71803046"
+  },
+  {
+    "title": "Wanderers",
+    "artist": "The G, Mint Simon",
+    "isrc": "TCAFP2166992"
+  },
+  {
+    "title": "Intergalactic Highway",
+    "artist": "Dynatron",
+    "isrc": "TCACU1615601"
+  },
+  {
+    "title": "Buns of Steel",
+    "artist": "Ace Buchannon",
+    "isrc": "QZDA71826150"
+  },
+  {
+    "title": "Legend of the Okimrah",
+    "artist": "Future Fate",
+    "isrc": "GBSMU5620382"
+  },
+  {
+    "title": "Destination",
+    "artist": "Fantom '87",
+    "isrc": "SE5BU1750750"
+  },
+  {
+    "title": "Partners in Pain",
+    "artist": "Nightcrawler",
+    "isrc": "QZFZ32227350"
+  },
+  {
+    "title": "A Monster",
+    "artist": "Waveshaper",
+    "isrc": "FR9W11612102"
+  },
+  {
+    "title": "Away from the Galaxy",
+    "artist": "Synthatiger",
+    "isrc": "QM4DW1717121"
+  },
+  {
+    "title": "Four",
+    "artist": "Z6b3r",
+    "isrc": "ITXDW1700677"
+  },
+  {
+    "title": "Turbo Club",
+    "artist": "Astral Tales",
+    "isrc": "QZAPG1710859"
+  },
+  {
+    "title": "Hell or High Water",
+    "artist": "Thought Beings",
+    "isrc": "TCADF1741103"
+  },
+  {
+    "title": "Everybody Hurts",
+    "artist": "Empyre",
+    "isrc": "GB-SMU-32-00367"
+  },
+  {
+    "title": "Outland",
+    "artist": "Dream Fiend, September 87",
+    "isrc": "QZDA42279123"
+  },
+  {
+    "title": "Radio Beach",
+    "artist": "Autovampir, Cobra Copter",
+    "isrc": "ushm22110135"
+  },
+  {
+    "title": "Power Unleashed",
+    "artist": "FacexHugger, Street Cleaner",
+    "isrc": "QZB4J1875315"
+  },
+  {
+    "title": "Lucidator",
+    "artist": "Sagittarius V",
+    "isrc": "QMPKX1475019"
+  },
+  {
+    "title": "Naeon",
+    "artist": "24:7",
+    "isrc": "QM4DW1879063"
+  },
+  {
+    "title": "The Last Starfighter",
+    "artist": "80 Strange Robots",
+    "isrc": "HUA3D1500000"
+  },
+  {
+    "title": "Remember",
+    "artist": "Citizen 12b",
+    "isrc": "QZ4JJ1639490"
+  },
+  {
+    "title": "Throat",
+    "artist": "The Encounter",
+    "isrc": "QM4DW1711339"
+  },
+  {
+    "title": "Save the Clock Tower",
+    "artist": "Greyskull, Regina L.",
+    "isrc": "USQY51742810"
+  },
+  {
+    "title": "Starflight",
+    "artist": "Volt Age",
+    "isrc": "QZK6L2332182"
+  },
+  {
+    "title": "Menace",
+    "artist": "Bonggita",
+    "isrc": "QZ8LD1762468"
+  },
+  {
+    "title": "The 4th Dimension",
+    "artist": "COSMO COCKTAIL",
+    "isrc": "GBSMU3262735"
+  },
+  {
+    "title": "Escape to the Deep Space",
+    "artist": "Nemix",
+    "isrc": "US7VG1520028"
+  },
+  {
+    "title": "Sagittarius",
+    "artist": "DOOMROAR, A.L.I.S.O.N",
+    "isrc": "QZDA62251012"
+  },
+  {
+    "title": "Descent",
+    "artist": "Forhill, Hotel Pools",
+    "isrc": "QM24K1812243"
+  },
+  {
+    "title": "Street Stallion",
+    "artist": "Palm / | \\ Highway Chase",
+    "isrc": "ATE691302801"
+  },
+  {
+    "title": "Revelation",
+    "artist": "Night Raptor, Starforce",
+    "isrc": "QMPKX1723490"
+  },
+  {
+    "title": "One Last Contract",
+    "artist": "Dallas Campbell",
+    "isrc": "usdy41789924"
+  },
+  {
+    "title": "Hailing Frequencies Open",
+    "artist": "Ozimov",
+    "isrc": "QZDA41882502"
+  },
+  {
+    "title": "Georgetown",
+    "artist": "The Bad Dreamers",
+    "isrc": "QM5LC1900137"
+  },
+  {
+    "title": "Ocean Break",
+    "artist": "Arcade Summer",
+    "isrc": "UST8K1619464"
+  },
+  {
+    "title": "Hula Hoop (feat. Reo ריו)",
+    "artist": "Apollo Zapp, Reo ריו",
+    "isrc": "uscgh1964709"
+  },
+  {
+    "title": "Cities I'll Never See",
+    "artist": "PatternShift",
+    "isrc": "CAENV2083599"
+  },
+  {
+    "title": "Homesick",
+    "artist": "Solar Storm",
+    "isrc": "GBSMU3884930"
+  },
+  {
+    "title": "Pacifica",
+    "artist": "Mezhdunami, Alex Boychuk",
+    "isrc": "QZTB42369981"
+  },
+  {
+    "title": "Bodybag",
+    "artist": "Lost Outrider, Original God, babychaos",
+    "isrc": "QM6XS2200053"
+  },
+  {
+    "title": "The City",
+    "artist": "Stilz, Siddhartha Barnhoorn",
+    "isrc": "ITXDW1800171"
+  },
+  {
+    "title": "Space Colony",
+    "artist": "Sub Morphine",
+    "isrc": "GB-SMU-24-46688"
+  },
+  {
+    "title": "Experiment",
+    "artist": "Shikimo",
+    "isrc": "QZDA82057783"
+  },
+  {
+    "title": "Here on Earth - Caspro Remix",
+    "artist": "Baldocaster, Caspro",
+    "isrc": "ITXDW1800691"
+  },
+  {
+    "title": "Sun's Wrath",
+    "artist": "Starfarer, Light4storm",
+    "isrc": "QM6N22430658"
+  },
+  {
+    "title": "Warp Drive",
+    "artist": "Tonebox",
+    "isrc": "TCACR1669319"
+  },
+  {
+    "title": "High Life",
+    "artist": "CJ Burnett",
+    "isrc": "QZ8LD1931492"
+  },
+  {
+    "title": "Invasion",
+    "artist": "Andromeda Dreams",
+    "isrc": "GB8UU2400462"
+  },
+  {
+    "title": "Aurora Virus",
+    "artist": "Isidor",
+    "isrc": "TCAEF1962276"
+  },
+  {
+    "title": "Palm Waves",
+    "artist": "Galaxy 80",
+    "isrc": "QZFZ42159809"
+  },
+  {
+    "title": "Kumite",
+    "artist": "ZAYAZ",
+    "isrc": "QZPLS2023908"
+  },
+  {
+    "title": "Cyborg Cyclops",
+    "artist": "STARFORCE, Dynatron",
+    "isrc": "QZES91998755"
+  },
+  {
+    "title": "Nibiru",
+    "artist": "Advection Stride",
+    "isrc": "QZHN72098391"
+  },
+  {
+    "title": "Outlaws",
+    "artist": "Volkor X",
+    "isrc": "QZFP51942327"
+  },
+  {
+    "title": "Above The Clouds",
+    "artist": "Droid Bishop",
+    "isrc": "QZRP42241486"
+  },
+  {
+    "title": "Be With Me - Remastered 2018",
+    "artist": "Juno Dreams",
+    "isrc": "SEYOK1808062"
+  },
+  {
+    "title": "Training",
+    "artist": "Dream Shore",
+    "isrc": "QZDA51897043"
+  },
+  {
+    "title": "Argon Prime (From “in Search of Tomorrow”)",
+    "artist": "Zombie Hyperdrive",
+    "isrc": "TCAGA2213551"
+  },
+  {
+    "title": "City of Light",
+    "artist": "Red Marker",
+    "isrc": "QZ9JZ1771214"
+  },
+  {
+    "title": "Shadows in the Neon Rain",
+    "artist": "The G",
+    "isrc": "QZ9JZ1777862"
+  },
+  {
+    "title": "Pulse Power",
+    "artist": "Dynatron",
+    "isrc": "TCACN1612499"
+  },
+  {
+    "title": "Come Alive",
+    "artist": "Ace Buchannon, Anna Moore",
+    "isrc": "QZHNA1920035"
+  },
+  {
+    "title": "Faded Reality",
+    "artist": "Future Fate",
+    "isrc": "TCAGI2215730"
+  },
+  {
+    "title": "Quasar",
+    "artist": "Fantom '87",
+    "isrc": "SE6A91983880"
+  },
+  {
+    "title": "CRT Days",
+    "artist": "Waveshaper",
+    "isrc": "uscgh2071799"
+  },
+  {
+    "title": "Blood Rage",
+    "artist": "Nightcrawler",
+    "isrc": "QZ9Y21720546"
+  },
+  {
+    "title": "Synth City",
+    "artist": "Synthatiger",
+    "isrc": "QM4DW1717118"
+  },
+  {
+    "title": "2020",
+    "artist": "Z6b3r",
+    "isrc": "ITXDW1700679"
+  },
+  {
+    "title": "The Ascent",
+    "artist": "Astral Tales",
+    "isrc": "QZ9JZ1790414"
+  }
+]

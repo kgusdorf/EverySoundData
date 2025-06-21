@@ -1,0 +1,992 @@
+[
+  {
+    "title": "Mi Sonrisa Te Da Rabia",
+    "artist": "Intenta detenerme",
+    "isrc": "ES71G1712925"
+  },
+  {
+    "title": "Mezcla Perfecta",
+    "artist": "Valium CL, Da Skate",
+    "isrc": "QZHZ42091771"
+  },
+  {
+    "title": "Elefante",
+    "artist": "En Mi Defensa",
+    "isrc": "GBSMU8167280"
+  },
+  {
+    "title": "Heroes",
+    "artist": "Marcel Duchamp",
+    "isrc": "uscgj2394229"
+  },
+  {
+    "title": "No sirve sin dolor",
+    "artist": "Mano de Obra",
+    "isrc": "GBMA21926493"
+  },
+  {
+    "title": "Lejos de Ti",
+    "artist": "Vadca",
+    "isrc": "CLHW21600252"
+  },
+  {
+    "title": "Dolor y Evolución",
+    "artist": "Nosindependencia",
+    "isrc": "ES71G1638155"
+  },
+  {
+    "title": "Una noble verdad",
+    "artist": "Asunto",
+    "isrc": "QZNWT2170301"
+  },
+  {
+    "title": "Convicción y Lealtad",
+    "artist": "Comun y Corriente",
+    "isrc": "QM4DW1877266"
+  },
+  {
+    "title": "Seguiré cometiendo errores por toda mi vida",
+    "artist": "T.A.M.",
+    "isrc": "FRX201665765"
+  },
+  {
+    "title": "Heroe",
+    "artist": "562",
+    "isrc": "QZES62052459"
+  },
+  {
+    "title": "No Eres Nada",
+    "artist": "Los KK",
+    "isrc": "ES71G1712416"
+  },
+  {
+    "title": "No Hay Dios, No Hay Nadie",
+    "artist": "Cenizas",
+    "isrc": "SEYOK2001551"
+  },
+  {
+    "title": "Chica Ramonera",
+    "artist": "Punkora",
+    "isrc": "ES71G1501114"
+  },
+  {
+    "title": "¿Qué Puedo Hacer? - Demos",
+    "artist": "GATSU",
+    "isrc": "QZHZ32127913"
+  },
+  {
+    "title": "Circlepit",
+    "artist": "Capitan Morgan",
+    "isrc": "GB-SMU-20-21667"
+  },
+  {
+    "title": "Bakuhatsu Emotion",
+    "artist": "Ninjas Mutantes Adolescentes",
+    "isrc": "QZHN71927331"
+  },
+  {
+    "title": "Tan Solo Nada",
+    "artist": "Pegotes",
+    "isrc": "CLJG21600281"
+  },
+  {
+    "title": "Pánico",
+    "artist": "Sin Remedio",
+    "isrc": "FRX871578533"
+  },
+  {
+    "title": "Trapo De Inmundicia",
+    "artist": "Enfermo",
+    "isrc": "SEWXU2005602"
+  },
+  {
+    "title": "Alcohol",
+    "artist": "Cirrosis",
+    "isrc": "QZES51816549"
+  },
+  {
+    "title": "Mete la Mano",
+    "artist": "Toke de Keda",
+    "isrc": "usdy42001856"
+  },
+  {
+    "title": "Estás Ahí (PIB)",
+    "artist": "Dizclaimers",
+    "isrc": "GBSMU8065007"
+  },
+  {
+    "title": "Tormento",
+    "artist": "Cronos Debe Morir",
+    "isrc": "SEYOK1809434"
+  },
+  {
+    "title": "Día de Odio",
+    "artist": "Impura Realidad",
+    "isrc": "GX8KD2351466"
+  },
+  {
+    "title": "Así Es la Vida",
+    "artist": "10 Botellas",
+    "isrc": "ES71G1638290"
+  },
+  {
+    "title": "Ya Lo Entendí Todo",
+    "artist": "ARGH",
+    "isrc": "QZES82493999"
+  },
+  {
+    "title": "Get Free from Fear",
+    "artist": "Nouvelle Gaia",
+    "isrc": "ushm92164725"
+  },
+  {
+    "title": "Posición Fatal",
+    "artist": "Gripe",
+    "isrc": "QZK6H2269590"
+  },
+  {
+    "title": "Exilio",
+    "artist": "Tensión 73",
+    "isrc": "QZWFE2395379"
+  },
+  {
+    "title": "Coerción",
+    "artist": "ItaloNolli",
+    "isrc": "QZ5AB1612691"
+  },
+  {
+    "title": "Inquebrantables",
+    "artist": "Ariete",
+    "isrc": "QZDA62444295"
+  },
+  {
+    "title": "Nacer, Crecer y Morir Esclavos",
+    "artist": "Empatia",
+    "isrc": "ES71G1621351"
+  },
+  {
+    "title": "Ramonero",
+    "artist": "Miguelitos",
+    "isrc": "GBSMU9389881"
+  },
+  {
+    "title": "Recuerdos",
+    "artist": "608-Z",
+    "isrc": "FR96X1530061"
+  },
+  {
+    "title": "Tan Lejos",
+    "artist": "Juguetenfermo",
+    "isrc": "ES71G1635407"
+  },
+  {
+    "title": "Nada Que Probar",
+    "artist": "Presion",
+    "isrc": "ushm92211414"
+  },
+  {
+    "title": "Las Murallas y Los Sueños",
+    "artist": "Entrefuego",
+    "isrc": "QZNWS2330360"
+  },
+  {
+    "title": "El mas débil",
+    "artist": "Union x Afan",
+    "isrc": "GB-SMU-33-20771"
+  },
+  {
+    "title": "Mi Secreto",
+    "artist": "Los Refrescos",
+    "isrc": "QZGLM2327438"
+  },
+  {
+    "title": "Bailame",
+    "artist": "Sin Instrumento Alguno",
+    "isrc": "GBSMU2003560"
+  },
+  {
+    "title": "A Puro Punk",
+    "artist": "Pichula E Perro",
+    "isrc": "AUMEV2435890"
+  },
+  {
+    "title": "Cyberpunk",
+    "artist": "Dolor De Muelas",
+    "isrc": "TCAHH2395317"
+  },
+  {
+    "title": "San Borja",
+    "artist": "Tenemos Explosivos",
+    "isrc": "QZHNC2250814"
+  },
+  {
+    "title": "muerte en america",
+    "artist": "Alambre de púas",
+    "isrc": "QZMER2334132"
+  },
+  {
+    "title": "Toxic love",
+    "artist": "EDIONDO",
+    "isrc": "QZDA52363393"
+  },
+  {
+    "title": "Topología de la meiosis",
+    "artist": "Distancia",
+    "isrc": "QZFYY2011404"
+  },
+  {
+    "title": "Sold Out!",
+    "artist": "Otto Slam",
+    "isrc": "QZW9K2350236"
+  },
+  {
+    "title": "A Medias",
+    "artist": "Chances",
+    "isrc": "uscgh2368356"
+  },
+  {
+    "title": "No Estar Aquí",
+    "artist": "Fiskales Ad-Hok",
+    "isrc": "ES71G1722617"
+  },
+  {
+    "title": "Al compás de la revuelta",
+    "artist": "Escándalo",
+    "isrc": "QZDA42379305"
+  },
+  {
+    "title": "Al Tope de Lo Real",
+    "artist": "Rosewell",
+    "isrc": "uscgh1545630"
+  },
+  {
+    "title": "Noche de Depresion",
+    "artist": "Ignorantes",
+    "isrc": "IT1F42200037"
+  },
+  {
+    "title": "Corazón Desilucionado",
+    "artist": "Machuca",
+    "isrc": "CLBB29500077"
+  },
+  {
+    "title": "Usando la Inteligencia",
+    "artist": "Mierdaster",
+    "isrc": "QZNJW2028148"
+  },
+  {
+    "title": "La Rabia",
+    "artist": "BBS Paranoicos",
+    "isrc": "ES71G1412990"
+  },
+  {
+    "title": "Segunda Muerte",
+    "artist": "Deceso Por Causa Desconocida",
+    "isrc": "QZWFF2352502"
+  },
+  {
+    "title": "Hace Tiempo",
+    "artist": "Subradical",
+    "isrc": "ES71G2042066"
+  },
+  {
+    "title": "Memento Vivere",
+    "artist": "Starting The Collapse",
+    "isrc": "QZARB1893176"
+  },
+  {
+    "title": "Occvlt Punx",
+    "artist": "Suicide Club",
+    "isrc": "usdy42001851"
+  },
+  {
+    "title": "Hives & Trophies",
+    "artist": "Hollow Humanity",
+    "isrc": "QZANL1735680"
+  },
+  {
+    "title": "En Tu Cara",
+    "artist": "Rehusar",
+    "isrc": "GB-SMU-20-20436"
+  },
+  {
+    "title": "Cadenas",
+    "artist": "Bajo El Exilio",
+    "isrc": "QZWFJ2396441"
+  },
+  {
+    "title": "Para Los Que Se Rindieron",
+    "artist": "XCuestiondeRespetoX",
+    "isrc": "TCAGY2320246"
+  },
+  {
+    "title": "La Caída de los Parásitos",
+    "artist": "Betrayal Devours Cowards",
+    "isrc": "QZES92016331"
+  },
+  {
+    "title": "Nacer, Crecer, Morir",
+    "artist": "Abyecta",
+    "isrc": "ESA011750022"
+  },
+  {
+    "title": "Ya Son Las Cuatro",
+    "artist": "Fakie",
+    "isrc": "TCADU1832045"
+  },
+  {
+    "title": "Detén el Tiempo",
+    "artist": "Peor es Nada",
+    "isrc": "GBSMU1892933"
+  },
+  {
+    "title": "Enfrentando el mundo",
+    "artist": "Sacrificed Conspiracy",
+    "isrc": "GBSMU6159752"
+  },
+  {
+    "title": "Cabezas Rapadas",
+    "artist": "Curasbun",
+    "isrc": "SEYOK1548673"
+  },
+  {
+    "title": "Relapse",
+    "artist": "Between the Mountains",
+    "isrc": "QZK6M2488514"
+  },
+  {
+    "title": "Adamant",
+    "artist": "The Antarctica Project",
+    "isrc": "QZHNA1927207"
+  },
+  {
+    "title": "Heridas",
+    "artist": "Dalias",
+    "isrc": "QZHN72316739"
+  },
+  {
+    "title": "Debate",
+    "artist": "Scorched By The Flaming Goat",
+    "isrc": "GB-SMU-46-94747"
+  },
+  {
+    "title": "Plaga (feat. Gori Morales)",
+    "artist": "Abducted, Gori Morales",
+    "isrc": "GB-SMU-39-75767"
+  },
+  {
+    "title": "Sombras",
+    "artist": "Alterhyde",
+    "isrc": "ushm81798732"
+  },
+  {
+    "title": "El Crack - Remaster 2023",
+    "artist": "Los Miserables",
+    "isrc": "ARIXB2306117"
+  },
+  {
+    "title": "Atlas Shrugged",
+    "artist": "Before Breathing",
+    "isrc": "USCGH2404099"
+  },
+  {
+    "title": "Ruido",
+    "artist": "Vida Hostil",
+    "isrc": "GB-SMU-22-84254"
+  },
+  {
+    "title": "Así fue",
+    "artist": "Weichafe",
+    "isrc": "QZ22B1990232"
+  },
+  {
+    "title": "Phases: Pt. 1 Caught",
+    "artist": "Unstable",
+    "isrc": "ESA012209059"
+  },
+  {
+    "title": "Siniestra",
+    "artist": "Cries",
+    "isrc": "ushm91748888"
+  },
+  {
+    "title": "Transpiralo",
+    "artist": "Panico, Crazy Girl",
+    "isrc": "FR5S90400053"
+  },
+  {
+    "title": "Like Maggots They're Feasting",
+    "artist": "Cerebral Slaughter",
+    "isrc": "GBSMU9874689"
+  },
+  {
+    "title": "Rey de Reyes",
+    "artist": "Nuestros Muertos Resucitaran",
+    "isrc": "GB-SMU-33-83229"
+  },
+  {
+    "title": "Alza el Puño",
+    "artist": "Reflejo",
+    "isrc": "QZWFG2329382"
+  },
+  {
+    "title": "Otro Mundo",
+    "artist": "Testigo",
+    "isrc": "uscgh1885320"
+  },
+  {
+    "title": "Ratas De La Red",
+    "artist": "Anima Negra",
+    "isrc": "QZTAY2359079"
+  },
+  {
+    "title": "Evolución o destrucción",
+    "artist": "Angustia",
+    "isrc": "CACWV2083352"
+  },
+  {
+    "title": "Tren Al Sur",
+    "artist": "Los Prisioneros",
+    "isrc": "CLBB29000001"
+  },
+  {
+    "title": "Conformidad",
+    "artist": "Disonancia",
+    "isrc": "GBKQU2347141"
+  },
+  {
+    "title": "Jota del Huerto",
+    "artist": "Almenara",
+    "isrc": "ES74G1401106"
+  },
+  {
+    "title": "Scooby Doo Pa Pa - Remix",
+    "artist": "Dj Kass, Pitbull",
+    "isrc": "USKO11800632"
+  },
+  {
+    "title": "Con el Vientre Abierto el Fuego No Abrasa Tanto",
+    "artist": "Garden of Stained Graves",
+    "isrc": "QM2PV1640770"
+  },
+  {
+    "title": "Vergüenza",
+    "artist": "Los Hueones Ordinarios",
+    "isrc": "GB-SMU-20-70647"
+  },
+  {
+    "title": "Ocaso",
+    "artist": "hambre",
+    "isrc": "QZWFJ2317000"
+  },
+  {
+    "title": "Doble Moral Doble Riqueza",
+    "artist": "Intenta detenerme",
+    "isrc": "ES71G1712924"
+  },
+  {
+    "title": "Distinto",
+    "artist": "Valium CL",
+    "isrc": "ES71G1511148"
+  },
+  {
+    "title": "Riqueza y poder",
+    "artist": "En Mi Defensa",
+    "isrc": "GBSMU8167147"
+  },
+  {
+    "title": "Revolución Contra Nosotros Mismos",
+    "artist": "Marcel Duchamp",
+    "isrc": "uscgh1881594"
+  },
+  {
+    "title": "Proceso",
+    "artist": "Mano de Obra",
+    "isrc": "GBMA21939074"
+  },
+  {
+    "title": "Consíguete una Vida",
+    "artist": "Vadca",
+    "isrc": "CLHW21600253"
+  },
+  {
+    "title": "Amistad",
+    "artist": "Nosindependencia",
+    "isrc": "ES71G1638149"
+  },
+  {
+    "title": "Cuando el sufrimiento es infinito",
+    "artist": "Asunto",
+    "isrc": "QZNWT2170299"
+  },
+  {
+    "title": "Marioneta",
+    "artist": "Comun y Corriente",
+    "isrc": "QM4DW1877268"
+  },
+  {
+    "title": "Paraco",
+    "artist": "T.A.M.",
+    "isrc": "FRX201665767"
+  },
+  {
+    "title": "562",
+    "artist": "562",
+    "isrc": "QZES62052463"
+  },
+  {
+    "title": "Mentes Subterraneas",
+    "artist": "Los KK",
+    "isrc": "ES71G1712420"
+  },
+  {
+    "title": "Animal Liberation",
+    "artist": "Cenizas",
+    "isrc": "SEYOK1524770"
+  },
+  {
+    "title": "Buenos Momentos",
+    "artist": "Punkora, T.A.M.",
+    "isrc": "ES71G1501121"
+  },
+  {
+    "title": "El Último Respiro - Demos",
+    "artist": "GATSU",
+    "isrc": "QZHZ32127911"
+  },
+  {
+    "title": "Bar 23",
+    "artist": "Capitan Morgan",
+    "isrc": "GB-SMU-20-21662"
+  },
+  {
+    "title": "Legalize It (Lie)",
+    "artist": "Ninjas Mutantes Adolescentes",
+    "isrc": "QZHN71927330"
+  },
+  {
+    "title": "No X Hoy",
+    "artist": "Pegotes",
+    "isrc": "CLJG21600290"
+  },
+  {
+    "title": "Ya No Hay Temor",
+    "artist": "Sin Remedio",
+    "isrc": "FR10S1604657"
+  },
+  {
+    "title": "Intro",
+    "artist": "Enfermo",
+    "isrc": "SEWXU2005701"
+  },
+  {
+    "title": "Vivir Sin Ti",
+    "artist": "Cirrosis",
+    "isrc": "QZES51816553"
+  },
+  {
+    "title": "Poseido por la Cleta",
+    "artist": "Toke de Keda",
+    "isrc": "usdy42001857"
+  },
+  {
+    "title": "Ten in 2010",
+    "artist": "Dizclaimers",
+    "isrc": "USCGH2428680"
+  },
+  {
+    "title": "Para ti",
+    "artist": "Cronos Debe Morir",
+    "isrc": "SEYOK1809435"
+  },
+  {
+    "title": "Impuro Metal Punk",
+    "artist": "Impura Realidad",
+    "isrc": "GX8KD2339400"
+  },
+  {
+    "title": "Si Fuera Millonario",
+    "artist": "10 Botellas",
+    "isrc": "ES71G1638293"
+  },
+  {
+    "title": "Brigada Cascabel",
+    "artist": "ARGH",
+    "isrc": "QZES82493996"
+  },
+  {
+    "title": "Tu Muerte Es Nuestro Renacer",
+    "artist": "Nouvelle Gaia",
+    "isrc": "ushm92164727"
+  },
+  {
+    "title": "(Estás) Bajo Control",
+    "artist": "Gripe",
+    "isrc": "QZTB92299475"
+  },
+  {
+    "title": "Noise Track",
+    "artist": "Tensión 73",
+    "isrc": "QZWFE2395380"
+  },
+  {
+    "title": "Tormenta",
+    "artist": "ItaloNolli",
+    "isrc": "QZ5AB1612694"
+  },
+  {
+    "title": "Creer, Vencer, Caer y Levantarse",
+    "artist": "Ariete",
+    "isrc": "QZFZ61918916"
+  },
+  {
+    "title": "Reclamar la Tierra",
+    "artist": "Empatia",
+    "isrc": "ES71G1621345"
+  },
+  {
+    "title": "Tafalla",
+    "artist": "Problematic",
+    "isrc": "ES71G2222864"
+  },
+  {
+    "title": "Patina y Destruye",
+    "artist": "608-Z",
+    "isrc": "FR10S1528034"
+  },
+  {
+    "title": "Por la Mañana",
+    "artist": "Juguetenfermo",
+    "isrc": "ES71G1725871"
+  },
+  {
+    "title": "Llego la Hora de Poner Fin",
+    "artist": "Presion",
+    "isrc": "ushm92211417"
+  },
+  {
+    "title": "Sembrar",
+    "artist": "Entrefuego",
+    "isrc": "QZNWS2330361"
+  },
+  {
+    "title": "Grietas",
+    "artist": "Union x Afan",
+    "isrc": "GB-SMU-33-20803"
+  },
+  {
+    "title": "Sentado Frente a la Tv",
+    "artist": "Los Refrescos",
+    "isrc": "QZGLM2327436"
+  },
+  {
+    "title": "10 minutos",
+    "artist": "Sin Instrumento Alguno",
+    "isrc": "GBSMU2009217"
+  },
+  {
+    "title": "Servicio Militar",
+    "artist": "Pichula E Perro",
+    "isrc": "AUMEV2435893"
+  },
+  {
+    "title": "Deja De Mentir",
+    "artist": "Dolor De Muelas",
+    "isrc": "TCAHH2395326"
+  },
+  {
+    "title": "La Libertad Absoluta y el Terror",
+    "artist": "Tenemos Explosivos",
+    "isrc": "UST8K1709816"
+  },
+  {
+    "title": "ULTIMA GENERACION",
+    "artist": "Alambre de púas",
+    "isrc": "GX8KD2471417"
+  },
+  {
+    "title": "Estoy podrido",
+    "artist": "EDIONDO",
+    "isrc": "QZK6H2333322"
+  },
+  {
+    "title": "Crazy Techno Afternoon",
+    "artist": "Distancia",
+    "isrc": "QZFYY2011401"
+  },
+  {
+    "title": "Tormenta",
+    "artist": "Otto Slam",
+    "isrc": "QZW9K2350238"
+  },
+  {
+    "title": "Primero en Caer",
+    "artist": "Chances",
+    "isrc": "uscgh2368352"
+  },
+  {
+    "title": "Resistiré",
+    "artist": "Fiskales Ad-Hok",
+    "isrc": "ES71G1722627"
+  },
+  {
+    "title": "Canción de amor",
+    "artist": "Escándalo",
+    "isrc": "QZDA42379306"
+  },
+  {
+    "title": "Un Nuevo Final",
+    "artist": "Rosewell",
+    "isrc": "uscgh1545627"
+  },
+  {
+    "title": "Shit",
+    "artist": "Ignorantes",
+    "isrc": "IT1F42200030"
+  },
+  {
+    "title": "Al Patibulo",
+    "artist": "Machuca",
+    "isrc": "CLBB29800060"
+  },
+  {
+    "title": "Nuestra Intención",
+    "artist": "Mierdaster",
+    "isrc": "QZNJW2028144"
+  },
+  {
+    "title": "Sanatorio",
+    "artist": "BBS Paranoicos",
+    "isrc": "ES71G1777697"
+  },
+  {
+    "title": "Red De Vigilancia Global",
+    "artist": "Deceso Por Causa Desconocida",
+    "isrc": "QZWFF2326407"
+  },
+  {
+    "title": "Sigue Respirando",
+    "artist": "Subradical",
+    "isrc": "ES71G2042073"
+  },
+  {
+    "title": "Beggars",
+    "artist": "Starting The Collapse",
+    "isrc": "QZARB1893172"
+  },
+  {
+    "title": "You Die, I Die, Let's Die",
+    "artist": "Suicide Club",
+    "isrc": "usdy42001853"
+  },
+  {
+    "title": "Enough Abuse",
+    "artist": "Hollow Humanity",
+    "isrc": "QZANL1735682"
+  },
+  {
+    "title": "Hegemonía",
+    "artist": "Bajo El Exilio, Nidra",
+    "isrc": "QZWFJ2396446"
+  },
+  {
+    "title": "Respetar",
+    "artist": "XCuestiondeRespetoX",
+    "isrc": "TCAHB2386379"
+  },
+  {
+    "title": "Sacrilégio",
+    "artist": "Betrayal Devours Cowards",
+    "isrc": "QZFZ61900729"
+  },
+  {
+    "title": "Quémala",
+    "artist": "Abyecta",
+    "isrc": "ESA011750025"
+  },
+  {
+    "title": "Viernes De Nuevo",
+    "artist": "Fakie",
+    "isrc": "TCADU1832051"
+  },
+  {
+    "title": "Tal Vez",
+    "artist": "Peor es Nada",
+    "isrc": "GBSMU1891663"
+  },
+  {
+    "title": "Un Nuevo Comienzo",
+    "artist": "Sacrificed Conspiracy",
+    "isrc": "GB-SMU-22-88422"
+  },
+  {
+    "title": "Canción Skinhead",
+    "artist": "Curasbun",
+    "isrc": "SEYOK1616248"
+  },
+  {
+    "title": "Bien de Consumo",
+    "artist": "Intenta detenerme",
+    "isrc": "ES71G1712938"
+  },
+  {
+    "title": "Imperfecto",
+    "artist": "Valium CL",
+    "isrc": "ES71G1635395"
+  },
+  {
+    "title": "Abstraccion",
+    "artist": "En Mi Defensa",
+    "isrc": "GBSMU8167282"
+  },
+  {
+    "title": "Sistemática",
+    "artist": "Marcel Duchamp",
+    "isrc": "uscgh1881613"
+  },
+  {
+    "title": "Era un hombre",
+    "artist": "Mano de Obra",
+    "isrc": "GBMA21926494"
+  },
+  {
+    "title": "Empieza por Ti",
+    "artist": "Vadca",
+    "isrc": "CLHW21600277"
+  },
+  {
+    "title": "Positiva Libertad",
+    "artist": "Nosindependencia",
+    "isrc": "ES71G1638228"
+  },
+  {
+    "title": "Hacia la eternidad",
+    "artist": "Asunto",
+    "isrc": "QZNWT2168246"
+  },
+  {
+    "title": "73",
+    "artist": "Comun y Corriente",
+    "isrc": "QM4DW1878555"
+  },
+  {
+    "title": "Dueño de Nada",
+    "artist": "T.A.M.",
+    "isrc": "FRX201665774"
+  },
+  {
+    "title": "Lemún",
+    "artist": "562",
+    "isrc": "QZDA72070063"
+  },
+  {
+    "title": "Hijo de la Mierda",
+    "artist": "Los KK",
+    "isrc": "ES71G1712421"
+  },
+  {
+    "title": "Lagrimas de Libertad",
+    "artist": "Cenizas",
+    "isrc": "SEYOK1524767"
+  },
+  {
+    "title": "Carrera Política",
+    "artist": "Punkora, Ana Tijoux",
+    "isrc": "ES71G1856449"
+  },
+  {
+    "title": "Inténtalo - Demos",
+    "artist": "GATSU",
+    "isrc": "QZHZ32127914"
+  },
+  {
+    "title": "Algún lugar",
+    "artist": "Capitan Morgan",
+    "isrc": "GB-SMU-20-21658"
+  },
+  {
+    "title": "Tienes Punk Rock",
+    "artist": "Pegotes",
+    "isrc": "CLJG21600294"
+  },
+  {
+    "title": "Reaccionar",
+    "artist": "Sin Remedio",
+    "isrc": "FR10S1944960"
+  },
+  {
+    "title": "Militares",
+    "artist": "Cirrosis",
+    "isrc": "QZES51816550"
+  },
+  {
+    "title": "Toke de Keda",
+    "artist": "Toke de Keda",
+    "isrc": "usdy42001860"
+  },
+  {
+    "title": "Destruir-Construir",
+    "artist": "Dizclaimers",
+    "isrc": "QZTB42250719"
+  },
+  {
+    "title": "En Otro Lugar",
+    "artist": "Cronos Debe Morir",
+    "isrc": "SEYOK1936783"
+  },
+  {
+    "title": "Reivindicación",
+    "artist": "Impura Realidad",
+    "isrc": "GX8KD2373737"
+  },
+  {
+    "title": "llame ya!!",
+    "artist": "10 Botellas",
+    "isrc": "GBSMU7911958"
+  },
+  {
+    "title": "El Inevitable Día",
+    "artist": "ARGH",
+    "isrc": "QZES82494000"
+  },
+  {
+    "title": "Pacto de Sangre",
+    "artist": "Nouvelle Gaia",
+    "isrc": "ushm92164726"
+  },
+  {
+    "title": "Perdido",
+    "artist": "Gripe",
+    "isrc": "QZTB92299477"
+  },
+  {
+    "title": "Atracción",
+    "artist": "ItaloNolli",
+    "isrc": "QZ5AB1612692"
+  },
+  {
+    "title": "Continuar",
+    "artist": "Ariete",
+    "isrc": "QZHN52370270"
+  },
+  {
+    "title": "Ira",
+    "artist": "Empatia",
+    "isrc": "ES71G1621347"
+  },
+  {
+    "title": "Kerosene",
+    "artist": "Miguelitos",
+    "isrc": "USCGH2428688"
+  },
+  {
+    "title": "M.A.S.",
+    "artist": "608-Z",
+    "isrc": "FR96X1530049"
+  },
+  {
+    "title": "Verano del 96'",
+    "artist": "Juguetenfermo",
+    "isrc": "ES71G1725966"
+  }
+]

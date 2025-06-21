@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Beauty Bomb",
+    "artist": "ADUSHKINA",
+    "isrc": "FR59R1867816"
+  },
+  {
+    "title": "Завтра выпускной",
+    "artist": "Абрикоса",
+    "isrc": "FRX202137499"
+  },
+  {
+    "title": "Башня",
+    "artist": "Даня Милохин, Mumiy Troll",
+    "isrc": "RUA582107161"
+  },
+  {
+    "title": "Да да",
+    "artist": "Аня Pokrov",
+    "isrc": "RUACR2301859"
+  },
+  {
+    "title": "Dior",
+    "artist": "ЕГОР ШИП",
+    "isrc": "QM6N22025673"
+  },
+  {
+    "title": "ЧАСТУШКА",
+    "artist": "Karna.val",
+    "isrc": "RUAGT2313044"
+  },
+  {
+    "title": "Хватит",
+    "artist": "GAVRILINA",
+    "isrc": "RUACR2200449"
+  },
+  {
+    "title": "Венера-Юпитер",
+    "artist": "Ваня Дмитриенко",
+    "isrc": "RUACR2000286"
+  },
+  {
+    "title": "Чётко",
+    "artist": "Артур Бабич, Даня Милохин",
+    "isrc": "QMFME2091423"
+  },
+  {
+    "title": "Ломай",
+    "artist": "Tenderlybae",
+    "isrc": "FR2X42330468"
+  },
+  {
+    "title": "Ягода малинка",
+    "artist": "Хабиб",
+    "isrc": "RUA1D2064344"
+  },
+  {
+    "title": "Аскорбинка",
+    "artist": "Мэйби Бэйби",
+    "isrc": "FR59R1827309"
+  },
+  {
+    "title": "Депрессия",
+    "artist": "Eva Miller, Gary Grey",
+    "isrc": "FRX452180338"
+  },
+  {
+    "title": "Принцесса",
+    "artist": "Настя Кош",
+    "isrc": "FRX872130174"
+  },
+  {
+    "title": "ТОНЕМ",
+    "artist": "ERSHOV",
+    "isrc": "QM4TX2019486"
+  },
+  {
+    "title": "Идиоты",
+    "artist": "Maryana Ro",
+    "isrc": "FRX202322301"
+  },
+  {
+    "title": "На твиче",
+    "artist": "нексюша",
+    "isrc": "FRX282021303"
+  },
+  {
+    "title": "Keep It Coming",
+    "artist": "Gary Grey, XO TEAM",
+    "isrc": "QZTLA2453962"
+  },
+  {
+    "title": "Эль Пачо",
+    "artist": "Volodya XXL",
+    "isrc": "RUA1D2005187"
+  },
+  {
+    "title": "Темы",
+    "artist": "SCIRENA, Вектор А",
+    "isrc": "FRX452444599"
+  },
+  {
+    "title": "Soft-Girl",
+    "artist": "Мейбл",
+    "isrc": "QZNJW2002616"
+  },
+  {
+    "title": "Папик",
+    "artist": "Zolotova",
+    "isrc": "FR26V2041044"
+  },
+  {
+    "title": "Любить",
+    "artist": "nmilova",
+    "isrc": "RUA1D1928962"
+  },
+  {
+    "title": "Таю",
+    "artist": "VAVAN",
+    "isrc": "RUA012000807"
+  },
+  {
+    "title": "Бисакодил",
+    "artist": "Gilava",
+    "isrc": "AEA0Q2015126"
+  },
+  {
+    "title": "Лук Батун",
+    "artist": "Фиксай",
+    "isrc": "TCAFB2094107"
+  },
+  {
+    "title": "Снежинки",
+    "artist": "ALEKS ATAMAN, FINIK",
+    "isrc": "FRS182108884"
+  },
+  {
+    "title": "Тема Димы - Из т/с \"Дух моей общаги\"",
+    "artist": "Студия \"Феникс\"",
+    "isrc": "FRX872307576"
+  },
+  {
+    "title": "завяжи мне глаза",
+    "artist": "Rozalia",
+    "isrc": "DGA0Q2304264"
+  },
+  {
+    "title": "Пару минут",
+    "artist": "Real girl",
+    "isrc": "DEP551919256"
+  },
+  {
+    "title": "М - это милена",
+    "artist": "Милена Чижова, Natasha Treya",
+    "isrc": "FR2X41828543"
+  },
+  {
+    "title": "ВКИНО",
+    "artist": "HARU",
+    "isrc": "FR10S1981538"
+  },
+  {
+    "title": "Мур-мур-мур",
+    "artist": "Альбина Сексова",
+    "isrc": "RUA1D2107555"
+  },
+  {
+    "title": "Ромашки",
+    "artist": "ROM",
+    "isrc": "QMBZ92033212"
+  },
+  {
+    "title": "Понарошку",
+    "artist": "Тилэкс",
+    "isrc": "FRX452011260"
+  },
+  {
+    "title": "Твоя тень",
+    "artist": "Sasha Spilberg",
+    "isrc": "QZGLS2090714"
+  },
+  {
+    "title": "money",
+    "artist": "By Индия, The Limba",
+    "isrc": "DGA072335515"
+  },
+  {
+    "title": "Угараю",
+    "artist": "mar.maries",
+    "isrc": "DGA062072986"
+  },
+  {
+    "title": "Золото",
+    "artist": "Super Zhorik",
+    "isrc": "RUA012000385"
+  },
+  {
+    "title": "Девочка с рэп концерта",
+    "artist": "Глеб Калюжный",
+    "isrc": "DGA052018498"
+  },
+  {
+    "title": "Хюррем",
+    "artist": "Дина Мирная",
+    "isrc": "QMFME2022558"
+  },
+  {
+    "title": "Мандариновое пюре",
+    "artist": "Настя Рыжик",
+    "isrc": "QMFME2086781"
+  },
+  {
+    "title": "Бачата",
+    "artist": "Шейх Мансур",
+    "isrc": "FR59R1989359"
+  },
+  {
+    "title": "Дискофлоу",
+    "artist": "CHENSKY",
+    "isrc": "DGA072174050"
+  },
+  {
+    "title": "Gravity",
+    "artist": "AWEN, Yung 808",
+    "isrc": "FR10S2047734"
+  },
+  {
+    "title": "Ничем",
+    "artist": "Дима Ермузевич",
+    "isrc": "RUA1H2026531"
+  },
+  {
+    "title": "100 шагов назад",
+    "artist": "Perfe",
+    "isrc": "FR96X1948885"
+  },
+  {
+    "title": "Confiscate",
+    "artist": "LIL CHICH",
+    "isrc": "FR59R2200522"
+  },
+  {
+    "title": "Эксклюзив",
+    "artist": "АНДРЕЙ НОИЛС",
+    "isrc": "QZHZ62055041"
+  },
+  {
+    "title": "Девушка мечты",
+    "artist": "Кирилл Нефтерев",
+    "isrc": "RUA1D2073892"
+  },
+  {
+    "title": "Ты поверил",
+    "artist": "Наталья Гончарова",
+    "isrc": "QMFME2098323"
+  },
+  {
+    "title": "Соси в такси",
+    "artist": "EBAN'KO",
+    "isrc": "FR96X2135447"
+  },
+  {
+    "title": "Феминизм",
+    "artist": "Anastasia Y.",
+    "isrc": "ushm22093171"
+  },
+  {
+    "title": "А муха тоже вертолёт - Hyperpop Remix",
+    "artist": "Bebra2008.amr",
+    "isrc": "QZGWX2190418"
+  },
+  {
+    "title": "Я ищу тебя",
+    "artist": "Dina",
+    "isrc": "FR26V2072478"
+  },
+  {
+    "title": "Ты засадишь",
+    "artist": "EG0RIAN",
+    "isrc": "SE5752061376"
+  },
+  {
+    "title": "Ой да на рейве (feat. Slava Marlow)",
+    "artist": "Ильич да Софья, SLAVA MARLOW",
+    "isrc": "RUA582105274"
+  },
+  {
+    "title": "День Валентина",
+    "artist": "Максим Галкин",
+    "isrc": "DGA072149918"
+  },
+  {
+    "title": "Никак не живём",
+    "artist": "СМЕЛЫЧ",
+    "isrc": "USHM82169769"
+  },
+  {
+    "title": "Проекция",
+    "artist": "Твоё нежное безумие",
+    "isrc": "RUA1H2237422"
+  },
+  {
+    "title": "Больно",
+    "artist": "ADUSHKINA",
+    "isrc": "QMFME2000622"
+  },
+  {
+    "title": "Гольфы со смайлом",
+    "artist": "Абрикоса",
+    "isrc": "FR96X2124188"
+  },
+  {
+    "title": "Последний предатель",
+    "artist": "Аня Pokrov",
+    "isrc": "QMFMF2053138"
+  },
+  {
+    "title": "Дико тусим",
+    "artist": "Даня Милохин, Nikolay Baskov",
+    "isrc": "QMBZ92003570"
+  },
+  {
+    "title": "Бла Бла",
+    "artist": "ЕГОР ШИП, Sleepy",
+    "isrc": "RUB632300939"
+  },
+  {
+    "title": "Омут",
+    "artist": "GAVRILINA",
+    "isrc": "FR96X2113984"
+  },
+  {
+    "title": "Психушка",
+    "artist": "Karna.val",
+    "isrc": "QM6N22097753"
+  },
+  {
+    "title": "Мармеладка",
+    "artist": "Артур Бабич",
+    "isrc": "QMBZ92057087"
+  },
+  {
+    "title": "Лего",
+    "artist": "Ваня Дмитриенко",
+    "isrc": "RUACR2100453"
+  },
+  {
+    "title": "Игрушка",
+    "artist": "Tenderlybae",
+    "isrc": "FR10S2283640"
+  },
+  {
+    "title": "Вредные привычки",
+    "artist": "Eva Miller",
+    "isrc": "DGA052087133"
+  },
+  {
+    "title": "Тамагочи",
+    "artist": "Мэйби Бэйби, алёна швец.",
+    "isrc": "FR96X1977392"
+  },
+  {
+    "title": "Лёд",
+    "artist": "Настя Кош",
+    "isrc": "RUA1D2028169"
+  },
+  {
+    "title": "На 4 этаже",
+    "artist": "Хабиб",
+    "isrc": "RUA1D2152175"
+  },
+  {
+    "title": "Таблетка",
+    "artist": "ERSHOV",
+    "isrc": "QMFME1915614"
+  },
+  {
+    "title": "Снег",
+    "artist": "Maryana Ro",
+    "isrc": "FR2X41970113"
+  },
+  {
+    "title": "Фенибут",
+    "artist": "нексюша",
+    "isrc": "FRX282021299"
+  },
+  {
+    "title": "Night",
+    "artist": "Gary Grey, XO TEAM",
+    "isrc": "QZQAY2472072"
+  },
+  {
+    "title": "Пурпурный",
+    "artist": "Volodya XXL",
+    "isrc": "RUA1D1932780"
+  },
+  {
+    "title": "Конспект",
+    "artist": "SCIRENA",
+    "isrc": "FR10S2240968"
+  },
+  {
+    "title": "Пина колада",
+    "artist": "Мейбл, Zavtra Broshu",
+    "isrc": "RUA1D2131420"
+  },
+  {
+    "title": "Кимоно",
+    "artist": "Zolotova",
+    "isrc": "FR2X42171095"
+  },
+  {
+    "title": "Демоны",
+    "artist": "nmilova",
+    "isrc": "RUA1D1928964"
+  },
+  {
+    "title": "Послала",
+    "artist": "VAVAN, Real girl",
+    "isrc": "RUA012101388"
+  },
+  {
+    "title": "Стабильно",
+    "artist": "Gilava",
+    "isrc": "FR96X2028844"
+  },
+  {
+    "title": "НЕВЫНОСИМЫЙ",
+    "artist": "Фиксай",
+    "isrc": "FRX282258376"
+  },
+  {
+    "title": "Девочка бандитка",
+    "artist": "ALEKS ATAMAN, FINIK",
+    "isrc": "FR2X42220399"
+  },
+  {
+    "title": "Ненависть и лесть",
+    "artist": "Студия \"Феникс\"",
+    "isrc": "DGA092201623"
+  },
+  {
+    "title": "хватит грустить",
+    "artist": "Real girl",
+    "isrc": "QMFME2061709"
+  },
+  {
+    "title": "день за днём",
+    "artist": "Rozalia",
+    "isrc": "FR2X42458971"
+  },
+  {
+    "title": "Чёрный Список",
+    "artist": "Милена Чижова",
+    "isrc": "TCADA1736188"
+  },
+  {
+    "title": "Без тебя нельзя",
+    "artist": "HARU",
+    "isrc": "FRX452064416"
+  },
+  {
+    "title": "Хуй таджика",
+    "artist": "Альбина Сексова",
+    "isrc": "RUA1D1915608"
+  },
+  {
+    "title": "Мама больно",
+    "artist": "ROM",
+    "isrc": "FR59R2188225"
+  },
+  {
+    "title": "Чики бум",
+    "artist": "Тилэкс",
+    "isrc": "RUA582103222"
+  },
+  {
+    "title": "Медляк",
+    "artist": "Sasha Spilberg",
+    "isrc": "QZHZ42270713"
+  },
+  {
+    "title": "еще хуже",
+    "artist": "By Индия",
+    "isrc": "DGA052333157"
+  },
+  {
+    "title": "Хочу тибя любицца",
+    "artist": "Super Zhorik",
+    "isrc": "RUA011900663"
+  },
+  {
+    "title": "Отвали",
+    "artist": "Дина Мирная",
+    "isrc": "QMDA62115969"
+  },
+  {
+    "title": "Одиночество",
+    "artist": "Настя Рыжик",
+    "isrc": "QMDA72196629"
+  },
+  {
+    "title": "Балдини",
+    "artist": "Шейх Мансур",
+    "isrc": "SMRUS0066472"
+  },
+  {
+    "title": "Париж",
+    "artist": "CHENSKY",
+    "isrc": "DGA052274589"
+  },
+  {
+    "title": "Flame",
+    "artist": "AWEN",
+    "isrc": "QZK6M1923697"
+  },
+  {
+    "title": "Танцетерапия",
+    "artist": "ADUSHKINA",
+    "isrc": "FRX452405733"
+  },
+  {
+    "title": "Имя",
+    "artist": "Абрикоса",
+    "isrc": "FRX762176654"
+  },
+  {
+    "title": "Не виновата",
+    "artist": "Аня Pokrov",
+    "isrc": "RUACR2400074"
+  },
+  {
+    "title": "Лапки",
+    "artist": "Даня Милохин",
+    "isrc": "QM6MZ2147358"
+  },
+  {
+    "title": "Глаза фонари",
+    "artist": "ЕГОР ШИП",
+    "isrc": "FRX282190943"
+  },
+  {
+    "title": "Замело",
+    "artist": "GAVRILINA",
+    "isrc": "QMFMF2026287"
+  },
+  {
+    "title": "Парень простой",
+    "artist": "Артур Бабич",
+    "isrc": "QM6N22041124"
+  },
+  {
+    "title": "Ромашки",
+    "artist": "Karna.val",
+    "isrc": "RUA012100510"
+  },
+  {
+    "title": "Дыши (из т/с \"Плакса\")",
+    "artist": "Ваня Дмитриенко",
+    "isrc": "RUACR2301611"
+  },
+  {
+    "title": "Болит",
+    "artist": "Tenderlybae",
+    "isrc": "FR2X42000206"
+  },
+  {
+    "title": "XO",
+    "artist": "Eva Miller, Gary Grey, TIM",
+    "isrc": "DGA052088917"
+  },
+  {
+    "title": "ВЫШЕ НЕБА",
+    "artist": "Настя Кош",
+    "isrc": "DGA0M2381320"
+  },
+  {
+    "title": "БЕГИ (Хабиб vs. DJ SMASH)",
+    "artist": "Хабиб, DJ SMASH",
+    "isrc": "RUA1D2125889"
+  },
+  {
+    "title": "Бутылочка",
+    "artist": "Мэйби Бэйби",
+    "isrc": "FR59R1838501"
+  },
+  {
+    "title": "Как дети",
+    "artist": "ERSHOV",
+    "isrc": "SMRUS0069855"
+  },
+  {
+    "title": "Surprise",
+    "artist": "Maryana Ro",
+    "isrc": "FR2X41970112"
+  },
+  {
+    "title": "Сложно",
+    "artist": "Gary Grey",
+    "isrc": "FR26V2078982"
+  },
+  {
+    "title": "Когда ты умрешь",
+    "artist": "нексюша",
+    "isrc": "FRX872328627"
+  },
+  {
+    "title": "Раз Два Три",
+    "artist": "Volodya XXL",
+    "isrc": "QM4TX2092771"
+  },
+  {
+    "title": "Мамин продакшн",
+    "artist": "SCIRENA",
+    "isrc": "FR2X42486309"
+  },
+  {
+    "title": "Запретная любовь",
+    "artist": "Мейбл",
+    "isrc": "QM6MZ2161857"
+  },
+  {
+    "title": "Rainy Day",
+    "artist": "Zolotova",
+    "isrc": "FRX202196562"
+  },
+  {
+    "title": "ведьма",
+    "artist": "nmilova",
+    "isrc": "FRX282153061"
+  }
+]

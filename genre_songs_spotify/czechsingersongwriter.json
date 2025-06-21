@@ -1,0 +1,647 @@
+[
+  {
+    "title": "Dlouho Se Mi Zdá - Chtít Chytit Vítr",
+    "artist": "Vladimír Merta",
+    "isrc": "CZF330900020"
+  },
+  {
+    "title": "Uz to nenapravim",
+    "artist": "Jaroslav Samson Lenk",
+    "isrc": "CZA231300617"
+  },
+  {
+    "title": "Kluziště",
+    "artist": "Karel Plíhal",
+    "isrc": "CZA168500022"
+  },
+  {
+    "title": "Večer křupavých srdíček",
+    "artist": "Vlasta Redl",
+    "isrc": "CZA239200032"
+  },
+  {
+    "title": "Kdybych byl věcí",
+    "artist": "Jan Burian, Jiří Burian",
+    "isrc": "CZAD92300100"
+  },
+  {
+    "title": "Marie",
+    "artist": "Zuzana Navarová, KOA",
+    "isrc": "CZA750321301"
+  },
+  {
+    "title": "Něco O Lásce",
+    "artist": "Pavel Dobes",
+    "isrc": "CZA168700658"
+  },
+  {
+    "title": "Bitva O Karlův Most",
+    "artist": "Michal Prokop, Framus Five",
+    "isrc": "CZA168400608"
+  },
+  {
+    "title": "Outsider Waltz",
+    "artist": "Wabi Danek",
+    "isrc": "CZA168400008"
+  },
+  {
+    "title": "Rock The Snow",
+    "artist": "Lenka Dusilová",
+    "isrc": "CZA140400351"
+  },
+  {
+    "title": "Aranka Umí \"Hula Hop\"",
+    "artist": "Ivan Hlas",
+    "isrc": "CZA169500348"
+  },
+  {
+    "title": "Nebeská Brána",
+    "artist": "Petr Kalandra, Amatérské sdružení profesionálních muzikantů",
+    "isrc": "CZA160411529"
+  },
+  {
+    "title": "Podvod",
+    "artist": "Jan Nedved",
+    "isrc": "CZA100110085"
+  },
+  {
+    "title": "Já, Písnička",
+    "artist": "Pavlina Jisova",
+    "isrc": "CZA160612847"
+  },
+  {
+    "title": "Náměšť - Live",
+    "artist": "Jaroslav Hutka",
+    "isrc": "CZF331902423"
+  },
+  {
+    "title": "Devatenact",
+    "artist": "Frantisek Nedved, Honza Nedved",
+    "isrc": "CZA210200430"
+  },
+  {
+    "title": "Bratříčku, Zavírej Vrátka",
+    "artist": "Karel Kryl",
+    "isrc": "CZA161500718"
+  },
+  {
+    "title": "Jahody Mražený",
+    "artist": "Jiří Schelinger",
+    "isrc": "CZA167900202"
+  },
+  {
+    "title": "Pro Eržiku",
+    "artist": "Jiří Smrž",
+    "isrc": "CZF331300634"
+  },
+  {
+    "title": "Jáchymov",
+    "artist": "Petr Linhart, Hmlisto",
+    "isrc": "CZF332203558"
+  },
+  {
+    "title": "Mám Jizvu Na Rtu",
+    "artist": "Jaromir Nohavica",
+    "isrc": "CZI360800105"
+  },
+  {
+    "title": "Prý Se Tomu Říká Láska",
+    "artist": "Lenka Filipova",
+    "isrc": "CZA168300031"
+  },
+  {
+    "title": "S cizí ženou v cizím pokoji",
+    "artist": "Michael Kocáb",
+    "isrc": "CZA168800084"
+  },
+  {
+    "title": "Karlín",
+    "artist": "Bára Zmeková",
+    "isrc": "CZK501902503"
+  },
+  {
+    "title": "Letící kámen",
+    "artist": "Oldřich Janota",
+    "isrc": "CZA751550026"
+  },
+  {
+    "title": "Kdož sú Boží bojovníci - Live",
+    "artist": "Svatopluk Karásek, Pozdravpámbu",
+    "isrc": "CZA163399846"
+  },
+  {
+    "title": "Jablka",
+    "artist": "Martin E. Kyšperský",
+    "isrc": "CZA163392923"
+  },
+  {
+    "title": "Pažitka",
+    "artist": "Xavier Baumaxa",
+    "isrc": "CZD400502007"
+  },
+  {
+    "title": "Vodo moja",
+    "artist": "Lucie Redlová, Jiří Hradil, Horňácká muzika Petra Mičky",
+    "isrc": "CZA752130071"
+  },
+  {
+    "title": "Dívka V Úsvitu",
+    "artist": "Karel Vepřek",
+    "isrc": "CZF331801967"
+  },
+  {
+    "title": "Píseň o domově",
+    "artist": "Marie Puttnerová",
+    "isrc": "CZB872301002"
+  },
+  {
+    "title": "Uspávanka",
+    "artist": "Vladimír Václavek, Iva Bittová",
+    "isrc": "CZA759705502"
+  },
+  {
+    "title": "Pamet slonu",
+    "artist": "Roman Horky, Kamelot",
+    "isrc": "CZA120104001"
+  },
+  {
+    "title": "Klid",
+    "artist": "David Pomahač",
+    "isrc": "CZN732200008"
+  },
+  {
+    "title": "Toulavej",
+    "artist": "Vojta Kiďák Tomáško",
+    "isrc": "CZA042148113"
+  },
+  {
+    "title": "Háje - Live",
+    "artist": "Dagmar Voňková, Beata Hlavenková, Dorota Barová, Jiří Slavík, Miloš Dvořáček, Oskar Török, Marcel Bárta, Marian Friedl, Petr Ostrouchov",
+    "isrc": "CZB872004001"
+  },
+  {
+    "title": "Parta Snů",
+    "artist": "Miroslav Paleček, Michael Janík",
+    "isrc": "CZA167700308"
+  },
+  {
+    "title": "Pocity",
+    "artist": "Tomas Klus",
+    "isrc": "CZA210701030"
+  },
+  {
+    "title": "Obok mnie",
+    "artist": "Dorota Barová",
+    "isrc": "CZB872108001"
+  },
+  {
+    "title": "A tak mě napadá",
+    "artist": "Pavel Čadek",
+    "isrc": "CZAV81900105"
+  },
+  {
+    "title": "Zbyl jsem tu sám",
+    "artist": "Záviš",
+    "isrc": "CZBX70600111"
+  },
+  {
+    "title": "No To Se Ví",
+    "artist": "Jaroslav Velinsky",
+    "isrc": "CZA168300669"
+  },
+  {
+    "title": "Prásknu Bičem",
+    "artist": "Jiří Krhut, Štěpán Kozub",
+    "isrc": "USCGH2172198"
+  },
+  {
+    "title": "open",
+    "artist": "Amelie Siba",
+    "isrc": "QZDA72339756"
+  },
+  {
+    "title": "Neber si to zle",
+    "artist": "Petr Lüftner",
+    "isrc": "CZA092316008"
+  },
+  {
+    "title": "Jasnej Den",
+    "artist": "Blanka Šrůmová, Jan Sahara Hedl, Něžná noc",
+    "isrc": "CZF331801981"
+  },
+  {
+    "title": "Polibková píseň",
+    "artist": "Jan Budar, Veronika Khek Kubařová",
+    "isrc": "CZF552200020"
+  },
+  {
+    "title": "Lysá Hora",
+    "artist": "Kaczi",
+    "isrc": "CZI562100027"
+  },
+  {
+    "title": "Fajne-Mjesto",
+    "artist": "René Souček",
+    "isrc": "US6R21465930"
+  },
+  {
+    "title": "Blue City Lights",
+    "artist": "Marjari",
+    "isrc": "CZAG82207006"
+  },
+  {
+    "title": "Dejte mi anděla",
+    "artist": "Ondřej Hejma",
+    "isrc": "CZA232001307"
+  },
+  {
+    "title": "Hořím",
+    "artist": "Iamme Candlewick",
+    "isrc": "US6R21322614"
+  },
+  {
+    "title": "Ticho",
+    "artist": "Bohdan Mikolášek",
+    "isrc": "CZF331100235"
+  },
+  {
+    "title": "Ain't No Grave",
+    "artist": "Irena Budweiserova, Spiritual Kvintet",
+    "isrc": "CZA168600901"
+  },
+  {
+    "title": "Brouk Potemník",
+    "artist": "Jana Šteflíčková",
+    "isrc": "CZF331501026"
+  },
+  {
+    "title": "If You Want Me",
+    "artist": "Markéta Irglová, Glen Hansard",
+    "isrc": "USLIC0700663"
+  },
+  {
+    "title": "Argentinec",
+    "artist": "Jana Rychterová",
+    "isrc": "CZF661409005"
+  },
+  {
+    "title": "Životopisné písně - Live",
+    "artist": "Josef Fousek",
+    "isrc": "CZA163370826"
+  },
+  {
+    "title": "Babucha",
+    "artist": "Karolína Kamberská",
+    "isrc": "CZA751149503"
+  },
+  {
+    "title": "Dynamit",
+    "artist": "Jan Repka",
+    "isrc": "CH1081600258"
+  },
+  {
+    "title": "V prostoru",
+    "artist": "Eliška Sýkorová",
+    "isrc": "SEYOK2117853"
+  },
+  {
+    "title": "Motýlí hra",
+    "artist": "Jakub Noha",
+    "isrc": "CZA751778717"
+  },
+  {
+    "title": "Blanket of youth",
+    "artist": "Johanela",
+    "isrc": "QZHN82163435"
+  },
+  {
+    "title": "Chodec",
+    "artist": "Sylvie Krobová",
+    "isrc": "CZJ452334001"
+  },
+  {
+    "title": "Struny Ve Větru",
+    "artist": "Vladimír Merta",
+    "isrc": "CZF331100257"
+  },
+  {
+    "title": "Už To Nenapravím",
+    "artist": "Jaroslav Samson Lenk, Maci",
+    "isrc": "CZA168891999"
+  },
+  {
+    "title": "Rada se miluje",
+    "artist": "Karel Plíhal",
+    "isrc": "CZA231201021"
+  },
+  {
+    "title": "Jak vlastne vypadas",
+    "artist": "Vlasta Redl",
+    "isrc": "CZA231100707"
+  },
+  {
+    "title": "Inuhit",
+    "artist": "Jan Burian, Jiří Burian",
+    "isrc": "CZAD92300101"
+  },
+  {
+    "title": "Já s tebou žít nebudu - Live",
+    "artist": "Zuzana Navarová, Nerez",
+    "isrc": "CZA239800540"
+  },
+  {
+    "title": "Pražce",
+    "artist": "Pavel Dobes",
+    "isrc": "CZA239200212"
+  },
+  {
+    "title": "Kolej Yesterday",
+    "artist": "Michal Prokop, Framus Five",
+    "isrc": "CZA168400601"
+  },
+  {
+    "title": "Píseň, Co Mě Učil Listopad",
+    "artist": "Wabi Danek",
+    "isrc": "CZA168100366"
+  },
+  {
+    "title": "Slovo - From \"Slovo\"",
+    "artist": "Lenka Dusilová, Vojtech Dyk",
+    "isrc": "CZA162200844"
+  },
+  {
+    "title": "Na kolena",
+    "artist": "Ivan Hlas",
+    "isrc": "CZUM72100476"
+  },
+  {
+    "title": "Trochu V Hlavě Mám...",
+    "artist": "Petr Kalandra, Amatérské sdružení profesionálních muzikantů",
+    "isrc": "CZA149800157"
+  },
+  {
+    "title": "To Ráno",
+    "artist": "Pavlina Jisova",
+    "isrc": "CZA160612849"
+  },
+  {
+    "title": "Igelit",
+    "artist": "Jan Nedved",
+    "isrc": "CZA100110051"
+  },
+  {
+    "title": "Hádala se duše s tělem - Live",
+    "artist": "Jaroslav Hutka",
+    "isrc": "CZF331902417"
+  },
+  {
+    "title": "Kocovni herci (Rainy Day People)",
+    "artist": "Frantisek Nedved, Honza Nedved",
+    "isrc": "CZA219800502"
+  },
+  {
+    "title": "Anděl",
+    "artist": "Karel Kryl",
+    "isrc": "CZA161500723"
+  },
+  {
+    "title": "Holubí Dům",
+    "artist": "Jiří Schelinger",
+    "isrc": "CZA161003699"
+  },
+  {
+    "title": "Jsem ten strom",
+    "artist": "Jiří Smrž",
+    "isrc": "CZF332203479"
+  },
+  {
+    "title": "Hranica",
+    "artist": "Petr Linhart, Hmlisto",
+    "isrc": "CZF332203557"
+  },
+  {
+    "title": "Zamilovaná",
+    "artist": "Lenka Filipova",
+    "isrc": "CZA168000215"
+  },
+  {
+    "title": "U Nás Na Severu",
+    "artist": "Jaromir Nohavica",
+    "isrc": "CZI361205004"
+  },
+  {
+    "title": "Stáří",
+    "artist": "Michael Kocáb, Libuse Marova",
+    "isrc": "CZA168800088"
+  },
+  {
+    "title": "Jediný na světě",
+    "artist": "Bára Zmeková",
+    "isrc": "CZK502405802"
+  },
+  {
+    "title": "Ztracený ve světě",
+    "artist": "Oldřich Janota",
+    "isrc": "CZA751550012"
+  },
+  {
+    "title": "Ženský Jsou Fajn",
+    "artist": "Svatopluk Karásek",
+    "isrc": "CZF331200368"
+  },
+  {
+    "title": "Bmx Abc",
+    "artist": "Martin E. Kyšperský",
+    "isrc": "FR10S2018840"
+  },
+  {
+    "title": "Lidé Z Malých Vesniček",
+    "artist": "Xavier Baumaxa",
+    "isrc": "CZD400502009"
+  },
+  {
+    "title": "Za co, Bože, za co",
+    "artist": "Lucie Redlová",
+    "isrc": "CZA752259303"
+  },
+  {
+    "title": "Buď chvíli dým",
+    "artist": "Karel Vepřek",
+    "isrc": "CZA750113710"
+  },
+  {
+    "title": "Martine!",
+    "artist": "Marie Puttnerová",
+    "isrc": "CZB872301001"
+  },
+  {
+    "title": "Sto Iet",
+    "artist": "Vladimír Václavek, Iva Bittová",
+    "isrc": "CZA759705504"
+  },
+  {
+    "title": "Dlouha plaz",
+    "artist": "Roman Horky, Kamelot",
+    "isrc": "CZA120104002"
+  },
+  {
+    "title": "Všechno se nám zdá",
+    "artist": "David Pomahač, Bára Zmeková",
+    "isrc": "CZN732300007"
+  },
+  {
+    "title": "Toulavej - Live",
+    "artist": "Vojta Kiďák Tomáško",
+    "isrc": "CZE201200196"
+  },
+  {
+    "title": "Tobě - Live",
+    "artist": "Dagmar Voňková, Beata Hlavenková, Dorota Barová, Jiří Slavík, Miloš Dvořáček, Oskar Török, Marcel Bárta, Marian Friedl, Petr Ostrouchov",
+    "isrc": "CZB872004003"
+  },
+  {
+    "title": "Drákulova Zpověď",
+    "artist": "Miroslav Paleček, Michael Janík, Zuzana Burianová",
+    "isrc": "CZA160606321"
+  },
+  {
+    "title": "Dotyk",
+    "artist": "Dorota Barová",
+    "isrc": "CZB872108004"
+  },
+  {
+    "title": "Nina",
+    "artist": "Tomas Klus",
+    "isrc": "CZA211100094"
+  },
+  {
+    "title": "Nestíhám",
+    "artist": "Pavel Čadek",
+    "isrc": "CZAV81900201"
+  },
+  {
+    "title": "Už je to tak",
+    "artist": "Záviš",
+    "isrc": "CZBX70100046"
+  },
+  {
+    "title": "Jenoféfa",
+    "artist": "Jaroslav Velinsky",
+    "isrc": "CZA168300657"
+  },
+  {
+    "title": "Poraď Mi S Tím",
+    "artist": "Jiří Krhut, Štěpán Kozub",
+    "isrc": "USCGH2172202"
+  },
+  {
+    "title": "Staré pásky",
+    "artist": "Vladimír Merta",
+    "isrc": "CZF332404109"
+  },
+  {
+    "title": "Nadeje a touhy",
+    "artist": "Jaroslav Samson Lenk",
+    "isrc": "CZA231300623"
+  },
+  {
+    "title": "Vzpomínky",
+    "artist": "Karel Plíhal",
+    "isrc": "CZA168500424"
+  },
+  {
+    "title": "Mojí první múze (Smutno je mi)",
+    "artist": "Vlasta Redl",
+    "isrc": "CZA239200026"
+  },
+  {
+    "title": "Do Ráje",
+    "artist": "Jan Burian",
+    "isrc": "CZF331501014"
+  },
+  {
+    "title": "Andělská",
+    "artist": "Zuzana Navarová, Ivan Gutierrez, KOA",
+    "isrc": "CZA750012804"
+  },
+  {
+    "title": "Zum Zum",
+    "artist": "Pavel Dobes",
+    "isrc": "CZA168700947"
+  },
+  {
+    "title": "Blues O Spolykaných Slovech",
+    "artist": "Michal Prokop, Framus Five",
+    "isrc": "CZA161401673"
+  },
+  {
+    "title": "Hudsonské Šífy",
+    "artist": "Wabi Danek",
+    "isrc": "CZA168400003"
+  },
+  {
+    "title": "Ptáci",
+    "artist": "Lenka Dusilová, Beata Hlavenková, Viliam Beres, Patrick Karpentski",
+    "isrc": "CZA161106943"
+  },
+  {
+    "title": "Malagelo",
+    "artist": "Ivan Hlas",
+    "isrc": "CZA100201118"
+  },
+  {
+    "title": "Podzim",
+    "artist": "Petr Kalandra, Marsyas",
+    "isrc": "CZA168400390"
+  },
+  {
+    "title": "Matka a dcera",
+    "artist": "Pavlina Jisova",
+    "isrc": "CZK301400105"
+  },
+  {
+    "title": "Kohout",
+    "artist": "Jan Nedved, Frantisek Nedved",
+    "isrc": "CZA219600502"
+  },
+  {
+    "title": "Hospodskej",
+    "artist": "Jaroslav Hutka",
+    "isrc": "CZF331100190"
+  },
+  {
+    "title": "Remeslo",
+    "artist": "Frantisek Nedved, Honza Nedved",
+    "isrc": "CZA210201938"
+  },
+  {
+    "title": "Morituri Te Salutant",
+    "artist": "Karel Kryl",
+    "isrc": "CZA161500724"
+  },
+  {
+    "title": "Uniformy bez označení",
+    "artist": "Jiří Smrž",
+    "isrc": "CZF332203478"
+  },
+  {
+    "title": "Šípková Růženka",
+    "artist": "Jiří Schelinger",
+    "isrc": "CZA167600006"
+  },
+  {
+    "title": "Annenruhe",
+    "artist": "Petr Linhart",
+    "isrc": "CZD451083107"
+  },
+  {
+    "title": "Sebastián",
+    "artist": "Michael Kocáb, Michal Pavlíček",
+    "isrc": "CZA168800779"
+  },
+  {
+    "title": "Samotní nejsme nic",
+    "artist": "Lenka Filipova, LENNY",
+    "isrc": "CZUM72000932"
+  }
+]

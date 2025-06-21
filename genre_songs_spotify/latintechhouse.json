@@ -1,0 +1,917 @@
+[
+  {
+    "title": "Together",
+    "artist": "De La Swing, Nico Ferrada",
+    "isrc": "ES94G1900404"
+  },
+  {
+    "title": "Point In Time",
+    "artist": "Bassel Darwish",
+    "isrc": "GBLV62316581"
+  },
+  {
+    "title": "What a Bam",
+    "artist": "Guille Placencia, George Privatti",
+    "isrc": "DEH741716720"
+  },
+  {
+    "title": "Fat Cut",
+    "artist": "Hector Couto",
+    "isrc": "ES94G2018203"
+  },
+  {
+    "title": "Bee Gi",
+    "artist": "Miguel Bastida",
+    "isrc": "GBKQU2367414"
+  },
+  {
+    "title": "Phone Down - Radio Edit",
+    "artist": "George Privatti",
+    "isrc": "CA5KR2418534"
+  },
+  {
+    "title": "DOPE MAN",
+    "artist": "Angel Heredia",
+    "isrc": "GBKQU2098207"
+  },
+  {
+    "title": "The Present, the Future",
+    "artist": "David Herrero",
+    "isrc": "ES7842130005"
+  },
+  {
+    "title": "Distraido - Original Mix",
+    "artist": "Rafa Barrios",
+    "isrc": "GRKM11500189"
+  },
+  {
+    "title": "Cilene",
+    "artist": "Oscar L, Matt Sassari",
+    "isrc": "ES7841925702"
+  },
+  {
+    "title": "Natural Sax",
+    "artist": "Alvaro AM",
+    "isrc": "CA5KR0007567"
+  },
+  {
+    "title": "Brut",
+    "artist": "Harvy Valencia",
+    "isrc": "GBK6Y2422704"
+  },
+  {
+    "title": "Mama",
+    "artist": "Cuartero",
+    "isrc": "USLZJ1369929"
+  },
+  {
+    "title": "Retrospective",
+    "artist": "Joe Red, Paul Darey",
+    "isrc": "GBJAJ1901344"
+  },
+  {
+    "title": "19 - Josh Butler Remix",
+    "artist": "Piem, ANNNA, Josh Butler",
+    "isrc": "GBCPZ2119825"
+  },
+  {
+    "title": "Wild & Free",
+    "artist": "Jay de Lys",
+    "isrc": "ES94G2322203"
+  },
+  {
+    "title": "All I Want - Technasia Remix",
+    "artist": "Chus & Ceballos, Astrid Suryanto, Technasia",
+    "isrc": "ES7841618701"
+  },
+  {
+    "title": "Que Maluquera",
+    "artist": "Julian Collazos",
+    "isrc": "CA5KR2361017"
+  },
+  {
+    "title": "Owlish - Harvy Valencia Remix",
+    "artist": "Jholeyson, Harvy Valencia",
+    "isrc": "CA5KR1913110"
+  },
+  {
+    "title": "I Love Buttons",
+    "artist": "Bizen Lopez",
+    "isrc": "GBKQU2233775"
+  },
+  {
+    "title": "Ataraxia",
+    "artist": "Andre Butano, Pablo Inzunza",
+    "isrc": "DESM41500138"
+  },
+  {
+    "title": "El Sueño",
+    "artist": "Dennis Cruz",
+    "isrc": "DEX041800024"
+  },
+  {
+    "title": "Maracay",
+    "artist": "Fhaken, Sergio Gaytan",
+    "isrc": "GRLP12222293"
+  },
+  {
+    "title": "Pressure",
+    "artist": "Francisco Allendes",
+    "isrc": "NLML62300002"
+  },
+  {
+    "title": "Bounce 2 Me - Antss Remix",
+    "artist": "Miguel Lobo, Antss",
+    "isrc": "ES94G2119505"
+  },
+  {
+    "title": "Tokyo Tech",
+    "artist": "Cele",
+    "isrc": "CA5KR1943451"
+  },
+  {
+    "title": "Ma Baby",
+    "artist": "Caal, Baum",
+    "isrc": "FR26V2009502"
+  },
+  {
+    "title": "El Baile Alemán",
+    "artist": "Coyu, Edu Imbernon",
+    "isrc": "DECX10800053"
+  },
+  {
+    "title": "Projection",
+    "artist": "Dosem",
+    "isrc": "GBJAJ1601104"
+  },
+  {
+    "title": "Rush",
+    "artist": "Mario Ochoa",
+    "isrc": "CA7KO2200003"
+  },
+  {
+    "title": "The Dancefloor - Original Mix",
+    "artist": "Josu Freire",
+    "isrc": "CA5KR2235729"
+  },
+  {
+    "title": "Sunday's - Original_Mix",
+    "artist": "Toni Varga",
+    "isrc": "QMFMF1547269"
+  },
+  {
+    "title": "Sax Life",
+    "artist": "Lexlay",
+    "isrc": "FRX872019233"
+  },
+  {
+    "title": "Bleep & Voices",
+    "artist": "Alvaro Smart, Jojo Angel",
+    "isrc": "GBLV62006571"
+  },
+  {
+    "title": "Hope",
+    "artist": "Guti",
+    "isrc": "GBCPZ1307009"
+  },
+  {
+    "title": "Pachamama",
+    "artist": "Ramiro Lopez, Andres Campo",
+    "isrc": "UKACT1780427"
+  },
+  {
+    "title": "Morning Calls",
+    "artist": "German Brigante",
+    "isrc": "CA5KR2330594"
+  },
+  {
+    "title": "Soma - Original Mix",
+    "artist": "Carlos A",
+    "isrc": "GBLV61501054"
+  },
+  {
+    "title": "Altro Mondo",
+    "artist": "Pablo Inzunza, Lonely",
+    "isrc": "ES7841926101"
+  },
+  {
+    "title": "Vinotinto",
+    "artist": "Luciano, Carloh, Bastidas, Carlos Corté$",
+    "isrc": "GBLV62204644"
+  },
+  {
+    "title": "Frequency",
+    "artist": "Cris Ocana, Chinonegro",
+    "isrc": "ES94G1916705"
+  },
+  {
+    "title": "Libre la Vida - FNX Omar Remix",
+    "artist": "Danniel selfmade, Charlie Demir, FNX OMAR",
+    "isrc": "ES7842028330"
+  },
+  {
+    "title": "My Wifi - Original Mix",
+    "artist": "Tyler Coey",
+    "isrc": "ES98I2200439"
+  },
+  {
+    "title": "Blue Sky",
+    "artist": "Tini Gessler",
+    "isrc": "FR96X2224273"
+  },
+  {
+    "title": "Sacrilegio",
+    "artist": "Rodrigo Laffertt",
+    "isrc": "CLCT21900216"
+  },
+  {
+    "title": "Smoke Enjoyable - Remix",
+    "artist": "Felipe Venegas, Umho, Alejandro Vivanco",
+    "isrc": "GBKQU1891102"
+  },
+  {
+    "title": "La Cuba E - Radio Edit",
+    "artist": "Dario Nunez, Les Castizos, Martina Camargo",
+    "isrc": "DEW872002373"
+  },
+  {
+    "title": "Bitbox",
+    "artist": "Pinco, Javi Miramontes",
+    "isrc": "GBSCL2400020"
+  },
+  {
+    "title": "Night Invaders",
+    "artist": "Ovidi Adlert",
+    "isrc": "GRLP11701205"
+  },
+  {
+    "title": "Insomnia 2021 - Epic Edit",
+    "artist": "Maceo Plex, Faithless",
+    "isrc": "GBCEN2100066"
+  },
+  {
+    "title": "Big Afro",
+    "artist": "Tini Garcia, Richi Risco",
+    "isrc": "ES7841926806"
+  },
+  {
+    "title": "La Feria",
+    "artist": "Mario Biani, George Privatti, Guille Placencia",
+    "isrc": "QMFMF1547212"
+  },
+  {
+    "title": "The Morning Kids - Original Mix",
+    "artist": "Oscar Aguilera, Guille Placencia, George Privatti",
+    "isrc": "NLR341010168"
+  },
+  {
+    "title": "Close to Death - Original Mix",
+    "artist": "Alonso Bierg, Jorge Lefenda",
+    "isrc": "ITA061302457"
+  },
+  {
+    "title": "Triangles",
+    "artist": "Lucio Agustin, Toman",
+    "isrc": "GBKQU1807095"
+  },
+  {
+    "title": "1956",
+    "artist": "Andres Blows",
+    "isrc": "FR6V82271420"
+  },
+  {
+    "title": "Party People - Original Mix",
+    "artist": "Caravaca",
+    "isrc": "DEW871907710"
+  },
+  {
+    "title": "Me Gustas Cuando Callas - Dub Mix",
+    "artist": "Marco Latrach",
+    "isrc": "QZ5FN2090961"
+  },
+  {
+    "title": "From My Studio",
+    "artist": "Felipe Cobos",
+    "isrc": "CA5KR1557997"
+  },
+  {
+    "title": "Placebo",
+    "artist": "Hauswerks",
+    "isrc": "GBK5G1000448"
+  },
+  {
+    "title": "Pons",
+    "artist": "Marc Maya",
+    "isrc": "QMFMF1547171"
+  },
+  {
+    "title": "Chiquetere (feat. Rafa Villalba)",
+    "artist": "Paskman, Rafa Villalba",
+    "isrc": "ES5702200170"
+  },
+  {
+    "title": "Energize - Original Mix",
+    "artist": "Fede Aliprandi",
+    "isrc": "ITA061302519"
+  },
+  {
+    "title": "Good for Nothing",
+    "artist": "K-Style, Brian Remii",
+    "isrc": "DEH742302828"
+  },
+  {
+    "title": "XYZ123 - Niko Gualano Remix",
+    "artist": "Camilo Diaz, Niko Gualano",
+    "isrc": "DEH741502605"
+  },
+  {
+    "title": "Ares",
+    "artist": "D-Formation, Saccao",
+    "isrc": "ES7842129703"
+  },
+  {
+    "title": "Fifa - Alvaro AM Remix",
+    "artist": "Underground Calling, Alvaro AM",
+    "isrc": "GBKQU2110269"
+  },
+  {
+    "title": "The Sound of Sand feat. Ido Segal - Original",
+    "artist": "UNER, Ido Segal",
+    "isrc": "US83Z1777819"
+  },
+  {
+    "title": "I've Got That Feeling",
+    "artist": "Dakar",
+    "isrc": "DEBE70800090"
+  },
+  {
+    "title": "Little Dorian",
+    "artist": "Sergio Parrado",
+    "isrc": "DEW872402513"
+  },
+  {
+    "title": "Verkro",
+    "artist": "Andre Salmon",
+    "isrc": "DEH741712991"
+  },
+  {
+    "title": "Sueño Robado - Original Mix",
+    "artist": "Adrian Oblanca",
+    "isrc": "GBKQU1679570"
+  },
+  {
+    "title": "Mambo - Edit",
+    "artist": "Fernando Mesa",
+    "isrc": "ITKG02100075"
+  },
+  {
+    "title": "Let The Music Play",
+    "artist": "Mambo Brothers",
+    "isrc": "NLF712105226"
+  },
+  {
+    "title": "Returns 90S - Original Mix",
+    "artist": "Agustin Chandia",
+    "isrc": "GBWUL1685695"
+  },
+  {
+    "title": "Sunshine",
+    "artist": "Vidaloca & Piem",
+    "isrc": "ES7841513101"
+  },
+  {
+    "title": "Vibración Cósmica",
+    "artist": "KEENE, Sparrow & Barbossa, Afrosideral, Sebastian Rivero",
+    "isrc": "GBKQU2391541"
+  },
+  {
+    "title": "FUZZ1000",
+    "artist": "Morpei",
+    "isrc": "GBKQU2346400"
+  },
+  {
+    "title": "Eternity - Radio Edit",
+    "artist": "Albert Aponte, Chris Groovejey",
+    "isrc": "US83Z1819515"
+  },
+  {
+    "title": "The Boss",
+    "artist": "Antonio Santana",
+    "isrc": "USQY51179360"
+  },
+  {
+    "title": "Voco Me - Carlos Maza Remix",
+    "artist": "Carlos Jimenez",
+    "isrc": "FR2X41562773"
+  },
+  {
+    "title": "Bit104 - Original Mix",
+    "artist": "Dart.DaKman, Carlos Pérez, K-Style",
+    "isrc": "UKACT1717910"
+  },
+  {
+    "title": "Una Palabra - Eder Tobes Remix",
+    "artist": "Eder Tobes, Tavo Under",
+    "isrc": "CA5KR1540405"
+  },
+  {
+    "title": "Da Moon",
+    "artist": "Groove Man",
+    "isrc": "RUA491000032"
+  },
+  {
+    "title": "How I Do It - Original Mix",
+    "artist": "Ignacio Robles",
+    "isrc": "GBKQU1534869"
+  },
+  {
+    "title": "Walking To The Disco",
+    "artist": "Kokks & Lein",
+    "isrc": "GBKQU1847738"
+  },
+  {
+    "title": "El Porro",
+    "artist": "Lazardi, Electronic Drums",
+    "isrc": "NLC281011621"
+  },
+  {
+    "title": "Para Vivir - Edit",
+    "artist": "Luke Nash, Joe C, Faraone",
+    "isrc": "UKKGA2000041"
+  },
+  {
+    "title": "Chanting",
+    "artist": "Ruben Zurita, Flashingroof, H.A.N.T.",
+    "isrc": "GBKQU1882480"
+  },
+  {
+    "title": "The Mixologist - Rafa Barrios Remix",
+    "artist": "Sebastian Manuel, Honey Dijon",
+    "isrc": "ES7841324604"
+  },
+  {
+    "title": "Virgen De Los Dolores - Original Mix",
+    "artist": "Toni Vilchez",
+    "isrc": "GBKQU1464427"
+  },
+  {
+    "title": "Speak",
+    "artist": "Bassel Darwish",
+    "isrc": "GBKQU1985699"
+  },
+  {
+    "title": "Voodoo Step",
+    "artist": "De La Swing, Rendher",
+    "isrc": "GBJAJ2102281"
+  },
+  {
+    "title": "The Sonic Busters",
+    "artist": "Guille Placencia, George Privatti",
+    "isrc": "DEH741905976"
+  },
+  {
+    "title": "Wanna Know",
+    "artist": "Miguel Bastida",
+    "isrc": "GBHAD1902166"
+  },
+  {
+    "title": "Coco Loco",
+    "artist": "Hector Couto",
+    "isrc": "USLZJ2283855"
+  },
+  {
+    "title": "Sax Ritual - Radio Edit",
+    "artist": "George Privatti",
+    "isrc": "CA5KR2418533"
+  },
+  {
+    "title": "Serenade",
+    "artist": "Angel Heredia",
+    "isrc": "DEPI82406125"
+  },
+  {
+    "title": "Native Drum",
+    "artist": "David Herrero, Ben A, C1",
+    "isrc": "GBJAJ2002706"
+  },
+  {
+    "title": "Tomaketa",
+    "artist": "Rafa Barrios",
+    "isrc": "GBLV62200581"
+  },
+  {
+    "title": "Monster Tube",
+    "artist": "Oscar L",
+    "isrc": "GBUR61700224"
+  },
+  {
+    "title": "Close To Me - Jeff Sorkowitz Remix",
+    "artist": "Alvaro AM, Jeff Sorkowitz",
+    "isrc": "GBKQU2313949"
+  },
+  {
+    "title": "Electric Mama",
+    "artist": "Harvy Valencia, Jamie Jones",
+    "isrc": "GBK6Y2056101"
+  },
+  {
+    "title": "Zul Nation - Original Mix",
+    "artist": "Joe Red, K-Style, Carlos Pérez",
+    "isrc": "ES60B1400315"
+  },
+  {
+    "title": "Colours Of House",
+    "artist": "Piem, Feat. Cessle Innit",
+    "isrc": "ES94G2221304"
+  },
+  {
+    "title": "Blas - Original Mix",
+    "artist": "Cuartero",
+    "isrc": "GBGD81200074"
+  },
+  {
+    "title": "No Sleep Club",
+    "artist": "Jay de Lys",
+    "isrc": "GBJAJ2201290"
+  },
+  {
+    "title": "Galera",
+    "artist": "Chus & Ceballos, Melé",
+    "isrc": "ES94G1814505"
+  },
+  {
+    "title": "Sabor Latino",
+    "artist": "Julian Collazos",
+    "isrc": "CA5KR0021459"
+  },
+  {
+    "title": "Discow",
+    "artist": "Jholeyson",
+    "isrc": "GBK6Y1913701"
+  },
+  {
+    "title": "Made to Impress",
+    "artist": "Bizen Lopez",
+    "isrc": "GBKQU2167234"
+  },
+  {
+    "title": "New Jack Swing",
+    "artist": "Andre Butano, Miguel Lobo",
+    "isrc": "DEMG91100028"
+  },
+  {
+    "title": "Bonito",
+    "artist": "Dennis Cruz",
+    "isrc": "GBKQU2425821"
+  },
+  {
+    "title": "Wanyama",
+    "artist": "Fhaken",
+    "isrc": "CA5KR2235801"
+  },
+  {
+    "title": "Llovizna - Loco Dice Remix Edit",
+    "artist": "Francisco Allendes, Felipe Venegas, Loco Dice",
+    "isrc": "CH4481600080"
+  },
+  {
+    "title": "Last Track at Sunrise",
+    "artist": "Miguel Lobo, Cristian Merino",
+    "isrc": "GBKQU2198894"
+  },
+  {
+    "title": "Shaking",
+    "artist": "Cele",
+    "isrc": "DEH742300697"
+  },
+  {
+    "title": "Keep Bustin",
+    "artist": "CAAL, Rendher",
+    "isrc": "ES94G1918303"
+  },
+  {
+    "title": "Profound Pleasure (feat. Cari Golden) - Edit",
+    "artist": "Coyu, Cari Golden",
+    "isrc": "GBCPZ1408010"
+  },
+  {
+    "title": "Terra",
+    "artist": "Mario Ochoa",
+    "isrc": "CA7KO2100005"
+  },
+  {
+    "title": "Troubled Heart (ABGT580) - Mixed",
+    "artist": "Dosem, Boxer, Diana Miro",
+    "isrc": "GBEWA2402750"
+  },
+  {
+    "title": "Make Your Transition",
+    "artist": "Josu Freire",
+    "isrc": "CA5KR1576952"
+  },
+  {
+    "title": "Do You Wanna Come In - Francisco Allendes Remix",
+    "artist": "Toni Varga, Beauhause, Francisco Allendes",
+    "isrc": "QZ5FN2231354"
+  },
+  {
+    "title": "Dance Dance - Radio Edit",
+    "artist": "Lexlay, Andre Salmon, ZIF",
+    "isrc": "GBRKQ2260920"
+  },
+  {
+    "title": "Ikenna - DJ Wady, MoonDark Remix",
+    "artist": "Alvaro Smart, DJ Wady, MoonDark",
+    "isrc": "GRLP11907778"
+  },
+  {
+    "title": "We Shall Overcome",
+    "artist": "Guti",
+    "isrc": "DEHE41100004"
+  },
+  {
+    "title": "Joyenergizer (Ramiro Lopez Edit)",
+    "artist": "Ramiro Lopez, Joy Kitikonti",
+    "isrc": "DEA312300398"
+  },
+  {
+    "title": "Africamania",
+    "artist": "German Brigante",
+    "isrc": "USA2P1286793"
+  },
+  {
+    "title": "Sube lo Que Sea",
+    "artist": "Carlos A, Koltech",
+    "isrc": "QZ5FN1801274"
+  },
+  {
+    "title": "Friki Friki",
+    "artist": "Pablo Inzunza",
+    "isrc": "CARH11900202"
+  },
+  {
+    "title": "Travieza",
+    "artist": "Luciano, Stigmaz",
+    "isrc": "GBLV62317772"
+  },
+  {
+    "title": "The Shark",
+    "artist": "Cris Ocana, JB Martinz",
+    "isrc": "CA5KR2414558"
+  },
+  {
+    "title": "Libre la Vida - Javi Colors Remix",
+    "artist": "Danniel selfmade, Charlie Demir",
+    "isrc": "ES7841224403"
+  },
+  {
+    "title": "Right Now",
+    "artist": "Tyler Coey, Cuevas (ES), [A]bout Us",
+    "isrc": "GBKQU2110291"
+  },
+  {
+    "title": "Prayer",
+    "artist": "Tini Gessler",
+    "isrc": "GBJAJ2200012"
+  },
+  {
+    "title": "Talcahuano a Sevilla",
+    "artist": "Rodrigo Laffertt, Rafa Barrios",
+    "isrc": "DEH741203946"
+  },
+  {
+    "title": "Alma Gama",
+    "artist": "Felipe Venegas",
+    "isrc": "CH4481600015"
+  },
+  {
+    "title": "Asi Lo Grita",
+    "artist": "Dario Nunez, Frank Nitty",
+    "isrc": "GBZ9E1809202"
+  },
+  {
+    "title": "Bad Name",
+    "artist": "Pinco, Rodcast",
+    "isrc": "GBKQU2114036"
+  },
+  {
+    "title": "Wipe Out",
+    "artist": "Ovidi Adlert",
+    "isrc": "ES98I1801319"
+  },
+  {
+    "title": "Se Quema El Monte",
+    "artist": "Tini Garcia, Ramon Bedoya",
+    "isrc": "CA7KO1700023"
+  },
+  {
+    "title": "Shadow (Maceo Plex Remix)",
+    "artist": "Maceo Plex, Chromatics",
+    "isrc": "QZAKB2011745"
+  },
+  {
+    "title": "So Cute",
+    "artist": "Mario Biani, Guille Placencia, George Privatti",
+    "isrc": "DEH741408645"
+  },
+  {
+    "title": "Condorito",
+    "artist": "Oscar Aguilera, Guille Placencia, George Privatti",
+    "isrc": "FR6V81740735"
+  },
+  {
+    "title": "Go On My Mark - Gustaff Remix",
+    "artist": "Alonso Bierg, Gustaff",
+    "isrc": "CA5KR2315126"
+  },
+  {
+    "title": "Tortuguitas - Peter Makto Remix",
+    "artist": "Lucio Agustin, Peter Makto",
+    "isrc": "US83Z2145900"
+  },
+  {
+    "title": "Awesome People - Original Mix",
+    "artist": "Caravaca",
+    "isrc": "GBSCL2335037"
+  },
+  {
+    "title": "London",
+    "artist": "Andres Blows, Van Cromore",
+    "isrc": "FR6V82271421"
+  },
+  {
+    "title": "Me Gustas Cuando Callas - Pablo Neruda Vocal Mix",
+    "artist": "Marco Latrach",
+    "isrc": "QZ5FN2090965"
+  },
+  {
+    "title": "Smoking",
+    "artist": "Felipe Cobos",
+    "isrc": "GBKQU1762205"
+  },
+  {
+    "title": "Ayahuasca",
+    "artist": "Hauswerks, Doorly",
+    "isrc": "DEBE71700710"
+  },
+  {
+    "title": "Ponsa",
+    "artist": "Marc Maya",
+    "isrc": "QMFMF1547170"
+  },
+  {
+    "title": "Round",
+    "artist": "Bassel Darwish",
+    "isrc": "GBNUQ2300764"
+  },
+  {
+    "title": "DiscoKids - Edit",
+    "artist": "De La Swing, Baum",
+    "isrc": "FR59R1894082"
+  },
+  {
+    "title": "Wonderwoman",
+    "artist": "Guille Placencia",
+    "isrc": "TCAFQ2162284"
+  },
+  {
+    "title": "The Bug",
+    "artist": "Miguel Bastida",
+    "isrc": "GBHAD2002378"
+  },
+  {
+    "title": "Mandingueu",
+    "artist": "Hector Couto",
+    "isrc": "ES94G2221406"
+  },
+  {
+    "title": "Chiquitilla",
+    "artist": "George Privatti",
+    "isrc": "DEH742305883"
+  },
+  {
+    "title": "Dame Sombra",
+    "artist": "Angel Heredia, Ramon Bedoya",
+    "isrc": "GBSCL2400021"
+  },
+  {
+    "title": "Don't Hold Back",
+    "artist": "David Herrero",
+    "isrc": "ES7842130004"
+  },
+  {
+    "title": "Again",
+    "artist": "Oscar L",
+    "isrc": "GBUR62000686"
+  },
+  {
+    "title": "Skum",
+    "artist": "Rafa Barrios",
+    "isrc": "GBJAJ2200002"
+  },
+  {
+    "title": "Pay For The Acid",
+    "artist": "Alvaro AM",
+    "isrc": "GBLV62316580"
+  },
+  {
+    "title": "Lolly",
+    "artist": "Harvy Valencia, Mrodriguez",
+    "isrc": "QM7282371305"
+  },
+  {
+    "title": "Alright - Edit",
+    "artist": "Joe Red, Sp1DeR",
+    "isrc": "ITKG01900120"
+  },
+  {
+    "title": "Juicy Lips - KristoFurr Remix",
+    "artist": "Piem, Richard Ulh, KristoFurr",
+    "isrc": "GBHAD2102574"
+  },
+  {
+    "title": "Wavy Distance - Paco Osuna Remix",
+    "artist": "Cuartero, Paco Osuna",
+    "isrc": "GBKQU1634984"
+  },
+  {
+    "title": "Tired Of Loving",
+    "artist": "Jay de Lys",
+    "isrc": "GBK6Y2303401"
+  },
+  {
+    "title": "The Prophet - Andrew Meller Remix",
+    "artist": "Chus & Ceballos, Supernova, Andrew Meller",
+    "isrc": "ES7842028533"
+  },
+  {
+    "title": "Mueve la Chapa - KD One Original Mix",
+    "artist": "Julian Collazos",
+    "isrc": "CA5KR2262417"
+  },
+  {
+    "title": "Meloso",
+    "artist": "Jholeyson",
+    "isrc": "GBLV62005897"
+  },
+  {
+    "title": "What Are We Doing",
+    "artist": "Bizen Lopez",
+    "isrc": "GBKQU2167235"
+  },
+  {
+    "title": "Gossip Drama - Lexlay Remix",
+    "artist": "Andre Butano, Lexlay",
+    "isrc": "GB9GW1249500"
+  },
+  {
+    "title": "What U Doing",
+    "artist": "Dennis Cruz, Leo Wood",
+    "isrc": "GB7NR2126101"
+  },
+  {
+    "title": "Voices - Extended Mix",
+    "artist": "Fhaken, Yo Land",
+    "isrc": "GBPQS2000158"
+  },
+  {
+    "title": "Always Around - Chelina Manuhutu Remix",
+    "artist": "Francisco Allendes, Chelina Manuhutu",
+    "isrc": "ES94G2119905"
+  },
+  {
+    "title": "Work That - De la Swing & Rendher Remix",
+    "artist": "Miguel Lobo, Mene, De La Swing, Rendher",
+    "isrc": "ES94G2017705"
+  },
+  {
+    "title": "Boty Booty",
+    "artist": "Cele",
+    "isrc": "CA5KR2142592"
+  },
+  {
+    "title": "Phonky",
+    "artist": "CAAL, Rendher",
+    "isrc": "ES94G1918304"
+  },
+  {
+    "title": "Morena",
+    "artist": "Coyu, Edu Imbernon",
+    "isrc": "DEDH70900021"
+  },
+  {
+    "title": "I Can Fell - Original Mix",
+    "artist": "Mario Ochoa",
+    "isrc": "DECL81400149"
+  },
+  {
+    "title": "That Look",
+    "artist": "Dosem",
+    "isrc": "ES84B1310099"
+  },
+  {
+    "title": "Acid Party",
+    "artist": "Josu Freire",
+    "isrc": "DEH741718230"
+  }
+]

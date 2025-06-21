@@ -1,0 +1,777 @@
+[
+  {
+    "title": "6",
+    "artist": "Structures, Brendan Murphy",
+    "isrc": "TCAFO2146700"
+  },
+  {
+    "title": "Wanderlust - Instrumental",
+    "artist": "The Parallel",
+    "isrc": "QM6MZ1994964"
+  },
+  {
+    "title": "Up In Smoke",
+    "artist": "The Holly Springs Disaster",
+    "isrc": "CAU2O0500115"
+  },
+  {
+    "title": "Bound for Hell",
+    "artist": "Feels Like Home",
+    "isrc": "CAE562124601"
+  },
+  {
+    "title": "If Being Fake Was an Olympic Sport",
+    "artist": "Liferuiner",
+    "isrc": "QMVTG1100285"
+  },
+  {
+    "title": "Shy Guys",
+    "artist": "The Gorgeous",
+    "isrc": "CAD320500064"
+  },
+  {
+    "title": "Circle With Me",
+    "artist": "Spiritbox",
+    "isrc": "QMRSZ2100664"
+  },
+  {
+    "title": "Not the One",
+    "artist": "The Luminary ",
+    "isrc": "QZK6F2366574"
+  },
+  {
+    "title": "The Outsider",
+    "artist": "Horcrux",
+    "isrc": "UST8K1603026"
+  },
+  {
+    "title": "Moral",
+    "artist": "Dreamer/Deceiver",
+    "isrc": "QMMUK1400145"
+  },
+  {
+    "title": "Night Danger",
+    "artist": "Rosesdead",
+    "isrc": "CABD60600005"
+  },
+  {
+    "title": "Ghost Orchid",
+    "artist": "Earthshatter",
+    "isrc": "TCAEK1953190"
+  },
+  {
+    "title": "Hail Destroyer",
+    "artist": "Cancer Bats",
+    "isrc": "CAD320800013"
+  },
+  {
+    "title": "The Surge",
+    "artist": "Ion Dissonance",
+    "isrc": "US4E20700544"
+  },
+  {
+    "title": "Introspection",
+    "artist": "Through Lucid Eyes",
+    "isrc": "US7NV1600145"
+  },
+  {
+    "title": "Heartless",
+    "artist": "As The Structure Fails",
+    "isrc": "TCAGF2264156"
+  },
+  {
+    "title": "Through My Eyes",
+    "artist": "Threat Signal",
+    "isrc": "DED830900396"
+  },
+  {
+    "title": "The Call",
+    "artist": "Becoming The Bully",
+    "isrc": "QZFZ22272736"
+  },
+  {
+    "title": "Quasar",
+    "artist": "Beheading Of A King",
+    "isrc": "US9ZB1100021"
+  },
+  {
+    "title": "End Of The Road",
+    "artist": "Arise And Ruin",
+    "isrc": "USVIC0739003"
+  },
+  {
+    "title": "Sound Minds",
+    "artist": "Farewell To Freeway",
+    "isrc": "USVIC0841601"
+  },
+  {
+    "title": "Tidebringer",
+    "artist": "Shark Infested Daughters",
+    "isrc": "ushm81626615"
+  },
+  {
+    "title": "To the Part of Me I'm Missing",
+    "artist": "Lungless",
+    "isrc": "TCACY1785025"
+  },
+  {
+    "title": "Abandoned",
+    "artist": "In Disarray",
+    "isrc": "QZNWZ2100583"
+  },
+  {
+    "title": "Offended",
+    "artist": "Death Note Silence",
+    "isrc": "QZMEN2355624"
+  },
+  {
+    "title": "Crossroads",
+    "artist": "Behind the Revolver",
+    "isrc": "ushm91722604"
+  },
+  {
+    "title": "Sprain",
+    "artist": "Anniversary",
+    "isrc": "CAI370576193"
+  },
+  {
+    "title": "Bloodrush",
+    "artist": "Gutter King",
+    "isrc": "QZDA82337184"
+  },
+  {
+    "title": "Sacrifice to Purify",
+    "artist": "Exalt",
+    "isrc": "CADE71600080"
+  },
+  {
+    "title": "Hollow",
+    "artist": "A Particle Apart",
+    "isrc": "QZES62168208"
+  },
+  {
+    "title": "Epitaph",
+    "artist": "Throne to the Wolves",
+    "isrc": "QZK6G2303487"
+  },
+  {
+    "title": "Practice What You Preach",
+    "artist": "Eternal Closure",
+    "isrc": "QZHNC2226690"
+  },
+  {
+    "title": "OCTANE",
+    "artist": "Nik Nocturnal, Bad Wolves",
+    "isrc": "QZES52440086"
+  },
+  {
+    "title": "Fractional",
+    "artist": "Hundred Suns",
+    "isrc": "CADE71700408"
+  },
+  {
+    "title": "Fade Away",
+    "artist": "Serration",
+    "isrc": "usl4q1862425"
+  },
+  {
+    "title": "Body And Blood",
+    "artist": "A Perfect Murder",
+    "isrc": "USVIC0526107"
+  },
+  {
+    "title": "Take One Last Breath",
+    "artist": "Abandon All Ships",
+    "isrc": "CAU2O1010217"
+  },
+  {
+    "title": "Champagne Showers",
+    "artist": "Skip The Foreplay",
+    "isrc": "USEP41136013"
+  },
+  {
+    "title": "Maniacal Laugh",
+    "artist": "Lost Light",
+    "isrc": "QZDA81863620"
+  },
+  {
+    "title": "Run Away",
+    "artist": "For a Life Unburdened",
+    "isrc": "QZDA61817576"
+  },
+  {
+    "title": "Naked Truth",
+    "artist": "FALSET",
+    "isrc": "QM6P42348680"
+  },
+  {
+    "title": "Encased In Crystalline",
+    "artist": "A Mourning Star",
+    "isrc": "QZQAY2305226"
+  },
+  {
+    "title": "Hollow Heart",
+    "artist": "Widmore",
+    "isrc": "TCADU1857673"
+  },
+  {
+    "title": "Take Me to Church",
+    "artist": "The Agonist",
+    "isrc": "ATN261668314"
+  },
+  {
+    "title": "Languish",
+    "artist": "Southpaw",
+    "isrc": "TCADN1866154"
+  },
+  {
+    "title": "Dying to Live",
+    "artist": "Inherent",
+    "isrc": "QZES71888679"
+  },
+  {
+    "title": "Aperture",
+    "artist": "Amongst Heroes",
+    "isrc": "uscgh1631517"
+  },
+  {
+    "title": "Aura",
+    "artist": "ONI, Howard Jones, Josh Gilbert",
+    "isrc": "DGA062370205"
+  },
+  {
+    "title": "Meathook",
+    "artist": "Andrew Baena, Cooper Lagace",
+    "isrc": "QZES52180000"
+  },
+  {
+    "title": "The Collapse",
+    "artist": "Forward Unto Dawn",
+    "isrc": "QM9AA1498993"
+  },
+  {
+    "title": "Gardens",
+    "artist": "Dawn Vally",
+    "isrc": "CAI372200434"
+  },
+  {
+    "title": "People = Shit",
+    "artist": "Bastian",
+    "isrc": "QZHN82036327"
+  },
+  {
+    "title": "Empath",
+    "artist": "Fayne",
+    "isrc": "CAPU21800301"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Out of the Ruins",
+    "isrc": "CAEVC1700002"
+  },
+  {
+    "title": "Post Mortem",
+    "artist": "Cadence Calling",
+    "isrc": "USQY51501740"
+  },
+  {
+    "title": "The Worst in Us",
+    "artist": "Suicide for a King",
+    "isrc": "CAJXG2100009"
+  },
+  {
+    "title": "Survive",
+    "artist": "Of Temples",
+    "isrc": "TCABU1433493"
+  },
+  {
+    "title": "Time As Ideology",
+    "artist": "Buried Inside",
+    "isrc": "US2640562902"
+  },
+  {
+    "title": "Inverter",
+    "artist": "Collections",
+    "isrc": "CAFH71300003"
+  },
+  {
+    "title": "Faces & Words",
+    "artist": "Cult Divide",
+    "isrc": "QZANL1746880"
+  },
+  {
+    "title": "Brave",
+    "artist": "Dorian Gray, Jonny Craig",
+    "isrc": "ushm22267579"
+  },
+  {
+    "title": "Bon Appetit",
+    "artist": "Fathom Ties",
+    "isrc": "usx9p0982707"
+  },
+  {
+    "title": "Broken World",
+    "artist": "Find the Missing Word",
+    "isrc": "QZARB1863537"
+  },
+  {
+    "title": "These Ghosts",
+    "artist": "Forever Frost",
+    "isrc": "ushm21780783"
+  },
+  {
+    "title": "Serenade",
+    "artist": "Halfway Through Hell",
+    "isrc": "QZDA82013442"
+  },
+  {
+    "title": "Static",
+    "artist": "Held in Secret",
+    "isrc": "QZFZ72023945"
+  },
+  {
+    "title": "War Of Angels",
+    "artist": "Hopeless Nation",
+    "isrc": "ushm20955592"
+  },
+  {
+    "title": "What Is Waiting",
+    "artist": "Instilled in Me",
+    "isrc": "QZHN91979316"
+  },
+  {
+    "title": "Vultures",
+    "artist": "My Hollow",
+    "isrc": "CAQNJ2100001"
+  },
+  {
+    "title": "Leviathan",
+    "artist": "Ninth Line",
+    "isrc": "QZHNC2265325"
+  },
+  {
+    "title": "Galaxies",
+    "artist": "NorthShorehc",
+    "isrc": "QZDA41892319"
+  },
+  {
+    "title": "Perception",
+    "artist": "Pandora's Wake",
+    "isrc": "ushm81270882"
+  },
+  {
+    "title": "Salem",
+    "artist": "Past the Verge",
+    "isrc": "QZANL1715273"
+  },
+  {
+    "title": "Good Nightmares, Sweet Betty (feat. Negate Life)",
+    "artist": "Sink, Negate Life",
+    "isrc": "uscgj1974373"
+  },
+  {
+    "title": "Last Call",
+    "artist": "Straight Reads The Line",
+    "isrc": "CAD320800069"
+  },
+  {
+    "title": "She Burst Into Snakes",
+    "artist": "Witch of the Waste",
+    "isrc": "TCACG1505499"
+  },
+  {
+    "title": "Our Revolution",
+    "artist": "Within Shadows, Oshie Bichar",
+    "isrc": "QZFYY1968806"
+  },
+  {
+    "title": "Planet of Garbage",
+    "artist": "Structures",
+    "isrc": "TCAFO2146692"
+  },
+  {
+    "title": "Gloom - Instrumental",
+    "artist": "The Parallel",
+    "isrc": "QM6MZ1994958"
+  },
+  {
+    "title": "My Pet Monster",
+    "artist": "The Holly Springs Disaster",
+    "isrc": "CAU2O0500118"
+  },
+  {
+    "title": "Wildfire",
+    "artist": "Feels Like Home",
+    "isrc": "CAE562124606"
+  },
+  {
+    "title": "S.O.S.E.",
+    "artist": "Liferuiner",
+    "isrc": "TCABL1234546"
+  },
+  {
+    "title": "Lake Ontario",
+    "artist": "The Gorgeous",
+    "isrc": "CAD320500063"
+  },
+  {
+    "title": "Dead Space",
+    "artist": "The Luminary ",
+    "isrc": "QZHNB2307533"
+  },
+  {
+    "title": "Jaded",
+    "artist": "Spiritbox",
+    "isrc": "QMRSZ2301310"
+  },
+  {
+    "title": "Resilient",
+    "artist": "Horcrux",
+    "isrc": "QZ4JJ1626517"
+  },
+  {
+    "title": "Ascendance",
+    "artist": "Dreamer/Deceiver",
+    "isrc": "QMMUK1400149"
+  },
+  {
+    "title": "Falling And Falling",
+    "artist": "Rosesdead",
+    "isrc": "CABD60600004"
+  },
+  {
+    "title": "W.T.M.",
+    "artist": "Earthshatter",
+    "isrc": "QZHN61932068"
+  },
+  {
+    "title": "Sabotage",
+    "artist": "Cancer Bats",
+    "isrc": "CAD321000014"
+  },
+  {
+    "title": "Kneel",
+    "artist": "Ion Dissonance",
+    "isrc": "US4E20700546"
+  },
+  {
+    "title": "Celestial (feat. Jesse Cash)",
+    "artist": "Through Lucid Eyes, Jesse Cash",
+    "isrc": "TCABY1426836"
+  },
+  {
+    "title": "In Vain",
+    "artist": "As The Structure Fails",
+    "isrc": "TCAHK2321346"
+  },
+  {
+    "title": "A New Beginning",
+    "artist": "Threat Signal",
+    "isrc": "DED830691805"
+  },
+  {
+    "title": "Pillars",
+    "artist": "Becoming The Bully",
+    "isrc": "CAGNF2010001"
+  },
+  {
+    "title": "Reclaim This Gold",
+    "artist": "Beheading Of A King",
+    "isrc": "US9ZB1100024"
+  },
+  {
+    "title": "Bound By Blood",
+    "artist": "Arise And Ruin",
+    "isrc": "USVIC0739001"
+  },
+  {
+    "title": "No Fate, No End",
+    "artist": "Farewell To Freeway",
+    "isrc": "USVIC0949601"
+  },
+  {
+    "title": "Cetra",
+    "artist": "Shark Infested Daughters, Frankie Palmeri",
+    "isrc": "uscgj1881172"
+  },
+  {
+    "title": "Lush",
+    "artist": "Lungless",
+    "isrc": "TCACD1531975"
+  },
+  {
+    "title": "Damned Soul",
+    "artist": "In Disarray",
+    "isrc": "QZHN51992695"
+  },
+  {
+    "title": "Deadwalker",
+    "artist": "Death Note Silence",
+    "isrc": "QZMEN2355631"
+  },
+  {
+    "title": "Sunken Eyes",
+    "artist": "Behind the Revolver",
+    "isrc": "ushm91722602"
+  },
+  {
+    "title": "Black Hole Therapy",
+    "artist": "Anniversary",
+    "isrc": "CAI370576185"
+  },
+  {
+    "title": "Feather",
+    "artist": "Gutter King",
+    "isrc": "QZK6P1920968"
+  },
+  {
+    "title": "Death Is a Road",
+    "artist": "Exalt",
+    "isrc": "CADE70902565"
+  },
+  {
+    "title": "Vital Existence",
+    "artist": "A Particle Apart",
+    "isrc": "QMPKX1802662"
+  },
+  {
+    "title": "Unbreakable",
+    "artist": "Throne to the Wolves",
+    "isrc": "usl4r1931184"
+  },
+  {
+    "title": "Defying Gravity",
+    "artist": "Eternal Closure",
+    "isrc": "QMEU31908983"
+  },
+  {
+    "title": "Last Apology",
+    "artist": "Hundred Suns",
+    "isrc": "CADE71700406"
+  },
+  {
+    "title": "Obscurity",
+    "artist": "Nik Nocturnal, Alex Terrible",
+    "isrc": "QZTAU2374738"
+  },
+  {
+    "title": "A Suicide Note in Midi Format",
+    "artist": "Serration, Emma Boster",
+    "isrc": "QZQAY2306235"
+  },
+  {
+    "title": "Time Bomb",
+    "artist": "A Perfect Murder",
+    "isrc": "USVIC0421703"
+  },
+  {
+    "title": "Guardian Angel",
+    "artist": "Abandon All Ships",
+    "isrc": "CAU2O1010227"
+  },
+  {
+    "title": "DJ",
+    "artist": "Skip The Foreplay",
+    "isrc": "USEP41136002"
+  },
+  {
+    "title": "The Grime",
+    "artist": "Lost Light",
+    "isrc": "QZDA81863615"
+  },
+  {
+    "title": "Clarity",
+    "artist": "For a Life Unburdened",
+    "isrc": "QZDA61817584"
+  },
+  {
+    "title": "Kingdom",
+    "artist": "FALSET",
+    "isrc": "QZK6M2061785"
+  },
+  {
+    "title": "Would It Be Easier If My Flesh Tangled Through This Blade",
+    "artist": "A Mourning Star",
+    "isrc": "QZQAY2359540"
+  },
+  {
+    "title": "If We Can't Live Together, We're Going to Die Alone V.1",
+    "artist": "Widmore",
+    "isrc": "TCAET2038230"
+  },
+  {
+    "title": "Thank You, Pain",
+    "artist": "The Agonist",
+    "isrc": "US4E40949703"
+  },
+  {
+    "title": "Baphomet",
+    "artist": "Southpaw",
+    "isrc": "TCACY1786927"
+  },
+  {
+    "title": "Deceiver",
+    "artist": "Inherent",
+    "isrc": "QZES71888682"
+  },
+  {
+    "title": "Glow",
+    "artist": "Amongst Heroes",
+    "isrc": "ushm81510519"
+  },
+  {
+    "title": "Spark",
+    "artist": "ONI, Sueco",
+    "isrc": "DGA062370202"
+  },
+  {
+    "title": "The Super Gore Nest",
+    "artist": "Andrew Baena, Cooper Lagace",
+    "isrc": "QZNWQ2015204"
+  },
+  {
+    "title": "Transcendency",
+    "artist": "Forward Unto Dawn",
+    "isrc": "QM9AA1498992"
+  },
+  {
+    "title": "Diluted",
+    "artist": "Dawn Vally",
+    "isrc": "CAI371680264"
+  },
+  {
+    "title": "A Story Worth Telling",
+    "artist": "Bastian",
+    "isrc": "QZ8LD1910055"
+  },
+  {
+    "title": "Atlas[t]",
+    "artist": "Structures",
+    "isrc": "USYFZ1110401"
+  },
+  {
+    "title": "Who I've Become",
+    "artist": "The Parallel",
+    "isrc": "QZDA52019455"
+  },
+  {
+    "title": "I Feel Like I'm Taking Crazy Pills",
+    "artist": "The Holly Springs Disaster",
+    "isrc": "CAU2O0500116"
+  },
+  {
+    "title": "Inner Demon",
+    "artist": "Feels Like Home",
+    "isrc": "USHM21978065"
+  },
+  {
+    "title": "1990",
+    "artist": "Liferuiner",
+    "isrc": "TCABL1234549"
+  },
+  {
+    "title": "King Of The Delta Blues",
+    "artist": "The Gorgeous",
+    "isrc": "CAD320500066"
+  },
+  {
+    "title": "Divergence",
+    "artist": "The Luminary ",
+    "isrc": "QZK6F2366571"
+  },
+  {
+    "title": "This Is Halloween (Reimagined)",
+    "artist": "Horcrux",
+    "isrc": "UST8K1892919"
+  },
+  {
+    "title": "The Void",
+    "artist": "Spiritbox",
+    "isrc": "QMRSZ2300544"
+  },
+  {
+    "title": "Residual",
+    "artist": "Dreamer/Deceiver",
+    "isrc": "QMMUK1400147"
+  },
+  {
+    "title": "A Wake In The Water",
+    "artist": "Rosesdead",
+    "isrc": "CABD60600003"
+  },
+  {
+    "title": "Spit",
+    "artist": "Earthshatter",
+    "isrc": "QZHN81992314"
+  },
+  {
+    "title": "Lucifer's Rocking Chair",
+    "artist": "Cancer Bats",
+    "isrc": "CAD320800019"
+  },
+  {
+    "title": "Play Dead... And I'll Play Along",
+    "artist": "Ion Dissonance",
+    "isrc": "SE6TI2399766"
+  },
+  {
+    "title": "Fleeting Moments",
+    "artist": "Through Lucid Eyes",
+    "isrc": "US7NV1600142"
+  },
+  {
+    "title": "All the Weight",
+    "artist": "As The Structure Fails",
+    "isrc": "TCAGH2227420"
+  },
+  {
+    "title": "Rational Eyes",
+    "artist": "Threat Signal",
+    "isrc": "DED830691803"
+  },
+  {
+    "title": "New Hopes",
+    "artist": "Becoming The Bully, Upon A Burning Body",
+    "isrc": "QZFYY2318991"
+  },
+  {
+    "title": "Bible Crumbles",
+    "artist": "Beheading Of A King",
+    "isrc": "US9ZB1100022"
+  },
+  {
+    "title": "In Life",
+    "artist": "Arise And Ruin",
+    "isrc": "USVIC0739009"
+  },
+  {
+    "title": "Smoke Signals",
+    "artist": "Farewell To Freeway",
+    "isrc": "USVIC0949603"
+  },
+  {
+    "title": "Glass Kingdom",
+    "artist": "Shark Infested Daughters",
+    "isrc": "ushm81626616"
+  },
+  {
+    "title": "Ark",
+    "artist": "Lungless",
+    "isrc": "TCACM1617858"
+  },
+  {
+    "title": "Illuminator",
+    "artist": "In Disarray, Brand of Sacrifice",
+    "isrc": "QZHN72236773"
+  },
+  {
+    "title": "Boomer",
+    "artist": "Death Note Silence",
+    "isrc": "QZMEN2355627"
+  },
+  {
+    "title": "Disheartened",
+    "artist": "Behind the Revolver",
+    "isrc": "uscgh1612461"
+  }
+]

@@ -1,0 +1,847 @@
+[
+  {
+    "title": "Boomerang",
+    "artist": "Dero Vibez",
+    "isrc": "TCAGE2258190"
+  },
+  {
+    "title": "Sky",
+    "artist": "Achero",
+    "isrc": "PTUM72100482"
+  },
+  {
+    "title": "Vidro",
+    "artist": "Chippie",
+    "isrc": "ES71G2141992"
+  },
+  {
+    "title": "Amanhã Não Sei",
+    "artist": "Fínix MG",
+    "isrc": "PTBM11900172"
+  },
+  {
+    "title": "Andalé",
+    "artist": "Minguito 283",
+    "isrc": "PT6IB2100025"
+  },
+  {
+    "title": "Fato treino do City",
+    "artist": "Sippinpurpp",
+    "isrc": "PTBM12200012"
+  },
+  {
+    "title": "São Paulo",
+    "artist": "Yuri NR5",
+    "isrc": "PT2HG2000011"
+  },
+  {
+    "title": "spaceship (feat. Yuri NR5)",
+    "artist": "prettieboy johnson, Yuri NR5",
+    "isrc": "PT9IJ2000005"
+  },
+  {
+    "title": "Do Tipo",
+    "artist": "Ali Badd, Shanty Rose",
+    "isrc": "QZDA61925249"
+  },
+  {
+    "title": "Navegar",
+    "artist": "Lutz",
+    "isrc": "QZDA81995544"
+  },
+  {
+    "title": "DRUGDEALER",
+    "artist": "PNG, bapcat, CVOS",
+    "isrc": "QZNWQ2027900"
+  },
+  {
+    "title": "Pokémon",
+    "artist": "Mad 283",
+    "isrc": "ES71G2049002"
+  },
+  {
+    "title": "Digo Nada",
+    "artist": "$heka",
+    "isrc": "QZDA42023991"
+  },
+  {
+    "title": "Tsubasa",
+    "artist": "YUZI",
+    "isrc": "PT5HL1800005"
+  },
+  {
+    "title": "Priceless",
+    "artist": "Instinto 26, Ivandro, Trista, Kibow, Julinho Ksd, Yuran",
+    "isrc": "PT8IR2400005"
+  },
+  {
+    "title": "Saber de Mim",
+    "artist": "Amaro, SPLIFF, Zeca",
+    "isrc": "ushm21980878"
+  },
+  {
+    "title": "Miúda",
+    "artist": "Holly Hood",
+    "isrc": "PT4GT1700004"
+  },
+  {
+    "title": "Maria",
+    "artist": "Palazzi",
+    "isrc": "ES71G2103874"
+  },
+  {
+    "title": "#Evolução",
+    "artist": "YVNG CIRIUS",
+    "isrc": "QZ4JJ1822691"
+  },
+  {
+    "title": "Honesto (Faroeste)",
+    "artist": "Holympo, BELLA SAINT",
+    "isrc": "PT0KG2400002"
+  },
+  {
+    "title": "À Nossa",
+    "artist": "Double Trouble, Tiwi",
+    "isrc": "ES71G1938119"
+  },
+  {
+    "title": "Maze Runnerz",
+    "artist": "Hevvy x Fukk",
+    "isrc": "QZFZ32492634"
+  },
+  {
+    "title": "100 Barras",
+    "artist": "Zara G",
+    "isrc": "PT2DY2400026"
+  },
+  {
+    "title": "Malibu",
+    "artist": "Yung SpaceGhost",
+    "isrc": "QZDA72041699"
+  },
+  {
+    "title": "Filho da Guida",
+    "artist": "9 Miller",
+    "isrc": "QM4TX1788988"
+  },
+  {
+    "title": "Eu Sei",
+    "artist": "Lil Mapz, BCKappa, Progvid",
+    "isrc": "ES71G2140273"
+  },
+  {
+    "title": "CABARET",
+    "artist": "ProfJam",
+    "isrc": "PTUM72200267"
+  },
+  {
+    "title": "Bébi",
+    "artist": "Valdir",
+    "isrc": "GBMJG1905785"
+  },
+  {
+    "title": "Páginas",
+    "artist": "Timor YSF",
+    "isrc": "PTBM12300176"
+  },
+  {
+    "title": "UH LA LA LA",
+    "artist": "LON3R JOHNY, Plutonio",
+    "isrc": "PT6HL2300009"
+  },
+  {
+    "title": "Vencedor",
+    "artist": "Phoenix Rdc",
+    "isrc": "QM4TW1943831"
+  },
+  {
+    "title": "Dr. Bayard",
+    "artist": "Mike El Nite, Fínix MG, Sippinpurpp",
+    "isrc": "PT2HE1800001"
+  },
+  {
+    "title": "Man What",
+    "artist": "Young",
+    "isrc": "QZTB52301880"
+  },
+  {
+    "title": "Caminho",
+    "artist": "Pika",
+    "isrc": "PTBM12000121"
+  },
+  {
+    "title": "Plenitude",
+    "artist": "L-ALI",
+    "isrc": "PT3HV2000006"
+  },
+  {
+    "title": "Nike",
+    "artist": "bapcat, PNG",
+    "isrc": "QZDA62085781"
+  },
+  {
+    "title": "Plugg (Freestyle)",
+    "artist": "sora9k, eddy0",
+    "isrc": "QZHZ51929537"
+  },
+  {
+    "title": "Desarrumo",
+    "artist": "Gangarve, Páchá, PACHICO, Uzzy, Baqui",
+    "isrc": "USCGJ2471219"
+  },
+  {
+    "title": "Ultima Deixa",
+    "artist": "HERE´S JOHNNY, Gson",
+    "isrc": "QM6MZ1765152"
+  },
+  {
+    "title": "Copo de Vinho",
+    "artist": "Salazarious",
+    "isrc": "TCAFB2011306"
+  },
+  {
+    "title": "chrome heart",
+    "artist": "Rafaell Dior",
+    "isrc": "QZK6M2436011"
+  },
+  {
+    "title": "Por Onde Eu Vou",
+    "artist": "Jackpot BCV, NTS, Jacinto Coelho",
+    "isrc": "TCAFG2087448"
+  },
+  {
+    "title": "Miúda",
+    "artist": "BCKappa",
+    "isrc": "ES71G1931492"
+  },
+  {
+    "title": "Cash",
+    "artist": "Catarina H",
+    "isrc": "QZHN42064646"
+  },
+  {
+    "title": "Copos No Radar",
+    "artist": "Lil Ameal, Sobras",
+    "isrc": "QZK6F2038302"
+  },
+  {
+    "title": "Not That Deep",
+    "artist": "Tixa",
+    "isrc": "PTBM12400022"
+  },
+  {
+    "title": "Cima Favela",
+    "artist": "Nicholas",
+    "isrc": "PT2DY2300476"
+  },
+  {
+    "title": "Rapazes",
+    "artist": "SKURTY, Mikez, Vlone975",
+    "isrc": "QZHNB2075605"
+  },
+  {
+    "title": "CARA TAPADA",
+    "artist": "clxro",
+    "isrc": "QZWFJ2355725"
+  },
+  {
+    "title": "4:15",
+    "artist": "Rogg, Waze",
+    "isrc": "PTVI12200075"
+  },
+  {
+    "title": "MOOD",
+    "artist": "Baqui",
+    "isrc": "PT7ED2000138"
+  },
+  {
+    "title": "Top Boy",
+    "artist": "RGZUS",
+    "isrc": "ES71G2014318"
+  },
+  {
+    "title": "Bairro",
+    "artist": "Wet Bed Gang",
+    "isrc": "ES71G1912856"
+  },
+  {
+    "title": "Phone",
+    "artist": "Lil Noon, tripsyhell",
+    "isrc": "QZFZ72083914"
+  },
+  {
+    "title": "HEART (feat. Chico da Tina)",
+    "artist": "tripsyhell, Chico da Tina",
+    "isrc": "PT1JV2000001"
+  },
+  {
+    "title": "Mr. Lean",
+    "artist": "Ice Burz",
+    "isrc": "QZTAS2337453"
+  },
+  {
+    "title": "Pensa Bem",
+    "artist": "TAY, Dylan",
+    "isrc": "ES71G1913438"
+  },
+  {
+    "title": "All Night",
+    "artist": "mishlawi",
+    "isrc": "PT9GC1800001"
+  },
+  {
+    "title": "TA TUDO BEM",
+    "artist": "T-Rex",
+    "isrc": "PT2JP2300028"
+  },
+  {
+    "title": "Paycheck",
+    "artist": "XIV, Plutonio",
+    "isrc": "PT2HG2000001"
+  },
+  {
+    "title": "Bússola",
+    "artist": "Nenny",
+    "isrc": "TCAEI1935476"
+  },
+  {
+    "title": "Chamadas",
+    "artist": "Ivandro, Van Zee",
+    "isrc": "PT7RR2300006"
+  },
+  {
+    "title": "Nuvem",
+    "artist": "Mafia73",
+    "isrc": "PTUM72100483"
+  },
+  {
+    "title": "Culturista",
+    "artist": "Kenny Berg, Chico da Tina",
+    "isrc": "QZFZ62064191"
+  },
+  {
+    "title": "Diamante",
+    "artist": "N Fly, GNTK",
+    "isrc": "USHM92221524"
+  },
+  {
+    "title": "O Meu People Ri-se",
+    "artist": "No Money",
+    "isrc": "PT3HV1900003"
+  },
+  {
+    "title": "Nunca ´Tou Solo",
+    "artist": "BIYA, T-Rex",
+    "isrc": "PT9IP2000014"
+  },
+  {
+    "title": "Back Again",
+    "artist": "Kombat, 9 Miller",
+    "isrc": "ES71G1910615"
+  },
+  {
+    "title": "Freaky",
+    "artist": "WINDOH",
+    "isrc": "ES71G2049295"
+  },
+  {
+    "title": "Faz Bem",
+    "artist": "Bluay, Julinho Ksd",
+    "isrc": "PTUM72400003"
+  },
+  {
+    "title": "Berço",
+    "artist": "Baby Creezy, Yunk Vino",
+    "isrc": "QZRP52223068"
+  },
+  {
+    "title": "AINDA TOU AQUI",
+    "artist": "F.Milly",
+    "isrc": "QZFZ21954851"
+  },
+  {
+    "title": "ÑQ+",
+    "artist": "xtussy",
+    "isrc": "QZFYW1920413"
+  },
+  {
+    "title": "Abre a Porta, Pt. 1",
+    "artist": "AutoTuna",
+    "isrc": "QZHN92080415"
+  },
+  {
+    "title": "Balenciaga",
+    "artist": "Yung Delcio, Mota JR",
+    "isrc": "TCAFH2081503"
+  },
+  {
+    "title": "Não Confio Em Ninguém",
+    "artist": "Jair Mc",
+    "isrc": "QM4TW1924593"
+  },
+  {
+    "title": "Doraemon",
+    "artist": "Cabana, Balrook",
+    "isrc": "QZK6L2059765"
+  },
+  {
+    "title": "Kauza Txeu Danu",
+    "artist": "Redsquad",
+    "isrc": "TCADT1882955"
+  },
+  {
+    "title": "Canuka",
+    "artist": "Ghost Gang",
+    "isrc": "QZ4JJ1903543"
+  },
+  {
+    "title": "8 ou 80",
+    "artist": "Stayreal",
+    "isrc": "ushm91966908"
+  },
+  {
+    "title": "Pronto",
+    "artist": "Game49",
+    "isrc": "TCADY1827672"
+  },
+  {
+    "title": "New Bandz",
+    "artist": "Lil Reed",
+    "isrc": "QZFZ52168383"
+  },
+  {
+    "title": "Minha Avó",
+    "artist": "Tripsy Hell, Cheka",
+    "isrc": "QZGLM1945481"
+  },
+  {
+    "title": "Não Sabem Como Dói",
+    "artist": "iFF",
+    "isrc": "SE6HN2201337"
+  },
+  {
+    "title": "Karma",
+    "artist": "Dero Vibez",
+    "isrc": "TCAGF2241656"
+  },
+  {
+    "title": "Zero Sentimentos",
+    "artist": "Achero",
+    "isrc": "PT2DY2400241"
+  },
+  {
+    "title": "Fuck Essa B4tch",
+    "artist": "Chippie",
+    "isrc": "QM7281918098"
+  },
+  {
+    "title": "Awesome.",
+    "artist": "Fínix MG",
+    "isrc": "PT8HL1800006"
+  },
+  {
+    "title": "Bonnie & Clyde",
+    "artist": "Minguito 283",
+    "isrc": "PT6IB2100005"
+  },
+  {
+    "title": "Sauce",
+    "artist": "Sippinpurpp",
+    "isrc": "PT7HL1800002"
+  },
+  {
+    "title": "bonnie & clyde",
+    "artist": "prettieboy johnson",
+    "isrc": "PT9IJ1900003"
+  },
+  {
+    "title": "Diva",
+    "artist": "Yuri NR5",
+    "isrc": "PT2HG2200005"
+  },
+  {
+    "title": "Mexico 2",
+    "artist": "Ali Badd",
+    "isrc": "QZFYX1956909"
+  },
+  {
+    "title": "Hope",
+    "artist": "Lutz",
+    "isrc": "QZK6K2023114"
+  },
+  {
+    "title": "Fashion Week",
+    "artist": "PNG, bapcat",
+    "isrc": "QZNWQ2027899"
+  },
+  {
+    "title": "ONE",
+    "artist": "Mad 283",
+    "isrc": "ES71G1933860"
+  },
+  {
+    "title": "Focus",
+    "artist": "$heka",
+    "isrc": "QZMER2103650"
+  },
+  {
+    "title": "Capaz",
+    "artist": "YUZI",
+    "isrc": "ES71G2011845"
+  },
+  {
+    "title": "Missão",
+    "artist": "Amaro, Kappa Jotta",
+    "isrc": "PT4IJ2100011"
+  },
+  {
+    "title": "Bandidas",
+    "artist": "Instinto 26, Julinho Ksd, Kibow, Yuran, Trista",
+    "isrc": "PT8IR2100001"
+  },
+  {
+    "title": "Fácil",
+    "artist": "Holly Hood",
+    "isrc": "QMFMF1557113"
+  },
+  {
+    "title": "Ghost Town",
+    "artist": "Palazzi",
+    "isrc": "ES71G2219559"
+  },
+  {
+    "title": "Bad Riri",
+    "artist": "YVNG CIRIUS",
+    "isrc": "TCAIE2400951"
+  },
+  {
+    "title": "Taking Over",
+    "artist": "Holympo",
+    "isrc": "PT0KG2300027"
+  },
+  {
+    "title": "Ver Navios",
+    "artist": "Double Trouble, Alley",
+    "isrc": "ES71G1866285"
+  },
+  {
+    "title": "IAmLegend",
+    "artist": "Hevvy x Fukk",
+    "isrc": "PT2DY2300602"
+  },
+  {
+    "title": "50/50",
+    "artist": "Giovanni, Zara G",
+    "isrc": "ES71G1734970"
+  },
+  {
+    "title": "KDK",
+    "artist": "Yung SpaceGhost",
+    "isrc": "PTUM72100701"
+  },
+  {
+    "title": "De Volta (feat. Agir)",
+    "artist": "9 Miller, Agir",
+    "isrc": "PT4IA1900002"
+  },
+  {
+    "title": "Legal",
+    "artist": "Lil Mapz",
+    "isrc": "ES71G1936391"
+  },
+  {
+    "title": "Burro",
+    "artist": "Valdir",
+    "isrc": "GBMJG1911622"
+  },
+  {
+    "title": "DAKAR",
+    "artist": "ProfJam",
+    "isrc": "PT2DY2300219"
+  },
+  {
+    "title": "Fala a Verdade",
+    "artist": "Timor YSF, Piruka",
+    "isrc": "ES71G2047574"
+  },
+  {
+    "title": "PIÑA COLADA",
+    "artist": "LON3R JOHNY, Plutonio",
+    "isrc": "PT6HL2300011"
+  },
+  {
+    "title": "Mambo Nr.1",
+    "artist": "Mike El Nite, ProfJam",
+    "isrc": "QMFMF1548050"
+  },
+  {
+    "title": "Alzheimer",
+    "artist": "Phoenix Rdc, Valete, AREM",
+    "isrc": "ES71G2408180"
+  },
+  {
+    "title": "Deixa-me Ir",
+    "artist": "Young",
+    "isrc": "PTUM71900191"
+  },
+  {
+    "title": "50",
+    "artist": "Pika",
+    "isrc": "PT8JR2100001"
+  },
+  {
+    "title": "Solo",
+    "artist": "L-ALI, Lunn, João Maia Ferreira",
+    "isrc": "ES71G2323298"
+  },
+  {
+    "title": "Sprint (Vício)",
+    "artist": "bapcat, TCS",
+    "isrc": "QZFZ41946325"
+  },
+  {
+    "title": "VO$$",
+    "artist": "sora9k, tripsyhell",
+    "isrc": "SE6HN2083560"
+  },
+  {
+    "title": "Estado",
+    "artist": "Gangarve",
+    "isrc": "PT7ED1900098"
+  },
+  {
+    "title": "Cumplices",
+    "artist": "HERE´S JOHNNY",
+    "isrc": "QM4TX1789027"
+  },
+  {
+    "title": "Churrascada",
+    "artist": "Salazarious, Maik",
+    "isrc": "TCADX1806600"
+  },
+  {
+    "title": "Prada Me",
+    "artist": "Rafaell Dior",
+    "isrc": "QZDA82128353"
+  },
+  {
+    "title": "Parto tudo - 2022 Version",
+    "artist": "Jackpot BCV, Kappa Jotta",
+    "isrc": "UKXN22219766"
+  },
+  {
+    "title": "Não Dá",
+    "artist": "BCKappa",
+    "isrc": "US7VG2420940"
+  },
+  {
+    "title": "Wavy Plugg",
+    "artist": "Catarina H, eddy0",
+    "isrc": "QZDA52133727"
+  },
+  {
+    "title": "Cacetes",
+    "artist": "Lil Ameal, Sobras",
+    "isrc": "QZK6J2039809"
+  },
+  {
+    "title": "Convém",
+    "artist": "Tixa",
+    "isrc": "ES71G2012724"
+  },
+  {
+    "title": "Appointment",
+    "artist": "Nicholas",
+    "isrc": "QZPLS2014989"
+  },
+  {
+    "title": "Tudo Vai Mudar",
+    "artist": "clxro",
+    "isrc": "QZGLS2079751"
+  },
+  {
+    "title": "Moshpit",
+    "artist": "Rogg",
+    "isrc": "PT3CB2000001"
+  },
+  {
+    "title": "No teu peito",
+    "artist": "Baqui",
+    "isrc": "PT7ED2200692"
+  },
+  {
+    "title": "Sinistro",
+    "artist": "RGZUS, Mad 283",
+    "isrc": "ES71G1943894"
+  },
+  {
+    "title": "300",
+    "artist": "Wet Bed Gang",
+    "isrc": "ES71G2107088"
+  },
+  {
+    "title": "Passepartout",
+    "artist": "Lil Noon",
+    "isrc": "ES71G2229893"
+  },
+  {
+    "title": "FILHO DO YB",
+    "artist": "tripsyhell",
+    "isrc": "PT1JV2400009"
+  },
+  {
+    "title": "Fama",
+    "artist": "Ice Burz, Uzzy",
+    "isrc": "QZES81994289"
+  },
+  {
+    "title": "Não Preciso (feat. Dylan)",
+    "artist": "TAY, Dylan",
+    "isrc": "PT6IB1900001"
+  },
+  {
+    "title": "Andamento",
+    "artist": "Dero Vibez",
+    "isrc": "TCAFW2137256"
+  },
+  {
+    "title": "Na Minha",
+    "artist": "Achero",
+    "isrc": "ES71G2046475"
+  },
+  {
+    "title": "COMEBACK",
+    "artist": "Chippie",
+    "isrc": "ES71G2240348"
+  },
+  {
+    "title": "Milly Rock",
+    "artist": "Fínix MG",
+    "isrc": "PT8HL1800002"
+  },
+  {
+    "title": "WOOO (feat. Carla Prata)",
+    "artist": "Minguito 283, Carla Prata",
+    "isrc": "PT6IB2000003"
+  },
+  {
+    "title": "1000 Jogos",
+    "artist": "Sippinpurpp",
+    "isrc": "PTBM12000236"
+  },
+  {
+    "title": "stank",
+    "artist": "prettieboy johnson",
+    "isrc": "PT9IJ1900001"
+  },
+  {
+    "title": "Prazer Culinário",
+    "artist": "Yuri NR5",
+    "isrc": "QZHN31975093"
+  },
+  {
+    "title": "Bnb",
+    "artist": "Ali Badd",
+    "isrc": "QZFYY2056566"
+  },
+  {
+    "title": "Jack Daniel’s",
+    "artist": "Lutz",
+    "isrc": "PT0KV2300005"
+  },
+  {
+    "title": "Jovem E Rico",
+    "artist": "PNG",
+    "isrc": "PT2DY2200185"
+  },
+  {
+    "title": "Pada",
+    "artist": "Mad 283",
+    "isrc": "ES71G1915633"
+  },
+  {
+    "title": "Just Us",
+    "artist": "$heka",
+    "isrc": "QZMZ92068030"
+  },
+  {
+    "title": "XXX",
+    "artist": "YUZI",
+    "isrc": "PT5HL1800002"
+  },
+  {
+    "title": "Porsche",
+    "artist": "Amaro",
+    "isrc": "PT4IJ2100007"
+  },
+  {
+    "title": "Gangsta",
+    "artist": "Instinto 26, Kibow, Yuran, Trista, Julinho Ksd",
+    "isrc": "PT8IR2000005"
+  },
+  {
+    "title": "Some (feat. Gson)",
+    "artist": "Holly Hood, Gson",
+    "isrc": "PT4GT2000001"
+  },
+  {
+    "title": "Baza lá",
+    "artist": "Palazzi",
+    "isrc": "ES71G2312186"
+  },
+  {
+    "title": "Kelly",
+    "artist": "YVNG CIRIUS",
+    "isrc": "TCAHR2309789"
+  },
+  {
+    "title": "Semti",
+    "artist": "Holympo",
+    "isrc": "QZDA62096698"
+  },
+  {
+    "title": "Slow Down",
+    "artist": "Double Trouble",
+    "isrc": "ES71G1903285"
+  },
+  {
+    "title": "I Gotta Go",
+    "artist": "Hevvy x Fukk",
+    "isrc": "QZK6H2428057"
+  },
+  {
+    "title": "Oh My Freestyle",
+    "artist": "Yung SpaceGhost",
+    "isrc": "QZFZ42010434"
+  },
+  {
+    "title": "À Vontade",
+    "artist": "Zara G, Progvid",
+    "isrc": "PT2DY2300540"
+  },
+  {
+    "title": "Só Eu Sei (feat. T-Rex & Phoenix Rdc)",
+    "artist": "9 Miller, T-Rex, Phoenix Rdc",
+    "isrc": "PT4IA2000001"
+  },
+  {
+    "title": "Still Active 2",
+    "artist": "Lil Mapz",
+    "isrc": "ES71G2300437"
+  },
+  {
+    "title": "Naná",
+    "artist": "Valdir",
+    "isrc": "GBMJG1905786"
+  },
+  {
+    "title": "Mudo de Vida",
+    "artist": "Timor YSF, ProfJam",
+    "isrc": "PT8HB2100066"
+  },
+  {
+    "title": "AUTO:BOOM",
+    "artist": "ProfJam",
+    "isrc": "PT2DY2300555"
+  }
+]

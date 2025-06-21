@@ -1,0 +1,522 @@
+[
+  {
+    "title": "Чувства",
+    "artist": "Animal Jazz",
+    "isrc": "FR10S1989469"
+  },
+  {
+    "title": "Сказки",
+    "artist": "Обе-Рек",
+    "isrc": "RUB241328001"
+  },
+  {
+    "title": "А на улице - мороз…",
+    "artist": "ДМЦ",
+    "isrc": "QMPU51632928"
+  },
+  {
+    "title": "Реванш",
+    "artist": "LASCALA",
+    "isrc": "SMRUS0053368"
+  },
+  {
+    "title": "Ты или я",
+    "artist": "7раса",
+    "isrc": "RUA1D1913127"
+  },
+  {
+    "title": "Sid & Nancy",
+    "artist": "Lumen",
+    "isrc": "RUB241443301"
+  },
+  {
+    "title": "Поднимая знамя",
+    "artist": "Severny Flot",
+    "isrc": "FR10S1642991"
+  },
+  {
+    "title": "Друг",
+    "artist": "Torba-na-Kruche",
+    "isrc": "QM6P41490393"
+  },
+  {
+    "title": "Взрывая тишину",
+    "artist": "Корсика",
+    "isrc": "RUB241553001"
+  },
+  {
+    "title": "100 лет одиночества",
+    "artist": "КОПЕНGАGЕН",
+    "isrc": "RUB311700801"
+  },
+  {
+    "title": "2000 баксов",
+    "artist": "Год Змеи",
+    "isrc": "RUA1H2459299"
+  },
+  {
+    "title": "Свидетели стабильности",
+    "artist": "Dругой Ветер",
+    "isrc": "SMRUS0065038"
+  },
+  {
+    "title": "Дайте мне один патрон",
+    "artist": "Angel NeBes",
+    "isrc": "TCAEB1934827"
+  },
+  {
+    "title": "Розы в грязи",
+    "artist": "Последние Танки В Париже",
+    "isrc": "FRX452460348"
+  },
+  {
+    "title": "Зарази меня жизнью",
+    "artist": "Deform",
+    "isrc": "FR96X1502051"
+  },
+  {
+    "title": "Пшлнхй",
+    "artist": "Пионерлагерь Пыльная Радуга",
+    "isrc": "USL4Q1955055"
+  },
+  {
+    "title": "Нет героев",
+    "artist": "Sunburst",
+    "isrc": "RUA1H1519929"
+  },
+  {
+    "title": "Глава VII - Ведьмак",
+    "artist": "Сказки чёрного города",
+    "isrc": "SMRUS0043305"
+  },
+  {
+    "title": "Я буду твоим солнцем",
+    "artist": "Мёртвые Осы",
+    "isrc": "AEA0D1802487"
+  },
+  {
+    "title": "Охота на ведьм",
+    "artist": "СтимфониЯ",
+    "isrc": "SMRUS0037005"
+  },
+  {
+    "title": "Ходить По Небу",
+    "artist": "Дом Кукол",
+    "isrc": "RUA322204475"
+  },
+  {
+    "title": "Любовь",
+    "artist": "Dolphin",
+    "isrc": "QMFMG1593561"
+  },
+  {
+    "title": "Поколение z",
+    "artist": "Nogu Svelo!",
+    "isrc": "TCAGD2241211"
+  },
+  {
+    "title": "Эхо Войны",
+    "artist": "Fun Mode",
+    "isrc": "TCADQ1870140"
+  },
+  {
+    "title": "Зимнее солнце",
+    "artist": "Tequilajazzz",
+    "isrc": "USV291368988"
+  },
+  {
+    "title": "Плачь и танцуй",
+    "artist": "Ideя Fix",
+    "isrc": "DGA072154865"
+  },
+  {
+    "title": "Способные умереть",
+    "artist": "E-SEX-T",
+    "isrc": "US7VG1335433"
+  },
+  {
+    "title": "Беспонтовый пирожок",
+    "artist": "Grazhdanskaya Oborona",
+    "isrc": "FRX201724858"
+  },
+  {
+    "title": "Напишут наши имена",
+    "artist": "Neversmile",
+    "isrc": "QM4TX1940692"
+  },
+  {
+    "title": "Смерть луны",
+    "artist": "Asper X",
+    "isrc": "AEA2M2120813"
+  },
+  {
+    "title": "Выхода нет",
+    "artist": "Splean",
+    "isrc": "FR10S1838004"
+  },
+  {
+    "title": "Небо здесь",
+    "artist": "Небо Здесь",
+    "isrc": "SMRUS0045456"
+  },
+  {
+    "title": "Яды",
+    "artist": "МультFильмы",
+    "isrc": "RUA1D1805053"
+  },
+  {
+    "title": "Слов Нет",
+    "artist": "Sakura",
+    "isrc": "QM6MZ1513198"
+  },
+  {
+    "title": "Последний хит осени",
+    "artist": "3000 Миль До Рая",
+    "isrc": "QZGLS2009533"
+  },
+  {
+    "title": "Улыбайся",
+    "artist": "Дайте Два, Komsomolsk",
+    "isrc": "SMRUS0075225"
+  },
+  {
+    "title": "Мутное время",
+    "artist": "Адаптация Пчёл",
+    "isrc": "SMRUS0077341"
+  },
+  {
+    "title": "Что такое осень",
+    "artist": "ДДТ",
+    "isrc": "RUB311101607"
+  },
+  {
+    "title": "Пётр",
+    "artist": "Химера",
+    "isrc": "QZHZ32089814"
+  },
+  {
+    "title": "Ядрёная",
+    "artist": "Марлины",
+    "isrc": "QM7281920997"
+  },
+  {
+    "title": "Грубый закат",
+    "artist": "Zvuki Mu",
+    "isrc": "FR6V82519048"
+  },
+  {
+    "title": "Удлинитель дней",
+    "artist": "ПОЛЮСА",
+    "isrc": "RUAGV2402765"
+  },
+  {
+    "title": "Сан-Франциско",
+    "artist": "Zorge",
+    "isrc": "QZGLS2123195"
+  },
+  {
+    "title": "Полковнику никто не пишет",
+    "artist": "Би-2",
+    "isrc": "RUA741912001"
+  },
+  {
+    "title": "Мы не оставим города свои",
+    "artist": "Dekabr",
+    "isrc": "SMRUS0043685"
+  },
+  {
+    "title": "Летаргический сон",
+    "artist": "Вежливый отказ",
+    "isrc": "TCADG1760890"
+  },
+  {
+    "title": "ZEMLYA",
+    "artist": "Masha i Medvedi, EDWXRDX",
+    "isrc": "RUA1D2322720"
+  },
+  {
+    "title": "DARKSIDE",
+    "artist": "AKADO",
+    "isrc": "TCACM1690463"
+  },
+  {
+    "title": "Dance in the Mountains",
+    "artist": "Deti Picasso",
+    "isrc": "HUAE11500129"
+  },
+  {
+    "title": "Saviors in the Fog",
+    "artist": "J-Lobster",
+    "isrc": "QZTPX2330805"
+  },
+  {
+    "title": "Feels Like Home",
+    "artist": "The Grand Astoria",
+    "isrc": "DEMZ71340008"
+  },
+  {
+    "title": "Шаг вдох",
+    "artist": "Animal Jazz",
+    "isrc": "FR6V82115535"
+  },
+  {
+    "title": "Kolodets",
+    "artist": "Обе-Рек",
+    "isrc": "RUB241331501"
+  },
+  {
+    "title": "Смеяться всем в лицо",
+    "artist": "ДМЦ",
+    "isrc": "RUA1D1700248"
+  },
+  {
+    "title": "Agonia",
+    "artist": "LASCALA",
+    "isrc": "SMRUS0061441"
+  },
+  {
+    "title": "Чёрная весна",
+    "artist": "7раса",
+    "isrc": "RUA1D1912219"
+  },
+  {
+    "title": "Стрелы",
+    "artist": "Severny Flot",
+    "isrc": "FR10S1485497"
+  },
+  {
+    "title": "Гореть",
+    "artist": "Lumen",
+    "isrc": "RUA741018612"
+  },
+  {
+    "title": "Пока. Целую. Снишься",
+    "artist": "Torba-na-Kruche",
+    "isrc": "QM6P41490412"
+  },
+  {
+    "title": "Последний шанс",
+    "artist": "Корсика",
+    "isrc": "TCABK1291073"
+  },
+  {
+    "title": "Утопия",
+    "artist": "КОПЕНGАGЕН",
+    "isrc": "RUB311700402"
+  },
+  {
+    "title": "Шаг навстречу",
+    "artist": "Год Змеи",
+    "isrc": "RUA1H2459292"
+  },
+  {
+    "title": "От сентября до сентября",
+    "artist": "Dругой Ветер",
+    "isrc": "SMRUS0063575"
+  },
+  {
+    "title": "Золотая осень [Человека нет]",
+    "artist": "Angel NeBes, Pilot, Znaki, ДМЦ",
+    "isrc": "SMRUS0076620"
+  },
+  {
+    "title": "Глаза ментов",
+    "artist": "Последние Танки В Париже",
+    "isrc": "QZNJV2361513"
+  },
+  {
+    "title": "Комья земли",
+    "artist": "Deform",
+    "isrc": "FR96X1501927"
+  },
+  {
+    "title": "Дегенеративное искусство (По мотивам Oxxxymiron)",
+    "artist": "Пионерлагерь Пыльная Радуга",
+    "isrc": "QMPU51634498"
+  },
+  {
+    "title": "Моя война",
+    "artist": "Sunburst",
+    "isrc": "RUA1H1519934"
+  },
+  {
+    "title": "Глава IV - Лесная царевна",
+    "artist": "Сказки чёрного города",
+    "isrc": "SMRUS0043287"
+  },
+  {
+    "title": "Мёртвая 2.0",
+    "artist": "Мёртвые Осы",
+    "isrc": "AEA0D1802486"
+  },
+  {
+    "title": "Тайна",
+    "artist": "СтимфониЯ",
+    "isrc": "SMRUS0054967"
+  },
+  {
+    "title": "Космонавтская",
+    "artist": "Дом Кукол, Torba-na-Kruche",
+    "isrc": "RUA322204507"
+  },
+  {
+    "title": "Весна",
+    "artist": "Dolphin",
+    "isrc": "US6R21523021"
+  },
+  {
+    "title": "Гимн обреченных",
+    "artist": "Nogu Svelo!",
+    "isrc": "TCAGO2274319"
+  },
+  {
+    "title": "Про Орков",
+    "artist": "Fun Mode",
+    "isrc": "TCAFB2083389"
+  },
+  {
+    "title": "Тема прошлого лета",
+    "artist": "Tequilajazzz",
+    "isrc": "USV291368997"
+  },
+  {
+    "title": "Мои демоны",
+    "artist": "Ideя Fix, Naitivihod",
+    "isrc": "RUAGT2338828"
+  },
+  {
+    "title": "Цвета",
+    "artist": "E-SEX-T",
+    "isrc": "US7VG1335432"
+  },
+  {
+    "title": "Убивать",
+    "artist": "Grazhdanskaya Oborona",
+    "isrc": "FRX201724865"
+  },
+  {
+    "title": "Миллиарды минут",
+    "artist": "Neversmile",
+    "isrc": "QM4TX1940723"
+  },
+  {
+    "title": "Скоро узнаешь",
+    "artist": "Asper X",
+    "isrc": "DGA0H2319008"
+  },
+  {
+    "title": "Орбит без сахара",
+    "artist": "Splean",
+    "isrc": "FR10S1837998"
+  },
+  {
+    "title": "Среда",
+    "artist": "Небо Здесь",
+    "isrc": "SMRUS0077219"
+  },
+  {
+    "title": "Артист",
+    "artist": "МультFильмы",
+    "isrc": "SMRUS0077313"
+  },
+  {
+    "title": "S.M.S",
+    "artist": "Sakura",
+    "isrc": "QM6MZ1513202"
+  },
+  {
+    "title": "Любить сложнее, чем убивать любовь",
+    "artist": "3000 Миль До Рая",
+    "isrc": "QZGLS2009532"
+  },
+  {
+    "title": "Чувства - Bonus track",
+    "artist": "Animal Jazz, O.Torvald",
+    "isrc": "FR96X1979392"
+  },
+  {
+    "title": "Ты",
+    "artist": "Обе-Рек",
+    "isrc": "RUB241445703"
+  },
+  {
+    "title": "Научи любить",
+    "artist": "ДМЦ",
+    "isrc": "QMPU51632724"
+  },
+  {
+    "title": "Пятница",
+    "artist": "LASCALA, Заточка",
+    "isrc": "SMRUS0072174"
+  },
+  {
+    "title": "Вечное лето",
+    "artist": "7раса",
+    "isrc": "RUA1D1912220"
+  },
+  {
+    "title": "Вперёд и вверх",
+    "artist": "Severny Flot",
+    "isrc": "FR10S1485493"
+  },
+  {
+    "title": "Три пути",
+    "artist": "Lumen",
+    "isrc": "RUB241863402"
+  },
+  {
+    "title": "Жизнь-водоём",
+    "artist": "Torba-na-Kruche",
+    "isrc": "QM6P41490388"
+  },
+  {
+    "title": "Раны",
+    "artist": "Корсика",
+    "isrc": "QZ5FN1803788"
+  },
+  {
+    "title": "Кай",
+    "artist": "КОПЕНGАGЕН",
+    "isrc": "RUB312131510"
+  },
+  {
+    "title": "Семь жизней",
+    "artist": "Год Змеи",
+    "isrc": "RUA1H2459296"
+  },
+  {
+    "title": "Счастье в бетонной помойке",
+    "artist": "Dругой Ветер",
+    "isrc": "SMRUS0065043"
+  },
+  {
+    "title": "Небо плачет по шуту",
+    "artist": "Angel NeBes",
+    "isrc": "TCAEB1965505"
+  },
+  {
+    "title": "Новые времена",
+    "artist": "Последние Танки В Париже",
+    "isrc": "FRX452460354"
+  },
+  {
+    "title": "В ожидании весны",
+    "artist": "Deform",
+    "isrc": "FR96X1502045"
+  },
+  {
+    "title": "Цунами",
+    "artist": "Пионерлагерь Пыльная Радуга, Oxxxymiron",
+    "isrc": "BYA0M2100060"
+  },
+  {
+    "title": "Оборона",
+    "artist": "Sunburst",
+    "isrc": "RUA1H1519931"
+  },
+  {
+    "title": "Глава I - Снежная королева",
+    "artist": "Сказки чёрного города",
+    "isrc": "SMRUS0043299"
+  }
+]

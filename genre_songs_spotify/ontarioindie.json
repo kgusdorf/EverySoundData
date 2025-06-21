@@ -1,0 +1,822 @@
+[
+  {
+    "title": "Your Rocky Spine",
+    "artist": "Great Lake Swimmers",
+    "isrc": "CAGC50600001"
+  },
+  {
+    "title": "If I Live or If I Die",
+    "artist": "Cuff the Duke",
+    "isrc": "CAD200700024"
+  },
+  {
+    "title": "Wheat Kings",
+    "artist": "The Tragically Hip",
+    "isrc": "USMC19239680"
+  },
+  {
+    "title": "Juliette",
+    "artist": "Hollerado",
+    "isrc": "CAAA10970903"
+  },
+  {
+    "title": "Bambi",
+    "artist": "Tokyo Police Club",
+    "isrc": "USQE91000013"
+  },
+  {
+    "title": "Clear the Crowds",
+    "artist": "Jim Bryson",
+    "isrc": "CABL90705004"
+  },
+  {
+    "title": "End of Me",
+    "artist": "Wax Mannequin",
+    "isrc": "NLD4W1400002"
+  },
+  {
+    "title": "Almanac",
+    "artist": "The Acorn",
+    "isrc": "GBBRP1024010"
+  },
+  {
+    "title": "Leather Jacket",
+    "artist": "Baby Eagle, Attack in Black",
+    "isrc": "CA0LX0900018"
+  },
+  {
+    "title": "Stars And Moons",
+    "artist": "Dizzy",
+    "isrc": "CAUM81800149"
+  },
+  {
+    "title": "Midnight Lovers",
+    "artist": "New Swears",
+    "isrc": "USQY51532189"
+  },
+  {
+    "title": "(I'm) Against the Wind",
+    "artist": "Ancient Shapes",
+    "isrc": "USSUB2252404"
+  },
+  {
+    "title": "Quit Your Crying",
+    "artist": "Kasador",
+    "isrc": "CBBUU2200003"
+  },
+  {
+    "title": "Boys Club",
+    "artist": "Ivory Hours, Luke Roes",
+    "isrc": "CAF1B1900001"
+  },
+  {
+    "title": "Louella Austella",
+    "artist": "Richard Laviolette",
+    "isrc": "CA0LX1600042"
+  },
+  {
+    "title": "Snuck Right Up",
+    "artist": "Richard Laviolette",
+    "isrc": "CA0LX1000030"
+  },
+  {
+    "title": "Fuck the Government, I Love You",
+    "artist": "The Burning Hell",
+    "isrc": "CA8PF1520003"
+  },
+  {
+    "title": "Gold In Them Hills",
+    "artist": "Ron Sexsmith",
+    "isrc": "CAL350200038"
+  },
+  {
+    "title": "Stompa",
+    "artist": "Serena Ryder",
+    "isrc": "CAEZ11200096"
+  },
+  {
+    "title": "Black Is Good",
+    "artist": "Young Rival",
+    "isrc": "CASA71240561"
+  },
+  {
+    "title": "Lonely Bones",
+    "artist": "The Honest Heart Collective",
+    "isrc": "CAV4U1700006"
+  },
+  {
+    "title": "Charlie IO",
+    "artist": "Ellevator",
+    "isrc": "CAHQG2100016"
+  },
+  {
+    "title": "Ride The Wave",
+    "artist": "The Drew Thomson Foundation",
+    "isrc": "QZK6Q2473136"
+  },
+  {
+    "title": "Something About Her",
+    "artist": "The Kents",
+    "isrc": "TCACU1604206"
+  },
+  {
+    "title": "Nightmare",
+    "artist": "Chastity",
+    "isrc": "QZ22D2400078"
+  },
+  {
+    "title": "Humble Peasants",
+    "artist": "The Most Serene Republic",
+    "isrc": "CAAA10702901"
+  },
+  {
+    "title": "After All That, It's Come to This (Featuring Amy Millan)",
+    "artist": "Amos The Transparent",
+    "isrc": "USTC30707053"
+  },
+  {
+    "title": "Lottery",
+    "artist": "Romancer",
+    "isrc": "QZFYX1960555"
+  },
+  {
+    "title": "Strangers I Used to Love",
+    "artist": "The Wilderness",
+    "isrc": "TCAHU2473938"
+  },
+  {
+    "title": "obliterate me",
+    "artist": "ellis",
+    "isrc": "CAHFU2100022"
+  },
+  {
+    "title": "Goodnight My Dear",
+    "artist": "Bonnie Trash",
+    "isrc": "CAHL42209606"
+  },
+  {
+    "title": "Rebuild As One",
+    "artist": "Cursed Arrows",
+    "isrc": "QZK6F2058923"
+  },
+  {
+    "title": "Rewind",
+    "artist": "Gentleman Reg",
+    "isrc": "CAAA10803606"
+  },
+  {
+    "title": "Headaches",
+    "artist": "Certainty",
+    "isrc": "QZFZ21964895"
+  },
+  {
+    "title": "The Bike Song",
+    "artist": "Excuse Me.",
+    "isrc": "QZFZ52018314"
+  },
+  {
+    "title": "Momentary",
+    "artist": "Ever Elsewhere",
+    "isrc": "QM2PV1860087"
+  },
+  {
+    "title": "Harm",
+    "artist": "Family of Things",
+    "isrc": "TCAEF1915900"
+  },
+  {
+    "title": "Rosie",
+    "artist": "Bruce Peninsula",
+    "isrc": "CA0HC1000012"
+  },
+  {
+    "title": "Hotline Bling",
+    "artist": "Kalle Mattson",
+    "isrc": "CANT41500044"
+  },
+  {
+    "title": "Blue Moon Drive",
+    "artist": "Lee Harvey Osmond",
+    "isrc": "CALG11400026"
+  },
+  {
+    "title": "Always Golden",
+    "artist": "Loon Choir",
+    "isrc": "CA6R31528105"
+  },
+  {
+    "title": "Semi-Stable",
+    "artist": "Stuck On Planet Earth",
+    "isrc": "CAOA82300008"
+  },
+  {
+    "title": "To The Lighthouse",
+    "artist": "Memoryhouse",
+    "isrc": "USSUB1195904"
+  },
+  {
+    "title": "Going out Tonight",
+    "artist": "Andrew Vincent",
+    "isrc": "CABL90805803"
+  },
+  {
+    "title": "It Gets Better",
+    "artist": "Jaguar Sun, Husbands",
+    "isrc": "QM4TW2362844"
+  },
+  {
+    "title": "Oak Tree",
+    "artist": "Annie Sumi",
+    "isrc": "CAUM41500002"
+  },
+  {
+    "title": "Outlaws",
+    "artist": "Wooden Stars",
+    "isrc": "CAU260610093"
+  },
+  {
+    "title": "Facelove",
+    "artist": "PS I Love You",
+    "isrc": "CAP431000715"
+  },
+  {
+    "title": "Jump Right In",
+    "artist": "Hidden Roots Collective",
+    "isrc": "CAADP1600002"
+  },
+  {
+    "title": "Destroyer",
+    "artist": "Aron D'Alesio",
+    "isrc": "CAP431601340"
+  },
+  {
+    "title": "Sweet Pretender",
+    "artist": "Dany Laj and The Looks",
+    "isrc": "CABJL1600001"
+  },
+  {
+    "title": "The Only Only One",
+    "artist": "Wayne Petti",
+    "isrc": "CAO370702907"
+  },
+  {
+    "title": "We Are The Hunters",
+    "artist": "The D'Urbervilles",
+    "isrc": "CASA70813488"
+  },
+  {
+    "title": "Butter on Toast",
+    "artist": "Blakdenim",
+    "isrc": "QZHN82085062"
+  },
+  {
+    "title": "Slow Down",
+    "artist": "The Two-Minute Miracles",
+    "isrc": "CAT290202203"
+  },
+  {
+    "title": "Ghosts and Flowers",
+    "artist": "Expanda Fuzz",
+    "isrc": "UST8K1801590"
+  },
+  {
+    "title": "Precious Metals",
+    "artist": "The Russian Futurists",
+    "isrc": "CAU240200003"
+  },
+  {
+    "title": "If We Both Start Young",
+    "artist": "Don Vail",
+    "isrc": "CAJHO1900005"
+  },
+  {
+    "title": "(Umbrella Song) What Would You Do If I Shared My Umbrella with You",
+    "artist": "Mayor McCA",
+    "isrc": "GBMJG1804222"
+  },
+  {
+    "title": "Dead Letter and the Infinite Yes",
+    "artist": "Mappe Of",
+    "isrc": "CAP431701400"
+  },
+  {
+    "title": "Eavesdropping",
+    "artist": "Julie Fader",
+    "isrc": "CAHL40900605"
+  },
+  {
+    "title": "Righteous Heart",
+    "artist": "Nathan Lawr, The Minotaurs",
+    "isrc": "CALF80700001"
+  },
+  {
+    "title": "The Sound",
+    "artist": "Human Highway",
+    "isrc": "US33X0807513"
+  },
+  {
+    "title": "Self Aware Bitch",
+    "artist": "Anna Sofia",
+    "isrc": "USUM72001527"
+  },
+  {
+    "title": "Rewind",
+    "artist": "Christian Parry",
+    "isrc": "uscgj1936345"
+  },
+  {
+    "title": "Chase That Rainbow",
+    "artist": "Girls Are Short",
+    "isrc": "USDBY0601048"
+  },
+  {
+    "title": "Weight of Truth",
+    "artist": "HILOTRONS",
+    "isrc": "QZMER2423858"
+  },
+  {
+    "title": "Your Bibles",
+    "artist": "Her Harbour",
+    "isrc": "CA8GU1200007"
+  },
+  {
+    "title": "Gasoline",
+    "artist": "Jamie Gia",
+    "isrc": "uscgh1703000"
+  },
+  {
+    "title": "Baggy Bottom Boys",
+    "artist": "Jokers Of The Scene",
+    "isrc": "USYBL0801726"
+  },
+  {
+    "title": "Disco Hit",
+    "artist": "Knock Knock Ginger",
+    "isrc": "CA3LZ1000009"
+  },
+  {
+    "title": "So Much More",
+    "artist": "Kyp Harness",
+    "isrc": "CA46L2400001"
+  },
+  {
+    "title": "Breaststroke",
+    "artist": "Mathemagic",
+    "isrc": "CAP431000649"
+  },
+  {
+    "title": "Mirror Maze",
+    "artist": "Merganzer",
+    "isrc": "CAVR71500002"
+  },
+  {
+    "title": "It's Not Fun and Games Unless Someone Loses An Eye",
+    "artist": "Oh No Forest Fires",
+    "isrc": "CAI370816595"
+  },
+  {
+    "title": "Attack of the Giant Problem Vs. The Creature From The Planet Of The Incredible Shrinking Solution",
+    "artist": "Square Root of Margaret",
+    "isrc": "ushm81079015"
+  },
+  {
+    "title": "carousel",
+    "artist": "The Mark Inside",
+    "isrc": "CAM370500450"
+  },
+  {
+    "title": "I Need You",
+    "artist": "The Pesky Snakes",
+    "isrc": "QZARB1812272"
+  },
+  {
+    "title": "Locked and Loaded",
+    "artist": "The Sourkeys",
+    "isrc": "CA0WY0600702"
+  },
+  {
+    "title": "Wolves",
+    "artist": "Whale Tooth",
+    "isrc": "GBKPL1255406"
+  },
+  {
+    "title": "They Killed Us",
+    "artist": "Will Currie & The Country French",
+    "isrc": "CA28K1500025"
+  },
+  {
+    "title": "Pulling On A Line",
+    "artist": "Great Lake Swimmers",
+    "isrc": "CA0KF0800005"
+  },
+  {
+    "title": "Take My Money and Run",
+    "artist": "Cuff the Duke",
+    "isrc": "CAD200500003"
+  },
+  {
+    "title": "New Orleans Is Sinking",
+    "artist": "The Tragically Hip",
+    "isrc": "USMC18928797"
+  },
+  {
+    "title": "Your English Is Good",
+    "artist": "Tokyo Police Club",
+    "isrc": "GBCSG0800052"
+  },
+  {
+    "title": "Born Yesterday",
+    "artist": "Hollerado",
+    "isrc": "CAUM81600178"
+  },
+  {
+    "title": "Better on Drugs",
+    "artist": "Jim Bryson",
+    "isrc": "CAFKZ1900001"
+  },
+  {
+    "title": "The Obelisk",
+    "artist": "Wax Mannequin",
+    "isrc": "QZHN62388473"
+  },
+  {
+    "title": "Lullaby (Mountain)",
+    "artist": "The Acorn",
+    "isrc": "CAP430700325"
+  },
+  {
+    "title": "Inches and Ages",
+    "artist": "Baby Eagle, Attack in Black",
+    "isrc": "CA0LX0900017"
+  },
+  {
+    "title": "Open Up Wide",
+    "artist": "Dizzy",
+    "isrc": "GB6TW2200200"
+  },
+  {
+    "title": "Stay Gold",
+    "artist": "New Swears",
+    "isrc": "USQY51532191"
+  },
+  {
+    "title": "Piss Coloured Glasses",
+    "artist": "Ancient Shapes",
+    "isrc": "CA0LX1900047"
+  },
+  {
+    "title": "R.I.P. Me Down",
+    "artist": "Kasador",
+    "isrc": "CBBUU2200002"
+  },
+  {
+    "title": "Warpaint",
+    "artist": "Ivory Hours, Luke Roes",
+    "isrc": "CAF1B1500003"
+  },
+  {
+    "title": "Someone to Tell My Story When I'm Gone",
+    "artist": "Richard Laviolette",
+    "isrc": "CA0LX1600041"
+  },
+  {
+    "title": "Funeral Song",
+    "artist": "Richard Laviolette",
+    "isrc": "CA0LX1000034"
+  },
+  {
+    "title": "Amateur Rappers",
+    "artist": "The Burning Hell",
+    "isrc": "CA8PF1200003"
+  },
+  {
+    "title": "Secret Heart",
+    "artist": "Ron Sexsmith",
+    "isrc": "USIR19500684"
+  },
+  {
+    "title": "Got Your Number",
+    "artist": "Serena Ryder",
+    "isrc": "CAEZ11600119"
+  },
+  {
+    "title": "The Ocean",
+    "artist": "Young Rival",
+    "isrc": "CASA71029926"
+  },
+  {
+    "title": "North American Dream",
+    "artist": "The Honest Heart Collective",
+    "isrc": "CAV4U1700001"
+  },
+  {
+    "title": "Running Up That Hill",
+    "artist": "Ellevator",
+    "isrc": "CAHQG1900001"
+  },
+  {
+    "title": "Doors Open",
+    "artist": "The Drew Thomson Foundation",
+    "isrc": "QZK6Q2473134"
+  },
+  {
+    "title": "Caroline (I Can't Explain)",
+    "artist": "The Kents",
+    "isrc": "TCADF1753790"
+  },
+  {
+    "title": "Vicious Circle (feat. City and Colour)",
+    "artist": "Chastity, City and Colour",
+    "isrc": "CADE72101364"
+  },
+  {
+    "title": "Ontario Morning",
+    "artist": "The Most Serene Republic",
+    "isrc": "CAU8Z1500003"
+  },
+  {
+    "title": "Sure as the Weather",
+    "artist": "Amos The Transparent",
+    "isrc": "usdy41805504"
+  },
+  {
+    "title": "Wilted",
+    "artist": "Romancer",
+    "isrc": "CA6861600004"
+  },
+  {
+    "title": "Garden of England",
+    "artist": "The Wilderness",
+    "isrc": "TCAHU2473957"
+  },
+  {
+    "title": "home",
+    "artist": "ellis",
+    "isrc": "CAHFU2100020"
+  },
+  {
+    "title": "Shades Of You",
+    "artist": "Bonnie Trash",
+    "isrc": "CALVP1941370"
+  },
+  {
+    "title": "Haunted",
+    "artist": "Cursed Arrows",
+    "isrc": "QZMER2079670"
+  },
+  {
+    "title": "It's Not Safe",
+    "artist": "Gentleman Reg",
+    "isrc": "CAO370420304"
+  },
+  {
+    "title": "Pretty Eyes",
+    "artist": "Certainty",
+    "isrc": "QZES61837604"
+  },
+  {
+    "title": "Heavyweight",
+    "artist": "Excuse Me.",
+    "isrc": "QZ93L2205886"
+  },
+  {
+    "title": "Lilac",
+    "artist": "Ever Elsewhere",
+    "isrc": "QM2PV1860083"
+  },
+  {
+    "title": "Shine Your Light",
+    "artist": "Family of Things",
+    "isrc": "QZN882285824"
+  },
+  {
+    "title": "Crabapples",
+    "artist": "Bruce Peninsula",
+    "isrc": "CA0HC0800007"
+  },
+  {
+    "title": "Darkness",
+    "artist": "Kalle Mattson",
+    "isrc": "CA78M1300002"
+  },
+  {
+    "title": "Devil's Load",
+    "artist": "Lee Harvey Osmond",
+    "isrc": "CALG11200062"
+  },
+  {
+    "title": "Bricks",
+    "artist": "Loon Choir",
+    "isrc": "uscgj1053383"
+  },
+  {
+    "title": "I Want It Now",
+    "artist": "Stuck On Planet Earth",
+    "isrc": "CAOA81900084"
+  },
+  {
+    "title": "Lately",
+    "artist": "Memoryhouse",
+    "isrc": "USSUB1195902"
+  },
+  {
+    "title": "Canadian Dream",
+    "artist": "Andrew Vincent",
+    "isrc": "CABL90805809"
+  },
+  {
+    "title": "Forever and More",
+    "artist": "Jaguar Sun",
+    "isrc": "FR9Z61900365"
+  },
+  {
+    "title": "Best of Me",
+    "artist": "Annie Sumi",
+    "isrc": "CAUM41500008"
+  },
+  {
+    "title": "Orphans",
+    "artist": "Wooden Stars",
+    "isrc": "CASA70709152"
+  },
+  {
+    "title": "Get Over",
+    "artist": "PS I Love You",
+    "isrc": "CAP431000716"
+  },
+  {
+    "title": "Wicked Game",
+    "artist": "Hidden Roots Collective",
+    "isrc": "CAADP1600005"
+  },
+  {
+    "title": "Diamond Ring",
+    "artist": "Aron D'Alesio",
+    "isrc": "CAP431601349"
+  },
+  {
+    "title": "Smile",
+    "artist": "Dany Laj and The Looks",
+    "isrc": "CA0WS2184001"
+  },
+  {
+    "title": "The Life I Knew",
+    "artist": "Wayne Petti",
+    "isrc": "CAC351200007"
+  },
+  {
+    "title": "Magic Arrow",
+    "artist": "The D'Urbervilles",
+    "isrc": "CA07R0900025"
+  },
+  {
+    "title": "Sharks",
+    "artist": "Blakdenim, Darryl \"DMC\" McDaniels",
+    "isrc": "QZHN82085065"
+  },
+  {
+    "title": "Rayon Queen In A Nylon Dream",
+    "artist": "The Two-Minute Miracles",
+    "isrc": "CAT290202207"
+  },
+  {
+    "title": "Swimming Away",
+    "artist": "Great Lake Swimmers",
+    "isrc": "CAN111600034"
+  },
+  {
+    "title": "Belgium or Peru",
+    "artist": "Cuff the Duke",
+    "isrc": "CAD200500008"
+  },
+  {
+    "title": "Bobcaygeon",
+    "artist": "The Tragically Hip",
+    "isrc": "CAM199700077"
+  },
+  {
+    "title": "Americanarama",
+    "artist": "Hollerado",
+    "isrc": "CAAA10970906"
+  },
+  {
+    "title": "Nature Of The Experiment",
+    "artist": "Tokyo Police Club",
+    "isrc": "CAP430400181"
+  },
+  {
+    "title": "If by the Bridge",
+    "artist": "Jim Bryson",
+    "isrc": "CABL90705002"
+  },
+  {
+    "title": "Tell the Doctor",
+    "artist": "Wax Mannequin",
+    "isrc": "CAEGS1800042"
+  },
+  {
+    "title": "Dents",
+    "artist": "The Acorn",
+    "isrc": "CAP430700230"
+  },
+  {
+    "title": "Day of our Departing",
+    "artist": "Baby Eagle",
+    "isrc": "CA0LX1000005"
+  },
+  {
+    "title": "Barking Dog",
+    "artist": "Dizzy",
+    "isrc": "GB6TW2200131"
+  },
+  {
+    "title": "Bon Voyage",
+    "artist": "New Swears",
+    "isrc": "CADE71800865"
+  },
+  {
+    "title": "Dirty Little Hands",
+    "artist": "Ancient Shapes",
+    "isrc": "CA0LX1900055"
+  },
+  {
+    "title": "Squeeze",
+    "artist": "Kasador",
+    "isrc": "FR2X42422768"
+  },
+  {
+    "title": "Dreamer",
+    "artist": "Ivory Hours, Luke Roes",
+    "isrc": "CAF1B1500001"
+  },
+  {
+    "title": "Grey Rain",
+    "artist": "Richard Laviolette",
+    "isrc": "CA0LX1600039"
+  },
+  {
+    "title": "Airtight; No Sunlight",
+    "artist": "Richard Laviolette",
+    "isrc": "CA0LX1000031"
+  },
+  {
+    "title": "Men Without Hats",
+    "artist": "The Burning Hell",
+    "isrc": "CA8PF1520004"
+  },
+  {
+    "title": "Lebanon, Tennessee",
+    "artist": "Ron Sexsmith",
+    "isrc": "USIR19500688"
+  },
+  {
+    "title": "What I Wouldn't Do",
+    "artist": "Serena Ryder",
+    "isrc": "CAEZ11200122"
+  },
+  {
+    "title": "That's Chemistry",
+    "artist": "Young Rival",
+    "isrc": "CAP431501211"
+  },
+  {
+    "title": "I Heard You’re Worried About Me",
+    "artist": "The Honest Heart Collective",
+    "isrc": "CAV4U2100005"
+  },
+  {
+    "title": "Sacred Heart",
+    "artist": "Ellevator",
+    "isrc": "CAHQG2100005"
+  },
+  {
+    "title": "The Very Best",
+    "artist": "The Drew Thomson Foundation",
+    "isrc": "QZK6Q2473137"
+  },
+  {
+    "title": "Playing With Fire",
+    "artist": "The Kents",
+    "isrc": "TCACO1607227"
+  },
+  {
+    "title": "When You Go Home I Withdrawal",
+    "artist": "Chastity",
+    "isrc": "CADE72101359"
+  },
+  {
+    "title": "Heavens To Purgatory",
+    "artist": "The Most Serene Republic",
+    "isrc": "CAAA10904402"
+  },
+  {
+    "title": "Greater Than Consequence",
+    "artist": "Amos The Transparent",
+    "isrc": "usdy41820358"
+  },
+  {
+    "title": "Birds in Smoke",
+    "artist": "Romancer",
+    "isrc": "CA6861600003"
+  }
+]

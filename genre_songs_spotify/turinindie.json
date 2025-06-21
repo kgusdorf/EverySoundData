@@ -1,0 +1,822 @@
+[
+  {
+    "title": "L'abbraccio",
+    "artist": "Cosmo",
+    "isrc": "ITB002400091"
+  },
+  {
+    "title": "Altrove",
+    "artist": "Eugenio In Via Di Gioia",
+    "isrc": "ITUM71800983"
+  },
+  {
+    "title": "Giorgia nel Paese che si meraviglia",
+    "artist": "Willie Peyote",
+    "isrc": "IT97U2400003"
+  },
+  {
+    "title": "Il tempo dal mare",
+    "artist": "Alberto Bianco, Margherita Vicario",
+    "isrc": "ITDV42300003"
+  },
+  {
+    "title": "Immensità",
+    "artist": "Andrea Laszlo De Simone",
+    "isrc": "FRPDG1900510"
+  },
+  {
+    "title": "Tikibombom",
+    "artist": "Levante",
+    "isrc": "ITQ002000003"
+  },
+  {
+    "title": "Atlantide (feat. Levante)",
+    "artist": "Daniele Celona, Levante",
+    "isrc": "ITPA61508131"
+  },
+  {
+    "title": "Il vento",
+    "artist": "Nadàr Solo, Il Teatro Degli Orrori",
+    "isrc": "TCADL1878383"
+  },
+  {
+    "title": "Ti amo il venerdì sera",
+    "artist": "lemandorle",
+    "isrc": "ITK251710014"
+  },
+  {
+    "title": "Una fine diversa",
+    "artist": "Liede",
+    "isrc": "ITV191602129"
+  },
+  {
+    "title": "Terremoto",
+    "artist": "Eugenio Rodondi, Paolo Benvegnù",
+    "isrc": "ITYQ92200005"
+  },
+  {
+    "title": "Teach Me Tiger",
+    "artist": "Monaci Del Surf, Levante",
+    "isrc": "ITK251410035"
+  },
+  {
+    "title": "Space - Silent Panda | Deadly Panda rmx",
+    "artist": "Drink To Me, Silent Panda",
+    "isrc": "ITO971200011"
+  },
+  {
+    "title": "Non ci conosciamo più",
+    "artist": "Bonetti",
+    "isrc": "ITA642000002"
+  },
+  {
+    "title": "FDT",
+    "artist": "Anthony Laszlo",
+    "isrc": "ITK251410066"
+  },
+  {
+    "title": "Dilettanti - San Salvario Salva",
+    "artist": "Losburla",
+    "isrc": "FR6V81959373"
+  },
+  {
+    "title": "Io Che Non Conosco Più L'Amore",
+    "artist": "Buzzy Lao",
+    "isrc": "ITII22001043"
+  },
+  {
+    "title": "Canzone dei Murazzi",
+    "artist": "Ila Rosso",
+    "isrc": "ITK251410043"
+  },
+  {
+    "title": "Materia grigia",
+    "artist": "Il Terzo Istante, Paolo Benvegnù",
+    "isrc": "ITZKO1710084"
+  },
+  {
+    "title": "Dal 2036",
+    "artist": "Titor",
+    "isrc": "ITK251210001"
+  },
+  {
+    "title": "Un altro giro",
+    "artist": "Le Disfunzioni e I Rettili",
+    "isrc": "ITHU51800348"
+  },
+  {
+    "title": "In amore vince chi resta",
+    "artist": "Iosonocobalto",
+    "isrc": "ITAIL2300007"
+  },
+  {
+    "title": "La vita adulta",
+    "artist": "The Spell Of Ducks",
+    "isrc": "ITURF2400065"
+  },
+  {
+    "title": "Passerà",
+    "artist": "DIECICENTO35",
+    "isrc": "ITJ501600867"
+  },
+  {
+    "title": "Facile",
+    "artist": "PROTTO",
+    "isrc": "ITP2I1800035"
+  },
+  {
+    "title": "Le Belle Storie",
+    "artist": "TWEE",
+    "isrc": "ITK251910004"
+  },
+  {
+    "title": "Seal",
+    "artist": "Niagara",
+    "isrc": "GBNTT1200042"
+  },
+  {
+    "title": "Blossom Day",
+    "artist": "Makepop",
+    "isrc": "ITZKO2217008"
+  },
+  {
+    "title": "Streghe",
+    "artist": "I Treni all'alba",
+    "isrc": "ITK251110034"
+  },
+  {
+    "title": "Oltre",
+    "artist": "Giulia's Mother",
+    "isrc": "ITK251710102"
+  },
+  {
+    "title": "Gadro",
+    "artist": "Cibo",
+    "isrc": "ITK251610245"
+  },
+  {
+    "title": "±",
+    "artist": "Lechuck",
+    "isrc": "QZPJ32280940"
+  },
+  {
+    "title": "Scottish Girl",
+    "artist": "Fratellislip",
+    "isrc": "ITHU51900377"
+  },
+  {
+    "title": "Diavolo rosso",
+    "artist": "Giovanni Succi",
+    "isrc": "QM7281427833"
+  },
+  {
+    "title": "Satelliti",
+    "artist": "Mao",
+    "isrc": "ITUM72000267"
+  },
+  {
+    "title": "Brucia (senfina lumo)",
+    "artist": "Sendorma",
+    "isrc": "ITO371703279"
+  },
+  {
+    "title": "Le cabine del telefono",
+    "artist": "Dagomago",
+    "isrc": "ITCQ21400004"
+  },
+  {
+    "title": "Guts",
+    "artist": "Low Standards, High Fives",
+    "isrc": "USA2P2038965"
+  },
+  {
+    "title": "Dacryphilia",
+    "artist": "We Are Waves",
+    "isrc": "ITDC22237009"
+  },
+  {
+    "title": "Broken up Again",
+    "artist": "Kiol",
+    "isrc": "BEFY31600001"
+  },
+  {
+    "title": "Balla Balla Balla",
+    "artist": "Salvario",
+    "isrc": "IT0G21900197"
+  },
+  {
+    "title": "L'anticiclone del nord",
+    "artist": "Senatore",
+    "isrc": "ITK251510092"
+  },
+  {
+    "title": "Hideaway",
+    "artist": "The Yellow Traffic Light",
+    "isrc": "ushm21533495"
+  },
+  {
+    "title": "Sto (feat. Willie Peyote)",
+    "artist": "Supernino, Willie Peyote",
+    "isrc": "ITB002100153"
+  },
+  {
+    "title": "Boogaloo",
+    "artist": "Electric Circus",
+    "isrc": "ushm22223367"
+  },
+  {
+    "title": "A Brighter Sunday",
+    "artist": "Farmer Sea",
+    "isrc": "ITR891200137"
+  },
+  {
+    "title": "Amaro",
+    "artist": "Animali Urbani",
+    "isrc": "CH6541826206"
+  },
+  {
+    "title": "Monday Morning Light",
+    "artist": "Andrea Fornari",
+    "isrc": "ITI831800001"
+  },
+  {
+    "title": "FENICE",
+    "artist": "Avvolte",
+    "isrc": "ITIF72200008"
+  },
+  {
+    "title": "Pazzo di te",
+    "artist": "Bea Zanin",
+    "isrc": "ITCE51600062"
+  },
+  {
+    "title": "I Don't Know Why",
+    "artist": "D.I.P.S.",
+    "isrc": "QZ22B2022914"
+  },
+  {
+    "title": "Sidereal Black",
+    "artist": "Daniele Brusaschetto",
+    "isrc": "QMBZ92329586"
+  },
+  {
+    "title": "So Good",
+    "artist": "Dirty Set",
+    "isrc": "ITD542100963"
+  },
+  {
+    "title": "Tutto e Subito",
+    "artist": "Dupré",
+    "isrc": "ITK251810059"
+  },
+  {
+    "title": "Born In The West Coast",
+    "artist": "Flatmates 205",
+    "isrc": "QZDA52004409"
+  },
+  {
+    "title": "Conformismo, Não!",
+    "artist": "Foxhound",
+    "isrc": "US7VG1649266"
+  },
+  {
+    "title": "La Signora dai Capelli Neri",
+    "artist": "Kasmata",
+    "isrc": "ushm81830671"
+  },
+  {
+    "title": "Disappear",
+    "artist": "Lame",
+    "isrc": "QM6MZ1886104"
+  },
+  {
+    "title": "Social Anxiety Disorder",
+    "artist": "Less Than a Cube, My Cat Is An Alien, Steph Cozza",
+    "isrc": "CH6541889415"
+  },
+  {
+    "title": "Chanter, Boire et Rire Rire",
+    "artist": "Lou Quinse",
+    "isrc": "usx9p2047861"
+  },
+  {
+    "title": "The Reptiles",
+    "artist": "Lussac",
+    "isrc": "ITK252000030"
+  },
+  {
+    "title": "Kimberley",
+    "artist": "Marmore",
+    "isrc": "ITW901400033"
+  },
+  {
+    "title": "Nothingness",
+    "artist": "My Foolish Heart",
+    "isrc": "FR6V80477767"
+  },
+  {
+    "title": "Rosalie",
+    "artist": "Nero Lumière",
+    "isrc": "FR2X41806332"
+  },
+  {
+    "title": "Ask the Stars",
+    "artist": "Neverwhere",
+    "isrc": "USE831574641"
+  },
+  {
+    "title": "Daphne",
+    "artist": "Nova Lumen",
+    "isrc": "ITZH71400024"
+  },
+  {
+    "title": "Cruel Sister",
+    "artist": "OctoSide",
+    "isrc": "GB-SMU-51-24950"
+  },
+  {
+    "title": "L’una (Remix)",
+    "artist": "PIER, M4nni",
+    "isrc": "TCAFS2117802"
+  },
+  {
+    "title": "Vita Immaginaria",
+    "artist": "POLAROID",
+    "isrc": "USA2P1861005"
+  },
+  {
+    "title": "All'inferno",
+    "artist": "Paolo Rig8",
+    "isrc": "ITB201801103"
+  },
+  {
+    "title": "Di Niente E Di Nessuno",
+    "artist": "Pula+, Fabri Fibra",
+    "isrc": "ITQA61200015"
+  },
+  {
+    "title": "No Makeup",
+    "artist": "Sloks",
+    "isrc": "CH6132112202"
+  },
+  {
+    "title": "No More Heroes",
+    "artist": "Smoke the Bees",
+    "isrc": "usdy41828331"
+  },
+  {
+    "title": "Chiara",
+    "artist": "Stefano Turolla",
+    "isrc": "USHM22382788"
+  },
+  {
+    "title": "Tomorrow People",
+    "artist": "TEIF",
+    "isrc": "ESA011820228"
+  },
+  {
+    "title": "Blossoms",
+    "artist": "The Castillos",
+    "isrc": "ITV191602070"
+  },
+  {
+    "title": "Cold in the Desert",
+    "artist": "The Circle.",
+    "isrc": "FR6V82672103"
+  },
+  {
+    "title": "Toulouse",
+    "artist": "The Jumpin' Quails",
+    "isrc": "ushm21313513"
+  },
+  {
+    "title": "The Sure Thing",
+    "artist": "Vaghe Stelle",
+    "isrc": "USA2Z1310683"
+  },
+  {
+    "title": "Burning Flames",
+    "artist": "Wonderland",
+    "isrc": "QZAPG1735711"
+  },
+  {
+    "title": "232",
+    "artist": "i Karama",
+    "isrc": "CH6541819439"
+  },
+  {
+    "title": "L'ultima festa",
+    "artist": "Cosmo",
+    "isrc": "IT3GN1500114"
+  },
+  {
+    "title": "Lentiggini",
+    "artist": "Eugenio In Via Di Gioia",
+    "isrc": "ITCV32311801"
+  },
+  {
+    "title": "Piani",
+    "artist": "Willie Peyote",
+    "isrc": "IT97U2400005"
+  },
+  {
+    "title": "Quello che non hai",
+    "artist": "Alberto Bianco",
+    "isrc": "ITK251410093"
+  },
+  {
+    "title": "Vivo",
+    "artist": "Andrea Laszlo De Simone",
+    "isrc": "IT3GN2100001"
+  },
+  {
+    "title": "Pezzo di me (feat. Max Gazzè)",
+    "artist": "Levante, Max Gazzè",
+    "isrc": "ITB261700080"
+  },
+  {
+    "title": "Acqua",
+    "artist": "Daniele Celona",
+    "isrc": "ITPA61208123"
+  },
+  {
+    "title": "Aprile",
+    "artist": "Nadàr Solo",
+    "isrc": "ITOHP1600022"
+  },
+  {
+    "title": "Malpensa",
+    "artist": "lemandorle, Solo Campa",
+    "isrc": "ITK252010011"
+  },
+  {
+    "title": "Nelle vite degli altri",
+    "artist": "Liede",
+    "isrc": "ITGIN1900003"
+  },
+  {
+    "title": "Dopo Tempesta",
+    "artist": "Eugenio Rodondi",
+    "isrc": "ITYQ92200012"
+  },
+  {
+    "title": "Better Off Alone",
+    "artist": "Monaci Del Surf",
+    "isrc": "ITK251410034"
+  },
+  {
+    "title": "Future Days",
+    "artist": "Drink To Me",
+    "isrc": "ITO971200004"
+  },
+  {
+    "title": "Siamo vivi",
+    "artist": "Bonetti",
+    "isrc": "ITA642000004"
+  },
+  {
+    "title": "Amarsi come non amarsi",
+    "artist": "Anthony Laszlo",
+    "isrc": "ITK251410067"
+  },
+  {
+    "title": "Le promesse",
+    "artist": "Losburla",
+    "isrc": "ITK251610164"
+  },
+  {
+    "title": "Haya",
+    "artist": "Buzzy Lao, Dargen D'Amico",
+    "isrc": "ITK251910115"
+  },
+  {
+    "title": "Citta Espansa",
+    "artist": "Ila Rosso, Dargen D'Amico",
+    "isrc": "ITK251110036"
+  },
+  {
+    "title": "Il Blues Del Latte Versato",
+    "artist": "Il Terzo Istante",
+    "isrc": "GX89G2340413"
+  },
+  {
+    "title": "Je m'accuse!",
+    "artist": "Titor",
+    "isrc": "ITK251610078"
+  },
+  {
+    "title": "Bisogna saper fare schifo",
+    "artist": "Le Disfunzioni e I Rettili",
+    "isrc": "ITHU51800321"
+  },
+  {
+    "title": "Costruisco mulini a vento",
+    "artist": "Iosonocobalto",
+    "isrc": "FR96X2094620"
+  },
+  {
+    "title": "Boccadasse",
+    "artist": "The Spell Of Ducks",
+    "isrc": "ITURF2400066"
+  },
+  {
+    "title": "La primaveravolta",
+    "artist": "DIECICENTO35",
+    "isrc": "ITJ501600858"
+  },
+  {
+    "title": "Fossi ricco",
+    "artist": "PROTTO",
+    "isrc": "TCAFA2066183"
+  },
+  {
+    "title": "Buonasera",
+    "artist": "TWEE",
+    "isrc": "ITK251910000"
+  },
+  {
+    "title": "Blackpool",
+    "artist": "Niagara, Tomat, Gabriele Ottino",
+    "isrc": "GBNTT1500049"
+  },
+  {
+    "title": "Egonasia",
+    "artist": "Makepop",
+    "isrc": "ITZKO2217006"
+  },
+  {
+    "title": "Attila",
+    "artist": "I Treni all'alba",
+    "isrc": "ITK251110027"
+  },
+  {
+    "title": "Long, Long, Long",
+    "artist": "Giulia's Mother",
+    "isrc": "ITK251710119"
+  },
+  {
+    "title": "Murazzi Lato Dx",
+    "artist": "Cibo",
+    "isrc": "ITK251610252"
+  },
+  {
+    "title": "Molla",
+    "artist": "Lechuck",
+    "isrc": "QZ22B1917742"
+  },
+  {
+    "title": "Belgrado",
+    "artist": "Fratellislip",
+    "isrc": "ITHU51800290"
+  },
+  {
+    "title": "Con ghiaccio",
+    "artist": "Giovanni Succi",
+    "isrc": "ITP841700058"
+  },
+  {
+    "title": "Romantico",
+    "artist": "Mao",
+    "isrc": "ITUM72000271"
+  },
+  {
+    "title": "Diamanti e asfalto",
+    "artist": "Sendorma",
+    "isrc": "ITO371703280"
+  },
+  {
+    "title": "La fuga del cervello",
+    "artist": "Dagomago",
+    "isrc": "ITCQ21400006"
+  },
+  {
+    "title": "Teens in the Fireroom",
+    "artist": "Low Standards, High Fives",
+    "isrc": "USA2P2038892"
+  },
+  {
+    "title": "Cave",
+    "artist": "We Are Waves",
+    "isrc": "ITDC22237004"
+  },
+  {
+    "title": "No Peace",
+    "artist": "Kiol",
+    "isrc": "BEFY31900003"
+  },
+  {
+    "title": "Tanto per fumare",
+    "artist": "Salvario",
+    "isrc": "IT0G21900202"
+  },
+  {
+    "title": "A sangue gelido",
+    "artist": "Senatore",
+    "isrc": "ITK251610086"
+  },
+  {
+    "title": "Fukuoka No Future",
+    "artist": "The Yellow Traffic Light",
+    "isrc": "uscgh1843292"
+  },
+  {
+    "title": "Bastava dirlo",
+    "artist": "Supernino",
+    "isrc": "ITB002100147"
+  },
+  {
+    "title": "Bombay",
+    "artist": "Electric Circus",
+    "isrc": "ITR891800170"
+  },
+  {
+    "title": "Comes A Day",
+    "artist": "Farmer Sea",
+    "isrc": "CAENV2262092"
+  },
+  {
+    "title": "Aria",
+    "artist": "Animali Urbani",
+    "isrc": "CH6542048542"
+  },
+  {
+    "title": "102 - Waxlife Radio Mix",
+    "artist": "Andrea Fornari",
+    "isrc": "ITI831600049"
+  },
+  {
+    "title": "L'insonne",
+    "artist": "Avvolte",
+    "isrc": "QZTAW2257019"
+  },
+  {
+    "title": "Plaza Victoire",
+    "artist": "Bea Zanin",
+    "isrc": "ITCE51600065"
+  },
+  {
+    "title": "Superman",
+    "artist": "D.I.P.S.",
+    "isrc": "QZ22B2101281"
+  },
+  {
+    "title": "Ciao Bellissima",
+    "artist": "Daniele Brusaschetto",
+    "isrc": "QMBZ91969430"
+  },
+  {
+    "title": "Dragonfly Ass",
+    "artist": "Dirty Set",
+    "isrc": "ITD542100961"
+  },
+  {
+    "title": "Il malato Immaginario",
+    "artist": "Dupré",
+    "isrc": "ITK251610208"
+  },
+  {
+    "title": "Per istinto",
+    "artist": "Flatmates 205",
+    "isrc": "QZDA82385958"
+  },
+  {
+    "title": "Sei la mia città",
+    "artist": "Cosmo",
+    "isrc": "IT3GN1800027"
+  },
+  {
+    "title": "Portami",
+    "artist": "Eugenio In Via Di Gioia",
+    "isrc": "ITCV32311802"
+  },
+  {
+    "title": "Le Chiavi In Borsa",
+    "artist": "Willie Peyote",
+    "isrc": "IT2WZ1700005"
+  },
+  {
+    "title": "Filo d'erba",
+    "artist": "Alberto Bianco",
+    "isrc": "ITK251410087"
+  },
+  {
+    "title": "Fiore mio",
+    "artist": "Andrea Laszlo De Simone",
+    "isrc": "IT3GN1800057"
+  },
+  {
+    "title": "Vivo",
+    "artist": "Levante",
+    "isrc": "ITQ002201012"
+  },
+  {
+    "title": "Ferragosto",
+    "artist": "Daniele Celona",
+    "isrc": "TCAHY2406905"
+  },
+  {
+    "title": "Le case senza le porte",
+    "artist": "Nadàr Solo",
+    "isrc": "TCADL1878391"
+  },
+  {
+    "title": "Le 4",
+    "artist": "lemandorle",
+    "isrc": "ITK251810011"
+  },
+  {
+    "title": "Corsica",
+    "artist": "Liede",
+    "isrc": "ITV191602124"
+  },
+  {
+    "title": "Una canzone che",
+    "artist": "Eugenio Rodondi",
+    "isrc": "ITZKO1702031"
+  },
+  {
+    "title": "Imperial march",
+    "artist": "Monaci Del Surf",
+    "isrc": "ITK251210015"
+  },
+  {
+    "title": "A Stain In The City",
+    "artist": "Drink To Me",
+    "isrc": "ITO971100029"
+  },
+  {
+    "title": "Camionisti",
+    "artist": "Bonetti",
+    "isrc": "ITA642000072"
+  },
+  {
+    "title": "Solo se fossi",
+    "artist": "Anthony Laszlo",
+    "isrc": "ITK251410072"
+  },
+  {
+    "title": "Il tuo cane veste Prada",
+    "artist": "Losburla",
+    "isrc": "ITK251610166"
+  },
+  {
+    "title": "Haya - FiloQ Remix",
+    "artist": "Buzzy Lao, Dargen D'Amico, FILOQ",
+    "isrc": "ITII22001014"
+  },
+  {
+    "title": "Il figlio di papà",
+    "artist": "Ila Rosso",
+    "isrc": "ITK251110037"
+  },
+  {
+    "title": "Dissolversi",
+    "artist": "Il Terzo Istante",
+    "isrc": "ITZKO1710081"
+  },
+  {
+    "title": "Titor is dead",
+    "artist": "Titor",
+    "isrc": "ITK251210002"
+  },
+  {
+    "title": "Marciremo",
+    "artist": "Le Disfunzioni e I Rettili",
+    "isrc": "ITHU51800346"
+  },
+  {
+    "title": "Non avere paura del buio",
+    "artist": "Iosonocobalto",
+    "isrc": "ITAIL2300024"
+  },
+  {
+    "title": "Every Sunshine",
+    "artist": "The Spell Of Ducks",
+    "isrc": "CH6542039613"
+  },
+  {
+    "title": "Estate in Plexiglas",
+    "artist": "DIECICENTO35",
+    "isrc": "QZHN92039029"
+  },
+  {
+    "title": "Basta un colpo di pistola",
+    "artist": "PROTTO",
+    "isrc": "ITGM91807401"
+  },
+  {
+    "title": "Come in un Film",
+    "artist": "TWEE",
+    "isrc": "ITK252010039"
+  },
+  {
+    "title": "Hyperocean - Animal Collective / Deakin Remix",
+    "artist": "Niagara, Tomat, Gabriele Ottino, Animal Collective, Deakin",
+    "isrc": "GBNTT1600009"
+  },
+  {
+    "title": "Chinese Whispers",
+    "artist": "Makepop",
+    "isrc": "ITZKO2217012"
+  }
+]

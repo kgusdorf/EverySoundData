@@ -1,0 +1,982 @@
+[
+  {
+    "title": "Ilusi",
+    "artist": "Owl Gank, Gabriel Marini, Yance Deda",
+    "isrc": "FR2X42299823"
+  },
+  {
+    "title": "Mr Holiday",
+    "artist": "Dr'J 483, Qiiba Owl Gank",
+    "isrc": "FR10S2200614"
+  },
+  {
+    "title": "Stengah Mati",
+    "artist": "GunZ, keilandboi, D'Flow",
+    "isrc": "SGW502367619"
+  },
+  {
+    "title": "Bawa Sudah",
+    "artist": "Omcon SB, Hendrik Wrk",
+    "isrc": "FRX282057127"
+  },
+  {
+    "title": "How Great (Mixtape)",
+    "artist": "H98",
+    "isrc": "FR59R2371338"
+  },
+  {
+    "title": "Rakab Do",
+    "artist": "Owl Gank",
+    "isrc": "FR96X2224046"
+  },
+  {
+    "title": "Cuma Saya",
+    "artist": "M.A.C",
+    "isrc": "FR59R2037211"
+  },
+  {
+    "title": "Sulit Cari",
+    "artist": "Qhiba, Dr'J 483, Slick Dogg",
+    "isrc": "FRX202301568"
+  },
+  {
+    "title": "Pambodo",
+    "artist": "Familiant",
+    "isrc": "FRS182104557"
+  },
+  {
+    "title": "Cina Buta di Pantai",
+    "artist": "Philips Jubi",
+    "isrc": "QZN882228696"
+  },
+  {
+    "title": "Terbang",
+    "artist": "Anak Kampong",
+    "isrc": "QZN882183098"
+  },
+  {
+    "title": "Manis Tapi Bukan Gula - Original Mix",
+    "artist": "Mellyyanox, Jemz Beat",
+    "isrc": "QZN882138060"
+  },
+  {
+    "title": "West melanesia",
+    "artist": "K3bi, Pedro",
+    "isrc": "FR96X2188523"
+  },
+  {
+    "title": "TABAWA DENG WAKTU",
+    "artist": "Epo D'Fenomeno, Omcon SB, D'Ari",
+    "isrc": "DGA0H2379160"
+  },
+  {
+    "title": "Kasih Kembali",
+    "artist": "BONG ALEX, OWL GANK, ACHO, Dizze Nesian",
+    "isrc": "GX3HH2281102"
+  },
+  {
+    "title": "Sa Pamit",
+    "artist": "RapSouL, S.O.B, Mafia Gang, M.A.C",
+    "isrc": "QZGWW2114705"
+  },
+  {
+    "title": "KEPADA SEMU",
+    "artist": "Muria",
+    "isrc": "DGA082387610"
+  },
+  {
+    "title": "Rahsia",
+    "artist": "DJ Carizo",
+    "isrc": "NLRD52022859"
+  },
+  {
+    "title": "BATU API",
+    "artist": "Zein Panzer",
+    "isrc": "DGA062382686"
+  },
+  {
+    "title": "Tuhan Su Atur",
+    "artist": "Bagarap, Indah",
+    "isrc": "FRS182133480"
+  },
+  {
+    "title": "LIFE",
+    "artist": "Silfaboys, K3bi",
+    "isrc": "IDA142302596"
+  },
+  {
+    "title": "Toki Sloki",
+    "artist": "MukaRakat",
+    "isrc": "IDUM72000107"
+  },
+  {
+    "title": "Let It Go",
+    "artist": "ELKEY, Silfa Boys",
+    "isrc": "FR59R2288368"
+  },
+  {
+    "title": "Waena",
+    "artist": "Gabriel Marini",
+    "isrc": "IDA142303162"
+  },
+  {
+    "title": "HEAVY IN THE GAME",
+    "artist": "Jenderal Petruk, Mario Zwinkle, K3bi",
+    "isrc": "FRX762240670"
+  },
+  {
+    "title": "Percuma",
+    "artist": "DXH CREW, PEACE MELANESIA",
+    "isrc": "GX5MY2107460"
+  },
+  {
+    "title": "Karna Ada KO",
+    "artist": "New Gvme",
+    "isrc": "QM4TX2055742"
+  },
+  {
+    "title": "OTAK MATI",
+    "artist": "ZOONDE, GunZ",
+    "isrc": "QZS632280962"
+  },
+  {
+    "title": "Keliling Papua",
+    "artist": "El Nino, Nanji Yoseph",
+    "isrc": "QM6PA2037670"
+  },
+  {
+    "title": "Jang Ganggu",
+    "artist": "Shine Of Black",
+    "isrc": "QZN882133567"
+  },
+  {
+    "title": "B(L)ACK TO SHINE",
+    "artist": "Ipey B.H.C, Silfa Boys",
+    "isrc": "FR59R2291126"
+  },
+  {
+    "title": "MVP",
+    "artist": "Sun D, Tuantigabelas, GNDHI, Mister Nobody",
+    "isrc": "IDA142200863"
+  },
+  {
+    "title": "THE APE",
+    "artist": "Januarta",
+    "isrc": "IDUM72200244"
+  },
+  {
+    "title": "RACIKAN TIMUR",
+    "artist": "Amster Gank",
+    "isrc": "QZN882366979"
+  },
+  {
+    "title": "Suku Manja",
+    "artist": "Jemz Beat, Marco Pollo, Bastian Heat",
+    "isrc": "QZWDW2233529"
+  },
+  {
+    "title": "Talang Paku",
+    "artist": "Rhosy Snap",
+    "isrc": "FRS182165404"
+  },
+  {
+    "title": "Cinta",
+    "artist": "Chicco Lesomar",
+    "isrc": "SGB502282215"
+  },
+  {
+    "title": "Not Busy",
+    "artist": "Slick Dogg, Dr'J 483, Qiiba Owl Gank",
+    "isrc": "FR2X42226140"
+  },
+  {
+    "title": "Bajingan Island",
+    "artist": "Black Rhyme Mollucan, Bram Djitmau, Block 8",
+    "isrc": "QZHNB1904309"
+  },
+  {
+    "title": "Bullshit",
+    "artist": "Jacson Zeran",
+    "isrc": "IDA641900392"
+  },
+  {
+    "title": "Kaka Main Salah",
+    "artist": "Kapthenpurek, Silet Open Up",
+    "isrc": "QZFYY2081247"
+  },
+  {
+    "title": "Setan",
+    "artist": "Westwew, R.E.P",
+    "isrc": "IDA142206249"
+  },
+  {
+    "title": "Luka, Kanapa",
+    "artist": "Justy Aldrin",
+    "isrc": "IDA832200051"
+  },
+  {
+    "title": "Malas Dengan Ko",
+    "artist": "BLAGER",
+    "isrc": "FRX282264731"
+  },
+  {
+    "title": "Au Monda",
+    "artist": "Rider BHC, MAMBRI NAPPY STAR",
+    "isrc": "QZN882182533"
+  },
+  {
+    "title": "Recall - Live at Cuba",
+    "artist": "Movos.corn",
+    "isrc": "QZNWR2113270"
+  },
+  {
+    "title": "Put The Gun",
+    "artist": "Noji 483, Lean Cj 483, Epo D'Fenomeno, Slick Dogg, Dr'J 483",
+    "isrc": "DGA062289606"
+  },
+  {
+    "title": "Trap Sad",
+    "artist": "BLVCKMINDS, Gbrand",
+    "isrc": "TCADT1831050"
+  },
+  {
+    "title": "MAITUA",
+    "artist": "No Name Crew X Remobar Crew",
+    "isrc": "IDA642103186"
+  },
+  {
+    "title": "Merayakan Kehilangan",
+    "artist": "Carizo",
+    "isrc": "QZAY42200644"
+  },
+  {
+    "title": "Telefon",
+    "artist": "Gihon Marel, Toton Caribo",
+    "isrc": "IDA832200002"
+  },
+  {
+    "title": "Bring It",
+    "artist": "Im Hafidz, K3bi",
+    "isrc": "QZZ972418734"
+  },
+  {
+    "title": "Move",
+    "artist": "Tuantigabelas",
+    "isrc": "IDA431916510"
+  },
+  {
+    "title": "Rela (feat. Ichad Bless)",
+    "artist": "JhoviGerry, Ichad Bless",
+    "isrc": "QZAY42100447"
+  },
+  {
+    "title": "Melanesian Queen",
+    "artist": "Prison Gank",
+    "isrc": "FRX762104415"
+  },
+  {
+    "title": "Visi Misi Foya Foya",
+    "artist": "Rapper Kampung, Nadaa",
+    "isrc": "IDA832200017"
+  },
+  {
+    "title": "NO REGULAR",
+    "artist": "Gbrand, Bennett A.K.",
+    "isrc": "IDUM72200121"
+  },
+  {
+    "title": "Baby Girl",
+    "artist": "BHC, Jubi Rap, Mafia Gang",
+    "isrc": "QZN882205903"
+  },
+  {
+    "title": "Sio Ado",
+    "artist": "Mnukwar",
+    "isrc": "FRX872186322"
+  },
+  {
+    "title": "86",
+    "artist": "Regular Kid 98, Ways",
+    "isrc": "IDA142001945"
+  },
+  {
+    "title": "Waja Sampai Kaputing",
+    "artist": "PRIMO",
+    "isrc": "GBSMU9774274"
+  },
+  {
+    "title": "PANAS SEKALI EVERYBODY",
+    "artist": "RIZAL ADEWA, Rhosy Snap, Magarvegel, KINGVLA, IWANTEX, KIDROSE, Lil Zi, Ariftaslim",
+    "isrc": "FRX282252060"
+  },
+  {
+    "title": "Cek ombak",
+    "artist": "Argonex",
+    "isrc": "SE6TI2023139"
+  },
+  {
+    "title": "Singkat",
+    "artist": "Street Coli",
+    "isrc": "QZN882220572"
+  },
+  {
+    "title": "Mabuk Baru Goyang - M.B.G",
+    "artist": "Alvin83",
+    "isrc": "QZWDW2337968"
+  },
+  {
+    "title": "Rindu Tra Salah",
+    "artist": "Mic - L",
+    "isrc": "SGB502232998"
+  },
+  {
+    "title": "Still Alive (Mixtape)",
+    "artist": "Black Indo",
+    "isrc": "DGA082231195"
+  },
+  {
+    "title": "KASE NAE",
+    "artist": "Farid Egall",
+    "isrc": "FRX282290840"
+  },
+  {
+    "title": "Entah Bagaimana Caranya",
+    "artist": "LILYO",
+    "isrc": "SGB502229453"
+  },
+  {
+    "title": "Parcuma",
+    "artist": "Mario Gk",
+    "isrc": "QZLQR2021654"
+  },
+  {
+    "title": "Don'T Like Me",
+    "artist": "G'SQUAD, Farid Egall, Oklin",
+    "isrc": "FRX281992121"
+  },
+  {
+    "title": "Bomba",
+    "artist": "Bringin Home, No Name Crew",
+    "isrc": "IDA832301897"
+  },
+  {
+    "title": "Ena Ena",
+    "artist": "Zuid Boyz, Lampu1Comedy",
+    "isrc": "USANG1919625"
+  },
+  {
+    "title": "Cuma Batamang",
+    "artist": "Angga Saputra",
+    "isrc": "HKK972206257"
+  },
+  {
+    "title": "Rap Avengers",
+    "artist": "YEN aka Audijens, Tuantigabelas, Ecko Show, Sony Blvck",
+    "isrc": "DELJ81940645"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Lean Cj 483, Silfa Boys",
+    "isrc": "QZN882182774"
+  },
+  {
+    "title": "SUNRISE IS BEAUTIFUL",
+    "artist": "MW, BrianVal, LyoraChay",
+    "isrc": "QZK6K2455801"
+  },
+  {
+    "title": "Hanya Ko di Hati",
+    "artist": "Papuakustik",
+    "isrc": "IDA601901751"
+  },
+  {
+    "title": "NGADA CULTURE",
+    "artist": "MR.DJII",
+    "isrc": "IDA642001928"
+  },
+  {
+    "title": "Sa Su Rela",
+    "artist": "Introvocal Waramori",
+    "isrc": "QZN882151757"
+  },
+  {
+    "title": "Montana",
+    "artist": "Quito Gang",
+    "isrc": "IDUM72200288"
+  },
+  {
+    "title": "Untuk Hati",
+    "artist": "North Zero Music, Rohit Tuepo, Skyman, Gerry NZM",
+    "isrc": "SGB502227060"
+  },
+  {
+    "title": "Ganteng Pulang Bagadang - Remix",
+    "artist": "D 69 Creative, Arga Dellano",
+    "isrc": "SGB502277440"
+  },
+  {
+    "title": "VALIOSSO PUTRA RAJAWALI",
+    "artist": "Ale Rappdinata",
+    "isrc": "DGA0R2327850"
+  },
+  {
+    "title": "SAKALAKA BOM BOM - Remix",
+    "artist": "DJ ADEN RMX, Herson Ratu",
+    "isrc": "FR10S2434001"
+  },
+  {
+    "title": "Tambu meri",
+    "artist": "DJ Gorilla",
+    "isrc": "DE1CV2210948"
+  },
+  {
+    "title": "Memories",
+    "artist": "Expert Boyz",
+    "isrc": "SGB502230897"
+  },
+  {
+    "title": "Pubg for Life",
+    "artist": "Geast Yogyakarta, Justy Aldrin",
+    "isrc": "GBSMU6204442"
+  },
+  {
+    "title": "Right Think",
+    "artist": "Gold Mind, Lean Cj 483, Slick Dogg, Omcon SB",
+    "isrc": "FR96X2348792"
+  },
+  {
+    "title": "Metro 1980",
+    "artist": "Kagemusha",
+    "isrc": "GBSMU9568989"
+  },
+  {
+    "title": "STAY SANTE",
+    "artist": "Lodwick Wicky, Omm Paul",
+    "isrc": "FR96X2190205"
+  },
+  {
+    "title": "Lay Your Trouble",
+    "artist": "MistaLesta",
+    "isrc": "QZHNB2182334"
+  },
+  {
+    "title": "Street homies",
+    "artist": "QQ FLOW",
+    "isrc": "FRX762208179"
+  },
+  {
+    "title": "Sa Sadar",
+    "artist": "Rider BHC, Jubi Rap",
+    "isrc": "SGB502225258"
+  },
+  {
+    "title": "Wannaonlygether!",
+    "artist": "Rrafizzz, Panjoy, Carun",
+    "isrc": "SGB502450773"
+  },
+  {
+    "title": "Kepancal - Remastered 2023",
+    "artist": "SUNTHEDARK, bkyc",
+    "isrc": "GXBAV2350734"
+  },
+  {
+    "title": "DJ Jangan Cemburu X Pipip Calon Mandak Sabah - BreakLatin Remix",
+    "artist": "Sabahan Remixer, DJ Nicko Rmx",
+    "isrc": "QZWBE2379587"
+  },
+  {
+    "title": "Genosida",
+    "artist": "XBEE, King Vlaa, Rizal Adewa, Vicar Alfayeth",
+    "isrc": "SGB502259628"
+  },
+  {
+    "title": "Bata Love",
+    "artist": "Owl Gank",
+    "isrc": "FR59R2202054"
+  },
+  {
+    "title": "Have a Good Day",
+    "artist": "Dr'J 483, Slick Dogg",
+    "isrc": "FR10S2223126"
+  },
+  {
+    "title": "CARA MATI",
+    "artist": "GunZ, MATTHEW",
+    "isrc": "QZMHL2041986"
+  },
+  {
+    "title": "Jay make a ride",
+    "artist": "H98",
+    "isrc": "FR10S2226872"
+  },
+  {
+    "title": "Barisan Mantan",
+    "artist": "Omcon SB",
+    "isrc": "FR10S2144387"
+  },
+  {
+    "title": "Do This Like That",
+    "artist": "Owl Gank, B-scoob",
+    "isrc": "FR2X42299824"
+  },
+  {
+    "title": "Aku Haus",
+    "artist": "Familiant",
+    "isrc": "FR59R2237833"
+  },
+  {
+    "title": "Timur Bikin Repot",
+    "artist": "Philips Jubi, David Wania, MasHer, EmanName, Gilbert",
+    "isrc": "QZN882257355"
+  },
+  {
+    "title": "Cinderella II",
+    "artist": "Anak Kampong",
+    "isrc": "QZN882183097"
+  },
+  {
+    "title": "KO Jahat",
+    "artist": "M.A.C",
+    "isrc": "FR59R2037212"
+  },
+  {
+    "title": "Sa Bikin Ah",
+    "artist": "Mellyyanox",
+    "isrc": "QZN882151412"
+  },
+  {
+    "title": "Slo ryde",
+    "artist": "K3bi",
+    "isrc": "FRX762260060"
+  },
+  {
+    "title": "Natal Lewat Telephone",
+    "artist": "Epo D'Fenomeno, Whllyano",
+    "isrc": "DGA082292510"
+  },
+  {
+    "title": "Sa Kalah",
+    "artist": "BONG ALEX, Asap Rio, Andre May, Bobby Colombo",
+    "isrc": "GX3HH2329876"
+  },
+  {
+    "title": "Jauh Tapele",
+    "artist": "RapSouL, East Nation",
+    "isrc": "QZAMM1845462"
+  },
+  {
+    "title": "Alkohol Di Luka",
+    "artist": "DJ Carizo",
+    "isrc": "NLRD52022858"
+  },
+  {
+    "title": "LANGIT BIRU",
+    "artist": "Muria",
+    "isrc": "DGA082387611"
+  },
+  {
+    "title": "Dengan Koi",
+    "artist": "Bagarap",
+    "isrc": "IDA172130018"
+  },
+  {
+    "title": "Bakutumbu",
+    "artist": "Zein Panzer",
+    "isrc": "TCAHS2392530"
+  },
+  {
+    "title": "STONER",
+    "artist": "Silfaboys, Boboajlh",
+    "isrc": "IDA142301367"
+  },
+  {
+    "title": "IDR (Ini Dangdut Rakat)",
+    "artist": "MukaRakat",
+    "isrc": "ushm22206013"
+  },
+  {
+    "title": "Selama Ini",
+    "artist": "ELKEY, Silfa Boys",
+    "isrc": "FRX282178765"
+  },
+  {
+    "title": "BIASA SAJA.",
+    "artist": "Gabriel Marini",
+    "isrc": "IDA142306887"
+  },
+  {
+    "title": "ANAM",
+    "artist": "Jenderal Petruk",
+    "isrc": "FRX762240681"
+  },
+  {
+    "title": "Ai Love U",
+    "artist": "DXH CREW, PEACE MELANESIA",
+    "isrc": "GX5MY2107457"
+  },
+  {
+    "title": "Rakit Satu",
+    "artist": "ZOONDE, MUROCK, GAL",
+    "isrc": "QZMHM2294037"
+  },
+  {
+    "title": "Tua Bangka Jarang Sadar",
+    "artist": "New Gvme",
+    "isrc": "FRX872017234"
+  },
+  {
+    "title": "Sunyi Kelabu",
+    "artist": "El Nino, Al Flo, Nanji Yoseph",
+    "isrc": "QM6P42037681"
+  },
+  {
+    "title": "Side to side",
+    "artist": "Ipey B.H.C, ELKEY, Den Elpro, Sendy Rumaropen",
+    "isrc": "FR59R2291125"
+  },
+  {
+    "title": "Go Crazy",
+    "artist": "Sun D",
+    "isrc": "IDA142200860"
+  },
+  {
+    "title": "See The Light Light",
+    "artist": "Januarta",
+    "isrc": "FRX452403432"
+  },
+  {
+    "title": "Jang Cuek",
+    "artist": "Shine Of Black, Black Diamond Shine",
+    "isrc": "QZN882133421"
+  },
+  {
+    "title": "RACIKAN TIMUR II",
+    "artist": "Amster Gank",
+    "isrc": "QZWDW2374090"
+  },
+  {
+    "title": "Feeling Buruk",
+    "artist": "Jemz Beat",
+    "isrc": "QZN882139008"
+  },
+  {
+    "title": "Hujan Panas",
+    "artist": "Rhosy Snap",
+    "isrc": "FR59R2493373"
+  },
+  {
+    "title": "Real Talk",
+    "artist": "Chicco Lesomar",
+    "isrc": "SGB502356916"
+  },
+  {
+    "title": "Beast Mode",
+    "artist": "Slick Dogg",
+    "isrc": "ushm81661931"
+  },
+  {
+    "title": "Kenapa Ganas ?",
+    "artist": "Black Rhyme Mollucan, Bram Djitmau, Romo",
+    "isrc": "QZHNB1904960"
+  },
+  {
+    "title": "Loyal",
+    "artist": "Jacson Zeran",
+    "isrc": "SGB502290929"
+  },
+  {
+    "title": "Kilab",
+    "artist": "Westwew, Mister Nobody, Tuantigabelas, Manutized, Sun D, Ibel",
+    "isrc": "IDA142306796"
+  },
+  {
+    "title": "Pantun Rakat",
+    "artist": "Kapthenpurek, Gusti Senda, Kanzer PMC",
+    "isrc": "QZHNA1992876"
+  },
+  {
+    "title": "Bale Pulang (feat. Toton Caribo)",
+    "artist": "Justy Aldrin, Toton Caribo",
+    "isrc": "IDUM72100077"
+  },
+  {
+    "title": "Nothing Like Me",
+    "artist": "BLAGER, M.A.C",
+    "isrc": "FRX202285085"
+  },
+  {
+    "title": "Kisah Termanis",
+    "artist": "Rider BHC, Mafia Gank, 8Beast, JUBI",
+    "isrc": "QZN882182549"
+  },
+  {
+    "title": "First Love, End of Story",
+    "artist": "Movos.corn",
+    "isrc": "QZNWW2192486"
+  },
+  {
+    "title": "WDYM",
+    "artist": "Noji 483",
+    "isrc": "IDUM72100483"
+  },
+  {
+    "title": "Balaga",
+    "artist": "BLVCKMINDS",
+    "isrc": "TCAEB1959511"
+  },
+  {
+    "title": "Bukang Sadiki",
+    "artist": "Carizo",
+    "isrc": "QZAY42100794"
+  },
+  {
+    "title": "Dababy (Move It Fest 2022 Chapter Manado)",
+    "artist": "Gihon Marel, DJ Desa, Toton Caribo",
+    "isrc": "IDA832206380"
+  },
+  {
+    "title": "Diss My Self",
+    "artist": "Im Hafidz",
+    "isrc": "QZNW72382042"
+  },
+  {
+    "title": "Juragan Dan Tuan",
+    "artist": "Tuantigabelas",
+    "isrc": "IDA431916721"
+  },
+  {
+    "title": "Mungkin Dia",
+    "artist": "JhoviGerry",
+    "isrc": "QZAY42100640"
+  },
+  {
+    "title": "JUMPA DI JAY'C",
+    "artist": "Prison Gank, Legi 483",
+    "isrc": "DGA0H2318749"
+  },
+  {
+    "title": "Susu",
+    "artist": "Rapper Kampung, AnggaEnak, Ajay Damima’s",
+    "isrc": "IDA832207607"
+  },
+  {
+    "title": "PHONE/ZONE",
+    "artist": "Gbrand, CLDGRAY",
+    "isrc": "DGA052307430"
+  },
+  {
+    "title": "Kungar på is",
+    "artist": "BHC, Patrik von Porat, Pasi Humppi",
+    "isrc": "SE5O41700201"
+  },
+  {
+    "title": "Pengendara Gila",
+    "artist": "Regular Kid 98, Ways",
+    "isrc": "IDA142001944"
+  },
+  {
+    "title": "Karna Sa Rindu",
+    "artist": "Mnukwar",
+    "isrc": "FRX872186997"
+  },
+  {
+    "title": "Begundal Clan Forever",
+    "artist": "PRIMO",
+    "isrc": "DGA0R2306091"
+  },
+  {
+    "title": "MIANA WOLIO",
+    "artist": "RIZAL ADEWA",
+    "isrc": "FRX762252880"
+  },
+  {
+    "title": "12 Pas",
+    "artist": "Argonex",
+    "isrc": "SE5751942768"
+  },
+  {
+    "title": "Bolos Sekolah",
+    "artist": "Street Coli, Kabupe Rap",
+    "isrc": "QZN882220550"
+  },
+  {
+    "title": "Maimuna",
+    "artist": "Alvin83",
+    "isrc": "QZZ662320257"
+  },
+  {
+    "title": "Percuma",
+    "artist": "Mic - L",
+    "isrc": "SGB502232002"
+  },
+  {
+    "title": "MY FCKNG DAY",
+    "artist": "Black Indo",
+    "isrc": "DGA082231867"
+  },
+  {
+    "title": "Pulang Untuk Ko",
+    "artist": "Owl Gank",
+    "isrc": "FR59R2202027"
+  },
+  {
+    "title": "Fresh Jump",
+    "artist": "Dr'J 483",
+    "isrc": "FR10S2200612"
+  },
+  {
+    "title": "Cara Hidup",
+    "artist": "GunZ",
+    "isrc": "IDA142100657"
+  },
+  {
+    "title": "Drunkin Dawg",
+    "artist": "H98",
+    "isrc": "DGA052247451"
+  },
+  {
+    "title": "Yasudah",
+    "artist": "Omcon SB",
+    "isrc": "FR96X2259166"
+  },
+  {
+    "title": "KO SU LEWAT",
+    "artist": "Owl Gank, DXH Crew, Ambi Napi Bocor",
+    "isrc": "FRX452431700"
+  },
+  {
+    "title": "Famil Va Everybody",
+    "artist": "Familiant, Rocka March",
+    "isrc": "FRS182112408"
+  },
+  {
+    "title": "Balik Tempo",
+    "artist": "Philips Jubi",
+    "isrc": "QZN882147604"
+  },
+  {
+    "title": "Jang Tanya Bahagia",
+    "artist": "Anak Kampong",
+    "isrc": "QZN882182550"
+  },
+  {
+    "title": "MAIN BELAKANG",
+    "artist": "M.A.C",
+    "isrc": "FR59R2343279"
+  },
+  {
+    "title": "Timur Beda",
+    "artist": "Mellyyanox",
+    "isrc": "QZN882151407"
+  },
+  {
+    "title": "Songkok mereng",
+    "artist": "K3bi",
+    "isrc": "DGA082306277"
+  },
+  {
+    "title": "West Irian Meri",
+    "artist": "Epo D'Fenomeno, Omcon SB",
+    "isrc": "FR59R2310801"
+  },
+  {
+    "title": "Hitam Putih",
+    "artist": "BONG ALEX",
+    "isrc": "GX5MY2142509"
+  },
+  {
+    "title": "Diam Baby",
+    "artist": "RapSouL, SB FAMZ, S.O.B, East Nation",
+    "isrc": "GBSMU7651563"
+  },
+  {
+    "title": "Pastikan",
+    "artist": "DJ Carizo",
+    "isrc": "GX8LD2284755"
+  },
+  {
+    "title": "Bangin",
+    "artist": "Muria",
+    "isrc": "DGA062352705"
+  },
+  {
+    "title": "INSIDE",
+    "artist": "Silfaboys, David Da Costa",
+    "isrc": "IDA142300038"
+  },
+  {
+    "title": "Ko Tidak Percaya",
+    "artist": "Bagarap, Whllyano",
+    "isrc": "FRS182120793"
+  },
+  {
+    "title": "Aka",
+    "artist": "Zein Panzer",
+    "isrc": "FR59R1902731"
+  },
+  {
+    "title": "Rompes (Rombongan Pesta)",
+    "artist": "MukaRakat",
+    "isrc": "IDUM72000099"
+  },
+  {
+    "title": "Mr Lonely",
+    "artist": "ELKEY, 483 Rap, Silfaboys, Mor M.A.C",
+    "isrc": "IDA142306657"
+  },
+  {
+    "title": "FLEXING.",
+    "artist": "Gabriel Marini",
+    "isrc": "IDA142306890"
+  },
+  {
+    "title": "LAO SLATAN",
+    "artist": "Jenderal Petruk, Xhaka, RIZAL ADEWA, Saint Yowzha, Zein Panzer",
+    "isrc": "FRX762240680"
+  },
+  {
+    "title": "Kax Suka Dix (with JEJE)",
+    "artist": "DXH CREW",
+    "isrc": "GX5MY2142582"
+  },
+  {
+    "title": "JOIN TO THE PARTY",
+    "artist": "ZOONDE, GAL, MUROCK",
+    "isrc": "QZMHN2481927"
+  },
+  {
+    "title": "Tenangkan Ko",
+    "artist": "El Nino, Al Flo, Nanji Yoseph",
+    "isrc": "QM6P42037683"
+  },
+  {
+    "title": "Move it",
+    "artist": "Ipey B.H.C, ELKEY",
+    "isrc": "FR59R2291122"
+  },
+  {
+    "title": "Stuntman",
+    "artist": "Sun D",
+    "isrc": "IDA142306537"
+  },
+  {
+    "title": "Hanya Mau",
+    "artist": "New Gvme, Dera Siagian",
+    "isrc": "FRX452161069"
+  },
+  {
+    "title": "Venus",
+    "artist": "Januarta, Slayla",
+    "isrc": "FR10S2187456"
+  },
+  {
+    "title": "Rindu Papua",
+    "artist": "Shine Of Black, M.A.C",
+    "isrc": "QZN882303410"
+  },
+  {
+    "title": "PRESENTE",
+    "artist": "Amster Gank",
+    "isrc": "QZWDW2211422"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Falling Apart",
+    "artist": "Michael Schulte",
+    "isrc": "DEPT21700006"
+  },
+  {
+    "title": "I swear to god",
+    "artist": "Maël & Jonas",
+    "isrc": "QMDA62120834"
+  },
+  {
+    "title": "Good Girl Killer",
+    "artist": "Paula Dalla Corte",
+    "isrc": "DEUM72307278"
+  },
+  {
+    "title": "Don't You Worry - From The Voice Of Germany",
+    "artist": "POLA, Michael Schulte",
+    "isrc": "DEUM72007033"
+  },
+  {
+    "title": "RIGHT HERE - From The Voice Of Germany",
+    "artist": "Tosi Udayana, Mark Forster",
+    "isrc": "DEUM72007036"
+  },
+  {
+    "title": "Vermissung",
+    "artist": "Fidi Steinbeck",
+    "isrc": "DEX402000444"
+  },
+  {
+    "title": "Meine 3 Minuten - From The Voice Of Germany",
+    "artist": "Freschta Akbarzada, Sido",
+    "isrc": "DEUM71906618"
+  },
+  {
+    "title": "When It Goes Down - From The Voice Of Germany",
+    "artist": "Gugu Zulu, Nico Santos",
+    "isrc": "DEUM72119622"
+  },
+  {
+    "title": "Ich wünschte du könntest das sehen - From The Voice Of Germany",
+    "artist": "Dimi Rompos",
+    "isrc": "DEUM71503723"
+  },
+  {
+    "title": "Do You Like What You See",
+    "artist": "Ivy Quainoo",
+    "isrc": "DEUM71103633"
+  },
+  {
+    "title": "Girl In A Big Shirt - From The Voice Of Germany",
+    "artist": "Katarina Mihaljević, Sarah Connor",
+    "isrc": "DEUM72119619"
+  },
+  {
+    "title": "House On Fire",
+    "artist": "Linda Elys",
+    "isrc": "CH0832303170"
+  },
+  {
+    "title": "Song For You",
+    "artist": "Sebastian Krenz, Unknown Brain",
+    "isrc": "DEA622201396"
+  },
+  {
+    "title": "If It Wasn't You - From The Voice Of Germany",
+    "artist": "Oliver Henrich, Stefanie Kloß, Yvonne Catterfeld",
+    "isrc": "DEUM72007035"
+  },
+  {
+    "title": "Above And Beyond - From The Voice Of Germany",
+    "artist": "Charlene & Florian Gallant, Mark Forster",
+    "isrc": "DEUM72119620"
+  },
+  {
+    "title": "Goodbye - From The Voice Of Germany",
+    "artist": "Claudia Emmanuela Santoso",
+    "isrc": "DEVQ71900026"
+  },
+  {
+    "title": "Unlove - From The Voice Of Germany",
+    "artist": "Lucas Rieger, Nico Santos",
+    "isrc": "DEUM71906638"
+  },
+  {
+    "title": "How Bout You - From The Voice Of Germany",
+    "artist": "Erwin Kintop, Rea Garvey",
+    "isrc": "DEUM71906637"
+  },
+  {
+    "title": "Lauf Baby lauf - From The Voice Of Germany",
+    "artist": "TAY",
+    "isrc": "DEUM71604836"
+  },
+  {
+    "title": "Niemals alleine - From The Voice Of Germany",
+    "artist": "The Voice Generations",
+    "isrc": "DEUM72002372"
+  },
+  {
+    "title": "The Sound Of Silence - From The Voice Of Germany",
+    "artist": "Behnam Moghaddam",
+    "isrc": "DEUM71103594"
+  },
+  {
+    "title": "Losing You",
+    "artist": "Mic Donet",
+    "isrc": "DEUM71103637"
+  },
+  {
+    "title": "Something Beautiful",
+    "artist": "Chris Schummert",
+    "isrc": "DESU21400043"
+  },
+  {
+    "title": "Sie sieht mich nicht - From The Voice Of Germany",
+    "artist": "Peer Richter",
+    "isrc": "DEUM71304465"
+  },
+  {
+    "title": "Fucking Beautiful",
+    "artist": "Judith Van Hel",
+    "isrc": "DEUM71304826"
+  },
+  {
+    "title": "Killing Me Softly With His Song - From The Voice Of Germany",
+    "artist": "Kim Sanders",
+    "isrc": "DEUM71200121"
+  },
+  {
+    "title": "Blue Heart",
+    "artist": "Charley Ann Schmutzler",
+    "isrc": "DEUM71404107"
+  },
+  {
+    "title": "Fast Car - From The Voice Of Germany",
+    "artist": "Bennie McMillan",
+    "isrc": "DEUM71104189"
+  },
+  {
+    "title": "Without You - From The Voice Of Germany",
+    "artist": "Rüdiger Skoczowsky",
+    "isrc": "DEUM71103580"
+  },
+  {
+    "title": "How Deep Is Your Love - From The Voice Of Germany",
+    "artist": "Rino Galiano",
+    "isrc": "DEUM71103581"
+  },
+  {
+    "title": "The Scientist - From The Voice Of Germany",
+    "artist": "Thorunn Egilsdottir",
+    "isrc": "DEUM71304497"
+  },
+  {
+    "title": "Somebody That I Used To Know - From The Voice Of Germany",
+    "artist": "Sharron Levy",
+    "isrc": "DEUM71103623"
+  },
+  {
+    "title": "Bis gleich - From The Voice Of Germany",
+    "artist": "Ayke Witt",
+    "isrc": "DEUM71503720"
+  },
+  {
+    "title": "Immer drei Stufen auf einmal (Giraffenaffensong)",
+    "artist": "Isabell Schmidt",
+    "isrc": "DEQR41300076"
+  },
+  {
+    "title": "Nothing Else Matters - From The Voice Of Germany",
+    "artist": "Jenna Hoff",
+    "isrc": "DEUM71203826"
+  },
+  {
+    "title": "Take Me To Church - From The Voice Of Germany",
+    "artist": "Lina Arndt",
+    "isrc": "DEUM71403919"
+  },
+  {
+    "title": "Alles gut - From The Voice Of Germany",
+    "artist": "Lucie Fischer",
+    "isrc": "DEUM71604835"
+  },
+  {
+    "title": "Umbrella - From The Voice Of Germany",
+    "artist": "Jazz Akkar",
+    "isrc": "DEUM71304460"
+  },
+  {
+    "title": "The Boys Of Summer - From The Voice Of Germany",
+    "artist": "Caro Trischler",
+    "isrc": "DEUM71304506"
+  },
+  {
+    "title": "They Don't Care About Us - From The Voice Of Germany",
+    "artist": "Marion Campbell",
+    "isrc": "DEUM71403925"
+  },
+  {
+    "title": "Hedonism - From The Voice Of Germany",
+    "artist": "Percival",
+    "isrc": "DEUM71104190"
+  },
+  {
+    "title": "Colourful Love",
+    "artist": "Keye Katcher",
+    "isrc": "DELJ81594852"
+  },
+  {
+    "title": "Frei - From The Voice Of Germany",
+    "artist": "Michael Bauereiß",
+    "isrc": "DEUM71503727"
+  },
+  {
+    "title": "Such A Shame - From The Voice Of Germany",
+    "artist": "Michel Schmied",
+    "isrc": "DEUM71203848"
+  },
+  {
+    "title": "One Thousand Voices - From The Voice Of Germany",
+    "artist": "The Voice Of Germany",
+    "isrc": "DEUM71304491"
+  },
+  {
+    "title": "Have You Ever Been In Love - From The Voice Of Germany",
+    "artist": "Tiffany Kemp",
+    "isrc": "DEUM71503728"
+  },
+  {
+    "title": "Rolling In The Deep - From The Voice Of Germany",
+    "artist": "Jasmin Graf, Michael Schulte",
+    "isrc": "DEUM71103630"
+  },
+  {
+    "title": "Dein Herz trägt Felsen",
+    "artist": "Eva Croissant",
+    "isrc": "SE3OH1700440"
+  },
+  {
+    "title": "Wir sehen uns wieder (feat. Paule, Malte & Philipp) - Main Mix",
+    "artist": "Ole, Paule, Malte, Philipp",
+    "isrc": "DEA810100093"
+  },
+  {
+    "title": "In Reverse - From The Voice Of Germany",
+    "artist": "Isabel Ment",
+    "isrc": "DEUM71503743"
+  },
+  {
+    "title": "Losgelöst - From The Voice Of Germany",
+    "artist": "BORIS ALEXANDER STEIN",
+    "isrc": "DEUM71604844"
+  },
+  {
+    "title": "Ein Letztes Mal",
+    "artist": "Charles Simmons, Benét Monteiro, Original Hamburg Cast of Hamilton",
+    "isrc": "USAT22305117"
+  },
+  {
+    "title": "Flugzeuge im Bauch - From The Voice Of Germany",
+    "artist": "Katja Friedenberg",
+    "isrc": "DEUM71103606"
+  },
+  {
+    "title": "Disneyland - From The Voice Of Germany",
+    "artist": "Robin Resch",
+    "isrc": "DEUM71604834"
+  },
+  {
+    "title": "Roar - From The Voice Of Germany",
+    "artist": "Aalijah Tabatha Hahnemann",
+    "isrc": "DEUM71304503"
+  },
+  {
+    "title": "Eiserner Steg - From The Voice Of Germany",
+    "artist": "Benny Fiedler",
+    "isrc": "DEUM71103596"
+  },
+  {
+    "title": "Let's Stay Together - From The Voice Of Germany",
+    "artist": "C. Jay",
+    "isrc": "DEUM71104187"
+  },
+  {
+    "title": "Aufgehende Sterne",
+    "artist": "Dominic Sanz",
+    "isrc": "DEP471600001"
+  },
+  {
+    "title": "Walzer für Niemand - From The Voice Of Germany",
+    "artist": "Emily Intsiful",
+    "isrc": "DEUM71304499"
+  },
+  {
+    "title": "Wonderful Life - From The Voice Of Germany",
+    "artist": "John Noville",
+    "isrc": "DEUM71304498"
+  },
+  {
+    "title": "Save Me",
+    "artist": "Ramona Nerra",
+    "isrc": "DELD90803560"
+  },
+  {
+    "title": "Sway - From The Voice Of Germany",
+    "artist": "Romina Amann",
+    "isrc": "DEUM71304489"
+  },
+  {
+    "title": "Teenage Dirtbag - From The Voice Of Germany",
+    "artist": "Sahar Haluzy",
+    "isrc": "DEUM71103587"
+  },
+  {
+    "title": "A Thousand Years - From The Voice Of Germany",
+    "artist": "Tal Ofarim",
+    "isrc": "DEUM71304505"
+  },
+  {
+    "title": "Weak - From The Voice Of Germany",
+    "artist": "Yvonne Rüller",
+    "isrc": "DEUM71304488"
+  },
+  {
+    "title": "How Am I Supposed To Live Without You - From The Voice Of Germany",
+    "artist": "Rayland Horton",
+    "isrc": "DEUM71203820"
+  },
+  {
+    "title": "Allein zu zweit - From The Voice Of Germany",
+    "artist": "Flo Unger",
+    "isrc": "DEUM71604833"
+  },
+  {
+    "title": "Junimond - From The Voice Of Germany",
+    "artist": "Lisa Martine Weller",
+    "isrc": "DEUM71103592"
+  },
+  {
+    "title": "Wrecking Ball - From The Voice Of Germany",
+    "artist": "Tesiree Priti",
+    "isrc": "DEUM71304487"
+  },
+  {
+    "title": "Fix You - From The Voice Of Germany",
+    "artist": "Ben Dettinger",
+    "isrc": "DEUM71403874"
+  },
+  {
+    "title": "Engel - From The Voice Of Germany",
+    "artist": "Philipp Leon Altmeyer",
+    "isrc": "DEUM71403870"
+  },
+  {
+    "title": "Survivor - From The Voice Of Germany",
+    "artist": "Anna Liza Risse",
+    "isrc": "DEUM71403926"
+  },
+  {
+    "title": "Bad - From The Voice Of Germany",
+    "artist": "Tiana Kruskic",
+    "isrc": "DEUM71304496"
+  },
+  {
+    "title": "Angst vor dir",
+    "artist": "Yasmin Sidibe",
+    "isrc": "DEZC62492735"
+  },
+  {
+    "title": "Mein Herz singt - From The Voice Of Germany",
+    "artist": "Friedemann Petter",
+    "isrc": "DEUM71604839"
+  },
+  {
+    "title": "Free Your Mind - From The Voice Of Germany",
+    "artist": "Nina Kutschera",
+    "isrc": "DEUM71103591"
+  },
+  {
+    "title": "Loveless - From The Voice Of Germany",
+    "artist": "Denise Beiler",
+    "isrc": "DEUM71503722"
+  },
+  {
+    "title": "Stand My Ground - From The Voice Of Germany",
+    "artist": "Tobias Vorwerk",
+    "isrc": "DEUM71503729"
+  },
+  {
+    "title": "Take On Me - From The Voice Of Germany",
+    "artist": "Aisata Blackman",
+    "isrc": "DEUM71203858"
+  },
+  {
+    "title": "Stronger - From The Voice Of Germany",
+    "artist": "Alex Hartung",
+    "isrc": "DEUM71403871"
+  },
+  {
+    "title": "All the Way - Neonsound Remix",
+    "artist": "Andrei Vesa, Neonsound",
+    "isrc": "DEGD31500709"
+  },
+  {
+    "title": "Seven Nation Army - From The Voice Of Germany",
+    "artist": "Anina Schibli",
+    "isrc": "DEUM71304504"
+  },
+  {
+    "title": "It Will Rain - From The Voice Of Germany",
+    "artist": "Bianca Böhme",
+    "isrc": "DEUM71203825"
+  },
+  {
+    "title": "Schritt für Schritt ins Paradies - From The Voice Of Germany",
+    "artist": "Brigitte Lorenz, Isabell Schmidt",
+    "isrc": "DEUM71204440"
+  },
+  {
+    "title": "Magic - From The Voice Of Germany",
+    "artist": "Calvin Bynum",
+    "isrc": "DEUM71403927"
+  },
+  {
+    "title": "Ritalin (Bonus Track)",
+    "artist": "Carlos Jerez",
+    "isrc": "QM2PV1635516"
+  },
+  {
+    "title": "Make Me Do The Right Thing - From The Voice Of Germany",
+    "artist": "Cheryl Vorsterman van Oijen",
+    "isrc": "DEUM71503721"
+  },
+  {
+    "title": "Sounded Like U Said - Radio Version",
+    "artist": "Christin Kieu",
+    "isrc": "DEN951104037"
+  },
+  {
+    "title": "Chandelier - From The Voice Of Germany",
+    "artist": "Daniel Mehrsadeh",
+    "isrc": "DEUM71403921"
+  },
+  {
+    "title": "Celebrating 30 Years of Hyla",
+    "artist": "David Whitley",
+    "isrc": "TCAFQ2161479"
+  },
+  {
+    "title": "Zünde alle Feuer - From The Voice Of Germany",
+    "artist": "Evi Lancora",
+    "isrc": "DEUM71203830"
+  },
+  {
+    "title": "No Ordinary Love - From The Voice Of Germany",
+    "artist": "Freaky T, Michael Lane",
+    "isrc": "DEUM71204439"
+  },
+  {
+    "title": "Lonely",
+    "artist": "James Borges",
+    "isrc": "DEUM71204420"
+  },
+  {
+    "title": "Zurück - From The Voice Of Germany",
+    "artist": "Jesper Jürgens",
+    "isrc": "DEUM71203835"
+  },
+  {
+    "title": "Peace",
+    "artist": "Joshua Harfst",
+    "isrc": "DEAF42300099"
+  },
+  {
+    "title": "Dog Days Are Over - From The Voice Of Germany",
+    "artist": "Karo Fruhner",
+    "isrc": "DEUM71203828"
+  },
+  {
+    "title": "Meine Worte - From The Voice Of Germany",
+    "artist": "Katharina Schoofs",
+    "isrc": "DEUM71304458"
+  },
+  {
+    "title": "Running Up That Hill - From The Voice Of Germany",
+    "artist": "Katrin Ringling",
+    "isrc": "DEUM71403877"
+  },
+  {
+    "title": "Sunrise - From The Voice Of Germany",
+    "artist": "Laura Kattan",
+    "isrc": "DEUM71304501"
+  },
+  {
+    "title": "So vertraut",
+    "artist": "Lena Sicks, Kathrin Sicks",
+    "isrc": "DEKS32000101"
+  },
+  {
+    "title": "After Dark - From The Voice Of Germany",
+    "artist": "Lida Martel",
+    "isrc": "DEUM71203866"
+  },
+  {
+    "title": "Stay - From The Voice Of Germany",
+    "artist": "Marcel Gabriel",
+    "isrc": "DEUM71203840"
+  },
+  {
+    "title": "Queen Of The Night - From The Voice Of Germany",
+    "artist": "Mary Summer",
+    "isrc": "DEUM71503726"
+  },
+  {
+    "title": "Broken Heart - From The Voice Of Germany",
+    "artist": "Matthias Nzola Zanquila",
+    "isrc": "DEUM71503742"
+  },
+  {
+    "title": "Imagine",
+    "artist": "Menna Mulugeta, Gernot Blume",
+    "isrc": "DEL212103362"
+  },
+  {
+    "title": "If I Had To - From The Voice Of Germany",
+    "artist": "Michael Caliman",
+    "isrc": "DEUM71604837"
+  },
+  {
+    "title": "Words (Try To Hold On)",
+    "artist": "Michael Heinemann",
+    "isrc": "DEUM71204417"
+  },
+  {
+    "title": "Roll Up",
+    "artist": "Michelle Perera",
+    "isrc": "ITUFK2308028"
+  },
+  {
+    "title": "Yalla tnam Rima",
+    "artist": "Momo Djender",
+    "isrc": "DEB111301306"
+  },
+  {
+    "title": "Here And Now",
+    "artist": "Nader Rahy",
+    "isrc": "QZNWQ2342274"
+  },
+  {
+    "title": "Symphonie - From The Voice Of Germany",
+    "artist": "Nilima Chowdhury",
+    "isrc": "DEUM71304490"
+  },
+  {
+    "title": "Rude - From The Voice Of Germany",
+    "artist": "René Lugonic",
+    "isrc": "DEUM71403924"
+  },
+  {
+    "title": "Breaking Out - From The Voice Of Germany",
+    "artist": "Robert Ildefonso",
+    "isrc": "DEUM71604843"
+  },
+  {
+    "title": "However It Ends - From The Voice Of Germany",
+    "artist": "Stas Schurins",
+    "isrc": "DEUM71604832"
+  },
+  {
+    "title": "Lass die Musik an - From The Voice Of Germany",
+    "artist": "Stephanie Kurpisch",
+    "isrc": "DEUM71403873"
+  },
+  {
+    "title": "Read All About It Part III - From The Voice Of Germany",
+    "artist": "Tiffany Kirkland",
+    "isrc": "DEUM71203874"
+  },
+  {
+    "title": "Strong - From The Voice Of Germany",
+    "artist": "Violeta Kokollari",
+    "isrc": "DEUM71304455"
+  },
+  {
+    "title": "Waterfall",
+    "artist": "Michael Schulte, R3HAB",
+    "isrc": "DEUM72119688"
+  },
+  {
+    "title": "Someone Better - From The Voice Of Germany",
+    "artist": "Paula Dalla Corte, Rea Garvey, Samu Haber",
+    "isrc": "DEUM72007034"
+  },
+  {
+    "title": "Ready To Leave",
+    "artist": "POLA",
+    "isrc": "DEZC62406597"
+  },
+  {
+    "title": "simp",
+    "artist": "Maël & Jonas",
+    "isrc": "QMDA72297657"
+  },
+  {
+    "title": "Pink Jumper",
+    "artist": "Tosi Udayana",
+    "isrc": "QZHNB2121502"
+  },
+  {
+    "title": "Warte Mal - From The Voice Of Germany",
+    "artist": "Fidi Steinbeck, Mark Forster",
+    "isrc": "DEUM71906619"
+  },
+  {
+    "title": "Ride Or Die",
+    "artist": "Gugu Zulu",
+    "isrc": "uscgh2139566"
+  },
+  {
+    "title": "Nachts um 3",
+    "artist": "Freschta Akbarzada",
+    "isrc": "CH7812179736"
+  },
+  {
+    "title": "Wenn das Liebe ist",
+    "artist": "Dimi Rompos",
+    "isrc": "DEZC62389256"
+  },
+  {
+    "title": "Hilflos",
+    "artist": "Ivy Quainoo, Benét Monteiro, Chasity Crisp, Original Hamburg Cast of Hamilton",
+    "isrc": "USAT22305109"
+  },
+  {
+    "title": "Wonders In A Mad World",
+    "artist": "Sebastian Krenz",
+    "isrc": "DEZC62203160"
+  },
+  {
+    "title": "Hurry",
+    "artist": "Linda Elys",
+    "isrc": "CH0832303190"
+  },
+  {
+    "title": "If I Try",
+    "artist": "Claudia Emmanuela Santoso",
+    "isrc": "FR10S2301419"
+  },
+  {
+    "title": "Forget About It",
+    "artist": "Lucas Rieger",
+    "isrc": "ATCI02100047"
+  },
+  {
+    "title": "Es Tut Mir Doch so Leid (Cover)",
+    "artist": "Erwin Kintop",
+    "isrc": "TCAGE2247821"
+  },
+  {
+    "title": "Lauf Baby lauf - Akustik Version",
+    "artist": "TAY",
+    "isrc": "DEUM71700018"
+  },
+  {
+    "title": "Hurt - From The Voice Of Germany",
+    "artist": "Behnam Moghaddam",
+    "isrc": "DEUM71103614"
+  },
+  {
+    "title": "Panzerglas",
+    "artist": "Mic Donet",
+    "isrc": "DEZC62176535"
+  },
+  {
+    "title": "The Singer",
+    "artist": "Chris Schummert",
+    "isrc": "DEUM71304882"
+  },
+  {
+    "title": "Himmel",
+    "artist": "Peer Richter",
+    "isrc": "DEUM71304859"
+  },
+  {
+    "title": "The Power Of Love - From The Voice Of Germany",
+    "artist": "Judith Van Hel",
+    "isrc": "DEUM71304485"
+  },
+  {
+    "title": "In the Air Tonight",
+    "artist": "Kim Sanders",
+    "isrc": "DEMV91503003"
+  },
+  {
+    "title": "Yellow - From The Voice Of Germany",
+    "artist": "Charley Ann Schmutzler",
+    "isrc": "DEUM71403872"
+  },
+  {
+    "title": "Marry You - From The Voice Of Germany",
+    "artist": "Bennie McMillan",
+    "isrc": "DEUM71103588"
+  },
+  {
+    "title": "Über sieben Brücken musst du gehen - From The Voice Of Germany",
+    "artist": "Rino Galiano",
+    "isrc": "DEUM71103605"
+  },
+  {
+    "title": "Drowning",
+    "artist": "Sharron Levy",
+    "isrc": "DEUM71103640"
+  },
+  {
+    "title": "Nimmst du mich mit",
+    "artist": "Isabell Schmidt",
+    "isrc": "DELJ81612907"
+  },
+  {
+    "title": "Skyfall - From The Voice Of Germany",
+    "artist": "Jenna Hoff",
+    "isrc": "DEUM71203827"
+  },
+  {
+    "title": "Love In A Cold Room",
+    "artist": "Lina Arndt",
+    "isrc": "DEUM71404110"
+  },
+  {
+    "title": "Vou Deitar E Rolar",
+    "artist": "Caro Trischler",
+    "isrc": "DEK502008802"
+  },
+  {
+    "title": "Lifetime",
+    "artist": "Marion Campbell",
+    "isrc": "DEUM71404112"
+  },
+  {
+    "title": "Seven Nation Army - From The Voice Of Germany",
+    "artist": "Percival",
+    "isrc": "DEUM71103597"
+  },
+  {
+    "title": "Love And Pain",
+    "artist": "Keye Katcher",
+    "isrc": "DELJ82018542"
+  },
+  {
+    "title": "It's You",
+    "artist": "Tiffany Kemp",
+    "isrc": "DENL81607430"
+  },
+  {
+    "title": "So schwer",
+    "artist": "Jasmin Graf",
+    "isrc": "DEUM71103634"
+  },
+  {
+    "title": "Nimm dein Leben in die Hand",
+    "artist": "Eva Croissant",
+    "isrc": "SE3OH1700443"
+  },
+  {
+    "title": "Weinst du - From The Voice Of Germany",
+    "artist": "Ole",
+    "isrc": "DEUM71103621"
+  },
+  {
+    "title": "I Cant Tell You Why - remake",
+    "artist": "Charles Simmons, Cassandra Steen",
+    "isrc": "DEN680500006"
+  },
+  {
+    "title": "Turning Tables - From The Voice Of Germany",
+    "artist": "Katja Friedenberg",
+    "isrc": "DEUM71103582"
+  },
+  {
+    "title": "Guitar and a Heartbeat",
+    "artist": "Robin Resch",
+    "isrc": "DEA621800942"
+  },
+  {
+    "title": "Wenn Worte meine Sprache wären - From The Voice Of Germany",
+    "artist": "Benny Fiedler",
+    "isrc": "DEUM71103616"
+  },
+  {
+    "title": "With Or Without You - From The Voice Of Germany",
+    "artist": "Dominic Sanz",
+    "isrc": "DEUM71103579"
+  },
+  {
+    "title": "Freunde",
+    "artist": "Emily Intsiful",
+    "isrc": "DEUM71304861"
+  },
+  {
+    "title": "Firework - From The Voice Of Germany",
+    "artist": "Ramona Nerra",
+    "isrc": "DEUM71103584"
+  },
+  {
+    "title": "Travelling South",
+    "artist": "Ben Dettinger",
+    "isrc": "DEUM71404113"
+  },
+  {
+    "title": "Vollgas voraus",
+    "artist": "Philipp Leon Altmeyer",
+    "isrc": "DEUM71404108"
+  },
+  {
+    "title": "Raus",
+    "artist": "Tiana Kruskic",
+    "isrc": "DEUM71304884"
+  },
+  {
+    "title": "Nicht allein",
+    "artist": "Yasmin Sidibe",
+    "isrc": "DEZC62296061"
+  },
+  {
+    "title": "Run (Say Whatcha Want)",
+    "artist": "Nina Kutschera",
+    "isrc": "CH6540837658"
+  },
+  {
+    "title": "Proud Mary",
+    "artist": "Denise Beiler",
+    "isrc": "ATX742301215"
+  },
+  {
+    "title": "You Said You'd Grow Old With Me",
+    "artist": "Michael Schulte",
+    "isrc": "DEPT21200057"
+  },
+  {
+    "title": "Okay",
+    "artist": "POLA",
+    "isrc": "DEZC62354240"
+  },
+  {
+    "title": "Ugly Beauty",
+    "artist": "Paula Dalla Corte",
+    "isrc": "DEUM72403608"
+  },
+  {
+    "title": "my love",
+    "artist": "Maël & Jonas",
+    "isrc": "QMFMF2322302"
+  },
+  {
+    "title": "Can't Remember a Day",
+    "artist": "Tosi Udayana",
+    "isrc": "QZK6H2340194"
+  },
+  {
+    "title": "Leicht",
+    "artist": "Fidi Steinbeck",
+    "isrc": "DEX402200001"
+  },
+  {
+    "title": "Dream",
+    "artist": "Gugu Zulu",
+    "isrc": "ZAC031700737"
+  },
+  {
+    "title": "Watan",
+    "artist": "Freschta Akbarzada",
+    "isrc": "CH7812239073"
+  },
+  {
+    "title": "Zeig mir",
+    "artist": "Dimi Rompos",
+    "isrc": "DEZC62357496"
+  },
+  {
+    "title": "Die Schuyler Schwestern",
+    "artist": "Ivy Quainoo, Chasity Crisp, Mae Ann Jorolan, Gino Emnes, Original Hamburg Cast of Hamilton",
+    "isrc": "USAT22305107"
+  },
+  {
+    "title": "What They Call Life - From The Voice Of Germany",
+    "artist": "Sebastian Krenz, Johannes Oerding",
+    "isrc": "DEUM72119621"
+  },
+  {
+    "title": "Happy New Year",
+    "artist": "Claudia Emmanuela Santoso, IYO",
+    "isrc": "QZWFQ2342981"
+  },
+  {
+    "title": "How To Fall In Love - From The Voice Of Germany",
+    "artist": "Linda Elys, ELIF",
+    "isrc": "DEUM72119623"
+  },
+  {
+    "title": "Grüne Augen",
+    "artist": "Erwin Kintop",
+    "isrc": "QZES82395937"
+  },
+  {
+    "title": "Stillstand",
+    "artist": "TAY",
+    "isrc": "FRX201951034"
+  },
+  {
+    "title": "Travel These Streets",
+    "artist": "Mic Donet",
+    "isrc": "DEUM71201023"
+  },
+  {
+    "title": "Anything Goes",
+    "artist": "Chris Schummert",
+    "isrc": "DESU21400037"
+  },
+  {
+    "title": "Verrückt sein",
+    "artist": "Judith Van Hel",
+    "isrc": "DELJ81826111"
+  },
+  {
+    "title": "Haunted",
+    "artist": "Kim Sanders",
+    "isrc": "DEUM71103635"
+  },
+  {
+    "title": "All Night Long (All Night) - From The Voice Of Germany",
+    "artist": "Rino Galiano",
+    "isrc": "DEUM71103619"
+  },
+  {
+    "title": "Sex on Fire (Live)",
+    "artist": "Sharron Levy",
+    "isrc": "DET461900425"
+  },
+  {
+    "title": "Losing My Religion - From The Voice Of Germany",
+    "artist": "Isabell Schmidt",
+    "isrc": "DEUM71203857"
+  },
+  {
+    "title": "Always You",
+    "artist": "Lina Arndt",
+    "isrc": "QZFZ62259682"
+  },
+  {
+    "title": "Skylark - live",
+    "artist": "Caro Trischler",
+    "isrc": "DEK502008803"
+  },
+  {
+    "title": "Latha Dhan Fhinn Am Beinn Longnaidh",
+    "artist": "Marion Campbell",
+    "isrc": "GBBDY1502619"
+  }
+]

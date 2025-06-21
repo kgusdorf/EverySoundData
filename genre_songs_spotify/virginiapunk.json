@@ -1,0 +1,967 @@
+[
+  {
+    "title": "Simple Song",
+    "artist": "Avail",
+    "isrc": "USA6M0511001"
+  },
+  {
+    "title": "Sadistic Magician",
+    "artist": "Municipal Waste",
+    "isrc": "GBBPB0702073"
+  },
+  {
+    "title": "Nuclear Child",
+    "artist": "Public Acid",
+    "isrc": "GBSMU9064022"
+  },
+  {
+    "title": "Arrested",
+    "artist": "Government Warning",
+    "isrc": "USQY50969017"
+  },
+  {
+    "title": "E X I T",
+    "artist": "Division Of Mind",
+    "isrc": "QMCE71302617"
+  },
+  {
+    "title": "The Prophecy",
+    "artist": "Bracewar",
+    "isrc": "QMCE71302155"
+  },
+  {
+    "title": "Last Grasp",
+    "artist": "Hard Stripes",
+    "isrc": "QMCE71303152"
+  },
+  {
+    "title": "Fake",
+    "artist": "Direct Control",
+    "isrc": "QM6P41540796"
+  },
+  {
+    "title": "I'm Your Opposite Number",
+    "artist": "Strike Anywhere",
+    "isrc": "US2Y70912602"
+  },
+  {
+    "title": "Manufactured",
+    "artist": "Break Away",
+    "isrc": "QM6N21771169"
+  },
+  {
+    "title": "Miserable Failure",
+    "artist": "Iron Reagan",
+    "isrc": "US2641427006"
+  },
+  {
+    "title": "Integrity",
+    "artist": "Smoke Or Fire",
+    "isrc": "USFW41073501"
+  },
+  {
+    "title": "When I Rest I Rust",
+    "artist": "Down To Nothing",
+    "isrc": "USB4U1315301"
+  },
+  {
+    "title": "You Will Never Get Me",
+    "artist": "CANDY, Justice Tripp",
+    "isrc": "US2642454903"
+  },
+  {
+    "title": "Treetops",
+    "artist": "Doll Baby",
+    "isrc": "QZDA82483978"
+  },
+  {
+    "title": "Stakes Is High",
+    "artist": "Count Me Out",
+    "isrc": "US5740804806"
+  },
+  {
+    "title": "Bizarre",
+    "artist": "Iron Boots",
+    "isrc": "USB4U0400048"
+  },
+  {
+    "title": "My Rules",
+    "artist": "Nosebleed",
+    "isrc": "USQY51789490"
+  },
+  {
+    "title": "Smile",
+    "artist": "Talk Me Off",
+    "isrc": "QZ5F42000020"
+  },
+  {
+    "title": "Dead Idols",
+    "artist": "Cloak/Dagger",
+    "isrc": "USA6M0912802"
+  },
+  {
+    "title": "Hexer",
+    "artist": "Mutually Assured Destruction",
+    "isrc": "QZK6Q2447621"
+  },
+  {
+    "title": "Sick of You",
+    "artist": "Gwar",
+    "isrc": "USTAC0900019"
+  },
+  {
+    "title": "Hostage",
+    "artist": "Wasted Time",
+    "isrc": "USQY50968640"
+  },
+  {
+    "title": "Forever Family",
+    "artist": "Ann Beretta",
+    "isrc": "QZFZ22268057"
+  },
+  {
+    "title": "Bite My Tongue",
+    "artist": "Fried Egg",
+    "isrc": "GBSMU6050942"
+  },
+  {
+    "title": "I Wish I Was A Riot Grrrl",
+    "artist": "Destructo Disk",
+    "isrc": "QMEZE1841661"
+  },
+  {
+    "title": "I Was Going to Shave My Beard, But It Took a Nap Instead",
+    "artist": "Sports Bar",
+    "isrc": "ushm21807949"
+  },
+  {
+    "title": "Church Of Winter",
+    "artist": "True Body",
+    "isrc": "QZES52185712"
+  },
+  {
+    "title": "Punk's Not Dead (But I Hear You Are)",
+    "artist": "Bad Magic",
+    "isrc": "SEYOK1729102"
+  },
+  {
+    "title": "Hanover St.",
+    "artist": "The Goodbye Forevers",
+    "isrc": "usdy41730907"
+  },
+  {
+    "title": "In love with an apparition",
+    "artist": "Pageninetynine",
+    "isrc": "US4R70600048"
+  },
+  {
+    "title": "Miles to Go Before I Sleep",
+    "artist": "Toward Space",
+    "isrc": "usdy42316319"
+  },
+  {
+    "title": "Unite the Right in Hell",
+    "artist": "Cement Shoes",
+    "isrc": "GBSMU6532449"
+  },
+  {
+    "title": "Edge of Plain",
+    "artist": "Serqet",
+    "isrc": "USQY51790981"
+  },
+  {
+    "title": "Pickle",
+    "artist": "Fun Size",
+    "isrc": "USA2P1652473"
+  },
+  {
+    "title": "Rinse and Repeat",
+    "artist": "Large Margin",
+    "isrc": "QZES61884565"
+  },
+  {
+    "title": "Empty Handed",
+    "artist": "House & Home",
+    "isrc": "QZES62162435"
+  },
+  {
+    "title": "Silaluk",
+    "artist": "Shadow Age",
+    "isrc": "USQY51534689"
+  },
+  {
+    "title": "Holy Hell",
+    "artist": "Loud Night",
+    "isrc": "QZK6H2038099"
+  },
+  {
+    "title": "I've Got It All",
+    "artist": "Ceremony",
+    "isrc": "ushm81896830"
+  },
+  {
+    "title": "Values And Instabilities",
+    "artist": "4 Walls Falling",
+    "isrc": "USA6M0400101"
+  },
+  {
+    "title": "Barbells",
+    "artist": "X-Cops",
+    "isrc": "USMBR0502468"
+  },
+  {
+    "title": "Over and Over",
+    "artist": "Skywave",
+    "isrc": "US28E1514204"
+  },
+  {
+    "title": "Taki Tachibana",
+    "artist": "Padfoot",
+    "isrc": "QZ8LD1922454"
+  },
+  {
+    "title": "The Champagne or the Molotovs",
+    "artist": "Love Roses",
+    "isrc": "ushm92177077"
+  },
+  {
+    "title": "Numbers",
+    "artist": "Prayer Group",
+    "isrc": "QZDA72254905"
+  },
+  {
+    "title": "Hooker Piss",
+    "artist": "Landmines",
+    "isrc": "USAAT1110145"
+  },
+  {
+    "title": "pink lemonade",
+    "artist": "Drop the Girl",
+    "isrc": "QZFZ52080524"
+  },
+  {
+    "title": "The Wreck of the Chrysler LeBaron",
+    "artist": "Southside Stranglers",
+    "isrc": "QMSX21100007"
+  },
+  {
+    "title": "Collapse",
+    "artist": "Boxford",
+    "isrc": "QZES81818424"
+  },
+  {
+    "title": "Thoughts on My Enounter with Martin Luther King III",
+    "artist": "Murphy's Kids",
+    "isrc": "USQY50926246"
+  },
+  {
+    "title": "Human Plague",
+    "artist": "Future Terror",
+    "isrc": "QZES52077039"
+  },
+  {
+    "title": "Car Crash Lullaby",
+    "artist": "Jesuit",
+    "isrc": "US76L1100013"
+  },
+  {
+    "title": "Nailed to a Cross",
+    "artist": "Buck Gooter",
+    "isrc": "USA2B2101986"
+  },
+  {
+    "title": "The Message",
+    "artist": "Street Weapon",
+    "isrc": "QZES91896464"
+  },
+  {
+    "title": "Bronze",
+    "artist": "Teenage Cenobite",
+    "isrc": "QZ4JJ1987227"
+  },
+  {
+    "title": "Doorstep (Taylor's Version)",
+    "artist": "Diet Blood",
+    "isrc": "QZK6F2370404"
+  },
+  {
+    "title": "Battle Plan",
+    "artist": "No-Heads",
+    "isrc": "QM4TX1950177"
+  },
+  {
+    "title": "In Spite Of",
+    "artist": "Affliction Kid",
+    "isrc": "uscgh0949493"
+  },
+  {
+    "title": "Emma Durutti",
+    "artist": "Alex Jonestown Massacre",
+    "isrc": "QZK6P2068744"
+  },
+  {
+    "title": "How Do I Tell My Parents I Have Anxiety",
+    "artist": "Anchor The Airship",
+    "isrc": "USA2P1692349"
+  },
+  {
+    "title": "O.C.D.",
+    "artist": "Compulse",
+    "isrc": "TCADU1871010"
+  },
+  {
+    "title": "The Monsters Bride",
+    "artist": "Creep-a-Zoids",
+    "isrc": "TCABY1472476"
+  },
+  {
+    "title": "Neoprene Dreams",
+    "artist": "Deathbirds Surf Club",
+    "isrc": "QZK6F2370294"
+  },
+  {
+    "title": "Thinking Of Me",
+    "artist": "Dover and the Elevators",
+    "isrc": "QZ5FN1987887"
+  },
+  {
+    "title": "Maimed",
+    "artist": "Dread State",
+    "isrc": "NL1AP1920126"
+  },
+  {
+    "title": "Shutter Eyes",
+    "artist": "Ear Theory",
+    "isrc": "uscgh1217584"
+  },
+  {
+    "title": "Punk to Me Is",
+    "artist": "Insubordination",
+    "isrc": "USTRP1200314"
+  },
+  {
+    "title": "In Dust, In Shadow, In Nothing",
+    "artist": "Kilgore Trout",
+    "isrc": "GB-SMU-19-26987"
+  },
+  {
+    "title": "Armed and Hammered / Paybacks",
+    "artist": "Like No Tomorrow",
+    "isrc": "UST8K1624422"
+  },
+  {
+    "title": "Acrylic Tuner",
+    "artist": "Newscaster",
+    "isrc": "QZES51967552"
+  },
+  {
+    "title": "Skittles",
+    "artist": "Nine Line",
+    "isrc": "QZFYZ1959507"
+  },
+  {
+    "title": "Transfixed Blues",
+    "artist": "Omega Boys",
+    "isrc": "QM2PV1565617"
+  },
+  {
+    "title": "Boner Forest",
+    "artist": "Pissing Contest",
+    "isrc": "usdy41938057"
+  },
+  {
+    "title": "Succubus",
+    "artist": "Satan's Satyrs",
+    "isrc": "US2641839204"
+  },
+  {
+    "title": "Gods Look Down",
+    "artist": "Scream",
+    "isrc": "US35U1608305"
+  },
+  {
+    "title": "A World Without You",
+    "artist": "Skeptical Walrus",
+    "isrc": "QZARB1809543"
+  },
+  {
+    "title": "Honestly",
+    "artist": "Someone Just Like You",
+    "isrc": "QZK6H2309152"
+  },
+  {
+    "title": "Never Forget",
+    "artist": "Springtime",
+    "isrc": "DET550500163"
+  },
+  {
+    "title": "Always Down",
+    "artist": "Stake",
+    "isrc": "USQY51791141"
+  },
+  {
+    "title": "Eating Each Other Alive.Pestilent.Fecalized",
+    "artist": "Suppression",
+    "isrc": "QM6MZ2484713"
+  },
+  {
+    "title": "Friends",
+    "artist": "Teen Death",
+    "isrc": "USA2P1435362"
+  },
+  {
+    "title": "Train Wreck",
+    "artist": "Ten 33",
+    "isrc": "USDLH0900802"
+  },
+  {
+    "title": "Gimmie All Your Cand (Or I'll Burn Your House Down)",
+    "artist": "The Blue Rajas",
+    "isrc": "TCACA1404247"
+  },
+  {
+    "title": "We Work Real Hard",
+    "artist": "The Can-Do Attitude",
+    "isrc": "QZES81893343"
+  },
+  {
+    "title": "Styrofoam Gravestones",
+    "artist": "The Cemetery Boys",
+    "isrc": "NLS6R1871238"
+  },
+  {
+    "title": "Get Your Concepts Off My Raw Fish!",
+    "artist": "The Falsies",
+    "isrc": "uscgh0685791"
+  },
+  {
+    "title": "Young Scum",
+    "artist": "The Milkstains",
+    "isrc": "TCADC1778563"
+  },
+  {
+    "title": "Invasion of the Brain Eating Blob",
+    "artist": "The Pyramidions",
+    "isrc": "GB-SMU-36-87289"
+  },
+  {
+    "title": "Angry With Myself",
+    "artist": "The Smirks",
+    "isrc": "GBBLY1803910"
+  },
+  {
+    "title": "Boy's Club",
+    "artist": "The Two Funerals",
+    "isrc": "USA2P1166171"
+  },
+  {
+    "title": "New Revolution",
+    "artist": "The Waking Hours",
+    "isrc": "usl4r0778399"
+  },
+  {
+    "title": "Talking",
+    "artist": "Thin Pigeon",
+    "isrc": "GBSMU5764530"
+  },
+  {
+    "title": "Two-Banana Habit",
+    "artist": "Thirteen Towers",
+    "isrc": "ushm81840367"
+  },
+  {
+    "title": "Children of the Clouds",
+    "artist": "Unmaker",
+    "isrc": "QZES51866272"
+  },
+  {
+    "title": "Julia",
+    "artist": "Veery",
+    "isrc": "SEYOK1636144"
+  },
+  {
+    "title": "Dumb Like That",
+    "artist": "Vroom",
+    "isrc": "ushm21178621"
+  },
+  {
+    "title": "The Art of Partying",
+    "artist": "Municipal Waste",
+    "isrc": "GBBPB0702062"
+  },
+  {
+    "title": "Deepwood",
+    "artist": "Avail",
+    "isrc": "USA6M0511101"
+  },
+  {
+    "title": "Ignorance",
+    "artist": "Public Acid",
+    "isrc": "GX8KD2491520"
+  },
+  {
+    "title": "Fat Nation",
+    "artist": "Government Warning",
+    "isrc": "USA2P1014737"
+  },
+  {
+    "title": "Death At Work (All Null)",
+    "artist": "Division Of Mind",
+    "isrc": "QMCE71302615"
+  },
+  {
+    "title": "The Race",
+    "artist": "Bracewar",
+    "isrc": "QMFME1579075"
+  },
+  {
+    "title": "Crash and Burn",
+    "artist": "Direct Control",
+    "isrc": "USA2P1264048"
+  },
+  {
+    "title": "Refusal",
+    "artist": "Strike Anywhere",
+    "isrc": "USA6M0406003"
+  },
+  {
+    "title": "Hell Block",
+    "artist": "Break Away",
+    "isrc": "QM4TW1515781"
+  },
+  {
+    "title": "Califonia's Burning",
+    "artist": "Smoke Or Fire",
+    "isrc": "USFW40568701"
+  },
+  {
+    "title": "A Dying World",
+    "artist": "Iron Reagan",
+    "isrc": "US2641735701"
+  },
+  {
+    "title": "Pipeline",
+    "artist": "Down To Nothing",
+    "isrc": "USHKB1003105"
+  },
+  {
+    "title": "Dose",
+    "artist": "Doll Baby",
+    "isrc": "QZHN42493973"
+  },
+  {
+    "title": "Love Like Snow",
+    "artist": "CANDY, MIRSY, mmph",
+    "isrc": "US2642454905"
+  },
+  {
+    "title": "What We Built",
+    "artist": "Count Me Out",
+    "isrc": "US5740802806"
+  },
+  {
+    "title": "Don't Come Back",
+    "artist": "Iron Boots",
+    "isrc": "USQY51295951"
+  },
+  {
+    "title": "Whitewash",
+    "artist": "Nosebleed",
+    "isrc": "USQY51789488"
+  },
+  {
+    "title": "Worry Wart",
+    "artist": "Talk Me Off",
+    "isrc": "QZ5F42000013"
+  },
+  {
+    "title": "Don't Need A",
+    "artist": "Cloak/Dagger",
+    "isrc": "USA6M0912803"
+  },
+  {
+    "title": "Forlorn",
+    "artist": "Mutually Assured Destruction",
+    "isrc": "QZK6Q2447622"
+  },
+  {
+    "title": "Shameless",
+    "artist": "Wasted Time",
+    "isrc": "USQY50968646"
+  },
+  {
+    "title": "Saddam a Go-Go",
+    "artist": "Gwar",
+    "isrc": "USMBR0400407"
+  },
+  {
+    "title": "Better Medicine",
+    "artist": "Ann Beretta, Chris DeMakes of Less Than Jake",
+    "isrc": "QZFZ22264825"
+  },
+  {
+    "title": "Why Bother",
+    "artist": "Fried Egg",
+    "isrc": "GBSMU6050946"
+  },
+  {
+    "title": "I Want to Waste Away with You",
+    "artist": "Sports Bar",
+    "isrc": "ushm21807944"
+  },
+  {
+    "title": "Cops / Dogs",
+    "artist": "Destructo Disk",
+    "isrc": "QMEZE1841658"
+  },
+  {
+    "title": "Television",
+    "artist": "True Body",
+    "isrc": "QZFZ32017230"
+  },
+  {
+    "title": "Bleed",
+    "artist": "Bad Magic",
+    "isrc": "SEYOK1729104"
+  },
+  {
+    "title": "Suicide Hotline Bling",
+    "artist": "The Goodbye Forevers",
+    "isrc": "usdy42096004"
+  },
+  {
+    "title": "Female Trouble",
+    "artist": "Toward Space",
+    "isrc": "usdy42316330"
+  },
+  {
+    "title": "Punk rock in the wrong hands",
+    "artist": "Pageninetynine",
+    "isrc": "US4R70600052"
+  },
+  {
+    "title": "Knocked into the Reptile Enclosure",
+    "artist": "Cement Shoes",
+    "isrc": "GBSMU7992965"
+  },
+  {
+    "title": "Oleander",
+    "artist": "Serqet",
+    "isrc": "USA2P1905389"
+  },
+  {
+    "title": "End of the Road",
+    "artist": "Fun Size",
+    "isrc": "USQY51392744"
+  },
+  {
+    "title": "Parent Corporation",
+    "artist": "Large Margin",
+    "isrc": "QZES61884562"
+  },
+  {
+    "title": "A Familiar Direction",
+    "artist": "House & Home",
+    "isrc": "QM6N22273555"
+  },
+  {
+    "title": "Reign",
+    "artist": "Shadow Age",
+    "isrc": "QZDA81823489"
+  },
+  {
+    "title": "Loud or Never",
+    "artist": "Loud Night",
+    "isrc": "QZK6H2038100"
+  },
+  {
+    "title": "Cold Cold Night",
+    "artist": "Ceremony",
+    "isrc": "usl4r0756369"
+  },
+  {
+    "title": "Culture Shock",
+    "artist": "4 Walls Falling",
+    "isrc": "USA6M0400102"
+  },
+  {
+    "title": "Light 'Em Up",
+    "artist": "X-Cops",
+    "isrc": "QZLS92400205"
+  },
+  {
+    "title": "All I Had",
+    "artist": "Skywave",
+    "isrc": "US28E1514213"
+  },
+  {
+    "title": "Chloe Price Deserved Better",
+    "artist": "Padfoot",
+    "isrc": "QZ8LD1922455"
+  },
+  {
+    "title": "Old Yeller's Got a Gun",
+    "artist": "Love Roses",
+    "isrc": "ushm92177080"
+  },
+  {
+    "title": "Spent",
+    "artist": "Prayer Group",
+    "isrc": "QZDA72254907"
+  },
+  {
+    "title": "Making Good On A Promise",
+    "artist": "Landmines",
+    "isrc": "USME30800781"
+  },
+  {
+    "title": "menthol",
+    "artist": "Drop the Girl",
+    "isrc": "QZFZ62058118"
+  },
+  {
+    "title": "Bon Voyage",
+    "artist": "Southside Stranglers",
+    "isrc": "QMSX21100001"
+  },
+  {
+    "title": "Incandescent",
+    "artist": "Boxford",
+    "isrc": "QZDA61851565"
+  },
+  {
+    "title": "The Anti-Corporate Beach Party",
+    "artist": "Murphy's Kids",
+    "isrc": "USQY50926241"
+  },
+  {
+    "title": "Toxic Greed",
+    "artist": "Future Terror",
+    "isrc": "QZES52077032"
+  },
+  {
+    "title": "Hole in the Sky",
+    "artist": "Jesuit",
+    "isrc": "US76L1100016"
+  },
+  {
+    "title": "Apocalypse Me",
+    "artist": "Buck Gooter",
+    "isrc": "USQY51751397"
+  },
+  {
+    "title": "Intro / Street Weapon",
+    "artist": "Street Weapon",
+    "isrc": "QZES91896461"
+  },
+  {
+    "title": "Smiling Troublemaker",
+    "artist": "Teenage Cenobite",
+    "isrc": "QZ4JJ1987225"
+  },
+  {
+    "title": "You Can't 619 in a Cage Match",
+    "artist": "Diet Blood",
+    "isrc": "QZK6F2370402"
+  },
+  {
+    "title": "Bread & Roses",
+    "artist": "No-Heads",
+    "isrc": "QZTBD2334469"
+  },
+  {
+    "title": "Through This Life",
+    "artist": "Affliction Kid",
+    "isrc": "uscgh0949494"
+  },
+  {
+    "title": "All You Fascists",
+    "artist": "Alex Jonestown Massacre",
+    "isrc": "GB-SMU-51-51069"
+  },
+  {
+    "title": "Ace in My Sleeve",
+    "artist": "Anchor The Airship",
+    "isrc": "USA2P1692350"
+  },
+  {
+    "title": "Bridges Burned",
+    "artist": "Compulse",
+    "isrc": "TCADU1871030"
+  },
+  {
+    "title": "No More Waves in the Black Lagoon",
+    "artist": "Creep-a-Zoids",
+    "isrc": "TCABY1472448"
+  },
+  {
+    "title": "Fall in Place",
+    "artist": "Deathbirds Surf Club",
+    "isrc": "QZK6F2370298"
+  },
+  {
+    "title": "Don't Come Around",
+    "artist": "Dover and the Elevators",
+    "isrc": "QZ5FN1987871"
+  },
+  {
+    "title": "Kill You",
+    "artist": "Dread State",
+    "isrc": "NL1AP1920128"
+  },
+  {
+    "title": "August",
+    "artist": "Avail",
+    "isrc": "USA6M0511103"
+  },
+  {
+    "title": "Grave Dive",
+    "artist": "Municipal Waste",
+    "isrc": "DED832100343"
+  },
+  {
+    "title": "Flag Fetish",
+    "artist": "Public Acid",
+    "isrc": "GBSMU9064027"
+  },
+  {
+    "title": "Sick Of Home",
+    "artist": "Government Warning",
+    "isrc": "USA2P1014743"
+  },
+  {
+    "title": "Auto-Da-Fé",
+    "artist": "Division Of Mind",
+    "isrc": "QMCE71302616"
+  },
+  {
+    "title": "To The World",
+    "artist": "Strike Anywhere",
+    "isrc": "USA6M0408704"
+  },
+  {
+    "title": "Step to Me",
+    "artist": "Break Away",
+    "isrc": "QM4TW1515782"
+  },
+  {
+    "title": "The Patty Hearst Syndrome",
+    "artist": "Smoke Or Fire",
+    "isrc": "USFW40771702"
+  },
+  {
+    "title": "Tyranny of Will",
+    "artist": "Iron Reagan",
+    "isrc": "US2641427001"
+  },
+  {
+    "title": "No Leash",
+    "artist": "Down To Nothing",
+    "isrc": "USB4U1315305"
+  },
+  {
+    "title": "Fleas",
+    "artist": "Doll Baby",
+    "isrc": "QZHN42493974"
+  },
+  {
+    "title": "Another Year",
+    "artist": "Count Me Out",
+    "isrc": "US5740802803"
+  },
+  {
+    "title": "Easy Green",
+    "artist": "Iron Boots",
+    "isrc": "USQY51295942"
+  },
+  {
+    "title": "Human Condition Above Human Opinion",
+    "artist": "CANDY",
+    "isrc": "US2642146801"
+  },
+  {
+    "title": "Reality Check",
+    "artist": "Nosebleed",
+    "isrc": "GB-SMU-36-33261"
+  },
+  {
+    "title": "Insidious",
+    "artist": "Talk Me Off",
+    "isrc": "QZ5F42000019"
+  },
+  {
+    "title": "Walk the Block",
+    "artist": "Cloak/Dagger",
+    "isrc": "USA6M0712506"
+  },
+  {
+    "title": "Between Two Fires",
+    "artist": "Mutually Assured Destruction",
+    "isrc": "QZK6Q2447623"
+  },
+  {
+    "title": "Burning Bridges To Keep Warm",
+    "artist": "Wasted Time",
+    "isrc": "USQY50968636"
+  },
+  {
+    "title": "Eye For An Eye",
+    "artist": "Ann Beretta",
+    "isrc": "QZFZ22268144"
+  },
+  {
+    "title": "Immortal Corrupter",
+    "artist": "Gwar",
+    "isrc": "USMBR0400428"
+  },
+  {
+    "title": "Grown Fat",
+    "artist": "Fried Egg",
+    "isrc": "GBSMU6050944"
+  },
+  {
+    "title": "Roll High, Lie Well (Kuriki)",
+    "artist": "Sports Bar",
+    "isrc": "ushm21807941"
+  },
+  {
+    "title": "Spirit City",
+    "artist": "True Body",
+    "isrc": "QZFZ62019861"
+  },
+  {
+    "title": "Haunt You",
+    "artist": "Bad Magic",
+    "isrc": "SEYOK1729101"
+  },
+  {
+    "title": "All the Broken Parts",
+    "artist": "The Goodbye Forevers",
+    "isrc": "uscgj2267364"
+  },
+  {
+    "title": "Beat up the Beach",
+    "artist": "Toward Space",
+    "isrc": "ushm81689479"
+  },
+  {
+    "title": "The hollowed out chest of a dead horse",
+    "artist": "Pageninetynine",
+    "isrc": "US4R70600054"
+  },
+  {
+    "title": "Boys Don't Cry",
+    "artist": "Destructo Disk",
+    "isrc": "QZK6N2454320"
+  },
+  {
+    "title": "Me No Have No Brain",
+    "artist": "Cement Shoes",
+    "isrc": "GBSMU6532451"
+  },
+  {
+    "title": "Kali Ma",
+    "artist": "Serqet",
+    "isrc": "USQY51790982"
+  }
+]

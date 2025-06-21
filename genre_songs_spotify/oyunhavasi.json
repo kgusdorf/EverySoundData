@@ -1,0 +1,627 @@
+[
+  {
+    "title": "Vur Oynasın",
+    "artist": "Özgür Koç",
+    "isrc": "TR9891100022"
+  },
+  {
+    "title": "Salla",
+    "artist": "Çubuklu Cem",
+    "isrc": "TRAVB1600089"
+  },
+  {
+    "title": "Ha Babam Ha",
+    "artist": "Başkentli Resul",
+    "isrc": "TR4791100083"
+  },
+  {
+    "title": "Kar Yolla",
+    "artist": "Ayaşlı Serhat",
+    "isrc": "TR1460700043"
+  },
+  {
+    "title": "Atım Arap",
+    "artist": "Ankaralı İbocan",
+    "isrc": "TR5511200201"
+  },
+  {
+    "title": "Menevşe Koymuşlar Gülün Adını",
+    "artist": "Güdüllü Ergün",
+    "isrc": "DGA0L2344419"
+  },
+  {
+    "title": "Hayatı Tesbih Yapmışım - İnanayımmı",
+    "artist": "Özkan Özcan",
+    "isrc": "TR5511200074"
+  },
+  {
+    "title": "Kar Yolla",
+    "artist": "Peçenekli Süleyman",
+    "isrc": "TR1780800870"
+  },
+  {
+    "title": "Ali Dayı",
+    "artist": "Çubuklu Yaşar",
+    "isrc": "TR0341500223"
+  },
+  {
+    "title": "Bahçe Duvarından Aştım",
+    "artist": "İbocan",
+    "isrc": "TRAUS1500062"
+  },
+  {
+    "title": "Baba Mrb",
+    "artist": "Gürkan Demirez",
+    "isrc": "TR0141407001"
+  },
+  {
+    "title": "Dedikodu",
+    "artist": "Çankırılı Şaban",
+    "isrc": "TR6020900205"
+  },
+  {
+    "title": "Neyse Boşver",
+    "artist": "Veli Erdem Karakülah, Ömer Faruk Bostan",
+    "isrc": "TRBPU2301636"
+  },
+  {
+    "title": "Ankaralı",
+    "artist": "Umut Çakır",
+    "isrc": "TR1390900028"
+  },
+  {
+    "title": "Başkent Ankara Benim",
+    "artist": "Ali Albay",
+    "isrc": "TR9891300177"
+  },
+  {
+    "title": "Tez Gel Bidenem",
+    "artist": "Onur Yalcın",
+    "isrc": "TRAJD1500015"
+  },
+  {
+    "title": "E 30'a Biner",
+    "artist": "Garaoğlan Gürkan Demirez",
+    "isrc": "TR4791300050"
+  },
+  {
+    "title": "Eliminen Dayı Eliminen",
+    "artist": "Armağan Arslan, Fatih Bulut",
+    "isrc": "TRACL2000149"
+  },
+  {
+    "title": "La Bize Heryer Ankara",
+    "artist": "Ankaralı Hüseyin",
+    "isrc": "TR5511200183"
+  },
+  {
+    "title": "Bide Seviyom Dedi",
+    "artist": "Ankaralı Yasin",
+    "isrc": "TR5511100001"
+  },
+  {
+    "title": "Erik Dalı / Sendemi Oldun Ankaralı / Huriyem",
+    "artist": "Ömer Faruk Bostan",
+    "isrc": "TR5511700014"
+  },
+  {
+    "title": "Ağlar Gezer Ankaralım",
+    "artist": "Ankaralı Mahmut",
+    "isrc": "TR5511200196"
+  },
+  {
+    "title": "Genç Osman",
+    "artist": "Mehmet Demirtaş",
+    "isrc": "TR0051700046"
+  },
+  {
+    "title": "Salla",
+    "artist": "Hasan Yılmaz",
+    "isrc": "TR0611300046"
+  },
+  {
+    "title": "Kaderde Gülecekmiş",
+    "artist": "Hüseyin Kağıt",
+    "isrc": "TR9891300170"
+  },
+  {
+    "title": "Bomba / Çalkala Kızım",
+    "artist": "Eyüp Öztekin, Ankaralı Yasemin, Ankaralı Turgut",
+    "isrc": "TR0410645169"
+  },
+  {
+    "title": "Çekirge",
+    "artist": "Oğuz Yılmaz",
+    "isrc": "TR7731200203"
+  },
+  {
+    "title": "Misket",
+    "artist": "Coşkun Direk",
+    "isrc": "TR0531405384"
+  },
+  {
+    "title": "Edalı Gelin",
+    "artist": "Savaş Göcer",
+    "isrc": "TRACT1200078"
+  },
+  {
+    "title": "Şizofren",
+    "artist": "Orhan Demir",
+    "isrc": "TR5511300015"
+  },
+  {
+    "title": "Tü Tü Maşallah",
+    "artist": "Mustafa Taş",
+    "isrc": "TRBGN1800025"
+  },
+  {
+    "title": "Aslan Mustafam",
+    "artist": "Ethem Yeşiltaş",
+    "isrc": "TR0340601811"
+  },
+  {
+    "title": "Ankaralı",
+    "artist": "Fahrettin Tuyan, Veli Erdem Karakülah",
+    "isrc": "TR5511200202"
+  },
+  {
+    "title": "Oy Gelin Oy Damat",
+    "artist": "Ramazan Çelik",
+    "isrc": "FRX281978422"
+  },
+  {
+    "title": "Hüdayda",
+    "artist": "Bülent Gökçe",
+    "isrc": "TR3090500043"
+  },
+  {
+    "title": "Çalkala Kazım",
+    "artist": "Ankaralı Turgut",
+    "isrc": "TR0410642531"
+  },
+  {
+    "title": "Benim Aşkım XXXL - Yılın Oyun Havası",
+    "artist": "Piyanist Memiş",
+    "isrc": "TR0141404001"
+  },
+  {
+    "title": "Bu Fasülye 7.5 Lira",
+    "artist": "Ankaralı Ayşe Dinçer",
+    "isrc": "TR1541000439"
+  },
+  {
+    "title": "Hadi Ordan Deli",
+    "artist": "Mehmet Abdullah Uğurlu",
+    "isrc": "TR5511200205"
+  },
+  {
+    "title": "Dar Geldi Sana Ankara",
+    "artist": "Ankaralı Namık",
+    "isrc": "TR7441000069"
+  },
+  {
+    "title": "Gelin Damat Oyunu",
+    "artist": "Emre Ülgen",
+    "isrc": "QMBZ91748291"
+  },
+  {
+    "title": "Kafam Bi Milyon",
+    "artist": "Nesrin, Hüseyin Kağıt",
+    "isrc": "TR0141304210"
+  },
+  {
+    "title": "Gördünmü Yıllar Geçmiş",
+    "artist": "Tahir Uçar",
+    "isrc": "DGA092228743"
+  },
+  {
+    "title": "Kaymak Lazım",
+    "artist": "Ankarali Turgut",
+    "isrc": "TR8881000001"
+  },
+  {
+    "title": "Hüriyem",
+    "artist": "Ayaşlı Emre",
+    "isrc": "TR3951200050"
+  },
+  {
+    "title": "Lo Lo",
+    "artist": "Mahmut Tuncer",
+    "isrc": "TRA161800218"
+  },
+  {
+    "title": "Bir Nefes Sigara",
+    "artist": "Serkan Nişancı, Aysel Yakupoğlu",
+    "isrc": "TRCCG2100023"
+  },
+  {
+    "title": "Pınar Başından Bulanır",
+    "artist": "Tufan Altaş",
+    "isrc": "TRAVB2000005"
+  },
+  {
+    "title": "Sen Olmayınca",
+    "artist": "Teksaslı Özcan",
+    "isrc": "TR0141507040"
+  },
+  {
+    "title": "Unuttum Ayşe'yi Fatma'yı",
+    "artist": "Kadir Yılmaz",
+    "isrc": "TR9891400168"
+  },
+  {
+    "title": "Saçların",
+    "artist": "Mustafa Yıldızdoğan",
+    "isrc": "TR3911600002"
+  },
+  {
+    "title": "Aşk Oku",
+    "artist": "İsmet Şekerci",
+    "isrc": "TR5511400038"
+  },
+  {
+    "title": "Tanrıdan Diledim",
+    "artist": "Kubat",
+    "isrc": "TR0331007584"
+  },
+  {
+    "title": "Taktık Vitesi Bire",
+    "artist": "Başkentli Erhan Durak",
+    "isrc": "TR5511200189"
+  },
+  {
+    "title": "Yolcu",
+    "artist": "Neşet Ertaş",
+    "isrc": "TR0090500326"
+  },
+  {
+    "title": "Merdo",
+    "artist": "Aşık Mahzuni Şerif",
+    "isrc": "TR0430601049"
+  },
+  {
+    "title": "Kupa Kızı",
+    "artist": "Nesrin Yetkin, Hüseyin Kağıt",
+    "isrc": "TR9201450004"
+  },
+  {
+    "title": "Zahid Bizi Ta'n Eyleme (Zahid Don't Decry Us)",
+    "artist": "Aytekin Ataş",
+    "isrc": "TRAIE1400025"
+  },
+  {
+    "title": "Bilir O Beni",
+    "artist": "Pinhani",
+    "isrc": "TR5461800166"
+  },
+  {
+    "title": "Ceddin Deden",
+    "artist": "Mehter",
+    "isrc": "TR0801501612"
+  },
+  {
+    "title": "Yaradana Kurban - Ailecek Şaşkınız Orijinal Film Müziği",
+    "artist": "Ahmet Kural, Murat Cemcir",
+    "isrc": "FR10S1863217"
+  },
+  {
+    "title": "Sarı Taksi",
+    "artist": "Şentepeli Fuat Köse",
+    "isrc": "TRACT1200010"
+  },
+  {
+    "title": "Bunun Adı Aşk",
+    "artist": "Özgür Koç",
+    "isrc": "TR5511200209"
+  },
+  {
+    "title": "Vay Türkmenim",
+    "artist": "Çubuklu Cem",
+    "isrc": "TR3951300071"
+  },
+  {
+    "title": "Kızlar Dura Dura",
+    "artist": "Başkentli Resul",
+    "isrc": "TR4791100087"
+  },
+  {
+    "title": "Tiridine Bandım",
+    "artist": "Ayaşlı Serhat",
+    "isrc": "TR1391000007"
+  },
+  {
+    "title": "Hıçkırık Tuttu Beni",
+    "artist": "Ankaralı İbocan",
+    "isrc": "TRAUS1700304"
+  },
+  {
+    "title": "İlvanlım",
+    "artist": "Güdüllü Ergün",
+    "isrc": "DGA0L2344417"
+  },
+  {
+    "title": "Al Yarim",
+    "artist": "Özkan Özcan",
+    "isrc": "TR5511200075"
+  },
+  {
+    "title": "Tantana Yapma",
+    "artist": "Peçenekli Süleyman",
+    "isrc": "TR1530800042"
+  },
+  {
+    "title": "Kostak",
+    "artist": "Çubuklu Yaşar",
+    "isrc": "TR6020800037"
+  },
+  {
+    "title": "Mısırlar Saçak - Hovarda Çapkın Yarim",
+    "artist": "İbocan",
+    "isrc": "TRAUS1500064"
+  },
+  {
+    "title": "Yüzleşelim Gönül",
+    "artist": "Gürkan Demirez",
+    "isrc": "TRAVB1900015"
+  },
+  {
+    "title": "Oynamazsan Küserim",
+    "artist": "Çankırılı Şaban",
+    "isrc": "TR6020900208"
+  },
+  {
+    "title": "Seven Çekip Gitmezki",
+    "artist": "Veli Erdem Karakülah, Mustafa Taş",
+    "isrc": "TR9891500016"
+  },
+  {
+    "title": "Angaralı",
+    "artist": "Umut Çakır",
+    "isrc": "TRBGN2000006"
+  },
+  {
+    "title": "Hüdayda",
+    "artist": "Ali Albay, Ethem Yeşiltaş",
+    "isrc": "TR0340600663"
+  },
+  {
+    "title": "Çırak Değil Kalfaydın / Fazıl Usta",
+    "artist": "Onur Yalcın",
+    "isrc": "TRAJD1500003"
+  },
+  {
+    "title": "Dolmuş",
+    "artist": "Garaoğlan Gürkan Demirez",
+    "isrc": "TR4791300051"
+  },
+  {
+    "title": "Titrettin Beni Titrettin",
+    "artist": "Armağan Arslan",
+    "isrc": "TRAUS1700164"
+  },
+  {
+    "title": "La Bize Her Yer Ankara",
+    "artist": "Ankaralı Hüseyin",
+    "isrc": "TR5511400001"
+  },
+  {
+    "title": "Kankamı Sevgilimi",
+    "artist": "Ankaralı Yasin",
+    "isrc": "TR5511100005"
+  },
+  {
+    "title": "Apçamın Oğlu",
+    "artist": "Ömer Faruk Bostan",
+    "isrc": "TRBPU1900089"
+  },
+  {
+    "title": "Nazar Değmesin",
+    "artist": "Ankaralı Mahmut",
+    "isrc": "TR5511200221"
+  },
+  {
+    "title": "Merdivenim Kırk Ayak",
+    "artist": "Mehmet Demirtaş",
+    "isrc": "TR0051700013"
+  },
+  {
+    "title": "Ayancık Eğmeleri",
+    "artist": "Hasan Yılmaz",
+    "isrc": "TR2490700066"
+  },
+  {
+    "title": "Kızlar Dura Dura",
+    "artist": "Hüseyin Kağıt",
+    "isrc": "TR8141100085"
+  },
+  {
+    "title": "Bekar Gezelim",
+    "artist": "Eyüp Öztekin, Ankaralı Yasemin, Ankaralı Turgut",
+    "isrc": "TR0410644600"
+  },
+  {
+    "title": "Topal",
+    "artist": "Oğuz Yılmaz",
+    "isrc": "TR7731200212"
+  },
+  {
+    "title": "Ankara'nın Bağları",
+    "artist": "Coşkun Direk",
+    "isrc": "TR0531405379"
+  },
+  {
+    "title": "Ben Bir Bina Yaptırdım Ankara Ustalarına - Gıdıkıla",
+    "artist": "Savaş Göcer",
+    "isrc": "FRX452137398"
+  },
+  {
+    "title": "Hazin Besteyim",
+    "artist": "Orhan Demir",
+    "isrc": "TR5511300014"
+  },
+  {
+    "title": "Sende Anlarsın",
+    "artist": "Mustafa Taş",
+    "isrc": "TR9891200164"
+  },
+  {
+    "title": "Kesik Çayır Biçilirmi",
+    "artist": "Ethem Yeşiltaş",
+    "isrc": "TR0340601810"
+  },
+  {
+    "title": "Canın Sağolsun",
+    "artist": "Fahrettin Tuyan",
+    "isrc": "GBKPL2297776"
+  },
+  {
+    "title": "Çiftetelli",
+    "artist": "Ramazan Çelik",
+    "isrc": "TR5511000022"
+  },
+  {
+    "title": "Gittiğin O Yollar",
+    "artist": "Bülent Gökçe",
+    "isrc": "TR3090300030"
+  },
+  {
+    "title": "Yakalarsam Tık Tık",
+    "artist": "Ankaralı Turgut",
+    "isrc": "FR2X41931223"
+  },
+  {
+    "title": "Kırıkhan Halayı",
+    "artist": "Piyanist Memiş",
+    "isrc": "TR0141806017"
+  },
+  {
+    "title": "Dilara",
+    "artist": "Ankaralı Ayşe Dinçer",
+    "isrc": "TR1541000441"
+  },
+  {
+    "title": "Misket",
+    "artist": "Mehmet Abdullah Uğurlu",
+    "isrc": "TR5511200246"
+  },
+  {
+    "title": "Hovarda",
+    "artist": "Ankaralı Namık",
+    "isrc": "TR0560601858"
+  },
+  {
+    "title": "Naciyem/Develi",
+    "artist": "Emre Ülgen",
+    "isrc": "TRBGN2200028"
+  },
+  {
+    "title": "Söyleyemedim",
+    "artist": "Nesrin, Hüseyin Kağıt",
+    "isrc": "TR0140503005"
+  },
+  {
+    "title": "Ankara mı Yanacak",
+    "artist": "Özgür Koç",
+    "isrc": "TR4731900191"
+  },
+  {
+    "title": "Değirmenci Dayı",
+    "artist": "Çubuklu Cem",
+    "isrc": "TR9891300184"
+  },
+  {
+    "title": "Heri Çorumlu Musun",
+    "artist": "Başkentli Resul",
+    "isrc": "TR4791100091"
+  },
+  {
+    "title": "İlvanlım",
+    "artist": "Ayaşlı Serhat",
+    "isrc": "TR1460700052"
+  },
+  {
+    "title": "Ahtım Var Benim",
+    "artist": "Ankaralı İbocan",
+    "isrc": "TR5511200193"
+  },
+  {
+    "title": "Yeşilözden İniverdim",
+    "artist": "Güdüllü Ergün",
+    "isrc": "TR0341500182"
+  },
+  {
+    "title": "Ankaramı Sarhoş Benmi Sarhoşum",
+    "artist": "Özkan Özcan",
+    "isrc": "TR5511200190"
+  },
+  {
+    "title": "Hasta Ettin",
+    "artist": "Peçenekli Süleyman",
+    "isrc": "TR1780800867"
+  },
+  {
+    "title": "Dilara",
+    "artist": "Çubuklu Yaşar",
+    "isrc": "TRABD1100071"
+  },
+  {
+    "title": "Genç Osman",
+    "artist": "İbocan",
+    "isrc": "FR10S2370727"
+  },
+  {
+    "title": "Koyunum Arap Gibi",
+    "artist": "Gürkan Demirez",
+    "isrc": "TRAVB1900009"
+  },
+  {
+    "title": "Yıldız",
+    "artist": "Çankırılı Şaban",
+    "isrc": "TR0470904511"
+  },
+  {
+    "title": "Ahdım Var Benim",
+    "artist": "Veli Erdem Karakülah",
+    "isrc": "TR5511200195"
+  },
+  {
+    "title": "Pınar Senin / Menevşe Koymuşlar - Live",
+    "artist": "Umut Çakır, İsmail Özel, Alemci Murat, Adnan Küçükerdem",
+    "isrc": "TR9891200144"
+  },
+  {
+    "title": "Kezban",
+    "artist": "Ali Albay",
+    "isrc": "TR4790800034"
+  },
+  {
+    "title": "Kaşar Olmuşsun",
+    "artist": "Onur Yalcın",
+    "isrc": "TR1061200110"
+  },
+  {
+    "title": "Yare Gidin Turnalar",
+    "artist": "Garaoğlan Gürkan Demirez",
+    "isrc": "TR4791300060"
+  },
+  {
+    "title": "Onaylı",
+    "artist": "Armağan Arslan",
+    "isrc": "FRX452387231"
+  },
+  {
+    "title": "Bahçeye Ektim Çilek Tiridine Bandım",
+    "artist": "Ankaralı Hüseyin",
+    "isrc": "TR5511400003"
+  },
+  {
+    "title": "Arpa Ektim",
+    "artist": "Ankaralı Yasin",
+    "isrc": "TR5511200111"
+  },
+  {
+    "title": "Sensiz Yaşıyom",
+    "artist": "Ömer Faruk Bostan",
+    "isrc": "TR5511500010"
+  }
+]

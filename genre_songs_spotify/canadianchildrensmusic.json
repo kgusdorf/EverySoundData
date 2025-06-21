@@ -1,0 +1,567 @@
+[
+  {
+    "title": "Baby Beluga",
+    "artist": "Raffi",
+    "isrc": "USRO29605401"
+  },
+  {
+    "title": "One Elephant, Deux Elephants",
+    "artist": "Sharon, Lois & Bram",
+    "isrc": "CAC350200041"
+  },
+  {
+    "title": "The Cat Came Back",
+    "artist": "Fred Penner",
+    "isrc": "CAC350000001"
+  },
+  {
+    "title": "I'll Be the Captain",
+    "artist": "Splash'N Boots, Alan Doyle",
+    "isrc": "CAUY81800004"
+  },
+  {
+    "title": "Goodnight Dreams",
+    "artist": "Bobs & Lolo",
+    "isrc": "CA4SW1100007"
+  },
+  {
+    "title": "Over in the Meadow",
+    "artist": "Charlie Hope",
+    "isrc": "QMG431500004"
+  },
+  {
+    "title": "I Am A Pizza",
+    "artist": "Charlotte Diamond",
+    "isrc": "CAI370611103"
+  },
+  {
+    "title": "I.M.4.U.",
+    "artist": "Al Simmons",
+    "isrc": "CAC350000045"
+  },
+  {
+    "title": "Everyone on the Passenger Train",
+    "artist": "Ginalina",
+    "isrc": "usl4q1927229"
+  },
+  {
+    "title": "Alligator Stomp",
+    "artist": "Jack Grunsky",
+    "isrc": "CAC350100007"
+  },
+  {
+    "title": "Happy!",
+    "artist": "Jennifer Gasoi",
+    "isrc": "CA7SZ1200004"
+  },
+  {
+    "title": "Boris Thesaurus Tyrannosaurus",
+    "artist": "Will's Jams",
+    "isrc": "CAZ7D1600004"
+  },
+  {
+    "title": "Shake A Leg",
+    "artist": "Norman Foote",
+    "isrc": "CAC350400250"
+  },
+  {
+    "title": "Howjadoo",
+    "artist": "Eric Nagler",
+    "isrc": "USRO28901801"
+  },
+  {
+    "title": "Land of the Silver Birch",
+    "artist": "Michael Mitchell",
+    "isrc": "CAI370613084"
+  },
+  {
+    "title": "Swim Like A Salmon",
+    "artist": "The Kerplunks",
+    "isrc": "ushm20967024"
+  },
+  {
+    "title": "La vache à l'école",
+    "artist": "Carmen Campagne",
+    "isrc": "CADC41205023"
+  },
+  {
+    "title": "All Through the Night",
+    "artist": "Connie Kaldor",
+    "isrc": "CAF420600025"
+  },
+  {
+    "title": "Sheep",
+    "artist": "Darrelle London",
+    "isrc": "CA1LG1700002"
+  },
+  {
+    "title": "Friendly Dinosaur",
+    "artist": "Sandra Beech",
+    "isrc": "GX3Q92047095"
+  },
+  {
+    "title": "Sailing On A Pirate Ship",
+    "artist": "Erick Traplin",
+    "isrc": "ushm80971960"
+  },
+  {
+    "title": "We're the Doodlebops - Original Version",
+    "artist": "The Doodlebops",
+    "isrc": "CAJ540400001"
+  },
+  {
+    "title": "L'arbre est dans ses feuilles",
+    "artist": "Razzmatazz for Kids",
+    "isrc": "uscgh1492598"
+  },
+  {
+    "title": "Sandwiches Are Beautiful",
+    "artist": "Bob King",
+    "isrc": "CAC350500017"
+  },
+  {
+    "title": "The Log Driver's Waltz",
+    "artist": "The Swinging Belles",
+    "isrc": "CARW51400010"
+  },
+  {
+    "title": "Ma coccinelle",
+    "artist": "Annie Brocoli",
+    "isrc": "CAT509900004"
+  },
+  {
+    "title": "Ed The Invisible Dragon",
+    "artist": "Donna & Andy",
+    "isrc": "uscgh0551810"
+  },
+  {
+    "title": "La chanson des couleurs",
+    "artist": "Caillou",
+    "isrc": "CAN031700054"
+  },
+  {
+    "title": "Count on Me (Counting)",
+    "artist": "Judy and David",
+    "isrc": "CAA470011603"
+  },
+  {
+    "title": "Rattling Bog",
+    "artist": "Ken Whiteley",
+    "isrc": "usl4q0720831"
+  },
+  {
+    "title": "Let Me Make It Up To You Tonight",
+    "artist": "Heather Bishop",
+    "isrc": "ushm80869683"
+  },
+  {
+    "title": "Happy Day Day",
+    "artist": "Mr. I & the Rainbow Singers",
+    "isrc": "USHM91408949"
+  },
+  {
+    "title": "Everyone Asked About You",
+    "artist": "Bob McGrath",
+    "isrc": "USA560507046"
+  },
+  {
+    "title": "All Countries of the World",
+    "artist": "Mr I, Gary Q & the Rainbow Singers",
+    "isrc": "usx9p0968820"
+  },
+  {
+    "title": "B is for Bicycle",
+    "artist": "Chris McKhool",
+    "isrc": "ushm20507925"
+  },
+  {
+    "title": "Giggly Wiggly Silly Willy Dance",
+    "artist": "The Moblees",
+    "isrc": "QMEHD1700015"
+  },
+  {
+    "title": "A Walk In the Jungle",
+    "artist": "Bill Perison",
+    "isrc": "CA4BB1100002"
+  },
+  {
+    "title": "Good Time Song",
+    "artist": "Bob Schneider and the Rainbow Kids",
+    "isrc": "USA560737730"
+  },
+  {
+    "title": "Choast (Cheese and Toast Makes Choast)",
+    "artist": "Brent & Woofy",
+    "isrc": "usx9p0797143"
+  },
+  {
+    "title": "A Friend Like You",
+    "artist": "Bruce Birch",
+    "isrc": "uscgj0621535"
+  },
+  {
+    "title": "Dirty Dog Boogie",
+    "artist": "Eddie Douglas",
+    "isrc": "ushm20922351"
+  },
+  {
+    "title": "Shake Your Hands",
+    "artist": "Jen Gould",
+    "isrc": "CAI370614354"
+  },
+  {
+    "title": "Riding My Bike",
+    "artist": "Kiki the Eco Elf",
+    "isrc": "ushm81564371"
+  },
+  {
+    "title": "Boat Goes Down the River",
+    "artist": "Kim and Jerry Brodey",
+    "isrc": "usx9p0680311"
+  },
+  {
+    "title": "Walrus and the Carpenter",
+    "artist": "LuLu and the TomCat",
+    "isrc": "CANC31000062"
+  },
+  {
+    "title": "When You Grow Up",
+    "artist": "Martha Johnson",
+    "isrc": "cam249500004"
+  },
+  {
+    "title": "Old MacDonald Had a Farm",
+    "artist": "Music with Brian",
+    "isrc": "usx9p0955349"
+  },
+  {
+    "title": "Squishy Banana",
+    "artist": "Oso Simple",
+    "isrc": "ushm90866647"
+  },
+  {
+    "title": "Turn Off the Tap",
+    "artist": "Pamela Sunshine",
+    "isrc": "uscgh1096052"
+  },
+  {
+    "title": "A Friend to the Earth",
+    "artist": "Paul Behnke",
+    "isrc": "USX9P1016677"
+  },
+  {
+    "title": "Harry Caterpillar",
+    "artist": "Robert Davis & Snapping Toes",
+    "isrc": "usy280708236"
+  },
+  {
+    "title": "Wee Baby Moon",
+    "artist": "Sho, Mo and the Monkey Bunch",
+    "isrc": "uscgh0645287"
+  },
+  {
+    "title": "Little Boy Blue",
+    "artist": "The Babooshka Club",
+    "isrc": "uscgh1185253"
+  },
+  {
+    "title": "Only In Canada",
+    "artist": "The Skalywags",
+    "isrc": "ushm81155863"
+  },
+  {
+    "title": "Edelweiss",
+    "artist": "Vocal Paint",
+    "isrc": "usx9p1032328"
+  },
+  {
+    "title": "Friendly Little Cat",
+    "artist": "Washboard Hank",
+    "isrc": "usl4r2141845"
+  },
+  {
+    "title": "The Recycling Song",
+    "artist": "Zany Zack",
+    "isrc": "uscgj0802473"
+  },
+  {
+    "title": "Down By The Bay",
+    "artist": "Raffi",
+    "isrc": "USRO29605102"
+  },
+  {
+    "title": "\"A\", You're Adorable",
+    "artist": "Sharon, Lois & Bram",
+    "isrc": "CAC350500298"
+  },
+  {
+    "title": "I Had A Rooster",
+    "artist": "Fred Penner",
+    "isrc": "CAC350000002"
+  },
+  {
+    "title": "Happy Dance",
+    "artist": "Splash'N Boots",
+    "isrc": "QMFMF2052350"
+  },
+  {
+    "title": "Dirty Feet",
+    "artist": "Bobs & Lolo",
+    "isrc": "CAN111500256"
+  },
+  {
+    "title": "La Bamba",
+    "artist": "Charlotte Diamond",
+    "isrc": "CAI370611095"
+  },
+  {
+    "title": "With You (feat. Morgan Taylor)",
+    "artist": "Charlie Hope, Morgan Taylor",
+    "isrc": "QMG431300011"
+  },
+  {
+    "title": "Where Did You Get That Hat",
+    "artist": "Al Simmons",
+    "isrc": "CAC350000048"
+  },
+  {
+    "title": "The Wild and Wonderful Cedars",
+    "artist": "Ginalina",
+    "isrc": "usl4q2196172"
+  },
+  {
+    "title": "Pyjamarama",
+    "artist": "Jack Grunsky",
+    "isrc": "CAC350100005"
+  },
+  {
+    "title": "Little Blue Car",
+    "artist": "Jennifer Gasoi",
+    "isrc": "CA7SZ1200001"
+  },
+  {
+    "title": "Rocks and Roots",
+    "artist": "Will's Jams",
+    "isrc": "CAI371719664"
+  },
+  {
+    "title": "Love My New Shirt",
+    "artist": "Norman Foote",
+    "isrc": "usl4q0806287"
+  },
+  {
+    "title": "Ain't Nobody Here But Us Chickens",
+    "artist": "Eric Nagler",
+    "isrc": "USRO28901811"
+  },
+  {
+    "title": "Canada in My Pocket",
+    "artist": "Michael Mitchell",
+    "isrc": "CAI370613113"
+  },
+  {
+    "title": "Number 10",
+    "artist": "The Kerplunks",
+    "isrc": "CA2EJ1000006"
+  },
+  {
+    "title": "Au clair de la lune",
+    "artist": "Carmen Campagne",
+    "isrc": "CAF421200566"
+  },
+  {
+    "title": "La poulette grise",
+    "artist": "Connie Kaldor",
+    "isrc": "CAF420600033"
+  },
+  {
+    "title": "Ice Cream",
+    "artist": "Darrelle London",
+    "isrc": "CA1LG2200007"
+  },
+  {
+    "title": "Eek, Eek, Shark",
+    "artist": "Sandra Beech",
+    "isrc": "GX3Q92047117"
+  },
+  {
+    "title": "Hip Hop Little Rabbit",
+    "artist": "Erick Traplin",
+    "isrc": "uscgj1632102"
+  },
+  {
+    "title": "Under the Sea",
+    "artist": "The Doodlebops",
+    "isrc": "USWD10834011"
+  },
+  {
+    "title": "The Crazy Shakedown",
+    "artist": "Razzmatazz for Kids",
+    "isrc": "uscgj1455615"
+  },
+  {
+    "title": "The Giant Hot Dog That Ate Ohio",
+    "artist": "Bob King",
+    "isrc": "CAC350500041"
+  },
+  {
+    "title": "Welcome To The Flea Circus",
+    "artist": "The Swinging Belles",
+    "isrc": "QZTB32260413"
+  },
+  {
+    "title": "Germaine la grenouille végatarienne",
+    "artist": "Annie Brocoli",
+    "isrc": "CAT500152011"
+  },
+  {
+    "title": "I Need A Home For My Dinosaur",
+    "artist": "Donna & Andy",
+    "isrc": "uscgh0551812"
+  },
+  {
+    "title": "Caillou Intro & Caillou Vorspann & Folge 131: Caillou geht einkaufen.1 - Caillou - Folgen 131-142: Kapitän Caillou",
+    "artist": "Caillou",
+    "isrc": "DEVP81122820"
+  },
+  {
+    "title": "Hinei Mah Tov",
+    "artist": "Judy and David",
+    "isrc": "ushm90966704"
+  },
+  {
+    "title": "That's When I Need A Song",
+    "artist": "Ken Whiteley",
+    "isrc": "CABD80701178"
+  },
+  {
+    "title": "Bellybutton",
+    "artist": "Heather Bishop",
+    "isrc": "ushm80890455"
+  },
+  {
+    "title": "Let's Be Friends",
+    "artist": "Mr. I & the Rainbow Singers",
+    "isrc": "USHM91408958"
+  },
+  {
+    "title": "Your Face",
+    "artist": "Bob McGrath",
+    "isrc": "USA560507048"
+  },
+  {
+    "title": "Tell Me the Oceans",
+    "artist": "Mr I, Gary Q & the Rainbow Singers",
+    "isrc": "usx9p0968832"
+  },
+  {
+    "title": "Spider-Man",
+    "artist": "Chris McKhool",
+    "isrc": "camb20800009"
+  },
+  {
+    "title": "Happy Tippy Tap",
+    "artist": "The Moblees",
+    "isrc": "QMEHD1700016"
+  },
+  {
+    "title": "In A Coconut Tree",
+    "artist": "Bill Perison",
+    "isrc": "CA4BB1100007"
+  },
+  {
+    "title": "Love My Baseball",
+    "artist": "Bob Schneider and the Rainbow Kids",
+    "isrc": "USA560737742"
+  },
+  {
+    "title": "Bananaphone",
+    "artist": "Raffi",
+    "isrc": "CAT169400157"
+  },
+  {
+    "title": "Skinnamarinky Two",
+    "artist": "Sharon, Lois & Bram",
+    "isrc": "CAC351900031"
+  },
+  {
+    "title": "Puff The Magic Dragon",
+    "artist": "Fred Penner",
+    "isrc": "CAS260200119"
+  },
+  {
+    "title": "Spaceship",
+    "artist": "Splash'N Boots",
+    "isrc": "QMFMF2052343"
+  },
+  {
+    "title": "Sleep Song",
+    "artist": "Bobs & Lolo",
+    "isrc": "CA4SW1700012"
+  },
+  {
+    "title": "The Garden Song",
+    "artist": "Charlotte Diamond",
+    "isrc": "CAI370611096"
+  },
+  {
+    "title": "Wheels on the Bus",
+    "artist": "Charlie Hope",
+    "isrc": "CA0LV1000502"
+  },
+  {
+    "title": "Something In My Shoe",
+    "artist": "Al Simmons",
+    "isrc": "CAC350000035"
+  },
+  {
+    "title": "Small but Mighty",
+    "artist": "Ginalina",
+    "isrc": "usl4q1927227"
+  },
+  {
+    "title": "You’re Never Alone",
+    "artist": "Jack Grunsky",
+    "isrc": "CAC350000060"
+  },
+  {
+    "title": "Les Étoiles Dansent",
+    "artist": "Jennifer Gasoi",
+    "isrc": "CA7SZ1200012"
+  },
+  {
+    "title": "Full of Beans",
+    "artist": "Will's Jams",
+    "isrc": "CAI371015735"
+  },
+  {
+    "title": "Grandfather Clock",
+    "artist": "Norman Foote",
+    "isrc": "usl4q0806296"
+  },
+  {
+    "title": "Mairzy Dotes",
+    "artist": "Eric Nagler",
+    "isrc": "USRO28901802"
+  },
+  {
+    "title": "This Land is Your Land",
+    "artist": "Michael Mitchell",
+    "isrc": "CAI370613114"
+  },
+  {
+    "title": "Arms 'Round the Night",
+    "artist": "The Kerplunks",
+    "isrc": "CA2EJ1800002"
+  },
+  {
+    "title": "Les musiciens",
+    "artist": "Carmen Campagne",
+    "isrc": "CAF421200568"
+  },
+  {
+    "title": "Wood River",
+    "artist": "Connie Kaldor",
+    "isrc": "ushm21037379"
+  }
+]

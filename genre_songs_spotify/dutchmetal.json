@@ -1,0 +1,827 @@
+[
+  {
+    "title": "Monster",
+    "artist": "Stream of Passion",
+    "isrc": "NLC3K1400001"
+  },
+  {
+    "title": "Energize Me",
+    "artist": "After Forever",
+    "isrc": "DED830697104"
+  },
+  {
+    "title": "Sweet Curse",
+    "artist": "ReVamp",
+    "isrc": "DED831000202"
+  },
+  {
+    "title": "We Are the Others",
+    "artist": "Delain",
+    "isrc": "NLA241208409"
+  },
+  {
+    "title": "Dhyana",
+    "artist": "MaYaN",
+    "isrc": "DED831800990"
+  },
+  {
+    "title": "Heart of Amsterdam - Storm Version",
+    "artist": "The Gentle Storm",
+    "isrc": "NLR491400013"
+  },
+  {
+    "title": "No More",
+    "artist": "Nemesea",
+    "isrc": "USTC00950922"
+  },
+  {
+    "title": "On the Wrong Side of the Wire",
+    "artist": "God Dethroned",
+    "isrc": "USMBR1712357"
+  },
+  {
+    "title": "Deathhammer",
+    "artist": "Asphyx",
+    "isrc": "US4E41286302"
+  },
+  {
+    "title": "Colder",
+    "artist": "End of the Dream",
+    "isrc": "NLG7U1500003"
+  },
+  {
+    "title": "My Champion - Berlin",
+    "artist": "VUUR",
+    "isrc": "GBDHC1779401"
+  },
+  {
+    "title": "Corridors to the Abyss",
+    "artist": "Sinister",
+    "isrc": "DED839738416"
+  },
+  {
+    "title": "Erase",
+    "artist": "Gorefest",
+    "isrc": "DED830584502"
+  },
+  {
+    "title": "Chapter 2 - Anastasia Romanova: The Motherland",
+    "artist": "Ex Libris",
+    "isrc": "NLY9T1900001"
+  },
+  {
+    "title": "Machine Gun",
+    "artist": "Trillium",
+    "isrc": "ITG271100390"
+  },
+  {
+    "title": "Torn From The Jaws Of Death",
+    "artist": "Severe Torture",
+    "isrc": "FR33T2377904"
+  },
+  {
+    "title": "Ordered Eastward",
+    "artist": "Hail Of Bullets",
+    "isrc": "USMBR0805758"
+  },
+  {
+    "title": "Comatose",
+    "artist": "Ayreon",
+    "isrc": "NLB931601802"
+  },
+  {
+    "title": "Fate of Man",
+    "artist": "Arjen Anthony Lucassen's Star One",
+    "isrc": "NLR492100001"
+  },
+  {
+    "title": "Balance of Power",
+    "artist": "Kingfisher Sky",
+    "isrc": "NLD440704903"
+  },
+  {
+    "title": "Legion of the Damned",
+    "artist": "Legion Of The Damned",
+    "isrc": "ATN261560901"
+  },
+  {
+    "title": "Twisted Truth",
+    "artist": "Pestilence",
+    "isrc": "NLA320320353"
+  },
+  {
+    "title": "The Silent War",
+    "artist": "Thanatos",
+    "isrc": "FR1PP1900950"
+  },
+  {
+    "title": "Pale Light",
+    "artist": "Asrai, Sascha Paeth",
+    "isrc": "NLP510600280"
+  },
+  {
+    "title": "Cry for the Moon (The Embrace That Smothers , Pt. 4)",
+    "artist": "Epica",
+    "isrc": "NLP510600299"
+  },
+  {
+    "title": "The Dark Gift",
+    "artist": "Satyrian",
+    "isrc": "ushm20673369"
+  },
+  {
+    "title": "Strange Machines",
+    "artist": "The Gathering",
+    "isrc": "US4E40579801"
+  },
+  {
+    "title": "Satellites",
+    "artist": "Autumn",
+    "isrc": "USMBR0704969"
+  },
+  {
+    "title": "Giants",
+    "artist": "Graceless",
+    "isrc": "QZMEP2214948"
+  },
+  {
+    "title": "Faster",
+    "artist": "Within Temptation",
+    "isrc": "NLR261000004"
+  },
+  {
+    "title": "Maruta",
+    "artist": "Carnation",
+    "isrc": "FR33T2376402"
+  },
+  {
+    "title": "Leland Street",
+    "artist": "Guilt Machine",
+    "isrc": "NLB930900421"
+  },
+  {
+    "title": "Selkie",
+    "artist": "Blackbriar",
+    "isrc": "NLP7Q2100008"
+  },
+  {
+    "title": "Only Taste For Decay",
+    "artist": "Prostitute Disfigurement",
+    "isrc": "USRMX1400012"
+  },
+  {
+    "title": "Rhizome",
+    "artist": "Disavowed",
+    "isrc": "USERN1000593"
+  },
+  {
+    "title": "Nagels over het Krijtbord van de Ziel",
+    "artist": "Grafjammer",
+    "isrc": "SEYOK1805377"
+  },
+  {
+    "title": "Jûl",
+    "artist": "Baldrs Draumar",
+    "isrc": "usl4q2269047"
+  },
+  {
+    "title": "Versplinterd Hout",
+    "artist": "Asgrauw",
+    "isrc": "QZMEM2237534"
+  },
+  {
+    "title": "De Stuwwal",
+    "artist": "Alvenrad",
+    "isrc": "NL6VF2210001"
+  },
+  {
+    "title": "The Dwarven Chant",
+    "artist": "Vanaheim",
+    "isrc": "QMPKX1732597"
+  },
+  {
+    "title": "Vulgaris Magistralis - Bonus Track",
+    "artist": "Heidevolk",
+    "isrc": "ATN260824612"
+  },
+  {
+    "title": "Throne of Fire",
+    "artist": "Altar",
+    "isrc": "QMFME2242173"
+  },
+  {
+    "title": "Litany of the Weak",
+    "artist": "Dead Head",
+    "isrc": "NLWJ22400028"
+  },
+  {
+    "title": "Donderslag",
+    "artist": "Myrkvar",
+    "isrc": "CH6540884517"
+  },
+  {
+    "title": "Betsjoend",
+    "artist": "Kjeld",
+    "isrc": "ESA012105712"
+  },
+  {
+    "title": "Franckensteina Strataemontanus",
+    "artist": "Carach Angren",
+    "isrc": "FR33T2056103"
+  },
+  {
+    "title": "Nasleep",
+    "artist": "Fluisteraars",
+    "isrc": "USA2P2002234"
+  },
+  {
+    "title": "Merode",
+    "artist": "Turia",
+    "isrc": "USA2P2005619"
+  },
+  {
+    "title": "Force Fed Fear",
+    "artist": "Siege Of Power",
+    "isrc": "USMBR2215607"
+  },
+  {
+    "title": "Duivelshuis",
+    "artist": "Mondvolland",
+    "isrc": "UKCVA1901746"
+  },
+  {
+    "title": "Around The Oak",
+    "artist": "Drakum",
+    "isrc": "SEYOK1306680"
+  },
+  {
+    "title": "All Rise!",
+    "artist": "Grand Supreme Blood Court",
+    "isrc": "US4E41296501"
+  },
+  {
+    "title": "Closing In",
+    "artist": "Sun Caged",
+    "isrc": "ushm80568467"
+  },
+  {
+    "title": "Bury My Heart",
+    "artist": "Phlebotomized",
+    "isrc": "NLWJ22300174"
+  },
+  {
+    "title": "Open Your Eyes",
+    "artist": "The Dreamside",
+    "isrc": "CH6540871764"
+  },
+  {
+    "title": "Our Pagan Hearts Reborn",
+    "artist": "Encorion",
+    "isrc": "ushm21357018"
+  },
+  {
+    "title": "Timeless",
+    "artist": "Textures",
+    "isrc": "DED831501036"
+  },
+  {
+    "title": "Serenade of the Netherworld",
+    "artist": "HDK",
+    "isrc": "NLC7G1400004"
+  },
+  {
+    "title": "A House in a Field in the Eye of the Storm",
+    "artist": "Officium Triste",
+    "isrc": "NLHR51958980"
+  },
+  {
+    "title": "From The Ashes...",
+    "artist": "Sphere of Souls",
+    "isrc": "usx9p0679723"
+  },
+  {
+    "title": "III Why Me?",
+    "artist": "Xystus",
+    "isrc": "NLG590400031"
+  },
+  {
+    "title": "Hypervigilant",
+    "artist": "Day Six",
+    "isrc": "ushm91775861"
+  },
+  {
+    "title": "The Fruits of Ill Virtue",
+    "artist": "Creepmime",
+    "isrc": "GX3HH2312356"
+  },
+  {
+    "title": "Portals to Uphobia",
+    "artist": "Detonation",
+    "isrc": "FR4E60500020"
+  },
+  {
+    "title": "Suffer My Disbelief",
+    "artist": "Callenish Circle",
+    "isrc": "USMBR0704181"
+  },
+  {
+    "title": "Fist of Stalin",
+    "artist": "The Monolith Deathcult",
+    "isrc": "NLL6R1800765"
+  },
+  {
+    "title": "House of Cards",
+    "artist": "Consortium Project",
+    "isrc": "NLL141600014"
+  },
+  {
+    "title": "Ode to the Forest",
+    "artist": "Solarcycles",
+    "isrc": "NL8KG2300003"
+  },
+  {
+    "title": "Memories Never Die",
+    "artist": "Morphia",
+    "isrc": "USDHM0908456"
+  },
+  {
+    "title": "Victim of Honor",
+    "artist": "Izegrim",
+    "isrc": "FR1PP1001320"
+  },
+  {
+    "title": "World Funeral",
+    "artist": "Massive Assault",
+    "isrc": "DE0081800775"
+  },
+  {
+    "title": "Spring Before Winter",
+    "artist": "Cirrha Niva",
+    "isrc": "TCAAR1035942"
+  },
+  {
+    "title": "You Died Before I Was Finished",
+    "artist": "Deinonychus",
+    "isrc": "QM6MZ2122543"
+  },
+  {
+    "title": "Creation",
+    "artist": "Delphian",
+    "isrc": "ushm80719463"
+  },
+  {
+    "title": "Gods of Doom",
+    "artist": "Heavy Lord",
+    "isrc": "UST8K1878157"
+  },
+  {
+    "title": "Song for an Idiot",
+    "artist": "La-Ventura",
+    "isrc": "NLB1F1300004"
+  },
+  {
+    "title": "Sirens in the City (feat. George Oosthoek)",
+    "artist": "Marywine",
+    "isrc": "uscgh1230733"
+  },
+  {
+    "title": "Aesthetic Cruelty",
+    "artist": "Mouflon",
+    "isrc": "UKXN22421683"
+  },
+  {
+    "title": "Dark and Desolate",
+    "artist": "Portall",
+    "isrc": "TCABR1317189"
+  },
+  {
+    "title": "Embedded Defects",
+    "artist": "Sepiroth",
+    "isrc": "SEYOK2306267"
+  },
+  {
+    "title": "Flight from Terra",
+    "artist": "Synergy Protocol",
+    "isrc": "NLM6K1600005"
+  },
+  {
+    "title": "Saliva",
+    "artist": "The New Dominion",
+    "isrc": "NLVJ21200001"
+  },
+  {
+    "title": "Street Spirit",
+    "artist": "Stream of Passion",
+    "isrc": "NLC3K1400035"
+  },
+  {
+    "title": "Kill Me with Silence",
+    "artist": "ReVamp",
+    "isrc": "DED831000208"
+  },
+  {
+    "title": "Discord",
+    "artist": "After Forever",
+    "isrc": "DED830697101"
+  },
+  {
+    "title": "Moth to a Flame",
+    "artist": "Delain",
+    "isrc": "ATN262214107"
+  },
+  {
+    "title": "Insano",
+    "artist": "MaYaN",
+    "isrc": "DED831300707"
+  },
+  {
+    "title": "Endless Sea - Storm Version",
+    "artist": "The Gentle Storm",
+    "isrc": "NLR491400012"
+  },
+  {
+    "title": "Allein - Bonus Track",
+    "artist": "Nemesea",
+    "isrc": "ATN261138514"
+  },
+  {
+    "title": "Hating Life",
+    "artist": "God Dethroned",
+    "isrc": "USMBR0603166"
+  },
+  {
+    "title": "M.S. Bismark",
+    "artist": "Asphyx",
+    "isrc": "US4E40573401"
+  },
+  {
+    "title": "Until You Break",
+    "artist": "End of the Dream",
+    "isrc": "NLVZ21710001"
+  },
+  {
+    "title": "Days Go By - London",
+    "artist": "VUUR",
+    "isrc": "GBDHC1779406"
+  },
+  {
+    "title": "Dominance by Acquisition",
+    "artist": "Sinister",
+    "isrc": "DER371796804"
+  },
+  {
+    "title": "The Glorious Dead",
+    "artist": "Gorefest",
+    "isrc": "DED830584401"
+  },
+  {
+    "title": "Chapter 1 - Anne Boleyn: The Beheading",
+    "artist": "Ex Libris",
+    "isrc": "NLY9T1800003"
+  },
+  {
+    "title": "Shards",
+    "artist": "Trillium",
+    "isrc": "ITG271800314"
+  },
+  {
+    "title": "The Pinnacle Of Suffering",
+    "artist": "Severe Torture",
+    "isrc": "FR33T2377907"
+  },
+  {
+    "title": "General Winter",
+    "artist": "Hail Of Bullets",
+    "isrc": "USMBR0805760"
+  },
+  {
+    "title": "Day Sixteen: Loser",
+    "artist": "Ayreon",
+    "isrc": "NLB931601616"
+  },
+  {
+    "title": "Revel in Time",
+    "artist": "Arjen Anthony Lucassen's Star One",
+    "isrc": "NLR492100005"
+  },
+  {
+    "title": "King of Thieves",
+    "artist": "Kingfisher Sky",
+    "isrc": "NLD441400320"
+  },
+  {
+    "title": "Beheading of the Godhead",
+    "artist": "Legion Of The Damned",
+    "isrc": "ATN262318709"
+  },
+  {
+    "title": "Out of the Body",
+    "artist": "Pestilence",
+    "isrc": "NLA329401550"
+  },
+  {
+    "title": "Global Purification",
+    "artist": "Thanatos",
+    "isrc": "US4E41415701"
+  },
+  {
+    "title": "In Front Of Me",
+    "artist": "Asrai, Sascha Paeth",
+    "isrc": "NLP510600279"
+  },
+  {
+    "title": "Sensorium",
+    "artist": "Epica",
+    "isrc": "NLP510600298"
+  },
+  {
+    "title": "Eternitas",
+    "artist": "Satyrian",
+    "isrc": "ushm20673365"
+  },
+  {
+    "title": "Saturnine",
+    "artist": "The Gathering",
+    "isrc": "US4E40599809"
+  },
+  {
+    "title": "The Scarecrow",
+    "artist": "Autumn",
+    "isrc": "USMBR1108516"
+  },
+  {
+    "title": "Chants from Purgatory",
+    "artist": "Graceless",
+    "isrc": "QZNWQ2202787"
+  },
+  {
+    "title": "Cursed Mortality",
+    "artist": "Carnation",
+    "isrc": "FR33T2376408"
+  },
+  {
+    "title": "The Reckoning",
+    "artist": "Within Temptation, Jacoby Shaddix",
+    "isrc": "NLR261800010"
+  },
+  {
+    "title": "The Stranger Song - Bonus Track",
+    "artist": "Guilt Machine",
+    "isrc": "NLB930900426"
+  },
+  {
+    "title": "I'd Rather Burn",
+    "artist": "Blackbriar",
+    "isrc": "NLP7Q1800004"
+  },
+  {
+    "title": "On Her Guts I Cum",
+    "artist": "Prostitute Disfigurement",
+    "isrc": "GBSMU5837713"
+  },
+  {
+    "title": "Reason Rejected",
+    "artist": "Disavowed",
+    "isrc": "USERN1000595"
+  },
+  {
+    "title": "Jajempriester",
+    "artist": "Grafjammer",
+    "isrc": "SEYOK2052488"
+  },
+  {
+    "title": "Njord",
+    "artist": "Baldrs Draumar",
+    "isrc": "usl4q2269045"
+  },
+  {
+    "title": "Zielloos",
+    "artist": "Asgrauw",
+    "isrc": "QZMEN2208335"
+  },
+  {
+    "title": "Sagenrijk (Winterse Vertolking)",
+    "artist": "Alvenrad",
+    "isrc": "NL6VF2200010"
+  },
+  {
+    "title": "Reuzenspraak",
+    "artist": "Vanaheim",
+    "isrc": "NLP7X2200004"
+  },
+  {
+    "title": "A Wolf in My Heart",
+    "artist": "Heidevolk",
+    "isrc": "ATN261776202"
+  },
+  {
+    "title": "Jesus is Dead!",
+    "artist": "Altar",
+    "isrc": "QMFME2242174"
+  },
+  {
+    "title": "Serpents of Fame",
+    "artist": "Dead Head",
+    "isrc": "NLWJ22400029"
+  },
+  {
+    "title": "Gjallarhoorn",
+    "artist": "Myrkvar",
+    "isrc": "CH6540884510"
+  },
+  {
+    "title": "Ôfstân",
+    "artist": "Kjeld",
+    "isrc": "ESA012105715"
+  },
+  {
+    "title": "The Sighting Is a Portent of Doom",
+    "artist": "Carach Angren",
+    "isrc": "FR33T1330402"
+  },
+  {
+    "title": "Tere Muur",
+    "artist": "Fluisteraars",
+    "isrc": "USA2P2003554"
+  },
+  {
+    "title": "Degen van Licht",
+    "artist": "Turia",
+    "isrc": "USA2P1961863"
+  },
+  {
+    "title": "The Devil's Grasp",
+    "artist": "Siege Of Power",
+    "isrc": "USMBR2215615"
+  },
+  {
+    "title": "Wanneer de hemel bloedt",
+    "artist": "Mondvolland",
+    "isrc": "UKCVA1901748"
+  },
+  {
+    "title": "Urashima",
+    "artist": "Drakum",
+    "isrc": "QZK6Q1907892"
+  },
+  {
+    "title": "Bow Down Before the Blood Court",
+    "artist": "Grand Supreme Blood Court",
+    "isrc": "US4E41296502"
+  },
+  {
+    "title": "Sedation",
+    "artist": "Sun Caged",
+    "isrc": "ushm80568462"
+  },
+  {
+    "title": "Immense Intense Suspense Barricade",
+    "artist": "Phlebotomized",
+    "isrc": "NLWJ21400009"
+  },
+  {
+    "title": "Spin Moon Magic",
+    "artist": "The Dreamside",
+    "isrc": "CH6540871767"
+  },
+  {
+    "title": "A War of Our Own",
+    "artist": "Stream of Passion",
+    "isrc": "NLC3K1400002"
+  },
+  {
+    "title": "Here's My Hell",
+    "artist": "ReVamp",
+    "isrc": "DED831000200"
+  },
+  {
+    "title": "Cry with a Smile",
+    "artist": "After Forever",
+    "isrc": "DED830697108"
+  },
+  {
+    "title": "Essenza Di Te",
+    "artist": "MaYaN",
+    "isrc": "DED831100127"
+  },
+  {
+    "title": "Queen of Shadow (feat. Paolo Ribaldini)",
+    "artist": "Delain, Paolo Ribaldini",
+    "isrc": "ATN262214108"
+  },
+  {
+    "title": "The Storm - Storm Version",
+    "artist": "The Gentle Storm",
+    "isrc": "NLR491400018"
+  },
+  {
+    "title": "It's Over",
+    "artist": "Nemesea",
+    "isrc": "ATN261138508"
+  },
+  {
+    "title": "Under A Darkening Sky",
+    "artist": "God Dethroned",
+    "isrc": "USMBR0906345"
+  },
+  {
+    "title": "Last One On Earth",
+    "artist": "Asphyx",
+    "isrc": "US4E40573404"
+  },
+  {
+    "title": "Who Do You Think You Are",
+    "artist": "End of the Dream",
+    "isrc": "NLVZ21700002"
+  },
+  {
+    "title": "The Martyr and the Saint - Beirut",
+    "artist": "VUUR",
+    "isrc": "GBDHC1779403"
+  },
+  {
+    "title": "Diabolical Summoning",
+    "artist": "Sinister",
+    "isrc": "DED839738403"
+  },
+  {
+    "title": "Reality - When You Die",
+    "artist": "Gorefest",
+    "isrc": "DED830584403"
+  },
+  {
+    "title": "Chapter 2 - Anastasia Romanova: The Exile",
+    "artist": "Ex Libris",
+    "isrc": "NLY9T1900003"
+  },
+  {
+    "title": "Coward",
+    "artist": "Trillium",
+    "isrc": "ITG271100391"
+  },
+  {
+    "title": "The Death Of Everything",
+    "artist": "Severe Torture",
+    "isrc": "FR33T2377901"
+  },
+  {
+    "title": "Red Wolves Of Stalin",
+    "artist": "Hail Of Bullets",
+    "isrc": "USMBR0805762"
+  },
+  {
+    "title": "Everybody Dies",
+    "artist": "Ayreon",
+    "isrc": "NLB931700603"
+  },
+  {
+    "title": "Intergalactic Space Crusaders",
+    "artist": "Arjen Anthony Lucassen's Star One",
+    "isrc": "GBDHC0921309"
+  },
+  {
+    "title": "Her White Dress",
+    "artist": "Kingfisher Sky",
+    "isrc": "NLD440704909"
+  },
+  {
+    "title": "Contamination",
+    "artist": "Legion Of The Damned",
+    "isrc": "ATN262318702"
+  },
+  {
+    "title": "Land of Tears",
+    "artist": "Pestilence",
+    "isrc": "NLA320320357"
+  },
+  {
+    "title": "Dawn Of The Dead",
+    "artist": "Thanatos",
+    "isrc": "US4E41294701"
+  },
+  {
+    "title": "Your hands so cold",
+    "artist": "Asrai",
+    "isrc": "FR33T0715602"
+  },
+  {
+    "title": "Abyss of Time - Countdown to Singularity -",
+    "artist": "Epica",
+    "isrc": "DED832000516"
+  },
+  {
+    "title": "Feel the Rush",
+    "artist": "Satyrian",
+    "isrc": "ushm20673367"
+  },
+  {
+    "title": "Leaves",
+    "artist": "The Gathering",
+    "isrc": "US4E40579804"
+  },
+  {
+    "title": "Alloy",
+    "artist": "Autumn",
+    "isrc": "USMBR1108520"
+  }
+]

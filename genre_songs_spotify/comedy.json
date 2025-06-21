@@ -1,0 +1,917 @@
+[
+  {
+    "title": "The Parking Ticket",
+    "artist": "Patton Oswalt",
+    "isrc": "US85P1113502"
+  },
+  {
+    "title": "Sandwiches",
+    "artist": "Mitch Hedberg",
+    "isrc": "US39N0400032"
+  },
+  {
+    "title": "Shaved Pubes",
+    "artist": "Dave Attell",
+    "isrc": "US39N0400119"
+  },
+  {
+    "title": "Best Disease Ever",
+    "artist": "Norm MacDonald",
+    "isrc": "US85P1112604"
+  },
+  {
+    "title": "Rats and Squealers",
+    "artist": "George Carlin",
+    "isrc": "QMFMF1553614"
+  },
+  {
+    "title": "Divorce",
+    "artist": "Louis C.K.",
+    "isrc": "TCAHI2332905"
+  },
+  {
+    "title": "Twin",
+    "artist": "Steven Wright",
+    "isrc": "US85P0754006"
+  },
+  {
+    "title": "Dirty Talk",
+    "artist": "Chris Rock",
+    "isrc": "QZ5HC1600287"
+  },
+  {
+    "title": "Charlie Hodge",
+    "artist": "Bill Hicks",
+    "isrc": "QMJYX1549330"
+  },
+  {
+    "title": "My Dad and Sylvester Stallone",
+    "artist": "Jim Breuer",
+    "isrc": "QMJYX1975506"
+  },
+  {
+    "title": "Baby Failure",
+    "artist": "David Cross",
+    "isrc": "QMJYX1969102"
+  },
+  {
+    "title": "Hot Travel Tips",
+    "artist": "Todd Barry",
+    "isrc": "US85P1215503"
+  },
+  {
+    "title": "Ron Jeremy's Giant Cock",
+    "artist": "Jim Norton",
+    "isrc": "QMFME1566387"
+  },
+  {
+    "title": "Vinyl Midlife Crisis",
+    "artist": "Marc Maron",
+    "isrc": "US85P1319604"
+  },
+  {
+    "title": "1st World Poverty",
+    "artist": "Doug Stanhope",
+    "isrc": "QMJYX1653801"
+  },
+  {
+    "title": "Cuddling",
+    "artist": "Brian Posehn",
+    "isrc": "US2641007603"
+  },
+  {
+    "title": "Edibles",
+    "artist": "Doug Benson",
+    "isrc": "QMJYX1548509"
+  },
+  {
+    "title": "You Can't Fix Stupid",
+    "artist": "Ron White",
+    "isrc": "USIM50500689"
+  },
+  {
+    "title": "The Black Dahlia",
+    "artist": "Dana Gould",
+    "isrc": "QMJYX1331012"
+  },
+  {
+    "title": "The Most Valuable Thing on the Planet",
+    "artist": "Jeff Foxworthy, Larry The Cable Guy",
+    "isrc": "QMJYX1756503"
+  },
+  {
+    "title": "Booze Is Magic",
+    "artist": "Nick Swardson",
+    "isrc": "US85P0989002"
+  },
+  {
+    "title": "More Arms Than Courage",
+    "artist": "Todd Glass",
+    "isrc": "QMJYX1330802"
+  },
+  {
+    "title": "Chinatown YMCA",
+    "artist": "Jim Gaffigan",
+    "isrc": "QMJYX1862606"
+  },
+  {
+    "title": "Desire to Kill",
+    "artist": "Christopher Titus",
+    "isrc": "US85P1523901"
+  },
+  {
+    "title": "Happy Anniversary, Karen",
+    "artist": "Christian Finnegan",
+    "isrc": "QMJYX1335102"
+  },
+  {
+    "title": "Joe Bags",
+    "artist": "Mike Birbiglia",
+    "isrc": "US85P0752002"
+  },
+  {
+    "title": "An Irresponsible Father",
+    "artist": "Robert Schimmel",
+    "isrc": "NLD321301091"
+  },
+  {
+    "title": "Wedding Invitation",
+    "artist": "Dane Cook",
+    "isrc": "QZPLR2266121"
+  },
+  {
+    "title": "Pigeons Get Murked",
+    "artist": "Hannibal Buress",
+    "isrc": "US2881006514"
+  },
+  {
+    "title": "Environmentalists",
+    "artist": "Dennis Miller",
+    "isrc": "QMJYX1435402"
+  },
+  {
+    "title": "Does This Belong Here?",
+    "artist": "Adam Ferrara",
+    "isrc": "QZ5HC2140402"
+  },
+  {
+    "title": "Goldenrod",
+    "artist": "Daniel Tosh",
+    "isrc": "US85P1625102"
+  },
+  {
+    "title": "Dangerous Jobs",
+    "artist": "Dave Chappelle",
+    "isrc": "QMJYX1970807"
+  },
+  {
+    "title": "Satellite Radio / Jimmy Buffet",
+    "artist": "Kurt Braunohler",
+    "isrc": "US85P1728403"
+  },
+  {
+    "title": "Billboards and Bumper Stickers",
+    "artist": "Michael Ian Black",
+    "isrc": "US85P0755005"
+  },
+  {
+    "title": "Niggas",
+    "artist": "Richard Pryor",
+    "isrc": "USFI80300155"
+  },
+  {
+    "title": "Cholo Soccer Dad",
+    "artist": "Al Madrigal",
+    "isrc": "US85P1317602"
+  },
+  {
+    "title": "Panda Butler",
+    "artist": "Matt Braunger",
+    "isrc": "US85P1216015"
+  },
+  {
+    "title": "Good Guy",
+    "artist": "Anthony Jeselnik",
+    "isrc": "US85P1316802"
+  },
+  {
+    "title": "Logistician",
+    "artist": "Kyle Kinane",
+    "isrc": "QZ5HC2003303"
+  },
+  {
+    "title": "Crackheads",
+    "artist": "Natasha Leggero",
+    "isrc": "US85P1112113"
+  },
+  {
+    "title": "Cars",
+    "artist": "Harland Williams",
+    "isrc": "QMJYX1434711"
+  },
+  {
+    "title": "Reagan and Smoking",
+    "artist": "Denis Leary",
+    "isrc": "QZ5HC1775114"
+  },
+  {
+    "title": "Fierce to Be Asian",
+    "artist": "Margaret Cho",
+    "isrc": "QMJYX1972202"
+  },
+  {
+    "title": "Low Carb Diets and Dr. Phil",
+    "artist": "John Pinette",
+    "isrc": "USZQE0710047"
+  },
+  {
+    "title": "Stupid In School - Live",
+    "artist": "Brian Regan",
+    "isrc": "USA370615284"
+  },
+  {
+    "title": "Women and Dogs I Used to Know",
+    "artist": "Bob Saget",
+    "isrc": "QMJYX1330605"
+  },
+  {
+    "title": "Atlanta, GA",
+    "artist": "Redd Foxx",
+    "isrc": "USA371452512"
+  },
+  {
+    "title": "E-Mail Terrorism",
+    "artist": "Richard Jeni",
+    "isrc": "QMJYX1437402"
+  },
+  {
+    "title": "Requiem for a Club That's Still There",
+    "artist": "Greg Proops",
+    "isrc": "QM4TX2278341"
+  },
+  {
+    "title": "Mexican Women",
+    "artist": "Pablo Francisco",
+    "isrc": "USA370615454"
+  },
+  {
+    "title": "Greg Giraldo",
+    "artist": "Greg Giraldo",
+    "isrc": "GBHWV0400297"
+  },
+  {
+    "title": "Doggy Paddle",
+    "artist": "Bill Engvall",
+    "isrc": "QMJYX2332010"
+  },
+  {
+    "title": "Everything's at Walmart",
+    "artist": "Larry The Cable Guy",
+    "isrc": "QMJYX2079205"
+  },
+  {
+    "title": "Love",
+    "artist": "Whitney Cummings",
+    "isrc": "US85P1421302"
+  },
+  {
+    "title": "Leave It In",
+    "artist": "Tom Segura",
+    "isrc": "QMJYX1756402"
+  },
+  {
+    "title": "Long Victorian Nightgown",
+    "artist": "John Mulaney",
+    "isrc": "US58L1872406"
+  },
+  {
+    "title": "Parental Intuition",
+    "artist": "Chad Daniels",
+    "isrc": "US2881412802"
+  },
+  {
+    "title": "Cats on the Internet",
+    "artist": "Wyatt Cenac",
+    "isrc": "US85P1113103"
+  },
+  {
+    "title": "Over 40 and Dating",
+    "artist": "Maria Bamford",
+    "isrc": "US85P1317120"
+  },
+  {
+    "title": "K.C. Is the Garden of Eden",
+    "artist": "Kathleen Madigan",
+    "isrc": "QZ5HC1701053"
+  },
+  {
+    "title": "Adrian Cronauer - Pt. 1",
+    "artist": "Robin Williams",
+    "isrc": "USUG11401390"
+  },
+  {
+    "title": "Q&A: Advice for the Audience",
+    "artist": "Eugene Mirman",
+    "isrc": "US85P1216505"
+  },
+  {
+    "title": "Guessing to Folks (Live)",
+    "artist": "Demetri Martin",
+    "isrc": "TCAHR2333715"
+  },
+  {
+    "title": "Slip 'N' Slide",
+    "artist": "Nick Di Paolo",
+    "isrc": "QMJYX1433304"
+  },
+  {
+    "title": "Pearl Harbour to Russia",
+    "artist": "Eddie Izzard",
+    "isrc": "GBHWV0400029"
+  },
+  {
+    "title": "Thanks for Risking Your Life",
+    "artist": "Lewis Black",
+    "isrc": "QZ5HC2006401"
+  },
+  {
+    "title": "On Notice",
+    "artist": "George Lopez",
+    "isrc": "US85P0988002"
+  },
+  {
+    "title": "Drive",
+    "artist": "Rory Scovel",
+    "isrc": "US2881108002"
+  },
+  {
+    "title": "Invite Them Up",
+    "artist": "Aziz Ansari",
+    "isrc": "US85P0538010"
+  },
+  {
+    "title": "Social Experiment (Jfl 2015)",
+    "artist": "Artie Lange",
+    "isrc": "CABXX1700242"
+  },
+  {
+    "title": "Been Caught Stealing",
+    "artist": "Paul F. Tompkins",
+    "isrc": "QMDA71417590"
+  },
+  {
+    "title": "Clowning About Kissing",
+    "artist": "Tommy Johnagin",
+    "isrc": "US85P1112710"
+  },
+  {
+    "title": "Walter's Wife, Amsterdam",
+    "artist": "Jeff Dunham",
+    "isrc": "QMJYX1968503"
+  },
+  {
+    "title": "Harry Potter (Jfl 2011)",
+    "artist": "Kumail Nanjiani",
+    "isrc": "CABXX1800745"
+  },
+  {
+    "title": "Under a Buck",
+    "artist": "David Spade",
+    "isrc": "US85P1420305"
+  },
+  {
+    "title": "You Were There.",
+    "artist": "Nate Bargatze",
+    "isrc": "US85P1523004"
+  },
+  {
+    "title": "The Hudson River Challenge",
+    "artist": "Ben Bailey",
+    "isrc": "USGEK2100078"
+  },
+  {
+    "title": "Getting Groans Adele",
+    "artist": "Bobcat Goldthwait, Dana Gould",
+    "isrc": "QZ5HC2126205"
+  },
+  {
+    "title": "I Don't Have Wrinkles",
+    "artist": "Jen Kirkman",
+    "isrc": "USLQZ1602696"
+  },
+  {
+    "title": "Bad Choices",
+    "artist": "Nick Thune",
+    "isrc": "QMJYX1755603"
+  },
+  {
+    "title": "Pretend Sports / Job Application",
+    "artist": "John Heffron",
+    "isrc": "QMJYX1974910"
+  },
+  {
+    "title": "No Moleste",
+    "artist": "Tig Notaro",
+    "isrc": "US38W1123409"
+  },
+  {
+    "title": "Kardashians",
+    "artist": "The Sklar Brothers",
+    "isrc": "US2881107902"
+  },
+  {
+    "title": "Racist Gift Basket, Part 1",
+    "artist": "Gabriel Iglesias",
+    "isrc": "US85P1318514"
+  },
+  {
+    "title": "Make Them Laugh",
+    "artist": "Eddie Pepitone",
+    "isrc": "QMJYX1541904"
+  },
+  {
+    "title": "You're Slowing Us Down",
+    "artist": "Jim Jefferies",
+    "isrc": "QZ5HC1700767"
+  },
+  {
+    "title": "First Tonight Show Shot",
+    "artist": "Jerry Seinfeld, Larry Wilde",
+    "isrc": "QMFMF1515306"
+  },
+  {
+    "title": "Gulf War (Jfl 1992)",
+    "artist": "Jon Stewart",
+    "isrc": "CABXX1800785"
+  },
+  {
+    "title": "People Get Excited When They See a Little Person",
+    "artist": "Brad Williams",
+    "isrc": "USTX61602002"
+  },
+  {
+    "title": "Hitler's Great Ass",
+    "artist": "Craig Ferguson",
+    "isrc": "QMJYX1331106"
+  },
+  {
+    "title": "The Bugged Car",
+    "artist": "Patton Oswalt",
+    "isrc": "US85P1113506"
+  },
+  {
+    "title": "Candy Bars",
+    "artist": "Mitch Hedberg",
+    "isrc": "US39N0400035"
+  },
+  {
+    "title": "Dick Jokes",
+    "artist": "Dave Attell",
+    "isrc": "US39N0400125"
+  },
+  {
+    "title": "O.J.",
+    "artist": "Norm MacDonald",
+    "isrc": "US85P1112610"
+  },
+  {
+    "title": "Tired of Songs",
+    "artist": "George Carlin",
+    "isrc": "QMFMF1553617"
+  },
+  {
+    "title": "Jesus Was Jewish",
+    "artist": "Louis C.K.",
+    "isrc": "TCAFP2171621"
+  },
+  {
+    "title": "Planetarium",
+    "artist": "Steven Wright",
+    "isrc": "US85P0754009"
+  },
+  {
+    "title": "Chances Are",
+    "artist": "Chris Rock",
+    "isrc": "QZ5HC1771103"
+  },
+  {
+    "title": "Fevered Egos",
+    "artist": "Bill Hicks",
+    "isrc": "USRY29600185"
+  },
+  {
+    "title": "Living by the Airport",
+    "artist": "Jim Breuer",
+    "isrc": "QMJYX1975509"
+  },
+  {
+    "title": "Narcissism and the Slow March to Oblivion",
+    "artist": "David Cross",
+    "isrc": "QMJYX1969106"
+  },
+  {
+    "title": "Littlest Guy in the Group",
+    "artist": "Todd Barry",
+    "isrc": "QZ5HC2143201"
+  },
+  {
+    "title": "Fuck The Westboro Baptist Church",
+    "artist": "Jim Norton",
+    "isrc": "QMJYX1331312"
+  },
+  {
+    "title": "Drug Wisdom",
+    "artist": "Marc Maron",
+    "isrc": "US85P1319603"
+  },
+  {
+    "title": "Locked up Abroad",
+    "artist": "Doug Stanhope",
+    "isrc": "QMJYX1653802"
+  },
+  {
+    "title": "iTunes",
+    "artist": "Brian Posehn",
+    "isrc": "US2641007602"
+  },
+  {
+    "title": "High at Work",
+    "artist": "Doug Benson",
+    "isrc": "QMDA71417625"
+  },
+  {
+    "title": "Bachelorette Party",
+    "artist": "Ron White",
+    "isrc": "USIM50500687"
+  },
+  {
+    "title": "Crappy Jobs & Bingo",
+    "artist": "Dana Gould",
+    "isrc": "USZQE0610648"
+  },
+  {
+    "title": "Git R Done",
+    "artist": "Jeff Foxworthy, Larry The Cable Guy",
+    "isrc": "QMJYX1756509"
+  },
+  {
+    "title": "Opening",
+    "artist": "Nick Swardson",
+    "isrc": "US85P0756002"
+  },
+  {
+    "title": "Cool Guy",
+    "artist": "Todd Glass",
+    "isrc": "US85P0974002"
+  },
+  {
+    "title": "Did You Get It?",
+    "artist": "Jim Gaffigan",
+    "isrc": "QMJYX2331701"
+  },
+  {
+    "title": "The Terrorist Demo",
+    "artist": "Christopher Titus",
+    "isrc": "US85P1523902"
+  },
+  {
+    "title": "Friendly Tollbooth",
+    "artist": "Christian Finnegan",
+    "isrc": "QMJYX1335103"
+  },
+  {
+    "title": "Hi",
+    "artist": "Mike Birbiglia",
+    "isrc": "QMJYX1331510"
+  },
+  {
+    "title": "Condom in a Swimming Pool",
+    "artist": "Robert Schimmel",
+    "isrc": "QMJYX1975103"
+  },
+  {
+    "title": "I Love You",
+    "artist": "Dane Cook",
+    "isrc": "QZPLR2266120"
+  },
+  {
+    "title": "Why Would You Tell Me That?",
+    "artist": "Hannibal Buress",
+    "isrc": "US85P1215414"
+  },
+  {
+    "title": "Journalists",
+    "artist": "Dennis Miller",
+    "isrc": "QMJYX1865121"
+  },
+  {
+    "title": "Technology Is Nuts",
+    "artist": "Adam Ferrara",
+    "isrc": "QZ5HC2140410"
+  },
+  {
+    "title": "Fuchsia",
+    "artist": "Daniel Tosh",
+    "isrc": "US85P1625106"
+  },
+  {
+    "title": "Integrate Television",
+    "artist": "Dave Chappelle",
+    "isrc": "QMJYX1970805"
+  },
+  {
+    "title": "Nailing Marriage / Hitler Had a Dog",
+    "artist": "Kurt Braunohler",
+    "isrc": "US85P1728406"
+  },
+  {
+    "title": "Banana Noises",
+    "artist": "Michael Ian Black",
+    "isrc": "US85P1113303"
+  },
+  {
+    "title": "Arrest/Lineup",
+    "artist": "Richard Pryor",
+    "isrc": "USFI80300156"
+  },
+  {
+    "title": "Turtleman",
+    "artist": "Al Madrigal",
+    "isrc": "US85P1317605"
+  },
+  {
+    "title": "Clown Pub Crawl",
+    "artist": "Matt Braunger",
+    "isrc": "US85P1216017"
+  },
+  {
+    "title": "Romance",
+    "artist": "Anthony Jeselnik",
+    "isrc": "US85P1010306"
+  },
+  {
+    "title": "This Track Is Not Called If It Ain't Ruff",
+    "artist": "Kyle Kinane",
+    "isrc": "US85P1422704"
+  },
+  {
+    "title": "Women's Movement",
+    "artist": "Natasha Leggero",
+    "isrc": "US85P1112112"
+  },
+  {
+    "title": "Sense of Humor",
+    "artist": "Harland Williams",
+    "isrc": "US85P0537002"
+  },
+  {
+    "title": "Death",
+    "artist": "Denis Leary",
+    "isrc": "USWWW0140007"
+  },
+  {
+    "title": "Comic Relief",
+    "artist": "Margaret Cho",
+    "isrc": "QMJYX1972203"
+  },
+  {
+    "title": "When the Spice Hits",
+    "artist": "John Pinette",
+    "isrc": "USZQE1010060"
+  },
+  {
+    "title": "Elevators & Faces - Live",
+    "artist": "Brian Regan",
+    "isrc": "USA370615302"
+  },
+  {
+    "title": "I'm Talkin' to You, Son",
+    "artist": "Bob Saget",
+    "isrc": "QMJYX1330603"
+  },
+  {
+    "title": "Faith Healer",
+    "artist": "Redd Foxx",
+    "isrc": "USA371452476"
+  },
+  {
+    "title": "Stripper Club and Dollar Man",
+    "artist": "Richard Jeni",
+    "isrc": "QMJYX1437419"
+  },
+  {
+    "title": "I Had My Eyes Did",
+    "artist": "Greg Proops",
+    "isrc": "QM4TX2278353"
+  },
+  {
+    "title": "Movie Previews",
+    "artist": "Pablo Francisco",
+    "isrc": "USA370615458"
+  },
+  {
+    "title": "Strict Dad (Jfl 1999)",
+    "artist": "Greg Giraldo",
+    "isrc": "CABXX1800863"
+  },
+  {
+    "title": "Bad Hair Day",
+    "artist": "Bill Engvall",
+    "isrc": "QMJYX2332003"
+  },
+  {
+    "title": "Buffets & Scoring",
+    "artist": "Larry The Cable Guy",
+    "isrc": "QMJYX2079207"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Whitney Cummings",
+    "isrc": "US85P1421305"
+  },
+  {
+    "title": "First 48",
+    "artist": "Tom Segura",
+    "isrc": "QMJYX1334205"
+  },
+  {
+    "title": "The Salt and Pepper Diner",
+    "artist": "John Mulaney",
+    "isrc": "US85P0977014"
+  },
+  {
+    "title": "Environmental Science",
+    "artist": "Chad Daniels",
+    "isrc": "US2881209208"
+  },
+  {
+    "title": "Medieval Times",
+    "artist": "Wyatt Cenac",
+    "isrc": "US85P1113104"
+  },
+  {
+    "title": "My Sister",
+    "artist": "Maria Bamford",
+    "isrc": "US85P0975002"
+  },
+  {
+    "title": "Casinos",
+    "artist": "Kathleen Madigan",
+    "isrc": "QM7281700802"
+  },
+  {
+    "title": "Adorable Racism",
+    "artist": "Patton Oswalt",
+    "isrc": "US85P1419405"
+  },
+  {
+    "title": "The Improv Fairy Tale",
+    "artist": "Mitch Hedberg",
+    "isrc": "US85P0863001"
+  },
+  {
+    "title": "The Unfuckables",
+    "artist": "Dave Attell",
+    "isrc": "US39N0400107"
+  },
+  {
+    "title": "It's Good to Be Alive",
+    "artist": "Norm MacDonald",
+    "isrc": "US85P1112601"
+  },
+  {
+    "title": "The Fecal Differential",
+    "artist": "George Carlin",
+    "isrc": "QMFMF1553616"
+  },
+  {
+    "title": "This Woman I Met",
+    "artist": "Steven Wright",
+    "isrc": "US85P0754002"
+  },
+  {
+    "title": "Little Girls Panties",
+    "artist": "Louis C.K.",
+    "isrc": "TCAGL2209594"
+  },
+  {
+    "title": "Porno",
+    "artist": "Chris Rock",
+    "isrc": "QZ5HC1600283"
+  },
+  {
+    "title": "Rockers Against Drugs Suck",
+    "artist": "Bill Hicks",
+    "isrc": "USRY20410314"
+  },
+  {
+    "title": "Women",
+    "artist": "Jim Breuer",
+    "isrc": "QZWFH2318839"
+  },
+  {
+    "title": "Clown Pain Fun",
+    "artist": "David Cross",
+    "isrc": "QMJYX1969105"
+  },
+  {
+    "title": "Chopped",
+    "artist": "Todd Barry",
+    "isrc": "QZ5HC2143209"
+  },
+  {
+    "title": "The Mosque at Ground Zero",
+    "artist": "Jim Norton",
+    "isrc": "QMJYX1331304"
+  },
+  {
+    "title": "Healthy",
+    "artist": "Marc Maron",
+    "isrc": "QZ5HC1801210"
+  },
+  {
+    "title": "Secret of My Success",
+    "artist": "Doug Stanhope",
+    "isrc": "QMJYX1970106"
+  },
+  {
+    "title": "Valet in the Valley",
+    "artist": "Brian Posehn",
+    "isrc": "US2641007604"
+  },
+  {
+    "title": "Dumb Things",
+    "artist": "Doug Benson",
+    "isrc": "US85P1112805"
+  },
+  {
+    "title": "Grandma in Texas",
+    "artist": "Ron White",
+    "isrc": "USIM50500696"
+  },
+  {
+    "title": "Women Are Like Fruit Trees",
+    "artist": "Dana Gould",
+    "isrc": "QMJYX1331003"
+  },
+  {
+    "title": "Dieting and Buffets",
+    "artist": "Jeff Foxworthy, Larry The Cable Guy",
+    "isrc": "QMJYX1756512"
+  },
+  {
+    "title": "Blades of Glory",
+    "artist": "Nick Swardson",
+    "isrc": "US85P0989008"
+  },
+  {
+    "title": "Signs",
+    "artist": "Todd Glass",
+    "isrc": "US85P0974009"
+  },
+  {
+    "title": "Montezuma's Revenge",
+    "artist": "Jim Gaffigan",
+    "isrc": "QMJYX2331704"
+  },
+  {
+    "title": "10 Year Bender",
+    "artist": "Christopher Titus",
+    "isrc": "US85P1112501"
+  },
+  {
+    "title": "I Gotta Be Me",
+    "artist": "Christian Finnegan",
+    "isrc": "QMJYX1335110"
+  },
+  {
+    "title": "Like Fun",
+    "artist": "Mike Birbiglia",
+    "isrc": "US85P0752005"
+  },
+  {
+    "title": "17 Year Old",
+    "artist": "Robert Schimmel",
+    "isrc": "QMJYX1975102"
+  },
+  {
+    "title": "20/20 aka The Photo",
+    "artist": "Dane Cook",
+    "isrc": "QZPLR2266122"
+  },
+  {
+    "title": "Comedy Is a Weird Job",
+    "artist": "Hannibal Buress",
+    "isrc": "US85P1419903"
+  },
+  {
+    "title": "Football Violence",
+    "artist": "Dennis Miller",
+    "isrc": "QMJYX1865107"
+  },
+  {
+    "title": "Gay Pride",
+    "artist": "Adam Ferrara",
+    "isrc": "QMJYX1974812"
+  }
+]

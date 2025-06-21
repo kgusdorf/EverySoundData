@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Fyonladiya Twe Dekhik",
+    "artist": "Kishan Mahipal",
+    "isrc": "DGA052050657"
+  },
+  {
+    "title": "Pyari Nirmala",
+    "artist": "Saurav Maithani, Shivani Negi",
+    "isrc": "DGA082223517"
+  },
+  {
+    "title": "Chaitwali",
+    "artist": "Amit Saagar",
+    "isrc": "DGA052055741"
+  },
+  {
+    "title": "Kain Bharmai",
+    "artist": "Anisha Ranghar, Keshar Panwar",
+    "isrc": "FR96X2235041"
+  },
+  {
+    "title": "Balma",
+    "artist": "Meena Rana, Sanjay Kumola",
+    "isrc": "FR2X42227544"
+  },
+  {
+    "title": "Nandu Mama Ki Syali",
+    "artist": "Gunjan Dangwal",
+    "isrc": "FR10S2145203"
+  },
+  {
+    "title": "Furki Baand",
+    "artist": "Gajendra Rana",
+    "isrc": "INS180806999"
+  },
+  {
+    "title": "Rangeela Dupatta",
+    "artist": "Keshar Panwar, Anisha Ranghar",
+    "isrc": "FRX452210557"
+  },
+  {
+    "title": "Aachari Jaagar",
+    "artist": "Hema Negi Karasi",
+    "isrc": "FRX872113115"
+  },
+  {
+    "title": "Challpatti (Garhwali Dj)",
+    "artist": "Deewan Singh Panwar, Meena Rana",
+    "isrc": "DGA062047201"
+  },
+  {
+    "title": "Durga Bhawani (Jaagar)",
+    "artist": "Preetam Bhartwan, Meena Rana",
+    "isrc": "INS180376961"
+  },
+  {
+    "title": "Negi Ki Cheli",
+    "artist": "Manglesh Dangwal",
+    "isrc": "INS181103296"
+  },
+  {
+    "title": "Khuti Rodige",
+    "artist": "Karishma Shah, Ashish Chamoli",
+    "isrc": "FRX452197186"
+  },
+  {
+    "title": "Jhumki",
+    "artist": "Darshan Farswan, Diksha Badoni, Akash Negi",
+    "isrc": "DGA072156303"
+  },
+  {
+    "title": "Modern Pahadi Mashup 2",
+    "artist": "Ashish Chamoli, Tarun Pawri, daizy aizy",
+    "isrc": "FRX282133518"
+  },
+  {
+    "title": "Tara Lagure - Garhwali Song",
+    "artist": "Ruhaan Bhardwaj, Karishma Shah",
+    "isrc": "FRX452197153"
+  },
+  {
+    "title": "Sapna Syali - Garhwali DJ Song",
+    "artist": "Sanjay Bhandari, Saurav Maithani, Anisha Ranghar, Raj Tiger",
+    "isrc": "FRX872141712"
+  },
+  {
+    "title": "Gailyani Tu Sansu Kari",
+    "artist": "Sahab Singh Ramola",
+    "isrc": "FRX202245860"
+  },
+  {
+    "title": "Chori Chandra",
+    "artist": "Rohit Chauhan, Avinash Rana, Neha Bhandari",
+    "isrc": "FRX762219152"
+  },
+  {
+    "title": "Pingli Pichodi",
+    "artist": "Mashakbeen, Rohit Chauhan, Meena Rana, Raj Tiger, Sapna Chauhan, Nishu Upreti",
+    "isrc": "QZHN62298701"
+  },
+  {
+    "title": "Mandaan",
+    "artist": "Ruhan Bhardwaj, Karishma Shah",
+    "isrc": "TCAFE2059860"
+  },
+  {
+    "title": "Main Chun Nauni Pauri Ki",
+    "artist": "Raj Tiger, Anisha Ranghar, Sanju Silodi, Reeta Dhyani",
+    "isrc": "FR59R2200275"
+  },
+  {
+    "title": "Saniyo Ma",
+    "artist": "Sanjay Kumola, Meena Rana, Ajay Solanki, Prachi Panwar",
+    "isrc": "FR2X42354653"
+  },
+  {
+    "title": "Pink Plazo",
+    "artist": "Suryapal Shriwan, Anisha Ranghar, Raj Tiger, Sunil Garwan, Prachi Panwar",
+    "isrc": "FRX452246117"
+  },
+  {
+    "title": "Kui Ta Baat Holi",
+    "artist": "Narendra Singh Negi",
+    "isrc": "FR2X42149332"
+  },
+  {
+    "title": "Hiya Parani",
+    "artist": "Pritam Bhartwan, Meena Rana",
+    "isrc": "DGA062039639"
+  },
+  {
+    "title": "Thal Ki Bazar",
+    "artist": "B.K. Samant",
+    "isrc": "INA3Y2100020"
+  },
+  {
+    "title": "Bhama Meri",
+    "artist": "Amit kharre, Meena Rana, Ankit Rawat, Sanjoli Singh",
+    "isrc": "FRX452185915"
+  },
+  {
+    "title": "Jai Jai Bola",
+    "artist": "Anuradha Nirala, Narendra Singh Negi, Meena Rana",
+    "isrc": "INS180024433"
+  },
+  {
+    "title": "Baand Chon Pahadi",
+    "artist": "Karishma Shah, Ruhaan Bhardwaj, Ashish Chamoli",
+    "isrc": "FRX452193413"
+  },
+  {
+    "title": "Gulabi Sharara",
+    "artist": "Inder Arya",
+    "isrc": "INS7A2500864"
+  },
+  {
+    "title": "Naurangya Ghaghari",
+    "artist": "Dhanraj Saurya, Anjali Kharre",
+    "isrc": "DGA092368365"
+  },
+  {
+    "title": "Syali Bol Bharuna",
+    "artist": "Geetaram Kanswal",
+    "isrc": "FR10S2136838"
+  },
+  {
+    "title": "Obru Teru Sillu",
+    "artist": "Manju Nautiyal",
+    "isrc": "DGA0R2318754"
+  },
+  {
+    "title": "Didihat Ki Chhamna Chhori",
+    "artist": "Pappu Karki",
+    "isrc": "INS7A1634510"
+  },
+  {
+    "title": "Dhana",
+    "artist": "Priyanka Meher, Rongpaz",
+    "isrc": "DGA0L2305026"
+  },
+  {
+    "title": "Hey Deepa Mijaaj",
+    "artist": "Lalit Mohan Joshi",
+    "isrc": "INS181102609"
+  },
+  {
+    "title": "Teri Swani Mukhadi",
+    "artist": "Virendra Rajput",
+    "isrc": "FRX202492020"
+  },
+  {
+    "title": "Tera Khyalon Ma",
+    "artist": "Rajanikant Semwal, Ajay Solanki, Veena Rawat",
+    "isrc": "FR96X2237952"
+  },
+  {
+    "title": "Dyo Lagi",
+    "artist": "Vivek Nautiyal, Gunjan Dangwal",
+    "isrc": "FR96X2232816"
+  },
+  {
+    "title": "Regiyo Main Twe Dekhdi",
+    "artist": "Dhoom Singh Rawat",
+    "isrc": "DGA052050653"
+  },
+  {
+    "title": "Meri Gaadi",
+    "artist": "Sandeep Sonu",
+    "isrc": "TCAGA2203522"
+  },
+  {
+    "title": "Hey Kaanchhi",
+    "artist": "Anil Bisht, Meena Rana",
+    "isrc": "INS180463025"
+  },
+  {
+    "title": "Jhumka Rei Gya Bagse Mei - Uttrakhandi",
+    "artist": "NEERAJ CHUPHAL, Khushi Joshi",
+    "isrc": "AUC6R2173830"
+  },
+  {
+    "title": "Kedarnath Live (Pandavaas)",
+    "artist": "Pandavaas",
+    "isrc": "INF232200956"
+  },
+  {
+    "title": "Roop Ki Dhani",
+    "artist": "Akash Negi, Diksha Badoni, Amit Kharee, Anjali Kharre",
+    "isrc": "FR2X42265257"
+  },
+  {
+    "title": "Bauji Baana",
+    "artist": "LB Shivam Bhatt",
+    "isrc": "FR10S2145205"
+  },
+  {
+    "title": "Darshan Karyola",
+    "artist": "Kavilas Negi",
+    "isrc": "INS1Q2201770"
+  },
+  {
+    "title": "Fwa Baga Re - Pahari",
+    "artist": "Late.Pappu Karki, Sandeep Sanu, Kalpana Cahuhan",
+    "isrc": "INS7A1616396"
+  },
+  {
+    "title": "Jhanwari",
+    "artist": "Sankalp Khetwal, Bhairavas",
+    "isrc": "uscgh2211392"
+  },
+  {
+    "title": "Mathu Mathu",
+    "artist": "Bhairavas, Sankalp Khetwal",
+    "isrc": "uscgj2218322"
+  },
+  {
+    "title": "Hurani Ko Din",
+    "artist": "Pammy Nawal",
+    "isrc": "FR2X42133228"
+  },
+  {
+    "title": "Bai Suva",
+    "artist": "Arpit Shikhar, Raahul Bauriyan",
+    "isrc": "QZK6P2044366"
+  },
+  {
+    "title": "Sudha Bhaisyan - Pahadi",
+    "artist": "Rakesh Panwar",
+    "isrc": "AUC6R2103548"
+  },
+  {
+    "title": "Sath Nibhane Wali Sath Mera Chhod Na Diye",
+    "artist": "Kalpana Chauhan, Rajnish Sharma",
+    "isrc": "INS7A1650732"
+  },
+  {
+    "title": "Pahadi Slang",
+    "artist": "Team Tornado, Rage_100, Amit, Sachin",
+    "isrc": "QZRP52222056"
+  },
+  {
+    "title": "Thal Ki Bazar",
+    "artist": "Ayush Massey",
+    "isrc": "QZHN62079160"
+  },
+  {
+    "title": "Meri Jogni",
+    "artist": "Mohan Bisht, Anisha Ranghar",
+    "isrc": "DGA052089467"
+  },
+  {
+    "title": "Rasima Chori",
+    "artist": "Spunky Mushroom, Subham Semwal, Monali Gusain",
+    "isrc": "FR96X2220473"
+  },
+  {
+    "title": "Kutumbh Pariwar",
+    "artist": "Amit Thapliyal, Pooja Thapliyal",
+    "isrc": "QZHZ42009892"
+  },
+  {
+    "title": "Hathyon Dhaguli",
+    "artist": "Ne-Yo Pharswan, Riya Sharma",
+    "isrc": "INS1Q2302063"
+  },
+  {
+    "title": "Hey Meri Swani | latest Garhwali Song | Deepak Chamoli kutgyali boy",
+    "artist": "DEEPAK CHAMOLI OFFICIAL",
+    "isrc": "QZFZ32227259"
+  },
+  {
+    "title": "Naunyali Jaadu Ki",
+    "artist": "Ankit Chankhwan",
+    "isrc": "INL232355461"
+  },
+  {
+    "title": "Ghaam Pani",
+    "artist": "Sankalp Khetwal, Ruchi Jangpangi",
+    "isrc": "INK542306257"
+  },
+  {
+    "title": "Laspa Bugyal",
+    "artist": "Mamta Ariya, Rohit Chauhan, Prashaant G Natasha Shah",
+    "isrc": "INS7A2278275"
+  },
+  {
+    "title": "Cham Cahama Cham Cham",
+    "artist": "Narender Singh Negi, Santosh, Kalpana Patowary, Rajju",
+    "isrc": "INN350300073"
+  },
+  {
+    "title": "Parbha Chori",
+    "artist": "Diwan Singh Panwar",
+    "isrc": "DGA062040220"
+  },
+  {
+    "title": "Sun Re Indu",
+    "artist": "Lb Shivam Bhatt",
+    "isrc": "FR10S2185526"
+  },
+  {
+    "title": "Dhaulchina Bajar",
+    "artist": "Sandeep Kumar",
+    "isrc": "FRX762135488"
+  },
+  {
+    "title": "Ek Najar",
+    "artist": "Ruhaan Bhardwaj",
+    "isrc": "SE6XW2142515"
+  },
+  {
+    "title": "Tere Bagairr",
+    "artist": "Pawandeep Rajan, Arunita Kanjilal, Himesh Reshammiya",
+    "isrc": "USA2P2123426"
+  },
+  {
+    "title": "Gazi Mala Takhuli Ko - Bhana",
+    "artist": "Pritam Bharathwan, Meena Rana",
+    "isrc": "FR59R1696114"
+  },
+  {
+    "title": "Haathyon Ma Choodi",
+    "artist": "Rashi Sain, Neyo Pharswan, Shubh Sahota",
+    "isrc": "FRX452130161"
+  },
+  {
+    "title": "Lagi Aaj Sawan Ki",
+    "artist": "Suresh Wadkar, Anupama",
+    "isrc": "INH109240790"
+  },
+  {
+    "title": "Fashion Ko Bhoot",
+    "artist": "Bhagchandra Sawan, Meena Rana, Pannu Gusain, Mini Uniyal",
+    "isrc": "FRX872193033"
+  },
+  {
+    "title": "Mumkin Nahi",
+    "artist": "Offline Series, Rahul Gupta",
+    "isrc": "QZFYX2277210"
+  },
+  {
+    "title": "LAAL DUPATTA",
+    "artist": "Ankit Budhlakoti",
+    "isrc": "QZFYZ2106540"
+  },
+  {
+    "title": "Rasili Bhaun",
+    "artist": "Sargam Ramola",
+    "isrc": "DGA062240593"
+  },
+  {
+    "title": "Almoda Bazara",
+    "artist": "Aditya Bhatt, Diksha Dhoundiyal",
+    "isrc": "TCAHF2393659"
+  },
+  {
+    "title": "Ae Pan Bala Babu",
+    "artist": "Anil Kumar Haripal, Snehalata",
+    "isrc": "INS181001981"
+  },
+  {
+    "title": "Chhoti Syali",
+    "artist": "L B Shivam Bhatt, Anjali Khare, ( Feat. Lb Shivam Bhatt, Anjali Khare )",
+    "isrc": "INS7A2305721"
+  },
+  {
+    "title": "Danda Nachi Mor - Gadwali",
+    "artist": "Manglesh Dangwal, Meena Rana",
+    "isrc": "INS7A1610332"
+  },
+  {
+    "title": "Maya Band",
+    "artist": "Narindra Singh Negi, Pritam Bharathwan, Manglesh Dangwal, Gajinder, Varinder",
+    "isrc": "FR59R1697725"
+  },
+  {
+    "title": "Bangladesa",
+    "artist": "Priitam Bharatwan",
+    "isrc": "INS180700064"
+  },
+  {
+    "title": "Ghughuti",
+    "artist": "Kishan Mahipal",
+    "isrc": "INS1Q2201782"
+  },
+  {
+    "title": "Dhol Damo",
+    "artist": "Saurav Maithani, Darshan Farswan, Meghna Chandra",
+    "isrc": "FR10S2112437"
+  },
+  {
+    "title": "Dwi Rati Ku Jap",
+    "artist": "Anisha Ranghar, Keshar Panwar",
+    "isrc": "FR96X2235134"
+  },
+  {
+    "title": "Furr Ghindudi Aaja",
+    "artist": "Amit Saagar",
+    "isrc": "FR10S2185592"
+  },
+  {
+    "title": "Surju",
+    "artist": "Meena Rana, Sanjay Kumola",
+    "isrc": "FRX762208783"
+  },
+  {
+    "title": "Pahadi Acappella 2 - Gothar Da Bakam Bam",
+    "artist": "Gunjan Dangwal, Ranjeet Singh, Vishal Sharma",
+    "isrc": "FR10S2145204"
+  },
+  {
+    "title": "Heera Samdhini",
+    "artist": "Gajendra Rana",
+    "isrc": "INS181204088"
+  },
+  {
+    "title": "Kali Tikki Najar Na Lagu",
+    "artist": "Keshar Panwar, Anisha Ranghar",
+    "isrc": "FR59R2188757"
+  },
+  {
+    "title": "Sobanu",
+    "artist": "Hema Negi Karasi",
+    "isrc": "FRX872113091"
+  },
+  {
+    "title": "Pyaari Bachna",
+    "artist": "Deewan Singh Panwar, Meena Rana",
+    "isrc": "IND832217991"
+  },
+  {
+    "title": "Saruli Meru Jiya Lagige",
+    "artist": "Preetam Bhartwan, Meena Rana",
+    "isrc": "INS180247689"
+  },
+  {
+    "title": "Labra Chori",
+    "artist": "Manglesh Dangwal",
+    "isrc": "INK542306594"
+  },
+  {
+    "title": "Pahadi Mix Hits",
+    "artist": "Karishma Shah, Ruhaan Bhardwaj",
+    "isrc": "FR96X2231655"
+  },
+  {
+    "title": "Shiv Jatadhari Bhairav",
+    "artist": "Darshan Farswan",
+    "isrc": "FR2X42176018"
+  },
+  {
+    "title": "Saath Janam",
+    "artist": "Ashish Chamoli, Astha Singh",
+    "isrc": "FRX762106727"
+  },
+  {
+    "title": "Himachali Syo Ki Dani - Garhwali Song",
+    "artist": "Ruhaan Bhardwaj",
+    "isrc": "FRX452196908"
+  },
+  {
+    "title": "Hainsdee Mukhree",
+    "artist": "Sahab Singh Ramola, Meena Rana, Madhulika Negi",
+    "isrc": "INS180574495"
+  },
+  {
+    "title": "Dhan Singh Ki Gaadi",
+    "artist": "Rohit Chauhan",
+    "isrc": "INL239009083"
+  },
+  {
+    "title": "Gajra",
+    "artist": "Shailendra Shailu, Sanjay Bhandari, Anisha Ranghar",
+    "isrc": "DGA062012886"
+  },
+  {
+    "title": "Ghungroo",
+    "artist": "Mashakbeen, Rohit Chauhan, Ankit Rawat, Raj Tiger, Neha Bhandari",
+    "isrc": "QZDA52211308"
+  },
+  {
+    "title": "Tera Khatir",
+    "artist": "Raj Tiger, Kiran Maratha",
+    "isrc": "DGA062006514"
+  },
+  {
+    "title": "Maa Dhari Kalinka - Pahadi",
+    "artist": "Sanjay Kumola, Meena Rana",
+    "isrc": "INS7A1643815"
+  },
+  {
+    "title": "Purba - Pahadi",
+    "artist": "Suryapal Shriwan, Meena Rana",
+    "isrc": "AUC6R2142557"
+  },
+  {
+    "title": "Baand Bijora",
+    "artist": "Narendra Singh Negi",
+    "isrc": "FRX202225533"
+  },
+  {
+    "title": "Mori rakhya kholi",
+    "artist": "Pritam Bhartwan, Meena Rana",
+    "isrc": "DGA062039643"
+  },
+  {
+    "title": "Meri Bimu",
+    "artist": "B.K. Samant",
+    "isrc": "INA3Y2100025"
+  },
+  {
+    "title": "Swani Si Mukhudi",
+    "artist": "Amit kharre, Pratiksha bamrara",
+    "isrc": "DGA062372244"
+  },
+  {
+    "title": "Na Tu Mero Lagadu",
+    "artist": "Anuradha Nirala",
+    "isrc": "INS180804759"
+  },
+  {
+    "title": "Chanchari Chori",
+    "artist": "Dhanraj Saurya",
+    "isrc": "DGA062079864"
+  },
+  {
+    "title": "Ramkali",
+    "artist": "Geetaram Kanswal",
+    "isrc": "DGA062029755"
+  },
+  {
+    "title": "Kamar Pida",
+    "artist": "Manju Nautiyal",
+    "isrc": "INS7A2267021"
+  },
+  {
+    "title": "Sun Le Dagadiya",
+    "artist": "Pappu Karki, Meena Rana",
+    "isrc": "INS7A1634498"
+  },
+  {
+    "title": "Mathu Mathu - Uttrakhandi",
+    "artist": "Jyoti Arya, Inder Arya",
+    "isrc": "INS7A2153206"
+  },
+  {
+    "title": "Tyar Khuta Jhanwari ( Feat. Himanshu Arya, Himani Koranga )",
+    "artist": "Lalit Mohan Joshi, Meena Rana",
+    "isrc": "INS7A2569663"
+  },
+  {
+    "title": "Rangili Pichhodi",
+    "artist": "Priyanka Meher, Vishal Sharma, Rongpa",
+    "isrc": "FRX872301759"
+  },
+  {
+    "title": "Syali Birojni - Gadwali Song",
+    "artist": "Virendra Rajput",
+    "isrc": "INS7A2158860"
+  },
+  {
+    "title": "Bhagyani Bou",
+    "artist": "Rajanikant Semwal, Pooja Bhandari, Shailendra Patwal",
+    "isrc": "FR96X2232516"
+  },
+  {
+    "title": "Otuwa Belena",
+    "artist": "Vivek Nautiyal",
+    "isrc": "DGA052359563"
+  },
+  {
+    "title": "Dhol Damo",
+    "artist": "Dhoom Singh Rawat",
+    "isrc": "DGA062028999"
+  },
+  {
+    "title": "Reena",
+    "artist": "Sandeep Sonu",
+    "isrc": "INO132103716"
+  },
+  {
+    "title": "Chaita Ki Chaitwali",
+    "artist": "Anil Bisht",
+    "isrc": "DGA052297086"
+  },
+  {
+    "title": "Kaushila Ghumi Aali Garud",
+    "artist": "NEERAJ CHUPHAL",
+    "isrc": "INS7A2415722"
+  },
+  {
+    "title": "Jeetu Bagdwal (feat. Shraddha Kuhupriya)",
+    "artist": "Pandavaas, Shraddha Kuhupriya",
+    "isrc": "INF232201038"
+  },
+  {
+    "title": "MAI MA NA PUCHA",
+    "artist": "Kavilas Negi",
+    "isrc": "FR2X42188295"
+  },
+  {
+    "title": "Yesi Judi Teri Meri",
+    "artist": "Late.Pappu Karki, Meena Rana",
+    "isrc": "INS7A1634555"
+  },
+  {
+    "title": "Maya",
+    "artist": "Sankalp Khetwal",
+    "isrc": "SE6SA2354557"
+  },
+  {
+    "title": "Kasam",
+    "artist": "Bhairavas, Sankalp Khetwal",
+    "isrc": "uscgj2218334"
+  },
+  {
+    "title": "Kain Lagai Baduli",
+    "artist": "Pammy Nawal",
+    "isrc": "FR2X42133229"
+  },
+  {
+    "title": "Bai Suva2",
+    "artist": "Arpit Shikhar, Raahul Bauriyan",
+    "isrc": "QZK6Q2092025"
+  },
+  {
+    "title": "Reshma Chori - Pahadi",
+    "artist": "Rakesh Panwar",
+    "isrc": "AUC6R2103547"
+  },
+  {
+    "title": "Tere Hushn Ne Gori Katayi Jan Se Mar Diya",
+    "artist": "Kalpana Chauhan, Rajnish Sharma",
+    "isrc": "INS7A1650733"
+  },
+  {
+    "title": "Drill Damau",
+    "artist": "Team Tornado, Rage_100, Sachin, Amit",
+    "isrc": "QZMEN2178360"
+  },
+  {
+    "title": "Dil Todke",
+    "artist": "Ayush Massey",
+    "isrc": "QZMEN2095789"
+  },
+  {
+    "title": "Than Than Gopal - Garhwali Song",
+    "artist": "Mohan Bisht, Meena Rana, Akash Negi, Diksha Badoni",
+    "isrc": "FRX872190888"
+  },
+  {
+    "title": "Bangaal Choori",
+    "artist": "Kishan Mahipal",
+    "isrc": "FR96X2101908"
+  },
+  {
+    "title": "Bhanumati",
+    "artist": "Saurav Maithani, Meghna Chandra, Akash Negi, Pooja Bhandari",
+    "isrc": "FRX452181324"
+  },
+  {
+    "title": "Peedi Ki Bharadi",
+    "artist": "Anisha Ranghar, Keshar Panwar",
+    "isrc": "FRX872231246"
+  },
+  {
+    "title": "Mai Japlu Twe",
+    "artist": "Amit Saagar, Anisha Ranghar",
+    "isrc": "FRS182167381"
+  },
+  {
+    "title": "Mashakbeena Mashakbeen - Uttrakhandi",
+    "artist": "Meena Rana",
+    "isrc": "INS7A2189567"
+  },
+  {
+    "title": "Pahadi Acappella",
+    "artist": "Gunjan Dangwal, Ranjeet Singh, Vishal Sharma",
+    "isrc": "FR10S2145202"
+  },
+  {
+    "title": "Hey Suwa",
+    "artist": "Gajendra Rana, Meena Rana",
+    "isrc": "INS180902777"
+  },
+  {
+    "title": "Surma-Bindi",
+    "artist": "Keshar Panwar, Anisha Ranghar",
+    "isrc": "TCAHY2454748"
+  },
+  {
+    "title": "अमरा बान",
+    "artist": "Hema Negi Karasi, Keshar Panwar",
+    "isrc": "DGA0M2300016"
+  },
+  {
+    "title": "Dhan Singh Rathi Raja",
+    "artist": "Deewan Singh Panwar",
+    "isrc": "DGA082321227"
+  },
+  {
+    "title": "Mohna Teri Murli Baji",
+    "artist": "Preetam Bhartwan",
+    "isrc": "INS180464253"
+  },
+  {
+    "title": "Brahmchaari Chhoun",
+    "artist": "Manglesh Dangwal",
+    "isrc": "INS181306820"
+  },
+  {
+    "title": "Almora Bazar - Garhwali Song",
+    "artist": "Karishma Shah, Ashish Chamoli",
+    "isrc": "FRX452197674"
+  },
+  {
+    "title": "Jham Ka Jhola",
+    "artist": "Darshan Farswan, Sanju Silodi, Ruchi Rawat",
+    "isrc": "FRX282346089"
+  },
+  {
+    "title": "Preet Ku Rog",
+    "artist": "Ashish Chamoli, Akansha Nautiyal",
+    "isrc": "INO132001197"
+  },
+  {
+    "title": "Nirpankhi Maya - Garhwali Song",
+    "artist": "Ruhaan Bhardwaj",
+    "isrc": "FRX452197673"
+  },
+  {
+    "title": "Bau Dhana",
+    "artist": "Sahab Singh Ramola",
+    "isrc": "FRX762236786"
+  },
+  {
+    "title": "Satke Ligo Dil Madhuli",
+    "artist": "Rohit Chauhan, Deepa Nagarkoti",
+    "isrc": "DGA0Q2388197"
+  },
+  {
+    "title": "Jethudi Mama",
+    "artist": "Sanjay Bhandari, Vivek Nautiyal",
+    "isrc": "INL232356418"
+  },
+  {
+    "title": "Left Right",
+    "artist": "Mashakbeen, Inder Arya, Shweta Mahara GDD, Neeraj Pandey",
+    "isrc": "QZHN42248991"
+  },
+  {
+    "title": "Hit Madhuli - Pahadi",
+    "artist": "Raj Tiger, Nidhi Rana",
+    "isrc": "AUC6R2100131"
+  },
+  {
+    "title": "Meri Saunjadya Mainte Aab",
+    "artist": "Sanjay Kumola, Meena Rana",
+    "isrc": "INS180807328"
+  },
+  {
+    "title": "Mala Jogni",
+    "artist": "Suryapal Shriwan, Akash Negi, Anushka Panwar",
+    "isrc": "FRX452246120"
+  },
+  {
+    "title": "Teri Meri Maya Ka Geet",
+    "artist": "Narendra Singh Negi, Anuradha Nirala",
+    "isrc": "INS180606995"
+  },
+  {
+    "title": "Jadwan (Chala Samdhini)",
+    "artist": "Pritam Bhartwan, Anjali Khare",
+    "isrc": "INS1Q2302314"
+  },
+  {
+    "title": "Hori Chharoli",
+    "artist": "Amit kharre, Kailash Kumar, Anjali Kharre",
+    "isrc": "FRX202448777"
+  },
+  {
+    "title": "Binduli",
+    "artist": "B.K. Samant",
+    "isrc": "INA3Y2100023"
+  },
+  {
+    "title": "Mathu Mathu Baas Re Mera",
+    "artist": "Anuradha Nirala",
+    "isrc": "INS180702479"
+  }
+]

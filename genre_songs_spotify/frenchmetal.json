@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Chorea Macchabeorum",
+    "artist": "Blut Aus Nord",
+    "isrc": "FR9W11716560"
+  },
+  {
+    "title": "Du ciel et de la terre",
+    "artist": "The Arrs",
+    "isrc": "FR7Z81500140"
+  },
+  {
+    "title": "Mary",
+    "artist": "Black Bomb A",
+    "isrc": "DEZ650606395"
+  },
+  {
+    "title": "Minotaur",
+    "artist": "Dagoba",
+    "isrc": "FR7Z82400030"
+  },
+  {
+    "title": "Neither Meaning nor Justice",
+    "artist": "Deathspell Omega",
+    "isrc": "FXQ111900001"
+  },
+  {
+    "title": "The Omniscient",
+    "artist": "The Great Old Ones",
+    "isrc": "FR33T1951802"
+  },
+  {
+    "title": "Bekhten's Curse",
+    "artist": "Gorod",
+    "isrc": "FR8FM1800076"
+  },
+  {
+    "title": "Cross the Threshold",
+    "artist": "Loudblast",
+    "isrc": "FR1PP1500730"
+  },
+  {
+    "title": "\"Si\" n'existe pas",
+    "artist": "AqME",
+    "isrc": "FR19X0200002"
+  },
+  {
+    "title": "L'enfer des dieux",
+    "artist": "Mass Hysteria",
+    "isrc": "FR7Z81500193"
+  },
+  {
+    "title": "Overcome",
+    "artist": "Hacride",
+    "isrc": "NOCVC1309040"
+  },
+  {
+    "title": "Scars",
+    "artist": "Benighted",
+    "isrc": "FR33T2379602"
+  },
+  {
+    "title": "A Heart to Judge",
+    "artist": "Aosoth",
+    "isrc": "QM6P41761833"
+  },
+  {
+    "title": "Rejoins l'émeute",
+    "artist": "Tess",
+    "isrc": "QM6N21434994"
+  },
+  {
+    "title": "One Breath Of Peace",
+    "artist": "Trepalium",
+    "isrc": "FR7M00610806"
+  },
+  {
+    "title": "Break Your Body",
+    "artist": "Shaârghot",
+    "isrc": "FRP621644250"
+  },
+  {
+    "title": "New Wave",
+    "artist": "Pleymo",
+    "isrc": "FRZ080103940"
+  },
+  {
+    "title": "Art of Obedience",
+    "artist": "Svart Crown",
+    "isrc": "GBDHC2010503"
+  },
+  {
+    "title": "Crucifère",
+    "artist": "Eths",
+    "isrc": "FR79U0400192"
+  },
+  {
+    "title": "Prism of Memory",
+    "artist": "Darktribe",
+    "isrc": "ITD292001967"
+  },
+  {
+    "title": "Mirthless perspectives",
+    "artist": "Scarve",
+    "isrc": "FR6V80412491"
+  },
+  {
+    "title": "Little Death",
+    "artist": "The Butcher's Rodeo",
+    "isrc": "FR19X1600027"
+  },
+  {
+    "title": "Riding Clouds",
+    "artist": "Kerion",
+    "isrc": "TCACI1583947"
+  },
+  {
+    "title": "Once Upon a Sun",
+    "artist": "Qantice",
+    "isrc": "FR9W11902274"
+  },
+  {
+    "title": "Breach",
+    "artist": "Klone",
+    "isrc": "GBCQV1900192"
+  },
+  {
+    "title": "Blue Aura",
+    "artist": "Galderia",
+    "isrc": "DER371798502"
+  },
+  {
+    "title": "Sapphire",
+    "artist": "Alcest",
+    "isrc": "DED831900759"
+  },
+  {
+    "title": "Naïve",
+    "artist": "Hangman's Chair",
+    "isrc": "FRIDO1810242"
+  },
+  {
+    "title": "Alètheia",
+    "artist": "Year Of No Light",
+    "isrc": "QMBZ92011652"
+  },
+  {
+    "title": "A Soldier's Letter",
+    "artist": "Fairyland",
+    "isrc": "ATN260927305"
+  },
+  {
+    "title": "Celestial Sword",
+    "artist": "Operadyse",
+    "isrc": "FR9W11306642"
+  },
+  {
+    "title": "Trigrammaton",
+    "artist": "Arkhon Infaustus",
+    "isrc": "FR6V80703610"
+  },
+  {
+    "title": "Linceul d'hiver",
+    "artist": "Les Discrets",
+    "isrc": "DES561212301"
+  },
+  {
+    "title": "Ksar Al-Kufar",
+    "artist": "Necrowretch",
+    "isrc": "FR33T2214801"
+  },
+  {
+    "title": "Wingless Multitudes",
+    "artist": "Dirge",
+    "isrc": "FR9W11818939"
+  },
+  {
+    "title": "Sister September",
+    "artist": "Anorexia Nervosa",
+    "isrc": "FR7F60400220"
+  },
+  {
+    "title": "Submission Falls",
+    "artist": "No Return",
+    "isrc": "DKQ4A1409803"
+  },
+  {
+    "title": "Until the End",
+    "artist": "Lonewolf",
+    "isrc": "DER371691406"
+  },
+  {
+    "title": "Censored Project",
+    "artist": "Yyrkoon",
+    "isrc": "FR4E60400400"
+  },
+  {
+    "title": "A Thousand Lives in a Second",
+    "artist": "ACOD",
+    "isrc": "NLWJ22400174"
+  },
+  {
+    "title": "When the Rain Begins to Fall",
+    "artist": "Heavenly",
+    "isrc": "DEZ900601661"
+  },
+  {
+    "title": "Stranded",
+    "artist": "Gojira",
+    "isrc": "NLA321600033"
+  },
+  {
+    "title": "Paralytic Disease",
+    "artist": "Agressor",
+    "isrc": "FR33T1849801"
+  },
+  {
+    "title": "Buried Moon",
+    "artist": "Wildpath",
+    "isrc": "FR6V80689258"
+  },
+  {
+    "title": "Fame",
+    "artist": "Adagio",
+    "isrc": "usx9p0972875"
+  },
+  {
+    "title": "Enjoy the Violence",
+    "artist": "Massacra",
+    "isrc": "US4E41410701"
+  },
+  {
+    "title": "Apophis Impact",
+    "artist": "Carcariass",
+    "isrc": "TCAEL1908444"
+  },
+  {
+    "title": "AM I DEAD ENOUGH",
+    "artist": "Les Tambours du Bronx, Reuno, Renato Di Folco, Stéphane Buriez",
+    "isrc": "FR96X2424801"
+  },
+  {
+    "title": "Camel Dancefloor",
+    "artist": "Igorrr",
+    "isrc": "USMBR1913986"
+  },
+  {
+    "title": "Ignition",
+    "artist": "Hamka",
+    "isrc": "DEBL60948983"
+  },
+  {
+    "title": "Déesse du crime",
+    "artist": "ADX",
+    "isrc": "FR2X41643057"
+  },
+  {
+    "title": "The Cabaret",
+    "artist": "Remch Kerion",
+    "isrc": "CH6541874386"
+  },
+  {
+    "title": "Let's Play with Fire",
+    "artist": "Whyzdom",
+    "isrc": "ITD291501025"
+  },
+  {
+    "title": "Nearly Dead Bat Make Up",
+    "artist": "Pin-up went down",
+    "isrc": "TCAGL2210187"
+  },
+  {
+    "title": "Illumination",
+    "artist": "Crown",
+    "isrc": "QMFME1982905"
+  },
+  {
+    "title": "Nexus Inferis",
+    "artist": "Nightmare",
+    "isrc": "DEU602410942"
+  },
+  {
+    "title": "Nothing's Been Worth Saving (The Procession)",
+    "artist": "Spektr",
+    "isrc": "GBADD0614004"
+  },
+  {
+    "title": "Fuckable",
+    "artist": "Carnival in Coal",
+    "isrc": "GBBPB0500030"
+  },
+  {
+    "title": "Medicine 2.0",
+    "artist": "As They Burn",
+    "isrc": "USVIC1368701"
+  },
+  {
+    "title": "We Cry As One",
+    "artist": "The Old Dead Tree",
+    "isrc": "FR33T0407001"
+  },
+  {
+    "title": "Being",
+    "artist": "Spheric Universe Experience",
+    "isrc": "USET70700009"
+  },
+  {
+    "title": "Renegade - French Version",
+    "artist": "Treponem Pal",
+    "isrc": "FRZ039602640"
+  },
+  {
+    "title": "Won't Rest Until the Heat of the Earth Burns the Soles of Our Feet Down to the Bone",
+    "artist": "Lalu, Jens Johansson",
+    "isrc": "ITG272100858"
+  },
+  {
+    "title": "Eagle Fly Free",
+    "artist": "Alkemyst",
+    "isrc": "QZB4J1804050"
+  },
+  {
+    "title": "Threatened Generation",
+    "artist": "The Amsterdam Red Light District, 花冷え。",
+    "isrc": "FR59R2227089"
+  },
+  {
+    "title": "Strength Core",
+    "artist": "Lyzanxia",
+    "isrc": "FR76T0500050"
+  },
+  {
+    "title": "Nayeli",
+    "artist": "Time To Burn",
+    "isrc": "USV351364283"
+  },
+  {
+    "title": "Bloodlust",
+    "artist": "Elvenstorm",
+    "isrc": "DER371801902"
+  },
+  {
+    "title": "Sidereal Lifespan",
+    "artist": "Skelethal",
+    "isrc": "usl4r2063395"
+  },
+  {
+    "title": "Mystic Voices",
+    "artist": "Rising Steel",
+    "isrc": "ITG272000415"
+  },
+  {
+    "title": "Peace",
+    "artist": "Symbyosis",
+    "isrc": "GBLFP1652807"
+  },
+  {
+    "title": "Babel",
+    "artist": "Yeruselem",
+    "isrc": "FR9W11823515"
+  },
+  {
+    "title": "De Gloria Martyrum Et Confessorum",
+    "artist": "Autokrator",
+    "isrc": "QZMEN2169006"
+  },
+  {
+    "title": "Caloris Basin",
+    "artist": "Psygnosis",
+    "isrc": "FR33T2357904"
+  },
+  {
+    "title": "Inertia",
+    "artist": "Angellore",
+    "isrc": "FRX761537973"
+  },
+  {
+    "title": "bleeding through",
+    "artist": "anasazi",
+    "isrc": "FR9W12248555"
+  },
+  {
+    "title": "Dust",
+    "artist": "Solar Eruption, Ed Garcia, Vitalism",
+    "isrc": "CH6542304812"
+  },
+  {
+    "title": "Frozen Outland",
+    "artist": "Nightcreepers",
+    "isrc": "FRP621204250"
+  },
+  {
+    "title": "Gluttony",
+    "artist": "Theraphosa",
+    "isrc": "FR9W12245234"
+  },
+  {
+    "title": "Chasing the Kraken",
+    "artist": "Black Hole",
+    "isrc": "QZDA42451689"
+  },
+  {
+    "title": "The End of an Era",
+    "artist": "Clampdown",
+    "isrc": "FR6V80975073"
+  },
+  {
+    "title": "II",
+    "artist": "Comity",
+    "isrc": "QM7281954568"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "Disconnected",
+    "isrc": "CH6542039712"
+  },
+  {
+    "title": "A Perpetual Nothing",
+    "artist": "Eradikal Insane",
+    "isrc": "QZFYX2303162"
+  },
+  {
+    "title": "Thrive",
+    "artist": "Exxistence",
+    "isrc": "FR10S1914447"
+  },
+  {
+    "title": "Mission",
+    "artist": "FREITOT",
+    "isrc": "FR9W11616388"
+  },
+  {
+    "title": "Cast a shadow",
+    "artist": "Mindlag Project",
+    "isrc": "QZES82437282"
+  },
+  {
+    "title": "Sublimation Xxiva",
+    "artist": "Vorkreist",
+    "isrc": "USI4R0910905"
+  },
+  {
+    "title": "Sybelius",
+    "artist": "Blut Aus Nord",
+    "isrc": "FR9W11914381"
+  },
+  {
+    "title": "Authentiques Indignés",
+    "artist": "The Arrs",
+    "isrc": "FR9W11206750"
+  },
+  {
+    "title": "Human Circus",
+    "artist": "Black Bomb A",
+    "isrc": "FR6V80100413"
+  },
+  {
+    "title": "Phoenix Noir",
+    "artist": "Dagoba",
+    "isrc": "FR7Z82400032"
+  },
+  {
+    "title": "Apokatastasis Pantôn",
+    "artist": "Deathspell Omega",
+    "isrc": "FR33T1080910"
+  },
+  {
+    "title": "Nyarlathotep",
+    "artist": "The Great Old Ones",
+    "isrc": "FR33T1951807"
+  },
+  {
+    "title": "The Sentry",
+    "artist": "Gorod",
+    "isrc": "FR8FM1800078"
+  },
+  {
+    "title": "Malignant Growth",
+    "artist": "Loudblast",
+    "isrc": "FR1PP1500700"
+  },
+  {
+    "title": "Pornographie",
+    "artist": "AqME",
+    "isrc": "FR19X0400001"
+  },
+  {
+    "title": "Mass veritas",
+    "artist": "Mass Hysteria",
+    "isrc": "FR7Z82300028"
+  },
+  {
+    "title": "Phenomenon",
+    "artist": "Hacride",
+    "isrc": "FR1PP0900130"
+  },
+  {
+    "title": "Slut",
+    "artist": "Benighted",
+    "isrc": "FR4E60702860"
+  },
+  {
+    "title": "Her Feet Upon the Earth, Blooming the Fruits of Blood",
+    "artist": "Aosoth",
+    "isrc": "QM6P41761834"
+  },
+  {
+    "title": "Mon sourire au cutter",
+    "artist": "Tess",
+    "isrc": "QM6N21434995"
+  },
+  {
+    "title": "Sick Boogie Murder",
+    "artist": "Trepalium",
+    "isrc": "FR7M00610811"
+  },
+  {
+    "title": "Let Me Out",
+    "artist": "Shaârghot",
+    "isrc": "FRPZ92332210"
+  },
+  {
+    "title": "Tank Club",
+    "artist": "Pleymo",
+    "isrc": "FRZ080103930"
+  },
+  {
+    "title": "Exoria",
+    "artist": "Svart Crown",
+    "isrc": "GBDHC2010507"
+  },
+  {
+    "title": "Bulimiarexia",
+    "artist": "Eths",
+    "isrc": "FRV540700014"
+  },
+  {
+    "title": "My Last Odyssey",
+    "artist": "Darktribe",
+    "isrc": "QM4TX1552744"
+  },
+  {
+    "title": "Irradiant",
+    "artist": "Scarve",
+    "isrc": "FR6V80412493"
+  },
+  {
+    "title": "Ignore - Downterra Remix",
+    "artist": "The Butcher's Rodeo, Downterra",
+    "isrc": "FR19X2300017"
+  },
+  {
+    "title": "Time Of Fantasy",
+    "artist": "Kerion",
+    "isrc": "FR26V1539346"
+  },
+  {
+    "title": "Without a Hero",
+    "artist": "Qantice",
+    "isrc": "FR9W11902275"
+  },
+  {
+    "title": "Yonder",
+    "artist": "Klone",
+    "isrc": "GBCQV1900191"
+  },
+  {
+    "title": "High up in the Air",
+    "artist": "Galderia",
+    "isrc": "DER371798504"
+  },
+  {
+    "title": "Flamme Jumelle",
+    "artist": "Alcest",
+    "isrc": "DED832400004"
+  },
+  {
+    "title": "Cold & Distant",
+    "artist": "Hangman's Chair",
+    "isrc": "DED832100113"
+  },
+  {
+    "title": "Sélénite",
+    "artist": "Year Of No Light",
+    "isrc": "FR6V81576855"
+  },
+  {
+    "title": "Heralds of the Green Lands",
+    "artist": "Fairyland",
+    "isrc": "DER372012405"
+  },
+  {
+    "title": "The Path of Divine",
+    "artist": "Operadyse",
+    "isrc": "FR9W11306645"
+  },
+  {
+    "title": "M33 Constellation",
+    "artist": "Arkhon Infaustus",
+    "isrc": "FR6V80400454"
+  },
+  {
+    "title": "Song for Mountains",
+    "artist": "Les Discrets",
+    "isrc": "DES560910304"
+  },
+  {
+    "title": "Swords of Dajjal",
+    "artist": "Necrowretch",
+    "isrc": "FR33T2214804"
+  },
+  {
+    "title": "Lost Empyrean",
+    "artist": "Dirge",
+    "isrc": "FR9W11818943"
+  },
+  {
+    "title": "The Shining",
+    "artist": "Anorexia Nervosa",
+    "isrc": "FR7F60400200"
+  },
+  {
+    "title": "The Will to Stand Up",
+    "artist": "No Return",
+    "isrc": "DKQ4A1720002"
+  },
+  {
+    "title": "Raised on Metal",
+    "artist": "Lonewolf",
+    "isrc": "DER371798004"
+  },
+  {
+    "title": "Occult Medicine",
+    "artist": "Yyrkoon",
+    "isrc": "FR4E60400420"
+  },
+  {
+    "title": "The Son of a God (The Heir of Divine Blood)",
+    "artist": "ACOD",
+    "isrc": "NLWJ22400173"
+  },
+  {
+    "title": "Lost in Your Eyes",
+    "artist": "Heavenly",
+    "isrc": "DEU600902761"
+  },
+  {
+    "title": "Silvera",
+    "artist": "Gojira",
+    "isrc": "NLA321600031"
+  },
+  {
+    "title": "Primeval Transubstantation",
+    "artist": "Agressor",
+    "isrc": "SEXHQ9200602"
+  },
+  {
+    "title": "Unearthed",
+    "artist": "Wildpath",
+    "isrc": "FR6V80689251"
+  },
+  {
+    "title": "Promises",
+    "artist": "Adagio",
+    "isrc": "ushm20952359"
+  },
+  {
+    "title": "Ultimate Antichrist",
+    "artist": "Massacra",
+    "isrc": "US4E41410702"
+  },
+  {
+    "title": "Dawn of the Dead",
+    "artist": "Carcariass",
+    "isrc": "TCAEL1908514"
+  },
+  {
+    "title": "CHAOS - Shaârghot Version",
+    "artist": "Les Tambours du Bronx, Shaârghot",
+    "isrc": "FRX872406390"
+  },
+  {
+    "title": "Downgrade Desert",
+    "artist": "Igorrr",
+    "isrc": "USMBR1913983"
+  },
+  {
+    "title": "Eden Garden",
+    "artist": "Hamka",
+    "isrc": "DEBL60948989"
+  },
+  {
+    "title": "Tout en puissance",
+    "artist": "ADX",
+    "isrc": "FR7Z82400017"
+  },
+  {
+    "title": "The Dress of Light Lady",
+    "artist": "Remch Kerion",
+    "isrc": "CH6541874388"
+  },
+  {
+    "title": "Armageddon",
+    "artist": "Whyzdom",
+    "isrc": "ITD291801675"
+  },
+  {
+    "title": "Pussy Worship",
+    "artist": "Pin-up went down",
+    "isrc": "TCAGL2210198"
+  },
+  {
+    "title": "Violence",
+    "artist": "Crown",
+    "isrc": "QMFME1982902"
+  },
+  {
+    "title": "Aeternam",
+    "artist": "Nightmare",
+    "isrc": "DEU602008827"
+  },
+  {
+    "title": "Through the Darkness of Future Past",
+    "artist": "Spektr",
+    "isrc": "QMBZ91588647"
+  },
+  {
+    "title": "Cartilage Holocaust",
+    "artist": "Carnival in Coal",
+    "isrc": "GBBPB0500033"
+  },
+  {
+    "title": "F.R.E.A.K.S.",
+    "artist": "As They Burn, Frankie Palmeri, Aaron Matts",
+    "isrc": "USVIC1368710"
+  },
+  {
+    "title": "Epitome XIV",
+    "artist": "Blut Aus Nord",
+    "isrc": "FR6V81461188"
+  },
+  {
+    "title": "Mon Epitaphe",
+    "artist": "The Arrs",
+    "isrc": "FR9W11206742"
+  },
+  {
+    "title": "Crashboys",
+    "artist": "Black Bomb A",
+    "isrc": "FR7Z82300138"
+  },
+  {
+    "title": "The Things Within",
+    "artist": "Dagoba",
+    "isrc": "FR33T0512208"
+  },
+  {
+    "title": "Abscission",
+    "artist": "Deathspell Omega",
+    "isrc": "FR33T1080903"
+  },
+  {
+    "title": "Of Dementia",
+    "artist": "The Great Old Ones",
+    "isrc": "FR33T1951803"
+  },
+  {
+    "title": "Wolfsmond",
+    "artist": "Gorod",
+    "isrc": "FR8FM1800075"
+  },
+  {
+    "title": "Relentless Horror",
+    "artist": "Loudblast",
+    "isrc": "FR1PP2000460"
+  },
+  {
+    "title": "A chaque seconde",
+    "artist": "AqME",
+    "isrc": "FR19X0400002"
+  },
+  {
+    "title": "Furia",
+    "artist": "Mass Hysteria",
+    "isrc": "FRZ089804060"
+  },
+  {
+    "title": "Introversion",
+    "artist": "Hacride",
+    "isrc": "NOCVC1309010"
+  },
+  {
+    "title": "Nothing Left to Fear",
+    "artist": "Benighted, Oliver Rae Aleron",
+    "isrc": "FR33T2379605"
+  },
+  {
+    "title": "Temple of Knowledge",
+    "artist": "Aosoth",
+    "isrc": "US6R21300420"
+  },
+  {
+    "title": "Sous la grêle et les bombes",
+    "artist": "Tess",
+    "isrc": "QM6N21434997"
+  },
+  {
+    "title": "Moonshine Limbo",
+    "artist": "Trepalium",
+    "isrc": "USV351428343"
+  },
+  {
+    "title": "Life and Choices",
+    "artist": "Shaârghot",
+    "isrc": "FRPZ92332240"
+  },
+  {
+    "title": "Blöhm",
+    "artist": "Pleymo",
+    "isrc": "FRV629900980"
+  },
+  {
+    "title": "Orgasmic Spiritual Ecstasy",
+    "artist": "Svart Crown",
+    "isrc": "US4E41742707"
+  },
+  {
+    "title": "Détruis-moi",
+    "artist": "Eths",
+    "isrc": "FR79U0400193"
+  },
+  {
+    "title": "Voici l'homme",
+    "artist": "Darktribe",
+    "isrc": "ITD292001968"
+  },
+  {
+    "title": "Asphyxiate",
+    "artist": "Scarve",
+    "isrc": "FR6V80412494"
+  },
+  {
+    "title": "Lâche !",
+    "artist": "The Butcher's Rodeo",
+    "isrc": "FR19X2100175"
+  },
+  {
+    "title": "Everlasting Flight",
+    "artist": "Kerion",
+    "isrc": "FR26V1573131"
+  },
+  {
+    "title": "Rivers Can't Fly",
+    "artist": "Qantice",
+    "isrc": "FR9W11902277"
+  },
+  {
+    "title": "Army of Me",
+    "artist": "Klone",
+    "isrc": "QMBZ91694885"
+  },
+  {
+    "title": "Elation",
+    "artist": "Galderia",
+    "isrc": "DER372227003"
+  },
+  {
+    "title": "Who Wants To Die Old",
+    "artist": "Hangman's Chair",
+    "isrc": "DED832100114"
+  },
+  {
+    "title": "L'Envol",
+    "artist": "Alcest",
+    "isrc": "DED832400002"
+  },
+  {
+    "title": "Perséphone II",
+    "artist": "Year Of No Light",
+    "isrc": "USA371033376"
+  },
+  {
+    "title": "Hubris Et Orbis",
+    "artist": "Fairyland",
+    "isrc": "DER372012407"
+  }
+]

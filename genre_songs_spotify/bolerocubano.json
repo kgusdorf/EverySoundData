@@ -1,0 +1,737 @@
+[
+  {
+    "title": "Que Murmuren",
+    "artist": "Orlando Vallejo",
+    "isrc": "US2BR9700932"
+  },
+  {
+    "title": "Allí (Bolero)",
+    "artist": "Panchito Riset",
+    "isrc": "BGA261838308"
+  },
+  {
+    "title": "Vida Consentida",
+    "artist": "Lino Borges",
+    "isrc": "USRMK1004201"
+  },
+  {
+    "title": "Imágenes",
+    "artist": "Pacho Alonso",
+    "isrc": "US78T0506423"
+  },
+  {
+    "title": "En Las Tinieblas",
+    "artist": "Ñico Membiela",
+    "isrc": "USA2P1558251"
+  },
+  {
+    "title": "Capullito De Alhelí",
+    "artist": "Barbarito Diez",
+    "isrc": "US2BR9700811"
+  },
+  {
+    "title": "Envidia",
+    "artist": "Vicentico Valdés",
+    "isrc": "USDBB0951616"
+  },
+  {
+    "title": "Cuando estes muy sola - Remastered",
+    "artist": "José Tejedor",
+    "isrc": "ES6601903171"
+  },
+  {
+    "title": "Son de la Loma",
+    "artist": "Trio Matamoros",
+    "isrc": "ushm81794346"
+  },
+  {
+    "title": "Cobarde Mil Veces",
+    "artist": "Blanca Rosa Gil",
+    "isrc": "QZVEM2372973"
+  },
+  {
+    "title": "No Hay Como Mi Son",
+    "artist": "Abelardo Barroso",
+    "isrc": "DEUE22314366"
+  },
+  {
+    "title": "Suena Tu Bongó",
+    "artist": "Roberto Faz",
+    "isrc": "QM7281416307"
+  },
+  {
+    "title": "Anabacoa",
+    "artist": "Conjunto Casino",
+    "isrc": "US2BR9700445"
+  },
+  {
+    "title": "Quiéreme Sempre",
+    "artist": "Orquesta Aragón",
+    "isrc": "US78T0503676"
+  },
+  {
+    "title": "Tres Verdades",
+    "artist": "Domingo Lugo",
+    "isrc": "USRMK1007914"
+  },
+  {
+    "title": "Ámame Como Soy (with Pablo Milanés)",
+    "artist": "Elena Burke, Pablo Milanés",
+    "isrc": "ES5021501049"
+  },
+  {
+    "title": "Linda cubana (Danzón)",
+    "artist": "Arsenio Rodríguez",
+    "isrc": "BGA261845917"
+  },
+  {
+    "title": "Total",
+    "artist": "Celio Gonzalez",
+    "isrc": "USV291394613"
+  },
+  {
+    "title": "Como Fue",
+    "artist": "Beny Moré",
+    "isrc": "USBL10100954"
+  },
+  {
+    "title": "Moliendo Café (Calypso)",
+    "artist": "Xiomara Alfaro, Conjunto De Mario Suárez, Amado Lovera",
+    "isrc": "USA561127132"
+  },
+  {
+    "title": "Hola Soledad - Remasterizado Digitalmente (Digital Remaster) 2000",
+    "artist": "Rolando Laserie",
+    "isrc": "MXF367218336"
+  },
+  {
+    "title": "Patria Querida",
+    "artist": "Los Guaracheros De Oriente",
+    "isrc": "US2BR9702930"
+  },
+  {
+    "title": "Para Que Sufras",
+    "artist": "Celeste Mendoza",
+    "isrc": "US4XG9400895"
+  },
+  {
+    "title": "Esto No Es Una Elegía",
+    "artist": "Miriam Ramos",
+    "isrc": "ES6100678403"
+  },
+  {
+    "title": "Veinte años (Bolero)",
+    "artist": "Fernando Albuerne, Trío Los Cubanitos",
+    "isrc": "BGA261841303"
+  },
+  {
+    "title": "Amigo de Que?",
+    "artist": "Orlando Contreras",
+    "isrc": "ushm91727480"
+  },
+  {
+    "title": "Quien?",
+    "artist": "Clara y Mario",
+    "isrc": "USRMK3004001"
+  },
+  {
+    "title": "En la orilla del mar",
+    "artist": "Bienvenido Granda",
+    "isrc": "MXF331113382"
+  },
+  {
+    "title": "A Quién",
+    "artist": "Rene Cabel",
+    "isrc": "QMDA71595021"
+  },
+  {
+    "title": "Tú Me Acostumbraste",
+    "artist": "Olga Guillot",
+    "isrc": "MXF365703949"
+  },
+  {
+    "title": "Alejate",
+    "artist": "Gina León",
+    "isrc": "QM7281752673"
+  },
+  {
+    "title": "Si Llego a Besarte",
+    "artist": "Manolo Del Valle",
+    "isrc": "USV351428753"
+  },
+  {
+    "title": "Que Feliz",
+    "artist": "Sexteto Borinquen",
+    "isrc": "QZKVY2001195"
+  },
+  {
+    "title": "Me Estas Olvidando",
+    "artist": "Cuarteto Marcano",
+    "isrc": "QZKVY2000886"
+  },
+  {
+    "title": "Si Me Comprendieras",
+    "artist": "José Antonio Mendez",
+    "isrc": "MXF019501492"
+  },
+  {
+    "title": "No Me Escribas",
+    "artist": "Julita Ross",
+    "isrc": "CH6541925018"
+  },
+  {
+    "title": "Idilio",
+    "artist": "Davilita",
+    "isrc": "QMYW20700083"
+  },
+  {
+    "title": "Tu, Mi Delirio",
+    "artist": "Ela Calvo, Orquesta Aragón",
+    "isrc": "USV351445399"
+  },
+  {
+    "title": "Ausencia",
+    "artist": "Esther Borja",
+    "isrc": "USZZR1100671"
+  },
+  {
+    "title": "Este Amor Que Se Muere",
+    "artist": "Beatriz Márquez",
+    "isrc": "CUA012005706"
+  },
+  {
+    "title": "Elegua 1",
+    "artist": "Merceditas Valdes",
+    "isrc": "GBBFT9500106"
+  },
+  {
+    "title": "Me haces bien",
+    "artist": "Argelia Fragoso, Pancho Amat",
+    "isrc": "CUA0Q2101132"
+  },
+  {
+    "title": "Veinte Años - Original Recording 1956",
+    "artist": "Maria Teresa Vera",
+    "isrc": "USDBB0681188"
+  },
+  {
+    "title": "¿Dónde Estabas Tú?",
+    "artist": "Omara Portuondo",
+    "isrc": "GBBGU0059003"
+  },
+  {
+    "title": "El Panquelero",
+    "artist": "Paulina Alvarez",
+    "isrc": "QMBZ91923172"
+  },
+  {
+    "title": "Contigo en la distancia",
+    "artist": "César Portillo de la Luz, Juan Diego Flórez, Pablo Rojas",
+    "isrc": "USSM11805316"
+  },
+  {
+    "title": "Palabras",
+    "artist": "Marta Valdés",
+    "isrc": "ESAAI0197466"
+  },
+  {
+    "title": "Tú Me Acostumbraste - Remasterizado",
+    "artist": "Frank Domínguez, Paloma San Basilio, Luis Cobos, Orquesta Sinfónica de Europa",
+    "isrc": "ES5021702677"
+  },
+  {
+    "title": "Alborada",
+    "artist": "Ramón Veloz",
+    "isrc": "USA561154043"
+  },
+  {
+    "title": "Sara",
+    "artist": "Johnny Rodriguez Y Su Trio",
+    "isrc": "USDBB0951230"
+  },
+  {
+    "title": "El Fiel Enamorado",
+    "artist": "La India De Oriente",
+    "isrc": "USLGD0710070"
+  },
+  {
+    "title": "Mi Son Montuno - Son Montuno",
+    "artist": "Amelita Frades, Orquesta de Ernesto Duarte",
+    "isrc": "QMFMF1386096"
+  },
+  {
+    "title": "A quién no le gusta el son",
+    "artist": "Raúl Planas",
+    "isrc": "DEE791211490"
+  },
+  {
+    "title": "Toda una Vida",
+    "artist": "Antonio Machín",
+    "isrc": "DEZZ42170656"
+  },
+  {
+    "title": "Yolanda",
+    "artist": "Pablo Milanés",
+    "isrc": "ES5702101709"
+  },
+  {
+    "title": "Hacerte venir",
+    "artist": "Amaury Pérez",
+    "isrc": "MXF600602499"
+  },
+  {
+    "title": "La Chiva Blanca",
+    "artist": "Joseito Mateo",
+    "isrc": "US78T0727449"
+  },
+  {
+    "title": "Carne Tremula-El Rosario De Mi Madre",
+    "artist": "Duo Cabrisas-Farach",
+    "isrc": "ES5531005723"
+  },
+  {
+    "title": "Llanto de Luna - Bolero",
+    "artist": "Fernando Alvarez, Conjunto Casino",
+    "isrc": "USV291352870"
+  },
+  {
+    "title": "Aurora",
+    "artist": "Hermanas Martí",
+    "isrc": "USV351428741"
+  },
+  {
+    "title": "Naufragio",
+    "artist": "Chiquito Socarras",
+    "isrc": "MXF551050138"
+  },
+  {
+    "title": "Hasta Manana Vida Mia",
+    "artist": "Cuarteto Cubano Del Feeling",
+    "isrc": "USV351430839"
+  },
+  {
+    "title": "Retorna",
+    "artist": "Dominica Verges, Adriano Rodriguez",
+    "isrc": "USV351428742"
+  },
+  {
+    "title": "Nosotros",
+    "artist": "Esther Montalbán",
+    "isrc": "NLRD52304371"
+  },
+  {
+    "title": "Guanajo relleno",
+    "artist": "Felix Valoy, Septeto Chicuelo Son",
+    "isrc": "ES6100678852"
+  },
+  {
+    "title": "Bendito Tu Ser - Bolero",
+    "artist": "Olga Rivero, Orquesta de Niño Rivera",
+    "isrc": "USV291352865"
+  },
+  {
+    "title": "Flor De Ausencia",
+    "artist": "Pablo Milanes y Adriano Rodriguez",
+    "isrc": "USV351430834"
+  },
+  {
+    "title": "Muy Junto Al Corazon",
+    "artist": "Pepe Olmo",
+    "isrc": "USV351430835"
+  },
+  {
+    "title": "Debemos Separarnos",
+    "artist": "Cheito Gonzales Y Su Trio",
+    "isrc": "MXF551050135"
+  },
+  {
+    "title": "Pensamiento",
+    "artist": "Duo Alfredo y Bienvenido Leon",
+    "isrc": "USV351428756"
+  },
+  {
+    "title": "Olvidar",
+    "artist": "Jose Mendez",
+    "isrc": "QZHZ52031019"
+  },
+  {
+    "title": "Silencio",
+    "artist": "Joseiito Mateo Y El Sexteto Enriquillo",
+    "isrc": "MXF551050139"
+  },
+  {
+    "title": "Como Fué",
+    "artist": "Rafael Masó",
+    "isrc": "USA371417248"
+  },
+  {
+    "title": "Un Amigo Mío",
+    "artist": "Orlando Vallejo",
+    "isrc": "US2BR9700930"
+  },
+  {
+    "title": "De cigarro en cigarro (Bolero)",
+    "artist": "Panchito Riset",
+    "isrc": "BGA261838924"
+  },
+  {
+    "title": "Morir Soñando",
+    "artist": "Lino Borges",
+    "isrc": "USRMK1004202"
+  },
+  {
+    "title": "Cómo Pienso En Tí",
+    "artist": "Pacho Alonso",
+    "isrc": "NLRD52304370"
+  },
+  {
+    "title": "Como El Arrullo de Palmas",
+    "artist": "Ñico Membiela",
+    "isrc": "USA2P1558252"
+  },
+  {
+    "title": "Bajo Un Palmar",
+    "artist": "Barbarito Diez",
+    "isrc": "US2BR9700454"
+  },
+  {
+    "title": "Yo No Soy Guapo",
+    "artist": "Vicentico Valdés, Miguelito Valdés, La Sonora Matancera",
+    "isrc": "US78T0504530"
+  },
+  {
+    "title": "El Vagabundo - Bolero Mambo",
+    "artist": "José Tejedor, Luis Oviedo, Conjunto José Tejedor",
+    "isrc": "QMBZ91301169"
+  },
+  {
+    "title": "Todo una Vida",
+    "artist": "Blanca Rosa Gil",
+    "isrc": "ushm81794226"
+  },
+  {
+    "title": "Lagrimas Negras",
+    "artist": "Trío Matamoros",
+    "isrc": "MXF330910602"
+  },
+  {
+    "title": "El Huerfanito",
+    "artist": "Abelardo Barroso, Orquesta Sensación",
+    "isrc": "US4XG9604497"
+  },
+  {
+    "title": "Pintate Los Labios, Maria",
+    "artist": "Roberto Faz",
+    "isrc": "USV291424265"
+  },
+  {
+    "title": "Moliendo Café",
+    "artist": "Conjunto Casino",
+    "isrc": "ES28A1010125"
+  },
+  {
+    "title": "Blancas Margaritas",
+    "artist": "Domingo Lugo",
+    "isrc": "USRMK1007906"
+  },
+  {
+    "title": "La Gloria Eres Tu",
+    "artist": "Elena Burke",
+    "isrc": "QM7281952669"
+  },
+  {
+    "title": "Hachero pa' un palo (Son Montuno)",
+    "artist": "Arsenio Rodríguez",
+    "isrc": "BGA261845216"
+  },
+  {
+    "title": "El Bodeguero",
+    "artist": "Orquesta Aragón",
+    "isrc": "DEXN92266050"
+  },
+  {
+    "title": "Cuando Ya No Me Quieras",
+    "artist": "Xiomara Alfaro",
+    "isrc": "US78T0506616"
+  },
+  {
+    "title": "La Primera Piedra",
+    "artist": "Celio Gonzalez",
+    "isrc": "FR6V82130387"
+  },
+  {
+    "title": "Bonito y Sabroso",
+    "artist": "Beny Moré",
+    "isrc": "MXF019502184"
+  },
+  {
+    "title": "Las Cuarenta",
+    "artist": "Rolando Laserie",
+    "isrc": "DEUE12430194"
+  },
+  {
+    "title": "Compay Gato - Guaracha",
+    "artist": "Los Guaracheros De Oriente",
+    "isrc": "US4XG9401045"
+  },
+  {
+    "title": "Échale Salsita (with Sierra Maestra) - Remasterizado",
+    "artist": "Celeste Mendoza, Sierra Maestra",
+    "isrc": "ES5021602490"
+  },
+  {
+    "title": "Amor Fugaz",
+    "artist": "Miriam Ramos",
+    "isrc": "USV351445405"
+  },
+  {
+    "title": "Pensamiento (Criolla Bolero)",
+    "artist": "Fernando Albuerne, Trío Los Cubanitos",
+    "isrc": "BGA261841305"
+  },
+  {
+    "title": "En un Beso la Vida",
+    "artist": "Orlando Contreras",
+    "isrc": "QM6P41543674"
+  },
+  {
+    "title": "Y Es Verdad",
+    "artist": "Clara y Mario",
+    "isrc": "ushm81794246"
+  },
+  {
+    "title": "Rival (Vals)",
+    "artist": "Rene Cabel, Trio Taicuba",
+    "isrc": "USV291406144"
+  },
+  {
+    "title": "Lágrimas Negras",
+    "artist": "Olga Guillot",
+    "isrc": "MXF366409747"
+  },
+  {
+    "title": "Percal",
+    "artist": "Bienvenido Granda",
+    "isrc": "MXF366511028"
+  },
+  {
+    "title": "Debí Llorar (Bolero)",
+    "artist": "Gina León",
+    "isrc": "QM6N21456512"
+  },
+  {
+    "title": "Es mejor vivir asi",
+    "artist": "Manolo Del Valle, Orquestra EGREM",
+    "isrc": "USWJV1000489"
+  },
+  {
+    "title": "Campanitas de Cristal",
+    "artist": "Sexteto Borinquen, Mario Hernandez",
+    "isrc": "US6R21416271"
+  },
+  {
+    "title": "Bajo un Palmar",
+    "artist": "Cuarteto Marcano",
+    "isrc": "ES71G2211476"
+  },
+  {
+    "title": "La Gloria Eres Tú",
+    "artist": "José Antonio Mendez",
+    "isrc": "MXF019900355"
+  },
+  {
+    "title": "Volverás a Mi Vida - Bolero",
+    "artist": "Julita Ross",
+    "isrc": "QMYW20301195"
+  },
+  {
+    "title": "Al Paso - Pachanga",
+    "artist": "Davilita",
+    "isrc": "QMYW20300456"
+  },
+  {
+    "title": "Pobre del Cantor",
+    "artist": "Ela Calvo",
+    "isrc": "ES5021501009"
+  },
+  {
+    "title": "Damisela Encantadora",
+    "artist": "Esther Borja",
+    "isrc": "QM6P41543049"
+  },
+  {
+    "title": "Polvora Mojada",
+    "artist": "Beatriz Márquez",
+    "isrc": "QM7281995528"
+  },
+  {
+    "title": "A Elegua - Remasterizado",
+    "artist": "Merceditas Valdes, Grupo Yoruba Andabo",
+    "isrc": "ES5021600561"
+  },
+  {
+    "title": "Café Chachachá",
+    "artist": "Argelia Fragoso, Pancho Amat",
+    "isrc": "CUA0Q2101137"
+  },
+  {
+    "title": "Boda negra",
+    "artist": "Maria Teresa Vera",
+    "isrc": "BGA671634324"
+  },
+  {
+    "title": "La Sitiera",
+    "artist": "Omara Portuondo",
+    "isrc": "GBBGU0059001"
+  },
+  {
+    "title": "Flores Negras",
+    "artist": "Paulina Alvarez",
+    "isrc": "MXF171100955"
+  },
+  {
+    "title": "Contigo en la Distancia",
+    "artist": "César Portillo de la Luz",
+    "isrc": "ES71G2136115"
+  },
+  {
+    "title": "Debí Llorar",
+    "artist": "Marta Valdés, Chano Dominguez",
+    "isrc": "ES7730005385"
+  },
+  {
+    "title": "Tu Me Acostumbrastes",
+    "artist": "Frank Domínguez",
+    "isrc": "USV351445402"
+  },
+  {
+    "title": "Cuba, Que Linda Es Cuba",
+    "artist": "Ramón Veloz",
+    "isrc": "QMBZ91578615"
+  },
+  {
+    "title": "Gotitas de Dolor",
+    "artist": "Orlando Vallejo, Conjunto Roberto Faz",
+    "isrc": "GRHR11009402"
+  },
+  {
+    "title": "Si te contara",
+    "artist": "Panchito Riset",
+    "isrc": "BGA261838313"
+  },
+  {
+    "title": "La Vida Es un Sueño",
+    "artist": "Lino Borges",
+    "isrc": "USRMK1004206"
+  },
+  {
+    "title": "Imagenes",
+    "artist": "Pacho Alonso",
+    "isrc": "USV351445398"
+  },
+  {
+    "title": "Contigo - Besos Salvajes",
+    "artist": "Ñico Membiela",
+    "isrc": "USR011200001"
+  },
+  {
+    "title": "Frenesí",
+    "artist": "Barbarito Diez",
+    "isrc": "USA561068353"
+  },
+  {
+    "title": "Cómo Fue",
+    "artist": "Vicentico Valdés",
+    "isrc": "US78T0501946"
+  },
+  {
+    "title": "Como Nave Sin Rumbo",
+    "artist": "José Tejedor, Luis Oviedo & El Conjunto Musicuba",
+    "isrc": "CADC41308123"
+  },
+  {
+    "title": "Si Dios Me Quita la Vida",
+    "artist": "Blanca Rosa Gil",
+    "isrc": "USR011013030"
+  },
+  {
+    "title": "Las Maracas de Cuba",
+    "artist": "Trío Matamoros",
+    "isrc": "QM6P41543632"
+  },
+  {
+    "title": "Guajira Guantanamera",
+    "artist": "Abelardo Barroso",
+    "isrc": "DEUE22314360"
+  },
+  {
+    "title": "Si los Rumberos Me Llaman",
+    "artist": "Roberto Faz",
+    "isrc": "QM7281416308"
+  },
+  {
+    "title": "A Romper El Coco",
+    "artist": "Conjunto Casino",
+    "isrc": "US2BR9700895"
+  },
+  {
+    "title": "Mis Delirios",
+    "artist": "Domingo Lugo",
+    "isrc": "USRMK1007901"
+  },
+  {
+    "title": "Añorado Encuentro - Remastered",
+    "artist": "Elena Burke",
+    "isrc": "DEXO71940679"
+  },
+  {
+    "title": "El dolorsito de mi china (Son Cubano)",
+    "artist": "Arsenio Rodríguez",
+    "isrc": "BGA261845902"
+  },
+  {
+    "title": "Cachita",
+    "artist": "Orquesta Aragón",
+    "isrc": "DEXN92266051"
+  },
+  {
+    "title": "Moliendo Cafe",
+    "artist": "Xiomara Alfaro",
+    "isrc": "QMBZ91308187"
+  },
+  {
+    "title": "En El Balcon Aquel",
+    "artist": "Celio Gonzalez",
+    "isrc": "USV291394617"
+  },
+  {
+    "title": "Que Bueno Baila Usted",
+    "artist": "Beny Moré",
+    "isrc": "USBL10000259"
+  },
+  {
+    "title": "Mi Rumba Echando Candela",
+    "artist": "Celeste Mendoza",
+    "isrc": "GBHCD1614354"
+  },
+  {
+    "title": "Moliendo Café",
+    "artist": "Rolando Laserie, Ismael Rivera, Cortijo Y Su Combo",
+    "isrc": "DEUE12430200"
+  },
+  {
+    "title": "La Linda Guajira",
+    "artist": "Los Guaracheros De Oriente, Ramon Veloz",
+    "isrc": "US2BR9700458"
+  },
+  {
+    "title": "Juramento",
+    "artist": "Miriam Ramos",
+    "isrc": "CUA022014592"
+  },
+  {
+    "title": "Amorosa Guajira (Guajira)",
+    "artist": "Fernando Albuerne, Trío Los Cubanitos",
+    "isrc": "BGA261841301"
+  }
+]

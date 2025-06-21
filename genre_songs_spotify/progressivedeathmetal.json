@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Cthulhu",
+    "artist": "Alkaloid",
+    "isrc": "uscgh1574674"
+  },
+  {
+    "title": "Bekhten's Curse",
+    "artist": "Gorod",
+    "isrc": "FR8FM1800076"
+  },
+  {
+    "title": "Song of the Crippled Bull",
+    "artist": "Black Crown Initiate",
+    "isrc": "SEYOK1320188"
+  },
+  {
+    "title": "Solaris",
+    "artist": "Obscura",
+    "isrc": "DED832100202"
+  },
+  {
+    "title": "Colossus",
+    "artist": "In Mourning",
+    "isrc": "FIUM71200094"
+  },
+  {
+    "title": "Consciousness, Pt. 1 (Sitting in Silence)",
+    "artist": "Persefone",
+    "isrc": "SEYIJ1300106"
+  },
+  {
+    "title": "Shadows Flap their Black Wings",
+    "artist": "In Vain",
+    "isrc": "NOCVC2258010"
+  },
+  {
+    "title": "To See Death Just Once",
+    "artist": "Ulcerate",
+    "isrc": "FXQ732300087"
+  },
+  {
+    "title": "And the Mirror Cracked (Remastered 20th Anniversary Edition)",
+    "artist": "Disillusion",
+    "isrc": "USMBR2416201"
+  },
+  {
+    "title": "Diabolical Being (Redux)",
+    "artist": "Warforged",
+    "isrc": "QZWFP2313252"
+  },
+  {
+    "title": "Black Tears",
+    "artist": "Edge Of Sanity",
+    "isrc": "SEXHQ9401305"
+  },
+  {
+    "title": "Flicker",
+    "artist": "Barren Earth",
+    "isrc": "GBCQV0900779"
+  },
+  {
+    "title": "Abeyance",
+    "artist": "Be'lakor",
+    "isrc": "ITP641200010"
+  },
+  {
+    "title": "Symmetrical Masquerade",
+    "artist": "Fractal Universe",
+    "isrc": "USMBR2114729"
+  },
+  {
+    "title": "Mother",
+    "artist": "Dessiderium",
+    "isrc": "TCAEW2017782"
+  },
+  {
+    "title": "Merced's Footsteps",
+    "artist": "Luna's Call",
+    "isrc": "UKB6M2000001"
+  },
+  {
+    "title": "Blue Light Infinite",
+    "artist": "Exist",
+    "isrc": "USERN1011137"
+  },
+  {
+    "title": "Lily",
+    "artist": "Descend",
+    "isrc": "NOEHU2000004"
+  },
+  {
+    "title": "In the Eyes of Idols",
+    "artist": "Witherscape",
+    "isrc": "US4E41637702"
+  },
+  {
+    "title": "Uncreation",
+    "artist": "Dan Swanö",
+    "isrc": "SEXHQ9800803"
+  },
+  {
+    "title": "Dwells",
+    "artist": "Omnivortex",
+    "isrc": "FI3FC2345101"
+  },
+  {
+    "title": "Chrysopoeia (The Archaeology of Dawn)",
+    "artist": "Horrendous",
+    "isrc": "FR33T2353102"
+  },
+  {
+    "title": "Prism Black",
+    "artist": "Rannoch",
+    "isrc": "USRMX2300079"
+  },
+  {
+    "title": "Snow-Sleep",
+    "artist": "Kardashev",
+    "isrc": "USMBR2114707"
+  },
+  {
+    "title": "Half Funeral",
+    "artist": "WAIT",
+    "isrc": "QM3LS2100104"
+  },
+  {
+    "title": "Leviathan",
+    "artist": "Akercocke",
+    "isrc": "GBBPB0300219"
+  },
+  {
+    "title": "Spirit Body And The Seeing Self",
+    "artist": "Lunar Chamber",
+    "isrc": "USJE72318602"
+  },
+  {
+    "title": "Consumed",
+    "artist": "Control Denied",
+    "isrc": "US2641011801"
+  },
+  {
+    "title": "An End to Everything",
+    "artist": "Entheos",
+    "isrc": "USMBR2416129"
+  },
+  {
+    "title": "The Sky is Our Shelter",
+    "artist": "Piah Mater",
+    "isrc": "ITJ351801676"
+  },
+  {
+    "title": "Windowpane",
+    "artist": "Opeth",
+    "isrc": "GBCKC0300001"
+  },
+  {
+    "title": "The Night Inside",
+    "artist": "Pressure Points",
+    "isrc": "ES71G2206593"
+  },
+  {
+    "title": "Exteriors",
+    "artist": "A Novelist",
+    "isrc": "QZ8LD1927353"
+  },
+  {
+    "title": "Coldness",
+    "artist": "Alley",
+    "isrc": "CH6541920523"
+  },
+  {
+    "title": "Aether",
+    "artist": "Sunless Dawn",
+    "isrc": "DK4V61804102"
+  },
+  {
+    "title": "Sisters Ov the Fire",
+    "artist": "Descensum",
+    "isrc": "uscgh2130579"
+  },
+  {
+    "title": "Loosely Of Amoebas",
+    "artist": "Farmakon",
+    "isrc": "GBBPB0300063"
+  },
+  {
+    "title": "The Milk Of Human Kindness",
+    "artist": "Steorrah",
+    "isrc": "DELJ81916524"
+  },
+  {
+    "title": "Prophetic Blight",
+    "artist": "Xenosis",
+    "isrc": "QZRRV2100002"
+  },
+  {
+    "title": "To the Sun",
+    "artist": "Damnation Plan",
+    "isrc": "FI3FC2344803"
+  },
+  {
+    "title": "The Spark",
+    "artist": "Sweven",
+    "isrc": "DENI11900091"
+  },
+  {
+    "title": "Overcome",
+    "artist": "Hacride",
+    "isrc": "NOCVC1309040"
+  },
+  {
+    "title": "Whisper of Death",
+    "artist": "Desire of Pain",
+    "isrc": "ushm81738878"
+  },
+  {
+    "title": "As We Walk Through the Ashes",
+    "artist": "Aspherium",
+    "isrc": "ushm21905161"
+  },
+  {
+    "title": "Of Tears and Blood",
+    "artist": "Kälter",
+    "isrc": "ushm82264775"
+  },
+  {
+    "title": "Fire Within",
+    "artist": "Shaped In Dreams",
+    "isrc": "ESA011987015"
+  },
+  {
+    "title": "How Great Thou Art",
+    "artist": "Becoming The Archetype",
+    "isrc": "USTN10800806"
+  },
+  {
+    "title": "Fragments of Reality",
+    "artist": "Reasoning Reflections",
+    "isrc": "QZHN91988873"
+  },
+  {
+    "title": "Only I",
+    "artist": "Scars of the Flesh",
+    "isrc": "QZPJ32183189"
+  },
+  {
+    "title": "Heritage",
+    "artist": "Screaming Banshee",
+    "isrc": "UKVZ82101501"
+  },
+  {
+    "title": "The Professional",
+    "artist": "Cloudbreaker",
+    "isrc": "QZ8LD1939054"
+  },
+  {
+    "title": "Recarbonized",
+    "artist": "Carbonized",
+    "isrc": "QM4TW2414331"
+  },
+  {
+    "title": "Lucidity",
+    "artist": "Sleepless Empire",
+    "isrc": "QM4DW1685140"
+  },
+  {
+    "title": "Prognosis",
+    "artist": "Apterous",
+    "isrc": "QZFYY2050094"
+  },
+  {
+    "title": "Zona del silencio",
+    "artist": "Adimiron",
+    "isrc": "NOCVC1704080"
+  },
+  {
+    "title": "Break The Fangs Of The Wicked",
+    "artist": "Woe Of Tyrants",
+    "isrc": "USMBR0806027"
+  },
+  {
+    "title": "Maladies to Be Cured",
+    "artist": "Thrown to the Sun",
+    "isrc": "usx9p1447929"
+  },
+  {
+    "title": "Shrouded and Veiled",
+    "artist": "Shabti",
+    "isrc": "GBSMU5822329"
+  },
+  {
+    "title": "Towers",
+    "artist": "Konkeror",
+    "isrc": "ushm81270735"
+  },
+  {
+    "title": "Step Back (feat. Tairrie B & Mick Murphy)",
+    "artist": "Ana Kefr",
+    "isrc": "uscgj0975155"
+  },
+  {
+    "title": "Descry",
+    "artist": "Barús",
+    "isrc": "GBSMU6359100"
+  },
+  {
+    "title": "Zin-uru",
+    "artist": "Born In Saturn",
+    "isrc": "AEA0D1911930"
+  },
+  {
+    "title": "Centuries of Decay",
+    "artist": "Centuries of Decay",
+    "isrc": "usdy41769376"
+  },
+  {
+    "title": "Petrichor",
+    "artist": "Dei Aemeth",
+    "isrc": "SEYOK1303108"
+  },
+  {
+    "title": "Kiln of the First Flame",
+    "artist": "Empirine",
+    "isrc": "SEYOK1425078"
+  },
+  {
+    "title": "Love Poison",
+    "artist": "Empyrean Sky",
+    "isrc": "ushm80461595"
+  },
+  {
+    "title": "Anthropophagy",
+    "artist": "Eukaryst",
+    "isrc": "QZ4JJ1785231"
+  },
+  {
+    "title": "Conjuring Dystopia",
+    "artist": "In Demise",
+    "isrc": "QZNWQ2044332"
+  },
+  {
+    "title": "Beyond Reach",
+    "artist": "Inferum",
+    "isrc": "NLS9Q1900005"
+  },
+  {
+    "title": "Inevitable Eradication vs. Astonishing Unification",
+    "artist": "Kronos Resistor",
+    "isrc": "uscgh2078551"
+  },
+  {
+    "title": "Tornado of Society",
+    "artist": "Methadone",
+    "isrc": "DEL211701766"
+  },
+  {
+    "title": "Ingress",
+    "artist": "Morna",
+    "isrc": "TCAEO1906060"
+  },
+  {
+    "title": "Escape",
+    "artist": "Ramskull",
+    "isrc": "QZNWY2286125"
+  },
+  {
+    "title": "Ancestral Inheritance",
+    "artist": "Release the Blackness",
+    "isrc": "UKVZ82000802"
+  },
+  {
+    "title": "Thinking of Death",
+    "artist": "Requiem For Oblivion",
+    "isrc": "ushm21408668"
+  },
+  {
+    "title": "Without Hands",
+    "artist": "Stone Circle",
+    "isrc": "SEYOK1732919"
+  },
+  {
+    "title": "To Infinity",
+    "artist": "Taine",
+    "isrc": "TCAHL2300054"
+  },
+  {
+    "title": "Sweet Suicidal Serenade",
+    "artist": "Thanatoschizo",
+    "isrc": "QZANL1733149"
+  },
+  {
+    "title": "Fin De Siecle",
+    "artist": "Threnody",
+    "isrc": "ushm21779052"
+  },
+  {
+    "title": "Head of a Wild Beast",
+    "artist": "Wounded Not Dead",
+    "isrc": "usl4q1741985"
+  },
+  {
+    "title": "Clusterfuck",
+    "artist": "Alkaloid",
+    "isrc": "FR33T2376003"
+  },
+  {
+    "title": "The Sentry",
+    "artist": "Gorod",
+    "isrc": "FR8FM1800078"
+  },
+  {
+    "title": "The Mountain Top",
+    "artist": "Black Crown Initiate",
+    "isrc": "SEYOK1320187"
+  },
+  {
+    "title": "Akróasis",
+    "artist": "Obscura",
+    "isrc": "US2641631403"
+  },
+  {
+    "title": "Celestial Tear",
+    "artist": "In Mourning",
+    "isrc": "FIUM71200097"
+  },
+  {
+    "title": "Mind as Universe",
+    "artist": "Persefone",
+    "isrc": "SEYIJ1300102"
+  },
+  {
+    "title": "To the Gallows",
+    "artist": "In Vain",
+    "isrc": "NOCVC2258020"
+  },
+  {
+    "title": "To Flow Through Ashen Hearts",
+    "artist": "Ulcerate",
+    "isrc": "FXQ732300083"
+  },
+  {
+    "title": "Driftwood",
+    "artist": "Disillusion",
+    "isrc": "DES562210725"
+  },
+  {
+    "title": "We've Been Here Before",
+    "artist": "Warforged",
+    "isrc": "QM3LS1900001"
+  },
+  {
+    "title": "Twilight",
+    "artist": "Edge Of Sanity",
+    "isrc": "SEXHQ9401301"
+  },
+  {
+    "title": "Curse Of The Red River",
+    "artist": "Barren Earth",
+    "isrc": "GBCQV0900776"
+  },
+  {
+    "title": "Oneiric Realisations",
+    "artist": "Fractal Universe",
+    "isrc": "USMBR1813401"
+  },
+  {
+    "title": "Remnants",
+    "artist": "Be'lakor",
+    "isrc": "ITP641200011"
+  },
+  {
+    "title": "Moon Lust Delirium",
+    "artist": "Dessiderium",
+    "isrc": "QM3LS2100076"
+  },
+  {
+    "title": "Signs",
+    "artist": "Luna's Call",
+    "isrc": "UKB6M2000002"
+  },
+  {
+    "title": "Thief of Joy",
+    "artist": "Exist",
+    "isrc": "USERN1011138"
+  },
+  {
+    "title": "Blood Moon",
+    "artist": "Descend",
+    "isrc": "NOEHU2000002"
+  },
+  {
+    "title": "Rapture Ballet",
+    "artist": "Witherscape",
+    "isrc": "US4E41637703"
+  },
+  {
+    "title": "Sun of the Night",
+    "artist": "Dan Swanö",
+    "isrc": "SEXHQ9800801"
+  },
+  {
+    "title": "Of Aeons Past",
+    "artist": "Omnivortex",
+    "isrc": "FI3FC2345103"
+  },
+  {
+    "title": "Neon Leviathan",
+    "artist": "Horrendous",
+    "isrc": "FR33T2353103"
+  },
+  {
+    "title": "Threads",
+    "artist": "Rannoch",
+    "isrc": "USRMX2300080"
+  },
+  {
+    "title": "Cellar of Ghosts",
+    "artist": "Kardashev",
+    "isrc": "USMBR2215314"
+  },
+  {
+    "title": "Lone Presence Supreme",
+    "artist": "WAIT",
+    "isrc": "QM3LS2100106"
+  },
+  {
+    "title": "Verdelet",
+    "artist": "Akercocke",
+    "isrc": "GBBPB0500376"
+  },
+  {
+    "title": "The Bodhi Tree",
+    "artist": "Lunar Chamber",
+    "isrc": "USJE72318604"
+  },
+  {
+    "title": "Expect The Unexpected",
+    "artist": "Control Denied",
+    "isrc": "US2641011803"
+  },
+  {
+    "title": "I Am the Void",
+    "artist": "Entheos",
+    "isrc": "USMBR2215580"
+  },
+  {
+    "title": "Hyster",
+    "artist": "Piah Mater",
+    "isrc": "ITJ351801673"
+  },
+  {
+    "title": "In My Time of Need",
+    "artist": "Opeth",
+    "isrc": "GBCKC0300002"
+  },
+  {
+    "title": "Our Constellation",
+    "artist": "Pressure Points",
+    "isrc": "ES71G2304845"
+  },
+  {
+    "title": "Folie Noire",
+    "artist": "A Novelist",
+    "isrc": "QZ8LD1927352"
+  },
+  {
+    "title": "Dust Layer",
+    "artist": "Alley",
+    "isrc": "CH6541920524"
+  },
+  {
+    "title": "Biomorph II (Collide into Being)",
+    "artist": "Sunless Dawn",
+    "isrc": "DK4V61804105"
+  },
+  {
+    "title": "Seance",
+    "artist": "Descensum",
+    "isrc": "USL4R2358877"
+  },
+  {
+    "title": "My Sanctuary In Solitude",
+    "artist": "Farmakon",
+    "isrc": "GBBPB0300064"
+  },
+  {
+    "title": "The Silver Apples Of The Moon",
+    "artist": "Steorrah",
+    "isrc": "DEZC62009997"
+  },
+  {
+    "title": "Army of Darkness",
+    "artist": "Xenosis",
+    "isrc": "QZAPG1868203"
+  },
+  {
+    "title": "Dreamdead",
+    "artist": "Damnation Plan",
+    "isrc": "FI3FC2344802"
+  },
+  {
+    "title": "By Virtue of a Promise",
+    "artist": "Sweven",
+    "isrc": "DENI11900092"
+  },
+  {
+    "title": "Phenomenon",
+    "artist": "Hacride",
+    "isrc": "FR1PP0900130"
+  },
+  {
+    "title": "Ascension",
+    "artist": "Desire of Pain",
+    "isrc": "ushm21894951"
+  },
+  {
+    "title": "The Fall of Therenia",
+    "artist": "Aspherium",
+    "isrc": "ushm21495939"
+  },
+  {
+    "title": "Rhythm of Passion, Pt. I: The Awakening",
+    "artist": "Kälter",
+    "isrc": "uscgh1906340"
+  },
+  {
+    "title": "And Warmth Remained",
+    "artist": "Shaped In Dreams",
+    "isrc": "ESA011987016"
+  },
+  {
+    "title": "The Ocean Walker",
+    "artist": "Becoming The Archetype",
+    "isrc": "USTN11200548"
+  },
+  {
+    "title": "Solar Breath",
+    "artist": "Reasoning Reflections",
+    "isrc": "QZHN91988872"
+  },
+  {
+    "title": "Chant For Ezkaton",
+    "artist": "Scars of the Flesh",
+    "isrc": "QZPJ32185031"
+  },
+  {
+    "title": "Sweet as Pain",
+    "artist": "Screaming Banshee",
+    "isrc": "UKVZ82101504"
+  },
+  {
+    "title": "Distopia / The Sunken Moon",
+    "artist": "Cloudbreaker",
+    "isrc": "QZ8LD1939051"
+  },
+  {
+    "title": "Lord of Damnation",
+    "artist": "Carbonized",
+    "isrc": "NLW500901893"
+  },
+  {
+    "title": "Crowned Deceiver",
+    "artist": "Sleepless Empire",
+    "isrc": "QM4DW1685141"
+  },
+  {
+    "title": "Prognosis - Instrumental",
+    "artist": "Apterous",
+    "isrc": "QZFYZ2121820"
+  },
+  {
+    "title": "Kernel Panic",
+    "artist": "Alkaloid",
+    "isrc": "FR33T1846401"
+  },
+  {
+    "title": "Wolfsmond",
+    "artist": "Gorod",
+    "isrc": "FR8FM1800075"
+  },
+  {
+    "title": "Invitation",
+    "artist": "Black Crown Initiate",
+    "isrc": "GBDHC2011602"
+  },
+  {
+    "title": "The Anticosmic Overload",
+    "artist": "Obscura",
+    "isrc": "US2640903201"
+  },
+  {
+    "title": "Sovereign",
+    "artist": "In Mourning",
+    "isrc": "SE5S62105501"
+  },
+  {
+    "title": "Upward Explosion",
+    "artist": "Persefone",
+    "isrc": "SEYIJ1300110"
+  },
+  {
+    "title": "Season of Unrest",
+    "artist": "In Vain",
+    "isrc": "NOCVC2258030"
+  },
+  {
+    "title": "Stare Into Death And Be Still",
+    "artist": "Ulcerate",
+    "isrc": "FR9W11933241"
+  },
+  {
+    "title": "Alone I Stand in Fires (Remastered 20th Anniversary Edition)",
+    "artist": "Disillusion",
+    "isrc": "USMBR2416203"
+  },
+  {
+    "title": "Nightfall Came",
+    "artist": "Warforged",
+    "isrc": "QM3LS1900004"
+  },
+  {
+    "title": "Crimson, Pt. 1",
+    "artist": "Edge Of Sanity",
+    "isrc": "SEXHQ0800301"
+  },
+  {
+    "title": "Further Down",
+    "artist": "Barren Earth",
+    "isrc": "US4E41747003"
+  },
+  {
+    "title": "A Clockwork Expectation",
+    "artist": "Fractal Universe",
+    "isrc": "USMBR2114727"
+  },
+  {
+    "title": "Venator",
+    "artist": "Be'lakor",
+    "isrc": "USQY50933925"
+  },
+  {
+    "title": "Shadow Burn",
+    "artist": "Dessiderium",
+    "isrc": "TCAEW2017772"
+  },
+  {
+    "title": "Locus",
+    "artist": "Luna's Call",
+    "isrc": "UKB6M2000005"
+  },
+  {
+    "title": "Hijacking The Zeitgeist",
+    "artist": "Exist",
+    "isrc": "USERN1011139"
+  },
+  {
+    "title": "The Purest One",
+    "artist": "Descend",
+    "isrc": "NOEHU2000003"
+  },
+  {
+    "title": "Wake of Infinity",
+    "artist": "Witherscape",
+    "isrc": "US4E41637701"
+  },
+  {
+    "title": "Add Reality",
+    "artist": "Dan Swanö",
+    "isrc": "SEXHQ9800804"
+  },
+  {
+    "title": "Transforming to Pale Mist",
+    "artist": "Omnivortex",
+    "isrc": "FI3FC2345102"
+  },
+  {
+    "title": "Cult of Shaad'oah",
+    "artist": "Horrendous",
+    "isrc": "FR33T2353106"
+  },
+  {
+    "title": "Degenerate Era",
+    "artist": "Rannoch",
+    "isrc": "USRMX2300078"
+  },
+  {
+    "title": "Between Sea and Sky",
+    "artist": "Kardashev",
+    "isrc": "ushm81798996"
+  },
+  {
+    "title": "Earth's Last Orbit",
+    "artist": "WAIT",
+    "isrc": "QM3LS2100105"
+  },
+  {
+    "title": "Prince Of The North",
+    "artist": "Akercocke",
+    "isrc": "GBBPB0300218"
+  }
+]

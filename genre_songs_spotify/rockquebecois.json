@@ -1,0 +1,852 @@
+[
+  {
+    "title": "Le train",
+    "artist": "Vilain Pingouin",
+    "isrc": "CAA509003706"
+  },
+  {
+    "title": "Ma vie à l'heure (La toune de l'Ouest)",
+    "artist": "Les Respectables",
+    "isrc": "CAP680220008"
+  },
+  {
+    "title": "On jase de toi",
+    "artist": "Noir Silence",
+    "isrc": "CAY641100083"
+  },
+  {
+    "title": "Gros zéro",
+    "artist": "Yelo Molo",
+    "isrc": "CAM789900003"
+  },
+  {
+    "title": "Seigneur",
+    "artist": "Kevin Parent",
+    "isrc": "CAU119501888"
+  },
+  {
+    "title": "La désise",
+    "artist": "Daniel Boucher",
+    "isrc": "CAG609998401"
+  },
+  {
+    "title": "Dis-moi pas ça",
+    "artist": "Okoumé",
+    "isrc": "CAU111556981"
+  },
+  {
+    "title": "Dale Hawerchuk",
+    "artist": "Les Dales Hawerchuk",
+    "isrc": "CAP780500106"
+  },
+  {
+    "title": "Pousse, pousse",
+    "artist": "Jonathan Painchaud",
+    "isrc": "CAU111300147"
+  },
+  {
+    "title": "Quand",
+    "artist": "Martin Deschamps",
+    "isrc": "CAK860900016"
+  },
+  {
+    "title": "Le but",
+    "artist": "Loco Locass",
+    "isrc": "CAA501228511"
+  },
+  {
+    "title": "Un beau grand bateau",
+    "artist": "Gerry Boulet",
+    "isrc": "CA4XH1190205"
+  },
+  {
+    "title": "Moisi moé'ssi",
+    "artist": "Fred Fortin",
+    "isrc": "CAP780900103"
+  },
+  {
+    "title": "Puits sans fond",
+    "artist": "Vulgaires Machins",
+    "isrc": "CAI250606909"
+  },
+  {
+    "title": "Mon frère",
+    "artist": "France D'Amour",
+    "isrc": "CAT509450603"
+  },
+  {
+    "title": "Dieu",
+    "artist": "Boom Desjardins",
+    "isrc": "CAU110415317"
+  },
+  {
+    "title": "Bobettes Bob",
+    "artist": "Pépé et sa guitare",
+    "isrc": "CAL540708604"
+  },
+  {
+    "title": "Tu ne sauras jamais",
+    "artist": "Les BB",
+    "isrc": "CAU119400977"
+  },
+  {
+    "title": "L'âge de bière",
+    "artist": "Mononc' Serge, Anonymus",
+    "isrc": "CARA80300006"
+  },
+  {
+    "title": "Illégal",
+    "artist": "Corbeau",
+    "isrc": "CA1FY1500019"
+  },
+  {
+    "title": "Tassez-vous de d'là",
+    "artist": "Les Colocs",
+    "isrc": "CAA500907703"
+  },
+  {
+    "title": "Calvaire",
+    "artist": "La Chicane",
+    "isrc": "CAU119815379"
+  },
+  {
+    "title": "On va s'aimer encore",
+    "artist": "Vincent Vallières",
+    "isrc": "CAS740913006"
+  },
+  {
+    "title": "Les Aurores",
+    "artist": "Mara Tremblay",
+    "isrc": "CAA501129703"
+  },
+  {
+    "title": "Mes blues passent pu dans porte",
+    "artist": "Offenbach",
+    "isrc": "USHM81609125"
+  },
+  {
+    "title": "Dégénérations / Le reel du fossé",
+    "artist": "Mes Aïeux",
+    "isrc": "FR6V80311681"
+  },
+  {
+    "title": "Véronique",
+    "artist": "3 Gars Su'l Sofa",
+    "isrc": "CAX580701002"
+  },
+  {
+    "title": "Gros tas d'marde",
+    "artist": "GrimSkunk",
+    "isrc": "CAI250201905"
+  },
+  {
+    "title": "Fantastique",
+    "artist": "Les Denis Drolet",
+    "isrc": "QMDA72229703"
+  },
+  {
+    "title": "La bartendresse",
+    "artist": "Éric Lapointe",
+    "isrc": "CAY500400017"
+  },
+  {
+    "title": "Hawaiienne",
+    "artist": "Les Trois Accords",
+    "isrc": "CAL541416003"
+  },
+  {
+    "title": "Si exceptionnel",
+    "artist": "Andrée Watters",
+    "isrc": "CAM640201101"
+  },
+  {
+    "title": "Embarque ma belle",
+    "artist": "Kaïn",
+    "isrc": "CAP680524002"
+  },
+  {
+    "title": "I Lost My Baby",
+    "artist": "Jean Leloup",
+    "isrc": "CAA509696006"
+  },
+  {
+    "title": "R'viens Pas Trop Tard",
+    "artist": "Zébulon",
+    "isrc": "CAA509698003"
+  },
+  {
+    "title": "J'ai oublié",
+    "artist": "Capitaine Révolte",
+    "isrc": "CAI250304102"
+  },
+  {
+    "title": "Crabe",
+    "artist": "Les Goules",
+    "isrc": "CAV900212301"
+  },
+  {
+    "title": "Mécaniques générales",
+    "artist": "Patrice Michaud",
+    "isrc": "CAS741346001"
+  },
+  {
+    "title": "Magané",
+    "artist": "Les Pistolets Roses",
+    "isrc": "CAZ700300465"
+  },
+  {
+    "title": "Bonhomme 7h",
+    "artist": "eXterio, Ok. Volca",
+    "isrc": "CAE560302002"
+  },
+  {
+    "title": "Cité rock suicide",
+    "artist": "Arseniq33",
+    "isrc": "CAI250505902"
+  },
+  {
+    "title": "Oublie Pas",
+    "artist": "Karkwa",
+    "isrc": "CAA500822404"
+  },
+  {
+    "title": "Souvenirs d'Amos",
+    "artist": "WD-40",
+    "isrc": "CAL549900212"
+  },
+  {
+    "title": "Dragon",
+    "artist": "Galaxie",
+    "isrc": "CAC6N1500103"
+  },
+  {
+    "title": "Maudit qu't'es belle",
+    "artist": "Longue Distance",
+    "isrc": "CABE20500002"
+  },
+  {
+    "title": "Té Lette",
+    "artist": "Stage Lacroix",
+    "isrc": "CAZ700909071"
+  },
+  {
+    "title": "VHS",
+    "artist": "Rouge Pompier",
+    "isrc": "CAE561661003"
+  },
+  {
+    "title": "La chèvre",
+    "artist": "Band de Garage",
+    "isrc": "CAP780600203"
+  },
+  {
+    "title": "Thermoplastique",
+    "artist": "Les Secrétaires Volantes",
+    "isrc": "CAV740722002"
+  },
+  {
+    "title": "Boule boule",
+    "artist": "Les Hôtesses D' Hilaire",
+    "isrc": "CA77N1400004"
+  },
+  {
+    "title": "Le p'tit poisson",
+    "artist": "B.A.R.F.",
+    "isrc": "CAV740705028"
+  },
+  {
+    "title": "Montréal -40",
+    "artist": "Malajube",
+    "isrc": "CAD430602302"
+  },
+  {
+    "title": "J'pourrais pas vivre avec toi",
+    "artist": "Les Breastfeeders",
+    "isrc": "CABH60600502"
+  },
+  {
+    "title": "Mettre du tape su' ma palette",
+    "artist": "Bob Bissonnette",
+    "isrc": "CA7T91210009"
+  },
+  {
+    "title": "Lettre d'amour",
+    "artist": "Cafeine",
+    "isrc": "CAI251313304"
+  },
+  {
+    "title": "Héros ou ennemi",
+    "artist": "Oktoplut",
+    "isrc": "CAE561711901"
+  },
+  {
+    "title": "Elle",
+    "artist": "Crash Ton Rock",
+    "isrc": "CAE560917001"
+  },
+  {
+    "title": "Paquet de troubles",
+    "artist": "Les frères Goyette",
+    "isrc": "CAD432302801"
+  },
+  {
+    "title": "Vénus Du Mile-End",
+    "artist": "Les Chiens",
+    "isrc": "CAY560701503"
+  },
+  {
+    "title": "Fleur de cendrier",
+    "artist": "Le Nombre",
+    "isrc": "CABH60600305"
+  },
+  {
+    "title": "La fin du show",
+    "artist": "Les Cowboys Fringants",
+    "isrc": "CAL542424805"
+  },
+  {
+    "title": "C'est zero",
+    "artist": "Hepatite B",
+    "isrc": "CAU111015895"
+  },
+  {
+    "title": "Junkie de toi",
+    "artist": "Anik Jean",
+    "isrc": "CAT500553606"
+  },
+  {
+    "title": "Fou fou fou mon minou",
+    "artist": "Chocolat",
+    "isrc": "CAD431907309"
+  },
+  {
+    "title": "De héro à zéro",
+    "artist": "Projet Orange",
+    "isrc": "CAG540007116"
+  },
+  {
+    "title": "Dans les airs",
+    "artist": "Vénus 3",
+    "isrc": "CAE540200002"
+  },
+  {
+    "title": "Gwen et les rats",
+    "artist": "Gwenwed",
+    "isrc": "CAX620700203"
+  },
+  {
+    "title": "Du rhum des femmes",
+    "artist": "Bodh’aktan",
+    "isrc": "FR6V82088784"
+  },
+  {
+    "title": "Alinéa",
+    "artist": "El Motor",
+    "isrc": "CAV600700016"
+  },
+  {
+    "title": "Funnel of Love",
+    "artist": "Les Deuxluxes",
+    "isrc": "FR6V82444515"
+  },
+  {
+    "title": "Mimi",
+    "artist": "Lili Fatale",
+    "isrc": "CAC229700055"
+  },
+  {
+    "title": "Brooklyn",
+    "artist": "Bonjour Brumaire",
+    "isrc": "CAI250808704"
+  },
+  {
+    "title": "Je suis down",
+    "artist": "Rita-Rita, Maryse Letarte",
+    "isrc": "CAD620800003"
+  },
+  {
+    "title": "Joyeus'ment désespéré",
+    "artist": "La Chango Family",
+    "isrc": "CAA500216105"
+  },
+  {
+    "title": "Fight and Kiss",
+    "artist": "We Are Wolves",
+    "isrc": "CAD430703001"
+  },
+  {
+    "title": "Belvedere",
+    "artist": "Ponctuation",
+    "isrc": "CA1JS1100012"
+  },
+  {
+    "title": "Touche pas",
+    "artist": "Elyzabeth Diaga",
+    "isrc": "CAV509671706"
+  },
+  {
+    "title": "Pendant que les champs brûlent",
+    "artist": "Jorane",
+    "isrc": "CADC41103813"
+  },
+  {
+    "title": "Les murs ont des yeux",
+    "artist": "Mathieu Gaudet",
+    "isrc": "CAC500400005"
+  },
+  {
+    "title": "La fin de l'histoire",
+    "artist": "Maneige",
+    "isrc": "CADC41410420"
+  },
+  {
+    "title": "(Dizzy) Eagle",
+    "artist": "The Besnard Lakes",
+    "isrc": "GBJPX2452601"
+  },
+  {
+    "title": "Scratch",
+    "artist": "Coma",
+    "isrc": "CAENV2161968"
+  },
+  {
+    "title": "Followed The Waves",
+    "artist": "Melissa Auf der Maur",
+    "isrc": "USCA20300754"
+  },
+  {
+    "title": "Le Feu Sauvage De L'amour",
+    "artist": "Rock et Belles Oreilles",
+    "isrc": "CAA501430021"
+  },
+  {
+    "title": "Salut salaud",
+    "artist": "Vilain Pingouin",
+    "isrc": "CAA509003703"
+  },
+  {
+    "title": "Amalgame",
+    "artist": "Les Respectables",
+    "isrc": "CAP689916002"
+  },
+  {
+    "title": "Sabrina",
+    "artist": "Yelo Molo",
+    "isrc": "CAM789900008"
+  },
+  {
+    "title": "T'es tellement belle",
+    "artist": "Noir Silence",
+    "isrc": "CAY641000216"
+  },
+  {
+    "title": "Les doigts",
+    "artist": "Kevin Parent",
+    "isrc": "CAU119801902"
+  },
+  {
+    "title": "Le poète des temps gris",
+    "artist": "Daniel Boucher",
+    "isrc": "CAG609998409"
+  },
+  {
+    "title": "La mer à boire",
+    "artist": "Okoumé",
+    "isrc": "CAU111556983"
+  },
+  {
+    "title": "À soir on sort",
+    "artist": "Les Dales Hawerchuk",
+    "isrc": "CAP780800104"
+  },
+  {
+    "title": "Les vieux chums",
+    "artist": "Jonathan Painchaud",
+    "isrc": "CAU111300145"
+  },
+  {
+    "title": "Vérité",
+    "artist": "Martin Deschamps",
+    "isrc": "CAK860900027"
+  },
+  {
+    "title": "Hymne à Québec",
+    "artist": "Loco Locass",
+    "isrc": "CAQ660934002"
+  },
+  {
+    "title": "Les yeux du coeur",
+    "artist": "Gerry Boulet, Marjo",
+    "isrc": "CA4XH1190203"
+  },
+  {
+    "title": "Oiseau",
+    "artist": "Fred Fortin",
+    "isrc": "CAD431595101"
+  },
+  {
+    "title": "Compter les corps",
+    "artist": "Vulgaires Machins",
+    "isrc": "CAI250606903"
+  },
+  {
+    "title": "Vivante",
+    "artist": "France D'Amour",
+    "isrc": "CAT509450605"
+  },
+  {
+    "title": "J'reviens chez nous",
+    "artist": "Boom Desjardins",
+    "isrc": "CAU110415318"
+  },
+  {
+    "title": "Femme Libérée",
+    "artist": "Pépé et sa guitare",
+    "isrc": "CAL680933555"
+  },
+  {
+    "title": "Les patates",
+    "artist": "Mononc' Serge, Anonymus",
+    "isrc": "CARA80300002"
+  },
+  {
+    "title": "Donne-moi ma chance",
+    "artist": "Les BB",
+    "isrc": "CAU119100955"
+  },
+  {
+    "title": "J'lâche pas",
+    "artist": "Corbeau",
+    "isrc": "CA1FY1500010"
+  },
+  {
+    "title": "La Rue Principale",
+    "artist": "Les Colocs",
+    "isrc": "CAI549301002"
+  },
+  {
+    "title": "Juste pour voir le monde - Live",
+    "artist": "La Chicane",
+    "isrc": "CAA4R1700010"
+  },
+  {
+    "title": "À hauteur d'homme",
+    "artist": "Vincent Vallières",
+    "isrc": "CAS741786305"
+  },
+  {
+    "title": "Tout Nue Avec Toi",
+    "artist": "Mara Tremblay",
+    "isrc": "CAA501430029"
+  },
+  {
+    "title": "Promenade Sur Mars",
+    "artist": "Offenbach",
+    "isrc": "usx9p1238121"
+  },
+  {
+    "title": "Le déni de l'évidence",
+    "artist": "Mes Aïeux",
+    "isrc": "CAV500836601"
+  },
+  {
+    "title": "Valérie Proulx",
+    "artist": "3 Gars Su'l Sofa",
+    "isrc": "CAL541314602"
+  },
+  {
+    "title": "Le Gouvernement Songe",
+    "artist": "GrimSkunk",
+    "isrc": "CAI259800706"
+  },
+  {
+    "title": "The Rong Long Vong & the Fung Thing Long Song",
+    "artist": "Les Denis Drolet",
+    "isrc": "QMDA72229710"
+  },
+  {
+    "title": "N'importe quoi - Inédit",
+    "artist": "Éric Lapointe",
+    "isrc": "CAE540600035"
+  },
+  {
+    "title": "Tout de moi",
+    "artist": "Andrée Watters",
+    "isrc": "CAV600800029"
+  },
+  {
+    "title": "Saskatchewan",
+    "artist": "Les Trois Accords",
+    "isrc": "CAL541416006"
+  },
+  {
+    "title": "Mexico",
+    "artist": "Kaïn",
+    "isrc": "CAP680524004"
+  },
+  {
+    "title": "Paradis City",
+    "artist": "Jean Leloup",
+    "isrc": "CAD431493504"
+  },
+  {
+    "title": "Les femmes préfèrent les ginos",
+    "artist": "Zébulon",
+    "isrc": "CAA509480012"
+  },
+  {
+    "title": "Ça fait rire les oiseaux",
+    "artist": "Capitaine Révolte",
+    "isrc": "CAI250304109"
+  },
+  {
+    "title": "Ville",
+    "artist": "Les Goules",
+    "isrc": "CAV900212303"
+  },
+  {
+    "title": "Kamikaze",
+    "artist": "Patrice Michaud",
+    "isrc": "CAS741786101"
+  },
+  {
+    "title": "Grossiere indécence",
+    "artist": "Les Pistolets Roses",
+    "isrc": "CAZ700501246"
+  },
+  {
+    "title": "Whippet",
+    "artist": "eXterio",
+    "isrc": "CAE560302001"
+  },
+  {
+    "title": "Scie mécanique",
+    "artist": "Arseniq33",
+    "isrc": "CAI250203214"
+  },
+  {
+    "title": "Parfaite à l'écran",
+    "artist": "Karkwa",
+    "isrc": "CA60L2310002"
+  },
+  {
+    "title": "Mauvaise vie",
+    "artist": "WD-40",
+    "isrc": "CAL549900210"
+  },
+  {
+    "title": "Piste 1",
+    "artist": "Galaxie",
+    "isrc": "CAP781100101"
+  },
+  {
+    "title": "Mes 18 ans",
+    "artist": "Longue Distance",
+    "isrc": "CAU111602084"
+  },
+  {
+    "title": "Les Tites Patates",
+    "artist": "Stage Lacroix",
+    "isrc": "CAZ700909070"
+  },
+  {
+    "title": "Paquet d'choses",
+    "artist": "Rouge Pompier",
+    "isrc": "CAE561228003"
+  },
+  {
+    "title": "Ça sonne",
+    "artist": "Band de Garage",
+    "isrc": "CAP780600201"
+  },
+  {
+    "title": "Filles ou garçons ?",
+    "artist": "Les Secrétaires Volantes",
+    "isrc": "CAV740714001"
+  },
+  {
+    "title": "Eastbound and Down",
+    "artist": "Les Hôtesses D' Hilaire",
+    "isrc": "CA77N1400008"
+  },
+  {
+    "title": "Mouton noir",
+    "artist": "B.A.R.F.",
+    "isrc": "CAV740705014"
+  },
+  {
+    "title": "Étienne d'août",
+    "artist": "Malajube",
+    "isrc": "CAD430602310"
+  },
+  {
+    "title": "Les pieds chez toi",
+    "artist": "Les Breastfeeders",
+    "isrc": "CAZ842400014"
+  },
+  {
+    "title": "J'accroche mes patins",
+    "artist": "Bob Bissonnette",
+    "isrc": "CA7T91220006"
+  },
+  {
+    "title": "Tu ne peux pas partir",
+    "artist": "Cafeine",
+    "isrc": "CA3HQ1502002"
+  },
+  {
+    "title": "La politique c'est d'la marde - Galashgala",
+    "artist": "Oktoplut",
+    "isrc": "CAE561610905"
+  },
+  {
+    "title": "Brûler",
+    "artist": "Crash Ton Rock",
+    "isrc": "CAE560917003"
+  },
+  {
+    "title": "P'tite vie, p'tite misère",
+    "artist": "Vilain Pingouin",
+    "isrc": "CAA509269010"
+  },
+  {
+    "title": "Virer le monde à l'envers",
+    "artist": "Les Respectables",
+    "isrc": "CAU111200024"
+  },
+  {
+    "title": "Le petit castor",
+    "artist": "Yelo Molo",
+    "isrc": "CAKX40000012"
+  },
+  {
+    "title": "Malade",
+    "artist": "Noir Silence",
+    "isrc": "CAY641100091"
+  },
+  {
+    "title": "Frequenter l'oubli",
+    "artist": "Kevin Parent",
+    "isrc": "CAU119801894"
+  },
+  {
+    "title": "Ça",
+    "artist": "Daniel Boucher",
+    "isrc": "CAG609998408"
+  },
+  {
+    "title": "À l'enfant que j'aurai",
+    "artist": "Okoumé",
+    "isrc": "CAU111556982"
+  },
+  {
+    "title": "Belle voiture",
+    "artist": "Les Dales Hawerchuk",
+    "isrc": "CAD432404701"
+  },
+  {
+    "title": "Si t'es vivant",
+    "artist": "Jonathan Painchaud",
+    "isrc": "CAU111300134"
+  },
+  {
+    "title": "Ma blonde est tellement...",
+    "artist": "Martin Deschamps",
+    "isrc": "CAK860900017"
+  },
+  {
+    "title": "Libérez-Nous Des Libéraux",
+    "artist": "Loco Locass",
+    "isrc": "CAA500416812"
+  },
+  {
+    "title": "Toujours vivant",
+    "artist": "Gerry Boulet, Michel Rivard",
+    "isrc": "CA4XH1190206"
+  },
+  {
+    "title": "Tapis noir",
+    "artist": "Fred Fortin",
+    "isrc": "CAD431595105"
+  },
+  {
+    "title": "Et même si",
+    "artist": "Vulgaires Machins",
+    "isrc": "CAI251112101"
+  },
+  {
+    "title": "Et si c'était vrai",
+    "artist": "France D'Amour",
+    "isrc": "CAT509850904"
+  },
+  {
+    "title": "Ce que tu veux",
+    "artist": "Boom Desjardins",
+    "isrc": "CAU110415313"
+  },
+  {
+    "title": "Ma p'tite 50",
+    "artist": "Pépé et sa guitare",
+    "isrc": "CAE9W1607705"
+  },
+  {
+    "title": "Les grosses torches Acadiennes",
+    "artist": "Mononc' Serge",
+    "isrc": "CARA80100011"
+  },
+  {
+    "title": "T'es dans la lune",
+    "artist": "Les BB",
+    "isrc": "CAU118900917"
+  },
+  {
+    "title": "Ailleurs",
+    "artist": "Corbeau",
+    "isrc": "CA1FY1500027"
+  },
+  {
+    "title": "Juste Une P'tite Nuite",
+    "artist": "Les Colocs",
+    "isrc": "CAA500980803"
+  },
+  {
+    "title": "Tu m'manques - Live",
+    "artist": "La Chicane",
+    "isrc": "CAA4R1700011"
+  },
+  {
+    "title": "Lili",
+    "artist": "Vincent Vallières",
+    "isrc": "CAS741342005"
+  },
+  {
+    "title": "Tu n'es pas libre",
+    "artist": "Mara Tremblay",
+    "isrc": "CAA500825902"
+  },
+  {
+    "title": "Ayoye",
+    "artist": "Offenbach",
+    "isrc": "usx9p1238117"
+  },
+  {
+    "title": "Les oies sauvages",
+    "artist": "Mes Aïeux",
+    "isrc": "CAV501240704"
+  },
+  {
+    "title": "Cruise à 118",
+    "artist": "3 Gars Su'l Sofa",
+    "isrc": "CAL541314605"
+  },
+  {
+    "title": "¡Ya Basta!",
+    "artist": "GrimSkunk",
+    "isrc": "CAI250201907"
+  },
+  {
+    "title": "Oh Yeah !",
+    "artist": "Les Denis Drolet",
+    "isrc": "QMDA72229702"
+  }
+]

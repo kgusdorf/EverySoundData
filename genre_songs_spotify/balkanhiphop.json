@@ -1,0 +1,957 @@
+[
+  {
+    "title": "Ja Sam Ulica",
+    "artist": "General Woo",
+    "isrc": "HRA101406422"
+  },
+  {
+    "title": "Esi mi dobar",
+    "artist": "Bad Copy",
+    "isrc": "CSAO21242906"
+  },
+  {
+    "title": "Crno VS Belo",
+    "artist": "Bvana iz Lagune, Mikri Maus",
+    "isrc": "RSA312200012"
+  },
+  {
+    "title": "Lovačke priče",
+    "artist": "Bolesna Braca",
+    "isrc": "HRAA40000151"
+  },
+  {
+    "title": "Pucačina Po Budvi",
+    "artist": "Who See, rendominacija, Iva",
+    "isrc": "RSZ141700295"
+  },
+  {
+    "title": "Kaj ima lima?",
+    "artist": "Tram 11",
+    "isrc": "HRAA49900037"
+  },
+  {
+    "title": "Oridžinal Romale",
+    "artist": "Mikri Maus",
+    "isrc": "NOAPI1596060"
+  },
+  {
+    "title": "Umro je trep",
+    "artist": "Ajs Nigrutin, Smoke Mardeljano",
+    "isrc": "DEKB72077740"
+  },
+  {
+    "title": "U Dresu Redzi Milera",
+    "artist": "Prti Bee Gee",
+    "isrc": "BAA051905612"
+  },
+  {
+    "title": "Platinasti status",
+    "artist": "Struka",
+    "isrc": "ATR980015549"
+  },
+  {
+    "title": "Bomba",
+    "artist": "Edo Maajka",
+    "isrc": "HRAA40600012"
+  },
+  {
+    "title": "Žurke i keš (feat. Marčelo)",
+    "artist": "Sky Wikluh, Marčelo",
+    "isrc": "RSA131604003"
+  },
+  {
+    "title": "Izgubljeni Snovi",
+    "artist": "Frenkie",
+    "isrc": "HRAA40500040"
+  },
+  {
+    "title": "Skanija",
+    "artist": "Psihoaktiv Trip",
+    "isrc": "BAA052230956"
+  },
+  {
+    "title": "Stepski Vuk",
+    "artist": "Smoke Mardeljano",
+    "isrc": "DEKB72082293"
+  },
+  {
+    "title": "Svi ti dani lepi",
+    "artist": "V.I.P.",
+    "isrc": "RSA221991528"
+  },
+  {
+    "title": "Lovrinac",
+    "artist": "Djecaci",
+    "isrc": "HRA041165964"
+  },
+  {
+    "title": "Svaki pas ima svoj dan",
+    "artist": "El Bahattee",
+    "isrc": "HRA371002513"
+  },
+  {
+    "title": "Kamata",
+    "artist": "Krešo Bengalka",
+    "isrc": "HRA041788187"
+  },
+  {
+    "title": "Ko Vam Je Reko",
+    "artist": "Fil Tilen",
+    "isrc": "ATUM71700084"
+  },
+  {
+    "title": "Pljačka",
+    "artist": "43zla",
+    "isrc": "NOAPI1499198"
+  },
+  {
+    "title": "Pegla",
+    "artist": "Marčelo",
+    "isrc": "RSZ141600161"
+  },
+  {
+    "title": "Arena Paklena",
+    "artist": "Nered",
+    "isrc": "GB-SMU-16-64612"
+  },
+  {
+    "title": "Ekipa 90-ih",
+    "artist": "Marin Ivanović-Stoka, General Woo, Bizzo",
+    "isrc": "HRA041992307"
+  },
+  {
+    "title": "Ti Si Moja Vila",
+    "artist": "Juice",
+    "isrc": "TCAGU2363014"
+  },
+  {
+    "title": "Hoću s tobom da se smuvam",
+    "artist": "Surreal",
+    "isrc": "RSA221601677"
+  },
+  {
+    "title": "Alo Gde Si Ti",
+    "artist": "THCF, Breskvica",
+    "isrc": "RSA222308916"
+  },
+  {
+    "title": "Znam Ko Su",
+    "artist": "Mlata, Smoke Mardeljano",
+    "isrc": "RSA221600483"
+  },
+  {
+    "title": "Mače",
+    "artist": "Marlon Brutal, Juice",
+    "isrc": "RSA221820545"
+  },
+  {
+    "title": "Moja Nocna Inspiracija",
+    "artist": "Sale Tru",
+    "isrc": "RSA221600381"
+  },
+  {
+    "title": "Nostalgična",
+    "artist": "TBF",
+    "isrc": "HRAA40400081"
+  },
+  {
+    "title": "Goli i bosi",
+    "artist": "Elemental",
+    "isrc": "HRA1F1600001"
+  },
+  {
+    "title": "Balada disidenta",
+    "artist": "Beogradski Sindikat",
+    "isrc": "RSA3F2200047"
+  },
+  {
+    "title": "Mamacita",
+    "artist": "Vojko V",
+    "isrc": "HRA042300358"
+  },
+  {
+    "title": "Kleopatra",
+    "artist": "Mimi Mercedez",
+    "isrc": "RSA221600341"
+  },
+  {
+    "title": "U mom jukra",
+    "artist": "BIGru i Paja Kratak, Seksi",
+    "isrc": "BAA052444493"
+  },
+  {
+    "title": "Donji Miholjac",
+    "artist": "Kandžija, Gole Žene",
+    "isrc": "HRA371400299"
+  },
+  {
+    "title": "Karantin",
+    "artist": "Voodoo Popeye",
+    "isrc": "RSA141304250"
+  },
+  {
+    "title": "Pasji Pas",
+    "artist": "Monteniggers",
+    "isrc": "RSA141304160"
+  },
+  {
+    "title": "Biseri Iz Blata",
+    "artist": "Coby",
+    "isrc": "RSA221820695"
+  },
+  {
+    "title": "Etikete",
+    "artist": "Sassja, Remi",
+    "isrc": "HRAA41500010"
+  },
+  {
+    "title": "Otrova u čaj",
+    "artist": "High 5, Rinoma",
+    "isrc": "QZ5AB1905183"
+  },
+  {
+    "title": "Kornjača",
+    "artist": "Alejuandro Buendija",
+    "isrc": "HRA372000156"
+  },
+  {
+    "title": "Naštaćunaić",
+    "artist": "Helem Nejse",
+    "isrc": "ATAJ12400273"
+  },
+  {
+    "title": "Milena",
+    "artist": "Ante Cash, Postolar Tripper",
+    "isrc": "HRA041581323"
+  },
+  {
+    "title": "Nema Labavo",
+    "artist": "Kandžija i Gole žene",
+    "isrc": "ATUM71500352"
+  },
+  {
+    "title": "Odabrao Đelo Hadžiselimović",
+    "artist": "ST!llness",
+    "isrc": "HRAA40700157"
+  },
+  {
+    "title": "Udari",
+    "artist": "triestri",
+    "isrc": "US7VG1730288"
+  },
+  {
+    "title": "Trinidad i Tobago",
+    "artist": "Jala, Buba Corelli",
+    "isrc": "SE5DA1600303"
+  },
+  {
+    "title": "100%",
+    "artist": "Senidah, RAF Camora",
+    "isrc": "RSA221901043"
+  },
+  {
+    "title": "Ljubav U Doba Ebole",
+    "artist": "Furio djunta, Fox",
+    "isrc": "RSA221600673"
+  },
+  {
+    "title": "Rosalia",
+    "artist": "Jala Brat, Buba Corelli",
+    "isrc": "ATAJ12400134"
+  },
+  {
+    "title": "Dejan Matić (feat. Jala)",
+    "artist": "Loš Sin, Jala",
+    "isrc": "TCACJ1505297"
+  },
+  {
+    "title": "Drugovi",
+    "artist": "2bona, THCF",
+    "isrc": "RSA222305544"
+  },
+  {
+    "title": "Zidjan",
+    "artist": "Sinestet",
+    "isrc": "HRAA40800326"
+  },
+  {
+    "title": "Balkan Banda",
+    "artist": "Tasko, INAS",
+    "isrc": "ATAJ12000035"
+  },
+  {
+    "title": "Nadrkano Hodanje",
+    "artist": "Sajsi MC, B.K.O.",
+    "isrc": "ATR981150177"
+  },
+  {
+    "title": "Crni Spid",
+    "artist": "Gudroslav, Daki BD, Žakila, Ludi Srbi, Bombe Devedesetih",
+    "isrc": "RSA222191076"
+  },
+  {
+    "title": "#Imamoproblem3",
+    "artist": "King Mire, Genocide, Santos, Makk, Jala Brat, SMA, Sheik Ba, Sajfer",
+    "isrc": "QM2PV1748570"
+  },
+  {
+    "title": "Sugar",
+    "artist": "Slatkaristika, 2bona, Toni Zen",
+    "isrc": "RSA222308748"
+  },
+  {
+    "title": "DAMN",
+    "artist": "Žakila, Spejs Noksi, Yan Dusk, Summer Deaths",
+    "isrc": "RSA1X1900501"
+  },
+  {
+    "title": "Skandal",
+    "artist": "Toni Zen",
+    "isrc": "USE831585301"
+  },
+  {
+    "title": "Keva Brat",
+    "artist": "Bon Praskiza",
+    "isrc": "UST8K1808384"
+  },
+  {
+    "title": "PEESE",
+    "artist": "Donplaya",
+    "isrc": "QZK6G2152409"
+  },
+  {
+    "title": "Yustalgija",
+    "artist": "Priki",
+    "isrc": "HRAA41200194"
+  },
+  {
+    "title": "Takvi Kao Mi",
+    "artist": "Brka, Kandžija",
+    "isrc": "HRA101103775"
+  },
+  {
+    "title": "Luda Noć (Vino Noći) - Remix - Video Version",
+    "artist": "Ludin, Neno Belan",
+    "isrc": "HRA101003711"
+  },
+  {
+    "title": "Kad Nas Vide",
+    "artist": "Fullers",
+    "isrc": "RSA221600418"
+  },
+  {
+    "title": "Ne Me Boli",
+    "artist": "Traker, Tasko",
+    "isrc": "uscgj1972493"
+  },
+  {
+    "title": "1000 Lica",
+    "artist": "SemKoo",
+    "isrc": "DELJ81971039"
+  },
+  {
+    "title": "Tata Kupi Mi Auto",
+    "artist": "Sett, Kandžija",
+    "isrc": "HRA100601672"
+  },
+  {
+    "title": "Grad na strav",
+    "artist": "Toksikolozi, DJ Chvare",
+    "isrc": "USE831578129"
+  },
+  {
+    "title": "Ruke U Zrak",
+    "artist": "Ugly Leaders",
+    "isrc": "HRA110003303"
+  },
+  {
+    "title": "Neonlight",
+    "artist": "Connect, MotB, BHZ, RAPK, Zeki Aram",
+    "isrc": "DEXK52100207"
+  },
+  {
+    "title": "Svježa Krv",
+    "artist": "MC Rima, Smoke Mardeljano",
+    "isrc": "NOAPI1590775"
+  },
+  {
+    "title": "Reci Rijeci Rijeci",
+    "artist": "Gane Rimatore",
+    "isrc": "NOAPI1495644"
+  },
+  {
+    "title": "Rap himna 2 (feat. Edinstvena Opcija)",
+    "artist": "Urbana Dimenzija, Spirt, Nio, Žile, Edinstvena opcija",
+    "isrc": "USE831585321"
+  },
+  {
+    "title": "Chikita",
+    "artist": "RHS Coolektiv, Fil Tilen, Pseto",
+    "isrc": "HRA101003710"
+  },
+  {
+    "title": "Keš pičke",
+    "artist": "Klemen Klemen",
+    "isrc": "SIC030002002"
+  },
+  {
+    "title": "Ispod Maske",
+    "artist": "BG Kult, Dzambas, Jovana Djordjevic",
+    "isrc": "NOAPI1498411"
+  },
+  {
+    "title": "Brat zna feat Struka",
+    "artist": "Cjofo MC",
+    "isrc": "RSA131605210"
+  },
+  {
+    "title": "Zakon Traži",
+    "artist": "Gipsy Mafia",
+    "isrc": "TCAIA2418494"
+  },
+  {
+    "title": "Connected - Radio Edit",
+    "artist": "Kendi",
+    "isrc": "FISGC0800004"
+  },
+  {
+    "title": "Ladna",
+    "artist": "Kiko",
+    "isrc": "QZGWX2182497"
+  },
+  {
+    "title": "Boss",
+    "artist": "Lordi",
+    "isrc": "GB-SMU-35-93545"
+  },
+  {
+    "title": "Mighty Mouse",
+    "artist": "Lucano H8r",
+    "isrc": "RSA0G1701602"
+  },
+  {
+    "title": "1 Qëllim",
+    "artist": "SPRINGI",
+    "isrc": "TCAHN2351160"
+  },
+  {
+    "title": "Mike Lowery",
+    "artist": "Shorty",
+    "isrc": "GBXFY0800475"
+  },
+  {
+    "title": "Saucy Gang",
+    "artist": "Toomuchsauce",
+    "isrc": "QZB4J1806993"
+  },
+  {
+    "title": "All This Drama",
+    "artist": "Viko, Andre The Ruler",
+    "isrc": "CH6541642376"
+  },
+  {
+    "title": "Za Osobne Potrebe",
+    "artist": "General Woo",
+    "isrc": "HRA101406409"
+  },
+  {
+    "title": "Sranje u cevovod",
+    "artist": "Bad Copy",
+    "isrc": "CSAO21242908"
+  },
+  {
+    "title": "Na adi",
+    "artist": "Bvana iz Lagune, Mikri",
+    "isrc": "RSA0G1701390"
+  },
+  {
+    "title": "Patriša",
+    "artist": "Bolesna Braca",
+    "isrc": "HRAA40300059"
+  },
+  {
+    "title": "Bar - Bari",
+    "artist": "Who See, Marija Božović",
+    "isrc": "RSZ141400004"
+  },
+  {
+    "title": "Vrućina gradskog asfalta",
+    "artist": "Tram 11",
+    "isrc": "HRAA40000169"
+  },
+  {
+    "title": "The Best Of Pičketine",
+    "artist": "Mikri Maus",
+    "isrc": "NOAPI1596061"
+  },
+  {
+    "title": "Spejs Nigrutin",
+    "artist": "Ajs Nigrutin",
+    "isrc": "NOAPI1499258"
+  },
+  {
+    "title": "Gandzu Pusi",
+    "artist": "Prti Bee Gee, Ajs Nigrutin",
+    "isrc": "BAA051905601"
+  },
+  {
+    "title": "Oči u oči",
+    "artist": "Struka, Reksona",
+    "isrc": "RSA221991486"
+  },
+  {
+    "title": "Prikaze - Remastered",
+    "artist": "Edo Maajka",
+    "isrc": "HRAA41900586"
+  },
+  {
+    "title": "Znam ja ko si ti",
+    "artist": "Sky Wikluh",
+    "isrc": "RSA131604017"
+  },
+  {
+    "title": "Identitet",
+    "artist": "Frenkie",
+    "isrc": "DEZC62413625"
+  },
+  {
+    "title": "Al' je 'ladno",
+    "artist": "Psihoaktiv Trip",
+    "isrc": "BAA052230957"
+  },
+  {
+    "title": "40 Lajni",
+    "artist": "Smoke Mardeljano",
+    "isrc": "DEKB71629246"
+  },
+  {
+    "title": "Ako riba drolja postane",
+    "artist": "V.I.P.",
+    "isrc": "RSA221601702"
+  },
+  {
+    "title": "Narodna",
+    "artist": "Djecaci",
+    "isrc": "HRAA40800451"
+  },
+  {
+    "title": "981",
+    "artist": "El Bahattee, Tram 11",
+    "isrc": "HRA371002509"
+  },
+  {
+    "title": "Nokturno",
+    "artist": "Krešo Bengalka, Stipe Srdela",
+    "isrc": "HRA041888326"
+  },
+  {
+    "title": "Debela",
+    "artist": "Fil Tilen",
+    "isrc": "HRA041167674"
+  },
+  {
+    "title": "Septička Jama, Smrdljive Sise I Muve",
+    "artist": "43zla",
+    "isrc": "NOAPI1499191"
+  },
+  {
+    "title": "Krem de la krem",
+    "artist": "Marčelo, Disciplinska Komisija, Edo Maajka, Frenkie",
+    "isrc": "RSA221991416"
+  },
+  {
+    "title": "Laske De Marco",
+    "artist": "Nered, Dashbeatz",
+    "isrc": "HRAA40100003"
+  },
+  {
+    "title": "Moja Croatia",
+    "artist": "Marin Ivanović-Stoka, LayZ - Matija Lazarevic",
+    "isrc": "SEYOK1828724"
+  },
+  {
+    "title": "Gataj Mi Gataj",
+    "artist": "Juice, DJ Faca",
+    "isrc": "TCAHY2474309"
+  },
+  {
+    "title": "Na minut do mora",
+    "artist": "Surreal",
+    "isrc": "RSA221601672"
+  },
+  {
+    "title": "33 Stil",
+    "artist": "Mlata",
+    "isrc": "RSA222091115"
+  },
+  {
+    "title": "Krvavi Balkan",
+    "artist": "THCF, Coby",
+    "isrc": "RSA221600921"
+  },
+  {
+    "title": "Terijerska KRV",
+    "artist": "Marlon Brutal",
+    "isrc": "RSA221600971"
+  },
+  {
+    "title": "Ljubav",
+    "artist": "Sale Tru",
+    "isrc": "RSA221600385"
+  },
+  {
+    "title": "Alles Gut",
+    "artist": "TBF",
+    "isrc": "HRAA40400086"
+  },
+  {
+    "title": "Male stvari",
+    "artist": "Elemental",
+    "isrc": "HRAA40500236"
+  },
+  {
+    "title": "Svedok Saradnik",
+    "artist": "Beogradski Sindikat",
+    "isrc": "RSA3F2200043"
+  },
+  {
+    "title": "Ne Može",
+    "artist": "Vojko V",
+    "isrc": "HRA041888536"
+  },
+  {
+    "title": "Učiteljica Ljubavi",
+    "artist": "Mimi Mercedez",
+    "isrc": "RSA221600397"
+  },
+  {
+    "title": "Letnje Ludilo",
+    "artist": "BIGru i Paja Kratak",
+    "isrc": "BAA052122100"
+  },
+  {
+    "title": "Magična butra",
+    "artist": "Kandžija",
+    "isrc": "QZHNC1938937"
+  },
+  {
+    "title": "Katrin",
+    "artist": "Voodoo Popeye",
+    "isrc": "RSA141304243"
+  },
+  {
+    "title": "Tako Ti Je Kako Ti Je",
+    "artist": "Monteniggers",
+    "isrc": "RSA141304154"
+  },
+  {
+    "title": "4 Strane Sveta",
+    "artist": "Coby, Senidah",
+    "isrc": "RSA221820208"
+  },
+  {
+    "title": "Clash",
+    "artist": "Sassja",
+    "isrc": "HRAA41400505"
+  },
+  {
+    "title": "Žene Gazele",
+    "artist": "High 5, Hilj$on Mandela",
+    "isrc": "QZ5AB1605844"
+  },
+  {
+    "title": "Dešperado",
+    "artist": "Alejuandro Buendija",
+    "isrc": "HRA372000158"
+  },
+  {
+    "title": "Ruža",
+    "artist": "Helem Nejse, Amira Medunjanin",
+    "isrc": "ATAJ12300037"
+  },
+  {
+    "title": "Ante",
+    "artist": "Ante Cash",
+    "isrc": "HRA041787788"
+  },
+  {
+    "title": "Đuro",
+    "artist": "Kandžija i Gole žene",
+    "isrc": "ATUM71500363"
+  },
+  {
+    "title": "Vatra Je Đava Ili Legenda O Trubadurima",
+    "artist": "ST!llness",
+    "isrc": "HRAA40700158"
+  },
+  {
+    "title": "Malu Na Molly",
+    "artist": "triestri",
+    "isrc": "US7VG1730289"
+  },
+  {
+    "title": "Pleši",
+    "artist": "Jala, Buba Corelli",
+    "isrc": "SE5DA1600308"
+  },
+  {
+    "title": "Delija",
+    "artist": "Senidah",
+    "isrc": "RSA3U2400150"
+  },
+  {
+    "title": "Kapci",
+    "artist": "Furio djunta, Corona",
+    "isrc": "RSA221600675"
+  },
+  {
+    "title": "Nocima Ga Davao (feat. Maja Majami & Jala Brat)",
+    "artist": "Loš Sin, Maja Majami, Jala Brat",
+    "isrc": "TCACJ1505292"
+  },
+  {
+    "title": "Monster",
+    "artist": "Jala Brat, Buba Corelli",
+    "isrc": "ATAJ12400136"
+  },
+  {
+    "title": "Joker",
+    "artist": "2bona",
+    "isrc": "RSA222010239"
+  },
+  {
+    "title": "Za Djevojke",
+    "artist": "Sinestet",
+    "isrc": "HRAA40800322"
+  },
+  {
+    "title": "Nevaljala",
+    "artist": "Tasko, Lina",
+    "isrc": "RSA222010498"
+  },
+  {
+    "title": "Ringe jaja",
+    "artist": "Sajsi MC",
+    "isrc": "RSZ142200019"
+  },
+  {
+    "title": "Varljivo Leto",
+    "artist": "Gudroslav, Polo Čare, Mimi Mercedez, Daki BD, Žakila, Bombe Devedesetih",
+    "isrc": "RSA222191000"
+  },
+  {
+    "title": "#Imamoproblem2",
+    "artist": "King Mire, Provincija, Sasja, Sterma, Kontra, Hza, Shtuka",
+    "isrc": "QM2PV1748569"
+  },
+  {
+    "title": "Dijamanti",
+    "artist": "Slatkaristika, 2bona",
+    "isrc": "TCAEC1987082"
+  },
+  {
+    "title": "Kad me fazon uhvati",
+    "artist": "Žakila",
+    "isrc": "RSA131701602"
+  },
+  {
+    "title": "Mi casa es su casa",
+    "artist": "Toni Zen, Slatkaristika",
+    "isrc": "USE831582310"
+  },
+  {
+    "title": "Bito Da Go Kupam",
+    "artist": "Bon Praskiza",
+    "isrc": "QZHN91964804"
+  },
+  {
+    "title": "Bonboni",
+    "artist": "Donplaya",
+    "isrc": "QZB4J1858991"
+  },
+  {
+    "title": "Gore visoko",
+    "artist": "Priki",
+    "isrc": "RSA221601933"
+  },
+  {
+    "title": "Nemoj Stat",
+    "artist": "Brka",
+    "isrc": "HRA101103780"
+  },
+  {
+    "title": "Tako Blizu A Tako Daleko",
+    "artist": "Ludin",
+    "isrc": "HRA371400521"
+  },
+  {
+    "title": "Repchuga",
+    "artist": "General Woo",
+    "isrc": "HRA101104516"
+  },
+  {
+    "title": "Džastin Biberi",
+    "artist": "Bad Copy",
+    "isrc": "CSAO21242902"
+  },
+  {
+    "title": "Afterparti",
+    "artist": "Bvana iz Lagune, Mikri Maus",
+    "isrc": "RSA312200022"
+  },
+  {
+    "title": "Oprosti Mi Brate",
+    "artist": "Bolesna Braca",
+    "isrc": "HRAA40300071"
+  },
+  {
+    "title": "Dje Se Kupaš",
+    "artist": "Who See",
+    "isrc": "RSZ141400079"
+  },
+  {
+    "title": "'981",
+    "artist": "Tram 11, El Bahattee, Koolade",
+    "isrc": "HRAA41600309"
+  },
+  {
+    "title": "Ganferska Sapunica",
+    "artist": "Mikri Maus",
+    "isrc": "NOAPI1596071"
+  },
+  {
+    "title": "Ndzamena",
+    "artist": "Ajs Nigrutin, Smoke Mardeljano",
+    "isrc": "DEKB72077745"
+  },
+  {
+    "title": "Cigging (feat. Ajs Nigrutin & DJ Mrki)",
+    "artist": "Prti Bee Gee, Ajs Nigrutin, DJ Mrki",
+    "isrc": "RSA132102901"
+  },
+  {
+    "title": "Pimpovanje (feat. Mikri Maus)",
+    "artist": "Struka, Mikri Maus",
+    "isrc": "RSA132200601"
+  },
+  {
+    "title": "Mater Vam Jebem",
+    "artist": "Edo Maajka",
+    "isrc": "HRAA40400044"
+  },
+  {
+    "title": "Nedeljno jutro",
+    "artist": "Sky Wikluh",
+    "isrc": "RSA131604011"
+  },
+  {
+    "title": "Hajmo Ih Rusit",
+    "artist": "Frenkie",
+    "isrc": "HRAA40500050"
+  },
+  {
+    "title": "Puna Stotka",
+    "artist": "Psihoaktiv Trip",
+    "isrc": "BAA052230962"
+  },
+  {
+    "title": "Beton",
+    "artist": "Smoke Mardeljano, Haze",
+    "isrc": "DEKB72082289"
+  },
+  {
+    "title": "Nešto se dešava",
+    "artist": "V.I.P.",
+    "isrc": "RSA221601706"
+  },
+  {
+    "title": "Bile Starke",
+    "artist": "Djecaci",
+    "isrc": "HRA041479822"
+  },
+  {
+    "title": "Brutalna braća",
+    "artist": "El Bahattee, Nered",
+    "isrc": "HRA371002512"
+  },
+  {
+    "title": "Supersport",
+    "artist": "Krešo Bengalka, Žuvi",
+    "isrc": "HRA041888405"
+  },
+  {
+    "title": "Outsider",
+    "artist": "Fil Tilen",
+    "isrc": "HRA041371661"
+  },
+  {
+    "title": "Rokaj Snimaj",
+    "artist": "43zla",
+    "isrc": "NOAPI1499203"
+  },
+  {
+    "title": "Suze",
+    "artist": "Marčelo, Edo Maajka, Nevena Glibetić Nensi",
+    "isrc": "RSA221991423"
+  },
+  {
+    "title": "Bolero",
+    "artist": "Nered, Dashbeatz, Marin Ivanović, Marija Husar",
+    "isrc": "HRAA40100001"
+  },
+  {
+    "title": "Čuvari Grada",
+    "artist": "Marin Ivanović-Stoka",
+    "isrc": "HRA042198884"
+  },
+  {
+    "title": "Prošlo Me Je Sve",
+    "artist": "Juice, Tamara Filipovic",
+    "isrc": "TCAGU2371540"
+  },
+  {
+    "title": "Kurvanje",
+    "artist": "Surreal, ELLA",
+    "isrc": "RSA222091807"
+  },
+  {
+    "title": "Ovo je BG",
+    "artist": "Mlata, Bege Fank, DJ Mrki, Smoke Mardeljano",
+    "isrc": "RSA221900947"
+  },
+  {
+    "title": "Panda",
+    "artist": "THCF",
+    "isrc": "RSA222010875"
+  },
+  {
+    "title": "Balkanski san",
+    "artist": "Marlon Brutal, THCF",
+    "isrc": "RSA222010252"
+  },
+  {
+    "title": "Da Li Znas",
+    "artist": "Sale Tru",
+    "isrc": "RSA221600380"
+  },
+  {
+    "title": "Fantastična",
+    "artist": "TBF",
+    "isrc": "HRAA40700216"
+  },
+  {
+    "title": "Hej, sanjalice",
+    "artist": "Elemental",
+    "isrc": "HRA1F2000001"
+  },
+  {
+    "title": "Anđeli žive doveka",
+    "artist": "Beogradski Sindikat",
+    "isrc": "RSA3F2200318"
+  },
+  {
+    "title": "Pasta Italiana",
+    "artist": "Vojko V, Krešo Bengalka, Tonci Huljic",
+    "isrc": "HRA041888445"
+  }
+]

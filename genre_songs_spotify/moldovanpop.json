@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Să Ridicăm Paharul",
+    "artist": "Ian Raiburg",
+    "isrc": "FR96X1816669"
+  },
+  {
+    "title": "Sirba Lui Valiuku",
+    "artist": "Valentin Uzun, Tharmis",
+    "isrc": "QM4TX2082705"
+  },
+  {
+    "title": "Asta Seara",
+    "artist": "Valentin Nica",
+    "isrc": "QZARB1866027"
+  },
+  {
+    "title": "Da' trenu' tuc-tuc-tuc",
+    "artist": "Nelu Stratan",
+    "isrc": "ROCMA0801200"
+  },
+  {
+    "title": "Jumatate eu, jumatate tu",
+    "artist": "Adrian Ursu",
+    "isrc": "QZHZ41926160"
+  },
+  {
+    "title": "Totu-i trecator",
+    "artist": "ANATOL MIRZENCO",
+    "isrc": "QZFZ42241594"
+  },
+  {
+    "title": "La Nunta Asta",
+    "artist": "Lia Taburcean",
+    "isrc": "QZ9Y21737145"
+  },
+  {
+    "title": "Mama Coace Paine",
+    "artist": "Alexandru Pelin",
+    "isrc": "FR59R1883739"
+  },
+  {
+    "title": "Ce Seara Minunata",
+    "artist": "Ion Suruceanu",
+    "isrc": "FR96X1824342"
+  },
+  {
+    "title": "A doua tinerețe a nceput",
+    "artist": "Anișoara Puică",
+    "isrc": "FR59R2419090"
+  },
+  {
+    "title": "S-o insurat inca un bro",
+    "artist": "Kapushon, Magnat",
+    "isrc": "QZNWW2304116"
+  },
+  {
+    "title": "Cine-i Soarele Tau",
+    "artist": "AKORD",
+    "isrc": "QMDA62250852"
+  },
+  {
+    "title": "Doamne, mult i-mi place viata",
+    "artist": "Formatia Prut",
+    "isrc": "QM7282335780"
+  },
+  {
+    "title": "Te-aștept să vii",
+    "artist": "Anastasia Lazariuc",
+    "isrc": "ROB010803971"
+  },
+  {
+    "title": "As fi vrut",
+    "artist": "Nadia Bologan, Kapushon",
+    "isrc": "QZDA41950213"
+  },
+  {
+    "title": "Eu Beu",
+    "artist": "Pavel Stratan",
+    "isrc": "ROCMA0600001"
+  },
+  {
+    "title": "Tinerețe Floare",
+    "artist": "Victoria Lungu",
+    "isrc": "ushm21845662"
+  },
+  {
+    "title": "Dragă Otee",
+    "artist": "Iurie Sadovnic",
+    "isrc": "ushm21845639"
+  },
+  {
+    "title": "Frumoase S Nunțile N Colhoz",
+    "artist": "Nicolae Sulac",
+    "isrc": "FR59R1890781"
+  },
+  {
+    "title": "Durdom Pa Pa",
+    "artist": "Dora Show",
+    "isrc": "QZMEN2074511"
+  },
+  {
+    "title": "Soarta Moldovanului",
+    "artist": "Valera Leovskii",
+    "isrc": "QZES91837761"
+  },
+  {
+    "title": "Cel putin o veșnicie",
+    "artist": "Cleopatra Stratan, Edward Sanda",
+    "isrc": "QZK6H2169890"
+  },
+  {
+    "title": "Trenulețul (cu Frații Advahov)",
+    "artist": "Zdob si Zdub, Fratii Advahov",
+    "isrc": "ROCRP2105661"
+  },
+  {
+    "title": "Mai Calin",
+    "artist": "Adryana Unciuc",
+    "isrc": "QZES81809036"
+  },
+  {
+    "title": "Ultima",
+    "artist": "Irina Rimes",
+    "isrc": "ROGRA2400013"
+  },
+  {
+    "title": "Plec din Chisinau",
+    "artist": "7 Klase",
+    "isrc": "ROHPA1900431"
+  },
+  {
+    "title": "ae",
+    "artist": "Carla's Dreams",
+    "isrc": "ROGRA2300207"
+  },
+  {
+    "title": "Cântecul Vieții Mele",
+    "artist": "Nelly Ciobanu",
+    "isrc": "ushm21845643"
+  },
+  {
+    "title": "Copacul",
+    "artist": "Brio Sonores",
+    "isrc": "FRX201802105"
+  },
+  {
+    "title": "Anicyka Maya",
+    "artist": "Anna Lesko",
+    "isrc": "RONMA2100290"
+  },
+  {
+    "title": "Soarele si Luna",
+    "artist": "Pasha Parfeni",
+    "isrc": "QZFZ32371578"
+  },
+  {
+    "title": "Лепестками слёз",
+    "artist": "Dan Balan, Vera Brezhneva",
+    "isrc": "RUA591200218"
+  },
+  {
+    "title": "Кто я есть",
+    "artist": "Ionel Istrati",
+    "isrc": "TCACY1720864"
+  },
+  {
+    "title": "Ploile Nu Vin",
+    "artist": "Alternosfera",
+    "isrc": "QZES71868450"
+  },
+  {
+    "title": "Sugar",
+    "artist": "Natalia Gordienko",
+    "isrc": "GRUM72100346"
+  },
+  {
+    "title": "My lucky day",
+    "artist": "DoReDoS",
+    "isrc": "QZFZ22434305"
+  },
+  {
+    "title": "O Mie",
+    "artist": "Aliona Moon",
+    "isrc": "QZARB1870133"
+  },
+  {
+    "title": "Stay",
+    "artist": "Anna Odobescu",
+    "isrc": "DKEL21900101"
+  },
+  {
+    "title": "In the Middle",
+    "artist": "Natalia Barbu",
+    "isrc": "QM4TW2434688"
+  },
+  {
+    "title": "Paparuda",
+    "artist": "Via Dacă",
+    "isrc": "TCADJ1708057"
+  },
+  {
+    "title": "Dragostea Din Tei - Original Romanian Version",
+    "artist": "O-Zone",
+    "isrc": "ITL010400054"
+  },
+  {
+    "title": "Boschetar",
+    "artist": "Vali Boghean",
+    "isrc": "USL4Q2326616"
+  },
+  {
+    "title": "Falling Stars - Radio Edit",
+    "artist": "Lidia Isac",
+    "isrc": "USLZJ1628452"
+  },
+  {
+    "title": "De-as Avea",
+    "artist": "Alex Calancea Band, Catalin Josan",
+    "isrc": "TCAFK2184198"
+  },
+  {
+    "title": "Run Away",
+    "artist": "Sunstroke Project, Olia Tira",
+    "isrc": "QZS1Z1612756"
+  },
+  {
+    "title": "Белый танец - Remix",
+    "artist": "Sofia Rotaru",
+    "isrc": "FR10S1618848"
+  },
+  {
+    "title": "Daydream",
+    "artist": "Valeria Stoica",
+    "isrc": "GX8LE2423114"
+  },
+  {
+    "title": "I want your love",
+    "artist": "Eduard Romanyuta",
+    "isrc": "UAR011400015"
+  },
+  {
+    "title": "Paparuda",
+    "artist": "Amelia Uzun, Tharmis",
+    "isrc": "QM6MZ2014272"
+  },
+  {
+    "title": "In Moldova",
+    "artist": "Cristyz, Pavel Stratan",
+    "isrc": "ROCMA1410175"
+  },
+  {
+    "title": "Pentru Ea",
+    "artist": "Mevv",
+    "isrc": "QZFYZ2257209"
+  },
+  {
+    "title": "Rumadai - Reedit 2016",
+    "artist": "Arsenium",
+    "isrc": "FR10S1670803"
+  },
+  {
+    "title": "Неоднозначные",
+    "artist": "Olia Tira",
+    "isrc": "QZ5FN2247846"
+  },
+  {
+    "title": "Linu-Lin",
+    "artist": "Aliona Triboi",
+    "isrc": "ushm21845653"
+  },
+  {
+    "title": "Nu Mă Chema",
+    "artist": "Cristina Scarlat",
+    "isrc": "ushm21845659"
+  },
+  {
+    "title": "Bucurați-Vă",
+    "artist": "Cristofor Teodorovici",
+    "isrc": "ushm21845656"
+  },
+  {
+    "title": "Din Nou",
+    "artist": "Formația Catharsis",
+    "isrc": "ushm21845661"
+  },
+  {
+    "title": "Primăvara",
+    "artist": "Formația Noroc",
+    "isrc": "ushm21845649"
+  },
+  {
+    "title": "Focul Din Vatră",
+    "artist": "Gicu Cimbir",
+    "isrc": "ushm21845660"
+  },
+  {
+    "title": "Toamnele",
+    "artist": "Irina Bivol, Anatol Bivol",
+    "isrc": "ushm21845650"
+  },
+  {
+    "title": "Seara Albastră",
+    "artist": "Nadia Trohin",
+    "isrc": "ushm21845658"
+  },
+  {
+    "title": "Marita-M-As Marita",
+    "artist": "Natalia Proca, Fratii Advahov",
+    "isrc": "FR96X1861583"
+  },
+  {
+    "title": "Inima Mamei",
+    "artist": "Olga Tira",
+    "isrc": "ushm21845642"
+  },
+  {
+    "title": "Melancolie",
+    "artist": "Vitalie Dani",
+    "isrc": "ushm21845641"
+  },
+  {
+    "title": "Sen Gelmez Oldun",
+    "artist": "Constantin Moscovici",
+    "isrc": "ITD541702573"
+  },
+  {
+    "title": "Memories",
+    "artist": "Vika Jigulina",
+    "isrc": "uscgj1306797"
+  },
+  {
+    "title": "Asa-i omul ca si iarba",
+    "artist": "Mihai Ciobanu",
+    "isrc": "QM6P41563594"
+  },
+  {
+    "title": "Hora Martisorului",
+    "artist": "Nicolae Botgros, Lautarii din Chisinau",
+    "isrc": "FR59R1905123"
+  },
+  {
+    "title": "Wild Feelings",
+    "artist": "Andrew Rayel, Sam Gray",
+    "isrc": "NLF712203186"
+  },
+  {
+    "title": "Ciresul Iubirii",
+    "artist": "Alexandru Lozanciuc, Various Artists",
+    "isrc": "TCAFE2018197"
+  },
+  {
+    "title": "I Would Like",
+    "artist": "Broono",
+    "isrc": "QZDA82404982"
+  },
+  {
+    "title": "Every Breath You Take - The Distance & Igi Remix",
+    "artist": "Cami, Max Oazo, The Distance & Igi",
+    "isrc": "QZFYX1989129"
+  },
+  {
+    "title": "Imagine",
+    "artist": "Dina Gabri, Naguale, Sukhbir",
+    "isrc": "FR6V82395035"
+  },
+  {
+    "title": "Colind pentru parinti",
+    "artist": "Geta Burlacu, Aurel Chirtoaca",
+    "isrc": "QM6P41562850"
+  },
+  {
+    "title": "Batuta si Ruseasca ca la Chisinau",
+    "artist": "Marcel Stefanet, Edgar Stefanet",
+    "isrc": "QM6P41562599"
+  },
+  {
+    "title": "Trandafir de la Moldova",
+    "artist": "Nelu Huțu",
+    "isrc": "ROB011672017"
+  },
+  {
+    "title": "Astazi E Ziua Ta",
+    "artist": "Noroc",
+    "isrc": "GX38U2434028"
+  },
+  {
+    "title": "Still - I Got Summer On My Mind",
+    "artist": "StereoMadness, Bia Charbon",
+    "isrc": "GB8KE2326939"
+  },
+  {
+    "title": "Beciul",
+    "artist": "Valeriu Cordineanu",
+    "isrc": "INS7A2137026"
+  },
+  {
+    "title": "Ce seară minunată",
+    "artist": "Ian Raiburg",
+    "isrc": "DGA0M2316300"
+  },
+  {
+    "title": "Draga Domnisoara",
+    "artist": "Valentin Uzun, Tharmis",
+    "isrc": "QM4TX2082700"
+  },
+  {
+    "title": "Bucluc",
+    "artist": "Valentin Nica",
+    "isrc": "QZANL1726485"
+  },
+  {
+    "title": "Zai-Zai",
+    "artist": "Nelu Stratan",
+    "isrc": "ROCMA0700990"
+  },
+  {
+    "title": "Tu esti tot ce mi-am dorit",
+    "artist": "Adrian Ursu",
+    "isrc": "QZHZ41926157"
+  },
+  {
+    "title": "Lacrimi de barbat",
+    "artist": "ANATOL MIRZENCO",
+    "isrc": "QZFZ42253061"
+  },
+  {
+    "title": "Ca-n Filme Indiene",
+    "artist": "Lia Taburcean",
+    "isrc": "USHM81696451"
+  },
+  {
+    "title": "Tata",
+    "artist": "Alexandru Pelin",
+    "isrc": "FR59R1883743"
+  },
+  {
+    "title": "Numai Tu",
+    "artist": "Ion Suruceanu",
+    "isrc": "FR96X1824341"
+  },
+  {
+    "title": "Ce e viața pe pământ",
+    "artist": "Anișoara Puică",
+    "isrc": "DGA0M2330220"
+  },
+  {
+    "title": "Rap Ca Pe Manele",
+    "artist": "Kapushon, Victoria Beregoi",
+    "isrc": "QZ9Y21726303"
+  },
+  {
+    "title": "Unde, Unde",
+    "artist": "AKORD",
+    "isrc": "QM4TX2058641"
+  },
+  {
+    "title": "Domnisoara Domnisoara",
+    "artist": "Formatia Prut",
+    "isrc": "QM7282335783"
+  },
+  {
+    "title": "Ca prima oară",
+    "artist": "Anastasia Lazariuc",
+    "isrc": "ROB010803976"
+  },
+  {
+    "title": "Eu vreau maritata",
+    "artist": "Nadia Bologan",
+    "isrc": "QZNWW2004696"
+  },
+  {
+    "title": "M-Am Nascut De Ziua Mea",
+    "artist": "Pavel Stratan",
+    "isrc": "ROCMA0600021"
+  },
+  {
+    "title": "Viață,Viață",
+    "artist": "Victoria Lungu",
+    "isrc": "QZTB32361091"
+  },
+  {
+    "title": "Cât Trăim Pe Acest Pământ",
+    "artist": "Iurie Sadovnic",
+    "isrc": "ushm21845648"
+  },
+  {
+    "title": "Am O Mândră Floare Dulce",
+    "artist": "Nicolae Sulac",
+    "isrc": "FR96X2132900"
+  },
+  {
+    "title": "Coroana Ma-Tii",
+    "artist": "Dora Show",
+    "isrc": "QZHN42035338"
+  },
+  {
+    "title": "Veniti Frati",
+    "artist": "Valera Leovskii, ANATOL MIRZENCO",
+    "isrc": "QZES91963974"
+  },
+  {
+    "title": "Închide ușa",
+    "artist": "Cleopatra Stratan, Cristian Porcari",
+    "isrc": "ROCMA2413305"
+  },
+  {
+    "title": "Sânziene",
+    "artist": "Zdob si Zdub, Irina Rimes",
+    "isrc": "ROCRP1905319"
+  },
+  {
+    "title": "Visele",
+    "artist": "Irina Rimes",
+    "isrc": "FRX201733242"
+  },
+  {
+    "title": "Fata urbana",
+    "artist": "7 Klase",
+    "isrc": "ROHPA1800363"
+  },
+  {
+    "title": "Te Rog",
+    "artist": "Carla's Dreams",
+    "isrc": "TCACJ1537172"
+  },
+  {
+    "title": "Primăvara Va Veni",
+    "artist": "Nelly Ciobanu",
+    "isrc": "ushm21845646"
+  },
+  {
+    "title": "În August",
+    "artist": "Brio Sonores",
+    "isrc": "ushm21845654"
+  },
+  {
+    "title": "24",
+    "artist": "Anna Lesko",
+    "isrc": "RONMA2100301"
+  },
+  {
+    "title": "Wake Me Up",
+    "artist": "Ionel Istrati",
+    "isrc": "GBNR51400022"
+  },
+  {
+    "title": "Chica Bomb",
+    "artist": "Dan Balan",
+    "isrc": "ROX030900025"
+  },
+  {
+    "title": "Orele",
+    "artist": "Pasha Parfeni, Cleopatra Stratan",
+    "isrc": "ROCMA2112624"
+  },
+  {
+    "title": "Flori de Mai",
+    "artist": "Alternosfera",
+    "isrc": "QZES71868441"
+  },
+  {
+    "title": "Prison",
+    "artist": "Natalia Gordienko",
+    "isrc": "SEYOK2004455"
+  },
+  {
+    "title": "Constantine",
+    "artist": "DoReDoS",
+    "isrc": "QZDA52476081"
+  },
+  {
+    "title": "Planeta Ta",
+    "artist": "Aliona Moon",
+    "isrc": "QZHNC2382883"
+  },
+  {
+    "title": "Stay - Esc Mix",
+    "artist": "Anna Odobescu",
+    "isrc": "DKEL21900201"
+  },
+  {
+    "title": "Dincolo De Zori",
+    "artist": "Via Dacă",
+    "isrc": "TCAEE1953310"
+  },
+  {
+    "title": "M-am îndrăgostit",
+    "artist": "Vali Boghean",
+    "isrc": "USL4Q2326618"
+  },
+  {
+    "title": "Fight",
+    "artist": "Natalia Barbu",
+    "isrc": "DGA052343555"
+  },
+  {
+    "title": "Dragostea Din Tei - W&W Remix",
+    "artist": "O-Zone, W&W",
+    "isrc": "NL4VT2100001"
+  },
+  {
+    "title": "Rendez-Vous",
+    "artist": "Lidia Isac",
+    "isrc": "TCAHY2413327"
+  },
+  {
+    "title": "Луна Луна",
+    "artist": "Sofia Rotaru",
+    "isrc": "GBLFP1605831"
+  },
+  {
+    "title": "Hey Mamma - Radio Edit",
+    "artist": "Sunstroke Project",
+    "isrc": "USLZJ1707380"
+  },
+  {
+    "title": "Poate",
+    "artist": "Valeria Stoica",
+    "isrc": "ROROT2025801"
+  },
+  {
+    "title": "Ð'ÐµÑ€ÐµÐ³Ð°",
+    "artist": "Eduard Romanyuta",
+    "isrc": "UAR011400004"
+  },
+  {
+    "title": "Vreau",
+    "artist": "Cristyz, Eli, Angeles",
+    "isrc": "FRX872324326"
+  },
+  {
+    "title": "În Urma Lor",
+    "artist": "Mevv",
+    "isrc": "QZFYZ2257213"
+  },
+  {
+    "title": "Love Me...Love Me - Radio Edit",
+    "artist": "Arsenium",
+    "isrc": "ROCMA1002387"
+  },
+  {
+    "title": "Ultramarin",
+    "artist": "Olia Tira",
+    "isrc": "TCADT1855901"
+  },
+  {
+    "title": "Împreună",
+    "artist": "Aliona Triboi",
+    "isrc": "TCAHK2374857"
+  },
+  {
+    "title": "Sarut Femeie Mana Ta",
+    "artist": "Ian Raiburg",
+    "isrc": "FR96X1816679"
+  },
+  {
+    "title": "Un Trandafir Creaste La Firida Mea",
+    "artist": "Valentin Uzun",
+    "isrc": "QMFME2090189"
+  },
+  {
+    "title": "Iubește-mă",
+    "artist": "Valentin Nica, Emilian Crețu",
+    "isrc": "RUAGT2304145"
+  },
+  {
+    "title": "Pentru tine",
+    "artist": "Nelu Stratan",
+    "isrc": "ROCMA0801209"
+  },
+  {
+    "title": "Asta seara",
+    "artist": "Adrian Ursu",
+    "isrc": "FR96X2215402"
+  },
+  {
+    "title": "Casa parinteasca",
+    "artist": "ANATOL MIRZENCO",
+    "isrc": "QZFZ72312599"
+  },
+  {
+    "title": "Manza",
+    "artist": "Lia Taburcean",
+    "isrc": "QZANL1734498"
+  },
+  {
+    "title": "Am O Nepotica",
+    "artist": "Alexandru Pelin",
+    "isrc": "FR96X1805825"
+  },
+  {
+    "title": "Anii Tineretii",
+    "artist": "Ion Suruceanu",
+    "isrc": "FR96X1839630"
+  },
+  {
+    "title": "Ultima Oră",
+    "artist": "Anișoara Puică",
+    "isrc": "ushm21845651"
+  },
+  {
+    "title": "Scart Scart",
+    "artist": "Kapushon, Lia Taburcean",
+    "isrc": "QZANL1734458"
+  },
+  {
+    "title": "Maria",
+    "artist": "AKORD",
+    "isrc": "QM4TW2093169"
+  },
+  {
+    "title": "Daca mor tu cui ramii",
+    "artist": "Formatia Prut",
+    "isrc": "QM7282335774"
+  },
+  {
+    "title": "Mama",
+    "artist": "Anastasia Lazariuc",
+    "isrc": "ROB010803975"
+  },
+  {
+    "title": "Tu Ma Suni",
+    "artist": "Nadia Bologan",
+    "isrc": "QZHN91978027"
+  },
+  {
+    "title": "Pentru Sanatate",
+    "artist": "Pavel Stratan",
+    "isrc": "ROCMA1711241"
+  },
+  {
+    "title": "Anii mei frumoși de școală",
+    "artist": "Victoria Lungu",
+    "isrc": "QZTB32361026"
+  },
+  {
+    "title": "Borogani De La Comrat",
+    "artist": "Nicolae Sulac",
+    "isrc": "FRX201825392"
+  },
+  {
+    "title": "Iar e ziua mea",
+    "artist": "Dora Show",
+    "isrc": "QZES72193574"
+  },
+  {
+    "title": "De Vihodnoi",
+    "artist": "Valera Leovskii",
+    "isrc": "QZES91837712"
+  },
+  {
+    "title": "Zunea-zunea",
+    "artist": "Cleopatra Stratan",
+    "isrc": "ROCMA0801229"
+  },
+  {
+    "title": "Trenulețul (cu Frații Advahov) - Eurovision 2022",
+    "artist": "Zdob si Zdub, Fratii Advahov",
+    "isrc": "ROCRP2205723"
+  },
+  {
+    "title": "Ce S-A Intamplat Cu Noi",
+    "artist": "Irina Rimes",
+    "isrc": "FRX201733246"
+  },
+  {
+    "title": "Fata care nu ma lasa",
+    "artist": "7 Klase",
+    "isrc": "ROHPA1900401"
+  },
+  {
+    "title": "Scara 2, Etajul 7",
+    "artist": "Carla's Dreams",
+    "isrc": "ROGRA2001226"
+  },
+  {
+    "title": "Du-Mă În Moldova Mea",
+    "artist": "Nelly Ciobanu",
+    "isrc": "TCAHK2374661"
+  }
+]

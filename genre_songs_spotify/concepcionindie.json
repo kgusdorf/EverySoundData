@@ -1,0 +1,662 @@
+[
+  {
+    "title": "La Innombrable",
+    "artist": "Julius Popper",
+    "isrc": "ES71G1511299"
+  },
+  {
+    "title": "El Bosque",
+    "artist": "Niño Cohete",
+    "isrc": "CLEA21300135"
+  },
+  {
+    "title": "Ciencia Natural",
+    "artist": "Mantarraya",
+    "isrc": "FR6V82253037"
+  },
+  {
+    "title": "Me Reparto en Ti",
+    "artist": "Dulce y Agraz",
+    "isrc": "CLEA21500394"
+  },
+  {
+    "title": "Ayer",
+    "artist": "Los Santos Dumont",
+    "isrc": "CLEA21500505"
+  },
+  {
+    "title": "Un Amor Violento",
+    "artist": "Los Tres",
+    "isrc": "CLA220400127"
+  },
+  {
+    "title": "Fiebre (Ella No Se Controla)",
+    "artist": "Los Insolentes",
+    "isrc": "CLJG21600309"
+  },
+  {
+    "title": "Arauco",
+    "artist": "Charly Benavente",
+    "isrc": "QM6N21721274"
+  },
+  {
+    "title": "Un Hombre Muerto En El Ring",
+    "artist": "Pettinellis",
+    "isrc": "QZ22B3000491"
+  },
+  {
+    "title": "Un Día Más - En Vivo",
+    "artist": "Cantáreman",
+    "isrc": "ESA011628391"
+  },
+  {
+    "title": "Nuestra señal",
+    "artist": "De Saloon",
+    "isrc": "CLCZ21400938"
+  },
+  {
+    "title": "Éramos Mejores Amigos",
+    "artist": "El Árbol Que Contiene Todos Los Tiempos",
+    "isrc": "USHM81870484"
+  },
+  {
+    "title": "Tú en las Montañas y Yo en el Mar",
+    "artist": "Arranquemos del Invierno",
+    "isrc": "CLEA21400137"
+  },
+  {
+    "title": "Señorita",
+    "artist": "Planeta No",
+    "isrc": "FR6V82524834"
+  },
+  {
+    "title": "No Vuelvo Más",
+    "artist": "Elegía al Atardecer, We Are The Grand",
+    "isrc": "CLEA22201334"
+  },
+  {
+    "title": "Horizonte de Sucesos",
+    "artist": "Prenauta",
+    "isrc": "ushm22255475"
+  },
+  {
+    "title": "Tan Solo Nada",
+    "artist": "Pegotes",
+    "isrc": "CLJG21600281"
+  },
+  {
+    "title": "Llueve Sobre La Ciudad",
+    "artist": "Los Bunkers",
+    "isrc": "CLAB20800910"
+  },
+  {
+    "title": "Corazón Desilucionado",
+    "artist": "Machuca",
+    "isrc": "CLBB29500077"
+  },
+  {
+    "title": "Jugar al Fútbol",
+    "artist": "Club de Carta Inglesa",
+    "isrc": "PEBQ91812227"
+  },
+  {
+    "title": "Nuestro Lugar",
+    "artist": "Flora",
+    "isrc": "CLEA21800778"
+  },
+  {
+    "title": "Oye Me Gustai",
+    "artist": "Adolescentes Sin Edad",
+    "isrc": "USHM21978350"
+  },
+  {
+    "title": "Foto Mental",
+    "artist": "despejado",
+    "isrc": "ES71G1862513"
+  },
+  {
+    "title": "Nido",
+    "artist": "Mondomamba, Bronko Yotte",
+    "isrc": "ES71G1830025"
+  },
+  {
+    "title": "Risas Cómplices",
+    "artist": "Giyil",
+    "isrc": "USX9P2379733"
+  },
+  {
+    "title": "Romelí",
+    "artist": "La Romería de Santa Fortuna",
+    "isrc": "QMFMG1440820"
+  },
+  {
+    "title": "Árboles Amoreux",
+    "artist": "Los Temibles Sandovales",
+    "isrc": "QM4TX1617258"
+  },
+  {
+    "title": "Resistencia",
+    "artist": "Cianuro",
+    "isrc": "AEA0Q1852040"
+  },
+  {
+    "title": "Encuéntrame",
+    "artist": "Vibración Eleva",
+    "isrc": "USLF11600203"
+  },
+  {
+    "title": "Algo Nuevo",
+    "artist": "Jorge Raby",
+    "isrc": "uscgh1800714"
+  },
+  {
+    "title": "Coraje",
+    "artist": "Peter Ron",
+    "isrc": "GX3Q92006723"
+  },
+  {
+    "title": "Bichota (Post-Punk)",
+    "artist": "FrioLento",
+    "isrc": "QZGLS2142349"
+  },
+  {
+    "title": "Más Allá",
+    "artist": "Fernanda Leiva, Ariana Riffo",
+    "isrc": "USL4R2043486"
+  },
+  {
+    "title": "A Ritmo De Ska",
+    "artist": "Fieromonos",
+    "isrc": "uscgj1939328"
+  },
+  {
+    "title": "Riddles",
+    "artist": "Los Brando",
+    "isrc": "ARC571900817"
+  },
+  {
+    "title": "Japo",
+    "artist": "Mulier",
+    "isrc": "GBSMU3759361"
+  },
+  {
+    "title": "Pa' olvidar",
+    "artist": "Rocío Peña",
+    "isrc": "ES71G1846486"
+  },
+  {
+    "title": "LSD",
+    "artist": "Kayros",
+    "isrc": "CLJC21600294"
+  },
+  {
+    "title": "Como Tú",
+    "artist": "Jodelase, Pancho Molina",
+    "isrc": "qmucr1800001"
+  },
+  {
+    "title": "Cosas Que Hagan Mal",
+    "artist": "Alerta Misui",
+    "isrc": "usl4q2088151"
+  },
+  {
+    "title": "Nix - 2023 Remastered Version",
+    "artist": "Nimbus Optica",
+    "isrc": "SE62M2346213"
+  },
+  {
+    "title": "Cielos Fríos",
+    "artist": "Buscando Roma, FrioLento",
+    "isrc": "USHM81990520"
+  },
+  {
+    "title": "Princesa Flama",
+    "artist": "Club Calaca",
+    "isrc": "usdy41797885"
+  },
+  {
+    "title": "Cósmica y Mortal",
+    "artist": "La Negra Ácida",
+    "isrc": "ushm21776415"
+  },
+  {
+    "title": "Un Hombre Muerto en el Ring",
+    "artist": "Paolo Murillo",
+    "isrc": "ES71G1626133"
+  },
+  {
+    "title": "Poema",
+    "artist": "Adreade",
+    "isrc": "usl4q2283992"
+  },
+  {
+    "title": "Nunca Hicieron Caso",
+    "artist": "Darío Regen, Yorka",
+    "isrc": "ushm91928895"
+  },
+  {
+    "title": "Hinchada Loca",
+    "artist": "Suspiro Pipeño",
+    "isrc": "ushm21789459"
+  },
+  {
+    "title": "Ventisca",
+    "artist": "Piroclastos",
+    "isrc": "USL4R2383184"
+  },
+  {
+    "title": "Frente en Alto",
+    "artist": "Emperatriz",
+    "isrc": "ushm21607751"
+  },
+  {
+    "title": "Looking for an Illusion",
+    "artist": "Sill of Misery",
+    "isrc": "uscgh1898415"
+  },
+  {
+    "title": "No Named Song",
+    "artist": "Sawken",
+    "isrc": "usl4q1864897"
+  },
+  {
+    "title": "Morena",
+    "artist": "Salón 4'10",
+    "isrc": "QZAPG1731590"
+  },
+  {
+    "title": "No Se Te Puede Olvidar",
+    "artist": "Lopez",
+    "isrc": "USAH91010276"
+  },
+  {
+    "title": "Avenida Pesadilla",
+    "artist": "Bluestones",
+    "isrc": "CLEA21700663"
+  },
+  {
+    "title": "Dictadura Perfecta",
+    "artist": "Animales Exóticos Desamparados",
+    "isrc": "ARC572003864"
+  },
+  {
+    "title": "Loligo",
+    "artist": "Borneo",
+    "isrc": "uscgh1803125"
+  },
+  {
+    "title": "Lunares",
+    "artist": "Cuerpo Líquido",
+    "isrc": "usl4q1804401"
+  },
+  {
+    "title": "Hablamos de Igualdad",
+    "artist": "Fluye Bajo Efecto",
+    "isrc": "ushm81884075"
+  },
+  {
+    "title": "Banzai",
+    "artist": "Hermanos Karateca",
+    "isrc": "USHY31010122"
+  },
+  {
+    "title": "Señorita & voraz (Sesiones Vol. III)",
+    "artist": "Los Templarios",
+    "isrc": "CAHQJ2433098"
+  },
+  {
+    "title": "Ascensores",
+    "artist": "Mr. Pilz",
+    "isrc": "ES71G2328487"
+  },
+  {
+    "title": "La Máscara",
+    "artist": "Osÿan",
+    "isrc": "uscgj1736462"
+  },
+  {
+    "title": "Television - Bonus Track",
+    "artist": "Revolución De Los Cuerpos Celestes, Andrés Otárola",
+    "isrc": "QZNJW2322070"
+  },
+  {
+    "title": "Quizas",
+    "artist": "Samarelli",
+    "isrc": "AEA0D1842125"
+  },
+  {
+    "title": "Huke",
+    "artist": "Julius Popper",
+    "isrc": "ES71G1511300"
+  },
+  {
+    "title": "Pájaros Rojos",
+    "artist": "Niño Cohete",
+    "isrc": "CLEA21500445"
+  },
+  {
+    "title": "Matemáticas",
+    "artist": "Mantarraya",
+    "isrc": "FR6V82253039"
+  },
+  {
+    "title": "Ay, Amor ♥︎",
+    "artist": "Dulce y Agraz",
+    "isrc": "ES71G2014616"
+  },
+  {
+    "title": "Bajo el Volcán",
+    "artist": "Los Santos Dumont",
+    "isrc": "CLEA21500513"
+  },
+  {
+    "title": "No Me Esperes Más",
+    "artist": "Los Insolentes",
+    "isrc": "ushm22116560"
+  },
+  {
+    "title": "He Barrido el Sol",
+    "artist": "Los Tres",
+    "isrc": "CLA220400129"
+  },
+  {
+    "title": "Cómplices",
+    "artist": "Charly Benavente, Yorka",
+    "isrc": "QM6P41766242"
+  },
+  {
+    "title": "Hospital",
+    "artist": "Pettinellis",
+    "isrc": "QZ22B3000489"
+  },
+  {
+    "title": "Se Desata",
+    "artist": "Cantáreman",
+    "isrc": "ESA011707737"
+  },
+  {
+    "title": "Tengo una Herida",
+    "artist": "El Árbol Que Contiene Todos Los Tiempos, Acuario",
+    "isrc": "US7VG2491036"
+  },
+  {
+    "title": "Te Mueres",
+    "artist": "De Saloon",
+    "isrc": "CLCZ21401350"
+  },
+  {
+    "title": "Pangal",
+    "artist": "Arranquemos del Invierno",
+    "isrc": "ES71G2409331"
+  },
+  {
+    "title": "Para No Verte Más",
+    "artist": "Planeta No",
+    "isrc": "ES71G2013143"
+  },
+  {
+    "title": "Ruiseñor",
+    "artist": "Elegía al Atardecer",
+    "isrc": "CLEA22101244"
+  },
+  {
+    "title": "Abrazaré (Bonus Track)",
+    "artist": "Prenauta",
+    "isrc": "ushm81676080"
+  },
+  {
+    "title": "No X Hoy",
+    "artist": "Pegotes",
+    "isrc": "CLJG21600290"
+  },
+  {
+    "title": "Al Patibulo",
+    "artist": "Machuca",
+    "isrc": "CLBB29800060"
+  },
+  {
+    "title": "Bailando Solo",
+    "artist": "Los Bunkers",
+    "isrc": "MX1721300410"
+  },
+  {
+    "title": "Vibraciones",
+    "artist": "Club de Carta Inglesa",
+    "isrc": "CLEA22001079"
+  },
+  {
+    "title": "Destiempo",
+    "artist": "Flora",
+    "isrc": "CLEA21800776"
+  },
+  {
+    "title": "Sunset",
+    "artist": "Adolescentes Sin Edad",
+    "isrc": "USHM21978354"
+  },
+  {
+    "title": "Villa Olímpica",
+    "artist": "despejado, Dulce y Agraz",
+    "isrc": "ES71G1936111"
+  },
+  {
+    "title": "l'animal",
+    "artist": "Mondomamba, Mora Lucay",
+    "isrc": "ES71G2039586"
+  },
+  {
+    "title": "Príncipe Azul",
+    "artist": "Giyil",
+    "isrc": "ushm92113034"
+  },
+  {
+    "title": "No Quiero Ni Pensar",
+    "artist": "La Romería de Santa Fortuna",
+    "isrc": "QMFMG1440815"
+  },
+  {
+    "title": "Canción de Invierno",
+    "artist": "Los Temibles Sandovales",
+    "isrc": "QM4TX1617259"
+  },
+  {
+    "title": "Odio a la Sociedad",
+    "artist": "Cianuro",
+    "isrc": "ushm22202772"
+  },
+  {
+    "title": "Camino Hacia El Sol",
+    "artist": "Vibración Eleva",
+    "isrc": "USLF11600204"
+  },
+  {
+    "title": "Nada Es Casualidad",
+    "artist": "Jorge Raby",
+    "isrc": "uscgh1800720"
+  },
+  {
+    "title": "Sobras en la Oscuridad",
+    "artist": "Peter Ron",
+    "isrc": "GX3Q92006724"
+  },
+  {
+    "title": "La Gata Bajo la Lluvia",
+    "artist": "FrioLento",
+    "isrc": "QZTPX2168693"
+  },
+  {
+    "title": "TAN ADENTRO (feat. Mannaz)",
+    "artist": "Fernanda Leiva, Mannaz",
+    "isrc": "BK4DA2322914"
+  },
+  {
+    "title": "Sin Sentido",
+    "artist": "Fieromonos",
+    "isrc": "uscgj1939329"
+  },
+  {
+    "title": "Easy",
+    "artist": "Los Brando",
+    "isrc": "ES71G1309752"
+  },
+  {
+    "title": "Vibrar y Volver",
+    "artist": "Mulier",
+    "isrc": "GBSMU3759343"
+  },
+  {
+    "title": "La Muerte",
+    "artist": "Rocío Peña",
+    "isrc": "ES71G1921592"
+  },
+  {
+    "title": "Tierras Infértiles",
+    "artist": "Kayros",
+    "isrc": "CLJC21600299"
+  },
+  {
+    "title": "Me Siento Libre",
+    "artist": "Jodelase",
+    "isrc": "uscgj2118330"
+  },
+  {
+    "title": "Fuego",
+    "artist": "Alerta Misui",
+    "isrc": "uscgh2133079"
+  },
+  {
+    "title": "Alguien Bueno",
+    "artist": "Nimbus Optica",
+    "isrc": "GX8LD2456432"
+  },
+  {
+    "title": "Perritos",
+    "artist": "Buscando Roma",
+    "isrc": "usl4q1822417"
+  },
+  {
+    "title": "Canción de Sangre",
+    "artist": "Club Calaca",
+    "isrc": "usdy41797886"
+  },
+  {
+    "title": "Hombre Lobo",
+    "artist": "La Negra Ácida",
+    "isrc": "ushm21776411"
+  },
+  {
+    "title": "Cazando Lagartijas",
+    "artist": "Niño Cohete",
+    "isrc": "CLEA21300136"
+  },
+  {
+    "title": "José José",
+    "artist": "Julius Popper",
+    "isrc": "ES71G1513398"
+  },
+  {
+    "title": "Atlántida",
+    "artist": "Mantarraya",
+    "isrc": "FR6V82247524"
+  },
+  {
+    "title": "Súbitamente",
+    "artist": "Dulce y Agraz",
+    "isrc": "ES71G1856453"
+  },
+  {
+    "title": "Una Mujer Dentro de un Pez",
+    "artist": "Los Santos Dumont",
+    "isrc": "CLEA21500510"
+  },
+  {
+    "title": "Viejos Tiempos",
+    "artist": "Los Insolentes",
+    "isrc": "CLJG21600304"
+  },
+  {
+    "title": "La Torre de Babel",
+    "artist": "Los Tres",
+    "isrc": "CLPP20700197"
+  },
+  {
+    "title": "Juventud y Porvenir",
+    "artist": "Charly Benavente",
+    "isrc": "CLOB20700741"
+  },
+  {
+    "title": "No Hables Tanto",
+    "artist": "Pettinellis",
+    "isrc": "QZ22B3000499"
+  },
+  {
+    "title": "Mañanita Verde",
+    "artist": "Cantáreman",
+    "isrc": "ESA011636701"
+  },
+  {
+    "title": "Agosto",
+    "artist": "El Árbol Que Contiene Todos Los Tiempos",
+    "isrc": "QZNJZ2170750"
+  },
+  {
+    "title": "Déjalo",
+    "artist": "De Saloon",
+    "isrc": "CLCZ21401352"
+  },
+  {
+    "title": "Corazón",
+    "artist": "Arranquemos del Invierno",
+    "isrc": "ES71G2409332"
+  },
+  {
+    "title": "Sol a Sol",
+    "artist": "Planeta No",
+    "isrc": "CLEA21500306"
+  },
+  {
+    "title": "Plegarias",
+    "artist": "Elegía al Atardecer",
+    "isrc": "CLEA22301423"
+  },
+  {
+    "title": "Muro",
+    "artist": "Prenauta",
+    "isrc": "ushm82288990"
+  },
+  {
+    "title": "Tienes Punk Rock",
+    "artist": "Pegotes",
+    "isrc": "CLJG21600294"
+  },
+  {
+    "title": "Olvidando",
+    "artist": "Machuca",
+    "isrc": "CLBB20000291"
+  },
+  {
+    "title": "Ven Aquí",
+    "artist": "Los Bunkers",
+    "isrc": "CLAB20800908"
+  },
+  {
+    "title": "Frágil",
+    "artist": "Club de Carta Inglesa, Martina Montaldo",
+    "isrc": "CLEA22001038"
+  },
+  {
+    "title": "Cahueros",
+    "artist": "Flora",
+    "isrc": "CLEA22101108"
+  },
+  {
+    "title": "El Bosque",
+    "artist": "Adolescentes Sin Edad",
+    "isrc": "RUA1H1769913"
+  },
+  {
+    "title": "En el Andén",
+    "artist": "despejado",
+    "isrc": "ES71G2006842"
+  }
+]

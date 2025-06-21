@@ -1,0 +1,962 @@
+[
+  {
+    "title": "Blood and Thunder",
+    "artist": "Mastodon",
+    "isrc": "US2640462201"
+  },
+  {
+    "title": "The Wreck of S.S. Needle",
+    "artist": "Cult Of Luna, Julie Christmas",
+    "isrc": "NOCVC1668030"
+  },
+  {
+    "title": "Summa Blasphemia",
+    "artist": "Dvne",
+    "isrc": "USMBR2416154"
+  },
+  {
+    "title": "Jurassic | Cretaceous",
+    "artist": "The Ocean, Katatonia",
+    "isrc": "USMBR2014269"
+  },
+  {
+    "title": "March to the Sea",
+    "artist": "Baroness",
+    "isrc": "US2641219003"
+  },
+  {
+    "title": "Scapegoat - 2022 Remaster",
+    "artist": "Kylesa",
+    "isrc": "QZK6G2292931"
+  },
+  {
+    "title": "Stones From the Sky",
+    "artist": "Neurosis",
+    "isrc": "US2640149610"
+  },
+  {
+    "title": "Extinction Event",
+    "artist": "Forming the Void",
+    "isrc": "QZ5FN1886824"
+  },
+  {
+    "title": "The Universe Is Weeping",
+    "artist": "Lord Dying",
+    "isrc": "US5ED2202463"
+  },
+  {
+    "title": "Turbo Lover",
+    "artist": "The Lion's Daughter",
+    "isrc": "FR33T2190001"
+  },
+  {
+    "title": "Niveus Hills",
+    "artist": "Ocoai",
+    "isrc": "uscgj1195418"
+  },
+  {
+    "title": "Mizar",
+    "artist": "Tomydeepestego",
+    "isrc": "itm460700024"
+  },
+  {
+    "title": "Another Week In The Theme Park of Death (Echoes of the Roman Empire) - Part 1 Murder - Part 2 Is Equal To... - Part 3 Profit",
+    "artist": "Humanfly",
+    "isrc": "USJE70810014"
+  },
+  {
+    "title": "Coffin Wisdom",
+    "artist": "Generation Of Vipers",
+    "isrc": "USCHW1408402"
+  },
+  {
+    "title": "OLD SUN RISE",
+    "artist": "KOLOSS",
+    "isrc": "GB-SMU-09-67758"
+  },
+  {
+    "title": "My New Playground Became",
+    "artist": "Blindead",
+    "isrc": "PLI361009900"
+  },
+  {
+    "title": "Finite Horizon",
+    "artist": "Izah",
+    "isrc": "SEVVF1402603"
+  },
+  {
+    "title": "Demotivator",
+    "artist": "zhOra",
+    "isrc": "QM7282047091"
+  },
+  {
+    "title": "Arruda",
+    "artist": "Catacombe",
+    "isrc": "CH6541989489"
+  },
+  {
+    "title": "Steadfast Leviathan",
+    "artist": "Grey Stag",
+    "isrc": "QZFZ72332667"
+  },
+  {
+    "title": "Jerusalem",
+    "artist": "Partholón",
+    "isrc": "IEFRN1600002"
+  },
+  {
+    "title": "Suffer Under God",
+    "artist": "Radiant Knife",
+    "isrc": "ushm81829075"
+  },
+  {
+    "title": "Slumlord",
+    "artist": "Iona Death Cult",
+    "isrc": "QM4DW1829736"
+  },
+  {
+    "title": "Coracle",
+    "artist": "Astrohenge",
+    "isrc": "GBMMV1010032"
+  },
+  {
+    "title": "Practicing",
+    "artist": "KeelHaul",
+    "isrc": "USALX0500596"
+  },
+  {
+    "title": "The Silent Circle",
+    "artist": "Barishi",
+    "isrc": "FR33T2055101"
+  },
+  {
+    "title": "Through the Veins",
+    "artist": "Fading Waves",
+    "isrc": "CH6541847861"
+  },
+  {
+    "title": "Shatter",
+    "artist": "Krokodil",
+    "isrc": "GBUM71401062"
+  },
+  {
+    "title": "Blinded by the Diamond Planet",
+    "artist": "Astrakhan",
+    "isrc": "QZ4JJ1762649"
+  },
+  {
+    "title": "Sandness",
+    "artist": "Last Minute To Jaffna",
+    "isrc": "uscgj1804413"
+  },
+  {
+    "title": "Shoulder of Orion",
+    "artist": "Nebra",
+    "isrc": "DEZ651607221"
+  },
+  {
+    "title": "Argument With the Disease",
+    "artist": "VAK",
+    "isrc": "SE2JA1500301"
+  },
+  {
+    "title": "Limina",
+    "artist": "Juggernaut",
+    "isrc": "ITM461900176"
+  },
+  {
+    "title": "Blood That Binds the Iliad",
+    "artist": "Everest Queen",
+    "isrc": "GBMJG1907881"
+  },
+  {
+    "title": "The Left Path",
+    "artist": "Mose Giganticus",
+    "isrc": "US2641008502"
+  },
+  {
+    "title": "Mercenary Territory",
+    "artist": "Path of Might",
+    "isrc": "QMLQ32200272"
+  },
+  {
+    "title": "You're Gonna Die (Unsatisfied)",
+    "artist": "The Great Sabatini",
+    "isrc": "UST8K1854754"
+  },
+  {
+    "title": "The Form",
+    "artist": "Dead Empires",
+    "isrc": "QZARB1839366"
+  },
+  {
+    "title": "Ледяной Шторм, Несущийся Над Землей",
+    "artist": "Стены Льда",
+    "isrc": "CH6541811491"
+  },
+  {
+    "title": "Fives",
+    "artist": "The Grasshopper Lies Heavy",
+    "isrc": "QZES91989395"
+  },
+  {
+    "title": "Collapse",
+    "artist": "A Cold Dead Body",
+    "isrc": "CH6541847801"
+  },
+  {
+    "title": "Letting Dust Fall Gracefully",
+    "artist": "Alkymist",
+    "isrc": "QZDA41932259"
+  },
+  {
+    "title": "Une Chûte Sans Fin",
+    "artist": "Another Moon",
+    "isrc": "FR6V81231677"
+  },
+  {
+    "title": "Descending",
+    "artist": "Archelon",
+    "isrc": "QZGWW2094530"
+  },
+  {
+    "title": "Levity",
+    "artist": "Atala",
+    "isrc": "usdy41632642"
+  },
+  {
+    "title": "Into Empty Seas",
+    "artist": "Auric",
+    "isrc": "GB-SMU-38-20913"
+  },
+  {
+    "title": "Arbitrary Abjection",
+    "artist": "Blizzard at Sea",
+    "isrc": "QZ93L2002635"
+  },
+  {
+    "title": "Arrival",
+    "artist": "Blunt Horse",
+    "isrc": "usdy41929096"
+  },
+  {
+    "title": "Cold Dead World",
+    "artist": "Bones of the Earth",
+    "isrc": "uscgj1940509"
+  },
+  {
+    "title": "The Hunting",
+    "artist": "Cantharone",
+    "isrc": "TCABJ1212985"
+  },
+  {
+    "title": "Red Moon",
+    "artist": "Cavern",
+    "isrc": "ushm82022277"
+  },
+  {
+    "title": "Stray Dogs",
+    "artist": "Chorosia",
+    "isrc": "QZNWV2364574"
+  },
+  {
+    "title": "Quiet Tyrant",
+    "artist": "Cokegoat",
+    "isrc": "TCACU1605052"
+  },
+  {
+    "title": "Yehi Aour/Wanderers",
+    "artist": "Colossus",
+    "isrc": "SE2JA1500101"
+  },
+  {
+    "title": "XIV",
+    "artist": "Dawn To Come",
+    "isrc": "CZA161440472"
+  },
+  {
+    "title": "Last Night on Earth",
+    "artist": "Die Like Gentlemen",
+    "isrc": "QZTB52266014"
+  },
+  {
+    "title": "White Oil",
+    "artist": "Echo's Answer",
+    "isrc": "uscgj1363859"
+  },
+  {
+    "title": "Nightmare I: Lysergic",
+    "artist": "Exosphere",
+    "isrc": "QZFYW2140530"
+  },
+  {
+    "title": "Specialman",
+    "artist": "Forrest",
+    "isrc": "QZFZ31911238"
+  },
+  {
+    "title": "The Gathering",
+    "artist": "Galvano",
+    "isrc": "GBADD1549701"
+  },
+  {
+    "title": "The Debt of Decision",
+    "artist": "Gigafauna",
+    "isrc": "USHM82385606"
+  },
+  {
+    "title": "When We Give In",
+    "artist": "Granted Earth",
+    "isrc": "uscgj1037163"
+  },
+  {
+    "title": "Vimana",
+    "artist": "Guns of Barisal",
+    "isrc": "uscgj1664639"
+  },
+  {
+    "title": "I'm Not Here",
+    "artist": "Hammerhands",
+    "isrc": "ushm21919223"
+  },
+  {
+    "title": "You're Boring",
+    "artist": "Horned Wolf",
+    "isrc": "QZHN92250245"
+  },
+  {
+    "title": "Mirzam",
+    "artist": "Incoming Cerebral Overdrive",
+    "isrc": "ITCL41202001"
+  },
+  {
+    "title": "Baikonur",
+    "artist": "Komarov",
+    "isrc": "QZ8LD1722901"
+  },
+  {
+    "title": "Stay Awake",
+    "artist": "Kurouma",
+    "isrc": "SEYOK1313216"
+  },
+  {
+    "title": "Across the Styx",
+    "artist": "Left Eye Perspective",
+    "isrc": "USA2P2349496"
+  },
+  {
+    "title": "D'la viande cé murs",
+    "artist": "Les Ékorchés",
+    "isrc": "CAI250607605"
+  },
+  {
+    "title": "Sinking Ships",
+    "artist": "Lvngs",
+    "isrc": "USP6H0900001"
+  },
+  {
+    "title": "The Swarm",
+    "artist": "Mankillsman",
+    "isrc": "TCADU1889279"
+  },
+  {
+    "title": "Ave Chuva",
+    "artist": "Marte",
+    "isrc": "US7VG1708200"
+  },
+  {
+    "title": "Kurinātājs",
+    "artist": "OGHRE",
+    "isrc": "LVL151703383"
+  },
+  {
+    "title": "Terrestrial Grief",
+    "artist": "Omotai",
+    "isrc": "TCABD1280128"
+  },
+  {
+    "title": "Jacobi Wan Kenobi",
+    "artist": "Orcanaut",
+    "isrc": "TCACL1631316"
+  },
+  {
+    "title": "Time",
+    "artist": "Owler",
+    "isrc": "FIOWR2300002"
+  },
+  {
+    "title": "Year of Sleep",
+    "artist": "Pyres",
+    "isrc": "CAD0C1300003"
+  },
+  {
+    "title": "Corpulent Warlord",
+    "artist": "Roundtable",
+    "isrc": "QM2PV1579307"
+  },
+  {
+    "title": "Catalogue of Failings",
+    "artist": "Sealclubber",
+    "isrc": "TCACL1694558"
+  },
+  {
+    "title": "3Dxh",
+    "artist": "Senegal Grindcore Mafia",
+    "isrc": "ARF8D1700001"
+  },
+  {
+    "title": "In Wait",
+    "artist": "Shifting Tides",
+    "isrc": "usl4q1765709"
+  },
+  {
+    "title": "Kingdoms",
+    "artist": "Siberian",
+    "isrc": "SE3D71700307"
+  },
+  {
+    "title": "Children of Decay",
+    "artist": "Slaghead",
+    "isrc": "QZ9Y21759557"
+  },
+  {
+    "title": "Камък",
+    "artist": "Smallman",
+    "isrc": "usl4q1958753"
+  },
+  {
+    "title": "Diamond Dust",
+    "artist": "Stomatopoda",
+    "isrc": "QMDA61515895"
+  },
+  {
+    "title": "Burning Sky",
+    "artist": "Strauss",
+    "isrc": "QZANL1745793"
+  },
+  {
+    "title": "Ganzer",
+    "artist": "SunStare",
+    "isrc": "FRPZ92209240"
+  },
+  {
+    "title": "The Coldest of Seasons",
+    "artist": "Tellusian",
+    "isrc": "GBKPL1522669"
+  },
+  {
+    "title": "Oasis Beyond the Dune",
+    "artist": "Test-Site",
+    "isrc": "ushm20490158"
+  },
+  {
+    "title": "Misery Swallowed Whole",
+    "artist": "The Day of Locusts",
+    "isrc": "SEYOK1530733"
+  },
+  {
+    "title": "I Am The Mountain",
+    "artist": "Thunderlung",
+    "isrc": "SE6A91808481"
+  },
+  {
+    "title": "Time Won't Tell",
+    "artist": "Unhold",
+    "isrc": "CH6540834658"
+  },
+  {
+    "title": "Beneath the Root",
+    "artist": "Via Vengeance",
+    "isrc": "usl4q1907891"
+  },
+  {
+    "title": "Saguaro",
+    "artist": "Vivid Illusion",
+    "isrc": "QZNWS2105307"
+  },
+  {
+    "title": "Prolegomena",
+    "artist": "Zirakzigil",
+    "isrc": "USERN1009329"
+  },
+  {
+    "title": "The Motherload",
+    "artist": "Mastodon",
+    "isrc": "USRE11400112"
+  },
+  {
+    "title": "Cold Burn",
+    "artist": "Cult Of Luna",
+    "isrc": "USMBR2215131"
+  },
+  {
+    "title": "Eleonora",
+    "artist": "Dvne",
+    "isrc": "USMBR2416155"
+  },
+  {
+    "title": "Boreal",
+    "artist": "The Ocean",
+    "isrc": "QMFME2256023"
+  },
+  {
+    "title": "Unspoken",
+    "artist": "Kylesa",
+    "isrc": "FR33T1227502"
+  },
+  {
+    "title": "Last Word",
+    "artist": "Baroness",
+    "isrc": "QM3T42300002"
+  },
+  {
+    "title": "A Sun That Never Sets",
+    "artist": "Neurosis",
+    "isrc": "US2640149604"
+  },
+  {
+    "title": "Arcane Mystic",
+    "artist": "Forming the Void",
+    "isrc": "QZ5FN1886826"
+  },
+  {
+    "title": "The Endless Road Home",
+    "artist": "Lord Dying",
+    "isrc": "US5ED2202476"
+  },
+  {
+    "title": "Bath House",
+    "artist": "The Lion's Daughter",
+    "isrc": "QZNWR2360865"
+  },
+  {
+    "title": "Grimpeur",
+    "artist": "Ocoai",
+    "isrc": "uscgj1195419"
+  },
+  {
+    "title": "Empress",
+    "artist": "Tomydeepestego",
+    "isrc": "ushm91960902"
+  },
+  {
+    "title": "Golden Arrows",
+    "artist": "Humanfly",
+    "isrc": "ushm81551916"
+  },
+  {
+    "title": "Dark Matter",
+    "artist": "Generation Of Vipers",
+    "isrc": "USCHW1408403"
+  },
+  {
+    "title": "From the Sea (The Birth of a Monster)",
+    "artist": "KOLOSS",
+    "isrc": "GB-SMU-14-53927"
+  },
+  {
+    "title": "Niepowodzenie",
+    "artist": "Blindead",
+    "isrc": "QZES71966629"
+  },
+  {
+    "title": "Indefinite Instinct",
+    "artist": "Izah",
+    "isrc": "SEVVF1402601"
+  },
+  {
+    "title": "Coke Vulture",
+    "artist": "zhOra",
+    "isrc": "QM7282047093"
+  },
+  {
+    "title": "Reverie",
+    "artist": "Catacombe",
+    "isrc": "CH6541989486"
+  },
+  {
+    "title": "These Seas Are Deep",
+    "artist": "Grey Stag",
+    "isrc": "QZFZ72362674"
+  },
+  {
+    "title": "To the Stars",
+    "artist": "Partholón",
+    "isrc": "IEFRN1600001"
+  },
+  {
+    "title": "Slumber",
+    "artist": "Radiant Knife",
+    "isrc": "USHM82324267"
+  },
+  {
+    "title": "The Apathy of Ghosts",
+    "artist": "Iona Death Cult",
+    "isrc": "QM4DW1829735"
+  },
+  {
+    "title": "Hello",
+    "artist": "Astrohenge",
+    "isrc": "GBMMV1100026"
+  },
+  {
+    "title": "The Longhunter",
+    "artist": "Barishi",
+    "isrc": "FR33T2055103"
+  },
+  {
+    "title": "Flashes",
+    "artist": "Fading Waves",
+    "isrc": "CH6541847858"
+  },
+  {
+    "title": "Sun Riders",
+    "artist": "Krokodil, Simon Neil",
+    "isrc": "GBUM71403935"
+  },
+  {
+    "title": "The Traveler",
+    "artist": "Astrakhan",
+    "isrc": "QZ4JJ1762642"
+  },
+  {
+    "title": "Cold Ground of Changing",
+    "artist": "Last Minute To Jaffna",
+    "isrc": "uscgj1804414"
+  },
+  {
+    "title": "Andromeda Crash Course",
+    "artist": "Nebra",
+    "isrc": "DEZ651607223"
+  },
+  {
+    "title": "Melting Eyes",
+    "artist": "VAK",
+    "isrc": "NOCVC1954020"
+  },
+  {
+    "title": "Ballo Excelsior",
+    "artist": "Juggernaut",
+    "isrc": "usdy41518630"
+  },
+  {
+    "title": "Vessel of the Flesh",
+    "artist": "Everest Queen",
+    "isrc": "GBMJG1907884"
+  },
+  {
+    "title": "Last Resort",
+    "artist": "Mose Giganticus",
+    "isrc": "US2641008501"
+  },
+  {
+    "title": "Viper Matrix",
+    "artist": "Path of Might",
+    "isrc": "QMLQ32200270"
+  },
+  {
+    "title": "Strip Mall",
+    "artist": "The Great Sabatini",
+    "isrc": "UST8K1854753"
+  },
+  {
+    "title": "Carl Weathered",
+    "artist": "Dead Empires",
+    "isrc": "QMMRV1200001"
+  },
+  {
+    "title": "Фордевинд",
+    "artist": "Стены Льда",
+    "isrc": "CH6541811490"
+  },
+  {
+    "title": "Charging Bull",
+    "artist": "The Grasshopper Lies Heavy",
+    "isrc": "QZK6Q2115940"
+  },
+  {
+    "title": "The Womb",
+    "artist": "A Cold Dead Body",
+    "isrc": "CH6541847796"
+  },
+  {
+    "title": "There'll Be No Resting",
+    "artist": "Alkymist",
+    "isrc": "QZDA41932261"
+  },
+  {
+    "title": "Un Message Du Futur",
+    "artist": "Another Moon",
+    "isrc": "FR6V81231678"
+  },
+  {
+    "title": "Into the Void",
+    "artist": "Archelon",
+    "isrc": "QZGWW2094531"
+  },
+  {
+    "title": "Broken Glass",
+    "artist": "Atala",
+    "isrc": "ushm21513142"
+  },
+  {
+    "title": "Black Rivers",
+    "artist": "Auric",
+    "isrc": "GB-SMU-38-20852"
+  },
+  {
+    "title": "Manufactured Obsolescence",
+    "artist": "Blizzard at Sea",
+    "isrc": "QZ93L2002633"
+  },
+  {
+    "title": "Nuke the Blow",
+    "artist": "Blunt Horse",
+    "isrc": "ushm82125511"
+  },
+  {
+    "title": "Peaceseeker",
+    "artist": "Bones of the Earth",
+    "isrc": "usx9p2007872"
+  },
+  {
+    "title": "Sons of the Crow",
+    "artist": "Cantharone",
+    "isrc": "TCADM1805391"
+  },
+  {
+    "title": "Fade Before the Flood",
+    "artist": "Cavern",
+    "isrc": "ushm82022279"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Chorosia",
+    "isrc": "QZNWV2364577"
+  },
+  {
+    "title": "The Burner",
+    "artist": "Cokegoat",
+    "isrc": "TCACU1605053"
+  },
+  {
+    "title": "Darkling Root",
+    "artist": "Colossus",
+    "isrc": "SE2JA1500102"
+  },
+  {
+    "title": "IV",
+    "artist": "Dawn To Come",
+    "isrc": "CZA161440471"
+  },
+  {
+    "title": "Guts of a Beggar",
+    "artist": "Die Like Gentlemen",
+    "isrc": "QZTB52268219"
+  },
+  {
+    "title": "Inamoratas",
+    "artist": "Echo's Answer",
+    "isrc": "uscgj1363860"
+  },
+  {
+    "title": "Beg Towards The Sky",
+    "artist": "Exosphere",
+    "isrc": "QZHN52261185"
+  },
+  {
+    "title": "Bubba",
+    "artist": "Forrest",
+    "isrc": "QZFYX1913216"
+  },
+  {
+    "title": "Abysmal",
+    "artist": "Galvano",
+    "isrc": "GBNEY1200008"
+  },
+  {
+    "title": "Kaiju",
+    "artist": "Gigafauna",
+    "isrc": "uscgh2096601"
+  },
+  {
+    "title": "Release",
+    "artist": "Granted Earth",
+    "isrc": "uscgj1037168"
+  },
+  {
+    "title": "Carnivorous",
+    "artist": "Guns of Barisal",
+    "isrc": "uscgj1664636"
+  },
+  {
+    "title": "Dad Sludge",
+    "artist": "Hammerhands",
+    "isrc": "ushm21919225"
+  },
+  {
+    "title": "Bloodlines",
+    "artist": "Horned Wolf",
+    "isrc": "QZHNB2262660"
+  },
+  {
+    "title": "A Greater Call",
+    "artist": "Cult Of Luna, Julie Christmas",
+    "isrc": "NOCVC1668010"
+  },
+  {
+    "title": "Abode of the Perfect Soul",
+    "artist": "Dvne",
+    "isrc": "USMBR2416161"
+  },
+  {
+    "title": "Oblivion",
+    "artist": "Mastodon",
+    "isrc": "USRE10900052"
+  },
+  {
+    "title": "Triassic",
+    "artist": "The Ocean",
+    "isrc": "USMBR2014268"
+  },
+  {
+    "title": "Come as You Are",
+    "artist": "Kylesa",
+    "isrc": "US4R71510012"
+  },
+  {
+    "title": "Take My Bones Away",
+    "artist": "Baroness",
+    "isrc": "US2641219002"
+  },
+  {
+    "title": "The Doorway",
+    "artist": "Neurosis",
+    "isrc": "US2649941902"
+  },
+  {
+    "title": "On We Sail",
+    "artist": "Forming the Void",
+    "isrc": "QZ5FN1886825"
+  },
+  {
+    "title": "I AM NOTHING I AM EVERYTHING",
+    "artist": "Lord Dying",
+    "isrc": "US5ED2202464"
+  },
+  {
+    "title": "Neon Teeth",
+    "artist": "The Lion's Daughter",
+    "isrc": "FR33T2157803"
+  },
+  {
+    "title": "Breatherman",
+    "artist": "Ocoai",
+    "isrc": "uscgh0873969"
+  },
+  {
+    "title": "Tora",
+    "artist": "Tomydeepestego",
+    "isrc": "itm460700028"
+  },
+  {
+    "title": "Marakech",
+    "artist": "Humanfly",
+    "isrc": "USJE70810018"
+  },
+  {
+    "title": "Damaged Awake",
+    "artist": "Generation Of Vipers",
+    "isrc": "USCHW1408401"
+  },
+  {
+    "title": "KAU BOI",
+    "artist": "KOLOSS",
+    "isrc": "GB-SMU-09-67759"
+  },
+  {
+    "title": "Affliction XXVII II MMIX",
+    "artist": "Blindead",
+    "isrc": "PLI361009940"
+  },
+  {
+    "title": "Duality",
+    "artist": "Izah",
+    "isrc": "SEVVF1402602"
+  },
+  {
+    "title": "The Hollow",
+    "artist": "zhOra",
+    "isrc": "QM7282047089"
+  },
+  {
+    "title": "Ninho de Vespas",
+    "artist": "Catacombe",
+    "isrc": "CH6540868228"
+  },
+  {
+    "title": "The Guide",
+    "artist": "Grey Stag",
+    "isrc": "QM2PV1870512"
+  },
+  {
+    "title": "Light",
+    "artist": "Partholón",
+    "isrc": "IEFRN1600003"
+  },
+  {
+    "title": "Phil Collins Was Right",
+    "artist": "Radiant Knife",
+    "isrc": "USHM82324269"
+  },
+  {
+    "title": "Whores and Thieves",
+    "artist": "Iona Death Cult",
+    "isrc": "QM4DW1829737"
+  },
+  {
+    "title": "Tomb of the Mummy",
+    "artist": "Astrohenge",
+    "isrc": "GBMMV1100018"
+  },
+  {
+    "title": "Blood Aurora",
+    "artist": "Barishi",
+    "isrc": "FR33T2055102"
+  },
+  {
+    "title": "Lights on Water",
+    "artist": "Fading Waves",
+    "isrc": "CH6541847751"
+  },
+  {
+    "title": "A Life Lived In Copper, But Painted In Gold",
+    "artist": "Krokodil",
+    "isrc": "GBUM71403929"
+  },
+  {
+    "title": "Omajod",
+    "artist": "Astrakhan",
+    "isrc": "QZ4JJ1762639"
+  },
+  {
+    "title": "Chapter XV",
+    "artist": "Last Minute To Jaffna",
+    "isrc": "USQY51539566"
+  },
+  {
+    "title": "Magellan Clouds",
+    "artist": "Nebra",
+    "isrc": "DEZ651607224"
+  },
+  {
+    "title": "How Low",
+    "artist": "VAK, Anja Bigrell",
+    "isrc": "NOCVC2011010"
+  },
+  {
+    "title": "Astor",
+    "artist": "Juggernaut",
+    "isrc": "ITM461900177"
+  }
+]

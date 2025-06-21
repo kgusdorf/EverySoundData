@@ -1,0 +1,537 @@
+[
+  {
+    "title": "Vida De Colores",
+    "artist": "La Gran Orquesta Republicana",
+    "isrc": "ES6100552106"
+  },
+  {
+    "title": "Animal Racional",
+    "artist": "Discípulos de Otilia",
+    "isrc": "ES8242181003"
+  },
+  {
+    "title": "Que Todo Arda",
+    "artist": "AlaDeMoska",
+    "isrc": "ES8242026205"
+  },
+  {
+    "title": "Grito de Fe",
+    "artist": "Balkan Bomba",
+    "isrc": "QM4TX1972815"
+  },
+  {
+    "title": "Postureo del Terror",
+    "artist": "La Ska Brass",
+    "isrc": "ES8241862901"
+  },
+  {
+    "title": "Sonido Rebelde",
+    "artist": "La Familia Iskariote",
+    "isrc": "QM6N21834187"
+  },
+  {
+    "title": "Sólo Vivir",
+    "artist": "Skalariak",
+    "isrc": "ES6119956705"
+  },
+  {
+    "title": "V de Vagueza",
+    "artist": "Vagos Permanentes",
+    "isrc": "ES8241347501"
+  },
+  {
+    "title": "Rudo, Duro, Rudo",
+    "artist": "Komando Moriles",
+    "isrc": "ES6101085509"
+  },
+  {
+    "title": "Cantarranas",
+    "artist": "SeisKafes, Celtas Cortos",
+    "isrc": "USA371120269"
+  },
+  {
+    "title": "Plan 10: The Return...",
+    "artist": "Dr. Calypso",
+    "isrc": "USA560523475"
+  },
+  {
+    "title": "Ritmo Hostil",
+    "artist": "Funkiwis, La Raíz",
+    "isrc": "ES8241454205"
+  },
+  {
+    "title": "De Jamaica a Roma",
+    "artist": "Skatalà",
+    "isrc": "ESA031500201"
+  },
+  {
+    "title": "Ahí Van los Locos",
+    "artist": "Limando",
+    "isrc": "ES7731832001"
+  },
+  {
+    "title": "A Tu Lado",
+    "artist": "Agua Bendita",
+    "isrc": "GBSMU3605238"
+  },
+  {
+    "title": "El Cafetal",
+    "artist": "Malarians",
+    "isrc": "es14a0800092"
+  },
+  {
+    "title": "Mi Inmadurez",
+    "artist": "La Regadera",
+    "isrc": "ES71G1703804"
+  },
+  {
+    "title": "Lucifer",
+    "artist": "Termofrigidus",
+    "isrc": "ESA011100871"
+  },
+  {
+    "title": "Amor y Explosiones",
+    "artist": "Combo Calada",
+    "isrc": "ES71G1901530"
+  },
+  {
+    "title": "Hablando de Coronas",
+    "artist": "Dskarrila, Ska-P, Laura Dsk",
+    "isrc": "QMDA71847356"
+  },
+  {
+    "title": "Quan caminàvem",
+    "artist": "Aspencat",
+    "isrc": "GB5EA1300577"
+  },
+  {
+    "title": "Danza dell'autumno rosa",
+    "artist": "Talco",
+    "isrc": "DES871214404"
+  },
+  {
+    "title": "Bananaman",
+    "artist": "Skarlatines",
+    "isrc": "USHM90855963"
+  },
+  {
+    "title": "Udarako Gau Luzeak",
+    "artist": "Vendetta",
+    "isrc": "ES21A1200128"
+  },
+  {
+    "title": "Qué Pasa",
+    "artist": "Spin Te Kú",
+    "isrc": "QMFMG1472665"
+  },
+  {
+    "title": "Mundu Berri Baten Mapa",
+    "artist": "Skakeitan",
+    "isrc": "GB8HK1302553"
+  },
+  {
+    "title": "El Teu Viatge",
+    "artist": "Atzembla",
+    "isrc": "ES8021210002"
+  },
+  {
+    "title": "La Vida Sigue Igual",
+    "artist": "Tijuana in blue",
+    "isrc": "ES5590602264"
+  },
+  {
+    "title": "Do Revés",
+    "artist": "The Skarnivals",
+    "isrc": "QM4TW2044224"
+  },
+  {
+    "title": "Busco la lógica",
+    "artist": "Skatuttipresto",
+    "isrc": "ESA011505589"
+  },
+  {
+    "title": "A la sombra de la sierra",
+    "artist": "La Raíz",
+    "isrc": "ES8021300103"
+  },
+  {
+    "title": "Paradisu Zinema",
+    "artist": "Joxe Ripiau",
+    "isrc": "ES5591100618"
+  },
+  {
+    "title": "Aidolemed",
+    "artist": "La Trocamba Matanusca",
+    "isrc": "GBSMU2226394"
+  },
+  {
+    "title": "Ouh La La!",
+    "artist": "Chotokoeu",
+    "isrc": "QMBZ91533212"
+  },
+  {
+    "title": "Pirata Capitán",
+    "artist": "La Kinky Beat",
+    "isrc": "ES7310400005"
+  },
+  {
+    "title": "Suburban Rebels",
+    "artist": "The Cabrians",
+    "isrc": "USCGJ0962956"
+  },
+  {
+    "title": "El asesino del tiempo",
+    "artist": "Dinamo",
+    "isrc": "USA2P1176441"
+  },
+  {
+    "title": "Zer Den Bizitza?",
+    "artist": "Itziarren Semeak",
+    "isrc": "ES21A1700017"
+  },
+  {
+    "title": "Gure Unea",
+    "artist": "Skabidean",
+    "isrc": "QMARG2151284"
+  },
+  {
+    "title": "Come Back Tomorrow",
+    "artist": "The Peeping Toms",
+    "isrc": "ES5070100144"
+  },
+  {
+    "title": "Asturies borracha",
+    "artist": "Skama la rede",
+    "isrc": "ES19G0501039"
+  },
+  {
+    "title": "Regreso a la Comarca",
+    "artist": "Los niños de los ojos rojos",
+    "isrc": "QM7281716742"
+  },
+  {
+    "title": "Irmaos/as",
+    "artist": "Skarnio",
+    "isrc": "GBSMU4848505"
+  },
+  {
+    "title": "Zurekin Batera",
+    "artist": "En Tol Sarmiento",
+    "isrc": "ES21A2000023"
+  },
+  {
+    "title": "Nahi Dudan Guztia",
+    "artist": "Sagarroi",
+    "isrc": "ES6720100229"
+  },
+  {
+    "title": "Niña de la Selva",
+    "artist": "Ombligo",
+    "isrc": "ES73S2000005"
+  },
+  {
+    "title": "Balkumbia en Do Menor",
+    "artist": "Balkumbia",
+    "isrc": "GBMJG1704499"
+  },
+  {
+    "title": "Pingu (Game Sessions)",
+    "artist": "Balkan Paradise Orchestra, Arnau Altimir, Magalí Sare",
+    "isrc": "USA2P2121186"
+  },
+  {
+    "title": "Lule Lule",
+    "artist": "Barcelona Gipsy balKan Orchestra",
+    "isrc": "ES6101628101"
+  },
+  {
+    "title": "Typical Spanish",
+    "artist": "Gypsy y Los Gatos Rumberos",
+    "isrc": "ES5611228802"
+  },
+  {
+    "title": "Mafia",
+    "artist": "Malafe",
+    "isrc": "US7VG1740210"
+  },
+  {
+    "title": "Festa Al Local",
+    "artist": "Guaita'ls",
+    "isrc": "ushm21004159"
+  },
+  {
+    "title": "Bom Bom",
+    "artist": "Banana Boats",
+    "isrc": "DEAE20800067"
+  },
+  {
+    "title": "República III",
+    "artist": "La Gran Orquesta Republicana",
+    "isrc": "QZ22B1754528"
+  },
+  {
+    "title": "Monstre Bú",
+    "artist": "Discípulos de Otilia",
+    "isrc": "ESA031006402"
+  },
+  {
+    "title": "Somos Revolución",
+    "artist": "AlaDeMoska",
+    "isrc": "QM4TX1722198"
+  },
+  {
+    "title": "Yo Sí Te Creo",
+    "artist": "Balkan Bomba",
+    "isrc": "ES8022000031"
+  },
+  {
+    "title": "El País de los Ciegos",
+    "artist": "La Ska Brass",
+    "isrc": "ES8241557804"
+  },
+  {
+    "title": "Qué Voy a Hacer...",
+    "artist": "La Familia Iskariote",
+    "isrc": "QM6MZ1867310"
+  },
+  {
+    "title": "Jaia",
+    "artist": "Skalariak",
+    "isrc": "ES6119755208"
+  },
+  {
+    "title": "Elogio a la Locura",
+    "artist": "Vagos Permanentes",
+    "isrc": "TCABJ1229609"
+  },
+  {
+    "title": "Batman Vuelve",
+    "artist": "Komando Moriles",
+    "isrc": "ES6101085501"
+  },
+  {
+    "title": "Guillotina",
+    "artist": "SeisKafes",
+    "isrc": "USV351337761"
+  },
+  {
+    "title": "Born To Be Alive",
+    "artist": "Dr. Calypso",
+    "isrc": "USA560502606"
+  },
+  {
+    "title": "Me Alegro de Verte",
+    "artist": "Funkiwis, Júlia Isern",
+    "isrc": "ES8242137901"
+  },
+  {
+    "title": "Llunatics",
+    "artist": "Skatalà",
+    "isrc": "ES6491731002"
+  },
+  {
+    "title": "Bailar Pegados",
+    "artist": "Limando",
+    "isrc": "ES71G1515514"
+  },
+  {
+    "title": "Volar",
+    "artist": "Agua Bendita",
+    "isrc": "GBSMU3605229"
+  },
+  {
+    "title": "September",
+    "artist": "Malarians",
+    "isrc": "ES5121000614"
+  },
+  {
+    "title": "Por Amar al Arte",
+    "artist": "La Regadera",
+    "isrc": "QM4TW1909857"
+  },
+  {
+    "title": "El Opio del Pueblo",
+    "artist": "Termofrigidus",
+    "isrc": "ESA011100870"
+  },
+  {
+    "title": "En el Hoyo",
+    "artist": "Combo Calada",
+    "isrc": "QMFMF1553300"
+  },
+  {
+    "title": "Ell@s También",
+    "artist": "Dskarrila, Ska-P",
+    "isrc": "QMDA71847360"
+  },
+  {
+    "title": "L'Últim Segon",
+    "artist": "Aspencat",
+    "isrc": "QMDA61585838"
+  },
+  {
+    "title": "La Torre",
+    "artist": "Talco",
+    "isrc": "DES870913112"
+  },
+  {
+    "title": "Te Quiero, Chica",
+    "artist": "Skarlatines",
+    "isrc": "USCGJ0962954"
+  },
+  {
+    "title": "Begitara Begira",
+    "artist": "Vendetta",
+    "isrc": "ES21A1100006"
+  },
+  {
+    "title": "Ahora Me Río Yo",
+    "artist": "Spin Te Kú",
+    "isrc": "QMFMG1472666"
+  },
+  {
+    "title": "Orekariak",
+    "artist": "Skakeitan",
+    "isrc": "GB8HK1405010"
+  },
+  {
+    "title": "Cors Armats",
+    "artist": "Atzembla",
+    "isrc": "QMPKX1673125"
+  },
+  {
+    "title": "Maki Navaja, El Último Chorisso",
+    "artist": "Tijuana in blue",
+    "isrc": "ES5590602266"
+  },
+  {
+    "title": "Historias Do Mar",
+    "artist": "The Skarnivals",
+    "isrc": "QM6MZ1869466"
+  },
+  {
+    "title": "Raptaptuie",
+    "artist": "Skatuttipresto",
+    "isrc": "ESA011505588"
+  },
+  {
+    "title": "Entre poetas y presos",
+    "artist": "La Raíz",
+    "isrc": "ES8021600032"
+  },
+  {
+    "title": "Pedro Mayo",
+    "artist": "Joxe Ripiau",
+    "isrc": "ES5591100610"
+  },
+  {
+    "title": "Balkan Clowns",
+    "artist": "La Trocamba Matanusca",
+    "isrc": "GBSMU2226395"
+  },
+  {
+    "title": "Bye Bye!",
+    "artist": "Chotokoeu",
+    "isrc": "QMBZ91533218"
+  },
+  {
+    "title": "No Es Lo Mismo",
+    "artist": "La Kinky Beat",
+    "isrc": "ES7310400006"
+  },
+  {
+    "title": "Ace of Spades",
+    "artist": "The Cabrians",
+    "isrc": "ES71G2231244"
+  },
+  {
+    "title": "Mi Territorio",
+    "artist": "La Gran Orquesta Republicana",
+    "isrc": "ES6100552101"
+  },
+  {
+    "title": "Beer Friends",
+    "artist": "Discípulos de Otilia",
+    "isrc": "ES6101087301"
+  },
+  {
+    "title": "Vive la Vida",
+    "artist": "AlaDeMoska",
+    "isrc": "ES8242026201"
+  },
+  {
+    "title": "Los Olvidados",
+    "artist": "Balkan Bomba",
+    "isrc": "MX2831725911"
+  },
+  {
+    "title": "Mírela",
+    "artist": "La Ska Brass",
+    "isrc": "ES8241925204"
+  },
+  {
+    "title": "Manifestación",
+    "artist": "La Familia Iskariote",
+    "isrc": "QM6MZ1867313"
+  },
+  {
+    "title": "Los Muertos del Hambre",
+    "artist": "Vagos Permanentes",
+    "isrc": "ES8241347502"
+  },
+  {
+    "title": "Puto Alcohol",
+    "artist": "Skalariak",
+    "isrc": "ES6119956702"
+  },
+  {
+    "title": "Piensa",
+    "artist": "Komando Moriles",
+    "isrc": "ES6101087603"
+  },
+  {
+    "title": "Nikolai",
+    "artist": "SeisKafes",
+    "isrc": "USV351399059"
+  },
+  {
+    "title": "Brigadistes Internacionals",
+    "artist": "Dr. Calypso",
+    "isrc": "USA560502605"
+  },
+  {
+    "title": "Baile de Buitres",
+    "artist": "Funkiwis",
+    "isrc": "ES8241920403"
+  },
+  {
+    "title": "Rastablanc",
+    "artist": "Skatalà",
+    "isrc": "ESA031500206"
+  },
+  {
+    "title": "Buen Tiempo",
+    "artist": "Limando, Bongo Botrako",
+    "isrc": "ES71G1504308"
+  },
+  {
+    "title": "Dolor",
+    "artist": "Agua Bendita",
+    "isrc": "GBSMU3605232"
+  },
+  {
+    "title": "Talkin'Dirty",
+    "artist": "Malarians",
+    "isrc": "ES6100040711"
+  },
+  {
+    "title": "Bailaremos",
+    "artist": "La Regadera",
+    "isrc": "ES71G1707022"
+  },
+  {
+    "title": "Ratm",
+    "artist": "Termofrigidus",
+    "isrc": "ESA011100873"
+  }
+]

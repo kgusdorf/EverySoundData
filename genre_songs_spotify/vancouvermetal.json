@@ -1,0 +1,972 @@
+[
+  {
+    "title": "Drone Corpse Aviator",
+    "artist": "Archspire",
+    "isrc": "FR33T2163601"
+  },
+  {
+    "title": "Bloodletting A Phantom Limb",
+    "artist": "Neck of the Woods",
+    "isrc": "DGA0H2305390"
+  },
+  {
+    "title": "Citizen 13",
+    "artist": "Blackwater Burial",
+    "isrc": "QMEU31914335"
+  },
+  {
+    "title": "The Last Hunt",
+    "artist": "Truent",
+    "isrc": "QZDA82265611"
+  },
+  {
+    "title": "Breeding Pits",
+    "artist": "The Hallowed Catharsis",
+    "isrc": "CH6542061907"
+  },
+  {
+    "title": "Melt The Crown",
+    "artist": "Anciients",
+    "isrc": "FR33T2377804"
+  },
+  {
+    "title": "Upon This Night, and My Skin of Blue...",
+    "artist": "Liberatia",
+    "isrc": "QZHNA2065797"
+  },
+  {
+    "title": "Love?",
+    "artist": "Strapping Young Lad",
+    "isrc": "US4E40532704"
+  },
+  {
+    "title": "A Place of Bones",
+    "artist": "Gross Misconduct",
+    "isrc": "CA65F1800002"
+  },
+  {
+    "title": "The Witch Is Dead",
+    "artist": "Expain",
+    "isrc": "QZ8LD1743813"
+  },
+  {
+    "title": "Inmate 666",
+    "artist": "Dead Asylum",
+    "isrc": "usdy41728926"
+  },
+  {
+    "title": "Life Disintegrating",
+    "artist": "Xul",
+    "isrc": "CAIEH1800006"
+  },
+  {
+    "title": "Queen of the Crystal Throne",
+    "artist": "Iron Kingdom",
+    "isrc": "CA65J2200039"
+  },
+  {
+    "title": "Unstoppable",
+    "artist": "ArkenFire",
+    "isrc": "CACWA2100002"
+  },
+  {
+    "title": "A Thousand Lives",
+    "artist": "Dead Quiet",
+    "isrc": "QM7281842791"
+  },
+  {
+    "title": "Deadly Sinners",
+    "artist": "3 Inches Of Blood",
+    "isrc": "NLA320420869"
+  },
+  {
+    "title": "Riffmaster",
+    "artist": "Odinfist",
+    "isrc": "CAI372300068"
+  },
+  {
+    "title": "The Helm And The Bow",
+    "artist": "Wormwitch",
+    "isrc": "USN682431803"
+  },
+  {
+    "title": "Blüdwolves",
+    "artist": "Nylithia",
+    "isrc": "CA5AS1400011"
+  },
+  {
+    "title": "When You Were Shouting at the Devil...We Were In League With Satan",
+    "artist": "Zimmers Hole",
+    "isrc": "US4E40848301"
+  },
+  {
+    "title": "Mechanical Wolves",
+    "artist": "SVNEATR",
+    "isrc": "USERN1011002"
+  },
+  {
+    "title": "The Lord Ruler",
+    "artist": "Thousand Arrows, Joey Hockin, Cayle Charlton",
+    "isrc": "QZK6F2267914"
+  },
+  {
+    "title": "Kingdom",
+    "artist": "Devin Townsend Project",
+    "isrc": "CA1TB1200206"
+  },
+  {
+    "title": "Reanimator",
+    "artist": "Terrifier",
+    "isrc": "CAAYL1600001"
+  },
+  {
+    "title": "Faceless the Droids",
+    "artist": "West of Hell",
+    "isrc": "CA08W0900401"
+  },
+  {
+    "title": "Ritual of the Black Blood",
+    "artist": "Of Modern Architecture",
+    "isrc": "QZES81932340"
+  },
+  {
+    "title": "Primal Emptiness Of Outer Space",
+    "artist": "BISON",
+    "isrc": "USMBR0806036"
+  },
+  {
+    "title": "Hyperdrive",
+    "artist": "Devin Townsend",
+    "isrc": "GBDHC0928205"
+  },
+  {
+    "title": "Death On Black Wings",
+    "artist": "Gatekeeper",
+    "isrc": "QZTB82233114"
+  },
+  {
+    "title": "Northwest Passage",
+    "artist": "Unleash The Archers",
+    "isrc": "ATN261987901"
+  },
+  {
+    "title": "Among Thieves",
+    "artist": "Medevil",
+    "isrc": "CAZL92200002"
+  },
+  {
+    "title": "Crib Of Thorns",
+    "artist": "Aggression",
+    "isrc": "DER372327604"
+  },
+  {
+    "title": "Of Wind and Worm",
+    "artist": "Torrefy",
+    "isrc": "TCAIA2464352"
+  },
+  {
+    "title": "Redwoods",
+    "artist": "Waingro",
+    "isrc": "CAN6C1500002"
+  },
+  {
+    "title": "Leech",
+    "artist": "Angelmaker",
+    "isrc": "USCGJ1540811"
+  },
+  {
+    "title": "Abyss of the Waters",
+    "artist": "Pyramidion",
+    "isrc": "uscgj1837722"
+  },
+  {
+    "title": "Aqua Tofana",
+    "artist": "Ritual Dictates, Unleash The Archers",
+    "isrc": "QM6MZ2287560"
+  },
+  {
+    "title": "Shikadance",
+    "artist": "Bushwhacker",
+    "isrc": "QMPKX1693357"
+  },
+  {
+    "title": "Playland",
+    "artist": "The Vth Circle",
+    "isrc": "usdy41830544"
+  },
+  {
+    "title": "Ultraviolet",
+    "artist": "Spell",
+    "isrc": "UK3S32202802"
+  },
+  {
+    "title": "Blinded by the Diamond Planet",
+    "artist": "Astrakhan",
+    "isrc": "QZ4JJ1762649"
+  },
+  {
+    "title": "Timeless Despair",
+    "artist": "Atavistia",
+    "isrc": "QZK6G2433126"
+  },
+  {
+    "title": "Kingdom of Storms",
+    "artist": "Gladius Sky",
+    "isrc": "ushm91676006"
+  },
+  {
+    "title": "Brazen Bull",
+    "artist": "Atrous Leviathan",
+    "isrc": "CAG7X1300002"
+  },
+  {
+    "title": "Backhand of God",
+    "artist": "The Mountain Man",
+    "isrc": "CAZ6E1600001"
+  },
+  {
+    "title": "666 MPH",
+    "artist": "Roadrash",
+    "isrc": "QZFZ32058242"
+  },
+  {
+    "title": "Unholier Than Thou",
+    "artist": "Infernäl Mäjesty",
+    "isrc": "CAI370712193"
+  },
+  {
+    "title": "Blood Red Moon",
+    "artist": "Omega Crom",
+    "isrc": "CA90S1300006"
+  },
+  {
+    "title": "Eternal Oath",
+    "artist": "Scythia",
+    "isrc": "CA5HN1500001"
+  },
+  {
+    "title": "Hangman's Marionette",
+    "artist": "Death Preacher",
+    "isrc": "QZFYZ2412760"
+  },
+  {
+    "title": "Decapitated by Beasts",
+    "artist": "Assimilation",
+    "isrc": "FR10S1792348"
+  },
+  {
+    "title": "Eyes on the Inside",
+    "artist": "Kosm",
+    "isrc": "QZFYW1956214"
+  },
+  {
+    "title": "Satan's Kegerator",
+    "artist": "Golers",
+    "isrc": "usdy42361208"
+  },
+  {
+    "title": "Buried Awake",
+    "artist": "God Said Kill",
+    "isrc": "QZES61905558"
+  },
+  {
+    "title": "Thunder on the Tundra",
+    "artist": "Thor",
+    "isrc": "QMBZ91415834"
+  },
+  {
+    "title": "Repentance",
+    "artist": "Saints of Death",
+    "isrc": "QZHN82089998"
+  },
+  {
+    "title": "Machine",
+    "artist": "Resurgence",
+    "isrc": "CABIH1600002"
+  },
+  {
+    "title": "Knights Collapse",
+    "artist": "Scimitar",
+    "isrc": "CALLA1900002"
+  },
+  {
+    "title": "Ravenous",
+    "artist": "Trollband",
+    "isrc": "usl4q1895716"
+  },
+  {
+    "title": "Ancient Sands (Rot Preacher)",
+    "artist": "Seer",
+    "isrc": "QZHN81907799"
+  },
+  {
+    "title": "Image of Control (II)",
+    "artist": "Sumac",
+    "isrc": "USTJ21641707"
+  },
+  {
+    "title": "Demented Deception",
+    "artist": "Cryptic Enslavement",
+    "isrc": "QZ4H21800020"
+  },
+  {
+    "title": "Swarm",
+    "artist": "The Schoenberg Automaton",
+    "isrc": "USKO11600727"
+  },
+  {
+    "title": "This Ghost of Ours",
+    "artist": "First Reign",
+    "isrc": "uscgj0850478"
+  },
+  {
+    "title": "Plague Evockation (Pestilentiam Intus Vocamus, Voluntatem Absolvimus, Pt. 1)",
+    "artist": "Mitochondrion",
+    "isrc": "QZDA51905305"
+  },
+  {
+    "title": "We Will All Die",
+    "artist": "Arcnaut",
+    "isrc": "uscgh1832532"
+  },
+  {
+    "title": "The Seed, the Serpent, the Scythe",
+    "artist": "Kafirun",
+    "isrc": "usdy42163568"
+  },
+  {
+    "title": "Hideous New Gods",
+    "artist": "Auroch",
+    "isrc": "USJE72011702"
+  },
+  {
+    "title": "Scarlet Rapture",
+    "artist": "Abriosis",
+    "isrc": "QZFZ32128656"
+  },
+  {
+    "title": "Eliminator",
+    "artist": "Black Wizard",
+    "isrc": "QM6XS1602005"
+  },
+  {
+    "title": "Boulevard of Broken Dreams",
+    "artist": "2 Shadows, Righteous Vendetta",
+    "isrc": "TCAGC2238875"
+  },
+  {
+    "title": "All for One",
+    "artist": "24unity",
+    "isrc": "ushm90411015"
+  },
+  {
+    "title": "Opus I, No. 2",
+    "artist": "Alchemy Chamber",
+    "isrc": "uscgj1653821"
+  },
+  {
+    "title": "Iblis\\'in Diyari",
+    "artist": "Anatolian Wisdom",
+    "isrc": "uscgh0907241"
+  },
+  {
+    "title": "Part I - O Captain, My Captain",
+    "artist": "Antiquus",
+    "isrc": "ITI290602201"
+  },
+  {
+    "title": "Disonante",
+    "artist": "Blasphemy",
+    "isrc": "GBKQU2432619"
+  },
+  {
+    "title": "Blistered",
+    "artist": "Drown in Ashes",
+    "isrc": "ushm91828148"
+  },
+  {
+    "title": "Escudo y Espada",
+    "artist": "Entropia",
+    "isrc": "USDHM1715134"
+  },
+  {
+    "title": "Conversion to the Cult of the Scythe",
+    "artist": "Finite",
+    "isrc": "UK-CVA-16-01856"
+  },
+  {
+    "title": "Gamma",
+    "artist": "Guilt",
+    "isrc": "QM6MZ2321903"
+  },
+  {
+    "title": "Ai Se Eu Te Pego - Ao Vivo",
+    "artist": "Hallux, Marcus",
+    "isrc": "PTVI11100648"
+  },
+  {
+    "title": "Electric Eye",
+    "artist": "Hellchamber",
+    "isrc": "USDHM1320918"
+  },
+  {
+    "title": "Disgust",
+    "artist": "ILL TEMPER",
+    "isrc": "TCADE1760178"
+  },
+  {
+    "title": "Portrait",
+    "artist": "Magnus Rising",
+    "isrc": "CAI370810344"
+  },
+  {
+    "title": "Unfollow",
+    "artist": "Massive Scar Era",
+    "isrc": "UST8K1861738"
+  },
+  {
+    "title": "Lethal Attack",
+    "artist": "Meridius",
+    "isrc": "QZ9JZ1762726"
+  },
+  {
+    "title": "Far From Home (feat. Meliss FX) - J.Rabbit Remix",
+    "artist": "Obsidian, J.Rabbit, Meliss FX",
+    "isrc": "USLZJ1378761"
+  },
+  {
+    "title": "Crow",
+    "artist": "Of Artistry",
+    "isrc": "ushm82215837"
+  },
+  {
+    "title": "Dirt Nap",
+    "artist": "Over The Coals",
+    "isrc": "ushm20856837"
+  },
+  {
+    "title": "10:30",
+    "artist": "Scissortooth",
+    "isrc": "USXQS1513806"
+  },
+  {
+    "title": "Sunshine",
+    "artist": "Seven Nines and Tens",
+    "isrc": "USRMX2100071"
+  },
+  {
+    "title": "This Side of Town",
+    "artist": "Technical Damage",
+    "isrc": "TCADH1755922"
+  },
+  {
+    "title": "Hall of Shadows",
+    "artist": "The Desolate",
+    "isrc": "ushm21717182"
+  },
+  {
+    "title": "One",
+    "artist": "The Waning Light",
+    "isrc": "QZFZ62154052"
+  },
+  {
+    "title": "Searching For Nothing",
+    "artist": "Titans Eve",
+    "isrc": "ushm21056350"
+  },
+  {
+    "title": "Dust",
+    "artist": "Unbeheld",
+    "isrc": "usdy41726232"
+  },
+  {
+    "title": "Circle of Vice",
+    "artist": "Neck of the Woods",
+    "isrc": "DGA0Q2341216"
+  },
+  {
+    "title": "Bleed the Future",
+    "artist": "Archspire",
+    "isrc": "FR33T2163604"
+  },
+  {
+    "title": "Existential Crisis",
+    "artist": "Blackwater Burial",
+    "isrc": "QMEU31914337"
+  },
+  {
+    "title": "This Verdant Coil",
+    "artist": "Truent",
+    "isrc": "QZDA82267225"
+  },
+  {
+    "title": "Abduction Sequence",
+    "artist": "The Hallowed Catharsis",
+    "isrc": "CH6542062057"
+  },
+  {
+    "title": "Raise the Sun",
+    "artist": "Anciients",
+    "isrc": "FR33T1325001"
+  },
+  {
+    "title": "Annihilation Campaign",
+    "artist": "Liberatia",
+    "isrc": "QZDA81871921"
+  },
+  {
+    "title": "Equinox",
+    "artist": "Gross Misconduct",
+    "isrc": "CA65F1800001"
+  },
+  {
+    "title": "Detox - Remastered",
+    "artist": "Strapping Young Lad",
+    "isrc": "US4E40736504"
+  },
+  {
+    "title": "Aggressions Progressions",
+    "artist": "Expain",
+    "isrc": "QZ4JJ1627827"
+  },
+  {
+    "title": "Bury the Living",
+    "artist": "Dead Asylum",
+    "isrc": "usdy41728922"
+  },
+  {
+    "title": "King of Nothing",
+    "artist": "Xul",
+    "isrc": "CAIEH1800001"
+  },
+  {
+    "title": "Sheathe the Sword",
+    "artist": "Iron Kingdom",
+    "isrc": "CA65J2200038"
+  },
+  {
+    "title": "Leviathan",
+    "artist": "ArkenFire",
+    "isrc": "CACWA2100004"
+  },
+  {
+    "title": "The Sorceress",
+    "artist": "Dead Quiet",
+    "isrc": "QM7281842783"
+  },
+  {
+    "title": "Let the Gods Decide",
+    "artist": "Odinfist",
+    "isrc": "CAI371720168"
+  },
+  {
+    "title": "Disciple of the Serpent Star",
+    "artist": "Wormwitch",
+    "isrc": "USERN1009978"
+  },
+  {
+    "title": "Battles and Brotherhood",
+    "artist": "3 Inches Of Blood",
+    "isrc": "US4E40963901"
+  },
+  {
+    "title": "Hyperthrash",
+    "artist": "Nylithia",
+    "isrc": "CA5AS1100004"
+  },
+  {
+    "title": "We Rule the Fucking Land",
+    "artist": "Zimmers Hole",
+    "isrc": "US4E40848302"
+  },
+  {
+    "title": "Never Return",
+    "artist": "SVNEATR",
+    "isrc": "USERN1011003"
+  },
+  {
+    "title": "Exiles",
+    "artist": "Thousand Arrows",
+    "isrc": "QZK6F2267912"
+  },
+  {
+    "title": "Drunk as Fuck",
+    "artist": "Terrifier",
+    "isrc": "CAAYL1600006"
+  },
+  {
+    "title": "Hyperdrive!",
+    "artist": "Devin Townsend Project",
+    "isrc": "CA1TB0900018"
+  },
+  {
+    "title": "Infidels",
+    "artist": "West of Hell",
+    "isrc": "uscgj1931597"
+  },
+  {
+    "title": "Mountains",
+    "artist": "Of Modern Architecture",
+    "isrc": "QZ9JZ1719174"
+  },
+  {
+    "title": "Stressed Elephant",
+    "artist": "BISON",
+    "isrc": "USMBR1007335"
+  },
+  {
+    "title": "Twisted Towers",
+    "artist": "Gatekeeper",
+    "isrc": "QZTB82233118"
+  },
+  {
+    "title": "Spirits Will Collide",
+    "artist": "Devin Townsend",
+    "isrc": "CA1TB1900003"
+  },
+  {
+    "title": "Ghosts In The Mist",
+    "artist": "Unleash The Archers",
+    "isrc": "ATN262425808"
+  },
+  {
+    "title": "Nightwalk",
+    "artist": "Medevil",
+    "isrc": "CAZL91600001"
+  },
+  {
+    "title": "Circus Of Deception",
+    "artist": "Aggression",
+    "isrc": "DER372327602"
+  },
+  {
+    "title": "Eye of the Swarm",
+    "artist": "Torrefy",
+    "isrc": "TCAGG2268269"
+  },
+  {
+    "title": "Desert Son",
+    "artist": "Waingro",
+    "isrc": "CAN6C1500001"
+  },
+  {
+    "title": "In Death",
+    "artist": "Angelmaker",
+    "isrc": "QZES91997623"
+  },
+  {
+    "title": "Devourer of the Dead",
+    "artist": "Pyramidion",
+    "isrc": "uscgj1837723"
+  },
+  {
+    "title": "Given to Despair",
+    "artist": "Ritual Dictates",
+    "isrc": "QMFME1981865"
+  },
+  {
+    "title": "Bridges Burn",
+    "artist": "Bushwhacker",
+    "isrc": "QZFZ31954392"
+  },
+  {
+    "title": "The Standoff",
+    "artist": "The Vth Circle",
+    "isrc": "CALXB1900009"
+  },
+  {
+    "title": "A Waxing Moon Over Babylon",
+    "artist": "Spell",
+    "isrc": "UK3S32403501"
+  },
+  {
+    "title": "The Traveler",
+    "artist": "Astrakhan",
+    "isrc": "QZ4JJ1762642"
+  },
+  {
+    "title": "Cosmic Warfare",
+    "artist": "Atavistia",
+    "isrc": "FR10S2332068"
+  },
+  {
+    "title": "Ode to the Hammer",
+    "artist": "Gladius Sky",
+    "isrc": "ushm91676007"
+  },
+  {
+    "title": "Nex Ut Arbour Vitae",
+    "artist": "Atrous Leviathan",
+    "isrc": "CAG7X1300005"
+  },
+  {
+    "title": "Bloodlust",
+    "artist": "The Mountain Man",
+    "isrc": "CAZ6E1600002"
+  },
+  {
+    "title": "Accelerator",
+    "artist": "Roadrash",
+    "isrc": "QZES61987082"
+  },
+  {
+    "title": "Overlord - Infernäl Mäjesty Demo",
+    "artist": "Infernäl Mäjesty",
+    "isrc": "NLW501500088"
+  },
+  {
+    "title": "Power Soul",
+    "artist": "Omega Crom",
+    "isrc": "CA90S1300002"
+  },
+  {
+    "title": "Laugh of the Tsar",
+    "artist": "Scythia",
+    "isrc": "CA5HN1500002"
+  },
+  {
+    "title": "Vita Detestabilis",
+    "artist": "Death Preacher",
+    "isrc": "QZWFH2374924"
+  },
+  {
+    "title": "Rumination",
+    "artist": "Assimilation",
+    "isrc": "ESA011839171"
+  },
+  {
+    "title": "Yharnam",
+    "artist": "Kosm",
+    "isrc": "QZFYW1956210"
+  },
+  {
+    "title": "198?",
+    "artist": "Golers",
+    "isrc": "usdy42361212"
+  },
+  {
+    "title": "Last Walk",
+    "artist": "God Said Kill",
+    "isrc": "QZES61905565"
+  },
+  {
+    "title": "Only the Strong",
+    "artist": "Thor",
+    "isrc": "QMBZ91415827"
+  },
+  {
+    "title": "Army of the Dead",
+    "artist": "Saints of Death",
+    "isrc": "QZ8251719541"
+  },
+  {
+    "title": "Entombed Inside Your Brain",
+    "artist": "Resurgence",
+    "isrc": "CABIH1600001"
+  },
+  {
+    "title": "To Cultivate With Spears",
+    "artist": "Scimitar",
+    "isrc": "CALLA1900005"
+  },
+  {
+    "title": "Blood to the Heartwood",
+    "artist": "Trollband",
+    "isrc": "usl4q1895715"
+  },
+  {
+    "title": "Iron Worth Striking",
+    "artist": "Seer",
+    "isrc": "QM6P41895997"
+  },
+  {
+    "title": "Rigid Man (I)",
+    "artist": "Sumac",
+    "isrc": "USTJ21641708"
+  },
+  {
+    "title": "Visions of Disembowelment",
+    "artist": "Cryptic Enslavement",
+    "isrc": "QZ4H21800019"
+  },
+  {
+    "title": "Of Omnipotence",
+    "artist": "The Schoenberg Automaton",
+    "isrc": "USKO11600732"
+  },
+  {
+    "title": "As the Dead Lead the Dead",
+    "artist": "First Reign",
+    "isrc": "uscgj0850482"
+  },
+  {
+    "title": "Into the Pit of Babel",
+    "artist": "Mitochondrion",
+    "isrc": "QZ8LD1914860"
+  },
+  {
+    "title": "Skull Sized Hell",
+    "artist": "Neck of the Woods",
+    "isrc": "FR59R2427010"
+  },
+  {
+    "title": "Golden Mouth of Ruin",
+    "artist": "Archspire",
+    "isrc": "FR33T2163602"
+  },
+  {
+    "title": "Erased",
+    "artist": "Blackwater Burial",
+    "isrc": "QMEU31914336"
+  },
+  {
+    "title": "Blood and Dust",
+    "artist": "Truent",
+    "isrc": "QZDA82267222"
+  },
+  {
+    "title": "Killowner",
+    "artist": "The Hallowed Catharsis",
+    "isrc": "CH6542058203"
+  },
+  {
+    "title": "Raise The Sun - Re-recording",
+    "artist": "Anciients",
+    "isrc": "FR33T2377811"
+  },
+  {
+    "title": "Heartless",
+    "artist": "Liberatia",
+    "isrc": "QZDA81871917"
+  },
+  {
+    "title": "Triserpentine",
+    "artist": "Gross Misconduct",
+    "isrc": "CA65F1800004"
+  },
+  {
+    "title": "The King",
+    "artist": "Expain",
+    "isrc": "QZ4JJ1627829"
+  },
+  {
+    "title": "Almost Again",
+    "artist": "Strapping Young Lad",
+    "isrc": "US4E40642709"
+  },
+  {
+    "title": "Defiance",
+    "artist": "Dead Asylum",
+    "isrc": "usdy41728919"
+  },
+  {
+    "title": "Black Oak Heart",
+    "artist": "Xul",
+    "isrc": "CAIEH1800008"
+  },
+  {
+    "title": "White Wolf",
+    "artist": "Iron Kingdom",
+    "isrc": "CA65J1900028"
+  },
+  {
+    "title": "Celestial Beasts",
+    "artist": "ArkenFire",
+    "isrc": "CACWA1700002"
+  },
+  {
+    "title": "Of Sound and Fury",
+    "artist": "Dead Quiet",
+    "isrc": "QM6N22043657"
+  },
+  {
+    "title": "We Are Gods",
+    "artist": "Odinfist",
+    "isrc": "CAI371712276"
+  },
+  {
+    "title": "Exhumed From Flaming Stars",
+    "artist": "Wormwitch",
+    "isrc": "DEBL62200019"
+  },
+  {
+    "title": "Destroy the Orcs",
+    "artist": "3 Inches Of Blood",
+    "isrc": "NLA320420889"
+  },
+  {
+    "title": "F-22",
+    "artist": "Nylithia",
+    "isrc": "CA5AS1400007"
+  },
+  {
+    "title": "Fista Corps",
+    "artist": "Zimmers Hole",
+    "isrc": "US4E40848307"
+  },
+  {
+    "title": "Blackout",
+    "artist": "SVNEATR",
+    "isrc": "USERN1011006"
+  },
+  {
+    "title": "The Core",
+    "artist": "Thousand Arrows, Rev Taylor",
+    "isrc": "QZK6F2267913"
+  },
+  {
+    "title": "Trial by Combat",
+    "artist": "Terrifier",
+    "isrc": "ushm22350533"
+  },
+  {
+    "title": "Deadhead",
+    "artist": "Devin Townsend Project",
+    "isrc": "CA1TB1500014"
+  },
+  {
+    "title": "Water of Sorcery",
+    "artist": "West of Hell",
+    "isrc": "CA08W0900399"
+  },
+  {
+    "title": "Burial Womb",
+    "artist": "Of Modern Architecture",
+    "isrc": "QZES81932339"
+  },
+  {
+    "title": "Dark Towers",
+    "artist": "BISON",
+    "isrc": "USMBR0806037"
+  },
+  {
+    "title": "From Western Shores",
+    "artist": "Gatekeeper",
+    "isrc": "QZTB82233113"
+  },
+  {
+    "title": "Call of the Void",
+    "artist": "Devin Townsend",
+    "isrc": "CA1TB2200005"
+  },
+  {
+    "title": "Seeking Vengeance",
+    "artist": "Unleash The Archers",
+    "isrc": "ATN262425809"
+  },
+  {
+    "title": "Pray for Me",
+    "artist": "Medevil",
+    "isrc": "CAZL92200003"
+  },
+  {
+    "title": "C.H.U.D. Invasion",
+    "artist": "Aggression",
+    "isrc": "DER372327601"
+  },
+  {
+    "title": "The Singularity",
+    "artist": "Torrefy",
+    "isrc": "TCACQ1683314"
+  }
+]

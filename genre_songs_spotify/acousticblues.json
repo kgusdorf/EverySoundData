@@ -1,0 +1,832 @@
+[
+  {
+    "title": "Bukka Jitterburg Swing",
+    "artist": "Bukka White",
+    "isrc": "FR4HR1807146"
+  },
+  {
+    "title": "Glory of Love",
+    "artist": "Big Bill Broonzy",
+    "isrc": "USSF18902311"
+  },
+  {
+    "title": "Statesboro Blues",
+    "artist": "Blind Willie McTell",
+    "isrc": "DEXO22208571"
+  },
+  {
+    "title": "Death Letter Blues",
+    "artist": "Son House",
+    "isrc": "USSM19201057"
+  },
+  {
+    "title": "Coffee Blues",
+    "artist": "Mississippi John Hurt",
+    "isrc": "USVG28707828"
+  },
+  {
+    "title": "Down the Dirt Road Blues",
+    "artist": "Charley Patton",
+    "isrc": "DEXO22208660"
+  },
+  {
+    "title": "Devil Got My Woman",
+    "artist": "Skip James",
+    "isrc": "GBBLY0607542"
+  },
+  {
+    "title": "Baby Please Don't Go",
+    "artist": "Big Joe Williams",
+    "isrc": "USAP39991502"
+  },
+  {
+    "title": "Mojo Hand",
+    "artist": "Lightnin' Hopkins",
+    "isrc": "QMBZ91773734"
+  },
+  {
+    "title": "Anna Lou Blues",
+    "artist": "Tampa Red",
+    "isrc": "DEZZ42171908"
+  },
+  {
+    "title": "Match Box Blues",
+    "artist": "Blind Lemon Jefferson",
+    "isrc": "DEXO22207959"
+  },
+  {
+    "title": "Where Did You Sleep Last Night",
+    "artist": "Lead Belly",
+    "isrc": "USRY20513284"
+  },
+  {
+    "title": "Truckin' My Blues Away",
+    "artist": "Blind Boy Fuller",
+    "isrc": "DEXN92266141"
+  },
+  {
+    "title": "You Gotta Move",
+    "artist": "Mississippi Fred McDowell",
+    "isrc": "USAP38930419"
+  },
+  {
+    "title": "Bring It On Home To Me",
+    "artist": "Sonny Terry, Brownie McGhee",
+    "isrc": "USWWW0201064"
+  },
+  {
+    "title": "It's Nobody's Fault but Mine",
+    "artist": "Blind Willie Johnson",
+    "isrc": "USSM12700033"
+  },
+  {
+    "title": "Leaving Trunk",
+    "artist": "Taj Mahal",
+    "isrc": "USSM10004051"
+  },
+  {
+    "title": "St. Louis Blues",
+    "artist": "Lonnie Johnson, Elmer Snowden",
+    "isrc": "USFI86000801"
+  },
+  {
+    "title": "Death Don't Have No Mercy",
+    "artist": "Rev. Gary Davis",
+    "isrc": "USFI86000132"
+  },
+  {
+    "title": "Further On up the Road",
+    "artist": "David \"Honeyboy\" Edwards",
+    "isrc": "USSF10113211"
+  },
+  {
+    "title": "Better Day",
+    "artist": "Brownie McGhee, Sonny Terry",
+    "isrc": "DEXO22208419"
+  },
+  {
+    "title": "Alabama Blues",
+    "artist": "J.B. Lenoir",
+    "isrc": "DER387900001"
+  },
+  {
+    "title": "Jumper Hanging Out On the Line",
+    "artist": "R.L. Burnside",
+    "isrc": "FRZ178460010"
+  },
+  {
+    "title": "Cross Road Blues - Take 2",
+    "artist": "Robert Johnson",
+    "isrc": "USSM11204806"
+  },
+  {
+    "title": "Help Me",
+    "artist": "Sonny Boy Williamson II",
+    "isrc": "USMC16312115"
+  },
+  {
+    "title": "If You See My Rooster (Please Run Him Home)",
+    "artist": "Memphis Minnie",
+    "isrc": "USSM10027153"
+  },
+  {
+    "title": "Roots Woman",
+    "artist": "Corey Harris",
+    "isrc": "USARL9583701"
+  },
+  {
+    "title": "Walking Blues",
+    "artist": "Rory Block, Stefan Grossman",
+    "isrc": "USL360910187"
+  },
+  {
+    "title": "Motivational Speaker",
+    "artist": "Alvin Youngblood Hart",
+    "isrc": "USAR50551789"
+  },
+  {
+    "title": "My Mama Don’t Allow Me - Fire & Fury Version",
+    "artist": "Arthur \"Big Boy\" Crudup",
+    "isrc": "USBT21623945"
+  },
+  {
+    "title": "I'm A King Bee",
+    "artist": "Slim Harpo",
+    "isrc": "USUM15701000"
+  },
+  {
+    "title": "Pretty Woman - Live",
+    "artist": "Louisiana Red",
+    "isrc": "DER388050007"
+  },
+  {
+    "title": "Don't Ever Let Nobody Drag Your Spirit Down",
+    "artist": "Eric Bibb, Rory Block, Maria Muldaur",
+    "isrc": "USTE10358802"
+  },
+  {
+    "title": "Smokestack Lightnin'",
+    "artist": "Howlin' Wolf",
+    "isrc": "USMC15646854"
+  },
+  {
+    "title": "Walk On",
+    "artist": "Sonny Terry and Brownie McGhee",
+    "isrc": "USA370676146"
+  },
+  {
+    "title": "Police Dog Blues",
+    "artist": "Blind Blake",
+    "isrc": "DEUD92377547"
+  },
+  {
+    "title": "How Long, How Long Blues",
+    "artist": "Leroy Carr",
+    "isrc": "USSM10403823"
+  },
+  {
+    "title": "Junker's Blues",
+    "artist": "Champion Jack Dupree",
+    "isrc": "USAT20003202"
+  },
+  {
+    "title": "Back Door Blues",
+    "artist": "Kokomo Arnold",
+    "isrc": "DEXO22208404"
+  },
+  {
+    "title": "I Got a Woman",
+    "artist": "Snooks Eaglin",
+    "isrc": "DEUE12334869"
+  },
+  {
+    "title": "Mediterranean Breakfast",
+    "artist": "Sue Foley",
+    "isrc": "USA560550029"
+  },
+  {
+    "title": "Loneliest Road That I Know",
+    "artist": "Guy Davis",
+    "isrc": "USRHR0216102"
+  },
+  {
+    "title": "Reconsider Baby",
+    "artist": "Lowell Fulson",
+    "isrc": "USMC15445367"
+  },
+  {
+    "title": "Leave The Light On",
+    "artist": "Chris Smither",
+    "isrc": "USFMT0600102"
+  },
+  {
+    "title": "Cold, Cold Feeling",
+    "artist": "Albert Collins",
+    "isrc": "USARL7871304"
+  },
+  {
+    "title": "Meet Me in the City",
+    "artist": "Junior Kimbrough",
+    "isrc": "USFP70921104"
+  },
+  {
+    "title": "Ten Million Slaves",
+    "artist": "Otis Taylor",
+    "isrc": "USTE10766713"
+  },
+  {
+    "title": "I'm A Man",
+    "artist": "Bo Diddley",
+    "isrc": "USUM71015359"
+  },
+  {
+    "title": "Hound Dog",
+    "artist": "Big Mama Thornton",
+    "isrc": "USAP38930505"
+  },
+  {
+    "title": "That's No Way to Get Along",
+    "artist": "Robert Wilkins",
+    "isrc": "DEUE22381417"
+  },
+  {
+    "title": "On The Road Again",
+    "artist": "Memphis Jug Band",
+    "isrc": "US7SF1354744"
+  },
+  {
+    "title": "Love Slipped In",
+    "artist": "Duke Robillard",
+    "isrc": "GBAAA9500481"
+  },
+  {
+    "title": "The Twelves (The Dirty Dozens)",
+    "artist": "Casey Bill Weldon, Kokomo Arnold",
+    "isrc": "DEXO22208279"
+  },
+  {
+    "title": "The Things That I Used To Do",
+    "artist": "Guitar Slim",
+    "isrc": "USSPI5300021"
+  },
+  {
+    "title": "Paris, Texas",
+    "artist": "Ry Cooder",
+    "isrc": "USWB19903331"
+  },
+  {
+    "title": "When the Levee Breaks",
+    "artist": "Cary Morin, Jean-Jacques Milteau",
+    "isrc": "QMGDB1300020"
+  },
+  {
+    "title": "Cut You Loose",
+    "artist": "T-Model Ford",
+    "isrc": "USFP71530301"
+  },
+  {
+    "title": "Right Place Wrong Time",
+    "artist": "Dr. John",
+    "isrc": "USAT20001805"
+  },
+  {
+    "title": "Bull Doze Blues",
+    "artist": "Henry Thomas",
+    "isrc": "DEUE12355865"
+  },
+  {
+    "title": "Am I Wrong",
+    "artist": "Keb' Mo'",
+    "isrc": "USSM19400668"
+  },
+  {
+    "title": "Stroll Out West",
+    "artist": "Eddie Taylor",
+    "isrc": "GB8XC1411266"
+  },
+  {
+    "title": "Leave Me Alone",
+    "artist": "Eden Brent",
+    "isrc": "USYDR1071606"
+  },
+  {
+    "title": "Saturday Blues",
+    "artist": "Ishman Bracey",
+    "isrc": "DEUE12334845"
+  },
+  {
+    "title": "Pay Day",
+    "artist": "The Blues Preachers",
+    "isrc": "AUAM10801431"
+  },
+  {
+    "title": "Wayfaring Pilgrim",
+    "artist": "Roy Buchanan",
+    "isrc": "USPR37487051"
+  },
+  {
+    "title": "Guitar Rag",
+    "artist": "Sylvester Weaver",
+    "isrc": "DEUE12334590"
+  },
+  {
+    "title": "A Thousand Miles From Nowhere",
+    "artist": "Robert Pete Williams",
+    "isrc": "USFI86101589"
+  },
+  {
+    "title": "Lazybones",
+    "artist": "Leon Redbone",
+    "isrc": "USWB10100848"
+  },
+  {
+    "title": "Rumble",
+    "artist": "Link Wray",
+    "isrc": "DEZZ42172536"
+  },
+  {
+    "title": "Garter Snake Blues",
+    "artist": "Victoria Spivey",
+    "isrc": "DEXN92266279"
+  },
+  {
+    "title": "St. Louis Blues",
+    "artist": "W.C. Handy",
+    "isrc": "USBRK0510032"
+  },
+  {
+    "title": "My Journey To The Sky",
+    "artist": "Sister Rosetta Tharpe, Marie Knight, Sam Price Trio",
+    "isrc": "USMC10300351"
+  },
+  {
+    "title": "Bye Bye Baby Blues",
+    "artist": "Texas Alexander",
+    "isrc": "DEXO22207874"
+  },
+  {
+    "title": "Blue Boogie",
+    "artist": "Ann Rabson",
+    "isrc": "USARL9784816"
+  },
+  {
+    "title": "Cold Hearted Woman",
+    "artist": "Magic Slim",
+    "isrc": "ATW161080902"
+  },
+  {
+    "title": "Blues for Jimmie and Jesse",
+    "artist": "Ronnie Earl",
+    "isrc": "US33C0400210"
+  },
+  {
+    "title": "Running Through High Water",
+    "artist": "Bob Margolin, Bob Corritore, Jimmy Vivino",
+    "isrc": "USA2B2201638"
+  },
+  {
+    "title": "Blues in My Soul",
+    "artist": "Lurrie Bell",
+    "isrc": "US4B91382902"
+  },
+  {
+    "title": "Annie's Rocker",
+    "artist": "Paul Rishell & Annie Raines, Charles Wheal, Gary Smith, Jr. Watson, June Care, Kim Wilson, Mark Hummel, R.J. Mischo, Steve Wolf",
+    "isrc": "USFDK0610251"
+  },
+  {
+    "title": "Baby Please Set a Date",
+    "artist": "John Long",
+    "isrc": "US3H81601165"
+  },
+  {
+    "title": "Come Tomorrow",
+    "artist": "Marie Knight",
+    "isrc": "GBLGL1285336"
+  },
+  {
+    "title": "Mystery Woman",
+    "artist": "Doug MacLeod",
+    "isrc": "USAKS0500802"
+  },
+  {
+    "title": "Fixin' to Die Blues",
+    "artist": "Bukka White",
+    "isrc": "USSM19901340"
+  },
+  {
+    "title": "Get Back",
+    "artist": "Big Bill Broonzy",
+    "isrc": "USA560621304"
+  },
+  {
+    "title": "I Got the Cross the River Jordan",
+    "artist": "Blind Willie McTell",
+    "isrc": "USAT20202149"
+  },
+  {
+    "title": "John the Revelator",
+    "artist": "Son House",
+    "isrc": "USSM19201062"
+  },
+  {
+    "title": "I'm Satisfied",
+    "artist": "Mississippi John Hurt",
+    "isrc": "USVG28707013"
+  },
+  {
+    "title": "A Spoonful Blues",
+    "artist": "Charley Patton",
+    "isrc": "DEXO22208662"
+  },
+  {
+    "title": "Hard Time Killing Floor Blues",
+    "artist": "Skip James",
+    "isrc": "USVG29884433"
+  },
+  {
+    "title": "She Left Me a Mule to Ride",
+    "artist": "Big Joe Williams",
+    "isrc": "AUXN22340983"
+  },
+  {
+    "title": "It Hurts Me Too",
+    "artist": "Tampa Red",
+    "isrc": "DEZZ42171913"
+  },
+  {
+    "title": "Back To New Orleans",
+    "artist": "Lightnin' Hopkins",
+    "isrc": "USFI86101048"
+  },
+  {
+    "title": "Black Snake Moan",
+    "artist": "Blind Lemon Jefferson",
+    "isrc": "DEXO22207960"
+  },
+  {
+    "title": "Rag, Mama, Rag",
+    "artist": "Blind Boy Fuller",
+    "isrc": "USSM10111498"
+  },
+  {
+    "title": "Midnight Special - Remastered 2002",
+    "artist": "Lead Belly",
+    "isrc": "USBB10200528"
+  },
+  {
+    "title": "Shake 'Em on Down",
+    "artist": "Mississippi Fred McDowell",
+    "isrc": "USFP70914901"
+  },
+  {
+    "title": "The Battle Is Over (But The War Goes On)",
+    "artist": "Sonny Terry, Brownie McGhee",
+    "isrc": "USWWW0201068"
+  },
+  {
+    "title": "Dark Was the Night, Cold Was the Ground",
+    "artist": "Blind Willie Johnson",
+    "isrc": "USSM12700035"
+  },
+  {
+    "title": "Statesboro Blues",
+    "artist": "Taj Mahal",
+    "isrc": "USSM10004052"
+  },
+  {
+    "title": "Some Day Baby",
+    "artist": "Lonnie Johnson",
+    "isrc": "DEZZ42171685"
+  },
+  {
+    "title": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+    "artist": "Rev. Gary Davis",
+    "isrc": "USFI86400223"
+  },
+  {
+    "title": "Catfish Blues",
+    "artist": "David \"Honeyboy\" Edwards",
+    "isrc": "USSF10113202"
+  },
+  {
+    "title": "Diggin' My Potatoes",
+    "artist": "Brownie McGhee, Sonny Terry",
+    "isrc": "DKEFA0504601"
+  },
+  {
+    "title": "Mama Talk To Your Daughter",
+    "artist": "J.B. Lenoir",
+    "isrc": "USMC15452608"
+  },
+  {
+    "title": "Shake 'Em on Down",
+    "artist": "R.L. Burnside",
+    "isrc": "USFP70400264"
+  },
+  {
+    "title": "Me and the Devil Blues",
+    "artist": "Robert Johnson",
+    "isrc": "USSM13700051"
+  },
+  {
+    "title": "Kissing in the Dark",
+    "artist": "Memphis Minnie",
+    "isrc": "DEXO42202209"
+  },
+  {
+    "title": "Bring It On Home",
+    "artist": "Sonny Boy Williamson II",
+    "isrc": "USMC16346877"
+  },
+  {
+    "title": "Keep Your Lamp Trimmed And Burning",
+    "artist": "Corey Harris",
+    "isrc": "USARL9583703"
+  },
+  {
+    "title": "Lovin' Whiskey",
+    "artist": "Rory Block",
+    "isrc": "USRO28630978"
+  },
+  {
+    "title": "Big Mama's Door",
+    "artist": "Alvin Youngblood Hart",
+    "isrc": "USSM19502461"
+  },
+  {
+    "title": "That's All Right",
+    "artist": "Arthur \"Big Boy\" Crudup",
+    "isrc": "USBB19900236"
+  },
+  {
+    "title": "Buzzin'",
+    "artist": "Slim Harpo",
+    "isrc": "GB8XC2103431"
+  },
+  {
+    "title": "Freight Train to Ride",
+    "artist": "Louisiana Red",
+    "isrc": "USAT20503714"
+  },
+  {
+    "title": "With My Maker I Am One",
+    "artist": "Eric Bibb",
+    "isrc": "USTE10920040"
+  },
+  {
+    "title": "Spoonful",
+    "artist": "Howlin' Wolf",
+    "isrc": "USMC16051851"
+  },
+  {
+    "title": "Pawnshop Blues",
+    "artist": "Sonny Terry and Brownie McGhee",
+    "isrc": "SEVCE2401102"
+  },
+  {
+    "title": "Hastings Street",
+    "artist": "Blind Blake",
+    "isrc": "DEUD92377548"
+  },
+  {
+    "title": "Papa's on the House Top",
+    "artist": "Leroy Carr",
+    "isrc": "USSM10403829"
+  },
+  {
+    "title": "Evil Woman",
+    "artist": "Champion Jack Dupree",
+    "isrc": "USAT20003200"
+  },
+  {
+    "title": "Mean Old Twister",
+    "artist": "Kokomo Arnold",
+    "isrc": "DEXO22208334"
+  },
+  {
+    "title": "Saint James Infirmary",
+    "artist": "Snooks Eaglin",
+    "isrc": "USSF10516504"
+  },
+  {
+    "title": "Nothing In Rambling",
+    "artist": "Sue Foley",
+    "isrc": "CAS432400008"
+  },
+  {
+    "title": "Maybe I'll Go",
+    "artist": "Guy Davis",
+    "isrc": "QMPCY1500019"
+  },
+  {
+    "title": "Low Society",
+    "artist": "Lowell Fulson",
+    "isrc": "USUM72109216"
+  },
+  {
+    "title": "What They Say",
+    "artist": "Chris Smither",
+    "isrc": "TCABF1243563"
+  },
+  {
+    "title": "I Ain't Drunk - Remastered",
+    "artist": "Albert Collins",
+    "isrc": "USARL8675205"
+  },
+  {
+    "title": "Feels so Good #1",
+    "artist": "Junior Kimbrough",
+    "isrc": "USFP70921102"
+  },
+  {
+    "title": "Nasty Letter",
+    "artist": "Otis Taylor",
+    "isrc": "USTE10458710"
+  },
+  {
+    "title": "Bo Diddley",
+    "artist": "Bo Diddley",
+    "isrc": "USUM70729432"
+  },
+  {
+    "title": "That's No Way to Get Along (Alternate Take)",
+    "artist": "Robert Wilkins",
+    "isrc": "DEUE22381436"
+  },
+  {
+    "title": "Sweet Little Angel",
+    "artist": "Big Mama Thornton",
+    "isrc": "USAP38930501"
+  },
+  {
+    "title": "Cocaine Habit Blues",
+    "artist": "Memphis Jug Band",
+    "isrc": "US7SF1354748"
+  },
+  {
+    "title": "The Return Of Duke's Mood (Unreleased Demo)",
+    "artist": "Duke Robillard",
+    "isrc": "CAS430700040"
+  },
+  {
+    "title": "Go Ahead, Buddy",
+    "artist": "Casey Bill Weldon, Kokomo Arnold",
+    "isrc": "DEXO22208280"
+  },
+  {
+    "title": "Well I Done Got Over It",
+    "artist": "Guitar Slim",
+    "isrc": "USSPI5300022"
+  },
+  {
+    "title": "Feelin' Bad Blues - 2008 Remaster",
+    "artist": "Ry Cooder",
+    "isrc": "USWB10806253"
+  },
+  {
+    "title": "Prisoner",
+    "artist": "Cary Morin",
+    "isrc": "QMGDB1300037"
+  },
+  {
+    "title": "Poor Boy Long Ways From Home",
+    "artist": "Bukka White",
+    "isrc": "SEBFO0400469"
+  },
+  {
+    "title": "Evil Woman Blues",
+    "artist": "Big Bill Broonzy",
+    "isrc": "SEVCE2401103"
+  },
+  {
+    "title": "You Was Born to Die",
+    "artist": "Blind Willie McTell",
+    "isrc": "DEXO22208635"
+  },
+  {
+    "title": "Death Letter",
+    "artist": "Son House",
+    "isrc": "USC4R2110946"
+  },
+  {
+    "title": "Make Me A Pallet On Your Floor",
+    "artist": "Mississippi John Hurt",
+    "isrc": "USVG28706270"
+  },
+  {
+    "title": "Devil Sent the Rain Blues",
+    "artist": "Charley Patton",
+    "isrc": "DEXO22208661"
+  },
+  {
+    "title": "Crow Jane",
+    "artist": "Skip James",
+    "isrc": "USA560520752"
+  },
+  {
+    "title": "Rollin' And Tumblin'",
+    "artist": "Big Joe Williams",
+    "isrc": "USFI86600353"
+  },
+  {
+    "title": "Mean and Evil Blues",
+    "artist": "Tampa Red",
+    "isrc": "DEZZ42171909"
+  },
+  {
+    "title": "What'd I Say",
+    "artist": "Lightnin' Hopkins",
+    "isrc": "QM4TW1756175"
+  },
+  {
+    "title": "Bad Luck Blues",
+    "artist": "Blind Lemon Jefferson",
+    "isrc": "USFI82600013"
+  },
+  {
+    "title": "Money Spending Mama",
+    "artist": "Blind Boy Fuller",
+    "isrc": "UKU6H1904042"
+  },
+  {
+    "title": "Goodnight, Irene - 2022 Remaster",
+    "artist": "Lead Belly",
+    "isrc": "QM4TX2352185"
+  },
+  {
+    "title": "Good Morning Little Schoolgirl",
+    "artist": "Mississippi Fred McDowell",
+    "isrc": "USAP39442401"
+  },
+  {
+    "title": "People Get Ready",
+    "artist": "Sonny Terry, Brownie McGhee",
+    "isrc": "USWWW0201063"
+  },
+  {
+    "title": "John the Revelator",
+    "artist": "Blind Willie Johnson",
+    "isrc": "USSM13000020"
+  },
+  {
+    "title": "Lovin' in My Baby's Eyes",
+    "artist": "Taj Mahal",
+    "isrc": "USPM19639010"
+  },
+  {
+    "title": "I'm Not Rough",
+    "artist": "Lonnie Johnson, Louis Armstrong & His Hot Five",
+    "isrc": "FR4HR1807427"
+  },
+  {
+    "title": "Samson And Delilah",
+    "artist": "Rev. Gary Davis",
+    "isrc": "USFI86000127"
+  },
+  {
+    "title": "Crossroads",
+    "artist": "David \"Honeyboy\" Edwards",
+    "isrc": "USA560574532"
+  },
+  {
+    "title": "Unfair Blues",
+    "artist": "Brownie McGhee",
+    "isrc": "FR4HR1807717"
+  },
+  {
+    "title": "When I Am Drinking",
+    "artist": "J.B. Lenoir",
+    "isrc": "USMC10300450"
+  },
+  {
+    "title": "Poor Black Mattie",
+    "artist": "R.L. Burnside",
+    "isrc": "USFP70400204"
+  },
+  {
+    "title": "Sweet Home Chicago",
+    "artist": "Robert Johnson",
+    "isrc": "USSM10404756"
+  },
+  {
+    "title": "When the Levee Breaks",
+    "artist": "Memphis Minnie",
+    "isrc": "DEXO42202210"
+  },
+  {
+    "title": "Early In The Morning",
+    "artist": "Corey Harris",
+    "isrc": "USARL9583704"
+  },
+  {
+    "title": "Don't Start Me To Talkin'",
+    "artist": "Sonny Boy Williamson II",
+    "isrc": "USMC15546857"
+  },
+  {
+    "title": "Lovin' Whiskey - Live",
+    "artist": "Rory Block",
+    "isrc": "BLG090811111"
+  }
+]

@@ -1,0 +1,792 @@
+[
+  {
+    "title": "El Toro Moro",
+    "artist": "Autentico Tamborazo 2001",
+    "isrc": "QM6DC1664550"
+  },
+  {
+    "title": "Arriba Pichataro",
+    "artist": "Tamborazo Corraleros",
+    "isrc": "QM4TW2121646"
+  },
+  {
+    "title": "Los Coconitos",
+    "artist": "Los Mejores Tamborazos De Mexico",
+    "isrc": "QM6DC1539080"
+  },
+  {
+    "title": "El Toro Viejo",
+    "artist": "Tamborazo Latino De Zacatecas",
+    "isrc": "QM4TW2121031"
+  },
+  {
+    "title": "El Jaliscience",
+    "artist": "Chibuya Y Su Tamborazo Banda Los Gallitos",
+    "isrc": "QM6DC1676075"
+  },
+  {
+    "title": "El Pato Asado (Instrumental)",
+    "artist": "Tamborazo Arrieros De Nayarit",
+    "isrc": "USJTQ0710937"
+  },
+  {
+    "title": "La Loba",
+    "artist": "Tamborazo Los Cowboys De Jerez Zac",
+    "isrc": "USA2P1107239"
+  },
+  {
+    "title": "Corazon De Texas",
+    "artist": "Tamborazo Del Rancho",
+    "isrc": "QM6DC1525443"
+  },
+  {
+    "title": "Las Carmelitas",
+    "artist": "Tamborazo El Penasco de Las Adjuntas Villanueva, Zac.",
+    "isrc": "USJ3V1386505"
+  },
+  {
+    "title": "Los Quinientos Novillos",
+    "artist": "La Autentico Tamborazo Zacatecano",
+    "isrc": "QMDA71478150"
+  },
+  {
+    "title": "Lamberto Quintero",
+    "artist": "Tamborazo Los Alegres De Jerez",
+    "isrc": "QM4TW2114907"
+  },
+  {
+    "title": "El Toro Requezon",
+    "artist": "Banda San Martin",
+    "isrc": "TCAAS1038846"
+  },
+  {
+    "title": "La Cabrona",
+    "artist": "Tamborazo Ritmo 7",
+    "isrc": "QM7281938085"
+  },
+  {
+    "title": "El Ahualulco",
+    "artist": "Banda Los Huejoteños",
+    "isrc": "QMXNK0810501"
+  },
+  {
+    "title": "Los Barreteros",
+    "artist": "Tamborazo de Tony Flores",
+    "isrc": "QMDA71478167"
+  },
+  {
+    "title": "El Sinaloense",
+    "artist": "Tamborazo Los Originales De Jerez",
+    "isrc": "QM4TW2120812"
+  },
+  {
+    "title": "Los enanitos",
+    "artist": "Tamborazo Banda Del Rancho",
+    "isrc": "QM6DC1677021"
+  },
+  {
+    "title": "La Cococha",
+    "artist": "Tamborazo Zacatecano",
+    "isrc": "USJTQ0710935"
+  },
+  {
+    "title": "Catarino y los Rurales",
+    "artist": "Tamborazo Los Toritos De Jerez",
+    "isrc": "QM4TW2121824"
+  },
+  {
+    "title": "Juan Colorado",
+    "artist": "Tamborazo Jerez '75",
+    "isrc": "TCABB1176117"
+  },
+  {
+    "title": "Rumbo A La Canada",
+    "artist": "Tamborazo Caliente",
+    "isrc": "USJ3V1076780"
+  },
+  {
+    "title": "El Golpe Traidor",
+    "artist": "Tamborazo De Cuco Escamilla",
+    "isrc": "QM6DC1557606"
+  },
+  {
+    "title": "Arriba Pichataro",
+    "artist": "Tamborazo San Miguel",
+    "isrc": "QM4TX1771198"
+  },
+  {
+    "title": "Arriba Picharataro",
+    "artist": "La Banda De Los Pobres Musica De Viento",
+    "isrc": "US3DF1103582"
+  },
+  {
+    "title": "El Nino Perdido",
+    "artist": "Tamborazo de Chubya y sus Gallitos",
+    "isrc": "QMDA71478162"
+  },
+  {
+    "title": "El Toro Bermejo",
+    "artist": "Tamborazo Viva Jerez",
+    "isrc": "QM6MZ2113459"
+  },
+  {
+    "title": "El Toro Mambo",
+    "artist": "Tamborazo Zacatecano Del cañon De Juchipila",
+    "isrc": "QM4TW1736836"
+  },
+  {
+    "title": "El Borrego Cacheton",
+    "artist": "Banda El Valle",
+    "isrc": "QM4TX1718696"
+  },
+  {
+    "title": "EL TECORUCHO",
+    "artist": "Banda Tamazulas",
+    "isrc": "USZBG1201436"
+  },
+  {
+    "title": "Pena Tras Pena",
+    "artist": "Banda Los Portenos",
+    "isrc": "US3DF1102620"
+  },
+  {
+    "title": "El Toro Mambo",
+    "artist": "Tamborazo Los Parientes De Nayarit",
+    "isrc": "USPWN1010839"
+  },
+  {
+    "title": "Candido Rodriguez",
+    "artist": "Tamborazo De Arranque",
+    "isrc": "TCABU1412598"
+  },
+  {
+    "title": "Eres Alta y Delgadita",
+    "artist": "Tamborazo Hnos. De La Rosa de Ruben Felix",
+    "isrc": "QM6DC1551590"
+  },
+  {
+    "title": "Son del Muerto",
+    "artist": "La Super Banda de Chilacachapa, Gro",
+    "isrc": "ushm21437211"
+  },
+  {
+    "title": "El Toro Mambo",
+    "artist": "Banda La Jaripera",
+    "isrc": "US9CY1002466"
+  },
+  {
+    "title": "La India Bonita",
+    "artist": "Banda Hnos. Rubio de Mocorito",
+    "isrc": "QM7281740406"
+  },
+  {
+    "title": "El Capiro",
+    "artist": "Banda Los Escamilla",
+    "isrc": "QM6DC1560889"
+  },
+  {
+    "title": "Popurri: Cararon / Cocaleca / El Cable",
+    "artist": "Tamborazo Viva Mexico de Ruben Mena Puro Nochistlan, ZAC.",
+    "isrc": "USPWN1012000"
+  },
+  {
+    "title": "Gavilan Pollero",
+    "artist": "Tamborazo Mora Azul",
+    "isrc": "QM4TW2119304"
+  },
+  {
+    "title": "Dos Amantes",
+    "artist": "Banda Clave Azul",
+    "isrc": "QM6DC1537701"
+  },
+  {
+    "title": "El Novillo Despuntado",
+    "artist": "Banda Sinaloense Puro LLano",
+    "isrc": "USZBG1119180"
+  },
+  {
+    "title": "El Huitzuqueño",
+    "artist": "La Super Banda de Chilacachapa, Gro",
+    "isrc": "USCGJ1472128"
+  },
+  {
+    "title": "El Rey De Los Coleaderos",
+    "artist": "El Nono y Su Banda Reina de Jerez",
+    "isrc": "TCABK1236944"
+  },
+  {
+    "title": "El Carretero",
+    "artist": "Banda la Sinaloense",
+    "isrc": "MXF550602164"
+  },
+  {
+    "title": "Corrido De Luis Pulido",
+    "artist": "Banda La Chacaloza De Jerez Zacatecas, Banda Corona del Rey",
+    "isrc": "QM6MZ2408486"
+  },
+  {
+    "title": "El Son de los Aguacates",
+    "artist": "Banda Sinaloense MM",
+    "isrc": "QM7281738181"
+  },
+  {
+    "title": "Como Me Gusta Ese Rancho",
+    "artist": "Tamborazo Zon de Zacatecas",
+    "isrc": "US9CY1600482"
+  },
+  {
+    "title": "El Olotito",
+    "artist": "Banda Yurirense",
+    "isrc": "USJ3V1122659"
+  },
+  {
+    "title": "El Ahuichote",
+    "artist": "Tamborazo Intruzo",
+    "isrc": "uscgj1537851"
+  },
+  {
+    "title": "El Campesino",
+    "artist": "Banda El Terre De Jerez",
+    "isrc": "TCADS1887329"
+  },
+  {
+    "title": "El Novillo Despuntado",
+    "artist": "Tamborazo Zacatecano de Ramon Felix",
+    "isrc": "QMFME2041246"
+  },
+  {
+    "title": "Flor de Dalia",
+    "artist": "Tamborazo Alegres De Jerez",
+    "isrc": "QM6DC1557637"
+  },
+  {
+    "title": "El Toro Pinto",
+    "artist": "Banda Zirahuen",
+    "isrc": "US9CY1600892"
+  },
+  {
+    "title": "La Cabrona",
+    "artist": "Tamborazo Pancho Villa",
+    "isrc": "US9CY1001279"
+  },
+  {
+    "title": "Mete Y Saca",
+    "artist": "Banda Sairu",
+    "isrc": "USZBG1201361"
+  },
+  {
+    "title": "La Rata Flaca",
+    "artist": "Banda Autentica de Jerez",
+    "isrc": "MXF440600479"
+  },
+  {
+    "title": "Sal Y Limon",
+    "artist": "Tamborazo Los Orijinales De Jerez Zacatecas",
+    "isrc": "US3DF1202198"
+  },
+  {
+    "title": "La Muerta",
+    "artist": "Paraiso Tropical De Durango",
+    "isrc": "QM6N21566508"
+  },
+  {
+    "title": "Dos de Te",
+    "artist": "Tamborazo Kora",
+    "isrc": "QM4TW2119325"
+  },
+  {
+    "title": "Tamarindo",
+    "artist": "La Numero 1 Banda Jerez De Marco A. Flores",
+    "isrc": "USFI20605063"
+  },
+  {
+    "title": "Los Amores de Julia",
+    "artist": "Banda Rancho Alegre",
+    "isrc": "USJ3V1322557"
+  },
+  {
+    "title": "La Ultima Cancion",
+    "artist": "AJR All-Stars",
+    "isrc": "QZDQH2305365"
+  },
+  {
+    "title": "Toro Pinto",
+    "artist": "Tamborazo Michoacano",
+    "isrc": "TCACL1657621"
+  },
+  {
+    "title": "La Marcha de Zacatecas (Instrumental)",
+    "artist": "Tamborazo 30 30",
+    "isrc": "USJTQ0710846"
+  },
+  {
+    "title": "Tampico Hermoso (Instrumental)",
+    "artist": "Tamborazo Jerez",
+    "isrc": "USJTQ0710841"
+  },
+  {
+    "title": "La Loba del Mal",
+    "artist": "Tamborazo Jerezano",
+    "isrc": "USJTQ0710934"
+  },
+  {
+    "title": "Los Hijos de Buda (Instrumental)",
+    "artist": "Tamborazo Villista",
+    "isrc": "USJTQ0710837"
+  },
+  {
+    "title": "A Mover El Bote",
+    "artist": "El Corazon De Jerez",
+    "isrc": "QM6DC1523213"
+  },
+  {
+    "title": "El Corrido De Los Mendoza",
+    "artist": "El Tamborazo Del Villa",
+    "isrc": "US78T0729106"
+  },
+  {
+    "title": "El Elotito",
+    "artist": "Ramon Felix y Su Tamborazo Jerez Zacatecas",
+    "isrc": "QM6DC1543221"
+  },
+  {
+    "title": "Mi Lindo Nayarit",
+    "artist": "Tamborazo Banda Del Rancho De Nayarit",
+    "isrc": "QM6DC1557580"
+  },
+  {
+    "title": "El Toro y el Coporal",
+    "artist": "Tamborazo Hermanos De La Rosa",
+    "isrc": "USJTQ1715652"
+  },
+  {
+    "title": "La Novia Del Pajarillo",
+    "artist": "Tamborazo Los Caneros De Jerez",
+    "isrc": "QM6DC1557628"
+  },
+  {
+    "title": "Flor De Dalia (En Vivo)",
+    "artist": "Tamborazo Mora Azul De Apulco, Zacatecas",
+    "isrc": "QM6DC1873692"
+  },
+  {
+    "title": "El Toro Mambo",
+    "artist": "Tamborazo Originals De Jerez",
+    "isrc": "USJTQ1715636"
+  },
+  {
+    "title": "Los Colorados",
+    "artist": "Autentico Tamborazo 2001",
+    "isrc": "QM6DC1683410"
+  },
+  {
+    "title": "Tamarindo",
+    "artist": "Tamborazo Corraleros",
+    "isrc": "QM4TW2119056"
+  },
+  {
+    "title": "El Toro Viejo",
+    "artist": "Los Mejores Tamborazos De Mexico",
+    "isrc": "QM6DC1339069"
+  },
+  {
+    "title": "La Chirriona",
+    "artist": "Tamborazo Latino De Zacatecas",
+    "isrc": "QM4TW2121033"
+  },
+  {
+    "title": "El Platanito",
+    "artist": "Chibuya Y Su Tamborazo Banda Los Gallitos",
+    "isrc": "QM6DC1677501"
+  },
+  {
+    "title": "El Pescuezo del Pollo",
+    "artist": "Tamborazo Arrieros De Nayarit",
+    "isrc": "USJTQ0710931"
+  },
+  {
+    "title": "La Abeja Miope",
+    "artist": "Tamborazo Los Cowboys De Jerez Zac",
+    "isrc": "USA2P1107236"
+  },
+  {
+    "title": "Los Enanitos - Bonus Track",
+    "artist": "Tamborazo Del Rancho",
+    "isrc": "QM6DC1525451"
+  },
+  {
+    "title": "Cumbia Arabe",
+    "artist": "Tamborazo El Penasco de Las Adjuntas Villanueva, Zac.",
+    "isrc": "USJ3V1386501"
+  },
+  {
+    "title": "La Roncona",
+    "artist": "La Autentico Tamborazo Zacatecano",
+    "isrc": "QMDA71478141"
+  },
+  {
+    "title": "Busca Otro Amor",
+    "artist": "Tamborazo Los Alegres De Jerez",
+    "isrc": "QM4TW2114902"
+  },
+  {
+    "title": "La Vaquita",
+    "artist": "Banda San Martin",
+    "isrc": "TCAAS1038851"
+  },
+  {
+    "title": "Como Quieres Que Te Quiera",
+    "artist": "Tamborazo Ritmo 7",
+    "isrc": "QM7281938088"
+  },
+  {
+    "title": "El Rodeo de San Pueblo",
+    "artist": "Tamborazo de Tony Flores",
+    "isrc": "QMDA71478165"
+  },
+  {
+    "title": "La Pava",
+    "artist": "Banda Los Huejoteños",
+    "isrc": "TCAAS1045528"
+  },
+  {
+    "title": "El Mechon",
+    "artist": "Tamborazo Los Originales De Jerez",
+    "isrc": "QM4TW2120762"
+  },
+  {
+    "title": "Corazon de Texas",
+    "artist": "Tamborazo Banda Del Rancho",
+    "isrc": "QM6DC1677017"
+  },
+  {
+    "title": "Mi Gusto Es",
+    "artist": "Tamborazo Zacatecano",
+    "isrc": "QM6DC1724686"
+  },
+  {
+    "title": "El Sauce y la Palma",
+    "artist": "Tamborazo Los Toritos De Jerez",
+    "isrc": "QM4TW2121823"
+  },
+  {
+    "title": "Dicen Que Los Ojos Negros",
+    "artist": "Tamborazo Jerez '75",
+    "isrc": "TCAAR1074292"
+  },
+  {
+    "title": "Juan Colorado",
+    "artist": "Tamborazo Caliente",
+    "isrc": "USJ3V1076777"
+  },
+  {
+    "title": "La Carmelita",
+    "artist": "Tamborazo De Cuco Escamilla",
+    "isrc": "QM4TW2121588"
+  },
+  {
+    "title": "El Nino Perdido",
+    "artist": "Tamborazo San Miguel",
+    "isrc": "QM4TX1771196"
+  },
+  {
+    "title": "Los Sufrimientos",
+    "artist": "La Banda De Los Pobres Musica De Viento",
+    "isrc": "US3DF1103590"
+  },
+  {
+    "title": "Lino Rodarte",
+    "artist": "Tamborazo de Chubya y sus Gallitos",
+    "isrc": "QMDA71478161"
+  },
+  {
+    "title": "El Gallito",
+    "artist": "Tamborazo Viva Jerez",
+    "isrc": "QM6MZ2113452"
+  },
+  {
+    "title": "La Marcha de Zacatecas",
+    "artist": "Tamborazo Zacatecano Del cañon De Juchipila",
+    "isrc": "QM4TW1736856"
+  },
+  {
+    "title": "El Tecolotito",
+    "artist": "Banda El Valle",
+    "isrc": "QM4TX1718699"
+  },
+  {
+    "title": "LOS AMORES DE JULIA",
+    "artist": "Banda Tamazulas",
+    "isrc": "USZBG1201427"
+  },
+  {
+    "title": "El Herradero",
+    "artist": "Banda Los Portenos",
+    "isrc": "US3DF1102826"
+  },
+  {
+    "title": "La Yaquecita",
+    "artist": "Tamborazo Los Parientes De Nayarit",
+    "isrc": "USPWN1010841"
+  },
+  {
+    "title": "Palillos Chinos",
+    "artist": "Tamborazo De Arranque",
+    "isrc": "TCABU1412594"
+  },
+  {
+    "title": "Corrido De Durango",
+    "artist": "Tamborazo Hnos. De La Rosa de Ruben Felix",
+    "isrc": "QM6DC1551591"
+  },
+  {
+    "title": "Sones de la Costa",
+    "artist": "La Super Banda de Chilacachapa, Gro",
+    "isrc": "FR2X41838249"
+  },
+  {
+    "title": "Los Amores de Julia",
+    "artist": "Banda Hnos. Rubio de Mocorito",
+    "isrc": "QM7281740415"
+  },
+  {
+    "title": "Arriba Pichataro",
+    "artist": "Banda La Jaripera",
+    "isrc": "US9CY1002468"
+  },
+  {
+    "title": "Ando Borracho",
+    "artist": "Banda Los Escamilla",
+    "isrc": "QM6DC1560886"
+  },
+  {
+    "title": "El Novillo Despuntado",
+    "artist": "Tamborazo Viva Mexico de Ruben Mena Puro Nochistlan, ZAC.",
+    "isrc": "USPWN1011994"
+  },
+  {
+    "title": "La Feria de las Flores",
+    "artist": "Tamborazo Mora Azul",
+    "isrc": "QM4TW2119314"
+  },
+  {
+    "title": "Le Mande Una Carta A Esther",
+    "artist": "Banda Clave Azul",
+    "isrc": "US3DF1435152"
+  },
+  {
+    "title": "La Pajarera",
+    "artist": "Banda Sinaloense Puro LLano",
+    "isrc": "USZBG1119181"
+  },
+  {
+    "title": "La Diana Ranchera",
+    "artist": "La Super Banda de Chilacachapa, Gro",
+    "isrc": "ushm21473143"
+  },
+  {
+    "title": "El Niño Perdido",
+    "artist": "Banda la Sinaloense",
+    "isrc": "MXF550602169"
+  },
+  {
+    "title": "El Tecolotito",
+    "artist": "El Nono y Su Banda Reina de Jerez",
+    "isrc": "US39K1630903"
+  },
+  {
+    "title": "Mi Estilo De Vida",
+    "artist": "Banda La Chacaloza De Jerez Zacatecas, La Septima Banda",
+    "isrc": "MXUM71902572"
+  },
+  {
+    "title": "El Coyote",
+    "artist": "Banda Sinaloense MM",
+    "isrc": "QM7281738189"
+  },
+  {
+    "title": "Te Vas Ángel Mío",
+    "artist": "Tamborazo Zon de Zacatecas",
+    "isrc": "US9CY1600484"
+  },
+  {
+    "title": "De Pueblo en Pueblo",
+    "artist": "Banda Yurirense",
+    "isrc": "QZHN72146245"
+  },
+  {
+    "title": "Gabino Barrera",
+    "artist": "Tamborazo Intruzo",
+    "isrc": "uscgj1537857"
+  },
+  {
+    "title": "El Peor De Mis Fracasos",
+    "artist": "Banda El Terre De Jerez",
+    "isrc": "TCADA1713714"
+  },
+  {
+    "title": "Cuatro Milpas",
+    "artist": "Tamborazo Zacatecano de Ramon Felix",
+    "isrc": "QMBZ92362881"
+  },
+  {
+    "title": "Suerte He Tenido",
+    "artist": "Tamborazo Alegres De Jerez",
+    "isrc": "QM6DC1557640"
+  },
+  {
+    "title": "Chiquilla Bonita",
+    "artist": "Banda Zirahuen",
+    "isrc": "MXF369734144"
+  },
+  {
+    "title": "Danza De Las Varitas",
+    "artist": "Tamborazo Pancho Villa",
+    "isrc": "US9CY1001283"
+  },
+  {
+    "title": "Talento de Televisión",
+    "artist": "Banda Sairu",
+    "isrc": "US3DF2017114"
+  },
+  {
+    "title": "Los Viejitos",
+    "artist": "Autentico Tamborazo 2001",
+    "isrc": "QM6DC1666322"
+  },
+  {
+    "title": "Juan Colorado",
+    "artist": "Tamborazo Corraleros",
+    "isrc": "QM4TW2121653"
+  },
+  {
+    "title": "El Cangrejito Playero",
+    "artist": "Los Mejores Tamborazos De Mexico",
+    "isrc": "QM6DC1339071"
+  },
+  {
+    "title": "Arriba Toniche",
+    "artist": "Tamborazo Latino De Zacatecas",
+    "isrc": "QM4TW2121038"
+  },
+  {
+    "title": "Sonora y Sus Ojos Negros",
+    "artist": "Chibuya Y Su Tamborazo Banda Los Gallitos",
+    "isrc": "QM4TW1736908"
+  },
+  {
+    "title": "Las Mañanitas",
+    "artist": "Tamborazo Arrieros De Nayarit",
+    "isrc": "QMBZ92369117"
+  },
+  {
+    "title": "Pequeña Y Frágil",
+    "artist": "Tamborazo Los Cowboys De Jerez Zac",
+    "isrc": "USA2P1107243"
+  },
+  {
+    "title": "Tampico Hermoso",
+    "artist": "Tamborazo Del Rancho",
+    "isrc": "QM6DC1525446"
+  },
+  {
+    "title": "El Ahualulco",
+    "artist": "Tamborazo El Penasco de Las Adjuntas Villanueva, Zac.",
+    "isrc": "USJ3V1386498"
+  },
+  {
+    "title": "Arriba Pichataro",
+    "artist": "La Autentico Tamborazo Zacatecano",
+    "isrc": "QMDA71478147"
+  },
+  {
+    "title": "De Buena Gana",
+    "artist": "Tamborazo Los Alegres De Jerez",
+    "isrc": "QM4TW2114905"
+  },
+  {
+    "title": "El Toro De San Marcos",
+    "artist": "Banda San Martin",
+    "isrc": "TCAAS1038850"
+  },
+  {
+    "title": "El Nino Perdido",
+    "artist": "Tamborazo Ritmo 7",
+    "isrc": "QM7281938081"
+  },
+  {
+    "title": "La Zacatecana",
+    "artist": "Tamborazo de Tony Flores",
+    "isrc": "QMDA71478164"
+  },
+  {
+    "title": "Nacho Telles",
+    "artist": "Banda Los Huejoteños",
+    "isrc": "QMXNK0000612"
+  },
+  {
+    "title": "El Son de los Aguacates",
+    "artist": "Tamborazo Los Originales De Jerez",
+    "isrc": "QM4TW2120813"
+  },
+  {
+    "title": "Vuela paloma",
+    "artist": "Tamborazo Banda Del Rancho",
+    "isrc": "QM6DC1677016"
+  },
+  {
+    "title": "Los Verjelitos",
+    "artist": "Tamborazo Zacatecano",
+    "isrc": "QM6DC1724683"
+  },
+  {
+    "title": "La Tarantula",
+    "artist": "Tamborazo Los Toritos De Jerez",
+    "isrc": "QM4TW2121822"
+  },
+  {
+    "title": "Dos Palomas Al Volar",
+    "artist": "Tamborazo Jerez '75",
+    "isrc": "TCAAR1074268"
+  },
+  {
+    "title": "Martinez y Talamante",
+    "artist": "Tamborazo De Cuco Escamilla",
+    "isrc": "QM4TW2121599"
+  },
+  {
+    "title": "Toro De Once (Popurri)",
+    "artist": "Tamborazo Caliente",
+    "isrc": "USJ3V1076781"
+  },
+  {
+    "title": "La Loba del Mar",
+    "artist": "Tamborazo San Miguel",
+    "isrc": "QM4TX1771205"
+  },
+  {
+    "title": "El Herradero",
+    "artist": "La Banda De Los Pobres Musica De Viento",
+    "isrc": "US3DF1121143"
+  },
+  {
+    "title": "La Toma de Zacatecas",
+    "artist": "Tamborazo de Chubya y sus Gallitos",
+    "isrc": "QMDA71478158"
+  },
+  {
+    "title": "El Perro Chato",
+    "artist": "Tamborazo Viva Jerez",
+    "isrc": "QM6MZ2113455"
+  },
+  {
+    "title": "La Yaquesita",
+    "artist": "Tamborazo Zacatecano Del cañon De Juchipila",
+    "isrc": "QM4TW1736835"
+  },
+  {
+    "title": "El Nino Perdido",
+    "artist": "Banda El Valle",
+    "isrc": "US3DF1103983"
+  }
+]

@@ -1,0 +1,822 @@
+[
+  {
+    "title": "Florecita del camino",
+    "artist": "Plectro Trío",
+    "isrc": "uscgj0859174"
+  },
+  {
+    "title": "Bochica",
+    "artist": "Trío Morales Pino",
+    "isrc": "QZHZ41970200"
+  },
+  {
+    "title": "Cunsia",
+    "artist": "Trío Nueva Colombia",
+    "isrc": "QM4TW1777346"
+  },
+  {
+    "title": "La Contradanza",
+    "artist": "Oriol Rangel",
+    "isrc": "QZHZ51939906"
+  },
+  {
+    "title": "Bandolita",
+    "artist": "Ensamble Tríptico",
+    "isrc": "ushm91222666"
+  },
+  {
+    "title": "Trigalia",
+    "artist": "Cuarteto Colombiano",
+    "isrc": "FR2X41564949"
+  },
+  {
+    "title": "Bambuquísimo",
+    "artist": "Guafa Trío",
+    "isrc": "US7VG1629641"
+  },
+  {
+    "title": "Despasillo por Favor",
+    "artist": "Palos y Cuerdas",
+    "isrc": "uscgh1919961"
+  },
+  {
+    "title": "Tu Corazón en Bambuco",
+    "artist": "Ruth Marulanda Salazar",
+    "isrc": "FR2X41580155"
+  },
+  {
+    "title": "San Pedro en Espinal",
+    "artist": "Pedro Nel Martinez",
+    "isrc": "FR2X41564999"
+  },
+  {
+    "title": "Ruego - Pasillo",
+    "artist": "Dueto Nocturnal",
+    "isrc": "USR010711753"
+  },
+  {
+    "title": "Fantasía en 6/8",
+    "artist": "Ensamble Cruzao",
+    "isrc": "ES71G1711173"
+  },
+  {
+    "title": "Bochica",
+    "artist": "Francisco Cristancho, Orquesta Colombiana",
+    "isrc": "COUM71200062"
+  },
+  {
+    "title": "El Tato",
+    "artist": "El Barbero del Socorro",
+    "isrc": "TCAHE2312238"
+  },
+  {
+    "title": "Rumbas Criollas: Éntrale en Ayunas / La Loca Margarita / Que Vivan los Novios / Luz de Mi Vida / La Pascua / Mariquiteña",
+    "artist": "Grupo Caminata",
+    "isrc": "ES71G1411214"
+  },
+  {
+    "title": "San Pedro en el Espinal",
+    "artist": "JOSÉ LUIS MARTÍNEZ VESGA",
+    "isrc": "COFM19727096"
+  },
+  {
+    "title": "El Bunde Tolimense",
+    "artist": "La Gran Rondalla Colombiana",
+    "isrc": "QM7281581156"
+  },
+  {
+    "title": "Guabina Chiquinquireña",
+    "artist": "Manuel J. Bernal",
+    "isrc": "COFC10910209"
+  },
+  {
+    "title": "Campesina Santandereana",
+    "artist": "Hermanos Martínez",
+    "isrc": "QZHZ51940379"
+  },
+  {
+    "title": "Anita La Bogotanita",
+    "artist": "Giovanni Parra Quinteto",
+    "isrc": "TCAFP2121138"
+  },
+  {
+    "title": "Aunque lo niegues",
+    "artist": "José A. Morales, Dueto Nocturnal",
+    "isrc": "USR010616622"
+  },
+  {
+    "title": "Las Acacias",
+    "artist": "Silva y Villalba",
+    "isrc": "USJE61712092"
+  },
+  {
+    "title": "Cachipay",
+    "artist": "Jorge Ariza",
+    "isrc": "COUM71200037"
+  },
+  {
+    "title": "A Bordo de tu Voz",
+    "artist": "Luz Marina Posada, Nuevas Músicas Colombianas",
+    "isrc": "ES71G1400690"
+  },
+  {
+    "title": "Que Vivan Los Novios",
+    "artist": "Héctor Raúl Ariza",
+    "isrc": "QM6P41706713"
+  },
+  {
+    "title": "Chicaquicha",
+    "artist": "Andres Villamil",
+    "isrc": "DEU921077813"
+  },
+  {
+    "title": "Gloria Beatriz",
+    "artist": "Cindy Gómez",
+    "isrc": "usdy42361816"
+  },
+  {
+    "title": "Pachamama No Llores Más",
+    "artist": "Juglares",
+    "isrc": "PEBQ91717545"
+  },
+  {
+    "title": "Lástima",
+    "artist": "María Cristina Plata",
+    "isrc": "QZ5AB1716021"
+  },
+  {
+    "title": "Bambuquillo",
+    "artist": "Paulo Triviño, Santiago Oviedo",
+    "isrc": "uscgj1703631"
+  },
+  {
+    "title": "Camino Verde",
+    "artist": "Victor Hugo Ayala",
+    "isrc": "COF018900289"
+  },
+  {
+    "title": "Abismo",
+    "artist": "María Isabel Mejía",
+    "isrc": "ushm22057678"
+  },
+  {
+    "title": "María Karito",
+    "artist": "Fabián Forero Trío",
+    "isrc": "uscgj1909150"
+  },
+  {
+    "title": "Grusillo",
+    "artist": "Sankofa Trío",
+    "isrc": "ushm91817339"
+  },
+  {
+    "title": "Chatica Linda",
+    "artist": "Dueto Primavera",
+    "isrc": "ES71G2320861"
+  },
+  {
+    "title": "Sur Tierra",
+    "artist": "Raíces Andinas",
+    "isrc": "US7VG1711468"
+  },
+  {
+    "title": "El Cafetero (Pasillo)",
+    "artist": "Luis Gabriel Mesa Martínez",
+    "isrc": "QZ5AB1612559"
+  },
+  {
+    "title": "Mujer Soñada (Pasillo)",
+    "artist": "Ancizar Castrillon Santa, Fernando Salazar Wagner",
+    "isrc": "US7VG1663884"
+  },
+  {
+    "title": "Cielo Sur, Cielo Azul",
+    "artist": "Apalau",
+    "isrc": "PEBQ91813176"
+  },
+  {
+    "title": "Zuimita, Java",
+    "artist": "Pacho Benavides",
+    "isrc": "CA5KR1942196"
+  },
+  {
+    "title": "Menudita",
+    "artist": "Carolina Muñoz",
+    "isrc": "USZZR1015391"
+  },
+  {
+    "title": "Aya (Espíritu)",
+    "artist": "Bambarabanda",
+    "isrc": "COA921800201"
+  },
+  {
+    "title": "Candita",
+    "artist": "Grupo Ritornello, Adolfo Mejia, Fernando León, Jorge Arbelaez",
+    "isrc": "TCABQ1346162"
+  },
+  {
+    "title": "De los Montes Vienen Bajando",
+    "artist": "El Supersón Frailejónico",
+    "isrc": "QZGLS1938816"
+  },
+  {
+    "title": "Mi Copetoncita Y Yo",
+    "artist": "Grupo Ritornello, Luis A Calvo, Fernando León, Jorge Arbelaez",
+    "isrc": "TCABQ1346103"
+  },
+  {
+    "title": "Madre Selva",
+    "artist": "Grupo Putumayo",
+    "isrc": "ushm81031721"
+  },
+  {
+    "title": "El Canalete - Instrumental",
+    "artist": "Olga Acevedo",
+    "isrc": "COFC10406016"
+  },
+  {
+    "title": "Pastusita",
+    "artist": "Ronda Lírica",
+    "isrc": "QZGLS1916261"
+  },
+  {
+    "title": "El Trompo Sarandengue",
+    "artist": "Sol Barniz",
+    "isrc": "ushm81618616"
+  },
+  {
+    "title": "Vuela",
+    "artist": "Harbey Urueña",
+    "isrc": "MX3742200449"
+  },
+  {
+    "title": "Lejanía",
+    "artist": "Lisandro Meza",
+    "isrc": "QMFMF1575130"
+  },
+  {
+    "title": "Fantasia en 6/8",
+    "artist": "Maestros Academia Luis A. Calvo, Cindy Gomez",
+    "isrc": "GBSMU8443366"
+  },
+  {
+    "title": "Yo Que No Creia",
+    "artist": "Nicolas Losada Rojas",
+    "isrc": "ushm81895666"
+  },
+  {
+    "title": "Carmentea",
+    "artist": "Grupo Sol De Oriente",
+    "isrc": "USR010910921"
+  },
+  {
+    "title": "Tambores de Mi Cauca",
+    "artist": "Conjunto Alma Caucana",
+    "isrc": "USZZR1010808"
+  },
+  {
+    "title": "Deja Que Caiga",
+    "artist": "Banda Vocal Nvoz",
+    "isrc": "FR59R1644610"
+  },
+  {
+    "title": "Florecita del Camino",
+    "artist": "Jaime Romero, Gabriel Estarellas",
+    "isrc": "ESA011503494"
+  },
+  {
+    "title": "Jacinta",
+    "artist": "Ex-Maestros Academia Luis A. Calvo",
+    "isrc": "GBSMU5823910"
+  },
+  {
+    "title": "Morocho Sin Sal",
+    "artist": "Trío Fronterizo",
+    "isrc": "GBSMU4012874"
+  },
+  {
+    "title": "El Tiempo",
+    "artist": "Café Urbano",
+    "isrc": "uscgh1945732"
+  },
+  {
+    "title": "Olor a Guayaba - Bambuco",
+    "artist": "Diana y Fabián",
+    "isrc": "USZZR1014791"
+  },
+  {
+    "title": "Hágame un tiple maestro",
+    "artist": "Estirpe y Canción",
+    "isrc": "USZZR1015372"
+  },
+  {
+    "title": "Acuarela",
+    "artist": "Grupo Nogal",
+    "isrc": "USZZR1015401"
+  },
+  {
+    "title": "Cuatro Preguntas - Bambuco",
+    "artist": "Obdulio y Julián",
+    "isrc": "USR010711745"
+  },
+  {
+    "title": "Palonegro",
+    "artist": "Opus II Trío",
+    "isrc": "USZZR1015463"
+  },
+  {
+    "title": "Cuerdas (Estudio)",
+    "artist": "Roberto Gómez J.",
+    "isrc": "USR011012918"
+  },
+  {
+    "title": "Ríete Gabriel",
+    "artist": "Rondalla Bumanguesa",
+    "isrc": "USZZR1015392"
+  },
+  {
+    "title": "Los Cucaracheros",
+    "artist": "Septófono",
+    "isrc": "USZZR1015369"
+  },
+  {
+    "title": "Wauquipura",
+    "artist": "Taki Sumaj",
+    "isrc": "QM6MZ1727686"
+  },
+  {
+    "title": "A Tu Lado",
+    "artist": "Putumayo, Jasmine, Víctor Hernández",
+    "isrc": "US6QR2200004"
+  },
+  {
+    "title": "Como Nosotros",
+    "artist": "Tete Quijano Trio",
+    "isrc": "uscgj2040767"
+  },
+  {
+    "title": "VIAJERO",
+    "artist": "Cuarteto Colombiano de Guitarras",
+    "isrc": "SE6HN2027104"
+  },
+  {
+    "title": "El Año Viejo",
+    "artist": "Cuarteto de Saxofones de Bogota",
+    "isrc": "UKXN22056249"
+  },
+  {
+    "title": "Mosaico Narinense",
+    "artist": "Fabio Paramo y Los Surenos",
+    "isrc": "QZ5AB1742818"
+  },
+  {
+    "title": "Gloria Beatriz",
+    "artist": "Fabián Gallón",
+    "isrc": "TCACX1757040"
+  },
+  {
+    "title": "Ancestro",
+    "artist": "Germán Darío Pérez, Pablo Rojas",
+    "isrc": "ATG301611513"
+  },
+  {
+    "title": "¿Te Sorprende? - En Vivo",
+    "artist": "Grupo Instrumental La Séptima",
+    "isrc": "QM4TX1753567"
+  },
+  {
+    "title": "Reflejos",
+    "artist": "Grupos de Proyección y Estudiantes",
+    "isrc": "GBSMU5830949"
+  },
+  {
+    "title": "Cara",
+    "artist": "La Itinerante",
+    "isrc": "QM6N21889724"
+  },
+  {
+    "title": "Gato",
+    "artist": "Los Fulanos, Peret",
+    "isrc": "QM4TW2424980"
+  },
+  {
+    "title": "Rio De Oro - Instrumental",
+    "artist": "Nocturnal Santandereano",
+    "isrc": "QZN882080524"
+  },
+  {
+    "title": "Suite No. 2: Bambuco",
+    "artist": "Oriol Caro",
+    "isrc": "FR10S1657324"
+  },
+  {
+    "title": "Delirio y Fuga",
+    "artist": "Plectro Trío",
+    "isrc": "uscgj0859181"
+  },
+  {
+    "title": "Patasdilo",
+    "artist": "Trío Morales Pino",
+    "isrc": "QZHZ41970213"
+  },
+  {
+    "title": "Garrapatica",
+    "artist": "Trío Nueva Colombia, Nuevas Músicas Colombianas",
+    "isrc": "ES71G1400684"
+  },
+  {
+    "title": "El Pereirano - Instrumental",
+    "artist": "Oriol Rangel",
+    "isrc": "QMFME1535341"
+  },
+  {
+    "title": "Azul",
+    "artist": "Ensamble Tríptico",
+    "isrc": "ushm91222667"
+  },
+  {
+    "title": "El Popocho",
+    "artist": "Cuarteto Colombiano",
+    "isrc": "FR2X41564954"
+  },
+  {
+    "title": "La Raíz",
+    "artist": "Guafa Trío, Marta Gómez",
+    "isrc": "US7VG1626425"
+  },
+  {
+    "title": "Vuelamasquelviento",
+    "artist": "Palos y Cuerdas",
+    "isrc": "uscgh1919963"
+  },
+  {
+    "title": "Sergio",
+    "artist": "Ruth Marulanda Salazar",
+    "isrc": "FR2X41580158"
+  },
+  {
+    "title": "Cachipay",
+    "artist": "Pedro Nel Martinez",
+    "isrc": "FR2X41565000"
+  },
+  {
+    "title": "Mi país",
+    "artist": "Dueto Nocturnal",
+    "isrc": "GBWUL2064832"
+  },
+  {
+    "title": "Ruth la Moabita",
+    "artist": "Ensamble Cruzao",
+    "isrc": "ES71G1711174"
+  },
+  {
+    "title": "Bachue",
+    "artist": "Francisco Cristancho",
+    "isrc": "USJE61903065"
+  },
+  {
+    "title": "Primero De Abril",
+    "artist": "El Barbero del Socorro",
+    "isrc": "TCAHE2312289"
+  },
+  {
+    "title": "Ilse",
+    "artist": "Grupo Caminata",
+    "isrc": "ES71G1411202"
+  },
+  {
+    "title": "La Gata Golosa",
+    "artist": "JOSÉ LUIS MARTÍNEZ VESGA",
+    "isrc": "COUM71200068"
+  },
+  {
+    "title": "El Camino De La Vida",
+    "artist": "La Gran Rondalla Colombiana",
+    "isrc": "USR010910882"
+  },
+  {
+    "title": "Vino Tinto",
+    "artist": "Manuel J. Bernal",
+    "isrc": "COUM71200072"
+  },
+  {
+    "title": "Ojala No Crecieras",
+    "artist": "Hermanos Martínez",
+    "isrc": "QZHZ41932070"
+  },
+  {
+    "title": "El Republicano",
+    "artist": "Giovanni Parra Quinteto",
+    "isrc": "TCAHC2364271"
+  },
+  {
+    "title": "Ayer me echaron del pueblo",
+    "artist": "José A. Morales, Dueto Nocturnal",
+    "isrc": "USR010616630"
+  },
+  {
+    "title": "Me Llevarás en Tí",
+    "artist": "Silva y Villalba",
+    "isrc": "USJE61712088"
+  },
+  {
+    "title": "Recuerdo de Amigos - Instrumental",
+    "artist": "Jorge Ariza",
+    "isrc": "COF013900144"
+  },
+  {
+    "title": "El Vuelo - En Vivo",
+    "artist": "Luz Marina Posada, José Juvinao, Pablo Moreno",
+    "isrc": "ushm22161501"
+  },
+  {
+    "title": "Mariquiteña",
+    "artist": "Héctor Raúl Ariza",
+    "isrc": "QM6P41706725"
+  },
+  {
+    "title": "En mi ribera",
+    "artist": "Gentil Montaña, Andres Villamil",
+    "isrc": "DEU921077804"
+  },
+  {
+    "title": "Palo Negro",
+    "artist": "Cindy Gómez",
+    "isrc": "ushm22241136"
+  },
+  {
+    "title": "No Te Equivoques",
+    "artist": "Juglares, Siam",
+    "isrc": "PEBQ91717547"
+  },
+  {
+    "title": "Pasillito",
+    "artist": "Paulo Triviño, Diego Sanchez",
+    "isrc": "uscgj1703629"
+  },
+  {
+    "title": "Madrigal (Estando Contigo)",
+    "artist": "Victor Hugo Ayala",
+    "isrc": "COF018900688"
+  },
+  {
+    "title": "Corazoncito Mío",
+    "artist": "María Cristina Plata",
+    "isrc": "QZ5AB2018978"
+  },
+  {
+    "title": "Destino",
+    "artist": "María Isabel Mejía",
+    "isrc": "ushm22057680"
+  },
+  {
+    "title": "Clarísimo",
+    "artist": "Fabián Forero Trío",
+    "isrc": "uscgj1909154"
+  },
+  {
+    "title": "Aloe",
+    "artist": "Sankofa Trío",
+    "isrc": "ushm91817344"
+  },
+  {
+    "title": "Canto a mi vereda",
+    "artist": "Dueto Primavera",
+    "isrc": "USZZR1015413"
+  },
+  {
+    "title": "Chicha del Pueblo",
+    "artist": "Raíces Andinas",
+    "isrc": "US7VG1711472"
+  },
+  {
+    "title": "Danza Tumaqueña",
+    "artist": "Luis Gabriel Mesa Martínez, Nietos del Clavel Rojo",
+    "isrc": "QZ5AB1612568"
+  },
+  {
+    "title": "Abre Tus Alas",
+    "artist": "Apalau, Marta Gomez",
+    "isrc": "QZNJX2153231"
+  },
+  {
+    "title": "Desgranando estrellas, Bambuco",
+    "artist": "Pacho Benavides",
+    "isrc": "CA5KR1942198"
+  },
+  {
+    "title": "Manos de Abuela",
+    "artist": "Carolina Muñoz",
+    "isrc": "ES71G2320885"
+  },
+  {
+    "title": "Sur",
+    "artist": "Bambarabanda",
+    "isrc": "QM6MZ1570895"
+  },
+  {
+    "title": "El Venado",
+    "artist": "El Supersón Frailejónico",
+    "isrc": "QZTPX2377141"
+  },
+  {
+    "title": "Ojos de Cielo",
+    "artist": "Grupo Putumayo",
+    "isrc": "ushm81031729"
+  },
+  {
+    "title": "Pueblito Viejo",
+    "artist": "Olga Acevedo",
+    "isrc": "COFC19702504"
+  },
+  {
+    "title": "Chambú",
+    "artist": "Ronda Lírica",
+    "isrc": "QZ5AB1774587"
+  },
+  {
+    "title": "Mosaico Ecuatoriano",
+    "artist": "Sol Barniz",
+    "isrc": "ushm81240127"
+  },
+  {
+    "title": "Es Para Ti",
+    "artist": "Harbey Urueña",
+    "isrc": "MX3742200398"
+  },
+  {
+    "title": "En la Rubiana",
+    "artist": "Maestros Academia Luis A. Calvo",
+    "isrc": "GBSMU7212700"
+  },
+  {
+    "title": "Cumbia del Amor",
+    "artist": "Lisandro Meza, Los Hijos De La Niña Luz",
+    "isrc": "QMFME1509108"
+  },
+  {
+    "title": "Retorno a los Ancestros",
+    "artist": "Nicolas Losada Rojas",
+    "isrc": "ushm81895663"
+  },
+  {
+    "title": "Ay, Si Si",
+    "artist": "Grupo Sol De Oriente",
+    "isrc": "USR010910909"
+  },
+  {
+    "title": "Enigma",
+    "artist": "Conjunto Alma Caucana",
+    "isrc": "QZ5AB1742810"
+  },
+  {
+    "title": "Te Vengo a Cantar",
+    "artist": "Banda Vocal Nvoz",
+    "isrc": "FR59R1645881"
+  },
+  {
+    "title": "Plectro",
+    "artist": "Plectro Trío",
+    "isrc": "uscgj0859179"
+  },
+  {
+    "title": "La Gata Golosa",
+    "artist": "Trío Morales Pino",
+    "isrc": "QZHZ41970216"
+  },
+  {
+    "title": "Ancestro",
+    "artist": "Trío Nueva Colombia",
+    "isrc": "QM4TW1777338"
+  },
+  {
+    "title": "El Chambú",
+    "artist": "Oriol Rangel",
+    "isrc": "USR011012786"
+  },
+  {
+    "title": "Ímpetu",
+    "artist": "Ensamble Tríptico",
+    "isrc": "ushm91222665"
+  },
+  {
+    "title": "Luis E",
+    "artist": "Cuarteto Colombiano",
+    "isrc": "FR2X41564943"
+  },
+  {
+    "title": "Anita la Bogotana",
+    "artist": "Guafa Trío",
+    "isrc": "US7VG1681627"
+  },
+  {
+    "title": "Pa' los Palos",
+    "artist": "Palos y Cuerdas",
+    "isrc": "uscgh1919966"
+  },
+  {
+    "title": "Ají Picante",
+    "artist": "Ruth Marulanda Salazar",
+    "isrc": "FR2X41580156"
+  },
+  {
+    "title": "Colombia es Amor",
+    "artist": "Pedro Nel Martinez",
+    "isrc": "FR2X41565012"
+  },
+  {
+    "title": "Compañero - Bambuco",
+    "artist": "Dueto Nocturnal",
+    "isrc": "USR010711747"
+  },
+  {
+    "title": "Vino Tinto",
+    "artist": "Ensamble Cruzao",
+    "isrc": "ES71G1711172"
+  },
+  {
+    "title": "Linda",
+    "artist": "Francisco Cristancho",
+    "isrc": "USJE61903087"
+  },
+  {
+    "title": "Ancestro (Bambuco)",
+    "artist": "El Barbero del Socorro",
+    "isrc": "TCAGO2221994"
+  },
+  {
+    "title": "Shiotis. Vueltas",
+    "artist": "Grupo Caminata",
+    "isrc": "ES71G1411217"
+  },
+  {
+    "title": "Guabina Chiquinquirena",
+    "artist": "JOSÉ LUIS MARTÍNEZ VESGA",
+    "isrc": "COUM71200039"
+  },
+  {
+    "title": "Muchacha de risa loca - Bambuco",
+    "artist": "La Gran Rondalla Colombiana, Daniel Montes",
+    "isrc": "USR010910133"
+  },
+  {
+    "title": "Mis Flores Negras - Instrumental",
+    "artist": "Manuel J. Bernal",
+    "isrc": "COF019100422"
+  },
+  {
+    "title": "Los Guaduales",
+    "artist": "Hermanos Martínez",
+    "isrc": "QZHZ51940385"
+  },
+  {
+    "title": "Blanca",
+    "artist": "Giovanni Parra Quinteto",
+    "isrc": "TCAHC2364289"
+  },
+  {
+    "title": "Me Volví Viejo",
+    "artist": "José A. Morales, Dueto Nocturnal",
+    "isrc": "USR010616631"
+  },
+  {
+    "title": "Esperanza",
+    "artist": "Jorge Ariza",
+    "isrc": "QZHZ41961706"
+  },
+  {
+    "title": "Los Guadales",
+    "artist": "Silva y Villalba",
+    "isrc": "USR010615816"
+  },
+  {
+    "title": "Me Gusta Tu Olor A Penumbra",
+    "artist": "Luz Marina Posada",
+    "isrc": "QZN882081722"
+  },
+  {
+    "title": "Los Filipichines",
+    "artist": "Héctor Raúl Ariza",
+    "isrc": "QM6P41706720"
+  },
+  {
+    "title": "Bambuco en mi menor",
+    "artist": "Adolfo Mejia, Andres Villamil",
+    "isrc": "DEU921077810"
+  },
+  {
+    "title": "Lamento Tayrona",
+    "artist": "Juglares",
+    "isrc": "uscgj1557018"
+  },
+  {
+    "title": "Milagro",
+    "artist": "Paulo Triviño, Angela Acevedo, Alejandro Sanabria, Diego Martinez",
+    "isrc": "uscgj1703630"
+  },
+  {
+    "title": "Si Te Vuelvo a Besar",
+    "artist": "Victor Hugo Ayala",
+    "isrc": "USR010910935"
+  }
+]

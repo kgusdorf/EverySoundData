@@ -1,0 +1,657 @@
+[
+  {
+    "title": "Álamo Guacho",
+    "artist": "Duo Rey Silva",
+    "isrc": "ES71G1821417"
+  },
+  {
+    "title": "La Enagüita",
+    "artist": "Ester Sore",
+    "isrc": "CLBB25500039"
+  },
+  {
+    "title": "Cerros Porteños",
+    "artist": "Los Baqueanos",
+    "isrc": "CLBB25600042"
+  },
+  {
+    "title": "Chicha de Curacaví",
+    "artist": "Los Perlas",
+    "isrc": "ES71G2105197"
+  },
+  {
+    "title": "Mantelito Blanco",
+    "artist": "Los Cuatro Huasos",
+    "isrc": "GRGCM1850110"
+  },
+  {
+    "title": "Viva Chile, Viva Chile",
+    "artist": "Conjunto Graneros",
+    "isrc": "ES71G2045504"
+  },
+  {
+    "title": "Viva la cueca (Tonada)",
+    "artist": "Silvia Infantas, Los Baqueanos",
+    "isrc": "BGA261835027"
+  },
+  {
+    "title": "Que Sacare Con Quererte",
+    "artist": "Conjunto Ancahual",
+    "isrc": "CLBB26900001"
+  },
+  {
+    "title": "El Cachimbo",
+    "artist": "Coro Chile Canta",
+    "isrc": "CLUM71902007"
+  },
+  {
+    "title": "Fiesta Linda",
+    "artist": "Alberto Rey",
+    "isrc": "ES71G2104376"
+  },
+  {
+    "title": "Qué Bonita Es Mi Tierra / Viva Chile",
+    "artist": "Huasos De Algarrobal",
+    "isrc": "QMFMF1415229"
+  },
+  {
+    "title": "Sau Sau",
+    "artist": "Margot Loyola",
+    "isrc": "GRGCM1839010"
+  },
+  {
+    "title": "Los Instumentos / Las Chiquillas Quinceañeras / El Cofre de Oro",
+    "artist": "Hilda Parra",
+    "isrc": "CLAB20903355"
+  },
+  {
+    "title": "Así Son Las Morenas",
+    "artist": "Las Morenitas",
+    "isrc": "CLBB26700069"
+  },
+  {
+    "title": "Caballito De Metal",
+    "artist": "El Monteaguilino",
+    "isrc": "CLGG20000008"
+  },
+  {
+    "title": "Así Es Mi Suerte",
+    "artist": "Alberto Rey y Su Conjunto",
+    "isrc": "FR6V82364506"
+  },
+  {
+    "title": "El Lobo Chilote",
+    "artist": "Chamal",
+    "isrc": "QMFMF1408069"
+  },
+  {
+    "title": "Le tengo dicho a mi negra",
+    "artist": "Lote Cuequero",
+    "isrc": "ARC571602082"
+  },
+  {
+    "title": "El Guatón Loyola",
+    "artist": "Los Hermanos Campos",
+    "isrc": "CLCZ21802489"
+  },
+  {
+    "title": "La Tejendera - 2008 Remaster",
+    "artist": "Vicente Bianchi",
+    "isrc": "CLBB28100067"
+  },
+  {
+    "title": "Allá en el puerto",
+    "artist": "Los Pat'e Cueca",
+    "isrc": "GBSMU3213633"
+  },
+  {
+    "title": "Racimito de Uva Negra",
+    "artist": "Conjunto Villa San Bernardo",
+    "isrc": "ES71G1821423"
+  },
+  {
+    "title": "Si tu madre quiere un rey",
+    "artist": "El Baucha",
+    "isrc": "ARC571601956"
+  },
+  {
+    "title": "En Mejillones Yo Tuve Un Amor",
+    "artist": "Los Santiaguinos, Javier Gormaz",
+    "isrc": "CLBB20601022"
+  },
+  {
+    "title": "A Donde Va La Lancha",
+    "artist": "Caituy",
+    "isrc": "CLUM71901835"
+  },
+  {
+    "title": "Chinchinero",
+    "artist": "3x7 Veintiuna",
+    "isrc": "CLDG21401091"
+  },
+  {
+    "title": "El Casero - Guaracha",
+    "artist": "Los Chacareros De Paine",
+    "isrc": "ES71G1628434"
+  },
+  {
+    "title": "Banderita Chilena",
+    "artist": "Fabiola Harper",
+    "isrc": "QMFMG1586071"
+  },
+  {
+    "title": "Los Compadres Paleteados",
+    "artist": "Los Quincheros de Ayer",
+    "isrc": "FR6V82363967"
+  },
+  {
+    "title": "La cueca y el poeta",
+    "artist": "El Enganche",
+    "isrc": "ESAAI0268936"
+  },
+  {
+    "title": "Huaso por Donde Miren",
+    "artist": "Mirtha Iturra",
+    "isrc": "ES71G1740107"
+  },
+  {
+    "title": "Recuerdos de Ipacaraí",
+    "artist": "Los Cuatro Hermanos Silva",
+    "isrc": "MXF015700001"
+  },
+  {
+    "title": "El Imposible",
+    "artist": "Gabriela Pizarro",
+    "isrc": "QM6MZ1573892"
+  },
+  {
+    "title": "Camino de Luna",
+    "artist": "Hugo Lagos y su Conjunto",
+    "isrc": "QM6MZ1573889"
+  },
+  {
+    "title": "Por Elegante y Buen Mozo",
+    "artist": "El Clavel",
+    "isrc": "QZ22B1930012"
+  },
+  {
+    "title": "Mágico",
+    "artist": "Joe Vasconcellos",
+    "isrc": "CLBB29500011"
+  },
+  {
+    "title": "El Camahueto",
+    "artist": "Bordemar",
+    "isrc": "QMFMG1313269"
+  },
+  {
+    "title": "Bulla Eres Mi Vida",
+    "artist": "La Bullanguera",
+    "isrc": "ushm81390846"
+  },
+  {
+    "title": "Gracias A La Vida",
+    "artist": "Clarita Parra",
+    "isrc": "CLGG20000002"
+  },
+  {
+    "title": "Tengo una Mina en la Caro",
+    "artist": "Nano Parra",
+    "isrc": "QZRP42392251"
+  },
+  {
+    "title": "Niña de los Ojos Claros",
+    "artist": "Voces de Tierralarga",
+    "isrc": "ES71G2106869"
+  },
+  {
+    "title": "La Torcacita - 2008 Remaster",
+    "artist": "Jorge Carrasco",
+    "isrc": "CLBB26800048"
+  },
+  {
+    "title": "Alegre Cueca Chilena",
+    "artist": "Los Guainas",
+    "isrc": "FR6V82438580"
+  },
+  {
+    "title": "Cueca al Che",
+    "artist": "Porfiados de la Cueca",
+    "isrc": "GBMJG1603043"
+  },
+  {
+    "title": "Sikuris",
+    "artist": "Los Condores",
+    "isrc": "QM4TW1583085"
+  },
+  {
+    "title": "Yo Te Amé Porque Quería - Polka",
+    "artist": "Conjunto Lolol",
+    "isrc": "ES71G1628429"
+  },
+  {
+    "title": "La Refalosa del Pan",
+    "artist": "Conjunto Lonquimay",
+    "isrc": "ES71G2106876"
+  },
+  {
+    "title": "La Nave",
+    "artist": "Conjunto Millaray",
+    "isrc": "CLBB26300061"
+  },
+  {
+    "title": "La Circasiana",
+    "artist": "Grupo Rauquen",
+    "isrc": "CLBB27100125"
+  },
+  {
+    "title": "El Guatón Loyola-Atencion Calcetineras-El Diablo Se Fue A Bañar - 2008 Remaster",
+    "artist": "Los Hermanos Lagos, Roberto Parra, Conjunto Millaray",
+    "isrc": "CLBB29500381"
+  },
+  {
+    "title": "La Consentida",
+    "artist": "Silvia Infantas Y Los Condores",
+    "isrc": "CLBB26200008"
+  },
+  {
+    "title": "Mi Raza",
+    "artist": "Kamac Pacha Inti",
+    "isrc": "QMFMG1335670"
+  },
+  {
+    "title": "Buscando Amores",
+    "artist": "Carmen Ruíz",
+    "isrc": "ES71G1628013"
+  },
+  {
+    "title": "La Pericona",
+    "artist": "Conjunto Alerce",
+    "isrc": "QMFMF1404516"
+  },
+  {
+    "title": "Las Sopaipillas",
+    "artist": "Conjunto Kiñewen",
+    "isrc": "QZ22B1820518"
+  },
+  {
+    "title": "Por La Alameda Del 90 - 2008 Remaster",
+    "artist": "Doris Y Rossie",
+    "isrc": "CLBB26000076"
+  },
+  {
+    "title": "El Delantal De La China",
+    "artist": "Gladys Briones",
+    "isrc": "CLBB26500103"
+  },
+  {
+    "title": "Déjenla Que Sea Feliz",
+    "artist": "Grupo Origen",
+    "isrc": "QZW9L2350710"
+  },
+  {
+    "title": "El Corrido De Los Pérez",
+    "artist": "Guillermo Garcia, Mariachi Arriba Juárez",
+    "isrc": "MXF550809105"
+  },
+  {
+    "title": "Rapa Nui Mi Amor",
+    "artist": "Hai Luau",
+    "isrc": "CLGG20000013"
+  },
+  {
+    "title": "El Gorro De Lana",
+    "artist": "Jorge Yanez",
+    "isrc": "CLGG20000010"
+  },
+  {
+    "title": "5 Tangos in the style of and arranged by Osvaldo Pugliese: No. 1, Mi Lamento",
+    "artist": "Julio Carrasco, Christian Gerber, Ville Hiltula, Andreas Rokseth, Karel Bredenhorst, Nora Romanoff-Schwarzberg, Jonian Ilias Kadesha, Thomas Reif, Martin Klett",
+    "isrc": "DEAQ71947112"
+  },
+  {
+    "title": "Los Quitadores",
+    "artist": "Los Centrinos",
+    "isrc": "CLBB27000063"
+  },
+  {
+    "title": "Si Vas Para Chile",
+    "artist": "Maria Ester Zamora",
+    "isrc": "CLGG20000006"
+  },
+  {
+    "title": "Tere Mai",
+    "artist": "Po Patiri",
+    "isrc": "CLGG20000014"
+  },
+  {
+    "title": "El Rodeo - 2003 Digital Remaster;",
+    "artist": "Raul Gardy",
+    "isrc": "CLBB20300105"
+  },
+  {
+    "title": "El Organillero",
+    "artist": "Duo Rey Silva, Mario Catalán",
+    "isrc": "ES71G1819969"
+  },
+  {
+    "title": "Mata de Arrayán Florido",
+    "artist": "Ester Sore",
+    "isrc": "ES71G1628724"
+  },
+  {
+    "title": "Canción Del Brindis",
+    "artist": "Los Baqueanos",
+    "isrc": "CLBB25900021"
+  },
+  {
+    "title": "Animación / Por Esa Calle a Lo Largo",
+    "artist": "Los Perlas",
+    "isrc": "ES71G1509351"
+  },
+  {
+    "title": "Bajando Pa' Puerto Aysén",
+    "artist": "Los Cuatro Huasos",
+    "isrc": "ES71G1821046"
+  },
+  {
+    "title": "Llegaron las Fiestas Patrias",
+    "artist": "Conjunto Graneros",
+    "isrc": "ES71G2045505"
+  },
+  {
+    "title": "Tonadas de Manuel Rodríguez",
+    "artist": "Silvia Infantas, Los Baqueanos",
+    "isrc": "BGA261835014"
+  },
+  {
+    "title": "El Cielito",
+    "artist": "Conjunto Ancahual",
+    "isrc": "ES71G1943271"
+  },
+  {
+    "title": "Huincahonal",
+    "artist": "Coro Chile Canta",
+    "isrc": "CLBB25900320"
+  },
+  {
+    "title": "El Copihue Rojo",
+    "artist": "Alberto Rey",
+    "isrc": "ES71G2104377"
+  },
+  {
+    "title": "Viva Chile",
+    "artist": "Huasos De Algarrobal",
+    "isrc": "QM6P41460692"
+  },
+  {
+    "title": "Naranjas, El Naranjero! (Pregón)",
+    "artist": "Margot Loyola",
+    "isrc": "GRGCM1837205"
+  },
+  {
+    "title": "Paloma Ausente",
+    "artist": "Hilda Parra",
+    "isrc": "ES71G2106107"
+  },
+  {
+    "title": "Ranchito de Totora",
+    "artist": "Las Morenitas",
+    "isrc": "ES71G1627999"
+  },
+  {
+    "title": "Pica Pica La Guaracha",
+    "artist": "El Monteaguilino",
+    "isrc": "CLPP20600155"
+  },
+  {
+    "title": "Al Pie de Mi Guitarra",
+    "artist": "Alberto Rey y Su Conjunto",
+    "isrc": "ES71G1943554"
+  },
+  {
+    "title": "Según el Favor del Viento",
+    "artist": "Chamal",
+    "isrc": "QMFMF1408067"
+  },
+  {
+    "title": "Mi linda cueca porteña",
+    "artist": "Lote Cuequero",
+    "isrc": "ARC571602086"
+  },
+  {
+    "title": "La Consentida",
+    "artist": "Los Hermanos Campos",
+    "isrc": "ES71G1746764"
+  },
+  {
+    "title": "Adiós al Séptimo de Línea",
+    "artist": "Vicente Bianchi",
+    "isrc": "ES71G1625604"
+  },
+  {
+    "title": "Lautaro",
+    "artist": "Los Pat'e Cueca",
+    "isrc": "GBSMU3213638"
+  },
+  {
+    "title": "La Flor de la Higuera",
+    "artist": "Conjunto Villa San Bernardo",
+    "isrc": "ES71G2106846"
+  },
+  {
+    "title": "Cuatro son las estaciones",
+    "artist": "El Baucha",
+    "isrc": "ARC571601951"
+  },
+  {
+    "title": "La Salida Es Por Mano / Ingrata / Son Amigos Muy Sinceros",
+    "artist": "Los Santiaguinos",
+    "isrc": "CLBB20601023"
+  },
+  {
+    "title": "Las Gaviotitas",
+    "artist": "Caituy",
+    "isrc": "CLUM71903290"
+  },
+  {
+    "title": "El Roto",
+    "artist": "3x7 Veintiuna",
+    "isrc": "CLDG21401090"
+  },
+  {
+    "title": "El Amor de las Flores",
+    "artist": "Los Chacareros De Paine",
+    "isrc": "ES71G1934098"
+  },
+  {
+    "title": "Tierra Adentro",
+    "artist": "Fabiola Harper",
+    "isrc": "QMFMG1586077"
+  },
+  {
+    "title": "Mi Caballo Blanco",
+    "artist": "Los Quincheros de Ayer",
+    "isrc": "FR6V82363966"
+  },
+  {
+    "title": "Vecina",
+    "artist": "El Enganche",
+    "isrc": "ESAAI0268931"
+  },
+  {
+    "title": "Mi Chiquillo Regalon",
+    "artist": "Mirtha Iturra",
+    "isrc": "ES71G1740108"
+  },
+  {
+    "title": "Regresa a Mí",
+    "artist": "Los Cuatro Hermanos Silva",
+    "isrc": "MXF019901199"
+  },
+  {
+    "title": "La Pericona Tiene",
+    "artist": "Gabriela Pizarro",
+    "isrc": "QM7281417072"
+  },
+  {
+    "title": "Corazones Partidos",
+    "artist": "Hugo Lagos y su Conjunto",
+    "isrc": "QM6MZ1551475"
+  },
+  {
+    "title": "Anda a Lavarte la Cara",
+    "artist": "El Clavel",
+    "isrc": "QZ22B1929994"
+  },
+  {
+    "title": "Huellas - Live From Santiago,Chile/1999",
+    "artist": "Joe Vasconcellos",
+    "isrc": "CLBB29900024"
+  },
+  {
+    "title": "La Huillincana",
+    "artist": "Bordemar",
+    "isrc": "QMFMG1313261"
+  },
+  {
+    "title": "Con Optimismo y Fe",
+    "artist": "La Bullanguera",
+    "isrc": "ushm81390853"
+  },
+  {
+    "title": "80 Son las Razones",
+    "artist": "Clarita Parra, Illapu, Joe Vasconcellos, Palmenia Pizarro, Javiera Parra, Moyenei Valdés",
+    "isrc": "QZYXP2311285"
+  },
+  {
+    "title": "Mi Paraíso Chile",
+    "artist": "Nano Parra",
+    "isrc": "QZTAY2337612"
+  },
+  {
+    "title": "Zamba de Mi Esperanza",
+    "artist": "Voces de Tierralarga",
+    "isrc": "ES71G2106927"
+  },
+  {
+    "title": "Pajarillo Volador",
+    "artist": "Los Guainas",
+    "isrc": "FR6V82438574"
+  },
+  {
+    "title": "Huida",
+    "artist": "Porfiados de la Cueca",
+    "isrc": "QZMEP2010467"
+  },
+  {
+    "title": "Caminito",
+    "artist": "Los Condores",
+    "isrc": "QM4TW1583077"
+  },
+  {
+    "title": "Los lagos de chile",
+    "artist": "Duo Rey Silva",
+    "isrc": "ART0G1806284"
+  },
+  {
+    "title": "Qué Me Van a Hablar de Amores",
+    "artist": "Ester Sore",
+    "isrc": "ES71G1628723"
+  },
+  {
+    "title": "Los Platitos Chilenos / La Rucia Elena",
+    "artist": "Los Perlas",
+    "isrc": "ES71G1509353"
+  },
+  {
+    "title": "Guitarra, Mujer y Penas",
+    "artist": "Los Cuatro Huasos",
+    "isrc": "ES71G2106833"
+  },
+  {
+    "title": "Los Cacheros Están de Fiesta - Versión 2",
+    "artist": "Conjunto Graneros",
+    "isrc": "ES71G1858305"
+  },
+  {
+    "title": "La consentida (Cueca)",
+    "artist": "Silvia Infantas",
+    "isrc": "BGA261835011"
+  },
+  {
+    "title": "Vivan Los Recien Casados - 2008 Digital Remaster;",
+    "artist": "Conjunto Ancahual",
+    "isrc": "CLBB27200013"
+  },
+  {
+    "title": "Mi Casa De Campo",
+    "artist": "Coro Chile Canta",
+    "isrc": "CLUM71902005"
+  },
+  {
+    "title": "En un Hospital de Amores",
+    "artist": "Alberto Rey",
+    "isrc": "ES71G2104379"
+  },
+  {
+    "title": "Doña Javiera Carrera / Mi Abuela Bailó Sirilla",
+    "artist": "Huasos De Algarrobal",
+    "isrc": "QMFMF1415228"
+  },
+  {
+    "title": "La Vertiente (Tonada)",
+    "artist": "Margot Loyola",
+    "isrc": "GRGCM1837204"
+  },
+  {
+    "title": "La Juana Rosa",
+    "artist": "Hilda Parra",
+    "isrc": "ES71G2106109"
+  },
+  {
+    "title": "Negro del Alma",
+    "artist": "Las Morenitas",
+    "isrc": "ES71G1628007"
+  },
+  {
+    "title": "Caballito de Metal",
+    "artist": "El Monteaguilino",
+    "isrc": "CLPP20600096"
+  },
+  {
+    "title": "Rin",
+    "artist": "Chamal",
+    "isrc": "QMFMF1408072"
+  },
+  {
+    "title": "Dueño del Baron",
+    "artist": "Lote Cuequero",
+    "isrc": "ARC571602084"
+  },
+  {
+    "title": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
+    "artist": "Los Hermanos Campos",
+    "isrc": "CLPP20700221"
+  },
+  {
+    "title": "La Rosa Y El Clavel",
+    "artist": "Vicente Bianchi",
+    "isrc": "CLUM71902556"
+  },
+  {
+    "title": "Cuando suena una chilena",
+    "artist": "Los Pat'e Cueca",
+    "isrc": "GBSMU3213631"
+  },
+  {
+    "title": "El Cuándo",
+    "artist": "Conjunto Villa San Bernardo",
+    "isrc": "ES71G1643468"
+  },
+  {
+    "title": "La pensión Soto",
+    "artist": "El Baucha",
+    "isrc": "ARC571601953"
+  }
+]

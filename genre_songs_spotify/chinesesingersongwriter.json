@@ -1,0 +1,807 @@
+[
+  {
+    "title": "小半",
+    "artist": "陳粒",
+    "isrc": "FR59R1870063"
+  },
+  {
+    "title": "平凡之路",
+    "artist": "Pu Shu",
+    "isrc": "CNZ021700040"
+  },
+  {
+    "title": "贝加尔湖畔",
+    "artist": "李健",
+    "isrc": "CNF181165108"
+  },
+  {
+    "title": "歲月神偷",
+    "artist": "Jin Wenqi",
+    "isrc": "TWJ511700014"
+  },
+  {
+    "title": "自娱自乐",
+    "artist": "金志文",
+    "isrc": "HKG732128189"
+  },
+  {
+    "title": "像我这样的人",
+    "artist": "Mao Buyi",
+    "isrc": "CNE221800169"
+  },
+  {
+    "title": "我的名字",
+    "artist": "焦邁奇",
+    "isrc": "FR2X41946308"
+  },
+  {
+    "title": "南山南",
+    "artist": "Di Ma",
+    "isrc": "CNA231402073"
+  },
+  {
+    "title": "日落大道",
+    "artist": "梁博",
+    "isrc": "TWDL71702363"
+  },
+  {
+    "title": "存在",
+    "artist": "Wang Feng",
+    "isrc": "CNF181159201"
+  },
+  {
+    "title": "蓝莲花",
+    "artist": "Xu Wei",
+    "isrc": "CNF180269004"
+  },
+  {
+    "title": "有点甜",
+    "artist": "Silence Wang, BY2",
+    "isrc": "FR10S1615770"
+  },
+  {
+    "title": "父亲写的散文诗",
+    "artist": "许飞",
+    "isrc": "TWAE31802880"
+  },
+  {
+    "title": "灰姑娘",
+    "artist": "鄭鈞",
+    "isrc": "CNZ171500457"
+  },
+  {
+    "title": "時候",
+    "artist": "Sue",
+    "isrc": "CNZ691900091"
+  },
+  {
+    "title": "有可能的夜晚",
+    "artist": "曾軼可",
+    "isrc": "HKG732235764"
+  },
+  {
+    "title": "直到世界尽头 - Live",
+    "artist": "陳楚生, Yue Wang, 陆虎, 張遠, 俞灏明, 周天澈混音团队",
+    "isrc": "HKG732288418"
+  },
+  {
+    "title": "冰",
+    "artist": "Jude Chiu, 康士坦的變化球",
+    "isrc": "TWY312411007"
+  },
+  {
+    "title": "Emberfire",
+    "artist": "希林娜依•高, HOYO-MiX",
+    "isrc": "FRX282493420"
+  },
+  {
+    "title": "活著",
+    "artist": "Hao Yun",
+    "isrc": "CNA651302121"
+  },
+  {
+    "title": "晚風",
+    "artist": "陳婧霏",
+    "isrc": "FR96X1920152"
+  },
+  {
+    "title": "陪你度过漫长岁月",
+    "artist": "张钰琪",
+    "isrc": "CNUM72000128"
+  },
+  {
+    "title": "世界上不存在的歌",
+    "artist": "趙英俊",
+    "isrc": "FRX452012151"
+  },
+  {
+    "title": "年少有為",
+    "artist": "Ronghao Li",
+    "isrc": "TWA531818714"
+  },
+  {
+    "title": "后青年启示录",
+    "artist": "祁紫檀",
+    "isrc": "TWAE31901931"
+  },
+  {
+    "title": "无名之辈",
+    "artist": "唐漢霄",
+    "isrc": "CNE221900543"
+  },
+  {
+    "title": "画",
+    "artist": "赵雷",
+    "isrc": "HKG731713494"
+  },
+  {
+    "title": "雨 (電視劇《以家人之名》插曲)",
+    "artist": "沈以誠",
+    "isrc": "TWU712003227"
+  },
+  {
+    "title": "陽光下的星星",
+    "artist": "Jin Hai Xin",
+    "isrc": "HKE670700448"
+  },
+  {
+    "title": "谁 - Live",
+    "artist": "廖俊濤",
+    "isrc": "CNE221800189"
+  },
+  {
+    "title": "茫",
+    "artist": "李润祺",
+    "isrc": "HKG732027942"
+  },
+  {
+    "title": "左手指月 (電視劇《香蜜沉沉燼如霜》片尾曲)",
+    "artist": "Sa Dingding",
+    "isrc": "TWU711801376"
+  },
+  {
+    "title": "由我",
+    "artist": "錢正昊",
+    "isrc": "HKG732288644"
+  },
+  {
+    "title": "【聶明玦&聶懷桑】《清河訣》",
+    "artist": "Ayanga",
+    "isrc": "HKJ952008510"
+  },
+  {
+    "title": "和你",
+    "artist": "余佳運",
+    "isrc": "FR2X42235995"
+  },
+  {
+    "title": "驕傲",
+    "artist": "王源",
+    "isrc": "TWA531702523"
+  },
+  {
+    "title": "鹿 be free - Live",
+    "artist": "尚雯婕",
+    "isrc": "FRX452232765"
+  },
+  {
+    "title": "心跳的證明 - 電影《一吻定情》心動版主題曲",
+    "artist": "刘人语",
+    "isrc": "TWDB51900001"
+  },
+  {
+    "title": "小事",
+    "artist": "Pax Congo",
+    "isrc": "HKG732236967"
+  },
+  {
+    "title": "走钢索的人(Live at Blue Note Beijing)",
+    "artist": "Li Quan, JZ All Stars",
+    "isrc": "TWAE31800196"
+  },
+  {
+    "title": "白羊",
+    "artist": "徐秉龙, 沈以誠",
+    "isrc": "HKG732002664"
+  },
+  {
+    "title": "I Will Miss You - Live",
+    "artist": "鐘易軒, 廖俊濤",
+    "isrc": "CNZ501901075"
+  },
+  {
+    "title": "自己",
+    "artist": "许钧",
+    "isrc": "CNE041600254"
+  },
+  {
+    "title": "女孩兒與四重奏",
+    "artist": "丁薇",
+    "isrc": "TWA139900203"
+  },
+  {
+    "title": "再見只是陌生人",
+    "artist": "Ada Zhuang",
+    "isrc": "FR10S1907628"
+  },
+  {
+    "title": "一人一花",
+    "artist": "阿朵",
+    "isrc": "CNZ502200922"
+  },
+  {
+    "title": "有我呢",
+    "artist": "郭一凡",
+    "isrc": "HKG732374648"
+  },
+  {
+    "title": "流浪途中爱上你",
+    "artist": "叶蓓, Xu Wei",
+    "isrc": "CNZ021700060"
+  },
+  {
+    "title": "Your Eyes (影視劇《你給我的喜歡》插曲)",
+    "artist": "赵贝尔",
+    "isrc": "TWU712301598"
+  },
+  {
+    "title": "初戀薛凱琪",
+    "artist": "陳蘿莉",
+    "isrc": "CNZ691800119"
+  },
+  {
+    "title": "愛上一個不回家的人 - Live",
+    "artist": "常石磊, 王源, GAI周延",
+    "isrc": "HKG731554290"
+  },
+  {
+    "title": "可樂",
+    "artist": "趙紫驊",
+    "isrc": "CNZ511900001"
+  },
+  {
+    "title": "最后一页",
+    "artist": "王泽科",
+    "isrc": "HKG732024312"
+  },
+  {
+    "title": "雪下的时候",
+    "artist": "乔佳旭",
+    "isrc": "FR10S2054221"
+  },
+  {
+    "title": "寂寞烟火",
+    "artist": "Akini Jing",
+    "isrc": "CNC071400488"
+  },
+  {
+    "title": "当你老了",
+    "artist": "赵照",
+    "isrc": "HKG731713492"
+  },
+  {
+    "title": "If Rain (電視劇《以家人之名》插曲)",
+    "artist": "薩吉",
+    "isrc": "TWU712003229"
+  },
+  {
+    "title": "春天",
+    "artist": "姜昕",
+    "isrc": "CNZ221600727"
+  },
+  {
+    "title": "我的好兄弟",
+    "artist": "高進",
+    "isrc": "TWDL72104124"
+  },
+  {
+    "title": "Reality",
+    "artist": "XIN LIU",
+    "isrc": "QM4TX2495740"
+  },
+  {
+    "title": "銀河少年",
+    "artist": "王嘯坤, Joker Xue",
+    "isrc": "CNZ502300002"
+  },
+  {
+    "title": "不认识你就好了",
+    "artist": "易自豪",
+    "isrc": "HKG732214285"
+  },
+  {
+    "title": "换装",
+    "artist": "胡海泉, 黃齡",
+    "isrc": "HKG731698781"
+  },
+  {
+    "title": "願某人",
+    "artist": "王澤科",
+    "isrc": "HKE022209240"
+  },
+  {
+    "title": "單身快樂狗 (影視劇《今日宜加油》插曲)",
+    "artist": "宋宇寧",
+    "isrc": "CNZ842300069"
+  },
+  {
+    "title": "I Feel Down",
+    "artist": "左卓",
+    "isrc": "TWCC31903571"
+  },
+  {
+    "title": "想你的夜 (未眠版)",
+    "artist": "Grady Guan",
+    "isrc": "HKE671400145"
+  },
+  {
+    "title": "时常，孤独惹祸",
+    "artist": "趙登凱, 鄭興",
+    "isrc": "HKG732254288"
+  },
+  {
+    "title": "我們",
+    "artist": "陳意涵",
+    "isrc": "CNE222300389"
+  },
+  {
+    "title": "生僻字",
+    "artist": "陳柯宇",
+    "isrc": "TWCC31901821"
+  },
+  {
+    "title": "祝你万事如意",
+    "artist": "伏儀, AKIKO桃子",
+    "isrc": "HKG732233788"
+  },
+  {
+    "title": "冬",
+    "artist": "王加一, 陳婧霏",
+    "isrc": "DGA072215873"
+  },
+  {
+    "title": "奈",
+    "artist": "李莎旻子, 王藝",
+    "isrc": "TWD251857326"
+  },
+  {
+    "title": "我从海边来，身体上长满了盐",
+    "artist": "丁太升",
+    "isrc": "FRX281728098"
+  },
+  {
+    "title": "寻",
+    "artist": "丁少華",
+    "isrc": "HKC372450268"
+  },
+  {
+    "title": "一切美好都像你",
+    "artist": "何璟昕",
+    "isrc": "TWU712002486"
+  },
+  {
+    "title": "浪漫巡演",
+    "artist": "单色凌",
+    "isrc": "HKG732120125"
+  },
+  {
+    "title": "过完冬季",
+    "artist": "崔天琪",
+    "isrc": "HKG732149323"
+  },
+  {
+    "title": "為什麼",
+    "artist": "朱婧",
+    "isrc": "VAISRCMN020000004"
+  },
+  {
+    "title": "那些爱 - 《国士无双黄飞鸿》影视插曲",
+    "artist": "王侠",
+    "isrc": "AUMEV1801181"
+  },
+  {
+    "title": "虚拟",
+    "artist": "陳粒",
+    "isrc": "FR59R1870069"
+  },
+  {
+    "title": "一念一生",
+    "artist": "Li Jian",
+    "isrc": "HKG732133432"
+  },
+  {
+    "title": "平凡之路（Live版）",
+    "artist": "Pu Shu",
+    "isrc": "TWAE31800685"
+  },
+  {
+    "title": "A Beautiful Smile (電視劇《去有風的地方》插曲)",
+    "artist": "Jin Wenqi",
+    "isrc": "TWU712300079"
+  },
+  {
+    "title": "消愁",
+    "artist": "Mao Buyi",
+    "isrc": "CNE221800168"
+  },
+  {
+    "title": "回合",
+    "artist": "金志文",
+    "isrc": "FRX452472841"
+  },
+  {
+    "title": "今天也想見到你",
+    "artist": "焦邁奇",
+    "isrc": "FR2X41946302"
+  },
+  {
+    "title": "無畏 (電視劇《以家人之名》片頭主題曲)",
+    "artist": "Di Ma",
+    "isrc": "TWU712003226"
+  },
+  {
+    "title": "男孩（Live）",
+    "artist": "梁博",
+    "isrc": "TWDL71907245"
+  },
+  {
+    "title": "春天裡",
+    "artist": "Wang Feng",
+    "isrc": "HKG480910268"
+  },
+  {
+    "title": "曾经的你",
+    "artist": "Xu Wei",
+    "isrc": "CNE240457703"
+  },
+  {
+    "title": "只想把你偷偷藏好(《偷偷藏不住》电视剧主题曲/片头曲)",
+    "artist": "Silence Wang, 赵露思 Rosy",
+    "isrc": "HKG732356326"
+  },
+  {
+    "title": "我要飞翔（电视剧《一起来看流星雨》片尾曲）",
+    "artist": "许飞",
+    "isrc": "HKG732236739"
+  },
+  {
+    "title": "私奔",
+    "artist": "鄭鈞",
+    "isrc": "TWV671900080"
+  },
+  {
+    "title": "野子",
+    "artist": "Sue",
+    "isrc": "CNZ691800230"
+  },
+  {
+    "title": "夜车",
+    "artist": "曾軼可",
+    "isrc": "HKG732236756"
+  },
+  {
+    "title": "有没有人告诉你 - Live From Blue Note / 2017",
+    "artist": "陳楚生",
+    "isrc": "CNUM71800015"
+  },
+  {
+    "title": "薛定諤果",
+    "artist": "Jude Chiu",
+    "isrc": "HKG732411517"
+  },
+  {
+    "title": "去大理",
+    "artist": "Hao Yun",
+    "isrc": "UK8241500020"
+  },
+  {
+    "title": "深藍",
+    "artist": "陳婧霏",
+    "isrc": "DGA062030027"
+  },
+  {
+    "title": "炽心",
+    "artist": "希林娜依•高",
+    "isrc": "HKD012291064"
+  },
+  {
+    "title": "Outside",
+    "artist": "张钰琪",
+    "isrc": "TWU712001767"
+  },
+  {
+    "title": "都选C",
+    "artist": "趙英俊",
+    "isrc": "FRX452012146"
+  },
+  {
+    "title": "爱之颤",
+    "artist": "祁紫檀",
+    "isrc": "TWAE32001157"
+  },
+  {
+    "title": "烏梅子醬",
+    "artist": "Ronghao Li",
+    "isrc": "TWA532220209"
+  },
+  {
+    "title": "爛泥",
+    "artist": "唐漢霄",
+    "isrc": "HKE672100169"
+  },
+  {
+    "title": "成都（Live版）",
+    "artist": "赵雷",
+    "isrc": "TWAE31800767"
+  },
+  {
+    "title": "我還記得那天 (影視劇《蒼蘭訣》插曲)",
+    "artist": "沈以誠",
+    "isrc": "CNZ842200311"
+  },
+  {
+    "title": "那么骄傲",
+    "artist": "Jin Hai Xin",
+    "isrc": "GBSMU6376143"
+  },
+  {
+    "title": "心动记事簿（《时光与他，恰是正好》片尾曲）",
+    "artist": "廖俊濤, 洪一诺",
+    "isrc": "HKG732294010"
+  },
+  {
+    "title": "微风吹",
+    "artist": "李润祺",
+    "isrc": "HKG732141097"
+  },
+  {
+    "title": "等等 (電視劇《心跳源計劃》片頭曲)",
+    "artist": "錢正昊",
+    "isrc": "CNE222100601"
+  },
+  {
+    "title": "Dual-Ego - Honkai Impact 3rd Ost",
+    "artist": "Sa Dingding, HOYO-MiX",
+    "isrc": "FR96X1985936"
+  },
+  {
+    "title": "与君同尘",
+    "artist": "Ayanga",
+    "isrc": "HKG732225673"
+  },
+  {
+    "title": "九月底",
+    "artist": "余佳運",
+    "isrc": "FR10S2241109"
+  },
+  {
+    "title": "客厅狂欢",
+    "artist": "王源",
+    "isrc": "TWFA52200183"
+  },
+  {
+    "title": "Dog Days Are Over - Live",
+    "artist": "尚雯婕",
+    "isrc": "DGA052396776"
+  },
+  {
+    "title": "一首暖暖的 (電視劇《暖暖, 請多指教》片頭曲)",
+    "artist": "刘人语",
+    "isrc": "TWU712002291"
+  },
+  {
+    "title": "玫瑰玫瑰我爱你 / 飞鸟 / 奔跑",
+    "artist": "Pax Congo, 胡海泉, 黄征",
+    "isrc": "FR96X2219274"
+  },
+  {
+    "title": "我要我们在一起(Live at Blue Note Beijing)",
+    "artist": "Li Quan, JZ All Stars",
+    "isrc": "TWAE31800197"
+  },
+  {
+    "title": "青柠",
+    "artist": "徐秉龙, 桃十五",
+    "isrc": "HKG732002662"
+  },
+  {
+    "title": "十七岁的夏天",
+    "artist": "鐘易軒",
+    "isrc": "CNE221800178"
+  },
+  {
+    "title": "来自世界的晚安",
+    "artist": "许钧",
+    "isrc": "CNE041600255"
+  },
+  {
+    "title": "普希金 - Live at Blue Note Beijing",
+    "artist": "丁薇",
+    "isrc": "TWAE31802569"
+  },
+  {
+    "title": "一直想着他",
+    "artist": "Ada Zhuang",
+    "isrc": "FR10S1902083"
+  },
+  {
+    "title": "是否 - Live",
+    "artist": "阿朵, Yisa Yu, 宁静",
+    "isrc": "FR10S2185163"
+  },
+  {
+    "title": "人与人",
+    "artist": "郭一凡",
+    "isrc": "HKG732374647"
+  },
+  {
+    "title": "自在",
+    "artist": "叶蓓",
+    "isrc": "CNZ021700055"
+  },
+  {
+    "title": "看不見的光 (電視劇《以家人之名》插曲)",
+    "artist": "赵贝尔",
+    "isrc": "TWU712003230"
+  },
+  {
+    "title": "致未來兩歲女兒的安眠曲 (Outro)",
+    "artist": "陳蘿莉",
+    "isrc": "CNZ691800294"
+  },
+  {
+    "title": "音乐爱我",
+    "artist": "常石磊",
+    "isrc": "HKG732334086"
+  },
+  {
+    "title": "一滴淚的時間（R）",
+    "artist": "趙紫驊",
+    "isrc": "CNZ511900903"
+  },
+  {
+    "title": "烂笑话",
+    "artist": "王泽科",
+    "isrc": "HKG732026888"
+  },
+  {
+    "title": "无关于你",
+    "artist": "乔佳旭",
+    "isrc": "FRX201904873"
+  },
+  {
+    "title": "奇妙能力歌",
+    "artist": "陳粒",
+    "isrc": "FR59R1839646"
+  },
+  {
+    "title": "假如爱有天意 - Live",
+    "artist": "Li Jian",
+    "isrc": "DGA072307362"
+  },
+  {
+    "title": "NEW BOY",
+    "artist": "Pu Shu",
+    "isrc": "CNZ171500587"
+  },
+  {
+    "title": "幾年幾時幾分 (電視劇《承歡記》捨愛主題曲)",
+    "artist": "Jin Wenqi",
+    "isrc": "TWU712401242"
+  },
+  {
+    "title": "無名的人（電影《雄獅少年》主題曲）",
+    "artist": "Mao Buyi",
+    "isrc": "CNZ512100532"
+  },
+  {
+    "title": "千年",
+    "artist": "金志文, Jike Junyi",
+    "isrc": "HKG731591280"
+  },
+  {
+    "title": "你曾是少年",
+    "artist": "焦邁奇",
+    "isrc": "HKG732116355"
+  },
+  {
+    "title": "Outro",
+    "artist": "Di Ma",
+    "isrc": "CNA231402081"
+  },
+  {
+    "title": "出现又离开（Live）",
+    "artist": "梁博",
+    "isrc": "TWDL71907244"
+  },
+  {
+    "title": "當我想你的時候",
+    "artist": "Wang Feng",
+    "isrc": "HKG480910270"
+  },
+  {
+    "title": "故鄕",
+    "artist": "Xu Wei",
+    "isrc": "CNZ171500477"
+  },
+  {
+    "title": "一些规律",
+    "artist": "许飞, 姚晨",
+    "isrc": "TWAE31802879"
+  },
+  {
+    "title": "小星星",
+    "artist": "Silence Wang",
+    "isrc": "FR10S1625743"
+  },
+  {
+    "title": "廻到拉薩",
+    "artist": "鄭鈞",
+    "isrc": "CNZ171500453"
+  },
+  {
+    "title": "生活倒影",
+    "artist": "Sue",
+    "isrc": "CNZ691900103"
+  },
+  {
+    "title": "私奔",
+    "artist": "曾軼可",
+    "isrc": "CNA761800110"
+  },
+  {
+    "title": "远山如昨（《云之羽》影视剧插曲）",
+    "artist": "陳楚生",
+    "isrc": "CNZ842300753"
+  },
+  {
+    "title": "色盲",
+    "artist": "Jude Chiu, LaLa Hsu",
+    "isrc": "TWJ012300201"
+  },
+  {
+    "title": "活着",
+    "artist": "Hao Yun",
+    "isrc": "CNZ641700013"
+  },
+  {
+    "title": "別處的夕陽",
+    "artist": "陳婧霏",
+    "isrc": "FR96X1926504"
+  },
+  {
+    "title": "燼火",
+    "artist": "希林娜依•高, HOYO-MiX",
+    "isrc": "FRX452401966"
+  },
+  {
+    "title": "回答 - 纯享版",
+    "artist": "张钰琪",
+    "isrc": "HKG732005947"
+  },
+  {
+    "title": "渣",
+    "artist": "趙英俊",
+    "isrc": "FRX452012149"
+  },
+  {
+    "title": "Dear Friend",
+    "artist": "祁紫檀",
+    "isrc": "TWAE32201102"
+  },
+  {
+    "title": "名字",
+    "artist": "Ronghao Li",
+    "isrc": "TWA472490001"
+  },
+  {
+    "title": "輕塵 (電視劇《天盛長歌》概念曲)",
+    "artist": "唐漢霄",
+    "isrc": "CNZ481800096"
+  },
+  {
+    "title": "南方姑娘（Live版）",
+    "artist": "赵雷",
+    "isrc": "TWAE31800762"
+  }
+]

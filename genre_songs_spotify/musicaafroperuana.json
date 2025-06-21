@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Mayoral",
+    "artist": "Lucila Campos",
+    "isrc": "ES71G1815189"
+  },
+  {
+    "title": "Jipi Jay",
+    "artist": "Pepe Vásquez",
+    "isrc": "FRX871597137"
+  },
+  {
+    "title": "Toro Mata",
+    "artist": "Perú Negro",
+    "isrc": "NLD750000034"
+  },
+  {
+    "title": "El Chacombo",
+    "artist": "Oscar Avilés, Arturo \"Zambo\" Cavero",
+    "isrc": "FR2X41506964"
+  },
+  {
+    "title": "Mechita",
+    "artist": "Cecilia Barraza",
+    "isrc": "USRAR1001119"
+  },
+  {
+    "title": "Negra Panchita",
+    "artist": "Abelardo Vásquez",
+    "isrc": "PEMG90008004"
+  },
+  {
+    "title": "Nuestro Juramento",
+    "artist": "Bartola, Guiller",
+    "isrc": "PEMG91726001"
+  },
+  {
+    "title": "Mueve Tu Cucú",
+    "artist": "Hermanos Santa Cruz, Arturo \"Zambo\" Cavero",
+    "isrc": "USRAR1001157"
+  },
+  {
+    "title": "Nuestro Secreto / Se Acabó y Punto",
+    "artist": "Manuel Donayre",
+    "isrc": "FR96X1601756"
+  },
+  {
+    "title": "No Me Cumben",
+    "artist": "Nicómedes Santa Cruz",
+    "isrc": "USLB10210392"
+  },
+  {
+    "title": "Porque yo creo en ti",
+    "artist": "Marco Romero",
+    "isrc": "USHM81360262"
+  },
+  {
+    "title": "La Flor De La Canela",
+    "artist": "Chabuca Granda",
+    "isrc": "ARF048000001"
+  },
+  {
+    "title": "La Picantería",
+    "artist": "Victoria Santa Cruz",
+    "isrc": "FR2X41559175"
+  },
+  {
+    "title": "Se Acabo y... Punto",
+    "artist": "Arturo \"Zambo\" Cavero, Oscar Avilés",
+    "isrc": "FRX871521864"
+  },
+  {
+    "title": "Negro Tiene Que Ser / Ven a Mi Encuentro",
+    "artist": "Rafael Santa Cruz, Octavio Santa Cruz Castillo",
+    "isrc": "PEMG99904002"
+  },
+  {
+    "title": "Eribo",
+    "artist": "AfroPerú, Pedrito Martinez",
+    "isrc": "FRX762366139"
+  },
+  {
+    "title": "Plena y Bomba (feat. Calle 13)",
+    "artist": "Susana Baca",
+    "isrc": "USLB11110023"
+  },
+  {
+    "title": "Tributo a Fiesta Criolla: Embrujo",
+    "artist": "Willy Terry, Carlos Castillo",
+    "isrc": "QZHZ42130875"
+  },
+  {
+    "title": "Cuatro Tiempos Negros Jóvenes",
+    "artist": "Felix Casaverde",
+    "isrc": "FRX871598258"
+  },
+  {
+    "title": "Que Voy a Hacer Sin Ti",
+    "artist": "Cosa Nuestra De Tito Manrique",
+    "isrc": "PETM11604005"
+  },
+  {
+    "title": "Anhelos (Polca)",
+    "artist": "Yuri Juárez, Jhair Sala",
+    "isrc": "QMAAK1918871"
+  },
+  {
+    "title": "Mal Paso",
+    "artist": "Eva Ayllón",
+    "isrc": "USDY50804316"
+  },
+  {
+    "title": "Rosa Luz",
+    "artist": "Carlos Hayre, Leturia",
+    "isrc": "PEMG98701001"
+  },
+  {
+    "title": "Tarumbeo",
+    "artist": "Cotito Medrano",
+    "isrc": "QZK6G2083319"
+  },
+  {
+    "title": "Tumba y Cajón",
+    "artist": "Just Play Peru, Charo Goyoneche, Sofía Buitrón",
+    "isrc": "QMAAK1944668"
+  },
+  {
+    "title": "Carnaval Negro del Carmen",
+    "artist": "Miguel Ballumbrosio",
+    "isrc": "ES71G1950119"
+  },
+  {
+    "title": "Junio Y Garua",
+    "artist": "Gabriel Alegria Afro-Peruvian Sextet",
+    "isrc": "ushm81380291"
+  },
+  {
+    "title": "Acomódate",
+    "artist": "Pepe Céspedes",
+    "isrc": "PEPP31602007"
+  },
+  {
+    "title": "Chincha",
+    "artist": "Andrés Prado",
+    "isrc": "uscgj0636736"
+  },
+  {
+    "title": "El Surco (Trival - Afro)",
+    "artist": "Juan Medrano Cotito",
+    "isrc": "QM3DF2206000"
+  },
+  {
+    "title": "Baila Mi Festejo",
+    "artist": "Afrocandela",
+    "isrc": "PEDY21808070"
+  },
+  {
+    "title": "Universitario y Yo (Y Dale U)",
+    "artist": "Cesar Peredo, Sebastian Peredo, Santiago Peredo, César Mancilla",
+    "isrc": "QZNJX2306586"
+  },
+  {
+    "title": "Oye Nena",
+    "artist": "Zav",
+    "isrc": "ES71G2011991"
+  },
+  {
+    "title": "Mi Alma Entre Tus Manos - Versión Original",
+    "artist": "Jorge Pardo",
+    "isrc": "PEJP10603011"
+  },
+  {
+    "title": "Por Arguedas",
+    "artist": "Cimarrones",
+    "isrc": "PEBQ91718199"
+  },
+  {
+    "title": "Saca Roncha",
+    "artist": "Guajaja",
+    "isrc": "PESM20101001"
+  },
+  {
+    "title": "Machete",
+    "artist": "Novalima",
+    "isrc": "USCCW1610795"
+  },
+  {
+    "title": "Matilde",
+    "artist": "Los Guardianes De La Música Criolla",
+    "isrc": "PEYO81000081"
+  },
+  {
+    "title": "Suspiros",
+    "artist": "Aldo Dediós",
+    "isrc": "PEBQ91400955"
+  },
+  {
+    "title": "Cuadra 11",
+    "artist": "Afro-Peruvian Jazz Orchestra, Lorenzo Ferrero, Anibal Seminario",
+    "isrc": "QZLD62000003"
+  },
+  {
+    "title": "El Tamalito",
+    "artist": "Alex Acuna, Eva Ayllon & Los Hijos del Sol",
+    "isrc": "uscgj0655851"
+  },
+  {
+    "title": "Toro Mata",
+    "artist": "Juan Criado, Abelardo Vásquez",
+    "isrc": "FR10S1536996"
+  },
+  {
+    "title": "Porque Tu",
+    "artist": "Desire Mandrile, Gala Brie",
+    "isrc": "QZMZ92460061"
+  },
+  {
+    "title": "Negra Presuntuosa",
+    "artist": "Andres Soto",
+    "isrc": "US7VG1437506"
+  },
+  {
+    "title": "Cambalache",
+    "artist": "Tangolandó, Sofía Tosello, Yuri Juárez",
+    "isrc": "QMZ5R1200048"
+  },
+  {
+    "title": "Vuelvo a Nacer",
+    "artist": "Fusiorama",
+    "isrc": "ushm21586836"
+  },
+  {
+    "title": "Blackbird",
+    "artist": "Richie Zellon",
+    "isrc": "ushm81289119"
+  },
+  {
+    "title": "Tumba y Cajon",
+    "artist": "Radiokijada, Martha Galarraga",
+    "isrc": "CH6510800010"
+  },
+  {
+    "title": "Negra",
+    "artist": "Calato",
+    "isrc": "QM2PV1621359"
+  },
+  {
+    "title": "Ella Es",
+    "artist": "Jean Paul Strauss",
+    "isrc": "FR59R1794217"
+  },
+  {
+    "title": "Ron Con Caña Durce - Festejo",
+    "artist": "La Cuadrilla Morena de Juan Criado",
+    "isrc": "FR96X1503969"
+  },
+  {
+    "title": "Son de los Diablos - Danza de Carnaval",
+    "artist": "Lito Gonzáles y su Conjunto",
+    "isrc": "FR96X1503954"
+  },
+  {
+    "title": "Serenata de la Guardia Vieja - Vals Criollo",
+    "artist": "Luciano Huambachano, César Pizarro, Pedro Torres, Nicómedes Santa Cruz, Juan Criado, Edmundo Moreau",
+    "isrc": "FR96X1503977"
+  },
+  {
+    "title": "La Picaronera - Pregón",
+    "artist": "Marcela Villamonte",
+    "isrc": "FR96X1503974"
+  },
+  {
+    "title": "Libertad - Panalivio",
+    "artist": "Nicanor Lobatón, El Conjunto Gente Morena",
+    "isrc": "FR96X1503981"
+  },
+  {
+    "title": "Alcatraz, Quema Tú",
+    "artist": "Conjunto Perú Negro",
+    "isrc": "QM4TW1649223"
+  },
+  {
+    "title": "Vals",
+    "artist": "Omar Rojas",
+    "isrc": "usx9p1238571"
+  },
+  {
+    "title": "El Diablo Mayor",
+    "artist": "Chilcano",
+    "isrc": "ushm21146028"
+  },
+  {
+    "title": "Pucusana",
+    "artist": "Gabriel Alegria Afro-Pervuain Sextet",
+    "isrc": "ushm91242757"
+  },
+  {
+    "title": "Guaranguito",
+    "artist": "Lucilla Campos",
+    "isrc": "FRX991588983"
+  },
+  {
+    "title": "El Hombre Sin Antena",
+    "artist": "Paul Hoyle",
+    "isrc": "ES71G1850912"
+  },
+  {
+    "title": "La Abeja",
+    "artist": "Valdelomar - Dávila",
+    "isrc": "pey080900030"
+  },
+  {
+    "title": "No Te He Dado Motivo",
+    "artist": "Lucila Campos",
+    "isrc": "FR2X41550205"
+  },
+  {
+    "title": "Alcatraz",
+    "artist": "Perú Negro",
+    "isrc": "GBAJC0305077"
+  },
+  {
+    "title": "Ritmo De Negros",
+    "artist": "Pepe Vásquez",
+    "isrc": "PEMG99907003"
+  },
+  {
+    "title": "Cada Domingo a las Doce Después de la Misa",
+    "artist": "Cecilia Barraza",
+    "isrc": "FRX991591828"
+  },
+  {
+    "title": "El Alcatraz",
+    "artist": "Oscar Avilés, Arturo \"Zambo\" Cavero",
+    "isrc": "FRX871530258"
+  },
+  {
+    "title": "Préndeme La Vela",
+    "artist": "Abelardo Vásquez",
+    "isrc": "USRAR1001159"
+  },
+  {
+    "title": "Mándame Quitar la Vida",
+    "artist": "Bartola",
+    "isrc": "FRX991593119"
+  },
+  {
+    "title": "El Alcatraz",
+    "artist": "Hermanos Santa Cruz",
+    "isrc": "USRAR1001149"
+  },
+  {
+    "title": "Yo Perdí el Corazón",
+    "artist": "Manuel Donayre",
+    "isrc": "FR96X1601753"
+  },
+  {
+    "title": "Zapateo Criollo",
+    "artist": "Nicómedes Santa Cruz, Abelardo Vásquez, Oswaldo Vásquez",
+    "isrc": "FR96X1503975"
+  },
+  {
+    "title": "La Jarana de Colón / Carretas Aquí Es el Tono",
+    "artist": "Marco Romero",
+    "isrc": "PEMR31402006"
+  },
+  {
+    "title": "Ese Arar en el Mar",
+    "artist": "Chabuca Granda",
+    "isrc": "FRX451569964"
+  },
+  {
+    "title": "Las Lavanderas",
+    "artist": "Victoria Santa Cruz",
+    "isrc": "FR2X41559177"
+  },
+  {
+    "title": "Y Se Llama Perú",
+    "artist": "Arturo \"Zambo\" Cavero, Oscar Avilés",
+    "isrc": "FRX451527889"
+  },
+  {
+    "title": "A La Molina (No voy ma')",
+    "artist": "Rafael Santa Cruz",
+    "isrc": "USRAR1001162"
+  },
+  {
+    "title": "Que hemos de hacer",
+    "artist": "AfroPerú",
+    "isrc": "FRX762366143"
+  },
+  {
+    "title": "Negra Presentuosa",
+    "artist": "Susana Baca",
+    "isrc": "USLB10210488"
+  },
+  {
+    "title": "Quebranto",
+    "artist": "Willy Terry, Lucy Avilés",
+    "isrc": "QZHZ42130863"
+  },
+  {
+    "title": "Tío Goyo",
+    "artist": "Felix Casaverde, Lucila Campos",
+    "isrc": "QZMEP2118168"
+  },
+  {
+    "title": "Saca las Manos",
+    "artist": "Cosa Nuestra De Tito Manrique",
+    "isrc": "PETM11604006"
+  },
+  {
+    "title": "El Parisien (Valse)",
+    "artist": "Yuri Juárez, Jhair Sala",
+    "isrc": "QMAAK1918866"
+  },
+  {
+    "title": "La Caporala",
+    "artist": "Carlos Hayre",
+    "isrc": "FR2X41557476"
+  },
+  {
+    "title": "Raices del Festejo - Le Dije a Papa",
+    "artist": "Eva Ayllón",
+    "isrc": "USDY50804223"
+  },
+  {
+    "title": "Son de Los Diablos",
+    "artist": "Cotito Medrano",
+    "isrc": "QZK6F2061120"
+  },
+  {
+    "title": "Tinkalamina",
+    "artist": "Just Play Peru, Milagros Guerrero",
+    "isrc": "QMAAK1944671"
+  },
+  {
+    "title": "Sazonando Con Pumarada",
+    "artist": "Miguel Ballumbrosio",
+    "isrc": "ES71G1950116"
+  },
+  {
+    "title": "A Lima Llegó El Tondero (Fuga De Tondero)",
+    "artist": "Gabriel Alegria Afro-Peruvian Sextet",
+    "isrc": "ushm81380294"
+  },
+  {
+    "title": "376",
+    "artist": "Pepe Céspedes",
+    "isrc": "PEPP31602002"
+  },
+  {
+    "title": "Danza De Tijeras",
+    "artist": "Andrés Prado",
+    "isrc": "uscgj0636731"
+  },
+  {
+    "title": "Festejo de Ritmo (Barda Remix)",
+    "artist": "Juan Medrano Cotito, Barda",
+    "isrc": "USHM82134163"
+  },
+  {
+    "title": "Prenda Mia / Nunca Me Faltes / Imaginación - Mix Irma Y Oswaldo",
+    "artist": "Afrocandela",
+    "isrc": "PEDY21501007"
+  },
+  {
+    "title": "Beautiful Love",
+    "artist": "Cesar Peredo, Los De Adentro",
+    "isrc": "PEAP31107001"
+  },
+  {
+    "title": "Estaba a Punto de Irme",
+    "artist": "Zav",
+    "isrc": "QZNJV2132251"
+  },
+  {
+    "title": "Cada Domingo a las 12",
+    "artist": "Jorge Pardo",
+    "isrc": "PEJP11004001"
+  },
+  {
+    "title": "Tambor Sonero",
+    "artist": "Cimarrones",
+    "isrc": "PEBQ91401964"
+  },
+  {
+    "title": "A Mi Que Chu... - Barcelona Remix",
+    "artist": "Guajaja",
+    "isrc": "PESM20101010"
+  },
+  {
+    "title": "Paso a Huella - Captain Planet Remix",
+    "artist": "Novalima, Captain Planet",
+    "isrc": "USCCW1610930"
+  },
+  {
+    "title": "Romanticismo",
+    "artist": "Los Guardianes De La Música Criolla",
+    "isrc": "PEYO81000085"
+  },
+  {
+    "title": "La Huaca China / Rocío Matinal",
+    "artist": "Aldo Dediós",
+    "isrc": "PEBQ91400953"
+  },
+  {
+    "title": "Ritmo, Color y Sabor",
+    "artist": "Afro-Peruvian Jazz Orchestra, Lorenzo Ferrero, Anibal Seminario",
+    "isrc": "QZLD62000001"
+  },
+  {
+    "title": "Animo y Aliento",
+    "artist": "Alex Acuna, Eva Ayllon & Los Hijos del Sol",
+    "isrc": "uscgj0655853"
+  },
+  {
+    "title": "Congorito",
+    "artist": "Juan Criado",
+    "isrc": "FRX871597866"
+  },
+  {
+    "title": "Intensidad",
+    "artist": "Desire Mandrile",
+    "isrc": "PEDM11709227"
+  },
+  {
+    "title": "Tu Mirada y Mi Voz",
+    "artist": "Andres Soto",
+    "isrc": "US7VG1437498"
+  },
+  {
+    "title": "La Arenosa",
+    "artist": "Tangolandó, Sofía Tosello, Yuri Juárez",
+    "isrc": "QMZ5R1200052"
+  },
+  {
+    "title": "Viviendo Juntos",
+    "artist": "Fusiorama",
+    "isrc": "ushm21586837"
+  },
+  {
+    "title": "Si Me Faltaras Amor",
+    "artist": "Lucila Campos",
+    "isrc": "FR2X41550208"
+  },
+  {
+    "title": "Son de los Diablos",
+    "artist": "Perú Negro",
+    "isrc": "USLB10210391"
+  },
+  {
+    "title": "No Valentín",
+    "artist": "Pepe Vásquez",
+    "isrc": "USRAR1001146"
+  },
+  {
+    "title": "Cholita Norteña",
+    "artist": "Cecilia Barraza",
+    "isrc": "FRX991591840"
+  },
+  {
+    "title": "Mi Perú",
+    "artist": "Oscar Avilés",
+    "isrc": "FRX871529787"
+  },
+  {
+    "title": "Mamá Luchita",
+    "artist": "Abelardo Vásquez",
+    "isrc": "PEMG90008001"
+  },
+  {
+    "title": "Morena La Flor De Lima",
+    "artist": "Bartola",
+    "isrc": "USRAR1001027"
+  },
+  {
+    "title": "El Tamalito",
+    "artist": "Hermanos Santa Cruz",
+    "isrc": "PEMG99904001"
+  },
+  {
+    "title": "Panalivio",
+    "artist": "Nicómedes Santa Cruz",
+    "isrc": "USHM81803556"
+  },
+  {
+    "title": "Jarana Peruana",
+    "artist": "Manuel Donayre",
+    "isrc": "FRX991590235"
+  },
+  {
+    "title": "Noche de luna",
+    "artist": "Marco Romero, Yahaira Plasencia",
+    "isrc": "QM4TW2325369"
+  },
+  {
+    "title": "El Surco",
+    "artist": "Chabuca Granda",
+    "isrc": "ARF048000002"
+  },
+  {
+    "title": "No Hay Negro Que Se Me Resista",
+    "artist": "Victoria Santa Cruz",
+    "isrc": "PEMG90309001"
+  },
+  {
+    "title": "El Negro Frutero",
+    "artist": "Rafael Santa Cruz",
+    "isrc": "PEMG90611001"
+  },
+  {
+    "title": "Cada Domingo a las 12 Después de la Misa",
+    "artist": "Arturo \"Zambo\" Cavero, Oscar Avilés",
+    "isrc": "FRX451527885"
+  },
+  {
+    "title": "Madera & Cuero",
+    "artist": "AfroPerú",
+    "isrc": "FRX762366146"
+  },
+  {
+    "title": "Crepusculo de Amor",
+    "artist": "Willy Terry, Lucy Avilés",
+    "isrc": "QZHZ42130868"
+  },
+  {
+    "title": "María Lando",
+    "artist": "Susana Baca",
+    "isrc": "USL4Q1736156"
+  },
+  {
+    "title": "Tondero piurano",
+    "artist": "Felix Casaverde, Cecilia Barraza",
+    "isrc": "QZMEP2118176"
+  },
+  {
+    "title": "Ella Es",
+    "artist": "Cosa Nuestra De Tito Manrique",
+    "isrc": "PETM11604007"
+  },
+  {
+    "title": "Promesa (Polka)",
+    "artist": "Yuri Juárez, Jhair Sala",
+    "isrc": "QMAAK1918867"
+  },
+  {
+    "title": "Sueño Nomás",
+    "artist": "Carlos Hayre",
+    "isrc": "FRX871597880"
+  },
+  {
+    "title": "Ronda de Tondero",
+    "artist": "Cotito Medrano",
+    "isrc": "QZK6F2061117"
+  },
+  {
+    "title": "Pancha Remolino",
+    "artist": "Just Play Peru, Charo Goyoneche",
+    "isrc": "QMAAK1944673"
+  }
+]

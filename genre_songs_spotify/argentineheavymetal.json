@@ -1,0 +1,547 @@
+[
+  {
+    "title": "Te Quiero Contar",
+    "artist": "Tano Romano",
+    "isrc": "AR8TN2100031"
+  },
+  {
+    "title": "Reinará el Caos",
+    "artist": "Serpentor",
+    "isrc": "ARRDX1520001"
+  },
+  {
+    "title": "Pueblo Motoquero",
+    "artist": "Tren Loco",
+    "isrc": "TCABW1426926"
+  },
+  {
+    "title": "Mano dura",
+    "artist": "Horcas",
+    "isrc": "GBSMU3496416"
+  },
+  {
+    "title": "Maza",
+    "artist": "Lethal",
+    "isrc": "ARO349300003"
+  },
+  {
+    "title": "Apodado hijo del diablo",
+    "artist": "Mastifal",
+    "isrc": "GX38U2212800"
+  },
+  {
+    "title": "Yo Caníbal",
+    "artist": "OConnor",
+    "isrc": "ARF851100166"
+  },
+  {
+    "title": "Ya Nada Queda",
+    "artist": "Lörihen",
+    "isrc": "USX9P2387378"
+  },
+  {
+    "title": "Aunque Nos Pese el Infierno",
+    "artist": "Claudio Marciello",
+    "isrc": "ART0G1204135"
+  },
+  {
+    "title": "Castigador Por Herencia",
+    "artist": "Malon",
+    "isrc": "ARF049501102"
+  },
+  {
+    "title": "Involución",
+    "artist": "Rowek",
+    "isrc": "GBSMU3072257"
+  },
+  {
+    "title": "Destrucción",
+    "artist": "V8",
+    "isrc": "ES71G1753578"
+  },
+  {
+    "title": "Cacique Yatel",
+    "artist": "Aonikenk",
+    "isrc": "ARRDX1500337"
+  },
+  {
+    "title": "Inadaptados Sociales",
+    "artist": "Metralla",
+    "isrc": "ARRDX1300292"
+  },
+  {
+    "title": "Solo Tú",
+    "artist": "Helker",
+    "isrc": "DEU601706808"
+  },
+  {
+    "title": "De Cuero y Metal",
+    "artist": "El Dragón",
+    "isrc": "ARA232100120"
+  },
+  {
+    "title": "La Espada Sagrada",
+    "artist": "Renacer",
+    "isrc": "QM4TW1985219"
+  },
+  {
+    "title": "En Mil Pedazos",
+    "artist": "Plan 4",
+    "isrc": "TCACG1524027"
+  },
+  {
+    "title": "Los grises",
+    "artist": "Los Antiguos",
+    "isrc": "GBSMU2238992"
+  },
+  {
+    "title": "Me Cago en Tus Muertos",
+    "artist": "Malícia",
+    "isrc": "ushm81686042"
+  },
+  {
+    "title": "Recuerdos del Ayer",
+    "artist": "Bertoncelli",
+    "isrc": "ushm81690735"
+  },
+  {
+    "title": "Urd (En Vivo)",
+    "artist": "Azeroth",
+    "isrc": "USCGJ2489586"
+  },
+  {
+    "title": "Vagabundear",
+    "artist": "Alakran",
+    "isrc": "usdy42277148"
+  },
+  {
+    "title": "El Corso de la Gran Mentira",
+    "artist": "Zorra",
+    "isrc": "USDY42498827"
+  },
+  {
+    "title": "El Vuelo Del Dragón",
+    "artist": "Patan",
+    "isrc": "TCABX1417645"
+  },
+  {
+    "title": "Otro Día para Ser",
+    "artist": "Hermetica",
+    "isrc": "ARG601012980"
+  },
+  {
+    "title": "Corte Porteño",
+    "artist": "Walter Giardino",
+    "isrc": "ARF099800116"
+  },
+  {
+    "title": "Hoy Podes Pudrirte",
+    "artist": "Avernal",
+    "isrc": "ARKZ21800045"
+  },
+  {
+    "title": "Justo Que Te Vas",
+    "artist": "Ricardo Iorio",
+    "isrc": "ES71G1507264"
+  },
+  {
+    "title": "No Obstante Lo Cual",
+    "artist": "Riff",
+    "isrc": "ARF471600139"
+  },
+  {
+    "title": "Hijo de Puta",
+    "artist": "Asspera",
+    "isrc": "ushm91637438"
+  },
+  {
+    "title": "Diabólico Plan",
+    "artist": "Pappo Y Hoy No Es Hoy",
+    "isrc": "ARF100300895"
+  },
+  {
+    "title": "Sé Vos",
+    "artist": "Almafuerte",
+    "isrc": "ARF099800056"
+  },
+  {
+    "title": "Sin Ti No Se Vivir",
+    "artist": "Mala Medicina",
+    "isrc": "ARRDX0400028"
+  },
+  {
+    "title": "Lejos de casa",
+    "artist": "A.N.I.M.A.L., Mario Altamirano and A.N.I.M.A.L.",
+    "isrc": "ARF119600029"
+  },
+  {
+    "title": "Volveré A Empezar",
+    "artist": "Miguel Roldán Cruel Adicción",
+    "isrc": "ARRDX1600529"
+  },
+  {
+    "title": "Como Yo Nadie Te Ha Amado",
+    "artist": "Barilari",
+    "isrc": "ARA110700001"
+  },
+  {
+    "title": "Corre Hasta el Final",
+    "artist": "Kamikaze",
+    "isrc": "ARRDX1100001"
+  },
+  {
+    "title": "Sacate la Mierda",
+    "artist": "Carajo",
+    "isrc": "AR5HN1300002"
+  },
+  {
+    "title": "Alguien Nos Divide (Version Acustica)",
+    "artist": "Mario Ian, YULIE RUTH",
+    "isrc": "ushm92140278"
+  },
+  {
+    "title": "Metamorphosis",
+    "artist": "Vibrion",
+    "isrc": "usdy41900432"
+  },
+  {
+    "title": "Maldita Historia",
+    "artist": "De La Tierra",
+    "isrc": "USQX91503064"
+  },
+  {
+    "title": "Juntos a la Par",
+    "artist": "Pappo",
+    "isrc": "ARF780300004"
+  },
+  {
+    "title": "Sadness in the Night",
+    "artist": "Beto Vazquez Infinity, Tarja, Jörg Michael",
+    "isrc": "ARLVW0126804"
+  },
+  {
+    "title": "Mujer Amante",
+    "artist": "Rata Blanca",
+    "isrc": "ARF099000030"
+  },
+  {
+    "title": "Esclavo de Tu Amor",
+    "artist": "Dragonfly",
+    "isrc": "ESAAI0272158"
+  },
+  {
+    "title": "Smells Like Teen Spirit",
+    "artist": "Bruthal 6",
+    "isrc": "QMDA61476896"
+  },
+  {
+    "title": "Jinetes del Universo",
+    "artist": "Picaporters",
+    "isrc": "QZGLS1921562"
+  },
+  {
+    "title": "Quiero Leche",
+    "artist": "Heavysaurios",
+    "isrc": "ARX471200007"
+  },
+  {
+    "title": "A un costado del tiempo",
+    "artist": "Exiliado",
+    "isrc": "GBMJG2121060"
+  },
+  {
+    "title": "Haz Tu Voluntad",
+    "artist": "Crowley",
+    "isrc": "ushm21631051"
+  },
+  {
+    "title": "Desarraigo",
+    "artist": "De Mi Sangre",
+    "isrc": "GX5MY2380359"
+  },
+  {
+    "title": "La Historia De Un Minuto",
+    "artist": "Efecto Tequila",
+    "isrc": "MXF369834286"
+  },
+  {
+    "title": "Otro Infierno Más",
+    "artist": "Tano Romano",
+    "isrc": "AR8TN2000462"
+  },
+  {
+    "title": "Privación Ilegítima de la Libertad",
+    "artist": "Serpentor",
+    "isrc": "ARRDX0800142"
+  },
+  {
+    "title": "Acorazado Belgrano",
+    "artist": "Tren Loco",
+    "isrc": "TCABW1426925"
+  },
+  {
+    "title": "Abre tus ojos",
+    "artist": "Horcas",
+    "isrc": "GBSMU3496422"
+  },
+  {
+    "title": "Mike Tyson",
+    "artist": "Lethal",
+    "isrc": "ARO349300005"
+  },
+  {
+    "title": "Sindrome de supremacia",
+    "artist": "Mastifal",
+    "isrc": "ARC571600228"
+  },
+  {
+    "title": "Río Extraño",
+    "artist": "OConnor",
+    "isrc": "ARF851000136"
+  },
+  {
+    "title": "Vida Eterna",
+    "artist": "Lörihen",
+    "isrc": "tcacr1657204"
+  },
+  {
+    "title": "Caballo Negro",
+    "artist": "Claudio Marciello",
+    "isrc": "ART0G1204158"
+  },
+  {
+    "title": "Deshacer el Mundo",
+    "artist": "Malon",
+    "isrc": "ARF471500082"
+  },
+  {
+    "title": "Redes",
+    "artist": "Rowek",
+    "isrc": "GBSMU3072255"
+  },
+  {
+    "title": "Muy Cansado Estoy",
+    "artist": "V8",
+    "isrc": "ES71G1753583"
+  },
+  {
+    "title": "Sentir Metalero",
+    "artist": "Aonikenk",
+    "isrc": "ARRDX1500326"
+  },
+  {
+    "title": "Sotanas de Satanás",
+    "artist": "Metralla",
+    "isrc": "ARRDX1300290"
+  },
+  {
+    "title": "En Mis Sueños",
+    "artist": "Helker",
+    "isrc": "TCACO1679500"
+  },
+  {
+    "title": "Vikingos",
+    "artist": "El Dragón, Cito Vitulli, Gabriel González, Frank Mangialavore, Andrea Boggio",
+    "isrc": "ARA232100114"
+  },
+  {
+    "title": "Cenizas Del Alma",
+    "artist": "Renacer",
+    "isrc": "TCAGM2272851"
+  },
+  {
+    "title": "En la Eternidad",
+    "artist": "Plan 4",
+    "isrc": "QMEZE1740699"
+  },
+  {
+    "title": "La Culpa Al Viento",
+    "artist": "Los Antiguos",
+    "isrc": "GB-SMU-22-49925"
+  },
+  {
+    "title": "Rompe el Viento",
+    "artist": "Malícia",
+    "isrc": "usdy41632905"
+  },
+  {
+    "title": "Pequeño Gigante",
+    "artist": "Bertoncelli",
+    "isrc": "ushm81690737"
+  },
+  {
+    "title": "Senderos del Destino",
+    "artist": "Azeroth",
+    "isrc": "ushm82227132"
+  },
+  {
+    "title": "Alguien Nos Divide",
+    "artist": "Alakran",
+    "isrc": "usdy42277151"
+  },
+  {
+    "title": "Yo Caníbal (Patricio Rey y Sus Redonditos de Ricota)",
+    "artist": "Zorra",
+    "isrc": "ushm91714064"
+  },
+  {
+    "title": "Arrancando El Dolor",
+    "artist": "Patan",
+    "isrc": "TCABX1417646"
+  },
+  {
+    "title": "Olvidalo y Volvera por Más",
+    "artist": "Hermetica",
+    "isrc": "ARG601012982"
+  },
+  {
+    "title": "Heroe De La Eternidad",
+    "artist": "Walter Giardino",
+    "isrc": "ARF099800120"
+  },
+  {
+    "title": "Hilera de Cráneos",
+    "artist": "Avernal",
+    "isrc": "ARKZ22000104"
+  },
+  {
+    "title": "Quiero Ser Como Usted",
+    "artist": "Ricardo Iorio",
+    "isrc": "ES71G1507266"
+  },
+  {
+    "title": "Que Sea Rock",
+    "artist": "Riff",
+    "isrc": "ARF471600138"
+  },
+  {
+    "title": "La Poneta",
+    "artist": "Asspera",
+    "isrc": "ushm91637393"
+  },
+  {
+    "title": "Mensajero Nocturno",
+    "artist": "Pappo Y Hoy No Es Hoy",
+    "isrc": "ARF100300897"
+  },
+  {
+    "title": "Toro y Pampa",
+    "artist": "Almafuerte",
+    "isrc": "ARF850600142"
+  },
+  {
+    "title": "Fugitivo",
+    "artist": "Mala Medicina",
+    "isrc": "ARRDX1500338"
+  },
+  {
+    "title": "Loco pro.",
+    "artist": "A.N.I.M.A.L., Chuck Jhonson and Juan Jose Burgos, Richard Kaplan",
+    "isrc": "ARF119800005"
+  },
+  {
+    "title": "Resurgir",
+    "artist": "Miguel Roldán Cruel Adicción",
+    "isrc": "ARRDX1600523"
+  },
+  {
+    "title": "Todo Lo Que Hago Lo Hago por Ti",
+    "artist": "Barilari",
+    "isrc": "ARA110700002"
+  },
+  {
+    "title": "Sueños",
+    "artist": "Tano Romano",
+    "isrc": "AR8TN2000464"
+  },
+  {
+    "title": "Controlando la Nación",
+    "artist": "Serpentor",
+    "isrc": "ARRDX0800143"
+  },
+  {
+    "title": "Venas De Acero",
+    "artist": "Tren Loco",
+    "isrc": "TCABW1426912"
+  },
+  {
+    "title": "Esperanza",
+    "artist": "Horcas",
+    "isrc": "GBSMU3496415"
+  },
+  {
+    "title": "Estalla Buenos Aires",
+    "artist": "Lethal",
+    "isrc": "ES71G1709275"
+  },
+  {
+    "title": "Culto vacio radical",
+    "artist": "Mastifal",
+    "isrc": "ARC571600226"
+  },
+  {
+    "title": "Ana no duerme",
+    "artist": "OConnor",
+    "isrc": "ARF851100164"
+  },
+  {
+    "title": "El Viaje",
+    "artist": "Lörihen",
+    "isrc": "ARFE41800004"
+  },
+  {
+    "title": "Vengo",
+    "artist": "Claudio Marciello",
+    "isrc": "ART0G1204133"
+  },
+  {
+    "title": "Malon Mestizo",
+    "artist": "Malon",
+    "isrc": "ARF049501099"
+  },
+  {
+    "title": "Grita",
+    "artist": "Rowek",
+    "isrc": "GBSMU3177532"
+  },
+  {
+    "title": "Cautivos del Sistema",
+    "artist": "V8",
+    "isrc": "ES71G1753573"
+  },
+  {
+    "title": "Y de Quién Es?",
+    "artist": "Aonikenk",
+    "isrc": "QM4TW1956632"
+  },
+  {
+    "title": "Mal de Males",
+    "artist": "Metralla",
+    "isrc": "ARRDX1300291"
+  },
+  {
+    "title": "Redencion",
+    "artist": "Helker",
+    "isrc": "DEU601304492"
+  },
+  {
+    "title": "Argentina",
+    "artist": "El Dragón",
+    "isrc": "QM7281418700"
+  },
+  {
+    "title": "Entre La Gloria Y La Traición",
+    "artist": "Renacer",
+    "isrc": "TCAGM2272837"
+  },
+  {
+    "title": "Mi Falta de Fé",
+    "artist": "Plan 4",
+    "isrc": "TCACG1524028"
+  },
+  {
+    "title": "El Inventor Del Mal",
+    "artist": "Los Antiguos",
+    "isrc": "GB-SMU-22-49929"
+  }
+]

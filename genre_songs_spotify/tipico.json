@@ -1,0 +1,512 @@
+[
+  {
+    "title": "El solitario",
+    "artist": "Dorindo Cárdenas",
+    "isrc": "GBMJG1605916"
+  },
+  {
+    "title": "El Fantasma del Amor",
+    "artist": "Lucho De Sedas",
+    "isrc": "QM6DC1707138"
+  },
+  {
+    "title": "Sufrimientos y Pesares",
+    "artist": "Yin Carrizo",
+    "isrc": "GBMA21859634"
+  },
+  {
+    "title": "Lo que nos pasa a los hombres",
+    "artist": "Alfredo Escudero y su conjunto Los Montañeros",
+    "isrc": "GBMJG1604766"
+  },
+  {
+    "title": "Viviré para Quererte",
+    "artist": "Osvaldo Ayala",
+    "isrc": "PAVA21200009"
+  },
+  {
+    "title": "Mi dicha eres tú",
+    "artist": "Samy Sandoval y su ritmo montañero",
+    "isrc": "GBMJG1616236"
+  },
+  {
+    "title": "Nuestro Romance",
+    "artist": "Victorio Vergara",
+    "isrc": "USL4Q2350958"
+  },
+  {
+    "title": "Quisiera",
+    "artist": "Inocente Sanjur y su conjunto Alma de Panamá",
+    "isrc": "GBMJG1700387"
+  },
+  {
+    "title": "Consuelo de amor",
+    "artist": "Herminio Rojas y su ritmo sensacional",
+    "isrc": "GBMJG1700392"
+  },
+  {
+    "title": "Cuando un Amor Se Aleja",
+    "artist": "Teresin Jaen",
+    "isrc": "uscgj1785695"
+  },
+  {
+    "title": "Corazón De Piedra",
+    "artist": "Herminio Rojas",
+    "isrc": "TCAFU2123715"
+  },
+  {
+    "title": "Si el Mar Se Volviera Ron",
+    "artist": "Ulpiano Vergara & Lucho de Sedas",
+    "isrc": "uscgj1362733"
+  },
+  {
+    "title": "Un Sufrimiento Mas",
+    "artist": "Ulpiano Vergara Y Su Conjunto Los Distinguidos",
+    "isrc": "ushm91125564"
+  },
+  {
+    "title": "Dile Que No Lo Amas",
+    "artist": "Alfredo Escudero",
+    "isrc": "uscgh2168443"
+  },
+  {
+    "title": "Te Esperare",
+    "artist": "Edwin Zeballos",
+    "isrc": "GBMJG1718983"
+  },
+  {
+    "title": "Llamada Perdida",
+    "artist": "Samy y Sandra Sandoval, Alejandro Torres",
+    "isrc": "GX3Q92098486"
+  },
+  {
+    "title": "La ajena",
+    "artist": "Ulpiano Vergara Y Los Distinguidos",
+    "isrc": "GBMJG1616316"
+  },
+  {
+    "title": "Mi Persona Favorita",
+    "artist": "Ulpiano Vergara",
+    "isrc": "GX53U2055386"
+  },
+  {
+    "title": "No temas quererme",
+    "artist": "Juancín Henríquez",
+    "isrc": "GBMJG1909504"
+  },
+  {
+    "title": "Varita De Escoba",
+    "artist": "Chelo Mitre",
+    "isrc": "uscgj1072573"
+  },
+  {
+    "title": "De nada sirvió quererte",
+    "artist": "Inocente Sanjur",
+    "isrc": "GBMJG1616279"
+  },
+  {
+    "title": "El Grubeo",
+    "artist": "Kenny y Kiara",
+    "isrc": "GBLFP2423984"
+  },
+  {
+    "title": "Quiero estar contigo",
+    "artist": "Edwin Martinez",
+    "isrc": "GBMJG1616354"
+  },
+  {
+    "title": "Dame una Razón",
+    "artist": "Jhonathan Chávez y Los Triunfadores",
+    "isrc": "usdy42338311"
+  },
+  {
+    "title": "Estas enamorada",
+    "artist": "Victorio Vergara Y Su Conjunto Plumas Negras",
+    "isrc": "GBMJG1616272"
+  },
+  {
+    "title": "Amor y Control",
+    "artist": "Rubén Blades",
+    "isrc": "NLB630200258"
+  },
+  {
+    "title": "Mosaico de Carnaval: Morena Consentida / Ese Muerto No Lo Cargo Yo / A Golondrina / Maria Primera",
+    "artist": "Fito Espino",
+    "isrc": "GBMA21861130"
+  },
+  {
+    "title": "Vela, Vela",
+    "artist": "Ñato Califa, Chia Ureña",
+    "isrc": "ushm21400522"
+  },
+  {
+    "title": "Duerme Conmigo Esta Noche",
+    "artist": "Ninin Quintero, Roberto Escobar",
+    "isrc": "GBMA21861708"
+  },
+  {
+    "title": "Cuando Un Amor Se Aleja",
+    "artist": "Teresin Jaén y su Conjunto Alma Interiorana",
+    "isrc": "ushm91079618"
+  },
+  {
+    "title": "Amor Azul",
+    "artist": "Samy y Sandra",
+    "isrc": "ushm91464669"
+  },
+  {
+    "title": "Campesina",
+    "artist": "Colaquito Cortez",
+    "isrc": "ushm21400516"
+  },
+  {
+    "title": "Corazón deshecho",
+    "artist": "Dorindo Cardenas Y Su Conjunto Orgullo Santeño",
+    "isrc": "GBMJG1616274"
+  },
+  {
+    "title": "Vuelvo a buscarte",
+    "artist": "Edwin Zeballos y su conjunto Sentimientos",
+    "isrc": "GBMJG1909122"
+  },
+  {
+    "title": "Los caminos de la vida",
+    "artist": "Victor Cespedes",
+    "isrc": "GBMJG1616380"
+  },
+  {
+    "title": "Adonay",
+    "artist": "Cristian Nieto",
+    "isrc": "GBMJG1703476"
+  },
+  {
+    "title": "Al maestro de panameño",
+    "artist": "Dimas Sandoval",
+    "isrc": "GBMJG1616281"
+  },
+  {
+    "title": "Bebe",
+    "artist": "Nenito Vargas, Flex",
+    "isrc": "ART0G1207844"
+  },
+  {
+    "title": "Mogollon",
+    "artist": "Victorio Vergara Batista",
+    "isrc": "ushm91180343"
+  },
+  {
+    "title": "Tatuaje En El Alma",
+    "artist": "Alfredo Escudero Y Los Montañeros",
+    "isrc": "ushm91079617"
+  },
+  {
+    "title": "Desconsolada",
+    "artist": "Herminio Rojas y su conjunto sensacional",
+    "isrc": "GBMJG1616312"
+  },
+  {
+    "title": "La cabellona",
+    "artist": "JR Pitty y su conjunto Ritmo Chiricano de Chilo",
+    "isrc": "GBMJG1616229"
+  },
+  {
+    "title": "Moneda Con Cara De Mujer",
+    "artist": "Lucho De Sedas Y Su Conjunto Selecto",
+    "isrc": "ushm91079624"
+  },
+  {
+    "title": "Tomando y pensando",
+    "artist": "Mino Marín",
+    "isrc": "GBMJG1616298"
+  },
+  {
+    "title": "Si El Mar Se Volviera Ron",
+    "artist": "Ulpiano Vergara Y Lucho De Sedas",
+    "isrc": "ushm81051210"
+  },
+  {
+    "title": "Llorar también es de hombres",
+    "artist": "Víctor Bernal y su conjunto Inspiración Santeña",
+    "isrc": "GBMJG1616232"
+  },
+  {
+    "title": "Lucy",
+    "artist": "Yin Carrizo Y Su Conjunto Viva Panama",
+    "isrc": "ushm91079514"
+  },
+  {
+    "title": "Tatuaje En El Alma",
+    "artist": "Alfredo Escudero & Su Conjunto Los Montañeros",
+    "isrc": "uscgh1147816"
+  },
+  {
+    "title": "Huellas De Un Amor",
+    "artist": "Manuel De Jesus Abrego Y Su Conjunto Los Consentidos",
+    "isrc": "ushm91079630"
+  },
+  {
+    "title": "Amor Con Papelito",
+    "artist": "Teresin Jaen & Su Conjunto Alma Interiorana",
+    "isrc": "ushm21098714"
+  },
+  {
+    "title": "Mosaico – Allá en el campo, La Perra, Candela Viva",
+    "artist": "Dorindo Cárdenas",
+    "isrc": "ushm91061033"
+  },
+  {
+    "title": "El Fantasma Del Amor",
+    "artist": "Lucho De Sedas",
+    "isrc": "QMHUY1453189"
+  },
+  {
+    "title": "Lucy",
+    "artist": "Yin Carrizo",
+    "isrc": "QMAAK2230878"
+  },
+  {
+    "title": "El mogollón",
+    "artist": "Alfredo Escudero y su conjunto Los Montañeros",
+    "isrc": "GBMJG1604763"
+  },
+  {
+    "title": "Los Sentimientos del Alma",
+    "artist": "Osvaldo Ayala",
+    "isrc": "ushm81855415"
+  },
+  {
+    "title": "Patrón de dos amores",
+    "artist": "Samy Sandoval y su ritmo montañero",
+    "isrc": "GBMJG1607234"
+  },
+  {
+    "title": "Esa Mujer",
+    "artist": "Victorio Vergara",
+    "isrc": "USMH92369820"
+  },
+  {
+    "title": "Pasión",
+    "artist": "Inocente Sanjur y su conjunto Alma de Panamá",
+    "isrc": "GBMJG1700377"
+  },
+  {
+    "title": "Doña blanca",
+    "artist": "Herminio Rojas y su ritmo sensacional",
+    "isrc": "GBMJG1700394"
+  },
+  {
+    "title": "La Niña Marquela",
+    "artist": "Teresin Jaen",
+    "isrc": "uscgj1769503"
+  },
+  {
+    "title": "Hasta La Eternidad",
+    "artist": "Herminio Rojas",
+    "isrc": "TCAFZ2298598"
+  },
+  {
+    "title": "Caminos Equivocados",
+    "artist": "Ulpiano Vergara & Lucho de Sedas",
+    "isrc": "uscgj1362726"
+  },
+  {
+    "title": "Sufriendo por un querer",
+    "artist": "Ulpiano Vergara Y Su Conjunto Los Distinguidos",
+    "isrc": "GBMJG1616212"
+  },
+  {
+    "title": "Amor Sagrado",
+    "artist": "Alfredo Escudero",
+    "isrc": "uscgh2168481"
+  },
+  {
+    "title": "Dime Donde Estas",
+    "artist": "Edwin Zeballos",
+    "isrc": "GBMJG1718985"
+  },
+  {
+    "title": "Vete Tú Que Yo Me Quedo",
+    "artist": "Samy y Sandra Sandoval",
+    "isrc": "USCGJ2349375"
+  },
+  {
+    "title": "Desilusiones de ti",
+    "artist": "Ulpiano Vergara Y Los Distinguidos",
+    "isrc": "GBMJG1616241"
+  },
+  {
+    "title": "Secreto inconfesable",
+    "artist": "Ulpiano Vergara",
+    "isrc": "GBLFP2126039"
+  },
+  {
+    "title": "Solo Quiereme",
+    "artist": "Juancín Henríquez",
+    "isrc": "GBMJG1909503"
+  },
+  {
+    "title": "La Micha Y El Raton",
+    "artist": "Chelo Mitre",
+    "isrc": "uscgj1072562"
+  },
+  {
+    "title": "Miradas Que Penetran",
+    "artist": "Inocente Sanjur",
+    "isrc": "GBMJG1908569"
+  },
+  {
+    "title": "Tu Propia Medicina",
+    "artist": "Kenny y Kiara",
+    "isrc": "GBLFP2423986"
+  },
+  {
+    "title": "Enamorado de ti",
+    "artist": "Edwin Martinez",
+    "isrc": "GBMJG1616355"
+  },
+  {
+    "title": "Vuelves",
+    "artist": "Jhonathan Chávez y Los Triunfadores",
+    "isrc": "ushm22197993"
+  },
+  {
+    "title": "Luna Tableña",
+    "artist": "Victorio Vergara Y Su Conjunto Plumas Negras",
+    "isrc": "ushm91079627"
+  },
+  {
+    "title": "Ayer Yo la VI",
+    "artist": "Fito Espino",
+    "isrc": "ushm21400511"
+  },
+  {
+    "title": "Decisiones",
+    "artist": "Rubén Blades",
+    "isrc": "USEE10184078"
+  },
+  {
+    "title": "Yo Bailo Donde Toca Califa",
+    "artist": "Ñato Califa",
+    "isrc": "GBMA21861156"
+  },
+  {
+    "title": "Senderito de Amor",
+    "artist": "Ninin Quintero, Roberto Escobar",
+    "isrc": "GBMA21861715"
+  },
+  {
+    "title": "El Condor Legendario",
+    "artist": "Teresin Jaén y su Conjunto Alma Interiorana",
+    "isrc": "ushm91079626"
+  },
+  {
+    "title": "Gallina Fina",
+    "artist": "Samy y Sandra",
+    "isrc": "ushm91464660"
+  },
+  {
+    "title": "Sacule el Mongo",
+    "artist": "Colaquito Cortez, Orquesta La Ofensiva",
+    "isrc": "UKXN22300084"
+  },
+  {
+    "title": "El solitario",
+    "artist": "Dorindo Cardenas Y Su Conjunto Orgullo Santeño",
+    "isrc": "GBMJG1616278"
+  },
+  {
+    "title": "No la olvidaré",
+    "artist": "Edwin Zeballos y su conjunto Sentimientos",
+    "isrc": "GBMJG1616276"
+  },
+  {
+    "title": "Me acostumbrastes mal",
+    "artist": "Dorindo Cárdenas",
+    "isrc": "GBMJG1605920"
+  },
+  {
+    "title": "Penas",
+    "artist": "Lucho De Sedas",
+    "isrc": "ushm91178022"
+  },
+  {
+    "title": "Los Algodones",
+    "artist": "Yin Carrizo",
+    "isrc": "GBMA21860679"
+  },
+  {
+    "title": "Esa picazón les queda",
+    "artist": "Alfredo Escudero y su conjunto Los Montañeros",
+    "isrc": "GBMJG1604755"
+  },
+  {
+    "title": "Seguirás Sin Mi",
+    "artist": "Osvaldo Ayala",
+    "isrc": "UKXN22300139"
+  },
+  {
+    "title": "El fruto de tu amor",
+    "artist": "Samy Sandoval y su ritmo montañero",
+    "isrc": "GBMJG1607237"
+  },
+  {
+    "title": "Se Que Llorarás",
+    "artist": "Victorio Vergara",
+    "isrc": "USMH92369821"
+  },
+  {
+    "title": "Dame lo que te pido",
+    "artist": "Inocente Sanjur y su conjunto Alma de Panamá",
+    "isrc": "GBMJG1700379"
+  },
+  {
+    "title": "Pienso",
+    "artist": "Herminio Rojas y su ritmo sensacional",
+    "isrc": "GBMJG1700404"
+  },
+  {
+    "title": "Palito de Limón",
+    "artist": "Teresin Jaen",
+    "isrc": "uscgj1841522"
+  },
+  {
+    "title": "No Le Finjas Más",
+    "artist": "Herminio Rojas",
+    "isrc": "TCAFU2123832"
+  },
+  {
+    "title": "Sin Rencores",
+    "artist": "Ulpiano Vergara & Lucho de Sedas",
+    "isrc": "uscgj1362729"
+  },
+  {
+    "title": "Tengo Miedo De Perderte",
+    "artist": "Ulpiano Vergara Y Su Conjunto Los Distinguidos",
+    "isrc": "ushm91125570"
+  },
+  {
+    "title": "La Rompe Corazones",
+    "artist": "Alfredo Escudero",
+    "isrc": "QZWFJ2381531"
+  },
+  {
+    "title": "Me Equivoque Contigo",
+    "artist": "Edwin Zeballos",
+    "isrc": "GBMJG1718991"
+  },
+  {
+    "title": "Buena Muchacha",
+    "artist": "Samy y Sandra Sandoval",
+    "isrc": "USL4R2256773"
+  },
+  {
+    "title": "Soy tu castigo",
+    "artist": "Ulpiano Vergara Y Los Distinguidos",
+    "isrc": "GBMJG1616234"
+  },
+  {
+    "title": "Tierno Amor",
+    "artist": "Ulpiano Vergara",
+    "isrc": "GBMJG1604440"
+  }
+]

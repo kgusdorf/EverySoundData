@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Lass die Katze stehn",
+    "artist": "Der Plan",
+    "isrc": "DELI51702229"
+  },
+  {
+    "title": "Ein Jahr (Es geht voran)",
+    "artist": "Fehlfarben",
+    "isrc": "DEA349000536"
+  },
+  {
+    "title": "Wir bauen eine neue Stadt",
+    "artist": "Palais Schaumburg",
+    "isrc": "DELI51200838"
+  },
+  {
+    "title": "Girls In Love",
+    "artist": "Andreas Dorau",
+    "isrc": "DED579604450"
+  },
+  {
+    "title": "Der Unbekannte",
+    "artist": "Der Moderne Man",
+    "isrc": "DEP081200682"
+  },
+  {
+    "title": "Eisbär",
+    "artist": "Grauzone",
+    "isrc": "DETB31800774"
+  },
+  {
+    "title": "Radio - Remastered",
+    "artist": "Nichts",
+    "isrc": "DEVF42000074"
+  },
+  {
+    "title": "Tretboot in Seenot - Single Version",
+    "artist": "Frl. Menke",
+    "isrc": "DEF068207900"
+  },
+  {
+    "title": "Angriff aufs Schlaraffenland",
+    "artist": "Die Radierer",
+    "isrc": "DEU161703689"
+  },
+  {
+    "title": "Tulpen und Narzissen",
+    "artist": "Die Doraus & Die Marinas, Andreas Dorau",
+    "isrc": "DELI51100628"
+  },
+  {
+    "title": "Der Mussolini",
+    "artist": "DAF",
+    "isrc": "GBLAZ1600974"
+  },
+  {
+    "title": "Computerstaat",
+    "artist": "Abwärts",
+    "isrc": "DEZ651203000"
+  },
+  {
+    "title": "You You",
+    "artist": "Malaria!",
+    "isrc": "DEH219100607"
+  },
+  {
+    "title": "Dreiklangsdimensionen - Remastered 2005",
+    "artist": "Rheingold",
+    "isrc": "DEA340401568"
+  },
+  {
+    "title": "Lederhosentyp",
+    "artist": "Hans-A-Plast",
+    "isrc": "DEU162306187"
+  },
+  {
+    "title": "Nacht der Löwen",
+    "artist": "Geisterfahrer",
+    "isrc": "DET720500254"
+  },
+  {
+    "title": "Sommersprossen",
+    "artist": "UKW",
+    "isrc": "DEM590900107"
+  },
+  {
+    "title": "Sternenhimmel",
+    "artist": "Hubert Kah",
+    "isrc": "DEF068205320"
+  },
+  {
+    "title": "Carbonara",
+    "artist": "Spliff",
+    "isrc": "DEE868200104"
+  },
+  {
+    "title": "Wissenswertes über Erlangen",
+    "artist": "Foyer Des Arts",
+    "isrc": "DEA629252210"
+  },
+  {
+    "title": "Codo (...düse im Sauseschritt)",
+    "artist": "Döf",
+    "isrc": "ATB158300073"
+  },
+  {
+    "title": "Borzer",
+    "artist": "Pyrolator",
+    "isrc": "DELI52203656"
+  },
+  {
+    "title": "Was kostet die Welt",
+    "artist": "F.S.K.",
+    "isrc": "DEN770800084"
+  },
+  {
+    "title": "Hurra, hurra, die Schule brennt",
+    "artist": "Extrabreit",
+    "isrc": "DEF088025220"
+  },
+  {
+    "title": "Jonny (du Lump)",
+    "artist": "Holger Hiller",
+    "isrc": "DELI52303913"
+  },
+  {
+    "title": "Los Niños Del Parque",
+    "artist": "Liaisons Dangereuses",
+    "isrc": "DEE610200502"
+  },
+  {
+    "title": "Bruttosozialprodukt",
+    "artist": "Geier Sturzflug",
+    "isrc": "DEA818300013"
+  },
+  {
+    "title": "Ich will nicht älter werden - Single Version",
+    "artist": "Bärchen und die Milchbubis",
+    "isrc": "DEU162205850"
+  },
+  {
+    "title": "Militürk",
+    "artist": "Mittagspause",
+    "isrc": "ATD411415005"
+  },
+  {
+    "title": "Ich will Spaß",
+    "artist": "Markus",
+    "isrc": "DEE869700768"
+  },
+  {
+    "title": "Stefan und Kai-Uwe",
+    "artist": "Die Zimmermänner",
+    "isrc": "DEU161402959"
+  },
+  {
+    "title": "Katharine, Katharine",
+    "artist": "Steinwolke",
+    "isrc": "DEM590701002"
+  },
+  {
+    "title": "Schöne Schuhe",
+    "artist": "Mythen in Tüten",
+    "isrc": "DEC830600825"
+  },
+  {
+    "title": "Keine Sterne in Athen (3-4-5 x in 1 Monat)",
+    "artist": "Stephan Remmler",
+    "isrc": "DEF078602710"
+  },
+  {
+    "title": "Skandal im Sperrbezirk",
+    "artist": "Spider Murphy Gang",
+    "isrc": "DEA348101056"
+  },
+  {
+    "title": "Pop Horror",
+    "artist": "S.Y.P.H.",
+    "isrc": "DEK338800091"
+  },
+  {
+    "title": "Neue Männer braucht das Land",
+    "artist": "Ina Deter Band",
+    "isrc": "DEF078202050"
+  },
+  {
+    "title": "Taxi nach Paris",
+    "artist": "Felix De Luxe",
+    "isrc": "DEF068404740"
+  },
+  {
+    "title": "Tu doch nicht so",
+    "artist": "Carambolage",
+    "isrc": "DEU162105586"
+  },
+  {
+    "title": "Sexueller Notstand",
+    "artist": "Östro 430",
+    "isrc": "DEU162005054"
+  },
+  {
+    "title": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
+    "artist": "Trio",
+    "isrc": "DEF078202720"
+  },
+  {
+    "title": "Ohne Dich (schlaf' ich heut Nacht nicht ein)",
+    "artist": "Münchener Freiheit",
+    "isrc": "DEE868500072"
+  },
+  {
+    "title": "Verliebte Jungs",
+    "artist": "Purple Schulz",
+    "isrc": "DEA348500348"
+  },
+  {
+    "title": "Puppen weinen nicht",
+    "artist": "Combo Colossale",
+    "isrc": "DEGR81405476"
+  },
+  {
+    "title": "Goldener Reiter",
+    "artist": "Joachim Witt",
+    "isrc": "DEA629262331"
+  },
+  {
+    "title": "Polizei",
+    "artist": "Male",
+    "isrc": "DEU161904973"
+  },
+  {
+    "title": "König von Deutschland",
+    "artist": "Rio Reiser",
+    "isrc": "DEE868600085"
+  },
+  {
+    "title": "1000 und 1 Nacht (Zoom!) - Remastered 2011",
+    "artist": "Klaus Lage",
+    "isrc": "DEA341100553"
+  },
+  {
+    "title": "Rendezvous - Ich hab' Dich seit langem nicht gesehen",
+    "artist": "Jawoll",
+    "isrc": "DEE868300056"
+  },
+  {
+    "title": "Kommissar",
+    "artist": "The Wirtschaftswunder",
+    "isrc": "DEU162105703"
+  },
+  {
+    "title": "Körperwärme",
+    "artist": "1. Futurologischer Congress",
+    "isrc": "DEC830600538"
+  },
+  {
+    "title": "No Name",
+    "artist": "Rotzkotz",
+    "isrc": "DEC831001461"
+  },
+  {
+    "title": "Hotel Supernova",
+    "artist": "Felix Kubin",
+    "isrc": "DEAY20001904"
+  },
+  {
+    "title": "Puppen",
+    "artist": "Gabi Delgado",
+    "isrc": "DEA311400056"
+  },
+  {
+    "title": "Dein ist mein ganzes Herz",
+    "artist": "Heinz Rudolf Kunze",
+    "isrc": "DEA629252170"
+  },
+  {
+    "title": "Mit Dir - Extended",
+    "artist": "Robert Görl",
+    "isrc": "GBAJH0700089"
+  },
+  {
+    "title": "Das erste Mal tat's noch weh (Les histoires d'amour)",
+    "artist": "Stefan Waggershausen, Viktor Lazlo",
+    "isrc": "DEM590300207"
+  },
+  {
+    "title": "Noch lange nicht",
+    "artist": "Sprung Aus Den Wolken",
+    "isrc": "DELI52203658"
+  },
+  {
+    "title": "Immer Mehr",
+    "artist": "Herwig Mitteregger",
+    "isrc": "DEE868500118"
+  },
+  {
+    "title": "Incubus Succubus II",
+    "artist": "Xmal Deutschland",
+    "isrc": "GBAFL8400010"
+  },
+  {
+    "title": "Rock Me Amadeus",
+    "artist": "Falco",
+    "isrc": "ATB158500018"
+  },
+  {
+    "title": "Karl der Käfer",
+    "artist": "Gänsehaut",
+    "isrc": "DEA499324990"
+  },
+  {
+    "title": "KOM",
+    "artist": "DAF/DOS",
+    "isrc": "DEM389900005"
+  },
+  {
+    "title": "Neu Berlin",
+    "artist": "Din A Testbild",
+    "isrc": "DELI51000283"
+  },
+  {
+    "title": "Für immer Punk",
+    "artist": "Die Goldenen Zitronen",
+    "isrc": "DEL898841716"
+  },
+  {
+    "title": "Birgit (dein Po guckt aus dem Wasser)",
+    "artist": "Saal 2",
+    "isrc": "DEU161503093"
+  },
+  {
+    "title": "Kleiderschrank Auf Mütze",
+    "artist": "Die Welttraumforscher",
+    "isrc": "DECY52100324"
+  },
+  {
+    "title": "Über sieben Brücken musst du gehn",
+    "artist": "Karat",
+    "isrc": "DEC719400666"
+  },
+  {
+    "title": "Aloha Heja He",
+    "artist": "Achim Reichel",
+    "isrc": "DEAQ99102105"
+  },
+  {
+    "title": "Major Tom (Völlig losgelöst) - 2022 Remaster",
+    "artist": "Peter Schilling",
+    "isrc": "DEA622202104"
+  },
+  {
+    "title": "Track 4 - 7inch Single, Monogam",
+    "artist": "Mania D.",
+    "isrc": "DEH218000101"
+  },
+  {
+    "title": "Do the VoPo",
+    "artist": "Frieder Butzmann, Thomas Kapielski",
+    "isrc": "DELI51902857"
+  },
+  {
+    "title": "Die aus dem Schatten springen",
+    "artist": "Fliehende Stürme",
+    "isrc": "DEOV41200398"
+  },
+  {
+    "title": "Donnerwetter",
+    "artist": "Artless",
+    "isrc": "DEZ651026138"
+  },
+  {
+    "title": "Fortuna",
+    "artist": "Family 5",
+    "isrc": "DEG109700020"
+  },
+  {
+    "title": "Suicide Commando",
+    "artist": "No More",
+    "isrc": "DEC169000001"
+  },
+  {
+    "title": "Massaker",
+    "artist": "Tommi Stumpff",
+    "isrc": "DEVK31700024"
+  },
+  {
+    "title": "Stadt Der Kinder",
+    "artist": "Andy Giorbino",
+    "isrc": "DEN771400029"
+  },
+  {
+    "title": "Der Knutschfleck",
+    "artist": "IXI",
+    "isrc": "DEF088300620"
+  },
+  {
+    "title": "Der Komissar",
+    "artist": "The Wirtschaftswunder",
+    "isrc": "DEN771200081"
+  },
+  {
+    "title": "Mann im Mond",
+    "artist": "Die Verlierer",
+    "isrc": "DEEH62200077"
+  },
+  {
+    "title": "Die Gesunden Kommen",
+    "artist": "Die Gesunden",
+    "isrc": "QMKJE1250802"
+  },
+  {
+    "title": "Zuerst ich",
+    "artist": "Silvia",
+    "isrc": "DEOO20301101"
+  },
+  {
+    "title": "Für Alles Auf Der Welt",
+    "artist": "Matthias Schuster",
+    "isrc": "NOGVY1544010"
+  },
+  {
+    "title": "Humanly Possible",
+    "artist": "Stratis",
+    "isrc": "USA2P1905550"
+  },
+  {
+    "title": "Fred Vom Jupiter",
+    "artist": "Die Doraus Und Die Marinas",
+    "isrc": "GBAJH0600154"
+  },
+  {
+    "title": "Œä",
+    "artist": "Monoton",
+    "isrc": "USI4R0901048"
+  },
+  {
+    "title": "Gummitwist",
+    "artist": "Der Plan",
+    "isrc": "DEK330000071"
+  },
+  {
+    "title": "Paul ist tot",
+    "artist": "Fehlfarben",
+    "isrc": "DEA348002084"
+  },
+  {
+    "title": "Telefon - Single Version 1981",
+    "artist": "Palais Schaumburg",
+    "isrc": "DELI51200851"
+  },
+  {
+    "title": "Fred vom Jupiter",
+    "artist": "Andreas Dorau",
+    "isrc": "DEK336400021"
+  },
+  {
+    "title": "Blaue Matrosen",
+    "artist": "Der Moderne Man",
+    "isrc": "DEC831100575"
+  },
+  {
+    "title": "Radio - Single Version",
+    "artist": "Nichts",
+    "isrc": "DEVF42000083"
+  },
+  {
+    "title": "Der Weg Zu Zweit",
+    "artist": "Grauzone",
+    "isrc": "DECY51901052"
+  },
+  {
+    "title": "Hohe Berge",
+    "artist": "Frl. Menke",
+    "isrc": "DEF068200830"
+  },
+  {
+    "title": "Batman",
+    "artist": "Die Radierer",
+    "isrc": "DEU161703667"
+  },
+  {
+    "title": "Fred vom Jupiter",
+    "artist": "Die Doraus & Die Marinas, Andreas Dorau",
+    "isrc": "DELI51100632"
+  },
+  {
+    "title": "Als wär's das letzte Mal",
+    "artist": "DAF",
+    "isrc": "GBLAZ1600979"
+  },
+  {
+    "title": "Beim ersten Mal tut's immer weh",
+    "artist": "Abwärts",
+    "isrc": "DEOV41900919"
+  },
+  {
+    "title": "Your Turn to Run",
+    "artist": "Malaria!",
+    "isrc": "DEH219100605"
+  },
+  {
+    "title": "Dreiklangsdimensionen - Single / Remastered 2005",
+    "artist": "Rheingold",
+    "isrc": "DEA340401578"
+  },
+  {
+    "title": "Spielfilm",
+    "artist": "Hans-A-Plast",
+    "isrc": "DEU162306199"
+  },
+  {
+    "title": "Das Ufer",
+    "artist": "Geisterfahrer",
+    "isrc": "DET720500251"
+  },
+  {
+    "title": "Ich Will (Patitu)",
+    "artist": "UKW",
+    "isrc": "DEM590900212"
+  },
+  {
+    "title": "Eine Königin mit Rädern untendran",
+    "artist": "Foyer Des Arts",
+    "isrc": "DEA629252270"
+  },
+  {
+    "title": "Deja Vu",
+    "artist": "Spliff",
+    "isrc": "DEE868200103"
+  },
+  {
+    "title": "Rosemarie",
+    "artist": "Hubert Kah",
+    "isrc": "DEF068200820"
+  },
+  {
+    "title": "Codo",
+    "artist": "Döf",
+    "isrc": "ATB158300018"
+  },
+  {
+    "title": "Die Geschichte vom heißgelaufenen Reißwolf",
+    "artist": "Pyrolator",
+    "isrc": "DEM092300081"
+  },
+  {
+    "title": "Peki D`oslo",
+    "artist": "F.S.K.",
+    "isrc": "DEK599803109"
+  },
+  {
+    "title": "Das Feuer",
+    "artist": "Holger Hiller",
+    "isrc": "DELI52303919"
+  },
+  {
+    "title": "Flieger, grüß mir die Sonne",
+    "artist": "Extrabreit",
+    "isrc": "DEF088025210"
+  },
+  {
+    "title": "Etre Assis Ou Danser",
+    "artist": "Liaisons Dangereuses",
+    "isrc": "DEE610200503"
+  },
+  {
+    "title": "Mansplainer",
+    "artist": "Bärchen und die Milchbubis",
+    "isrc": "DEU162406756"
+  },
+  {
+    "title": "Pure Lust am Leben",
+    "artist": "Geier Sturzflug",
+    "isrc": "DEA818400020"
+  },
+  {
+    "title": "Testbild",
+    "artist": "Mittagspause",
+    "isrc": "ATD411415001"
+  },
+  {
+    "title": "Erwin, das tanzende Messer",
+    "artist": "Die Zimmermänner",
+    "isrc": "DEU161402967"
+  },
+  {
+    "title": "Kleine Taschenlampe brenn'",
+    "artist": "Markus",
+    "isrc": "DEE868200069"
+  },
+  {
+    "title": "Südstadt-Spatz",
+    "artist": "Mythen in Tüten",
+    "isrc": "DEC830600823"
+  },
+  {
+    "title": "Zugvögel",
+    "artist": "Steinwolke",
+    "isrc": "DEM591300101"
+  },
+  {
+    "title": "Vogel der Nacht",
+    "artist": "Stephan Remmler",
+    "isrc": "DEF078602780"
+  },
+  {
+    "title": "Die Matchbox-Generation",
+    "artist": "S.Y.P.H.",
+    "isrc": "DEK338800021"
+  },
+  {
+    "title": "Schickeria",
+    "artist": "Spider Murphy Gang",
+    "isrc": "DEA348101052"
+  },
+  {
+    "title": "Ob blond ob braun ob henna",
+    "artist": "Ina Deter Band",
+    "isrc": "DEN120203644"
+  },
+  {
+    "title": "Nächte Über's Eis",
+    "artist": "Felix De Luxe",
+    "isrc": "DEF068404790"
+  },
+  {
+    "title": "City-Großmarkt",
+    "artist": "Carambolage",
+    "isrc": "DEU162105587"
+  },
+  {
+    "title": "Keine Krise kann mich schocken",
+    "artist": "Östro 430",
+    "isrc": "DEU162005045"
+  },
+  {
+    "title": "Da Da Da I Don't Love You You Don't Love Me Aha Aha Aha",
+    "artist": "Trio",
+    "isrc": "DEN120101446"
+  },
+  {
+    "title": "Kleine Seen",
+    "artist": "Purple Schulz",
+    "isrc": "DEA348500350"
+  },
+  {
+    "title": "Drinnen tanzen sie Samba",
+    "artist": "Combo Colossale",
+    "isrc": "DEGR81405482"
+  },
+  {
+    "title": "Tausendmal Du",
+    "artist": "Münchener Freiheit",
+    "isrc": "DEE869700884"
+  },
+  {
+    "title": "Zensur & Zensur",
+    "artist": "Male",
+    "isrc": "DEU161904969"
+  },
+  {
+    "title": "Goldener Raver (1995 Remix) - Rave Mix",
+    "artist": "Joachim Witt, Komakino",
+    "isrc": "DEA622201084"
+  },
+  {
+    "title": "Junimond",
+    "artist": "Rio Reiser",
+    "isrc": "DEE868600005"
+  },
+  {
+    "title": "Taxi",
+    "artist": "Jawoll",
+    "isrc": "DEF078103440"
+  },
+  {
+    "title": "Faust auf Faust - Remastered 2008",
+    "artist": "Klaus Lage",
+    "isrc": "DEA340800665"
+  },
+  {
+    "title": "Der große Mafioso",
+    "artist": "The Wirtschaftswunder",
+    "isrc": "DEF068200230"
+  },
+  {
+    "title": "In die Ferne (Bonus Track)",
+    "artist": "1. Futurologischer Congress",
+    "isrc": "DEC830600547"
+  },
+  {
+    "title": "The Disco Sound is Dead",
+    "artist": "Rotzkotz",
+    "isrc": "USY251636741"
+  },
+  {
+    "title": "There is a Garden",
+    "artist": "Felix Kubin, Coolhaven",
+    "isrc": "NLGJ30900045"
+  },
+  {
+    "title": "Nebelmaschine",
+    "artist": "Gabi Delgado",
+    "isrc": "DEA311400055"
+  },
+  {
+    "title": "Ich denk an dich",
+    "artist": "Robert Görl, DAF",
+    "isrc": "GBLAZ1901326"
+  },
+  {
+    "title": "Alles was sie will",
+    "artist": "Heinz Rudolf Kunze",
+    "isrc": "DEA629252330"
+  },
+  {
+    "title": "Zu nah am Feuer",
+    "artist": "Stefan Waggershausen, Alice",
+    "isrc": "DEM591808001"
+  },
+  {
+    "title": "Dub and Die",
+    "artist": "Sprung Aus Den Wolken",
+    "isrc": "DEG931892114"
+  },
+  {
+    "title": "Immer mehr - Single Version",
+    "artist": "Herwig Mitteregger",
+    "isrc": "DEE868500187"
+  },
+  {
+    "title": "Commerce extérieur mondial sentimental",
+    "artist": "Der Plan",
+    "isrc": "DELI51200778"
+  },
+  {
+    "title": "Grauschleier",
+    "artist": "Fehlfarben",
+    "isrc": "DEA348002076"
+  },
+  {
+    "title": "Gute Luft",
+    "artist": "Palais Schaumburg",
+    "isrc": "DELI51200840"
+  },
+  {
+    "title": "Unsichtbare Tänzer",
+    "artist": "Andreas Dorau",
+    "isrc": "DEU161904644"
+  },
+  {
+    "title": "Telefonlied",
+    "artist": "Der Moderne Man",
+    "isrc": "DEP081200683"
+  },
+  {
+    "title": "10 Bier Zuviel - Remastered",
+    "artist": "Nichts",
+    "isrc": "DEVF42000077"
+  },
+  {
+    "title": "FILM 2",
+    "artist": "Grauzone",
+    "isrc": "DETB31800776"
+  },
+  {
+    "title": "Traumboy",
+    "artist": "Frl. Menke",
+    "isrc": "DEF068204520"
+  },
+  {
+    "title": "Drogentod",
+    "artist": "Die Radierer",
+    "isrc": "DEU161703656"
+  },
+  {
+    "title": "Die Welt ist schlecht",
+    "artist": "Die Doraus & Die Marinas, Andreas Dorau",
+    "isrc": "DELI51100645"
+  },
+  {
+    "title": "Der Mussolini - Giorgio Moroder & Denis Naidanow Remix",
+    "artist": "DAF, Giogio Moroder, Denis Naidanow",
+    "isrc": "GBLAZ1701006"
+  },
+  {
+    "title": "Alkohol",
+    "artist": "Abwärts",
+    "isrc": "DEZ651202935"
+  },
+  {
+    "title": "Thrash Me",
+    "artist": "Malaria!",
+    "isrc": "DEH219100606"
+  },
+  {
+    "title": "3Klangsdimensionen 2010",
+    "artist": "Rheingold",
+    "isrc": "DEFE40600045"
+  },
+  {
+    "title": "Ich zünd mich an",
+    "artist": "Hans-A-Plast",
+    "isrc": "DEU162306208"
+  },
+  {
+    "title": "Mein Kind",
+    "artist": "Geisterfahrer",
+    "isrc": "DET720500255"
+  },
+  {
+    "title": "Hey Matrosen",
+    "artist": "UKW",
+    "isrc": "DEM590900202"
+  },
+  {
+    "title": "Schimmliges Brot",
+    "artist": "Foyer Des Arts",
+    "isrc": "GBCAD2100752"
+  },
+  {
+    "title": "Radio",
+    "artist": "Spliff",
+    "isrc": "DEE869700854"
+  },
+  {
+    "title": "Engel 07 - 7\" Version",
+    "artist": "Hubert Kah",
+    "isrc": "DEGE91400049"
+  },
+  {
+    "title": "Taxi",
+    "artist": "Döf",
+    "isrc": "ATB158300022"
+  },
+  {
+    "title": "Im Zoo",
+    "artist": "Pyrolator",
+    "isrc": "DEK330593011"
+  },
+  {
+    "title": "Kleiner Polizist",
+    "artist": "F.S.K.",
+    "isrc": "DEN770800115"
+  },
+  {
+    "title": "Jonny (Du Lump)",
+    "artist": "Holger Hiller",
+    "isrc": "DELI52103373"
+  },
+  {
+    "title": "Polizisten",
+    "artist": "Extrabreit",
+    "isrc": "DEF088125060"
+  },
+  {
+    "title": "Mystère Dans Le Brouillard",
+    "artist": "Liaisons Dangereuses",
+    "isrc": "DEE610200501"
+  },
+  {
+    "title": "Katzenvideo",
+    "artist": "Bärchen und die Milchbubis",
+    "isrc": "DEU162406749"
+  },
+  {
+    "title": "Ernstfall",
+    "artist": "Mittagspause",
+    "isrc": "ATD411415011"
+  },
+  {
+    "title": "Pure Lust Am Leben - HBz Remix",
+    "artist": "Geier Sturzflug, HBz",
+    "isrc": "DEPI82302344"
+  },
+  {
+    "title": "Blues ist, wenn es regnet",
+    "artist": "Die Zimmermänner",
+    "isrc": "DEU162206151"
+  }
+]

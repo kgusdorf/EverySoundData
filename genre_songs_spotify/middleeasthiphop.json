@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Aref Innak",
+    "artist": "Emsallam, Adan Wakeem",
+    "isrc": "QZACR2000259"
+  },
+  {
+    "title": "2areek",
+    "artist": "El Rass, Al Nather, Shabjdeed",
+    "isrc": "FRX762140925"
+  },
+  {
+    "title": "Blood",
+    "artist": "Shouly & Al Basha, Synaptik",
+    "isrc": "QZES51842560"
+  },
+  {
+    "title": "Lima La?",
+    "artist": "Illiam, Dodix, Bader Azem",
+    "isrc": "QZK6P1910131"
+  },
+  {
+    "title": "Qa3",
+    "artist": "Shouly, Ibn Itaka",
+    "isrc": "QZNWQ2063470"
+  },
+  {
+    "title": "XXV",
+    "artist": "Dodix, The Synaptik",
+    "isrc": "QZK6F2045669"
+  },
+  {
+    "title": "Sanamin",
+    "artist": "Bader Azem, Illiam, The Synaptik",
+    "isrc": "QZFYX1987437"
+  },
+  {
+    "title": "القمر و المحيط",
+    "artist": "The Synaptik",
+    "isrc": "LBA0Y2100014"
+  },
+  {
+    "title": "Ana",
+    "artist": "Mahasneh, Bigsam",
+    "isrc": "QZNWZ2035713"
+  },
+  {
+    "title": "Zamilou",
+    "artist": "Bu Kolthoum",
+    "isrc": "UST8K1837031"
+  },
+  {
+    "title": "Shaghaf",
+    "artist": "Haykal, Big Murk",
+    "isrc": "QZHNA2137234"
+  },
+  {
+    "title": "Malahi",
+    "artist": "AlDarwish",
+    "isrc": "QZPLS2029623"
+  },
+  {
+    "title": "Sawarekh",
+    "artist": "Shbash, The Synaptik",
+    "isrc": "USUYG1458299"
+  },
+  {
+    "title": "قدّيس",
+    "artist": "Anas Arabi Katbi",
+    "isrc": "QZFZ72002372"
+  },
+  {
+    "title": "Kilmeh",
+    "artist": "Fawzi, Al Nather",
+    "isrc": "QZMEM2131125"
+  },
+  {
+    "title": "Aadi",
+    "artist": "Al Nather, Shabjdeed",
+    "isrc": "QZFZ21963978"
+  },
+  {
+    "title": "Bkhaf Nam",
+    "artist": "Jundi Majhul, Bu Kolthoum",
+    "isrc": "QZES72087320"
+  },
+  {
+    "title": "Akhir el Tareeq",
+    "artist": "Tin Nen",
+    "isrc": "QZFZ32084043"
+  },
+  {
+    "title": "The Beat Never Goes Off",
+    "artist": "Tamer Nafar, MC Abdul, Noel Kharman",
+    "isrc": "USUYG1388423"
+  },
+  {
+    "title": "Lamma",
+    "artist": "El Faouri, Al Rawi",
+    "isrc": "QZHN91920849"
+  },
+  {
+    "title": "Inn Ann",
+    "artist": "Daboor, Shabjdeed, Al Nather",
+    "isrc": "QZHN32131378"
+  },
+  {
+    "title": "High In Cairo (feat. The Synaptik)",
+    "artist": "Chyno with a Why?, The Synaptik",
+    "isrc": "QZES51826947"
+  },
+  {
+    "title": "Tghayarti",
+    "artist": "El Far3i",
+    "isrc": "QMEU31701750"
+  },
+  {
+    "title": "Watanak",
+    "artist": "BilalShabib",
+    "isrc": "QZTB62307770"
+  },
+  {
+    "title": "Amrikkka",
+    "artist": "Shabjdeed, Al Nather",
+    "isrc": "QZFYW2115586"
+  },
+  {
+    "title": "Rasa'el",
+    "artist": "Ayham, Bigsam",
+    "isrc": "QZHN62049273"
+  },
+  {
+    "title": "Akher Shot",
+    "artist": "Al Basha, Dodix",
+    "isrc": "QZHN91956840"
+  },
+  {
+    "title": "SAFARI",
+    "artist": "Bu Nasser Touffar, ILLADIB",
+    "isrc": "QZRP42296046"
+  },
+  {
+    "title": "Masa Shamy",
+    "artist": "Nurulez",
+    "isrc": "QZFYX1908584"
+  },
+  {
+    "title": "GASOLINA",
+    "artist": "Big Murk, Rknddn, Dakn",
+    "isrc": "QZTAS2200168"
+  },
+  {
+    "title": "Zet El Sireh",
+    "artist": "Salloum",
+    "isrc": "DGA052262479"
+  },
+  {
+    "title": "MA MALET",
+    "artist": "Salameh, AL SHAMI",
+    "isrc": "QZES52216888"
+  },
+  {
+    "title": "Eminem",
+    "artist": "Ortega, Nurulez",
+    "isrc": "QZNWY2085113"
+  },
+  {
+    "title": "Layali",
+    "artist": "Zaid Khaled, El Waili",
+    "isrc": "EGA262106210"
+  },
+  {
+    "title": "uranium mkhassab (feat. El Rass)",
+    "artist": "3li3bboud, El Rass",
+    "isrc": "USUYG1548798"
+  },
+  {
+    "title": "Ountha",
+    "artist": "Bigsam, siilawy",
+    "isrc": "CAQ8S1626060"
+  },
+  {
+    "title": "تبا",
+    "artist": "Mahmood Jrere",
+    "isrc": "QZNWR2004605"
+  },
+  {
+    "title": "مسافة أمان",
+    "artist": "Sallam Naser, Wardenclyph",
+    "isrc": "QM42K1997333"
+  },
+  {
+    "title": "Emta Njawzak Yamma",
+    "artist": "DAM",
+    "isrc": "GBCEJ1900034"
+  },
+  {
+    "title": "كسرة خاطرة - فولكينو",
+    "artist": "Volcano963",
+    "isrc": "QZNWZ2024797"
+  },
+  {
+    "title": "Hamdulillah (Featuring Shadia Mansour)",
+    "artist": "NARCY",
+    "isrc": "USTC90958739"
+  },
+  {
+    "title": "Intro to Shamstep",
+    "artist": "47SOUL",
+    "isrc": "GBLFP1599108"
+  },
+  {
+    "title": "مجنون ليلى",
+    "artist": "Elos Byuri",
+    "isrc": "QZH5E2087555"
+  },
+  {
+    "title": "حبك كورونا",
+    "artist": "Tamtameh",
+    "isrc": "QZFP52028394"
+  },
+  {
+    "title": "Masa2 el 6arab",
+    "artist": "PNGWNG",
+    "isrc": "QZFZ62010331"
+  },
+  {
+    "title": "Fe Badalha 100",
+    "artist": "NVIM",
+    "isrc": "QZTAW2234273"
+  },
+  {
+    "title": "لحالي | La7ali",
+    "artist": "TMX",
+    "isrc": "QZTB32301171"
+  },
+  {
+    "title": "Nazele Big Champagne",
+    "artist": "Blu Fiefer",
+    "isrc": "FR2X42388859"
+  },
+  {
+    "title": "Uru Salem",
+    "artist": "Muqata'a, Mehdi Haddab, Walaa Sbait",
+    "isrc": "JOA021900201"
+  },
+  {
+    "title": "Akher Kass",
+    "artist": "Akhras",
+    "isrc": "QZHN92160285"
+  },
+  {
+    "title": "متل الشمس",
+    "artist": "Almukhtar, EQuBE",
+    "isrc": "QZFZ61910501"
+  },
+  {
+    "title": "Alshaela",
+    "artist": "Amer Wakka",
+    "isrc": "DEAR41925792"
+  },
+  {
+    "title": "Mafish Waqet",
+    "artist": "El Tafeh",
+    "isrc": "QZHN82037201"
+  },
+  {
+    "title": "Yemken",
+    "artist": "Edd Abbas",
+    "isrc": "QZDA62083339"
+  },
+  {
+    "title": "مُهرة - MOHRA",
+    "artist": "Ismaeil Tamr",
+    "isrc": "CAQ8S1634370"
+  },
+  {
+    "title": "Akh Al Akbar",
+    "artist": "Anthony Samarany",
+    "isrc": "QZHN62494585"
+  },
+  {
+    "title": "Sanad - سند",
+    "artist": "Ziggy",
+    "isrc": "LBA0H2006638"
+  },
+  {
+    "title": "Tafaseel",
+    "artist": "Nuj, Ziggy",
+    "isrc": "LBA0H2004578"
+  },
+  {
+    "title": "خد من دمي",
+    "artist": "Nizar Zgheib",
+    "isrc": "QZWFQ2306481"
+  },
+  {
+    "title": "Farag",
+    "artist": "Satti",
+    "isrc": "QZES62342364"
+  },
+  {
+    "title": "FI - في",
+    "artist": "محراك",
+    "isrc": "QZHN82383083"
+  },
+  {
+    "title": "Gatalu Siri",
+    "artist": "Asifeh",
+    "isrc": "UKACT2011006"
+  },
+  {
+    "title": "Shayateen - شياطين",
+    "artist": "Ayoub Da 47, Astrø",
+    "isrc": "LBA0H2005170"
+  },
+  {
+    "title": "Gold",
+    "artist": "Hamorabi",
+    "isrc": "QZDA62099707"
+  },
+  {
+    "title": "Si2a bel Nafes",
+    "artist": "Roy Chalach",
+    "isrc": "QZHN72109019"
+  },
+  {
+    "title": "صلعة هاني",
+    "artist": "Anthony Samarany",
+    "isrc": "QZK6M2122913"
+  },
+  {
+    "title": "Qalandia",
+    "artist": "Abu Baker, Shahd Hammad",
+    "isrc": "QZES91823234"
+  },
+  {
+    "title": "ل بْنيّة",
+    "artist": "Marwan Asad",
+    "isrc": "TCAEO1957797"
+  },
+  {
+    "title": "IZDAKHAL",
+    "artist": "Fadi Ammous, Elos Byuri, Shams Edeen",
+    "isrc": "QZNWU2040341"
+  },
+  {
+    "title": "علبة بقلب علبة",
+    "artist": "Sabine Salamé",
+    "isrc": "FRS182151259"
+  },
+  {
+    "title": "3AKSA",
+    "artist": "BILLY TSTRK",
+    "isrc": "QZMEM2477288"
+  },
+  {
+    "title": "اغتصاب بأسم الحب",
+    "artist": "Janzeer",
+    "isrc": "QZDA51825496"
+  },
+  {
+    "title": "عشانك",
+    "artist": "siilawy",
+    "isrc": "QZK6H2173245"
+  },
+  {
+    "title": "ATRUHA",
+    "artist": "Dj Goadman, Bigsam",
+    "isrc": "QZFYW2118449"
+  },
+  {
+    "title": "\"El Kofeyye Arabeyye\" (feat. M-1 of Dead Prez)",
+    "artist": "Shadia Mansour",
+    "isrc": "uscgh1053268"
+  },
+  {
+    "title": "El Burj",
+    "artist": "Lil Asaf",
+    "isrc": "QZES92034965"
+  },
+  {
+    "title": "3am 7arib (I Am Fighting)",
+    "artist": "Malikah",
+    "isrc": "QZHN81985013"
+  },
+  {
+    "title": "Nik Ekht Roumieh",
+    "artist": "Abou Layla Lzir",
+    "isrc": "TCAEM1969311"
+  },
+  {
+    "title": "Funky Weatha'",
+    "artist": "Moody Kablawi",
+    "isrc": "QZFZ32036503"
+  },
+  {
+    "title": "السمّ بصمة",
+    "artist": "Mc 9aD, STeinex",
+    "isrc": "QZNWY2342630"
+  },
+  {
+    "title": "Hala2 Ma3le",
+    "artist": "Beatlalipos",
+    "isrc": "QZFYZ2343636"
+  },
+  {
+    "title": "LA7ALE",
+    "artist": "WAJA33",
+    "isrc": "QZES82217174"
+  },
+  {
+    "title": "سبع أرواح",
+    "artist": "Zuhair Francis",
+    "isrc": "USUYG1487303"
+  },
+  {
+    "title": "الكل معزوم عالحفلة",
+    "artist": "Sameh \"SAZ\" Zakout",
+    "isrc": "QZHNB1914481"
+  },
+  {
+    "title": "Gaza Strip 2 Detroit",
+    "artist": "Sammy Shiblaq",
+    "isrc": "USUYG1528572"
+  },
+  {
+    "title": "Khod Jazara",
+    "artist": "Aburob, El Faouri",
+    "isrc": "QZES62175842"
+  },
+  {
+    "title": "The Knots",
+    "artist": "Al Majhul",
+    "isrc": "QZ93L1912619"
+  },
+  {
+    "title": "Ja Sha-Taan - Karachi Deathcult Mix by Transglobal Underground",
+    "artist": "Fun 'Da' Mental, Transglobal Underground",
+    "isrc": "GBBLJ1200021"
+  },
+  {
+    "title": "Malet",
+    "artist": "Magnum Ghandour",
+    "isrc": "USUYG1526980"
+  },
+  {
+    "title": "متذكر",
+    "artist": "OTHMAN-عُثمان",
+    "isrc": "QZES92175265"
+  },
+  {
+    "title": "Zekra Jamila",
+    "artist": "jico el irane",
+    "isrc": "QZDA82172749"
+  },
+  {
+    "title": "Dasher Hosromna",
+    "artist": "Emsallam",
+    "isrc": "QZACR2000258"
+  },
+  {
+    "title": "هُدهُد",
+    "artist": "El Rass",
+    "isrc": "FRX282388311"
+  },
+  {
+    "title": "Fada2",
+    "artist": "Shouly & Al Basha, Synaptik",
+    "isrc": "QZES51842561"
+  },
+  {
+    "title": "Nejmeh",
+    "artist": "Illiam",
+    "isrc": "USUYG1437183"
+  },
+  {
+    "title": "Wanakaman",
+    "artist": "Shouly",
+    "isrc": "TCAFE2004564"
+  },
+  {
+    "title": "بخصوص موضوع مبارح",
+    "artist": "Dodix, يسر حامد",
+    "isrc": "QZFYY2041420"
+  },
+  {
+    "title": "7r",
+    "artist": "Bader Azem",
+    "isrc": "QZFYX1987436"
+  },
+  {
+    "title": "كيف الحب بنقاس",
+    "artist": "Mahasneh",
+    "isrc": "QZRP52151946"
+  },
+  {
+    "title": "Ritalin (feat. Mehrak)",
+    "artist": "The Synaptik, Mehrak",
+    "isrc": "QMPKX1809982"
+  },
+  {
+    "title": "Jouwana",
+    "artist": "Bu Kolthoum",
+    "isrc": "QZHN71983859"
+  },
+  {
+    "title": "Sot Ramallah",
+    "artist": "Haykal",
+    "isrc": "QZK6P1985257"
+  },
+  {
+    "title": "شو الوضع؟ إنتاج الناظر",
+    "artist": "AlDarwish, Al Nather",
+    "isrc": "QZHNB2123257"
+  },
+  {
+    "title": "L'TOP",
+    "artist": "Shbash",
+    "isrc": "USUYG1510717"
+  },
+  {
+    "title": "ظالمين",
+    "artist": "Anas Arabi Katbi",
+    "isrc": "QZNWT2046213"
+  },
+  {
+    "title": "Hajmeh",
+    "artist": "Fawzi, Al Nather",
+    "isrc": "QZMEM2131122"
+  },
+  {
+    "title": "Nadou",
+    "artist": "Jundi Majhul, Ma sha, Milad Khawam",
+    "isrc": "QZTB72260305"
+  },
+  {
+    "title": "Sindibad",
+    "artist": "Al Nather, Shabjdeed",
+    "isrc": "QZHZD1929120"
+  },
+  {
+    "title": "Ma Banam",
+    "artist": "Tin Nen, Big Sam",
+    "isrc": "QZFYZ2015961"
+  },
+  {
+    "title": "Tol Alena Ya Ghali (feat. Bigsam)",
+    "artist": "Tamer Nafar, Bigsam",
+    "isrc": "QZDA82107996"
+  },
+  {
+    "title": "استنى",
+    "artist": "El Faouri",
+    "isrc": "QZK6G2152591"
+  },
+  {
+    "title": "Fresh Money",
+    "artist": "Chyno with a Why?",
+    "isrc": "LBA0Y2000015"
+  },
+  {
+    "title": "ANA",
+    "artist": "BilalShabib",
+    "isrc": "QZPLS2016435"
+  },
+  {
+    "title": "Jenin | جنين",
+    "artist": "El Far3i",
+    "isrc": "QZHN52212942"
+  },
+  {
+    "title": "Sheikh Jarrah",
+    "artist": "Daboor",
+    "isrc": "QZHN62197184"
+  },
+  {
+    "title": "مامليت",
+    "artist": "Ayham, Moudy Al Arabe",
+    "isrc": "USUYG1550751"
+  },
+  {
+    "title": "Tal Abib",
+    "artist": "Shabjdeed, Al Nather",
+    "isrc": "QZES72414592"
+  },
+  {
+    "title": "Bnam Belail",
+    "artist": "Al Basha, Bader Azem, Shouly",
+    "isrc": "QZHN91956829"
+  },
+  {
+    "title": "El Manifesto",
+    "artist": "Bu Nasser Touffar, ILLADIB",
+    "isrc": "LBA0H2007610"
+  },
+  {
+    "title": "100 Mile",
+    "artist": "Nurulez, Big Bo",
+    "isrc": "QZK6P1978536"
+  },
+  {
+    "title": "bein w ma bein",
+    "artist": "Big Murk, Rknddn",
+    "isrc": "QZHN92123054"
+  },
+  {
+    "title": "La7 100",
+    "artist": "Salloum",
+    "isrc": "DGA052262476"
+  },
+  {
+    "title": "Need for Speed",
+    "artist": "Ortega, Nurulez",
+    "isrc": "QZFZ62031781"
+  },
+  {
+    "title": "Ahlam",
+    "artist": "Zaid Khaled, Ilmond",
+    "isrc": "LBA0H2006700"
+  },
+  {
+    "title": "قلبك اسود",
+    "artist": "Salameh",
+    "isrc": "QZPLR2208818"
+  },
+  {
+    "title": "hijacker (feat. Salloum)",
+    "artist": "3li3bboud, Salloum",
+    "isrc": "QZTB22353763"
+  },
+  {
+    "title": "ما بتهون",
+    "artist": "Bigsam",
+    "isrc": "CAQ8S1621066"
+  },
+  {
+    "title": "I'm from There",
+    "artist": "Mahmood Jrere",
+    "isrc": "ushm21626510"
+  },
+  {
+    "title": "أنا يلي تعلمت",
+    "artist": "Sallam Naser, Wardenclyph",
+    "isrc": "QM42K1918805"
+  },
+  {
+    "title": "I Don't Have Freedom",
+    "artist": "DAM, Ala' Azam, Anat Ig'bariye",
+    "isrc": "GBNFL0600002"
+  },
+  {
+    "title": "أنا ماني أنا",
+    "artist": "Volcano963",
+    "isrc": "QZK6G2375584"
+  },
+  {
+    "title": "Hamdulillah - Music From The Netflix Series Mo",
+    "artist": "NARCY, Shadia Mansour, Sandhill",
+    "isrc": "USUYG1440082"
+  },
+  {
+    "title": "Gamar",
+    "artist": "47SOUL",
+    "isrc": "QMEU31718186"
+  },
+  {
+    "title": "٦ اصفار",
+    "artist": "Elos Byuri, Al Rasta",
+    "isrc": "QZTAW2395233"
+  },
+  {
+    "title": "تمتم تمتمة",
+    "artist": "Tamtameh",
+    "isrc": "QZDA72000556"
+  },
+  {
+    "title": "Fesh Eshi Na2sek",
+    "artist": "PNGWNG",
+    "isrc": "QZ86J1700033"
+  },
+  {
+    "title": "Mo5ayam 3abdoun - مخيم عبدون",
+    "artist": "NVIM",
+    "isrc": "QZK6M2292703"
+  },
+  {
+    "title": "صبح صبح",
+    "artist": "TMX",
+    "isrc": "QZK6P2180939"
+  },
+  {
+    "title": "Sint El Ew",
+    "artist": "Blu Fiefer",
+    "isrc": "FR26V2061169"
+  },
+  {
+    "title": "Muraba'at Amniyeh, Muthalathat Sihriyeh, Dawa'er Maliyeh - Jon Kennedy Remix",
+    "artist": "Muqata'a",
+    "isrc": "FR10S1683084"
+  },
+  {
+    "title": "Lesatni Janbi",
+    "artist": "Akhras",
+    "isrc": "LBA0H2003021"
+  },
+  {
+    "title": "اذا قررت",
+    "artist": "Almukhtar",
+    "isrc": "QZDA51943653"
+  },
+  {
+    "title": "Musab",
+    "artist": "Amer Wakka, Moudy Al Arabe",
+    "isrc": "DEAR41912218"
+  },
+  {
+    "title": "Benjamin",
+    "artist": "El Tafeh",
+    "isrc": "QZK6J2081873"
+  },
+  {
+    "title": "Hayran",
+    "artist": "Edd Abbas, Far3i",
+    "isrc": "QZHN62083912"
+  },
+  {
+    "title": "Maksoura",
+    "artist": "Anthony Samarany",
+    "isrc": "QZMEP2492710"
+  },
+  {
+    "title": "عصيان",
+    "artist": "Ismaeil Tamr",
+    "isrc": "CAQ8S1625369"
+  },
+  {
+    "title": "Ras El Methali",
+    "artist": "Ziggy",
+    "isrc": "LBA0H2005451"
+  },
+  {
+    "title": "May W Mele7",
+    "artist": "Nuj",
+    "isrc": "LBA0H2009196"
+  },
+  {
+    "title": "Min",
+    "artist": "Nizar Zgheib, Anthony Samarany",
+    "isrc": "US83Z2149737"
+  },
+  {
+    "title": "Hoon Whoon",
+    "artist": "Satti, El Far3i",
+    "isrc": "QZHN41992426"
+  },
+  {
+    "title": "Ehna - احنا",
+    "artist": "محراك",
+    "isrc": "QZHN82382584"
+  },
+  {
+    "title": "Fi Hadal Habs",
+    "artist": "Asifeh",
+    "isrc": "uscgj1708776"
+  },
+  {
+    "title": "اجرمن عنهن (مع كرست الزعبي والوسام)",
+    "artist": "Emsallam",
+    "isrc": "QZES71888502"
+  },
+  {
+    "title": "دودو",
+    "artist": "El Rass, Salloum",
+    "isrc": "FR2X42263580"
+  },
+  {
+    "title": "لمبة - شولي و الباشا",
+    "artist": "Shouly & Al Basha",
+    "isrc": "QZFYW1973915"
+  },
+  {
+    "title": "Faces",
+    "artist": "Illiam, The Synaptik, Lella Fadda",
+    "isrc": "QZDA41908076"
+  },
+  {
+    "title": "Taboor",
+    "artist": "Shouly",
+    "isrc": "TCAFC2089942"
+  },
+  {
+    "title": "أوراق رزنامة",
+    "artist": "Dodix",
+    "isrc": "QZDA62299811"
+  },
+  {
+    "title": "Anti social",
+    "artist": "Bader Azem, The Synaptik",
+    "isrc": "QZNWY2272239"
+  },
+  {
+    "title": "مشتاق",
+    "artist": "Mahasneh",
+    "isrc": "QZDA42225666"
+  },
+  {
+    "title": "La Shay2 Yoz3ejoni",
+    "artist": "The Synaptik, Dodongull",
+    "isrc": "QZHN62097654"
+  },
+  {
+    "title": "Mamnoun",
+    "artist": "Bu Kolthoum",
+    "isrc": "QZK6M2040437"
+  },
+  {
+    "title": "Mosaddas Mai",
+    "artist": "Haykal, Ameer",
+    "isrc": "QZES72176003"
+  },
+  {
+    "title": "Raked",
+    "artist": "AlDarwish",
+    "isrc": "QZPLS2029620"
+  },
+  {
+    "title": "MO6REB SHA3BI",
+    "artist": "Shbash",
+    "isrc": "USUYG1510719"
+  },
+  {
+    "title": "خابصة",
+    "artist": "Anas Arabi Katbi",
+    "isrc": "QZHN42032832"
+  },
+  {
+    "title": "Ma6a6",
+    "artist": "Fawzi",
+    "isrc": "QZHN72017330"
+  },
+  {
+    "title": "Hek a'Kabra",
+    "artist": "Jundi Majhul",
+    "isrc": "QZNWS2298710"
+  },
+  {
+    "title": "Mtaktak",
+    "artist": "Al Nather, Shabjdeed",
+    "isrc": "QZHZD1929121"
+  },
+  {
+    "title": "Kunfan",
+    "artist": "Tin Nen, The Synaptik",
+    "isrc": "QZFYZ2015193"
+  },
+  {
+    "title": "Arabs Say KHOD",
+    "artist": "Tamer Nafar",
+    "isrc": "USUYG1442862"
+  },
+  {
+    "title": "تنساني انساك",
+    "artist": "El Faouri",
+    "isrc": "USUYG1473660"
+  },
+  {
+    "title": "2020 Vision (feat. El Rass & Zoog)",
+    "artist": "Chyno with a Why?, El Rass, Zoog",
+    "isrc": "LBA0Y2000020"
+  },
+  {
+    "title": "Sayer Gheer",
+    "artist": "BilalShabib",
+    "isrc": "QZK6F2496096"
+  },
+  {
+    "title": "Mirtaha",
+    "artist": "El Far3i",
+    "isrc": "QMEU32114140"
+  },
+  {
+    "title": "Dolab",
+    "artist": "Daboor",
+    "isrc": "QZHN32131379"
+  },
+  {
+    "title": "لا تغيبي",
+    "artist": "Ayham, Bilal Derky",
+    "isrc": "USUYG1444257"
+  },
+  {
+    "title": "Rad Saree3",
+    "artist": "Shabjdeed, Al Nather, Riyadiyat",
+    "isrc": "QZES72414586"
+  },
+  {
+    "title": "Madeenah",
+    "artist": "Al Basha, Synaptik",
+    "isrc": "QZHN91956836"
+  },
+  {
+    "title": "Aneej",
+    "artist": "Bu Nasser Touffar, Bu Kolthoum",
+    "isrc": "BXY5K2146348"
+  },
+  {
+    "title": "Holiday",
+    "artist": "Nurulez, DaMojaNad",
+    "isrc": "QZFYZ1944536"
+  },
+  {
+    "title": "6awafaan",
+    "artist": "Big Murk, Rknddn",
+    "isrc": "QZNWZ2086887"
+  },
+  {
+    "title": "Mad3oume",
+    "artist": "Salloum",
+    "isrc": "DGA052262474"
+  }
+]

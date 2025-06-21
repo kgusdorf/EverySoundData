@@ -1,0 +1,882 @@
+[
+  {
+    "title": "Así Era Mi Mama",
+    "artist": "Los Chaza, Orellana Lucca",
+    "isrc": "ARDFE1200010"
+  },
+  {
+    "title": "A una Rosa",
+    "artist": "Franco Ramirez, Jorge Rojas",
+    "isrc": "ART721210273"
+  },
+  {
+    "title": "Los Sentires de Mi Pueblo",
+    "artist": "Don Argañaraz",
+    "isrc": "ART581101572"
+  },
+  {
+    "title": "Zamba Sin Dueña",
+    "artist": "Gustavo Chazarreta, Jorge Rojas",
+    "isrc": "ARJJ31800004"
+  },
+  {
+    "title": "Chacarera de un Amor",
+    "artist": "Javi Caminos",
+    "isrc": "ARMYK1600008"
+  },
+  {
+    "title": "Dueño del Tiempo",
+    "artist": "Grito Del Monte",
+    "isrc": "ART721310332"
+  },
+  {
+    "title": "Cuando",
+    "artist": "Diego Arolfo",
+    "isrc": "ART721010404"
+  },
+  {
+    "title": "Abriendo Venas del Monte",
+    "artist": "Enrique Marquetti y La Brasa",
+    "isrc": "US6R21504771"
+  },
+  {
+    "title": "Zamba Mishquila",
+    "artist": "Los Lugones, Raly Barrionuevo",
+    "isrc": "ARV3X1800004"
+  },
+  {
+    "title": "Como Ristra ´i Chacarera",
+    "artist": "Dúo Heredero",
+    "isrc": "USHM82041264"
+  },
+  {
+    "title": "Expansión",
+    "artist": "El Perfil",
+    "isrc": "AR8E41700010"
+  },
+  {
+    "title": "Chacarera para Mi Vuelta",
+    "artist": "Mono Banegas",
+    "isrc": "ARBC81700011"
+  },
+  {
+    "title": "Trampas en el Cielo - En Vivo",
+    "artist": "Seba Cayre",
+    "isrc": "ARW881100011"
+  },
+  {
+    "title": "El Duende Escondido",
+    "artist": "La Callejera",
+    "isrc": "ARX451800051"
+  },
+  {
+    "title": "Digo la Telesita",
+    "artist": "Bruno Arias",
+    "isrc": "ARG601012945"
+  },
+  {
+    "title": "La Algarrobera",
+    "artist": "Las 4 Cuerdas",
+    "isrc": "QZGLM2127946"
+  },
+  {
+    "title": "Sol de los Andes",
+    "artist": "La Bruja Salguero, Bruno Arias",
+    "isrc": "ARG601500018"
+  },
+  {
+    "title": "Después del Amor",
+    "artist": "La Eulogia Folk",
+    "isrc": "US3DF1927480"
+  },
+  {
+    "title": "Pal Tiempo Del Carnaval",
+    "artist": "Milena Salamanca",
+    "isrc": "GBLFP2121057"
+  },
+  {
+    "title": "Tucumán Adentro",
+    "artist": "La Yunta",
+    "isrc": "ARG601012990"
+  },
+  {
+    "title": "Paisaje Agreste",
+    "artist": "Marcelo Gómez",
+    "isrc": "usl4q2174490"
+  },
+  {
+    "title": "Gustito a Mistol",
+    "artist": "Marcelo Toledo",
+    "isrc": "AR8L71300379"
+  },
+  {
+    "title": "La Leocadio Torres",
+    "artist": "La Sachera",
+    "isrc": "ARQ602000007"
+  },
+  {
+    "title": "Chacarera De Un Triste",
+    "artist": "Natalia Barrionuevo",
+    "isrc": "ART580900604"
+  },
+  {
+    "title": "El Olvidao",
+    "artist": "Roxana Carabajal",
+    "isrc": "ARG601200472"
+  },
+  {
+    "title": "Agua Que Regresas",
+    "artist": "Ernesto Guevara, Orellana Lucca",
+    "isrc": "USY282322979"
+  },
+  {
+    "title": "Milagro del Tiempo",
+    "artist": "Orellana Lucca",
+    "isrc": "ARIA20500004"
+  },
+  {
+    "title": "Flores y Chacareras",
+    "artist": "Riendas Libres., Peteco Carabajal",
+    "isrc": "AR8791700002"
+  },
+  {
+    "title": "Mataca Ollera",
+    "artist": "Matacos, Pitín Salazar",
+    "isrc": "ARU091100006"
+  },
+  {
+    "title": "Duende Escondido",
+    "artist": "El Cuervo, Los Brujos",
+    "isrc": "ART720910508"
+  },
+  {
+    "title": "Por Seguir",
+    "artist": "Don Olimpio, Juan Manuel Colombo, Leonardo Andersen, Federico Randazzo",
+    "isrc": "AR48B1700005"
+  },
+  {
+    "title": "Flor de Invierno",
+    "artist": "Fede Toledo",
+    "isrc": "ARGVL1500007"
+  },
+  {
+    "title": "Lavanderas de Rio Chico",
+    "artist": "Lorena Astudillo",
+    "isrc": "ARC979900009"
+  },
+  {
+    "title": "De Los Dias, Los Mas Lindos",
+    "artist": "Veronica Condomi",
+    "isrc": "ARA640800024"
+  },
+  {
+    "title": "La Copla Triste",
+    "artist": "María y Cosecha",
+    "isrc": "ARP321700005"
+  },
+  {
+    "title": "Campo Afuera",
+    "artist": "Paola Arias, Los 4 De Cordoba",
+    "isrc": "ART721410787"
+  },
+  {
+    "title": "Tu Amor Me Hace Bien",
+    "artist": "Maïté",
+    "isrc": "ES71G1767006"
+  },
+  {
+    "title": "La Zamba Es Tucumana",
+    "artist": "Fernando Rossini",
+    "isrc": "ARRUB1800005"
+  },
+  {
+    "title": "Soltero y Borracho",
+    "artist": "Ceibo, El Negro Videla",
+    "isrc": "ARHXR1600005"
+  },
+  {
+    "title": "Homenaje, Selección de Zambas: Camino y Piedra / Luna Tucumana / La Pobrecita / Adios Tucumán / Zamba del Grillo",
+    "artist": "Los Surcos",
+    "isrc": "ART720810596"
+  },
+  {
+    "title": "La Tunera",
+    "artist": "Dúo Arias Castro, Seva Castro, Santiago Arias, Pablo Farhat",
+    "isrc": "ARB8E1600005"
+  },
+  {
+    "title": "Cambá Galleta",
+    "artist": "Dúo Bote, Abel Tesoriere, Flor Bobadilla Oliva",
+    "isrc": "QMFMG1521364"
+  },
+  {
+    "title": "La Olvidada",
+    "artist": "Orquesta Popular de Cámara Los Amigos del Chango",
+    "isrc": "AR6F41600001"
+  },
+  {
+    "title": "No sé que tiene la Guaracha",
+    "artist": "Los Arcanos Del Desierto",
+    "isrc": "ARNE72000001"
+  },
+  {
+    "title": "La mota (Chacarera)",
+    "artist": "La Máquina de hacer Chacareras",
+    "isrc": "AR8ET1700012"
+  },
+  {
+    "title": "La Pomeña",
+    "artist": "Cuartoelemento",
+    "isrc": "SEYOK1630314"
+  },
+  {
+    "title": "Chacarera de Mis Sueños",
+    "artist": "Carafea",
+    "isrc": "USCGJ2183336"
+  },
+  {
+    "title": "En Esta Jungla",
+    "artist": "Pato Molina",
+    "isrc": "AR3C51300004"
+  },
+  {
+    "title": "Te miré por vez primera",
+    "artist": "Duratierra, Raly Barrionuevo",
+    "isrc": "GBLFP2499716"
+  },
+  {
+    "title": "Te Hablo Serenamente",
+    "artist": "Andres Pilar, Nadia Larcher",
+    "isrc": "AR48B2300002"
+  },
+  {
+    "title": "Ña polí o la",
+    "artist": "Rodolfo Sanchez, Franco Luciani, Raúl Carnota",
+    "isrc": "ARZ020902038"
+  },
+  {
+    "title": "La Llama Que Baila",
+    "artist": "La Cantada",
+    "isrc": "ARIXB2103630"
+  },
+  {
+    "title": "Somos",
+    "artist": "Mariano Luque",
+    "isrc": "AR9PW2000005"
+  },
+  {
+    "title": "Zamba por Vos",
+    "artist": "Emiliano Zerbini",
+    "isrc": "ES71G1607695"
+  },
+  {
+    "title": "Zamba del chaguanco",
+    "artist": "La Cangola Trunca, Santiago Díaz",
+    "isrc": "ARZ5J1200002"
+  },
+  {
+    "title": "La Magia Está Dentro Tuyo",
+    "artist": "Marcelo Moguilevsky, Quique Sinesi",
+    "isrc": "ARA170600015"
+  },
+  {
+    "title": "Yo Pecador",
+    "artist": "Yuchán",
+    "isrc": "QM4TW1642533"
+  },
+  {
+    "title": "Bachata Rosa",
+    "artist": "Dos Más Uno, Nahuel Pennisi",
+    "isrc": "ARZ022200554"
+  },
+  {
+    "title": "La Triste Enamorada",
+    "artist": "Ralukuna",
+    "isrc": "QM6N21920205"
+  },
+  {
+    "title": "Sufrida tierra mía",
+    "artist": "Motta Luna, Mercedes Sosa, Jorge Giuliano, Javier Casalla, Chango Farias Gomez",
+    "isrc": "DEN960530610"
+  },
+  {
+    "title": "La de Rojitas",
+    "artist": "Pujllay",
+    "isrc": "ARO931000001"
+  },
+  {
+    "title": "La Luna",
+    "artist": "AHYRE",
+    "isrc": "ARC081800182"
+  },
+  {
+    "title": "La Calandria",
+    "artist": "Los Nuñez, Ruiz Guiñazú",
+    "isrc": "ARA170900484"
+  },
+  {
+    "title": "Zambas Carperas: La Taleñita / De Alberdi / Solo por Verte Bailar / Del Chúcaro",
+    "artist": "Campedrinos",
+    "isrc": "AR9VI2200024"
+  },
+  {
+    "title": "Me Muero Lejos De Ti",
+    "artist": "Las Valijas",
+    "isrc": "ARA231000609"
+  },
+  {
+    "title": "Milonga del Desocupado",
+    "artist": "Quinteto Bataraz, Liliana Herrero",
+    "isrc": "ARGD22100004"
+  },
+  {
+    "title": "Yo No Te Merezco",
+    "artist": "Christian Herrera y Matacos",
+    "isrc": "ushm22291217"
+  },
+  {
+    "title": "La Juguetona",
+    "artist": "Chechelos",
+    "isrc": "AR5AC1700001"
+  },
+  {
+    "title": "Dejame Que Me Vaya (feat. Antonio Tarragó Ros)",
+    "artist": "Huella Pampa, Antonio Tarragó Ros",
+    "isrc": "ARG601011899"
+  },
+  {
+    "title": "El becerrito",
+    "artist": "Aguamadera",
+    "isrc": "ARRG11800002"
+  },
+  {
+    "title": "Candombe Bé",
+    "artist": "Ensamble Chancho a Cuerda",
+    "isrc": "ART581600140"
+  },
+  {
+    "title": "La Sachapera",
+    "artist": "Clave Folk",
+    "isrc": "ARX451500104"
+  },
+  {
+    "title": "El Hornerito",
+    "artist": "Lucas Monzón",
+    "isrc": "QMDA71306032"
+  },
+  {
+    "title": "Sembrador de Taperas",
+    "artist": "Indios De Ahora",
+    "isrc": "ARC081800041"
+  },
+  {
+    "title": "La Fiesta de la Vida",
+    "artist": "Pembroke",
+    "isrc": "QZHN31941240"
+  },
+  {
+    "title": "Chacarera del Clavel",
+    "artist": "Baqueanos",
+    "isrc": "usl4q1917071"
+  },
+  {
+    "title": "Dueles",
+    "artist": "Sele Vera Y Los Pampas",
+    "isrc": "ARNIO2200003"
+  },
+  {
+    "title": "En Tu Amor Vuelo",
+    "artist": "Los Pirkas",
+    "isrc": "QZBRF1895980"
+  },
+  {
+    "title": "Apuñalando al destino",
+    "artist": "Paraná Berreta",
+    "isrc": "AR9B91700003"
+  },
+  {
+    "title": "Zapata Se Queda",
+    "artist": "La Colmena",
+    "isrc": "ES71G1836764"
+  },
+  {
+    "title": "Sos Todo Eso y Mucha Más",
+    "artist": "Sentires",
+    "isrc": "ARG101106173"
+  },
+  {
+    "title": "Al Despertar",
+    "artist": "Parroquia Espíritu Santo",
+    "isrc": "GBMJG1810866"
+  },
+  {
+    "title": "Esta Cobardía",
+    "artist": "Los Sembradores de Tucumán",
+    "isrc": "ARU701100004"
+  },
+  {
+    "title": "Soltero",
+    "artist": "Leandro Robin",
+    "isrc": "uscgj1624608"
+  },
+  {
+    "title": "Zamba de Usted",
+    "artist": "Cara Fea",
+    "isrc": "QMFMG1401771"
+  },
+  {
+    "title": "Hiedra al Sol",
+    "artist": "Guillo Espel Cuarteto",
+    "isrc": "ARF391401498"
+  },
+  {
+    "title": "Abrojito",
+    "artist": "Las Cullen",
+    "isrc": "QMBZ92002436"
+  },
+  {
+    "title": "La Morocha",
+    "artist": "Los Chaza",
+    "isrc": "ARDFE1700004"
+  },
+  {
+    "title": "Zambita Del Musiquero",
+    "artist": "Franco Ramirez",
+    "isrc": "GBSMU6326840"
+  },
+  {
+    "title": "Corazón Peregrino",
+    "artist": "Don Argañaraz",
+    "isrc": "ART581101570"
+  },
+  {
+    "title": "Chacarera del Bombisto",
+    "artist": "Gustavo Chazarreta",
+    "isrc": "ARJJ31800003"
+  },
+  {
+    "title": "Al Olvido",
+    "artist": "Javi Caminos",
+    "isrc": "ARMYK1600001"
+  },
+  {
+    "title": "Corazón de Sumampa",
+    "artist": "Grito Del Monte",
+    "isrc": "QM4TX1897723"
+  },
+  {
+    "title": "Tu Sombra Ha Sido un Milagro",
+    "artist": "Diego Arolfo",
+    "isrc": "ART721010397"
+  },
+  {
+    "title": "Coplas Santiagueñas",
+    "artist": "Enrique Marquetti y La Brasa, Dúo Orellana - Lucca",
+    "isrc": "US6R21504777"
+  },
+  {
+    "title": "Semillas de Chacarera",
+    "artist": "Los Lugones",
+    "isrc": "ARV3X1800014"
+  },
+  {
+    "title": "Si Fuera Hoy",
+    "artist": "Dúo Heredero",
+    "isrc": "ARO931300003"
+  },
+  {
+    "title": "Pesadillas",
+    "artist": "El Perfil",
+    "isrc": "AR8E41700005"
+  },
+  {
+    "title": "Identidad",
+    "artist": "Mono Banegas",
+    "isrc": "ARBC81700006"
+  },
+  {
+    "title": "Zamba para Tu Adiós - En Vivo",
+    "artist": "Seba Cayre",
+    "isrc": "ARW881500004"
+  },
+  {
+    "title": "Corazón de Quebracho",
+    "artist": "La Callejera",
+    "isrc": "ARX451800013"
+  },
+  {
+    "title": "Ave de Luz",
+    "artist": "Bruno Arias",
+    "isrc": "ARG601600230"
+  },
+  {
+    "title": "La singular",
+    "artist": "Las 4 Cuerdas",
+    "isrc": "GBSMU7740280"
+  },
+  {
+    "title": "Así Sea",
+    "artist": "La Bruja Salguero, Lisandro Aristimuño",
+    "isrc": "ARM6N2400006"
+  },
+  {
+    "title": "Si Supieras",
+    "artist": "La Eulogia Folk",
+    "isrc": "UST8K1845241"
+  },
+  {
+    "title": "De Simoca",
+    "artist": "La Yunta",
+    "isrc": "ARG601011419"
+  },
+  {
+    "title": "Florcita Del Monte",
+    "artist": "Milena Salamanca",
+    "isrc": "GBLFP2121044"
+  },
+  {
+    "title": "Quedó Prendido",
+    "artist": "Marcelo Gómez",
+    "isrc": "usl4q2174489"
+  },
+  {
+    "title": "La Algarrobera",
+    "artist": "Marcelo Toledo",
+    "isrc": "AR8L71300386"
+  },
+  {
+    "title": "Esa mujer",
+    "artist": "La Sachera, Kony Taboada",
+    "isrc": "ARQ602000004"
+  },
+  {
+    "title": "Zamba del Reencuentro",
+    "artist": "Natalia Barrionuevo",
+    "isrc": "ARF050000060"
+  },
+  {
+    "title": "Donde Alguien Me Espera",
+    "artist": "Ernesto Guevara",
+    "isrc": "QZGLS2026184"
+  },
+  {
+    "title": "No Dejare de Amarte",
+    "artist": "Roxana Carabajal, Raly Barrionuevo",
+    "isrc": "ARG601101707"
+  },
+  {
+    "title": "Chacarera del Patio",
+    "artist": "Orellana Lucca",
+    "isrc": "ARIA21500025"
+  },
+  {
+    "title": "El Amor Como Bandera",
+    "artist": "Riendas Libres., Peteco Carabajal",
+    "isrc": "AR8791700001"
+  },
+  {
+    "title": "Chaca Que Machaca",
+    "artist": "Matacos",
+    "isrc": "ARU091100001"
+  },
+  {
+    "title": "Corazón Santiagueño",
+    "artist": "El Cuervo, Los Brujos",
+    "isrc": "ART720610473"
+  },
+  {
+    "title": "El Hornerito",
+    "artist": "Don Olimpio, Diego Amerise, Milagros Caliva",
+    "isrc": "AR48B1900005"
+  },
+  {
+    "title": "Lagrimas de Miel",
+    "artist": "Fede Toledo, Bruno Arias",
+    "isrc": "ARGVL1500002"
+  },
+  {
+    "title": "Zamba del Laurel",
+    "artist": "Lorena Astudillo",
+    "isrc": "ARC971700008"
+  },
+  {
+    "title": "Dos Corazones",
+    "artist": "Veronica Condomi",
+    "isrc": "ARA640800031"
+  },
+  {
+    "title": "No Te Busques Ya en el Umbral (Umbral)",
+    "artist": "María y Cosecha",
+    "isrc": "ARF391401514"
+  },
+  {
+    "title": "La Alejada",
+    "artist": "Paola Arias, Pitín Zalazar, Las Voces De Orán",
+    "isrc": "ART721410776"
+  },
+  {
+    "title": "El Ladron",
+    "artist": "Maïté",
+    "isrc": "ES71G1767004"
+  },
+  {
+    "title": "El Cielo de Allá Lejos",
+    "artist": "Fernando Rossini",
+    "isrc": "ARRUB1800007"
+  },
+  {
+    "title": "Cantor de Chacarera",
+    "artist": "Ceibo",
+    "isrc": "ARHXR1600003"
+  },
+  {
+    "title": "Muero de Amor",
+    "artist": "Los Surcos",
+    "isrc": "ART721210128"
+  },
+  {
+    "title": "Solís Pizarro",
+    "artist": "Dúo Arias Castro, Seva Castro, Santiago Arias",
+    "isrc": "ARB8E1600004"
+  },
+  {
+    "title": "Costera",
+    "artist": "Dúo Bote, Abel Tesoriere, Flor Bobadilla Oliva",
+    "isrc": "QMFMG1521368"
+  },
+  {
+    "title": "Chacarera Santiagueña",
+    "artist": "Orquesta Popular de Cámara Los Amigos del Chango",
+    "isrc": "AR6F41600007"
+  },
+  {
+    "title": "Ligado Con Tu Esencia",
+    "artist": "Los Arcanos Del Desierto",
+    "isrc": "ARNE71500002"
+  },
+  {
+    "title": "El aplanador (Escondido)",
+    "artist": "La Máquina de hacer Chacareras",
+    "isrc": "AR8ET1700001"
+  },
+  {
+    "title": "Coplas del Valle",
+    "artist": "Cuartoelemento",
+    "isrc": "SEYOK1624028"
+  },
+  {
+    "title": "Cuando Vuelvo a Catamarca",
+    "artist": "Carafea",
+    "isrc": "TCAET2069767"
+  },
+  {
+    "title": "La Compañera",
+    "artist": "Pato Molina",
+    "isrc": "AR3C51700009"
+  },
+  {
+    "title": "Trinchera",
+    "artist": "Duratierra",
+    "isrc": "GBMA21865496"
+  },
+  {
+    "title": "Amor y Conocimiento",
+    "artist": "Andres Pilar, Nadia Larcher",
+    "isrc": "AR48B2300004"
+  },
+  {
+    "title": "Sur",
+    "artist": "Rodolfo Sanchez, Franco Luciani, Raúl Carnota",
+    "isrc": "ARZ020902041"
+  },
+  {
+    "title": "No Hay Plata",
+    "artist": "La Cantada, Christian Herrera y Matacos",
+    "isrc": "ARIXB2313776"
+  },
+  {
+    "title": "LUNITA PIRQUINERA",
+    "artist": "Mariano Luque",
+    "isrc": "GB-SMU-30-12746"
+  },
+  {
+    "title": "Serrano Soy",
+    "artist": "Emiliano Zerbini",
+    "isrc": "usl4q2197818"
+  },
+  {
+    "title": "Letanía por Juana",
+    "artist": "La Cangola Trunca",
+    "isrc": "ARZ5J1800010"
+  },
+  {
+    "title": "El Río",
+    "artist": "Marcelo Moguilevsky, Quique Sinesi",
+    "isrc": "ARA170600017"
+  },
+  {
+    "title": "Cuando en Salta",
+    "artist": "Yuchán, Clavito Riera",
+    "isrc": "ARF052200460"
+  },
+  {
+    "title": "La Pomeña",
+    "artist": "Dos Más Uno",
+    "isrc": "ARZ022200342"
+  },
+  {
+    "title": "La Verdadera Luz",
+    "artist": "Ralukuna",
+    "isrc": "QM6N21920206"
+  },
+  {
+    "title": "A Orillas del Dulce",
+    "artist": "Los Chaza",
+    "isrc": "ARDFE1200014"
+  },
+  {
+    "title": "Zambita pa' Enamorar",
+    "artist": "Franco Ramirez",
+    "isrc": "ART721210277"
+  },
+  {
+    "title": "El Mundo al Revés",
+    "artist": "Don Argañaraz",
+    "isrc": "ART581101579"
+  },
+  {
+    "title": "Para Pelearle al Silencio",
+    "artist": "Gustavo Chazarreta, Orellana Lucca",
+    "isrc": "ARJJ31800007"
+  },
+  {
+    "title": "Gato para Villanueva",
+    "artist": "Javi Caminos",
+    "isrc": "ARMYK1600006"
+  },
+  {
+    "title": "No Se Si Lo Habrán Notado",
+    "artist": "Grito Del Monte",
+    "isrc": "QM4TX1897717"
+  },
+  {
+    "title": "La Particular",
+    "artist": "Diego Arolfo",
+    "isrc": "ART721010402"
+  },
+  {
+    "title": "Sueño de Amor",
+    "artist": "Enrique Marquetti y La Brasa",
+    "isrc": "US6R21504779"
+  },
+  {
+    "title": "Llora Natura",
+    "artist": "Los Lugones, Orellana Lucca",
+    "isrc": "ARV3X1800002"
+  },
+  {
+    "title": "Fantasía de Gato",
+    "artist": "Dúo Heredero",
+    "isrc": "ARO931300005"
+  },
+  {
+    "title": "Verde",
+    "artist": "El Perfil",
+    "isrc": "AR8E41700002"
+  },
+  {
+    "title": "En Silencio",
+    "artist": "Mono Banegas",
+    "isrc": "ARBC81700024"
+  },
+  {
+    "title": "Viejo Guitarrero",
+    "artist": "Seba Cayre",
+    "isrc": "ARW881600007"
+  },
+  {
+    "title": "La Olvidada",
+    "artist": "La Callejera",
+    "isrc": "ARX451800025"
+  },
+  {
+    "title": "Zamba de los Mineros",
+    "artist": "Bruno Arias",
+    "isrc": "ARG601012942"
+  },
+  {
+    "title": "Semilla de chacarera - Unión de las almas",
+    "artist": "Las 4 Cuerdas",
+    "isrc": "GBSMU7740647"
+  },
+  {
+    "title": "Los Amanecidos",
+    "artist": "La Bruja Salguero, Lula Bertoldi",
+    "isrc": "ARM6N2400002"
+  },
+  {
+    "title": "Bailando la Zamba",
+    "artist": "La Eulogia Folk",
+    "isrc": "US3DF1927484"
+  },
+  {
+    "title": "Zamba de un Promesante",
+    "artist": "La Yunta",
+    "isrc": "ARG601011420"
+  },
+  {
+    "title": "A Santiago Canta",
+    "artist": "Milena Salamanca",
+    "isrc": "GBLFP2120983"
+  },
+  {
+    "title": "El Cantor",
+    "artist": "Marcelo Gómez",
+    "isrc": "usl4q2174496"
+  },
+  {
+    "title": "Y Ahora Soy Feliz",
+    "artist": "Marcelo Toledo",
+    "isrc": "AR8L71300374"
+  },
+  {
+    "title": "Salavina",
+    "artist": "La Sachera, Andres Simon",
+    "isrc": "ARQ602000006"
+  },
+  {
+    "title": "Chacarera Del Crespín",
+    "artist": "Natalia Barrionuevo",
+    "isrc": "ART580900607"
+  },
+  {
+    "title": "Luz Compañera",
+    "artist": "Ernesto Guevara, Raly Barrionuevo",
+    "isrc": "QZGLS2026183"
+  },
+  {
+    "title": "Chacarera del Bombisto",
+    "artist": "Roxana Carabajal",
+    "isrc": "ES71G1843074"
+  },
+  {
+    "title": "La Luna",
+    "artist": "Orellana Lucca",
+    "isrc": "ARIA21500002"
+  },
+  {
+    "title": "Chacarera para Vos",
+    "artist": "Riendas Libres.",
+    "isrc": "AR8792200007"
+  },
+  {
+    "title": "El Color de la Chacarera",
+    "artist": "Matacos",
+    "isrc": "ushm81701327"
+  },
+  {
+    "title": "Zamba de Lozano",
+    "artist": "El Cuervo, Los Brujos",
+    "isrc": "ART720610475"
+  }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "title": "Abdou N'diaye",
+    "artist": "Seckou Keita",
+    "isrc": "UK9YG1500009"
+  },
+  {
+    "title": "Mama Tamba",
+    "artist": "Lamine Konte",
+    "isrc": "FRZ177310030"
+  },
+  {
+    "title": "Winter Trees Stand Sleeping",
+    "artist": "Dawda Jobarteh",
+    "isrc": "GBNRN1612801"
+  },
+  {
+    "title": "Mansaya",
+    "artist": "Kadialy Kouyate",
+    "isrc": "GB5KM1900007"
+  },
+  {
+    "title": "Evolution",
+    "artist": "Ablaye Cissoko",
+    "isrc": "FR6GO1300320"
+  },
+  {
+    "title": "Abene by Night",
+    "artist": "Sillaba",
+    "isrc": "SE6N62100146"
+  },
+  {
+    "title": "Still Moment",
+    "artist": "Tunde Jegede",
+    "isrc": "gbkpl0604778"
+  },
+  {
+    "title": "Nan Sira Madi - A COLORS SHOW",
+    "artist": "Ballaké Sissoko",
+    "isrc": "DEXC82100044"
+  },
+  {
+    "title": "Folon",
+    "artist": "Lamine Cissokho",
+    "isrc": "SE43Y1700904"
+  },
+  {
+    "title": "Bi Lamban",
+    "artist": "Toumani Diabaté, Ballaké Sissoko",
+    "isrc": "USRY29700860"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Sona Jobarteh",
+    "isrc": "GBVCY1000007"
+  },
+  {
+    "title": "Tunga",
+    "artist": "Mamadou Diabaté, Fuseini Kouyate, Ira Coleman",
+    "isrc": "QM7281515185"
+  },
+  {
+    "title": "Kora By Night - Instrumental",
+    "artist": "Maher Cissoko",
+    "isrc": "SEXNQ1700110"
+  },
+  {
+    "title": "N'nah",
+    "artist": "Yacouba Sissoko",
+    "isrc": "uscgj1890848"
+  },
+  {
+    "title": "Jimbasengo",
+    "artist": "Jali Nyama Suso",
+    "isrc": "FR05G1610501"
+  },
+  {
+    "title": "C'est pas facile",
+    "artist": "Ba Cissoko",
+    "isrc": "FR8E71600360"
+  },
+  {
+    "title": "Cantilène 6",
+    "artist": "Jacques Burtin",
+    "isrc": "FRV770900429"
+  },
+  {
+    "title": "Nteri Baro",
+    "artist": "Madou Sidiki Diabaté",
+    "isrc": "FR9W12032448"
+  },
+  {
+    "title": "Kankèlentigi",
+    "artist": "Jeli Moussa Sissoko",
+    "isrc": "DEC831001526"
+  },
+  {
+    "title": "Kora Julo",
+    "artist": "Bao Sissoko, Malick Pathé Sow",
+    "isrc": "BEQ151200005"
+  },
+  {
+    "title": "Fanta",
+    "artist": "Taffetas",
+    "isrc": "GBGWX0400205"
+  },
+  {
+    "title": "Salsa-Cora",
+    "artist": "Djeli Moussa Diawara",
+    "isrc": "FRZ559400004"
+  },
+  {
+    "title": "Kuli Dima",
+    "artist": "Sourakata Koité",
+    "isrc": "QM6N21569240"
+  },
+  {
+    "title": "Nio Kolo Koba",
+    "artist": "Vieux Diop",
+    "isrc": "USAR50412298"
+  },
+  {
+    "title": "Segou Tutu",
+    "artist": "Malamini Jobarteh, Dembo Konte",
+    "isrc": "GBNRN1001001"
+  },
+  {
+    "title": "Kaira",
+    "artist": "Solo Cissokho",
+    "isrc": "AUZG00933625"
+  },
+  {
+    "title": "Senegal-Mauritanie",
+    "artist": "Kaouding Cissoko",
+    "isrc": "GBCAV9900010"
+  },
+  {
+    "title": "Yarabi",
+    "artist": "David Gilden",
+    "isrc": "US9381047105"
+  },
+  {
+    "title": "Samedi Glace",
+    "artist": "3MA, Ballaké Sissoko, Driss El Maloumi, Rajery",
+    "isrc": "FRF981700002"
+  },
+  {
+    "title": "Maki",
+    "artist": "Sousou & Maher Cissoko",
+    "isrc": "SE3X91300107"
+  },
+  {
+    "title": "Jarabi (Passion)",
+    "artist": "Derek Gripper",
+    "isrc": "TCABK1279655"
+  },
+  {
+    "title": "Mansane Cisse",
+    "artist": "Lalo Keba Drame",
+    "isrc": "FRYAS0967747"
+  },
+  {
+    "title": "Gobaith",
+    "artist": "Catrin Finch, Seckou Keita",
+    "isrc": "GBCKG2100255"
+  },
+  {
+    "title": "Via con me",
+    "artist": "Kora Jazz Trio",
+    "isrc": "FR5KQ1700003"
+  },
+  {
+    "title": "Alla L'aa Ke",
+    "artist": "Alhaji Bai Konte",
+    "isrc": "USRO28900101"
+  },
+  {
+    "title": "Sunjata",
+    "artist": "Sidiki Diabaté, Djelimady Sissoko",
+    "isrc": "FRY397008531"
+  },
+  {
+    "title": "Soumanaro",
+    "artist": "Soundioulou Sissoko",
+    "isrc": "FRYAS0967802"
+  },
+  {
+    "title": "Manio Be Kumbola",
+    "artist": "Malick Pathé Sow, Bao Sissoko",
+    "isrc": "BEQ151200003"
+  },
+  {
+    "title": "Missing You",
+    "artist": "Seckou Keita SKQ",
+    "isrc": "GBVKL0800010"
+  },
+  {
+    "title": "Sakhadougou",
+    "artist": "Tata Dindin",
+    "isrc": "DEU241124411"
+  },
+  {
+    "title": "Ladiaba",
+    "artist": "Djelimoussa Cissoko",
+    "isrc": "FR0R59883501"
+  },
+  {
+    "title": "Dah Monzo Bambara 2",
+    "artist": "Ensemble Instrumental Du Mali",
+    "isrc": "GBHCD1152841"
+  },
+  {
+    "title": "Desert",
+    "artist": "Sékou Kouyaté",
+    "isrc": "DKXH71500209"
+  },
+  {
+    "title": "Fiɲɛ",
+    "artist": "Josh Doughty",
+    "isrc": "GX93L2300002"
+  },
+  {
+    "title": "Makki",
+    "artist": "Sura Susso, Pete Josef",
+    "isrc": "GX2562021007"
+  },
+  {
+    "title": "Suomi",
+    "artist": "Malang Cissokho",
+    "isrc": "FIMC21600011"
+  },
+  {
+    "title": "Diarabi",
+    "artist": "Soriba Kouyaté",
+    "isrc": "DEA890300031"
+  },
+  {
+    "title": "Oye como va",
+    "artist": "Kora Jazz Band, Manu Dibango, Andy Narell, Omar Marquez",
+    "isrc": "FRZ551100005"
+  },
+  {
+    "title": "Cora-flamenca",
+    "artist": "Prince Diabate",
+    "isrc": "USA560303050"
+  },
+  {
+    "title": "Julajeker",
+    "artist": "Jali Bakary Konteh",
+    "isrc": "GBMA22309467"
+  },
+  {
+    "title": "Geny",
+    "artist": "Zal Sissokho, Marcus Viana",
+    "isrc": "BRSOS1500005"
+  },
+  {
+    "title": "Experience",
+    "artist": "N'Faly Kouyate, Dunyakan",
+    "isrc": "GBCKG0701981"
+  },
+  {
+    "title": "1001",
+    "artist": "Momi Maiga",
+    "isrc": "ES56S2200746"
+  },
+  {
+    "title": "Sunjata (Sauta Tuning)",
+    "artist": "Foday Musa Suso",
+    "isrc": "USSF17851002"
+  },
+  {
+    "title": "Joy",
+    "artist": "AKA Trio, Seckou Keita, Antonio Forcione, Adriano Adewale",
+    "isrc": "GBCKG1900001"
+  },
+  {
+    "title": "Rahim",
+    "artist": "Suntou Susso",
+    "isrc": "QZRP42103935"
+  },
+  {
+    "title": "Allah le ye a ke",
+    "artist": "Baba the Storyteller",
+    "isrc": "QMXM91100002"
+  },
+  {
+    "title": "Kanou",
+    "artist": "World Kora Trio",
+    "isrc": "FR9W11204934"
+  },
+  {
+    "title": "Malamine",
+    "artist": "Fanta Damba",
+    "isrc": "FR3GQ1001020"
+  },
+  {
+    "title": "Polska efter Nylandspojkarna - Sonko",
+    "artist": "Ellika & Solo, Solo Cissokho, Ellika Frisell",
+    "isrc": "SELAA0500203"
+  },
+  {
+    "title": "Ebrima",
+    "artist": "Dembo Jobarteh",
+    "isrc": "uscgh0637474"
+  },
+  {
+    "title": "Enlightenment",
+    "artist": "Youssoupha Sidibe",
+    "isrc": "QZMER2428985"
+  },
+  {
+    "title": "Kora Duet",
+    "artist": "Jali Fily Cissokho",
+    "isrc": "UST8K1542325"
+  },
+  {
+    "title": "Yarabi",
+    "artist": "Balla Tounkara",
+    "isrc": "US6QR1200051"
+  },
+  {
+    "title": "We Praise You, Invisible Father",
+    "artist": "Monks Of Senegal",
+    "isrc": "US2BB9700391"
+  },
+  {
+    "title": "Kora Sutra (feat. Andrea Konstankiewiczova)",
+    "artist": "John Hughes, Andrea Konstankiewiczova",
+    "isrc": "uscgj1413226"
+  },
+  {
+    "title": "Kelu Kalabante",
+    "artist": "King Kora",
+    "isrc": "ushm20901118"
+  },
+  {
+    "title": "Expérience II",
+    "artist": "N'Faly Kouyate & Dunyakan",
+    "isrc": "ES7180802912"
+  },
+  {
+    "title": "Hamaba",
+    "artist": "Amadu Bangsang Jobarteh",
+    "isrc": "AUZG00713430"
+  },
+  {
+    "title": "Malinyea",
+    "artist": "Andrew Oliver Kora Band",
+    "isrc": "uscgj0982690"
+  },
+  {
+    "title": "Tama-Silo (Journey)",
+    "artist": "Binta Susso, Juldeh Camara, Seckou Keita",
+    "isrc": "GBKWR0500008"
+  },
+  {
+    "title": "Masami Cisse",
+    "artist": "Djibril Diabate",
+    "isrc": "GBJCX0831454"
+  },
+  {
+    "title": "Improvisation (Gambia)",
+    "artist": "Kemba Sussoko",
+    "isrc": "CH1419384302"
+  },
+  {
+    "title": "The Shade Tree",
+    "artist": "Kevin Brown Moussa Kouyate",
+    "isrc": "uscgj1015101"
+  },
+  {
+    "title": "Jimbasengo",
+    "artist": "Morikeba Kouyate",
+    "isrc": "USTC29728503"
+  },
+  {
+    "title": "Olimatou",
+    "artist": "Tatadindin Jobarteh & Salam Band",
+    "isrc": "GBMJG2312702"
+  },
+  {
+    "title": "Cascades",
+    "artist": "The Kora Band",
+    "isrc": "US3M81001803"
+  },
+  {
+    "title": "Holko Fumo Tork",
+    "artist": "The Senegambian Jazz Band",
+    "isrc": "AUBEC1712633"
+  },
+  {
+    "title": "Myriata",
+    "artist": "Tormenta Jobarteh",
+    "isrc": "ushm81485524"
+  },
+  {
+    "title": "Folo Folo",
+    "artist": "Yacouba Diabate",
+    "isrc": "uscgh1945304"
+  },
+  {
+    "title": "Kana Tin-Tin",
+    "artist": "Yan Kabu Saho",
+    "isrc": "AUZG00713428"
+  },
+  {
+    "title": "Hinna-Djulo",
+    "artist": "Seckou Keita, Catrin Finch",
+    "isrc": "GBCKG1700233"
+  },
+  {
+    "title": "Nganiyo",
+    "artist": "Kadialy Kouyate",
+    "isrc": "GB5KM2100008"
+  },
+  {
+    "title": "Yarabi",
+    "artist": "Lamine Konte",
+    "isrc": "FRZ177310020"
+  },
+  {
+    "title": "I Met Her By The River",
+    "artist": "Dawda Jobarteh",
+    "isrc": "GBNRN1813001"
+  },
+  {
+    "title": "Jaama",
+    "artist": "Sillaba",
+    "isrc": "SE5Q52101817"
+  },
+  {
+    "title": "Prélude",
+    "artist": "Ballaké Sissoko, Vincent Ségal",
+    "isrc": "FR2W61500015"
+  },
+  {
+    "title": "Interlude",
+    "artist": "Ablaye Cissoko",
+    "isrc": "FR6GO1300340"
+  },
+  {
+    "title": "El Sicuri",
+    "artist": "Tunde Jegede",
+    "isrc": "gbkpl0604782"
+  },
+  {
+    "title": "United Hands (West African Solo Kora Piece)",
+    "artist": "Lamine Cissokho, Manish Pingle",
+    "isrc": "SE43Y1901005"
+  },
+  {
+    "title": "Salaman",
+    "artist": "Toumani Diabaté, Ballaké Sissoko",
+    "isrc": "USRY20411315"
+  },
+  {
+    "title": "Soutoukou",
+    "artist": "Mamadou Diabaté",
+    "isrc": "QM7281515187"
+  },
+  {
+    "title": "Kooma Kumaro (Backbiting) - Instrumental",
+    "artist": "Maher Cissoko",
+    "isrc": "SEXNQ1700112"
+  },
+  {
+    "title": "Tougoude",
+    "artist": "Yacouba Sissoko",
+    "isrc": "uscgj1890846"
+  },
+  {
+    "title": "Battle Of Qadesh",
+    "artist": "Sona Jobarteh",
+    "isrc": "GBVCY1000003"
+  },
+  {
+    "title": "Tabara",
+    "artist": "Jali Nyama Suso",
+    "isrc": "FR05G1610508"
+  },
+  {
+    "title": "Baye Fall",
+    "artist": "Ba Cissoko",
+    "isrc": "FR8E71600400"
+  },
+  {
+    "title": "Dondama",
+    "artist": "Madou Sidiki Diabaté",
+    "isrc": "USA2P1008187"
+  },
+  {
+    "title": "Las morillas de Jaén",
+    "artist": "Jacques Burtin",
+    "isrc": "FRV770300048"
+  },
+  {
+    "title": "Saran",
+    "artist": "Jeli Moussa Sissoko",
+    "isrc": "DEC831001525"
+  },
+  {
+    "title": "Ayo",
+    "artist": "Djeli Moussa Diawara",
+    "isrc": "FRZ559400008"
+  },
+  {
+    "title": "Yay Balma",
+    "artist": "Taffetas",
+    "isrc": "GBGWX0400203"
+  },
+  {
+    "title": "Ha-Madi",
+    "artist": "Sourakata Koité",
+    "isrc": "QMUGB1903402"
+  },
+  {
+    "title": "Fode Kaba",
+    "artist": "Vieux Diop",
+    "isrc": "uscgh0540861"
+  },
+  {
+    "title": "Solo",
+    "artist": "Malamini Jobarteh, Dembo Konte",
+    "isrc": "GBNRN1001003"
+  },
+  {
+    "title": "Toub",
+    "artist": "Solo Cissokho",
+    "isrc": "AUZG00933619"
+  },
+  {
+    "title": "Niani Bagne Na",
+    "artist": "Kaouding Cissoko",
+    "isrc": "GBCAV9900004"
+  },
+  {
+    "title": "Kora Duet",
+    "artist": "David Gilden",
+    "isrc": "US9381047112"
+  },
+  {
+    "title": "Casamance",
+    "artist": "Sousou & Maher Cissoko",
+    "isrc": "SEXNQ0800407"
+  },
+  {
+    "title": "Anarouz",
+    "artist": "3MA, Ballaké Sissoko, Driss El Maloumi, Rajery",
+    "isrc": "FRF981700001"
+  },
+  {
+    "title": "Kiramaka",
+    "artist": "Lalo Keba Drame",
+    "isrc": "FRYAS0967752"
+  },
+  {
+    "title": "Ana",
+    "artist": "Derek Gripper",
+    "isrc": "US23A1501740"
+  },
+  {
+    "title": "Ceffylau",
+    "artist": "Catrin Finch, Seckou Keita",
+    "isrc": "GBZUM1302506"
+  },
+  {
+    "title": "Djanffa",
+    "artist": "Kora Jazz Trio",
+    "isrc": "FR5KQ1700001"
+  },
+  {
+    "title": "Tutu Jara",
+    "artist": "Alhaji Bai Konte, Dembo Konte",
+    "isrc": "USSF17951402"
+  },
+  {
+    "title": "Alalake",
+    "artist": "Sidiki Diabaté, Sékou Batrou Kouyaté",
+    "isrc": "FRY397008533"
+  },
+  {
+    "title": "Salif ouolo ouolo",
+    "artist": "Soundioulou Sissoko",
+    "isrc": "FRYAS0967804"
+  },
+  {
+    "title": "Niani bagne na",
+    "artist": "Malick Pathé Sow, Bao Sissoko",
+    "isrc": "BEQ151200007"
+  },
+  {
+    "title": "Dingba Don",
+    "artist": "Seckou Keita SKQ",
+    "isrc": "GBVKL0800008"
+  },
+  {
+    "title": "Medley of Instrumentals",
+    "artist": "Tata Dindin",
+    "isrc": "DEU241124408"
+  },
+  {
+    "title": "Lontanga",
+    "artist": "Djelimoussa Cissoko",
+    "isrc": "FR0R59883502"
+  },
+  {
+    "title": "Sama",
+    "artist": "Ensemble Instrumental Du Mali",
+    "isrc": "GBHCD1152843"
+  },
+  {
+    "title": "Mobeny",
+    "artist": "Sékou Kouyaté",
+    "isrc": "DKXH71500212"
+  },
+  {
+    "title": "Korason",
+    "artist": "Josh Doughty, Tim Short",
+    "isrc": "TCAEB1991845"
+  },
+  {
+    "title": "Sila Kang",
+    "artist": "Sura Susso",
+    "isrc": "usl4q2099916"
+  },
+  {
+    "title": "Silent Waves",
+    "artist": "Malang Cissokho",
+    "isrc": "FIMC20500005"
+  },
+  {
+    "title": "Mariama",
+    "artist": "Soriba Kouyaté",
+    "isrc": "DEA890300032"
+  },
+  {
+    "title": "Ewagne",
+    "artist": "Kora Jazz Band, Manu Dibango, Andy Narell, Omar Marquez",
+    "isrc": "FRZ551100006"
+  },
+  {
+    "title": "Baraka Instrumental",
+    "artist": "Prince Diabate",
+    "isrc": "ushm92254993"
+  },
+  {
+    "title": "Badiya",
+    "artist": "Jali Bakary Konteh",
+    "isrc": "GBMA22309470"
+  },
+  {
+    "title": "Kora Flamenca",
+    "artist": "Zal Sissokho",
+    "isrc": "CALC41900403"
+  },
+  {
+    "title": "Djonsanlon",
+    "artist": "N'Faly KouyatÃ©",
+    "isrc": "GBLFP1505986"
+  },
+  {
+    "title": "Mansani",
+    "artist": "Momi Maiga, Pau Figueres",
+    "isrc": "ES56S2200743"
+  },
+  {
+    "title": "Jula Jekere (Hardino Tuning)",
+    "artist": "Foday Musa Suso",
+    "isrc": "USSF17851005"
+  },
+  {
+    "title": "Choix de joie",
+    "artist": "AKA Trio, Seckou Keita, Antonio Forcione, Adriano Adewale",
+    "isrc": "GBCKG1900010"
+  },
+  {
+    "title": "Father and Son",
+    "artist": "Suntou Susso",
+    "isrc": "QZRP42103939"
+  },
+  {
+    "title": "Bani",
+    "artist": "Baba the Storyteller",
+    "isrc": "QMXM91100004"
+  },
+  {
+    "title": "Listen to the Grass Grow",
+    "artist": "Seckou Keita, Catrin Finch",
+    "isrc": "GBCKG1700232"
+  },
+  {
+    "title": "Kanou Foro",
+    "artist": "Kadialy Kouyate",
+    "isrc": "GB5KM1900005"
+  },
+  {
+    "title": "Dioula",
+    "artist": "Lamine Konte",
+    "isrc": "FRZ177310040"
+  },
+  {
+    "title": "Tutu Jara",
+    "artist": "Dawda Jobarteh, Admeta String Quartet",
+    "isrc": "GBNRN2100107"
+  },
+  {
+    "title": "Na",
+    "artist": "Sillaba",
+    "isrc": "SE5Q52101830"
+  },
+  {
+    "title": "Yafa Djini Te Djitoyaye",
+    "artist": "Ballaké Sissoko",
+    "isrc": "FR2W62100011"
+  },
+  {
+    "title": "Contre Vent",
+    "artist": "Lamine Cissokho",
+    "isrc": "QM6N21972064"
+  },
+  {
+    "title": "Duga",
+    "artist": "Tunde Jegede",
+    "isrc": "uscgh1487997"
+  },
+  {
+    "title": "Mon frère - Sadio",
+    "artist": "Ablaye Cissoko",
+    "isrc": "FRP8I1304380"
+  },
+  {
+    "title": "Bafoulabe",
+    "artist": "Toumani Diabaté, Ballaké Sissoko",
+    "isrc": "USRY20411316"
+  },
+  {
+    "title": "Laban Djoro",
+    "artist": "Mamadou Diabaté",
+    "isrc": "USWR41010808"
+  },
+  {
+    "title": "Don't Pretend",
+    "artist": "Yacouba Sissoko",
+    "isrc": "uscgj1890847"
+  },
+  {
+    "title": "Suutoo Yé Diyaa (Good Night) - Instrumental",
+    "artist": "Maher Cissoko",
+    "isrc": "SEXNQ1700111"
+  },
+  {
+    "title": "Teme",
+    "artist": "Ba Cissoko",
+    "isrc": "FR8E71600420"
+  },
+  {
+    "title": "Donke Sali",
+    "artist": "Madou Sidiki Diabaté",
+    "isrc": "USA2P1008195"
+  },
+  {
+    "title": "Hizab",
+    "artist": "Sona Jobarteh",
+    "isrc": "GBVCY1000005"
+  },
+  {
+    "title": "Dédicace",
+    "artist": "Jacques Burtin",
+    "isrc": "FRV770300046"
+  },
+  {
+    "title": "Lamban",
+    "artist": "Jeli Moussa Sissoko",
+    "isrc": "DEC831001529"
+  },
+  {
+    "title": "Fano Keita",
+    "artist": "Taffetas",
+    "isrc": "GBGWX0400201"
+  },
+  {
+    "title": "Kaira",
+    "artist": "Sourakata Koité",
+    "isrc": "QMUGB1903404"
+  },
+  {
+    "title": "Manzani",
+    "artist": "Vieux Diop",
+    "isrc": "uscgh0540864"
+  },
+  {
+    "title": "Segou Tutu / Tutu Jara - Original Take",
+    "artist": "Malamini Jobarteh, Dembo Konte",
+    "isrc": "GBNRN1001008"
+  },
+  {
+    "title": "Farafina",
+    "artist": "Solo Cissokho",
+    "isrc": "AUZG00933622"
+  },
+  {
+    "title": "Kora Revolution",
+    "artist": "Kaouding Cissoko",
+    "isrc": "GBCAV9900002"
+  },
+  {
+    "title": "Island Solo",
+    "artist": "David Gilden",
+    "isrc": "US9381047107"
+  },
+  {
+    "title": "Jaliya",
+    "artist": "Sousou & Maher Cissoko",
+    "isrc": "SEXNQ0800410"
+  },
+  {
+    "title": "Anfaz",
+    "artist": "3MA, Ballaké Sissoko, Driss El Maloumi, Rajery",
+    "isrc": "FRF981700003"
+  },
+  {
+    "title": "Guilang",
+    "artist": "Lalo Keba Drame",
+    "isrc": "FRYAS0967756"
+  },
+  {
+    "title": "Sleep Song, Part 11 (from Tubaka)",
+    "artist": "Derek Gripper",
+    "isrc": "US23A1550840"
+  },
+  {
+    "title": "Suite Lyrique: 1. Prelude",
+    "artist": "John Rutter, Catrin Finch, Sinfonia Cymru",
+    "isrc": "DEN961202171"
+  }
+]

@@ -1,0 +1,797 @@
+[
+  {
+    "title": "Tosa Kalokeria",
+    "artist": "Dakis",
+    "isrc": "GRE016800124"
+  },
+  {
+    "title": "To Filaraki",
+    "artist": "Sofia Vossou",
+    "isrc": "GRE018600070"
+  },
+  {
+    "title": "Etimazo Taxidi",
+    "artist": "Eleni Dimou",
+    "isrc": "GRE018400173"
+  },
+  {
+    "title": "Den ksero poso s'agapo",
+    "artist": "Viky Moscholiou",
+    "isrc": "FRX282014617"
+  },
+  {
+    "title": "Se Vlepo Sto Potiri Mou",
+    "artist": "Tzeni Vanou",
+    "isrc": "GRE017500072"
+  },
+  {
+    "title": "Aggele Mou Kai Fonia",
+    "artist": "Konstantina",
+    "isrc": "GRL019400219"
+  },
+  {
+    "title": "O Pio Kalos Tragoudistis",
+    "artist": "Kostas Tournas",
+    "isrc": "GRUM70604090"
+  },
+  {
+    "title": "Mia Agapi Gia To Kalokairi",
+    "artist": "Kaiti Homata",
+    "isrc": "GRL010800077"
+  },
+  {
+    "title": "Nihta Stasou",
+    "artist": "Litsa Diamanti",
+    "isrc": "GRE017200004"
+  },
+  {
+    "title": "Proti Fora",
+    "artist": "Rena Koumioti",
+    "isrc": "GRL016900005"
+  },
+  {
+    "title": "Pes Pos M' Adamoses",
+    "artist": "Stamatis Kokotas",
+    "isrc": "GRE016900005"
+  },
+  {
+    "title": "Mia Kardia Gia Senane",
+    "artist": "Filippos Nikolaou",
+    "isrc": "GRPO19800835"
+  },
+  {
+    "title": "Klepsidra",
+    "artist": "Afroditi Manou",
+    "isrc": "GRTC11300063"
+  },
+  {
+    "title": "Didima Feggaria",
+    "artist": "Aleka Kanellidou, Dimitris Mitropanos",
+    "isrc": "GRE019300254"
+  },
+  {
+    "title": "Tzamaika",
+    "artist": "Giannis Kalatzis",
+    "isrc": "GRE017000017"
+  },
+  {
+    "title": "Mathima Solfez",
+    "artist": "Bessy Argyraki, Marianna Toli, Robert Williams, Paschalis",
+    "isrc": "GRPO19700403"
+  },
+  {
+    "title": "Kalokeraki",
+    "artist": "FATME",
+    "isrc": "GRUM71801188"
+  },
+  {
+    "title": "O Kipouros",
+    "artist": "Vaggelis Germanos, Dionysis Savvopoulos, Giannis Emmanouilidis",
+    "isrc": "GRL018100033"
+  },
+  {
+    "title": "Stihimatizo",
+    "artist": "Manto",
+    "isrc": "GRE019000076"
+  },
+  {
+    "title": "Deka Magisses",
+    "artist": "Giannis Savvidakis",
+    "isrc": "GRPO19701332"
+  },
+  {
+    "title": "Perifanoi Oloi",
+    "artist": "Paschalis & Olympians",
+    "isrc": "GRPO19701348"
+  },
+  {
+    "title": "To Zeibekiko Tis Evdokias",
+    "artist": "Christos Nikolopoulos, Manos Loizos",
+    "isrc": "GRMU11400279"
+  },
+  {
+    "title": "Den Ise Erotas Esi",
+    "artist": "2002 GR",
+    "isrc": "GRFM19300234"
+  },
+  {
+    "title": "Den Thelo Pia Na Xanarthis - Remix",
+    "artist": "Meri Lida, Manolis Hiotis, Imam Baildi",
+    "isrc": "GRTC10700088"
+  },
+  {
+    "title": "Pou Vadizoume Kyrioi?",
+    "artist": "Loukianos Kilaidonis",
+    "isrc": "GRL019800030"
+  },
+  {
+    "title": "I Fani",
+    "artist": "Vasilis Kazoulis",
+    "isrc": "GRL019600075"
+  },
+  {
+    "title": "Ela Moraki Mou",
+    "artist": "Christos Kyriazis",
+    "isrc": "GRL010700370"
+  },
+  {
+    "title": "Prin Hathi To Oniro Mas",
+    "artist": "Tolis Voskopoulos, Marinella",
+    "isrc": "GRE017600001"
+  },
+  {
+    "title": "Anixi",
+    "artist": "Andreas Mikroutsikos, Sofia Vossou",
+    "isrc": "GRS019100090"
+  },
+  {
+    "title": "Mi Mou Milas Gia Kalokeria",
+    "artist": "Sofia Arvaniti",
+    "isrc": "GRB019000020"
+  },
+  {
+    "title": "Dikos Sou Gia Pada",
+    "artist": "Mihalis Rakintzis",
+    "isrc": "GRE019100350"
+  },
+  {
+    "title": "Milise Mou",
+    "artist": "Grigoris Bithikotsis",
+    "isrc": "GRE017000236"
+  },
+  {
+    "title": "Ap' To Aeroplano",
+    "artist": "Kostas Chatzis",
+    "isrc": "GRUM70602852"
+  },
+  {
+    "title": "O Telefteos Horos",
+    "artist": "Nikos Karvelas, Anna Vissi",
+    "isrc": "GRS019100026"
+  },
+  {
+    "title": "Itane Mia Fora",
+    "artist": "Nikos Xilouris",
+    "isrc": "GRE017400038"
+  },
+  {
+    "title": "Girizo Tis Plates Mou Sto Melon",
+    "artist": "Dionisis Tsaknis",
+    "isrc": "GRS018900045"
+  },
+  {
+    "title": "To Agalma",
+    "artist": "Giannis Poulopoulos",
+    "isrc": "GRL016900010"
+  },
+  {
+    "title": "Apopse Leo Na Min Kimithoume",
+    "artist": "Lathrepivates",
+    "isrc": "GRE018700254"
+  },
+  {
+    "title": "Mi Girisis",
+    "artist": "Haris & Panos Katsimihas",
+    "isrc": "QM6N21471596"
+  },
+  {
+    "title": "Den Xero Poso S' Agapo - Live",
+    "artist": "Marinella, Haris Alexiou, Dimitra Galani, Eleftheria Arvanitaki, Melina Kana, Glykeria, Eleni Tsaligopoulou, Tania Tsanaklidou, Andriana Babali, Melina Aslanidou",
+    "isrc": "GRE010600460"
+  },
+  {
+    "title": "Tha Ta Vrodixo",
+    "artist": "Pitsa Papadopoulou",
+    "isrc": "GRE018300169"
+  },
+  {
+    "title": "Sokratis",
+    "artist": "Elpida",
+    "isrc": "GRPO19700494"
+  },
+  {
+    "title": "To Koritsi Tou Filou Mou",
+    "artist": "Lakis Tzorntanelli",
+    "isrc": "GRM017700163"
+  },
+  {
+    "title": "Ekdromi",
+    "artist": "Dimitra Galani, Efstathios Drakos",
+    "isrc": "GRUM71602191"
+  },
+  {
+    "title": "Avgoustos",
+    "artist": "Nikos Papazoglou",
+    "isrc": "GRSPN8400003"
+  },
+  {
+    "title": "I Serenata",
+    "artist": "Arleta, Lakis Papadopoulos",
+    "isrc": "GRL019100030"
+  },
+  {
+    "title": "Φύσηξε Έρωτας",
+    "artist": "Ζιγκ Ζαγκ, Sakis Trikis",
+    "isrc": "GRW019500001"
+  },
+  {
+    "title": "Push Ups",
+    "artist": "Polina",
+    "isrc": "GRS019500474"
+  },
+  {
+    "title": "Epimeno",
+    "artist": "Christos Kiriazis",
+    "isrc": "GRS019200154"
+  },
+  {
+    "title": "Ela Ilie Mou",
+    "artist": "Poll",
+    "isrc": "GRUM70604223"
+  },
+  {
+    "title": "Vrehi Fotia Sti Strata Mou - From \"Oratotis Miden\"",
+    "artist": "Stratos Dionisiou",
+    "isrc": "GRE016900117"
+  },
+  {
+    "title": "Gramma Kai Grafi",
+    "artist": "Eleni Vitali",
+    "isrc": "GRLE10800187"
+  },
+  {
+    "title": "Lost In The Night",
+    "artist": "Kostas Charitodiplomenos",
+    "isrc": "GRUM71501568"
+  },
+  {
+    "title": "Kathe Fora",
+    "artist": "Yiannis Kotsiras",
+    "isrc": "GRUM71601067"
+  },
+  {
+    "title": "Beautiful",
+    "artist": "Christos Dantis",
+    "isrc": "FR59R1983155"
+  },
+  {
+    "title": "Vradino Banaki - Remix By Sanny X",
+    "artist": "Kostas Charitodiplomenos, Sanny X",
+    "isrc": "GRHV12200341"
+  },
+  {
+    "title": "Vradiazei",
+    "artist": "Stelios Kazantzidis",
+    "isrc": "GRM019200014"
+  },
+  {
+    "title": "Skoni Petres Laspi",
+    "artist": "Dimitris Poulikakos",
+    "isrc": "GRE017600019"
+  },
+  {
+    "title": "Esena Pou Se Xero Toso Ligo",
+    "artist": "Stavros Zoras",
+    "isrc": "GRUM70603608"
+  },
+  {
+    "title": "To Gramma",
+    "artist": "Sokratis Malamas",
+    "isrc": "GRL019600230"
+  },
+  {
+    "title": "To Vals Ton Hamenon Oniron",
+    "artist": "Manos Hadjidakis",
+    "isrc": "GRE010400239"
+  },
+  {
+    "title": "Hearts Of Stone",
+    "artist": "The Charms",
+    "isrc": "USA560568059"
+  },
+  {
+    "title": "Dos' Mou To Cheri Sou",
+    "artist": "Nostradamos",
+    "isrc": "GRL017200069"
+  },
+  {
+    "title": "Sou 'Dosa Tin Agapi Mou",
+    "artist": "The Idols",
+    "isrc": "GRM017600105"
+  },
+  {
+    "title": "Garyfalle, Garyfalle",
+    "artist": "Peloma Mpokiou",
+    "isrc": "GRL019700011"
+  },
+  {
+    "title": "Lekes",
+    "artist": "Anna Vissi",
+    "isrc": "GRPA12300656"
+  },
+  {
+    "title": "Synnefiasmeni Kyriaki",
+    "artist": "Manos Papadakis",
+    "isrc": "USA561308391"
+  },
+  {
+    "title": "Horos Tou Zorba (I) / Zorba's Dance",
+    "artist": "Mikis Theodorakis",
+    "isrc": "USA560439935"
+  },
+  {
+    "title": "An Eisai Ena Asteri",
+    "artist": "Nikos Vertis",
+    "isrc": "GRUM71101455"
+  },
+  {
+    "title": "Sti Mama Mou Tha To Po",
+    "artist": "Alba, Aris and The Olympics",
+    "isrc": "GRUM70700688"
+  },
+  {
+    "title": "Eisai To Tairi Mou",
+    "artist": "Pashalis",
+    "isrc": "GRLE10200146"
+  },
+  {
+    "title": "Ta Logia Kommatia",
+    "artist": "Ekinos Ki Ekinos",
+    "isrc": "GRFOT1600012"
+  },
+  {
+    "title": "Se Perimeno To Allo Kalokairi",
+    "artist": "Elena & Sover Group",
+    "isrc": "GRUM70700687"
+  },
+  {
+    "title": "To Tzini (Armando Chatsini)",
+    "artist": "Vorreioi",
+    "isrc": "GRUM70700690"
+  },
+  {
+    "title": "To Zeibekiko Tis Evdokias - Live",
+    "artist": "Orchestra Mesogios",
+    "isrc": "GRHP10700055"
+  },
+  {
+    "title": "Uh La La La",
+    "artist": "Alexia",
+    "isrc": "IT00C9700201"
+  },
+  {
+    "title": "Griva M' Se Theli O Vasilias / Poulaki Xeno",
+    "artist": "Giota Lidia, Marinella",
+    "isrc": "GRE016000550"
+  },
+  {
+    "title": "Eisai Mia Sinithia - You Are A Habit",
+    "artist": "Markela Panagiotou",
+    "isrc": "GRFM10300184"
+  },
+  {
+    "title": "Mia Sou Lexi (Campessino)",
+    "artist": "Dakis",
+    "isrc": "GRUM70600092"
+  },
+  {
+    "title": "Den Metaniono",
+    "artist": "Sofia Vossou, Manolis Lidakis",
+    "isrc": "GRS019100036"
+  },
+  {
+    "title": "Pare Pasa Mou",
+    "artist": "Eleni Dimou, Lakis Papadopoulos",
+    "isrc": "GRE018600088"
+  },
+  {
+    "title": "Asfalos Kai Den Prepei",
+    "artist": "Viky Moscholiou",
+    "isrc": "FR2X42085476"
+  },
+  {
+    "title": "Hilies Vradies",
+    "artist": "Tzeni Vanou",
+    "isrc": "GRE017300075"
+  },
+  {
+    "title": "To Simadi",
+    "artist": "Konstantina",
+    "isrc": "GRL019400220"
+  },
+  {
+    "title": "Den Metaniono",
+    "artist": "Kostas Tournas",
+    "isrc": "GRUM70604062"
+  },
+  {
+    "title": "Ta Karavakia",
+    "artist": "Kaiti Homata, Mihalis Violaris",
+    "isrc": "GRL010800267"
+  },
+  {
+    "title": "Sinnefies",
+    "artist": "Litsa Diamanti",
+    "isrc": "GRE016800016"
+  },
+  {
+    "title": "Agapiomastan",
+    "artist": "Rena Koumioti",
+    "isrc": "GRL019500625"
+  },
+  {
+    "title": "Oneiro Apatilo",
+    "artist": "Stamatis Kokotas",
+    "isrc": "GRFM10600298"
+  },
+  {
+    "title": "Sto Adio Mou Paketo",
+    "artist": "Filippos Nikolaou",
+    "isrc": "GRFM10300823"
+  },
+  {
+    "title": "Ena Kalokeri",
+    "artist": "Afroditi Manou",
+    "isrc": "GRE017100308"
+  },
+  {
+    "title": "Poso Glika Me Skotonis",
+    "artist": "Aleka Kanellidou",
+    "isrc": "GRE018100053"
+  },
+  {
+    "title": "Paporaki Tou Bournova",
+    "artist": "Giannis Kalatzis",
+    "isrc": "GRE017000220"
+  },
+  {
+    "title": "Kormi Ki Alati",
+    "artist": "Bessy Argyraki",
+    "isrc": "GRPO19700420"
+  },
+  {
+    "title": "Pes To Ki Egine",
+    "artist": "FATME, Haris Alexiou",
+    "isrc": "GRE018600252"
+  },
+  {
+    "title": "Krouaziera",
+    "artist": "Vaggelis Germanos",
+    "isrc": "GRL019600063"
+  },
+  {
+    "title": "Rouho Daniko",
+    "artist": "Manto",
+    "isrc": "GRE019200143"
+  },
+  {
+    "title": "To Koritsi Mou Koimatai",
+    "artist": "Giannis Savvidakis",
+    "isrc": "GRPO19800055"
+  },
+  {
+    "title": "An Mia Mera Se Chaso (Si Me Dejas No Vale)",
+    "artist": "Paschalis & Olympians",
+    "isrc": "GRUN10000428"
+  },
+  {
+    "title": "Me Ta Fota Nistagmena - Ntalikes",
+    "artist": "Christos Nikolopoulos, Konstantinos Argiros, Melina Aslanidou, Yanna Vasileiou, Stelios Dionisiou, Natasa Theodoridou, Manolis Lidakis, Kostas Makedonas, Giorgos Margaritis, Paola, Pitsa Papadopoulou, Giannis Ploutarhos, Antonis Remos, Stelios Rokkos, Panagiotis Tsafaras",
+    "isrc": "GRPA11900441"
+  },
+  {
+    "title": "Ipes Pos",
+    "artist": "2002 GR",
+    "isrc": "GRFM19500541"
+  },
+  {
+    "title": "Afou To Thes",
+    "artist": "Meri Lida, Panos Gavalas",
+    "isrc": "GRE015600003"
+  },
+  {
+    "title": "Ego Tha S' Agapo Kai Mi Se Noiazei",
+    "artist": "Loukianos Kilaidonis, Margarita Zorbala",
+    "isrc": "GRL018200019"
+  },
+  {
+    "title": "An Isoun Aggelos",
+    "artist": "Vasilis Kazoulis",
+    "isrc": "GRE019200176"
+  },
+  {
+    "title": "Vrady Savvatou",
+    "artist": "Christos Kyriazis",
+    "isrc": "GRL010700374"
+  },
+  {
+    "title": "To Feggari Panothe Mou",
+    "artist": "Tolis Voskopoulos",
+    "isrc": "GRE017000059"
+  },
+  {
+    "title": "Hameno Nisi",
+    "artist": "Andreas Mikroutsikos, Sofia Vossou",
+    "isrc": "GRS018600023"
+  },
+  {
+    "title": "Symptomatika",
+    "artist": "Sofia Arvaniti, Mihalis Rakintzis",
+    "isrc": "GRM010000192"
+  },
+  {
+    "title": "S.A.G.A.P.O.",
+    "artist": "Mihalis Rakintzis",
+    "isrc": "GRE010200205"
+  },
+  {
+    "title": "Ta Matoklada Sou Laboun",
+    "artist": "Grigoris Bithikotsis",
+    "isrc": "GRE016000342"
+  },
+  {
+    "title": "Synora I Agapi De Gnorizei",
+    "artist": "Kostas Chatzis",
+    "isrc": "GRUM70602699"
+  },
+  {
+    "title": "Kalokerines Diakopes Gia Panta",
+    "artist": "Nikos Karvelas",
+    "isrc": "GRS018600005"
+  },
+  {
+    "title": "I Balada Tou Kir Mediou",
+    "artist": "Nikos Xilouris",
+    "isrc": "GRE017800225"
+  },
+  {
+    "title": "Ftiaxe Kardia Mou To Diko Sou Paramithi",
+    "artist": "Dionisis Tsaknis",
+    "isrc": "GRS019600039"
+  },
+  {
+    "title": "Methys' Apopse Ato Koritsi Mou",
+    "artist": "Giannis Poulopoulos",
+    "isrc": "GRL016900003"
+  },
+  {
+    "title": "De Ftaio Ego Pou Megalono",
+    "artist": "Lathrepivates",
+    "isrc": "GRM019000002"
+  },
+  {
+    "title": "Rita Ritaki",
+    "artist": "Haris & Panos Katsimihas",
+    "isrc": "GRE018500117"
+  },
+  {
+    "title": "Ti Ekana Gia Parti Mou",
+    "artist": "Marinella",
+    "isrc": "GRE019300168"
+  },
+  {
+    "title": "Gremista Ola Pia",
+    "artist": "Pitsa Papadopoulou",
+    "isrc": "GRE018600263"
+  },
+  {
+    "title": "Opos Se Thelo S' Oneirevomai",
+    "artist": "Elpida",
+    "isrc": "GRCB12100327"
+  },
+  {
+    "title": "Tzenkis Chan",
+    "artist": "Lakis Tzorntanelli, Martha Irakleous",
+    "isrc": "GRM017900140"
+  },
+  {
+    "title": "Mi Ton Rotas Ton Ourano (All Alone Am I)",
+    "artist": "Dimitra Galani, Manos Hadjidakis, Alkinoos Ioannidis",
+    "isrc": "GRPO19801229"
+  },
+  {
+    "title": "Kaneis Edo Den Tragouda",
+    "artist": "Nikos Papazoglou",
+    "isrc": "GRL017800009"
+  },
+  {
+    "title": "Ta Isiha Vradia - To Tragoudi Tis Erimou",
+    "artist": "Arleta",
+    "isrc": "GRLE10902326"
+  },
+  {
+    "title": "Απολύομαι",
+    "artist": "Ζιγκ Ζαγκ",
+    "isrc": "GRW018900007"
+  },
+  {
+    "title": "To Roz Bikini (Itsy, Bitsy, Teenie, Weenie)",
+    "artist": "Polina",
+    "isrc": "GRS010000314"
+  },
+  {
+    "title": "Sto Imerovigli (Santorini)",
+    "artist": "Christos Kiriazis",
+    "isrc": "GRB019700270"
+  },
+  {
+    "title": "O Geros",
+    "artist": "Poll",
+    "isrc": "GRUM70604228"
+  },
+  {
+    "title": "Me Skotose Giati Tin Agapousa",
+    "artist": "Stratos Dionisiou",
+    "isrc": "GRE018500011"
+  },
+  {
+    "title": "Min Perimenis Pia / Zaira / Ehis Kormi Arapiko / Horepse To Tsifteteli / Siko Horepse Koukli Mou / Mine Agapi Mou Koda Mou",
+    "artist": "Eleni Vitali, Manolis Mitsias",
+    "isrc": "GRE018400617"
+  },
+  {
+    "title": "Vradino Banaki",
+    "artist": "Kostas Charitodiplomenos",
+    "isrc": "GRB019100094"
+  },
+  {
+    "title": "To Tsigaro",
+    "artist": "Yiannis Kotsiras",
+    "isrc": "GRB019700006"
+  },
+  {
+    "title": "Mila Mou",
+    "artist": "Dakis, Christiana",
+    "isrc": "GRUM70800779"
+  },
+  {
+    "title": "An Einai Na Kolasto",
+    "artist": "Sofia Vossou",
+    "isrc": "GRS019000091"
+  },
+  {
+    "title": "Den Me Niazi",
+    "artist": "Eleni Dimou",
+    "isrc": "GRS019100124"
+  },
+  {
+    "title": "Ta deilina",
+    "artist": "Viky Moscholiou",
+    "isrc": "FRX282014612"
+  },
+  {
+    "title": "An Ine I Agapi Amartia",
+    "artist": "Tzeni Vanou",
+    "isrc": "GRE017400076"
+  },
+  {
+    "title": "Ki Afto To Vrady",
+    "artist": "Konstantina",
+    "isrc": "GRL018800136"
+  },
+  {
+    "title": "Sti Ntiskotek",
+    "artist": "Kostas Tournas",
+    "isrc": "GRUM70604103"
+  },
+  {
+    "title": "Na Dioxo Ta Synnefa",
+    "artist": "Kaiti Homata",
+    "isrc": "GRFM19400370"
+  },
+  {
+    "title": "Ase Me Na S' Agapao",
+    "artist": "Litsa Diamanti",
+    "isrc": "GRE017700017"
+  },
+  {
+    "title": "To Kainourio Mou Feggari",
+    "artist": "Rena Koumioti",
+    "isrc": "GRL019500629"
+  },
+  {
+    "title": "Den To Boris",
+    "artist": "Stamatis Kokotas",
+    "isrc": "GRE017200211"
+  },
+  {
+    "title": "Pare Pare Pare Me",
+    "artist": "Filippos Nikolaou",
+    "isrc": "GRFM10300831"
+  },
+  {
+    "title": "Amore Mio",
+    "artist": "Afroditi Manou, Loukianos Kilaidonis",
+    "isrc": "GRE019000134"
+  },
+  {
+    "title": "Ase Me Na Figo",
+    "artist": "Aleka Kanellidou",
+    "isrc": "GRE017400003"
+  },
+  {
+    "title": "Delfini Delfinaki",
+    "artist": "Giannis Kalatzis, Litsa Diamanti",
+    "isrc": "GRE016800363"
+  },
+  {
+    "title": "Mia Thalassa Galazia",
+    "artist": "Bessy Argyraki",
+    "isrc": "GRPO19700421"
+  },
+  {
+    "title": "Pano Ap' Ta Sinnefa",
+    "artist": "FATME",
+    "isrc": "GRE018800590"
+  },
+  {
+    "title": "To Gramma",
+    "artist": "Vaggelis Germanos",
+    "isrc": "GRL018100025"
+  },
+  {
+    "title": "Afto To Kalokeri",
+    "artist": "Manto",
+    "isrc": "GRE018900088"
+  },
+  {
+    "title": "Echeis Ton Tropo",
+    "artist": "Giannis Savvidakis",
+    "isrc": "GRPO19900737"
+  },
+  {
+    "title": "Allaxes - En Aranjuez Con Tu Amor",
+    "artist": "Paschalis & Olympians",
+    "isrc": "GRUN10000416"
+  },
+  {
+    "title": "An Pethani Mia Agapi - Live",
+    "artist": "Christos Nikolopoulos, Konstantinos Argiros, Melina Aslanidou, Yanna Vasileiou, Stelios Dionisiou, Natasa Theodoridou, Manolis Lidakis, Kostas Makedonas, Giorgos Margaritis, Paola, Pitsa Papadopoulou, Giannis Ploutarhos, Antonis Remos, Stelios Rokkos, Panagiotis Tsafaras",
+    "isrc": "GRPA11900472"
+  },
+  {
+    "title": "Eipes Pos",
+    "artist": "2002 GR",
+    "isrc": "GRM018200046"
+  },
+  {
+    "title": "Perasmenes Mou Agapes",
+    "artist": "Meri Lida, Manolis Hiotis",
+    "isrc": "GRE015800008"
+  },
+  {
+    "title": "Eimai Enas Ftohos Kai Monos Cowboy",
+    "artist": "Loukianos Kilaidonis, Vicky Mosholiou",
+    "isrc": "GRL019800024"
+  },
+  {
+    "title": "Aeroplana",
+    "artist": "Vasilis Kazoulis",
+    "isrc": "GRE019200181"
+  },
+  {
+    "title": "Moro Mou (Pireas)",
+    "artist": "Christos Kyriazis",
+    "isrc": "GRFM19900429"
+  }
+]

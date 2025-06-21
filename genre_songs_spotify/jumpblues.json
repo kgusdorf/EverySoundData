@@ -1,0 +1,732 @@
+[
+  {
+    "title": "Big Fat Mama",
+    "artist": "Roy Milton",
+    "isrc": "USSPI4700017"
+  },
+  {
+    "title": "Pink Champagne",
+    "artist": "Joe Liggins",
+    "isrc": "DEXO22210047"
+  },
+  {
+    "title": "Grandma Plays The Numbers",
+    "artist": "Wynonie Harris",
+    "isrc": "USACU0500186"
+  },
+  {
+    "title": "The Train Kept-a-Rollin'",
+    "artist": "Tiny Bradshaw",
+    "isrc": "USBT21610931"
+  },
+  {
+    "title": "Nosey Joe",
+    "artist": "Bull Moose Jackson",
+    "isrc": "USACU0515594"
+  },
+  {
+    "title": "Don't Be Angry",
+    "artist": "Nappy Brown",
+    "isrc": "JPCO04901800"
+  },
+  {
+    "title": "The Walk",
+    "artist": "Jimmy McCracklin",
+    "isrc": "USEM39600925"
+  },
+  {
+    "title": "Hey, Bartender",
+    "artist": "Floyd Dixon",
+    "isrc": "USARL9684101"
+  },
+  {
+    "title": "Once Scotch, One Bourbon, One Beer",
+    "artist": "Amos Milburn",
+    "isrc": "GBSUW0726253"
+  },
+  {
+    "title": "Shufflin & Rollin'",
+    "artist": "Buddy Johnson",
+    "isrc": "DEXN82256596"
+  },
+  {
+    "title": "I Ain't Drunk - Remastered",
+    "artist": "Jimmy Liggins",
+    "isrc": "DEXO42006460"
+  },
+  {
+    "title": "Say Hey (The Willie Mays Song) - Remastered",
+    "artist": "The Treniers",
+    "isrc": "DE1A42141909"
+  },
+  {
+    "title": "Shake, Rattle & Roll",
+    "artist": "Big Joe Turner",
+    "isrc": "GBBLY0602826"
+  },
+  {
+    "title": "Wee Baby Blues",
+    "artist": "Eddie \"Cleanhead\" Vinson",
+    "isrc": "FR6V86900147"
+  },
+  {
+    "title": "Shout Sister Shout",
+    "artist": "Lucky Millinder",
+    "isrc": "DEZZ42171079"
+  },
+  {
+    "title": "Please Mr. Jailer",
+    "artist": "Wynona Carr",
+    "isrc": "USSPI5600318"
+  },
+  {
+    "title": "The Bluest Blues (10-31-51)",
+    "artist": "Annisteen Allen",
+    "isrc": "FRV050807331"
+  },
+  {
+    "title": "Blues Early, Early, Pts. 1 & 2",
+    "artist": "Big Maybelle",
+    "isrc": "USSJ10001166"
+  },
+  {
+    "title": "Tweedle Dee",
+    "artist": "LaVern Baker",
+    "isrc": "USAT20000701"
+  },
+  {
+    "title": "Mary Lou",
+    "artist": "Young Jessie",
+    "isrc": "DEXO22210098"
+  },
+  {
+    "title": "I Hear You Knocking",
+    "artist": "Smiley Lewis",
+    "isrc": "DEZZ42171876"
+  },
+  {
+    "title": "Willie and the Hand Jive",
+    "artist": "Johnny Otis",
+    "isrc": "DEXN92230146"
+  },
+  {
+    "title": "I Don't Know",
+    "artist": "Ruth Brown",
+    "isrc": "USAT29901950"
+  },
+  {
+    "title": "Inflation Blues",
+    "artist": "Jack McVea",
+    "isrc": "GBAJD1259067"
+  },
+  {
+    "title": "Reconsider Baby",
+    "artist": "Lowell Fulson",
+    "isrc": "USMC15445367"
+  },
+  {
+    "title": "One Scotch, One Bourbon, One Beer",
+    "artist": "Jimmy Witherspoon",
+    "isrc": "USFI86300391"
+  },
+  {
+    "title": "I Got Loaded",
+    "artist": "Peppermint Harris",
+    "isrc": "USX7N0829701"
+  },
+  {
+    "title": "Mr. Five By Five",
+    "artist": "Ella Mae Morse",
+    "isrc": "GBLGL1045907"
+  },
+  {
+    "title": "You Ain't Got It No More",
+    "artist": "Julia Lee",
+    "isrc": "DEXN92267476"
+  },
+  {
+    "title": "Butcher Pete, Pt. 1",
+    "artist": "Roy Brown",
+    "isrc": "DEZZ42171765"
+  },
+  {
+    "title": "All Night Long",
+    "artist": "Joe Houston",
+    "isrc": "GBBHN0000389"
+  },
+  {
+    "title": "Slidin' And Glidin'",
+    "artist": "Cootie Williams",
+    "isrc": "DEXN92265724"
+  },
+  {
+    "title": "It Hurts To Be In Love",
+    "artist": "Annie Laurie",
+    "isrc": "USACU0500296"
+  },
+  {
+    "title": "One Scotch, One Bourbon, One Beer",
+    "artist": "Little Willie Littlefield, The Jivin' Jewels",
+    "isrc": "DEE840894000"
+  },
+  {
+    "title": "That's What You Gotta Do",
+    "artist": "Ella Johnson",
+    "isrc": "FRS181458088"
+  },
+  {
+    "title": "Rock H-Bomb Rock",
+    "artist": "H-Bomb Ferguson",
+    "isrc": "USGZ20600256"
+  },
+  {
+    "title": "Harlem Nocturne",
+    "artist": "Earl Bostic",
+    "isrc": "USACU0502444"
+  },
+  {
+    "title": "Rock Bottom",
+    "artist": "Gene Phillips",
+    "isrc": "GBQRF0832611"
+  },
+  {
+    "title": "There Is Something on Your Mind",
+    "artist": "Big Jay McNeely",
+    "isrc": "DEZZ52172717"
+  },
+  {
+    "title": "'Tain't Nobody's Biz'ness If I Do",
+    "artist": "Jay McShann",
+    "isrc": "USAT20202106"
+  },
+  {
+    "title": "Salute To Basie",
+    "artist": "Sammy Price",
+    "isrc": "FR6V80210104"
+  },
+  {
+    "title": "Charleston Twist",
+    "artist": "Red Prysock",
+    "isrc": "USGR19905385"
+  },
+  {
+    "title": "Crawfishin'",
+    "artist": "Clarence Garlow",
+    "isrc": "GBBHN0000282"
+  },
+  {
+    "title": "Much Later",
+    "artist": "Jackie Brenston",
+    "isrc": "GBBLY0703070"
+  },
+  {
+    "title": "Hungry Man",
+    "artist": "Titus Turner",
+    "isrc": "GBURZ1501912"
+  },
+  {
+    "title": "You Can't Run Around",
+    "artist": "Jimmy Rushing",
+    "isrc": "USGR16700003"
+  },
+  {
+    "title": "Safronia Bee (Original Mix)",
+    "artist": "Calvin Boze",
+    "isrc": "DEKB71908728"
+  },
+  {
+    "title": "Blues Wail",
+    "artist": "Tiny Grimes, Coleman Hawkins",
+    "isrc": "USFI85800548"
+  },
+  {
+    "title": "I Can't Quit You Baby",
+    "artist": "Willie Dixon",
+    "isrc": "USSM17000327"
+  },
+  {
+    "title": "Ojai",
+    "artist": "Joe Lutcher",
+    "isrc": "GBBHN0000076"
+  },
+  {
+    "title": "House Party",
+    "artist": "Junior Watson",
+    "isrc": "US3L30400348"
+  },
+  {
+    "title": "Five Card Hand",
+    "artist": "Mercy Dee Walton",
+    "isrc": "USAP39136902"
+  },
+  {
+    "title": "Blue because of you",
+    "artist": "The Big Three Trio",
+    "isrc": "FR0O70820754"
+  },
+  {
+    "title": "Hey Boy Hey Girl",
+    "artist": "Oscar McLollie, Jeanette Baker",
+    "isrc": "DEBL60646297"
+  },
+  {
+    "title": "I Wan'na Be Like You (The Monkey Song) - From \"The Jungle Book\" / Soundtrack Version",
+    "artist": "Louis Prima, Phil Harris, Bruce Reitherman",
+    "isrc": "USWD10321764"
+  },
+  {
+    "title": "Fat Meat (10-12-47)",
+    "artist": "Big Jim Wynn",
+    "isrc": "FRV050806743"
+  },
+  {
+    "title": "Six To Eight",
+    "artist": "Stick McGhee",
+    "isrc": "USA560621184"
+  },
+  {
+    "title": "Hey Little Girl",
+    "artist": "Billy Wright",
+    "isrc": "QMFMF1526851"
+  },
+  {
+    "title": "Dragnet",
+    "artist": "Stomp Gordon",
+    "isrc": "QM4TW1633644"
+  },
+  {
+    "title": "The Thrill Is Gone",
+    "artist": "Roy Hawkins",
+    "isrc": "GBBHN0000328"
+  },
+  {
+    "title": "Fannie Mae",
+    "artist": "Buster Brown",
+    "isrc": "QM6N21798893"
+  },
+  {
+    "title": "Slow Draggin'",
+    "artist": "Noble \"Thin Man\" Watts",
+    "isrc": "USARL9078502"
+  },
+  {
+    "title": "Move Your Hand, Baby",
+    "artist": "Crown Prince Waterford",
+    "isrc": "USUM71600970"
+  },
+  {
+    "title": "Don't Slam The Door",
+    "artist": "Duke Henderson",
+    "isrc": "US4B90466803"
+  },
+  {
+    "title": "On the Sunny Side of the Street",
+    "artist": "Little Willie Jackson",
+    "isrc": "GBBHN0000041"
+  },
+  {
+    "title": "C.C. Rider",
+    "artist": "Mitch Woods, Van Morrison, Taj Mahal",
+    "isrc": "QM6N22384068"
+  },
+  {
+    "title": "When I'M In My Tea (06-11-46)",
+    "artist": "Jo-Jo Adams",
+    "isrc": "FRV050807040"
+  },
+  {
+    "title": "Doctor Blues",
+    "artist": "Alberta Adams",
+    "isrc": "US78T0745168"
+  },
+  {
+    "title": "Blues Come Home",
+    "artist": "Clayton Love",
+    "isrc": "US2Y30624776"
+  },
+  {
+    "title": "Jump & Shout",
+    "artist": "Erline Harris",
+    "isrc": "US4B90071505"
+  },
+  {
+    "title": "Me and My Gin",
+    "artist": "Jimmie Gordon",
+    "isrc": "FRS181454902"
+  },
+  {
+    "title": "Free And Easy Mind",
+    "artist": "Jimmy Nelson",
+    "isrc": "USUM72015979"
+  },
+  {
+    "title": "Best Wishes",
+    "artist": "Roy Milton",
+    "isrc": "QM6N22119859"
+  },
+  {
+    "title": "Going Back To New Orleans",
+    "artist": "Joe Liggins, Honeydrippers",
+    "isrc": "USSPI5200092"
+  },
+  {
+    "title": "Breaking Up The House",
+    "artist": "Tiny Bradshaw",
+    "isrc": "GBLGL0940557"
+  },
+  {
+    "title": "Big Ten Inch Record",
+    "artist": "Bull Moose Jackson",
+    "isrc": "USACU0511538"
+  },
+  {
+    "title": "Little By Little",
+    "artist": "Nappy Brown",
+    "isrc": "JPCO04901890"
+  },
+  {
+    "title": "Blood Shot Eyes",
+    "artist": "Wynonie Harris",
+    "isrc": "FR0O70830556"
+  },
+  {
+    "title": "Let's Do It (The Chicken Scratch)",
+    "artist": "Jimmy McCracklin",
+    "isrc": "DEXO22209486"
+  },
+  {
+    "title": "450 Pound Woman",
+    "artist": "Floyd Dixon",
+    "isrc": "USARL9684107"
+  },
+  {
+    "title": "Milk and Water",
+    "artist": "Amos Milburn",
+    "isrc": "FR10S1506997"
+  },
+  {
+    "title": "Walk 'Em",
+    "artist": "Buddy Johnson",
+    "isrc": "DEXN82256595"
+  },
+  {
+    "title": "Boogie Woogie King",
+    "artist": "Jimmy Liggins",
+    "isrc": "USCA20703494"
+  },
+  {
+    "title": "It Rocks! It Rolls! It Swings! - 78rpm Version",
+    "artist": "The Treniers",
+    "isrc": "USSM15100399"
+  },
+  {
+    "title": "Kidney Stew",
+    "artist": "Eddie \"Cleanhead\" Vinson",
+    "isrc": "FR6V86900142"
+  },
+  {
+    "title": "Flip, Flop And Fly",
+    "artist": "Big Joe Turner",
+    "isrc": "GBBLY0602831"
+  },
+  {
+    "title": "Apollo Jump",
+    "artist": "Lucky Millinder",
+    "isrc": "DEZZ42171076"
+  },
+  {
+    "title": "'Til The Well Runs Dry",
+    "artist": "Wynona Carr",
+    "isrc": "USSPI5600314"
+  },
+  {
+    "title": "Fujiyama Mama",
+    "artist": "Annisteen Allen",
+    "isrc": "QMFMG1559240"
+  },
+  {
+    "title": "Whole Lotta Shakin' Goin' On",
+    "artist": "Big Maybelle",
+    "isrc": "GBBLY0701540"
+  },
+  {
+    "title": "Mary Lou (Alternate Take)",
+    "artist": "Young Jessie",
+    "isrc": "DEXO22210126"
+  },
+  {
+    "title": "One Night",
+    "artist": "Smiley Lewis",
+    "isrc": "DEZZ42171877"
+  },
+  {
+    "title": "See See Rider",
+    "artist": "LaVern Baker",
+    "isrc": "USAT20001007"
+  },
+  {
+    "title": "Cupid's Boogie",
+    "artist": "Johnny Otis",
+    "isrc": "USSJ10701321"
+  },
+  {
+    "title": "Open The Door Richard - Remastered",
+    "artist": "Jack McVea",
+    "isrc": "DEXO72028273"
+  },
+  {
+    "title": "5-10-15 Hours",
+    "artist": "Ruth Brown",
+    "isrc": "USAT20000148"
+  },
+  {
+    "title": "Ain't Nobody's Business - Live",
+    "artist": "Jimmy Witherspoon, Peter Gaudion's Blues Express",
+    "isrc": "USAFM0600050"
+  },
+  {
+    "title": "Low Society",
+    "artist": "Lowell Fulson",
+    "isrc": "USUM72109216"
+  },
+  {
+    "title": "Wait Until It Happens to You",
+    "artist": "Peppermint Harris",
+    "isrc": "QM6MZ1718465"
+  },
+  {
+    "title": "Pig Foot Pete",
+    "artist": "Ella Mae Morse",
+    "isrc": "GBGQH0906778"
+  },
+  {
+    "title": "Come on over to My House",
+    "artist": "Julia Lee",
+    "isrc": "DEXN92267444"
+  },
+  {
+    "title": "Shuckin' 'N' a Jivin'",
+    "artist": "Joe Houston",
+    "isrc": "GBBHN0300511"
+  },
+  {
+    "title": "Juice Head Baby",
+    "artist": "Cootie Williams",
+    "isrc": "DEXN92265725"
+  },
+  {
+    "title": "Good Rockin Tonight",
+    "artist": "Roy Brown",
+    "isrc": "DEZZ42171813"
+  },
+  {
+    "title": "Nobody's Gonna Hurt You",
+    "artist": "Annie Laurie",
+    "isrc": "USA371157389"
+  },
+  {
+    "title": "K.C. Loving",
+    "artist": "Little Willie Littlefield",
+    "isrc": "USACU0501071"
+  },
+  {
+    "title": "They Don't Want Me to Rock No More",
+    "artist": "Ella Johnson, Buddy Johnson",
+    "isrc": "QMDA62289711"
+  },
+  {
+    "title": "Good Lovin'",
+    "artist": "H-Bomb Ferguson",
+    "isrc": "USSJ10301072"
+  },
+  {
+    "title": "Flamingo",
+    "artist": "Earl Bostic",
+    "isrc": "USACU0500168"
+  },
+  {
+    "title": "Big Legs",
+    "artist": "Gene Phillips",
+    "isrc": "GBBHN0000001"
+  },
+  {
+    "title": "Blues and Sentimental",
+    "artist": "Jay McShann",
+    "isrc": "AUOM01902328"
+  },
+  {
+    "title": "Claudia In The Crowd",
+    "artist": "Sammy Price",
+    "isrc": "FR6V89904983"
+  },
+  {
+    "title": "There Is Something on Your Mind (Alternate Take)",
+    "artist": "Big Jay McNeely",
+    "isrc": "DEZZ52172734"
+  },
+  {
+    "title": "Purple Wail",
+    "artist": "Red Prysock",
+    "isrc": "USGR19905379"
+  },
+  {
+    "title": "New Bon Ton Roulay",
+    "artist": "Clarence Garlow",
+    "isrc": "GBCTF1001131"
+  },
+  {
+    "title": "Rocket \"88\"",
+    "artist": "Jackie Brenston",
+    "isrc": "GBBLY0703047"
+  },
+  {
+    "title": "Bla Bla Bla Cha Cha Cha",
+    "artist": "Titus Turner",
+    "isrc": "USJRC0303818"
+  },
+  {
+    "title": "Blues in the Dark",
+    "artist": "Jimmy Rushing",
+    "isrc": "FR8X00601077"
+  },
+  {
+    "title": "Baby You're Tops with Me (Original Mix)",
+    "artist": "Calvin Boze",
+    "isrc": "DEKB71908712"
+  },
+  {
+    "title": "Tiny's Boogie Woogie",
+    "artist": "Tiny Grimes",
+    "isrc": "FR6V87400203"
+  },
+  {
+    "title": "Little Red Rooster",
+    "artist": "Willie Dixon",
+    "isrc": "USSM17000333"
+  },
+  {
+    "title": "R.M. Blues",
+    "artist": "Roy Milton",
+    "isrc": "GB8XC1432998"
+  },
+  {
+    "title": "Whiskey, Women & Loaded Dice",
+    "artist": "Joe Liggins, Honeydrippers",
+    "isrc": "USSPI5400247"
+  },
+  {
+    "title": "The Train Kept A-Rollin'",
+    "artist": "Tiny Bradshaw",
+    "isrc": "GBLGL0940559"
+  },
+  {
+    "title": "Big Fat Mamas Are Back In Style Again",
+    "artist": "Bull Moose Jackson",
+    "isrc": "USACU0511541"
+  },
+  {
+    "title": "Coal Miner",
+    "artist": "Nappy Brown",
+    "isrc": "USSJ10000675"
+  },
+  {
+    "title": "Lovin' Machine",
+    "artist": "Wynonie Harris",
+    "isrc": "FR0O70830572"
+  },
+  {
+    "title": "She Felt Too Good",
+    "artist": "Jimmy McCracklin",
+    "isrc": "DEXO22209485"
+  },
+  {
+    "title": "Skeet's California Sunshine",
+    "artist": "Floyd Dixon",
+    "isrc": "USARL9684115"
+  },
+  {
+    "title": "Thinking And Drinking",
+    "artist": "Amos Milburn",
+    "isrc": "GBBLY0703606"
+  },
+  {
+    "title": "You Gotta Walk That Chalk Line",
+    "artist": "Buddy Johnson",
+    "isrc": "DEXN82256599"
+  },
+  {
+    "title": "No More Alcohol - Remastered",
+    "artist": "Jimmy Liggins",
+    "isrc": "DEXO42006461"
+  },
+  {
+    "title": "Go! Go! Go! - 78rpm Version",
+    "artist": "The Treniers",
+    "isrc": "USSM15100326"
+  },
+  {
+    "title": "Juice Head Baby",
+    "artist": "Eddie \"Cleanhead\" Vinson",
+    "isrc": "FR6V86900148"
+  },
+  {
+    "title": "Roll 'Em Pete",
+    "artist": "Big Joe Turner",
+    "isrc": "USEM34700002"
+  },
+  {
+    "title": "Shorty's Got to Go",
+    "artist": "Lucky Millinder",
+    "isrc": "DEZZ42171075"
+  },
+  {
+    "title": "Ding Dong Daddy",
+    "artist": "Wynona Carr",
+    "isrc": "USSPI8500083"
+  },
+  {
+    "title": "Take a Chance On Me",
+    "artist": "Annisteen Allen",
+    "isrc": "GBCTF1000329"
+  },
+  {
+    "title": "That's A Pretty Good Love",
+    "artist": "Big Maybelle",
+    "isrc": "JPCO05401830"
+  },
+  {
+    "title": "Don't Happen No More",
+    "artist": "Young Jessie",
+    "isrc": "DEXO22210099"
+  },
+  {
+    "title": "Blue Monday",
+    "artist": "Smiley Lewis",
+    "isrc": "GBBLY0702748"
+  },
+  {
+    "title": "Jim Dandy",
+    "artist": "LaVern Baker",
+    "isrc": "USAT20181076"
+  },
+  {
+    "title": "Telephone Baby",
+    "artist": "Johnny Otis",
+    "isrc": "DEXN92230147"
+  },
+  {
+    "title": "Wine-O",
+    "artist": "Jack McVea",
+    "isrc": "GBAJD1259026"
+  },
+  {
+    "title": "Sweet Baby of Mine",
+    "artist": "Ruth Brown",
+    "isrc": "USAT20106602"
+  },
+  {
+    "title": "Evenin'",
+    "artist": "Jimmy Witherspoon",
+    "isrc": "USFI86400067"
+  }
+]

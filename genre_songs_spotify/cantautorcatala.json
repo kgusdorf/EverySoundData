@@ -1,0 +1,707 @@
+[
+  {
+    "title": "Jordi",
+    "artist": "Roger Mas, Núria Graham",
+    "isrc": "ES6101823001"
+  },
+  {
+    "title": "Firenze",
+    "artist": "Pau Alabajos",
+    "isrc": "ES5061505907"
+  },
+  {
+    "title": "La Petita Rambla del Poble Sec",
+    "artist": "Cesk Freixas",
+    "isrc": "FR2X41742498"
+  },
+  {
+    "title": "Ull Per Ull",
+    "artist": "Adrià Puntí",
+    "isrc": "ES5060621705"
+  },
+  {
+    "title": "Història d'un sofà",
+    "artist": "Feliu Ventura",
+    "isrc": "ES8021100026"
+  },
+  {
+    "title": "Homenatge a Teresa",
+    "artist": "Ovidi Montllor",
+    "isrc": "ES5060705502"
+  },
+  {
+    "title": "Tinc Una Bèstia Dintre Meu",
+    "artist": "Quimi Portet",
+    "isrc": "ES5951203895"
+  },
+  {
+    "title": "Que tinguem sort",
+    "artist": "Lluis Llach",
+    "isrc": "ES5079100044"
+  },
+  {
+    "title": "Amb tot",
+    "artist": "El Petit De Cal Eril",
+    "isrc": "ES40B1300002"
+  },
+  {
+    "title": "Èpoques glorioses",
+    "artist": "Pau Vallvé",
+    "isrc": "ES52G2000804"
+  },
+  {
+    "title": "Honey",
+    "artist": "Joan Miquel Oliver",
+    "isrc": "ES5301867859"
+  },
+  {
+    "title": "Ales al vent",
+    "artist": "Gemma Humet",
+    "isrc": "ES6102021202"
+  },
+  {
+    "title": "Ànima de Corall",
+    "artist": "Guillem Ramisa, Oques Grasses",
+    "isrc": "ESA011626764"
+  },
+  {
+    "title": "Una d’amor",
+    "artist": "Mireia Vives & Borja Penalba",
+    "isrc": "GB5EA1702637"
+  },
+  {
+    "title": "Dona'm quelcom",
+    "artist": "Joan Colomo",
+    "isrc": "ES94E2410702"
+  },
+  {
+    "title": "Luna",
+    "artist": "Judit Neddermann",
+    "isrc": "ES5702000361"
+  },
+  {
+    "title": "Avui",
+    "artist": "Ferran Palau",
+    "isrc": "ES97D2311603"
+  },
+  {
+    "title": "Estimar-te com la terra",
+    "artist": "Ginestà",
+    "isrc": "ES7311900076"
+  },
+  {
+    "title": "El Carrer Dels Jocs Florals",
+    "artist": "Joan Masdéu",
+    "isrc": "ES5951103626"
+  },
+  {
+    "title": "Que Volen Aquesta Gent?",
+    "artist": "Maria del Mar Bonet",
+    "isrc": "ES5027700170"
+  },
+  {
+    "title": "Un Pla Perfecte - Turisme per la Memòria",
+    "artist": "Marc Parrot, Joan Dausà",
+    "isrc": "ES17D2402373"
+  },
+  {
+    "title": "Cap Nen Sense Joguina",
+    "artist": "Miquel Abras, Vuit, Aran, El Pot Petit, Sergi Sanchez, Judit Neddermann, Jordi Ninus, Joan Rovira, Paula Valls, Frank Montasell, Lydia Torrejón, Roger Argemí, La Pegatina, Els Catarres, Blaumut, Manu Guix, Doctor Prats, Elefantes, Suu, Alfred García",
+    "isrc": "ES17D1800597"
+  },
+  {
+    "title": "Jo Mai Mai",
+    "artist": "Joan Dausà",
+    "isrc": "ES6101129404"
+  },
+  {
+    "title": "Ni el mar",
+    "artist": "Clara Peya",
+    "isrc": "QMFME2010575"
+  },
+  {
+    "title": "L'amor és Déu en barca",
+    "artist": "Miquel Gil",
+    "isrc": "ES5210101317"
+  },
+  {
+    "title": "Jo Vinc D'un Silenci",
+    "artist": "Raimon",
+    "isrc": "ES5061706308"
+  },
+  {
+    "title": "Canço de la Plaça del Diamant",
+    "artist": "Ramon Muntaner",
+    "isrc": "ES7581200284"
+  },
+  {
+    "title": "Caic",
+    "artist": "Gerard Quintana",
+    "isrc": "ES5950401586"
+  },
+  {
+    "title": "Música, ràbia i amor",
+    "artist": "Xavi Sarrià, ZETAK, Sandra Monfort",
+    "isrc": "ES8022400048"
+  },
+  {
+    "title": "Joc de mans",
+    "artist": "Marcel i Júlia, Alguer Miquel",
+    "isrc": "ES84D2300051"
+  },
+  {
+    "title": "Loop",
+    "artist": "Anaïs Vila",
+    "isrc": "ES90S2302363"
+  },
+  {
+    "title": "El Món en un Cafè",
+    "artist": "Quart Primera",
+    "isrc": "ES6101027707"
+  },
+  {
+    "title": "Els Àngels Ploren Així",
+    "artist": "Estúpida Erikah",
+    "isrc": "ES8511001514"
+  },
+  {
+    "title": "Those Little Things (BSO Estrella Damm 2016)",
+    "artist": "Ramon Mirabet",
+    "isrc": "ES5151601302"
+  },
+  {
+    "title": "Fa bon temps",
+    "artist": "Joan Garriga i el Mariatxi galàctic",
+    "isrc": "ES55G2000007"
+  },
+  {
+    "title": "Ya Nunca Lo Sabrás",
+    "artist": "Guillem Roma, Daniel, Me Estás Matando",
+    "isrc": "ES17D2101386"
+  },
+  {
+    "title": "Dolce Vita",
+    "artist": "Joan Rovira",
+    "isrc": "ES6102123701"
+  },
+  {
+    "title": "No he desitjat mai cap cos com el teu",
+    "artist": "Andreu Valor",
+    "isrc": "ESA092402042"
+  },
+  {
+    "title": "Gratitud",
+    "artist": "Damià Olivella",
+    "isrc": "ES7580910043"
+  },
+  {
+    "title": "Silencis",
+    "artist": "Josep Thió",
+    "isrc": "ES5950601850"
+  },
+  {
+    "title": "Venus",
+    "artist": "Ju",
+    "isrc": "ES5052400174"
+  },
+  {
+    "title": "Ales en Sang",
+    "artist": "Èric Vinaixa",
+    "isrc": "ES5061003906"
+  },
+  {
+    "title": "La Sorra del Desert",
+    "artist": "L'Últim Indi",
+    "isrc": "FRX201856244"
+  },
+  {
+    "title": "Res És Just en L'Amor i el Llit",
+    "artist": "Eduard Gener",
+    "isrc": "ES80A1708601"
+  },
+  {
+    "title": "Hue of blue",
+    "artist": "Paul Fuster",
+    "isrc": "QMDA62376991"
+  },
+  {
+    "title": "Tempesta d'estiu - Slow dance",
+    "artist": "Guillamino, Massaviu",
+    "isrc": "QZK6F2482353"
+  },
+  {
+    "title": "Gràcies",
+    "artist": "Canimas",
+    "isrc": "ES5951605405"
+  },
+  {
+    "title": "Com avui",
+    "artist": "Donallop",
+    "isrc": "ES6101825304"
+  },
+  {
+    "title": "Dime",
+    "artist": "Beth",
+    "isrc": "ES6010300096"
+  },
+  {
+    "title": "Fil de Llum",
+    "artist": "Andreu Rifé",
+    "isrc": "ES5301251812"
+  },
+  {
+    "title": "Ara Vindrà",
+    "artist": "Túrnez & Sesé",
+    "isrc": "ES5060209705"
+  },
+  {
+    "title": "Coses bones",
+    "artist": "Pau Brugada, Levico",
+    "isrc": "ES56S2200402"
+  },
+  {
+    "title": "M'he Fet una Esquerda a la Clofolla",
+    "artist": "Namina",
+    "isrc": "ES56S1900192"
+  },
+  {
+    "title": "Sparring Partner",
+    "artist": "Albert Fibla",
+    "isrc": "ES5061310203"
+  },
+  {
+    "title": "Ni so que le pare ni arre que trote",
+    "artist": "Sandra Bautista",
+    "isrc": "QMFME2335058"
+  },
+  {
+    "title": "La Farola, la Farola",
+    "artist": "MIQUEL DEL ROIG",
+    "isrc": "ES5061012010"
+  },
+  {
+    "title": "Ets Alella",
+    "artist": "Narcís Perich",
+    "isrc": "ESA011892101"
+  },
+  {
+    "title": "Hace un Tiempo Ya",
+    "artist": "Pau Lobo",
+    "isrc": "ES11D1800132"
+  },
+  {
+    "title": "Carta",
+    "artist": "Enric Hernàez",
+    "isrc": "ES8571401508"
+  },
+  {
+    "title": "Terra",
+    "artist": "Sílvia Tomàs Trio",
+    "isrc": "QM4DW1898479"
+  },
+  {
+    "title": "Billie Holliday",
+    "artist": "Ester Formosa",
+    "isrc": "ES6100926404"
+  },
+  {
+    "title": "Caigut del Setè Cel",
+    "artist": "Marc Durandeau",
+    "isrc": "ES5060604708"
+  },
+  {
+    "title": "Petita Salvatge",
+    "artist": "Xavi Alías",
+    "isrc": "ES5301663829"
+  },
+  {
+    "title": "Els Vells Tambors",
+    "artist": "Pere Mercader",
+    "isrc": "ES6101422301"
+  },
+  {
+    "title": "Gràcies per Venir",
+    "artist": "L'Home Invent",
+    "isrc": "ES17D1900918"
+  },
+  {
+    "title": "Àreu",
+    "artist": "Pere Vilanova",
+    "isrc": "ESA011715190"
+  },
+  {
+    "title": "Matins",
+    "artist": "Abel Munné",
+    "isrc": "ES52G1900723"
+  },
+  {
+    "title": "To Pa Mi",
+    "artist": "JoaquinPA",
+    "isrc": "QMDA61804254"
+  },
+  {
+    "title": "Rumba A La Mare",
+    "artist": "Josep Andújar “Sé”",
+    "isrc": "ES5531007631"
+  },
+  {
+    "title": "Ploreu ninetes",
+    "artist": "Mirna Vilasís",
+    "isrc": "ESA011100430"
+  },
+  {
+    "title": "I la pluja es va assecar...",
+    "artist": "Roger Mas, Pau Riba, Jaume Sisa",
+    "isrc": "ES6100313502"
+  },
+  {
+    "title": "Tinc una Mania Inconfessable",
+    "artist": "Pau Alabajos",
+    "isrc": "ES5060811508"
+  },
+  {
+    "title": "La Petita Rambla del Poble Sec - XL",
+    "artist": "Cesk Freixas, Txarango",
+    "isrc": "ES17D2000980"
+  },
+  {
+    "title": "Sota una Col",
+    "artist": "Adrià Puntí",
+    "isrc": "ES5060622702"
+  },
+  {
+    "title": "Nostres (Lloc6)",
+    "artist": "Feliu Ventura, Ginestà",
+    "isrc": "ES8021900297"
+  },
+  {
+    "title": "Va Com Va",
+    "artist": "Ovidi Montllor",
+    "isrc": "ES5060705510"
+  },
+  {
+    "title": "Homes i Dones Del Cap Dret",
+    "artist": "Quimi Portet",
+    "isrc": "ES5950903189"
+  },
+  {
+    "title": "L'estaca",
+    "artist": "Lluis Llach",
+    "isrc": "ES5060702507"
+  },
+  {
+    "title": "Som transparents",
+    "artist": "El Petit De Cal Eril",
+    "isrc": "ES40B1800002"
+  },
+  {
+    "title": "Avui l’únic que vull",
+    "artist": "Pau Vallvé",
+    "isrc": "ES52G1700388"
+  },
+  {
+    "title": "Final Feliç",
+    "artist": "Joan Miquel Oliver",
+    "isrc": "ES8570752504"
+  },
+  {
+    "title": "Podries",
+    "artist": "Gemma Humet",
+    "isrc": "ES6101720702"
+  },
+  {
+    "title": "Cançó de fer camí",
+    "artist": "Mireia Vives & Borja Penalba",
+    "isrc": "QM7281975171"
+  },
+  {
+    "title": "L'Arbre Ple de Flors",
+    "artist": "Guillem Ramisa",
+    "isrc": "ES80A1709101"
+  },
+  {
+    "title": "Brossa nova espacial",
+    "artist": "Joan Colomo",
+    "isrc": "ES94E2410704"
+  },
+  {
+    "title": "Tu",
+    "artist": "Judit Neddermann, Vernat",
+    "isrc": "ES5702201171"
+  },
+  {
+    "title": "Univers",
+    "artist": "Ferran Palau",
+    "isrc": "QM6N21973297"
+  },
+  {
+    "title": "La meva sort",
+    "artist": "Ginestà",
+    "isrc": "ES71G2400575"
+  },
+  {
+    "title": "No en tens prou",
+    "artist": "Joan Masdéu",
+    "isrc": "ES6102224907"
+  },
+  {
+    "title": "L'Aguila Negra - L'Aigle Noir",
+    "artist": "Maria del Mar Bonet",
+    "isrc": "ES5107100052"
+  },
+  {
+    "title": "Dentro del Armario - Turisme Per la Memòria",
+    "artist": "Marc Parrot, Ivan Ferreiro",
+    "isrc": "ES17D2302120"
+  },
+  {
+    "title": "Fills del Mar",
+    "artist": "Miquel Abras",
+    "isrc": "ES17D1800569"
+  },
+  {
+    "title": "Mujer frontera (feat. Alba Flores & Ana Tijoux)",
+    "artist": "Clara Peya, Alba Flores, Ana Tijoux",
+    "isrc": "QMFME2030761"
+  },
+  {
+    "title": "Judit",
+    "artist": "Joan Dausà",
+    "isrc": "ES51G2300013"
+  },
+  {
+    "title": "En tan alta que estaves",
+    "artist": "Miquel Gil, Pep Gimeno \"Botifarra\"",
+    "isrc": "GB5EA1702626"
+  },
+  {
+    "title": "A L'estiu Quan Són Les Nou",
+    "artist": "Raimon",
+    "isrc": "ES5061102001"
+  },
+  {
+    "title": "Cançó de Carrer",
+    "artist": "Ramon Muntaner",
+    "isrc": "ES5060710401"
+  },
+  {
+    "title": "Tren de mitjanit",
+    "artist": "Gerard Quintana, Pep Sala",
+    "isrc": "ES5950601844"
+  },
+  {
+    "title": "Un foc que creix",
+    "artist": "Xavi Sarrià, Ginestà",
+    "isrc": "QM4TW2321599"
+  },
+  {
+    "title": "Sabor Mestizo",
+    "artist": "Marcel i Júlia",
+    "isrc": "ES11D1800117"
+  },
+  {
+    "title": "Desert",
+    "artist": "Anaïs Vila, David Caraben",
+    "isrc": "ES90S2302357"
+  },
+  {
+    "title": "Doctor",
+    "artist": "Quart Primera",
+    "isrc": "ES6101027701"
+  },
+  {
+    "title": "Gominoles gegants i les meravelles aquàtiques",
+    "artist": "Estúpida Erikah, Lluís Boria, Magali Licari, Magalia Licari, Carles Sanchez, Jordi Masana, Enric Ponsa",
+    "isrc": "ES8511102370"
+  },
+  {
+    "title": "Home Is Where the Heart Is",
+    "artist": "Ramon Mirabet",
+    "isrc": "ES5151503542"
+  },
+  {
+    "title": "Perquè",
+    "artist": "Joan Garriga i el Mariatxi galàctic",
+    "isrc": "ES55G2300001"
+  },
+  {
+    "title": "Imaginar",
+    "artist": "Guillem Roma, Pedro Pastor",
+    "isrc": "ES17D2301959"
+  },
+  {
+    "title": "M'agrada",
+    "artist": "Joan Rovira",
+    "isrc": "ES6101525404"
+  },
+  {
+    "title": "Història d'un amor alternatiu",
+    "artist": "Andreu Valor, Bertomeu, Cris Juanico, Miquel Gil, Obrint Pas, Cesk Freixas",
+    "isrc": "ESA011206991"
+  },
+  {
+    "title": "Més Enllà",
+    "artist": "Damià Olivella",
+    "isrc": "ES7580910044"
+  },
+  {
+    "title": "5000 Nits",
+    "artist": "Josep Thió",
+    "isrc": "ES5950802857"
+  },
+  {
+    "title": "Revelació",
+    "artist": "Ju",
+    "isrc": "ES5052300535"
+  },
+  {
+    "title": "És amb tu",
+    "artist": "Èric Vinaixa",
+    "isrc": "ES5062312401"
+  },
+  {
+    "title": "Arrapat a tu",
+    "artist": "L'Últim Indi",
+    "isrc": "ES61A1600953"
+  },
+  {
+    "title": "Vitamina D",
+    "artist": "Eduard Gener",
+    "isrc": "ES80A1912601"
+  },
+  {
+    "title": "Olive Branch",
+    "artist": "Paul Fuster",
+    "isrc": "QMDA62376992"
+  },
+  {
+    "title": "Pirates i Bandolers - Slow",
+    "artist": "Guillamino, Marina Rossell",
+    "isrc": "QZHN92429558"
+  },
+  {
+    "title": "Puc Tancar i Obrir",
+    "artist": "Canimas",
+    "isrc": "ES5951003483"
+  },
+  {
+    "title": "Plus ultra",
+    "artist": "Roger Mas",
+    "isrc": "ES6100811007"
+  },
+  {
+    "title": "Utòpics, Idealistes, Ingenus",
+    "artist": "Pau Alabajos",
+    "isrc": "ES5061103303"
+  },
+  {
+    "title": "Cercavila",
+    "artist": "Cesk Freixas",
+    "isrc": "ES17D1800579"
+  },
+  {
+    "title": "Coral·lí",
+    "artist": "Adrià Puntí",
+    "isrc": "ES5060622701"
+  },
+  {
+    "title": "Finalment",
+    "artist": "Feliu Ventura",
+    "isrc": "ES8021100030"
+  },
+  {
+    "title": "Dóna'm la Mà",
+    "artist": "Ovidi Montllor",
+    "isrc": "ES5060701307"
+  },
+  {
+    "title": "Oh my Love",
+    "artist": "Quimi Portet",
+    "isrc": "ES5951203896"
+  },
+  {
+    "title": "Cada dia surt el sol",
+    "artist": "El Petit De Cal Eril",
+    "isrc": "ES40B2100030"
+  },
+  {
+    "title": "País petit",
+    "artist": "Lluis Llach",
+    "isrc": "ES34B0900023"
+  },
+  {
+    "title": "Això ja està",
+    "artist": "Pau Vallvé",
+    "isrc": "ES26E2210001"
+  },
+  {
+    "title": "Marès a Radial",
+    "artist": "Joan Miquel Oliver",
+    "isrc": "ES55G1500021"
+  },
+  {
+    "title": "Aquesta Pau És Meva",
+    "artist": "Gemma Humet",
+    "isrc": "ES5061303412"
+  },
+  {
+    "title": "La noia del nord",
+    "artist": "Mireia Vives & Borja Penalba",
+    "isrc": "QM7281975168"
+  },
+  {
+    "title": "Hort Mort",
+    "artist": "Joan Colomo",
+    "isrc": "ES6491120703"
+  },
+  {
+    "title": "Cor de Blat - Acústic",
+    "artist": "Guillem Ramisa",
+    "isrc": "ES80A1709104"
+  },
+  {
+    "title": "Vinc d'un poble",
+    "artist": "Judit Neddermann",
+    "isrc": "ES6101822607"
+  },
+  {
+    "title": "Cel clar",
+    "artist": "Ferran Palau",
+    "isrc": "QM4TX2096437"
+  },
+  {
+    "title": "Puc ser jo",
+    "artist": "Joan Masdéu, Gerard Quintana",
+    "isrc": "ES6101926908"
+  },
+  {
+    "title": "De tot el món",
+    "artist": "Ginestà",
+    "isrc": "ES11D2300921"
+  },
+  {
+    "title": "Alenar",
+    "artist": "Maria del Mar Bonet",
+    "isrc": "ES5027700172"
+  },
+  {
+    "title": "Misteriosament Feliç - Remastered",
+    "artist": "Marc Parrot",
+    "isrc": "ES5951805953"
+  },
+  {
+    "title": "Herois Del Segle XXI - Cançó exclusiva per Polseres Vermelles 2a Temporada",
+    "artist": "Miquel Abras",
+    "isrc": "ES5951304311"
+  },
+  {
+    "title": "Nana para mí",
+    "artist": "Clara Peya, Sílvia Pérez Cruz",
+    "isrc": "QMFME2248458"
+  },
+  {
+    "title": "La Costera",
+    "artist": "Miquel Gil, Noèlia Llorens \"Titana\", Pep Gimeno \"Botifarra\"",
+    "isrc": "ES71G2151911"
+  }
+]

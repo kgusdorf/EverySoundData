@@ -1,0 +1,982 @@
+[
+  {
+    "title": "Du Skal Klappe",
+    "artist": "Ole Steens Børn",
+    "isrc": "DKBV79701710"
+  },
+  {
+    "title": "Hjulene på bussen",
+    "artist": "Grethe Mogensen, Dragørbørnene",
+    "isrc": "DKASA9806503"
+  },
+  {
+    "title": "Se Min Kjole",
+    "artist": "Freddy Fræk",
+    "isrc": "DKPNH9700702"
+  },
+  {
+    "title": "Lillebror",
+    "artist": "Hornumkoret",
+    "isrc": "DKAAP0300136"
+  },
+  {
+    "title": "Der bor en bager",
+    "artist": "Lars Stryg Band",
+    "isrc": "GBLPF0255650"
+  },
+  {
+    "title": "Skovsangen",
+    "artist": "Povl Kjøller",
+    "isrc": "DKABA1200175"
+  },
+  {
+    "title": "Har Du Set En Ko?",
+    "artist": "Jens Okking",
+    "isrc": "DKAAH9500512"
+  },
+  {
+    "title": "2 skridt til højre",
+    "artist": "Wauv",
+    "isrc": "DKBV70706405"
+  },
+  {
+    "title": "Dyrene i Afrika",
+    "artist": "Konservatoriets Børnekor",
+    "isrc": "DKYTA1500809"
+  },
+  {
+    "title": "Er Du Sur Og Trist",
+    "artist": "Benno Benno",
+    "isrc": "DKBKA0400195"
+  },
+  {
+    "title": "Fy fy skamme skamme - 1987 Remastered Version",
+    "artist": "Tom & Jess",
+    "isrc": "DKABA0007301"
+  },
+  {
+    "title": "Fætter Mikkel",
+    "artist": "Lone Munkeskov",
+    "isrc": "DKBG41800801"
+  },
+  {
+    "title": "Vrik Med Numsen",
+    "artist": "Muddi & Salamidrengene",
+    "isrc": "DKABA1101719"
+  },
+  {
+    "title": "Bom Tjikke Bom",
+    "artist": "Kaj og Andrea",
+    "isrc": "DKABA1101804"
+  },
+  {
+    "title": "Kagerock",
+    "artist": "Rosa Fra Rouladegade",
+    "isrc": "DKAZA1100045"
+  },
+  {
+    "title": "Pippi Langstrømpe",
+    "artist": "Eventyrteatrets Børn",
+    "isrc": "DKABA1001997"
+  },
+  {
+    "title": "Tre Små Soldater",
+    "artist": "Nyborg Jensen Pigerne",
+    "isrc": "DKBKA0300737"
+  },
+  {
+    "title": "Postmand Per",
+    "artist": "Postmand Per",
+    "isrc": "DKABA1000525"
+  },
+  {
+    "title": "Elefantens vuggevise",
+    "artist": "Tommy Rasmussen",
+    "isrc": "DKBG41800901"
+  },
+  {
+    "title": "Puff",
+    "artist": "Ranum Børnekor",
+    "isrc": "DKC991702514"
+  },
+  {
+    "title": "Balder",
+    "artist": "Tine Mynster",
+    "isrc": "DKYTA1800701"
+  },
+  {
+    "title": "Se Det Lille Tog",
+    "artist": "Lotte Kærså, Græsrødderne",
+    "isrc": "DKADG0900289"
+  },
+  {
+    "title": "Du Skal Børste Dine Tænder",
+    "artist": "Lotte & Søren",
+    "isrc": "DK2MA1901803"
+  },
+  {
+    "title": "10 indianebørn",
+    "artist": "Sangskattekisten, Camilla Dayyani, Hans Esbjerg, Jens Jefsen",
+    "isrc": "GBLPF0601594"
+  },
+  {
+    "title": "Små Raketter",
+    "artist": "Rasmus Klump, Mariehøne",
+    "isrc": "DKFJ41400114"
+  },
+  {
+    "title": "Dyrene I Afrika",
+    "artist": "Børnemusik Dyrene, Børne Musen, Børnesange Aben",
+    "isrc": "DKUM72000381"
+  },
+  {
+    "title": "Jeg Har Set En Rigtig Negermand",
+    "artist": "Familien Andersen",
+    "isrc": "DKBKA0400687"
+  },
+  {
+    "title": "Otto Er Et Næsehorn (Titelsang Fra Filmen \"Otto Er Et Næsehorn\")",
+    "artist": "Tom McEwan",
+    "isrc": "DKABA1101709"
+  },
+  {
+    "title": "Godmorgen",
+    "artist": "Sebastian",
+    "isrc": "DKKQ30800105"
+  },
+  {
+    "title": "Bandeordssangen",
+    "artist": "Hr. Skæg, Ramasjang",
+    "isrc": "DKMFC1200106"
+  },
+  {
+    "title": "Vi Er Venner",
+    "artist": "Lille Nørd",
+    "isrc": "DKADG0602307"
+  },
+  {
+    "title": "Kattejammer Rock",
+    "artist": "Vesterbro Ungdomsgård",
+    "isrc": "DKUM70800766"
+  },
+  {
+    "title": "Tulle og Skralles godnatvise",
+    "artist": "Ditte Aarup Johnsen",
+    "isrc": "DKK421700115"
+  },
+  {
+    "title": "Nydningen",
+    "artist": "Bamse & Kylling, Aske",
+    "isrc": "DKADG9901834"
+  },
+  {
+    "title": "Motor Mille På Cirkustur",
+    "artist": "DR Big Band, Ramasjang, Motor Mille",
+    "isrc": "DKCA41700302"
+  },
+  {
+    "title": "Stop, Stop Et Stoppested",
+    "artist": "Græsrødderne, Marie Carmen Koppel, Al Agami, Åh Abe!",
+    "isrc": "DKAXK9774012"
+  },
+  {
+    "title": "Ikke Rigtig Voksne",
+    "artist": "Bølle-Bob",
+    "isrc": "DKQTB9800201"
+  },
+  {
+    "title": "Aben",
+    "artist": "Mek & The Pek'A'Billies",
+    "isrc": "DKAXG9300051"
+  },
+  {
+    "title": "Kaninus",
+    "artist": "Mette Sandager, Tommy Rasmussen, Lone Munkeskov",
+    "isrc": "DKBG40300114"
+  },
+  {
+    "title": "Marken er mejet",
+    "artist": "Børnekor uden navn",
+    "isrc": "NLG620518045"
+  },
+  {
+    "title": "Hjerter Af Honning",
+    "artist": "Bullerfnis",
+    "isrc": "DKAXA9200050"
+  },
+  {
+    "title": "Hvem er skurken",
+    "artist": "Kristian",
+    "isrc": "DKAZA1300234"
+  },
+  {
+    "title": "Popsi og Krelles Godnatsang",
+    "artist": "Popsi og Krelle",
+    "isrc": "DKN471900101"
+  },
+  {
+    "title": "Så går vi rundt om en enebærbusk",
+    "artist": "Nyborg-Jensens Piger Og Drenge",
+    "isrc": "DKNA22106605"
+  },
+  {
+    "title": "Godnat Min Skat",
+    "artist": "Michael Back",
+    "isrc": "DKKP51600115"
+  },
+  {
+    "title": "(Godt Vi har) Bamselægen",
+    "artist": "Bamselægen, Ramasjang",
+    "isrc": "QM6P42036264"
+  },
+  {
+    "title": "Arne Alligator - Dansk",
+    "artist": "Arne Alligator & Jungletrommen",
+    "isrc": "DKUM72000267"
+  },
+  {
+    "title": "Tornerose var et eventyr",
+    "artist": "Glade Børnesange",
+    "isrc": "DKQA99405002"
+  },
+  {
+    "title": "Luk nu dine øjne i",
+    "artist": "Onkel Reje",
+    "isrc": "DKMFC1300111"
+  },
+  {
+    "title": "Klokkerne i Notre Dame",
+    "artist": "Jess Ingerslev, Bendt Reiner, Niels Weyde, Tritonus Koret",
+    "isrc": "USWD11890181"
+  },
+  {
+    "title": "Jodlesang",
+    "artist": "Aske, Bamse & Kylling, Luna",
+    "isrc": "DKADG9901822"
+  },
+  {
+    "title": "Papegøjen Fra Amerika",
+    "artist": "Århus Teater",
+    "isrc": "DKFVB9700108"
+  },
+  {
+    "title": "Bamses fødselsdag",
+    "artist": "Inge Aasted og børn",
+    "isrc": "DKNA22010701"
+  },
+  {
+    "title": "Hjulene på bussen",
+    "artist": "Børnesange Dronning",
+    "isrc": "TCACR1656807"
+  },
+  {
+    "title": "Godmorgen Lille Fod",
+    "artist": "Spillebillen",
+    "isrc": "DKFD52442103"
+  },
+  {
+    "title": "Smukke Sally",
+    "artist": "Bølle Bob Og Smukke Sally",
+    "isrc": "DK92A6008402"
+  },
+  {
+    "title": "Stopdans",
+    "artist": "Lotte Kærså & Græsrødderne",
+    "isrc": "DEG932000045"
+  },
+  {
+    "title": "Sludder og Vrøvl",
+    "artist": "Thomas Winding, Alberte Winding",
+    "isrc": "DKAXG0500902"
+  },
+  {
+    "title": "Puff",
+    "artist": "Steffen Petersen",
+    "isrc": "DKFD51990005"
+  },
+  {
+    "title": "Luk Eventyret Ind",
+    "artist": "Jeanett Debb",
+    "isrc": "DKEE50600306"
+  },
+  {
+    "title": "Jeg Vil Tælle Stjernerne",
+    "artist": "Anne-Marie Hassing",
+    "isrc": "DKBV70702113"
+  },
+  {
+    "title": "Postmand Per (Fra TV-serien \"Postmand Per\")",
+    "artist": "Ole Fick",
+    "isrc": "DKABA1101722"
+  },
+  {
+    "title": "Dyt Dyt, Ska´ Vi Byt",
+    "artist": "Mek Pek Party Band, Åh Abe!",
+    "isrc": "DKAXK9774008"
+  },
+  {
+    "title": "Smølfegymnastik (Gummybear Song)",
+    "artist": "Smølferne",
+    "isrc": "SEPQA0800573"
+  },
+  {
+    "title": "Prop Og Bertas Sang",
+    "artist": "Prop Og Berta",
+    "isrc": "DKABA0701528"
+  },
+  {
+    "title": "I Kongens Have",
+    "artist": "Bamse",
+    "isrc": "DKABA1001718"
+  },
+  {
+    "title": "Hej Hej Traktor",
+    "artist": "Små Hits",
+    "isrc": "DKQQ51400106"
+  },
+  {
+    "title": "Tissemyretuesang",
+    "artist": "Rikke Egholm",
+    "isrc": "DKBG41801505"
+  },
+  {
+    "title": "Kok Amok (feat. Silja Okking)",
+    "artist": "Mini MGP, Silja Okking",
+    "isrc": "DKCA41600207"
+  },
+  {
+    "title": "Godmorgen",
+    "artist": "Palle Pirat",
+    "isrc": "DKAU70000110"
+  },
+  {
+    "title": "Det Er Tid Til at Falde Til Ro",
+    "artist": "Morten Musik",
+    "isrc": "DKNT31300109"
+  },
+  {
+    "title": "Cirkus Popsi Sangen",
+    "artist": "Popsi og Guitar-Krelle",
+    "isrc": "DKN471800201"
+  },
+  {
+    "title": "Pjerrot og månen",
+    "artist": "Bamsekoret",
+    "isrc": "DKNA21804906"
+  },
+  {
+    "title": "Hoppelines hoppelopper",
+    "artist": "Hoppeline",
+    "isrc": "DKM731800103"
+  },
+  {
+    "title": "Kom Så Står Vi Op",
+    "artist": "BabySigning",
+    "isrc": "DKTX51500118"
+  },
+  {
+    "title": "Hoppe Loppe",
+    "artist": "Ulla Abdullas Cocobongoband",
+    "isrc": "DKEU50600105"
+  },
+  {
+    "title": "To skridt til højre",
+    "artist": "Stjernefrø",
+    "isrc": "DKQTA0700106"
+  },
+  {
+    "title": "Go'morgen lille baby",
+    "artist": "Dorte Nørgaard",
+    "isrc": "DKEMA1800601"
+  },
+  {
+    "title": "Sangen om Holger Hostemus",
+    "artist": "Rico Sound",
+    "isrc": "GBLPF0256382"
+  },
+  {
+    "title": "Uranhjorten",
+    "artist": "Roben Og Knud",
+    "isrc": "DKABA0108315"
+  },
+  {
+    "title": "Godnat Abekat",
+    "artist": "Djanzz, Sille & Palle, Sille Grønberg, Palle Windfeldt, Carl Quist Møller",
+    "isrc": "DKDC30200110"
+  },
+  {
+    "title": "Ti små negerbørn",
+    "artist": "Glade Børnehavesange",
+    "isrc": "DKQA99404008"
+  },
+  {
+    "title": "Bim bam busse",
+    "artist": "Hanne Hastrup, Cirkeline",
+    "isrc": "DKABA1200513"
+  },
+  {
+    "title": "Havet er skønt",
+    "artist": "Thomas Eje",
+    "isrc": "USWD10525234"
+  },
+  {
+    "title": "Hundeprutsangen",
+    "artist": "5 X Far",
+    "isrc": "DKABA1102504"
+  },
+  {
+    "title": "Fem Små Aber",
+    "artist": "App Division",
+    "isrc": "DKRP41300112"
+  },
+  {
+    "title": "Prop & Berta's Kendingsmelodi",
+    "artist": "Bent Solhof",
+    "isrc": "DKABA1102526"
+  },
+  {
+    "title": "I Afrika Så Jeg En Mand",
+    "artist": "Børnene Fra Amagerbro",
+    "isrc": "DKAGB9500405"
+  },
+  {
+    "title": "Jeg Vil Ha' En Blå Ballon",
+    "artist": "Katy & Ungerne",
+    "isrc": "DKBV79702403"
+  },
+  {
+    "title": "Anemonesangen",
+    "artist": "Signe B Hansen",
+    "isrc": "DKBKA0300219"
+  },
+  {
+    "title": "Bjerget i skoven",
+    "artist": "Bamse Koret",
+    "isrc": "DKNA21804402"
+  },
+  {
+    "title": "Flyvesang",
+    "artist": "Bamse Og Kylling",
+    "isrc": "DKADG1000100"
+  },
+  {
+    "title": "Bølle-Bob",
+    "artist": "Bølle-Bob Og De Andre",
+    "isrc": "DKADG9807401"
+  },
+  {
+    "title": "Frække Frida",
+    "artist": "Frække Frida, De Frygtløse Spioner",
+    "isrc": "DKABA1102914"
+  },
+  {
+    "title": "Gulla-Loo-La",
+    "artist": "Ælling, Bamse & Kylling",
+    "isrc": "DKADG1000099"
+  },
+  {
+    "title": "Åh, Susanne",
+    "artist": "Ole Steens Børn",
+    "isrc": "DKBV79701904"
+  },
+  {
+    "title": "Her Kommer Pippi Langstrømpe",
+    "artist": "Grethe Mogensen, Dragørbørnene",
+    "isrc": "DKASA9807906"
+  },
+  {
+    "title": "Lille Peter Edderkop",
+    "artist": "Freddy Fræk",
+    "isrc": "DKUM71000040"
+  },
+  {
+    "title": "Bølle Bob",
+    "artist": "Hornumkoret",
+    "isrc": "DKAAP0300144"
+  },
+  {
+    "title": "Fætter Mikkel",
+    "artist": "Lars Stryg Band",
+    "isrc": "DKQA99702014"
+  },
+  {
+    "title": "Jeg Er En Glad Lille Cowboy",
+    "artist": "Povl Kjøller",
+    "isrc": "DKABA1103142"
+  },
+  {
+    "title": "Ole Har Fødselsdag",
+    "artist": "Jens Okking",
+    "isrc": "DKAAH9500415"
+  },
+  {
+    "title": "Boogie woogie",
+    "artist": "Wauv",
+    "isrc": "DKBV70706408"
+  },
+  {
+    "title": "Hodja fra Pjort",
+    "artist": "Konservatoriets Børnekor",
+    "isrc": "DKYTA1500815"
+  },
+  {
+    "title": "Hoved Skulder Knæ Og Tå",
+    "artist": "Benno Benno",
+    "isrc": "DKBKA0400193"
+  },
+  {
+    "title": "Jeg har en rokketand",
+    "artist": "Lone Munkeskov",
+    "isrc": "DKBG41801501"
+  },
+  {
+    "title": "Lulu Godnat",
+    "artist": "Tom & Jess",
+    "isrc": "DKABA0701005"
+  },
+  {
+    "title": "Sæbe I Mit Øje",
+    "artist": "Muddi & Salamidrengene",
+    "isrc": "GBLPF0000430"
+  },
+  {
+    "title": "Kaj Og Andreas' Duet",
+    "artist": "Kaj og Andrea",
+    "isrc": "DKABA1101642"
+  },
+  {
+    "title": "Papirsklip",
+    "artist": "Rosa Fra Rouladegade, DR Big Band, Ramasjang",
+    "isrc": "QMBZ92183951"
+  },
+  {
+    "title": "Stop den lille kænguru",
+    "artist": "Eventyrteatrets Børn",
+    "isrc": "DKABA1001958"
+  },
+  {
+    "title": "Husbonden Sender Lasse Ud",
+    "artist": "Nyborg Jensen Pigerne",
+    "isrc": "DKBKA0300702"
+  },
+  {
+    "title": "Postmand Per",
+    "artist": "Tommy Rasmussen",
+    "isrc": "DKBG41801207"
+  },
+  {
+    "title": "Sangen om Emil den sorte kat",
+    "artist": "Postmand Per",
+    "isrc": "DKABA1000526"
+  },
+  {
+    "title": "Poul sine høns",
+    "artist": "Ranum Børnekor",
+    "isrc": "DKC991702502"
+  },
+  {
+    "title": "Du, som har tændt millioner af stjerner",
+    "artist": "Tine Mynster",
+    "isrc": "DKYTA1300112"
+  },
+  {
+    "title": "Fætter Gummisko",
+    "artist": "Lotte & Søren",
+    "isrc": "DKBKA0300181"
+  },
+  {
+    "title": "Her Bor Jeg",
+    "artist": "Lotte Kærså, Græsrødderne",
+    "isrc": "DKADG0900286"
+  },
+  {
+    "title": "Fem små aber",
+    "artist": "Sangskattekisten, Camilla Dayyani, Hans Esbjerg, Jens Jefsen",
+    "isrc": "GBLPF0601586"
+  },
+  {
+    "title": "Danse, Danse, Danse",
+    "artist": "Rasmus Klump, Mariehøne",
+    "isrc": "DKFJ41400111"
+  },
+  {
+    "title": "Skovsangen – Vil Du Med En Tur I Skoven?",
+    "artist": "Børnemusik Dyrene, Børne Musen, Børnesange Aben",
+    "isrc": "DKUM72000084"
+  },
+  {
+    "title": "Hej Sol, Skin På Mig",
+    "artist": "Familien Andersen",
+    "isrc": "DKUM71300489"
+  },
+  {
+    "title": "Skægs Sømandsvise",
+    "artist": "Tom McEwan",
+    "isrc": "DK4YA1002304"
+  },
+  {
+    "title": "Sikke Noget Vrøvl",
+    "artist": "Sebastian",
+    "isrc": "DKKQ30800103"
+  },
+  {
+    "title": "Skæg med bogstaver",
+    "artist": "Hr. Skæg, Ramasjang",
+    "isrc": "DKMFC1000130"
+  },
+  {
+    "title": "Godmorgensang",
+    "artist": "Lille Nørd, Katrine Bille, Anders Falck Larsen",
+    "isrc": "DKADG1000334"
+  },
+  {
+    "title": "Vi Vil Værne Om Jorden",
+    "artist": "Vesterbro Ungdomsgård",
+    "isrc": "DKUM70800780"
+  },
+  {
+    "title": "Her I Fårup Sommerland",
+    "artist": "Ditte Aarup Johnsen",
+    "isrc": "DKJY51300109"
+  },
+  {
+    "title": "Fødselsdagssangen",
+    "artist": "Bamse & Kylling, Luna, Aske",
+    "isrc": "DKADG9901824"
+  },
+  {
+    "title": "Bamses overraskningsfest (medley) [Bamse & Kylling] - Fødselsdagssangen - Regnesangen - Jodlesangen - Nydningen - Bamses egen sang",
+    "artist": "DR Big Band, Ramasjang, Bamse & Kylling",
+    "isrc": "DKCA41802504"
+  },
+  {
+    "title": "Bølle-Bob",
+    "artist": "Bølle-Bob",
+    "isrc": "DKQTB9800203"
+  },
+  {
+    "title": "Tre Små Fisk",
+    "artist": "Mek & The Pek'A'Billies, Åh Abe!",
+    "isrc": "DKAXD9400118"
+  },
+  {
+    "title": "Trolderock",
+    "artist": "Mette Sandager",
+    "isrc": "DKBG41800904"
+  },
+  {
+    "title": "Mæ si'r det lille lam",
+    "artist": "Børnekor uden navn",
+    "isrc": "NLG620518034"
+  },
+  {
+    "title": "Løb Samson, Løb (Run Samson, Run)",
+    "artist": "Bullerfnis",
+    "isrc": "DKAXA9200047"
+  },
+  {
+    "title": "Skurkene i Ramasjang",
+    "artist": "Kristian",
+    "isrc": "DKAZA1300241"
+  },
+  {
+    "title": "Elefantens Vuggevise",
+    "artist": "Popsi og Krelle",
+    "isrc": "DKN471900102"
+  },
+  {
+    "title": "Husbonden sender Lasse ud",
+    "artist": "Nyborg-Jensens Piger Og Drenge",
+    "isrc": "DKNA21804713"
+  },
+  {
+    "title": "Fjolletrolde",
+    "artist": "Michael Back",
+    "isrc": "DKKP51200102"
+  },
+  {
+    "title": "Vi Passer På Hinanden",
+    "artist": "Bamselægen, Ramasjang",
+    "isrc": "QM6P42036312"
+  },
+  {
+    "title": "Loppen - Dansk",
+    "artist": "Arne Alligator & Jungletrommen, Loppen",
+    "isrc": "DKUM72000269"
+  },
+  {
+    "title": "Vin skyder skuffen ind",
+    "artist": "Glade Børnesange",
+    "isrc": "DKQA99408006"
+  },
+  {
+    "title": "Hul i ho'det",
+    "artist": "Jess Ingerslev, Tritonus Koret",
+    "isrc": "USWD10526308"
+  },
+  {
+    "title": "Monster Mega Heavy Metal",
+    "artist": "Onkel Reje",
+    "isrc": "DKMFC1900101"
+  },
+  {
+    "title": "Found (feat. Ed Waaka)",
+    "artist": "Aske, Ed Waaka",
+    "isrc": "NZRI11501926"
+  },
+  {
+    "title": "Dyrene i Afrika",
+    "artist": "Inge Aasted og børn",
+    "isrc": "DKNA21905809"
+  },
+  {
+    "title": "Fem små aber",
+    "artist": "Børnesange Dronning",
+    "isrc": "TCACR1656804"
+  },
+  {
+    "title": "Hør hvor det regner",
+    "artist": "Spillebillen, Troels Skovgaard, Jon Bruland, Rune Harder Olesen",
+    "isrc": "DKFD52442107"
+  },
+  {
+    "title": "Bølle-Bob",
+    "artist": "Bølle Bob Og Smukke Sally",
+    "isrc": "DK92A6008401"
+  },
+  {
+    "title": "TROLDENE",
+    "artist": "Lotte Kærså & Græsrødderne",
+    "isrc": "DKNJ91201904"
+  },
+  {
+    "title": "Mestersang",
+    "artist": "Thomas Winding, Alberte Winding",
+    "isrc": "DKAXG0500907"
+  },
+  {
+    "title": "Se Min Kjole",
+    "artist": "Steffen Petersen",
+    "isrc": "DKFD51990001"
+  },
+  {
+    "title": "Bamsekys",
+    "artist": "Jeanett Debb",
+    "isrc": "DKEE50600304"
+  },
+  {
+    "title": "Sov Sødt (brahms Vuggevise)",
+    "artist": "Anne-Marie Hassing",
+    "isrc": "DKBV70702102"
+  },
+  {
+    "title": "Misse Var Slank",
+    "artist": "Mek Pek Party Band, Åh Abe!",
+    "isrc": "DKAXK9660704"
+  },
+  {
+    "title": "En Smølfesang (Boten Anna)",
+    "artist": "Smølferne",
+    "isrc": "SEPQA0800571"
+  },
+  {
+    "title": "Prop og Berta's kendingsmelodi",
+    "artist": "Prop Og Berta",
+    "isrc": "DKABA0600941"
+  },
+  {
+    "title": "Skorstensfejren Gik En Tur",
+    "artist": "Små Hits",
+    "isrc": "DKQQ51300210"
+  },
+  {
+    "title": "Den blå anemone",
+    "artist": "Bamse",
+    "isrc": "DKABA1001566"
+  },
+  {
+    "title": "En jæger gik at jage",
+    "artist": "Rikke Egholm, Ole Valentin, Lone Munkeskov",
+    "isrc": "DKBG41801305"
+  },
+  {
+    "title": "Dino-fan (feat. Malene Quist)",
+    "artist": "Mini MGP, Ramasjang, Malene Quist",
+    "isrc": "DKCA41700504"
+  },
+  {
+    "title": "Kasper Og Jesper Og Jonathan",
+    "artist": "Ole Steens Børn",
+    "isrc": "DKBV79701505"
+  },
+  {
+    "title": "I skoven skulle være gilde - 1998 - Remaster",
+    "artist": "Grethe Mogensen, Dragørbørnene",
+    "isrc": "DKASA9806514"
+  },
+  {
+    "title": "Jeg er en træt gammel dreng",
+    "artist": "Freddy Fræk",
+    "isrc": "DKNA21803616"
+  },
+  {
+    "title": "Bondejokker",
+    "artist": "Hornumkoret",
+    "isrc": "DKAAP0300143"
+  },
+  {
+    "title": "Smølfe Cowboy Joe",
+    "artist": "Lars Stryg Band",
+    "isrc": "DKQA99701001"
+  },
+  {
+    "title": "Godnatsangen - nu er dagen igen forbi",
+    "artist": "Povl Kjøller",
+    "isrc": "DKABA1103152"
+  },
+  {
+    "title": "Elefantens Vuggevise",
+    "artist": "Jens Okking",
+    "isrc": "DKAAH9500523"
+  },
+  {
+    "title": "Mon du bemærket har",
+    "artist": "Wauv",
+    "isrc": "DKBV70706414"
+  },
+  {
+    "title": "Fire små grise de ville ud at gå",
+    "artist": "Konservatoriets Børnekor",
+    "isrc": "DKYTA1500805"
+  },
+  {
+    "title": "Boogie Woogie",
+    "artist": "Benno Benno",
+    "isrc": "DKBKA0400198"
+  },
+  {
+    "title": "I østen stiger solen op",
+    "artist": "Lone Munkeskov",
+    "isrc": "DKBG40901801"
+  },
+  {
+    "title": "Muddermand - 1987 Remastered Version",
+    "artist": "Tom & Jess",
+    "isrc": "DKABA0701006"
+  },
+  {
+    "title": "Hænderne op!",
+    "artist": "Muddi & Salamidrengene",
+    "isrc": "DKABA1102536"
+  },
+  {
+    "title": "Kager Nok Til Alle",
+    "artist": "Ramasjang, DR Big Band, Rosa Fra Rouladegade",
+    "isrc": "DKCA41400110"
+  },
+  {
+    "title": "Navnesang",
+    "artist": "Kaj og Andrea",
+    "isrc": "DKABA1101794"
+  },
+  {
+    "title": "Wulle Wap sangen (Jungledyret Hugo)",
+    "artist": "Eventyrteatrets Børn",
+    "isrc": "DKABA1001986"
+  },
+  {
+    "title": "Tordenskjold",
+    "artist": "Nyborg Jensen Pigerne",
+    "isrc": "DKBKA0300736"
+  },
+  {
+    "title": "Kasper, Jesper og Jonathan",
+    "artist": "Tommy Rasmussen",
+    "isrc": "DKBG41801401"
+  },
+  {
+    "title": "Postrunden",
+    "artist": "Postmand Per",
+    "isrc": "DKABA1000530"
+  },
+  {
+    "title": "Marken er mejet",
+    "artist": "Ranum Børnekor",
+    "isrc": "DKC991702706"
+  },
+  {
+    "title": "Spænd over os dit himmelsejl",
+    "artist": "Tine Mynster",
+    "isrc": "DKYTA1300107"
+  },
+  {
+    "title": "Den om Mælk",
+    "artist": "Lotte & Søren",
+    "isrc": "DK2MA1901802"
+  },
+  {
+    "title": "Det Var Sidste Stop",
+    "artist": "Lotte Kærså, Græsrødderne",
+    "isrc": "DKADG0900314"
+  },
+  {
+    "title": "I en skov en hytte lå",
+    "artist": "Sangskattekisten, Camilla Dayyani, Hans Esbjerg, Jens Jefsen",
+    "isrc": "GBLPF0601590"
+  },
+  {
+    "title": "Vi Kan Ikke Stå Stille",
+    "artist": "Rasmus Klump, Malene Qvist",
+    "isrc": "DKFJ41400112"
+  },
+  {
+    "title": "Fem Små Aber",
+    "artist": "Børnemusik Dyrene, Børne Musen, Børnesange Aben",
+    "isrc": "DKUM72000382"
+  },
+  {
+    "title": "Cirkus! Cirkus!",
+    "artist": "Familien Andersen",
+    "isrc": "DKUM71400189"
+  },
+  {
+    "title": "Hvalsang",
+    "artist": "Tom McEwan",
+    "isrc": "DK4YA1002310"
+  },
+  {
+    "title": "A Er En Abe",
+    "artist": "Sebastian",
+    "isrc": "DKKQ30800104"
+  },
+  {
+    "title": "Skæg Med Matematik",
+    "artist": "Hr. Skæg, Ramasjang",
+    "isrc": "DKMFC1400101"
+  },
+  {
+    "title": "Kristian Og Katrine",
+    "artist": "Lille Nørd, Katrine Bille, Kristian",
+    "isrc": "DKADG1100357"
+  },
+  {
+    "title": "Vi Går Med Røde Sokker",
+    "artist": "Vesterbro Ungdomsgård",
+    "isrc": "DKUM71700361"
+  },
+  {
+    "title": "Tulle og Skralles legesang",
+    "artist": "Ditte Aarup Johnsen",
+    "isrc": "DKK421700102"
+  },
+  {
+    "title": "Dyrk min maskine (feat. Motor Mille)",
+    "artist": "DR Big Band, Ramasjang, Motor Mille",
+    "isrc": "DKCA41802507"
+  },
+  {
+    "title": "Regnsangen - Alt. Version",
+    "artist": "Bamse & Kylling",
+    "isrc": "DKADG9901803"
+  }
+]

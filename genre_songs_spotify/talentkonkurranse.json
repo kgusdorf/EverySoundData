@@ -1,0 +1,3247 @@
+[
+  {
+    "title": "lonely",
+    "artist": "Maria Petra",
+    "isrc": "QZHN42040472"
+  },
+  {
+    "title": "Len Deg Inntil Meg",
+    "artist": "Sofie Fjellvang",
+    "isrc": "QZTBA2296572"
+  },
+  {
+    "title": "Balkong",
+    "artist": "Thea Sofie, Elina Helmichsen",
+    "isrc": "NOITV2100710"
+  },
+  {
+    "title": "July",
+    "artist": "Erlend Gunstveit, Maren Emilie",
+    "isrc": "NOITV2100540"
+  },
+  {
+    "title": "Run",
+    "artist": "Sverre Eide",
+    "isrc": "NOITV2101180"
+  },
+  {
+    "title": "Your Loss",
+    "artist": "MARI",
+    "isrc": "NOAAE2100002"
+  },
+  {
+    "title": "Why",
+    "artist": "Kira Dalan Eriksen",
+    "isrc": "NOJUJ2402010"
+  },
+  {
+    "title": "To Love You More",
+    "artist": "Cynthia",
+    "isrc": "NOITV2101160"
+  },
+  {
+    "title": "Bruises - Live",
+    "artist": "Natan Dagur",
+    "isrc": "NOITV2100060"
+  },
+  {
+    "title": "Trenger deg",
+    "artist": "Sval",
+    "isrc": "DKBV71104009"
+  },
+  {
+    "title": "Riv i hjertet",
+    "artist": "Sondre Justad",
+    "isrc": "NOHDL1501030"
+  },
+  {
+    "title": "Judge Tenderly of Me",
+    "artist": "Anne Fagermo, Dag Erik Oksvold",
+    "isrc": "QMDA72382825"
+  },
+  {
+    "title": "Perfect Symphony",
+    "artist": "Julie Stokke, Mads Wighus",
+    "isrc": "NOITV2100580"
+  },
+  {
+    "title": "På kanten",
+    "artist": "Agnes Stock",
+    "isrc": "NOUM71700410"
+  },
+  {
+    "title": "Vestlandet",
+    "artist": "Vilde og Anna, MGPjr",
+    "isrc": "NOZ7F1604007"
+  },
+  {
+    "title": "To Where You Are - Live",
+    "artist": "Fredrik Amadeus",
+    "isrc": "NO2DY2300245"
+  },
+  {
+    "title": "Sommer Og Skolefri",
+    "artist": "Malin",
+    "isrc": "DKBV70603104"
+  },
+  {
+    "title": "Du ga mæ viljestyrke",
+    "artist": "Kristian Kristensen",
+    "isrc": "NOAGW1900010"
+  },
+  {
+    "title": "Endelig heil - Live",
+    "artist": "Thomas Tvedt",
+    "isrc": "NO2DY2300208"
+  },
+  {
+    "title": "Say Something",
+    "artist": "Thomas Løseth, Marion Sophia Dyrvik",
+    "isrc": "NOUM71700330"
+  },
+  {
+    "title": "It's My Life - Live",
+    "artist": "Oda Dahl",
+    "isrc": "NO2DY2300020"
+  },
+  {
+    "title": "Ett år",
+    "artist": "INGEBORG",
+    "isrc": "NOH1S2301060"
+  },
+  {
+    "title": "Du gjør mæ så gla",
+    "artist": "MGPjr, Thea Floer Kulseng",
+    "isrc": "NO72F1505004"
+  },
+  {
+    "title": "Heavenly Father - Fra TV-Programmet \"The Voice\"",
+    "artist": "Mina Lund",
+    "isrc": "NOUM71900013"
+  },
+  {
+    "title": "Russian Roulette - Live",
+    "artist": "viktoria",
+    "isrc": "NO2DY2300200"
+  },
+  {
+    "title": "Look At Us - Live",
+    "artist": "Dag Erik Oksvold",
+    "isrc": "NO2DY2300262"
+  },
+  {
+    "title": "Purple Rain",
+    "artist": "Malin Joneid Ellefsen",
+    "isrc": "NOUM71700444"
+  },
+  {
+    "title": "Before I Go",
+    "artist": "Øystein Hegvik",
+    "isrc": "NOUM71800420"
+  },
+  {
+    "title": "Dilla på",
+    "artist": "MGPjr All Stars 2015",
+    "isrc": "NO72F1505011"
+  },
+  {
+    "title": "Ferievenn",
+    "artist": "Tobine",
+    "isrc": "NOB0H1710701"
+  },
+  {
+    "title": "Står I Regnet",
+    "artist": "Karoline",
+    "isrc": "DKBV70502504"
+  },
+  {
+    "title": "Everybody's Changing - Live",
+    "artist": "Sondre Bjelland",
+    "isrc": "NOITV2100360"
+  },
+  {
+    "title": "Verden er vår",
+    "artist": "MGPjr Allstars 2014",
+    "isrc": "NOZ7F1402110"
+  },
+  {
+    "title": "Starten på noe nytt - Singback",
+    "artist": "MGPjr Allstars 2016",
+    "isrc": "NOZ7F1604022"
+  },
+  {
+    "title": "Finar enn nånn gang",
+    "artist": "Maren Emilie, Sturla",
+    "isrc": "QM6MZ2475170"
+  },
+  {
+    "title": "The Sound of Silence",
+    "artist": "Tara Bloch-Vere",
+    "isrc": "NO2DY2200188"
+  },
+  {
+    "title": "Vår Beste Dag - Live",
+    "artist": "Emma Wik",
+    "isrc": "NO2DY2200048"
+  },
+  {
+    "title": "Online - Sing Back",
+    "artist": "Mathea-Mari",
+    "isrc": "NOZ7F1402060"
+  },
+  {
+    "title": "Svikter aldri igjen",
+    "artist": "Torstein",
+    "isrc": "DKBV71002809"
+  },
+  {
+    "title": "Unforgettable",
+    "artist": "Marcus & Martinus",
+    "isrc": "SEUM72301806"
+  },
+  {
+    "title": "Goodbye Yellow Brick Road - Live",
+    "artist": "Emilie Omland Grimstad",
+    "isrc": "NO2DY2200040"
+  },
+  {
+    "title": "Down To The Water",
+    "artist": "Maria Engås Halsne",
+    "isrc": "NOUM72000237"
+  },
+  {
+    "title": "Vi Liker Å Danse",
+    "artist": "Caromilie",
+    "isrc": "NO25D0901060"
+  },
+  {
+    "title": "Signs",
+    "artist": "Ash & Thorns",
+    "isrc": "QZK6G2093511"
+  },
+  {
+    "title": "Jar of Hearts",
+    "artist": "Kristoffer Sørensen",
+    "isrc": "NO2DY2300332"
+  },
+  {
+    "title": "The Winner Takes It All",
+    "artist": "André Askeland Hagen",
+    "isrc": "NO2DY2200175"
+  },
+  {
+    "title": "Shallow - Fra TV-Programmet \"The Voice\"",
+    "artist": "Oskar Oiestad, Maria Engås Halsne",
+    "isrc": "NOUM71900226"
+  },
+  {
+    "title": "Run",
+    "artist": "Knut Marius",
+    "isrc": "NOUM71300999"
+  },
+  {
+    "title": "Regn fra blå himmel - Live",
+    "artist": "Maria Honningsvåg-Rørstad, Anne Førde",
+    "isrc": "NO2DY2200119"
+  },
+  {
+    "title": "Whisper all my secrets",
+    "artist": "Ella Lockert",
+    "isrc": "NOLOC2301011"
+  },
+  {
+    "title": "Musikk Er Terapi.",
+    "artist": "Magnus",
+    "isrc": "QZDA41859804"
+  },
+  {
+    "title": "Brother",
+    "artist": "Gøran Stavang Skage, James Fox",
+    "isrc": "NOITV2100650"
+  },
+  {
+    "title": "Sentimentalist - Live",
+    "artist": "Amanda Winsjansen, Emma Einmo",
+    "isrc": "NO2DY2300145"
+  },
+  {
+    "title": "One Fight At A Time",
+    "artist": "Andrea Santiago",
+    "isrc": "UKT2H2398008"
+  },
+  {
+    "title": "Unknown (To You)",
+    "artist": "Einar Christiansen, Audun Haukvik",
+    "isrc": "NOITV2100570"
+  },
+  {
+    "title": "Når Jeg Ser På Deg",
+    "artist": "Henrik, MGPjr",
+    "isrc": "NOZ7F1301030"
+  },
+  {
+    "title": "The Truth",
+    "artist": "Nomzi Kumalo",
+    "isrc": "NO2DY2300047"
+  },
+  {
+    "title": "Everybody Knows - Live",
+    "artist": "Camilla Amundsen, Nomzi Kumalo",
+    "isrc": "NO2DY2300175"
+  },
+  {
+    "title": "Dancing On My Own - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Kristian Raanes",
+    "isrc": "NOUM71800409"
+  },
+  {
+    "title": "My Beautiful",
+    "artist": "Emma R",
+    "isrc": "TCAFH2019181"
+  },
+  {
+    "title": "Writing's On The Wall",
+    "artist": "August Dahl, Abel Eitland",
+    "isrc": "NOUM71700320"
+  },
+  {
+    "title": "Into The Unknown - Live",
+    "artist": "Frode Vassel",
+    "isrc": "NOITV2100260"
+  },
+  {
+    "title": "Runnin' (Lose It All)",
+    "artist": "Maria Celin Strisland",
+    "isrc": "NOUM71700377"
+  },
+  {
+    "title": "Bridge Over Troubled Water - Live",
+    "artist": "Lill Regine Skaug, Thomas Tvedt",
+    "isrc": "NO2DY2300133"
+  },
+  {
+    "title": "Wicked Game - Fra TV-Programmet \"The Voice\"",
+    "artist": "Edward Mustad",
+    "isrc": "NOUM71900168"
+  },
+  {
+    "title": "Fire On Fire - Live from the Studio",
+    "artist": "Christiane",
+    "isrc": "NO2781904010"
+  },
+  {
+    "title": "I Don't Want To Miss A Thing",
+    "artist": "James Fox",
+    "isrc": "NOITV2101130"
+  },
+  {
+    "title": "Gravity - Live",
+    "artist": "Øyvind Weiseth",
+    "isrc": "NO2DY2200017"
+  },
+  {
+    "title": "Fun While It Lasted - Live",
+    "artist": "Cornelia Helgor",
+    "isrc": "NO2DY2300248"
+  },
+  {
+    "title": "Perfect Ruin",
+    "artist": "Byron Williams Jr, Tilla Gaasø",
+    "isrc": "NOITV2100640"
+  },
+  {
+    "title": "Hatue Idola",
+    "artist": "Kristin",
+    "isrc": "IDUM72100468"
+  },
+  {
+    "title": "Number One",
+    "artist": "Dina",
+    "isrc": "AEA0Q1932969"
+  },
+  {
+    "title": "One Night Only - Live",
+    "artist": "Jeanett Naley",
+    "isrc": "NO2DY2300238"
+  },
+  {
+    "title": "Bli hos meg - Live",
+    "artist": "Celine Rensel, Ole Henrik Risøy Solheim",
+    "isrc": "NO2DY2300163"
+  },
+  {
+    "title": "Glemt",
+    "artist": "Emu & Abu",
+    "isrc": "QM6N22082488"
+  },
+  {
+    "title": "Einn",
+    "artist": "Sebastian James Hekneby",
+    "isrc": "NOUM71700383"
+  },
+  {
+    "title": "Running With The Wolves - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amanda Rusti",
+    "isrc": "NOUM71900177"
+  },
+  {
+    "title": "Feel Fine",
+    "artist": "Julian Dein",
+    "isrc": "NOITV2100750"
+  },
+  {
+    "title": "I Don't Wanna Know",
+    "artist": "Daniel Granum, Johanne Flakne",
+    "isrc": "NOITV2100690"
+  },
+  {
+    "title": "Fool for Your Loving - Live",
+    "artist": "Terje Harøy",
+    "isrc": "NO2DY2300079"
+  },
+  {
+    "title": "Hjerteknuser",
+    "artist": "Bendik Solberg",
+    "isrc": "NOUM72000195"
+  },
+  {
+    "title": "Speechless",
+    "artist": "Tilla Gaasø",
+    "isrc": "NOITV2100830"
+  },
+  {
+    "title": "Ka e du redd for - Fra TV-Programmet \"The Voice\"",
+    "artist": "Nora Aurdal, Preben Thorsteinsson",
+    "isrc": "NOUM71900201"
+  },
+  {
+    "title": "Pray For Me",
+    "artist": "Kristin Husøy",
+    "isrc": "GBWUL1943909"
+  },
+  {
+    "title": "Baggage",
+    "artist": "Mie Omholt",
+    "isrc": "TCAGX2338796"
+  },
+  {
+    "title": "Stopp",
+    "artist": "Disel",
+    "isrc": "NOZ7F1402070"
+  },
+  {
+    "title": "Badekar",
+    "artist": "Jørgen",
+    "isrc": "QZHN32014022"
+  },
+  {
+    "title": "Issues - Live",
+    "artist": "Milea",
+    "isrc": "NOITV2100410"
+  },
+  {
+    "title": "Friday I'm in Love",
+    "artist": "Oselie",
+    "isrc": "NO9MC2007010"
+  },
+  {
+    "title": "Lost On You - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Vilde Skogen",
+    "isrc": "NOUM71800374"
+  },
+  {
+    "title": "One of These Days",
+    "artist": "Marius Samuelsen",
+    "isrc": "NOAGW1600373"
+  },
+  {
+    "title": "Si Meg Hva Som Skjer",
+    "artist": "Oliver Mathisen",
+    "isrc": "NOAJR2400015"
+  },
+  {
+    "title": "I Know",
+    "artist": "Henriette Linja",
+    "isrc": "QZDA41863740"
+  },
+  {
+    "title": "Soulmate - Fra TV-Programmet \"The Voice\"",
+    "artist": "Hanna Solemdal, Sebastian Hågensen",
+    "isrc": "NOUM71900221"
+  },
+  {
+    "title": "Cover Me Up - Fra TV-Programmet \"The Voice\"",
+    "artist": "Kristoffer Edvardsen",
+    "isrc": "NOUM71900051"
+  },
+  {
+    "title": "That Leaving Feeling - Fra TV-Programmet \"The Voice\"",
+    "artist": "Steffi Buie, Edward Mustad",
+    "isrc": "NOUM71900199"
+  },
+  {
+    "title": "Another Love - Live",
+    "artist": "Connie Damdalen",
+    "isrc": "NO2DY2200067"
+  },
+  {
+    "title": "Marvin Gaye",
+    "artist": "Mads Sølsnes Gjetmundsen, Linn Kristin Mæland",
+    "isrc": "NOITV2100720"
+  },
+  {
+    "title": "The Story - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amalie Hamborgstrøm",
+    "isrc": "NOUM71900130"
+  },
+  {
+    "title": "Nessun Dorma - Live",
+    "artist": "Mads Wighus",
+    "isrc": "NOITV2100120"
+  },
+  {
+    "title": "Wasted Years - Live",
+    "artist": "Endre Olsen",
+    "isrc": "NO2DY2300264"
+  },
+  {
+    "title": "Butterfly",
+    "artist": "Emma Noor",
+    "isrc": "NO0OU2118020"
+  },
+  {
+    "title": "Jeg Bare Smiler",
+    "artist": "Maren",
+    "isrc": "DKBV70908606"
+  },
+  {
+    "title": "The Moon Is a Harsh Mistress - Live",
+    "artist": "Alessandra Mele",
+    "isrc": "NO2DY2200156"
+  },
+  {
+    "title": "Du er perfekt",
+    "artist": "MGPjr Allstars",
+    "isrc": "QM6N22090494"
+  },
+  {
+    "title": "Ta Det Som Det Kommer",
+    "artist": "Erlend",
+    "isrc": "DKBV71104008"
+  },
+  {
+    "title": "Johnny's Song",
+    "artist": "Synne Helland",
+    "isrc": "NOUM71700252"
+  },
+  {
+    "title": "Driving Alone",
+    "artist": "Audun Haukvik",
+    "isrc": "NOEGB2006010"
+  },
+  {
+    "title": "Supermarked Flowers - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Casper Kuhlmann",
+    "isrc": "NOUM71800394"
+  },
+  {
+    "title": "Dance With My Father - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Carlisle",
+    "isrc": "NOUM71800391"
+  },
+  {
+    "title": "Oro Jáska Beana",
+    "artist": "MGP, The BlackSheeps",
+    "isrc": "DKBV70809510"
+  },
+  {
+    "title": "Over the Sea - Edwin Klift & SCVN Remix",
+    "artist": "Magnus Bokn, Edwin Klift, SCVN",
+    "isrc": "CALVP1943920"
+  },
+  {
+    "title": "Reis deg opp",
+    "artist": "BliXMusic, Maiken",
+    "isrc": "QM6N22082481"
+  },
+  {
+    "title": "Mas",
+    "artist": "Mina Nystad",
+    "isrc": "NOUM71201005"
+  },
+  {
+    "title": "På vent",
+    "artist": "Berge Ohm",
+    "isrc": "NOUM71201006"
+  },
+  {
+    "title": "I'll stay - Live",
+    "artist": "Mina Klokkersveen Thomle, Oda Dahl",
+    "isrc": "NO2DY2300159"
+  },
+  {
+    "title": "Smilet i ditt eget speil - Live",
+    "artist": "Kirsti Lucena",
+    "isrc": "NO2DY2200133"
+  },
+  {
+    "title": "Castle On The Hill - Fra TV-Programmet \"The Voice\"",
+    "artist": "Preben Thorsteinsson",
+    "isrc": "NOUM71900037"
+  },
+  {
+    "title": "Good News - Live",
+    "artist": "Rakel Villmones Haug",
+    "isrc": "NO2DY2200045"
+  },
+  {
+    "title": "La meg forstå",
+    "artist": "Nina Ugland",
+    "isrc": "NOUM71201011"
+  },
+  {
+    "title": "Headlights",
+    "artist": "Frida Hunshammer, Ida Lunde",
+    "isrc": "NOUM71700337"
+  },
+  {
+    "title": "Always - Live",
+    "artist": "André Hustoft Nesheim, Christina Bergli",
+    "isrc": "NO2DY2200099"
+  },
+  {
+    "title": "Tipp Topp",
+    "artist": "Sunniva",
+    "isrc": "QM6N22082482"
+  },
+  {
+    "title": "Keep That Letter Safe",
+    "artist": "Elise Nærø, Katharina Kockum",
+    "isrc": "NOUM71700322"
+  },
+  {
+    "title": "Du Planter Et Smil",
+    "artist": "Tiril",
+    "isrc": "DKBV71104007"
+  },
+  {
+    "title": "Som en ørn - Sing Back",
+    "artist": "Monkeyboy",
+    "isrc": "NOZ7F1402080"
+  },
+  {
+    "title": "Runnin' (Lose It All) - Fra TV-Programmet \"The Voice\"",
+    "artist": "Alice Kucevic",
+    "isrc": "NOUM71900048"
+  },
+  {
+    "title": "Ja Vi Elsker Brann",
+    "artist": "Noah",
+    "isrc": "NOCMX1806010"
+  },
+  {
+    "title": "Rewrite The Stars",
+    "artist": "Christine Ringborg, Knut-Sigurd Bygland",
+    "isrc": "NOITV2100560"
+  },
+  {
+    "title": "Stuck In The Middle With You - Live",
+    "artist": "Cloudy, Odin Brennhaug",
+    "isrc": "NO2DY2300158"
+  },
+  {
+    "title": "I Just Can't Stop Loving You - Live",
+    "artist": "Chris Lund, Alessandra Mele",
+    "isrc": "NO2DY2200097"
+  },
+  {
+    "title": "Det e hælg - Sing Back",
+    "artist": "Tyra",
+    "isrc": "NOZ7F1402030"
+  },
+  {
+    "title": "tekst meg (når du er full)",
+    "artist": "Kamilla Wigestrand",
+    "isrc": "NO1XO2401010"
+  },
+  {
+    "title": "When We Were Young - Fra TV-Programmet \"The Voice\"",
+    "artist": "Rebecca Pettersen",
+    "isrc": "NOUM71900151"
+  },
+  {
+    "title": "Du",
+    "artist": "Hedvig",
+    "isrc": "NOZ7F1902006"
+  },
+  {
+    "title": "Running To The Sea",
+    "artist": "Olaves Fiskum",
+    "isrc": "NOUM71700232"
+  },
+  {
+    "title": "Chandelier",
+    "artist": "Abel Eitland",
+    "isrc": "NOUM71700251"
+  },
+  {
+    "title": "Think Of Me - Live",
+    "artist": "Benedicte Årving",
+    "isrc": "NOITV2100330"
+  },
+  {
+    "title": "Mixer - Live",
+    "artist": "Emilie Bjørnstad, Iben Brevik",
+    "isrc": "NO2DY2300130"
+  },
+  {
+    "title": "Out Of The Rain - Live",
+    "artist": "Sebastian Christensen",
+    "isrc": "NO2DY2200020"
+  },
+  {
+    "title": "In Your Arms",
+    "artist": "Martinius Solum, MIIA",
+    "isrc": "NOIHW2101010"
+  },
+  {
+    "title": "I Don't Wanna See You With Her",
+    "artist": "Lillen Stenberg",
+    "isrc": "NOUM71700384"
+  },
+  {
+    "title": "Break Free",
+    "artist": "Linn Kristin Mæland",
+    "isrc": "NOITV2100800"
+  },
+  {
+    "title": "Riptide - Fra TV-Programmet \"The Voice\"",
+    "artist": "June Salomonsen",
+    "isrc": "NOUM71900035"
+  },
+  {
+    "title": "En natt forbi",
+    "artist": "Tore Pedersen",
+    "isrc": "NOUM72000201"
+  },
+  {
+    "title": "Ms. Jackson - Fra TV-Programmet \"The Voice\"",
+    "artist": "Endre Gryting",
+    "isrc": "NOUM71900154"
+  },
+  {
+    "title": "Lovely - Fra TV-Programmet \"The Voice\"",
+    "artist": "Hana Raca, Amadeus Evanne",
+    "isrc": "NOUM71900225"
+  },
+  {
+    "title": "Aloha Ke Akua",
+    "artist": "Egil Sverre Langnes, JereMaya",
+    "isrc": "NOUM71700303"
+  },
+  {
+    "title": "Everything About You",
+    "artist": "JereMaya, Børge Gjertson Våge",
+    "isrc": "NO6H41601010"
+  },
+  {
+    "title": "I Don't Wanna Miss A Thing",
+    "artist": "Harald Norheim, Anders Gjønnes, Kim Wigaard",
+    "isrc": "NOUM71700318"
+  },
+  {
+    "title": "Sjao deg igjen",
+    "artist": "Sindre Steig",
+    "isrc": "NOT762202010"
+  },
+  {
+    "title": "Ingenting å tape - Sing Back",
+    "artist": "Aksel",
+    "isrc": "NOZ7F1402050"
+  },
+  {
+    "title": "Når Vi Blir Berømt",
+    "artist": "Johannes, Hugh Martin",
+    "isrc": "DKBV70705709"
+  },
+  {
+    "title": "På Vei - Instrumental",
+    "artist": "A-Stream, MGPjr",
+    "isrc": "NOZ7F1301051"
+  },
+  {
+    "title": "Ain't My Problem",
+    "artist": "Uzia",
+    "isrc": "QMDA72247380"
+  },
+  {
+    "title": "Castle On The Hill",
+    "artist": "Ragnhild Harket",
+    "isrc": "NOUM71700280"
+  },
+  {
+    "title": "Like I'm Gonna Lose You",
+    "artist": "Ingeborg Walther, Elias Salbu",
+    "isrc": "NOUM71700288"
+  },
+  {
+    "title": "(We Were Doubts In) Cotton Clouds",
+    "artist": "Ida Lunde",
+    "isrc": "GB-SMU-27-68057"
+  },
+  {
+    "title": "Head High - Oslo Pride 2021",
+    "artist": "Knut Kippersund",
+    "isrc": "GX3Q92047282"
+  },
+  {
+    "title": "Ække så kul som deg",
+    "artist": "Stone Heart",
+    "isrc": "NOZ7F1902001"
+  },
+  {
+    "title": "Rains",
+    "artist": "Ane.Fin",
+    "isrc": "NOHT42202010"
+  },
+  {
+    "title": "Flügel",
+    "artist": "Celine, Denise, Lisa, Malisa, Pia",
+    "isrc": "USWD11780874"
+  },
+  {
+    "title": "Sånne Som Oss",
+    "artist": "Lena Haarberg",
+    "isrc": "NOB0H1912101"
+  },
+  {
+    "title": "Wicked Game",
+    "artist": "Ola Reistad",
+    "isrc": "NOHP81664010"
+  },
+  {
+    "title": "Liability - Fra TV-Programmet \"The Voice\"",
+    "artist": "Benedikte Bjelland",
+    "isrc": "NOUM71900049"
+  },
+  {
+    "title": "Bare Du",
+    "artist": "Sebastian Hågensen",
+    "isrc": "QZTAX2206866"
+  },
+  {
+    "title": "We Run",
+    "artist": "Stig Gustu Larsen",
+    "isrc": "QZTB42291209"
+  },
+  {
+    "title": "Don't Kill My Vibe - Fra TV-Programmet \"The Voice\"",
+    "artist": "Helene Seljehaug",
+    "isrc": "NOUM71900002"
+  },
+  {
+    "title": "Jesus, Take The Wheel",
+    "artist": "Silje Titlestad",
+    "isrc": "NOUM71700340"
+  },
+  {
+    "title": "Riv i hjertet",
+    "artist": "Elias Salbu",
+    "isrc": "NOUM71700237"
+  },
+  {
+    "title": "Du er suveren",
+    "artist": "Ronny Wikmark, Skjalg Raaen",
+    "isrc": "NONBR1500011"
+  },
+  {
+    "title": "Sangen",
+    "artist": "Ingvild",
+    "isrc": "DKBV70908604"
+  },
+  {
+    "title": "Til Solen Står Op",
+    "artist": "MGP, Amalie",
+    "isrc": "DKUM70700252"
+  },
+  {
+    "title": "Du Og Jeg",
+    "artist": "2Boys",
+    "isrc": "DKBV70908603"
+  },
+  {
+    "title": "Moves Like Jagger",
+    "artist": "Thora Jonassen, Magnus Bokn",
+    "isrc": "NOUM71700286"
+  },
+  {
+    "title": "Billie Jean",
+    "artist": "Dina Matheussen",
+    "isrc": "NOUM72000137"
+  },
+  {
+    "title": "Creep",
+    "artist": "Kristian Storvold Davidsen, Sarah Bøhn",
+    "isrc": "NOITV2100620"
+  },
+  {
+    "title": "Taivas On Sininen Ja Valkoinen",
+    "artist": "Edvard",
+    "isrc": "FIBAR0200083"
+  },
+  {
+    "title": "Dans, Data & Dumle",
+    "artist": "4 You",
+    "isrc": "DKBV70502501"
+  },
+  {
+    "title": "They Have to Run",
+    "artist": "Elida",
+    "isrc": "TCAGE2224188"
+  },
+  {
+    "title": "Friday I'm In Love - Live",
+    "artist": "Kine Kleveland, André Askeland Hagen",
+    "isrc": "NO2DY2200074"
+  },
+  {
+    "title": "I'm Still Standing - Live",
+    "artist": "Thomas Wesley Brasel",
+    "isrc": "NOITV2100420"
+  },
+  {
+    "title": "Heart Beats - Fra TV-Programmet \"The Voice\"",
+    "artist": "Trina Coleman",
+    "isrc": "NOUM71900182"
+  },
+  {
+    "title": "Microphone Sheeka",
+    "artist": "Alma",
+    "isrc": "USDHM1621310"
+  },
+  {
+    "title": "Can't Take My Eyes Off You - Fra TV-Programmet \"The Voice\"",
+    "artist": "Moira Halaas, Endre Gryting",
+    "isrc": "NOUM71900220"
+  },
+  {
+    "title": "Self-Destruct",
+    "artist": "Henrik Fuglem",
+    "isrc": "SE5SK2000301"
+  },
+  {
+    "title": "Just To See You Smile - Fra TV-Programmet \"The Voice\"",
+    "artist": "Marius Brynjulfsen",
+    "isrc": "NOUM71900180"
+  },
+  {
+    "title": "Maria Maria - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Anders Mowatt",
+    "isrc": "NOUM71800370"
+  },
+  {
+    "title": "At Seventeen",
+    "artist": "Dina Sæle Ek, Ninja Krystad",
+    "isrc": "NOUM71700327"
+  },
+  {
+    "title": "Du e så fin",
+    "artist": "Alfred",
+    "isrc": "NOZ7F1902008"
+  },
+  {
+    "title": "What For?",
+    "artist": "Aisha",
+    "isrc": "LVA101000019"
+  },
+  {
+    "title": "Murder Song (5, 4, 3, 2, 1)",
+    "artist": "Alexandra Corneeva",
+    "isrc": "NOUM71700233"
+  },
+  {
+    "title": "All I Ask",
+    "artist": "Jorunn Undheim",
+    "isrc": "NOUM71700253"
+  },
+  {
+    "title": "Younger",
+    "artist": "Isabelle Bjørneraas",
+    "isrc": "NOUM71700371"
+  },
+  {
+    "title": "Just The Two Of Us - Fra TV-Programmet \"The Voice\"",
+    "artist": "Sofie Gjerde Tonev",
+    "isrc": "NOUM71900116"
+  },
+  {
+    "title": "Coconut Skins",
+    "artist": "Marius Brustad",
+    "isrc": "NOUM71700275"
+  },
+  {
+    "title": "Aldri gi opp!",
+    "artist": "CAOS",
+    "isrc": "NOZ7F1902003"
+  },
+  {
+    "title": "Hello",
+    "artist": "Oda Kristine Gondrosen",
+    "isrc": "NOUM72000242"
+  },
+  {
+    "title": "Time Is A Healer - Fra TV-Programmet \"The Voice\"",
+    "artist": "Ida Ganes",
+    "isrc": "NOUM71900014"
+  },
+  {
+    "title": "Say You Won't Let Go - Fra TV-Programmet \"The Voice\"",
+    "artist": "Celina Gjerald, Kristoffer Edvardsen",
+    "isrc": "NOUM71900202"
+  },
+  {
+    "title": "Juice",
+    "artist": "Markus Grønstad",
+    "isrc": "NOUM72000082"
+  },
+  {
+    "title": "Teardrop",
+    "artist": "Karina Pieroth",
+    "isrc": "NOUM71700379"
+  },
+  {
+    "title": "NO",
+    "artist": "Anna Anita Jaskiv",
+    "isrc": "NOUM72000077"
+  },
+  {
+    "title": "My Mind",
+    "artist": "Amalie Haugen Øvstedal",
+    "isrc": "NOITV2100740"
+  },
+  {
+    "title": "Break My Heart Again - Live",
+    "artist": "Isak Øvrevold",
+    "isrc": "NO2DY2300078"
+  },
+  {
+    "title": "The Joke",
+    "artist": "Ole Henrik Risøy Solheim",
+    "isrc": "NO2DY2300294"
+  },
+  {
+    "title": "Åbbår",
+    "artist": "Murphy's Law",
+    "isrc": "NONBR1500002"
+  },
+  {
+    "title": "Lady Marmalade - Fra TV-Programmet \"The Voice\"",
+    "artist": "Saima Iren Mian, Helene Seljehaug",
+    "isrc": "NOUM71900189"
+  },
+  {
+    "title": "Tingo Tilingo",
+    "artist": "F5",
+    "isrc": "ES71G1920072"
+  },
+  {
+    "title": "Bedre enn deg",
+    "artist": "Elena",
+    "isrc": "QM6N22082485"
+  },
+  {
+    "title": "Back To Black",
+    "artist": "Mona-Linn Owe",
+    "isrc": "NOUM71700236"
+  },
+  {
+    "title": "Strong",
+    "artist": "Ninja Krystad",
+    "isrc": "NOUM71700262"
+  },
+  {
+    "title": "Waiting For Superman - Fra TV-Programmet \"The Voice\"",
+    "artist": "Sondre Mikalsen",
+    "isrc": "NOUM71900087"
+  },
+  {
+    "title": "Keep Your Hands To Yourself - Live",
+    "artist": "Ann Kristin Eikeland",
+    "isrc": "NO2DY2200046"
+  },
+  {
+    "title": "Joanna - Fra TV-Programmet \"The Voice\"",
+    "artist": "Marie Øvstebø",
+    "isrc": "NOUM71900133"
+  },
+  {
+    "title": "Hurts So Good",
+    "artist": "Nora Chayed, Karina Pieroth, Marius Brustad",
+    "isrc": "NOUM71700329"
+  },
+  {
+    "title": "Gravity - Live",
+    "artist": "Alexa Valentina",
+    "isrc": "NOITV2100160"
+  },
+  {
+    "title": "Tennessee Whiskey - Live",
+    "artist": "Andreas Dyrdal",
+    "isrc": "NO2DY2300097"
+  },
+  {
+    "title": "Tomorrow - Live",
+    "artist": "Ane Marit Hølås",
+    "isrc": "NO2DY2200026"
+  },
+  {
+    "title": "You Are The Reason",
+    "artist": "Aniston Mariyampillai",
+    "isrc": "NOUM72000107"
+  },
+  {
+    "title": "Voksesmerter - Live",
+    "artist": "Audhild Høivik",
+    "isrc": "NO2DY2200038"
+  },
+  {
+    "title": "Lady - Live",
+    "artist": "Aurora Mathiesen",
+    "isrc": "NO2DY2300032"
+  },
+  {
+    "title": "Drømmer",
+    "artist": "Beat-Track",
+    "isrc": "NOUM71201009"
+  },
+  {
+    "title": "Counting Stars",
+    "artist": "Bjørnar Reime, Martinius Solum",
+    "isrc": "NOITV2100630"
+  },
+  {
+    "title": "Before You Go - Live",
+    "artist": "Camilla Berget, Terje Harøy",
+    "isrc": "NO2DY2300165"
+  },
+  {
+    "title": "I Say A Little Prayer - Live",
+    "artist": "Camilla Sørensen",
+    "isrc": "NOITV2100110"
+  },
+  {
+    "title": "Queen Of The Night",
+    "artist": "Caroline Dubland Andersen, Maria Tetlie",
+    "isrc": "NOITV2100530"
+  },
+  {
+    "title": "Can't Take My Eyes off You - Live",
+    "artist": "Caroline Slattum",
+    "isrc": "NO2DY2300269"
+  },
+  {
+    "title": "Whiskey Lullaby",
+    "artist": "Charlotte Sofie Eliassen, Ash & Thorns",
+    "isrc": "NOITV2100600"
+  },
+  {
+    "title": "I Knew You Were Waiting (For Me) - Live",
+    "artist": "Christa Sandreid, Ståle Baldvinsson",
+    "isrc": "NO2DY2300143"
+  },
+  {
+    "title": "What Other People Say - Live",
+    "artist": "Dennis Hermansen, Ulrikke Nilsen",
+    "isrc": "NO2DY2200102"
+  },
+  {
+    "title": "Rolling In The Deep - Live",
+    "artist": "Elina Helmichsen",
+    "isrc": "NOITV2100450"
+  },
+  {
+    "title": "Million Years Ago - Live",
+    "artist": "Emilie Fosshaug",
+    "isrc": "NO2DY2300003"
+  },
+  {
+    "title": "Wondering - Live",
+    "artist": "Erica Frelsøy Aune",
+    "isrc": "NO2DY2200151"
+  },
+  {
+    "title": "Resolution - Live",
+    "artist": "Erlend Engh Johnsen",
+    "isrc": "NO2DY2200005"
+  },
+  {
+    "title": "Vi Er Gutta",
+    "artist": "Finstad Bad Boys",
+    "isrc": "DKBV70908601"
+  },
+  {
+    "title": "Du kan stole på meg",
+    "artist": "Frida Augusta Gudim",
+    "isrc": "NOUM71201013"
+  },
+  {
+    "title": "Jeg glemmer deg aldri - Live",
+    "artist": "Goda Levickaite, Axel Frønes",
+    "isrc": "NO2DY2200100"
+  },
+  {
+    "title": "In Vain - Live",
+    "artist": "Henriette Humlekjær",
+    "isrc": "NOITV2100390"
+  },
+  {
+    "title": "Hurt - Live",
+    "artist": "Henriette Schei",
+    "isrc": "NO2DY2300112"
+  },
+  {
+    "title": "Golden Ticket",
+    "artist": "Iben Brevik",
+    "isrc": "NO2DY2300289"
+  },
+  {
+    "title": "Go The Distance",
+    "artist": "Ingebjørg Andrea Ådnanes, Thomas Wesley Brasel",
+    "isrc": "NOITV2100610"
+  },
+  {
+    "title": "we've been loving in silence - Live",
+    "artist": "Jenny Haugen",
+    "isrc": "NO2DY2300083"
+  },
+  {
+    "title": "Youth - Live",
+    "artist": "Johanne Flakne",
+    "isrc": "NOITV2100350"
+  },
+  {
+    "title": "Hold Me While You Wait - Live",
+    "artist": "Julian Garcia Sandtorv",
+    "isrc": "NOITV2100340"
+  },
+  {
+    "title": "October Sky - Live",
+    "artist": "Julie Løseth Bergset",
+    "isrc": "NO2DY2200027"
+  },
+  {
+    "title": "jeg elsker deg, men - Live",
+    "artist": "Kamilla Følsvik Rønnekleiv, Tommy Bergmann",
+    "isrc": "NO2DY2300129"
+  },
+  {
+    "title": "Anthem - Live",
+    "artist": "Knut-Sigurd Bygland",
+    "isrc": "NOITV2100230"
+  },
+  {
+    "title": "Fly av sted",
+    "artist": "MGPjr 2012",
+    "isrc": "NOUM71201015"
+  },
+  {
+    "title": "Tennessee Whiskey",
+    "artist": "Madeleine Tverberg",
+    "isrc": "NO2DY2200234"
+  },
+  {
+    "title": "No Time To Die - Live",
+    "artist": "Maria Marzano",
+    "isrc": "NOITV2100010"
+  },
+  {
+    "title": "Lay Me Down",
+    "artist": "Maria Tetlie",
+    "isrc": "NOITV2100890"
+  },
+  {
+    "title": "Say Something Now - Live",
+    "artist": "Mathea Lødemel, Madeleine Tverberg",
+    "isrc": "NO2DY2200076"
+  },
+  {
+    "title": "Lover, Where Do You Live? - Live",
+    "artist": "Mathilde W. Taugard",
+    "isrc": "NO2DY2200135"
+  },
+  {
+    "title": "Gi aldri opp",
+    "artist": "My Brother & Me",
+    "isrc": "NOUM71201010"
+  },
+  {
+    "title": "I Saw Her Standing There - Live",
+    "artist": "Odin Brennhaug",
+    "isrc": "NO2DY2300095"
+  },
+  {
+    "title": "Skolen",
+    "artist": "Rachel & Anney",
+    "isrc": "DKBV70908610"
+  },
+  {
+    "title": "Skate",
+    "artist": "Ruth Victoria Rømyhr",
+    "isrc": "NOUM71201012"
+  },
+  {
+    "title": "Wade In The Water - Live",
+    "artist": "Sarah Bøhn",
+    "isrc": "NOITV2100370"
+  },
+  {
+    "title": "Love You I Do - Live",
+    "artist": "Sarah Emilie Birkeland",
+    "isrc": "NOITV2100280"
+  },
+  {
+    "title": "Hekta",
+    "artist": "Sebastian Eikeland",
+    "isrc": "NOUM71201008"
+  },
+  {
+    "title": "Not Gonna Cry",
+    "artist": "Signe Sparby",
+    "isrc": "NOUM72000114"
+  },
+  {
+    "title": "Alt Hva Jeg Vil Bli",
+    "artist": "Sikt Inn",
+    "isrc": "DKBV70908605"
+  },
+  {
+    "title": "Come What May - Live",
+    "artist": "Stian Åkvik, Tine Gajda",
+    "isrc": "NO2DY2200094"
+  },
+  {
+    "title": "Elastic Heart - Live",
+    "artist": "Tara Nicolaisen",
+    "isrc": "NO2DY2200134"
+  },
+  {
+    "title": "You Want To - Live",
+    "artist": "Terje Dahlberg",
+    "isrc": "NOITV2100090"
+  },
+  {
+    "title": "Säg det igen - Live",
+    "artist": "Tine Gajda",
+    "isrc": "NO2DY2200140"
+  },
+  {
+    "title": "July - Live",
+    "artist": "Tuva Knutsen",
+    "isrc": "NO2DY2200004"
+  },
+  {
+    "title": "Adore You",
+    "artist": "Ulrikke Nilsen",
+    "isrc": "NO2DY2200178"
+  },
+  {
+    "title": "You Are The Reason - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amadeus Evanne",
+    "isrc": "NOUM71900185"
+  },
+  {
+    "title": "Her",
+    "artist": "Carmina Granly",
+    "isrc": "NOUM71700282"
+  },
+  {
+    "title": "Lay It On Me - Fra TV-Programmet \"The Voice\"",
+    "artist": "Jeanette Vik",
+    "isrc": "NOUM71900020"
+  },
+  {
+    "title": "Kom til oss",
+    "artist": "Basic Warning",
+    "isrc": "NONBR1500008"
+  },
+  {
+    "title": "Backbeat - Fra TV-Programmet \"The Voice\"",
+    "artist": "Margot Moe, Synne Helland",
+    "isrc": "NOUM71900203"
+  },
+  {
+    "title": "Lite og stort - Fra TV-Programmet \"The Voice\"",
+    "artist": "Emilie Aasvangen",
+    "isrc": "NOUM71900050"
+  },
+  {
+    "title": "I See Fire",
+    "artist": "Lars Sollie",
+    "isrc": "NOUM71700247"
+  },
+  {
+    "title": "Dark Love",
+    "artist": "ARBAZ, DotxB",
+    "isrc": "TCAHX2472682"
+  },
+  {
+    "title": "Boom Clap - Live",
+    "artist": "Amina Emilie, Cornelia Helgor",
+    "isrc": "NO2DY2300162"
+  },
+  {
+    "title": "Hundrevis av år",
+    "artist": "Anine",
+    "isrc": "NOZ7F1902009"
+  },
+  {
+    "title": "Kloden er syk",
+    "artist": "Anna & Emma",
+    "isrc": "NOZ7F1902007"
+  },
+  {
+    "title": "Daddy Lessons - Fra TV-Programmet \"The Voice\"",
+    "artist": "Anna Lærdal Skuland",
+    "isrc": "NOUM71900157"
+  },
+  {
+    "title": "Scared To Be Lonely - Fra TV-Programmet \"The Voice\"",
+    "artist": "Anne Gudrun Michaelsen",
+    "isrc": "NOUM71900018"
+  },
+  {
+    "title": "Gode minner",
+    "artist": "Beat2Fire, MGPjr",
+    "isrc": "NOZ7F1604008"
+  },
+  {
+    "title": "Heaven's Not For Saints - Fra TV-Programmet \"The Voice\"",
+    "artist": "Carl-Christian Grimstad",
+    "isrc": "NOUM71900186"
+  },
+  {
+    "title": "Da Vinci (Manifiesto 1)",
+    "artist": "Charlie, Zamor, La Tapadera, BaboonEstudios",
+    "isrc": "TCADJ1772885"
+  },
+  {
+    "title": "Lost On You - Fra TV-Programmet \"The Voice\"",
+    "artist": "Charlotte Hjelmeland",
+    "isrc": "NOUM71900126"
+  },
+  {
+    "title": "Colors Of The Wind - Live",
+    "artist": "Charlotte Nilssen, Ane Marit Hølås",
+    "isrc": "NO2DY2200073"
+  },
+  {
+    "title": "Skin - Fra TV-Programmet \"The Voice\"",
+    "artist": "Dan Roger Lid",
+    "isrc": "NOUM71900075"
+  },
+  {
+    "title": "Æ ane itj æ - Sing Back",
+    "artist": "Dråkmat",
+    "isrc": "NOZ7F1402020"
+  },
+  {
+    "title": "Lyset inni meg",
+    "artist": "Emma",
+    "isrc": "NOZ7F1902005"
+  },
+  {
+    "title": "Vi lovar (Besvärjelse) - Fra TV-Programmet \"The Voice\"",
+    "artist": "Emma Holth",
+    "isrc": "NOUM71900089"
+  },
+  {
+    "title": "Jeg tror på dere",
+    "artist": "Emsen",
+    "isrc": "NOZ7F1902002"
+  },
+  {
+    "title": "Den Fineste",
+    "artist": "Føniks",
+    "isrc": "DKBV70705703"
+  },
+  {
+    "title": "How Far I'll Go - Live",
+    "artist": "Guro Elen Woie, Erica Frelsøy Aune",
+    "isrc": "NO2DY2200098"
+  },
+  {
+    "title": "Kan ikke la deg gå",
+    "artist": "Hennika EH",
+    "isrc": "QM6N22082484"
+  },
+  {
+    "title": "Følge hjertet",
+    "artist": "Indiana, MGPjr",
+    "isrc": "NOZ7F1808014"
+  },
+  {
+    "title": "Happy",
+    "artist": "Josefine Janson",
+    "isrc": "NOUM72000080"
+  },
+  {
+    "title": "Din egen vei",
+    "artist": "Jørgen",
+    "isrc": "DKBV70908607"
+  },
+  {
+    "title": "Flying - Live",
+    "artist": "Kristian Reite Grøtteland",
+    "isrc": "NO2DY2300061"
+  },
+  {
+    "title": "If I Die Young",
+    "artist": "Lene Thorud",
+    "isrc": "NOUM71700376"
+  },
+  {
+    "title": "Hip Hop Selvbiografi",
+    "artist": "Lil'P",
+    "isrc": "DKBV70502502"
+  },
+  {
+    "title": "Vision Of Love - Fra TV-Programmet \"The Voice\"",
+    "artist": "Lisa Schøne Johansen",
+    "isrc": "NOUM71900088"
+  },
+  {
+    "title": "Sammen er vi 1000",
+    "artist": "MGP Jr 2009",
+    "isrc": "DKBV70908611"
+  },
+  {
+    "title": "Leve her og nå",
+    "artist": "MGP Jr 2011",
+    "isrc": "DKBV71104011"
+  },
+  {
+    "title": "Kid I 20 95",
+    "artist": "MGP Junior 2008",
+    "isrc": "DKBV70809511"
+  },
+  {
+    "title": "Dominoeffekt",
+    "artist": "MGPjr Allstars 2019",
+    "isrc": "NOZ7F1902011"
+  },
+  {
+    "title": "Bad Boys",
+    "artist": "Marion Mjølhus",
+    "isrc": "NOUM71700254"
+  },
+  {
+    "title": "Bling Bling",
+    "artist": "Martinius",
+    "isrc": "DKBV70809505"
+  },
+  {
+    "title": "Bygda Mi",
+    "artist": "Maskerte Barn",
+    "isrc": "DKBV70502505"
+  },
+  {
+    "title": "Skjera Bagera",
+    "artist": "Maud og Kornelia, MGPjr",
+    "isrc": "NOZ7F1301020"
+  },
+  {
+    "title": "Skola E En Slum",
+    "artist": "New Justice",
+    "isrc": "DKBV70502507"
+  },
+  {
+    "title": "Bare du og jeg",
+    "artist": "Nolea, MGPjr",
+    "isrc": "NOZ7F1808016"
+  },
+  {
+    "title": "Snu Deg",
+    "artist": "Nordlyset",
+    "isrc": "DKBV71104004"
+  },
+  {
+    "title": "Just the Two of Us - Live",
+    "artist": "Pål André Weisethaunet",
+    "isrc": "NO2DY2200066"
+  },
+  {
+    "title": "Hot In Here - Fra TV-Programmet \"The Voice\"",
+    "artist": "Ray Hardy Johansen",
+    "isrc": "NOUM71900128"
+  },
+  {
+    "title": "Det E Teit",
+    "artist": "Rikke Og Malin",
+    "isrc": "DKBV70502506"
+  },
+  {
+    "title": "Veien Tilbake",
+    "artist": "Road To Rock",
+    "isrc": "DKBV70809506"
+  },
+  {
+    "title": "Gravite",
+    "artist": "Rébécca",
+    "isrc": "FRUM72100778"
+  },
+  {
+    "title": "One Dance - Fra TV-Programmet \"The Voice\"",
+    "artist": "Sebastian Ferraz",
+    "isrc": "NOUM71900081"
+  },
+  {
+    "title": "Et Fett Liv",
+    "artist": "Seven Be",
+    "isrc": "DKBV71104006"
+  },
+  {
+    "title": "Mobba",
+    "artist": "Silje",
+    "isrc": "DKBV70502509"
+  },
+  {
+    "title": "Scars To Your Beautiful - Fra TV-Programmet \"The Voice\"",
+    "artist": "Silje Rubin",
+    "isrc": "NOUM71900122"
+  },
+  {
+    "title": "Superdeal",
+    "artist": "Synne & Ingrid, MGPjr",
+    "isrc": "NOZ7F1301060"
+  },
+  {
+    "title": "Diva - Sing Back",
+    "artist": "TUVA",
+    "isrc": "NOZ7F1402090"
+  },
+  {
+    "title": "Ikke Snu",
+    "artist": "Thale Henriette, MGPjr",
+    "isrc": "NOZ7F1301070"
+  },
+  {
+    "title": "Tenke Nå",
+    "artist": "MGP, The Battery",
+    "isrc": "DKBV70809501"
+  },
+  {
+    "title": "Kolbotn",
+    "artist": "The Real Five",
+    "isrc": "DKBV70705708"
+  },
+  {
+    "title": "Fåkke Lov",
+    "artist": "The Sugarsmokers",
+    "isrc": "DKBV71104001"
+  },
+  {
+    "title": "How Deep Is Your Love - Fra TV-Programmet \"The Voice\"",
+    "artist": "Tonje Aakre",
+    "isrc": "NOUM71900079"
+  },
+  {
+    "title": "Attention",
+    "artist": "Tore Pedersen",
+    "isrc": "NOUM72000084"
+  },
+  {
+    "title": "Åpent Hav",
+    "artist": "Torunn, MGPjr",
+    "isrc": "NO72F1505005"
+  },
+  {
+    "title": "Vibira",
+    "artist": "Tre Små Punkere",
+    "isrc": "DKBV70705705"
+  },
+  {
+    "title": "Så Sur Da",
+    "artist": "Unik 4, MGPjr",
+    "isrc": "NOZ7F1301100"
+  },
+  {
+    "title": "På Et Annet Sted",
+    "artist": "Vy-Vy",
+    "isrc": "DKBV70809504"
+  },
+  {
+    "title": "the first love",
+    "artist": "Maria Petra",
+    "isrc": "NOUM72200200"
+  },
+  {
+    "title": "Made of Glass",
+    "artist": "Sofie Fjellvang",
+    "isrc": "NOGXV1301250"
+  },
+  {
+    "title": "I See Red - Live",
+    "artist": "Thea Sofie",
+    "isrc": "NOITV2100320"
+  },
+  {
+    "title": "Everglow",
+    "artist": "Erlend Gunstveit",
+    "isrc": "NOITV2101300"
+  },
+  {
+    "title": "I Don´t Think I Love You Anymore",
+    "artist": "Sverre Eide",
+    "isrc": "QM4TW2491951"
+  },
+  {
+    "title": "Now That I Found You",
+    "artist": "MARI",
+    "isrc": "NOUM72000248"
+  },
+  {
+    "title": "Famous Blue Raincoat",
+    "artist": "Cynthia",
+    "isrc": "NOITV2100950"
+  },
+  {
+    "title": "E du nord",
+    "artist": "Kira Dalan Eriksen",
+    "isrc": "NO2DY2300295"
+  },
+  {
+    "title": "Holding On",
+    "artist": "Natan Dagur",
+    "isrc": "QMBZ92264331"
+  },
+  {
+    "title": "Lys våken",
+    "artist": "Sval",
+    "isrc": "NOZ7F1513007"
+  },
+  {
+    "title": "Bare vær dæ sjøl",
+    "artist": "Julie Stokke",
+    "isrc": "NOUM71201007"
+  },
+  {
+    "title": "Fields Of Gold",
+    "artist": "Agnes Stock",
+    "isrc": "NOUM71700476"
+  },
+  {
+    "title": "Ikke som de andre",
+    "artist": "Sondre Justad",
+    "isrc": "NOHDL1704070"
+  },
+  {
+    "title": "I'm On Fire - Live",
+    "artist": "Anne Fagermo",
+    "isrc": "NO2DY2300031"
+  },
+  {
+    "title": "Caruso",
+    "artist": "Fredrik Amadeus",
+    "isrc": "NO2DY2300331"
+  },
+  {
+    "title": "Vintertid",
+    "artist": "Vilde og Anna",
+    "isrc": "USQY51793271"
+  },
+  {
+    "title": "Kan du lære mæ?",
+    "artist": "Kristian Kristensen",
+    "isrc": "NOAGW1500782"
+  },
+  {
+    "title": "Pang!",
+    "artist": "Malin",
+    "isrc": "NONBR2300001"
+  },
+  {
+    "title": "Vår beste dag",
+    "artist": "Thomas Tvedt",
+    "isrc": "NO2DY2300385"
+  },
+  {
+    "title": "Everglow",
+    "artist": "Thomas Løseth",
+    "isrc": "NOUM71700369"
+  },
+  {
+    "title": "Believe",
+    "artist": "Oda Dahl",
+    "isrc": "NO2DY2300291"
+  },
+  {
+    "title": "Ta meg tilbake - Nedstrippet",
+    "artist": "INGEBORG",
+    "isrc": "NOH1S2001030"
+  },
+  {
+    "title": "Forandring",
+    "artist": "MGPjr, 4everU",
+    "isrc": "NOZ7F1808020"
+  },
+  {
+    "title": "Unstoppable - Fra TV-Programmet \"The Voice\"",
+    "artist": "Mina Lund",
+    "isrc": "NOUM71900121"
+  },
+  {
+    "title": "Set Fire to the Rain",
+    "artist": "viktoria",
+    "isrc": "NO2DY2300315"
+  },
+  {
+    "title": "Won't Go Near You Again",
+    "artist": "Dag Erik Oksvold",
+    "isrc": "NO2DY2300368"
+  },
+  {
+    "title": "Elastic Heart",
+    "artist": "Malin Joneid Ellefsen",
+    "isrc": "NOUM71700488"
+  },
+  {
+    "title": "Tell Me About It",
+    "artist": "Øystein Hegvik",
+    "isrc": "NOUM72000203"
+  },
+  {
+    "title": "1000 ting",
+    "artist": "Tobine",
+    "isrc": "NOB0H1910501"
+  },
+  {
+    "title": "Det Er Her Vi Bor",
+    "artist": "Karoline",
+    "isrc": "DKADG1300300"
+  },
+  {
+    "title": "Crying In The Rain",
+    "artist": "Sondre Bjelland",
+    "isrc": "NOITV2101140"
+  },
+  {
+    "title": "Rainbow",
+    "artist": "Maren Emilie",
+    "isrc": "NOITV2100930"
+  },
+  {
+    "title": "Bed Of Roses",
+    "artist": "Tara Bloch-Vere",
+    "isrc": "NO2DY2200231"
+  },
+  {
+    "title": "Vi Lovar (Besvärjelse) - Live",
+    "artist": "Emma Wik, Audhild Høivik",
+    "isrc": "NO2DY2200092"
+  },
+  {
+    "title": "Født fri - Fra \"Karsten og Petra på safari\"",
+    "artist": "Mathea-Mari",
+    "isrc": "NOUM71502052"
+  },
+  {
+    "title": "Høre deg si nei",
+    "artist": "Torstein",
+    "isrc": "NOZ1R1301040"
+  },
+  {
+    "title": "Oh Love - Live",
+    "artist": "Emilie Omland Grimstad, Julie Løseth Bergset",
+    "isrc": "NO2DY2200120"
+  },
+  {
+    "title": "Bird Set Free - Fra TV-Programmet \"The Voice\"",
+    "artist": "Maria Engås Halsne",
+    "isrc": "NOUM71900334"
+  },
+  {
+    "title": "Mobbing",
+    "artist": "Caromilie",
+    "isrc": "NO25D0901040"
+  },
+  {
+    "title": "Lilypad Girl",
+    "artist": "Ash & Thorns",
+    "isrc": "QZPLS2358450"
+  },
+  {
+    "title": "Sound of Silence",
+    "artist": "Kristoffer Sørensen",
+    "isrc": "NO2DY2300370"
+  },
+  {
+    "title": "If Only As a Ghost",
+    "artist": "André Askeland Hagen",
+    "isrc": "NO2DY2200214"
+  },
+  {
+    "title": "Faithfully - Fra TV-Programmet \"The Voice\"",
+    "artist": "Oskar Oiestad",
+    "isrc": "NOUM71900114"
+  },
+  {
+    "title": "Ember - Radio Edit",
+    "artist": "Knut Marius",
+    "isrc": "NOZEF2419010"
+  },
+  {
+    "title": "Blå Salme - Live",
+    "artist": "Maria Honningsvåg-Rørstad",
+    "isrc": "NO2DY2200042"
+  },
+  {
+    "title": "Like I'm the New Girl",
+    "artist": "Ella Lockert",
+    "isrc": "NOLOC2102010"
+  },
+  {
+    "title": "Summer Moved On",
+    "artist": "Gøran Stavang Skage",
+    "isrc": "NOITV2100960"
+  },
+  {
+    "title": "I'll Never Love Again - Live",
+    "artist": "Amanda Winsjansen",
+    "isrc": "NO2DY2300110"
+  },
+  {
+    "title": "Mirror",
+    "artist": "Andrea Santiago",
+    "isrc": "UKT2H2398010"
+  },
+  {
+    "title": "DRGS",
+    "artist": "Einar Christiansen",
+    "isrc": "QZHN92431866"
+  },
+  {
+    "title": "Landslide - Live",
+    "artist": "Nomzi Kumalo",
+    "isrc": "NO2DY2300207"
+  },
+  {
+    "title": "Teddykarhujen huviretki",
+    "artist": "Henrik",
+    "isrc": "FIRCR1301822"
+  },
+  {
+    "title": "Elektrisk",
+    "artist": "Marcus & Martinus, Katastrofe",
+    "isrc": "NOAJR1500029"
+  },
+  {
+    "title": "Unconditionally - Live",
+    "artist": "Camilla Amundsen",
+    "isrc": "NO2DY2300270"
+  },
+  {
+    "title": "Come Together - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Kristian Raanes",
+    "isrc": "NOUM71800369"
+  },
+  {
+    "title": "My Man",
+    "artist": "Emma R",
+    "isrc": "FR6V82166337"
+  },
+  {
+    "title": "Nervous",
+    "artist": "August Dahl",
+    "isrc": "NOUM71700271"
+  },
+  {
+    "title": "Black Flowers",
+    "artist": "Frode Vassel",
+    "isrc": "NOYYX2201010"
+  },
+  {
+    "title": "Ex's & Oh's",
+    "artist": "Maria Celin Strisland, JÆGER",
+    "isrc": "NOUM71700301"
+  },
+  {
+    "title": "You Say - Live",
+    "artist": "Lill Regine Skaug",
+    "isrc": "NO2DY2300107"
+  },
+  {
+    "title": "The Moon Is A Harsh Mistress - Fra TV-Programmet \"The Voice\"",
+    "artist": "Edward Mustad",
+    "isrc": "NOUM71900011"
+  },
+  {
+    "title": "Anyone",
+    "artist": "Christiane",
+    "isrc": "NOITV2100760"
+  },
+  {
+    "title": "Bluebirds Flying High",
+    "artist": "James Fox",
+    "isrc": "GBVXW0800001"
+  },
+  {
+    "title": "The First Cut Is The Deepest - Live",
+    "artist": "Øyvind Weiseth, Marianne Sørensen Berg",
+    "isrc": "NO2DY2200090"
+  },
+  {
+    "title": "The 30th - Live",
+    "artist": "Cornelia Helgor",
+    "isrc": "NO2DY2300108"
+  },
+  {
+    "title": "It's A Man's, Man's, Man's World",
+    "artist": "Byron Williams Jr",
+    "isrc": "NOITV2100910"
+  },
+  {
+    "title": "Alltid Være Barn",
+    "artist": "Kristin",
+    "isrc": "DKBV71104010"
+  },
+  {
+    "title": "Глоток дыма",
+    "artist": "Dina",
+    "isrc": "AEA0D2111022"
+  },
+  {
+    "title": "BRKN - Live",
+    "artist": "Jeanett Naley",
+    "isrc": "NO2DY2300060"
+  },
+  {
+    "title": "It'll Be Okay - Live",
+    "artist": "Celine Rensel",
+    "isrc": "NO2DY2300006"
+  },
+  {
+    "title": "Spesiell",
+    "artist": "Emu & Abu",
+    "isrc": "QM4TX2388782"
+  },
+  {
+    "title": "Welcome To The Show",
+    "artist": "Sebastian James Hekneby, Jorunn Undheim",
+    "isrc": "NOUM71700321"
+  },
+  {
+    "title": "Golden Ticket - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amanda Rusti",
+    "isrc": "NOUM71900280"
+  },
+  {
+    "title": "PILLOWTALK - Live",
+    "artist": "Julian Dein",
+    "isrc": "NOITV2100030"
+  },
+  {
+    "title": "Used To Love",
+    "artist": "Daniel Granum",
+    "isrc": "NOITV2100970"
+  },
+  {
+    "title": "Low Life in High Places - Live",
+    "artist": "Terje Harøy",
+    "isrc": "NO2DY2300247"
+  },
+  {
+    "title": "Somewhere Only We Know - Live",
+    "artist": "Bendik Solberg",
+    "isrc": "NO2DY2300048"
+  },
+  {
+    "title": "Samurai Swords - Fra TV-Programmet \"The Voice\"",
+    "artist": "Nora Aurdal",
+    "isrc": "NOUM71900142"
+  },
+  {
+    "title": "Killing Me Softly - Fra TV-Programmet \"The Voice\"",
+    "artist": "Kristin Husøy",
+    "isrc": "NOUM71900015"
+  },
+  {
+    "title": "I Know You",
+    "artist": "Mie Omholt, Henriette Humlekjær",
+    "isrc": "NOITV2100590"
+  },
+  {
+    "title": "Stopp - Sing Back",
+    "artist": "Disel",
+    "isrc": "NOZ7F1402070"
+  },
+  {
+    "title": "Vi to?",
+    "artist": "Jørgen, MGPjr",
+    "isrc": "NOZ7F1604003"
+  },
+  {
+    "title": "Shotguns Are Fired",
+    "artist": "Kamilla Gulbrandsen",
+    "isrc": "QM4TW2365209"
+  },
+  {
+    "title": "Songbird - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Vilde Skogen",
+    "isrc": "NOUM71800385"
+  },
+  {
+    "title": "Forget Me",
+    "artist": "Oselie",
+    "isrc": "NO9MC2209010"
+  },
+  {
+    "title": "Out of Order",
+    "artist": "Marius Samuelsen",
+    "isrc": "NOAGW1800009"
+  },
+  {
+    "title": "Jente Som Deg",
+    "artist": "Oliver Mathisen",
+    "isrc": "NOHRW2103010"
+  },
+  {
+    "title": "Shield - Fra TV-Programmet \"The Voice\"",
+    "artist": "Hanna Solemdal",
+    "isrc": "NOUM71900134"
+  },
+  {
+    "title": "Autumn Storm",
+    "artist": "Henriette Linja",
+    "isrc": "QZES51862038"
+  },
+  {
+    "title": "Hjerteknuser - Fra TV-Programmet \"The Voice\"",
+    "artist": "Kristoffer Edvardsen",
+    "isrc": "NOUM71900278"
+  },
+  {
+    "title": "Rise Up - Fra TV-Programmet \"The Voice\"",
+    "artist": "Steffi Buie",
+    "isrc": "NOUM71900246"
+  },
+  {
+    "title": "More Hearts Than Mine - Live",
+    "artist": "Connie Damdalen",
+    "isrc": "NO2DY2200155"
+  },
+  {
+    "title": "Jealous Guy - Live",
+    "artist": "Mads Sølsnes Gjetmundsen",
+    "isrc": "NOITV2100440"
+  },
+  {
+    "title": "Warrior - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amalie Hamborgstrøm",
+    "isrc": "NOUM71900258"
+  },
+  {
+    "title": "Every Now and Then",
+    "artist": "Mads Wighus",
+    "isrc": "GBMJG2300785"
+  },
+  {
+    "title": "The Times They Are A-Changin' - Live",
+    "artist": "Endre Olsen",
+    "isrc": "NO2DY2300111"
+  },
+  {
+    "title": "Waiting for a Rainbow",
+    "artist": "Emma Noor",
+    "isrc": "NO0OU2015010"
+  },
+  {
+    "title": "In Your Eyes",
+    "artist": "Maren",
+    "isrc": "NOFLL0520070"
+  },
+  {
+    "title": "I Will Pray (Pregherò) - Live",
+    "artist": "Alessandra Mele",
+    "isrc": "NO2DY2200006"
+  },
+  {
+    "title": "Du er perfekt - Singback",
+    "artist": "MGPjr Allstars",
+    "isrc": "QM6N22090496"
+  },
+  {
+    "title": "Hun Ga Drømmen En Sjanse",
+    "artist": "Erlend",
+    "isrc": "DKBV70809503"
+  },
+  {
+    "title": "Mama's Broken Heart - Fra TV-Programmet \"The Voice\"",
+    "artist": "Synne Helland",
+    "isrc": "NOUM71900184"
+  },
+  {
+    "title": "Run Out",
+    "artist": "Audun Haukvik",
+    "isrc": "NOXGK1108020"
+  },
+  {
+    "title": "Falling for You",
+    "artist": "Casper Kuhlmann, Wavy Drip",
+    "isrc": "QM4TW2014960"
+  },
+  {
+    "title": "Mother",
+    "artist": "Carlisle",
+    "isrc": "NOCTN2104010"
+  },
+  {
+    "title": "Amandus Dokkemann",
+    "artist": "The BlackSheeps",
+    "isrc": "NOHMA1255040"
+  },
+  {
+    "title": "Girls Just Want To Have Fun",
+    "artist": "Magnus Bokn",
+    "isrc": "NOUM71700269"
+  },
+  {
+    "title": "Alone",
+    "artist": "BliXMusic, Mig",
+    "isrc": "QZFZ42012573"
+  },
+  {
+    "title": "Raining Away",
+    "artist": "Mina Nystad",
+    "isrc": "QZFZ32418309"
+  },
+  {
+    "title": "You Need Someone",
+    "artist": "Berge Ohm",
+    "isrc": "QZFZ21902136"
+  },
+  {
+    "title": "Lilac Wine - Live",
+    "artist": "Mina Klokkersveen Thomle",
+    "isrc": "NO2DY2300024"
+  },
+  {
+    "title": "Crazy - Live",
+    "artist": "Kirsti Lucena",
+    "isrc": "NO2DY2200069"
+  },
+  {
+    "title": "Funeral - Live",
+    "artist": "Rakel Villmones Haug",
+    "isrc": "NO2DY2200152"
+  },
+  {
+    "title": "Back to Black",
+    "artist": "Nina Ugland",
+    "isrc": "NOCLM1502050"
+  },
+  {
+    "title": "Church On Sunday",
+    "artist": "Frida Hunshammer",
+    "isrc": "NOUM71700284"
+  },
+  {
+    "title": "Let Your Heart Hold Fast - Live",
+    "artist": "André Hustoft Nesheim",
+    "isrc": "NO2DY2200010"
+  },
+  {
+    "title": "Piece of Me",
+    "artist": "Sunniva",
+    "isrc": "NO28F1602010"
+  },
+  {
+    "title": "Heime her",
+    "artist": "Elise Nærø",
+    "isrc": "QM4TW2156882"
+  },
+  {
+    "title": "Waves",
+    "artist": "Tiril",
+    "isrc": "GBKQU1937871"
+  },
+  {
+    "title": "All you Ever Wanted",
+    "artist": "Monkeyboy",
+    "isrc": "AUHC30900089"
+  },
+  {
+    "title": "Love Me Again - Fra TV-Programmet \"The Voice\"",
+    "artist": "Alice Kucevic",
+    "isrc": "NOUM71900159"
+  },
+  {
+    "title": "Josefine",
+    "artist": "Noah",
+    "isrc": "NOCMX1501010"
+  },
+  {
+    "title": "All In My Head - Live",
+    "artist": "Christine Ringborg",
+    "isrc": "NOITV2100200"
+  },
+  {
+    "title": "Fire - Live",
+    "artist": "Cloudy",
+    "isrc": "NO2DY2300109"
+  },
+  {
+    "title": "The Greatest Show",
+    "artist": "Chris Lund",
+    "isrc": "NO2DY2200186"
+  },
+  {
+    "title": "Det Fins Mange Stjerner",
+    "artist": "Tyra, Erik E. I. Arnøy",
+    "isrc": "NOCZX1501010"
+  },
+  {
+    "title": "Hei, Her Er Jeg - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Kamilla Wigestrand",
+    "isrc": "NOUM71800315"
+  },
+  {
+    "title": "Half The World Away - Fra TV-Programmet \"The Voice\"",
+    "artist": "Rebecca Pettersen",
+    "isrc": "NOUM71900084"
+  },
+  {
+    "title": "Bursdag",
+    "artist": "Hedvig",
+    "isrc": "NOHMA0468060"
+  },
+  {
+    "title": "O",
+    "artist": "Olaves Fiskum",
+    "isrc": "NOUM71700339"
+  },
+  {
+    "title": "O mio babbino caro",
+    "artist": "Giacomo Puccini, Giovacchino Forzano, Benedicte Årving, Terje Baugerød",
+    "isrc": "NOHZ71402010"
+  },
+  {
+    "title": "Georgia - Live",
+    "artist": "Emilie Bjørnstad",
+    "isrc": "NO2DY2300028"
+  },
+  {
+    "title": "Det begynner å bli et liv",
+    "artist": "Sebastian Christensen",
+    "isrc": "NO2DY2200219"
+  },
+  {
+    "title": "Let It Go",
+    "artist": "Martinius Solum",
+    "isrc": "NOITV2100880"
+  },
+  {
+    "title": "Samurai Swords",
+    "artist": "Lillen Stenberg",
+    "isrc": "NOUM71700244"
+  },
+  {
+    "title": "See You Again - Fra TV-Programmet \"The Voice\"",
+    "artist": "June Salomonsen",
+    "isrc": "NOUM71900118"
+  },
+  {
+    "title": "How Am I Supposed To Live Without You",
+    "artist": "Tore Pedersen",
+    "isrc": "NOUM72000239"
+  },
+  {
+    "title": "Church - Fra TV-Programmet \"The Voice\"",
+    "artist": "Endre Gryting",
+    "isrc": "NOUM71900247"
+  },
+  {
+    "title": "Don't Watch Me Cry - Fra TV-Programmet \"The Voice\"",
+    "artist": "Hana Raca",
+    "isrc": "NOUM71900113"
+  },
+  {
+    "title": "Going Down To The River",
+    "artist": "Egil Sverre Langnes",
+    "isrc": "NOUM71700256"
+  },
+  {
+    "title": "Skin",
+    "artist": "JereMaya",
+    "isrc": "NOUM71700272"
+  },
+  {
+    "title": "Somebody To Love",
+    "artist": "Harald Norheim",
+    "isrc": "NOUM71700281"
+  },
+  {
+    "title": "Kyss meg",
+    "artist": "Sindre Steig",
+    "isrc": "NOT762205010"
+  },
+  {
+    "title": "Vozes do Meu Caderno",
+    "artist": "Aksel",
+    "isrc": "US7VG2067947"
+  },
+  {
+    "title": "Das ist mehr",
+    "artist": "Johannes",
+    "isrc": "DEN950401224"
+  },
+  {
+    "title": "Kor vart du av",
+    "artist": "A-Stream, Div",
+    "isrc": "NOHLM1405010"
+  },
+  {
+    "title": "Stjerner",
+    "artist": "Uzia, MGPjr",
+    "isrc": "NOZ7F1301010"
+  },
+  {
+    "title": "Do You Remember",
+    "artist": "Ragnhild Harket",
+    "isrc": "NOUM71700380"
+  },
+  {
+    "title": "Issues",
+    "artist": "Ingeborg Walther",
+    "isrc": "NOUM71700234"
+  },
+  {
+    "title": "Magnetised",
+    "artist": "Ida Lunde",
+    "isrc": "NOUM71700239"
+  },
+  {
+    "title": "Believe",
+    "artist": "Knut Kippersund",
+    "isrc": "NOUM71700464"
+  },
+  {
+    "title": "Gang På Gang",
+    "artist": "Stone Heart",
+    "isrc": "QZHN42490823"
+  },
+  {
+    "title": "Hobby",
+    "artist": "Ane.Fin, EHI",
+    "isrc": "NOHT42402010"
+  },
+  {
+    "title": "I min verden",
+    "artist": "Celine",
+    "isrc": "USWD11366224"
+  },
+  {
+    "title": "My Mama",
+    "artist": "Lena Haarberg",
+    "isrc": "QMFMF2326413"
+  },
+  {
+    "title": "Who Are We",
+    "artist": "Ola Reistad",
+    "isrc": "NOCLM1722010"
+  },
+  {
+    "title": "Toxic - Fra TV-Programmet \"The Voice\"",
+    "artist": "Benedikte Bjelland",
+    "isrc": "NOUM71900143"
+  },
+  {
+    "title": "Hold Back The River - Fra TV-Programmet \"The Voice\"",
+    "artist": "Sebastian Hågensen",
+    "isrc": "NOUM71900030"
+  },
+  {
+    "title": "Falling Slowly - Fra TV-Programmet \"The Voice\"",
+    "artist": "Stig Gustu Larsen, Rebecca Pettersen",
+    "isrc": "NOUM71900188"
+  },
+  {
+    "title": "Issues - Fra TV-Programmet \"The Voice\"",
+    "artist": "Helene Seljehaug",
+    "isrc": "NOUM71900132"
+  },
+  {
+    "title": "Wake Me Up",
+    "artist": "Silje Titlestad",
+    "isrc": "NOUM71700243"
+  },
+  {
+    "title": "Better in the Summer",
+    "artist": "Elias Salbu",
+    "isrc": "QZHN72015512"
+  },
+  {
+    "title": "Takk",
+    "artist": "Ronny Wikmark, Frank Hellum",
+    "isrc": "NONBR1300006"
+  },
+  {
+    "title": "Herre, Gjør Det Stille",
+    "artist": "Ingvild",
+    "isrc": "NO2PP1001100"
+  },
+  {
+    "title": "Til Solen Står Op - Remix",
+    "artist": "Amalie",
+    "isrc": "DKBV70842008"
+  },
+  {
+    "title": "If You Fall, Pt. 2",
+    "artist": "2Boys, Monique Carolin, Helfner",
+    "isrc": "NO2EO1106010"
+  },
+  {
+    "title": "Make Me (Cry)",
+    "artist": "Thora Jonassen",
+    "isrc": "NOUM71700385"
+  },
+  {
+    "title": "Tightrope",
+    "artist": "Dina Matheussen, MARI",
+    "isrc": "NOUM72000170"
+  },
+  {
+    "title": "My Immortal - Live",
+    "artist": "Kristian Storvold Davidsen",
+    "isrc": "NOITV2100270"
+  },
+  {
+    "title": "Niin Minä Neitonen Sinulle Laulan",
+    "artist": "Edvard",
+    "isrc": "FIBAR0200132"
+  },
+  {
+    "title": "I Was Made for Loving You",
+    "artist": "4 You",
+    "isrc": "CH9691500185"
+  },
+  {
+    "title": "Falling Apart",
+    "artist": "Elida",
+    "isrc": "NO83F1807010"
+  },
+  {
+    "title": "Next Mistake",
+    "artist": "Kine Kleveland",
+    "isrc": "NOHRW2305010"
+  },
+  {
+    "title": "Crickets",
+    "artist": "Trina Coleman",
+    "isrc": "TCAHI2375363"
+  },
+  {
+    "title": "Que Me Devuelvas Mi Corazon - Version Kizomba (En Vivo)",
+    "artist": "Alma",
+    "isrc": "usdy41744881"
+  },
+  {
+    "title": "Seven Shades Of Blue - Fra TV-Programmet \"The Voice\"",
+    "artist": "Moira Halaas",
+    "isrc": "NOUM71900183"
+  },
+  {
+    "title": "Private Suite",
+    "artist": "Henrik Fuglem",
+    "isrc": "SE5SK1904001"
+  },
+  {
+    "title": "Habits (Stay High)",
+    "artist": "Dina Sæle Ek",
+    "isrc": "NOUM71700375"
+  },
+  {
+    "title": "Santa U are the One",
+    "artist": "Alfred",
+    "isrc": "SEYOK1125327"
+  },
+  {
+    "title": "Press",
+    "artist": "Aisha",
+    "isrc": "QM6N22082486"
+  },
+  {
+    "title": "We Found Love",
+    "artist": "Alexandra Corneeva, Isabelle Bjørneraas",
+    "isrc": "NOUM71700302"
+  },
+  {
+    "title": "New York",
+    "artist": "Jorunn Undheim",
+    "isrc": "NOUM71700348"
+  },
+  {
+    "title": "Crazy",
+    "artist": "Isabelle Bjørneraas",
+    "isrc": "NOUM71700415"
+  },
+  {
+    "title": "Confetti - Fra TV-Programmet \"The Voice\"",
+    "artist": "Sofie Gjerde Tonev",
+    "isrc": "NOUM71900021"
+  },
+  {
+    "title": "Cabezas Cuadradas",
+    "artist": "CAOS",
+    "isrc": "TCAFP2134299"
+  },
+  {
+    "title": "Now That I Found You",
+    "artist": "Oda Kristine Gondrosen",
+    "isrc": "NOUM72000246"
+  },
+  {
+    "title": "Right As Rain - Fra TV-Programmet \"The Voice\"",
+    "artist": "Ida Ganes",
+    "isrc": "NOUM71900120"
+  },
+  {
+    "title": "My Mind - Fra TV-Programmet \"The Voice\"",
+    "artist": "Celina Gjerald",
+    "isrc": "NOUM71900074"
+  },
+  {
+    "title": "Castle on the Hill",
+    "artist": "Markus Grønstad",
+    "isrc": "NOUM72000111"
+  },
+  {
+    "title": "Fail",
+    "artist": "Karina Pieroth",
+    "isrc": "NOUM71700261"
+  },
+  {
+    "title": "Too Good At Goodbyes",
+    "artist": "Anna Anita Jaskiv",
+    "isrc": "NOUM72000108"
+  },
+  {
+    "title": "Fades Away",
+    "artist": "Amalie Haugen Øvstedal, Julian Dein",
+    "isrc": "NOITV2100700"
+  },
+  {
+    "title": "Alene sammen",
+    "artist": "Isak Øvrevold",
+    "isrc": "NO2DY2300373"
+  },
+  {
+    "title": "golden hour - Live",
+    "artist": "Ole Henrik Risøy Solheim",
+    "isrc": "NO2DY2300271"
+  },
+  {
+    "title": "Excursion Around the Bay",
+    "artist": "Murphy's Law",
+    "isrc": "ushm21149618"
+  },
+  {
+    "title": "American Boy - Fra TV-Programmet \"The Voice\"",
+    "artist": "Saima Iren Mian",
+    "isrc": "NOUM71900034"
+  },
+  {
+    "title": "The Reckoning",
+    "artist": "F5",
+    "isrc": "US3L30804003"
+  },
+  {
+    "title": "Bedre enn deg - Singback",
+    "artist": "Elena",
+    "isrc": "QM6N22082494"
+  },
+  {
+    "title": "Locked Out Of Heaven",
+    "artist": "Mona-Linn Owe, Michael Eriksen",
+    "isrc": "NOUM71700338"
+  },
+  {
+    "title": "Counting Stars - Fra TV-Programmet \"The Voice\"",
+    "artist": "Sondre Mikalsen",
+    "isrc": "NOUM71900152"
+  },
+  {
+    "title": "I Want to Stroll over Heaven with You",
+    "artist": "Ann Kristin Eikeland",
+    "isrc": "NO25V0210050"
+  },
+  {
+    "title": "High Five - Fra TV-Programmet \"The Voice\"",
+    "artist": "Marie Øvstebø",
+    "isrc": "NOUM71900019"
+  },
+  {
+    "title": "Magnets",
+    "artist": "Nora Chayed",
+    "isrc": "NOUM71700246"
+  },
+  {
+    "title": "Storm Warning - Live",
+    "artist": "Andreas Dyrdal",
+    "isrc": "NO2DY2300239"
+  },
+  {
+    "title": "Gravity - Live",
+    "artist": "Ane Marit Hølås",
+    "isrc": "NO2DY2200146"
+  },
+  {
+    "title": "I'm Still Standing",
+    "artist": "Aniston Mariyampillai",
+    "isrc": "NOUM72000134"
+  },
+  {
+    "title": "Varm - Live",
+    "artist": "Audhild Høivik",
+    "isrc": "NO2DY2200136"
+  },
+  {
+    "title": "Sway - Live",
+    "artist": "Aurora Mathiesen",
+    "isrc": "NO2DY2300206"
+  },
+  {
+    "title": "Tiden",
+    "artist": "Beat-Track, Madeleine Sundberg",
+    "isrc": "NO2NQ1302013"
+  },
+  {
+    "title": "Don't Kill My Vibe - Live",
+    "artist": "Bjørnar Reime",
+    "isrc": "NOITV2100020"
+  },
+  {
+    "title": "No Time To Die - Live",
+    "artist": "Camilla Berget",
+    "isrc": "NO2DY2300098"
+  },
+  {
+    "title": "Wish You Well",
+    "artist": "Camilla Sørensen, Sarah Emilie Birkeland",
+    "isrc": "NOITV2100500"
+  },
+  {
+    "title": "Mamma Knows Best - Live",
+    "artist": "Caroline Dubland Andersen",
+    "isrc": "NOITV2100040"
+  },
+  {
+    "title": "Nothing Compares 2 U",
+    "artist": "Maria Petra",
+    "isrc": "NOITV2101080"
+  },
+  {
+    "title": "Stay On These Roads",
+    "artist": "Sofie Fjellvang, Julian Garcia Sandtorv",
+    "isrc": "NOITV2100510"
+  },
+  {
+    "title": "Jentekveld",
+    "artist": "Thea Sofie",
+    "isrc": "NOZ7F1402010"
+  },
+  {
+    "title": "Home To You - Live",
+    "artist": "Erlend Gunstveit",
+    "isrc": "NOITV2100050"
+  },
+  {
+    "title": "Into You",
+    "artist": "Sverre Eide",
+    "isrc": "QMFMF2309913"
+  },
+  {
+    "title": "Alone",
+    "artist": "MARI",
+    "isrc": "NOUM72000138"
+  },
+  {
+    "title": "Caruso",
+    "artist": "Cynthia, Benedicte Årving",
+    "isrc": "NOITV2100660"
+  },
+  {
+    "title": "All I Want",
+    "artist": "Natan Dagur",
+    "isrc": "NOITV2101320"
+  },
+  {
+    "title": "Sommermørke",
+    "artist": "Kira Dalan Eriksen",
+    "isrc": "NOUM72300308"
+  },
+  {
+    "title": "Mellom oss",
+    "artist": "Sval",
+    "isrc": "NO72F1503002"
+  },
+  {
+    "title": "(For God's Sake) Give More Power To The People - Live",
+    "artist": "Julie Stokke",
+    "isrc": "NOITV2100180"
+  },
+  {
+    "title": "Love The Way You Lie (Part II)",
+    "artist": "Agnes Stock, Malin Joneid Ellefsen",
+    "isrc": "NOUM71700336"
+  },
+  {
+    "title": "Until I Found You",
+    "artist": "Anne Fagermo",
+    "isrc": "NO2DY2300319"
+  },
+  {
+    "title": "Kan eg gjørr någe med det?",
+    "artist": "Fredrik Amadeus",
+    "isrc": "NO2DY2300320"
+  },
+  {
+    "title": "Julehjerte",
+    "artist": "Vilde og Anna",
+    "isrc": "USA2P1952082"
+  },
+  {
+    "title": "Soloppgang",
+    "artist": "Kristian Kristensen",
+    "isrc": "NOAGW1900048"
+  },
+  {
+    "title": "Sorry (feat. Musti)",
+    "artist": "Sondre Justad, Musti",
+    "isrc": "NOHDL2101010"
+  },
+  {
+    "title": "Et Lite Ønske",
+    "artist": "Malin",
+    "isrc": "DKBV70603111"
+  },
+  {
+    "title": "Love Of My Life - Live",
+    "artist": "Thomas Tvedt",
+    "isrc": "NO2DY2300023"
+  },
+  {
+    "title": "Heaven",
+    "artist": "Thomas Løseth",
+    "isrc": "NOUM71700441"
+  },
+  {
+    "title": "Halv",
+    "artist": "Oda Dahl",
+    "isrc": "NO2DY2300340"
+  },
+  {
+    "title": "Ikke bli som meg",
+    "artist": "INGEBORG",
+    "isrc": "NOH1S2301020"
+  },
+  {
+    "title": "Pop drop dab",
+    "artist": "MGPjr, Ella Lockert",
+    "isrc": "NOZ7F1705006"
+  },
+  {
+    "title": "Dusk Till Dawn - Fra TV-Programmet \"The Voice\"",
+    "artist": "Mina Lund, Oliver Mathisen",
+    "isrc": "NOUM71900193"
+  },
+  {
+    "title": "Jealous - Live",
+    "artist": "viktoria",
+    "isrc": "NO2DY2300022"
+  },
+  {
+    "title": "Cover Me Up",
+    "artist": "Dag Erik Oksvold",
+    "isrc": "NO2DY2300292"
+  },
+  {
+    "title": "Let It Be",
+    "artist": "Malin Joneid Ellefsen",
+    "isrc": "NOUM71700274"
+  },
+  {
+    "title": "Berlin - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Øystein Hegvik",
+    "isrc": "NOUM71800418"
+  },
+  {
+    "title": "Halloween- Singback",
+    "artist": "Tobine, MGPjr",
+    "isrc": "NOZ7F1604016"
+  },
+  {
+    "title": "Et Lite Ønske",
+    "artist": "Karoline",
+    "isrc": "NOZ7F1603001"
+  },
+  {
+    "title": "Hold Back The River",
+    "artist": "Sondre Bjelland",
+    "isrc": "NOITV2101020"
+  },
+  {
+    "title": "My Church - Live",
+    "artist": "Maren Emilie",
+    "isrc": "NOITV2100400"
+  },
+  {
+    "title": "Is That Alright?",
+    "artist": "Tara Bloch-Vere",
+    "isrc": "NO2DY2200247"
+  },
+  {
+    "title": "På kanten - Live",
+    "artist": "Emma Wik",
+    "isrc": "NO2DY2200157"
+  },
+  {
+    "title": "Født Fri",
+    "artist": "Mathea-Mari",
+    "isrc": "NOHMA1806160"
+  },
+  {
+    "title": "For en dag",
+    "artist": "Torstein",
+    "isrc": "NOZ1R1301010"
+  },
+  {
+    "title": "Jolene - Astrid S Version - Live Acoustic",
+    "artist": "Emilie Omland Grimstad",
+    "isrc": "NOG3D1401033"
+  },
+  {
+    "title": "Strong - Fra TV-Programmet \"The Voice\"",
+    "artist": "Maria Engås Halsne",
+    "isrc": "NOUM71900355"
+  },
+  {
+    "title": "Mamma",
+    "artist": "Caromilie",
+    "isrc": "NO25D0901080"
+  },
+  {
+    "title": "Signs - Live",
+    "artist": "Ash & Thorns",
+    "isrc": "NOITV2100480"
+  },
+  {
+    "title": "Left Outside Alone",
+    "artist": "Kristoffer Sørensen",
+    "isrc": "NO2DY2300318"
+  },
+  {
+    "title": "Put Your Head On My Shoulder - Live",
+    "artist": "André Askeland Hagen",
+    "isrc": "NO2DY2200039"
+  },
+  {
+    "title": "Kan eg gjørr någe med det? - Fra TV-Programmet \"The Voice\"",
+    "artist": "Oskar Oiestad",
+    "isrc": "NOUM71900244"
+  },
+  {
+    "title": "Komme heim",
+    "artist": "Knut Marius",
+    "isrc": "NOZOF2215010"
+  },
+  {
+    "title": "The Call - Live",
+    "artist": "Maria Honningsvåg-Rørstad",
+    "isrc": "NO2DY2200161"
+  },
+  {
+    "title": "Fake a Smile",
+    "artist": "Ella Lockert",
+    "isrc": "NOLOC2202010"
+  },
+  {
+    "title": "Save Me - Live",
+    "artist": "Gøran Stavang Skage",
+    "isrc": "NOITV2100470"
+  },
+  {
+    "title": "And I Am Telling You I´m Not Going - Live",
+    "artist": "Amanda Winsjansen",
+    "isrc": "NO2DY2300199"
+  },
+  {
+    "title": "Love On The Brain",
+    "artist": "Andrea Santiago",
+    "isrc": "NOUM71700343"
+  },
+  {
+    "title": "Wake Me Up - Live",
+    "artist": "Einar Christiansen",
+    "isrc": "NOITV2100310"
+  },
+  {
+    "title": "Go, Don't Leave",
+    "artist": "Nomzi Kumalo",
+    "isrc": "NOL8G2001010"
+  },
+  {
+    "title": "Triangulo De Amor",
+    "artist": "Henrik, Byron Brizz",
+    "isrc": "USZPN0610020"
+  },
+  {
+    "title": "Kom hjem",
+    "artist": "Camilla Amundsen",
+    "isrc": "NOSFT2005010"
+  },
+  {
+    "title": "Purple Rain - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Kristian Raanes",
+    "isrc": "NOUM71800382"
+  },
+  {
+    "title": "I Want You",
+    "artist": "August Dahl",
+    "isrc": "NOUM71700381"
+  },
+  {
+    "title": "Chandelier",
+    "artist": "Frode Vassel",
+    "isrc": "NOITV2101030"
+  },
+  {
+    "title": "Air",
+    "artist": "Marcus & Martinus",
+    "isrc": "SEUM72201594"
+  },
+  {
+    "title": "Glitter & Gold",
+    "artist": "Maria Celin Strisland",
+    "isrc": "NOUM71700241"
+  },
+  {
+    "title": "Faraway Look - Live",
+    "artist": "Lill Regine Skaug",
+    "isrc": "NO2DY2300263"
+  },
+  {
+    "title": "I'm On Fire - Fra TV-Programmet \"The Voice\"",
+    "artist": "Edward Mustad",
+    "isrc": "NOUM71900354"
+  },
+  {
+    "title": "Cravings",
+    "artist": "Christiane",
+    "isrc": "NO2782003010"
+  },
+  {
+    "title": "Hammer To Fall",
+    "artist": "James Fox",
+    "isrc": "NOITV2100860"
+  },
+  {
+    "title": "Percolate",
+    "artist": "Øyvind Weiseth",
+    "isrc": "NO2DY2200181"
+  },
+  {
+    "title": "Work in Progress",
+    "artist": "Cornelia Helgor",
+    "isrc": "NODLA2202010"
+  },
+  {
+    "title": "You're The First, The Last, My Everything",
+    "artist": "Byron Williams Jr",
+    "isrc": "NOITV2101190"
+  },
+  {
+    "title": "Katt Og Mus",
+    "artist": "Kristin",
+    "isrc": "DKBV70705707"
+  },
+  {
+    "title": "Mbard Aasabak",
+    "artist": "Dina",
+    "isrc": "aea141103161"
+  },
+  {
+    "title": "This wasn´t supposed to hurt",
+    "artist": "Jeanett Naley",
+    "isrc": "QZMER2337643"
+  },
+  {
+    "title": "stille",
+    "artist": "Celine Rensel",
+    "isrc": "SE6HN2402296"
+  },
+  {
+    "title": "Sign Of The Times",
+    "artist": "Sebastian James Hekneby",
+    "isrc": "NOUM71700478"
+  },
+  {
+    "title": "Stay - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amanda Rusti, viktoria",
+    "isrc": "NOUM71900191"
+  },
+  {
+    "title": "A Message - Live",
+    "artist": "Daniel Granum",
+    "isrc": "NOITV2100140"
+  },
+  {
+    "title": "Karma Police",
+    "artist": "Bendik Solberg",
+    "isrc": "NOUM72000210"
+  },
+  {
+    "title": "Comeback - Fra TV-Programmet \"The Voice\"",
+    "artist": "Nora Aurdal",
+    "isrc": "NOUM71900053"
+  },
+  {
+    "title": "Pray For Me - Pegato Remix",
+    "artist": "Kristin Husøy, Pegato",
+    "isrc": "GBWUL2064984"
+  },
+  {
+    "title": "When The Party's Over - Live",
+    "artist": "Mie Omholt",
+    "isrc": "NOITV2100150"
+  },
+  {
+    "title": "Dancing for Eternity",
+    "artist": "Disel, Sandefjord Soul Children, Multi",
+    "isrc": "NO2TH1601010"
+  },
+  {
+    "title": "Din Egen Vei - Karaoke version",
+    "artist": "MGP, Jørgen",
+    "isrc": "DKBV70908613"
+  },
+  {
+    "title": "Lovely - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Vilde Skogen",
+    "isrc": "NOUM71800393"
+  },
+  {
+    "title": "I'm with You",
+    "artist": "Oselie",
+    "isrc": "NO9MC2103010"
+  },
+  {
+    "title": "Bear Street",
+    "artist": "Marius Samuelsen",
+    "isrc": "NOVHD2401010"
+  },
+  {
+    "title": "Suse Forbi",
+    "artist": "Oliver Mathisen",
+    "isrc": "NO2DY2300063"
+  },
+  {
+    "title": "Valerie - Fra TV-Programmet \"The Voice\"",
+    "artist": "Hanna Solemdal",
+    "isrc": "NOUM71900041"
+  },
+  {
+    "title": "Travel the World",
+    "artist": "Henriette Linja",
+    "isrc": "QZFZ71964236"
+  },
+  {
+    "title": "Youngblood - Fra TV-Programmet \"The Voice\"",
+    "artist": "Kristoffer Edvardsen",
+    "isrc": "NOUM71900160"
+  },
+  {
+    "title": "Creep - Fra TV-Programmet \"The Voice\"",
+    "artist": "Steffi Buie",
+    "isrc": "NOUM71900006"
+  },
+  {
+    "title": "Don’t Let The Sun Go Down On Me - Live",
+    "artist": "Connie Damdalen, André Aamås",
+    "isrc": "NO2DY2200116"
+  },
+  {
+    "title": "Watermelon Sugar",
+    "artist": "Mads Sølsnes Gjetmundsen",
+    "isrc": "NOITV2100990"
+  },
+  {
+    "title": "Kamikaze - Fra TV-Programmet \"The Voice\"",
+    "artist": "Amalie Hamborgstrøm, Jeanette Vik",
+    "isrc": "NOUM71900200"
+  },
+  {
+    "title": "Hei ny dag",
+    "artist": "Endre Olsen",
+    "isrc": "NOL862020060"
+  },
+  {
+    "title": "Stargirl",
+    "artist": "Emma Noor",
+    "isrc": "NO0OU2118010"
+  },
+  {
+    "title": "This Heart Is Broken",
+    "artist": "Maren",
+    "isrc": "NOFLL0520020"
+  },
+  {
+    "title": "One Night Only",
+    "artist": "Alessandra Mele",
+    "isrc": "NO2DY2200174"
+  },
+  {
+    "title": "Sommerdag",
+    "artist": "Erlend",
+    "isrc": "NO1HK1901060"
+  },
+  {
+    "title": "På avstand",
+    "artist": "Synne Helland",
+    "isrc": "NOUM71700350"
+  },
+  {
+    "title": "Slow Step Down",
+    "artist": "Audun Haukvik",
+    "isrc": "NOIP41503010"
+  },
+  {
+    "title": "Be Alright - Fra TV-Programmet \"Idol 2018\"",
+    "artist": "Casper Kuhlmann",
+    "isrc": "NOUM71800404"
+  },
+  {
+    "title": "High Note",
+    "artist": "Carlisle",
+    "isrc": "NOUM71900156"
+  },
+  {
+    "title": "Edwin",
+    "artist": "The BlackSheeps",
+    "isrc": "DKBV70914303"
+  },
+  {
+    "title": "Access Denied",
+    "artist": "BliXMusic",
+    "isrc": "QZFZ31934597"
+  },
+  {
+    "title": "Over the Sea",
+    "artist": "Magnus Bokn",
+    "isrc": "CALVP1943920"
+  },
+  {
+    "title": "Love On Loan",
+    "artist": "Mina Nystad",
+    "isrc": "QZTBA2318470"
+  }
+]

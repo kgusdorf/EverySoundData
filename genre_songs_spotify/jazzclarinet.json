@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Lover Come Back",
+    "artist": "Albert Nicholas, Alan Elsdon's Band",
+    "isrc": "USJ4R9525908"
+  },
+  {
+    "title": "Love Is Just Around The Corner",
+    "artist": "Pee Wee Russell",
+    "isrc": "USWWW0202362"
+  },
+  {
+    "title": "Potato Head Blues",
+    "artist": "Johnny Dodds",
+    "isrc": "ATR981288426"
+  },
+  {
+    "title": "Left Field",
+    "artist": "Buddy DeFranco",
+    "isrc": "USGR10200353"
+  },
+  {
+    "title": "It Had To Be You (07-11-44)",
+    "artist": "Edmond Hall",
+    "isrc": "USA560896988"
+  },
+  {
+    "title": "Four Or Five Times (12-01-37)",
+    "artist": "Jimmie Noone",
+    "isrc": "USA560933462"
+  },
+  {
+    "title": "Blues For Clarinets",
+    "artist": "Jimmy Hamilton, The Duke's Men",
+    "isrc": "USBN29800418"
+  },
+  {
+    "title": "Begin the Beguine",
+    "artist": "Artie Shaw",
+    "isrc": "USBB19700689"
+  },
+  {
+    "title": "Alabamy Home",
+    "artist": "Barney Bigard",
+    "isrc": "DES201933815"
+  },
+  {
+    "title": "My Ship",
+    "artist": "Ken Peplowski, Ben Aronov, Greg Cohen, Lewis Nash",
+    "isrc": "DES200222004"
+  },
+  {
+    "title": "Dark Eyes",
+    "artist": "Kenny Davern",
+    "isrc": "US89R0612017"
+  },
+  {
+    "title": "Egyptian Fantasy - Live",
+    "artist": "Bob Wilber",
+    "isrc": "DES201935903"
+  },
+  {
+    "title": "Si tu vois ma mère - Slow",
+    "artist": "Sidney Bechet, Claude Luter et son orchestre",
+    "isrc": "FRZ198900010"
+  },
+  {
+    "title": "Blues My Naughty Sweetie Gives to Me",
+    "artist": "Evan Christopher, Koen De Cauter, David Paquette",
+    "isrc": "US2GH1544201"
+  },
+  {
+    "title": "Down by the Riverside",
+    "artist": "George Lewis",
+    "isrc": "USAT20503109"
+  },
+  {
+    "title": "A Closer Walk",
+    "artist": "Pete Fountain",
+    "isrc": "USWWW0130582"
+  },
+  {
+    "title": "Sing, Sing, Sing",
+    "artist": "Benny Goodman",
+    "isrc": "USLIC0601095"
+  },
+  {
+    "title": "First Gymnopedie",
+    "artist": "Eddie Daniels",
+    "isrc": "USA370641456"
+  },
+  {
+    "title": "There's a House in Harlem for Sale (Original Mix)",
+    "artist": "Buster Bailey",
+    "isrc": "DEKB71674627"
+  },
+  {
+    "title": "A Shanty in Old Shanty Town",
+    "artist": "Allan Vaché, Antti Sarpila, Ken Peplowski, Mark Shane, Len Skeat, Joe Ascione",
+    "isrc": "DES209702709"
+  },
+  {
+    "title": "Crazy She Calls Me",
+    "artist": "Jimmy Giuffre",
+    "isrc": "USAT20104902"
+  },
+  {
+    "title": "Bandanna Days",
+    "artist": "Omer Simeon, James P. Johnson, Pops Foster",
+    "isrc": "QMFME1423679"
+  },
+  {
+    "title": "Sweet Adeline",
+    "artist": "Bobby Gordon, Dave McKenna",
+    "isrc": "US89R0610513"
+  },
+  {
+    "title": "Everloving Star",
+    "artist": "Alvin Batiste",
+    "isrc": "USMMX0707204"
+  },
+  {
+    "title": "I Ain't Gonna Give Nobody None O' This Jelly Roll (12-19-38)",
+    "artist": "Mezz Mezzrow",
+    "isrc": "USA560933752"
+  },
+  {
+    "title": "Charley's Prelude",
+    "artist": "Don Byron",
+    "isrc": "USNO19643806"
+  },
+  {
+    "title": "Bill Bailey",
+    "artist": "Albert Burbank, Kid Ory",
+    "isrc": "DKEFA0800309"
+  },
+  {
+    "title": "A You'Re Adorable",
+    "artist": "Jimmy Dorsey, Paul Weston",
+    "isrc": "DEZZ42171209"
+  },
+  {
+    "title": "Indiana",
+    "artist": "Frank Teschemacher, Eddie Condon, Joe Sullivan, Leroy Cooper",
+    "isrc": "AUXN22078260"
+  },
+  {
+    "title": "Whispering",
+    "artist": "Benny Goodman Quartet",
+    "isrc": "USBB10100323"
+  },
+  {
+    "title": "My Gal Sal",
+    "artist": "Antti Sarpila, Chris Hopkins, Eddie Erickson, Ingmar Heller, Jake Hanna",
+    "isrc": "DES200809508"
+  },
+  {
+    "title": "There'll Never Be Another You",
+    "artist": "Peanuts Hucko, Alex Welsh & His Band",
+    "isrc": "GBBAD0200104"
+  },
+  {
+    "title": "Just A Closer Walk With Thee",
+    "artist": "Monty Sunshine",
+    "isrc": "GBBMR0218410"
+  },
+  {
+    "title": "Canal Street Blues",
+    "artist": "Dr. Michael White",
+    "isrc": "USNO12000256"
+  },
+  {
+    "title": "Maxixando",
+    "artist": "Gabriele Mirabassi, Roberto Taufic",
+    "isrc": "ITZU01432703"
+  },
+  {
+    "title": "Clarinet Blues - Original Mix",
+    "artist": "Irving Fazola",
+    "isrc": "RUA491504907"
+  },
+  {
+    "title": "Panama - Take 1",
+    "artist": "Joe Marsala",
+    "isrc": "US2GH1710017"
+  },
+  {
+    "title": "Blues For Charlie Parker",
+    "artist": "Tony Scott",
+    "isrc": "USGR10301044"
+  },
+  {
+    "title": "Stranger On The Shore",
+    "artist": "Acker Bilk, The Leon Young String Chorale",
+    "isrc": "GBAKW0400255"
+  },
+  {
+    "title": "Clarinet Marmalade",
+    "artist": "Ted Lewis",
+    "isrc": "DEXO22207550"
+  },
+  {
+    "title": "What Are You Doing the Rest of Your Life?",
+    "artist": "Rolf Kühn",
+    "isrc": "DEH841800175"
+  },
+  {
+    "title": "Marlowe's Theme",
+    "artist": "Putte Wickman",
+    "isrc": "SEBJA0410020"
+  },
+  {
+    "title": "Trop Tot - Instrumental",
+    "artist": "Hubert Rostaing",
+    "isrc": "FRZ075702390"
+  },
+  {
+    "title": "Louise",
+    "artist": "Sandy Brown, Archie Semple",
+    "isrc": "USA561146036"
+  },
+  {
+    "title": "Old Man Moon",
+    "artist": "Dan Levinson & His Swing Wing, Molly Ryan",
+    "isrc": "US4FU0960403"
+  },
+  {
+    "title": "You Go to My Head",
+    "artist": "Mort Weiss",
+    "isrc": "usx9p1172287"
+  },
+  {
+    "title": "Old King Dooji - Final CD",
+    "artist": "Dan Block",
+    "isrc": "USHL71010013"
+  },
+  {
+    "title": "Yellow Dog Blues",
+    "artist": "Joe Darensbourg, Clive Wilson, Waldren \"Frog\" Joseph, Danny Barker, Stanley Mendelson, Lloyd Lambert, Freddie Kohlman",
+    "isrc": "US2GH9431303"
+  },
+  {
+    "title": "Down Home Rag",
+    "artist": "Wilbur Sweatman, Europe Society Orchestra, James Reese Europe",
+    "isrc": "USA4A0901009"
+  },
+  {
+    "title": "Tout De Moi (All of Me)",
+    "artist": "Emile Barnes",
+    "isrc": "USA6R9501301"
+  },
+  {
+    "title": "Toddlin' Blues",
+    "artist": "Larry Shields, Nick LaRocca, Don Murray, Tommy Dorsey, Bix Beiderbecke, Bix Beiderbecke Rhythm Jugglers",
+    "isrc": "USA4A0901050"
+  },
+  {
+    "title": "Nothin But the Blues (feat. Bunny Berigan, Morey Samuel, Bud Freeman, Claude Thornhill, Pete Peterson, Ray Bauduc, Wingy Malone & Gene Gifford)",
+    "artist": "Matty Matlock, Bunny Berigan, Morey Samuel, Bud Freeman, Claude Thornhill, Dick McDonough, Pete Peterson, Ray Bauduc, Gene Gifford, Wingy Manone",
+    "isrc": "US4FU1232402"
+  },
+  {
+    "title": "Shenandoah",
+    "artist": "Perry Robinson, Badal Roy",
+    "isrc": "USKWE0700095"
+  },
+  {
+    "title": "I Wish I Could Shimmy Like My Sister Kate",
+    "artist": "Wally Fawkes, Zenith Hot Stompers",
+    "isrc": "US4FU1224814"
+  },
+  {
+    "title": "Slow 8",
+    "artist": "Claudio Puntin, Nikos Platyrachos",
+    "isrc": "DEL211903734"
+  },
+  {
+    "title": "Act Necessary",
+    "artist": "Andy Biskin",
+    "isrc": "US3KK1400001"
+  },
+  {
+    "title": "The Lady Is a Tramp",
+    "artist": "Lajos Dudas",
+    "isrc": "DEBN30200014"
+  },
+  {
+    "title": "Alcoholic Blues",
+    "artist": "Bob Helm",
+    "isrc": "uscgj0560580"
+  },
+  {
+    "title": "Sultan Goes To Harlem",
+    "artist": "Carl Barriteau & His Orchestra",
+    "isrc": "GBLGL1065410"
+  },
+  {
+    "title": "Sha-Wan-Da-Moo",
+    "artist": "Charles Remue & His New Stompers Orchestra",
+    "isrc": "GBLGL1030487"
+  },
+  {
+    "title": "One Way Ticket",
+    "artist": "Frank Glover",
+    "isrc": "uscgh0624861"
+  },
+  {
+    "title": "Hank's Dilemma",
+    "artist": "Hank D'Amico Quartet",
+    "isrc": "QMSGD1470453"
+  },
+  {
+    "title": "Myriam",
+    "artist": "Harold Rubin",
+    "isrc": "ushm20747212"
+  },
+  {
+    "title": "Singin' the Blues #1",
+    "artist": "Harry Shields, Armand Hug, Chink Martin, Abbe Brunies",
+    "isrc": "US2GH0812713"
+  },
+  {
+    "title": "St. Louis Blues",
+    "artist": "John Casimir",
+    "isrc": "USA6R9806102"
+  },
+  {
+    "title": "Concerto For Clarinet",
+    "artist": "John LaPorta",
+    "isrc": "ADA010811827"
+  },
+  {
+    "title": "Clarinet Marmalade",
+    "artist": "Louis Nelson Delisle, Studio ensemble",
+    "isrc": "USA4A0600786"
+  },
+  {
+    "title": "Petite Fleur",
+    "artist": "Peter Schilperoort",
+    "isrc": "NLG620426298"
+  },
+  {
+    "title": "Atlantic Suite - Harbours",
+    "artist": "Phil Nimmons",
+    "isrc": "HKI199279806"
+  },
+  {
+    "title": "Coquette",
+    "artist": "Rick Bogart",
+    "isrc": "ushm80647098"
+  },
+  {
+    "title": "Blackbirds of 1928: Diga Diga Doo",
+    "artist": "Jimmy McHugh, Rod Cless, Art Hodes, Anonymous",
+    "isrc": "USA4A0600560"
+  },
+  {
+    "title": "Blue Room",
+    "artist": "Shoji Suzuki",
+    "isrc": "FRS181214153"
+  },
+  {
+    "title": "Boogie Man",
+    "artist": "Sid Phillips",
+    "isrc": "ES31E2304322"
+  },
+  {
+    "title": "Brusnichko Oro",
+    "artist": "Tale Ognenovski, Stevan Ognenovski",
+    "isrc": "USA560311141"
+  },
+  {
+    "title": "Morning Brew",
+    "artist": "Theo Jörgensmann, Evert Brettschneider, Kai Kanthak, Sascha Sauerborn",
+    "isrc": "DGA062347831"
+  },
+  {
+    "title": "Ain't Misbehavin' - Live",
+    "artist": "Albert Nicholas",
+    "isrc": "US4B99904503"
+  },
+  {
+    "title": "If I Had You",
+    "artist": "Pee Wee Russell",
+    "isrc": "USEEC0615033"
+  },
+  {
+    "title": "Wild Man Blues",
+    "artist": "Johnny Dodds",
+    "isrc": "DEZZ52172136"
+  },
+  {
+    "title": "Rose Room",
+    "artist": "Buddy DeFranco",
+    "isrc": "USGR10000932"
+  },
+  {
+    "title": "Walkin' the Dog",
+    "artist": "Edmond Hall",
+    "isrc": "BGA671170517"
+  },
+  {
+    "title": "Blues My Naughty Sweetie Gives to Me",
+    "artist": "Jimmie Noone",
+    "isrc": "AUXN22071216"
+  },
+  {
+    "title": "Stupid But Not Crazy",
+    "artist": "Jimmy Hamilton",
+    "isrc": "USFI86100985"
+  },
+  {
+    "title": "Caravan",
+    "artist": "Barney Bigard",
+    "isrc": "DES201533407"
+  },
+  {
+    "title": "Moonglow",
+    "artist": "Artie Shaw",
+    "isrc": "USBB14100682"
+  },
+  {
+    "title": "Pretend",
+    "artist": "Ken Peplowski",
+    "isrc": "USC4R0509931"
+  },
+  {
+    "title": "I'll See You In My Dreams",
+    "artist": "Kenny Davern, Giampaolo Biagi, Howard Alden, Phil Flanigan",
+    "isrc": "USMU10820364"
+  },
+  {
+    "title": "My Blue Heaven",
+    "artist": "Bob Wilber, Kenny Davern",
+    "isrc": "USASQ0511370"
+  },
+  {
+    "title": "Féerie",
+    "artist": "Evan Christopher, David Blenkhorn, Dave Kelbie, Sebastien Girardot",
+    "isrc": "FRX191001439"
+  },
+  {
+    "title": "Salty Dog",
+    "artist": "George Lewis",
+    "isrc": "USAT20503106"
+  },
+  {
+    "title": "Petite Fleur",
+    "artist": "Sidney Bechet",
+    "isrc": "FRZ195200011"
+  },
+  {
+    "title": "You're Nobody 'Til Somebody Loves You",
+    "artist": "Pete Fountain",
+    "isrc": "USMC16415318"
+  },
+  {
+    "title": "Stompin At The Savoy",
+    "artist": "Benny Goodman",
+    "isrc": "USCA28900220"
+  },
+  {
+    "title": "Awakening",
+    "artist": "Eddie Daniels",
+    "isrc": "USA370641454"
+  },
+  {
+    "title": "Beale Street Blues Ver2",
+    "artist": "Buster Bailey",
+    "isrc": "BEDO62311558"
+  },
+  {
+    "title": "I Know That You Know",
+    "artist": "Allan Vaché, Antti Sarpila, Mark Shane, Len Skeat, Joe Ascione",
+    "isrc": "DES209702612"
+  },
+  {
+    "title": "Gotta Dance",
+    "artist": "Jimmy Giuffre",
+    "isrc": "USAT20104898"
+  },
+  {
+    "title": "Lagniappe",
+    "artist": "Omer Simeon, Sammy Price, Zutty Singleton",
+    "isrc": "QMFME1423681"
+  },
+  {
+    "title": "Poor Butterfly",
+    "artist": "Bobby Gordon, Dave McKenna",
+    "isrc": "US89R0610509"
+  },
+  {
+    "title": "Picou",
+    "artist": "Alvin Batiste",
+    "isrc": "usjkl1200064"
+  },
+  {
+    "title": "Blues In Disguise (06-14-37)",
+    "artist": "Mezz Mezzrow",
+    "isrc": "USA560933742"
+  },
+  {
+    "title": "Frasquita Senenade",
+    "artist": "Don Byron",
+    "isrc": "USNO19634802"
+  },
+  {
+    "title": "Darktown Strutters Ball",
+    "artist": "Albert Burbank",
+    "isrc": "DKEFA0809707"
+  },
+  {
+    "title": "So Rare",
+    "artist": "Jimmy Dorsey, Tommy Dorsey",
+    "isrc": "DEZZ42171210"
+  },
+  {
+    "title": "Trusting Eyes - Remastered",
+    "artist": "Frank Teschemacher, Enrico Caruso",
+    "isrc": "DEVU52287562"
+  },
+  {
+    "title": "Tea for Two - 1996 Remastered",
+    "artist": "Benny Goodman Quartet",
+    "isrc": "USBB19601144"
+  },
+  {
+    "title": "Dark Eyes",
+    "artist": "Antti Sarpila",
+    "isrc": "FIASA9190003"
+  },
+  {
+    "title": "After You've Gone - Quintet Version",
+    "artist": "Peanuts Hucko, Alex Welsh & His Band",
+    "isrc": "GBBAD0200096"
+  },
+  {
+    "title": "The Old Rugged Cross",
+    "artist": "Monty Sunshine",
+    "isrc": "GBBMR0218416"
+  },
+  {
+    "title": "One Love",
+    "artist": "Dr. Michael White",
+    "isrc": "USBAS1100205"
+  },
+  {
+    "title": "Gli amori sospesi",
+    "artist": "Gabriele Mirabassi, Nando Di Modugno, Pierluigi Balducci",
+    "isrc": "ITZU01533301"
+  },
+  {
+    "title": "Sweet Lorraine",
+    "artist": "Irving Fazola",
+    "isrc": "GBGN32269101"
+  },
+  {
+    "title": "Hot String Bean",
+    "artist": "Joe Marsala, Ray Biondi, Joe Marsala Chicagoans",
+    "isrc": "SE2IL9500507"
+  },
+  {
+    "title": "What Am I To Do",
+    "artist": "Tony Scott",
+    "isrc": "GBVVQ1902841"
+  },
+  {
+    "title": "On the Sunny Side of the Street",
+    "artist": "Ted Lewis",
+    "isrc": "DEXO22207554"
+  },
+  {
+    "title": "La Paloma",
+    "artist": "Acker Bilk, The Leon Young String Chorale",
+    "isrc": "GBAKW0300414"
+  },
+  {
+    "title": "Misty",
+    "artist": "Putte Wickman",
+    "isrc": "SEUM71100406"
+  },
+  {
+    "title": "Playmate",
+    "artist": "Rolf Kühn",
+    "isrc": "DEZ650803920"
+  },
+  {
+    "title": "Ca Va Bouillir - Instrumental",
+    "artist": "Hubert Rostaing",
+    "isrc": "FRZ075702430"
+  },
+  {
+    "title": "The Last Western",
+    "artist": "Sandy Brown",
+    "isrc": "USA561146033"
+  },
+  {
+    "title": "At the Codfish Ball",
+    "artist": "Dan Levinson & His Swing Wing, Molly Ryan",
+    "isrc": "US4FU0960401"
+  },
+  {
+    "title": "Billies Bounce",
+    "artist": "Mort Weiss",
+    "isrc": "usx9p1172289"
+  },
+  {
+    "title": "Chorino for Dennis(feat. Paul Meyers)",
+    "artist": "Dan Block, Paul Meyers",
+    "isrc": "USHL71200027"
+  },
+  {
+    "title": "Just a Closer Walk with Thee",
+    "artist": "Joe Darensbourg, Clive Wilson, Waldren \"Frog\" Joseph, Danny Barker, Stanley Mendelson, Lloyd Lambert, Freddie Kohlman",
+    "isrc": "US2GH9431308"
+  },
+  {
+    "title": "Ev'rybody's Crazy 'Bout the Doggone Blues",
+    "artist": "Wilbur Sweatman, Wilbur Sweatman's Original Jazz Band",
+    "isrc": "GBBMR1984612"
+  },
+  {
+    "title": "Shake It and Break It",
+    "artist": "Emile Barnes, Lawrence Tocca, Billie Pierce",
+    "isrc": "USSF11018325"
+  },
+  {
+    "title": "China My Chinatown (feat. Dick Cathcart, Eddie Miller, George Van Eps, Nick Fatbool)",
+    "artist": "Matty Matlock, Dick Cathcart, Eddie Miller, George Van Eps, Nick Fatbool",
+    "isrc": "US4FU1232421"
+  },
+  {
+    "title": "Funk Dumpling",
+    "artist": "Perry Robinson, Kenny Barron, Henry Grimes, Paul Motian",
+    "isrc": "USV351312517"
+  },
+  {
+    "title": "Here Today",
+    "artist": "Wally Fawkes",
+    "isrc": "USA561146029"
+  },
+  {
+    "title": "C Jam Blues - Live",
+    "artist": "Albert Nicholas",
+    "isrc": "US4B99904501"
+  },
+  {
+    "title": "The Very Thought Of You",
+    "artist": "Pee Wee Russell",
+    "isrc": "GBLGL1075306"
+  },
+  {
+    "title": "Melancholy - 21/01/1938",
+    "artist": "Johnny Dodds, Chicago Boys",
+    "isrc": "ITC470902033"
+  },
+  {
+    "title": "If I Should Lose You",
+    "artist": "Buddy DeFranco",
+    "isrc": "USUM70504389"
+  },
+  {
+    "title": "It's Only A Shanty In Old Shanty Town",
+    "artist": "Edmond Hall",
+    "isrc": "BGA671170515"
+  },
+  {
+    "title": "Way Down Yonder In New Orleans",
+    "artist": "Jimmie Noone",
+    "isrc": "GBLGL1075792"
+  },
+  {
+    "title": "Two For One",
+    "artist": "Jimmy Hamilton",
+    "isrc": "USFI86100986"
+  },
+  {
+    "title": "That Old Feeling",
+    "artist": "Barney Bigard",
+    "isrc": "BGA671171502"
+  },
+  {
+    "title": "Frenesi",
+    "artist": "Artie Shaw",
+    "isrc": "USBB10100803"
+  },
+  {
+    "title": "It's Easy to Remember",
+    "artist": "Ken Peplowski, Joe Cohn, Ted Rosenthal, Bobby Short",
+    "isrc": "DES200424301"
+  },
+  {
+    "title": "Rock-a-Bye Your Baby with a Dixie Melody",
+    "artist": "Kenny Davern, Bob Wilber",
+    "isrc": "USJ4R0032804"
+  },
+  {
+    "title": "Treasure",
+    "artist": "Bob Wilber, Scott Hamilton Quartet",
+    "isrc": "USASQ0510022"
+  },
+  {
+    "title": "Histoire De Faussaire",
+    "artist": "Evan Christopher, Koen De Cauter, David Paquette",
+    "isrc": "US2GH1544202"
+  },
+  {
+    "title": "Burgundy Street Blues",
+    "artist": "George Lewis",
+    "isrc": "USAT20503112"
+  },
+  {
+    "title": "Summertime",
+    "artist": "Sidney Bechet",
+    "isrc": "USBN28900036"
+  },
+  {
+    "title": "Lazy River - Remastered",
+    "artist": "Pete Fountain",
+    "isrc": "DEXO32058659"
+  },
+  {
+    "title": "Blue Bossa",
+    "artist": "Eddie Daniels, Bucky Pizzarelli",
+    "isrc": "GBCWU0601959"
+  },
+  {
+    "title": "Chicago",
+    "artist": "Benny Goodman",
+    "isrc": "USCA29701307"
+  },
+  {
+    "title": "Light Up (12-07-38)",
+    "artist": "Buster Bailey",
+    "isrc": "USA560850388"
+  },
+  {
+    "title": "What Can I Say After I Say I'm Sorry",
+    "artist": "Allan Vaché, Antti Sarpila, Ken Peplowski, Mark Shane, Len Skeat, Joe Ascione",
+    "isrc": "DES209702702"
+  },
+  {
+    "title": "Lazy Tones",
+    "artist": "Jimmy Giuffre",
+    "isrc": "GBLGL1277229"
+  },
+  {
+    "title": "Saint James Infirmary",
+    "artist": "Omer Simeon, Sam Price, Zutty Singleton",
+    "isrc": "FRS181433967"
+  },
+  {
+    "title": "Clarinet Blues",
+    "artist": "Bobby Gordon, Dave McKenna",
+    "isrc": "US89R0610507"
+  },
+  {
+    "title": "Skylark",
+    "artist": "Alvin Batiste",
+    "isrc": "USMMX0707207"
+  },
+  {
+    "title": "Hot Club Stomp (06-14-37)",
+    "artist": "Mezz Mezzrow",
+    "isrc": "USA560933744"
+  },
+  {
+    "title": "The Dicty Glide",
+    "artist": "Don Byron",
+    "isrc": "USNO19643801"
+  },
+  {
+    "title": "Shine",
+    "artist": "Albert Burbank",
+    "isrc": "DKEFA0809709"
+  },
+  {
+    "title": "I'm Steppin' out with a Memory Tonight",
+    "artist": "Jimmy Dorsey, Helen O'Connell",
+    "isrc": "DEZZ42171217"
+  }
+]

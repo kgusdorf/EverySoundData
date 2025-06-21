@@ -1,0 +1,782 @@
+[
+  {
+    "title": "Shopping List",
+    "artist": "Khotin",
+    "isrc": "US2J72007109"
+  },
+  {
+    "title": "It Breaks (Chapter IX)",
+    "artist": "Leon Vynehall",
+    "isrc": "GBCFB1700572"
+  },
+  {
+    "title": "Club Sentimiental, Vol. 3",
+    "artist": "DJ Python",
+    "isrc": "USYBL2102259"
+  },
+  {
+    "title": "Untitled A1",
+    "artist": "SW.",
+    "isrc": "BEZ351700090"
+  },
+  {
+    "title": "Theory of Colours",
+    "artist": "Dauwd",
+    "isrc": "GBCFB1700035"
+  },
+  {
+    "title": "No Reality",
+    "artist": "Akasha System",
+    "isrc": "CAENV1884364"
+  },
+  {
+    "title": "Fractal Liason",
+    "artist": "System 7",
+    "isrc": "GBAAA9100527"
+  },
+  {
+    "title": "5 23",
+    "artist": "Global Communication",
+    "isrc": "GBARL0300487"
+  },
+  {
+    "title": "Toxygene - 7\" Edit",
+    "artist": "The Orb",
+    "isrc": "GBAAN9700025"
+  },
+  {
+    "title": "Every Weather",
+    "artist": "Leif",
+    "isrc": "DEG932103862"
+  },
+  {
+    "title": "Medicine Man",
+    "artist": "Unknown Mobile",
+    "isrc": "USYBL1901199"
+  },
+  {
+    "title": "Diving Birds",
+    "artist": "Facta, Parris",
+    "isrc": "GBHLW2100221"
+  },
+  {
+    "title": "The Lie-In King",
+    "artist": "The Irresistible Force",
+    "isrc": "GBCFB9800020"
+  },
+  {
+    "title": "Reluctant Memory",
+    "artist": "DJ Sports",
+    "isrc": "GBQLP1700266"
+  },
+  {
+    "title": "Acquiescence - Tripswitch Remix",
+    "artist": "Banco De Gaia, Tripswitch",
+    "isrc": "GBCSF1300009"
+  },
+  {
+    "title": "Sonne",
+    "artist": "Pete Namlook",
+    "isrc": "QZHNC2148113"
+  },
+  {
+    "title": "Earth Moves - Hidden Spheres Remix",
+    "artist": "Francis Harris, Hidden Spheres",
+    "isrc": "DEL022201018"
+  },
+  {
+    "title": "Baltimore to Fair Play",
+    "artist": "The KLF, The Justified Ancients of Mu Mu",
+    "isrc": "GBCEL2100100"
+  },
+  {
+    "title": "Discovery",
+    "artist": "Ultramarine",
+    "isrc": "USA4D0213101"
+  },
+  {
+    "title": "Yamaha",
+    "artist": "Aleksandir",
+    "isrc": "UK6821801370"
+  },
+  {
+    "title": "Hazme Sonar - Massimin And Andrea Gemolotto Club Mix",
+    "artist": "Morenas",
+    "isrc": "IT00G8900181"
+  },
+  {
+    "title": "Sequence 1",
+    "artist": "Moiré",
+    "isrc": "US2J71708001"
+  },
+  {
+    "title": "The Labyrinth",
+    "artist": "Reagenz",
+    "isrc": "DELG71100344"
+  },
+  {
+    "title": "Let Me Love You",
+    "artist": "Gacha Bakradze",
+    "isrc": "BEZ351500080"
+  },
+  {
+    "title": "Glue",
+    "artist": "BICEP",
+    "isrc": "GBCFB1700229"
+  },
+  {
+    "title": "Interstice",
+    "artist": "Polynation",
+    "isrc": "NLC7F1900020"
+  },
+  {
+    "title": "Too Much - Francis Harris Reform",
+    "artist": "Will Long, Francis Harris",
+    "isrc": "DEL022401011"
+  },
+  {
+    "title": "Thank U Again",
+    "artist": "Map.ache",
+    "isrc": "DEPL91801124"
+  },
+  {
+    "title": "Evolution Rush",
+    "artist": "Opus III",
+    "isrc": "GBAHS0104710"
+  },
+  {
+    "title": "My Friend",
+    "artist": "One Dove",
+    "isrc": "GBAAP0000714"
+  },
+  {
+    "title": "Maybe",
+    "artist": "Kettenkarussell",
+    "isrc": "AUGBT2217234"
+  },
+  {
+    "title": "Here We Guard Upon the Soul",
+    "artist": "Sage Caswell",
+    "isrc": "GBQLP1601038"
+  },
+  {
+    "title": "The Last Stand",
+    "artist": "The Aloof",
+    "isrc": "GBAHS1900338"
+  },
+  {
+    "title": "Problem - Abyss Version",
+    "artist": "Now Now Now",
+    "isrc": "IT00G9100513"
+  },
+  {
+    "title": "10k Feet - Ambient Mix",
+    "artist": "Thor Twins",
+    "isrc": "IT00G0214294"
+  },
+  {
+    "title": "Never Forget Us",
+    "artist": "Earth House Hold",
+    "isrc": "USCGJ1868427"
+  },
+  {
+    "title": "RIVER (Classified)",
+    "artist": "Cromie",
+    "isrc": "UKWGH2100003"
+  },
+  {
+    "title": "Familiar Hangout",
+    "artist": "Sueño Latino",
+    "isrc": "GBPS85513968"
+  },
+  {
+    "title": "Entity - Fitzcarraldo...ExtasyOfLove",
+    "artist": "Mr. Marvin",
+    "isrc": "IT00G9100581"
+  },
+  {
+    "title": "Trasparenza",
+    "artist": "Extreme",
+    "isrc": "IT00G9077014"
+  },
+  {
+    "title": "Low Sentiment",
+    "artist": "Takecha",
+    "isrc": "GBJX36315008"
+  },
+  {
+    "title": "Hiraeth (feat. Kim Van Loo)",
+    "artist": "Fejká, Kim Van Loo",
+    "isrc": "QM4TX2231461"
+  },
+  {
+    "title": "Ysyeyxy",
+    "artist": "Inoue Shirabe",
+    "isrc": "FR10S1536632"
+  },
+  {
+    "title": "Fruity Loop",
+    "artist": "Westcoast Goddess",
+    "isrc": "QMJYS2000690"
+  },
+  {
+    "title": "engaging causeless mercy",
+    "artist": "micronism",
+    "isrc": "NZLP01600294"
+  },
+  {
+    "title": "Herrera",
+    "artist": "Mateis e. aqir",
+    "isrc": "USA2Z1900942"
+  },
+  {
+    "title": "Butterfly Holocaust",
+    "artist": "Neutron 9000",
+    "isrc": "QMBZ92025144"
+  },
+  {
+    "title": "Druck",
+    "artist": "Richard Wahnfried",
+    "isrc": "USA371627470"
+  },
+  {
+    "title": "Black Sapphire",
+    "artist": "AL-90",
+    "isrc": "FR96X1853329"
+  },
+  {
+    "title": "Cayenne",
+    "artist": "Lawrence Le Doux",
+    "isrc": "ES70G1700029"
+  },
+  {
+    "title": "Future Goner",
+    "artist": "Neu Balance",
+    "isrc": "CAE5H1500277"
+  },
+  {
+    "title": "Slow Channel",
+    "artist": "A Pleasure",
+    "isrc": "FR10S1618662"
+  },
+  {
+    "title": "Biruza",
+    "artist": "AEM Rhythm-Cascade",
+    "isrc": "EEKN30000157"
+  },
+  {
+    "title": "Sunrise Sant Agnes",
+    "artist": "Andy Cato",
+    "isrc": "BEZ351300070"
+  },
+  {
+    "title": "Aqua - Water Please",
+    "artist": "Aqua Regina",
+    "isrc": "ITIYT2001812"
+  },
+  {
+    "title": "Danger",
+    "artist": "Badia, Samira",
+    "isrc": "FR6V82055237"
+  },
+  {
+    "title": "Dà Vita",
+    "artist": "Bienoise",
+    "isrc": "DEAR41645867"
+  },
+  {
+    "title": "Managing The New Frontier",
+    "artist": "Black Deer",
+    "isrc": "DEU671901215"
+  },
+  {
+    "title": "Once Around",
+    "artist": "Doubler",
+    "isrc": "USA2B1804604"
+  },
+  {
+    "title": "Loving You Live",
+    "artist": "Dr Alex Paterson",
+    "isrc": "GBBPW9200039"
+  },
+  {
+    "title": "Daydream",
+    "artist": "Dylan Stark",
+    "isrc": "GBWTT1505805"
+  },
+  {
+    "title": "Manantial",
+    "artist": "Flavius E.",
+    "isrc": "ARA450600037"
+  },
+  {
+    "title": "Dance to the Rhythm - Stereomode Techno Bass Mix",
+    "artist": "Frankie 'O' Generator, Stereomode",
+    "isrc": "IT00G9000274"
+  },
+  {
+    "title": "Outa Banks",
+    "artist": "Fuewa",
+    "isrc": "GB9E51300038"
+  },
+  {
+    "title": "Tu ne peux pas savoir - Priori Vocal Mix",
+    "artist": "Gilbert Cohen, Ariel Kalma, Priori",
+    "isrc": "FR08Q2000038"
+  },
+  {
+    "title": "Caverns",
+    "artist": "Helios Mode",
+    "isrc": "GBXC51900008"
+  },
+  {
+    "title": "Walk on Air (Sun & Moon Mix)",
+    "artist": "Holy Ghost Inc.",
+    "isrc": "USQY51768291"
+  },
+  {
+    "title": "Gang Progress",
+    "artist": "Jack Novin, Matt Grone",
+    "isrc": "USQY51738769"
+  },
+  {
+    "title": "Night System",
+    "artist": "Nackt, Kendig",
+    "isrc": "USK7A1700001"
+  },
+  {
+    "title": "Thousand Oaks",
+    "artist": "Newworldaquarium",
+    "isrc": "DELG71400622"
+  },
+  {
+    "title": "Femenine - Mixed",
+    "artist": "Olsen",
+    "isrc": "GBEXH1900004"
+  },
+  {
+    "title": "Home",
+    "artist": "Patryk Cannon",
+    "isrc": "PL13F1900024"
+  },
+  {
+    "title": "X=X",
+    "artist": "Psyche, Boymerang",
+    "isrc": "GBDRC9500111"
+  },
+  {
+    "title": "Warsaw",
+    "artist": "Ptaki",
+    "isrc": "USYBL1401307"
+  },
+  {
+    "title": "Fuse - Âme Remix",
+    "artist": "The Machine, Âme",
+    "isrc": "GBLTF0900052"
+  },
+  {
+    "title": "EeEsTee",
+    "artist": "Trux",
+    "isrc": "USJ4X0703208"
+  },
+  {
+    "title": "Touch",
+    "artist": "Yoshinori Hayashi",
+    "isrc": "NOSTS2176040"
+  },
+  {
+    "title": "Levi's Synth",
+    "artist": "Khotin",
+    "isrc": "USYBL1801056"
+  },
+  {
+    "title": "Descanse",
+    "artist": "DJ Python",
+    "isrc": "USYBL2000522"
+  },
+  {
+    "title": "Envelopes (Chapter VI) - Edit",
+    "artist": "Leon Vynehall",
+    "isrc": "GBCFB1800086"
+  },
+  {
+    "title": "Untitled C3",
+    "artist": "SW.",
+    "isrc": "BEZ351700097"
+  },
+  {
+    "title": "Macadam Therapy",
+    "artist": "Dauwd",
+    "isrc": "GBCFB1700029"
+  },
+  {
+    "title": "Imager",
+    "artist": "Akasha System",
+    "isrc": "GB6LY1600106"
+  },
+  {
+    "title": "PositiveNoise",
+    "artist": "System 7, A Guy Called Gerald",
+    "isrc": "GBDPW1100022"
+  },
+  {
+    "title": "8:07",
+    "artist": "Global Communication",
+    "isrc": "GBARL0300486"
+  },
+  {
+    "title": "Mimosa",
+    "artist": "Leif",
+    "isrc": "FR2X41979369"
+  },
+  {
+    "title": "Metallic Spheres In Colour: Movement 2 - Excerpt",
+    "artist": "The Orb, David Gilmour",
+    "isrc": "GBLTP2300003"
+  },
+  {
+    "title": "A Windless March Ouest",
+    "artist": "Unknown Mobile, CFCF",
+    "isrc": "USYBL1901201"
+  },
+  {
+    "title": "On Deck",
+    "artist": "Facta",
+    "isrc": "GBHLW2100217"
+  },
+  {
+    "title": "Power",
+    "artist": "The Irresistible Force",
+    "isrc": "GBCFB9800010"
+  },
+  {
+    "title": "World Class",
+    "artist": "DJ Sports",
+    "isrc": "GBQLP1700259"
+  },
+  {
+    "title": "Soufie - Ambient Dub Version",
+    "artist": "Banco De Gaia",
+    "isrc": "GBCSF1100001"
+  },
+  {
+    "title": "4VI Intro",
+    "artist": "Pete Namlook",
+    "isrc": "QZDA82194975"
+  },
+  {
+    "title": "Minor Forms",
+    "artist": "Francis Harris",
+    "isrc": "USYF71800001"
+  },
+  {
+    "title": "Madrugada Eterna - Club Mix",
+    "artist": "The KLF",
+    "isrc": "GBCEL2100289"
+  },
+  {
+    "title": "Hymn - µ-Ziq Remix",
+    "artist": "Ultramarine",
+    "isrc": "GBAHT1400430"
+  },
+  {
+    "title": "Somnambulism",
+    "artist": "Morenas",
+    "isrc": "IT00G9000202"
+  },
+  {
+    "title": "HEARTH SONG",
+    "artist": "Aleksandir, Ola",
+    "isrc": "FR96X2479615"
+  },
+  {
+    "title": "Circuit 2",
+    "artist": "Moiré",
+    "isrc": "USJX42200006"
+  },
+  {
+    "title": "One Small Step... - Mixed",
+    "artist": "Reagenz, Thomas Fehlmann",
+    "isrc": "DEG931910784"
+  },
+  {
+    "title": "Gather",
+    "artist": "Gacha Bakradze",
+    "isrc": "BEZ351700116"
+  },
+  {
+    "title": "Lory",
+    "artist": "Polynation",
+    "isrc": "NLC7F1900022"
+  },
+  {
+    "title": "Too Much - DJ Aakmael Remix",
+    "artist": "Will Long, DJ Aakmael",
+    "isrc": "DEL022401012"
+  },
+  {
+    "title": "Tabor",
+    "artist": "Map.ache",
+    "isrc": "DECY50818001"
+  },
+  {
+    "title": "Apricots",
+    "artist": "BICEP",
+    "isrc": "GBCFB2000317"
+  },
+  {
+    "title": "Sea People",
+    "artist": "Opus III",
+    "isrc": "GBAHS0104709"
+  },
+  {
+    "title": "Transient Truth",
+    "artist": "One Dove",
+    "isrc": "GBAAP0000708"
+  },
+  {
+    "title": "New York Blues",
+    "artist": "Kettenkarussell",
+    "isrc": "AUGBT2322713"
+  },
+  {
+    "title": "Danny's Telephone Voice",
+    "artist": "Sage Caswell",
+    "isrc": "GBQLP1601035"
+  },
+  {
+    "title": "Bittersweet",
+    "artist": "The Aloof",
+    "isrc": "GBAHS1900328"
+  },
+  {
+    "title": "Problem",
+    "artist": "Now Now Now",
+    "isrc": "RUA0G1601314"
+  },
+  {
+    "title": "10K Feet - Sound Of Nature Edit",
+    "artist": "Thor Twins",
+    "isrc": "IT00G1274105"
+  },
+  {
+    "title": "Faded Times, Future Truths",
+    "artist": "Earth House Hold",
+    "isrc": "USHM82113604"
+  },
+  {
+    "title": "Landbridge",
+    "artist": "Cromie",
+    "isrc": "UKWGH2100001"
+  },
+  {
+    "title": "Earphone Sedated",
+    "artist": "Sueño Latino",
+    "isrc": "GBPS85514053"
+  },
+  {
+    "title": "Taste Of Jazz - Jazz Club Mix",
+    "artist": "Mr. Marvin",
+    "isrc": "IT00G9370062"
+  },
+  {
+    "title": "Love Me - Atmosphere",
+    "artist": "Extreme",
+    "isrc": "ITOOJ9100109"
+  },
+  {
+    "title": "Midnight Things",
+    "artist": "Takecha",
+    "isrc": "GBJX36315005"
+  },
+  {
+    "title": "Window Lights",
+    "artist": "Inoue Shirabe",
+    "isrc": "USA2Z1710078"
+  },
+  {
+    "title": "Svanur (feat. Rökkurró)",
+    "artist": "Fejká, Rökkurró",
+    "isrc": "QM6P41904469"
+  },
+  {
+    "title": "Strung Out Ditty",
+    "artist": "Westcoast Goddess",
+    "isrc": "UKN6K1800046"
+  },
+  {
+    "title": "constructing space",
+    "artist": "micronism",
+    "isrc": "NZLP01600287"
+  },
+  {
+    "title": "Expensive Bongos",
+    "artist": "Mateis e. aqir",
+    "isrc": "USA2Z1900941"
+  },
+  {
+    "title": "Lady Burning Sky - Daniel Avery Remix",
+    "artist": "Neutron 9000, Daniel Avery",
+    "isrc": "DEG932102614"
+  },
+  {
+    "title": "Charming The Wind",
+    "artist": "Richard Wahnfried",
+    "isrc": "DED510800506"
+  },
+  {
+    "title": "Vchera",
+    "artist": "AL-90, FMSAO",
+    "isrc": "QMFME1948925"
+  },
+  {
+    "title": "Aquarium Scence",
+    "artist": "Lawrence Le Doux",
+    "isrc": "ES70G1700041"
+  },
+  {
+    "title": "Trsx Moon",
+    "artist": "Neu Balance",
+    "isrc": "CAE5H1500278"
+  },
+  {
+    "title": "Arthur Russell",
+    "artist": "A Pleasure",
+    "isrc": "FR10S1618658"
+  },
+  {
+    "title": "Frog Fractions",
+    "artist": "Khotin",
+    "isrc": "JPB671703077"
+  },
+  {
+    "title": "TMMD (IMMMD)",
+    "artist": "DJ Python",
+    "isrc": "USYBL2102258"
+  },
+  {
+    "title": "Julia (Footnote IV)",
+    "artist": "Leon Vynehall",
+    "isrc": "GBCFB1700566"
+  },
+  {
+    "title": "Untitled B3",
+    "artist": "SW.",
+    "isrc": "BEZ351700094"
+  },
+  {
+    "title": "La Nota - Mixed",
+    "artist": "Dauwd",
+    "isrc": "DEG932300815"
+  },
+  {
+    "title": "Sunbreather",
+    "artist": "Akasha System",
+    "isrc": "USA2Z1901335"
+  },
+  {
+    "title": "Altitude - Mayday Mix",
+    "artist": "System 7, Derrick May",
+    "isrc": "GBDPW1100011"
+  },
+  {
+    "title": "4:14",
+    "artist": "Global Communication",
+    "isrc": "GBARL0300488"
+  },
+  {
+    "title": "Seven Hour Flight to Nowhere",
+    "artist": "Leif",
+    "isrc": "DEG932103800"
+  },
+  {
+    "title": "Earth (Gaia)",
+    "artist": "The Orb",
+    "isrc": "GBAAN9100005"
+  },
+  {
+    "title": "Wailing Spruce",
+    "artist": "Unknown Mobile",
+    "isrc": "CBC6V2200007"
+  },
+  {
+    "title": "Mirage",
+    "artist": "Facta",
+    "isrc": "QZTRX2244279"
+  },
+  {
+    "title": "Nepalese Bliss (DJ Food Remix Nepalese Slack Person)",
+    "artist": "The Irresistible Force",
+    "isrc": "GBCFB9801028"
+  },
+  {
+    "title": "Fertile Crescent",
+    "artist": "DJ Sports",
+    "isrc": "GBQLP1700261"
+  },
+  {
+    "title": "Heliopolis - Eedupolis Dog Mix",
+    "artist": "Banco De Gaia, Andy Guthrie, Michael Dog",
+    "isrc": "GBCSF1100017"
+  },
+  {
+    "title": "Sequential",
+    "artist": "Pete Namlook",
+    "isrc": "QZHNC2148110"
+  },
+  {
+    "title": "Pensum",
+    "artist": "Francis Harris",
+    "isrc": "USYF71200008"
+  },
+  {
+    "title": "The White Room",
+    "artist": "The KLF",
+    "isrc": "GBCEL2100293"
+  },
+  {
+    "title": "Weird Gear",
+    "artist": "Ultramarine",
+    "isrc": "USA4D0213102"
+  },
+  {
+    "title": "Cuando Brilla La Luna - En La Cima Del Mundo",
+    "artist": "Morenas",
+    "isrc": "IT00G9200671"
+  },
+  {
+    "title": "Reveries",
+    "artist": "Aleksandir",
+    "isrc": "GBUD71500226"
+  },
+  {
+    "title": "Lisbon",
+    "artist": "Moiré",
+    "isrc": "US25X1801476"
+  },
+  {
+    "title": "DJ Friendly",
+    "artist": "Reagenz",
+    "isrc": "DEMM41201402"
+  },
+  {
+    "title": "Image - Earth Trax Ambient Mix (Mixed)",
+    "artist": "Gacha Bakradze, Earth Trax",
+    "isrc": "GBEWA2207530"
+  },
+  {
+    "title": "Swell",
+    "artist": "Polynation",
+    "isrc": "NLC7F1500040"
+  },
+  {
+    "title": "No More",
+    "artist": "Will Long",
+    "isrc": "NOSTS1721040"
+  },
+  {
+    "title": "Enola - Original",
+    "artist": "Map.ache",
+    "isrc": "DECY51118076"
+  }
+]

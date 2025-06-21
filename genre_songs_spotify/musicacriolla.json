@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Sacachispas",
+    "artist": "Jesus Vasquez, Panchito Jimenez",
+    "isrc": "FRX451598819"
+  },
+  {
+    "title": "Mechita",
+    "artist": "Cecilia Barraza",
+    "isrc": "USRAR1001119"
+  },
+  {
+    "title": "Nube Gris",
+    "artist": "Esther Granados",
+    "isrc": "PEMG99606014"
+  },
+  {
+    "title": "El Chacombo",
+    "artist": "Oscar Avilés, Arturo \"Zambo\" Cavero",
+    "isrc": "FR2X41506964"
+  },
+  {
+    "title": "Alejandrina",
+    "artist": "Rafael Matallana",
+    "isrc": "FR10S1594802"
+  },
+  {
+    "title": "No Te He Dado Motivo",
+    "artist": "Lucila Campos",
+    "isrc": "FR2X41550205"
+  },
+  {
+    "title": "Yo la Quería Patita",
+    "artist": "Los Troveros criollos",
+    "isrc": "ES71G2203249"
+  },
+  {
+    "title": "Limeña",
+    "artist": "Edith Barr",
+    "isrc": "ES71G1814762"
+  },
+  {
+    "title": "Jipi Jay",
+    "artist": "Pepe Vásquez",
+    "isrc": "FRX871597137"
+  },
+  {
+    "title": "Que Viva Mi Perú",
+    "artist": "Los Ases del Perú",
+    "isrc": "FRX871586464"
+  },
+  {
+    "title": "Con locura (vals)",
+    "artist": "Los Chamas",
+    "isrc": "CA5KR2021895"
+  },
+  {
+    "title": "Casarme Quiero",
+    "artist": "Alicia Maguiña",
+    "isrc": "FRX871588756"
+  },
+  {
+    "title": "Mal Paso",
+    "artist": "Panchito Jimenez",
+    "isrc": "FRX991590230"
+  },
+  {
+    "title": "El Trino de Mi Guitarra",
+    "artist": "Oscar Aviles y Su Conjunto Fiesta Criolla",
+    "isrc": "FRX991593134"
+  },
+  {
+    "title": "Nuestro Secreto / Se Acabó y Punto",
+    "artist": "Manuel Donayre",
+    "isrc": "FR96X1601756"
+  },
+  {
+    "title": "Cholo Soy y No Me Compadezcas",
+    "artist": "Luis Abanto Morales",
+    "isrc": "FRX871538033"
+  },
+  {
+    "title": "Caminito Serrano",
+    "artist": "Los Destellos, Enrique Delgado Montes",
+    "isrc": "FRX761530034"
+  },
+  {
+    "title": "Cuando Llora Mi Guitarra",
+    "artist": "Los Morochucos",
+    "isrc": "FR10S1536039"
+  },
+  {
+    "title": "Qué Nos Pasó a los Dos",
+    "artist": "José Escajadillo",
+    "isrc": "FRX451582288"
+  },
+  {
+    "title": "Selección de Polkas",
+    "artist": "Los Zañartu",
+    "isrc": "FR2X41558360"
+  },
+  {
+    "title": "Dolor y Odio",
+    "artist": "Maritza Rodriguez",
+    "isrc": "FR2X41557623"
+  },
+  {
+    "title": "Yo Perdí el Corazón",
+    "artist": "Lucia de la Cruz",
+    "isrc": "FRX871538728"
+  },
+  {
+    "title": "Alma Corazón y Vida",
+    "artist": "Los Embajadores Criollos",
+    "isrc": "FRX871542044"
+  },
+  {
+    "title": "El Guayacan",
+    "artist": "Los Mochicas",
+    "isrc": "PL44J2260739"
+  },
+  {
+    "title": "Mi Cariñito",
+    "artist": "Los Kipus, Eva Ayllón",
+    "isrc": "FRX871515150"
+  },
+  {
+    "title": "Nadie como tú",
+    "artist": "Los Ardiles",
+    "isrc": "USHM21744873"
+  },
+  {
+    "title": "La Benita",
+    "artist": "Los Davalos",
+    "isrc": "FR2X41780039"
+  },
+  {
+    "title": "Carretas Aquí Es El Tono",
+    "artist": "Mario Cavagnaro",
+    "isrc": "USRAR1001083"
+  },
+  {
+    "title": "Callejón de un Solo Caño",
+    "artist": "Conjunto Fiesta Criolla",
+    "isrc": "FRX991590232"
+  },
+  {
+    "title": "Novedad 1: Siglo XX / Petronila / Vendeta / Vicenta",
+    "artist": "Centro Musical Union",
+    "isrc": "FRX871584361"
+  },
+  {
+    "title": "Se Acabo y... Punto",
+    "artist": "Arturo \"Zambo\" Cavero, Oscar Avilés",
+    "isrc": "FRX871521864"
+  },
+  {
+    "title": "Un Fracaso Más",
+    "artist": "Juan Mosto, Lucha Reyes",
+    "isrc": "PEMG91732001"
+  },
+  {
+    "title": "Olvídala Amigo",
+    "artist": "Carmencita Lara",
+    "isrc": "FRX451542166"
+  },
+  {
+    "title": "Sonrisas",
+    "artist": "Julio Mori, Oscar Avilés",
+    "isrc": "FRX761536882"
+  },
+  {
+    "title": "Payaso",
+    "artist": "El Cholo Berrocal",
+    "isrc": "QMDA72139365"
+  },
+  {
+    "title": "No Me Cumben",
+    "artist": "Nicómedes Santa Cruz",
+    "isrc": "USLB10210392"
+  },
+  {
+    "title": "La Picantería",
+    "artist": "Victoria Santa Cruz",
+    "isrc": "FR2X41559175"
+  },
+  {
+    "title": "Jarana Entre Grandes",
+    "artist": "Gustavo Urbina",
+    "isrc": "USRAR1000891"
+  },
+  {
+    "title": "Sonrisas",
+    "artist": "Renzo Gil",
+    "isrc": "PEOP11605007"
+  },
+  {
+    "title": "Doña Mariquita",
+    "artist": "Los Trovadores del Peru",
+    "isrc": "FRX991507535"
+  },
+  {
+    "title": "Volver a Empezar",
+    "artist": "Lucy Avilés",
+    "isrc": "USDY41805382"
+  },
+  {
+    "title": "La Guardia Nueva",
+    "artist": "Iraida Valdivia",
+    "isrc": "FRX871597139"
+  },
+  {
+    "title": "Mal Paso",
+    "artist": "Eva Ayllón",
+    "isrc": "USDY50804316"
+  },
+  {
+    "title": "Silente",
+    "artist": "César Oliva",
+    "isrc": "USCGJ1889276"
+  },
+  {
+    "title": "Sueños De Opio",
+    "artist": "La Gran Reunion: Los Guardianes De La Música Criolla",
+    "isrc": "pey080800026"
+  },
+  {
+    "title": "Cuando llora mi guitarra",
+    "artist": "Augusto Polo Campos, Juan Diego Flórez, Carlos Ayala",
+    "isrc": "USSM11805319"
+  },
+  {
+    "title": "Mi Niña Bonita",
+    "artist": "Lucho Barrios",
+    "isrc": "FRX871541764"
+  },
+  {
+    "title": "Fin del Bohemio",
+    "artist": "Leturia y Velasquez",
+    "isrc": "FRX871597901"
+  },
+  {
+    "title": "Mi Perú",
+    "artist": "Dúo Punto & Coma, Arturo \"Zambo\" Cavero",
+    "isrc": "PEMG91321001"
+  },
+  {
+    "title": "Quiero Que Estes Conmigo",
+    "artist": "Eduardo \"Papeo\" Abán y Willy Terry",
+    "isrc": "ES71G2106630"
+  },
+  {
+    "title": "Plena y Bomba (feat. Calle 13)",
+    "artist": "Susana Baca",
+    "isrc": "USLB11110023"
+  },
+  {
+    "title": "Toro Mata",
+    "artist": "Juan Criado, Abelardo Vásquez",
+    "isrc": "FR10S1536996"
+  },
+  {
+    "title": "El que rompe la paga",
+    "artist": "Kike Bracamonte",
+    "isrc": "QZFZ22436494"
+  },
+  {
+    "title": "Selección de Valses: Amarraditos / Ódiame / Quiéreme / Fina Estampa",
+    "artist": "Martha Elena, Lucila Campos, Luis Abanto Morales, Las Limeñitas",
+    "isrc": "FR59R1790268"
+  },
+  {
+    "title": "Nube Gris",
+    "artist": "Juan Castro Nalli Orquestra y Coros",
+    "isrc": "PEMG99901001"
+  },
+  {
+    "title": "Si Te Vas, Que Me Queda",
+    "artist": "Trio Los Chamas",
+    "isrc": "FRX991591345"
+  },
+  {
+    "title": "Amor Iluso",
+    "artist": "Felipe Pinglo",
+    "isrc": "PEMG99608001"
+  },
+  {
+    "title": "La Flor de la Canela",
+    "artist": "Juan Castro Nalli",
+    "isrc": "FRX991505136"
+  },
+  {
+    "title": "Ahora y Aquí",
+    "artist": "Carlos Farfán",
+    "isrc": "QZTPX2295534"
+  },
+  {
+    "title": "Resbalosa y Fuga",
+    "artist": "Evocación Criolla",
+    "isrc": "PEEV10701004"
+  },
+  {
+    "title": "Imaginación",
+    "artist": "Dúo Irma y Oswaldo",
+    "isrc": "FRX991599534"
+  },
+  {
+    "title": "Desdén",
+    "artist": "Giomar Antonio",
+    "isrc": "FRX871597108"
+  },
+  {
+    "title": "Compañera Mía",
+    "artist": "Los Dos Compadres",
+    "isrc": "FR10S1537046"
+  },
+  {
+    "title": "30 Días",
+    "artist": "Los Favoritos",
+    "isrc": "QM6DC1888667"
+  },
+  {
+    "title": "Popurrí de Valses:Jamás Impedirás / Aquella Noche",
+    "artist": "Los Jaraneros del Norte",
+    "isrc": "FRX871597154"
+  },
+  {
+    "title": "Alegría / Corto Circuito / Ojos Negros / Angélica",
+    "artist": "Los Vecinos Criollos",
+    "isrc": "USRAR1001102"
+  },
+  {
+    "title": "Alejandro Villanueva",
+    "artist": "Mano Corta",
+    "isrc": "FRX871538759"
+  },
+  {
+    "title": "Popurrí de Festejos: El Curruñao / No es Justo /Quién se Comió Mi Gato/ Es Amador / Estuve Covando",
+    "artist": "Mariela Valencia",
+    "isrc": "FRX991589029"
+  },
+  {
+    "title": "Imploración",
+    "artist": "Martha y Pablo",
+    "isrc": "FR10S1537047"
+  },
+  {
+    "title": "Amigo Guitarrista",
+    "artist": "Pancho Jiménez, Oscar Avilés",
+    "isrc": "FRX871597114"
+  },
+  {
+    "title": "Homenaje a Mario Cavagnaro",
+    "artist": "Dúo Punto y Coma",
+    "isrc": "PEPC10701006"
+  },
+  {
+    "title": "Doña Mariquita",
+    "artist": "Los Trovadores Criollos",
+    "isrc": "FRX871597192"
+  },
+  {
+    "title": "Festejo Latino",
+    "artist": "Fabiola de la Cuba",
+    "isrc": "FRX871598154"
+  },
+  {
+    "title": "Tus Pretensiones",
+    "artist": "Grupo Musical Mixtura",
+    "isrc": "uscgh1723373"
+  },
+  {
+    "title": "Negro Libre",
+    "artist": "Alejandro Barbadillo",
+    "isrc": "FRX871569565"
+  },
+  {
+    "title": "Así Es el Vals",
+    "artist": "Amer-ica",
+    "isrc": "FR10S1536047"
+  },
+  {
+    "title": "Popurrí de Valses:Pasión / Promesas de Amor",
+    "artist": "Fiesta Norteña",
+    "isrc": "FRX871597152"
+  },
+  {
+    "title": "Popurrí de Valses:Homenaje a Juan José Araujo / Josefina / Mi LindaRosa / Despedida / Comarca",
+    "artist": "Goyburu, Molinaro, Oscar Avilés",
+    "isrc": "FRX871597146"
+  },
+  {
+    "title": "Amor Traidor",
+    "artist": "La Limeñita, Ascoy",
+    "isrc": "FRX871597203"
+  },
+  {
+    "title": "Popurrí de Valses: Silente / Callao / Vicenta",
+    "artist": "Los Scaglia Aviles",
+    "isrc": "FR10S1536051"
+  },
+  {
+    "title": "Llegó el Invierno",
+    "artist": "Lucita Aviles, Oscar Avilés",
+    "isrc": "FRX871597198"
+  },
+  {
+    "title": "Popurrí de Valses:Herminia / Amor Primaveral / Tristezas de Invierno",
+    "artist": "Luz Melva",
+    "isrc": "FRX871597156"
+  },
+  {
+    "title": "Popurrí de Valses: Que Siga la Jarana / Vano Intento / Compadre Coco / Palomita Ingrata / Desilución / Manantial",
+    "artist": "Manolo Avalos Orquesta",
+    "isrc": "FRX871597144"
+  },
+  {
+    "title": "Presurosa / Las Mujeres de Mi Tierra",
+    "artist": "Pastor Zuzunaga",
+    "isrc": "FRX871586419"
+  },
+  {
+    "title": "Burlona",
+    "artist": "Pepe Vazquez",
+    "isrc": "FRX871597145"
+  },
+  {
+    "title": "Canto de Jarana",
+    "artist": "Eduardo Abán, Lucy Avilés, Carlos Castillo, Milagros Guerrero, Wellington T.S, Mario Agüero",
+    "isrc": "USDY41805392"
+  },
+  {
+    "title": "Tronco Seco",
+    "artist": "Eduardo Collazos",
+    "isrc": "FR2X41564507"
+  },
+  {
+    "title": "Irreal",
+    "artist": "La Descarga",
+    "isrc": "ushm91711785"
+  },
+  {
+    "title": "Amor de madre",
+    "artist": "Los Troveros Criollo",
+    "isrc": "QZ5FN1835543"
+  },
+  {
+    "title": "Yo vi dos muertes peleando",
+    "artist": "Lucy Avilés y Willy Terry",
+    "isrc": "PELW10909010"
+  },
+  {
+    "title": "La Abeja",
+    "artist": "Valdelomar - Dávila",
+    "isrc": "pey080900030"
+  },
+  {
+    "title": "El Plebeyo",
+    "artist": "Jesus Vasquez",
+    "isrc": "US3DF2245694"
+  },
+  {
+    "title": "Cada Domingo a las Doce Después de la Misa",
+    "artist": "Cecilia Barraza",
+    "isrc": "FRX991591828"
+  },
+  {
+    "title": "Suspiros",
+    "artist": "Esther Granados",
+    "isrc": "FR2X41767988"
+  },
+  {
+    "title": "El Alcatraz",
+    "artist": "Oscar Avilés, Arturo \"Zambo\" Cavero",
+    "isrc": "FRX871530258"
+  },
+  {
+    "title": "Esta Es Mi Tierra",
+    "artist": "Rafael Matallana",
+    "isrc": "FR10S1594803"
+  },
+  {
+    "title": "Si Me Faltaras Amor",
+    "artist": "Lucila Campos",
+    "isrc": "FR2X41550208"
+  },
+  {
+    "title": "Soy Peruana",
+    "artist": "Edith Barr",
+    "isrc": "ES71G1814779"
+  },
+  {
+    "title": "La Reyna de España",
+    "artist": "Los Troveros criollos",
+    "isrc": "ES71G2203241"
+  },
+  {
+    "title": "Ritmo De Negros",
+    "artist": "Pepe Vásquez",
+    "isrc": "PEMG99907003"
+  },
+  {
+    "title": "Perú Campeón",
+    "artist": "Los Ases del Perú",
+    "isrc": "FR10S1536984"
+  },
+  {
+    "title": "Desde Que Te Fuiste",
+    "artist": "Los Chamas",
+    "isrc": "FRX991594287"
+  },
+  {
+    "title": "Mauka Zapato",
+    "artist": "Alicia Maguiña",
+    "isrc": "FRX871588744"
+  },
+  {
+    "title": "La Conquista",
+    "artist": "Panchito Jimenez",
+    "isrc": "FRX451598824"
+  },
+  {
+    "title": "Embrujo",
+    "artist": "Oscar Aviles y Su Conjunto Fiesta Criolla",
+    "isrc": "FRX991593125"
+  },
+  {
+    "title": "Yo Perdí el Corazón",
+    "artist": "Manuel Donayre",
+    "isrc": "FR96X1601753"
+  },
+  {
+    "title": "El Provinciano",
+    "artist": "Luis Abanto Morales",
+    "isrc": "FRX871538030"
+  },
+  {
+    "title": "Jardín de Amor",
+    "artist": "Los Destellos, Enrique Delgado Montes",
+    "isrc": "FRX761530040"
+  },
+  {
+    "title": "Jamás Impedirás",
+    "artist": "José Escajadillo",
+    "isrc": "PEMG99706005"
+  },
+  {
+    "title": "El Plebeyo",
+    "artist": "Los Morochucos",
+    "isrc": "FR10S1537002"
+  },
+  {
+    "title": "Jamás Impedirás",
+    "artist": "Los Zañartu",
+    "isrc": "FR2X41558353"
+  },
+  {
+    "title": "Triste Despedida",
+    "artist": "Maritza Rodriguez",
+    "isrc": "ES71G1935586"
+  },
+  {
+    "title": "Quiero Que Estés Conmigo (Siempre Conmigo)",
+    "artist": "Lucia de la Cruz",
+    "isrc": "FRX871538719"
+  },
+  {
+    "title": "El Rosario de Mi Madre",
+    "artist": "Los Embajadores Criollos",
+    "isrc": "QZNW72384800"
+  },
+  {
+    "title": "Las Alforjas",
+    "artist": "Los Mochicas",
+    "isrc": "PL44J2260742"
+  },
+  {
+    "title": "Nada Soy",
+    "artist": "Los Kipus",
+    "isrc": "FRX871518971"
+  },
+  {
+    "title": "Que viva el Perú Señores",
+    "artist": "Los Ardiles",
+    "isrc": "USHM81699214"
+  },
+  {
+    "title": "El Rosario de Mi Madre",
+    "artist": "Los Davalos",
+    "isrc": "FR2X41787499"
+  },
+  {
+    "title": "Cántame Ese Vals / Yo La Quería Patita",
+    "artist": "Mario Cavagnaro",
+    "isrc": "USRAR1001115"
+  },
+  {
+    "title": "La Veguera",
+    "artist": "Conjunto Fiesta Criolla",
+    "isrc": "FRX991590246"
+  },
+  {
+    "title": "Cuartel Primero",
+    "artist": "Centro Musical Union",
+    "isrc": "FRX871584365"
+  },
+  {
+    "title": "Quiero Que Estés Conmigo",
+    "artist": "Juan Mosto",
+    "isrc": "PEMG99610001"
+  },
+  {
+    "title": "Mala Sombra",
+    "artist": "Carmencita Lara, Victor Lara",
+    "isrc": "FRX451527708"
+  },
+  {
+    "title": "Y Se Llama Perú",
+    "artist": "Arturo \"Zambo\" Cavero, Oscar Avilés",
+    "isrc": "FRX451527889"
+  },
+  {
+    "title": "La Flor de la Canela",
+    "artist": "Julio Mori",
+    "isrc": "FRX761536894"
+  },
+  {
+    "title": "Nunca Podrán",
+    "artist": "El Cholo Berrocal",
+    "isrc": "QM4TX2238785"
+  },
+  {
+    "title": "Zapateo Criollo",
+    "artist": "Nicómedes Santa Cruz, Abelardo Vásquez, Oswaldo Vásquez",
+    "isrc": "FR96X1503975"
+  },
+  {
+    "title": "Las Lavanderas",
+    "artist": "Victoria Santa Cruz",
+    "isrc": "FR2X41559177"
+  },
+  {
+    "title": "Contrapunto de marineras",
+    "artist": "Gustavo Urbina, Gabriel Hernández \"Caverito\"",
+    "isrc": "BRIMU1700775"
+  },
+  {
+    "title": "Encontre una Carta Tuya - Vals",
+    "artist": "Renzo Gil, Pedrito Otiniano",
+    "isrc": "PEOP11304006"
+  },
+  {
+    "title": "El Huerto de Mi Amada",
+    "artist": "Los Trovadores del Peru",
+    "isrc": "FR2X41550398"
+  },
+  {
+    "title": "El Ermitaño",
+    "artist": "Lucy Avilés",
+    "isrc": "USCGJ1851689"
+  },
+  {
+    "title": "Sacachispas",
+    "artist": "Iraida Valdivia",
+    "isrc": "FR10S1583568"
+  },
+  {
+    "title": "Raices del Festejo - Le Dije a Papa",
+    "artist": "Eva Ayllón",
+    "isrc": "USDY50804223"
+  },
+  {
+    "title": "Triste Pasión",
+    "artist": "César Oliva",
+    "isrc": "USCGJ1889274"
+  },
+  {
+    "title": "Cenizas",
+    "artist": "La Gran Reunion: Los Guardianes De La Música Criolla",
+    "isrc": "pey080800016"
+  },
+  {
+    "title": "Esta Es Mi Tierra",
+    "artist": "Augusto Polo Campos",
+    "isrc": "FRX871597119"
+  },
+  {
+    "title": "Amor De Pobre",
+    "artist": "Lucho Barrios",
+    "isrc": "CLUM71901567"
+  },
+  {
+    "title": "Penitenciaria de Lima",
+    "artist": "Leturia y Velasquez",
+    "isrc": "FRX871597906"
+  },
+  {
+    "title": "Vamos Boys!",
+    "artist": "Dúo Punto & Coma",
+    "isrc": "PEMG91327003"
+  },
+  {
+    "title": "Tu Perdición",
+    "artist": "Eduardo \"Papeo\" Abán y Willy Terry",
+    "isrc": "ES71G2106626"
+  },
+  {
+    "title": "Congorito",
+    "artist": "Juan Criado",
+    "isrc": "FRX871597866"
+  },
+  {
+    "title": "Negra Presentuosa",
+    "artist": "Susana Baca",
+    "isrc": "USLB10210488"
+  },
+  {
+    "title": "Mix Jaranitas",
+    "artist": "Kike Bracamonte",
+    "isrc": "QZFZ22436466"
+  },
+  {
+    "title": "Yo Se Que Nadie Más",
+    "artist": "Martha Elena",
+    "isrc": "FRX871597118"
+  },
+  {
+    "title": "Viva el Perú y Sereno",
+    "artist": "Juan Castro Nalli Orquestra y Coros",
+    "isrc": "PEMG99901015"
+  },
+  {
+    "title": "Amargura",
+    "artist": "Trio Los Chamas",
+    "isrc": "FRX991590237"
+  },
+  {
+    "title": "Pasito a Paso Otra Vez",
+    "artist": "Juan Castro Nalli",
+    "isrc": "FRX991505150"
+  },
+  {
+    "title": "Si Tú No Estás",
+    "artist": "Carlos Farfán",
+    "isrc": "QZTPX2295538"
+  },
+  {
+    "title": "Tercera de Jarana",
+    "artist": "Evocación Criolla",
+    "isrc": "PEEV10701003"
+  },
+  {
+    "title": "Prenda Mía",
+    "artist": "Dúo Irma y Oswaldo",
+    "isrc": "FRX991591343"
+  },
+  {
+    "title": "Nuestro Secreto",
+    "artist": "Giomar Antonio",
+    "isrc": "FRX871597120"
+  },
+  {
+    "title": "Déjalo Que Se Vaya",
+    "artist": "Jesus Vasquez",
+    "isrc": "FRX991594292"
+  },
+  {
+    "title": "Cholita Norteña",
+    "artist": "Cecilia Barraza",
+    "isrc": "FRX991591840"
+  },
+  {
+    "title": "Selección de Polkas: Pedacito de Ilusión / Nostalgia Chalaca / El Beso",
+    "artist": "Esther Granados",
+    "isrc": "FR2X41767990"
+  },
+  {
+    "title": "Dicen Que Tu Dices / Te Extraño / Vuelve Pronto / Mi Dueña",
+    "artist": "Rafael Matallana, Jesus Vasquez, Las Limeñitas",
+    "isrc": "USRAR1001099"
+  },
+  {
+    "title": "Mi Perú",
+    "artist": "Oscar Avilés",
+    "isrc": "FRX871529787"
+  },
+  {
+    "title": "Samba Malato",
+    "artist": "Lucila Campos",
+    "isrc": "USLB10210385"
+  },
+  {
+    "title": "Bello Durmiente",
+    "artist": "Edith Barr",
+    "isrc": "USRAR1001038"
+  },
+  {
+    "title": "El Parisién",
+    "artist": "Los Troveros criollos",
+    "isrc": "ES71G2203244"
+  },
+  {
+    "title": "No Valentín",
+    "artist": "Pepe Vásquez",
+    "isrc": "USRAR1001146"
+  },
+  {
+    "title": "Suspiros",
+    "artist": "Los Ases del Perú",
+    "isrc": "FR10S1537036"
+  },
+  {
+    "title": "Anita",
+    "artist": "Los Chamas",
+    "isrc": "GRGCM1838701"
+  },
+  {
+    "title": "Casarme Yo Quiero",
+    "artist": "Alicia Maguiña, Carlos Hayre",
+    "isrc": "FRX871580963"
+  },
+  {
+    "title": "Mi Marinera Peruana",
+    "artist": "Panchito Jimenez",
+    "isrc": "FR10S1583576"
+  },
+  {
+    "title": "Lima de Octubre",
+    "artist": "Oscar Aviles y Su Conjunto Fiesta Criolla",
+    "isrc": "ES71G2051357"
+  },
+  {
+    "title": "Jarana Peruana",
+    "artist": "Manuel Donayre",
+    "isrc": "FRX991590235"
+  },
+  {
+    "title": "Propiedad Privada",
+    "artist": "Luis Abanto Morales",
+    "isrc": "FRX871538039"
+  },
+  {
+    "title": "Santos Vera",
+    "artist": "Los Hermanos Zañartu",
+    "isrc": "FRX761537193"
+  },
+  {
+    "title": "Donde Tu Vayas",
+    "artist": "José Escajadillo",
+    "isrc": "FRX451582280"
+  },
+  {
+    "title": "Todos Vuelven",
+    "artist": "Los Morochucos",
+    "isrc": "FRX871512399"
+  },
+  {
+    "title": "Tacna",
+    "artist": "Los Zañartu",
+    "isrc": "FR2X41558355"
+  },
+  {
+    "title": "Pobre Diabla",
+    "artist": "Maritza Rodriguez",
+    "isrc": "FR96X1600307"
+  },
+  {
+    "title": "Frente a Frente",
+    "artist": "Lucia de la Cruz",
+    "isrc": "FRX871597106"
+  },
+  {
+    "title": "El Guayacán / Los Algarrobos",
+    "artist": "Los Mochicas",
+    "isrc": "FRX991591658"
+  },
+  {
+    "title": "Déjalos",
+    "artist": "Los Embajadores Criollos",
+    "isrc": "FRX991590755"
+  },
+  {
+    "title": "Huye de Mí",
+    "artist": "Los Kipus",
+    "isrc": "FRX871518963"
+  },
+  {
+    "title": "Homenaje Fiesta Criolla: Claro de luna / Mechita / La comarca",
+    "artist": "Los Ardiles",
+    "isrc": "USHM21744869"
+  },
+  {
+    "title": "Por Nuestro Amor",
+    "artist": "Los Davalos",
+    "isrc": "FR2X41787245"
+  },
+  {
+    "title": "Ima de Novia / Lima de Octubre",
+    "artist": "Mario Cavagnaro",
+    "isrc": "PEMG99705001"
+  },
+  {
+    "title": "El Capuli",
+    "artist": "Conjunto Fiesta Criolla",
+    "isrc": "FRX991594293"
+  },
+  {
+    "title": "Marinera y Resbalosa",
+    "artist": "Centro Musical Union",
+    "isrc": "FRX871597876"
+  },
+  {
+    "title": "Arráncame La Vida",
+    "artist": "Juan Mosto, Nancy Riquelme",
+    "isrc": "USRAR1001070"
+  },
+  {
+    "title": "Ventanita, Guitarra Mía",
+    "artist": "Julio Mori",
+    "isrc": "FRX991590233"
+  }
+]

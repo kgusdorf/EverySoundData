@@ -1,0 +1,977 @@
+[
+  {
+    "title": "Одиночка",
+    "artist": "SERYABKINA",
+    "isrc": "FR59R2385833"
+  },
+  {
+    "title": "Мне пох",
+    "artist": "Klava Koka, MORGENSHTERN",
+    "isrc": "RUB631900659"
+  },
+  {
+    "title": "Убегай",
+    "artist": "Oleg Miami",
+    "isrc": "RUAGT2323624"
+  },
+  {
+    "title": "Это не женщина",
+    "artist": "Te100steron",
+    "isrc": "RUB421501020"
+  },
+  {
+    "title": "Лето",
+    "artist": "ANIVAR",
+    "isrc": "QM4TX1800793"
+  },
+  {
+    "title": "Ревнуешь",
+    "artist": "Bukatara",
+    "isrc": "RUAGV2300066"
+  },
+  {
+    "title": "Плохое кино",
+    "artist": "Masha Koltsova, Андрей Гризли",
+    "isrc": "RUB422400817"
+  },
+  {
+    "title": "До рассвета",
+    "artist": "Sati Kazanova, Arsenium",
+    "isrc": "FR6V82427527"
+  },
+  {
+    "title": "Штрихкоды",
+    "artist": "Emma M",
+    "isrc": "QMBZ91501438"
+  },
+  {
+    "title": "Яй-я - VAM Revox",
+    "artist": "Propaganda",
+    "isrc": "RUB731519356"
+  },
+  {
+    "title": "Хочешь",
+    "artist": "Anna Semenovich",
+    "isrc": "FR10S1954900"
+  },
+  {
+    "title": "Разведи огонь",
+    "artist": "Ustinova, Burito",
+    "isrc": "QMPU51291189"
+  },
+  {
+    "title": "Постучись в мою дверь (Original Motion Picture Soundtrack)",
+    "artist": "Vlad Sokolovskiy",
+    "isrc": "RUA1D2418450"
+  },
+  {
+    "title": "Счастливыми - prod. by Zeus",
+    "artist": "Саша Санта",
+    "isrc": "RUAGV2300597"
+  },
+  {
+    "title": "По моим следам",
+    "artist": "Елена Князева, НЕ.KURILI",
+    "isrc": "RUB732059461"
+  },
+  {
+    "title": "Рассеется дым",
+    "artist": "Alena Valensiya",
+    "isrc": "RUA1D2026472"
+  },
+  {
+    "title": "Скажите детям",
+    "artist": "Maxim Fadeev, Маша Гулевич",
+    "isrc": "RUB422301439"
+  },
+  {
+    "title": "Самая красивая",
+    "artist": "Alexey Vorobyov",
+    "isrc": "RUB421601198"
+  },
+  {
+    "title": "Глюк’oZa Nostra",
+    "artist": "Глюк'oZa",
+    "isrc": "QMPU51207760"
+  },
+  {
+    "title": "Дольче вита",
+    "artist": "Jasmin",
+    "isrc": "FR96X1751129"
+  },
+  {
+    "title": "Она вернётся",
+    "artist": "M-BAND",
+    "isrc": "QMPU51277865"
+  },
+  {
+    "title": "АМЕЛИ",
+    "artist": "Julia Parshoota",
+    "isrc": "QM4TX1978973"
+  },
+  {
+    "title": "Набери мой номер (Vintage 1988 год, CCCР)",
+    "artist": "MOLLY",
+    "isrc": "RUB421900483"
+  },
+  {
+    "title": "Ча-ча-чао",
+    "artist": "Катя Гордон, Лера Кудрявцева",
+    "isrc": "RUA1D2361033"
+  },
+  {
+    "title": "Он за мной",
+    "artist": "Регина Тодоренко",
+    "isrc": "ZZOPM2223788"
+  },
+  {
+    "title": "18",
+    "artist": "Pasha Panamo, Mohito",
+    "isrc": "RUA1D2409868"
+  },
+  {
+    "title": "Ты меня ранишь поцелуями",
+    "artist": "Слава Басюл",
+    "isrc": "FRX201742221"
+  },
+  {
+    "title": "Зачем",
+    "artist": "Loya, 5sta Family",
+    "isrc": "QMPU51737468"
+  },
+  {
+    "title": "Скажи как мне жить",
+    "artist": "In2Nation",
+    "isrc": "QMFME1473083"
+  },
+  {
+    "title": "Всегда буду с тобой",
+    "artist": "Френды, Sasha Spilberg",
+    "isrc": "RUB421601388"
+  },
+  {
+    "title": "Больно",
+    "artist": "Nola",
+    "isrc": "RUA1D2463713"
+  },
+  {
+    "title": "Держи меня крепче",
+    "artist": "Ольга Романовская",
+    "isrc": "QMPU51504800"
+  },
+  {
+    "title": "Безумная",
+    "artist": "Anastasia Karpova",
+    "isrc": "QMDA71803564"
+  },
+  {
+    "title": "Безответная",
+    "artist": "Настасья Самбурская",
+    "isrc": "RUB732058593"
+  },
+  {
+    "title": "Круче всех",
+    "artist": "Open Kids, Quest Pistols Show",
+    "isrc": "FR10S1946769"
+  },
+  {
+    "title": "Спелая",
+    "artist": "A.R.M.I.A",
+    "isrc": "TCADD1710002"
+  },
+  {
+    "title": "Прощай, мой друг",
+    "artist": "Olga Orlova",
+    "isrc": "QMPU51516004"
+  },
+  {
+    "title": "Пообещай",
+    "artist": "Albina Dzhanabaeva",
+    "isrc": "RUB422100568"
+  },
+  {
+    "title": "Он тебя не любил",
+    "artist": "Ева Власова",
+    "isrc": "FRX872198262"
+  },
+  {
+    "title": "Кайфую",
+    "artist": "VESNA305",
+    "isrc": "RUA012101345"
+  },
+  {
+    "title": "Я у твоих ног 2.0",
+    "artist": "Nataliya Vlasova",
+    "isrc": "RUB421900334"
+  },
+  {
+    "title": "Переболіло",
+    "artist": "MISHA ROMANOVA",
+    "isrc": "FRX282418621"
+  },
+  {
+    "title": "Ночь (Cover) [Из сериала \"Сёстры\"]",
+    "artist": "SOYANA",
+    "isrc": "RUB422104295"
+  },
+  {
+    "title": "Ой, девочки!",
+    "artist": "Анастасия Сотникова",
+    "isrc": "RUA1D2354936"
+  },
+  {
+    "title": "Ну что за дела",
+    "artist": "DJ Kan, Misha Marvin, Timati",
+    "isrc": "RUB631500155"
+  },
+  {
+    "title": "Завтра брошу",
+    "artist": "To-ma",
+    "isrc": "DGA072296151"
+  },
+  {
+    "title": "Весна",
+    "artist": "AlexNo, heavy rotation",
+    "isrc": "FR96X2160534"
+  },
+  {
+    "title": "Мама",
+    "artist": "Anna Shulgina",
+    "isrc": "FR2X41702912"
+  },
+  {
+    "title": "Падает снег",
+    "artist": "Dante, Анна Марчевская",
+    "isrc": "QMPU51506548"
+  },
+  {
+    "title": "Вечное лето",
+    "artist": "ONE ZIM",
+    "isrc": "RUA1H1521162"
+  },
+  {
+    "title": "В эту ночь",
+    "artist": "The Jigits",
+    "isrc": "RUA640903148"
+  },
+  {
+    "title": "Ты моё море",
+    "artist": "Братья Жуковы",
+    "isrc": "FR2X41510293"
+  },
+  {
+    "title": "Ревность",
+    "artist": "Валерия MiLOVE",
+    "isrc": "FR2X41622605"
+  },
+  {
+    "title": "Не волнует",
+    "artist": "ДЖОКЕРЫ",
+    "isrc": "RUA1D1612912"
+  },
+  {
+    "title": "Это",
+    "artist": "ДИНАМА",
+    "isrc": "QMPU51291585"
+  },
+  {
+    "title": "Мур-мур",
+    "artist": "Женя Поликарпова",
+    "isrc": "RUA1D1802696"
+  },
+  {
+    "title": "Кино о любви",
+    "artist": "Irina Allegrova, Ivan",
+    "isrc": "RUB421700098"
+  },
+  {
+    "title": "Останови меня",
+    "artist": "Марта Кот",
+    "isrc": "RUC041400020"
+  },
+  {
+    "title": "Любовь и боль",
+    "artist": "Ольга Задонская",
+    "isrc": "FR10S1690110"
+  },
+  {
+    "title": "Двое",
+    "artist": "Саша Савельева",
+    "isrc": "DGA062317416"
+  },
+  {
+    "title": "Целуй",
+    "artist": "Сирены",
+    "isrc": "RUB421600027"
+  },
+  {
+    "title": "Hey, DJ!",
+    "artist": "Стефания Маликова",
+    "isrc": "FR2X41782624"
+  },
+  {
+    "title": "Город мечты",
+    "artist": "Тамерлан, Alena Omargalieva",
+    "isrc": "FR6V80465018"
+  },
+  {
+    "title": "Море пополам",
+    "artist": "Таша Белая",
+    "isrc": "FR10S1869981"
+  },
+  {
+    "title": "Мне уже нормально",
+    "artist": "TIANA",
+    "isrc": "FR2X41913749"
+  },
+  {
+    "title": "Давай сбежим (Искорки)",
+    "artist": "5УТРА",
+    "isrc": "RUA1D2354001"
+  },
+  {
+    "title": "Маяковский",
+    "artist": "Mark Tishman, Julia Parshoota",
+    "isrc": "RUB422201258"
+  },
+  {
+    "title": "Губы",
+    "artist": "NATALIYA, Matvey Emerson",
+    "isrc": "RUA1D2459740"
+  },
+  {
+    "title": "Между нами ничего нет",
+    "artist": "Mujeva",
+    "isrc": "RUA012101472"
+  },
+  {
+    "title": "Холодно",
+    "artist": "Dante, Nola",
+    "isrc": "RUB422103757"
+  },
+  {
+    "title": "К лучшему",
+    "artist": "MIA BOYKA, Lesha Svik",
+    "isrc": "RUAGV2403272"
+  },
+  {
+    "title": "Кофе",
+    "artist": "Нюта",
+    "isrc": "FR2X42303503"
+  },
+  {
+    "title": "Под дождём",
+    "artist": "Маша Шейх",
+    "isrc": "FRS182163091"
+  },
+  {
+    "title": "Полюби себя",
+    "artist": "Brandon Stone",
+    "isrc": "RUA1D2359095"
+  },
+  {
+    "title": "Эта любовь",
+    "artist": "Amirchik",
+    "isrc": "FRX282265384"
+  },
+  {
+    "title": "Это было красиво",
+    "artist": "Людмила Соколова, Александр Эгромжан",
+    "isrc": "RUAEX2223469"
+  },
+  {
+    "title": "Луна-подруга",
+    "artist": "Юлия Михальчик",
+    "isrc": "QM6N21960933"
+  },
+  {
+    "title": "В заметки",
+    "artist": "Юлия Ковальчук",
+    "isrc": "QMPU51289271"
+  },
+  {
+    "title": "Давай на счёт 3",
+    "artist": "Малиновский",
+    "isrc": "RUAGT2305142"
+  },
+  {
+    "title": "Рядом",
+    "artist": "ELINA CHAGA, Levan Gorozia",
+    "isrc": "RUB421900696"
+  },
+  {
+    "title": "Слишком красиво",
+    "artist": "Мария Зайцева",
+    "isrc": "RUB422301525"
+  },
+  {
+    "title": "Танцуй пока молодая",
+    "artist": "Podium",
+    "isrc": "RUB731425938"
+  },
+  {
+    "title": "Небо",
+    "artist": "Anita Tsoy, Lusia Chebotina",
+    "isrc": "RUA1D2114180"
+  },
+  {
+    "title": "По нервам",
+    "artist": "Angelica Agurbash, Karen Tuz",
+    "isrc": "RUA322204192"
+  },
+  {
+    "title": "Условный рефлекс",
+    "artist": "Настя Задорожная",
+    "isrc": "FR2X41531789"
+  },
+  {
+    "title": "А ты ему душу",
+    "artist": "Даша Эпова",
+    "isrc": "RUB422301151"
+  },
+  {
+    "title": "Закрой Меня в Своём Сердце",
+    "artist": "JAKONDA & NEJTRINO",
+    "isrc": "QM4TW2488648"
+  },
+  {
+    "title": "Солнце",
+    "artist": "Анастасия Спиридонова",
+    "isrc": "RUB211500010"
+  },
+  {
+    "title": "Вижу тебя",
+    "artist": "Alena Vysotskaya",
+    "isrc": "RUB732061833"
+  },
+  {
+    "title": "Понарошку",
+    "artist": "Leonid Rudenko, Mari Kraimbrery",
+    "isrc": "RUB422201431"
+  },
+  {
+    "title": "Валера",
+    "artist": "Afrodita",
+    "isrc": "TCADG1708337"
+  },
+  {
+    "title": "Лавочки",
+    "artist": "TSOY",
+    "isrc": "FR59R2368205"
+  },
+  {
+    "title": "На ветру",
+    "artist": "Masha Veber",
+    "isrc": "RUA1D2018652"
+  },
+  {
+    "title": "Хочу на ручки",
+    "artist": "Марина Бриз",
+    "isrc": "RUAGV2402275"
+  },
+  {
+    "title": "Плачь и смотри - Dj Prezzplay Radio Edit",
+    "artist": "Alexander Shoua, Nepara, DJ Prezzplay",
+    "isrc": "QMFMF2034039"
+  },
+  {
+    "title": "Счастье",
+    "artist": "Aleksey Chumakov",
+    "isrc": "RUB421303492"
+  },
+  {
+    "title": "СМУЗИ",
+    "artist": "SMUZI",
+    "isrc": "RUA582002071"
+  },
+  {
+    "title": "Белые ночи",
+    "artist": "Denis Rekonvald",
+    "isrc": "UABM11801918"
+  },
+  {
+    "title": "Не говори ему",
+    "artist": "Нодар Ревия",
+    "isrc": "QZHZ52284890"
+  },
+  {
+    "title": "Happy End",
+    "artist": "Para Normal`nykh",
+    "isrc": "RUA590700397"
+  },
+  {
+    "title": "Бывшие",
+    "artist": "SERYABKINA",
+    "isrc": "FRS182109358"
+  },
+  {
+    "title": "Краш",
+    "artist": "Klava Koka, NILETTO",
+    "isrc": "RUB632000723"
+  },
+  {
+    "title": "Мельница",
+    "artist": "Oleg Miami",
+    "isrc": "RUA1D2381903"
+  },
+  {
+    "title": "Это не девочка",
+    "artist": "Te100steron",
+    "isrc": "RUB421501019"
+  },
+  {
+    "title": "Сестрёнка",
+    "artist": "Bukatara",
+    "isrc": "RUA1D2442326"
+  },
+  {
+    "title": "Любимый человек",
+    "artist": "ANIVAR",
+    "isrc": "FR59R1919659"
+  },
+  {
+    "title": "Оставайся со мной",
+    "artist": "Masha Koltsova",
+    "isrc": "RUB421700128"
+  },
+  {
+    "title": "Нереальная любовь",
+    "artist": "Emma M, Elena Temnikova",
+    "isrc": "FRX201933944"
+  },
+  {
+    "title": "Радость, привет",
+    "artist": "Sati Kazanova",
+    "isrc": "FR2X41655225"
+  },
+  {
+    "title": "Мелом",
+    "artist": "Propaganda",
+    "isrc": "FR6V82217827"
+  },
+  {
+    "title": "Хочу",
+    "artist": "Anna Semenovich",
+    "isrc": "FR96X2161677"
+  },
+  {
+    "title": "Побудь со мной",
+    "artist": "Ustinova",
+    "isrc": "FR2X41691385"
+  },
+  {
+    "title": "Тишина",
+    "artist": "Vlad Sokolovskiy",
+    "isrc": "RUA582103879"
+  },
+  {
+    "title": "Котики - Scotch Remix",
+    "artist": "Елена Князева, Scotch",
+    "isrc": "QM6P41957351"
+  },
+  {
+    "title": "Голубь",
+    "artist": "Саша Санта, Guzel Hasanova",
+    "isrc": "RUAGV2400999"
+  },
+  {
+    "title": "Твоя",
+    "artist": "Alena Valensiya",
+    "isrc": "QMPU51503318"
+  },
+  {
+    "title": "Останься",
+    "artist": "Maxim Fadeev",
+    "isrc": "RUB422101036"
+  },
+  {
+    "title": "Я тебя люблю",
+    "artist": "Alexey Vorobyov",
+    "isrc": "RUB421701097"
+  },
+  {
+    "title": "Головоломка",
+    "artist": "Jasmin",
+    "isrc": "FR96X1750633"
+  },
+  {
+    "title": "Невеста",
+    "artist": "Глюк'oZa",
+    "isrc": "QMPU51207764"
+  },
+  {
+    "title": "Правильная девочка",
+    "artist": "M-BAND",
+    "isrc": "RUB421700859"
+  },
+  {
+    "title": "Летит",
+    "artist": "Julia Parshoota",
+    "isrc": "RUB422303708"
+  },
+  {
+    "title": "Рассыпая серебро",
+    "artist": "MOLLY, Maxim Fadeev",
+    "isrc": "RUB421900480"
+  },
+  {
+    "title": "Дураки",
+    "artist": "Катя Гордон",
+    "isrc": "RUAGT2329779"
+  },
+  {
+    "title": "Семейство Мадригаль",
+    "artist": "Регина Тодоренко, Марина Бакина",
+    "isrc": "USWD12113112"
+  },
+  {
+    "title": "One Love",
+    "artist": "Pasha Panamo",
+    "isrc": "RUA1D2321468"
+  },
+  {
+    "title": "Стали взрослее",
+    "artist": "Слава Басюл",
+    "isrc": "FRX281973325"
+  },
+  {
+    "title": "Малышка (Я буду)",
+    "artist": "Loya",
+    "isrc": "QMPU51737483"
+  },
+  {
+    "title": "#ЗасыпайЗима",
+    "artist": "In2Nation, Elvin Grey",
+    "isrc": "QMBZ91735744"
+  },
+  {
+    "title": "Что ты в ней нашёл?",
+    "artist": "Nola",
+    "isrc": "RUB422304062"
+  },
+  {
+    "title": "Тайная любовь",
+    "artist": "Ольга Романовская",
+    "isrc": "RUB211400030"
+  },
+  {
+    "title": "С тобой",
+    "artist": "Anastasia Karpova",
+    "isrc": "QMPU51263755"
+  },
+  {
+    "title": "Без него",
+    "artist": "Настасья Самбурская",
+    "isrc": "FRX452446798"
+  },
+  {
+    "title": "На Десерт",
+    "artist": "Open Kids",
+    "isrc": "UABM11900134"
+  },
+  {
+    "title": "Сам на сам",
+    "artist": "A.R.M.I.A",
+    "isrc": "TCAEL1950617"
+  },
+  {
+    "title": "Девушка простая",
+    "artist": "Olga Orlova",
+    "isrc": "RUB731519934"
+  },
+  {
+    "title": "День и ночь",
+    "artist": "Albina Dzhanabaeva",
+    "isrc": "RUB421900391"
+  },
+  {
+    "title": "Somebody",
+    "artist": "Ева Власова, Сулима",
+    "isrc": "FRX202246317"
+  },
+  {
+    "title": "Я у твоих ног",
+    "artist": "Nataliya Vlasova",
+    "isrc": "RUB421308001"
+  },
+  {
+    "title": "Я тебя нашел",
+    "artist": "VESNA305",
+    "isrc": "RUA012000746"
+  },
+  {
+    "title": "Помада",
+    "artist": "MISHA ROMANOVA",
+    "isrc": "FR59R2294960"
+  },
+  {
+    "title": "ННН",
+    "artist": "SOYANA",
+    "isrc": "RUB422300391"
+  },
+  {
+    "title": "Улечу",
+    "artist": "Анастасия Сотникова",
+    "isrc": "RUA1D2234660"
+  },
+  {
+    "title": "Стерва",
+    "artist": "DJ Kan, Misha Marvin",
+    "isrc": "RUB631600181"
+  },
+  {
+    "title": "Вдвоём",
+    "artist": "To-ma, Tkimali",
+    "isrc": "FR10S2439314"
+  },
+  {
+    "title": "Текила",
+    "artist": "AlexNo, M.D.Project Club Mix",
+    "isrc": "FR2X41925833"
+  },
+  {
+    "title": "Ножевая",
+    "artist": "Anna Shulgina",
+    "isrc": "FRX451545226"
+  },
+  {
+    "title": "Гагарин",
+    "artist": "ONE ZIM",
+    "isrc": "RUA1H1512181"
+  },
+  {
+    "title": "С ней",
+    "artist": "The Jigits",
+    "isrc": "RUA640906179"
+  },
+  {
+    "title": "Это он...",
+    "artist": "Валерия MiLOVE",
+    "isrc": "FR59R1576982"
+  },
+  {
+    "title": "Под Одним Небом",
+    "artist": "ДЖОКЕРЫ",
+    "isrc": "uscgh1558224"
+  },
+  {
+    "title": "Мур мур (DJ Noiz Remix)",
+    "artist": "Женя Поликарпова",
+    "isrc": "RUA1D1805290"
+  },
+  {
+    "title": "Баста",
+    "artist": "Марта Кот",
+    "isrc": "RUC041400007"
+  },
+  {
+    "title": "Не буду ждать",
+    "artist": "Ольга Задонская",
+    "isrc": "FRX201709443"
+  },
+  {
+    "title": "Воскреси меня",
+    "artist": "Саша Савельева",
+    "isrc": "QMPU51508709"
+  },
+  {
+    "title": "Из пепла",
+    "artist": "Сирены",
+    "isrc": "RUB421600419"
+  },
+  {
+    "title": "Только для нас",
+    "artist": "Стефания Маликова",
+    "isrc": "FR59R1644368"
+  },
+  {
+    "title": "Банзай",
+    "artist": "Таша Белая",
+    "isrc": "RUA1H1510468"
+  },
+  {
+    "title": "Вали",
+    "artist": "TIANA",
+    "isrc": "RUAGV2401056"
+  },
+  {
+    "title": "ДЕВОЧКА, ДЫШИ",
+    "artist": "Mark Tishman, Julia Parshoota",
+    "isrc": "RUB422203465"
+  },
+  {
+    "title": "Начнём всё сначала",
+    "artist": "SERYABKINA",
+    "isrc": "DGA0P2374543"
+  },
+  {
+    "title": "ЛА ЛА ЛА",
+    "artist": "Klava Koka",
+    "isrc": "RUB632100825"
+  },
+  {
+    "title": "Заново",
+    "artist": "Oleg Miami",
+    "isrc": "RUA1D1612847"
+  },
+  {
+    "title": "Карамель",
+    "artist": "Te100steron",
+    "isrc": "RUB421901929"
+  },
+  {
+    "title": "Заблокирую",
+    "artist": "Bukatara",
+    "isrc": "RUAGT2353671"
+  },
+  {
+    "title": "Украду",
+    "artist": "ANIVAR",
+    "isrc": "QM6N21800166"
+  },
+  {
+    "title": "Помни",
+    "artist": "Masha Koltsova",
+    "isrc": "RUB422400413"
+  },
+  {
+    "title": "Искрами (DJ Antonio Remix)",
+    "artist": "Emma M",
+    "isrc": "RUB421601249"
+  },
+  {
+    "title": "Спит моё счастье",
+    "artist": "Sati Kazanova",
+    "isrc": "FR10S1536099"
+  },
+  {
+    "title": "Подруга - Club Version",
+    "artist": "Propaganda",
+    "isrc": "RUB731405380"
+  },
+  {
+    "title": "Секси бомбочка",
+    "artist": "Anna Semenovich",
+    "isrc": "FR96X1959123"
+  },
+  {
+    "title": "Мечта",
+    "artist": "Ustinova",
+    "isrc": "RUB421401044"
+  },
+  {
+    "title": "Последний танец",
+    "artist": "Vlad Sokolovskiy",
+    "isrc": "QM4TW2296249"
+  },
+  {
+    "title": "Сильная",
+    "artist": "Елена Князева",
+    "isrc": "QM4TX2082186"
+  },
+  {
+    "title": "Бросила любить",
+    "artist": "Саша Санта",
+    "isrc": "FRX762043062"
+  },
+  {
+    "title": "Единственный мужчина",
+    "artist": "Alena Valensiya",
+    "isrc": "QMPU51503312"
+  },
+  {
+    "title": "Гугуша",
+    "artist": "Maxim Fadeev",
+    "isrc": "RUB422000164"
+  },
+  {
+    "title": "Я просто хочу приехать",
+    "artist": "Alexey Vorobyov",
+    "isrc": "RUB421700154"
+  },
+  {
+    "title": "Не жалею",
+    "artist": "Jasmin",
+    "isrc": "FR6V82021385"
+  },
+  {
+    "title": "Танцуй, Россия!!!",
+    "artist": "Глюк'oZa",
+    "isrc": "QMPU51207785"
+  },
+  {
+    "title": "Посмотри на меня",
+    "artist": "M-BAND",
+    "isrc": "QMPU51290493"
+  },
+  {
+    "title": "Везувий",
+    "artist": "Julia Parshoota, Mark Tishman",
+    "isrc": "RUB422400169"
+  },
+  {
+    "title": "Не плачу",
+    "artist": "MOLLY",
+    "isrc": "RUB421900474"
+  },
+  {
+    "title": "В темноте",
+    "artist": "Катя Гордон",
+    "isrc": "RUA1D2452054"
+  },
+  {
+    "title": "Волшебство",
+    "artist": "Регина Тодоренко",
+    "isrc": "USWD12113113"
+  },
+  {
+    "title": "Забываем",
+    "artist": "Pasha Panamo",
+    "isrc": "FRX282175471"
+  },
+  {
+    "title": "Один день",
+    "artist": "Слава Басюл",
+    "isrc": "FR2X41509435"
+  },
+  {
+    "title": "Розы темно-алые",
+    "artist": "Loya",
+    "isrc": "QMPU51205767"
+  },
+  {
+    "title": "Аллергия",
+    "artist": "In2Nation",
+    "isrc": "QMFME1473089"
+  },
+  {
+    "title": "Не люби",
+    "artist": "Nola",
+    "isrc": "RUA1D2432456"
+  },
+  {
+    "title": "Музыка",
+    "artist": "Ольга Романовская",
+    "isrc": "RUB211400039"
+  },
+  {
+    "title": "MFL",
+    "artist": "Anastasia Karpova",
+    "isrc": "QM6MZ1840703"
+  },
+  {
+    "title": "Ой, Девочки",
+    "artist": "Настасья Самбурская",
+    "isrc": "RUA1D2425134"
+  },
+  {
+    "title": "Кажется",
+    "artist": "Open Kids",
+    "isrc": "QMPU55117950"
+  },
+  {
+    "title": "Пара ми",
+    "artist": "A.R.M.I.A",
+    "isrc": "TCADZ1833331"
+  }
+]

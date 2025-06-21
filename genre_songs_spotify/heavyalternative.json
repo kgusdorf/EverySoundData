@@ -1,0 +1,612 @@
+[
+  {
+    "title": "Plowed",
+    "artist": "Into Your Own",
+    "isrc": "QZ4JJ1796011"
+  },
+  {
+    "title": "Versions of You",
+    "artist": "January Jane",
+    "isrc": "QMRSZ2100114"
+  },
+  {
+    "title": "チェリボム",
+    "artist": "SILENT SIREN",
+    "isrc": "JPN901503100"
+  },
+  {
+    "title": "The Days of Deferment",
+    "artist": "Relevant Discord",
+    "isrc": "QMXHT1100001"
+  },
+  {
+    "title": "Passing Existence",
+    "artist": "The Cold Harbour",
+    "isrc": "DEBL60669909"
+  },
+  {
+    "title": "The Dirty Song",
+    "artist": "Gravel Switch",
+    "isrc": "usx9p1212782"
+  },
+  {
+    "title": "Edge of a Dream",
+    "artist": "Stellar Revival",
+    "isrc": "TCACF1577437"
+  },
+  {
+    "title": "Pitiful",
+    "artist": "Surrender the Fall",
+    "isrc": "USUA71000018"
+  },
+  {
+    "title": "Gauntlet",
+    "artist": "Brother Grey",
+    "isrc": "ushm81575276"
+  },
+  {
+    "title": "Str8 To The Bottom",
+    "artist": "Weaving The Fate",
+    "isrc": "USUM71114090"
+  },
+  {
+    "title": "Full Throttle",
+    "artist": "Syn City Cowboys",
+    "isrc": "ushm91303509"
+  },
+  {
+    "title": "Darkest Days",
+    "artist": "Echo Vendetta",
+    "isrc": "usx9p1142884"
+  },
+  {
+    "title": "Worst Mistake",
+    "artist": "Fivefold",
+    "isrc": "QME651300005"
+  },
+  {
+    "title": "You Make Believe",
+    "artist": "Down Monday",
+    "isrc": "uscgh1293847"
+  },
+  {
+    "title": "Surface Pressure",
+    "artist": "No Resolve",
+    "isrc": "QZDA82239101"
+  },
+  {
+    "title": "Sweet Child",
+    "artist": "Shards of Jade",
+    "isrc": "ushm21167510"
+  },
+  {
+    "title": "The Change",
+    "artist": "Mindset Evolution",
+    "isrc": "US5Z51300280"
+  },
+  {
+    "title": "Sick of Saving You",
+    "artist": "Gone for Days",
+    "isrc": "ushm91205560"
+  },
+  {
+    "title": "Scared to Breathe",
+    "artist": "Four Nights Gone",
+    "isrc": "uscgh1217002"
+  },
+  {
+    "title": "Trapped",
+    "artist": "A New Decree",
+    "isrc": "uscgj1208235"
+  },
+  {
+    "title": "Set Me Free",
+    "artist": "Relentless Flood",
+    "isrc": "QMAAK1822969"
+  },
+  {
+    "title": "No Compromise",
+    "artist": "Crosswired",
+    "isrc": "ushm21100853"
+  },
+  {
+    "title": "Nevershine",
+    "artist": "Seven Circle Sunrise",
+    "isrc": "QMY4K1100003"
+  },
+  {
+    "title": "Evolution Pain",
+    "artist": "Inside It Failed",
+    "isrc": "ushm21184270"
+  },
+  {
+    "title": "Nothing Left To Lose",
+    "artist": "9 Left Dead",
+    "isrc": "US7PJ1130005"
+  },
+  {
+    "title": "Swept Away",
+    "artist": "Against All Will",
+    "isrc": "US7W70900003"
+  },
+  {
+    "title": "The Crazy Ones",
+    "artist": "Stellar Revival",
+    "isrc": "TCACF1577426"
+  },
+  {
+    "title": "You Make Me Weak",
+    "artist": "Gravel Switch",
+    "isrc": "USA2P1531370"
+  },
+  {
+    "title": "Some Kind Of Perfect",
+    "artist": "Surrender the Fall",
+    "isrc": "USUA71000016"
+  },
+  {
+    "title": "All You Offer",
+    "artist": "Brother Grey",
+    "isrc": "ushm21541443"
+  },
+  {
+    "title": "Fading Star",
+    "artist": "Weaving The Fate",
+    "isrc": "USUM71203077"
+  },
+  {
+    "title": "Bad Side",
+    "artist": "Syn City Cowboys",
+    "isrc": "ushm91303507"
+  },
+  {
+    "title": "Lost Within",
+    "artist": "Fivefold",
+    "isrc": "USHM21224308"
+  },
+  {
+    "title": "Break Through",
+    "artist": "Echo Vendetta",
+    "isrc": "usx9p1142879"
+  },
+  {
+    "title": "Say",
+    "artist": "Down Monday",
+    "isrc": "uscgh1293842"
+  },
+  {
+    "title": "Counting Stars",
+    "artist": "No Resolve, Saving Abel",
+    "isrc": "QZDA62382987"
+  },
+  {
+    "title": "Bury My Sins",
+    "artist": "Shards of Jade",
+    "isrc": "USX9P2341421"
+  },
+  {
+    "title": "Burn It Down",
+    "artist": "Mindset Evolution",
+    "isrc": "US5Z51300279"
+  },
+  {
+    "title": "Guilty Pleasure",
+    "artist": "Gone for Days",
+    "isrc": "ushm91205555"
+  },
+  {
+    "title": "The One Who Knocks",
+    "artist": "Four Nights Gone",
+    "isrc": "USHM21301718"
+  },
+  {
+    "title": "One More Mile",
+    "artist": "A New Decree",
+    "isrc": "uscgj1208240"
+  },
+  {
+    "title": "Still I Know",
+    "artist": "Relentless Flood",
+    "isrc": "USHM21411031"
+  },
+  {
+    "title": "Bring Me Back",
+    "artist": "Crosswired",
+    "isrc": "ushm21100854"
+  },
+  {
+    "title": "Dead Love Letters",
+    "artist": "Seven Circle Sunrise",
+    "isrc": "QMY4K1100002"
+  },
+  {
+    "title": "Say Goodnight Forever",
+    "artist": "Inside It Failed",
+    "isrc": "ushm21184262"
+  },
+  {
+    "title": "One Last Day",
+    "artist": "9 Left Dead",
+    "isrc": "QZACR2300516"
+  },
+  {
+    "title": "The Drug I Need",
+    "artist": "Against All Will",
+    "isrc": "US7W70900008"
+  },
+  {
+    "title": "Warrior",
+    "artist": "Era 9",
+    "isrc": "CA4VP1700003"
+  },
+  {
+    "title": "Goodbye To Yesterday",
+    "artist": "Silvergun",
+    "isrc": "uscgj1085446"
+  },
+  {
+    "title": "Creatures",
+    "artist": "Tragic Culture",
+    "isrc": "TCABP1342872"
+  },
+  {
+    "title": "3 Seconds",
+    "artist": "Euphoria Audio",
+    "isrc": "UK7Z91400008"
+  },
+  {
+    "title": "Hell Yeah!",
+    "artist": "Soulicit",
+    "isrc": "QMSVA1100001"
+  },
+  {
+    "title": "Ready To Roll",
+    "artist": "Jet Black Stare",
+    "isrc": "USUM70813260"
+  },
+  {
+    "title": "Therapy",
+    "artist": "Craving Lucy",
+    "isrc": "USYXK0710327"
+  },
+  {
+    "title": "Addicted To You",
+    "artist": "Centao",
+    "isrc": "ATD561100002"
+  },
+  {
+    "title": "Shiver, Breathe (Repeat)",
+    "artist": "Dorean Lives",
+    "isrc": "usx9p1111100"
+  },
+  {
+    "title": "You vs. Me",
+    "artist": "Ashes Of Soma",
+    "isrc": "TCAGE2212906"
+  },
+  {
+    "title": "New Friend",
+    "artist": "Fighting Gemini",
+    "isrc": "USJ3V1167664"
+  },
+  {
+    "title": "Lift Me Up",
+    "artist": "Chemcoma",
+    "isrc": "usl4r0755948"
+  },
+  {
+    "title": "Breaking Down- Album Version",
+    "artist": "Creep Left",
+    "isrc": "ushm81076267"
+  },
+  {
+    "title": "Rage",
+    "artist": "Downpor",
+    "isrc": "USCHR1366512"
+  },
+  {
+    "title": "Ride",
+    "artist": "Graces Collide",
+    "isrc": "QZHN71993295"
+  },
+  {
+    "title": "Bury the Secret",
+    "artist": "Into Your Own",
+    "isrc": "QZ4JJ1795948"
+  },
+  {
+    "title": "I Can't Go For That (No Can Do)",
+    "artist": "January Jane",
+    "isrc": "QMRSZ2100013"
+  },
+  {
+    "title": "八月の夜",
+    "artist": "SILENT SIREN",
+    "isrc": "JPN901501520"
+  },
+  {
+    "title": "Uninvited",
+    "artist": "Relevant Discord",
+    "isrc": "QMXHT2300001"
+  },
+  {
+    "title": "Homebound",
+    "artist": "The Cold Harbour",
+    "isrc": "DEBL60669906"
+  },
+  {
+    "title": "Welcome to the Fight",
+    "artist": "Trust Divided",
+    "isrc": "TCACB1494444"
+  },
+  {
+    "title": "What If",
+    "artist": "frozenroom",
+    "isrc": "CH6540827145"
+  },
+  {
+    "title": "Ultragigantor",
+    "artist": "Red Line Chemistry",
+    "isrc": "USTCE1049558"
+  },
+  {
+    "title": "Man Made Thunder",
+    "artist": "Man The Mighty",
+    "isrc": "QMEU31604029"
+  },
+  {
+    "title": "The Inside",
+    "artist": "Throwing Gravity",
+    "isrc": "QMSND1100004"
+  },
+  {
+    "title": "Take Control",
+    "artist": "POYNTE",
+    "isrc": "USQY51582404"
+  },
+  {
+    "title": "Dirty Little Girl",
+    "artist": "Burn Halo",
+    "isrc": "TCAAZ1106780"
+  },
+  {
+    "title": "A Day To Be Alone",
+    "artist": "One Less Reason",
+    "isrc": "ushm90560507"
+  },
+  {
+    "title": "Sex Ain't Love",
+    "artist": "Madam Adam",
+    "isrc": "NLA321089729"
+  },
+  {
+    "title": "Once In My Life",
+    "artist": "Black Sunshine",
+    "isrc": "USS1N1017504"
+  },
+  {
+    "title": "Thrown Away",
+    "artist": "Stealing Eden",
+    "isrc": "CAZ9C1600005"
+  },
+  {
+    "title": "Paranoid",
+    "artist": "Royal Bliss",
+    "isrc": "USA2P1918250"
+  },
+  {
+    "title": "Get In Get Out",
+    "artist": "Cinder Road",
+    "isrc": "USCN30700049"
+  },
+  {
+    "title": "Echoes",
+    "artist": "Ignite the Fire",
+    "isrc": "usl4q1865840"
+  },
+  {
+    "title": "On Our Way",
+    "artist": "Stereoside",
+    "isrc": "USBBR0700241"
+  },
+  {
+    "title": "Super Hero",
+    "artist": "Prospect Hill",
+    "isrc": "TCABJ1261339"
+  },
+  {
+    "title": "I Want That for You",
+    "artist": "3 Pill Morning",
+    "isrc": "TCACL1685279"
+  },
+  {
+    "title": "I've Had Enough",
+    "artist": "Soulswitch",
+    "isrc": "TCAHT2319099"
+  },
+  {
+    "title": "Redemption",
+    "artist": "April Divine",
+    "isrc": "SEVGT1000804"
+  },
+  {
+    "title": "Breathing On My Own",
+    "artist": "Gravel Switch",
+    "isrc": "usx9p1212784"
+  },
+  {
+    "title": "Cross Your Heart (And Hope to Die)",
+    "artist": "Stellar Revival",
+    "isrc": "TCACF1577434"
+  },
+  {
+    "title": "Love Hate Masquerade",
+    "artist": "Surrender the Fall",
+    "isrc": "USUA71000012"
+  },
+  {
+    "title": "Ghost in the Room",
+    "artist": "Brother Grey",
+    "isrc": "ushm81575275"
+  },
+  {
+    "title": "Rack City",
+    "artist": "Weaving The Fate",
+    "isrc": "USUM71202136"
+  },
+  {
+    "title": "Forget About You",
+    "artist": "Syn City Cowboys",
+    "isrc": "uscgj1338056"
+  },
+  {
+    "title": "5 Seconds",
+    "artist": "Echo Vendetta",
+    "isrc": "usx9p1142882"
+  },
+  {
+    "title": "Fading Away",
+    "artist": "Fivefold",
+    "isrc": "USHM21224302"
+  },
+  {
+    "title": "I Know",
+    "artist": "Down Monday",
+    "isrc": "uscgh1293843"
+  },
+  {
+    "title": "UNSTOPPABLE",
+    "artist": "No Resolve, Hinder",
+    "isrc": "QZHN92352718"
+  },
+  {
+    "title": "Dirty Fix",
+    "artist": "Shards of Jade",
+    "isrc": "uscgj1197373"
+  },
+  {
+    "title": "We Are Stars",
+    "artist": "Mindset Evolution",
+    "isrc": "US5Z51300278"
+  },
+  {
+    "title": "Craving",
+    "artist": "Gone for Days",
+    "isrc": "ushm91205556"
+  },
+  {
+    "title": "My Last Call",
+    "artist": "Four Nights Gone",
+    "isrc": "uscgh1217006"
+  },
+  {
+    "title": "Yesterday",
+    "artist": "A New Decree",
+    "isrc": "uscgj1208238"
+  },
+  {
+    "title": "Come Home",
+    "artist": "Relentless Flood",
+    "isrc": "USHM21411026"
+  },
+  {
+    "title": "Message In A Bottle",
+    "artist": "Crosswired",
+    "isrc": "ushm21100861"
+  },
+  {
+    "title": "Broken Man",
+    "artist": "Seven Circle Sunrise",
+    "isrc": "QMY4K1100004"
+  },
+  {
+    "title": "Down Universe",
+    "artist": "Inside It Failed",
+    "isrc": "ushm21184263"
+  },
+  {
+    "title": "Don't Let The Door Hit Ya",
+    "artist": "9 Left Dead",
+    "isrc": "US7PJ1130007"
+  },
+  {
+    "title": "All About You",
+    "artist": "Against All Will",
+    "isrc": "US7W70900005"
+  },
+  {
+    "title": "Hero",
+    "artist": "Era 9",
+    "isrc": "CA4VP1700007"
+  },
+  {
+    "title": "Falling Apart",
+    "artist": "Silvergun",
+    "isrc": "ushm80836267"
+  },
+  {
+    "title": "Glass Tongues",
+    "artist": "Tragic Culture",
+    "isrc": "TCABP1342877"
+  },
+  {
+    "title": "Your Tomorrows",
+    "artist": "Euphoria Audio",
+    "isrc": "UK7Z91400001"
+  },
+  {
+    "title": "Carolina Shine",
+    "artist": "Soulicit",
+    "isrc": "QMSVA1300001"
+  },
+  {
+    "title": "Collide",
+    "artist": "Craving Lucy",
+    "isrc": "USYXK0710328"
+  },
+  {
+    "title": "I'm Breathing",
+    "artist": "Jet Black Stare",
+    "isrc": "USUM70819979"
+  },
+  {
+    "title": "Nothing",
+    "artist": "Centao",
+    "isrc": "ATD561100004"
+  },
+  {
+    "title": "Darkest Night (Theme for Robert McCammon's the Five) [Bonus Track]",
+    "artist": "Dorean Lives",
+    "isrc": "usx9p1111106"
+  },
+  {
+    "title": "Meteor",
+    "artist": "Ashes Of Soma",
+    "isrc": "TCAGE2212944"
+  },
+  {
+    "title": "Drown",
+    "artist": "Fighting Gemini",
+    "isrc": "USJ3V1167671"
+  },
+  {
+    "title": "Come To Hand",
+    "artist": "Chemcoma",
+    "isrc": "usl4r0755950"
+  },
+  {
+    "title": "Pray",
+    "artist": "Creep Left",
+    "isrc": "uscgj1086588"
+  },
+  {
+    "title": "Ended It All",
+    "artist": "Downpor",
+    "isrc": "USCHR1366504"
+  },
+  {
+    "title": "Our Tomorrow",
+    "artist": "Graces Collide",
+    "isrc": "QZHNA1915022"
+  }
+]

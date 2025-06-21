@@ -1,0 +1,957 @@
+[
+  {
+    "title": "La Simple",
+    "artist": "Demi Carabajal",
+    "isrc": "ART720510464"
+  },
+  {
+    "title": "A una Rosa",
+    "artist": "Franco Ramirez, Jorge Rojas",
+    "isrc": "ART721210273"
+  },
+  {
+    "title": "Sabía Que Ibas a Venir",
+    "artist": "Marcelo Mitre",
+    "isrc": "USHM22414960"
+  },
+  {
+    "title": "Abriendo Venas del Monte",
+    "artist": "Enrique Marquetti y La Brasa",
+    "isrc": "US6R21504771"
+  },
+  {
+    "title": "Chacarera Del Cardenal",
+    "artist": "Horacio Banegas",
+    "isrc": "AEA0D1847721"
+  },
+  {
+    "title": "Los Sentires de Mi Pueblo",
+    "artist": "Don Argañaraz",
+    "isrc": "ART581101572"
+  },
+  {
+    "title": "Santiago Copla y Misterio",
+    "artist": "La Brasita de Mi Chala",
+    "isrc": "QZHZ42035106"
+  },
+  {
+    "title": "A Don Yuma Gómez",
+    "artist": "Coco Banegas",
+    "isrc": "ART580900760"
+  },
+  {
+    "title": "Gustito a Mistol",
+    "artist": "Marcelo Toledo",
+    "isrc": "AR8L71300379"
+  },
+  {
+    "title": "Zamba Mishquila",
+    "artist": "Los Lugones, Raly Barrionuevo",
+    "isrc": "ARV3X1800004"
+  },
+  {
+    "title": "A Buen Entendedor",
+    "artist": "Elpidio Herrera, Las Sachaguitarras Atamishqueñas",
+    "isrc": "FR96X1786875"
+  },
+  {
+    "title": "Fiesta suncheña",
+    "artist": "Pablo Carabajal y Sanavirones",
+    "isrc": "GX38U2142180"
+  },
+  {
+    "title": "El Olvidao",
+    "artist": "Roxana Carabajal",
+    "isrc": "ARG601200472"
+  },
+  {
+    "title": "Zamba Sin Dueña",
+    "artist": "Gustavo Chazarreta, Jorge Rojas",
+    "isrc": "ARJJ31800004"
+  },
+  {
+    "title": "Negra Chacarera",
+    "artist": "Kike Oyola",
+    "isrc": "QZGLS2071884"
+  },
+  {
+    "title": "Mujer Y Amiga",
+    "artist": "Alfredo Abalos",
+    "isrc": "ARF220500812"
+  },
+  {
+    "title": "Algarrobal y Sentimientos",
+    "artist": "El Vislumbre Del Esteko",
+    "isrc": "USL4R2311042"
+  },
+  {
+    "title": "\"Por no llorar tu Desamor\" (zamba)",
+    "artist": "La Pesada Santiagueña",
+    "isrc": "QZPLS2259327"
+  },
+  {
+    "title": "Haceme Sufrir",
+    "artist": "Claudio Acosta, Daniel Patanchon",
+    "isrc": "ARAJN2300005"
+  },
+  {
+    "title": "Así Era Mi Mama",
+    "artist": "Los Chaza, Orellana Lucca",
+    "isrc": "ARDFE1200010"
+  },
+  {
+    "title": "Como Ristra ´i Chacarera",
+    "artist": "Dúo Heredero",
+    "isrc": "USHM82041264"
+  },
+  {
+    "title": "Mishkila",
+    "artist": "Pilly Herrera",
+    "isrc": "QZCE61848610"
+  },
+  {
+    "title": "Entre A Mi Pago Sin Golpear",
+    "artist": "Cuti y Roberto Carabajal",
+    "isrc": "ARF220601715"
+  },
+  {
+    "title": "Ashpa Sumaj",
+    "artist": "Dúo Santiagueño Suárez Palomo",
+    "isrc": "AR8L71402999"
+  },
+  {
+    "title": "Morenita Santiagueña",
+    "artist": "Hugo Torres",
+    "isrc": "AR8L71400427"
+  },
+  {
+    "title": "Agitando Pañuelos",
+    "artist": "Duo Coplanacu",
+    "isrc": "ARG601011032"
+  },
+  {
+    "title": "Flores y Chacareras",
+    "artist": "Riendas Libres., Peteco Carabajal",
+    "isrc": "AR8791700002"
+  },
+  {
+    "title": "Bajo la Sombra de un Árbol",
+    "artist": "Peteco Carabajal",
+    "isrc": "ARG601011704"
+  },
+  {
+    "title": "Amargura",
+    "artist": "La Chacarerata Santiagueña",
+    "isrc": "ARG601012113"
+  },
+  {
+    "title": "El Olvidao",
+    "artist": "Néstor Garnica",
+    "isrc": "ART720410240"
+  },
+  {
+    "title": "Como Ristra e Chacarera - en Vivo",
+    "artist": "Juanjo Abregu",
+    "isrc": "QZFYY2111191"
+  },
+  {
+    "title": "Para Curarte He Venido (Ampisunaas Amorani)",
+    "artist": "Sixto Palavecino",
+    "isrc": "ARF049602808"
+  },
+  {
+    "title": "Cicatrices",
+    "artist": "Pilly Herrera",
+    "isrc": "QZFYX2269857"
+  },
+  {
+    "title": "Milagro del Tiempo",
+    "artist": "Orellana Lucca",
+    "isrc": "ARIA20500004"
+  },
+  {
+    "title": "Pena Y Alegria Del Amor",
+    "artist": "Mario Álvarez Quiroga",
+    "isrc": "ARF079700217"
+  },
+  {
+    "title": "Chacarera del Amor",
+    "artist": "Tanta, Horacio Banegas, Orellana Lucca, Patricia Herrera, Néstor Garnica, Peteco Carabajal, Raly Barrionuevo, Duo Coplanacu",
+    "isrc": "AR0UU1900001"
+  },
+  {
+    "title": "Eterno Amor",
+    "artist": "Martín Paz, Jorge Rojas",
+    "isrc": "ART721710543"
+  },
+  {
+    "title": "Fueguito De La mañana",
+    "artist": "Jacinto Piedra",
+    "isrc": "AEA0Q2185234"
+  },
+  {
+    "title": "Entre Tu Amor y Mi Amor (Zamba)",
+    "artist": "Lucas Caceres",
+    "isrc": "AR39V1900006"
+  },
+  {
+    "title": "Entre a Mi Pago Sin Golpear - En Vivo",
+    "artist": "Los Carabajal, Peteco Carabajal, Cuti Carabajal, Roberto Carabajal, Mario Álvarez Quiroga, Marcelo Perea, Héctor Mansilla",
+    "isrc": "ARZ911200015"
+  },
+  {
+    "title": "Zamba para un Bohemio Guitarrero",
+    "artist": "Los Santiagueños",
+    "isrc": "ARF050500856"
+  },
+  {
+    "title": "Intervento ONU 12 Dicembre 1964",
+    "artist": "Ernesto Guevara",
+    "isrc": "ITOOJ0800084"
+  },
+  {
+    "title": "Chacarera de Mis Sueños",
+    "artist": "Juan Carlos Carabajal, Marcelo Toledo",
+    "isrc": "AR8L71600381"
+  },
+  {
+    "title": "Voy Andando",
+    "artist": "Maxi Ledesma",
+    "isrc": "QZW9L2229760"
+  },
+  {
+    "title": "Volvere Pa Mi Santiago",
+    "artist": "Salitral",
+    "isrc": "QM6N21737847"
+  },
+  {
+    "title": "Acordeona Tuya Pora",
+    "artist": "Los Hermanos Toledo",
+    "isrc": "ARG991024484"
+  },
+  {
+    "title": "Mujer de Luz",
+    "artist": "Banda Santiago, Daniel Patanchon, Demi Carabajal, Franco Ramirez, Dipi Carabajal",
+    "isrc": "ARAJN2000010"
+  },
+  {
+    "title": "No sé que tiene la Guaracha",
+    "artist": "Los Arcanos Del Desierto",
+    "isrc": "ARNE72000001"
+  },
+  {
+    "title": "A Santiago Canto",
+    "artist": "Graciela Carabajal",
+    "isrc": "AR8791900017"
+  },
+  {
+    "title": "Niña de Julio",
+    "artist": "Daniel Patanchon",
+    "isrc": "ARAJN2100004"
+  },
+  {
+    "title": "Quiero Nombrar a Mi Pago (En Vivo)",
+    "artist": "Dúo",
+    "isrc": "ARXTB1800016"
+  },
+  {
+    "title": "Donde Se Junten los Tiempos",
+    "artist": "Franco Guevara, Orellana Lucca",
+    "isrc": "uscgh2034136"
+  },
+  {
+    "title": "Chacarera del Pensador",
+    "artist": "Raúl Carnota",
+    "isrc": "ARZ020800715"
+  },
+  {
+    "title": "Zamba y Acuarela",
+    "artist": "Raly Barrionuevo",
+    "isrc": "ARG601200422"
+  },
+  {
+    "title": "El Camion De German",
+    "artist": "Sergio Galleguillo",
+    "isrc": "ARG601101227"
+  },
+  {
+    "title": "Eterno Amor",
+    "artist": "Los Manseros Santiagueños",
+    "isrc": "ART720810343"
+  },
+  {
+    "title": "ESCONDIDO DEL REZABAILE",
+    "artist": "LA SACHA FUGA",
+    "isrc": "SE6A92161855"
+  },
+  {
+    "title": "La Telesita",
+    "artist": "Eduardo Avila",
+    "isrc": "ARXP71608227"
+  },
+  {
+    "title": "Santiago Me Está Llamando",
+    "artist": "Los Manseros Santiagueños de Leocadio Torres",
+    "isrc": "AR8L71500856"
+  },
+  {
+    "title": "Mágica Ronda",
+    "artist": "Runa Simi",
+    "isrc": "QZGLM2063682"
+  },
+  {
+    "title": "Digo la Mazamorra",
+    "artist": "Carlos Oscar Carabajal, Verónica Condomí, Juan Enrique Farias Gomez, Ruben Izarrualde, Ricardo Gomez Orona",
+    "isrc": "ARG601012267"
+  },
+  {
+    "title": "Chacarera De Mis Sueños",
+    "artist": "Onofre Paz \"El Mansero\"",
+    "isrc": "ART720410230"
+  },
+  {
+    "title": "La Noche Sin Tí",
+    "artist": "Los Huayra",
+    "isrc": "ARF040705162"
+  },
+  {
+    "title": "La Telesita",
+    "artist": "Jorge Luis Carabajal, Nestor Garnica",
+    "isrc": "USX9P2352574"
+  },
+  {
+    "title": "Si de Cantar Se Trata",
+    "artist": "Facundo Saravia",
+    "isrc": "ARG601012744"
+  },
+  {
+    "title": "Aquel Tiempo de Mi Infancia",
+    "artist": "Los Sacheros Santiagueños",
+    "isrc": "AR8L71700037"
+  },
+  {
+    "title": "Chacarera Para Mi Flor",
+    "artist": "Gabriel Cajal, Juanjo Abregu",
+    "isrc": "AEA0D1885306"
+  },
+  {
+    "title": "Agitando Pañuelos",
+    "artist": "Vitillo Abalos, Liliana Herrero, Raly Barrionuevo, Pedro Rossi",
+    "isrc": "ARBAC1600003"
+  },
+  {
+    "title": "Sufrida tierra mía",
+    "artist": "Motta Luna, Mercedes Sosa, Jorge Giuliano, Javier Casalla, Chango Farias Gomez",
+    "isrc": "DEN960530610"
+  },
+  {
+    "title": "Que Me Lloren Tus Ojos",
+    "artist": "Flor Paz",
+    "isrc": "ART721310807"
+  },
+  {
+    "title": "Lo Suelto",
+    "artist": "Juan Iñaki, Juan Murua",
+    "isrc": "QM4TW2409957"
+  },
+  {
+    "title": "Oración del Remanso",
+    "artist": "Los Puesteros",
+    "isrc": "usl4q2091101"
+  },
+  {
+    "title": "Lapacho En Flor",
+    "artist": "El MAYLíN",
+    "isrc": "SEYOK1652059"
+  },
+  {
+    "title": "Arrope la Chacarera",
+    "artist": "Los Sin Nombre",
+    "isrc": "QZ5AB1820454"
+  },
+  {
+    "title": "Antes De Ti",
+    "artist": "Los Santiagueños del Río",
+    "isrc": "AR15Y2100878"
+  },
+  {
+    "title": "Añoranzas",
+    "artist": "Las Mullieris",
+    "isrc": "ARU681100008"
+  },
+  {
+    "title": "Sufrida Tierra",
+    "artist": "Mota Luna, León Gieco",
+    "isrc": "QMBZ91690480"
+  },
+  {
+    "title": "Guitarra Trasnochada",
+    "artist": "Shalo Leguizamòn",
+    "isrc": "AR8L71500251"
+  },
+  {
+    "title": "Solo Dios Sabe Hasta Cuando",
+    "artist": "Onofre Paz",
+    "isrc": "QMBZ91688792"
+  },
+  {
+    "title": "Guaracha Con Tumbadora",
+    "artist": "Los Caimanes Santiagueños",
+    "isrc": "ARF108900140"
+  },
+  {
+    "title": "Además de Mí",
+    "artist": "La Juntada, Maxi Tolosa, Cumbia a Fondo",
+    "isrc": "QM3DF2102038"
+  },
+  {
+    "title": "Fidelina",
+    "artist": "Hermanos Diaz",
+    "isrc": "FR96X1675763"
+  },
+  {
+    "title": "La Calladita",
+    "artist": "La Brasa",
+    "isrc": "AR8L71402338"
+  },
+  {
+    "title": "Quiero Nombrar a Mi Pago",
+    "artist": "Los Villagra",
+    "isrc": "QMBZ91690484"
+  },
+  {
+    "title": "Sinfonía Silvestre",
+    "artist": "Onofre, Martín Paz",
+    "isrc": "QMBZ91685141"
+  },
+  {
+    "title": "En el Espacio",
+    "artist": "Orígenes",
+    "isrc": "QZK6L2076794"
+  },
+  {
+    "title": "No Hay Más Que Una",
+    "artist": "Presagio, Shadí Sparkling",
+    "isrc": "ES64E2466726"
+  },
+  {
+    "title": "Cielo o Infierno",
+    "artist": "Santiago Dùo",
+    "isrc": "AR8L71403044"
+  },
+  {
+    "title": "El Chulla Quiteno",
+    "artist": "Grupo Tradicion",
+    "isrc": "QMBZ91558539"
+  },
+  {
+    "title": "La del Cantor Solitario",
+    "artist": "Los Abalos",
+    "isrc": "ARF201400131"
+  },
+  {
+    "title": "Galopa El Duende Del Rio",
+    "artist": "Marcelo Gomez",
+    "isrc": "AEA0D1911428"
+  },
+  {
+    "title": "Santiago Querido",
+    "artist": "Mullieris",
+    "isrc": "AR8L71403043"
+  },
+  {
+    "title": "Cielo o Infierno",
+    "artist": "Demi Carabajal",
+    "isrc": "ARG601010171"
+  },
+  {
+    "title": "Zambita Del Musiquero",
+    "artist": "Franco Ramirez",
+    "isrc": "GBSMU6326840"
+  },
+  {
+    "title": "La Fiesta",
+    "artist": "Marcelo Mitre, Jana Banegas",
+    "isrc": "USHM22414955"
+  },
+  {
+    "title": "Coplas Santiagueñas",
+    "artist": "Enrique Marquetti y La Brasa, Dúo Orellana - Lucca",
+    "isrc": "US6R21504777"
+  },
+  {
+    "title": "Hermano Kakuy",
+    "artist": "Horacio Banegas",
+    "isrc": "ARF059400007"
+  },
+  {
+    "title": "Corazón Peregrino",
+    "artist": "Don Argañaraz",
+    "isrc": "ART581101570"
+  },
+  {
+    "title": "Chacarera del Atardecer",
+    "artist": "La Brasita de Mi Chala",
+    "isrc": "QZHZ42035104"
+  },
+  {
+    "title": "Amo la Chacarera",
+    "artist": "Coco Banegas",
+    "isrc": "ART580900761"
+  },
+  {
+    "title": "La Algarrobera",
+    "artist": "Marcelo Toledo",
+    "isrc": "AR8L71300386"
+  },
+  {
+    "title": "Semillas de Chacarera",
+    "artist": "Los Lugones",
+    "isrc": "ARV3X1800014"
+  },
+  {
+    "title": "La Filosófica",
+    "artist": "Elpidio Herrera, León Gieco",
+    "isrc": "ARQYU1300056"
+  },
+  {
+    "title": "El bailarín andariego",
+    "artist": "Pablo Carabajal y Sanavirones",
+    "isrc": "GBSMU8184129"
+  },
+  {
+    "title": "Chacarera del Bombisto",
+    "artist": "Gustavo Chazarreta",
+    "isrc": "ARJJ31800003"
+  },
+  {
+    "title": "No Dejare de Amarte",
+    "artist": "Roxana Carabajal, Raly Barrionuevo",
+    "isrc": "ARG601101707"
+  },
+  {
+    "title": "Chacarera Vital",
+    "artist": "Kike Oyola",
+    "isrc": "QZGLS2071877"
+  },
+  {
+    "title": "Del Tiempo De Mi Niñez",
+    "artist": "Alfredo Abalos",
+    "isrc": "ARF048100001"
+  },
+  {
+    "title": "Zamba para Mi Soledad",
+    "artist": "El Vislumbre Del Esteko",
+    "isrc": "USL4R2311044"
+  },
+  {
+    "title": "\"De mis Mayores\"(chacarera)",
+    "artist": "La Pesada Santiagueña",
+    "isrc": "QZPLS2213192"
+  },
+  {
+    "title": "Atamisqueando",
+    "artist": "Claudio Acosta",
+    "isrc": "GBSMU5070656"
+  },
+  {
+    "title": "A Orillas del Dulce",
+    "artist": "Los Chaza",
+    "isrc": "ARDFE1200014"
+  },
+  {
+    "title": "Si Fuera Hoy",
+    "artist": "Dúo Heredero",
+    "isrc": "ARO931300003"
+  },
+  {
+    "title": "Mateando Con Mi Mama",
+    "artist": "Pilly Herrera",
+    "isrc": "QZCE61848616"
+  },
+  {
+    "title": "Escondido del Rezabaile",
+    "artist": "Dúo Santiagueño Suárez Palomo",
+    "isrc": "AR8L71402992"
+  },
+  {
+    "title": "Cuando Me Abandone el Alma",
+    "artist": "Cuti y Roberto Carabajal",
+    "isrc": "ARF109903118"
+  },
+  {
+    "title": "Malambo",
+    "artist": "Hugo Torres",
+    "isrc": "AR8L71401636"
+  },
+  {
+    "title": "La Flor Azul",
+    "artist": "Duo Coplanacu",
+    "isrc": "ARG601010955"
+  },
+  {
+    "title": "El Amor Como Bandera",
+    "artist": "Riendas Libres., Peteco Carabajal",
+    "isrc": "AR8791700001"
+  },
+  {
+    "title": "Como Pájaros En El Aire - Live",
+    "artist": "Peteco Carabajal",
+    "isrc": "ARF099600123"
+  },
+  {
+    "title": "Chacarera del Violin",
+    "artist": "La Chacarerata Santiagueña",
+    "isrc": "ARG601012137"
+  },
+  {
+    "title": "Chacarera del Violín",
+    "artist": "Néstor Garnica",
+    "isrc": "ART720410239"
+  },
+  {
+    "title": "Entre el Dulce y el Salado - en Vivo",
+    "artist": "Juanjo Abregu",
+    "isrc": "QZFYY2111187"
+  },
+  {
+    "title": "Lagrimas Atamishqueñas",
+    "artist": "Sixto Palavecino",
+    "isrc": "ARF049701050"
+  },
+  {
+    "title": "Taco y Punta",
+    "artist": "Pilly Herrera",
+    "isrc": "QZFYX2269850"
+  },
+  {
+    "title": "Identidad Santiagueña",
+    "artist": "Mario Álvarez Quiroga",
+    "isrc": "ARF070602304"
+  },
+  {
+    "title": "Chacarera del Patio",
+    "artist": "Orellana Lucca",
+    "isrc": "ARIA21500025"
+  },
+  {
+    "title": "Flor Adorada",
+    "artist": "Tanta",
+    "isrc": "AR0UU0900002"
+  },
+  {
+    "title": "Semillas de Chacarera",
+    "artist": "Martín Paz, Peteco Carabajal",
+    "isrc": "ART721710540"
+  },
+  {
+    "title": "Como Arbolito En otoño",
+    "artist": "Jacinto Piedra",
+    "isrc": "AEA0Q2185239"
+  },
+  {
+    "title": "La Lugareña",
+    "artist": "Lucas Caceres",
+    "isrc": "AR39V1900020"
+  },
+  {
+    "title": "Chacarera Del Violin",
+    "artist": "Los Carabajal",
+    "isrc": "ARF049501323"
+  },
+  {
+    "title": "Camino al Amor",
+    "artist": "Los Santiagueños",
+    "isrc": "ARF050500849"
+  },
+  {
+    "title": "Tristezas del Salitral",
+    "artist": "Juan Carlos Carabajal, El Rejunte, Fabián Monges",
+    "isrc": "AR8L71300177"
+  },
+  {
+    "title": "Su Venir",
+    "artist": "Maxi Ledesma",
+    "isrc": "QZW9L2229761"
+  },
+  {
+    "title": "Dulce Bailarina",
+    "artist": "Salitral",
+    "isrc": "ARQIW2207398"
+  },
+  {
+    "title": "La Telesita",
+    "artist": "Los Hermanos Toledo",
+    "isrc": "ARF220602221"
+  },
+  {
+    "title": "El Ritmo Que Viaja",
+    "artist": "Banda Santiago, Daniel Patanchon, Demi Carabajal, Franco Ramirez, Dipi Carabajal",
+    "isrc": "ARAJN2000003"
+  },
+  {
+    "title": "Ligado Con Tu Esencia",
+    "artist": "Los Arcanos Del Desierto",
+    "isrc": "ARNE71500002"
+  },
+  {
+    "title": "Algarrobal y Sentimiento - En Vivo",
+    "artist": "Graciela Carabajal",
+    "isrc": "ARF051400603"
+  },
+  {
+    "title": "Bailecito de América (feat. Homero Carabajal & Agustín Ronconi)",
+    "artist": "Daniel Patanchon, Homero Carabajal, Agustín Ronconi",
+    "isrc": "ARAJN1500003"
+  },
+  {
+    "title": "Vuelo Enamorado (En Vivo)",
+    "artist": "Dúo",
+    "isrc": "ARXTB1800003"
+  },
+  {
+    "title": "Por Todo Tu Misterio",
+    "artist": "Franco Guevara",
+    "isrc": "uscgh2034134"
+  },
+  {
+    "title": "Por Seguir - Gato",
+    "artist": "Raúl Carnota",
+    "isrc": "ARZ020800718"
+  },
+  {
+    "title": "Niña Chay",
+    "artist": "Sergio Galleguillo",
+    "isrc": "ARG601101225"
+  },
+  {
+    "title": "Chacarera Del Sufrido",
+    "artist": "Raly Barrionuevo",
+    "isrc": "AR0RP1500004"
+  },
+  {
+    "title": "CHACARERA DEL CHILALO",
+    "artist": "LA SACHA FUGA",
+    "isrc": "SE6A92161865"
+  },
+  {
+    "title": "Desde el Puente Carretero (with Peteco Carabajal)",
+    "artist": "Los Manseros Santiagueños, Peteco Carabajal",
+    "isrc": "ARF109901068"
+  },
+  {
+    "title": "Luna Tucumana",
+    "artist": "Eduardo Avila",
+    "isrc": "ARF109901502"
+  },
+  {
+    "title": "Gatito para Mi Mamá",
+    "artist": "Los Manseros Santiagueños de Leocadio Torres",
+    "isrc": "AR8L71500863"
+  },
+  {
+    "title": "Al Vértice de Tu Boca",
+    "artist": "Runa Simi",
+    "isrc": "QZGLM2063674"
+  },
+  {
+    "title": "Como Pájaros en el Aire",
+    "artist": "Carlos Oscar Carabajal, Verónica Condomí, Juan Enrique Farias Gomez, Ruben Izarrualde, Ricardo Gomez Orona",
+    "isrc": "ARG601012265"
+  },
+  {
+    "title": "Te Vivo En Mi Soledad",
+    "artist": "Onofre Paz \"El Mansero\"",
+    "isrc": "ART720410228"
+  },
+  {
+    "title": "Fiesta Churita",
+    "artist": "Jorge Luis Carabajal, Demi Carabajal, Walter Carabajal",
+    "isrc": "USX9P2352567"
+  },
+  {
+    "title": "La Solis Pizarro",
+    "artist": "Los Huayra, Juan Carlos Saravia, Polo Roman, Los Nocheros, Chaqueño Palavecino",
+    "isrc": "ARF040705174"
+  },
+  {
+    "title": "A Juan Carlos Saravia",
+    "artist": "Facundo Saravia",
+    "isrc": "ARG601012745"
+  },
+  {
+    "title": "Chacarera del Monte",
+    "artist": "Los Sacheros Santiagueños",
+    "isrc": "AR8L71600043"
+  },
+  {
+    "title": "Querencia de Mi Sentir",
+    "artist": "Demi Carabajal",
+    "isrc": "ARG601010165"
+  },
+  {
+    "title": "Zambita pa' Enamorar",
+    "artist": "Franco Ramirez",
+    "isrc": "ART721210277"
+  },
+  {
+    "title": "El Cielo de Atamishki",
+    "artist": "Marcelo Mitre",
+    "isrc": "ushm82081917"
+  },
+  {
+    "title": "Sueño de Amor",
+    "artist": "Enrique Marquetti y La Brasa",
+    "isrc": "US6R21504779"
+  },
+  {
+    "title": "El Mundo al Revés",
+    "artist": "Don Argañaraz",
+    "isrc": "ART581101579"
+  },
+  {
+    "title": "El Color de la Chacarera",
+    "artist": "Horacio Banegas, Dúo Terral",
+    "isrc": "ES71G1608489"
+  },
+  {
+    "title": "Florcitas de Chacarera",
+    "artist": "La Brasita de Mi Chala",
+    "isrc": "AREGF1800003"
+  },
+  {
+    "title": "Poema al Vino",
+    "artist": "Coco Banegas",
+    "isrc": "ART580900775"
+  },
+  {
+    "title": "Y Ahora Soy Feliz",
+    "artist": "Marcelo Toledo",
+    "isrc": "AR8L71300374"
+  },
+  {
+    "title": "Llora Natura",
+    "artist": "Los Lugones, Orellana Lucca",
+    "isrc": "ARV3X1800002"
+  },
+  {
+    "title": "Huañoj Tacko",
+    "artist": "Elpidio Herrera, Las Sachaguitarras Atamishqueñas",
+    "isrc": "QM4TW1956075"
+  },
+  {
+    "title": "Chacarera de los jumes",
+    "artist": "Pablo Carabajal y Sanavirones",
+    "isrc": "GBSMU8184128"
+  },
+  {
+    "title": "Para Pelearle al Silencio",
+    "artist": "Gustavo Chazarreta, Orellana Lucca",
+    "isrc": "ARJJ31800007"
+  },
+  {
+    "title": "Chacarera del Bombisto",
+    "artist": "Roxana Carabajal",
+    "isrc": "ES71G1843074"
+  },
+  {
+    "title": "Como Lo Sientas",
+    "artist": "Kike Oyola",
+    "isrc": "QZGLS2071878"
+  },
+  {
+    "title": "La Pucha Con El Hombre",
+    "artist": "Alfredo Abalos",
+    "isrc": "ARF048600001"
+  },
+  {
+    "title": "Hombres del Esteko",
+    "artist": "El Vislumbre Del Esteko",
+    "isrc": "USL4R2311038"
+  },
+  {
+    "title": "\"Pa' los Challueros\" (chacarera)",
+    "artist": "La Pesada Santiagueña",
+    "isrc": "QZPLS2213180"
+  },
+  {
+    "title": "La de los Angelitos",
+    "artist": "Claudio Acosta, Daniel Patanchon",
+    "isrc": "ARAJN2300003"
+  },
+  {
+    "title": "Quiero Nombrar a Mi Pago (En Vivo)",
+    "artist": "Los Chaza",
+    "isrc": "ARDEF1500014"
+  },
+  {
+    "title": "Fantasía de Gato",
+    "artist": "Dúo Heredero",
+    "isrc": "ARO931300005"
+  },
+  {
+    "title": "De Que Sirve",
+    "artist": "Pilly Herrera",
+    "isrc": "QZCE61848611"
+  },
+  {
+    "title": "Escondido a la Alabanza",
+    "artist": "Dúo Santiagueño Suárez Palomo",
+    "isrc": "AR8L71402996"
+  },
+  {
+    "title": "La Pucha Con El Hombre",
+    "artist": "Cuti y Roberto Carabajal",
+    "isrc": "ARF220601722"
+  },
+  {
+    "title": "La Amorosa",
+    "artist": "Hugo Torres",
+    "isrc": "AR8L71402987"
+  },
+  {
+    "title": "Chacarera para Vos",
+    "artist": "Riendas Libres.",
+    "isrc": "AR8792200007"
+  },
+  {
+    "title": "Chacarera del Patio",
+    "artist": "Duo Coplanacu",
+    "isrc": "AR9S51500111"
+  },
+  {
+    "title": "Chacarera del Chilalo",
+    "artist": "Peteco Carabajal, Duo Coplanacu, Raly Barrionuevo",
+    "isrc": "ARG601010737"
+  },
+  {
+    "title": "Chacarera Del Rancho",
+    "artist": "La Chacarerata Santiagueña",
+    "isrc": "ARA590801995"
+  },
+  {
+    "title": "Rancho de Monte Quemado",
+    "artist": "Juanjo Abregu",
+    "isrc": "QZDA72097200"
+  },
+  {
+    "title": "Violín De Barrancas",
+    "artist": "Sixto Palavecino",
+    "isrc": "ART581101454"
+  },
+  {
+    "title": "Tal Vez Así",
+    "artist": "Néstor Garnica",
+    "isrc": "ART720410213"
+  },
+  {
+    "title": "De los Montes de mi Vida",
+    "artist": "Pilly Herrera",
+    "isrc": "QZFYX2269855"
+  },
+  {
+    "title": "Romance de Aquel Hijo",
+    "artist": "Mario Álvarez Quiroga",
+    "isrc": "ARF070602301"
+  }
+]

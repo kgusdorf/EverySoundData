@@ -1,0 +1,897 @@
+[
+  {
+    "title": "Laird Baird",
+    "artist": "Charlie Parker Quartet",
+    "isrc": "USPR35200126"
+  },
+  {
+    "title": "It's Easy To Remember",
+    "artist": "John Coltrane Quartet",
+    "isrc": "USMC16253796"
+  },
+  {
+    "title": "Lullaby Of The Leaves",
+    "artist": "Gerry Mulligan Quartet",
+    "isrc": "USBN29600631"
+  },
+  {
+    "title": "Paul's Pal - Rudy Van Gelder Remastered 2006 / Shared ISRC",
+    "artist": "Sonny Rollins Quartet",
+    "isrc": "USFI85600265"
+  },
+  {
+    "title": "Just Friends",
+    "artist": "Sonny Stitt Quartet",
+    "isrc": "USUM71903952"
+  },
+  {
+    "title": "Love Song From \"Apache\"",
+    "artist": "Coleman Hawkins Quartet",
+    "isrc": "USMC16249021"
+  },
+  {
+    "title": "Carson City Stage",
+    "artist": "Chet Baker Quartet, Russ Freeman",
+    "isrc": "USBN29701032"
+  },
+  {
+    "title": "Softly As In A Morning Sunrise",
+    "artist": "The Modern Jazz Quartet",
+    "isrc": "USSJ10300732"
+  },
+  {
+    "title": "Take Five",
+    "artist": "The Dave Brubeck Quartet",
+    "isrc": "USSM15900108"
+  },
+  {
+    "title": "Smooch",
+    "artist": "Miles Davis Quartet",
+    "isrc": "NLHR52100996"
+  },
+  {
+    "title": "You Are So Beautiful",
+    "artist": "Charles Lloyd, Norah Jones",
+    "isrc": "USUG11501612"
+  },
+  {
+    "title": "Like Someone In Love",
+    "artist": "Stan Getz Quartet",
+    "isrc": "USGR19905442"
+  },
+  {
+    "title": "Come What May",
+    "artist": "Joshua Redman Quartet",
+    "isrc": "USNO11800777"
+  },
+  {
+    "title": "Take Five - Live At Bourbon Street, Toronto, Canada/1975",
+    "artist": "Paul Desmond Quartet",
+    "isrc": "USGR10000432"
+  },
+  {
+    "title": "Monk's Mood - Live At Carnegie Hall, New York/1957",
+    "artist": "Thelonious Monk Quartet, John Coltrane",
+    "isrc": "USBN20500233"
+  },
+  {
+    "title": "Sea Journey",
+    "artist": "Gary Burton Quartet, Eberhard Weber",
+    "isrc": "DEB337609201"
+  },
+  {
+    "title": "Snap Crackle",
+    "artist": "Roy Haynes Quartet",
+    "isrc": "USMC16247618"
+  },
+  {
+    "title": "Wait Till You See Her",
+    "artist": "John Abercrombie Quartet",
+    "isrc": "DEB330810203"
+  },
+  {
+    "title": "Kattorna",
+    "artist": "Tomasz Stanko Quartet",
+    "isrc": "DEB330598004"
+  },
+  {
+    "title": "Conference Of The Birds",
+    "artist": "Dave Holland Quartet",
+    "isrc": "DEB337202703"
+  },
+  {
+    "title": "Blues Back",
+    "artist": "Art Blakey Quartet",
+    "isrc": "USMC16355249"
+  },
+  {
+    "title": "Right There",
+    "artist": "Tord Gustavsen Quartet",
+    "isrc": "DEB331335801"
+  },
+  {
+    "title": "Mo' Better Blues (feat. Terence Blanchard)",
+    "artist": "Branford Marsalis Quartet, Terence Blanchard",
+    "isrc": "USSM19921772"
+  },
+  {
+    "title": "Caroline, No",
+    "artist": "Charles Lloyd Quartet",
+    "isrc": "DEB330917605"
+  },
+  {
+    "title": "Blue and Brown",
+    "artist": "Clifford Brown Quartet",
+    "isrc": "FRZ195300680"
+  },
+  {
+    "title": "Romaria",
+    "artist": "Andy Sheppard Quartet",
+    "isrc": "DEB331757703"
+  },
+  {
+    "title": "Always Say Goodbye",
+    "artist": "Charlie Haden Quartet West",
+    "isrc": "FRZ029302140"
+  },
+  {
+    "title": "Daddy Plays the Horn",
+    "artist": "Dexter Gordon Quartet",
+    "isrc": "ITN731018977"
+  },
+  {
+    "title": "Dry Mountain",
+    "artist": "Maciej Obara Quartet",
+    "isrc": "DEB332277801"
+  },
+  {
+    "title": "Innocence",
+    "artist": "Keith Jarrett, Keith Jarrett Quartet",
+    "isrc": "DEB337938204"
+  },
+  {
+    "title": "Conclusion",
+    "artist": "Tomasz Stanko New York Quartet",
+    "isrc": "DEB331653202"
+  },
+  {
+    "title": "Charlie",
+    "artist": "Oscar Peterson Quartet",
+    "isrc": "USFI87900060"
+  },
+  {
+    "title": "Blinuet",
+    "artist": "Zoot Sims Quartet",
+    "isrc": "USWWW0202613"
+  },
+  {
+    "title": "Eu E Voco - Live At Café Au Go-Go,1964",
+    "artist": "The New Stan Getz Quartet, Astrud Gilberto",
+    "isrc": "USF096400280"
+  },
+  {
+    "title": "Listen Here",
+    "artist": "The Gene Harris Quartet",
+    "isrc": "USC4R0302182"
+  },
+  {
+    "title": "John Coltrane",
+    "artist": "Clifford Jordan Quartet",
+    "isrc": "uscgh1352145"
+  },
+  {
+    "title": "Whispering",
+    "artist": "Benny Goodman Quartet",
+    "isrc": "USBB10100323"
+  },
+  {
+    "title": "Jive Coffee",
+    "artist": "Peter Bernstein Quartet",
+    "isrc": "NLGZ20900593"
+  },
+  {
+    "title": "Atlas of Butterflies: III. Adonis Blue",
+    "artist": "Krzysztof Lenczowski, Atom String Quartet",
+    "isrc": "PLA552301076"
+  },
+  {
+    "title": "Woodwind",
+    "artist": "Jan Harbeck Quartet",
+    "isrc": "DKBDB2202006"
+  },
+  {
+    "title": "Walking",
+    "artist": "Sokratis Sinopoulos Quartet",
+    "isrc": "DEB331863106"
+  },
+  {
+    "title": "Mystical Dream",
+    "artist": "Roland Kirk Quartet",
+    "isrc": "USGR10200434"
+  },
+  {
+    "title": "Airegin",
+    "artist": "Chris Potter Quartet, Kevin Hays, Doug Weiss, Al Foster",
+    "isrc": "NLGZ20900670"
+  },
+  {
+    "title": "Hal's Blues",
+    "artist": "World Saxophone Quartet",
+    "isrc": "CAJ220622171"
+  },
+  {
+    "title": "Lonn",
+    "artist": "Lund Quartet",
+    "isrc": "GBGLW1300005"
+  },
+  {
+    "title": "2014",
+    "artist": "Mark Guiliana Jazz Quartet",
+    "isrc": "QMEU31505274"
+  },
+  {
+    "title": "Prickly Pear",
+    "artist": "Portico Quartet",
+    "isrc": "GBVEN1000037"
+  },
+  {
+    "title": "Delta City Blues",
+    "artist": "Michael Brecker Quartet",
+    "isrc": "USGR19800001"
+  },
+  {
+    "title": "Heaven on My Mind",
+    "artist": "Yuri Honing Acoustic Quartet",
+    "isrc": "NLB152300390"
+  },
+  {
+    "title": "When You Wish Upon A Star",
+    "artist": "Eddie Higgins Quartet, Scott Hamilton",
+    "isrc": "JPI291053809"
+  },
+  {
+    "title": "Iberian Sunrise",
+    "artist": "Rhythm Future Quartet",
+    "isrc": "uscgh1626582"
+  },
+  {
+    "title": "Crossroads",
+    "artist": "Turtle Island String Quartet",
+    "isrc": "USWH19001025"
+  },
+  {
+    "title": "Nuit blanche",
+    "artist": "Tarkovsky Quartet, François Couturier, Anja Lechner",
+    "isrc": "DEB331652402"
+  },
+  {
+    "title": "Movement I, Pt. IV",
+    "artist": "The Classical Jazz Quartet, Kenny Barron, Ron Carter, Stefon Harris, Lewis Nash",
+    "isrc": "CH6321401181"
+  },
+  {
+    "title": "Simplicated",
+    "artist": "The Gonzalo Bergara Quartet",
+    "isrc": "uscgh1184649"
+  },
+  {
+    "title": "Here's That Rainy Day",
+    "artist": "SE-Quartet, David Ehrlin, Rasmus H Thomsen, Krydda Sundström, Antti Ojala",
+    "isrc": "AUGBT2355257"
+  },
+  {
+    "title": "Shifts",
+    "artist": "Morten Haxholm Quartet",
+    "isrc": "DKDK31400804"
+  },
+  {
+    "title": "The Thrill Is Gone",
+    "artist": "Archie Shepp Quartet",
+    "isrc": "JPI291056301"
+  },
+  {
+    "title": "Bossa Rocka",
+    "artist": "The George Benson Quartet",
+    "isrc": "USSM10102017"
+  },
+  {
+    "title": "You're Driving Me Crazy",
+    "artist": "Joe Pass Quartet",
+    "isrc": "AUXN22232770"
+  },
+  {
+    "title": "Delja Rude",
+    "artist": "Elina Duni Quartet",
+    "isrc": "DEB331440106"
+  },
+  {
+    "title": "Indiana - Back Home Again in Indiana",
+    "artist": "Sonny Criss Quartet, Wynton Kelly",
+    "isrc": "ES7710731807"
+  },
+  {
+    "title": "Old Devil Moon",
+    "artist": "Brazilian Jazz Quartet",
+    "isrc": "QMDA61526586"
+  },
+  {
+    "title": "Night and Day",
+    "artist": "Andy Aitchison Quartet",
+    "isrc": "GBHSZ1100090"
+  },
+  {
+    "title": "Blue Star",
+    "artist": "Arne Domnérus Quartet, Jan Lundgren",
+    "isrc": "SEBJA0203040"
+  },
+  {
+    "title": "On the sunny side of the street (The Blues Hot And Cold)",
+    "artist": "Bob Brookmeyer Quartet",
+    "isrc": "ADA011000901"
+  },
+  {
+    "title": "Broadway Song",
+    "artist": "Claude Tissendier Quartet",
+    "isrc": "FR6V80315581"
+  },
+  {
+    "title": "Not so Easy",
+    "artist": "Cédric Bovet Quartet",
+    "isrc": "CH1880007112"
+  },
+  {
+    "title": "Blame It On My Youth",
+    "artist": "Daniel Schenker Quartet, Chris Cheek",
+    "isrc": "USA560886371"
+  },
+  {
+    "title": "I'll Be Seeing You",
+    "artist": "Ellen Andersson",
+    "isrc": "SEBBA1600605"
+  },
+  {
+    "title": "Soon",
+    "artist": "Fraser Macpherson Quartet",
+    "isrc": "CAJ229201480"
+  },
+  {
+    "title": "Bloom",
+    "artist": "Gianni Basso Quartet",
+    "isrc": "ITB267500170"
+  },
+  {
+    "title": "September In The Rain",
+    "artist": "Harold Ashby Quartet",
+    "isrc": "NLGZ20902016"
+  },
+  {
+    "title": "New York, New York",
+    "artist": "Jazz Quartet",
+    "isrc": "ES18B1501487"
+  },
+  {
+    "title": "A Little Rhythm",
+    "artist": "Moritz Peter Quartet",
+    "isrc": "USA370977206"
+  },
+  {
+    "title": "Sweet Georgia Brown",
+    "artist": "Oscar Klein Quartet",
+    "isrc": "DEAT71106312"
+  },
+  {
+    "title": "Old Folks - Live",
+    "artist": "Passport Quartet, Jean Bernard Oury, Jean Michel Orcel, Stéphane Massé & Alain Antoni",
+    "isrc": "FR6V81646885"
+  },
+  {
+    "title": "Love Me or Leave Me - 1958",
+    "artist": "Ralph Sharon Quartet",
+    "isrc": "DEBL61296782"
+  },
+  {
+    "title": "Texas Moaner",
+    "artist": "Robi Weber Quartet, Nubia",
+    "isrc": "USA560684195"
+  },
+  {
+    "title": "And That I Am So In Love",
+    "artist": "Rolf Häsler Quartet",
+    "isrc": "USA560684161"
+  },
+  {
+    "title": "Mean to Me",
+    "artist": "Ruby Braff Quartet",
+    "isrc": "QMSGD1330247"
+  },
+  {
+    "title": "Trane's Dream",
+    "artist": "Schneeberger-Schürmann Quartett",
+    "isrc": "CH0270814890"
+  },
+  {
+    "title": "Look to the Sky",
+    "artist": "Simon Wyrsch Quartet",
+    "isrc": "CH1880621207"
+  },
+  {
+    "title": "I'm Not Here",
+    "artist": "Soul Quality Quartet",
+    "isrc": "ITI020400078"
+  },
+  {
+    "title": "Blues All The Time",
+    "artist": "Steve Nelson Quartet, Steve Nelson, Mulgrew Miller, Ray Drummond, Tony Reedus",
+    "isrc": "NLGZ20900196"
+  },
+  {
+    "title": "Hurricane Iniki",
+    "artist": "The Gabe Baltazar Quartet",
+    "isrc": "US99P0514623"
+  },
+  {
+    "title": "Soul Trane",
+    "artist": "The James Moody and Hank Jones Quartet",
+    "isrc": "US89R0814829"
+  },
+  {
+    "title": "Now's The Time",
+    "artist": "Charlie Parker Quartet",
+    "isrc": "USPR35300025"
+  },
+  {
+    "title": "Nancy (With The Laughing Face)",
+    "artist": "John Coltrane Quartet",
+    "isrc": "USMC16252383"
+  },
+  {
+    "title": "Bernie's Tune",
+    "artist": "Gerry Mulligan Quartet",
+    "isrc": "USBN29000317"
+  },
+  {
+    "title": "Taking A Chance On Love",
+    "artist": "Sonny Stitt Quartet",
+    "isrc": "USFI85000051"
+  },
+  {
+    "title": "When Your Lover Has Gone",
+    "artist": "Sonny Rollins Quartet",
+    "isrc": "USFI85600264"
+  },
+  {
+    "title": "Quintessence",
+    "artist": "Coleman Hawkins Quartet",
+    "isrc": "USMC16249019"
+  },
+  {
+    "title": "Long Ago (And Far Away) - 10\" LP Take",
+    "artist": "Chet Baker Quartet, Russ Freeman",
+    "isrc": "USBN29700855"
+  },
+  {
+    "title": "Vendome",
+    "artist": "The Modern Jazz Quartet",
+    "isrc": "USAT20105672"
+  },
+  {
+    "title": "When the Lights Are Now",
+    "artist": "Miles Davis Quartet",
+    "isrc": "NLHR52100994"
+  },
+  {
+    "title": "Too Close For Comfort",
+    "artist": "Stan Getz Quartet",
+    "isrc": "USPR35770351"
+  },
+  {
+    "title": "Defiant, Tender Warrior",
+    "artist": "Charles Lloyd",
+    "isrc": "USUG12307225"
+  },
+  {
+    "title": "Sweet Sorrow",
+    "artist": "Joshua Redman Quartet",
+    "isrc": "USWB10101669"
+  },
+  {
+    "title": "Blue Rondo à la Turk",
+    "artist": "The Dave Brubeck Quartet",
+    "isrc": "USSM15900106"
+  },
+  {
+    "title": "Wendy - Live At Bourbon Street, Toronto, Canada/1975",
+    "artist": "Paul Desmond Quartet",
+    "isrc": "USGR10000425"
+  },
+  {
+    "title": "Evidence - Live At Carnegie Hall, New York/1957",
+    "artist": "Thelonious Monk Quartet, John Coltrane",
+    "isrc": "USBN20500234"
+  },
+  {
+    "title": "The Whopper",
+    "artist": "Gary Burton Quartet, Eberhard Weber",
+    "isrc": "DEB337609203"
+  },
+  {
+    "title": "Some Other Spring",
+    "artist": "Roy Haynes Quartet",
+    "isrc": "USMC16247621"
+  },
+  {
+    "title": "Flipside",
+    "artist": "John Abercrombie Quartet",
+    "isrc": "DEB331652802"
+  },
+  {
+    "title": "Song for Sarah",
+    "artist": "Tomasz Stanko Quartet",
+    "isrc": "DEB330465002"
+  },
+  {
+    "title": "Four Winds",
+    "artist": "Dave Holland Quartet",
+    "isrc": "DEB337202701"
+  },
+  {
+    "title": "Just Knock On My Door",
+    "artist": "Art Blakey Quartet",
+    "isrc": "USMC16355248"
+  },
+  {
+    "title": "The Gift",
+    "artist": "Tord Gustavsen Quartet",
+    "isrc": "DEB331335804"
+  },
+  {
+    "title": "Muldoon",
+    "artist": "Branford Marsalis Quartet",
+    "isrc": "USMMX0430906"
+  },
+  {
+    "title": "Sombrero Sam",
+    "artist": "Charles Lloyd Quartet",
+    "isrc": "USAT20108133"
+  },
+  {
+    "title": "It Might as Well Be Spring - Master Take 1",
+    "artist": "Clifford Brown Quartet",
+    "isrc": "FRZ195300760"
+  },
+  {
+    "title": "I Want To Vanish",
+    "artist": "Andy Sheppard Quartet",
+    "isrc": "DEB331443202"
+  },
+  {
+    "title": "If I'm Lucky",
+    "artist": "Charlie Haden Quartet West, Melody Gardot",
+    "isrc": "GBUM71027085"
+  },
+  {
+    "title": "Confirmation",
+    "artist": "Dexter Gordon Quartet",
+    "isrc": "QMSGD1370025"
+  },
+  {
+    "title": "One For",
+    "artist": "Maciej Obara Quartet",
+    "isrc": "DEB331757302"
+  },
+  {
+    "title": "Late Night Willie",
+    "artist": "Keith Jarrett, Keith Jarrett Quartet",
+    "isrc": "DEB337938205"
+  },
+  {
+    "title": "Cloud",
+    "artist": "Tomasz Stanko New York Quartet",
+    "isrc": "DEB331653201"
+  },
+  {
+    "title": "Solar Winds",
+    "artist": "Oscar Peterson Quartet",
+    "isrc": "USFI87900056"
+  },
+  {
+    "title": "Zootcase",
+    "artist": "Zoot Sims Quartet",
+    "isrc": "DETL61605900"
+  },
+  {
+    "title": "It Might As Well Be Spring - Live At Café Au Go-Go,1964",
+    "artist": "The New Stan Getz Quartet, Astrud Gilberto",
+    "isrc": "USF096400270"
+  },
+  {
+    "title": "This Masquerade",
+    "artist": "The Gene Harris Quartet",
+    "isrc": "USC4R0302179"
+  },
+  {
+    "title": "Eddie Harris",
+    "artist": "Clifford Jordan Quartet",
+    "isrc": "uscgh1352146"
+  },
+  {
+    "title": "Tea for Two - 1996 Remastered",
+    "artist": "Benny Goodman Quartet",
+    "isrc": "USBB19601144"
+  },
+  {
+    "title": "Nobody Else But Me",
+    "artist": "Peter Bernstein Quartet",
+    "isrc": "NLGZ20900598"
+  },
+  {
+    "title": "String Quartet No. 1 \"Atomizations\": I. Interference",
+    "artist": "Dawid Lubowicz, Atom String Quartet",
+    "isrc": "PLA552301070"
+  },
+  {
+    "title": "Dawn",
+    "artist": "Sokratis Sinopoulos Quartet",
+    "isrc": "DEB331863107"
+  },
+  {
+    "title": "Serenade To A Cuckoo",
+    "artist": "Roland Kirk Quartet",
+    "isrc": "USPR36486880"
+  },
+  {
+    "title": "One Fine Day",
+    "artist": "Jan Harbeck Quartet",
+    "isrc": "DKBDB2202002"
+  },
+  {
+    "title": "Body and Soul",
+    "artist": "Chris Potter Quartet, Kevin Hays, Doug Weiss, Al Foster",
+    "isrc": "NLGZ20900673"
+  },
+  {
+    "title": "Amazin' Disgrace",
+    "artist": "World Saxophone Quartet",
+    "isrc": "CAJ220622204"
+  },
+  {
+    "title": "Tulipan",
+    "artist": "Lund Quartet",
+    "isrc": "GBGLW1300004"
+  },
+  {
+    "title": "From You",
+    "artist": "Mark Guiliana Jazz Quartet",
+    "isrc": "QMEU31505272"
+  },
+  {
+    "title": "Pompidou",
+    "artist": "Portico Quartet",
+    "isrc": "GBVEN1000036"
+  },
+  {
+    "title": "Madame Toulouse",
+    "artist": "Michael Brecker Quartet",
+    "isrc": "USGR19800002"
+  },
+  {
+    "title": "Desire",
+    "artist": "Yuri Honing Acoustic Quartet, Wolfert Brederode, Joost Lijbaart, Gulli Gudmundsson, Yuri Honing",
+    "isrc": "QM6N21475225"
+  },
+  {
+    "title": "Melancholy Rhapsody",
+    "artist": "Eddie Higgins Quartet, Scott Hamilton",
+    "isrc": "JPI291053801"
+  },
+  {
+    "title": "Solitude",
+    "artist": "Rhythm Future Quartet, Greg Loughman, Jason Anick, Max O'Rourke, Olli Soikkeli, Cyrille Aimee",
+    "isrc": "QM9E61800003"
+  },
+  {
+    "title": "Little One Mine - Ghana",
+    "artist": "Turtle Island String Quartet",
+    "isrc": "USWH19701203"
+  },
+  {
+    "title": "Soleil sous la pluie",
+    "artist": "Tarkovsky Quartet, François Couturier, Anja Lechner",
+    "isrc": "DEB331652404"
+  },
+  {
+    "title": "Air",
+    "artist": "The Classical Jazz Quartet, Kenny Barron, Ron Carter, Stefon Harris, Lewis Nash",
+    "isrc": "CH6321401762"
+  },
+  {
+    "title": "Broken",
+    "artist": "The Gonzalo Bergara Quartet",
+    "isrc": "uscgh1184652"
+  },
+  {
+    "title": "Song for Paris",
+    "artist": "SE-Quartet, David Ehrlin, Rasmus H Thomsen, Antti Ojala, Martin Sundström",
+    "isrc": "SEBAA1700104"
+  },
+  {
+    "title": "Stella by Starlight",
+    "artist": "Morten Haxholm, Lage Lund, Morten Lund, William Larsson",
+    "isrc": "DKUL71500103"
+  },
+  {
+    "title": "Cry Me A River",
+    "artist": "Archie Shepp Quartet",
+    "isrc": "JPI291064705"
+  },
+  {
+    "title": "The Cooker",
+    "artist": "The George Benson Quartet",
+    "isrc": "USSM10102015"
+  },
+  {
+    "title": "On Time",
+    "artist": "Joe Pass Quartet",
+    "isrc": "AUXN22232773"
+  },
+  {
+    "title": "Fëllënza",
+    "artist": "Elina Duni Quartet",
+    "isrc": "DEB331440101"
+  },
+  {
+    "title": "Butts Delight",
+    "artist": "Sonny Criss Quartet, Wynton Kelly",
+    "isrc": "ES7710731804"
+  },
+  {
+    "title": "Star Eyes - Incomplete",
+    "artist": "Charlie Parker Quartet",
+    "isrc": "USUM71604831"
+  },
+  {
+    "title": "Say It (Over And Over Again)",
+    "artist": "John Coltrane Quartet",
+    "isrc": "USMC16211166"
+  },
+  {
+    "title": "Walkin' Shoes",
+    "artist": "Gerry Mulligan Quartet",
+    "isrc": "USBN25200006"
+  },
+  {
+    "title": "All Of Me",
+    "artist": "Sonny Stitt Quartet",
+    "isrc": "USUM71903953"
+  },
+  {
+    "title": "My Reverie",
+    "artist": "Sonny Rollins Quartet",
+    "isrc": "USFI85600266"
+  },
+  {
+    "title": "Don't Love Me",
+    "artist": "Coleman Hawkins Quartet",
+    "isrc": "USMC16249020"
+  },
+  {
+    "title": "Long Ago (And Far Away) - 12\" LP Take",
+    "artist": "Chet Baker Quartet, Russ Freeman",
+    "isrc": "USBN29700856"
+  },
+  {
+    "title": "One Bass Hit",
+    "artist": "The Modern Jazz Quartet",
+    "isrc": "USFI85500280"
+  },
+  {
+    "title": "Blue Haze",
+    "artist": "Miles Davis Quartet",
+    "isrc": "NLHR52101006"
+  },
+  {
+    "title": "There Will Never Be Another You",
+    "artist": "Stan Getz Quartet",
+    "isrc": "USGR19906525"
+  },
+  {
+    "title": "Ramblin'",
+    "artist": "Charles Lloyd",
+    "isrc": "USUG12004773"
+  },
+  {
+    "title": "Chill",
+    "artist": "Joshua Redman Quartet",
+    "isrc": "USWB10101670"
+  },
+  {
+    "title": "Strange Meadow Lark",
+    "artist": "The Dave Brubeck Quartet",
+    "isrc": "USSM15900107"
+  },
+  {
+    "title": "Susie",
+    "artist": "Paul Desmond Quartet, Jim Hall",
+    "isrc": "BEDO61517387"
+  },
+  {
+    "title": "Light Blue - Live At The Five Spot / August 7, 1958",
+    "artist": "Thelonious Monk Quartet, Johnny Griffin",
+    "isrc": "USFI85800180"
+  },
+  {
+    "title": "Coral",
+    "artist": "Gary Burton Quartet",
+    "isrc": "DEB337303002"
+  },
+  {
+    "title": "Moon Ray",
+    "artist": "Roy Haynes Quartet",
+    "isrc": "USMC16247615"
+  },
+  {
+    "title": "Joy",
+    "artist": "John Abercrombie Quartet",
+    "isrc": "DEB331652801"
+  },
+  {
+    "title": "Tales For A Girl, 12",
+    "artist": "Tomasz Stanko Quartet",
+    "isrc": "DEB339454404"
+  },
+  {
+    "title": "Q & A",
+    "artist": "Dave Holland Quartet",
+    "isrc": "DEB337202702"
+  },
+  {
+    "title": "Cafe",
+    "artist": "Art Blakey Quartet",
+    "isrc": "USMC16355247"
+  },
+  {
+    "title": "Circling",
+    "artist": "Tord Gustavsen Quartet",
+    "isrc": "DEB331123705"
+  },
+  {
+    "title": "The Ruby and The Pearl",
+    "artist": "Branford Marsalis Quartet",
+    "isrc": "USMMX0430901"
+  },
+  {
+    "title": "I Fall in Love Too Easily",
+    "artist": "Charles Lloyd Quartet",
+    "isrc": "DEB330917601"
+  },
+  {
+    "title": "You're a Lucky Guy - Master Take 1",
+    "artist": "Clifford Brown Quartet",
+    "isrc": "FRZ195300780"
+  },
+  {
+    "title": "Origin Of Species",
+    "artist": "Andy Sheppard Quartet",
+    "isrc": "DEB331443204"
+  },
+  {
+    "title": "Ill Wind",
+    "artist": "Charlie Haden Quartet West, Norah Jones",
+    "isrc": "GBUM71027086"
+  },
+  {
+    "title": "Autumn in New York",
+    "artist": "Dexter Gordon Quartet",
+    "isrc": "ITN731018974"
+  },
+  {
+    "title": "Frozen Silence",
+    "artist": "Maciej Obara Quartet",
+    "isrc": "DEB332277803"
+  },
+  {
+    "title": "December Avenue",
+    "artist": "Tomasz Stanko New York Quartet",
+    "isrc": "DEB331653209"
+  }
+]

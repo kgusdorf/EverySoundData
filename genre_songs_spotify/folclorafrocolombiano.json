@@ -1,0 +1,667 @@
+[
+  {
+    "title": "Te Vengo a Cantar",
+    "artist": "Grupo Bahia",
+    "isrc": "US7VG1449236"
+  },
+  {
+    "title": "Tío Guachupesito",
+    "artist": "Canalón de Timbiquí",
+    "isrc": "US7VG1858738"
+  },
+  {
+    "title": "A Pilá el Arró",
+    "artist": "Etelvina Maldonado",
+    "isrc": "ES71G1409088"
+  },
+  {
+    "title": "Azul",
+    "artist": "Maria Mulata",
+    "isrc": "QZHZ42152005"
+  },
+  {
+    "title": "Vení",
+    "artist": "La Pacifican Power",
+    "isrc": "QZ5AB1960564"
+  },
+  {
+    "title": "El botellón (The Jug)",
+    "artist": "Grupo Naidy",
+    "isrc": "USSF10651401"
+  },
+  {
+    "title": "La Vida Vale la Pena",
+    "artist": "Petrona Martinez",
+    "isrc": "ES71G1406526"
+  },
+  {
+    "title": "El Pondito",
+    "artist": "Los Gaiteros de San Jacinto",
+    "isrc": "TCABK1211027"
+  },
+  {
+    "title": "La Maldita Vieja",
+    "artist": "Las Alegres Ambulancias",
+    "isrc": "DEAF71578531"
+  },
+  {
+    "title": "Entre Patía y Sanquianga (Remix)",
+    "artist": "Agrupacion Changó, Prieto Riddiman",
+    "isrc": "COA9Y2000031"
+  },
+  {
+    "title": "El Palo de Dibi Dibe",
+    "artist": "Sexteto Tabala",
+    "isrc": "DEAF71478548"
+  },
+  {
+    "title": "Oílo",
+    "artist": "La Mambanegra",
+    "isrc": "UKXN22099911"
+  },
+  {
+    "title": "Mi Sueño",
+    "artist": "Esteban Copete y su Kinteto Pacifico, Vicente Garcia",
+    "isrc": "US7VG1780352"
+  },
+  {
+    "title": "El tropel",
+    "artist": "Curupira",
+    "isrc": "MX3741900441"
+  },
+  {
+    "title": "No Mas Velorio",
+    "artist": "Plu Con Pla",
+    "isrc": "ITH641811044"
+  },
+  {
+    "title": "A Golpe de Tambó",
+    "artist": "Palmeras de Urabá",
+    "isrc": "MX3741501884"
+  },
+  {
+    "title": "En Mi Tierra Tocan Bombo",
+    "artist": "Espíritu Balanta y Estrellas de Timbiquí",
+    "isrc": "usdy41999778"
+  },
+  {
+    "title": "Primitivo",
+    "artist": "Grupo Gualajo",
+    "isrc": "US7VG1686081"
+  },
+  {
+    "title": "Ni Frito Ni Asao",
+    "artist": "Tumbacatre",
+    "isrc": "US7VG1776787"
+  },
+  {
+    "title": "Batea",
+    "artist": "Bejuco",
+    "isrc": "COA9Y2100004"
+  },
+  {
+    "title": "Polka",
+    "artist": "Alexis Play",
+    "isrc": "GBMA22099246"
+  },
+  {
+    "title": "Bogando",
+    "artist": "Semblanzas del Rio Guapi",
+    "isrc": "COA9Y2100014"
+  },
+  {
+    "title": "Macaco Mata el Toro",
+    "artist": "Batata Y Su Rumba Palenquera, Rigo Star, 3615 Code Niawu",
+    "isrc": "DEAF71481925"
+  },
+  {
+    "title": "Mujer Divina",
+    "artist": "Salsangroove",
+    "isrc": "QZ5AB1619472"
+  },
+  {
+    "title": "Ma Kuagro",
+    "artist": "Kombilesa Mi",
+    "isrc": "US7VG1631455"
+  },
+  {
+    "title": "Bambuquísimo",
+    "artist": "Guafa Trío",
+    "isrc": "US7VG1629641"
+  },
+  {
+    "title": "La Verdolaga",
+    "artist": "Totó La Momposina",
+    "isrc": "ES71G1408153"
+  },
+  {
+    "title": "Sukunduku",
+    "artist": "La Contundencia",
+    "isrc": "QZ5AB1724392"
+  },
+  {
+    "title": "Sun a Shine",
+    "artist": "Elkin Robinson",
+    "isrc": "US7VG1766279"
+  },
+  {
+    "title": "Todo Con Coco",
+    "artist": "Malecon, Nidia Gongora",
+    "isrc": "COGY11400214"
+  },
+  {
+    "title": "Ya no sé",
+    "artist": "Toño Barrio, La-33",
+    "isrc": "UKC342100304"
+  },
+  {
+    "title": "Sabrás",
+    "artist": "Herencia de Timbiqui",
+    "isrc": "US7VG1445468"
+  },
+  {
+    "title": "Sabor a Gaita (Cumbia)",
+    "artist": "Gaitas y Tambores",
+    "isrc": "COFC10200449"
+  },
+  {
+    "title": "El Pescador",
+    "artist": "Afrotumbao",
+    "isrc": "US7VG1548872"
+  },
+  {
+    "title": "Chicharron Peluo",
+    "artist": "La Cumbiamba Eneyé",
+    "isrc": "ushm20610222"
+  },
+  {
+    "title": "Soy Negra",
+    "artist": "Tamafri",
+    "isrc": "US7VG1629778"
+  },
+  {
+    "title": "Somos Pacíficos",
+    "artist": "Banda La República",
+    "isrc": "XXIMU1000238"
+  },
+  {
+    "title": "Juanita la Chismosa",
+    "artist": "El Caribefunk",
+    "isrc": "TCACI1582882"
+  },
+  {
+    "title": "Aya (Espíritu)",
+    "artist": "Bambarabanda",
+    "isrc": "COA921800201"
+  },
+  {
+    "title": "Cumbia Espacial",
+    "artist": "Ondatrópica",
+    "isrc": "GBUQH1200083"
+  },
+  {
+    "title": "La Negra Que Canta y Baila",
+    "artist": "Inés Granja- La Voz de la Marimba",
+    "isrc": "QZGLM2195448"
+  },
+  {
+    "title": "Guataquí - Berroche",
+    "artist": "Martina Camargo",
+    "isrc": "ushm20970806"
+  },
+  {
+    "title": "Bambazú",
+    "artist": "Liliana Montes",
+    "isrc": "FR2X41545824"
+  },
+  {
+    "title": "Adiós Morena - Nicola Cruz Remix",
+    "artist": "Rio Mira",
+    "isrc": "GBGLW1600175"
+  },
+  {
+    "title": "¿Quién los mató?",
+    "artist": "Hendrix, Alexis Play, Junior Jein, Nidia Gongora",
+    "isrc": "UKXN21933104"
+  },
+  {
+    "title": "Acabación de Orlando Yepes",
+    "artist": "Gaitas y Tambores de San Jacinto",
+    "isrc": "QZNW72202225"
+  },
+  {
+    "title": "Bandolita",
+    "artist": "Ensamble Tríptico",
+    "isrc": "ushm91222666"
+  },
+  {
+    "title": "El Dembou",
+    "artist": "La Mojarra Eléctrica",
+    "isrc": "QM6MZ1727647"
+  },
+  {
+    "title": "Los Sabanales",
+    "artist": "Los Corraleros De Majagual, Calixto Ochoa",
+    "isrc": "COF019500952"
+  },
+  {
+    "title": "Dónde Estás",
+    "artist": "Comadre Araña",
+    "isrc": "ushm20877194"
+  },
+  {
+    "title": "Mama Africa - The Busy Twist Remix",
+    "artist": "Colombiafrica, Louis Towers, Busy Twist, Zongo Abongo",
+    "isrc": "ITH641611210"
+  },
+  {
+    "title": "Brisa",
+    "artist": "Aguasala",
+    "isrc": "MX3741500632"
+  },
+  {
+    "title": "Me Robaste el Sueño",
+    "artist": "Mama Julia y los Sonidos Ambulantes, Martina Camargo",
+    "isrc": "US7VG1591396"
+  },
+  {
+    "title": "Mi Cultura",
+    "artist": "Kilates, Nidia Gongora",
+    "isrc": "US7VG1793452"
+  },
+  {
+    "title": "El Vendeor",
+    "artist": "La Makina del Karibe",
+    "isrc": "NLRD51432989"
+  },
+  {
+    "title": "Llanero si soy llanero",
+    "artist": "Cholo Valderrama",
+    "isrc": "USCGH1248394"
+  },
+  {
+    "title": "Homenaje a Justino",
+    "artist": "Grupo Socavon",
+    "isrc": "FR6F31468030"
+  },
+  {
+    "title": "Soledad",
+    "artist": "Toto La Momposina Y Sus Tambores",
+    "isrc": "GBCPA0700076"
+  },
+  {
+    "title": "La Puya en Bombardino",
+    "artist": "Banda 26 de Abril",
+    "isrc": "QZ5AB1760069"
+  },
+  {
+    "title": "Perra Vida",
+    "artist": "Cabuya, Nuevas Músicas Colombianas",
+    "isrc": "ES71G1400697"
+  },
+  {
+    "title": "Oye Tomas - Chalupa",
+    "artist": "Emilsen Pacheco y su bullerengue tradicional de San Juan de Uraba",
+    "isrc": "PEBQ91609584"
+  },
+  {
+    "title": "Te Vengo a Cantar",
+    "artist": "Ensamble Sinsonte, Hugo Candelario González",
+    "isrc": "FR2X41640796"
+  },
+  {
+    "title": "Marimba Eeh",
+    "artist": "Ines Granja",
+    "isrc": "QZMZ92070341"
+  },
+  {
+    "title": "Rosa",
+    "artist": "Magín Díaz, Carlos Vives, Totó La Momposina",
+    "isrc": "usdy41728898"
+  },
+  {
+    "title": "La cumbia isleña, cumbia",
+    "artist": "Paito y los Gaiteros de Punta Brava",
+    "isrc": "PEBQ91609548"
+  },
+  {
+    "title": "Yo Me Llamo Cumbia",
+    "artist": "Toto La Mamposina",
+    "isrc": "USV351443985"
+  },
+  {
+    "title": "Kilele",
+    "artist": "Grupo Bahia",
+    "isrc": "US7VG1449268"
+  },
+  {
+    "title": "Quítate de Mi Escalera",
+    "artist": "Canalón de Timbiquí",
+    "isrc": "COA9Y1800102"
+  },
+  {
+    "title": "Que se Quema el Monte",
+    "artist": "Etelvina Maldonado",
+    "isrc": "ES71G1409094"
+  },
+  {
+    "title": "Idas y Vueltas",
+    "artist": "Maria Mulata, Maite Hontelé",
+    "isrc": "QZ5AB1773884"
+  },
+  {
+    "title": "De Mar a Mar",
+    "artist": "La Pacifican Power",
+    "isrc": "QZGLM1981853"
+  },
+  {
+    "title": "A Tumaco Lo Quemaron",
+    "artist": "Grupo Naidy",
+    "isrc": "uscgj1163050"
+  },
+  {
+    "title": "Tierra Santa",
+    "artist": "Petrona Martinez",
+    "isrc": "ES71G1406528"
+  },
+  {
+    "title": "Fanny Rosa",
+    "artist": "Los Gaiteros de San Jacinto",
+    "isrc": "COA9Y2200056"
+  },
+  {
+    "title": "Rondas Palenqueras",
+    "artist": "Las Alegres Ambulancias",
+    "isrc": "QZ5AB1868194"
+  },
+  {
+    "title": "Manglares, Selva y Río",
+    "artist": "Agrupacion Changó",
+    "isrc": "COA9Y2000014"
+  },
+  {
+    "title": "La Reina de los Jardines",
+    "artist": "Sexteto Tabala",
+    "isrc": "DEAF71478533"
+  },
+  {
+    "title": "El Sabor de la Guayaba",
+    "artist": "La Mambanegra, Santiago Jiménez",
+    "isrc": "US7VG2469441"
+  },
+  {
+    "title": "Cumbia Viajera",
+    "artist": "Curupira, Juanafé",
+    "isrc": "MX3742000787"
+  },
+  {
+    "title": "Tu",
+    "artist": "Esteban Copete y su Kinteto Pacifico, Catalina García",
+    "isrc": "US7VG1779565"
+  },
+  {
+    "title": "La Plumuda Llegó",
+    "artist": "Plu Con Pla",
+    "isrc": "CAN132200261"
+  },
+  {
+    "title": "Lorito Fino",
+    "artist": "Palmeras de Urabá",
+    "isrc": "MX3741501888"
+  },
+  {
+    "title": "Dos Cosas Tiene la Vida",
+    "artist": "Espíritu Balanta y Estrellas de Timbiquí",
+    "isrc": "usdy41999788"
+  },
+  {
+    "title": "Calavera Humana",
+    "artist": "Grupo Gualajo, Ezequiel Sinisterra",
+    "isrc": "US7VG1324490"
+  },
+  {
+    "title": "Chorizo",
+    "artist": "Tumbacatre",
+    "isrc": "US7VG1776783"
+  },
+  {
+    "title": "Agua",
+    "artist": "Bejuco",
+    "isrc": "COA9Y2100003"
+  },
+  {
+    "title": "Que Fluya - Remix",
+    "artist": "Alexis Play, El Jhomy, Mabiland",
+    "isrc": "GBMA21865270"
+  },
+  {
+    "title": "Yo-Po-No-Po Prieto Riddiman Remixes - Yo-Po-No-Po, Versión 1 - Prieto Riddiman Remix",
+    "artist": "Semblanzas del Rio Guapi, Prieto Riddiman",
+    "isrc": "QZHZ32219055"
+  },
+  {
+    "title": "Ataole",
+    "artist": "Batata Y Su Rumba Palenquera, Kassiva, Milton Mendoza, Makambile",
+    "isrc": "DEAF71481915"
+  },
+  {
+    "title": "Pedro Simón",
+    "artist": "Salsangroove",
+    "isrc": "QZ5AB1619477"
+  },
+  {
+    "title": "I Apiya Bó",
+    "artist": "Kombilesa Mi",
+    "isrc": "US7VG1963103"
+  },
+  {
+    "title": "Anita la Bogotana",
+    "artist": "Guafa Trío",
+    "isrc": "US7VG1681627"
+  },
+  {
+    "title": "El Rastrillo",
+    "artist": "La Contundencia",
+    "isrc": "QZHZ52202721"
+  },
+  {
+    "title": "Heaven on the Mountain",
+    "artist": "Elkin Robinson",
+    "isrc": "QZHZ32076530"
+  },
+  {
+    "title": "Al son que me toquen",
+    "artist": "Malecon",
+    "isrc": "COGY11400213"
+  },
+  {
+    "title": "Yo Me Llamo Cumbia",
+    "artist": "Totó La Momposina",
+    "isrc": "GBZUM0900805"
+  },
+  {
+    "title": "Figurín",
+    "artist": "Toño Barrio",
+    "isrc": "UKC342100301"
+  },
+  {
+    "title": "Te Invito",
+    "artist": "Herencia de Timbiqui",
+    "isrc": "US7VG1102186"
+  },
+  {
+    "title": "Popurrí Homenaje a los Gaiteros (Puyas) La Escoba - Maridita - La Camisola",
+    "artist": "Gaitas y Tambores",
+    "isrc": "COFC10200439"
+  },
+  {
+    "title": "Oyaimelo",
+    "artist": "Afrotumbao",
+    "isrc": "US7VG1548877"
+  },
+  {
+    "title": "Sombrerito Blanco",
+    "artist": "La Cumbiamba Eneyé",
+    "isrc": "US9RE1000002"
+  },
+  {
+    "title": "Machelito",
+    "artist": "Tamafri",
+    "isrc": "US7VG1629776"
+  },
+  {
+    "title": "Sur",
+    "artist": "Bambarabanda",
+    "isrc": "QM6MZ1570895"
+  },
+  {
+    "title": "Antonima",
+    "artist": "El Caribefunk",
+    "isrc": "TCACI1582884"
+  },
+  {
+    "title": "Pacífico",
+    "artist": "Inés Granja- La Voz de la Marimba, Inés Granja, Juan David Castaño, Juanita Sossa, Gabriela Sossa, María Barreiro",
+    "isrc": "QZHZ62023883"
+  },
+  {
+    "title": "Hummingbird",
+    "artist": "Ondatrópica",
+    "isrc": "GBUQH1500237"
+  },
+  {
+    "title": "Me Robaste El Sueño - Tambora",
+    "artist": "Martina Camargo",
+    "isrc": "ushm20968850"
+  },
+  {
+    "title": "Aguacerito Llové",
+    "artist": "Liliana Montes",
+    "isrc": "FR2X41545821"
+  },
+  {
+    "title": "Adiós Morena",
+    "artist": "Rio Mira",
+    "isrc": "GBGLW1600174"
+  },
+  {
+    "title": "Pa' ser feliz",
+    "artist": "Hendrix, Zalama Crew",
+    "isrc": "USDY42112736"
+  },
+  {
+    "title": "Una Razón",
+    "artist": "Grupo Bahia",
+    "isrc": "QZHZ32045271"
+  },
+  {
+    "title": "Camino Largo - El Búho Remix",
+    "artist": "El Búho, Grupo Canalon de Timbiqui",
+    "isrc": "USCCW1610853"
+  },
+  {
+    "title": "Déjala Llorar",
+    "artist": "Etelvina Maldonado",
+    "isrc": "ES71G1409095"
+  },
+  {
+    "title": "Café en Ollita",
+    "artist": "Maria Mulata",
+    "isrc": "TCABK1219838"
+  },
+  {
+    "title": "Mi Pueblo",
+    "artist": "La Pacifican Power",
+    "isrc": "QZNJY2236263"
+  },
+  {
+    "title": "Mi gallo corococó (My Rooster Crows)",
+    "artist": "Grupo Naidy",
+    "isrc": "USSF10651403"
+  },
+  {
+    "title": "Rama de Tamarindo",
+    "artist": "Petrona Martinez",
+    "isrc": "ES71G1406530"
+  },
+  {
+    "title": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
+    "artist": "Los Gaiteros de San Jacinto",
+    "isrc": "US7VG1717882"
+  },
+  {
+    "title": "La Cosita",
+    "artist": "Las Alegres Ambulancias",
+    "isrc": "QZ5AB1868189"
+  },
+  {
+    "title": "Entre Patía y Sanquianga",
+    "artist": "Agrupacion Changó",
+    "isrc": "COA9Y2000012"
+  },
+  {
+    "title": "Con un Solo Pie",
+    "artist": "Sexteto Tabala",
+    "isrc": "DEAF71478556"
+  },
+  {
+    "title": "Ojos Antiguos",
+    "artist": "La Mambanegra",
+    "isrc": "GBLFP2039314"
+  },
+  {
+    "title": "La cumbia de la mar (feat. Grupo Gualajo & Sixto Silgado Paíto)",
+    "artist": "Curupira, Grupo Gualajo, Sixto Silgado Paíto",
+    "isrc": "MX3741900446"
+  },
+  {
+    "title": "Mi Misión",
+    "artist": "Esteban Copete y su Kinteto Pacifico",
+    "isrc": "US7VG1942576"
+  },
+  {
+    "title": "Vos Sabés",
+    "artist": "Plu Con Pla",
+    "isrc": "SE6SA2129121"
+  },
+  {
+    "title": "Lloré, Lloré",
+    "artist": "Palmeras de Urabá",
+    "isrc": "MX3741501881"
+  },
+  {
+    "title": "Un Poquito de Agua",
+    "artist": "Espíritu Balanta y Estrellas de Timbiquí",
+    "isrc": "usdy41999780"
+  },
+  {
+    "title": "El Patacore",
+    "artist": "Grupo Gualajo",
+    "isrc": "QZHZ62062385"
+  },
+  {
+    "title": "Bagdad",
+    "artist": "Tumbacatre",
+    "isrc": "US7VG1776788"
+  },
+  {
+    "title": "Arrullo Party",
+    "artist": "Bejuco",
+    "isrc": "COA9Y2100007"
+  },
+  {
+    "title": "Horas",
+    "artist": "Alexis Play, Junior Zamora",
+    "isrc": "GX3Q92099389"
+  },
+  {
+    "title": "Abran la Puerta a la Paz",
+    "artist": "Semblanzas del Rio Guapi",
+    "isrc": "COA9Y2100020"
+  },
+  {
+    "title": "Arriba Voy, Abajo Vengo",
+    "artist": "Batata Y Su Rumba Palenquera",
+    "isrc": "DEAF71481916"
+  }
+]

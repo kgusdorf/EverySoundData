@@ -1,0 +1,777 @@
+[
+  {
+    "title": "A-Mar-É",
+    "artist": "Tata Chama & as Inflamáveis",
+    "isrc": "BRN4M1800005"
+  },
+  {
+    "title": "Amor Não",
+    "artist": "Laura Jannuzzi",
+    "isrc": "BRL301500029"
+  },
+  {
+    "title": "Um Exército pra Nós É Nada",
+    "artist": "Soul Rueiro",
+    "isrc": "BX8HG2200001"
+  },
+  {
+    "title": "Passarim",
+    "artist": "Trinca-Ferro",
+    "isrc": "BXDWJ1900002"
+  },
+  {
+    "title": "Astronauta",
+    "artist": "Clara Castro",
+    "isrc": "BXN392100005"
+  },
+  {
+    "title": "Haverá Axé",
+    "artist": "Roger Resende, Carlos Fernando Cunha",
+    "isrc": "BXZ3C1900003"
+  },
+  {
+    "title": "Tempo de Deus",
+    "artist": "RT Mallone, BRK Mallone",
+    "isrc": "BRIKV2000014"
+  },
+  {
+    "title": "Contato Glacial (Gelo)",
+    "artist": "BAAPZ",
+    "isrc": "BCOQ72200003"
+  },
+  {
+    "title": "Canção da Odalisca",
+    "artist": "Caetano Brasil",
+    "isrc": "BXCTE2100002"
+  },
+  {
+    "title": "Ballet",
+    "artist": "Legrand",
+    "isrc": "QZGLS1991527"
+  },
+  {
+    "title": "Numa Esquina Qualquer",
+    "artist": "Blend 87",
+    "isrc": "BXNHZ1700003"
+  },
+  {
+    "title": "Desacato",
+    "artist": "OBEY!",
+    "isrc": "BCMGR2100003"
+  },
+  {
+    "title": "Solta",
+    "artist": "Nathan Itaborahy, Clara Castro",
+    "isrc": "BXNHZ1900021"
+  },
+  {
+    "title": "Queria Morar Num Boteco",
+    "artist": "Ponto do Samba Juiz de Fora",
+    "isrc": "QZ5AB1742403"
+  },
+  {
+    "title": "CAOS",
+    "artist": "Laura Conceição",
+    "isrc": "BRTRB2092950"
+  },
+  {
+    "title": "Degradê em Lua Nova",
+    "artist": "Matilda, Bia Nascimento, Amanda Martins, Juliana Stanzani, Fabrícia Valle",
+    "isrc": "BRN4M1400001"
+  },
+  {
+    "title": "Gostosa",
+    "artist": "ETC",
+    "isrc": "BXHQF2000001"
+  },
+  {
+    "title": "O Sol, A Estrada",
+    "artist": "Martiataka",
+    "isrc": "SEYOK1947706"
+  },
+  {
+    "title": "Seu Doutô",
+    "artist": "Mauloa, Hugo de Castro",
+    "isrc": "BRTRB2019674"
+  },
+  {
+    "title": "Órbita",
+    "artist": "Luizinho Lopes",
+    "isrc": "BRLUE2300004"
+  },
+  {
+    "title": "Janela Lateral (Cover) - Ao Vivo",
+    "artist": "Só Parênt",
+    "isrc": "QZGLS1901681"
+  },
+  {
+    "title": "Loki Rasgado",
+    "artist": "Parangolé Valvulado",
+    "isrc": "BRBZW1600005"
+  },
+  {
+    "title": "Aquela da Paulista",
+    "artist": "Diego Neves*Banda",
+    "isrc": "QZNJV2418668"
+  },
+  {
+    "title": "Passageiro Alado",
+    "artist": "Tropeço Trio",
+    "isrc": "BXNHZ1700015"
+  },
+  {
+    "title": "In Cendio",
+    "artist": "Contratempo",
+    "isrc": "BX1GZ2100001"
+  },
+  {
+    "title": "Neon Mirror",
+    "artist": "Basement Tracks",
+    "isrc": "BRTRB2400636"
+  },
+  {
+    "title": "Transcender (Fio Solto)",
+    "artist": "Thiago Miranda, Dani Black",
+    "isrc": "BRTNX2300001"
+  },
+  {
+    "title": "Meu Lugar",
+    "artist": "Onze:20",
+    "isrc": "BRM2P1200022"
+  },
+  {
+    "title": "Império de Sal",
+    "artist": "Dudu Costa, Nêga Lucas, Matida",
+    "isrc": "BRA221202937"
+  },
+  {
+    "title": "De Piedade",
+    "artist": "Carlos Fernando Cunha, Wilson Das Neves",
+    "isrc": "BR7241500004"
+  },
+  {
+    "title": "Ninguém Fala Deus Deus - Ao Vivo",
+    "artist": "Gabriel Acaju",
+    "isrc": "QZNJW2189233"
+  },
+  {
+    "title": "Normose",
+    "artist": "Guido Del' Duca",
+    "isrc": "BXGCD2400002"
+  },
+  {
+    "title": "Eclipse",
+    "artist": "Alles Club",
+    "isrc": "BRTRB1600757"
+  },
+  {
+    "title": "Botanagua",
+    "artist": "Filipe Alvim",
+    "isrc": "BXJ9N1600080"
+  },
+  {
+    "title": "Cine Odeon",
+    "artist": "BALLI",
+    "isrc": "BXLW41900001"
+  },
+  {
+    "title": "Lady Laura",
+    "artist": "Muamba",
+    "isrc": "BXZ3C1800003"
+  },
+  {
+    "title": "Inverno",
+    "artist": "Visco",
+    "isrc": "BRA221201787"
+  },
+  {
+    "title": "Aquele Abraço - The Voice Brasil",
+    "artist": "Alessandra Crispin, Kaio Deodato",
+    "isrc": "BRUM71301466"
+  },
+  {
+    "title": "Bom Dia",
+    "artist": "Kravo",
+    "isrc": "BXPBL1900001"
+  },
+  {
+    "title": "Depressão",
+    "artist": "Grogues",
+    "isrc": "BXJ9N1900008"
+  },
+  {
+    "title": "System Is the Vampire",
+    "artist": "Rafael Cardoso Reggae Revolution",
+    "isrc": "QZGLM1904281"
+  },
+  {
+    "title": "Avohai",
+    "artist": "Eminência Parda",
+    "isrc": "BRBLT0700024"
+  },
+  {
+    "title": "Gioconda, Pt. 1",
+    "artist": "Apartamento Mobiliado",
+    "isrc": "US7VG2208996"
+  },
+  {
+    "title": "Snake Blood",
+    "artist": "Glitter Magic",
+    "isrc": "FR6V80147513"
+  },
+  {
+    "title": "Paraíso Proibido",
+    "artist": "Strike",
+    "isrc": "BRDEP0700002"
+  },
+  {
+    "title": "Plantas",
+    "artist": "Saginata",
+    "isrc": "GX8LE2477820"
+  },
+  {
+    "title": "Noite Vazia",
+    "artist": "Hellena Almeida",
+    "isrc": "QZGLS2019669"
+  },
+  {
+    "title": "Girar Sozinho - Acústica",
+    "artist": "Ge Alvarenga",
+    "isrc": "BXGE22000019"
+  },
+  {
+    "title": "Encostar na Tua",
+    "artist": "Ana Carolina",
+    "isrc": "BRBMG0300552"
+  },
+  {
+    "title": "Um Beijo",
+    "artist": "MC Xuxú",
+    "isrc": "usdy41670932"
+  },
+  {
+    "title": "Cair",
+    "artist": "Diegho Salles, Nathan Itaborahy",
+    "isrc": "BXNHZ1900012"
+  },
+  {
+    "title": "Chega Devagar",
+    "artist": "Matheus Engenheiro",
+    "isrc": "QZMZ92000779"
+  },
+  {
+    "title": "Emoriô",
+    "artist": "Sandra Portella",
+    "isrc": "BXMPO1700079"
+  },
+  {
+    "title": "Toda Garrafa Tem uma História",
+    "artist": "Tiago Sarmento, Landau",
+    "isrc": "BXGOC1900006"
+  },
+  {
+    "title": "Hanged",
+    "artist": "Blizterin' Sun",
+    "isrc": "QZGLM1990069"
+  },
+  {
+    "title": "As Forças",
+    "artist": "Uiara Leiggo",
+    "isrc": "BXUUO1500007"
+  },
+  {
+    "title": "Greg Oblivian",
+    "artist": "Olympia Tennis Club",
+    "isrc": "BRTRB1981393"
+  },
+  {
+    "title": "Você e Eu",
+    "artist": "Grupo Bombocado",
+    "isrc": "BRXS51700029"
+  },
+  {
+    "title": "Void Kingdom",
+    "artist": "Broken Gate",
+    "isrc": "BCJA42300002"
+  },
+  {
+    "title": "Quando",
+    "artist": "Myllena",
+    "isrc": "BRMY50700002"
+  },
+  {
+    "title": "A Noite Inteira",
+    "artist": "Grupo Alquimia",
+    "isrc": "BRC831800037"
+  },
+  {
+    "title": "Flow Sacanagem",
+    "artist": "Brackes Mallone",
+    "isrc": "QZGLS1987977"
+  },
+  {
+    "title": "Neblina",
+    "artist": "Wesley Carvalho",
+    "isrc": "BRWWY1500005"
+  },
+  {
+    "title": "Vicky Avait Raison",
+    "artist": "Macintushie",
+    "isrc": "BCOQ72100001"
+  },
+  {
+    "title": "Pustema",
+    "artist": "Romo",
+    "isrc": "QZFZ52054039"
+  },
+  {
+    "title": "Caso Indefinido / É Com Ela Que Eu Estou / Recaídas - Acústico",
+    "artist": "Thomás Guedes",
+    "isrc": "QZHZ32057074"
+  },
+  {
+    "title": "Juliette",
+    "artist": "ARTHUR NETTO",
+    "isrc": "BCAHI2100002"
+  },
+  {
+    "title": "Astrolábio",
+    "artist": "Anderson Guimarães, Angelo Goulart, Arnaldo Huff, Danniel Goulart, Rafa Castro",
+    "isrc": "BLR301600006"
+  },
+  {
+    "title": "A Condição",
+    "artist": "Babylon Brasil",
+    "isrc": "BRKDO1400076"
+  },
+  {
+    "title": "Sick Baco",
+    "artist": "Baco Doente",
+    "isrc": "BRTRB1910533"
+  },
+  {
+    "title": "Falsa Baiana - Voice",
+    "artist": "Geraldo Pereira, Paulinho Moska",
+    "isrc": "USSM10012698"
+  },
+  {
+    "title": "De Volta ao Samba",
+    "artist": "Joãozinho da Percussão, Isabella Ladeira",
+    "isrc": "US7VG1463181"
+  },
+  {
+    "title": "Pego Leve",
+    "artist": "Lúdica Música!",
+    "isrc": "BRRMB1700003"
+  },
+  {
+    "title": "Prisão",
+    "artist": "M.e.i.a",
+    "isrc": "BRTRB2085209"
+  },
+  {
+    "title": "Pra Me Enlouquecer",
+    "artist": "Mallibu",
+    "isrc": "BXGOC1600001"
+  },
+  {
+    "title": "Chorando pra Nina",
+    "artist": "Márcio Gomes, Nilton Moreira, Caetano Brasil, Fabrício Nogueira, Cazé Santos, Danniel Goulart",
+    "isrc": "BXCTE1900031"
+  },
+  {
+    "title": "E Agora Mané",
+    "artist": "Sambavesso",
+    "isrc": "BRK601400005"
+  },
+  {
+    "title": "Pedacim de Queijo",
+    "artist": "Tata Chama & as Inflamáveis",
+    "isrc": "BRN4M1800002"
+  },
+  {
+    "title": "Sete-Luas",
+    "artist": "Laura Jannuzzi, Ney Matogrosso",
+    "isrc": "BCSNE2100022"
+  },
+  {
+    "title": "Já Legalizou",
+    "artist": "Soul Rueiro",
+    "isrc": "BX8HG2300002"
+  },
+  {
+    "title": "Verde",
+    "artist": "Trinca-Ferro, Sarah Vieira",
+    "isrc": "BXDWJ1900006"
+  },
+  {
+    "title": "Sobe o Sol",
+    "artist": "Clara Castro",
+    "isrc": "BRRGE1804590"
+  },
+  {
+    "title": "Agradecimento",
+    "artist": "Roger Resende",
+    "isrc": "BRR8Y1000002"
+  },
+  {
+    "title": "C.A.R.D",
+    "artist": "RT Mallone, Sant, Muxima MC",
+    "isrc": "BRIKV2100047"
+  },
+  {
+    "title": "Abrigo Nuclear",
+    "artist": "BAAPZ",
+    "isrc": "BCOQ72300001"
+  },
+  {
+    "title": "Carinhoso",
+    "artist": "Caetano Brasil",
+    "isrc": "BXCTE2100001"
+  },
+  {
+    "title": "2&2",
+    "artist": "Legrand",
+    "isrc": "QZGLS1991518"
+  },
+  {
+    "title": "De Vagar",
+    "artist": "Blend 87",
+    "isrc": "BXNHZ1700002"
+  },
+  {
+    "title": "Dança",
+    "artist": "OBEY!",
+    "isrc": "BXGE21700008"
+  },
+  {
+    "title": "Encontro Casual",
+    "artist": "Nathan Itaborahy",
+    "isrc": "BXNHZ1900018"
+  },
+  {
+    "title": "Espada e Pilão",
+    "artist": "Ponto do Samba Juiz de Fora",
+    "isrc": "QZ5AB1742408"
+  },
+  {
+    "title": "Espelho",
+    "artist": "Laura Conceição",
+    "isrc": "BRTRB2092957"
+  },
+  {
+    "title": "Sem Ponto e Sem Nó",
+    "artist": "Matilda, Amanda Martins, Juliana Stanzani, Bia Nascimento, Fabrícia Valle",
+    "isrc": "BRN4M1400002"
+  },
+  {
+    "title": "Jogo Embolado",
+    "artist": "ETC",
+    "isrc": "BXHQF1700005"
+  },
+  {
+    "title": "Diabo De Mulher",
+    "artist": "Martiataka",
+    "isrc": "SEYOK1618313"
+  },
+  {
+    "title": "Uthopia",
+    "artist": "Mauloa",
+    "isrc": "ushm21836018"
+  },
+  {
+    "title": "Mudou o Tom",
+    "artist": "Luizinho Lopes, Natália Vargas",
+    "isrc": "BRLUE2300007"
+  },
+  {
+    "title": "Alegria Alegria (Cover) - Ao Vivo",
+    "artist": "Só Parênt",
+    "isrc": "QZGLS1901684"
+  },
+  {
+    "title": "A música e as Feras",
+    "artist": "Parangolé Valvulado",
+    "isrc": "BRBZW1600014"
+  },
+  {
+    "title": "Mexicana",
+    "artist": "Diego Neves*Banda",
+    "isrc": "QZNJV2418669"
+  },
+  {
+    "title": "Cheiro de Chuva",
+    "artist": "Tropeço Trio",
+    "isrc": "BXNHZ1700017"
+  },
+  {
+    "title": "Morada",
+    "artist": "Contratempo",
+    "isrc": "BX1GZ1800006"
+  },
+  {
+    "title": "Blooming Inside",
+    "artist": "Basement Tracks",
+    "isrc": "BRTRB1866698"
+  },
+  {
+    "title": "Super-Homem, a Canção",
+    "artist": "Thiago Miranda",
+    "isrc": "BRTNX1700001"
+  },
+  {
+    "title": "Branquiara",
+    "artist": "Dudu Costa",
+    "isrc": "BRA221202941"
+  },
+  {
+    "title": "Maré Cheia",
+    "artist": "Carlos Fernando Cunha, Ana Costa",
+    "isrc": "BCSNE2000020"
+  },
+  {
+    "title": "Pra Você",
+    "artist": "Onze:20",
+    "isrc": "BRM2P1300018"
+  },
+  {
+    "title": "Meu Amigo João Gabriel",
+    "artist": "Gabriel Acaju",
+    "isrc": "QZHZ32005598"
+  },
+  {
+    "title": "A Tal da Beleza",
+    "artist": "Guido Del' Duca",
+    "isrc": "AUBEC1500311"
+  },
+  {
+    "title": "Space Song (Beach House Cover)",
+    "artist": "Alles Club",
+    "isrc": "BRTRB2080597"
+  },
+  {
+    "title": "Vida Sem Sentido",
+    "artist": "Filipe Alvim",
+    "isrc": "BXJ9N1600073"
+  },
+  {
+    "title": "Um Dia",
+    "artist": "BALLI",
+    "isrc": "BXLW41900005"
+  },
+  {
+    "title": "Zói de Mel",
+    "artist": "Muamba",
+    "isrc": "BR0P21900005"
+  },
+  {
+    "title": "Só Ela",
+    "artist": "Visco",
+    "isrc": "BRA221201784"
+  },
+  {
+    "title": "Cai Dentro - The Voice Brasil",
+    "artist": "Alessandra Crispin",
+    "isrc": "BRUM71301742"
+  },
+  {
+    "title": "Chocolates",
+    "artist": "A CRAVO",
+    "isrc": "BX0CN2000003"
+  },
+  {
+    "title": "Milkshake",
+    "artist": "Grogues",
+    "isrc": "BXJ9N1900006"
+  },
+  {
+    "title": "What a Joy",
+    "artist": "Rafael Cardoso Reggae Revolution, Derajah",
+    "isrc": "QZNJX2397796"
+  },
+  {
+    "title": "Roda viva",
+    "artist": "Eminência Parda",
+    "isrc": "BRBLT0700017"
+  },
+  {
+    "title": "Angel",
+    "artist": "Apartamento Mobiliado",
+    "isrc": "QZW9L2231004"
+  },
+  {
+    "title": "The Dreamers Disease",
+    "artist": "Glitter Magic",
+    "isrc": "FR6V80147511"
+  },
+  {
+    "title": "Fluxo Perfeito",
+    "artist": "Strike",
+    "isrc": "US7VG1942620"
+  },
+  {
+    "title": "Segunda-feira",
+    "artist": "Saginata",
+    "isrc": "BRTRB2019281"
+  },
+  {
+    "title": "Romance Atemporal",
+    "artist": "Hellena Almeida",
+    "isrc": "QZHZ42068860"
+  },
+  {
+    "title": "Amanhecer",
+    "artist": "Ge Alvarenga",
+    "isrc": "BXGE22000001"
+  },
+  {
+    "title": "Quem de nós Dois (La Mia Storia Tra Le Dita)",
+    "artist": "Ana Carolina",
+    "isrc": "BRBMG0000540"
+  },
+  {
+    "title": "Bonde das Travestis",
+    "artist": "MC Xuxú",
+    "isrc": "usdy41670934"
+  },
+  {
+    "title": "Pêndulo",
+    "artist": "Diegho Salles, Nathan Itaborahy, Clara Castro",
+    "isrc": "BXNHZ1900010"
+  },
+  {
+    "title": "O Peso",
+    "artist": "Matheus Engenheiro",
+    "isrc": "QZHZ42150196"
+  },
+  {
+    "title": "Azul Concreto",
+    "artist": "Tata Chama & as Inflamáveis",
+    "isrc": "BRN4M1800006"
+  },
+  {
+    "title": "A Liga",
+    "artist": "Laura Jannuzzi",
+    "isrc": "BRL301500026"
+  },
+  {
+    "title": "Brisa",
+    "artist": "Soul Rueiro",
+    "isrc": "BX8HG2000001"
+  },
+  {
+    "title": "Ladainha da Proteção",
+    "artist": "Trinca-Ferro",
+    "isrc": "BXDWJ1900005"
+  },
+  {
+    "title": "Inverno Astral",
+    "artist": "Clara Castro",
+    "isrc": "BRRGE1804585"
+  },
+  {
+    "title": "Janaína",
+    "artist": "Roger Resende, Renato da Lapa",
+    "isrc": "BCSNE2100064"
+  },
+  {
+    "title": "Não Vai Voltar",
+    "artist": "RT Mallone, Erik RK",
+    "isrc": "BRIKV2200001"
+  },
+  {
+    "title": "Nervoso",
+    "artist": "BAAPZ",
+    "isrc": "BRTRB1997008"
+  },
+  {
+    "title": "Naquele Tempo",
+    "artist": "Caetano Brasil, Laura Conceição",
+    "isrc": "BXCTE2200001"
+  },
+  {
+    "title": "Conselho",
+    "artist": "Legrand",
+    "isrc": "US7VG1764465"
+  },
+  {
+    "title": "Pedido de Irmão",
+    "artist": "Blend 87",
+    "isrc": "BXNHZ1700008"
+  },
+  {
+    "title": "Atrás da Casca",
+    "artist": "OBEY!",
+    "isrc": "BXGE21700005"
+  },
+  {
+    "title": "Onda de Cabeça",
+    "artist": "Nathan Itaborahy",
+    "isrc": "BXNHZ1900024"
+  },
+  {
+    "title": "Princesinha de Minas",
+    "artist": "Ponto do Samba Juiz de Fora",
+    "isrc": "BR7241500023"
+  },
+  {
+    "title": "Liberdade",
+    "artist": "Laura Conceição",
+    "isrc": "QZHN51996121"
+  },
+  {
+    "title": "Dona Elzira",
+    "artist": "Matilda, Bia Nascimento, Juliana Stanzani, Amanda Martins, Fabrícia Valle",
+    "isrc": "BRN4M1400006"
+  },
+  {
+    "title": "Molhada de Mar (Te Esperando)",
+    "artist": "ETC",
+    "isrc": "BRKDO1400062"
+  },
+  {
+    "title": "Música Nova",
+    "artist": "Martiataka",
+    "isrc": "BRCLS0500007"
+  },
+  {
+    "title": "Funk de Guerra",
+    "artist": "Mauloa",
+    "isrc": "ushm21836019"
+  },
+  {
+    "title": "Cinzas no Oceano",
+    "artist": "Luizinho Lopes",
+    "isrc": "BRLUE2300003"
+  },
+  {
+    "title": "Inovação",
+    "artist": "Só Parênt",
+    "isrc": "BRVQ21400003"
+  },
+  {
+    "title": "É Feira",
+    "artist": "Parangolé Valvulado",
+    "isrc": "BRBZW1600008"
+  },
+  {
+    "title": "Dobro",
+    "artist": "Diego Neves*Banda",
+    "isrc": "QZNJV2418671"
+  },
+  {
+    "title": "Fresquinha",
+    "artist": "Tropeço Trio",
+    "isrc": "BXNHZ1700014"
+  },
+  {
+    "title": "Ebulição",
+    "artist": "Contratempo, BRK Mallone",
+    "isrc": "BX1GZ2200003"
+  },
+  {
+    "title": "Ocean's Son",
+    "artist": "Basement Tracks",
+    "isrc": "BRTRB1600812"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Ruoste",
+    "artist": "CMX",
+    "isrc": "FIEFH9400004"
+  },
+  {
+    "title": "Meitä odotellaan mullan alla",
+    "artist": "YUP",
+    "isrc": "FIPFP9900084"
+  },
+  {
+    "title": "While The World Awaits",
+    "artist": "Suburban Tribe",
+    "isrc": "FIEFP0600007"
+  },
+  {
+    "title": "Ikuinen Hehku",
+    "artist": "Sydän, sydän",
+    "isrc": "FI8RM1600028"
+  },
+  {
+    "title": "Tove",
+    "artist": "Lasten Hautausmaa",
+    "isrc": "FRX201757433"
+  },
+  {
+    "title": "Yhtenä iltana",
+    "artist": "Sara",
+    "isrc": "FIUM71100206"
+  },
+  {
+    "title": "Money for Nothing",
+    "artist": "Lapko",
+    "isrc": "FIBAR1400760"
+  },
+  {
+    "title": "Todella kaunis",
+    "artist": "Zen Cafe",
+    "isrc": "FIFMF9800048"
+  },
+  {
+    "title": "Lokki",
+    "artist": "WÖYH!",
+    "isrc": "FI3KZ1300003"
+  },
+  {
+    "title": "Ei toivoa",
+    "artist": "LÄHIÖBOTOX",
+    "isrc": "FIRAN2400014"
+  },
+  {
+    "title": "Second Soul",
+    "artist": "Disco Ensemble",
+    "isrc": "FIBAR1200179"
+  },
+  {
+    "title": "Valot pimeyksien reunoilla",
+    "artist": "Apulanta",
+    "isrc": "FIAPU1500007"
+  },
+  {
+    "title": "Tuomittu Juntiksi",
+    "artist": "Kumikameli",
+    "isrc": "FITTS0000068"
+  },
+  {
+    "title": "Join Me - Razorblade Mix",
+    "artist": "HIM",
+    "isrc": "FIBAR9900299"
+  },
+  {
+    "title": "Samassa Veneessä",
+    "artist": "Räjäyttäjät",
+    "isrc": "TCAEO1938995"
+  },
+  {
+    "title": "Moraali",
+    "artist": "Merta",
+    "isrc": "FIERT1900005"
+  },
+  {
+    "title": "Kun minä kerran kuolen",
+    "artist": "Tundramatiks",
+    "isrc": "FIEXC1100085"
+  },
+  {
+    "title": "Electric Desire",
+    "artist": "The Blanko",
+    "isrc": "FIBLO1800002"
+  },
+  {
+    "title": "Platitude",
+    "artist": "Bloodpit",
+    "isrc": "FIMCD0500004"
+  },
+  {
+    "title": "In the Shadows",
+    "artist": "The Rasmus",
+    "isrc": "SEVJH0201601"
+  },
+  {
+    "title": "Älä Saatana",
+    "artist": "Hopeajärvi",
+    "isrc": "FIEKT1500001"
+  },
+  {
+    "title": "Whenever You Say You Love Me",
+    "artist": "Day Eleven",
+    "isrc": "FIGBF0600171"
+  },
+  {
+    "title": "Hissi",
+    "artist": "Varjo",
+    "isrc": "FITTS1000008"
+  },
+  {
+    "title": "Walking With No One",
+    "artist": "End Of You",
+    "isrc": "FISFS0500224"
+  },
+  {
+    "title": "Avaruusmies",
+    "artist": "Jupi7er",
+    "isrc": "FITFR1200008"
+  },
+  {
+    "title": "Carnival of Rust",
+    "artist": "Poets of the Fall",
+    "isrc": "FIP9F0600011"
+  },
+  {
+    "title": "Lost",
+    "artist": "Feiled",
+    "isrc": "FIUNG0400043"
+  },
+  {
+    "title": "Dancing With Demons",
+    "artist": "Cyan Kicks",
+    "isrc": "FIRAN2400001"
+  },
+  {
+    "title": "Ritari Ässä",
+    "artist": "WikiRock",
+    "isrc": "FI5CK1508087"
+  },
+  {
+    "title": "Elämäni mykkäelokuvassa",
+    "artist": "Itkevä tyttö",
+    "isrc": "FI9KY0900004"
+  },
+  {
+    "title": "Tulta tuijotin",
+    "artist": "Kesä",
+    "isrc": "FI7S51800054"
+  },
+  {
+    "title": "Alaikäinen",
+    "artist": "Wiidakko",
+    "isrc": "FIPF60600015"
+  },
+  {
+    "title": "Hold It!",
+    "artist": "Sweatmaster",
+    "isrc": "DKFDG0201701"
+  },
+  {
+    "title": "Antaudu En Milloinkaan",
+    "artist": "Vala",
+    "isrc": "FIIN31300007"
+  },
+  {
+    "title": "Same About the Sorrow",
+    "artist": "So Called Plan",
+    "isrc": "FIHYP0500002"
+  },
+  {
+    "title": "Ode to the End (Thank You)",
+    "artist": "The Chant",
+    "isrc": "FISW70700036"
+  },
+  {
+    "title": "Tomahawks and Boomerangs",
+    "artist": "Snipe Drive",
+    "isrc": "FICUK2400013"
+  },
+  {
+    "title": "STFU",
+    "artist": "Barbe-Q-Barbies",
+    "isrc": "FISOF1300004"
+  },
+  {
+    "title": "Suru Soittaa",
+    "artist": "Pronssinen pokaali",
+    "isrc": "FIJKA9900241"
+  },
+  {
+    "title": "The Great Escape",
+    "artist": "Nerve End, Jørgen Munkeby",
+    "isrc": "FI5J52200003"
+  },
+  {
+    "title": "Guten Tag",
+    "artist": "Itä-Saksa",
+    "isrc": "FI3FC1693602"
+  },
+  {
+    "title": "The Grey",
+    "artist": "Somehow Jo",
+    "isrc": "FI3FC2091401"
+  },
+  {
+    "title": "Anorexia Is Boring",
+    "artist": "The Scenes",
+    "isrc": "FISOF1400010"
+  },
+  {
+    "title": "Dominoes",
+    "artist": "The Mama King",
+    "isrc": "FIB3E0700034"
+  },
+  {
+    "title": "Sweet Trio",
+    "artist": "Murmansk",
+    "isrc": "FIUM70900181"
+  },
+  {
+    "title": "If It Comes from My Heart - It Must Be Good",
+    "artist": "Rödsögården",
+    "isrc": "FIWMA0801036"
+  },
+  {
+    "title": "Valontuoja",
+    "artist": "Tytär",
+    "isrc": "FISW70700019"
+  },
+  {
+    "title": "Zest",
+    "artist": "Pelagos",
+    "isrc": "FI7S52000225"
+  },
+  {
+    "title": "Sandy",
+    "artist": "Bitch Alert",
+    "isrc": "FIUNG0100066"
+  },
+  {
+    "title": "The Last Call",
+    "artist": "Collarbone",
+    "isrc": "FISFS0700005"
+  },
+  {
+    "title": "Miles From The Gate",
+    "artist": "Black Audio",
+    "isrc": "SEYOK1100245"
+  },
+  {
+    "title": "Such A Gay Boy",
+    "artist": "Incredible Nothing, J. Åkerman",
+    "isrc": "FIPF60500010"
+  },
+  {
+    "title": "Taivaan Tulet",
+    "artist": "Ismo Alanko Teholla",
+    "isrc": "FIFR50800011"
+  },
+  {
+    "title": "Boston Massacre",
+    "artist": "Jermaine",
+    "isrc": "FI9DJ0600006"
+  },
+  {
+    "title": "Units of Time",
+    "artist": "LAB, Hydra-E",
+    "isrc": "DEAR41642606"
+  },
+  {
+    "title": "Uptown",
+    "artist": "Opus Symbiosis",
+    "isrc": "FIOSB2000002"
+  },
+  {
+    "title": "Tähtiainesta",
+    "artist": "Piina",
+    "isrc": "FIEFE0700291"
+  },
+  {
+    "title": "Raining - 2011 Remaster",
+    "artist": "Psychoplasma",
+    "isrc": "FIUNG1100031"
+  },
+  {
+    "title": "That's What They Tell Me When I Sleep",
+    "artist": "Russian Love",
+    "isrc": "FIZGN9600042"
+  },
+  {
+    "title": "Ape",
+    "artist": "Smokesuit, Marcus Hietanen",
+    "isrc": "FI8MD0800002"
+  },
+  {
+    "title": "Take Me to the Graveyard",
+    "artist": "Superchrist",
+    "isrc": "USI4R1220541"
+  },
+  {
+    "title": "Back Beat (Radio Version)",
+    "artist": "The Winyls",
+    "isrc": "FIYWY1300003"
+  },
+  {
+    "title": "Smoke",
+    "artist": "United Underworld",
+    "isrc": "USI4R0911503"
+  },
+  {
+    "title": "Vapaus Johtaa Kansaa",
+    "artist": "CMX, Kotiteollisuus, 51koodia",
+    "isrc": "FIEFH0600013"
+  },
+  {
+    "title": "Joutilas",
+    "artist": "YUP",
+    "isrc": "FIPFP0200196"
+  },
+  {
+    "title": "Frozen Ashes",
+    "artist": "Suburban Tribe",
+    "isrc": "FIEFP0100057"
+  },
+  {
+    "title": "Pappa Sanoi, Että",
+    "artist": "Sydän, sydän",
+    "isrc": "FIJKA0500005"
+  },
+  {
+    "title": "Tuulipuut",
+    "artist": "Lasten Hautausmaa",
+    "isrc": "FRX201700823"
+  },
+  {
+    "title": "Rauhan aika",
+    "artist": "Sara",
+    "isrc": "FIUM70800535"
+  },
+  {
+    "title": "Killer Whales",
+    "artist": "Lapko",
+    "isrc": "FIFR50700001"
+  },
+  {
+    "title": "Kamppailu Merellä",
+    "artist": "WÖYH!",
+    "isrc": "FI3KZ1500007"
+  },
+  {
+    "title": "Piha ilman sadettajaa",
+    "artist": "Zen Cafe",
+    "isrc": "FIWMA0300363"
+  },
+  {
+    "title": "Saunan Takana",
+    "artist": "LÄHIÖBOTOX",
+    "isrc": "FIDG22000002"
+  },
+  {
+    "title": "We Might Fall Apart",
+    "artist": "Disco Ensemble",
+    "isrc": "FIFR50600080"
+  },
+  {
+    "title": "Kusiainen",
+    "artist": "Kumikameli",
+    "isrc": "FITTS0400001"
+  },
+  {
+    "title": "Pahempi toistaan",
+    "artist": "Apulanta",
+    "isrc": "FIATN0500016"
+  },
+  {
+    "title": "Wicked Game",
+    "artist": "HIM",
+    "isrc": "FIBAR9700075"
+  },
+  {
+    "title": "Nyt Maistuis A",
+    "artist": "Räjäyttäjät",
+    "isrc": "TCACB1491144"
+  },
+  {
+    "title": "Harha",
+    "artist": "Merta",
+    "isrc": "FI9PF2300118"
+  },
+  {
+    "title": "Yhdes astellaan",
+    "artist": "Tundramatiks",
+    "isrc": "FIEXC1100072"
+  },
+  {
+    "title": "Addiction",
+    "artist": "The Blanko",
+    "isrc": "FIBLO1800001"
+  },
+  {
+    "title": "Wise Men Don't Cry",
+    "artist": "Bloodpit",
+    "isrc": "FIBAR0700110"
+  },
+  {
+    "title": "Tyhmä Nimi",
+    "artist": "Hopeajärvi",
+    "isrc": "FIEKT1500002"
+  },
+  {
+    "title": "Locust Flight",
+    "artist": "Day Eleven",
+    "isrc": "FIYN30900002"
+  },
+  {
+    "title": "Paniikki",
+    "artist": "Varjo",
+    "isrc": "FIFR90300002"
+  },
+  {
+    "title": "Livin' in a World Without You",
+    "artist": "The Rasmus",
+    "isrc": "SEVJH0800112"
+  },
+  {
+    "title": "My Absolution",
+    "artist": "End Of You",
+    "isrc": "FISFS0500413"
+  },
+  {
+    "title": "Hei Scotty Beam Me Up",
+    "artist": "Jupi7er",
+    "isrc": "FITFR1200013"
+  },
+  {
+    "title": "My Dark Disquiet",
+    "artist": "Poets of the Fall",
+    "isrc": "FIP9F1800005"
+  },
+  {
+    "title": "Just Like Heaven",
+    "artist": "Feiled",
+    "isrc": "FIUNG0600030"
+  },
+  {
+    "title": "Let Me Down Slowly",
+    "artist": "Cyan Kicks",
+    "isrc": "FIRAN1900074"
+  },
+  {
+    "title": "Laser",
+    "artist": "WikiRock",
+    "isrc": "FI5CK1404637"
+  },
+  {
+    "title": "Kirja jota ette koskaan lukeneet",
+    "artist": "Itkevä tyttö",
+    "isrc": "FI9KY0900006"
+  },
+  {
+    "title": "Se ei sanonut mitään",
+    "artist": "Kesä",
+    "isrc": "DEZ651709343"
+  },
+  {
+    "title": "Odessa",
+    "artist": "Wiidakko",
+    "isrc": "FI3FT1100028"
+  },
+  {
+    "title": "Maggots",
+    "artist": "Sweatmaster",
+    "isrc": "DKFDG0502501"
+  },
+  {
+    "title": "Tämä Kaupunki on Meidän",
+    "artist": "Vala",
+    "isrc": "FIIN31300008"
+  },
+  {
+    "title": "Right Direction",
+    "artist": "So Called Plan",
+    "isrc": "FIHYP0500010"
+  },
+  {
+    "title": "Green Waters",
+    "artist": "The Chant",
+    "isrc": "FISW70700033"
+  },
+  {
+    "title": "Complete Control",
+    "artist": "Snipe Drive",
+    "isrc": "FI92D0800088"
+  },
+  {
+    "title": "Let Me Out",
+    "artist": "Barbe-Q-Barbies",
+    "isrc": "FIBAR1500701"
+  },
+  {
+    "title": "Taivas",
+    "artist": "Pronssinen pokaali",
+    "isrc": "FIJKA0000010"
+  },
+  {
+    "title": "The Big Sleep",
+    "artist": "Nerve End",
+    "isrc": "FI5J52200007"
+  },
+  {
+    "title": "Aerobitch",
+    "artist": "Itä-Saksa",
+    "isrc": "FI3FC1693601"
+  },
+  {
+    "title": "Alcoholiday",
+    "artist": "Somehow Jo",
+    "isrc": "FI3FC1932901"
+  },
+  {
+    "title": "Kivinen kirja",
+    "artist": "CMX",
+    "isrc": "FIEFE0800330"
+  },
+  {
+    "title": "Murhaaja soittaa pasuunaa",
+    "artist": "YUP",
+    "isrc": "FIPFP9600049"
+  },
+  {
+    "title": "Silent Rain",
+    "artist": "Suburban Tribe",
+    "isrc": "FIEFP0300041"
+  },
+  {
+    "title": "Talla Pohjaan",
+    "artist": "Sydän, sydän",
+    "isrc": "FI8RM1600022"
+  },
+  {
+    "title": "Karhupuisto",
+    "artist": "Lasten Hautausmaa",
+    "isrc": "FRX201757436"
+  },
+  {
+    "title": "Tyhjää",
+    "artist": "Sara",
+    "isrc": "FI6161700005"
+  },
+  {
+    "title": "All The Best Girls",
+    "artist": "Lapko",
+    "isrc": "FIFR50500053"
+  },
+  {
+    "title": "Kaskelotti",
+    "artist": "WÖYH!",
+    "isrc": "FI3KZ1300008"
+  },
+  {
+    "title": "Mies jonka ympäriltä tuolit viedään",
+    "artist": "Zen Cafe",
+    "isrc": "FIWMA0100024"
+  },
+  {
+    "title": "KATO MUA SILMIIN (KUSIPÄÄ)",
+    "artist": "LÄHIÖBOTOX",
+    "isrc": "FIMRR1800276"
+  },
+  {
+    "title": "Drop Dead, Casanova",
+    "artist": "Disco Ensemble",
+    "isrc": "FIFR50500003"
+  },
+  {
+    "title": "Cafè aulaitia ja latteuksia",
+    "artist": "Kumikameli",
+    "isrc": "FITTS1000079"
+  },
+  {
+    "title": "Lokin päällä lokki",
+    "artist": "Apulanta",
+    "isrc": "FIAPU1900001"
+  },
+  {
+    "title": "Wings of a Butterfly",
+    "artist": "HIM",
+    "isrc": "USWB10503444"
+  },
+  {
+    "title": "Missä Olet Rapa Eini?",
+    "artist": "Räjäyttäjät",
+    "isrc": "TCACO1678722"
+  },
+  {
+    "title": "Kahden rajalla",
+    "artist": "Merta",
+    "isrc": "FIERT1900002"
+  },
+  {
+    "title": "Purjeet nostan taas",
+    "artist": "Tundramatiks",
+    "isrc": "FIEXC1100079"
+  },
+  {
+    "title": "Slave to My Passion",
+    "artist": "The Blanko",
+    "isrc": "FIBLO1900001"
+  },
+  {
+    "title": "For You to Be Safe",
+    "artist": "Bloodpit",
+    "isrc": "FIBSA0800058"
+  },
+  {
+    "title": "Kuoppa (Purasee Mun Mutsii)",
+    "artist": "Hopeajärvi",
+    "isrc": "FIEKT1300163"
+  },
+  {
+    "title": "Blood Runs Thick",
+    "artist": "Day Eleven",
+    "isrc": "FIGBF0600177"
+  }
+]

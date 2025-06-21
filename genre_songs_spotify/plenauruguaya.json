@@ -1,0 +1,642 @@
+[
+  {
+    "title": "Un Finde",
+    "artist": "Fabricio Mosquera, La Cumana",
+    "isrc": "UYM123002134"
+  },
+  {
+    "title": "Tú Sin Mí",
+    "artist": "Mariano Bermudez, LA NUEVA ESCUELA",
+    "isrc": "UYM123002145"
+  },
+  {
+    "title": "Mi Manera de Amarte",
+    "artist": "Pablo Cocina",
+    "isrc": "UYM121903129"
+  },
+  {
+    "title": "Te Bajaré La Luna",
+    "artist": "Miguel Cufos, EMI",
+    "isrc": "UYM123000109"
+  },
+  {
+    "title": "No Vaya a Ser",
+    "artist": "La Caratula",
+    "isrc": "UYM121903561"
+  },
+  {
+    "title": "Abran Cancha",
+    "artist": "Carlos Corti y Los Muchachos",
+    "isrc": "UYM122200922"
+  },
+  {
+    "title": "Enganchado Romántico: Fuiste Mía / Tormenta de Amor / Carolina",
+    "artist": "Bocha Lozano y La Vieja Escuela",
+    "isrc": "UYS052000087"
+  },
+  {
+    "title": "Ya No Tiene Novio",
+    "artist": "El Gucci y Su Banda, Fabricio Mosquera",
+    "isrc": "UYM121705902"
+  },
+  {
+    "title": "Polvo de Estrellas",
+    "artist": "Gerardo Nieto",
+    "isrc": "UYM121302326"
+  },
+  {
+    "title": "Lola la Coquetera",
+    "artist": "La Cumana",
+    "isrc": "UYS050000318"
+  },
+  {
+    "title": "Somos Tú y Yo",
+    "artist": "Majo y la del 13, Fabián \"Lolo\" Estoyanoff",
+    "isrc": "UYM121602276"
+  },
+  {
+    "title": "Maquillaje",
+    "artist": "Marcos da Costa",
+    "isrc": "UYM122400483"
+  },
+  {
+    "title": "Contando Lunares",
+    "artist": "Arrancandonga",
+    "isrc": "UYJ141900020"
+  },
+  {
+    "title": "Que Te Vaya Mal",
+    "artist": "Yesty Prieto",
+    "isrc": "UYS051900561"
+  },
+  {
+    "title": "Chamakita",
+    "artist": "Pal Bailador",
+    "isrc": "ZZOPM2237375"
+  },
+  {
+    "title": "Rico y Cura",
+    "artist": "La Decana",
+    "isrc": "UYM122400848"
+  },
+  {
+    "title": "Aguanta Presión",
+    "artist": "Martín Quiroga",
+    "isrc": "UYM122200842"
+  },
+  {
+    "title": "Mayor Que Yo",
+    "artist": "La Sandonga",
+    "isrc": "UYM121705253"
+  },
+  {
+    "title": "Calidad",
+    "artist": "Américo Young",
+    "isrc": "UYM123000946"
+  },
+  {
+    "title": "La Bachata en Plena",
+    "artist": "Denis Elias, ONE PLAY",
+    "isrc": "UYL842300049"
+  },
+  {
+    "title": "De Vuelta en la Trampa",
+    "artist": "Super Grupo Antillano",
+    "isrc": "UYM120601362"
+  },
+  {
+    "title": "Cometa Blanca",
+    "artist": "Sonora Borinquen",
+    "isrc": "UYS059800048"
+  },
+  {
+    "title": "A Sol Caliente",
+    "artist": "El Chato Arismendi",
+    "isrc": "UYM129801003"
+  },
+  {
+    "title": "Hawai",
+    "artist": "Diego Salomé",
+    "isrc": "ART0G2002531"
+  },
+  {
+    "title": "Lo Que Tenias Conmigo",
+    "artist": "Vanesa Britos",
+    "isrc": "UYM122104440"
+  },
+  {
+    "title": "Pa Quererte",
+    "artist": "Los Negroni",
+    "isrc": "UYM123000773"
+  },
+  {
+    "title": "Nada Es Para Siempre - Remix",
+    "artist": "Los Pikantes, The La Planta, Enzo y la Sub 21",
+    "isrc": "BK4DA2301834"
+  },
+  {
+    "title": "El Zumbador",
+    "artist": "Sonora Cumanacao",
+    "isrc": "UYS059700107"
+  },
+  {
+    "title": "Enganchados \"Una Mas Para el Cuaderno\"",
+    "artist": "Sonido Cristal, Ke Personajes",
+    "isrc": "UYM121903096"
+  },
+  {
+    "title": "Locas Pasiones",
+    "artist": "El Gran Maracaibo",
+    "isrc": "UYS059900334"
+  },
+  {
+    "title": "Solo Por Esta Noche",
+    "artist": "Luciana",
+    "isrc": "SEYOK1941454"
+  },
+  {
+    "title": "Pal Costado",
+    "artist": "Bien Suave",
+    "isrc": "GBSMU6341135"
+  },
+  {
+    "title": "La Cerveza",
+    "artist": "La Licuadora del Sabor",
+    "isrc": "UYM121602226"
+  },
+  {
+    "title": "Bailadora",
+    "artist": "Monterrojo",
+    "isrc": "UYM120001001"
+  },
+  {
+    "title": "Solo Tu y Yo",
+    "artist": "Luana, Jotape",
+    "isrc": "UYM123000978"
+  },
+  {
+    "title": "Mentiras",
+    "artist": "LA CUMANA",
+    "isrc": "QZTPX2367994"
+  },
+  {
+    "title": "Te Quiero Hasta Morir",
+    "artist": "Enzo y la Sub 21",
+    "isrc": "UYM123000951"
+  },
+  {
+    "title": "Que Tiene la Noche",
+    "artist": "Sonido Caracol, Chacho Ramos",
+    "isrc": "UYM120700001"
+  },
+  {
+    "title": "Entre el Cielo Vos y Yo",
+    "artist": "Los Bembones, Martín Quiroga",
+    "isrc": "UYM122003615"
+  },
+  {
+    "title": "Noche de Perdedor",
+    "artist": "La Deskarga",
+    "isrc": "UYM122201370"
+  },
+  {
+    "title": "El Amante",
+    "artist": "Martín Piña, Lucas Sugo",
+    "isrc": "UYM121902984"
+  },
+  {
+    "title": "Si Esta Casa Hablara",
+    "artist": "La Bocha 12",
+    "isrc": "UYL842200054"
+  },
+  {
+    "title": "No Es Lluvia de Verano",
+    "artist": "Chacho Ramos",
+    "isrc": "UYM121103479"
+  },
+  {
+    "title": "Dejame Intentar / Eres",
+    "artist": "Juanjo Morgade, The La Planta",
+    "isrc": "UYL842300032"
+  },
+  {
+    "title": "Crimen Perfecto",
+    "artist": "La Dupla",
+    "isrc": "UYM121702202"
+  },
+  {
+    "title": "Medellin",
+    "artist": "La NT & Los Siniestros, Juanjo Morgade",
+    "isrc": "QZHZ52267440"
+  },
+  {
+    "title": "Corazon de Seda",
+    "artist": "Tamo´ en Vivo",
+    "isrc": "UYM121705272"
+  },
+  {
+    "title": "Mujer Ajena",
+    "artist": "Fabian Silva",
+    "isrc": "UYM120701159"
+  },
+  {
+    "title": "Ando⧸LolliPop⧸Una Foto⧸Pobre Diabla⧸Si No Le Contesto⧸Regalame Una Noche⧸Perdoname",
+    "artist": "LA NUEVA ESCUELA",
+    "isrc": "UYM122400881"
+  },
+  {
+    "title": "Plenera",
+    "artist": "Los Torres, Seba Torres, Daniel \"Tata\" Torres",
+    "isrc": "UYM122003792"
+  },
+  {
+    "title": "Por Primera Vez",
+    "artist": "El León de la Plena, Vanesa Britos",
+    "isrc": "UYM122104478"
+  },
+  {
+    "title": "Enganchados 2020",
+    "artist": "Siempre Plena",
+    "isrc": "UYM121903656"
+  },
+  {
+    "title": "Tus Ojitos",
+    "artist": "De Primera",
+    "isrc": "UYM121705235"
+  },
+  {
+    "title": "La Cobra",
+    "artist": "Vanelo",
+    "isrc": "UYM121806604"
+  },
+  {
+    "title": "Quédate",
+    "artist": "Favio Donoban, Jona23Suàrez",
+    "isrc": "BK4DA2205343"
+  },
+  {
+    "title": "Cobarde, Cobarde",
+    "artist": "Sonora Caribe Uruguay",
+    "isrc": "UYS058700006"
+  },
+  {
+    "title": "La Foto",
+    "artist": "Mica",
+    "isrc": "UYJ141900018"
+  },
+  {
+    "title": "Por Tu Amor",
+    "artist": "Mauri Lopez, Epiko, Lucas Bunnker",
+    "isrc": "BK4DA2409969"
+  },
+  {
+    "title": "Te deseo un amor",
+    "artist": "Hernan el grande",
+    "isrc": "QZ22B1811590"
+  },
+  {
+    "title": "De Aqui a la Luna",
+    "artist": "Dennis Elias",
+    "isrc": "UYM121401354"
+  },
+  {
+    "title": "La Cumbia del Coronavirus - Remix",
+    "artist": "Kumbia Klan, Ke Kumbia, Padi",
+    "isrc": "UYM122002447"
+  },
+  {
+    "title": "Me Alejé Llorando",
+    "artist": "Los Protagonistas Uruguay",
+    "isrc": "UYS051701220"
+  },
+  {
+    "title": "Angel",
+    "artist": "Siiempre Plena, Siempre Plena",
+    "isrc": "UYM121705067"
+  },
+  {
+    "title": "Manos de Tijeras",
+    "artist": "Fabricio Mosquera",
+    "isrc": "UYM122201375"
+  },
+  {
+    "title": "Enganchados 2",
+    "artist": "Pablo Cocina",
+    "isrc": "UYM121903019"
+  },
+  {
+    "title": "No Tenes Lugar",
+    "artist": "Mariano Bermudez",
+    "isrc": "UYM122400076"
+  },
+  {
+    "title": "Sin Ti",
+    "artist": "Miguel Cufos, Vanesa Britos",
+    "isrc": "UYM122201415"
+  },
+  {
+    "title": "Recuerdame",
+    "artist": "La Caratula",
+    "isrc": "UYM121903552"
+  },
+  {
+    "title": "Hasta Cuando Tú",
+    "artist": "Carlos Corti y Los Muchachos",
+    "isrc": "UYM123000438"
+  },
+  {
+    "title": "Cómo Mirarte",
+    "artist": "Bocha Lozano y La Vieja Escuela",
+    "isrc": "UYS052000294"
+  },
+  {
+    "title": "Lost On You",
+    "artist": "El Gucci y Su Banda",
+    "isrc": "UYM121705279"
+  },
+  {
+    "title": "Amiga Mia",
+    "artist": "Gerardo Nieto",
+    "isrc": "UYM121302330"
+  },
+  {
+    "title": "El Cumple de Tu Hermana",
+    "artist": "La Cumana",
+    "isrc": "UYM120200129"
+  },
+  {
+    "title": "A Ti Lo Que Te Duele",
+    "artist": "Majo y la del 13",
+    "isrc": "UYM121806217"
+  },
+  {
+    "title": "El Animal - Intro",
+    "artist": "Marcos da Costa, Los Demonios",
+    "isrc": "UYM121701509"
+  },
+  {
+    "title": "Loca",
+    "artist": "Arrancandonga",
+    "isrc": "TCADP1892165"
+  },
+  {
+    "title": "Dónde Están las Mujeres",
+    "artist": "Yesty Prieto",
+    "isrc": "UYS052000097"
+  },
+  {
+    "title": "Mil Preguntas",
+    "artist": "Pal Bailador",
+    "isrc": "BK4DA2413757"
+  },
+  {
+    "title": "La Gran Fiesta",
+    "artist": "La Decana",
+    "isrc": "UYM122400850"
+  },
+  {
+    "title": "Entre El Cielo Y El Infierno",
+    "artist": "Martín Quiroga",
+    "isrc": "UYM122401618"
+  },
+  {
+    "title": "No Me Enamoro",
+    "artist": "La Sandonga",
+    "isrc": "UYM121705256"
+  },
+  {
+    "title": "El Merengue",
+    "artist": "Américo Young",
+    "isrc": "UYM123000934"
+  },
+  {
+    "title": "Mi Anhelo",
+    "artist": "Super Grupo Antillano",
+    "isrc": "UYM121201751"
+  },
+  {
+    "title": "Horas Vacias",
+    "artist": "Denis Elias",
+    "isrc": "UYM121806539"
+  },
+  {
+    "title": "Yo Llegaré - Nueva Versión",
+    "artist": "Sonora Borinquen",
+    "isrc": "UYS051600806"
+  },
+  {
+    "title": "A Fuego Lento",
+    "artist": "El Chato Arismendi",
+    "isrc": "UYM129801001"
+  },
+  {
+    "title": "Reggaeton lento",
+    "artist": "Diego Salomé",
+    "isrc": "ART0G1207993"
+  },
+  {
+    "title": "No Te Creas Tan Importante",
+    "artist": "Vanesa Britos",
+    "isrc": "UYM121602263"
+  },
+  {
+    "title": "Bajito No",
+    "artist": "Los Negroni",
+    "isrc": "UYM121700321"
+  },
+  {
+    "title": "La Negra Tiene Tumbao",
+    "artist": "Los Pikantes, Lucas Bunnker",
+    "isrc": "QZNJY2006573"
+  },
+  {
+    "title": "La Persona Ideal",
+    "artist": "Sonora Cumanacao",
+    "isrc": "UYS059700112"
+  },
+  {
+    "title": "Ella Baja",
+    "artist": "Sonido Cristal",
+    "isrc": "UYM121702254"
+  },
+  {
+    "title": "Amante Niña",
+    "artist": "El Gran Maracaibo",
+    "isrc": "UYS051700114"
+  },
+  {
+    "title": "Si Me Enamoré",
+    "artist": "Luciana",
+    "isrc": "UYM122200963"
+  },
+  {
+    "title": "Ahora",
+    "artist": "Bien Suave",
+    "isrc": "GBSMU6341749"
+  },
+  {
+    "title": "Baila",
+    "artist": "La Licuadora del Sabor",
+    "isrc": "UYM121601329"
+  },
+  {
+    "title": "La Revancha",
+    "artist": "Monterrojo",
+    "isrc": "UYM120001008"
+  },
+  {
+    "title": "A Ella",
+    "artist": "Luana",
+    "isrc": "TCADN1866689"
+  },
+  {
+    "title": "Solo Con un Beso",
+    "artist": "LA CUMANA",
+    "isrc": "QZW9L2397839"
+  },
+  {
+    "title": "Inocente",
+    "artist": "Enzo y la Sub 21",
+    "isrc": "USCGH2437361"
+  },
+  {
+    "title": "Loco",
+    "artist": "Sonido Caracol, Chacho Ramos",
+    "isrc": "UYM120700019"
+  },
+  {
+    "title": "Atorrante",
+    "artist": "Los Bembones, Tata Torres",
+    "isrc": "UYM122202080"
+  },
+  {
+    "title": "Caramelo",
+    "artist": "La Deskarga",
+    "isrc": "UYM122300029"
+  },
+  {
+    "title": "Cumbia para Mi Pueblo",
+    "artist": "Martín Piña",
+    "isrc": "UYM121705300"
+  },
+  {
+    "title": "Luna",
+    "artist": "La Bocha 12, Juanjo Morgade, ONE PLAY",
+    "isrc": "UYL842400013"
+  },
+  {
+    "title": "Háblale y Dile",
+    "artist": "Chacho Ramos",
+    "isrc": "UYM121500026"
+  },
+  {
+    "title": "Tu Foto",
+    "artist": "Fabricio Mosquera",
+    "isrc": "UYM121701820"
+  },
+  {
+    "title": "Enganchados Romanticos 2: Lo Que Te Queda: Robarte un Beso: Tu Como Estas: en Carne Viva - Vivo",
+    "artist": "Pablo Cocina",
+    "isrc": "UYM121903137"
+  },
+  {
+    "title": "Cuchillos",
+    "artist": "Mariano Bermudez, La Deskarga",
+    "isrc": "UYM122300058"
+  },
+  {
+    "title": "Enganchado 2020: Hechizo de Luna / Que Tentación / Tu Cariñito",
+    "artist": "Miguel Cufos",
+    "isrc": "UYS052000004"
+  },
+  {
+    "title": "Uno X Uno",
+    "artist": "La Caratula",
+    "isrc": "UYM121902243"
+  },
+  {
+    "title": "Aquel Lugar",
+    "artist": "Carlos Corti y Los Muchachos",
+    "isrc": "UYM121705039"
+  },
+  {
+    "title": "Tu Vida en la Mía",
+    "artist": "Bocha Lozano y La Vieja Escuela",
+    "isrc": "UYS052000199"
+  },
+  {
+    "title": "Celosa",
+    "artist": "El Gucci y Su Banda, Goberna Jr",
+    "isrc": "UYM121705903"
+  },
+  {
+    "title": "Piénsalo Dos Veces",
+    "artist": "Gerardo Nieto",
+    "isrc": "UYM121302336"
+  },
+  {
+    "title": "Agitando",
+    "artist": "La Cumana",
+    "isrc": "UYS050000107"
+  },
+  {
+    "title": "Muchacho de Barrio",
+    "artist": "Majo y la del 13, Fabián \"Lolo\" Estoyanoff",
+    "isrc": "UYM121602279"
+  },
+  {
+    "title": "Callando Bocas",
+    "artist": "Marcos da Costa",
+    "isrc": "UYM122400572"
+  },
+  {
+    "title": "Bella",
+    "artist": "Arrancandonga",
+    "isrc": "TCADR1805457"
+  },
+  {
+    "title": "Sin Sentimientos - En Vivo",
+    "artist": "Yesty Prieto",
+    "isrc": "UYM122201151"
+  },
+  {
+    "title": "Te Mentiria",
+    "artist": "Pal Bailador",
+    "isrc": "ZZOPM2107533"
+  },
+  {
+    "title": "Plena Pa' Olvidar las Penas",
+    "artist": "La Decana",
+    "isrc": "UYS051900660"
+  },
+  {
+    "title": "Delincuente",
+    "artist": "Martín Quiroga",
+    "isrc": "UYM121902255"
+  },
+  {
+    "title": "Negarlo Todo",
+    "artist": "La Sandonga",
+    "isrc": "UYM121705255"
+  },
+  {
+    "title": "Estamos Bien",
+    "artist": "Américo Young",
+    "isrc": "UYM123000959"
+  },
+  {
+    "title": "Los Pegaditos de Super Grupo Antillano Nº1: Colé Colé / Niégalo / Enamorada / La Pollera Amarilla / Oye Mi Canto",
+    "artist": "Super Grupo Antillano, Marihel",
+    "isrc": "UYS051700766"
+  },
+  {
+    "title": "No Te Creo",
+    "artist": "Denis Elias, ONE PLAY",
+    "isrc": "UYL842400020"
+  },
+  {
+    "title": "Elena, Elena",
+    "artist": "Sonora Borinquen",
+    "isrc": "UYS059800059"
+  }
+]

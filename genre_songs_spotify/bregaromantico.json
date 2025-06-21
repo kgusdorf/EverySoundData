@@ -1,0 +1,592 @@
+[
+  {
+    "title": "Necessito",
+    "artist": "Eduarda Alves",
+    "isrc": "QZ5AB2058337"
+  },
+  {
+    "title": "Bateu a Química",
+    "artist": "Banda Sedutora",
+    "isrc": "US7VG2401865"
+  },
+  {
+    "title": "Teu Amigo Cuidou",
+    "artist": "Banda Boa Toda",
+    "isrc": "QZNJW2222275"
+  },
+  {
+    "title": "Diz na Minha Cara",
+    "artist": "Banda Torpedo",
+    "isrc": "US7VG1598599"
+  },
+  {
+    "title": "A Noite Eu Choro",
+    "artist": "Sheldon, Priscila senna",
+    "isrc": "QZGLM1967089"
+  },
+  {
+    "title": "Vou Calar Sua Boca",
+    "artist": "Banda Carícias",
+    "isrc": "BRMAX1402378"
+  },
+  {
+    "title": "Nunca Te Trair",
+    "artist": "Banda A Favorita",
+    "isrc": "QZHZ41982136"
+  },
+  {
+    "title": "Eterno Amor",
+    "artist": "Swing do Amor",
+    "isrc": "QZHZ51908738"
+  },
+  {
+    "title": "Novo Namorado",
+    "artist": "Musa do Calypso",
+    "isrc": "BR90B1501593"
+  },
+  {
+    "title": "Vou Marcar Cerrado",
+    "artist": "Banda Metade",
+    "isrc": "QZEQU2064489"
+  },
+  {
+    "title": "Atual do Meu Ex",
+    "artist": "Tayara Andreza",
+    "isrc": "BR90B2201208"
+  },
+  {
+    "title": "Onde Estás",
+    "artist": "Banda Sentimentos, Mc Tocha",
+    "isrc": "QZMZ92038640"
+  },
+  {
+    "title": "A Casa Caiu",
+    "artist": "Carla Alves",
+    "isrc": "QZGLS1939189"
+  },
+  {
+    "title": "Não Me Compara",
+    "artist": "Banda Bandida",
+    "isrc": "QZGLM1906572"
+  },
+  {
+    "title": "Não Vou Desistir",
+    "artist": "Mc Tocha, Raphaela Santos",
+    "isrc": "BCDJM2100041"
+  },
+  {
+    "title": "Mentes Tão Bem",
+    "artist": "Banda Amigas do Brega",
+    "isrc": "US7VG2090037"
+  },
+  {
+    "title": "Frases Decoradas",
+    "artist": "MC Barão, Banda A Favorita",
+    "isrc": "QZMZ92046139"
+  },
+  {
+    "title": "Sem Você Tá Foda",
+    "artist": "Mc Roginho, Raphaela Santos",
+    "isrc": "QZGLS2164185"
+  },
+  {
+    "title": "Te Beijo Chorando - Ao Vivo",
+    "artist": "Priscila Senna",
+    "isrc": "BKFGT2300232"
+  },
+  {
+    "title": "Se Me Trair Vou Te Trair Também",
+    "artist": "Michelle Melo, Sheldon",
+    "isrc": "BRGXK1700012"
+  },
+  {
+    "title": "Some",
+    "artist": "Lekinho Campos, Mc Tocha, Banda Bandida",
+    "isrc": "QZHZ51969018"
+  },
+  {
+    "title": "Flores Que Plantei",
+    "artist": "Banda Nova Reação",
+    "isrc": "QZGLM1951796"
+  },
+  {
+    "title": "Não Deu Valor",
+    "artist": "André Viana, Dayane",
+    "isrc": "BRGRV0500516"
+  },
+  {
+    "title": "Estando Com Ela e Pensando em Ti",
+    "artist": "Kelvis Duran",
+    "isrc": "QZEQU2224555"
+  },
+  {
+    "title": "Azafama",
+    "artist": "Banda Só Brega",
+    "isrc": "BRMAX2300788"
+  },
+  {
+    "title": "Vamos Viajar",
+    "artist": "Luanny Vital, Raphaela Santos",
+    "isrc": "ESA112320950"
+  },
+  {
+    "title": "Não Devo Nada a Ninguém - Ao Vivo",
+    "artist": "Conde Só Brega",
+    "isrc": "BRMAX1901163"
+  },
+  {
+    "title": "Agora Que Acabou",
+    "artist": "Banda Musa, Priscila Senna, Raphaela Santos",
+    "isrc": "US7VG1956222"
+  },
+  {
+    "title": "È sério",
+    "artist": "Banda Encantu's",
+    "isrc": "US3DF2074647"
+  },
+  {
+    "title": "Milk Shake",
+    "artist": "Nega do Babado",
+    "isrc": "FR96X1971655"
+  },
+  {
+    "title": "Quer Me Fazer de Besta",
+    "artist": "Banda Efeito A",
+    "isrc": "US7VG1660904"
+  },
+  {
+    "title": "Moreninha Meu Amor",
+    "artist": "Asas Morenas",
+    "isrc": "QZEQU2033872"
+  },
+  {
+    "title": "Vamos Falar de Amor",
+    "artist": "Malla 100 Alça",
+    "isrc": "QZHZ32107131"
+  },
+  {
+    "title": "Aquela Nega",
+    "artist": "Aldair Playboy",
+    "isrc": "BXAJW1800004"
+  },
+  {
+    "title": "Isso É Imortal",
+    "artist": "Gatinha Manhosa",
+    "isrc": "QZHZ42066834"
+  },
+  {
+    "title": "Sede de Te Amar",
+    "artist": "Forró da Brucelose & Gilson Neto",
+    "isrc": "BRBEL1900137"
+  },
+  {
+    "title": "Todo Amor Que Eu Te Dei",
+    "artist": "Carta de Baralho",
+    "isrc": "BRGRV0400860"
+  },
+  {
+    "title": "Tomara",
+    "artist": "Pablo",
+    "isrc": "BR6G51300059"
+  },
+  {
+    "title": "Eu Acreditei",
+    "artist": "Anna Catarina",
+    "isrc": "QZEQU1900529"
+  },
+  {
+    "title": "Por Tão Pouco - Cover",
+    "artist": "Valquiria Santana",
+    "isrc": "QZ5AB2406178"
+  },
+  {
+    "title": "Sou Favela",
+    "artist": "Ruanzinho, Dany Bala",
+    "isrc": "QZ5AB2041372"
+  },
+  {
+    "title": "Meu Grande Amor (You are my life)",
+    "artist": "Forrozão Baby Som",
+    "isrc": "USA560866222"
+  },
+  {
+    "title": "Pra Sempre",
+    "artist": "Ciel Rodrigues, Raquel dos Teclados",
+    "isrc": "QZW9K2343828"
+  },
+  {
+    "title": "Sonho de Amor - Ao Vivo",
+    "artist": "Circuito Musical",
+    "isrc": "BRGRV0501414"
+  },
+  {
+    "title": "Não Tô Te Amando Normal",
+    "artist": "Loira Marrenta, Banda A Favorita",
+    "isrc": "QZ5AB1772110"
+  },
+  {
+    "title": "Agora Somos Ex",
+    "artist": "Léo Magalhães",
+    "isrc": "BXIU52300001"
+  },
+  {
+    "title": "Sou Favela",
+    "artist": "MC Bruninho, Vitinho Ferrari, Dj DG, Batidão Stronda",
+    "isrc": "BXG6R1800642"
+  },
+  {
+    "title": "Te Quero Tanto - Ao Vivo",
+    "artist": "Amigas, Japão",
+    "isrc": "US7VG1881315"
+  },
+  {
+    "title": "Sai Dessa Bad",
+    "artist": "Leo Gago, Banda Sentimentos, MC Barão",
+    "isrc": "QZHZ42078334"
+  },
+  {
+    "title": "Amor e Paixão",
+    "artist": "Rogério Som",
+    "isrc": "QZ5AB1833570"
+  },
+  {
+    "title": "Não Vai Me Enganar",
+    "artist": "Banda Delikada",
+    "isrc": "ITB881900742"
+  },
+  {
+    "title": "Ânsia",
+    "artist": "Banda Brega.Com",
+    "isrc": "BRMAX1402024"
+  },
+  {
+    "title": "Indomável",
+    "artist": "Eduarda",
+    "isrc": "BKTT72200012"
+  },
+  {
+    "title": "25 de Março - Ao Vivo",
+    "artist": "Elvis Mc, mc japao",
+    "isrc": "QZGLS1903773"
+  },
+  {
+    "title": "Ciumeira",
+    "artist": "Priscila Senna",
+    "isrc": "BRQTZ1810258"
+  },
+  {
+    "title": "Quem Te Viu, Quem Te Vê",
+    "artist": "Vicio Louco",
+    "isrc": "QZNJY2143140"
+  },
+  {
+    "title": "Em Nosso Quarto",
+    "artist": "Eduarda Alves",
+    "isrc": "QZ5AB2058332"
+  },
+  {
+    "title": "Odeio Amar Você",
+    "artist": "Banda Sedutora",
+    "isrc": "US7VG2401903"
+  },
+  {
+    "title": "Se Eu Fosse um Garoto",
+    "artist": "Banda Boa Toda",
+    "isrc": "QZNJX2178634"
+  },
+  {
+    "title": "Como a Culpa É Minha",
+    "artist": "Banda Torpedo",
+    "isrc": "US7VG1598598"
+  },
+  {
+    "title": "Pensei Que Era pra Sempre",
+    "artist": "Sheldon",
+    "isrc": "QZGLM1967085"
+  },
+  {
+    "title": "Eu Sou Mais Eu",
+    "artist": "Banda Carícias",
+    "isrc": "BRGRV0300588"
+  },
+  {
+    "title": "Foi Logo Amor",
+    "artist": "Banda A Favorita",
+    "isrc": "US7VG1760804"
+  },
+  {
+    "title": "História da Vida - Ao Vivo",
+    "artist": "Swing do Amor",
+    "isrc": "QZHZ51908734"
+  },
+  {
+    "title": "A Loira e a Morena",
+    "artist": "Musa do Calypso, Carla Alves",
+    "isrc": "BR90B1501580"
+  },
+  {
+    "title": "Baby Doll",
+    "artist": "Banda Metade",
+    "isrc": "QZEQU2064474"
+  },
+  {
+    "title": "Vingança",
+    "artist": "Tayara Andreza, Raphaela Santos, Priscila Senna",
+    "isrc": "BR90B1901983"
+  },
+  {
+    "title": "Como Dói",
+    "artist": "Banda Sentimentos, Raphaela Santos",
+    "isrc": "BKTTS2300143"
+  },
+  {
+    "title": "Louca",
+    "artist": "Carla Alves",
+    "isrc": "QZGLS1939188"
+  },
+  {
+    "title": "Saudade",
+    "artist": "Banda Bandida",
+    "isrc": "QZNJW2233048"
+  },
+  {
+    "title": "Brega Louco",
+    "artist": "Mc Tocha, Sheldon",
+    "isrc": "BCDJM2000004"
+  },
+  {
+    "title": "Um Dia Vai Me Procurar",
+    "artist": "Banda Amigas do Brega",
+    "isrc": "US7VG2090043"
+  },
+  {
+    "title": "Não Pude Evitar",
+    "artist": "MC Barão, Banda Sentimentos",
+    "isrc": "QZNJV2072696"
+  },
+  {
+    "title": "Dei Fuga",
+    "artist": "Mc Roginho",
+    "isrc": "QZGLS1959317"
+  },
+  {
+    "title": "Não Vou Me Acostumar",
+    "artist": "Michelle Melo",
+    "isrc": "DGA082206760"
+  },
+  {
+    "title": "Maloqueiro Ama",
+    "artist": "Lekinho Campos, Mc Thayk, Mc Tocha",
+    "isrc": "QZHZ32159595"
+  },
+  {
+    "title": "Alvejante",
+    "artist": "Priscila Senna, Zé Vaqueiro",
+    "isrc": "BRVOR2100114"
+  },
+  {
+    "title": "Nada Vai Adiantar",
+    "artist": "Banda Nova Reação",
+    "isrc": "QZGLM1951797"
+  },
+  {
+    "title": "Estou Apaixonado / Ingrata Solidão / Artigo de Vitrine / Eterno Amor - Ao Vivo",
+    "artist": "André Viana",
+    "isrc": "QZGLS1910587"
+  },
+  {
+    "title": "Perdoa-Me",
+    "artist": "Kelvis Duran",
+    "isrc": "ESA112428898"
+  },
+  {
+    "title": "A Vida É Assim",
+    "artist": "Banda Só Brega",
+    "isrc": "BRMAX2400004"
+  },
+  {
+    "title": "Não É o Fim",
+    "artist": "Luanny Vital, Banda A Favorita",
+    "isrc": "QZEQU2216721"
+  },
+  {
+    "title": "A Vida É Assim - Ao Vivo",
+    "artist": "Conde Só Brega",
+    "isrc": "BRMAX1901161"
+  },
+  {
+    "title": "Carrocinha de Pastel",
+    "artist": "Banda Musa",
+    "isrc": "QZ5AB1903790"
+  },
+  {
+    "title": "Namorar",
+    "artist": "Nega do Babado",
+    "isrc": "FR96X1971651"
+  },
+  {
+    "title": "Já Era",
+    "artist": "Banda Encantu's, Naiara Azevedo",
+    "isrc": "BXBBT2300027"
+  },
+  {
+    "title": "A Gente Combina Demais",
+    "artist": "Banda Efeito A",
+    "isrc": "US7VG1660903"
+  },
+  {
+    "title": "Como Vou Deixar Você",
+    "artist": "Asas Morenas, NATTAN",
+    "isrc": "QZEQU2253874"
+  },
+  {
+    "title": "Uma Chance a Mais",
+    "artist": "Malla 100 Alça",
+    "isrc": "BRWNK1400150"
+  },
+  {
+    "title": "Amor Falso",
+    "artist": "Aldair Playboy",
+    "isrc": "uscgj1873594"
+  },
+  {
+    "title": "Eu Me Amo Mais",
+    "artist": "Gatinha Manhosa",
+    "isrc": "QMANG2237535"
+  },
+  {
+    "title": "Te Amo Demais",
+    "artist": "Forró da Brucelose & Gilson Neto",
+    "isrc": "BRBEL0600005"
+  },
+  {
+    "title": "Falso Amor",
+    "artist": "Carta de Baralho",
+    "isrc": "BRGRV0400862"
+  },
+  {
+    "title": "Agora",
+    "artist": "Pablo",
+    "isrc": "BR6G51400002"
+  },
+  {
+    "title": "Nem Tchum",
+    "artist": "Anna Catarina",
+    "isrc": "QZEQU2080747"
+  },
+  {
+    "title": "Não Vou Querer Mais",
+    "artist": "Valquiria Santana",
+    "isrc": "QZ5AB1786827"
+  },
+  {
+    "title": "Dá uma Chance",
+    "artist": "Ruanzinho, Dany Bala",
+    "isrc": "BXSMW1800087"
+  },
+  {
+    "title": "Explica-me",
+    "artist": "Eduarda Alves",
+    "isrc": "QZ5AB2058333"
+  },
+  {
+    "title": "Apaga a Luz e Vem Deitar",
+    "artist": "Banda Sedutora",
+    "isrc": "QZ5AB1612255"
+  },
+  {
+    "title": "Lençol Vermelho",
+    "artist": "Banda Boa Toda",
+    "isrc": "QZHZ62054592"
+  },
+  {
+    "title": "Fase Ruim",
+    "artist": "Banda Torpedo",
+    "isrc": "QZ5AB1786829"
+  },
+  {
+    "title": "Nega",
+    "artist": "Sheldon, Matheuzinho",
+    "isrc": "QZGLM1967087"
+  },
+  {
+    "title": "Minha Timidez",
+    "artist": "Banda Carícias",
+    "isrc": "BRGRV0300657"
+  },
+  {
+    "title": "aquela pessoa",
+    "artist": "Banda A Favorita, Rafaela Santos",
+    "isrc": "QM3DF2293897"
+  },
+  {
+    "title": "Shakespeare Apaixonado - Ao Vivo",
+    "artist": "Swing do Amor",
+    "isrc": "QZHZ51908732"
+  },
+  {
+    "title": "Por Que Toda Vez (Ao Vivo)",
+    "artist": "Musa do Calypso, Rico Mell",
+    "isrc": "BRBRG1300253"
+  },
+  {
+    "title": "Sete Dias de Amor",
+    "artist": "Banda Metade",
+    "isrc": "QZEQU2064503"
+  },
+  {
+    "title": "Revanche",
+    "artist": "Tayara Andreza",
+    "isrc": "BR90B2201008"
+  },
+  {
+    "title": "Pouca Roupa",
+    "artist": "Banda Sentimentos",
+    "isrc": "US7VG2001891"
+  },
+  {
+    "title": "Não Disfarce",
+    "artist": "Carla Alves",
+    "isrc": "QZGLS1939190"
+  },
+  {
+    "title": "Mulher de um Homem Só",
+    "artist": "Banda Bandida",
+    "isrc": "QZHZ52192188"
+  },
+  {
+    "title": "Será",
+    "artist": "Mc Tocha, Grazi Almeida",
+    "isrc": "BCDJM2200010"
+  },
+  {
+    "title": "Amor de Rapariga - Ao Vivo",
+    "artist": "Banda Amigas do Brega",
+    "isrc": "QZHZ42057811"
+  },
+  {
+    "title": "Me Tira da Tua Mente",
+    "artist": "MC Barão",
+    "isrc": "QZ5AB2089989"
+  },
+  {
+    "title": "Preta do Cabelo Cacheado",
+    "artist": "Mc Roginho, Th CDM",
+    "isrc": "QZEQU2135378"
+  },
+  {
+    "title": "Sou Rainha",
+    "artist": "Michelle Melo",
+    "isrc": "BREZM1900076"
+  },
+  {
+    "title": "Novela",
+    "artist": "Lekinho Campos, Mc Thayk",
+    "isrc": "QZGLS2355388"
+  },
+  {
+    "title": "Saudade de Tu - Ao Vivo",
+    "artist": "Priscila Senna, Thiago Aquino",
+    "isrc": "BRVOR2200323"
+  }
+]

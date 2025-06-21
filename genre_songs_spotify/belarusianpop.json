@@ -1,0 +1,642 @@
+[
+  {
+    "title": "Маршрутка",
+    "artist": "IOWA",
+    "isrc": "RUB421401154"
+  },
+  {
+    "title": "Корабли",
+    "artist": "Dmitry Koldun",
+    "isrc": "RUA1D1807595"
+  },
+  {
+    "title": "А чё чё",
+    "artist": "Bianka",
+    "isrc": "RUB421800407"
+  },
+  {
+    "title": "Конечно, да!",
+    "artist": "Natalia Podolskaya",
+    "isrc": "RUB422300845"
+  },
+  {
+    "title": "Он не знает ничего",
+    "artist": "Kraski",
+    "isrc": "TCADT1865418"
+  },
+  {
+    "title": "A simple story",
+    "artist": "Irina Dorofeeva",
+    "isrc": "USWMA9011206"
+  },
+  {
+    "title": "По нервам",
+    "artist": "Angelica Agurbash, Karen Tuz",
+    "isrc": "RUA322204192"
+  },
+  {
+    "title": "Smile",
+    "artist": "Alesya",
+    "isrc": "USWMA9011202"
+  },
+  {
+    "title": "Beauty Bride",
+    "artist": "Andrew Khlestov",
+    "isrc": "USWMA9011207"
+  },
+  {
+    "title": "Takes time",
+    "artist": "Dmitriy Smolskiy",
+    "isrc": "USWMA9011217"
+  },
+  {
+    "title": "Take Me to Heaven!",
+    "artist": "Ekaterina Sakovich",
+    "isrc": "USWMA9010349"
+  },
+  {
+    "title": "Firebird",
+    "artist": "Gruppa Matryoshki International",
+    "isrc": "USWMA9025595"
+  },
+  {
+    "title": "Dear Boy",
+    "artist": "Olga Azarinskaya",
+    "isrc": "USWMA9011214"
+  },
+  {
+    "title": "Did not agree",
+    "artist": "Polina Smolova",
+    "isrc": "USWMA9011209"
+  },
+  {
+    "title": "It's Snowing",
+    "artist": "Valentina Olshanskaya",
+    "isrc": "USWMA9024966"
+  },
+  {
+    "title": "Тает Ещё",
+    "artist": "Tima Belorusskih",
+    "isrc": "DGA072188789"
+  },
+  {
+    "title": "Полковнику никто не пишет",
+    "artist": "Би-2",
+    "isrc": "RUA741912001"
+  },
+  {
+    "title": "Evening Meeting",
+    "artist": "Vladimir Karachevsky",
+    "isrc": "USWMA9011208"
+  },
+  {
+    "title": "Insomnia",
+    "artist": "Vladimir Ukhtinskiy",
+    "isrc": "USWMA9011211"
+  },
+  {
+    "title": "Зачарованная Моя",
+    "artist": "Pesniary",
+    "isrc": "GB5EM2001935"
+  },
+  {
+    "title": "Малиновки заслышав голосок",
+    "artist": "Верасы",
+    "isrc": "UK2Y21600957"
+  },
+  {
+    "title": "Лето",
+    "artist": "HOMIE",
+    "isrc": "QMPU51629891"
+  },
+  {
+    "title": "Historyja Majho žyccia (Eurovision 2017)",
+    "artist": "NAVIBAND",
+    "isrc": "RUA1H1721316"
+  },
+  {
+    "title": "Time",
+    "artist": "Uzari, Maimuna",
+    "isrc": "TCAEQ2072688"
+  },
+  {
+    "title": "Gypsy's Fate - Remix",
+    "artist": "Aleksandr Nazarov",
+    "isrc": "USWMA9024851"
+  },
+  {
+    "title": "Rules",
+    "artist": "Alexander Solodukha",
+    "isrc": "USWMA9011199"
+  },
+  {
+    "title": "Revelation",
+    "artist": "Anatoly Yarmolenko",
+    "isrc": "USWMA9011201"
+  },
+  {
+    "title": "Dad",
+    "artist": "Anya and Nastia Prokopovich",
+    "isrc": "USWMA9011215"
+  },
+  {
+    "title": "Want to Paris",
+    "artist": "Dr. SaikoFF",
+    "isrc": "USWMA9011248"
+  },
+  {
+    "title": "Spring in the Soul",
+    "artist": "Elena Lebedeva",
+    "isrc": "USWMA9010346"
+  },
+  {
+    "title": "Urban Romance - with Igor Aksyuta",
+    "artist": "Igor Aksyuta, Irina Smolskaya",
+    "isrc": "USWMA9011212"
+  },
+  {
+    "title": "Disobedient",
+    "artist": "Inessa, John Hill",
+    "isrc": "SEYOK1938177"
+  },
+  {
+    "title": "I Recognize You",
+    "artist": "Irina Varvashevich",
+    "isrc": "USWMA9010381"
+  },
+  {
+    "title": "Cartoon",
+    "artist": "Larisa Gribaleva",
+    "isrc": "USWMA9011333"
+  },
+  {
+    "title": "My City",
+    "artist": "Lyana Ibis",
+    "isrc": "USWMA9011200"
+  },
+  {
+    "title": "Ringlet",
+    "artist": "Matryoshka International",
+    "isrc": "USWMA9009668"
+  },
+  {
+    "title": "In the Sky",
+    "artist": "Oksana Sergeeva",
+    "isrc": "USWMA9011330"
+  },
+  {
+    "title": "Uninvented Love",
+    "artist": "Olga Vronskaya",
+    "isrc": "USWMA9011332"
+  },
+  {
+    "title": "Aroosak",
+    "artist": "Pasha, Erfan Shiri",
+    "isrc": "GX4R52217568"
+  },
+  {
+    "title": "White Dew",
+    "artist": "Peter Elfimov",
+    "isrc": "USWMA9011216"
+  },
+  {
+    "title": "Zavalinka",
+    "artist": "Sergey Gerasimov, Syabry",
+    "isrc": "GBLV61410455"
+  },
+  {
+    "title": "Give Me a Hand, Friends",
+    "artist": "Sergey Nosko",
+    "isrc": "GBLPF0079439"
+  },
+  {
+    "title": "Dedication to Woman",
+    "artist": "Valentin Kovaliv",
+    "isrc": "USWMA9024855"
+  },
+  {
+    "title": "Do not Let Me Go",
+    "artist": "Vera Boguslav",
+    "isrc": "USWMA9011344"
+  },
+  {
+    "title": "Paper paradise",
+    "artist": "Vera Karetnikova",
+    "isrc": "USWMA9011329"
+  },
+  {
+    "title": "Target",
+    "artist": "YulyaSha",
+    "isrc": "USWMA9011339"
+  },
+  {
+    "title": "New Year",
+    "artist": "Zhanna Pivovarova",
+    "isrc": "USWMA9010773"
+  },
+  {
+    "title": "Он не знает ничего - Ночное Движение & Dj Safiter Remix",
+    "artist": "Oksana Kovalevskaya, Ночное движение, DJ Safiter",
+    "isrc": "FR59R2157930"
+  },
+  {
+    "title": "Solayoh",
+    "artist": "Alyona Lanskaya",
+    "isrc": "FRX761595381"
+  },
+  {
+    "title": "Молодость",
+    "artist": "NEMIGA",
+    "isrc": "RUB421901869"
+  },
+  {
+    "title": "Cmok",
+    "artist": "Ivan Kirchuk",
+    "isrc": "NLC190000086"
+  },
+  {
+    "title": "Калыханка",
+    "artist": "Жанет",
+    "isrc": "RUA491710737"
+  },
+  {
+    "title": "Здравствуй чужая милая",
+    "artist": "Александр Солодуха",
+    "isrc": "GBLPF0045935"
+  },
+  {
+    "title": "Gypsy share",
+    "artist": "Alexander Nazarov",
+    "isrc": "USWMA9010586"
+  },
+  {
+    "title": "Путь домой",
+    "artist": "Didula",
+    "isrc": "RUB421304548"
+  },
+  {
+    "title": "Always Remember Us This Way",
+    "artist": "Kate-Margret",
+    "isrc": "GBLPF0216894"
+  },
+  {
+    "title": "Bye, Man",
+    "artist": "Ника Баринова",
+    "isrc": "GBLPF0007602"
+  },
+  {
+    "title": "Sokal (Falcon) - Junior Eurovision 2014 - Belarus",
+    "artist": "Nadezhda Misyakova",
+    "isrc": "DKUM71400294"
+  },
+  {
+    "title": "Eyes That Never Lie",
+    "artist": "Petr Elfimov",
+    "isrc": "RUA1H2098663"
+  },
+  {
+    "title": "Hasta La Vista - Belarus",
+    "artist": "Ruslan Alehno",
+    "isrc": "DKBV70807805"
+  },
+  {
+    "title": "Ja fala",
+    "artist": "Savanna",
+    "isrc": "GX7852200491"
+  },
+  {
+    "title": "Fall",
+    "artist": "Spasenie",
+    "isrc": "usx9p0778396"
+  },
+  {
+    "title": "Tell me, tell me ...",
+    "artist": "Vitaly Prokopovich",
+    "isrc": "USWMA9010450"
+  },
+  {
+    "title": "Spring Waltz",
+    "artist": "Валентин Ковалив",
+    "isrc": "USWMA9010339"
+  },
+  {
+    "title": "100 дорог",
+    "artist": "Виталий Гордей, Александр Звинцов",
+    "isrc": "AEA2M2364639"
+  },
+  {
+    "title": "Oh, Bird - Сherries",
+    "artist": "Группа Матрешки International",
+    "isrc": "USWMA9009665"
+  },
+  {
+    "title": "Душа",
+    "artist": "Игорь Дегтярёв",
+    "isrc": "GBLPF0020704"
+  },
+  {
+    "title": "Узнаю тебя",
+    "artist": "Ирина Варвашевич",
+    "isrc": "GBLPF0020709"
+  },
+  {
+    "title": "Яблони",
+    "artist": "Лето, Lyapis Trubetskoy",
+    "isrc": "SMRUS0022040"
+  },
+  {
+    "title": "Одиночество",
+    "artist": "Сергей Носко",
+    "isrc": "GBLPF0020702"
+  },
+  {
+    "title": "Одно и то же",
+    "artist": "IOWA",
+    "isrc": "RUB421401153"
+  },
+  {
+    "title": "Приду без повода",
+    "artist": "Dmitry Koldun",
+    "isrc": "RUB422300760"
+  },
+  {
+    "title": "Kissлород",
+    "artist": "Natalia Podolskaya, Vladimir Presnyakov",
+    "isrc": "RUB421306220"
+  },
+  {
+    "title": "Были танцы",
+    "artist": "Bianka",
+    "isrc": "RUA012000460"
+  },
+  {
+    "title": "Do not Hurry to Leave",
+    "artist": "Irina Dorofeeva",
+    "isrc": "USWMA9010372"
+  },
+  {
+    "title": "Сегодня к маме я приехала домой",
+    "artist": "Kraski",
+    "isrc": "TCADT1865420"
+  },
+  {
+    "title": "Я буду жить для тебя",
+    "artist": "Angelica Agurbash",
+    "isrc": "RUAGV2302832"
+  },
+  {
+    "title": "Ghiaccio e polvere",
+    "artist": "Alesya",
+    "isrc": "ITRZ71700002"
+  },
+  {
+    "title": "Call",
+    "artist": "Dmitriy Smolskiy",
+    "isrc": "USWMA9011203"
+  },
+  {
+    "title": "Heart",
+    "artist": "Ekaterina Sakovich",
+    "isrc": "USWMA9013748"
+  },
+  {
+    "title": "My Friend the Moon",
+    "artist": "Olga Azarinskaya",
+    "isrc": "USWMA9013742"
+  },
+  {
+    "title": "Fireside",
+    "artist": "Vladimir Karachevsky",
+    "isrc": "GBLPF0079992"
+  },
+  {
+    "title": "Окей",
+    "artist": "Tima Belorusskih",
+    "isrc": "QM7282095463"
+  },
+  {
+    "title": "Варвара",
+    "artist": "Би-2",
+    "isrc": "RUA741912002"
+  },
+  {
+    "title": "On the Edge of the Earth",
+    "artist": "Vladimir Ukhtinskiy",
+    "isrc": "USWMA9011219"
+  },
+  {
+    "title": "Алеся",
+    "artist": "Pesniary",
+    "isrc": "FR10S1899019"
+  },
+  {
+    "title": "Завируха",
+    "artist": "Верасы",
+    "isrc": "UK2Y21504155"
+  },
+  {
+    "title": "Эгоист",
+    "artist": "HOMIE",
+    "isrc": "RUA1D1801440"
+  },
+  {
+    "title": "Прабач",
+    "artist": "NAVIBAND",
+    "isrc": "QZ5AB2477145"
+  },
+  {
+    "title": "Я Выдумляю",
+    "artist": "Uzari",
+    "isrc": "TCAEE1909873"
+  },
+  {
+    "title": "You for me fulfilled",
+    "artist": "Alexander Solodukha",
+    "isrc": "USWMA9011204"
+  },
+  {
+    "title": "Wild",
+    "artist": "Dr. SaikoFF",
+    "isrc": "USWMA9011244"
+  },
+  {
+    "title": "Spring in the Soul - Instrumental Version",
+    "artist": "Elena Lebedeva",
+    "isrc": "USWMA9010347"
+  },
+  {
+    "title": "Roses of Love",
+    "artist": "Inessa",
+    "isrc": "SEYOK2123909"
+  },
+  {
+    "title": "Родник",
+    "artist": "Matryoshka International",
+    "isrc": "GBLPF0018291"
+  },
+  {
+    "title": "Run (with Aleksey Gos)",
+    "artist": "Olga Vronskaya",
+    "isrc": "USWMA9011335"
+  },
+  {
+    "title": "Leyla",
+    "artist": "Pasha, Hossein Azizi",
+    "isrc": "GX4R52217566"
+  },
+  {
+    "title": "By the Side of Summer",
+    "artist": "Sergey Gerasimov",
+    "isrc": "USWMA9024843"
+  },
+  {
+    "title": "Mother I'm Coming Home",
+    "artist": "Sergey Nosko",
+    "isrc": "GBLPF0079441"
+  },
+  {
+    "title": "Molecules of Love",
+    "artist": "Vera Karetnikova",
+    "isrc": "USWMA9011334"
+  },
+  {
+    "title": "Fable",
+    "artist": "Zhanna Pivovarova",
+    "isrc": "USWMA9010765"
+  },
+  {
+    "title": "А вы не трогайте меня (Eddie G Retro Radio Edit)",
+    "artist": "Oksana Kovalevskaya, Eddie G",
+    "isrc": "RUA1D2012989"
+  },
+  {
+    "title": "Rhythm of Love",
+    "artist": "Alyona Lanskaya",
+    "isrc": "FRX761595392"
+  },
+  {
+    "title": "Белым",
+    "artist": "NEMIGA",
+    "isrc": "RUB422000896"
+  },
+  {
+    "title": "Ni Paroj Ty Zaria",
+    "artist": "Ivan Kirchuk",
+    "isrc": "NLC190000103"
+  },
+  {
+    "title": "Беларусь",
+    "artist": "Жанет",
+    "isrc": "RUA491710256"
+  },
+  {
+    "title": "День рождения",
+    "artist": "Александр Солодуха, Олег Елисеенков",
+    "isrc": "GBLPF0045989"
+  },
+  {
+    "title": "Fly",
+    "artist": "Alexander Nazarov",
+    "isrc": "USWMA9010588"
+  },
+  {
+    "title": "Улыбайся",
+    "artist": "IOWA",
+    "isrc": "RUB421401152"
+  },
+  {
+    "title": "Почему",
+    "artist": "Dmitry Koldun",
+    "isrc": "RUA591400514"
+  },
+  {
+    "title": "Мулен Руж",
+    "artist": "Bianka",
+    "isrc": "RUB422000007"
+  },
+  {
+    "title": "Поздно",
+    "artist": "Natalia Podolskaya",
+    "isrc": "RUB421200952"
+  },
+  {
+    "title": "Fly Over the Oecumene",
+    "artist": "Irina Dorofeeva",
+    "isrc": "USWMA9012440"
+  },
+  {
+    "title": "Те, кто любит",
+    "artist": "Kraski",
+    "isrc": "TCADT1865595"
+  },
+  {
+    "title": "Мне любви твоей мало",
+    "artist": "Angelica Agurbash",
+    "isrc": "RUA3R1932012"
+  },
+  {
+    "title": "Angelo",
+    "artist": "Alesya",
+    "isrc": "ITRZ71600001"
+  },
+  {
+    "title": "I'm Very Sorry!",
+    "artist": "Dmitriy Smolskiy",
+    "isrc": "USWMA9013743"
+  },
+  {
+    "title": "Formula",
+    "artist": "Olga Azarinskaya",
+    "isrc": "USWMA9013752"
+  },
+  {
+    "title": "Её глаза",
+    "artist": "Би-2, Prague Metropolitan Symphonic Orchestra",
+    "isrc": "QM4TX1742865"
+  },
+  {
+    "title": "Под Звездопадом",
+    "artist": "Tima Belorusskih",
+    "isrc": "FRX202146153"
+  },
+  {
+    "title": "Artist",
+    "artist": "Vladimir Ukhtinskiy",
+    "isrc": "USWMA9011218"
+  },
+  {
+    "title": "Мой родны кут",
+    "artist": "Pesniary",
+    "isrc": "FR10S1899017"
+  },
+  {
+    "title": "Любишь - не любишь",
+    "artist": "Верасы",
+    "isrc": "UK2Y21600951"
+  },
+  {
+    "title": "Безумно можно быть первым",
+    "artist": "HOMIE",
+    "isrc": "QMPU51291900"
+  },
+  {
+    "title": "Іншымі",
+    "artist": "NAVIBAND",
+    "isrc": "AEA0Q2042342"
+  },
+  {
+    "title": "Падзяка Сэрца",
+    "artist": "Uzari",
+    "isrc": "TCAEB1967363"
+  },
+  {
+    "title": "To you",
+    "artist": "Alexander Solodukha",
+    "isrc": "USWMA9011213"
+  },
+  {
+    "title": "Inna",
+    "artist": "Dr. SaikoFF",
+    "isrc": "USWMA9011247"
+  }
+]

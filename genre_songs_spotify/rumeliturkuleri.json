@@ -1,0 +1,737 @@
+[
+  {
+    "title": "Varna",
+    "artist": "Gültekin, Ekrem",
+    "isrc": "TR0420600910"
+  },
+  {
+    "title": "Kadifeden Kesesi",
+    "artist": "Ekrem, Gültekin",
+    "isrc": "TR0420641611"
+  },
+  {
+    "title": "Evreşe Yolları",
+    "artist": "Gültekin İpekel, Ekrem Pehlivan",
+    "isrc": "TR0420600648"
+  },
+  {
+    "title": "Remziyem",
+    "artist": "Rumeli Semih",
+    "isrc": "TR7251700166"
+  },
+  {
+    "title": "Arnavut Kızı",
+    "artist": "Rumelili Doğan",
+    "isrc": "TR7251800199"
+  },
+  {
+    "title": "Çok Güzeldir Rumeli'nin Kızları",
+    "artist": "Rumeli Yakup",
+    "isrc": "TR0151900021"
+  },
+  {
+    "title": "Güldaniyem",
+    "artist": "Faruk Yılmaz",
+    "isrc": "TR0690600737"
+  },
+  {
+    "title": "Rumeli'nin Kızları",
+    "artist": "Sevdet Paftalı",
+    "isrc": "TR0861900095"
+  },
+  {
+    "title": "Pembe Şalvar",
+    "artist": "Orhan Rumeli, Kemal Rumeli",
+    "isrc": "TR9271200173"
+  },
+  {
+    "title": "Oğlan Oğlan",
+    "artist": "Semih",
+    "isrc": "TR0420600018"
+  },
+  {
+    "title": "Bursalı Mısın Kadifeli Gelin",
+    "artist": "Orhan Pehlivan, Kemal Pehlivan",
+    "isrc": "TR0501000748"
+  },
+  {
+    "title": "Tütünemi Gidersin Mendilimin",
+    "artist": "Yiğit Beşkardeşler",
+    "isrc": "TR0501200146"
+  },
+  {
+    "title": "Ramo",
+    "artist": "Havva Karakaş",
+    "isrc": "TR0441107002"
+  },
+  {
+    "title": "Güldaniyem",
+    "artist": "Rumeli Ekrem",
+    "isrc": "TR4591202735"
+  },
+  {
+    "title": "Bursa'nın Ufak Tefek Taşları",
+    "artist": "Rumeli Gültekin, Eser İpekel",
+    "isrc": "TR0501799964"
+  },
+  {
+    "title": "Damat Halayı",
+    "artist": "Rumeli Ayhan",
+    "isrc": "QZTAS2199717"
+  },
+  {
+    "title": "Bağlar Yolu",
+    "artist": "Halil Eser",
+    "isrc": "TR0861900021"
+  },
+  {
+    "title": "Manken Gibi Gelinim",
+    "artist": "Rumeli Orhan, Kemal",
+    "isrc": "TR9271800433"
+  },
+  {
+    "title": "Para Bizde",
+    "artist": "Rumeli Orhan | Kemal",
+    "isrc": "TR9271800451"
+  },
+  {
+    "title": "Maystoro",
+    "artist": "Mecit, Evren",
+    "isrc": "FR10S1522251"
+  },
+  {
+    "title": "Deryalar",
+    "artist": "Arif Sentürk",
+    "isrc": "TR0070502104"
+  },
+  {
+    "title": "Yarım Hava Çalsana",
+    "artist": "Suzan Kardeş",
+    "isrc": "TR0011300403"
+  },
+  {
+    "title": "Balkanların Gülü",
+    "artist": "Gamze Matracı",
+    "isrc": "TR0331610593"
+  },
+  {
+    "title": "Maşallah Nuse",
+    "artist": "Rumeli Orhan Kemal",
+    "isrc": "TRBPU2100283"
+  },
+  {
+    "title": "Svadba Golema",
+    "artist": "Ceyhun Üsküp",
+    "isrc": "TR0501300107"
+  },
+  {
+    "title": "Damat Oyunu",
+    "artist": "Cüneyt Şentürk",
+    "isrc": "TR4831200340"
+  },
+  {
+    "title": "Bağa Girdim",
+    "artist": "Rüstem Avcı",
+    "isrc": "TR0240601056"
+  },
+  {
+    "title": "Kına Geliyor",
+    "artist": "Emirhan Çalışkan",
+    "isrc": "TR0861900094"
+  },
+  {
+    "title": "Iğdır'ın Al Alması",
+    "artist": "Zeynep Atagür",
+    "isrc": "TR0240601263"
+  },
+  {
+    "title": "Yayla Güzeli",
+    "artist": "Özcan Akın",
+    "isrc": "TRBIY2000058"
+  },
+  {
+    "title": "Antalya Gaydası - Kalite Marka",
+    "artist": "DJ Yılmaz",
+    "isrc": "TR1761700001"
+  },
+  {
+    "title": "Hoş Gelişler Ola Mustafa Kemal Paşa",
+    "artist": "Melihat Gülses, Hakan Aysev",
+    "isrc": "TRAAH1900011"
+  },
+  {
+    "title": "Aman Hocam",
+    "artist": "Faik Kara",
+    "isrc": "FR59R1473945"
+  },
+  {
+    "title": "Kızılcıklar Oldu Mu",
+    "artist": "Elvan Erbaşı, Zeynep Atagür, Erol Köker, Orhan Hakalmaz",
+    "isrc": "TR0240600601"
+  },
+  {
+    "title": "Çanakkale İçinde",
+    "artist": "Erol Köker",
+    "isrc": "TR0240600790"
+  },
+  {
+    "title": "Uçtu Uçtu",
+    "artist": "Serkan Çağrı & Rumeli Band",
+    "isrc": "TR9641100003"
+  },
+  {
+    "title": "Bursa Çiftetellisi",
+    "artist": "Fehmi Ünlüyayla",
+    "isrc": "FR59R1483344"
+  },
+  {
+    "title": "Luymi Luymi",
+    "artist": "Abdülmecit Şenol",
+    "isrc": "TR0140503377"
+  },
+  {
+    "title": "Aldı Gitti",
+    "artist": "Yasemin Göksu",
+    "isrc": "TR1590600169"
+  },
+  {
+    "title": "Jarnana",
+    "artist": "Kemal Sahir Gürel, Hüseyin Yıldız, Erdal Güney",
+    "isrc": "TR0330806706"
+  },
+  {
+    "title": "Fikrimin İnce Gülü",
+    "artist": "Müzeyyen Senar",
+    "isrc": "TR0790600062"
+  },
+  {
+    "title": "Bir İhtimal Daha Var",
+    "artist": "Safiye Ayla",
+    "isrc": "TR0790600418"
+  },
+  {
+    "title": "Pişmeye Geldim",
+    "artist": "Hüseyin Yıldız",
+    "isrc": "TR1591402280"
+  },
+  {
+    "title": "Deryalar (Yusufum)",
+    "artist": "Fahriye Güney",
+    "isrc": "FR2X41450059"
+  },
+  {
+    "title": "Binnaz",
+    "artist": "Ciguli",
+    "isrc": "TCAFI2014005"
+  },
+  {
+    "title": "Saklımdasın",
+    "artist": "Erdal Güney",
+    "isrc": "TR0280603510"
+  },
+  {
+    "title": "Çökertme",
+    "artist": "Sahin Gültekin",
+    "isrc": "TR0241103605"
+  },
+  {
+    "title": "Gözlerin",
+    "artist": "Zülfü Livaneli",
+    "isrc": "TR2810700043"
+  },
+  {
+    "title": "Trakya Çiftetellisi",
+    "artist": "Incesaz",
+    "isrc": "TRAPL1500210"
+  },
+  {
+    "title": "Çıkayım Gideyim Urum Eline",
+    "artist": "Rumeli Türküleri",
+    "isrc": "TR0330600830"
+  },
+  {
+    "title": "Yozgat Halayı Ağırlama",
+    "artist": "Hakan Kumru, Necip Yılgın",
+    "isrc": "TR0801100730"
+  },
+  {
+    "title": "Dol Karabakır",
+    "artist": "Trakia Ensemble, Serkan Çağrı",
+    "isrc": "TR9641400040"
+  },
+  {
+    "title": "Eklemedir Koca Konak",
+    "artist": "Oğuz Turgutgenç, Linda Çandır",
+    "isrc": "TR0341100159"
+  },
+  {
+    "title": "Gideriz Biz İkimiz",
+    "artist": "Remziye Karayer, Mustafa Karayer",
+    "isrc": "TR0240601058"
+  },
+  {
+    "title": "Kurdelemin Uçları İpekten",
+    "artist": "Sabriye Sayın",
+    "isrc": "TR0240600819"
+  },
+  {
+    "title": "Bahçalarda Börülce",
+    "artist": "Sibel Güzel",
+    "isrc": "TR0240602819"
+  },
+  {
+    "title": "Mavrova'dan Aldım Sümbül",
+    "artist": "Soner Özbilen",
+    "isrc": "TR0240602845"
+  },
+  {
+    "title": "Toycular / Zap Suyu / Elinde Oya - Potpori",
+    "artist": "Türkülerle Türkiye Korosu",
+    "isrc": "TR0240602869"
+  },
+  {
+    "title": "Pencere Açıldı Bilal Oğlan",
+    "artist": "Yöre",
+    "isrc": "TR0240602997"
+  },
+  {
+    "title": "Seherde Bir Bağa Girdim",
+    "artist": "Soner Soyer",
+    "isrc": "TR0781000771"
+  },
+  {
+    "title": "Kırmızı Balık Uykuda",
+    "artist": "Linda Çandır",
+    "isrc": "FR2X41929342"
+  },
+  {
+    "title": "Misket Oy Farfara",
+    "artist": "Mustafa Dere",
+    "isrc": "TR1751500314"
+  },
+  {
+    "title": "Dere Geliyor Dere",
+    "artist": "Olcay Köker",
+    "isrc": "TR0240600817"
+  },
+  {
+    "title": "Manastırın Ortasında",
+    "artist": "Pınar Dönmez",
+    "isrc": "TR7801300269"
+  },
+  {
+    "title": "Rumeli Karşılaması",
+    "artist": "Rumelinin Ritmi Korosu",
+    "isrc": "TR0460600001"
+  },
+  {
+    "title": "Bahçe Duvarından Aştım",
+    "artist": "Sezai Göksu",
+    "isrc": "TR1751500437"
+  },
+  {
+    "title": "Hap Koydum",
+    "artist": "İzmirli Birol, Çılgın Cemal",
+    "isrc": "TR1591101492"
+  },
+  {
+    "title": "Çiçekçi Kız",
+    "artist": "İzmirli Seda",
+    "isrc": "TR1591101491"
+  },
+  {
+    "title": "Evreşe Yolları",
+    "artist": "Gültekin, Ekrem",
+    "isrc": "TR0420600925"
+  },
+  {
+    "title": "Şinanari",
+    "artist": "Ekrem, Gültekin",
+    "isrc": "TR0420641885"
+  },
+  {
+    "title": "Ayva Çiçek Açmış",
+    "artist": "Gültekin İpekel, Ekrem Pehlivan",
+    "isrc": "FR59R1485008"
+  },
+  {
+    "title": "Kıskananlar Çatlasın",
+    "artist": "Rumeli Semih",
+    "isrc": "TR7251800107"
+  },
+  {
+    "title": "Başına Bağlamış Bir Boyalı Şami",
+    "artist": "Rumelili Doğan, Mago Aba",
+    "isrc": "TR7252100060"
+  },
+  {
+    "title": "Kalk Gidelim Mori Memlekete",
+    "artist": "Rumeli Yakup",
+    "isrc": "TR0151701272"
+  },
+  {
+    "title": "Selanik",
+    "artist": "Faruk Yılmaz",
+    "isrc": "TR0690600744"
+  },
+  {
+    "title": "Altınları Takarsın",
+    "artist": "Sevdet Paftalı",
+    "isrc": "TR0861800059"
+  },
+  {
+    "title": "Osman Ağa",
+    "artist": "Orhan Rumeli, Kemal Rumeli",
+    "isrc": "TR9271200162"
+  },
+  {
+    "title": "Vursunlar Davullar",
+    "artist": "Semih",
+    "isrc": "TR0420600016"
+  },
+  {
+    "title": "Bir Kız Gördüm",
+    "artist": "Yiğit Beşkardeşler",
+    "isrc": "TR0501200139"
+  },
+  {
+    "title": "Babuba",
+    "artist": "Orhan Pehlivan, Kemal Pehlivan",
+    "isrc": "TR0501000755"
+  },
+  {
+    "title": "Abe Kayana",
+    "artist": "Rumeli Ekrem",
+    "isrc": "TR4591202739"
+  },
+  {
+    "title": "Şefo",
+    "artist": "Havva Karakaş",
+    "isrc": "TR0441107007"
+  },
+  {
+    "title": "Mendilimin Aman Ucu Pembe",
+    "artist": "Rumeli Gültekin, Eser İpekel",
+    "isrc": "TR0501799963"
+  },
+  {
+    "title": "Lele Kambera",
+    "artist": "Halil Eser",
+    "isrc": "TR4591900041"
+  },
+  {
+    "title": "Sen Ola Düğün",
+    "artist": "Rumeli Ayhan",
+    "isrc": "QZK6Q2175845"
+  },
+  {
+    "title": "Bela Bela",
+    "artist": "Mecit, Evren",
+    "isrc": "FR10S1522241"
+  },
+  {
+    "title": "Kaynanamın Altın Dişleri",
+    "artist": "Rumeli Orhan, Kemal",
+    "isrc": "TRADP1400038"
+  },
+  {
+    "title": "Ramizem",
+    "artist": "Arif Sentürk",
+    "isrc": "TR0070502110"
+  },
+  {
+    "title": "Çek Tulumbayı",
+    "artist": "Rumeli Orhan | Kemal",
+    "isrc": "TR9272200034"
+  },
+  {
+    "title": "Doldurduk Mangali",
+    "artist": "Gamze Matracı",
+    "isrc": "TR0331811438"
+  },
+  {
+    "title": "Sendeki Kaşlar",
+    "artist": "Suzan Kardeş",
+    "isrc": "TR0010800192"
+  },
+  {
+    "title": "Hap Koydum Kaynana Roman Havası",
+    "artist": "Rumeli Orhan Kemal",
+    "isrc": "QZNWS2338841"
+  },
+  {
+    "title": "Za Pusti Pari Prokleti",
+    "artist": "Ceyhun Üsküp",
+    "isrc": "TR0501300112"
+  },
+  {
+    "title": "Yaşa Bana Be",
+    "artist": "Cüneyt Şentürk, Orhan Çakır",
+    "isrc": "TRBUZ2000004"
+  },
+  {
+    "title": "Bahçelerde Biberiye",
+    "artist": "Rüstem Avcı",
+    "isrc": "TR0240600816"
+  },
+  {
+    "title": "Kır Testiyi Gelin",
+    "artist": "Emirhan Çalışkan",
+    "isrc": "TR0861700134"
+  },
+  {
+    "title": "Varın Sonu Babasına - Kına Havası",
+    "artist": "Zeynep Atagür, Celal Bakar, Sibel Güzel",
+    "isrc": "TR0240601060"
+  },
+  {
+    "title": "Mapus Damları",
+    "artist": "Özcan Akın, Adanalı Ayhan",
+    "isrc": "TRBIY2100159"
+  },
+  {
+    "title": "Gel Gönlümü Yerden Yere Vurma Güzel Ne Olursun",
+    "artist": "Melihat Gülses",
+    "isrc": "TR0950600012"
+  },
+  {
+    "title": "Kukuli Mogali",
+    "artist": "DJ Yılmaz, Kobra Murat",
+    "isrc": "USA2P2233670"
+  },
+  {
+    "title": "Bekar Gezelim",
+    "artist": "Faik Kara",
+    "isrc": "FR59R1473951"
+  },
+  {
+    "title": "Kiraz Aldım Dikmenden",
+    "artist": "Elvan Erbaşı, Zara, Zeynep Atagür, Erol Köker, Orhan Hakalmaz",
+    "isrc": "TR0240600515"
+  },
+  {
+    "title": "Silifkenin Yoğurdu",
+    "artist": "Erol Köker",
+    "isrc": "TR0241103572"
+  },
+  {
+    "title": "Oğlan Oğlan",
+    "artist": "Serkan Çağrı & Rumeli Band",
+    "isrc": "TR9641100007"
+  },
+  {
+    "title": "Mastika",
+    "artist": "Fehmi Ünlüyayla",
+    "isrc": "TR0470602425"
+  },
+  {
+    "title": "Tek Tek Çiftetelli",
+    "artist": "Abdülmecit Şenol",
+    "isrc": "TR0141809616"
+  },
+  {
+    "title": "Ayletme Beni",
+    "artist": "Yasemin Göksu",
+    "isrc": "TR0331007359"
+  },
+  {
+    "title": "Gece ve Rüzgar",
+    "artist": "Kemal Sahir Gürel, Erdal Güney, Hüseyin Yıldız, Eylem Aktaş",
+    "isrc": "TR0330706009"
+  },
+  {
+    "title": "Bir İhtimal Daha Var",
+    "artist": "Müzeyyen Senar",
+    "isrc": "TR0801100959"
+  },
+  {
+    "title": "Çile Bülbülüm Çile",
+    "artist": "Safiye Ayla",
+    "isrc": "TR0790600415"
+  },
+  {
+    "title": "Farkındalık",
+    "artist": "Hüseyin Yıldız, Merve Büyüktaş",
+    "isrc": "TRCMH2400001"
+  },
+  {
+    "title": "Ey Kırcali",
+    "artist": "Fahriye Güney",
+    "isrc": "FR2X41449957"
+  },
+  {
+    "title": "Sabır",
+    "artist": "Ciguli",
+    "isrc": "TR0330604202"
+  },
+  {
+    "title": "Haydi Kalk Ayağa",
+    "artist": "Erdal Güney",
+    "isrc": "TR0281305084"
+  },
+  {
+    "title": "Vardar Ovası",
+    "artist": "Sahin Gültekin",
+    "isrc": "TR0240602846"
+  },
+  {
+    "title": "Yiğidim Aslanım - Live",
+    "artist": "Zülfü Livaneli",
+    "isrc": "TR2810600011"
+  },
+  {
+    "title": "Tekirdağ Kız Karşılama",
+    "artist": "Incesaz",
+    "isrc": "TRAPL1500203"
+  },
+  {
+    "title": "Kırmızı Gülün Ali Var",
+    "artist": "Rumeli Türküleri",
+    "isrc": "TR0330600834"
+  },
+  {
+    "title": "Koyuna Bak Koyuna",
+    "artist": "Hakan Kumru",
+    "isrc": "TR0801100720"
+  },
+  {
+    "title": "Aman Melekem (Kavur Balıkları)",
+    "artist": "Trakia Ensemble, Serkan Çağrı",
+    "isrc": "TR9641400044"
+  },
+  {
+    "title": "Elif Dedim",
+    "artist": "Oğuz Turgutgenç, Linda Çandır",
+    "isrc": "TR0341100160"
+  },
+  {
+    "title": "Sarayevo",
+    "artist": "Gültekin, Ekrem",
+    "isrc": "TR0420901024"
+  },
+  {
+    "title": "Damat Oyunu",
+    "artist": "Ekrem, Gültekin",
+    "isrc": "TR0420641697"
+  },
+  {
+    "title": "Yandı Kumanova",
+    "artist": "Gültekin İpekel, Ekrem Pehlivan",
+    "isrc": "FR59R1485013"
+  },
+  {
+    "title": "Ganimet",
+    "artist": "Rumeli Semih",
+    "isrc": "TR7252300021"
+  },
+  {
+    "title": "Takuşum",
+    "artist": "Rumelili Doğan",
+    "isrc": "TR7251900068"
+  },
+  {
+    "title": "Ayletme Beni",
+    "artist": "Faruk Yılmaz",
+    "isrc": "TR0691000013"
+  },
+  {
+    "title": "Ramo Ramo",
+    "artist": "Sevdet Paftalı",
+    "isrc": "TR0611500077"
+  },
+  {
+    "title": "Tayyare",
+    "artist": "Orhan Rumeli, Kemal Rumeli",
+    "isrc": "TR9271200165"
+  },
+  {
+    "title": "Bursa'nın Ufak Tefek Taşları",
+    "artist": "Semih",
+    "isrc": "TR0420600028"
+  },
+  {
+    "title": "Moy Şamiye",
+    "artist": "Yiğit Beşkardeşler",
+    "isrc": "TR0501200147"
+  },
+  {
+    "title": "Zeytinyağlı",
+    "artist": "Orhan Pehlivan, Kemal Pehlivan",
+    "isrc": "TR0460800047"
+  },
+  {
+    "title": "Şeriban",
+    "artist": "Havva Karakaş",
+    "isrc": "TR0441107001"
+  },
+  {
+    "title": "Dokumacı Kızlar",
+    "artist": "Rumeli Ekrem",
+    "isrc": "TR0500800379"
+  },
+  {
+    "title": "Bulut Gelir",
+    "artist": "Rumeli Gültekin, Eser İpekel",
+    "isrc": "TR0501799965"
+  },
+  {
+    "title": "Atma Kendini",
+    "artist": "Halil Eser",
+    "isrc": "TR0862400061"
+  },
+  {
+    "title": "Bursalımısın Kadifeli Gelin",
+    "artist": "Rumeli Ayhan",
+    "isrc": "QZNWR2237399"
+  },
+  {
+    "title": "Gaydeci",
+    "artist": "Mecit, Evren",
+    "isrc": "FR10S1522238"
+  },
+  {
+    "title": "Teller Koptu",
+    "artist": "Rumeli Orhan, Kemal",
+    "isrc": "TRADP1400039"
+  },
+  {
+    "title": "Debreli Hasan",
+    "artist": "Arif Sentürk",
+    "isrc": "TR0070502107"
+  },
+  {
+    "title": "Ablan Star Bebegim",
+    "artist": "Rumeli Orhan | Kemal",
+    "isrc": "TR9271700407"
+  },
+  {
+    "title": "Твоите Очи, Лено Мори",
+    "artist": "Gamze Matracı",
+    "isrc": "TR0331610599"
+  },
+  {
+    "title": "Evde Kaldım Vah",
+    "artist": "Suzan Kardeş",
+    "isrc": "TR0941100868"
+  },
+  {
+    "title": "Akanzi Kopanzi Roman Havası",
+    "artist": "Rumeli Orhan Kemal",
+    "isrc": "QZNWT2321516"
+  },
+  {
+    "title": "Ferdane",
+    "artist": "Ceyhun Üsküp",
+    "isrc": "TR0501300110"
+  },
+  {
+    "title": "Abre Çiço",
+    "artist": "Cüneyt Şentürk",
+    "isrc": "TR4831400440"
+  },
+  {
+    "title": "Dut Yedim Duttu Beni",
+    "artist": "Rüstem Avcı",
+    "isrc": "TR0240601061"
+  }
+]

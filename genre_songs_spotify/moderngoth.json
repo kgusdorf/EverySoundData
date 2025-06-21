@@ -1,0 +1,947 @@
+[
+  {
+    "title": "With You",
+    "artist": "October Burns Black",
+    "isrc": "QZDA71865657"
+  },
+  {
+    "title": "Nazarene",
+    "artist": "The Wake",
+    "isrc": "USA560656288"
+  },
+  {
+    "title": "Kiss of Death",
+    "artist": "Black Angel",
+    "isrc": "ushm92052976"
+  },
+  {
+    "title": "Radiation",
+    "artist": "Merciful Nuns",
+    "isrc": "USQY51178477"
+  },
+  {
+    "title": "The Product",
+    "artist": "Blood Bells",
+    "isrc": "QZTBE2336841"
+  },
+  {
+    "title": "Stranglehold",
+    "artist": "Grooving In Green",
+    "isrc": "TCABJ1281864"
+  },
+  {
+    "title": "Pray for Sleep",
+    "artist": "Nox Novacula",
+    "isrc": "FR9W12100736"
+  },
+  {
+    "title": "Fear Makes Violence",
+    "artist": "My Own Burial",
+    "isrc": "usl4q2214637"
+  },
+  {
+    "title": "The Hunger",
+    "artist": "The Coventry",
+    "isrc": "ushm91849112"
+  },
+  {
+    "title": "Raise the Skies",
+    "artist": "Kill Shelter, Antipole",
+    "isrc": "uscgj2108477"
+  },
+  {
+    "title": "The Cry",
+    "artist": "Bat Nouveau",
+    "isrc": "USA2P1699902"
+  },
+  {
+    "title": "Black Party With Witches",
+    "artist": "Dead Born Babies",
+    "isrc": "QZMEN2006451"
+  },
+  {
+    "title": "Lost Girls",
+    "artist": "Tears for the Dying",
+    "isrc": "QZDA72096336"
+  },
+  {
+    "title": "Persona Non Grata",
+    "artist": "Suzi Sabotage",
+    "isrc": "GBSMU8068625"
+  },
+  {
+    "title": "Vampira: The Ballad of Maila",
+    "artist": "Ashes Fallen",
+    "isrc": "QM9AA2073793"
+  },
+  {
+    "title": "Drama",
+    "artist": "Ash Code",
+    "isrc": "ushm91423389"
+  },
+  {
+    "title": "Incessant Lies",
+    "artist": "NU:N",
+    "isrc": "QZDA52069945"
+  },
+  {
+    "title": "In Darkness You Will Feel Alright",
+    "artist": "Horror Vacui",
+    "isrc": "QZES52013063"
+  },
+  {
+    "title": "Fight the Stairs",
+    "artist": "Sounds Like Winter",
+    "isrc": "QZDA72121814"
+  },
+  {
+    "title": "The Light Shines",
+    "artist": "Cerulean Veins",
+    "isrc": "QZANL1720315"
+  },
+  {
+    "title": "Beyond the Grave",
+    "artist": "Detoxi",
+    "isrc": "QZMEQ2013986"
+  },
+  {
+    "title": "The Witch",
+    "artist": "Rosetta Stone",
+    "isrc": "USA370573504"
+  },
+  {
+    "title": "Tick Tock",
+    "artist": "Long Night",
+    "isrc": "uscgj2027982"
+  },
+  {
+    "title": "Jelly Dream",
+    "artist": "Geometric Vision",
+    "isrc": "uscgj1863847"
+  },
+  {
+    "title": "Inevitable Death",
+    "artist": "Catholic Spit",
+    "isrc": "QZHN52178979"
+  },
+  {
+    "title": "Sad Bodies",
+    "artist": "Shad Shadows",
+    "isrc": "QZK6N2083113"
+  },
+  {
+    "title": "Mirror Twin",
+    "artist": "Harsh Symmetry",
+    "isrc": "uscgh2229495"
+  },
+  {
+    "title": "In Vein",
+    "artist": "Vampyrean",
+    "isrc": "QZK6G2149882"
+  },
+  {
+    "title": "Tower Down",
+    "artist": "A Cloud of Ravens",
+    "isrc": "DEUV42200059"
+  },
+  {
+    "title": "Without Dreams",
+    "artist": "Little Fantastic Partner",
+    "isrc": "RUA1D2125882"
+  },
+  {
+    "title": "Twentieth Century Vampire",
+    "artist": "Screaming Dead",
+    "isrc": "GBUZW0800348"
+  },
+  {
+    "title": "Back in the Dark with You",
+    "artist": "The Long Losts",
+    "isrc": "QM8X41400023"
+  },
+  {
+    "title": "Alacrity",
+    "artist": "Ground Nero",
+    "isrc": "DEGQ81905360"
+  },
+  {
+    "title": "Ghosts Still Dance",
+    "artist": "Dead Cult",
+    "isrc": "GBX961400001"
+  },
+  {
+    "title": "Phoenix",
+    "artist": "Your Life On Hold",
+    "isrc": "DEW271305498"
+  },
+  {
+    "title": "The Last Vampire",
+    "artist": "Angels of Liberty",
+    "isrc": "ushm92014102"
+  },
+  {
+    "title": "The Ghosts Inside You",
+    "artist": "The Necromancers Union",
+    "isrc": "NL4EQ2200002"
+  },
+  {
+    "title": "Lonely City",
+    "artist": "Panic Priest",
+    "isrc": "QMJPJ2000005"
+  },
+  {
+    "title": "My Child",
+    "artist": "Red Sun Revival",
+    "isrc": "uscgj1435850"
+  },
+  {
+    "title": "Once Beautiful",
+    "artist": "The Last Dance",
+    "isrc": "US37B0501156"
+  },
+  {
+    "title": "Water To Wine",
+    "artist": "The Rope",
+    "isrc": "uscgj1126928"
+  },
+  {
+    "title": "I Reached the End",
+    "artist": "Mekong",
+    "isrc": "USDY42492149"
+  },
+  {
+    "title": "Thin Flesh",
+    "artist": "Traitrs",
+    "isrc": "FR10S1898363"
+  },
+  {
+    "title": "Angel",
+    "artist": "Vazum",
+    "isrc": "ushm22200928"
+  },
+  {
+    "title": "Blaspheme With Me",
+    "artist": "Her Despair",
+    "isrc": "GBMJG1805608"
+  },
+  {
+    "title": "If Love Is Just a Word",
+    "artist": "Bleib Modern",
+    "isrc": "QZNWV2091987"
+  },
+  {
+    "title": "Face Meets Glass",
+    "artist": "ACTORS",
+    "isrc": "QMBZ91722690"
+  },
+  {
+    "title": "Garden of Rose",
+    "artist": "Deaf Dance",
+    "isrc": "GB-SMU-47-41240"
+  },
+  {
+    "title": "Undercover",
+    "artist": "Fall Shock",
+    "isrc": "FR9W12322465"
+  },
+  {
+    "title": "A Failure",
+    "artist": "Lycia",
+    "isrc": "QM6MZ1830383"
+  },
+  {
+    "title": "Stay Awake",
+    "artist": "Les Fleurs Du Mal",
+    "isrc": "DEAT71104519"
+  },
+  {
+    "title": "Phantom (Ethereal)",
+    "artist": "Broken Nails",
+    "isrc": "usy282013002"
+  },
+  {
+    "title": "Aim 4",
+    "artist": "Gothzilla",
+    "isrc": "QZES91959944"
+  },
+  {
+    "title": "In My Side",
+    "artist": "Vision Video",
+    "isrc": "QM4TX2069233"
+  },
+  {
+    "title": "Durdu Dunya",
+    "artist": "She Past Away",
+    "isrc": "ATR981196745"
+  },
+  {
+    "title": "Dead Disco Dancer",
+    "artist": "O. Children",
+    "isrc": "GB4BW0900003"
+  },
+  {
+    "title": "A Little Death to Laugh",
+    "artist": "Cold Cave",
+    "isrc": "TCABW1468493"
+  },
+  {
+    "title": "Spirits That I Called",
+    "artist": "Wisborg",
+    "isrc": "DEGQ81905264"
+  },
+  {
+    "title": "Heartburn",
+    "artist": "The Seance",
+    "isrc": "QZK6G2081433"
+  },
+  {
+    "title": "Drowning In An Empty Sea",
+    "artist": "DECEITS",
+    "isrc": "QZNWQ2377221"
+  },
+  {
+    "title": "Forget Your Face - Dissociative Remix",
+    "artist": "Night Ritual",
+    "isrc": "QZK6F2110974"
+  },
+  {
+    "title": "They Only Come Out at Night",
+    "artist": "The Ghost of Bela Lugosi",
+    "isrc": "QZK6N1907396"
+  },
+  {
+    "title": "Kepler 186F",
+    "artist": "N E O (Near Earth Orbit)",
+    "isrc": "DEW271303567"
+  },
+  {
+    "title": "An Ascetic",
+    "artist": "Profit Prison",
+    "isrc": "ITFRN1800281"
+  },
+  {
+    "title": "Killer's Penance",
+    "artist": "Miseram Mortem",
+    "isrc": "QZFYX2160325"
+  },
+  {
+    "title": "Deception",
+    "artist": "The Crüxshadows",
+    "isrc": "TCAAU1158208"
+  },
+  {
+    "title": "Wolf Child",
+    "artist": "The Black Capes",
+    "isrc": "DESE51700139"
+  },
+  {
+    "title": "Drown",
+    "artist": "Strange Boutique",
+    "isrc": "QZFYW1991794"
+  },
+  {
+    "title": "Suffer",
+    "artist": "Patriarchy",
+    "isrc": "AUBEC2172912"
+  },
+  {
+    "title": "Complainer",
+    "artist": "Pageant Girls",
+    "isrc": "TCAFU2163777"
+  },
+  {
+    "title": "Saaya",
+    "artist": "Willow scarlet",
+    "isrc": "SE6I32126644"
+  },
+  {
+    "title": "Creeping Towards the Deep End",
+    "artist": "Club Sinister",
+    "isrc": "usy282010158"
+  },
+  {
+    "title": "Masterfreak",
+    "artist": "Raskolnikov",
+    "isrc": "USCGJ2498746"
+  },
+  {
+    "title": "Lunas",
+    "artist": "Inovercy",
+    "isrc": "RUA1H2088879"
+  },
+  {
+    "title": "Thrills",
+    "artist": "Glass Spells",
+    "isrc": "QMJPJ2100038"
+  },
+  {
+    "title": "Effigy",
+    "artist": "Dead Cells",
+    "isrc": "USA2P1865802"
+  },
+  {
+    "title": "Prayer",
+    "artist": "BLUDHOOD",
+    "isrc": "US7VG2188025"
+  },
+  {
+    "title": "Enter The Batcave",
+    "artist": "SILENT FLAG",
+    "isrc": "BEHL51800035"
+  },
+  {
+    "title": "Even the Rain",
+    "artist": "The Sere",
+    "isrc": "TCAFF2023236"
+  },
+  {
+    "title": "Reich Mir Die Hand",
+    "artist": "Blutengel",
+    "isrc": "DEBZ71100105"
+  },
+  {
+    "title": "No More Tears",
+    "artist": "Militia Vox",
+    "isrc": "ushm91455722"
+  },
+  {
+    "title": "Morrows",
+    "artist": "Sure",
+    "isrc": "GBHLW1903752"
+  },
+  {
+    "title": "Winterherz",
+    "artist": "Farblos",
+    "isrc": "DEA371302771"
+  },
+  {
+    "title": "The Beauty of Broken People",
+    "artist": "Virgin Tears",
+    "isrc": "DEHC81900284"
+  },
+  {
+    "title": "The Stranglings - Mr.Kitty Remix",
+    "artist": "Pure Obsessions & Red Nights, Mr.Kitty",
+    "isrc": "CH6542116775"
+  },
+  {
+    "title": "Handsome Youth",
+    "artist": "Rope Sect",
+    "isrc": "DELJ81914286"
+  },
+  {
+    "title": "Ana & Mia",
+    "artist": "Cygnets",
+    "isrc": "QMJPJ1600002"
+  },
+  {
+    "title": "The Things That Never Come",
+    "artist": "...and we were shadows",
+    "isrc": "CH6542068774"
+  },
+  {
+    "title": "Bowie in Daydreams",
+    "artist": "Astari Nite",
+    "isrc": "USY252209220"
+  },
+  {
+    "title": "Nightfall",
+    "artist": "Deroside",
+    "isrc": "QZK6K2104799"
+  },
+  {
+    "title": "Painted Stars (Twisted Version)",
+    "artist": "Koburg",
+    "isrc": "TCAIA2453908"
+  },
+  {
+    "title": "Violet",
+    "artist": "Rosicrucia",
+    "isrc": "QZK6F2154140"
+  },
+  {
+    "title": "Forever",
+    "artist": "Same Eyes",
+    "isrc": "CAHQJ2100819"
+  },
+  {
+    "title": "Soft as Stone",
+    "artist": "Three Rose Charm",
+    "isrc": "TCAEJ1916677"
+  },
+  {
+    "title": "Divide and Conquer",
+    "artist": "October Burns Black",
+    "isrc": "QZMEM2236732"
+  },
+  {
+    "title": "Christine",
+    "artist": "The Wake",
+    "isrc": "USA370634466"
+  },
+  {
+    "title": "Alive",
+    "artist": "Black Angel",
+    "isrc": "ushm22183751"
+  },
+  {
+    "title": "Body Of Light",
+    "artist": "Merciful Nuns",
+    "isrc": "QZ8251901154"
+  },
+  {
+    "title": "Veins",
+    "artist": "Blood Bells",
+    "isrc": "QZES61917643"
+  },
+  {
+    "title": "Angel",
+    "artist": "Grooving In Green",
+    "isrc": "GBJ4L1000004"
+  },
+  {
+    "title": "Cursed",
+    "artist": "Nox Novacula",
+    "isrc": "QM6MZ2416662"
+  },
+  {
+    "title": "Fresh Flesh",
+    "artist": "My Own Burial",
+    "isrc": "ESA011996265"
+  },
+  {
+    "title": "Natural Order",
+    "artist": "The Coventry",
+    "isrc": "ushm91849107"
+  },
+  {
+    "title": "Burn Bright",
+    "artist": "Kill Shelter, Antipole",
+    "isrc": "uscgj2108478"
+  },
+  {
+    "title": "Funeral Eyes",
+    "artist": "Bat Nouveau",
+    "isrc": "USA2P1699904"
+  },
+  {
+    "title": "Kissing Death",
+    "artist": "Dead Born Babies",
+    "isrc": "QZMEN2006453"
+  },
+  {
+    "title": "Shadows",
+    "artist": "Tears for the Dying",
+    "isrc": "QZES51847665"
+  },
+  {
+    "title": "Love At First Bite",
+    "artist": "Suzi Sabotage",
+    "isrc": "DEBZ72300134"
+  },
+  {
+    "title": "The Blood Is the Life",
+    "artist": "Ashes Fallen",
+    "isrc": "USMH92364725"
+  },
+  {
+    "title": "Dry Your Eyes",
+    "artist": "Ash Code",
+    "isrc": "ushm91423384"
+  },
+  {
+    "title": "Remember Me",
+    "artist": "NU:N",
+    "isrc": "QZDA52069947"
+  },
+  {
+    "title": "Lost",
+    "artist": "Horror Vacui",
+    "isrc": "QZES52043481"
+  },
+  {
+    "title": "Sticks and Stones",
+    "artist": "Sounds Like Winter",
+    "isrc": "QZAPG1726238"
+  },
+  {
+    "title": "Fell in Love",
+    "artist": "Cerulean Veins",
+    "isrc": "QZK6P1974394"
+  },
+  {
+    "title": "Death of a Nation",
+    "artist": "Detoxi",
+    "isrc": "QZCE61881985"
+  },
+  {
+    "title": "Adrenaline",
+    "artist": "Rosetta Stone",
+    "isrc": "USA370573503"
+  },
+  {
+    "title": "Sorrow Returns",
+    "artist": "Long Night",
+    "isrc": "NO0OU1614010"
+  },
+  {
+    "title": "Slowemotion (Molchat Doma Remix)",
+    "artist": "Geometric Vision, Molchat Doma",
+    "isrc": "ushm82074335"
+  },
+  {
+    "title": "Sick Sick Sex",
+    "artist": "Catholic Spit",
+    "isrc": "QZHN52178984"
+  },
+  {
+    "title": "Nocturnal",
+    "artist": "Shad Shadows",
+    "isrc": "QZES61891556"
+  },
+  {
+    "title": "Pugilist",
+    "artist": "Harsh Symmetry",
+    "isrc": "TCAGE2260478"
+  },
+  {
+    "title": "Crimson Dreams",
+    "artist": "Vampyrean, Aaron Stainthorpe, Elisabeth Kotronia",
+    "isrc": "QZK6G2149883"
+  },
+  {
+    "title": "Fear Not",
+    "artist": "A Cloud of Ravens",
+    "isrc": "DEUV42200055"
+  },
+  {
+    "title": "It's No Crime",
+    "artist": "Little Fantastic Partner",
+    "isrc": "RUA1D2125881"
+  },
+  {
+    "title": "Night Creatures",
+    "artist": "Screaming Dead",
+    "isrc": "GBUZW0800350"
+  },
+  {
+    "title": "They Only Come out at Night",
+    "artist": "The Long Losts",
+    "isrc": "QM8X41400010"
+  },
+  {
+    "title": "Litany",
+    "artist": "Ground Nero",
+    "isrc": "DEGQ81905354"
+  },
+  {
+    "title": "No Religion",
+    "artist": "Dead Cult",
+    "isrc": "GBX961400002"
+  },
+  {
+    "title": "Harvest Moon",
+    "artist": "Your Life On Hold",
+    "isrc": "DEW271313133"
+  },
+  {
+    "title": "Alpha Draconis",
+    "artist": "Angels of Liberty",
+    "isrc": "ushm92014095"
+  },
+  {
+    "title": "Pet Sematary",
+    "artist": "The Necromancers Union",
+    "isrc": "QZNWW2149256"
+  },
+  {
+    "title": "Nighthunter",
+    "artist": "Panic Priest",
+    "isrc": "QMJPJ2000004"
+  },
+  {
+    "title": "Last Chance",
+    "artist": "Red Sun Revival",
+    "isrc": "uscgj1435853"
+  },
+  {
+    "title": "Distantly",
+    "artist": "The Last Dance",
+    "isrc": "US37B0501155"
+  },
+  {
+    "title": "The Silence",
+    "artist": "The Rope",
+    "isrc": "uscgj1126927"
+  },
+  {
+    "title": "The Hills",
+    "artist": "Mekong",
+    "isrc": "usdy42101663"
+  },
+  {
+    "title": "Blush",
+    "artist": "Vazum",
+    "isrc": "USX9P2344312"
+  },
+  {
+    "title": "Youth Cults",
+    "artist": "Traitrs",
+    "isrc": "FR96X1748162"
+  },
+  {
+    "title": "Like a Crucifixion",
+    "artist": "Her Despair",
+    "isrc": "usl4q1931614"
+  },
+  {
+    "title": "T.W.T.I.A.",
+    "artist": "Bleib Modern",
+    "isrc": "QZK6G2460225"
+  },
+  {
+    "title": "Post Traumatic Love",
+    "artist": "ACTORS",
+    "isrc": "TCABF1204602"
+  },
+  {
+    "title": "Crimson Light (Day of the Dead)",
+    "artist": "Deaf Dance",
+    "isrc": "GB-SMU-49-93675"
+  },
+  {
+    "title": "Feels Eternal",
+    "artist": "Fall Shock",
+    "isrc": "DEP551914916"
+  },
+  {
+    "title": "Drifting",
+    "artist": "Lycia",
+    "isrc": "USI4R1053726"
+  },
+  {
+    "title": "Strigoi System - Sold Out Edit",
+    "artist": "Les Fleurs Du Mal",
+    "isrc": "SE2JU1000109"
+  },
+  {
+    "title": "Control the Delusion",
+    "artist": "Broken Nails",
+    "isrc": "usy282012997"
+  },
+  {
+    "title": "Today Is A Good Day To Die",
+    "artist": "Gothzilla",
+    "isrc": "GBMJG1102728"
+  },
+  {
+    "title": "Inked in Red",
+    "artist": "Vision Video",
+    "isrc": "QM4TX2071201"
+  },
+  {
+    "title": "Asimilasyon",
+    "artist": "She Past Away",
+    "isrc": "ATR981156629"
+  },
+  {
+    "title": "Ruins",
+    "artist": "O. Children",
+    "isrc": "GB4BW0900027"
+  },
+  {
+    "title": "Confetti",
+    "artist": "Cold Cave",
+    "isrc": "USMTD1101273"
+  },
+  {
+    "title": "In The Haze Of A Drunken Hour - Astari Nite Remix",
+    "artist": "Wisborg, Astari Nite",
+    "isrc": "DEGQ82205809"
+  },
+  {
+    "title": "Rites of Macabre",
+    "artist": "The Seance",
+    "isrc": "QZFZ52095647"
+  },
+  {
+    "title": "Failures",
+    "artist": "DECEITS",
+    "isrc": "QZFYZ2234627"
+  },
+  {
+    "title": "Like A Ghost",
+    "artist": "Night Ritual",
+    "isrc": "QZES72069166"
+  },
+  {
+    "title": "Fade Into Oblivion",
+    "artist": "The Ghost of Bela Lugosi",
+    "isrc": "QZK6N1908460"
+  },
+  {
+    "title": "Trans Neptunian Objects",
+    "artist": "N E O (Near Earth Orbit)",
+    "isrc": "DEW271303570"
+  },
+  {
+    "title": "Arrowhead",
+    "artist": "October Burns Black",
+    "isrc": "QZDA71865659"
+  },
+  {
+    "title": "Sideshow",
+    "artist": "The Wake",
+    "isrc": "USA560656290"
+  },
+  {
+    "title": "Animal",
+    "artist": "Black Angel",
+    "isrc": "ushm92052977"
+  },
+  {
+    "title": "Funeral Train",
+    "artist": "Merciful Nuns",
+    "isrc": "USQY51011151"
+  },
+  {
+    "title": "Destroy",
+    "artist": "Blood Bells",
+    "isrc": "QZES61917642"
+  },
+  {
+    "title": "Post Traumatic Stress",
+    "artist": "Grooving In Green",
+    "isrc": "GBJ4L1000001"
+  },
+  {
+    "title": "The Path",
+    "artist": "Nox Novacula",
+    "isrc": "GB-SMU-48-85005"
+  },
+  {
+    "title": "Boiling Rain",
+    "artist": "My Own Burial",
+    "isrc": "ESA011996262"
+  },
+  {
+    "title": "The Maze",
+    "artist": "The Coventry",
+    "isrc": "ushm91938997"
+  },
+  {
+    "title": "A Kiss in the Rain",
+    "artist": "Kill Shelter, Antipole",
+    "isrc": "uscgj2108479"
+  },
+  {
+    "title": "Death Mask",
+    "artist": "Bat Nouveau",
+    "isrc": "USA2P1699908"
+  },
+  {
+    "title": "El Incienso Del Infierno",
+    "artist": "Dead Born Babies",
+    "isrc": "QZMEN2006452"
+  },
+  {
+    "title": "Dazzle the Sun",
+    "artist": "Tears for the Dying",
+    "isrc": "QZES51847662"
+  },
+  {
+    "title": "Nazi Goths, Fuck Off",
+    "artist": "Suzi Sabotage",
+    "isrc": "GX4R52160067"
+  },
+  {
+    "title": "Blood Moon (Unitcode:Machine Remix)",
+    "artist": "Ashes Fallen, Unitcode:Machine",
+    "isrc": "uscgj2322430"
+  },
+  {
+    "title": "Nite Rite",
+    "artist": "Ash Code",
+    "isrc": "uscgh1691560"
+  },
+  {
+    "title": "Brave New World",
+    "artist": "NU:N",
+    "isrc": "QZK6J2049040"
+  },
+  {
+    "title": "Blood Red",
+    "artist": "Sounds Like Winter",
+    "isrc": "QZAPG1726237"
+  },
+  {
+    "title": "Corvus Corax",
+    "artist": "Horror Vacui",
+    "isrc": "QZES52013061"
+  },
+  {
+    "title": "Love Won't Save Us Now",
+    "artist": "Cerulean Veins",
+    "isrc": "QZTBA2266509"
+  },
+  {
+    "title": "Masks",
+    "artist": "Detoxi",
+    "isrc": "QZHN31985835"
+  },
+  {
+    "title": "People",
+    "artist": "Rosetta Stone",
+    "isrc": "QM6XS1900661"
+  },
+  {
+    "title": "The Night's Ablaze",
+    "artist": "Long Night",
+    "isrc": "usl4r1818342"
+  },
+  {
+    "title": "Fire Fire Fire",
+    "artist": "Geometric Vision",
+    "isrc": "uscgj1863842"
+  },
+  {
+    "title": "Devils Pact",
+    "artist": "Catholic Spit",
+    "isrc": "QZHN52178980"
+  },
+  {
+    "title": "DESTROY",
+    "artist": "Shad Shadows",
+    "isrc": "QZFZ42271394"
+  },
+  {
+    "title": "The Hunger",
+    "artist": "Vampyrean",
+    "isrc": "QZK6G2149885"
+  },
+  {
+    "title": "Glass Tears",
+    "artist": "Harsh Symmetry",
+    "isrc": "TCAHE2345973"
+  },
+  {
+    "title": "Requiem for the Sun",
+    "artist": "A Cloud of Ravens",
+    "isrc": "DEUV42200050"
+  },
+  {
+    "title": "Lonesome Mind",
+    "artist": "Little Fantastic Partner",
+    "isrc": "RUA1D2125885"
+  },
+  {
+    "title": "Necroaria",
+    "artist": "Screaming Dead",
+    "isrc": "GBUZW0800349"
+  },
+  {
+    "title": "To Be Like Lily",
+    "artist": "The Long Losts",
+    "isrc": "QM8X41400003"
+  }
+]

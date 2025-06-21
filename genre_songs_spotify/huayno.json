@@ -1,0 +1,947 @@
+[
+  {
+    "title": "Diccionario",
+    "artist": "Amanda Portales",
+    "isrc": "FRX451527720"
+  },
+  {
+    "title": "Escrito Está",
+    "artist": "Estudiantina Perú, Francizco Leyth Navarro",
+    "isrc": "FRX451578552"
+  },
+  {
+    "title": "Amor Herido",
+    "artist": "Manuel Silva",
+    "isrc": "FR2X41508590"
+  },
+  {
+    "title": "Adiós Pueblo De Ayacucho",
+    "artist": "Trio Ayacucho",
+    "isrc": "USDHM1100123"
+  },
+  {
+    "title": "Adiós Pueblo De Ayacucho",
+    "artist": "Edwin Montoya",
+    "isrc": "USDHM1100850"
+  },
+  {
+    "title": "A los Filos de un Cuchillo",
+    "artist": "Pastorita Huaracina",
+    "isrc": "ES71G2141693"
+  },
+  {
+    "title": "Dulce Ausencia",
+    "artist": "Yolanda Pinares",
+    "isrc": "GBSMU8140940"
+  },
+  {
+    "title": "Al Compás de Mi Guitarra",
+    "artist": "Jilguero Del Huascarán",
+    "isrc": "FRX871583716"
+  },
+  {
+    "title": "Llanto por Llanto",
+    "artist": "Los Errantes",
+    "isrc": "FRX871515781"
+  },
+  {
+    "title": "El Puquianito",
+    "artist": "Los Heraldos",
+    "isrc": "FRX991505792"
+  },
+  {
+    "title": "Carnavales Ayacuchanos",
+    "artist": "Dúo Ayacucho",
+    "isrc": "USDHM1101346"
+  },
+  {
+    "title": "Cuerpo Soltero",
+    "artist": "Conjunto Condemayta de Acomayo",
+    "isrc": "FRX451542963"
+  },
+  {
+    "title": "Guaranguito",
+    "artist": "Julia Illanes",
+    "isrc": "PEPA51711336"
+  },
+  {
+    "title": "Vas a Llorar",
+    "artist": "Flor Sinqueña",
+    "isrc": "FR2X41545846"
+  },
+  {
+    "title": "Donde Estarás Palomita",
+    "artist": "Kiko Revatta",
+    "isrc": "USDHM1011163"
+  },
+  {
+    "title": "Sihuarsito",
+    "artist": "Los Puquiales",
+    "isrc": "FRX871596272"
+  },
+  {
+    "title": "Mi Florcita Viva",
+    "artist": "Luciano Quispe",
+    "isrc": "FR59R2276334"
+  },
+  {
+    "title": "Cholita de Ojos Azules",
+    "artist": "Dúo Wayra",
+    "isrc": "ushm21973991"
+  },
+  {
+    "title": "Puca Uyacha",
+    "artist": "Carlos Prado",
+    "isrc": "QZHZ62271673"
+  },
+  {
+    "title": "Koka kintucha",
+    "artist": "Manuelcha Prado",
+    "isrc": "QMPKX1420365"
+  },
+  {
+    "title": "Tu Amor No Vale Nada",
+    "artist": "Roxana Gutierrez",
+    "isrc": "AEA0D2035280"
+  },
+  {
+    "title": "Marujita",
+    "artist": "Ernesto Sanchez Fajardo",
+    "isrc": "QZ5FN2359582"
+  },
+  {
+    "title": "Mujer Ayacuchana",
+    "artist": "Trudy Palomino",
+    "isrc": "USDHM1011091"
+  },
+  {
+    "title": "Mix Carnavales Ayacuchanos",
+    "artist": "Los Apus",
+    "isrc": "ushm21963966"
+  },
+  {
+    "title": "Bella Mestiza",
+    "artist": "Ángel Bedrillana",
+    "isrc": "FR96X1608675"
+  },
+  {
+    "title": "Perlas Challay",
+    "artist": "Trio Amanecer",
+    "isrc": "FRX871596261"
+  },
+  {
+    "title": "Mama Vieja",
+    "artist": "Margot Palomino",
+    "isrc": "USQY51757402"
+  },
+  {
+    "title": "Munaspaqa Suyaykuway",
+    "artist": "Jaime Guardia",
+    "isrc": "MXF600800004"
+  },
+  {
+    "title": "Paloma Desmemoriada",
+    "artist": "Nelly Munguia, Antonio Gutierrez",
+    "isrc": "FRX282282306"
+  },
+  {
+    "title": "Flor De Amapola",
+    "artist": "Lucero Del Alba",
+    "isrc": "USDHM1101344"
+  },
+  {
+    "title": "Amantes Perfectos",
+    "artist": "Chopkjas",
+    "isrc": "US6R21397066"
+  },
+  {
+    "title": "Triste Enamorado - Original",
+    "artist": "El Comunero de Los Andes",
+    "isrc": "FR2X41545851"
+  },
+  {
+    "title": "Mentiras",
+    "artist": "Antologia",
+    "isrc": "PEAN51008108"
+  },
+  {
+    "title": "Cómo has hecho",
+    "artist": "Dúo Hnos. Gaitán Castro",
+    "isrc": "US3DF2202032"
+  },
+  {
+    "title": "Retorno a Mi Tierra",
+    "artist": "Estrellita de Pomabamba",
+    "isrc": "USHM82308356"
+  },
+  {
+    "title": "Cáncer de Amor",
+    "artist": "Alicia Delgado",
+    "isrc": "QZHZ32027663"
+  },
+  {
+    "title": "Niñachay",
+    "artist": "William Luna",
+    "isrc": "USDHM1008574"
+  },
+  {
+    "title": "Isabel",
+    "artist": "Mac Salvador",
+    "isrc": "PEMS40101001"
+  },
+  {
+    "title": "Tusuykusun",
+    "artist": "Damaris",
+    "isrc": "PEDM31102001"
+  },
+  {
+    "title": "Tu Recuerdo",
+    "artist": "Los Hermanos Curi",
+    "isrc": "QZTPX2301099"
+  },
+  {
+    "title": "Presiento",
+    "artist": "Fresialinda",
+    "isrc": "USHM82060507"
+  },
+  {
+    "title": "Quiero",
+    "artist": "Silverio Andrade",
+    "isrc": "USDHM1011158"
+  },
+  {
+    "title": "Premonición",
+    "artist": "Karina Fernández",
+    "isrc": "USDHM1011165"
+  },
+  {
+    "title": "Linda Lunarejita",
+    "artist": "Conjunto Libertad de Santiago de Chuco, Erasmo Pereda",
+    "isrc": "FRX871591536"
+  },
+  {
+    "title": "Moliendo Cafe",
+    "artist": "Cholos Andinos",
+    "isrc": "USV351463746"
+  },
+  {
+    "title": "Solo de Mi Pueblo",
+    "artist": "Pepita Garcia Miró & Jaime Guardia",
+    "isrc": "ushm21385532"
+  },
+  {
+    "title": "Los Campesinos Mix (Sombrerito Roto / Yaulillay / De Vez en Cuando)",
+    "artist": "Pueblo Andino",
+    "isrc": "ushm81923977"
+  },
+  {
+    "title": "A Las Orillas del Conococha",
+    "artist": "Juan Rosales",
+    "isrc": "USAP39133821"
+  },
+  {
+    "title": "San Simón de Lo Mejor (Chevere Que Che)",
+    "artist": "Llajtaymanta",
+    "isrc": "QM4TX1653518"
+  },
+  {
+    "title": "Nostálgia",
+    "artist": "Grupo Antologia, William Luna",
+    "isrc": "US6R21393904"
+  },
+  {
+    "title": "Aquel Molalecito",
+    "artist": "Banda Filarmonica Andajina",
+    "isrc": "USAP39133803"
+  },
+  {
+    "title": "Mi Santiago",
+    "artist": "Banda Sinfonica Provincial Anchucava",
+    "isrc": "USAP39133824"
+  },
+  {
+    "title": "Huancayo Cotupchacka",
+    "artist": "Capricho Huanca",
+    "isrc": "USAP39133802"
+  },
+  {
+    "title": "Challwaschallay",
+    "artist": "Conjunto Condemayta de Acomayo",
+    "isrc": "USAP38932014"
+  },
+  {
+    "title": "Mañana Me Voy",
+    "artist": "Conjunto Los Amigos Del Ande",
+    "isrc": "USAP39133801"
+  },
+  {
+    "title": "Mis Quejas",
+    "artist": "Conjunto Los Chankas Apurimac",
+    "isrc": "USAP38932013"
+  },
+  {
+    "title": "Intendente Policía",
+    "artist": "Conjunto Los Luceros Del Cuzco",
+    "isrc": "USAP39133816"
+  },
+  {
+    "title": "Compadre Baila",
+    "artist": "Conjunto Los Palomillas De Huanca",
+    "isrc": "USAP39133817"
+  },
+  {
+    "title": "Para Ti Cholita",
+    "artist": "Conjunto Los Reales de Cuzco",
+    "isrc": "USAP39133814"
+  },
+  {
+    "title": "Luci Luci",
+    "artist": "Conjunto Luci Luci",
+    "isrc": "USAP39133810"
+  },
+  {
+    "title": "Carnaval Cristalchay",
+    "artist": "Conjunto Musical Amauta",
+    "isrc": "USAP38932005"
+  },
+  {
+    "title": "Palabras De Madre",
+    "artist": "Conjunto Perla Andina",
+    "isrc": "USAP39133808"
+  },
+  {
+    "title": "Tuctu Pillincito",
+    "artist": "Conjunto Perlas Del Huascaran",
+    "isrc": "USAP39133804"
+  },
+  {
+    "title": "Rodeo",
+    "artist": "Conjunto San Augustin De Punin",
+    "isrc": "USAP39133811"
+  },
+  {
+    "title": "Misti Gallo",
+    "artist": "El Cholo Chanka",
+    "isrc": "USAP38932007"
+  },
+  {
+    "title": "Trencito de Huancayo",
+    "artist": "Fabián Ochoa",
+    "isrc": "FRX871596356"
+  },
+  {
+    "title": "Neblina Blanca",
+    "artist": "La Huaricinita",
+    "isrc": "USAP38932006"
+  },
+  {
+    "title": "Cholo Orgulloso",
+    "artist": "La Pallasquinita",
+    "isrc": "USAP38932009"
+  },
+  {
+    "title": "El Serranito",
+    "artist": "Los Ases Del Ande",
+    "isrc": "USAP39640011"
+  },
+  {
+    "title": "Valores De Mi Tierra",
+    "artist": "Los Chasquis De Cajamarca",
+    "isrc": "USAP39133805"
+  },
+  {
+    "title": "Chonguinada",
+    "artist": "Los Románticos De Sicay",
+    "isrc": "DEU241122581"
+  },
+  {
+    "title": "Capricho Del",
+    "artist": "Orquesta Huanca",
+    "isrc": "USAP39133822"
+  },
+  {
+    "title": "Llongote",
+    "artist": "Orquesta Tipica Avaviri",
+    "isrc": "USAP39133809"
+  },
+  {
+    "title": "Perlaschallay",
+    "artist": "Trío Amanecer",
+    "isrc": "USAP38932015"
+  },
+  {
+    "title": "Vengo del Prado",
+    "artist": "Trío Lira Paucina",
+    "isrc": "USAP38932010"
+  },
+  {
+    "title": "Besos Brujos",
+    "artist": "Tipica Fausto Dolorier",
+    "isrc": "USAP39133807"
+  },
+  {
+    "title": "San Juanito Parrandero",
+    "artist": "Huayno",
+    "isrc": "FRX871589462"
+  },
+  {
+    "title": "Recuerdos de Mi Tierra",
+    "artist": "Conj. Los Chancas de Apurimac",
+    "isrc": "FR2X41545841"
+  },
+  {
+    "title": "Urpichallay",
+    "artist": "Conjunto Los Chancas de Apurimac",
+    "isrc": "FRX871596258"
+  },
+  {
+    "title": "Vaca Ratay",
+    "artist": "Duo Las Perlas de Huancavelica",
+    "isrc": "FRX871596257"
+  },
+  {
+    "title": "Señor Carnaval",
+    "artist": "El Cholo Chanca",
+    "isrc": "FRX871596250"
+  },
+  {
+    "title": "Río de Paria",
+    "artist": "El Jilguero de Huascaran",
+    "isrc": "FRX871596247"
+  },
+  {
+    "title": "El Huaylas del '93",
+    "artist": "Juan Falcon y Sus Amigos",
+    "isrc": "FR2X41545850"
+  },
+  {
+    "title": "Neblina Blanca",
+    "artist": "La Huaracinita",
+    "isrc": "FRX871596252"
+  },
+  {
+    "title": "¡Ay Ayacucho!",
+    "artist": "Nora Araujo",
+    "isrc": "FRX871596280"
+  },
+  {
+    "title": "Violinchallay",
+    "artist": "Solitario de Puquio",
+    "isrc": "FR2X41545847"
+  },
+  {
+    "title": "Engaños del Mundo",
+    "artist": "Trio Lira Paucina",
+    "isrc": "FRX991505797"
+  },
+  {
+    "title": "Te Recordaré",
+    "artist": "Truddy Palomino",
+    "isrc": "FR2X41545845"
+  },
+  {
+    "title": "Niña de Mis Ojos",
+    "artist": "Tuna Universitaria de Huamanga",
+    "isrc": "FR2X41545848"
+  },
+  {
+    "title": "Mamacha de las Mercedes",
+    "artist": "Urpicha Del Perú",
+    "isrc": "FR2X41545849"
+  },
+  {
+    "title": "Ayer la Conocí",
+    "artist": "Adela Anaya",
+    "isrc": "ESA011828389"
+  },
+  {
+    "title": "La Rosa Blanca",
+    "artist": "Comunero de los Andes",
+    "isrc": "PEBQ91891670"
+  },
+  {
+    "title": "Lucerito amante",
+    "artist": "Conjunto Pollo y Mamá Paulina",
+    "isrc": "PEXM11450401"
+  },
+  {
+    "title": "Andes",
+    "artist": "Huayno Libre",
+    "isrc": "TCACD1594257"
+  },
+  {
+    "title": "Comprendo",
+    "artist": "Miguel Salas",
+    "isrc": "QZDA41894463"
+  },
+  {
+    "title": "Nuestro Secreto",
+    "artist": "Sonia Morales",
+    "isrc": "QZNJX2087416"
+  },
+  {
+    "title": "desolacion",
+    "artist": "nancy manchego",
+    "isrc": "SEYOK1646575"
+  },
+  {
+    "title": "Dile",
+    "artist": "Amanda Portales",
+    "isrc": "FRX451527721"
+  },
+  {
+    "title": "Adiós Juventud",
+    "artist": "Estudiantina Perú",
+    "isrc": "FRX871596273"
+  },
+  {
+    "title": "Negra del Alma",
+    "artist": "Manuel Silva",
+    "isrc": "FR2X41508594"
+  },
+  {
+    "title": "Palomita Encantadora",
+    "artist": "Trio Ayacucho",
+    "isrc": "FR10S1583499"
+  },
+  {
+    "title": "Amigo",
+    "artist": "Edwin Montoya",
+    "isrc": "USDHM1100841"
+  },
+  {
+    "title": "La Cervecita",
+    "artist": "Pastorita Huaracina",
+    "isrc": "FRX871583715"
+  },
+  {
+    "title": "Mis 15 Barrios",
+    "artist": "Jilguero Del Huascarán",
+    "isrc": "TCAGB2288834"
+  },
+  {
+    "title": "Pañuelo Blanco",
+    "artist": "Yolanda Pinares",
+    "isrc": "GBSMU8140943"
+  },
+  {
+    "title": "Ay...Justo Cielo",
+    "artist": "Los Errantes",
+    "isrc": "FRX871515780"
+  },
+  {
+    "title": "Paloma Desmemoriada",
+    "artist": "Los Heraldos",
+    "isrc": "FRX991505785"
+  },
+  {
+    "title": "Desolación",
+    "artist": "Dúo Ayacucho",
+    "isrc": "PEDJ19900102"
+  },
+  {
+    "title": "Ay Silvia",
+    "artist": "Julia Illanes",
+    "isrc": "PEPA51711357"
+  },
+  {
+    "title": "Cielo Nublado",
+    "artist": "Conjunto Condemayta de Acomayo",
+    "isrc": "FRX451542965"
+  },
+  {
+    "title": "Justicia",
+    "artist": "Flor Sinqueña",
+    "isrc": "FRX871596282"
+  },
+  {
+    "title": "Plegaria",
+    "artist": "Kiko Revatta",
+    "isrc": "USDHM1011099"
+  },
+  {
+    "title": "Remembranzas",
+    "artist": "Los Puquiales",
+    "isrc": "FR2X41545852"
+  },
+  {
+    "title": "Flor de Cantuta",
+    "artist": "Luciano Quispe",
+    "isrc": "USDHM1011106"
+  },
+  {
+    "title": "Camino del Cielo",
+    "artist": "Dúo Wayra",
+    "isrc": "ushm21973993"
+  },
+  {
+    "title": "Putucun",
+    "artist": "Carlos Prado",
+    "isrc": "QZHZ62271675"
+  },
+  {
+    "title": "Clavel de mi pecho",
+    "artist": "Manuelcha Prado",
+    "isrc": "QMPKX1428115"
+  },
+  {
+    "title": "Acuerdate De Mi",
+    "artist": "Roxana Gutierrez",
+    "isrc": "AEA0D2035282"
+  },
+  {
+    "title": "Aguita de Curayacu",
+    "artist": "Ernesto Sanchez Fajardo",
+    "isrc": "QZ5FN2359569"
+  },
+  {
+    "title": "Cárcel De Amor",
+    "artist": "Trudy Palomino",
+    "isrc": "USDHM1011156"
+  },
+  {
+    "title": "No Podrás Olvidarme",
+    "artist": "Los Apus",
+    "isrc": "ushm81904479"
+  },
+  {
+    "title": "A la Salida de Choclococha",
+    "artist": "Trio Amanecer",
+    "isrc": "FRX991505802"
+  },
+  {
+    "title": "Lejana",
+    "artist": "Ángel Bedrillana",
+    "isrc": "FR96X1608681"
+  },
+  {
+    "title": "Fiel Compañero",
+    "artist": "Margot Palomino",
+    "isrc": "USQY51757399"
+  },
+  {
+    "title": "Carnaval de Tambobamba",
+    "artist": "Jaime Guardia",
+    "isrc": "FRX451585299"
+  },
+  {
+    "title": "Utku Pankillay",
+    "artist": "Nelly Munguia",
+    "isrc": "ES71G2028456"
+  },
+  {
+    "title": "Llora Corazón",
+    "artist": "Lucero Del Alba",
+    "isrc": "ushm81960048"
+  },
+  {
+    "title": "Cómo Podré Curar",
+    "artist": "Chopkjas",
+    "isrc": "USHM91919970"
+  },
+  {
+    "title": "Somos Caminantes",
+    "artist": "El Comunero de Los Andes",
+    "isrc": "FR2X41545840"
+  },
+  {
+    "title": "Amor, amor",
+    "artist": "Dúo Hnos. Gaitán Castro",
+    "isrc": "US3DF2202034"
+  },
+  {
+    "title": "Nuestro Error",
+    "artist": "Estrellita de Pomabamba",
+    "isrc": "USHM82308354"
+  },
+  {
+    "title": "Falso Amor",
+    "artist": "Antologia, Agua Marina",
+    "isrc": "QZNJV2111759"
+  },
+  {
+    "title": "Que Bien Me Dijo Mi Madre",
+    "artist": "Alicia Delgado",
+    "isrc": "QZHZ32027671"
+  },
+  {
+    "title": "No Me Mientas",
+    "artist": "William Luna",
+    "isrc": "USDHM1008578"
+  },
+  {
+    "title": "Necesito de Ti",
+    "artist": "Mac Salvador",
+    "isrc": "PEMS41612318"
+  },
+  {
+    "title": "Amor Verdadero",
+    "artist": "Damaris, Raíces D'Jauja",
+    "isrc": "PEDM31805004"
+  },
+  {
+    "title": "Viaje de Amor",
+    "artist": "Los Hermanos Curi",
+    "isrc": "QZTPX2301101"
+  },
+  {
+    "title": "Corazoncito",
+    "artist": "Fresialinda",
+    "isrc": "USHM82060508"
+  },
+  {
+    "title": "Vuelve A Mí",
+    "artist": "Silverio Andrade",
+    "isrc": "USDHM1011159"
+  },
+  {
+    "title": "Flor de Retama",
+    "artist": "Karina Fernández",
+    "isrc": "USDHM1011105"
+  },
+  {
+    "title": "A Ninguna Quiero",
+    "artist": "Conjunto Libertad de Santiago de Chuco, Erasmo Pereda",
+    "isrc": "FRX871591534"
+  },
+  {
+    "title": "Sol Andino",
+    "artist": "Cholos Andinos",
+    "isrc": "USV351463768"
+  },
+  {
+    "title": "Yanañawicha",
+    "artist": "Pepita Garcia Miró & Jaime Guardia",
+    "isrc": "ushm21385527"
+  },
+  {
+    "title": "El Canelazo",
+    "artist": "Pueblo Andino",
+    "isrc": "ushm81923972"
+  },
+  {
+    "title": "Los Obreros De Huancayo",
+    "artist": "Juan Rosales",
+    "isrc": "USAP39133806"
+  },
+  {
+    "title": "Para Que la Vida",
+    "artist": "Llajtaymanta",
+    "isrc": "QM4TW1781647"
+  },
+  {
+    "title": "Ayhuala",
+    "artist": "Banda Filarmonica Andajina",
+    "isrc": "USAP39640007"
+  },
+  {
+    "title": "Chola Rosalina",
+    "artist": "Conjunto Los Amigos Del Ande",
+    "isrc": "QM4TW2344639"
+  },
+  {
+    "title": "Urpichallay",
+    "artist": "Conjunto Los Chankas Apurimac",
+    "isrc": "USAP38932012"
+  },
+  {
+    "title": "Mis Recuerdos",
+    "artist": "Conjunto Los Reales de Cuzco",
+    "isrc": "USAP39133815"
+  },
+  {
+    "title": "Verde Hinchu",
+    "artist": "Conjunto Luci Luci",
+    "isrc": "USAP39133818"
+  },
+  {
+    "title": "Yo Soy La Indiecita",
+    "artist": "Conjunto Perlas Del Huascaran",
+    "isrc": "USAP39133813"
+  },
+  {
+    "title": "Señor Diputado - 1",
+    "artist": "El Cholo Chanka",
+    "isrc": "USAP38932004"
+  },
+  {
+    "title": "Tostando Cancha",
+    "artist": "Fabián Ochoa",
+    "isrc": "FRX871596262"
+  },
+  {
+    "title": "Vaso de Cristal",
+    "artist": "Amanda Portales",
+    "isrc": "FRX451527724"
+  },
+  {
+    "title": "Noche Triste",
+    "artist": "Estudiantina Perú",
+    "isrc": "FRX451598890"
+  },
+  {
+    "title": "Solo He Salido",
+    "artist": "Manuel Silva",
+    "isrc": "FR2X41508589"
+  },
+  {
+    "title": "Dile",
+    "artist": "Trio Ayacucho",
+    "isrc": "FR10S1583519"
+  },
+  {
+    "title": "Mi Amor Ha Muerto",
+    "artist": "Edwin Montoya",
+    "isrc": "USDHM1100843"
+  },
+  {
+    "title": "Río Santa",
+    "artist": "Pastorita Huaracina",
+    "isrc": "FRX871583711"
+  },
+  {
+    "title": "Algún Día Mis Cenizas",
+    "artist": "Jilguero Del Huascarán",
+    "isrc": "FRX871583720"
+  },
+  {
+    "title": "En vano fue",
+    "artist": "Yolanda Pinares",
+    "isrc": "GBSMU8140947"
+  },
+  {
+    "title": "Adiós Pueblo de Ayacucho",
+    "artist": "Los Heraldos",
+    "isrc": "FRX871596271"
+  },
+  {
+    "title": "Un Pasajero en el Camino",
+    "artist": "Los Errantes",
+    "isrc": "FRX871515788"
+  },
+  {
+    "title": "Carnavales Ayacuchanos - En Vivo",
+    "artist": "Dúo Ayacucho",
+    "isrc": "PEDJ10515311"
+  },
+  {
+    "title": "A Sola Te Quedaras",
+    "artist": "Julia Illanes",
+    "isrc": "PEPA51711262"
+  },
+  {
+    "title": "Chall Huaschallay",
+    "artist": "Conjunto Condemayta de Acomayo",
+    "isrc": "FRX871596260"
+  },
+  {
+    "title": "Panteonero",
+    "artist": "Flor Sinqueña",
+    "isrc": "QZMZ92492172"
+  },
+  {
+    "title": "La Rosa Roja",
+    "artist": "Kiko Revatta",
+    "isrc": "USDHM1011103"
+  },
+  {
+    "title": "Pucay Punchochay",
+    "artist": "Los Puquiales",
+    "isrc": "FRX991505794"
+  },
+  {
+    "title": "Linda Paisanita",
+    "artist": "Luciano Quispe",
+    "isrc": "QZMZ92161722"
+  },
+  {
+    "title": "Torcasitay",
+    "artist": "Dúo Wayra",
+    "isrc": "ushm21973997"
+  },
+  {
+    "title": "Nuestro Ayer",
+    "artist": "Carlos Prado",
+    "isrc": "QZHZ62271663"
+  },
+  {
+    "title": "Huaylas ancestral",
+    "artist": "Manuelcha Prado",
+    "isrc": "QMPKX1420315"
+  },
+  {
+    "title": "Carnavales",
+    "artist": "Roxana Gutierrez",
+    "isrc": "AEA0Q2177192"
+  },
+  {
+    "title": "Carrito del Regreso",
+    "artist": "Ernesto Sanchez Fajardo",
+    "isrc": "QZ5FN2359576"
+  },
+  {
+    "title": "Que Importa",
+    "artist": "Trudy Palomino",
+    "isrc": "USDHM1011157"
+  },
+  {
+    "title": "Tomando por Tí",
+    "artist": "Los Apus",
+    "isrc": "ushm21962628"
+  },
+  {
+    "title": "Pinotepa",
+    "artist": "Trio Amanecer",
+    "isrc": "QM6DC1416577"
+  },
+  {
+    "title": "Destino Marinero",
+    "artist": "Ángel Bedrillana",
+    "isrc": "FR96X1608682"
+  },
+  {
+    "title": "Angel de Mi Vida",
+    "artist": "Margot Palomino",
+    "isrc": "USQY51757403"
+  },
+  {
+    "title": "Amorosa Palomita",
+    "artist": "Jaime Guardia",
+    "isrc": "FRX451585306"
+  },
+  {
+    "title": "Resignación",
+    "artist": "Nelly Munguia",
+    "isrc": "FRX871596283"
+  },
+  {
+    "title": "Brindaré por Ti",
+    "artist": "Lucero Del Alba",
+    "isrc": "ushm81960038"
+  },
+  {
+    "title": "Triste Tunantero",
+    "artist": "Chopkjas",
+    "isrc": "USHM91919972"
+  },
+  {
+    "title": "La Rosa Blanca",
+    "artist": "El Comunero de Los Andes",
+    "isrc": "QZK6H2230398"
+  },
+  {
+    "title": "Perla Perlita",
+    "artist": "Estrellita de Pomabamba",
+    "isrc": "ES71G2147344"
+  },
+  {
+    "title": "Otra vez me equivoqué",
+    "artist": "Dúo Hnos. Gaitán Castro",
+    "isrc": "US3DF2202033"
+  },
+  {
+    "title": "Huracancito",
+    "artist": "Alicia Delgado",
+    "isrc": "TCAGK2277425"
+  }
+]

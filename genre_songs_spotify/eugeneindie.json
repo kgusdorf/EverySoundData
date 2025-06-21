@@ -1,0 +1,512 @@
+[
+  {
+    "title": "Family Ties",
+    "artist": "The Macks",
+    "isrc": "QM4TW2461333"
+  },
+  {
+    "title": "Temporary Things",
+    "artist": "Candy Picnic",
+    "isrc": "QZK6M2215314"
+  },
+  {
+    "title": "Currents",
+    "artist": "Los Gondos",
+    "isrc": "QZFZ22053052"
+  },
+  {
+    "title": "Monkey Bread",
+    "artist": "Novacane",
+    "isrc": "QZHNA2194597"
+  },
+  {
+    "title": "Lonely Mess",
+    "artist": "Laundry",
+    "isrc": "QM9A91825391"
+  },
+  {
+    "title": "Potter Street",
+    "artist": "Spiller",
+    "isrc": "ushm81970890"
+  },
+  {
+    "title": "November",
+    "artist": "Growing Pains",
+    "isrc": "QZMEP2068617"
+  },
+  {
+    "title": "Lifeboat",
+    "artist": "Salmon Doza",
+    "isrc": "QZFZ42295371"
+  },
+  {
+    "title": "Vanity",
+    "artist": "Breakneck Flow",
+    "isrc": "QZNWR2288053"
+  },
+  {
+    "title": "Hey Man",
+    "artist": "GRUNKO",
+    "isrc": "QZES91941071"
+  },
+  {
+    "title": "I Hate Spit",
+    "artist": "Kill Michael",
+    "isrc": "QZFYZ2028178"
+  },
+  {
+    "title": "Cigarettes & Weed",
+    "artist": "The Shifts",
+    "isrc": "QZB4J1820032"
+  },
+  {
+    "title": "Distracted",
+    "artist": "Dead Chemist",
+    "isrc": "QZHN41925980"
+  },
+  {
+    "title": "Be Sweet",
+    "artist": "Japanese Breakfast",
+    "isrc": "USJ5G2022502"
+  },
+  {
+    "title": "Just Because",
+    "artist": "Humming Frog",
+    "isrc": "QZFYY2029134"
+  },
+  {
+    "title": "It's a Game",
+    "artist": "Mason McClurg",
+    "isrc": "QZHN32343225"
+  },
+  {
+    "title": "Rose Colored Glasses",
+    "artist": "Flow Resale",
+    "isrc": "uscgj1881670"
+  },
+  {
+    "title": "Tell",
+    "artist": "Bliss Foxx",
+    "isrc": "USCGH2424025"
+  },
+  {
+    "title": "Zombie",
+    "artist": "Smear",
+    "isrc": "usdy41933627"
+  },
+  {
+    "title": "Heartbeats",
+    "artist": "The Shaky Harlots",
+    "isrc": "QZES81837330"
+  },
+  {
+    "title": "Sarah Marshall",
+    "artist": "Blood Jacuzzi",
+    "isrc": "uscgj1806443"
+  },
+  {
+    "title": "Take the High Road",
+    "artist": "Animalingo",
+    "isrc": "usl4r1915488"
+  },
+  {
+    "title": "Don't Mean Shit",
+    "artist": "Iced",
+    "isrc": "QZES71911015"
+  },
+  {
+    "title": "Hot Dripper",
+    "artist": "Under the Clothesline",
+    "isrc": "QZPLR2211142"
+  },
+  {
+    "title": "out of the blue",
+    "artist": "the flying saucers",
+    "isrc": "QZFZ31949650"
+  },
+  {
+    "title": "The Embrace",
+    "artist": "Flexing",
+    "isrc": "QZES91905138"
+  },
+  {
+    "title": "Down & Out",
+    "artist": "Broken Dead",
+    "isrc": "QZANL1713964"
+  },
+  {
+    "title": "Freak Flag",
+    "artist": "Fortune's Folly",
+    "isrc": "QZFNC1800003"
+  },
+  {
+    "title": "Ain't Got Jack",
+    "artist": "Alder Street",
+    "isrc": "usdy41767443"
+  },
+  {
+    "title": "Zoot Suit Riot",
+    "artist": "Cherry Poppin' Daddies",
+    "isrc": "TCABP1327651"
+  },
+  {
+    "title": "babypink",
+    "artist": "puppybrother",
+    "isrc": "QZHN61967214"
+  },
+  {
+    "title": "Hemlock",
+    "artist": "Dream Wulf",
+    "isrc": "usl4q1859335"
+  },
+  {
+    "title": "Whatever Feeds Your Goat",
+    "artist": "Southwest Royal",
+    "isrc": "QZHN61954802"
+  },
+  {
+    "title": "Better Off",
+    "artist": "Alive Like Me",
+    "isrc": "USEK71423601"
+  },
+  {
+    "title": "Free to Roam",
+    "artist": "Astro Gala",
+    "isrc": "QZFYZ1991324"
+  },
+  {
+    "title": "Moth to a Light",
+    "artist": "Betty and the Boy",
+    "isrc": "uscgh1247183"
+  },
+  {
+    "title": "Something More - Single Version",
+    "artist": "Bluphoria",
+    "isrc": "QZNWS2028058"
+  },
+  {
+    "title": "With Any Chance",
+    "artist": "Boomchick",
+    "isrc": "ushm81001315"
+  },
+  {
+    "title": "Blue Slime Goo",
+    "artist": "Charcoal Squids",
+    "isrc": "usdy41730130"
+  },
+  {
+    "title": "My Dog",
+    "artist": "Cuchulain, Handsome Hound",
+    "isrc": "QZES82385487"
+  },
+  {
+    "title": "Landslide",
+    "artist": "Fools",
+    "isrc": "QZDA81849112"
+  },
+  {
+    "title": "The Future Is the Past",
+    "artist": "Girin Guha",
+    "isrc": "uscgh2046241"
+  },
+  {
+    "title": "God Bless The Child",
+    "artist": "Heavenly Oceans",
+    "isrc": "uscgj1140884"
+  },
+  {
+    "title": "After The Living Is Through",
+    "artist": "Last Year's Man",
+    "isrc": "QZHN72470401"
+  },
+  {
+    "title": "Lag",
+    "artist": "Manchino",
+    "isrc": "ushm91886855"
+  },
+  {
+    "title": "Reefer Madness",
+    "artist": "One Dollar Check",
+    "isrc": "QZ5U81700060"
+  },
+  {
+    "title": "Funny Little Feeling",
+    "artist": "Rock 'n' Roll Soldiers",
+    "isrc": "USAT20401860"
+  },
+  {
+    "title": "Due to the Darkness",
+    "artist": "The Gossamer Strings",
+    "isrc": "ushm81994034"
+  },
+  {
+    "title": "And Life Goes On",
+    "artist": "The Sands of Time",
+    "isrc": "QZK6L2077020"
+  },
+  {
+    "title": "Christmas Tree on Fire",
+    "artist": "Tom Heinl",
+    "isrc": "ushm20346604"
+  },
+  {
+    "title": "Eugene Oregon",
+    "artist": "Volifonix",
+    "isrc": "ushm80895336"
+  },
+  {
+    "title": "I Just Surfaced",
+    "artist": "The Macks",
+    "isrc": "QM4TW2461331"
+  },
+  {
+    "title": "Freezing",
+    "artist": "Candy Picnic",
+    "isrc": "QZK6M2215317"
+  },
+  {
+    "title": "DHM",
+    "artist": "Los Gondos, The Macks",
+    "isrc": "QZMER2148365"
+  },
+  {
+    "title": "Whiskey Town",
+    "artist": "Novacane",
+    "isrc": "QZHNA2194600"
+  },
+  {
+    "title": "Drive",
+    "artist": "Laundry",
+    "isrc": "QM9A91825390"
+  },
+  {
+    "title": "Midwest",
+    "artist": "Spiller",
+    "isrc": "ushm81797830"
+  },
+  {
+    "title": "Houseboat",
+    "artist": "Growing Pains",
+    "isrc": "QZMEM2090097"
+  },
+  {
+    "title": "Spring Break",
+    "artist": "Salmon Doza",
+    "isrc": "usl4q1980033"
+  },
+  {
+    "title": "Keep in Mind",
+    "artist": "Breakneck Flow",
+    "isrc": "QZFZ52042001"
+  },
+  {
+    "title": "Brick Tamland",
+    "artist": "GRUNKO",
+    "isrc": "QZHN91951674"
+  },
+  {
+    "title": "BROOKLYN",
+    "artist": "Kill Michael",
+    "isrc": "QZNWV2293040"
+  },
+  {
+    "title": "Spring",
+    "artist": "The Shifts",
+    "isrc": "QMFL21300201"
+  },
+  {
+    "title": "Banana (The Juul Song)",
+    "artist": "Dead Chemist",
+    "isrc": "QZHN71942999"
+  },
+  {
+    "title": "Kokomo, IN",
+    "artist": "Japanese Breakfast",
+    "isrc": "USJ5G2022503"
+  },
+  {
+    "title": "Shore",
+    "artist": "Mason McClurg",
+    "isrc": "QZDA62056848"
+  },
+  {
+    "title": "Inside Her Head",
+    "artist": "Flow Resale",
+    "isrc": "uscgj1881669"
+  },
+  {
+    "title": "Elliott Smiles",
+    "artist": "Bliss Foxx",
+    "isrc": "USHM22425217"
+  },
+  {
+    "title": "Old Town",
+    "artist": "Smear",
+    "isrc": "usdy41933624"
+  },
+  {
+    "title": "Attitude",
+    "artist": "The Shaky Harlots",
+    "isrc": "QZES81837326"
+  },
+  {
+    "title": "Strange Gifts",
+    "artist": "Blood Jacuzzi",
+    "isrc": "uscgh2059491"
+  },
+  {
+    "title": "Shadows",
+    "artist": "Animalingo",
+    "isrc": "usl4r1915497"
+  },
+  {
+    "title": "Life Sentence",
+    "artist": "Iced",
+    "isrc": "QZES71911016"
+  },
+  {
+    "title": "Slow Hands",
+    "artist": "Under the Clothesline",
+    "isrc": "QZK6H2093180"
+  },
+  {
+    "title": "ahh song",
+    "artist": "the flying saucers",
+    "isrc": "QZFZ31949647"
+  },
+  {
+    "title": "Fine Print",
+    "artist": "Flexing",
+    "isrc": "QZES91905134"
+  },
+  {
+    "title": "Cycle of Addiction",
+    "artist": "Broken Dead",
+    "isrc": "QZANL1713970"
+  },
+  {
+    "title": "Take Me Home",
+    "artist": "Fortune's Folly",
+    "isrc": "uscgj1749663"
+  },
+  {
+    "title": "August",
+    "artist": "Alder Street",
+    "isrc": "usdy41767433"
+  },
+  {
+    "title": "burgundy",
+    "artist": "puppybrother",
+    "isrc": "QZHN61967213"
+  },
+  {
+    "title": "The Ding-Dong Daddy of the D-Car Line",
+    "artist": "Cherry Poppin' Daddies",
+    "isrc": "USCGH0707724"
+  },
+  {
+    "title": "Apex",
+    "artist": "Dream Wulf",
+    "isrc": "usl4q1952667"
+  },
+  {
+    "title": "Force Of A Gorilla Punch",
+    "artist": "Southwest Royal",
+    "isrc": "QZFYY2128891"
+  },
+  {
+    "title": "Our Time Down Here",
+    "artist": "Alive Like Me",
+    "isrc": "USEK71423604"
+  },
+  {
+    "title": "Find a Way",
+    "artist": "Astro Gala",
+    "isrc": "QZFYZ1991322"
+  },
+  {
+    "title": "Spin My Head Around",
+    "artist": "The Macks",
+    "isrc": "QZFZ62222336"
+  },
+  {
+    "title": "Lochness",
+    "artist": "Candy Picnic",
+    "isrc": "QZK6M2215316"
+  },
+  {
+    "title": "Eyes Wide Open On The Nile",
+    "artist": "Los Gondos",
+    "isrc": "QZNWS2389758"
+  },
+  {
+    "title": "French Toast",
+    "artist": "Novacane",
+    "isrc": "QZES82182438"
+  },
+  {
+    "title": "Hypochondriac",
+    "artist": "Laundry",
+    "isrc": "uscgj2034906"
+  },
+  {
+    "title": "Cowboy Bill",
+    "artist": "Spiller",
+    "isrc": "ushm21857265"
+  },
+  {
+    "title": "Lemon Lime",
+    "artist": "Growing Pains",
+    "isrc": "QZDA42331895"
+  },
+  {
+    "title": "Mother of One",
+    "artist": "Salmon Doza",
+    "isrc": "QZNWY2329138"
+  },
+  {
+    "title": "Hearts and Mines",
+    "artist": "Breakneck Flow",
+    "isrc": "QZNWR2288050"
+  },
+  {
+    "title": "Denise",
+    "artist": "GRUNKO, Hendrick Valera",
+    "isrc": "QZHN91951672"
+  },
+  {
+    "title": "LEAVING",
+    "artist": "Kill Michael",
+    "isrc": "QZTB62264555"
+  },
+  {
+    "title": "Bowie",
+    "artist": "The Shifts",
+    "isrc": "QZB4J1820030"
+  },
+  {
+    "title": "Bento",
+    "artist": "Dead Chemist, Cmadd",
+    "isrc": "QZB4J1856489"
+  },
+  {
+    "title": "Everybody Wants to Love You",
+    "artist": "Japanese Breakfast",
+    "isrc": "USA2P1569461"
+  },
+  {
+    "title": "Naive",
+    "artist": "Mason McClurg",
+    "isrc": "QZES52096873"
+  },
+  {
+    "title": "Starstruck",
+    "artist": "Flow Resale",
+    "isrc": "ushm21952462"
+  },
+  {
+    "title": "No Fuego",
+    "artist": "Bliss Foxx",
+    "isrc": "ushm92263578"
+  }
+]

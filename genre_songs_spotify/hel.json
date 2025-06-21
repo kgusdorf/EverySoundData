@@ -1,0 +1,817 @@
+[
+  {
+    "title": "The Exorcism",
+    "artist": "Charlotte Wessels",
+    "isrc": "ATN262431202"
+  },
+  {
+    "title": "Rapture",
+    "artist": "Anette Olzon",
+    "isrc": "ITG272400384"
+  },
+  {
+    "title": "Roardin",
+    "artist": "Marcela Bovio",
+    "isrc": "NLJ9Q1800003"
+  },
+  {
+    "title": "After the Storm",
+    "artist": "DIANNE, Dianne van Giersbergen",
+    "isrc": "QZFZ22330487"
+  },
+  {
+    "title": "Aeterna",
+    "artist": "Simone Simons, Ayreon",
+    "isrc": "DED832400108"
+  },
+  {
+    "title": "Love Decay",
+    "artist": "Liv Kristine",
+    "isrc": "ATN261456802"
+  },
+  {
+    "title": "Army of Dreamers",
+    "artist": "Allen/Olzon",
+    "isrc": "ITG272200701"
+  },
+  {
+    "title": "Lies In Your Eyes (feat. Diabulus In Musica)",
+    "artist": "Zuberoa Aznarez, Diabulus in Musica",
+    "isrc": "TCAAX1190736"
+  },
+  {
+    "title": "One Wish Away",
+    "artist": "Katra",
+    "isrc": "ATN261034702"
+  },
+  {
+    "title": "Viva la vita",
+    "artist": "Laura Macrì",
+    "isrc": "TCACZ1787348"
+  },
+  {
+    "title": "We Will Go Home",
+    "artist": "Leah",
+    "isrc": "TCABS1366033"
+  },
+  {
+    "title": "Raven",
+    "artist": "Melissa VanFleet",
+    "isrc": "QZ9JZ1789722"
+  },
+  {
+    "title": "Slave to the Machine",
+    "artist": "Liv Sin",
+    "isrc": "SEXTE1901101"
+  },
+  {
+    "title": "I Walk Alone",
+    "artist": "Tarja",
+    "isrc": "DEUM70710666"
+  },
+  {
+    "title": "Teardrops",
+    "artist": "Melissa Bonny, Jonathan Pellet",
+    "isrc": "DELJ81766546"
+  },
+  {
+    "title": "Turn Loose the Mermaids",
+    "artist": "Nicoletta Rosellini",
+    "isrc": "SEXEN2200803"
+  },
+  {
+    "title": "Phantom Of The Opera",
+    "artist": "Floor Jansen, Henk Poort, Beste Zangers",
+    "isrc": "NLSU31900075"
+  },
+  {
+    "title": "Demons Are a Girl's Best Friend - Acoustic Version",
+    "artist": "Alissa White-Gluz",
+    "isrc": "ATN262111301"
+  },
+  {
+    "title": "Savior",
+    "artist": "Lindsay Schoolcraft",
+    "isrc": "CA3ML1800001"
+  },
+  {
+    "title": "Angel of Mine (Soft Drum Mix)",
+    "artist": "Amanda Somerville",
+    "isrc": "uscgh0833483"
+  },
+  {
+    "title": "In the Middle of the Night",
+    "artist": "Angel Wolf-Black",
+    "isrc": "QZK6G2497712"
+  },
+  {
+    "title": "Husavik (My Hometown)",
+    "artist": "Fabienne Erni, Melissa Bonny",
+    "isrc": "QZES82257830"
+  },
+  {
+    "title": "Mental Jungle",
+    "artist": "Anneke van Giersbergen",
+    "isrc": "NLBY51300008"
+  },
+  {
+    "title": "One By One",
+    "artist": "Elize Ryd, Rickard Söderberg",
+    "isrc": "SEPEL1500201"
+  },
+  {
+    "title": "Only for the Weak",
+    "artist": "Vicky Psarakis, Quentin Cornet",
+    "isrc": "QZK6J2047181"
+  },
+  {
+    "title": "The Wolf You Feed (feat. Alissa White-Gluz)",
+    "artist": "Nita Strauss, Alissa White-Gluz",
+    "isrc": "USYFZ2210501"
+  },
+  {
+    "title": "All These Wild Nights",
+    "artist": "Issa",
+    "isrc": "ITG272400162"
+  },
+  {
+    "title": "All the Things She Said (Feat. Chase the Comet)",
+    "artist": "Lena Scissorhands, Chase the Comet",
+    "isrc": "ATN262094101"
+  },
+  {
+    "title": "Year Zero",
+    "artist": "Minniva, Quentin Cornet",
+    "isrc": "GB5EA1701304"
+  },
+  {
+    "title": "Iris",
+    "artist": "DIAMANTE, Breaking Benjamin",
+    "isrc": "USA2P2024499"
+  },
+  {
+    "title": "Lost And Found",
+    "artist": "Agua de Annique",
+    "isrc": "US2420709012"
+  },
+  {
+    "title": "Sol Invictus",
+    "artist": "Lori Lewis",
+    "isrc": "QM4TX2090315"
+  },
+  {
+    "title": "The Reckoning",
+    "artist": "Laurenne / Louhimo",
+    "isrc": "FINDN2100002"
+  },
+  {
+    "title": "Zombie",
+    "artist": "Sarah Jezebel Deva",
+    "isrc": "FR1PP1100400"
+  },
+  {
+    "title": "Just What I Need Tonight (Uit Liefde Voor Muziek) - Live",
+    "artist": "Sharon Den Adel",
+    "isrc": "BEG331800006"
+  },
+  {
+    "title": "Eternal Wheel Of Time And Space",
+    "artist": "Noora Louhimo Experience",
+    "isrc": "FI2NL2100001"
+  },
+  {
+    "title": "HOTT.",
+    "artist": "Kobra Paige",
+    "isrc": "US3DF2436755"
+  },
+  {
+    "title": "City",
+    "artist": "Mariangela Demurtas",
+    "isrc": "usl4q2181767"
+  },
+  {
+    "title": "Down With The Sickness",
+    "artist": "Violet Orlandi, Ai Mori",
+    "isrc": "QZGWX2135355"
+  },
+  {
+    "title": "Why so Lonely",
+    "artist": "Kari Rueslåtten, Tuomas Holopainen",
+    "isrc": "SEXTE1301601"
+  },
+  {
+    "title": "Reconcile",
+    "artist": "Lacey Sturm",
+    "isrc": "QM24S2303295"
+  },
+  {
+    "title": "Für Immer",
+    "artist": "Doro, The Classic Night Orchestra",
+    "isrc": "DEU600400220"
+  },
+  {
+    "title": "Lovely",
+    "artist": "Lauren Babic, Seraphim",
+    "isrc": "QZFZ62099061"
+  },
+  {
+    "title": "Too Late for Love",
+    "artist": "Chez Kane",
+    "isrc": "ITG272100005"
+  },
+  {
+    "title": "Sally's Song",
+    "artist": "Amy Lee",
+    "isrc": "USWD10834702"
+  },
+  {
+    "title": "Strani Giorni - Live",
+    "artist": "Cristina Scabbia, Davide Ferrario",
+    "isrc": "IT0212101009"
+  },
+  {
+    "title": "Fuego Negro",
+    "artist": "Anna Fiori",
+    "isrc": "ushm91794004"
+  },
+  {
+    "title": "There is Nothing",
+    "artist": "VK Lynne, Joel Hoekstra, Marco Pastorino",
+    "isrc": "QZHN32416224"
+  },
+  {
+    "title": "Fury - Live",
+    "artist": "Anneke van Giersbergen & Agua de Annique, Anneke van Giersbergen, Agua de Annique",
+    "isrc": "NLBY51000007"
+  },
+  {
+    "title": "Frozen (feat. Guido Wehmeyer)",
+    "artist": "Kerstin Bischof, Guido Wehmeyer",
+    "isrc": "TCAAX1190757"
+  },
+  {
+    "title": "Meet Me In The Fire [Feat. Andy Biersack]",
+    "artist": "Maria Brink, Tyler Bates, Andy Biersack",
+    "isrc": "USC4R2105574"
+  },
+  {
+    "title": "SEIZE THE DAYS",
+    "artist": "LIV MOON",
+    "isrc": "JPB622400670"
+  },
+  {
+    "title": "Dette jeg ikke ser",
+    "artist": "Vibeke Stene, Ragnar Bjerkreim",
+    "isrc": "NOBDM2103010"
+  },
+  {
+    "title": "Say Hello To Heaven (feat. Emily Zimmer and Johnny Diaz)",
+    "artist": "Mary Zimmer, Emily Zimmer and Johnny Diaz",
+    "isrc": "TCAAX1190746"
+  },
+  {
+    "title": "The Middle Path (feat. The Road to Consciousness)",
+    "artist": "Kristell Lowagie, Road To Consciousness",
+    "isrc": "TCAAX1190744"
+  },
+  {
+    "title": "Gasoline (feat. Forever Slave)",
+    "artist": "Lady Angellyca, Forever Slave",
+    "isrc": "TCAAX1190748"
+  },
+  {
+    "title": "Close My Eyes Forever",
+    "artist": "Lita Ford, Ozzy Osbourne",
+    "isrc": "USRC18705901"
+  },
+  {
+    "title": "Promise",
+    "artist": "Lisa Middlehauve",
+    "isrc": "TCAAX1190753"
+  },
+  {
+    "title": "Azzurrina (feat. Evenoire)",
+    "artist": "Lisy Stefanoni, Evenoire",
+    "isrc": "TCAAX1190747"
+  },
+  {
+    "title": "Cave Behind The Waterfall",
+    "artist": "Maxi Nil",
+    "isrc": "TCAAX1190755"
+  },
+  {
+    "title": "In Your Eyes (feat. Echoterra)",
+    "artist": "Melissa Ferlaak-Koch, Echoterra",
+    "isrc": "TCAAX1190738"
+  },
+  {
+    "title": "Cyber Moon",
+    "artist": "Rie a.k.a. Suzaku",
+    "isrc": "JPZ921307068"
+  },
+  {
+    "title": "New Town",
+    "artist": "Martina Edoff",
+    "isrc": "SEVIU2400201"
+  },
+  {
+    "title": "My Mother Told Me - Female Viking Version",
+    "artist": "Aline Happ",
+    "isrc": "QZPJ32301821"
+  },
+  {
+    "title": "Tododo - Hide and Seek",
+    "artist": "Moran Magal",
+    "isrc": "DEKM62300381"
+  },
+  {
+    "title": "The Only Thing",
+    "artist": "Cristina Fallavollita, Adam Relf",
+    "isrc": "UKR741900609"
+  },
+  {
+    "title": "Scarborough Fair",
+    "artist": "Gaby Koss, Cantus Lunaris",
+    "isrc": "TCABO1337642"
+  },
+  {
+    "title": "Show Me",
+    "artist": "Jessica Sutta",
+    "isrc": "USHR11132870"
+  },
+  {
+    "title": "It's Just Words",
+    "artist": "Kari Berg",
+    "isrc": "SEYOK1652389"
+  },
+  {
+    "title": "tired of me",
+    "artist": "Karina Grace",
+    "isrc": "QZRP52104785"
+  },
+  {
+    "title": "Chiasma",
+    "artist": "Kim Seviour",
+    "isrc": "UKDXP1700007"
+  },
+  {
+    "title": "Glass - Solo Piano",
+    "artist": "Lisa Morgenstern",
+    "isrc": "DELV42101284"
+  },
+  {
+    "title": "Red Stones",
+    "artist": "Natalia Sarsgård",
+    "isrc": "FICOO2000009"
+  },
+  {
+    "title": "Animal",
+    "artist": "Sophie Lindinger",
+    "isrc": "ATT802406001"
+  },
+  {
+    "title": "Sain sain",
+    "artist": "Tanja Lainio",
+    "isrc": "FIURA9600042"
+  },
+  {
+    "title": "Metal Messiah",
+    "artist": "The Great Kat",
+    "isrc": "USRH11600375"
+  },
+  {
+    "title": "Here She Comes Again",
+    "artist": "Vibeke Saugestad",
+    "isrc": "NOAMM0300007"
+  },
+  {
+    "title": "Fool's Parade",
+    "artist": "Charlotte Wessels, Alissa White-Gluz",
+    "isrc": "GBMJG2337249"
+  },
+  {
+    "title": "Heed The Call",
+    "artist": "Anette Olzon",
+    "isrc": "ITG272400383"
+  },
+  {
+    "title": "Loneliness Anthem #2",
+    "artist": "Marcela Bovio",
+    "isrc": "NLJ9Q2200003"
+  },
+  {
+    "title": "A Symphonic Tragedy",
+    "artist": "DIANNE, Dianne van Giersbergen, Arjen Lucassen",
+    "isrc": "QZDA82499691"
+  },
+  {
+    "title": "My Wilderness",
+    "artist": "Liv Kristine",
+    "isrc": "ATN261456801"
+  },
+  {
+    "title": "So Quiet Here",
+    "artist": "Allen/Olzon",
+    "isrc": "ITG272200702"
+  },
+  {
+    "title": "Skye Boat Song",
+    "artist": "Zuberoa Aznarez",
+    "isrc": "usl4q2263283"
+  },
+  {
+    "title": "Grail of Sahara",
+    "artist": "Katra",
+    "isrc": "ATN260825101"
+  },
+  {
+    "title": "Ancora una volta",
+    "artist": "Laura Macrì",
+    "isrc": "TCACZ1787344"
+  },
+  {
+    "title": "The Dragonborn Comes",
+    "artist": "Leah",
+    "isrc": "TCADF1746730"
+  },
+  {
+    "title": "Atrophy",
+    "artist": "Melissa VanFleet",
+    "isrc": "UST8K1846092"
+  },
+  {
+    "title": "Devil's Plaything",
+    "artist": "Liv Sin",
+    "isrc": "SEXTE1800501"
+  },
+  {
+    "title": "Until My Last Breath",
+    "artist": "Tarja",
+    "isrc": "QM7281569069"
+  },
+  {
+    "title": "Out In The Real World",
+    "artist": "Melissa Bonny, Adrian Thessenvitz",
+    "isrc": "QZDA82293887"
+  },
+  {
+    "title": "I Have a Right",
+    "artist": "Nicoletta Rosellini",
+    "isrc": "SEXEN2101505"
+  },
+  {
+    "title": "A Song to Save Us All",
+    "artist": "Alissa White-Gluz",
+    "isrc": "TCAHZ2496732"
+  },
+  {
+    "title": "Fire",
+    "artist": "Floor Jansen",
+    "isrc": "NL6XQ2200001"
+  },
+  {
+    "title": "Dangerous Game",
+    "artist": "Lindsay Schoolcraft",
+    "isrc": "CA3ML1800002"
+  },
+  {
+    "title": "Out",
+    "artist": "Amanda Somerville",
+    "isrc": "defb60800067"
+  },
+  {
+    "title": "Dance Macabre",
+    "artist": "Angel Wolf-Black",
+    "isrc": "QZTBC2315482"
+  },
+  {
+    "title": "The Pretender",
+    "artist": "Fabienne Erni, Michalina Malisz",
+    "isrc": "QZHN82167375"
+  },
+  {
+    "title": "Hey Okay!",
+    "artist": "Anneke van Giersbergen, Agua de Annique",
+    "isrc": "NLY160900071"
+  },
+  {
+    "title": "One By One - Instrumental",
+    "artist": "Elize Ryd, Rickard Söderberg",
+    "isrc": "SEPEL1500202"
+  },
+  {
+    "title": "Eyes Of The World",
+    "artist": "Vicky Psarakis, Quentin Cornet",
+    "isrc": "QZFZ22150833"
+  },
+  {
+    "title": "Armed & Dangerous",
+    "artist": "Issa",
+    "isrc": "ITG272400161"
+  },
+  {
+    "title": "Free (feat. Vervain St. Project)",
+    "artist": "Lena Scissorhands, Vervain St. Project",
+    "isrc": "ATN262219101"
+  },
+  {
+    "title": "Victorious (feat. Dorothy)",
+    "artist": "Nita Strauss, Dorothy",
+    "isrc": "USYFZ2326307"
+  },
+  {
+    "title": "Night Witches",
+    "artist": "Minniva, Quentin Cornet, Garrett Peters, Dan Vasc",
+    "isrc": "QM6MZ1947174"
+  },
+  {
+    "title": "Haunted",
+    "artist": "DIAMANTE",
+    "isrc": "USDPK1700121"
+  },
+  {
+    "title": "Come Wander With Me - (Remix By Paul Rabbering)",
+    "artist": "Agua de Annique",
+    "isrc": "NLY160800003"
+  },
+  {
+    "title": "Jupiter",
+    "artist": "Lori Lewis",
+    "isrc": "QM4TX2090321"
+  },
+  {
+    "title": "Bitch Fire",
+    "artist": "Laurenne / Louhimo",
+    "isrc": "FINDN2100005"
+  },
+  {
+    "title": "A Sign of Sublime",
+    "artist": "Sarah Jezebel Deva",
+    "isrc": "GBLXA0905902"
+  },
+  {
+    "title": "Beyond Me",
+    "artist": "Sharon Den Adel, After Forever, Floor Jansen",
+    "isrc": "NLP510600198"
+  },
+  {
+    "title": "Valkyrie",
+    "artist": "Noora Louhimo Experience",
+    "isrc": "FI2NL2100002"
+  },
+  {
+    "title": "Thank You",
+    "artist": "Kobra Paige",
+    "isrc": "QMANG2242473"
+  },
+  {
+    "title": "Classic",
+    "artist": "Mariangela Demurtas",
+    "isrc": "uscgh2212537"
+  },
+  {
+    "title": "Square Hammer",
+    "artist": "Violet Orlandi, Jonathan Young",
+    "isrc": "QZGWX2169471"
+  },
+  {
+    "title": "Sørgekåpe",
+    "artist": "Kari Rueslåtten",
+    "isrc": "NOBYC2001011"
+  },
+  {
+    "title": "Rot",
+    "artist": "Lacey Sturm",
+    "isrc": "QMF921550193"
+  },
+  {
+    "title": "Rocket on the Radio",
+    "artist": "Chez Kane",
+    "isrc": "ITG272100003"
+  },
+  {
+    "title": "All We Are",
+    "artist": "Doro",
+    "isrc": "DEU600700820"
+  },
+  {
+    "title": "Love Exists",
+    "artist": "Amy Lee",
+    "isrc": "QZ53G1600019"
+  },
+  {
+    "title": "Toxic",
+    "artist": "Lauren Babic",
+    "isrc": "QZK6P1991480"
+  },
+  {
+    "title": "El Ritual",
+    "artist": "Anna Fiori",
+    "isrc": "ushm91794005"
+  },
+  {
+    "title": "Stable",
+    "artist": "VK Lynne",
+    "isrc": "QZK6Q2444433"
+  },
+  {
+    "title": "Hey Okay! - Live",
+    "artist": "Anneke van Giersbergen & Agua de Annique, Anneke van Giersbergen, Agua de Annique",
+    "isrc": "NLBY51000006"
+  },
+  {
+    "title": "Over the Stars",
+    "artist": "Kerstin Bischof",
+    "isrc": "DENL81201580"
+  },
+  {
+    "title": "The Calling",
+    "artist": "Maria Brink, Chris Howorth",
+    "isrc": "USWB11801245"
+  },
+  {
+    "title": "Black Poison",
+    "artist": "LIV MOON",
+    "isrc": "JPB622400279"
+  },
+  {
+    "title": "Kiss Me Deadly",
+    "artist": "Lita Ford",
+    "isrc": "USRC18705885"
+  },
+  {
+    "title": "Dreaming Eyes",
+    "artist": "Rie a.k.a. Suzaku, Dia",
+    "isrc": "JPZ921204117"
+  },
+  {
+    "title": "You're My Rock",
+    "artist": "Martina Edoff",
+    "isrc": "SEVIU2400501"
+  },
+  {
+    "title": "Join Me",
+    "artist": "Aline Happ, Rod Wolf",
+    "isrc": "QZPJ32250940"
+  },
+  {
+    "title": "Mouth Of History",
+    "artist": "Moran Magal",
+    "isrc": "DEKM62300008"
+  },
+  {
+    "title": "Mary On A Cross",
+    "artist": "Charlotte Wessels, Zora Cock",
+    "isrc": "GBMJG2313274"
+  },
+  {
+    "title": "Day Of Wrath",
+    "artist": "Anette Olzon",
+    "isrc": "ITG272400385"
+  },
+  {
+    "title": "Loneliness Anthem #1",
+    "artist": "Marcela Bovio, Raphael Weinroth-Browne",
+    "isrc": "NLJ9Q2200002"
+  },
+  {
+    "title": "Unleash the Siren",
+    "artist": "DIANNE, Dianne van Giersbergen",
+    "isrc": "QZTAS2335519"
+  },
+  {
+    "title": "River of Diamonds",
+    "artist": "Liv Kristine",
+    "isrc": "DEQ022390346"
+  },
+  {
+    "title": "All Alone",
+    "artist": "Allen/Olzon",
+    "isrc": "ITG272200706"
+  },
+  {
+    "title": "Luna",
+    "artist": "Zuberoa Aznarez",
+    "isrc": "uscgh1746447"
+  },
+  {
+    "title": "Beast Within",
+    "artist": "Katra",
+    "isrc": "DEKB71216811"
+  },
+  {
+    "title": "Sempre",
+    "artist": "Laura Macrì",
+    "isrc": "TCACZ1787352"
+  },
+  {
+    "title": "Sanctuary",
+    "artist": "Leah",
+    "isrc": "TCAFC2036809"
+  },
+  {
+    "title": "Marionette",
+    "artist": "Melissa VanFleet",
+    "isrc": "UST8K1846093"
+  },
+  {
+    "title": "Hope Begins to Fade - Zardonic Remix",
+    "artist": "Liv Sin, Zardonic",
+    "isrc": "SEXTE2000301"
+  },
+  {
+    "title": "Poison",
+    "artist": "Tarja",
+    "isrc": "DEUM70710674"
+  },
+  {
+    "title": "Always Remember Us This Way",
+    "artist": "Nicoletta Rosellini",
+    "isrc": "SEXEN2400801"
+  },
+  {
+    "title": "Shallow",
+    "artist": "Floor Jansen",
+    "isrc": "NLSU31900072"
+  },
+  {
+    "title": "See the Light",
+    "artist": "Lindsay Schoolcraft, Xenoyr",
+    "isrc": "CA3ML1800008"
+  },
+  {
+    "title": "Inner Whore",
+    "artist": "Amanda Somerville",
+    "isrc": "defb60800066"
+  },
+  {
+    "title": "Our Truth",
+    "artist": "Angel Wolf-Black",
+    "isrc": "QZFZ22308692"
+  },
+  {
+    "title": "Call Me Little Sunshine",
+    "artist": "Fabienne Erni",
+    "isrc": "QZFYZ2324147"
+  },
+  {
+    "title": "White Roses",
+    "artist": "Anneke van Giersbergen",
+    "isrc": "NLSU32100039"
+  },
+  {
+    "title": "Say So - Metal Version",
+    "artist": "Vicky Psarakis",
+    "isrc": "QZFZ62282144"
+  },
+  {
+    "title": "Sacrifice Me",
+    "artist": "Issa, Deen Castronovo",
+    "isrc": "ITG271800064"
+  },
+  {
+    "title": "Borderlines (feat. Death Dealer Union)",
+    "artist": "Lena Scissorhands, Death Dealer Union",
+    "isrc": "ATN262218801"
+  },
+  {
+    "title": "The Golden Trail (feat. Anders Fridén of In Flames)",
+    "artist": "Nita Strauss, In Flames, Anders Friden",
+    "isrc": "USYFZ2326310"
+  },
+  {
+    "title": "Bismarck",
+    "artist": "Minniva, Quenton Cornet",
+    "isrc": "QM6MZ1970838"
+  },
+  {
+    "title": "Ghost Myself",
+    "artist": "DIAMANTE",
+    "isrc": "USA2P2020477"
+  },
+  {
+    "title": "Venus",
+    "artist": "Lori Lewis",
+    "isrc": "QM4TX2090317"
+  },
+  {
+    "title": "To the Wall",
+    "artist": "Laurenne / Louhimo",
+    "isrc": "FINDN2100007"
+  },
+  {
+    "title": "Cities in Dust",
+    "artist": "Sarah Jezebel Deva, DTN Music",
+    "isrc": "QZK6Q2371192"
+  },
+  {
+    "title": "Vandaag (Uit Liefde Voor Muziek) - Live",
+    "artist": "Sharon Den Adel",
+    "isrc": "BEG331800012"
+  },
+  {
+    "title": "Piece Of My Heart",
+    "artist": "Noora Louhimo Experience",
+    "isrc": "FI2NL2100011"
+  }
+]

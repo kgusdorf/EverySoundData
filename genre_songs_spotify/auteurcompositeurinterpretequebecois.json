@@ -1,0 +1,827 @@
+[
+  {
+    "title": "Si fragile",
+    "artist": "Luc De Larochellière",
+    "isrc": "CAV501443806"
+  },
+  {
+    "title": "Aux portes du matin",
+    "artist": "Richard Séguin",
+    "isrc": "CAM609253004"
+  },
+  {
+    "title": "Je voudrais voir la mer",
+    "artist": "Michel Rivard",
+    "isrc": "CAS741282910"
+  },
+  {
+    "title": "Heureux D'un Printemps",
+    "artist": "Paul Piché",
+    "isrc": "CAP609001701"
+  },
+  {
+    "title": "Welcome soleil",
+    "artist": "Jim Corcoran, Bertrand Gosselin",
+    "isrc": "CAC549912404"
+  },
+  {
+    "title": "Le petit roi",
+    "artist": "Jean-Pierre Ferland",
+    "isrc": "CAG600911302"
+  },
+  {
+    "title": "Frédéric",
+    "artist": "Claude Léveillée",
+    "isrc": "CA7H51300225"
+  },
+  {
+    "title": "Sur la route",
+    "artist": "Pierre Flynn",
+    "isrc": "CAM609214002"
+  },
+  {
+    "title": "Gens du pays",
+    "artist": "Gilles Vigneault, Les Charbonniers De L'enfer",
+    "isrc": "CAG600718308"
+  },
+  {
+    "title": "Encore Et Encore",
+    "artist": "Laurence Jalbert",
+    "isrc": "CAA509374010"
+  },
+  {
+    "title": "Je reviendrai à Montréal",
+    "artist": "Robert Charlebois",
+    "isrc": "CAL540504842"
+  },
+  {
+    "title": "T'embellis ma vie",
+    "artist": "Yann Perreau",
+    "isrc": "CAZ841600011"
+  },
+  {
+    "title": "Les Aurores",
+    "artist": "Mara Tremblay",
+    "isrc": "CAA501129703"
+  },
+  {
+    "title": "Provocante",
+    "artist": "Marjo",
+    "isrc": "CAZ700906453"
+  },
+  {
+    "title": "Le grand six pieds",
+    "artist": "Claude Gauthier",
+    "isrc": "CAU117503589"
+  },
+  {
+    "title": "Marie-Hélène",
+    "artist": "Sylvain Lelièvre",
+    "isrc": "CAG609167202"
+  },
+  {
+    "title": "Tu m'aimes-tu",
+    "artist": "Richard Desjardins",
+    "isrc": "CAZ700907350"
+  },
+  {
+    "title": "Prison de Londres",
+    "artist": "Louise Forestier",
+    "isrc": "CAU117312844"
+  },
+  {
+    "title": "Mon frère",
+    "artist": "France D'Amour",
+    "isrc": "CAT509450603"
+  },
+  {
+    "title": "Le p'tit bonheur",
+    "artist": "Felix Leclerc",
+    "isrc": "FRZ036502440"
+  },
+  {
+    "title": "Seigneur",
+    "artist": "Kevin Parent",
+    "isrc": "CAU119501888"
+  },
+  {
+    "title": "Sèche tes pleurs",
+    "artist": "Daniel Bélanger",
+    "isrc": "CAA509266003"
+  },
+  {
+    "title": "Le blues du businessman - Remasterisé en 2009",
+    "artist": "Claude Dubois, Starmania",
+    "isrc": "FRZ041300302"
+  },
+  {
+    "title": "Mécaniques générales",
+    "artist": "Patrice Michaud",
+    "isrc": "CAS741346001"
+  },
+  {
+    "title": "Quand on n'a que l'amour",
+    "artist": "Catherine Major",
+    "isrc": "QM6P42088377"
+  },
+  {
+    "title": "Miami",
+    "artist": "Ariane Moffatt",
+    "isrc": "CA60L1520009"
+  },
+  {
+    "title": "Le bonheur - Rien ne nous arrêtera",
+    "artist": "Dumas",
+    "isrc": "CAL540911505"
+  },
+  {
+    "title": "Le vieux du Bas-du-Fleuve",
+    "artist": "Gaston Mandeville",
+    "isrc": "CAP689610001"
+  },
+  {
+    "title": "Jonquière",
+    "artist": "Plume Latraverse",
+    "isrc": "CAD520700228"
+  },
+  {
+    "title": "Deux par deux rassemblés",
+    "artist": "Pierre Lapointe",
+    "isrc": "CAA500619602"
+  },
+  {
+    "title": "Quand les hommes vivront d'amour",
+    "artist": "Raymond Levesque",
+    "isrc": "FR0W62000506"
+  },
+  {
+    "title": "Il était une fois des gens heureux",
+    "artist": "Nicole Martin",
+    "isrc": "CACEB1763005"
+  },
+  {
+    "title": "I Lost My Baby",
+    "artist": "Jean Leloup",
+    "isrc": "CAA509696006"
+  },
+  {
+    "title": "Ton équilibre",
+    "artist": "Salomé Leclerc",
+    "isrc": "CAA501841703"
+  },
+  {
+    "title": "Travesti - Remasterisé en 2009",
+    "artist": "Nanette Workman, Starmania",
+    "isrc": "FRZ041300306"
+  },
+  {
+    "title": "Le météore",
+    "artist": "Stephen Faulkner",
+    "isrc": "CAL540302803"
+  },
+  {
+    "title": "Quelle belle journée - Version 2023",
+    "artist": "Gilles Valiquette, François Pérusse, Normand Brathwaite",
+    "isrc": "CAUH72303004"
+  },
+  {
+    "title": "Les vents aimants",
+    "artist": "Catherine Durand",
+    "isrc": "CAQ602000001"
+  },
+  {
+    "title": "Sous une pluie d'étoiles",
+    "artist": "Cindy Daniel",
+    "isrc": "CAI600689606"
+  },
+  {
+    "title": "Tous les jours de la semaine",
+    "artist": "Pierre Létourneau",
+    "isrc": "CAZ700000360"
+  },
+  {
+    "title": "Les ferrofluides-fleurs",
+    "artist": "Klô Pelgag",
+    "isrc": "CA5VC1600002"
+  },
+  {
+    "title": "Knock out dans l'bloc vert",
+    "artist": "Bertrand Gosselin",
+    "isrc": "CAZ709800063"
+  },
+  {
+    "title": "Laisser l'été avoir 15 ans",
+    "artist": "Safia Nolin",
+    "isrc": "CAZ841600085"
+  },
+  {
+    "title": "Si j'étais un homme",
+    "artist": "Diane Tell",
+    "isrc": "FR60F8000090"
+  },
+  {
+    "title": "La bastringue",
+    "artist": "La Bolduc, Ovila Légaré",
+    "isrc": "CADC41412119"
+  },
+  {
+    "title": "Belle (with Patrick Fiori & Garou)",
+    "artist": "Daniel Lavoie, Patrick Fiori, Garou",
+    "isrc": "FRE089700280"
+  },
+  {
+    "title": "L'amour a pris son temps",
+    "artist": "Marie-Mai, Groenland, Louis-Jean Cormier, Marie-Pierre Arthur, Fred Pellerin",
+    "isrc": "CAX1L1500005"
+  },
+  {
+    "title": "Vivre en amour",
+    "artist": "Luc Cousineau",
+    "isrc": "CAZ700100264"
+  },
+  {
+    "title": "Montréal motel",
+    "artist": "Antoine Gratton",
+    "isrc": "CAT500352703"
+  },
+  {
+    "title": "Un peu d'air",
+    "artist": "Marilou",
+    "isrc": "CADC41309018"
+  },
+  {
+    "title": "Au​-​delà de la marée (la mère et le père et leur petit)",
+    "artist": "Amylie",
+    "isrc": "CANSW2000001"
+  },
+  {
+    "title": "Bridge Over Troubled Water",
+    "artist": "Judi Richards, Karine Deschamps, Sarah-Émilie Deschamps",
+    "isrc": "CAIPD1840009"
+  },
+  {
+    "title": "Formidable",
+    "artist": "La Bronze",
+    "isrc": "CAJ621547020"
+  },
+  {
+    "title": "Le Plus fort c'est mon père",
+    "artist": "Lynda Lemay",
+    "isrc": "CAW119400742"
+  },
+  {
+    "title": "Le monde est stone (Starmania)",
+    "artist": "Fabienne Thibeault",
+    "isrc": "FRZ047800180"
+  },
+  {
+    "title": "L'étoile du nord",
+    "artist": "Edgar Bori",
+    "isrc": "CAV700797907"
+  },
+  {
+    "title": "L'Admirateur secret",
+    "artist": "Thomas Hellman",
+    "isrc": "CAJ220421020"
+  },
+  {
+    "title": "Papineau",
+    "artist": "Alexandre Belliard",
+    "isrc": "CA6N41605004"
+  },
+  {
+    "title": "Say Something Now",
+    "artist": "Émilie Proulx",
+    "isrc": "CAG600932406"
+  },
+  {
+    "title": "Un peu d'innocence",
+    "artist": "Daniel DeShaime",
+    "isrc": "usl4r1819003"
+  },
+  {
+    "title": "Un ciel pour le soleil",
+    "artist": "Charles Dubé",
+    "isrc": "CAT500453103"
+  },
+  {
+    "title": "Adieu mon pays",
+    "artist": "Lynda Thalie",
+    "isrc": "CAU111501495"
+  },
+  {
+    "title": "Torna a surriento",
+    "artist": "Marco Calliari",
+    "isrc": "FR6V80413513"
+  },
+  {
+    "title": "Silence",
+    "artist": "Jordane",
+    "isrc": "CA1WN1700196"
+  },
+  {
+    "title": "Mourir De Rire",
+    "artist": "Rudy Caya",
+    "isrc": "CAA509584005"
+  },
+  {
+    "title": "On va s'parler d'amour",
+    "artist": "Matt Laurent",
+    "isrc": "CAV601400133"
+  },
+  {
+    "title": "Je retourne à la maison",
+    "artist": "Meghan Oak, Laurence Castera",
+    "isrc": "CAPDY2200004"
+  },
+  {
+    "title": "Sexe au zeppelin",
+    "artist": "Julien Sagot",
+    "isrc": "CA60L2010001"
+  },
+  {
+    "title": "Échapper au hasard",
+    "artist": "Catherine Dagenais",
+    "isrc": "CABBM1700011"
+  },
+  {
+    "title": "Vélo Tandem",
+    "artist": "Daniel Grenier",
+    "isrc": "CAL541415603"
+  },
+  {
+    "title": "Noa",
+    "artist": "Nicolas Boulerice",
+    "isrc": "CAXW52400114"
+  },
+  {
+    "title": "Coup de foudre - Remastered",
+    "artist": "Martine St-Clair, Norman Groulx, Starmania",
+    "isrc": "FRF950900091"
+  },
+  {
+    "title": "Poussières",
+    "artist": "Jean-Christophe Lessard, Soleil Launière",
+    "isrc": "CAJQV1900011"
+  },
+  {
+    "title": "Bonheur tout inclus",
+    "artist": "Rémy Caset",
+    "isrc": "CA8620000002"
+  },
+  {
+    "title": "Talk to Me of Mendocino",
+    "artist": "Anna McGarrigle, Kate McGarrigle",
+    "isrc": "GBQSK0901508"
+  },
+  {
+    "title": "Censuré",
+    "artist": "Christine Charbonneau",
+    "isrc": "CAZ700000852"
+  },
+  {
+    "title": "Ma maison au bord de l'eau",
+    "artist": "Claudia Asselin",
+    "isrc": "CAW641400013"
+  },
+  {
+    "title": "Ces heures",
+    "artist": "David Couture",
+    "isrc": "CAL801700008"
+  },
+  {
+    "title": "Kumbaya my lord",
+    "artist": "Dominica Merola",
+    "isrc": "CA1821800240"
+  },
+  {
+    "title": "Le présent",
+    "artist": "Francis D'Octobre",
+    "isrc": "CAT500956411"
+  },
+  {
+    "title": "Spit White!",
+    "artist": "Jenny Salgado",
+    "isrc": "CAT501056812"
+  },
+  {
+    "title": "Run Away",
+    "artist": "Miriam Baghdassarian",
+    "isrc": "CAQ522025002"
+  },
+  {
+    "title": "Si j'te disais reviens",
+    "artist": "Luc De Larochellière",
+    "isrc": "CAV500472704"
+  },
+  {
+    "title": "Journée d'Amérique",
+    "artist": "Richard Séguin",
+    "isrc": "CAS741239003"
+  },
+  {
+    "title": "Maudit bonheur",
+    "artist": "Michel Rivard",
+    "isrc": "CAA509817004"
+  },
+  {
+    "title": "Y a pas grand chose dans l'ciel à soir",
+    "artist": "Paul Piché",
+    "isrc": "CAA509001702"
+  },
+  {
+    "title": "J'ai la tête en gigue",
+    "artist": "Jim Corcoran, Bertrand Gosselin",
+    "isrc": "CAC549912407"
+  },
+  {
+    "title": "Une chance qu'on s'a",
+    "artist": "Jean-Pierre Ferland, 2Frères, Marie-Pierre Arthur, Joe Bocan, Charlotte Cardin, Marie Carmen, Louis-Jean Cormier, Céline Dion, Marc Dupré, Lara Fabian, Marc Hervieux, Elisapie, Ariane Moffatt, Alex Nevsky, Passe-Partout, Marie Denise Pelletier, Ginette Reno, Guylaine Tanguay, Annie Villeneuve",
+    "isrc": "CAQ522043001"
+  },
+  {
+    "title": "Les vieux pianos",
+    "artist": "Claude Léveillée",
+    "isrc": "CA7H51300212"
+  },
+  {
+    "title": "En cavale",
+    "artist": "Pierre Flynn",
+    "isrc": "CAM609257004"
+  },
+  {
+    "title": "Pendant que...",
+    "artist": "Gilles Vigneault",
+    "isrc": "CAC226200017"
+  },
+  {
+    "title": "Jeter un sort",
+    "artist": "Laurence Jalbert",
+    "isrc": "CAA500115102"
+  },
+  {
+    "title": "J'T'Aime Comme Un Fou",
+    "artist": "Robert Charlebois",
+    "isrc": "CAL540504851"
+  },
+  {
+    "title": "J'aime les oiseaux",
+    "artist": "Yann Perreau",
+    "isrc": "CAZ841600001"
+  },
+  {
+    "title": "Tout Nue Avec Toi",
+    "artist": "Mara Tremblay",
+    "isrc": "CAA501430029"
+  },
+  {
+    "title": "Chats sauvages",
+    "artist": "Marjo",
+    "isrc": "CAZ700906421"
+  },
+  {
+    "title": "Le plus beau voyage",
+    "artist": "Claude Gauthier",
+    "isrc": "CAG600390510"
+  },
+  {
+    "title": "Petit matin",
+    "artist": "Sylvain Lelièvre",
+    "isrc": "CAG609167201"
+  },
+  {
+    "title": "Le bon gars",
+    "artist": "Richard Desjardins",
+    "isrc": "CAZ700907351"
+  },
+  {
+    "title": "Pourquoi chanter",
+    "artist": "Louise Forestier",
+    "isrc": "CAU117312854"
+  },
+  {
+    "title": "Vivante",
+    "artist": "France D'Amour",
+    "isrc": "CAT509450605"
+  },
+  {
+    "title": "L'hymne au printemps",
+    "artist": "Felix Leclerc",
+    "isrc": "FRZ036502460"
+  },
+  {
+    "title": "Les doigts",
+    "artist": "Kevin Parent",
+    "isrc": "CAU119801902"
+  },
+  {
+    "title": "Les Deux Printemps",
+    "artist": "Daniel Bélanger",
+    "isrc": "CAA509690003"
+  },
+  {
+    "title": "Si dieu existe",
+    "artist": "Claude Dubois",
+    "isrc": "FR2HT1100110"
+  },
+  {
+    "title": "Carmen Porcelaine",
+    "artist": "Catherine Major",
+    "isrc": "CAJ722400801"
+  },
+  {
+    "title": "Kamikaze",
+    "artist": "Patrice Michaud",
+    "isrc": "CAS741786101"
+  },
+  {
+    "title": "Montréal",
+    "artist": "Ariane Moffatt",
+    "isrc": "CAA500519204"
+  },
+  {
+    "title": "J'erre",
+    "artist": "Dumas",
+    "isrc": "CAT500352804"
+  },
+  {
+    "title": "Le vieux du Bas-du-Fleuve (2e Version)",
+    "artist": "Gaston Mandeville",
+    "isrc": "CAP689610015"
+  },
+  {
+    "title": "Bobépine",
+    "artist": "Plume Latraverse",
+    "isrc": "CAD520700068"
+  },
+  {
+    "title": "Le monarque des Indes",
+    "artist": "Pierre Lapointe",
+    "isrc": "CAA501942705"
+  },
+  {
+    "title": "Bozo les culottes",
+    "artist": "Raymond Levesque",
+    "isrc": "CAU116707099"
+  },
+  {
+    "title": "Oui paraît-il",
+    "artist": "Nicole Martin",
+    "isrc": "CACEB1749593"
+  },
+  {
+    "title": "Paradis City",
+    "artist": "Jean Leloup",
+    "isrc": "CAD431493504"
+  },
+  {
+    "title": "Tes yeux à Barcelone",
+    "artist": "Salomé Leclerc",
+    "isrc": "CAA502146902"
+  },
+  {
+    "title": "Ce soir on danse à Naziland - Remasterisé en 2009",
+    "artist": "Nanette Workman, Starmania",
+    "isrc": "FRZ041300309"
+  },
+  {
+    "title": "Si j'avais un char - Live",
+    "artist": "Stephen Faulkner",
+    "isrc": "CAL540102313"
+  },
+  {
+    "title": "Dis-lui bonjour - Version 2023",
+    "artist": "Gilles Valiquette, Louis Valois, Richard Séguin, Marie-Claire Séguin",
+    "isrc": "CAUH72303008"
+  },
+  {
+    "title": "Peu importe - Version Vingt",
+    "artist": "Catherine Durand",
+    "isrc": "CAQ601800002"
+  },
+  {
+    "title": "Quand on n’a que l’amour",
+    "artist": "Cindy Daniel",
+    "isrc": "CAQ661786015"
+  },
+  {
+    "title": "Maurice Richard",
+    "artist": "Pierre Létourneau",
+    "isrc": "CAZ700000355"
+  },
+  {
+    "title": "Comme des rames",
+    "artist": "Klô Pelgag",
+    "isrc": "CAF661300123"
+  },
+  {
+    "title": "Rêve d'enfant",
+    "artist": "Bertrand Gosselin",
+    "isrc": "CAA880783011"
+  },
+  {
+    "title": "Je serai (ta meilleure amie) (feat. Pomme)",
+    "artist": "Safia Nolin, Pomme",
+    "isrc": "CAZ841900045"
+  },
+  {
+    "title": "Le sauvage du nord",
+    "artist": "La Bolduc",
+    "isrc": "CAY620911257"
+  },
+  {
+    "title": "La légende de Jimmy",
+    "artist": "Diane Tell",
+    "isrc": "FR60F0200030"
+  },
+  {
+    "title": "Tu vas me détruire",
+    "artist": "Daniel Lavoie",
+    "isrc": "FR6V89800264"
+  },
+  {
+    "title": "C'est moi",
+    "artist": "Marie-Mai",
+    "isrc": "CAQ520907303"
+  },
+  {
+    "title": "Comme tout le monde",
+    "artist": "Luc Cousineau",
+    "isrc": "CAZ700100308"
+  },
+  {
+    "title": "Si j'avais un char",
+    "artist": "Antoine Gratton",
+    "isrc": "CAI600700012"
+  },
+  {
+    "title": "Trait d'union",
+    "artist": "Marilou",
+    "isrc": "CAA502349106"
+  },
+  {
+    "title": "Déjà-vu",
+    "artist": "Amylie, Alex McMahon",
+    "isrc": "CANSW2400001"
+  },
+  {
+    "title": "Aimons-nous",
+    "artist": "Judi Richards, Karine Deschamps, Sarah-Émilie Deschamps",
+    "isrc": "CAIPD1840001"
+  },
+  {
+    "title": "L'anarchie des jours heureux (chanson thème Le chalet)",
+    "artist": "La Bronze",
+    "isrc": "CAU7V1500001"
+  },
+  {
+    "title": "Une mère",
+    "artist": "Lynda Lemay",
+    "isrc": "CAW110602707"
+  },
+  {
+    "title": "Complainte de la serveuse automate (Starmania)",
+    "artist": "Fabienne Thibeault",
+    "isrc": "FRZ047800070"
+  },
+  {
+    "title": "Beauté perdue",
+    "artist": "Luc De Larochellière",
+    "isrc": "CAV500937701"
+  },
+  {
+    "title": "Protest Song",
+    "artist": "Richard Séguin",
+    "isrc": "CAS741239008"
+  },
+  {
+    "title": "Un trou dans les nuages",
+    "artist": "Michel Rivard",
+    "isrc": "CAS741282908"
+  },
+  {
+    "title": "L'escalier",
+    "artist": "Paul Piché",
+    "isrc": "CAP609105109"
+  },
+  {
+    "title": "La belle des champs",
+    "artist": "Jim Corcoran, Bertrand Gosselin",
+    "isrc": "CAC549912402"
+  },
+  {
+    "title": "Quand on aime on a toujours vingt ans",
+    "artist": "Jean-Pierre Ferland",
+    "isrc": "CAG600911303"
+  },
+  {
+    "title": "Les rendez-vous",
+    "artist": "Claude Léveillée",
+    "isrc": "CA7H51300215"
+  },
+  {
+    "title": "Prince-Arthur",
+    "artist": "Pierre Flynn",
+    "isrc": "CAA500619710"
+  },
+  {
+    "title": "Les gens de mon pays",
+    "artist": "Gilles Vigneault",
+    "isrc": "CAG609621117"
+  },
+  {
+    "title": "Au nom de la raison",
+    "artist": "Laurence Jalbert",
+    "isrc": "CAA4H1510002"
+  },
+  {
+    "title": "Ordinaire",
+    "artist": "Robert Charlebois",
+    "isrc": "CAL540504825"
+  },
+  {
+    "title": "Beau comme on s'aime",
+    "artist": "Yann Perreau",
+    "isrc": "CAZ840900705"
+  },
+  {
+    "title": "Tu n'es pas libre",
+    "artist": "Mara Tremblay",
+    "isrc": "CAA500825902"
+  },
+  {
+    "title": "T'es pas une autre",
+    "artist": "Claude Gauthier",
+    "isrc": "CAU116504045"
+  },
+  {
+    "title": "S'il fallait",
+    "artist": "Marjo",
+    "isrc": "CAZ700906448"
+  },
+  {
+    "title": "Moman est là (Version 1979)",
+    "artist": "Sylvain Lelièvre",
+    "isrc": "CAG609167208"
+  },
+  {
+    "title": "Quand j'aime une fois j'aime pour toujours",
+    "artist": "Richard Desjardins",
+    "isrc": "CAZ700907415"
+  },
+  {
+    "title": "J'pense que c'est l'temps",
+    "artist": "Louise Forestier",
+    "isrc": "CAU117312845"
+  },
+  {
+    "title": "Et si c'était vrai",
+    "artist": "France D'Amour",
+    "isrc": "CAT509850904"
+  },
+  {
+    "title": "Le petit bonheur",
+    "artist": "Felix Leclerc",
+    "isrc": "FR6V80620891"
+  },
+  {
+    "title": "Frequenter l'oubli",
+    "artist": "Kevin Parent",
+    "isrc": "CAU119801894"
+  },
+  {
+    "title": "Rêver mieux",
+    "artist": "Daniel Bélanger",
+    "isrc": "CAA500115012"
+  },
+  {
+    "title": "Le blues du businessman",
+    "artist": "Claude Dubois",
+    "isrc": "FR2HT1100120"
+  },
+  {
+    "title": "Margotine",
+    "artist": "Catherine Major, Élise Poulin, Ligia Paquin",
+    "isrc": "CAJ722400806"
+  },
+  {
+    "title": "Je cours après Marie",
+    "artist": "Patrice Michaud",
+    "isrc": "CAJN41300004"
+  },
+  {
+    "title": "Je Veux Tout",
+    "artist": "Ariane Moffatt",
+    "isrc": "CAA500822303"
+  },
+  {
+    "title": "Une journée parfaite",
+    "artist": "Dumas",
+    "isrc": "CAL541416205"
+  },
+  {
+    "title": "Toutes les nuits",
+    "artist": "Gaston Mandeville",
+    "isrc": "CAP689407002"
+  }
+]

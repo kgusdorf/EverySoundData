@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Borracho y Loco (Lamento Boliviano) - Ao Vivo",
+    "artist": "Vera Loca",
+    "isrc": "BRL5T1300048"
+  },
+  {
+    "title": "Cara de Vilão",
+    "artist": "Cartolas",
+    "isrc": "BRNZV0600002"
+  },
+  {
+    "title": "Linda, Louca e Livre",
+    "artist": "Apanhador Só, Alexandre Kumpinski",
+    "isrc": "BR65W1700014"
+  },
+  {
+    "title": "Lucy Jones",
+    "artist": "Identidade",
+    "isrc": "BRBOL0600017"
+  },
+  {
+    "title": "Alô, Liguei",
+    "artist": "Gross",
+    "isrc": "BXDRF1700025"
+  },
+  {
+    "title": "Andei Muito",
+    "artist": "Cuscobayo",
+    "isrc": "BRTRB1753746"
+  },
+  {
+    "title": "Segunda-Feira",
+    "artist": "Esteban Tavares",
+    "isrc": "BR2KH1300033"
+  },
+  {
+    "title": "Eu Te Amo / Eu Te Odeio (IÔ-IÔ)",
+    "artist": "Fresno, Pabllo Vittar",
+    "isrc": "BX7E52400012"
+  },
+  {
+    "title": "Teletransporte",
+    "artist": "Ian Ramil",
+    "isrc": "BRQIU2300009"
+  },
+  {
+    "title": "O Maior Idiota do Mundo",
+    "artist": "Tópaz",
+    "isrc": "BXAKK1500005"
+  },
+  {
+    "title": "Do Seu Amor, Primeiro É Você Quem Precisa",
+    "artist": "Gustavo Telles & os Escolhidos",
+    "isrc": "BR2GU1000001"
+  },
+  {
+    "title": "Estátua (Para Júpiter Maçã)",
+    "artist": "Império da Lã, Irmãos Panarotto",
+    "isrc": "BR96S2300019"
+  },
+  {
+    "title": "Afinal",
+    "artist": "Erick Endres",
+    "isrc": "QZ5AB1713867"
+  },
+  {
+    "title": "Toneladas",
+    "artist": "Supervão",
+    "isrc": "BX80I1900003"
+  },
+  {
+    "title": "Sol Menor",
+    "artist": "Poty",
+    "isrc": "BR2TX1800063"
+  },
+  {
+    "title": "Se Não Vai",
+    "artist": "Catavento",
+    "isrc": "BXFFC1800004"
+  },
+  {
+    "title": "Fecha Um",
+    "artist": "Jimi Joe, Astronauta Pinguim, Cristiano Krause, Renato Velho",
+    "isrc": "QZ5AB1727617"
+  },
+  {
+    "title": "Coração da Colônia",
+    "artist": "Baby Budas",
+    "isrc": "BRYJS2000054"
+  },
+  {
+    "title": "Confluência",
+    "artist": "Alpargatos",
+    "isrc": "BXBOJ1500003"
+  },
+  {
+    "title": "Como é Bom Ser Lésbica",
+    "artist": "Musa Híbrida, Aíla, Angélica Freitas, Bel, Camila Garófalo, Juliana Perdigão, Obinrin Trio",
+    "isrc": "BR2TX1800081"
+  },
+  {
+    "title": "Rastros",
+    "artist": "Os Horácios",
+    "isrc": "GBSMU8651088"
+  },
+  {
+    "title": "Canção das Antigas Amizades",
+    "artist": "Valentin",
+    "isrc": "US7VG1717528"
+  },
+  {
+    "title": "Caso de Polícia",
+    "artist": "Irmão Victor",
+    "isrc": "BCYN42400010"
+  },
+  {
+    "title": "Terras Brasais",
+    "artist": "Trabalhos Espaciais Manuais",
+    "isrc": "BXAFU1900037"
+  },
+  {
+    "title": "Conversas Intermináveis",
+    "artist": "Frida",
+    "isrc": "BRSYX1500003"
+  },
+  {
+    "title": "Sombra",
+    "artist": "Pedro Borghetti, CeronFlachNeves, Gabi Lamas",
+    "isrc": "BX8BH2300005"
+  },
+  {
+    "title": "Lá Vem Gente",
+    "artist": "Bloco da Laje",
+    "isrc": "US7VG1872752"
+  },
+  {
+    "title": "Girl",
+    "artist": "Dr. Hank",
+    "isrc": "QM3MQ1500002"
+  },
+  {
+    "title": "Beto Bruno",
+    "artist": "Bife Simples & O Carabala",
+    "isrc": "BRJ2Y1800014"
+  },
+  {
+    "title": "Melt",
+    "artist": "Wannabe Jalva",
+    "isrc": "BR7YE1400005"
+  },
+  {
+    "title": "Janeiro",
+    "artist": "Não ao Futebol Moderno",
+    "isrc": "BRTRB1630598"
+  },
+  {
+    "title": "Virar a Página",
+    "artist": "Rooster Punk Rock",
+    "isrc": "BKD7E2400001"
+  },
+  {
+    "title": "Como Eu Era Antes",
+    "artist": "Bordines",
+    "isrc": "US7VG1617290"
+  },
+  {
+    "title": "O Impossível",
+    "artist": "Delittus",
+    "isrc": "BRTRB1745967"
+  },
+  {
+    "title": "Desavença",
+    "artist": "Bibiana Petek",
+    "isrc": "BR3W21300019"
+  },
+  {
+    "title": "Maçã",
+    "artist": "Volantes",
+    "isrc": "BRDEP1000035"
+  },
+  {
+    "title": "Radinho",
+    "artist": "Chimi Churris",
+    "isrc": "BRTRB1864408"
+  },
+  {
+    "title": "Mergulho",
+    "artist": "Lítera",
+    "isrc": "BR5Q01500050"
+  },
+  {
+    "title": "Nunca - Remasterizado",
+    "artist": "Groove James",
+    "isrc": "BROIM0300276"
+  },
+  {
+    "title": "Acabe Bem",
+    "artist": "Doris Encrenqueira",
+    "isrc": "BXPOX1700002"
+  },
+  {
+    "title": "Béde Boy de Nhu Porã",
+    "artist": "Santiago Neto y Los Misionerotrónicos",
+    "isrc": "BR4KB1200009"
+  },
+  {
+    "title": "Spaceships",
+    "artist": "Gelpi",
+    "isrc": "US7VG1686494"
+  },
+  {
+    "title": "1989",
+    "artist": "Sandro, Tuyo",
+    "isrc": "BXSNI2000001"
+  },
+  {
+    "title": "Dia Real Inventado",
+    "artist": "Renascentes",
+    "isrc": "BR5Q01800039"
+  },
+  {
+    "title": "Ninguém Me Diz",
+    "artist": "Estragonoff",
+    "isrc": "BRF6K1800009"
+  },
+  {
+    "title": "Havoc",
+    "artist": "Marmota",
+    "isrc": "BXAH31500001"
+  },
+  {
+    "title": "Empate",
+    "artist": "Nacional Riviera",
+    "isrc": "US7VG1214890"
+  },
+  {
+    "title": "Dancing Alone",
+    "artist": "Rebel Machine",
+    "isrc": "SE2CF1900701"
+  },
+  {
+    "title": "Valsa Outsider",
+    "artist": "Quarto Sensorial",
+    "isrc": "QZ5AB1613167"
+  },
+  {
+    "title": "O Plano Mudou",
+    "artist": "Wonkavision",
+    "isrc": "BRWTP0600001"
+  },
+  {
+    "title": "CCTV.",
+    "artist": "Gentrificators",
+    "isrc": "QZ5AB1748425"
+  },
+  {
+    "title": "Nada Além",
+    "artist": "Rotten Garden",
+    "isrc": "QZHZ32218818"
+  },
+  {
+    "title": "Ausente",
+    "artist": "Gulivers",
+    "isrc": "BRUYL1000016"
+  },
+  {
+    "title": "Mania de Tocar",
+    "artist": "Bandinha Di Dá Dó",
+    "isrc": "BRMFF1200020"
+  },
+  {
+    "title": "Ataque Ao Sobrado",
+    "artist": "Grandfúria",
+    "isrc": "BRTRB1744722"
+  },
+  {
+    "title": "Selfie do Amor",
+    "artist": "Jogo Sujo, Miranda",
+    "isrc": "BX0M42400001"
+  },
+  {
+    "title": "Espelho Meu",
+    "artist": "Tarsila",
+    "isrc": "BRW6T1600002"
+  },
+  {
+    "title": "Efeito Dominó",
+    "artist": "Muralha Trio, Edu Meirelles, Murilo Moura, Gustavo Telles",
+    "isrc": "QZHZ41907996"
+  },
+  {
+    "title": "Amargurado",
+    "artist": "Pássaro Vadio",
+    "isrc": "BR3DA1700005"
+  },
+  {
+    "title": "Togetherness",
+    "artist": "Moldragon",
+    "isrc": "QZS642412588"
+  },
+  {
+    "title": "Soma ou some",
+    "artist": "Drop Inside",
+    "isrc": "BX04V2200001"
+  },
+  {
+    "title": "Dinossauros - Live",
+    "artist": "Dingo Bells",
+    "isrc": "US7VG1511378"
+  },
+  {
+    "title": "Invisível",
+    "artist": "Piratas Siderais",
+    "isrc": "BXRZG2000012"
+  },
+  {
+    "title": "Recomeçar",
+    "artist": "Mudo Falante",
+    "isrc": "BCAUG2000005"
+  },
+  {
+    "title": "Gasolina",
+    "artist": "Hipercubo",
+    "isrc": "BXORO1500013"
+  },
+  {
+    "title": "A Montanha",
+    "artist": "Lamarquez",
+    "isrc": "BR4711700034"
+  },
+  {
+    "title": "Paris (Onde Margot Era Feliz)",
+    "artist": "Maestro Sujo e o Sanatório Gotham",
+    "isrc": "BRTRB1744195"
+  },
+  {
+    "title": "O Sol de Amanhã",
+    "artist": "Fredi Bessa",
+    "isrc": "BRTRB1987195"
+  },
+  {
+    "title": "Hollow",
+    "artist": "Hollowbride",
+    "isrc": "usl4q1811010"
+  },
+  {
+    "title": "Shark",
+    "artist": "We Are The Cosmos",
+    "isrc": "QZMZ92192198"
+  },
+  {
+    "title": "Gurias do Bonfim",
+    "artist": "Soldado Desconhecido",
+    "isrc": "brl710300016"
+  },
+  {
+    "title": "Prisioneiro Joe",
+    "artist": "Morgan Le Femme",
+    "isrc": "US7VG1803178"
+  },
+  {
+    "title": "Unicorn",
+    "artist": "Missing Takes",
+    "isrc": "BRW631700009"
+  },
+  {
+    "title": "Otário",
+    "artist": "Isidoro Pilsen",
+    "isrc": "BR5GO1300012"
+  },
+  {
+    "title": "Eu Sou Bandido",
+    "artist": "The Jalmas",
+    "isrc": "BRX3S1300015"
+  },
+  {
+    "title": "Punk Deliriun",
+    "artist": "Abigail Punk Rock",
+    "isrc": "BXDHZ2200018"
+  },
+  {
+    "title": "De Eu pra Mim",
+    "artist": "Faiver",
+    "isrc": "US7VG1714505"
+  },
+  {
+    "title": "Some Action",
+    "artist": "The Snow Twins",
+    "isrc": "BXLUN1700001"
+  },
+  {
+    "title": "Som de Verão",
+    "artist": "Lactuca Sativa",
+    "isrc": "BRTMV0400160"
+  },
+  {
+    "title": "Você Vai Lembrar de Mim",
+    "artist": "Thedy Correa",
+    "isrc": "BRZ9C2000437"
+  },
+  {
+    "title": "Bomba Relógio (Burnout)",
+    "artist": "Sinclaire",
+    "isrc": "QZHZ42214356"
+  },
+  {
+    "title": "Deixe Estar",
+    "artist": "Mercado Público",
+    "isrc": "BXODB1600001"
+  },
+  {
+    "title": "Eu Já Amei uma Ginasta Pt.2",
+    "artist": "Akeem Music",
+    "isrc": "BXAK32400001"
+  },
+  {
+    "title": "Sobre Nós",
+    "artist": "Banda Defina",
+    "isrc": "RUA1H1738833"
+  },
+  {
+    "title": "Presidente o Rock'n Roll",
+    "artist": "Doctor Dog",
+    "isrc": "US7VG2237096"
+  },
+  {
+    "title": "Lembranças de uma Sádica",
+    "artist": "Ilusão Social",
+    "isrc": "US7VG1726337"
+  },
+  {
+    "title": "O Trem",
+    "artist": "Inersa",
+    "isrc": "QZ5AB1783331"
+  },
+  {
+    "title": "Arrebatamento",
+    "artist": "Irmãos Rocha",
+    "isrc": "BXAPH1900405"
+  },
+  {
+    "title": "Respeitável Público",
+    "artist": "Luciano Albo",
+    "isrc": "BRLU01200006"
+  },
+  {
+    "title": "Casa dos Fundos",
+    "artist": "Madame Bogardan",
+    "isrc": "US7VG1616089"
+  },
+  {
+    "title": "Poder de um Sonho",
+    "artist": "Visionários",
+    "isrc": "BRTUK2115066"
+  },
+  {
+    "title": "A Falta Que Faz",
+    "artist": "ÁCIDAH",
+    "isrc": "BRTRB1878100"
+  },
+  {
+    "title": "Graffiti - Ao Vivo",
+    "artist": "Vera Loca",
+    "isrc": "BRL5T1300056"
+  },
+  {
+    "title": "Sujeito Boa Praça",
+    "artist": "Cartolas",
+    "isrc": "BRNZV0600001"
+  },
+  {
+    "title": "Cartão Postal",
+    "artist": "Apanhador Só",
+    "isrc": "BR65W1300023"
+  },
+  {
+    "title": "Não Para de Dançar",
+    "artist": "Identidade",
+    "isrc": "BRNUR0900001"
+  },
+  {
+    "title": "Eu Aqui e Você Nem Ai",
+    "artist": "Gross",
+    "isrc": "BRM2F1300013"
+  },
+  {
+    "title": "Marasmo Barato",
+    "artist": "Cuscobayo",
+    "isrc": "US7VG1619992"
+  },
+  {
+    "title": "Cantiga de Nina",
+    "artist": "Ian Ramil",
+    "isrc": "BRQIU2300004"
+  },
+  {
+    "title": "Carta aos Desinteressados",
+    "artist": "Esteban Tavares",
+    "isrc": "BR2KH1500011"
+  },
+  {
+    "title": "Eu Nunca Fui Embora",
+    "artist": "Fresno",
+    "isrc": "BX7E52300024"
+  },
+  {
+    "title": "Se For pra Tudo Dar Errado",
+    "artist": "Tópaz",
+    "isrc": "BXAKK1500008"
+  },
+  {
+    "title": "Eu Perdi o Medo de Errar",
+    "artist": "Gustavo Telles & os Escolhidos",
+    "isrc": "BR2GU1300011"
+  },
+  {
+    "title": "Bunda",
+    "artist": "Império da Lã, Irmãos Panarotto",
+    "isrc": "BR96S2300020"
+  },
+  {
+    "title": "Mystique Goddess of Simplicity and Love",
+    "artist": "Erick Endres",
+    "isrc": "QZ5AB1713861"
+  },
+  {
+    "title": "Lua em Gêmeos",
+    "artist": "Supervão",
+    "isrc": "US7VG1614691"
+  },
+  {
+    "title": "Anos-luz",
+    "artist": "Poty",
+    "isrc": "BR2TX1800064"
+  },
+  {
+    "title": "Lagartia",
+    "artist": "Catavento",
+    "isrc": "BXFFC1800003"
+  },
+  {
+    "title": "Dani",
+    "artist": "Jimi Joe, Astronauta Pinguim, Cristiano Krause, Renato Velho, William Dalton",
+    "isrc": "QZ5AB1727620"
+  },
+  {
+    "title": "Ritmo do Algoritmo",
+    "artist": "Baby Budas",
+    "isrc": "BRYJS2000047"
+  },
+  {
+    "title": "Bonecas Russas (Versão Alternativa)",
+    "artist": "Alpargatos, Valentin",
+    "isrc": "BR2TX1800106"
+  },
+  {
+    "title": "Woke Up This Morning",
+    "artist": "Musa Híbrida",
+    "isrc": "BR2TX1400020"
+  },
+  {
+    "title": "Cagador de Regra",
+    "artist": "Os Horácios",
+    "isrc": "QZHZ62063762"
+  },
+  {
+    "title": "Música Sobre Saudade",
+    "artist": "Valentin",
+    "isrc": "US7VG1577858"
+  },
+  {
+    "title": "Célula Má/ Micro-Usina",
+    "artist": "Irmão Victor",
+    "isrc": "BCYN42400017"
+  },
+  {
+    "title": "Noite de Amor na Jamaica",
+    "artist": "Trabalhos Espaciais Manuais",
+    "isrc": "QZ5AB1932553"
+  },
+  {
+    "title": "Piscina",
+    "artist": "Frida",
+    "isrc": "BRSYX1500004"
+  },
+  {
+    "title": "Valsa pra Purça",
+    "artist": "Pedro Borghetti, Paola Kirst",
+    "isrc": "BXW3G1900009"
+  },
+  {
+    "title": "O Que Tu Tem Cidadão",
+    "artist": "Bloco da Laje, Francisco, el Hombre",
+    "isrc": "BRL4K1900004"
+  },
+  {
+    "title": "I'm Fine",
+    "artist": "Dr. Hank",
+    "isrc": "ushm91372107"
+  },
+  {
+    "title": "Saudades da Mesbla",
+    "artist": "Bife Simples & O Carabala",
+    "isrc": "BRJ2Y1800013"
+  },
+  {
+    "title": "Mareá",
+    "artist": "Wannabe Jalva, Curumin",
+    "isrc": "BR7YE1600001"
+  },
+  {
+    "title": "Saia",
+    "artist": "Não ao Futebol Moderno",
+    "isrc": "BRTRB1630596"
+  },
+  {
+    "title": "Perdidos na Escuridão",
+    "artist": "Rooster Punk Rock",
+    "isrc": "QZGLS2272336"
+  },
+  {
+    "title": "Guaíba",
+    "artist": "Bordines",
+    "isrc": "BXQGB1900014"
+  },
+  {
+    "title": "Se Te Faz Feliz",
+    "artist": "Delittus",
+    "isrc": "BRTRB1745974"
+  },
+  {
+    "title": "Amor e Morte",
+    "artist": "Bibiana Petek",
+    "isrc": "BR3W21300023"
+  },
+  {
+    "title": "Vitória",
+    "artist": "Volantes",
+    "isrc": "BRDEP1000066"
+  },
+  {
+    "title": "Durga Negra",
+    "artist": "Chimi Churris",
+    "isrc": "US7VG1475962"
+  },
+  {
+    "title": "Amantes",
+    "artist": "Lítera",
+    "isrc": "BR5Q01500053"
+  },
+  {
+    "title": "Hein?! - Remasterizado",
+    "artist": "Groove James",
+    "isrc": "BR96S1700010"
+  },
+  {
+    "title": "A Outra",
+    "artist": "Doris Encrenqueira",
+    "isrc": "BXPOX1700010"
+  },
+  {
+    "title": "Contramão",
+    "artist": "Santiago Neto y Los Misionerotrónicos",
+    "isrc": "BR4KB1200021"
+  },
+  {
+    "title": "Life Taste",
+    "artist": "Gelpi",
+    "isrc": "BXL691900002"
+  },
+  {
+    "title": "Dança",
+    "artist": "Sandro",
+    "isrc": "BXSNI1800001"
+  },
+  {
+    "title": "O Poema",
+    "artist": "Renascentes",
+    "isrc": "BR5Q01800030"
+  },
+  {
+    "title": "É Preciso Falar",
+    "artist": "Estragonoff",
+    "isrc": "BRF6K2200006"
+  },
+  {
+    "title": "If I Should Lose You",
+    "artist": "Marmota",
+    "isrc": "BXAH31500005"
+  },
+  {
+    "title": "Câmera",
+    "artist": "Nacional Riviera",
+    "isrc": "BXAH31700001"
+  },
+  {
+    "title": "Waiting for You",
+    "artist": "Rebel Machine",
+    "isrc": "BXC341600004"
+  },
+  {
+    "title": "O Escapista",
+    "artist": "Quarto Sensorial",
+    "isrc": "BRTRB1995984"
+  },
+  {
+    "title": "NaNaNa",
+    "artist": "Wonkavision",
+    "isrc": "BRWTP0600006"
+  },
+  {
+    "title": "Skinny Jeans",
+    "artist": "Gentrificators",
+    "isrc": "QZ5AB1748426"
+  },
+  {
+    "title": "Burn",
+    "artist": "Rotten Garden",
+    "isrc": "QZGLM2116458"
+  },
+  {
+    "title": "Quem Tem Razão?",
+    "artist": "Gulivers",
+    "isrc": "BRUYL1000023"
+  },
+  {
+    "title": "Chica Tulipa",
+    "artist": "Bandinha Di Dá Dó",
+    "isrc": "BRMFF1200019"
+  },
+  {
+    "title": "Choro do Pampa",
+    "artist": "Grandfúria",
+    "isrc": "US7VG1606357"
+  },
+  {
+    "title": "Você Chegou Para Ficar (Ao Vivo)",
+    "artist": "Jogo Sujo",
+    "isrc": "BX0M42300002"
+  },
+  {
+    "title": "Vem, Entra Logo",
+    "artist": "Tarsila",
+    "isrc": "BRW6T1500019"
+  },
+  {
+    "title": "Super Moon",
+    "artist": "Muralha Trio, Edu Meirelles, Murilo Moura, Gustavo Telles",
+    "isrc": "QZHZ41908231"
+  },
+  {
+    "title": "Caosmos",
+    "artist": "Pássaro Vadio",
+    "isrc": "BR3DA1700001"
+  },
+  {
+    "title": "Party Drug",
+    "artist": "Moldragon",
+    "isrc": "QZMHN2423979"
+  },
+  {
+    "title": "Novos Ares",
+    "artist": "Drop Inside",
+    "isrc": "BX04V1800003"
+  },
+  {
+    "title": "Meu Bem e o Assovio",
+    "artist": "Cartolas",
+    "isrc": "BRNZV0900008"
+  },
+  {
+    "title": "Cuidado Ana - Ao Vivo",
+    "artist": "Vera Loca",
+    "isrc": "BRL5T1300045"
+  },
+  {
+    "title": "Um Rei e o Zé",
+    "artist": "Apanhador Só",
+    "isrc": "BRMFF1000012"
+  },
+  {
+    "title": "Jogo Sujo",
+    "artist": "Identidade",
+    "isrc": "BRBOL0600011"
+  },
+  {
+    "title": "Me Recuperar",
+    "artist": "Gross",
+    "isrc": "BXDFR1700020"
+  },
+  {
+    "title": "Ô, Vagabundo!",
+    "artist": "Cuscobayo",
+    "isrc": "US7VG1588768"
+  },
+  {
+    "title": "O Bichinho",
+    "artist": "Ian Ramil",
+    "isrc": "BRQIU2300008"
+  },
+  {
+    "title": "Desde Quando Você Se Foi",
+    "artist": "Fresno",
+    "isrc": "BRMSU0800051"
+  },
+  {
+    "title": "Cigarros e Capitais",
+    "artist": "Esteban Tavares",
+    "isrc": "BR2KH1500004"
+  },
+  {
+    "title": "Musica Sem Nome",
+    "artist": "Tópaz",
+    "isrc": "BXAKK1500003"
+  },
+  {
+    "title": "Passo a Passo",
+    "artist": "Gustavo Telles & os Escolhidos",
+    "isrc": "BR2GU1000002"
+  },
+  {
+    "title": "Amigo Punk",
+    "artist": "Império da Lã",
+    "isrc": "BR96S1700023"
+  },
+  {
+    "title": "Don't Think I'm Crazy",
+    "artist": "Erick Endres",
+    "isrc": "BR3W21400143"
+  },
+  {
+    "title": "Tempo Barravento",
+    "artist": "Supervão",
+    "isrc": "BRTRB1743939"
+  },
+  {
+    "title": "Imprevisão",
+    "artist": "Poty, Jortacio, Thiago Ramil",
+    "isrc": "BR2TX1800067"
+  },
+  {
+    "title": "Deus Online",
+    "artist": "Catavento",
+    "isrc": "BXFFC1800002"
+  },
+  {
+    "title": "Primeiro Instante",
+    "artist": "Jimi Joe, Astronauta Pinguim, Cristiano Krause, William Dalton",
+    "isrc": "QZ5AB1727625"
+  },
+  {
+    "title": "E Sozinhos (Estaríamos Pior)",
+    "artist": "Baby Budas",
+    "isrc": "BRYJS1700013"
+  },
+  {
+    "title": "Super-Homem, Astronauta",
+    "artist": "Alpargatos, Mun-Rá",
+    "isrc": "BX02N1700002"
+  },
+  {
+    "title": "Um Planeta",
+    "artist": "Musa Híbrida",
+    "isrc": "BR2TX1400016"
+  },
+  {
+    "title": "Efeito Bumerangue",
+    "artist": "Os Horácios",
+    "isrc": "QZHZ62063761"
+  },
+  {
+    "title": "Nada Acontece",
+    "artist": "Valentin",
+    "isrc": "US7VG1577865"
+  },
+  {
+    "title": "Música N.4",
+    "artist": "Irmão Victor",
+    "isrc": "BCYN42400011"
+  },
+  {
+    "title": "Prazerá",
+    "artist": "Trabalhos Espaciais Manuais, Livia Nery, Di Melo, Duda Raupp",
+    "isrc": "BCDHA2300002"
+  },
+  {
+    "title": "Jardim Bonito",
+    "artist": "Frida",
+    "isrc": "BRSYX1500006"
+  },
+  {
+    "title": "Pendenga de Chicó",
+    "artist": "Pedro Borghetti, CeronFlachNeves, Jorginho do Trompete",
+    "isrc": "BX8BH2300001"
+  },
+  {
+    "title": "Recanto Africano",
+    "artist": "Bloco da Laje",
+    "isrc": "BRL4K1900005"
+  },
+  {
+    "title": "Dutch Song",
+    "artist": "Dr. Hank",
+    "isrc": "ushm91372109"
+  },
+  {
+    "title": "Todo Mundo Quer Transar",
+    "artist": "Bife Simples & O Carabala",
+    "isrc": "BRJ2Y1800016"
+  },
+  {
+    "title": "Something New",
+    "artist": "Wannabe Jalva",
+    "isrc": "BRLU01100007"
+  },
+  {
+    "title": "Quase Jr.",
+    "artist": "Não ao Futebol Moderno",
+    "isrc": "BRTRB1630592"
+  }
+]

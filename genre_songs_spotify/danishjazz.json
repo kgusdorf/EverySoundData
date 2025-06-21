@@ -1,0 +1,762 @@
+[
+  {
+    "title": "Answer Me",
+    "artist": "Hans Ulrik",
+    "isrc": "SE6N62204136"
+  },
+  {
+    "title": "Somewhere over the Rainbow",
+    "artist": "Carsten Dahl, Lennart Ginman, Thomas Blachman",
+    "isrc": "DKM282000103"
+  },
+  {
+    "title": "My Song",
+    "artist": "Alex Riel, Bo Stief, Carsten Dahl",
+    "isrc": "DKEFA2101801"
+  },
+  {
+    "title": "Talking to Myself",
+    "artist": "Sinne Eeg, Jacob Fischer, Jacob Christoffersen, Chris Minh Doky, Rasmus Kihlberg",
+    "isrc": "DKABA0900110"
+  },
+  {
+    "title": "Where We Belong",
+    "artist": "Thomas Fonnesbæk, Lars Jansson, Paul Svanberg",
+    "isrc": "SEBAA1500608"
+  },
+  {
+    "title": "Caetano",
+    "artist": "Jesper Bodilsen",
+    "isrc": "DKBDB0902601"
+  },
+  {
+    "title": "All Blues",
+    "artist": "Morten Lund, Thomas Hass, Carsten Dah, Lennart Ginman",
+    "isrc": "USA560873518"
+  },
+  {
+    "title": "Blame It on My Youth",
+    "artist": "Henrik Gunde, Jesper Bodilsen, Morten Lund",
+    "isrc": "DK9G52100301"
+  },
+  {
+    "title": "I Skovens Dybe Stille Ro",
+    "artist": "Niels-Henning Ørsted Pedersen, Oscar Peterson",
+    "isrc": "DKAAV9800102"
+  },
+  {
+    "title": "Godfather",
+    "artist": "Chris Minh Doky",
+    "isrc": "DKABA0505009"
+  },
+  {
+    "title": "On Late Nights",
+    "artist": "Snorre Kirk",
+    "isrc": "DKBDB2202303"
+  },
+  {
+    "title": "Beneath the Moonlit Sky of Copenhagen",
+    "artist": "Lennart Ginman, Thomas Blachman, Carsten Dahl",
+    "isrc": "DKEFA2400110"
+  },
+  {
+    "title": "50 Ways to Leave Your Lover",
+    "artist": "Bo Stief, Bobo Moreno, Ole Kock Hansen",
+    "isrc": "DKBDB1002105"
+  },
+  {
+    "title": "Samehna Ya Rab",
+    "artist": "Anders Christensen, Lasse M. Jensen, Ahmed Omran",
+    "isrc": "DKBDB0800303"
+  },
+  {
+    "title": "Strands",
+    "artist": "Jakob Bro, Palle Mikkelborg, Thomas Morgan, Jon Christensen",
+    "isrc": "DEB331654602"
+  },
+  {
+    "title": "Somewhere over the Rainbow",
+    "artist": "Hugo Rasmussen",
+    "isrc": "DKBDB1301301"
+  },
+  {
+    "title": "Hope",
+    "artist": "Jakob Dinesen",
+    "isrc": "DKBDB1901502"
+  },
+  {
+    "title": "CRAZY WITCH GAME",
+    "artist": "Kresten Osgood",
+    "isrc": "DKP6A1800106"
+  },
+  {
+    "title": "It Could Happen To You",
+    "artist": "Thomas Clausen, Karsten Bagge, Thomas Fonnesbæk",
+    "isrc": "DKBDB2101405"
+  },
+  {
+    "title": "Broken Beauty",
+    "artist": "Niclas Knudsen, Jonathan Bremer, Felix Ewert",
+    "isrc": "DGA0L2311319"
+  },
+  {
+    "title": "Children's Song",
+    "artist": "Niels Lan Doky",
+    "isrc": "FRX762319990"
+  },
+  {
+    "title": "Regret?",
+    "artist": "Thomas Blachman, Humans Destroy Planets",
+    "isrc": "DKF4N2300104"
+  },
+  {
+    "title": "Woodwind",
+    "artist": "Jan Harbeck Quartet",
+    "isrc": "DKBDB2202006"
+  },
+  {
+    "title": "Almindsø",
+    "artist": "Peter Rosendal, Palle Mikkelborg",
+    "isrc": "DGA092395229"
+  },
+  {
+    "title": "Never Let Me Go",
+    "artist": "Cæcilie Norby",
+    "isrc": "DKABA0205903"
+  },
+  {
+    "title": "Iturevet Almanak",
+    "artist": "Hvalfugl",
+    "isrc": "DKG112100101"
+  },
+  {
+    "title": "On The Second Day",
+    "artist": "Jørgen Emborg",
+    "isrc": "DKBDB2001507"
+  },
+  {
+    "title": "The Kingdom (Where Nobody Dies)",
+    "artist": "Mads Vinding, Alex Riel, Enrico Pieranunzi",
+    "isrc": "USA370690776"
+  },
+  {
+    "title": "Sideways",
+    "artist": "Anders Mogensen",
+    "isrc": "FR59R2110535"
+  },
+  {
+    "title": "Skies",
+    "artist": "Jonas Johansen, Lennart Ginman, Thor Madsen",
+    "isrc": "DKZK52400304"
+  },
+  {
+    "title": "Opstigning",
+    "artist": "Bremer/McCoy",
+    "isrc": "FR59R1684448"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Mads Hansen, Mathias Heise, Henrik Gunde, Kaspar Vadsholt, Morten Lund",
+    "isrc": "DKM042300202"
+  },
+  {
+    "title": "Gefion - Live",
+    "artist": "Palle Mikkelborg, Jakob Bro, Marilyn Mazur",
+    "isrc": "DEB332381201"
+  },
+  {
+    "title": "C'est Si Bon",
+    "artist": "Jesper Thilo",
+    "isrc": "DKEBA0509808"
+  },
+  {
+    "title": "Tangeri",
+    "artist": "Søren Bebe Trio, Søren Bebe",
+    "isrc": "DKTF72302902"
+  },
+  {
+    "title": "Anna's Dollhouse - Single Edit",
+    "artist": "Benjamin Koppel, Cæcilie Norby, Kenny Werner, Peter Erskine",
+    "isrc": "DKES22200101"
+  },
+  {
+    "title": "Salme Ved Vejs Ende",
+    "artist": "Mads Vinding Trio",
+    "isrc": "USA560771050"
+  },
+  {
+    "title": "Junction River",
+    "artist": "Uffe Steen",
+    "isrc": "DKDK31000203"
+  },
+  {
+    "title": "Cheyenne",
+    "artist": "Ibrahim Electric",
+    "isrc": "DGA082354999"
+  },
+  {
+    "title": "Doug",
+    "artist": "Jesper Lundgaard, Hans Ulrik, Niclas Knudsen",
+    "isrc": "DKEFA1603106"
+  },
+  {
+    "title": "I Married An Angel",
+    "artist": "Atli Bjørn",
+    "isrc": "USA560661972"
+  },
+  {
+    "title": "Strip Tease",
+    "artist": "Kenneth Knudsen",
+    "isrc": "DKAZA1500153"
+  },
+  {
+    "title": "Cherry",
+    "artist": "Stefan Pasborg, Carsten Dahl, Fredrik Lundin",
+    "isrc": "DKZK52301206"
+  },
+  {
+    "title": "Forelsket i København",
+    "artist": "Christina von Bülow",
+    "isrc": "DKEBA0404901"
+  },
+  {
+    "title": "Blå Time - Blue Hour",
+    "artist": "Gunde On Garner",
+    "isrc": "DKBDB0902901"
+  },
+  {
+    "title": "Winter Rose",
+    "artist": "Mathias Heise, Jacob Christoffersen, Pelle von Bülow, Thomas Fonnesbæk, Jeppe Gram",
+    "isrc": "DKEFA2301203"
+  },
+  {
+    "title": "Ascending (feat. Bo Rande)",
+    "artist": "Mikkel Nordsø, Mashti, Bo Rande",
+    "isrc": "DKUCA2300002"
+  },
+  {
+    "title": "Little Bird of Passage",
+    "artist": "Niclas Knudsen Trio, Niclas Knudsen",
+    "isrc": "DKME62300102"
+  },
+  {
+    "title": "Impromptu #1",
+    "artist": "Aske Jacoby, Jeppe Gram, Daniel Franck",
+    "isrc": "DKQ672100501"
+  },
+  {
+    "title": "Symfoni",
+    "artist": "Nicolai Munch-Hansen, Peter Laugesen, Kira Skov, Oliver Hoiness, Adi Zukanovic",
+    "isrc": "DKBDB1601701"
+  },
+  {
+    "title": "Vill Du Bli Munk?",
+    "artist": "Jazzkamikaze",
+    "isrc": "USA370673477"
+  },
+  {
+    "title": "The Evil Eye",
+    "artist": "Caroline Henderson",
+    "isrc": "DKBV71107604"
+  },
+  {
+    "title": "True To Myself",
+    "artist": "Ridin' Thumb",
+    "isrc": "USA560697265"
+  },
+  {
+    "title": "Interval",
+    "artist": "Jens Jefsen",
+    "isrc": "DKCV11200108"
+  },
+  {
+    "title": "Someone To Watch Over Me",
+    "artist": "Mona Larsen",
+    "isrc": "DKAAM9800109"
+  },
+  {
+    "title": "Midnight Mood",
+    "artist": "Jens Winther, Carl Winther, Mikkel Nordsø, Christian Douglas, Johan Kolsut",
+    "isrc": "DKBDB1201301"
+  },
+  {
+    "title": "Jeg ved en lærkerede",
+    "artist": "Jacob Anderskov",
+    "isrc": "DKY302300901"
+  },
+  {
+    "title": "Lonely Waltz",
+    "artist": "Frans Bak, Sinne Eeg",
+    "isrc": "DKEFA2400302"
+  },
+  {
+    "title": "To Be or Not to Be - Orchestral Version",
+    "artist": "Leo Mathisen",
+    "isrc": "QM6MZ1542501"
+  },
+  {
+    "title": "Thinking",
+    "artist": "Fini Høstrup",
+    "isrc": "DK6J12200101"
+  },
+  {
+    "title": "Green Chimneys",
+    "artist": "Kasper Villaume",
+    "isrc": "USA370673428"
+  },
+  {
+    "title": "Skibet skal sejle i nat",
+    "artist": "Kristian Jørgensen, Sankt Annæ Pigekor, Thomas Ovesen, Karsten Kristensen, Tom Jensen",
+    "isrc": "SEVOZ1300305"
+  },
+  {
+    "title": "Point of no return",
+    "artist": "Thomas Fonnesbæk Trio, Thomas Fonnesbæk, Justin Kauflin, Billy Williams",
+    "isrc": "DKEFA1800701"
+  },
+  {
+    "title": "Boul",
+    "artist": "Bagdad Dagblad",
+    "isrc": "DK3KA0302003"
+  },
+  {
+    "title": "Take a Little Time",
+    "artist": "OTOOTO, Lucky Lo",
+    "isrc": "DKY302200108"
+  },
+  {
+    "title": "Funky Butt Strut",
+    "artist": "WonderBrazz",
+    "isrc": "FR98X0400110"
+  },
+  {
+    "title": "Regnvejrssang",
+    "artist": "Emil de Waal, Fredrik Lundin",
+    "isrc": "DKY302301601"
+  },
+  {
+    "title": "White",
+    "artist": "I Just Came From The Moon",
+    "isrc": "DKY302100801"
+  },
+  {
+    "title": "Always On My Mind",
+    "artist": "Benni Chawes",
+    "isrc": "USA370685705"
+  },
+  {
+    "title": "Bohemia After Dark",
+    "artist": "Erik Moseholm",
+    "isrc": "DKARS2402201"
+  },
+  {
+    "title": "El Orador",
+    "artist": "Erling Kroner, Henrik Simonsen, Ólavur Øster, Kolbein Simonsen, Kristian Blak, Eskil Romme",
+    "isrc": "FRX991583177"
+  },
+  {
+    "title": "Forårsfred",
+    "artist": "Eskil Romme",
+    "isrc": "FR6V81920869"
+  },
+  {
+    "title": "The Lover: (Vesper 2012)",
+    "artist": "Niels Lyhne Løkkegaard",
+    "isrc": "DKNT51200105"
+  },
+  {
+    "title": "Mosekonen Brygger",
+    "artist": "Rosendal/Earle/Templeton",
+    "isrc": "USA560700768"
+  },
+  {
+    "title": "Boogie Run - track version",
+    "artist": "SP Just Frost",
+    "isrc": "DKNJ91203101"
+  },
+  {
+    "title": "A Nightingale Sang In Berkeley Square",
+    "artist": "Hans Ulrik",
+    "isrc": "FRX282254574"
+  },
+  {
+    "title": "Grace #5",
+    "artist": "Carsten Dahl",
+    "isrc": "DKFN51500105"
+  },
+  {
+    "title": "Den milde dag er lys og lang",
+    "artist": "Alex Riel, Bo Stief, Carsten Dahl",
+    "isrc": "DKEFA2101804"
+  },
+  {
+    "title": "One of a Kind",
+    "artist": "Jesper Bodilsen",
+    "isrc": "DKBDB0902602"
+  },
+  {
+    "title": "Round Midnight",
+    "artist": "Thomas Fonnesbæk, Justin Kauflin",
+    "isrc": "DKEFA2001307"
+  },
+  {
+    "title": "Spring Waltz",
+    "artist": "Sinne Eeg, Thomas Fonnesbæk",
+    "isrc": "DKBDB2101701"
+  },
+  {
+    "title": "On Green Dolphin Street",
+    "artist": "Morten Lund, Jacob Karlzon, Mads Vinding",
+    "isrc": "dkkq10800211"
+  },
+  {
+    "title": "Se Dig For / På En Grøn Bakketop",
+    "artist": "Niels-Henning Ørsted Pedersen, Åh Abe!",
+    "isrc": "DKAXD9400119"
+  },
+  {
+    "title": "Fanølyng",
+    "artist": "Henrik Gunde, Jesper Bodilsen, Morten Lund",
+    "isrc": "DK9G52100309"
+  },
+  {
+    "title": "Yesteryear",
+    "artist": "Snorre Kirk",
+    "isrc": "DKBDB2202309"
+  },
+  {
+    "title": "Rain - Live",
+    "artist": "Chris Minh Doky, Dave Weckl, Dean Brown, George Whitty",
+    "isrc": "DKPM71400104"
+  },
+  {
+    "title": "Socialism Works in Groups of 3",
+    "artist": "Lennart Ginman, Thomas Blachman, Carsten Dahl",
+    "isrc": "DKEFA2400112"
+  },
+  {
+    "title": "Together Forever",
+    "artist": "Bo Stief, Bobo Moreno, Ole Kock Hansen",
+    "isrc": "DKBDB1002111"
+  },
+  {
+    "title": "Habibti Shams (vocal)",
+    "artist": "Anders Christensen, Lasse M. Jensen, JASMIN, Gamalat, Sheha, Saleh El Artist, Ahmed Omran, Phillipe Dip, Marie Fisker, Omar Shargawi",
+    "isrc": "DKBDB0800317"
+  },
+  {
+    "title": "Song To An Old Friend",
+    "artist": "Jakob Bro, Joe Lovano, Larry Grenadier, Thomas Morgan, Anders Christensen, Joey Baron, Jorge Rossy",
+    "isrc": "DEB332174704"
+  },
+  {
+    "title": "Stardust",
+    "artist": "Hugo Rasmussen",
+    "isrc": "DKBDB1301303"
+  },
+  {
+    "title": "Stars Fell On Alabama",
+    "artist": "Jakob Dinesen, Per Møllehøj, Daniel Franck",
+    "isrc": "SE6N62204791"
+  },
+  {
+    "title": "Play it Back",
+    "artist": "Kresten Osgood, Fridolin Nordsø, Ludomir Dietl, Arto Eriksen",
+    "isrc": "DKY302101301"
+  },
+  {
+    "title": "Nature Boy",
+    "artist": "Thomas Clausen, Karsten Bagge, Thomas Fonnesbæk",
+    "isrc": "DKBDB2101403"
+  },
+  {
+    "title": "Sweet Solitude",
+    "artist": "Niclas Knudsen",
+    "isrc": "DKME62200105"
+  },
+  {
+    "title": "The Lilly Flower - Liljankukka",
+    "artist": "Niels Lan Doky",
+    "isrc": "DKABA1300294"
+  },
+  {
+    "title": "Like This (Give Me a Kiss)",
+    "artist": "Thomas Blachman, Remee, Al Agami",
+    "isrc": "SEVJH0900702"
+  },
+  {
+    "title": "Peter's Garden",
+    "artist": "Peter Rosendal, Nancy Harms",
+    "isrc": "DGA0M2342453"
+  },
+  {
+    "title": "The Look of Love",
+    "artist": "Cæcilie Norby",
+    "isrc": "DKABA9615201"
+  },
+  {
+    "title": "One Fine Day",
+    "artist": "Jan Harbeck Quartet",
+    "isrc": "DKBDB2202002"
+  },
+  {
+    "title": "Lystrup",
+    "artist": "Hvalfugl",
+    "isrc": "DKG111800109"
+  },
+  {
+    "title": "Running",
+    "artist": "Jørgen Emborg",
+    "isrc": "DKBDB2001501"
+  },
+  {
+    "title": "Over The Rainbow",
+    "artist": "Mads Vinding, Jacob Fischer",
+    "isrc": "DK3KA0201603"
+  },
+  {
+    "title": "City Women",
+    "artist": "Jonas Johansen, Lennart Ginman, Thor Madsen",
+    "isrc": "DKZK52400301"
+  },
+  {
+    "title": "Estate",
+    "artist": "Anders Mogensen, Carl Winther",
+    "isrc": "FR59R2204362"
+  },
+  {
+    "title": "Family",
+    "artist": "Mads Hansen, Mathias Heise, Henrik Gunde, Kaspar Vadsholt, Morten Lund",
+    "isrc": "DKM042300204"
+  },
+  {
+    "title": "Midnat",
+    "artist": "Bremer/McCoy",
+    "isrc": "FR59R1591350"
+  },
+  {
+    "title": "Oktober - Live",
+    "artist": "Palle Mikkelborg, Jakob Bro, Marilyn Mazur",
+    "isrc": "DEB332381202"
+  },
+  {
+    "title": "Det Gamle Træ",
+    "artist": "Jesper Thilo, Svend Asmussen, Niels-Henning Ørsten Pedersen",
+    "isrc": "DKEBC9023404"
+  },
+  {
+    "title": "On and On",
+    "artist": "Søren Bebe Trio, Søren Bebe",
+    "isrc": "DKTF72302910"
+  },
+  {
+    "title": "Time Again",
+    "artist": "Benjamin Koppel, Brian Blade, Anders Koppel, Al Agami",
+    "isrc": "DKES22300305"
+  },
+  {
+    "title": "I Can't Get Started",
+    "artist": "Mads Vinding Trio",
+    "isrc": "USA560771060"
+  },
+  {
+    "title": "Mac-Riff",
+    "artist": "Uffe Steen, Adam Nussbaum, Lennart Ginman",
+    "isrc": "USA370674056"
+  },
+  {
+    "title": "Diddi",
+    "artist": "Ibrahim Electric",
+    "isrc": "DGA082355000"
+  },
+  {
+    "title": "Prelude in C Major",
+    "artist": "Jesper Lundgaard, Thomas Clausen",
+    "isrc": "DKEBA0301301"
+  },
+  {
+    "title": "What Is This Thing Called Love",
+    "artist": "Atli Bjørn",
+    "isrc": "USA560661974"
+  },
+  {
+    "title": "Anima",
+    "artist": "Kenneth Knudsen",
+    "isrc": "DKAZA1500152"
+  },
+  {
+    "title": "The Searcher",
+    "artist": "Stefan Pasborg, Carsten Dahl, Fredrik Lundin",
+    "isrc": "DKZK52301201"
+  },
+  {
+    "title": "Primavera",
+    "artist": "Christina von Bülow, Fredrik Lundin",
+    "isrc": "DKBDB1102701"
+  },
+  {
+    "title": "Norwegian Sunset",
+    "artist": "Gunde On Garner",
+    "isrc": "DKBDB0902905"
+  },
+  {
+    "title": "Para Mi Madre",
+    "artist": "Mathias Heise, The Danish Radio Big Band",
+    "isrc": "DKZT91800701"
+  },
+  {
+    "title": "Blues For Fidel",
+    "artist": "Mikkel Nordsø",
+    "isrc": "USA560655216"
+  },
+  {
+    "title": "Peaceful Paranoia",
+    "artist": "Niclas Knudsen Trio, Kresten Osgood, Niclas Knudsen, Anders Christensen",
+    "isrc": "FR26V2036640"
+  },
+  {
+    "title": "True Love Never Dies",
+    "artist": "Aske Jacoby",
+    "isrc": "DKQ672100221"
+  },
+  {
+    "title": "Brev til Sonny Boy",
+    "artist": "Nicolai Munch-Hansen, Peter Laugesen, Steen Jørgensen, Kira Skov, Oliver Hoiness, Adi Zukanovic, Sebastian Rochford",
+    "isrc": "DKBDB1601702"
+  },
+  {
+    "title": "Rastapopoulus",
+    "artist": "Jazzkamikaze",
+    "isrc": "USA370673478"
+  },
+  {
+    "title": "Grace #7",
+    "artist": "Carsten Dahl",
+    "isrc": "DKFN51500107"
+  },
+  {
+    "title": "Farewell My Heart, My House",
+    "artist": "Alex Riel, Benjamin Koppel, Hans Ulrik, Jon Balke, Palle Danielsson",
+    "isrc": "DKES21000312"
+  },
+  {
+    "title": "In a Sentimental Mood",
+    "artist": "Hans Ulrik",
+    "isrc": "FRX202055565"
+  },
+  {
+    "title": "Moon River",
+    "artist": "Jesper Bodilsen",
+    "isrc": "DKBDB0902605"
+  },
+  {
+    "title": "The Accounter",
+    "artist": "Thomas Fonnesbæk, Lars Jansson, Paul Svanberg",
+    "isrc": "SEBAA1500603"
+  },
+  {
+    "title": "Hours Of Ours",
+    "artist": "Sinne Eeg, Lars Jansson, Morten Lund, Mads Vinding",
+    "isrc": "DK3KA0700908"
+  },
+  {
+    "title": "All The Things You Are",
+    "artist": "Morten Lund, Mads Vinding, Jacob Karlzon",
+    "isrc": "dkkq10800203"
+  },
+  {
+    "title": "O, Tysta Ensamhet",
+    "artist": "Niels-Henning Ørsted Pedersen",
+    "isrc": "DKAAV9800101"
+  },
+  {
+    "title": "Have A Talk With God",
+    "artist": "Henrik Gunde, Nicolas Kock, Karsten Bagge",
+    "isrc": "DKG7E2300302"
+  },
+  {
+    "title": "The Jam - Live",
+    "artist": "Chris Minh Doky, Dave Weckl, Dean Brown, George Whitty",
+    "isrc": "DKPM71400101"
+  },
+  {
+    "title": "Up North Seasonal Affective Disorder",
+    "artist": "Lennart Ginman, Thomas Blachman, Carsten Dahl",
+    "isrc": "DKEFA2400114"
+  },
+  {
+    "title": "Both Sides Now",
+    "artist": "Bo Stief, Bobo Moreno, Ole Kock Hansen",
+    "isrc": "DKBDB1002106"
+  },
+  {
+    "title": "Unsentimental",
+    "artist": "Snorre Kirk, Stephen Riley",
+    "isrc": "DKBDB1902101"
+  },
+  {
+    "title": "Big Dreamer",
+    "artist": "Anders Christensen, Hans Ulrik, Jacob Christoffersen, Mikkel Hess",
+    "isrc": "USA370673209"
+  },
+  {
+    "title": "Heroines - Var.",
+    "artist": "Jakob Bro",
+    "isrc": "DEB331549906"
+  },
+  {
+    "title": "Chi Chi",
+    "artist": "Hugo Rasmussen, Jesper Thilo, Doug Raney",
+    "isrc": "DKEBA0004503"
+  },
+  {
+    "title": "Slaraffenland",
+    "artist": "Jakob Dinesen",
+    "isrc": "DKBDB0701202"
+  },
+  {
+    "title": "Voldsom Volvo",
+    "artist": "Kresten Osgood, Hvad Er Klokken",
+    "isrc": "DKP6A2100303"
+  },
+  {
+    "title": "Vem kan segla förutan vind",
+    "artist": "Thomas Clausen, Karsten Bagge, Thomas Fonnesbæk",
+    "isrc": "DKBDB2101409"
+  },
+  {
+    "title": "Yosemite",
+    "artist": "Niclas Knudsen, Jonathan Bremer, Felix Ewert",
+    "isrc": "DGA0L2311318"
+  },
+  {
+    "title": "Dixie Hop",
+    "artist": "Niels Lan Doky, Bill Evans, Harvey Mason, Darryl Jones",
+    "isrc": "DKA112300201"
+  },
+  {
+    "title": "That's No Shame",
+    "artist": "Thomas Blachman, Kasper Winding",
+    "isrc": "DKKN70900605"
+  },
+  {
+    "title": "Tornsangerland",
+    "artist": "Peter Rosendal",
+    "isrc": "DGA0M2366987"
+  },
+  {
+    "title": "In A Sentimental Mood",
+    "artist": "Cæcilie Norby",
+    "isrc": "DKBR70400106"
+  },
+  {
+    "title": "Nostalgisk Nørrestrand",
+    "artist": "Hvalfugl",
+    "isrc": "DKG112300101"
+  },
+  {
+    "title": "One Step at a Time",
+    "artist": "Jan Harbeck Quartet",
+    "isrc": "DKBDB2202007"
+  }
+]

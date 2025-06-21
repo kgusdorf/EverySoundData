@@ -1,0 +1,952 @@
+[
+  {
+    "title": "Domani",
+    "artist": "Jack Out, K beezy 28, Olly",
+    "isrc": "ITK252140014"
+  },
+  {
+    "title": "Stranger Teens",
+    "artist": "Ëgo, Werdn",
+    "isrc": "FR59R2276338"
+  },
+  {
+    "title": "Vattene da me",
+    "artist": "GiorniTristi",
+    "isrc": "TCAEL1964438"
+  },
+  {
+    "title": "Atlantide",
+    "artist": "xDiemondx",
+    "isrc": "QZES82457962"
+  },
+  {
+    "title": "Sottopelle",
+    "artist": "Alelock",
+    "isrc": "TCAGJ2233252"
+  },
+  {
+    "title": "Edera",
+    "artist": "Danien",
+    "isrc": "TCAEL1992871"
+  },
+  {
+    "title": "Un minuto alla fine del mondo",
+    "artist": "Nick Sick, Blue Virus",
+    "isrc": "ITRZE2004405"
+  },
+  {
+    "title": "Bombay Lemon",
+    "artist": "Cloudì, Bipolar",
+    "isrc": "ITIWE2100316"
+  },
+  {
+    "title": "QUANTO MALE MI FAI",
+    "artist": "$uicide Gvng, Ëgo",
+    "isrc": "ITV0G2400020"
+  },
+  {
+    "title": "Lacrime di sale",
+    "artist": "DOXX",
+    "isrc": "CACWV2280414"
+  },
+  {
+    "title": "Dove sei??",
+    "artist": "Agon",
+    "isrc": "FRX762093083"
+  },
+  {
+    "title": "Letto grande",
+    "artist": "Bipolar, Fedesse",
+    "isrc": "DGA072153704"
+  },
+  {
+    "title": "Sadico sottone :)",
+    "artist": "Anzj",
+    "isrc": "QM2PV1871095"
+  },
+  {
+    "title": "SADLIFE",
+    "artist": "Theø, Plant",
+    "isrc": "TCAEQ2096123"
+  },
+  {
+    "title": "Jet Lag",
+    "artist": "yuks, xRick, Jayred",
+    "isrc": "USL4R1803837"
+  },
+  {
+    "title": "Mille Pezzi",
+    "artist": "TB",
+    "isrc": "QM6MZ2288060"
+  },
+  {
+    "title": "Come noi",
+    "artist": "Tenth Sky",
+    "isrc": "GBSMU9046292"
+  },
+  {
+    "title": "Dipendenza",
+    "artist": "Jayred, yuks",
+    "isrc": "ITSXH2000028"
+  },
+  {
+    "title": "yokohama",
+    "artist": "Uale",
+    "isrc": "FR2X42498467"
+  },
+  {
+    "title": "Sparire",
+    "artist": "Sconforto, Ëgo",
+    "isrc": "IT7LD2400983"
+  },
+  {
+    "title": "Ragazzi Tristi",
+    "artist": "Duemila, Tenth Sky",
+    "isrc": "QZNWW2003631"
+  },
+  {
+    "title": "Marta",
+    "artist": "IN6N, Becko, Rhen",
+    "isrc": "US38Y2312158"
+  },
+  {
+    "title": "Non Xdo La Testa X Una Ragazza",
+    "artist": "Fiks, Jack Out, Plant",
+    "isrc": "QZK6N1915102"
+  },
+  {
+    "title": "Se vai via davvero",
+    "artist": "Rayan Seventeen17",
+    "isrc": "US38Y2408398"
+  },
+  {
+    "title": "Una fine diversa",
+    "artist": "Xelfer, Cicco Sanchez",
+    "isrc": "ITB552015874"
+  },
+  {
+    "title": "Cicatrici (feat. Tenth Sky)",
+    "artist": "Zeta, Tenth Sky",
+    "isrc": "QZPLR2068283"
+  },
+  {
+    "title": "La parte migliore di me",
+    "artist": "Cicco Sanchez",
+    "isrc": "ITB551815324"
+  },
+  {
+    "title": "Dimmi che",
+    "artist": "Poet, Aiden, Pi Greco, Otalay",
+    "isrc": "ITIWE2100458"
+  },
+  {
+    "title": "#Free",
+    "artist": "Joe Scacchi, Ketama126, Ugo Borghetti, Drone126",
+    "isrc": "ITRWL1800175"
+  },
+  {
+    "title": "Ora",
+    "artist": "PATRIK",
+    "isrc": "IT6KZ2000017"
+  },
+  {
+    "title": "CAVALLI DI TROIA 2 (feat. Tauro Boys)",
+    "artist": "Tommy Toxxic, Joe Scacchi, Tauro Boys",
+    "isrc": "IT9PZ2100005"
+  },
+  {
+    "title": "Sere nere",
+    "artist": "Decrow, Bedini, Brunelleski",
+    "isrc": "DGA072211714"
+  },
+  {
+    "title": "Perfetti sconosciuti",
+    "artist": "Mose",
+    "isrc": "ITSXH1800006"
+  },
+  {
+    "title": "Yolandi",
+    "artist": "Skioffi",
+    "isrc": "ITYG92200026"
+  },
+  {
+    "title": "A mai più",
+    "artist": "WISH YOU WERE DEAD, Blue Virus, Yota Damore, Nick Sick",
+    "isrc": "QZES62146061"
+  },
+  {
+    "title": "Berlino",
+    "artist": "NASKA, Gemitaiz, Greg Willen",
+    "isrc": "ITNIE2400005"
+  },
+  {
+    "title": "LAME NEI POLMONI",
+    "artist": "HUGO_TRz",
+    "isrc": "SE5752382407"
+  },
+  {
+    "title": "Stelle",
+    "artist": "Ras & Calle, Tiasnow",
+    "isrc": "QZGWW2044137"
+  },
+  {
+    "title": "Turbe Sarde",
+    "artist": "Venz, Dario Moccia, Mr. Distruzione Musica, Mike Lennon",
+    "isrc": "ITE2A2210145"
+  },
+  {
+    "title": "Mon amour",
+    "artist": "Giovane Miska",
+    "isrc": "ITUEK2000068"
+  },
+  {
+    "title": "Università (feat. Franco126)",
+    "artist": "Gianni Bismark, Franco126",
+    "isrc": "ITUM71801372"
+  },
+  {
+    "title": "The Skin I Live In",
+    "artist": "Sbane, guccihighwaters",
+    "isrc": "uscgh1877121"
+  },
+  {
+    "title": "Per sentirmi vivo",
+    "artist": "Fasma, GG",
+    "isrc": "ITB001900640"
+  },
+  {
+    "title": "Mare",
+    "artist": "Ugo Borghetti",
+    "isrc": "ITKWG2100166"
+  },
+  {
+    "title": "SCACCIACANI – feat. Massimo Pericolo – prod. Crookers & Nic Sarno",
+    "artist": "Ketama126, Massimo Pericolo",
+    "isrc": "ITB001900273"
+  },
+  {
+    "title": "Ti Odio Davvero",
+    "artist": "Bohème, Shama24k, Elan Rood",
+    "isrc": "QZFYX2116056"
+  },
+  {
+    "title": "Schw3pp3s",
+    "artist": "¥EM, Vais",
+    "isrc": "QZDA61866428"
+  },
+  {
+    "title": "Solo Te E Me (feat. Giulia Jean)",
+    "artist": "GionnyScandal, Giulia Jean",
+    "isrc": "ITUM71800885"
+  },
+  {
+    "title": "Cosa ne sarà di me?",
+    "artist": "xAsmodx",
+    "isrc": "usl4r2022481"
+  },
+  {
+    "title": "All'Inferno Da Soli",
+    "artist": "Jeffery Idol",
+    "isrc": "QZFZ32178413"
+  },
+  {
+    "title": "Bobby Ballad",
+    "artist": "Generic Animal",
+    "isrc": "ITP842400098"
+  },
+  {
+    "title": "Flip Flop",
+    "artist": "Leuros, 18K",
+    "isrc": "QZHN91931621"
+  },
+  {
+    "title": "SPLASH",
+    "artist": "Zollo, Ketama126",
+    "isrc": "ITUEK2000020"
+  },
+  {
+    "title": "LA MIA PERSONA",
+    "artist": "Korbe",
+    "isrc": "IT0R62400025"
+  },
+  {
+    "title": "Mon Amour",
+    "artist": "Mali, Aiden",
+    "isrc": "QZFZ61946904"
+  },
+  {
+    "title": "Che ne sai tu",
+    "artist": "Chanoir Hdn",
+    "isrc": "QZFZ32013443"
+  },
+  {
+    "title": "Benvenuti nel Club",
+    "artist": "The Slight, 2nd Roof",
+    "isrc": "ITRZE2008402"
+  },
+  {
+    "title": "A Un Paio Di Passi Dal Cuore",
+    "artist": "Alvis",
+    "isrc": "ITUM71900480"
+  },
+  {
+    "title": "Life points",
+    "artist": "LilUnlucky, xDiemondx",
+    "isrc": "QZHNA2053558"
+  },
+  {
+    "title": "30 Mila",
+    "artist": "Manali, Gumma Vybz",
+    "isrc": "ITYKP2200068"
+  },
+  {
+    "title": "NETFLIX",
+    "artist": "EMA_FUNNYSAD, Jmore, Ned Badsoulz, SIGNΔL",
+    "isrc": "QZ8LD1912392"
+  },
+  {
+    "title": "oggi ho pianto",
+    "artist": "outcast.",
+    "isrc": "FR2X42281995"
+  },
+  {
+    "title": "orbite",
+    "artist": "Neverbh",
+    "isrc": "IT5GH2400018"
+  },
+  {
+    "title": "Leanin'",
+    "artist": "Tony Boy",
+    "isrc": "ITY8R2400008"
+  },
+  {
+    "title": "Gita di terza",
+    "artist": "Tommy Indaco, Deppu, Zyrtck",
+    "isrc": "ITYG92100023"
+  },
+  {
+    "title": "Borderline",
+    "artist": "YOUNG KALI",
+    "isrc": "ITZ041900039"
+  },
+  {
+    "title": "DOVE SEI",
+    "artist": "Faster, JXN",
+    "isrc": "IT2J82100027"
+  },
+  {
+    "title": "Tra il cielo e la terra",
+    "artist": "Wise",
+    "isrc": "ITDF62019464"
+  },
+  {
+    "title": "Heartless",
+    "artist": "UnluckyHeartless, xDiemondx",
+    "isrc": "QZES81993101"
+  },
+  {
+    "title": "Fujiko e Lupin",
+    "artist": "Tysen",
+    "isrc": "TCAEG1921994"
+  },
+  {
+    "title": "Depakin",
+    "artist": "Llloco4",
+    "isrc": "QZK6P1931074"
+  },
+  {
+    "title": "Non Sei Più Niente",
+    "artist": "Mattia Cerrito",
+    "isrc": "TCACG1589688"
+  },
+  {
+    "title": "Broken",
+    "artist": "F17, Zooka",
+    "isrc": "QZDA41951869"
+  },
+  {
+    "title": "Verde speranza",
+    "artist": "Impurity",
+    "isrc": "QZFYX2029775"
+  },
+  {
+    "title": "G",
+    "artist": "Vanski",
+    "isrc": "QZFYY2085198"
+  },
+  {
+    "title": "Non te lo dico mai",
+    "artist": "Seck",
+    "isrc": "IT1DQ2000138"
+  },
+  {
+    "title": "M5",
+    "artist": "Yay Boy, 16yrs",
+    "isrc": "DGA052222403"
+  },
+  {
+    "title": "BRUCEREI (DIE4U)",
+    "artist": "Piccolo G",
+    "isrc": "ITXLP2400001"
+  },
+  {
+    "title": "RED ROOM",
+    "artist": "lildombaby",
+    "isrc": "ITGFL2400006"
+  },
+  {
+    "title": "Nasty",
+    "artist": "Sc4",
+    "isrc": "QZES82023539"
+  },
+  {
+    "title": "Ragazzo triste",
+    "artist": "Svdchilds, EMA_FUNNYSAD",
+    "isrc": "FR26V2029016"
+  },
+  {
+    "title": "Complici",
+    "artist": "Arjuna, Federico Tazzoli",
+    "isrc": "QZHN51962817"
+  },
+  {
+    "title": "Stai Lontana Da Me",
+    "artist": "DelCapo",
+    "isrc": "TCAGX2395469"
+  },
+  {
+    "title": "Amore tossico",
+    "artist": "B-Dread",
+    "isrc": "FR26V2009583"
+  },
+  {
+    "title": "Pisolo",
+    "artist": "N'Dreamer, Mango Gang",
+    "isrc": "QZHNC2162373"
+  },
+  {
+    "title": "Poesia",
+    "artist": "Antony Niespolo",
+    "isrc": "QM2PV1865517"
+  },
+  {
+    "title": "Sadlife",
+    "artist": "Deadey",
+    "isrc": "QZFYY2179111"
+  },
+  {
+    "title": "Solo",
+    "artist": "Drama, Xodya",
+    "isrc": "QZES62088507"
+  },
+  {
+    "title": "Che Cosa Resta",
+    "artist": "Laurus",
+    "isrc": "QM7282091635"
+  },
+  {
+    "title": "20 Euro Remix",
+    "artist": "Lee Odia, Origvmi, Will",
+    "isrc": "QZMEN2075939"
+  },
+  {
+    "title": "Io Non Sono Come Voi",
+    "artist": "Nico Tesla, Jack Out",
+    "isrc": "ITK252140025"
+  },
+  {
+    "title": "Vuoto dentro",
+    "artist": "Nostalgia.",
+    "isrc": "ITA8Q2300002"
+  },
+  {
+    "title": "Giorni bui",
+    "artist": "Omar Davi, George Macciò",
+    "isrc": "ITNH72400001"
+  },
+  {
+    "title": "Siero di Felicità",
+    "artist": "Scammer",
+    "isrc": "SE5BU1935482"
+  },
+  {
+    "title": "Troppi perchè",
+    "artist": "lil click",
+    "isrc": "GBSMU8996551"
+  },
+  {
+    "title": "Whiskey",
+    "artist": "Jack Out, Moka",
+    "isrc": "ES71G2410308"
+  },
+  {
+    "title": "Odio tutto, odio tutti",
+    "artist": "Ëgo, Dari, FUSIX",
+    "isrc": "IT7LD2400347"
+  },
+  {
+    "title": "Nostalgia",
+    "artist": "GiorniTristi",
+    "isrc": "QZK6H2251908"
+  },
+  {
+    "title": "Come stai?",
+    "artist": "xDiemondx, IN6N",
+    "isrc": "QZK6L2485957"
+  },
+  {
+    "title": "Io Non Voglio Più Soffrire",
+    "artist": "Alelock",
+    "isrc": "TCAGF2207435"
+  },
+  {
+    "title": "Il Nostro Niente",
+    "artist": "Danien",
+    "isrc": "TCAEP2044739"
+  },
+  {
+    "title": "Il Peggio Che Hai",
+    "artist": "Nick Sick",
+    "isrc": "QZDA41819198"
+  },
+  {
+    "title": "CARAMELLO",
+    "artist": "Cloudì, PLAYBOIKIRA, Jerry Sampi",
+    "isrc": "ITIWE2300892"
+  },
+  {
+    "title": "LEI",
+    "artist": "$uicide Gvng, xRick",
+    "isrc": "ITV0G2300009"
+  },
+  {
+    "title": "4 canne",
+    "artist": "DOXX, YungKrisu",
+    "isrc": "CAGOO1950808"
+  },
+  {
+    "title": "EQUILIBRIO",
+    "artist": "Agon",
+    "isrc": "IT4UW2300065"
+  },
+  {
+    "title": "Questa canzone dovevo eliminarla",
+    "artist": "Bipolar",
+    "isrc": "QZFZ62081200"
+  },
+  {
+    "title": "un*cielo*di*stelle",
+    "artist": "Anzj",
+    "isrc": "ITRZE2002104"
+  },
+  {
+    "title": "$ad Viciøus",
+    "artist": "Theø",
+    "isrc": "TCAEL1935681"
+  },
+  {
+    "title": "Mami je t'aime",
+    "artist": "yuks, Jayred",
+    "isrc": "TCADQ1829017"
+  },
+  {
+    "title": "nostalgia",
+    "artist": "TB",
+    "isrc": "ITIWE2101100"
+  },
+  {
+    "title": "Eclisse",
+    "artist": "Jayred, yuks, Riviera",
+    "isrc": "USHM91806750"
+  },
+  {
+    "title": "Mezzanotte",
+    "artist": "Tenth Sky",
+    "isrc": "GBSMU7813609"
+  },
+  {
+    "title": "9000 KM",
+    "artist": "Uale",
+    "isrc": "FR96X2489188"
+  },
+  {
+    "title": "2x2",
+    "artist": "Sconforto, Clvud10",
+    "isrc": "ITH1F2000004"
+  },
+  {
+    "title": "+ soli",
+    "artist": "Duemila",
+    "isrc": "QZHN42016419"
+  },
+  {
+    "title": "Policlinico",
+    "artist": "IN6N, Becko, Rhen",
+    "isrc": "ZZOPM2238545"
+  },
+  {
+    "title": "Sei la Mia Bara",
+    "artist": "Fiks",
+    "isrc": "QZFZ52046132"
+  },
+  {
+    "title": "NON DIMENTICARMI",
+    "artist": "Rayan Seventeen17",
+    "isrc": "US38Y2410143"
+  },
+  {
+    "title": "Aurora",
+    "artist": "Xelfer",
+    "isrc": "ITB552116292"
+  },
+  {
+    "title": "PERDERTI",
+    "artist": "Zeta",
+    "isrc": "ITFHF2400016"
+  },
+  {
+    "title": "Fredda come dicembre",
+    "artist": "Poet",
+    "isrc": "US38Y2409154"
+  },
+  {
+    "title": "Girasole",
+    "artist": "Cicco Sanchez",
+    "isrc": "ITB551915508"
+  },
+  {
+    "title": "LEXOTAN (feat. Carl Brave)",
+    "artist": "Joe Scacchi, Tommy Toxxic, Carl Brave",
+    "isrc": "IT9PZ2100001"
+  },
+  {
+    "title": "Altre Mille Volte",
+    "artist": "PATRIK",
+    "isrc": "IT6KZ2000063"
+  },
+  {
+    "title": "GOOD FELLAS (feat. Kira & Security)",
+    "artist": "Tommy Toxxic, Joe Scacchi, NIKENINJA, Kira, Security",
+    "isrc": "IT9PZ2100011"
+  },
+  {
+    "title": "Cuore aperto",
+    "artist": "Decrow, yuks",
+    "isrc": "FRX202212630"
+  },
+  {
+    "title": "Graffi sulla pelle",
+    "artist": "Mose",
+    "isrc": "ITSXH1900013"
+  },
+  {
+    "title": "Fuori da me",
+    "artist": "WISH YOU WERE DEAD, Nick Sick, Yota Damore, Blue Virus",
+    "isrc": "QZHN82163597"
+  },
+  {
+    "title": "Parlerò di te",
+    "artist": "Skioffi",
+    "isrc": "ITB551915575"
+  },
+  {
+    "title": "ANDARE AVANTI",
+    "artist": "HUGO_TRz, Aresh Ou",
+    "isrc": "SE6SA2339346"
+  },
+  {
+    "title": "Cattiva",
+    "artist": "NASKA",
+    "isrc": "ITNIE2200021"
+  },
+  {
+    "title": "Parigi",
+    "artist": "Ras & Calle, Tiasnow",
+    "isrc": "QZGWW2006493"
+  },
+  {
+    "title": "L_AGO D_ORO",
+    "artist": "Venz",
+    "isrc": "ES71G2337483"
+  },
+  {
+    "title": "Tu sei",
+    "artist": "Giovane Miska, 17 Bronx",
+    "isrc": "ITNXV2000016"
+  },
+  {
+    "title": "Ne Hai Fatti 100 (feat. Tedua)",
+    "artist": "Gianni Bismark, Chris Nolan, Tedua",
+    "isrc": "ITUM72000296"
+  },
+  {
+    "title": "va tutto bene",
+    "artist": "Sbane, xDiemondx",
+    "isrc": "uscgj1929617"
+  },
+  {
+    "title": "Parlami",
+    "artist": "Fasma, GG",
+    "isrc": "ITB002100102"
+  },
+  {
+    "title": "Buio Pesto",
+    "artist": "Ugo Borghetti, Lil Kvneki",
+    "isrc": "ITKWG2100163"
+  },
+  {
+    "title": "LOVE BANDANA – feat. Tedua",
+    "artist": "Ketama126, Tedua, Chris Nolan",
+    "isrc": "ITB001900465"
+  },
+  {
+    "title": "Pena Sospesa",
+    "artist": "Bohème, Shama24k, Elan Rood, Neyar XO",
+    "isrc": "QZFYX2116057"
+  },
+  {
+    "title": "Monsieur",
+    "artist": "¥EM, Madame",
+    "isrc": "QZES81825908"
+  },
+  {
+    "title": "Per Sempre (feat. Giulia Jean)",
+    "artist": "GionnyScandal, Giulia Jean",
+    "isrc": "ITUM71800088"
+  },
+  {
+    "title": "Meno 50",
+    "artist": "Jeffery Idol, OLI",
+    "isrc": "ITTL52010013"
+  },
+  {
+    "title": "Scherzo (feat. Massimo Pericolo)",
+    "artist": "Generic Animal, Massimo Pericolo",
+    "isrc": "ITP841900186"
+  },
+  {
+    "title": "Shinigami Con Il Vestito Bianco",
+    "artist": "Leuros",
+    "isrc": "QZK6P1953741"
+  },
+  {
+    "title": "ORA VADO",
+    "artist": "Zollo, Pretty Solero, Lil Jolie",
+    "isrc": "ITUEK2000026"
+  },
+  {
+    "title": "Parlami Chiaro - Dos Problemas RMX",
+    "artist": "Korbe",
+    "isrc": "IT0R62400037"
+  },
+  {
+    "title": "Paranoia",
+    "artist": "Mali, Nick Sick, Aiden",
+    "isrc": "QZFYY2067083"
+  },
+  {
+    "title": "Notti perse",
+    "artist": "Chanoir Hdn, Naima Blood",
+    "isrc": "QZFZ62193860"
+  },
+  {
+    "title": "Sola",
+    "artist": "The Slight, Eddy Veerus, Lexotan",
+    "isrc": "QZFZ42141158"
+  },
+  {
+    "title": "Mala Noche",
+    "artist": "Alvis",
+    "isrc": "ITUM71900481"
+  },
+  {
+    "title": "Un'altra",
+    "artist": "LilUnlucky, YANS",
+    "isrc": "QZES52186160"
+  },
+  {
+    "title": "Hammamet (feat. Security & Kira)",
+    "artist": "Manali, Depha Beat, Security, Kira",
+    "isrc": "ITYKP2200067"
+  },
+  {
+    "title": "Black humor",
+    "artist": "EMA_FUNNYSAD",
+    "isrc": "QZHN92192145"
+  },
+  {
+    "title": "temporale",
+    "artist": "outcast., Il Drenaggio",
+    "isrc": "QZES62405709"
+  },
+  {
+    "title": "mille notti",
+    "artist": "Neverbh",
+    "isrc": "IT5GH2200034"
+  },
+  {
+    "title": "Post-it",
+    "artist": "Tommy Indaco, Deppu, rikymp3",
+    "isrc": "ITYG92200009"
+  },
+  {
+    "title": "1,2,3 Stella",
+    "artist": "YOUNG KALI",
+    "isrc": "FR59R2254559"
+  },
+  {
+    "title": "Giorni Migliori",
+    "artist": "Jack Out, Plant",
+    "isrc": "QZHNC1987426"
+  },
+  {
+    "title": "U Love Me",
+    "artist": "Ëgo, Werdn, Holy Francisco",
+    "isrc": "ITK252410033"
+  },
+  {
+    "title": "Ci Penso Ancora (feat. VINX)",
+    "artist": "GiorniTristi, Vinx",
+    "isrc": "QMFME2159517"
+  },
+  {
+    "title": "Stavolta",
+    "artist": "xDiemondx, Zyrtck",
+    "isrc": "ITIWE2000091"
+  },
+  {
+    "title": "Devil May Cry",
+    "artist": "Alelock",
+    "isrc": "TCAFI2148120"
+  },
+  {
+    "title": "Please Don't Cry",
+    "artist": "Danien",
+    "isrc": "TCAGD2215418"
+  },
+  {
+    "title": "Roma Sottozero",
+    "artist": "Nick Sick",
+    "isrc": "QZFYX1986450"
+  },
+  {
+    "title": "Dicembre",
+    "artist": "Cloudì",
+    "isrc": "QZNWZ2024894"
+  },
+  {
+    "title": "GENERAZIONE Z",
+    "artist": "$uicide Gvng, xRick",
+    "isrc": "ITV0G2300004"
+  },
+  {
+    "title": "Autopsia",
+    "artist": "DOXX",
+    "isrc": "CAENV2116237"
+  },
+  {
+    "title": "SIAMO LONTANI :(",
+    "artist": "Agon",
+    "isrc": "QZFZ32087066"
+  },
+  {
+    "title": "CITTÀ STUDI",
+    "artist": "Bipolar",
+    "isrc": "QZWFR2341938"
+  },
+  {
+    "title": "k",
+    "artist": "Anzj",
+    "isrc": "QZNRS2014367"
+  },
+  {
+    "title": "uno stupido ricordo",
+    "artist": "TB, Noia",
+    "isrc": "ITIWE2101543"
+  },
+  {
+    "title": "2.44",
+    "artist": "Jayred, yuks",
+    "isrc": "ITSXH2100013"
+  },
+  {
+    "title": "Mi manchi",
+    "artist": "Tenth Sky",
+    "isrc": "GBSMU8548904"
+  },
+  {
+    "title": "nu vo le",
+    "artist": "Uale",
+    "isrc": "FR10S2442683"
+  },
+  {
+    "title": "Falling (feat. Peri & Frasca)",
+    "artist": "Sconforto, Peri, Frasca",
+    "isrc": "TCAHI2329114"
+  },
+  {
+    "title": "+ soli - Remix",
+    "artist": "Duemila",
+    "isrc": "QZK6J2021416"
+  },
+  {
+    "title": "Non Mi Passa",
+    "artist": "IN6N",
+    "isrc": "ITDF62177012"
+  },
+  {
+    "title": "Foto Che Bruciano",
+    "artist": "Fiks",
+    "isrc": "QZDA72008855"
+  },
+  {
+    "title": "Crystal White",
+    "artist": "Rayan Seventeen17",
+    "isrc": "CH6541867816"
+  },
+  {
+    "title": "Magnitudo",
+    "artist": "Xelfer",
+    "isrc": "ITB552216592"
+  },
+  {
+    "title": "NOTTI GARAGE",
+    "artist": "Zeta",
+    "isrc": "ITFHF2400081"
+  },
+  {
+    "title": "Vorrei Dimenticarti",
+    "artist": "Poet",
+    "isrc": "ITKWG1700219"
+  },
+  {
+    "title": "il mio miglior nemico",
+    "artist": "Cicco Sanchez, Loomy",
+    "isrc": "US38Y2410084"
+  },
+  {
+    "title": "HO UN AMICO (feat. PSICOLOGI)",
+    "artist": "Joe Scacchi, Tommy Toxxic, PSICOLOGI",
+    "isrc": "IT9PZ2000007"
+  },
+  {
+    "title": "Okay",
+    "artist": "PATRIK",
+    "isrc": "IT6KZ2000035"
+  },
+  {
+    "title": "Voci",
+    "artist": "Goya, Crookers, Alde",
+    "isrc": "ITRWL2000013"
+  },
+  {
+    "title": "Berlino",
+    "artist": "Decrow, Aegeminus",
+    "isrc": "ITUD52100052"
+  },
+  {
+    "title": "Una canzone non fa piangere",
+    "artist": "Mose",
+    "isrc": "US39N2301727"
+  }
+]

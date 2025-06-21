@@ -1,0 +1,682 @@
+[
+  {
+    "title": "Flowers of Eventide",
+    "artist": "Causa Sui",
+    "isrc": "QM6P41813899"
+  },
+  {
+    "title": "Evaporate",
+    "artist": "35007",
+    "isrc": "DEM250202031"
+  },
+  {
+    "title": "The Slumbering Ones",
+    "artist": "Assemble Head In Sunburst Sound",
+    "isrc": "US33R0900021"
+  },
+  {
+    "title": "Zwei Schatten Im Schatten",
+    "artist": "Samsara Blues Experiment",
+    "isrc": "TCAFR2196890"
+  },
+  {
+    "title": "Cherry Red - Remastered",
+    "artist": "Earthless",
+    "isrc": "DED832001114"
+  },
+  {
+    "title": "Strong Reflection",
+    "artist": "Mars Red Sky",
+    "isrc": "FRQ031313001"
+  },
+  {
+    "title": "I Teleported to Acapulco",
+    "artist": "Øresund Space Collective",
+    "isrc": "DKKD41500301"
+  },
+  {
+    "title": "Cosmic Rupture",
+    "artist": "Mythic Sunship",
+    "isrc": "QMBZ91743170"
+  },
+  {
+    "title": "The Great Design",
+    "artist": "Black Rainbows",
+    "isrc": "ITM462000054"
+  },
+  {
+    "title": "Kismet",
+    "artist": "Ufomammut",
+    "isrc": "US4JA2412902"
+  },
+  {
+    "title": "LHC",
+    "artist": "Monomyth",
+    "isrc": "NLD441514704"
+  },
+  {
+    "title": "Aquamaria",
+    "artist": "Colour Haze",
+    "isrc": "NLM930820008"
+  },
+  {
+    "title": "Zephyr",
+    "artist": "Mondo Drag",
+    "isrc": "USYBL1500267"
+  },
+  {
+    "title": "Silver Shrooms",
+    "artist": "Farflung",
+    "isrc": "US4B20600480"
+  },
+  {
+    "title": "Silver Machine - Live at the Roundhouse London; 1996 Remaster",
+    "artist": "Hawkwind",
+    "isrc": "GBAYE9600280"
+  },
+  {
+    "title": "Amos Ame",
+    "artist": "Hidria Spacefolk",
+    "isrc": "FIHSF0100001"
+  },
+  {
+    "title": "Inner Temple",
+    "artist": "Gong",
+    "isrc": "GBAAA7300073"
+  },
+  {
+    "title": "Smokyhead",
+    "artist": "Electric Octopus",
+    "isrc": "uscgh1777084"
+  },
+  {
+    "title": "Palm Trees (Love Guitar)",
+    "artist": "Steve Hillage",
+    "isrc": "GBAAA7800066"
+  },
+  {
+    "title": "Proton Lander",
+    "artist": "Spaceslug",
+    "isrc": "TCAEQ2029442"
+  },
+  {
+    "title": "Welcome to the Void",
+    "artist": "The Kings Of Frog Island",
+    "isrc": "USA2P1183408"
+  },
+  {
+    "title": "Secrets",
+    "artist": "Siena Root",
+    "isrc": "DEMV91704081"
+  },
+  {
+    "title": "Staring At The Sun",
+    "artist": "Wooden Shjips",
+    "isrc": "USTJ21846405"
+  },
+  {
+    "title": "Mangrove",
+    "artist": "Pharaoh Overlord",
+    "isrc": "FIEKT0900135"
+  },
+  {
+    "title": "What Needs Must Be",
+    "artist": "Dead Meadow",
+    "isrc": "USMTD0875003"
+  },
+  {
+    "title": "III.III",
+    "artist": "Papir",
+    "isrc": "USA4D1300013"
+  },
+  {
+    "title": "Sploosh!",
+    "artist": "Ozric Tentacles",
+    "isrc": "GBCQV9100072"
+  },
+  {
+    "title": "The Greatest Hits By God",
+    "artist": "Quest For Fire",
+    "isrc": "US33R1000035"
+  },
+  {
+    "title": "Echoes",
+    "artist": "Elephant Tree",
+    "isrc": "QMBZ91558345"
+  },
+  {
+    "title": "Vitamin C - 2004 Remastered Version",
+    "artist": "CAN",
+    "isrc": "DEX170420804"
+  },
+  {
+    "title": "Morgengruß",
+    "artist": "Popol Vuh",
+    "isrc": "DEA450524470"
+  },
+  {
+    "title": "Misty Mountainside",
+    "artist": "My Brother The Wind",
+    "isrc": "USET71401105"
+  },
+  {
+    "title": "My First Knife Fight",
+    "artist": "Swan Valley Heights",
+    "isrc": "SEWOL1900304"
+  },
+  {
+    "title": "Lay With Me",
+    "artist": "The Flying Eyes",
+    "isrc": "DEC831001006"
+  },
+  {
+    "title": "Mean Spacemachine",
+    "artist": "First Band From Outer Space",
+    "isrc": "SEWXU1404203"
+  },
+  {
+    "title": "Tired Old Dog",
+    "artist": "The Devil and the Almighty Blues",
+    "isrc": "NOCVC1501060"
+  },
+  {
+    "title": "Hearts Aflame",
+    "artist": "Valley of the Sun",
+    "isrc": "TCAAY1171728"
+  },
+  {
+    "title": "Asteroid Belt",
+    "artist": "Nik Turner, Youth",
+    "isrc": "GB9TP1701019"
+  },
+  {
+    "title": "Anukthal Is Here",
+    "artist": "Hills",
+    "isrc": "UK2SX1528703"
+  },
+  {
+    "title": "These Men Are Wolves",
+    "artist": "The Heavy Eyes",
+    "isrc": "TCABK1222006"
+  },
+  {
+    "title": "Staggered in Lies",
+    "artist": "Sacri Monti",
+    "isrc": "US33R1500039"
+  },
+  {
+    "title": "White Hidden Fire",
+    "artist": "Weird Owl",
+    "isrc": "uscgh0726739"
+  },
+  {
+    "title": "Evade",
+    "artist": "Secret Saucer",
+    "isrc": "QM9AA1445220"
+  },
+  {
+    "title": "Like a Freak",
+    "artist": "Ecstatic Vision",
+    "isrc": "ITM461900141"
+  },
+  {
+    "title": "Dawn in Space",
+    "artist": "Pyramidal",
+    "isrc": "uscgj1243017"
+  },
+  {
+    "title": "Månen tur och retur",
+    "artist": "Kungens Män",
+    "isrc": "SEYOK1763344"
+  },
+  {
+    "title": "Chasm",
+    "artist": "REZN",
+    "isrc": "USA2P2414252"
+  },
+  {
+    "title": "Chimera",
+    "artist": "Sunnata",
+    "isrc": "QZDA82459461"
+  },
+  {
+    "title": "Desert Cold",
+    "artist": "Snowy Dunes",
+    "isrc": "SEYOK1412248"
+  },
+  {
+    "title": "Marina",
+    "artist": "Sleepy Sun",
+    "isrc": "TCAEW2089266"
+  },
+  {
+    "title": "Grifter",
+    "artist": "Astrosoniq",
+    "isrc": "NLD440604002"
+  },
+  {
+    "title": "Crown Shyness",
+    "artist": "Carlton Melton",
+    "isrc": "GB9TP2010016"
+  },
+  {
+    "title": "A",
+    "artist": "SubArachnoid Space",
+    "isrc": "US2640047301"
+  },
+  {
+    "title": "Albino Rattlesnake",
+    "artist": "Gomer Pyle",
+    "isrc": "NLLG10900003"
+  },
+  {
+    "title": "Journey to Earth",
+    "artist": "Quantum Fantay",
+    "isrc": "ushm21470442"
+  },
+  {
+    "title": "Einstürzende Plattenbauten",
+    "artist": "delving",
+    "isrc": "DEM252103061"
+  },
+  {
+    "title": "Leaves",
+    "artist": "Maha Sohona",
+    "isrc": "ushm22132028"
+  },
+  {
+    "title": "Blackout",
+    "artist": "Novadriver",
+    "isrc": "US22K0505510"
+  },
+  {
+    "title": "Tomorrow Never Knows",
+    "artist": "Electric Moon",
+    "isrc": "QM6N21425224"
+  },
+  {
+    "title": "Ascender",
+    "artist": "Edena Gardens",
+    "isrc": "QM4TX2362716"
+  },
+  {
+    "title": "Chandra",
+    "artist": "Kombynat Robotron",
+    "isrc": "DEUT22000267"
+  },
+  {
+    "title": "False Heavy (Band Demo)",
+    "artist": "The Heads",
+    "isrc": "GB9TP2110042"
+  },
+  {
+    "title": "Tremelo",
+    "artist": "Sun Dial",
+    "isrc": "GBBLY1003050"
+  },
+  {
+    "title": "Hellevator",
+    "artist": "Pyrior",
+    "isrc": "DEUT21900162"
+  },
+  {
+    "title": "Shadows (The Beast Pt. II)",
+    "artist": "Blaak Heat Shujaa",
+    "isrc": "US33R1300026"
+  },
+  {
+    "title": "Burning Mirrors",
+    "artist": "Lumerians",
+    "isrc": "USBQU1000187"
+  },
+  {
+    "title": "War On The Mind",
+    "artist": "The Oscillation",
+    "isrc": "UK6HU2300003"
+  },
+  {
+    "title": "Sorcerer's Disciple",
+    "artist": "Causa Sui",
+    "isrc": "QM6N22427235"
+  },
+  {
+    "title": "0618",
+    "artist": "35007",
+    "isrc": "DEM250503031"
+  },
+  {
+    "title": "Blue Wire",
+    "artist": "Assemble Head In Sunburst Sound",
+    "isrc": "US33R1200037"
+  },
+  {
+    "title": "Army Of Ignorance",
+    "artist": "Samsara Blues Experiment",
+    "isrc": "USTCE1037581"
+  },
+  {
+    "title": "End to End",
+    "artist": "Earthless",
+    "isrc": "DED831701462"
+  },
+  {
+    "title": "The Trichophantic Spire",
+    "artist": "Øresund Space Collective",
+    "isrc": "QM6XS1602649"
+  },
+  {
+    "title": "Collector",
+    "artist": "Mars Red Sky",
+    "isrc": "FXQ381900001"
+  },
+  {
+    "title": "Way Ahead",
+    "artist": "Mythic Sunship",
+    "isrc": "QM6N21826557"
+  },
+  {
+    "title": "Master Rocket Power Blast",
+    "artist": "Black Rainbows",
+    "isrc": "ITM462000056"
+  },
+  {
+    "title": "Leeched",
+    "artist": "Ufomammut",
+    "isrc": "US4JA2412905"
+  },
+  {
+    "title": "ET Oasis",
+    "artist": "Monomyth",
+    "isrc": "NLD441514703"
+  },
+  {
+    "title": "Love",
+    "artist": "Colour Haze, Stefan Koglek",
+    "isrc": "NLM930820004"
+  },
+  {
+    "title": "Endless Drifting Wreck",
+    "artist": "Farflung",
+    "isrc": "US4B20600476"
+  },
+  {
+    "title": "Fade Out",
+    "artist": "Mondo Drag",
+    "isrc": "USA2B1019105"
+  },
+  {
+    "title": "Göbekli Tepe",
+    "artist": "Hidria Spacefolk",
+    "isrc": "SEYOK2410458"
+  },
+  {
+    "title": "Hurry on Sundown - 1996 Remaster",
+    "artist": "Hawkwind",
+    "isrc": "GBAYE9600459"
+  },
+  {
+    "title": "The Pothead Pixies - Remastered 2018",
+    "artist": "Gong",
+    "isrc": "GBUM71806460"
+  },
+  {
+    "title": "For Now",
+    "artist": "Electric Octopus",
+    "isrc": "uscgh1777085"
+  },
+  {
+    "title": "Ether Ships",
+    "artist": "Steve Hillage",
+    "isrc": "GBAAA7800105"
+  },
+  {
+    "title": "Hypermountain",
+    "artist": "Spaceslug",
+    "isrc": "TCAEQ2029444"
+  },
+  {
+    "title": "Laid",
+    "artist": "The Kings Of Frog Island",
+    "isrc": "USA2P1183411"
+  },
+  {
+    "title": "Rasayana",
+    "artist": "Siena Root",
+    "isrc": "DEOY61450012"
+  },
+  {
+    "title": "These Shadows",
+    "artist": "Wooden Shjips",
+    "isrc": "USTJ21335104"
+  },
+  {
+    "title": "Path Eternal",
+    "artist": "Pharaoh Overlord",
+    "isrc": "UK2SX2011131"
+  },
+  {
+    "title": "Sleepy Silver Door",
+    "artist": "Dead Meadow",
+    "isrc": "USQ6E0810123"
+  },
+  {
+    "title": "20.01.2020 #2",
+    "artist": "Papir",
+    "isrc": "DEM252102051"
+  },
+  {
+    "title": "Eternal Wheel",
+    "artist": "Ozric Tentacles",
+    "isrc": "GBCQV9000063"
+  },
+  {
+    "title": "You Are Always Loved",
+    "artist": "Quest For Fire",
+    "isrc": "CASH70810013"
+  },
+  {
+    "title": "The Fall Chorus",
+    "artist": "Elephant Tree",
+    "isrc": "GBMLT1501456"
+  },
+  {
+    "title": "Morgengruss II",
+    "artist": "Popol Vuh",
+    "isrc": "DEA450524400"
+  },
+  {
+    "title": "She Brings The Rain (from Bottom - Ein grosser Graublauer)",
+    "artist": "CAN",
+    "isrc": "DEX170420507"
+  },
+  {
+    "title": "Into The Cosmic Halo",
+    "artist": "My Brother The Wind",
+    "isrc": "USET71401104"
+  },
+  {
+    "title": "Space Bash III",
+    "artist": "Swan Valley Heights",
+    "isrc": "SEWOL2300103"
+  },
+  {
+    "title": "Bad Blood",
+    "artist": "The Flying Eyes",
+    "isrc": "DEC831001008"
+  },
+  {
+    "title": "Demons and Haze",
+    "artist": "First Band From Outer Space",
+    "isrc": "SEWXU0901301"
+  },
+  {
+    "title": "The Ghosts of Charlie Barracuda",
+    "artist": "The Devil and the Almighty Blues",
+    "isrc": "NOCVC1501010"
+  },
+  {
+    "title": "Deep Light Burns",
+    "artist": "Valley of the Sun",
+    "isrc": "TCAAY1171729"
+  },
+  {
+    "title": "Careful with That Axe Eugene",
+    "artist": "Nik Turner",
+    "isrc": "USA560673084"
+  },
+  {
+    "title": "Claras Vaggvisa",
+    "artist": "Hills",
+    "isrc": "QMFME1361159"
+  },
+  {
+    "title": "Maelstrom",
+    "artist": "Sacri Monti",
+    "isrc": "US33R2400012"
+  },
+  {
+    "title": "One Hand On the Buffalo",
+    "artist": "The Heavy Eyes",
+    "isrc": "TCABK1221993"
+  },
+  {
+    "title": "Like 100,000 Sunsets",
+    "artist": "Weird Owl",
+    "isrc": "uscgh0726737"
+  },
+  {
+    "title": "Lift Off",
+    "artist": "Secret Saucer",
+    "isrc": "QM6XS1602652"
+  },
+  {
+    "title": "Elusive Mojo",
+    "artist": "Ecstatic Vision",
+    "isrc": "ITM462200037"
+  },
+  {
+    "title": "Black Land",
+    "artist": "Pyramidal",
+    "isrc": "QM6XS1602660"
+  },
+  {
+    "title": "Grovmotorik",
+    "artist": "Kungens Män",
+    "isrc": "USCGH2470767"
+  },
+  {
+    "title": "Fichelscher Sun",
+    "artist": "Causa Sui",
+    "isrc": "QMFMF1304512"
+  },
+  {
+    "title": "Crystalline",
+    "artist": "35007",
+    "isrc": "DEM250202021"
+  },
+  {
+    "title": "Drunken Leaves",
+    "artist": "Assemble Head In Sunburst Sound",
+    "isrc": "US33R0900020"
+  },
+  {
+    "title": "Wheel Of Life",
+    "artist": "Samsara Blues Experiment",
+    "isrc": "USTCE1037588"
+  },
+  {
+    "title": "Gifted by the Wind",
+    "artist": "Earthless",
+    "isrc": "DED831701461"
+  },
+  {
+    "title": "Tropical Flavour of the Month",
+    "artist": "Øresund Space Collective",
+    "isrc": "DKKD41800302"
+  },
+  {
+    "title": "Saddle Point",
+    "artist": "Mars Red Sky",
+    "isrc": "FRQ031313006"
+  },
+  {
+    "title": "Blood Moon",
+    "artist": "Mythic Sunship",
+    "isrc": "US33R2200013"
+  },
+  {
+    "title": "At Midnight You Cry",
+    "artist": "Black Rainbows",
+    "isrc": "ITM462000051"
+  },
+  {
+    "title": "Spidher",
+    "artist": "Ufomammut",
+    "isrc": "US4JA2412903"
+  },
+  {
+    "title": "Eurus",
+    "artist": "Monomyth",
+    "isrc": "NLD441800122"
+  },
+  {
+    "title": "Tempel",
+    "artist": "Colour Haze",
+    "isrc": "NLM930820011"
+  },
+  {
+    "title": "Unborn Planet",
+    "artist": "Farflung",
+    "isrc": "US4B20600475"
+  },
+  {
+    "title": "Out of Sight",
+    "artist": "Mondo Drag",
+    "isrc": "USYBL1501011"
+  },
+  {
+    "title": "Terra Hidria I",
+    "artist": "Hidria Spacefolk",
+    "isrc": "FISBS0200033"
+  },
+  {
+    "title": "Motorhead",
+    "artist": "Hawkwind",
+    "isrc": "GBBLY1301062"
+  },
+  {
+    "title": "Perfect Mystery",
+    "artist": "Gong",
+    "isrc": "GBAAA7400154"
+  },
+  {
+    "title": "Turnkey",
+    "artist": "Electric Octopus",
+    "isrc": "usdy42202506"
+  },
+  {
+    "title": "Sea Nature",
+    "artist": "Steve Hillage",
+    "isrc": "GBAAA7800104"
+  },
+  {
+    "title": "Tears of Antimatter",
+    "artist": "Spaceslug",
+    "isrc": "TCAIF2411671"
+  },
+  {
+    "title": "Ride a Black Horse",
+    "artist": "The Kings Of Frog Island",
+    "isrc": "USA2P1183412"
+  },
+  {
+    "title": "Tales of Independence",
+    "artist": "Siena Root",
+    "isrc": "DEMV91704082"
+  },
+  {
+    "title": "Slow City",
+    "artist": "Pharaoh Overlord",
+    "isrc": "FIEKT0900134"
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "title": "Sones Alegres",
+    "artist": "Los Grandes de Oaxaca",
+    "isrc": "usl4q1707859"
+  },
+  {
+    "title": "María Fernanda",
+    "artist": "Juniors De La Sierra Oaxaqueña",
+    "isrc": "US7VG2328852"
+  },
+  {
+    "title": "Mi Linda Tierra",
+    "artist": "La Excelencia De Oaxaca",
+    "isrc": "TCAEY2092763"
+  },
+  {
+    "title": "El Triqui Soñador",
+    "artist": "Los Soñadores De Oaxaca",
+    "isrc": "USDHM1631666"
+  },
+  {
+    "title": "Calla Morena Calla",
+    "artist": "Grupo Rohedores de Oaxaca",
+    "isrc": "ESA011788247"
+  },
+  {
+    "title": "El Mixteco y el Zapoteco",
+    "artist": "Sentimiento Oaxaca",
+    "isrc": "USDHM1423877"
+  },
+  {
+    "title": "Huatulquena",
+    "artist": "Los Emisarios De Oaxaca",
+    "isrc": "QM6DC1562637"
+  },
+  {
+    "title": "Popurrí de Chilenas",
+    "artist": "Estruendo De Oaxaca",
+    "isrc": "ushm81793275"
+  },
+  {
+    "title": "JGL",
+    "artist": "Los Rayos De Oaxaca Oficial",
+    "isrc": "QZX882306203"
+  },
+  {
+    "title": "Mi Chilena Alegre",
+    "artist": "Peter Jr y Su Verano",
+    "isrc": "ushm22115509"
+  },
+  {
+    "title": "El Engañado",
+    "artist": "Los Grandes de Oaxaca, Los Rayos De Oaxaca",
+    "isrc": "USDY42498309"
+  },
+  {
+    "title": "Mezcal de Jucha",
+    "artist": "Morros de la Sierra",
+    "isrc": "usdy42211071"
+  },
+  {
+    "title": "El Boca Seca",
+    "artist": "Grupo Estelares de Oaxaca",
+    "isrc": "TCADT1854958"
+  },
+  {
+    "title": "TRAIGO GANAS",
+    "artist": "Los Vatos del Rancho",
+    "isrc": "GX3HH2124870"
+  },
+  {
+    "title": "Oaxaca En California",
+    "artist": "Grupo La Realeza De Oaxaca",
+    "isrc": "TCAHC2332502"
+  },
+  {
+    "title": "El Maromero",
+    "artist": "Internacional Remolino De Juxtlahuaca, Oaxaca",
+    "isrc": "QM6DC1610545"
+  },
+  {
+    "title": "Al Son Oaxaqueño - Studio Version",
+    "artist": "Legendarios De Oaxaca",
+    "isrc": "GBSMU8491947"
+  },
+  {
+    "title": "Chilena Para Juxtlahuaca",
+    "artist": "Dinastia Figueroa",
+    "isrc": "QM6DC1511233"
+  },
+  {
+    "title": "Que Duro Es Llorar Asi",
+    "artist": "Los Rayos De Oaxaca",
+    "isrc": "QZ8251820676"
+  },
+  {
+    "title": "El Condor Pasa",
+    "artist": "Grupo La Rocka De Oaxaca",
+    "isrc": "USDHM1828990"
+  },
+  {
+    "title": "Corrido La Lobo Del Ano",
+    "artist": "Grupo Accion Oaxaca",
+    "isrc": "QM6DC1511312"
+  },
+  {
+    "title": "La Sarna",
+    "artist": "Grupo Carisma y Su Sabor Arrecho",
+    "isrc": "QM6DC1868874"
+  },
+  {
+    "title": "El Son de Goku",
+    "artist": "La Soberania De Oaxaca",
+    "isrc": "USDHM1919449"
+  },
+  {
+    "title": "Flor De Piña (Pineapple Flower Dance) [Papaloapan Region]",
+    "artist": "Banda Filarmónica Renacimiento A.C.",
+    "isrc": "TCABE1289892"
+  },
+  {
+    "title": "El Error de un Padre",
+    "artist": "Los Peregrinos de Oaxaca",
+    "isrc": "MX4971531526"
+  },
+  {
+    "title": "Chilena Amoltepecana",
+    "artist": "Grupo Brisas de Oaxaca",
+    "isrc": "ESA011969608"
+  },
+  {
+    "title": "Carga Prohibida",
+    "artist": "Altura Norteña",
+    "isrc": "QZMZ92493306"
+  },
+  {
+    "title": "La San Marquena",
+    "artist": "La Furia Oaxaqueña",
+    "isrc": "USJ3V1094624"
+  },
+  {
+    "title": "Mujer Oaxaquena",
+    "artist": "Orquesta Primavera",
+    "isrc": "QM6DC1516647"
+  },
+  {
+    "title": "Son Goku",
+    "artist": "Los Juniors de la Sierra Oaxaqueña",
+    "isrc": "ushm81886590"
+  },
+  {
+    "title": "Besame Mucho",
+    "artist": "Banda De Musica Del Estado De Oaxaca",
+    "isrc": "QM6DC1516741"
+  },
+  {
+    "title": "Dios Nunca Muere",
+    "artist": "Banda Mixe de Oaxaca",
+    "isrc": "ushm21752381"
+  },
+  {
+    "title": "El Ritmo de Potencia",
+    "artist": "Potencia de la Sierra",
+    "isrc": "QZFZ71969691"
+  },
+  {
+    "title": "Mujer Oaxaquena",
+    "artist": "La Marimba Del Estado De Oaxaca",
+    "isrc": "QM6DC1516501"
+  },
+  {
+    "title": "QUE MAS QUIERES DE MI",
+    "artist": "Grupo Zona Alta De Oaxaca",
+    "isrc": "QZFZ22352271"
+  },
+  {
+    "title": "Pinotepa",
+    "artist": "Marimba De Oaxaca",
+    "isrc": "QM6DC1516474"
+  },
+  {
+    "title": "Como el Primer Día (Live)",
+    "artist": "Los Rayos de Oaxaca",
+    "isrc": "ushm82046847"
+  },
+  {
+    "title": "Sones de Yalalag",
+    "artist": "Banda De Música Autóctona De Yalalag",
+    "isrc": "QZHZ52071816"
+  },
+  {
+    "title": "Pinotepa",
+    "artist": "Susana Harp",
+    "isrc": "ES71G1623924"
+  },
+  {
+    "title": "Chilenas Pa Zapatear",
+    "artist": "Grupo Corcel M. O.",
+    "isrc": "QZWFM2320760"
+  },
+  {
+    "title": "Que Tiene De Malo",
+    "artist": "Los Paniqueados De Oaxaca",
+    "isrc": "TCAGY2334572"
+  },
+  {
+    "title": "Cuando Me Gustas",
+    "artist": "Organo Musical Leales De Oaxaca",
+    "isrc": "QZNFJ2117711"
+  },
+  {
+    "title": "Te Quiero Tanto, Tanto",
+    "artist": "Las Norteñitas de Oro, Los Creyentes Del Poder",
+    "isrc": "usl4q2199440"
+  },
+  {
+    "title": "¿Bailas Conmigo?",
+    "artist": "Banda Filarmónica Aires de Primavera",
+    "isrc": "GX5MY2216050"
+  },
+  {
+    "title": "Esclavo y Amo",
+    "artist": "Banda Filarmonica Yalalag",
+    "isrc": "QM9A91660049"
+  },
+  {
+    "title": "Tus Ojitos (Banda Filarmonica Musicos Oaxaqueños)",
+    "artist": "Bandas Filarmonicas Oaxaqueñas",
+    "isrc": "QZNWR2118413"
+  },
+  {
+    "title": "Carta a Mi Madre (Version Cumbia)",
+    "artist": "Los Primos de Oaxaca",
+    "isrc": "QM6DC1517391"
+  },
+  {
+    "title": "El Pozo Jondo",
+    "artist": "El Trio Costa Chica",
+    "isrc": "QM6DC1516776"
+  },
+  {
+    "title": "Ya No Vives en Mi",
+    "artist": "Poker de Reinas",
+    "isrc": "ushm21583858"
+  },
+  {
+    "title": "El Parrandero",
+    "artist": "Filarmónica Aires Oaxaqueños",
+    "isrc": "GX5MY2141935"
+  },
+  {
+    "title": "San Pedro Hermoso",
+    "artist": "Alejandra Robles",
+    "isrc": "MXF601300535"
+  },
+  {
+    "title": "Pinotepa Son",
+    "artist": "La Orquesta Tipica de Juquila de Omar Zavaleta",
+    "isrc": "MX4971527930"
+  },
+  {
+    "title": "Demasiado Tarde",
+    "artist": "Trio Montealban",
+    "isrc": "QM6DC2098062"
+  },
+  {
+    "title": "Esta Tristeza Mia",
+    "artist": "Dueto Oaxaca",
+    "isrc": "USZBG1114068"
+  },
+  {
+    "title": "La Martiniana",
+    "artist": "Agrupación Oaxaqueña",
+    "isrc": "TCAFD2074073"
+  },
+  {
+    "title": "Cariñito",
+    "artist": "Lila Downs",
+    "isrc": "MXF011800525"
+  },
+  {
+    "title": "La Divina Garza",
+    "artist": "Retumbadora Banda Atotonilco",
+    "isrc": "QZK6G2292339"
+  },
+  {
+    "title": "Nereyda",
+    "artist": "Banda Regional Princesa Donashii",
+    "isrc": "QZHZ32141821"
+  },
+  {
+    "title": "Sones De Betaza Chilena",
+    "artist": "Los Anhelados de Oaxaca",
+    "isrc": "QM6DC1673103"
+  },
+  {
+    "title": "Flor de Capomo",
+    "artist": "Guitarras de la Sierra",
+    "isrc": "ESA012185329"
+  },
+  {
+    "title": "La Llorona",
+    "artist": "Geo Meneses",
+    "isrc": "ushm81616389"
+  },
+  {
+    "title": "Mi Pasado",
+    "artist": "Grupo Tierra Temperamental",
+    "isrc": "MXG702000375"
+  },
+  {
+    "title": "La Misma Noche",
+    "artist": "Los Arieles y El Trio Montealban",
+    "isrc": "MX2620281753"
+  },
+  {
+    "title": "Chilena Mixteca",
+    "artist": "Las Mejores Chilenas Oaxaqueñas, Los Venaditos Del Sur",
+    "isrc": "USDHM1917312"
+  },
+  {
+    "title": "Sones y Jarabes de Betaza",
+    "artist": "Banda Municipal De San Melchor Betaza",
+    "isrc": "QZGLS2270160"
+  },
+  {
+    "title": "Jinetes en el Cielo",
+    "artist": "Banda Tierra Mojada",
+    "isrc": "ARC571800221"
+  },
+  {
+    "title": "Ojitos Negros",
+    "artist": "Los Venaditos Del Sur",
+    "isrc": "QM6DC1879288"
+  },
+  {
+    "title": "Buena Noche",
+    "artist": "Los Soneros De La Región Loxicha",
+    "isrc": "QZ5AB2314207"
+  },
+  {
+    "title": "Cuando Los Hombres Lloran",
+    "artist": "Grupo Los Kiwas",
+    "isrc": "MXG702000353"
+  },
+  {
+    "title": "Noche Y Mar",
+    "artist": "Pedro Torres",
+    "isrc": "QM6DC1514871"
+  },
+  {
+    "title": "Ita Nu Yuku",
+    "artist": "Banda Buenavista",
+    "isrc": "MX5051502244"
+  },
+  {
+    "title": "Fumando Mota",
+    "artist": "Los Lara",
+    "isrc": "MX2972120059"
+  },
+  {
+    "title": "La Viejita",
+    "artist": "Los Del Reino Imperiales",
+    "isrc": "MXG702100366"
+  },
+  {
+    "title": "Bailar Contigo",
+    "artist": "Grupo Organización Kosta",
+    "isrc": "MX5051502049"
+  },
+  {
+    "title": "Sabor A Mí",
+    "artist": "Trio Madeiras, El Requinto de Pepe Molina",
+    "isrc": "MXG702100296"
+  },
+  {
+    "title": "Mujer Oaxaqueña",
+    "artist": "Trio Imágenes de Oaxaca",
+    "isrc": "FR59R1920759"
+  },
+  {
+    "title": "Himno a Konk' Oy",
+    "artist": "Tulia y La Banda Juvenil De Tamazulapam Mixe",
+    "isrc": "MX5051501073"
+  },
+  {
+    "title": "La Martiniana",
+    "artist": "Banda San Vicente de Juchitán",
+    "isrc": "QZHZ32200037"
+  },
+  {
+    "title": "Los Mixes",
+    "artist": "Banda Mixe de Oaxaca",
+    "isrc": "QZTVM2168382"
+  },
+  {
+    "title": "Tu Piel",
+    "artist": "Yeudiel Figueroa, Los Melómanos",
+    "isrc": "QZ5AB1801304"
+  },
+  {
+    "title": "Bajo La Lluvia",
+    "artist": "Grupo los Idénticos, el orgullo de Oaxaca",
+    "isrc": "MXG702100407"
+  },
+  {
+    "title": "Cumbia - En Vivo",
+    "artist": "Los Alegres De Oaxaca",
+    "isrc": "QM6DC2074505"
+  },
+  {
+    "title": "Mi Atatlahuaca",
+    "artist": "Los Levas De Oaxaca",
+    "isrc": "QM6DC1908316"
+  },
+  {
+    "title": "Amor Oaxaqueño",
+    "artist": "Tulia Sánchez",
+    "isrc": "UKXN22277986"
+  },
+  {
+    "title": "Itandehui Flor del Cielo",
+    "artist": "Los Grandes de Oaxaca",
+    "isrc": "usl4q1707858"
+  },
+  {
+    "title": "La Indiecita",
+    "artist": "Juniors De La Sierra Oaxaqueña",
+    "isrc": "MX5051501430"
+  },
+  {
+    "title": "Ahora Te Vas",
+    "artist": "La Excelencia De Oaxaca",
+    "isrc": "TCAEY2088121"
+  },
+  {
+    "title": "Ndicushi",
+    "artist": "Los Soñadores De Oaxaca",
+    "isrc": "USDHM1631670"
+  },
+  {
+    "title": "La Concentida",
+    "artist": "Grupo Rohedores de Oaxaca",
+    "isrc": "ushm91864657"
+  },
+  {
+    "title": "El Son del Pulque",
+    "artist": "Sentimiento Oaxaca",
+    "isrc": "USDHM1423876"
+  },
+  {
+    "title": "Popurri Mar Azul",
+    "artist": "Los Emisarios De Oaxaca",
+    "isrc": "QM6DC1562623"
+  },
+  {
+    "title": "Que Chulos Ojos",
+    "artist": "Estruendo De Oaxaca",
+    "isrc": "ushm91726290"
+  },
+  {
+    "title": "Mi Castigo",
+    "artist": "Los Rayos De Oaxaca Oficial",
+    "isrc": "USA2P1679374"
+  },
+  {
+    "title": "El Mismo Gusto",
+    "artist": "Peter Jr y Su Verano",
+    "isrc": "usl4r2013777"
+  },
+  {
+    "title": "Estrellita de Amor",
+    "artist": "Los Grandes de Oaxaca, El Unico Guerrero",
+    "isrc": "USL4Q2342652"
+  },
+  {
+    "title": "Corrido Doble Rr",
+    "artist": "Morros de la Sierra",
+    "isrc": "ushm92242082"
+  },
+  {
+    "title": "El Triqui Soñador",
+    "artist": "Grupo Estelares de Oaxaca",
+    "isrc": "ESA011553135"
+  },
+  {
+    "title": "NACIDO EN SOLA DE VEGA",
+    "artist": "Los Vatos del Rancho",
+    "isrc": "GX8LE2342578"
+  },
+  {
+    "title": "Chilena San Lorenzo",
+    "artist": "Grupo La Realeza De Oaxaca",
+    "isrc": "TCAGG2294864"
+  },
+  {
+    "title": "El Petate",
+    "artist": "Internacional Remolino De Juxtlahuaca, Oaxaca",
+    "isrc": "QM6DC1610364"
+  },
+  {
+    "title": "La picosita",
+    "artist": "Legendarios De Oaxaca",
+    "isrc": "GX5MX2258626"
+  },
+  {
+    "title": "Chilena Para Silacayoapan",
+    "artist": "Dinastia Figueroa",
+    "isrc": "QM6DC1511234"
+  },
+  {
+    "title": "Tu Sin Mi",
+    "artist": "Los Rayos De Oaxaca",
+    "isrc": "QM6DC1516414"
+  },
+  {
+    "title": "El Guateque",
+    "artist": "Grupo La Rocka De Oaxaca",
+    "isrc": "USDHM1828992"
+  },
+  {
+    "title": "La 4X4",
+    "artist": "Grupo Accion Oaxaca",
+    "isrc": "QM6DC1511321"
+  },
+  {
+    "title": "El Coscolino",
+    "artist": "Grupo Carisma y Su Sabor Arrecho",
+    "isrc": "QM6DC1868868"
+  },
+  {
+    "title": "La Mancornadora",
+    "artist": "La Soberania De Oaxaca",
+    "isrc": "USDHM1919452"
+  },
+  {
+    "title": "Jarabe Mixteco (Folk Dance)",
+    "artist": "Banda Filarmónica Renacimiento A.C.",
+    "isrc": "TCABE1289742"
+  },
+  {
+    "title": "Peregrino de Tu Amor",
+    "artist": "Los Peregrinos de Oaxaca",
+    "isrc": "MX4971531524"
+  },
+  {
+    "title": "La Chimina",
+    "artist": "Grupo Brisas de Oaxaca",
+    "isrc": "ESA011969607"
+  },
+  {
+    "title": "Cariñito de mi Vida",
+    "artist": "Altura Norteña",
+    "isrc": "ESA011859490"
+  },
+  {
+    "title": "Pinotepa",
+    "artist": "La Furia Oaxaqueña",
+    "isrc": "USJ3V1094631"
+  },
+  {
+    "title": "El Feo",
+    "artist": "Orquesta Primavera",
+    "isrc": "QM6DC1516653"
+  },
+  {
+    "title": "Ojitos Verdes",
+    "artist": "Los Juniors de la Sierra Oaxaqueña",
+    "isrc": "ushm81886589"
+  },
+  {
+    "title": "Hasta Que Te Conoci",
+    "artist": "Banda De Musica Del Estado De Oaxaca",
+    "isrc": "QM6DC1516740"
+  },
+  {
+    "title": "La Sandunga",
+    "artist": "Banda Mixe de Oaxaca",
+    "isrc": "ushm21752379"
+  },
+  {
+    "title": "La Silverado",
+    "artist": "Potencia de la Sierra",
+    "isrc": "QZFZ71969686"
+  },
+  {
+    "title": "Mananitas Oaxaquenas",
+    "artist": "La Marimba Del Estado De Oaxaca",
+    "isrc": "QM6DC1516496"
+  },
+  {
+    "title": "EL BURRO LOCO",
+    "artist": "Grupo Zona Alta De Oaxaca",
+    "isrc": "QZHNC2399892"
+  },
+  {
+    "title": "Nereidas",
+    "artist": "Marimba De Oaxaca",
+    "isrc": "QM6DC1516477"
+  },
+  {
+    "title": "Lamberto Quintero (En Vivo)",
+    "artist": "Los Rayos de Oaxaca",
+    "isrc": "ushm82086779"
+  },
+  {
+    "title": "Autóctona de Yalalag",
+    "artist": "Banda De Música Autóctona De Yalalag",
+    "isrc": "QZHZ52075584"
+  },
+  {
+    "title": "La Sandunga",
+    "artist": "Susana Harp",
+    "isrc": "ES71G1623923"
+  },
+  {
+    "title": "El Burro Loco / El Son de la Mula / Musica Para El Alba",
+    "artist": "Grupo Corcel M. O.",
+    "isrc": "QZFZ72320761"
+  },
+  {
+    "title": "Que la Loquera No Pare",
+    "artist": "Los Paniqueados De Oaxaca",
+    "isrc": "TCAGD2270427"
+  },
+  {
+    "title": "La Tortolita",
+    "artist": "Organo Musical Leales De Oaxaca",
+    "isrc": "QZNFJ2117715"
+  },
+  {
+    "title": "Ojitos Provincianos",
+    "artist": "Las Norteñitas de Oro",
+    "isrc": "USDY42083784"
+  },
+  {
+    "title": "Septiembre 18",
+    "artist": "Banda Filarmónica Aires de Primavera",
+    "isrc": "GX8LD2348309"
+  },
+  {
+    "title": "El Loco",
+    "artist": "Banda Filarmonica Yalalag",
+    "isrc": "QM9A91660048"
+  },
+  {
+    "title": "Esta Noche Se Da Cuenta (Banda Filarmonica Tu'uk Nëëm Xuuxp)",
+    "artist": "Bandas Filarmonicas Oaxaqueñas",
+    "isrc": "QZNWR2144848"
+  },
+  {
+    "title": "Chilena De Mi teclado",
+    "artist": "Los Primos de Oaxaca",
+    "isrc": "QM6DC1547675"
+  },
+  {
+    "title": "Mujer Oaxaquena",
+    "artist": "El Trio Costa Chica",
+    "isrc": "QM6DC1516671"
+  },
+  {
+    "title": "Infancia y Pobreza",
+    "artist": "Poker de Reinas",
+    "isrc": "ushm21583859"
+  },
+  {
+    "title": "Vity",
+    "artist": "Filarmónica Aires Oaxaqueños",
+    "isrc": "GX5MY2141970"
+  },
+  {
+    "title": "El Negro de la Costa - La Cortijana",
+    "artist": "Alejandra Robles",
+    "isrc": "MXF601500228"
+  },
+  {
+    "title": "El Panadero",
+    "artist": "La Orquesta Tipica de Juquila de Omar Zavaleta",
+    "isrc": "MX4971527934"
+  },
+  {
+    "title": "Llevatela",
+    "artist": "Trio Montealban",
+    "isrc": "QM6DC2098060"
+  },
+  {
+    "title": "Paque Son Pasiones",
+    "artist": "Dueto Oaxaca",
+    "isrc": "USZBG1114062"
+  },
+  {
+    "title": "Mujer Oaxaqueña",
+    "artist": "Agrupación Oaxaqueña",
+    "isrc": "TCAFD2074085"
+  },
+  {
+    "title": "Cariñito - Mexican Institute of Sound Mix",
+    "artist": "Lila Downs, Panteon Rococo",
+    "isrc": "MXF011900154"
+  },
+  {
+    "title": "La Santanera",
+    "artist": "Retumbadora Banda Atotonilco",
+    "isrc": "QZFZ22302725"
+  },
+  {
+    "title": "Nostalgia Oaxaqueña",
+    "artist": "Los Grandes de Oaxaca",
+    "isrc": "usl4q1707864"
+  },
+  {
+    "title": "El Temazcal",
+    "artist": "Juniors De La Sierra Oaxaqueña",
+    "isrc": "MX5051501413"
+  },
+  {
+    "title": "El Mixteco Triste",
+    "artist": "La Excelencia De Oaxaca",
+    "isrc": "TCAEY2090578"
+  },
+  {
+    "title": "Flor del Rio",
+    "artist": "Los Soñadores De Oaxaca",
+    "isrc": "USDHM1631671"
+  },
+  {
+    "title": "Los Consejos de Mi Viejo",
+    "artist": "Grupo Rohedores de Oaxaca",
+    "isrc": "ushm91864654"
+  },
+  {
+    "title": "A Chantee",
+    "artist": "Sentimiento Oaxaca",
+    "isrc": "USDHM1423881"
+  },
+  {
+    "title": "Popurri Tigres Del Norte",
+    "artist": "Los Emisarios De Oaxaca",
+    "isrc": "QM6DC1562641"
+  },
+  {
+    "title": "Hermosisimo Lucero",
+    "artist": "Estruendo De Oaxaca",
+    "isrc": "ushm81788281"
+  },
+  {
+    "title": "Zapateando Con Mi Sax",
+    "artist": "Los Rayos De Oaxaca Oficial",
+    "isrc": "USA2P1567401"
+  },
+  {
+    "title": "Indita Mia",
+    "artist": "Peter Jr y Su Verano",
+    "isrc": "USHM82315633"
+  },
+  {
+    "title": "Amores de Montaña",
+    "artist": "Los Grandes de Oaxaca",
+    "isrc": "USL4Q2342654"
+  },
+  {
+    "title": "Chilena (Popurri)",
+    "artist": "Morros de la Sierra",
+    "isrc": "usdy42211077"
+  },
+  {
+    "title": "La Sota de Copas / Una Noche Me Embriagué",
+    "artist": "Grupo Estelares de Oaxaca",
+    "isrc": "ESA012037432"
+  },
+  {
+    "title": "COMPA RICKY",
+    "artist": "Los Vatos del Rancho",
+    "isrc": "GX8LE2324097"
+  },
+  {
+    "title": "La Pluma Blanca",
+    "artist": "Grupo La Realeza De Oaxaca",
+    "isrc": "TCAGG2294873"
+  },
+  {
+    "title": "La Bicicleta",
+    "artist": "Internacional Remolino De Juxtlahuaca, Oaxaca",
+    "isrc": "QM6DC1610367"
+  },
+  {
+    "title": "Flor de atenango",
+    "artist": "Legendarios De Oaxaca",
+    "isrc": "GX8LD2326398"
+  },
+  {
+    "title": "Chilena Para Tlaxiaco",
+    "artist": "Dinastia Figueroa",
+    "isrc": "QM6DC1511236"
+  },
+  {
+    "title": "La Niña del Teléfono",
+    "artist": "Los Rayos De Oaxaca, El Único Guerrero",
+    "isrc": "QZ8252122906"
+  },
+  {
+    "title": "Que Bonita Es la Vida del Rancho",
+    "artist": "Grupo La Rocka De Oaxaca",
+    "isrc": "USDHM1829002"
+  },
+  {
+    "title": "Los 3 Compas",
+    "artist": "Grupo Accion Oaxaca",
+    "isrc": "QM6DC1511329"
+  },
+  {
+    "title": "Mujer Inolvidable",
+    "artist": "Grupo Carisma y Su Sabor Arrecho",
+    "isrc": "QM6DC1868872"
+  },
+  {
+    "title": "El Corrido de Reforma",
+    "artist": "La Soberania De Oaxaca",
+    "isrc": "USDHM1919447"
+  },
+  {
+    "title": "La Tonalteca (Región Papaloapan)",
+    "artist": "Banda Filarmónica Renacimiento A.C.",
+    "isrc": "TCABE1289849"
+  },
+  {
+    "title": "Se Va Muriendo el Alma",
+    "artist": "Los Peregrinos de Oaxaca",
+    "isrc": "MX4971531530"
+  },
+  {
+    "title": "El Vainón",
+    "artist": "Grupo Brisas de Oaxaca",
+    "isrc": "ESA011928944"
+  },
+  {
+    "title": "La Marciana / Árboles de la Barranca / El Chivo Flaco - En Vivo",
+    "artist": "Altura Norteña",
+    "isrc": "ESA012094209"
+  },
+  {
+    "title": "Alingo Lingo",
+    "artist": "La Furia Oaxaqueña",
+    "isrc": "USJ3V1094625"
+  },
+  {
+    "title": "Nereidas",
+    "artist": "Orquesta Primavera",
+    "isrc": "QM6DC1516651"
+  }
+]

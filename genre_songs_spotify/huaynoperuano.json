@@ -1,0 +1,627 @@
+[
+  {
+    "title": "Diccionario",
+    "artist": "Amanda Portales",
+    "isrc": "FRX451527720"
+  },
+  {
+    "title": "Escrito Está",
+    "artist": "Estudiantina Perú, Francizco Leyth Navarro",
+    "isrc": "FRX451578552"
+  },
+  {
+    "title": "Yo Soy Huancaíno",
+    "artist": "Picaflor De Los Andes",
+    "isrc": "ES71G2217171"
+  },
+  {
+    "title": "Loca Juventud",
+    "artist": "Los Reales de Cajamarca",
+    "isrc": "ES71G1815169"
+  },
+  {
+    "title": "Carnavales Ayacuchanos",
+    "artist": "Dúo Ayacucho",
+    "isrc": "USDHM1101346"
+  },
+  {
+    "title": "Corazón de Piedra / el Alisal",
+    "artist": "Los Alegres Del Peru",
+    "isrc": "ES71G1814901"
+  },
+  {
+    "title": "La Orquesta",
+    "artist": "Raíces D'Jauja",
+    "isrc": "TCAIC2438072"
+  },
+  {
+    "title": "No Puedo Olvidarte",
+    "artist": "Porfirio Ayvar",
+    "isrc": "QZMZ92055139"
+  },
+  {
+    "title": "Decías",
+    "artist": "Marco Antonio Moreno",
+    "isrc": "FR59R1758535"
+  },
+  {
+    "title": "Dime Tu",
+    "artist": "Amaranta",
+    "isrc": "QZDA41875450"
+  },
+  {
+    "title": "Amor Ingrato",
+    "artist": "Gisela Lavado",
+    "isrc": "QZHZ52006073"
+  },
+  {
+    "title": "Mis Lágrimas",
+    "artist": "Anita Santivañez",
+    "isrc": "PEBQ91893319"
+  },
+  {
+    "title": "Terco Corazón",
+    "artist": "Muñequita Sally",
+    "isrc": "QZNJX2087151"
+  },
+  {
+    "title": "Linda Flor",
+    "artist": "Silverio Urbina",
+    "isrc": "USCGJ1992415"
+  },
+  {
+    "title": "Tristezas y Melancolías",
+    "artist": "Los Chankas",
+    "isrc": "FRX761536912"
+  },
+  {
+    "title": "Soy Todo para Ti",
+    "artist": "Flor Pileña",
+    "isrc": "ESA012208977"
+  },
+  {
+    "title": "Para Que Me Acostumbraste",
+    "artist": "Doris Ferrer",
+    "isrc": "QZNW72330968"
+  },
+  {
+    "title": "Pio Pio",
+    "artist": "Eusebio \"Chato\" Grados",
+    "isrc": "ESA012284658"
+  },
+  {
+    "title": "Por tu amor",
+    "artist": "Sonia Morales",
+    "isrc": "US3DF2254360"
+  },
+  {
+    "title": "Cajamarquina",
+    "artist": "String Karma",
+    "isrc": "PESK31313001"
+  },
+  {
+    "title": "Furia de Amor",
+    "artist": "Gaby Del Perú",
+    "isrc": "QZHZ51911211"
+  },
+  {
+    "title": "Profesorita",
+    "artist": "Los Campesinos",
+    "isrc": "ES71G1814939"
+  },
+  {
+    "title": "Corta Venas",
+    "artist": "Yarita Lizeth Yanarico",
+    "isrc": "QZQAY2279996"
+  },
+  {
+    "title": "Tu Casa Nueva",
+    "artist": "Los Tucos de Cajamarca",
+    "isrc": "ES71G2147323"
+  },
+  {
+    "title": "Heridas de Amor",
+    "artist": "Son del Cusco",
+    "isrc": "ushm81941506"
+  },
+  {
+    "title": "Saywachakuna",
+    "artist": "Andrés Chimango Lares, Luciano Quispe",
+    "isrc": "ES71G1614392"
+  },
+  {
+    "title": "A los Reales de Cajamarca",
+    "artist": "Yumpay",
+    "isrc": "MX2831900620"
+  },
+  {
+    "title": "Me Perdiste",
+    "artist": "Estudiantina Sauñe Perú",
+    "isrc": "QZMEN2180943"
+  },
+  {
+    "title": "Lucanas (Tacita de Oro)",
+    "artist": "Los Manantiales del Peru",
+    "isrc": "PEPA51711076"
+  },
+  {
+    "title": "Dos Pasiones",
+    "artist": "Orquesta Selección Brahma del Perú",
+    "isrc": "QZAMM2057377"
+  },
+  {
+    "title": "Alpaquitay",
+    "artist": "Pata Amarilla",
+    "isrc": "PESD10701003"
+  },
+  {
+    "title": "Hoy Me Han Hablado de Ti",
+    "artist": "Mito Ramos",
+    "isrc": "QZHZ51950625"
+  },
+  {
+    "title": "Canto Ala Vida",
+    "artist": "Gavilancito Matarino",
+    "isrc": "GBWUL1918519"
+  },
+  {
+    "title": "Carnavales Contrapuntos",
+    "artist": "La Autentica Generacion",
+    "isrc": "GBWUL1911224"
+  },
+  {
+    "title": "Mi Pueblito Natal",
+    "artist": "Los Jaibers",
+    "isrc": "GBWUL1910460"
+  },
+  {
+    "title": "El Chofercito",
+    "artist": "Martin Vera",
+    "isrc": "GBWUL1913627"
+  },
+  {
+    "title": "Dina Paucar - Que Lindo Son Tus Ojos",
+    "artist": "Reynas del Arpa",
+    "isrc": "PEBQ91893360"
+  },
+  {
+    "title": "Mercedita",
+    "artist": "Hermanos Sanchez",
+    "isrc": "QM6N21444425"
+  },
+  {
+    "title": "Valicha",
+    "artist": "Sentimiento Andino",
+    "isrc": "US4CC0510089"
+  },
+  {
+    "title": "Contrapunto Picaresco",
+    "artist": "Don Guillermo",
+    "isrc": "GBWUL1911226"
+  },
+  {
+    "title": "Gavilan Zonzo",
+    "artist": "El Cholo Cajamarquino",
+    "isrc": "GBWUL1910464"
+  },
+  {
+    "title": "Carolina",
+    "artist": "El Indio Mayta",
+    "isrc": "GBWUL1910472"
+  },
+  {
+    "title": "Carnaval Mix Pallay",
+    "artist": "Grupo Pallay",
+    "isrc": "GBWUL1911225"
+  },
+  {
+    "title": "Agua Cristalina",
+    "artist": "Las Campesinas de Cajamarca",
+    "isrc": "GBWUL1911233"
+  },
+  {
+    "title": "Amor Eterno",
+    "artist": "Las Hermanas Vargas",
+    "isrc": "GBWUL1911427"
+  },
+  {
+    "title": "Mis Amigos",
+    "artist": "Los Alegres de Bambamarca",
+    "isrc": "GBWUL1917281"
+  },
+  {
+    "title": "La Celosa",
+    "artist": "Los Nativos De Cajamarca",
+    "isrc": "GBWUL1913985"
+  },
+  {
+    "title": "El Prisionero",
+    "artist": "Marino Benites",
+    "isrc": "GBWUL1910467"
+  },
+  {
+    "title": "Amor y Cariño",
+    "artist": "Nadia Urbina",
+    "isrc": "GBWUL1911429"
+  },
+  {
+    "title": "A La Salida de Pocabamba",
+    "artist": "San Antonio de Lajas",
+    "isrc": "GBWUL1911230"
+  },
+  {
+    "title": "Tener 1 o Tener 2",
+    "artist": "Walter Tambo",
+    "isrc": "GBWUL1909048"
+  },
+  {
+    "title": "El Amor Me Esta Matando",
+    "artist": "Yolanda Ivon",
+    "isrc": "QMBZ91620196"
+  },
+  {
+    "title": "Como Duele No Ser Amado",
+    "artist": "Armonia Anguy",
+    "isrc": "PEPP41804118"
+  },
+  {
+    "title": "Ell Cielo Esta Nublado",
+    "artist": "Condemayta de Acomayo, Saturnino Pulla Jiménez",
+    "isrc": "PEBQ91892210"
+  },
+  {
+    "title": "Engañame Corazón",
+    "artist": "Doris Ferrer",
+    "isrc": "QMFMF1415304"
+  },
+  {
+    "title": "Dos Cervezas / Un Par de Cervezas",
+    "artist": "Las Chicas Mañaneras",
+    "isrc": "QZHZ62189811"
+  },
+  {
+    "title": "Llego Tu Cumpleaños",
+    "artist": "Los Campesinas de Cajamarca",
+    "isrc": "GBWUL1916161"
+  },
+  {
+    "title": "Alicias",
+    "artist": "Williams Enrique El osito pardo",
+    "isrc": "PEAA41710888"
+  },
+  {
+    "title": "Corazoncito",
+    "artist": "lizeth lazaro",
+    "isrc": "TCAEK1945727"
+  },
+  {
+    "title": "Cosas Del Amor",
+    "artist": "Yobana Hancco",
+    "isrc": "TCADP1844917"
+  },
+  {
+    "title": "Dile",
+    "artist": "Amanda Portales",
+    "isrc": "FRX451527721"
+  },
+  {
+    "title": "Adiós Juventud",
+    "artist": "Estudiantina Perú",
+    "isrc": "FRX871596273"
+  },
+  {
+    "title": "Maldita Pasión",
+    "artist": "Picaflor De Los Andes",
+    "isrc": "QZNJW2062912"
+  },
+  {
+    "title": "Amor Con Amor Se Paga",
+    "artist": "Los Reales de Cajamarca",
+    "isrc": "ES71G1815170"
+  },
+  {
+    "title": "Desolación",
+    "artist": "Dúo Ayacucho",
+    "isrc": "PEDJ19900102"
+  },
+  {
+    "title": "Adiós Pueblo de Ayacucho / Llaulillay",
+    "artist": "Los Alegres Del Peru",
+    "isrc": "ES71G1814899"
+  },
+  {
+    "title": "Amor Ajeno",
+    "artist": "Raíces D'Jauja",
+    "isrc": "TCAIC2438087"
+  },
+  {
+    "title": "Chapitas",
+    "artist": "Porfirio Ayvar",
+    "isrc": "PETP11706130"
+  },
+  {
+    "title": "¿Por Qué Te Perdí?",
+    "artist": "Marco Antonio Moreno",
+    "isrc": "FR59R1758530"
+  },
+  {
+    "title": "Mi Gran Ilusion",
+    "artist": "Amaranta",
+    "isrc": "QZDA41875446"
+  },
+  {
+    "title": "Olvida Lo Que Pasó",
+    "artist": "Anita Santivañez",
+    "isrc": "QZHZ32050873"
+  },
+  {
+    "title": "Siempre Pierdo en el Amor",
+    "artist": "Gisela Lavado",
+    "isrc": "QZHZ52006077"
+  },
+  {
+    "title": "La Jugadora",
+    "artist": "Muñequita Sally",
+    "isrc": "QZNJX2087160"
+  },
+  {
+    "title": "Suspiros",
+    "artist": "Silverio Urbina",
+    "isrc": "USCGJ1992442"
+  },
+  {
+    "title": "A Orillas del Vilcanota",
+    "artist": "Los Chankas",
+    "isrc": "FRX761536901"
+  },
+  {
+    "title": "Quiero Volver a Mi Hogar",
+    "artist": "Doris Ferrer",
+    "isrc": "QZNW72330936"
+  },
+  {
+    "title": "Busco un Amigo",
+    "artist": "Flor Pileña",
+    "isrc": "ESA011537140"
+  },
+  {
+    "title": "La Cucaracha",
+    "artist": "Eusebio \"Chato\" Grados",
+    "isrc": "ESA012284660"
+  },
+  {
+    "title": "A mi corazón le pregunto",
+    "artist": "Sonia Morales",
+    "isrc": "US3DF2254364"
+  },
+  {
+    "title": "Olvidame",
+    "artist": "String Karma",
+    "isrc": "PESK31313003"
+  },
+  {
+    "title": "Sombrerito Jaujino",
+    "artist": "Gaby Del Perú",
+    "isrc": "QZHZ51911216"
+  },
+  {
+    "title": "Interesada",
+    "artist": "Los Campesinos",
+    "isrc": "ES71G1814944"
+  },
+  {
+    "title": "Amigo",
+    "artist": "Yarita Lizeth Yanarico",
+    "isrc": "QMGR32283208"
+  },
+  {
+    "title": "La Cinta de Tu Sombrero",
+    "artist": "Los Tucos de Cajamarca",
+    "isrc": "ES71G2147350"
+  },
+  {
+    "title": "Piel de Angel",
+    "artist": "Son del Cusco",
+    "isrc": "ushm81941507"
+  },
+  {
+    "title": "Trovador",
+    "artist": "Andrés Chimango Lares, Luciano Quispe",
+    "isrc": "ES71G1614394"
+  },
+  {
+    "title": "Sólo Tú - Saya",
+    "artist": "Yumpay",
+    "isrc": "MX2831800052"
+  },
+  {
+    "title": "Escrito está",
+    "artist": "Estudiantina Sauñe Perú",
+    "isrc": "QZFZ52123535"
+  },
+  {
+    "title": "Me Olvidé Tu Nombre",
+    "artist": "Los Manantiales del Peru",
+    "isrc": "PEPA51711067"
+  },
+  {
+    "title": "Nacimos para Amarnos",
+    "artist": "Orquesta Selección Brahma del Perú",
+    "isrc": "QZAMM2057384"
+  },
+  {
+    "title": "Acabas Conmigo",
+    "artist": "Pata Amarilla",
+    "isrc": "PESD10701001"
+  },
+  {
+    "title": "Ausencia",
+    "artist": "Mito Ramos",
+    "isrc": "US7VG2218973"
+  },
+  {
+    "title": "Anita",
+    "artist": "Gavilancito Matarino",
+    "isrc": "GBWUL1911430"
+  },
+  {
+    "title": "Coplas Picaras",
+    "artist": "La Autentica Generacion",
+    "isrc": "GBWUL1910459"
+  },
+  {
+    "title": "Arriba Los Jaibers",
+    "artist": "Los Jaibers",
+    "isrc": "GBWUL1911433"
+  },
+  {
+    "title": "La Paloma de Mi Vecina",
+    "artist": "Martin Vera",
+    "isrc": "GBWUL1913989"
+  },
+  {
+    "title": "Dina Paucar - para Que Me Acostumbraste",
+    "artist": "Reynas del Arpa",
+    "isrc": "PEBQ91893361"
+  },
+  {
+    "title": "El gran yo Soy",
+    "artist": "Hermanos Sanchez",
+    "isrc": "QZXLZ2389001"
+  },
+  {
+    "title": "Carnavalito",
+    "artist": "Sentimiento Andino",
+    "isrc": "QM7281549395"
+  },
+  {
+    "title": "Contrapunto de Carnaval",
+    "artist": "Don Guillermo",
+    "isrc": "GBWUL1910471"
+  },
+  {
+    "title": "El Chancho de Marcelina",
+    "artist": "El Cholo Cajamarquino",
+    "isrc": "GBWUL1910468"
+  },
+  {
+    "title": "Mañanitas",
+    "artist": "El Indio Mayta",
+    "isrc": "GBWUL1916186"
+  },
+  {
+    "title": "Vaso de Cristal",
+    "artist": "Amanda Portales",
+    "isrc": "FRX451527724"
+  },
+  {
+    "title": "Noche Triste",
+    "artist": "Estudiantina Perú",
+    "isrc": "FRX451598890"
+  },
+  {
+    "title": "Mi Dulce Amor",
+    "artist": "Picaflor De Los Andes",
+    "isrc": "ES71G2045785"
+  },
+  {
+    "title": "Tu Mala Cabeza",
+    "artist": "Los Reales de Cajamarca",
+    "isrc": "ES71G1815181"
+  },
+  {
+    "title": "Carnavales Ayacuchanos - En Vivo",
+    "artist": "Dúo Ayacucho",
+    "isrc": "PEDJ10515311"
+  },
+  {
+    "title": "Ojos Hechiceros / Linda Andahuaylina / Profesorita",
+    "artist": "Los Alegres Del Peru",
+    "isrc": "ES71G1814906"
+  },
+  {
+    "title": "El Idiota",
+    "artist": "Porfirio Ayvar",
+    "isrc": "QZMZ92055141"
+  },
+  {
+    "title": "Amor de Pobre",
+    "artist": "Raíces D'Jauja",
+    "isrc": "ES71G1912907"
+  },
+  {
+    "title": "Te Olvidaré",
+    "artist": "Marco Antonio Moreno",
+    "isrc": "FR59R1758528"
+  },
+  {
+    "title": "Madre Soltera",
+    "artist": "Anita Santivañez",
+    "isrc": "QZHZ32050871"
+  },
+  {
+    "title": "Malo tu corazon",
+    "artist": "Amaranta",
+    "isrc": "QZ8252041010"
+  },
+  {
+    "title": "Mala Suerte Que Eres Casado",
+    "artist": "Gisela Lavado",
+    "isrc": "QZHZ52006076"
+  },
+  {
+    "title": "El Amor No Tiene Precio",
+    "artist": "Muñequita Sally",
+    "isrc": "QZNJX2087155"
+  },
+  {
+    "title": "Amor Como el Mío",
+    "artist": "Silverio Urbina",
+    "isrc": "USCGJ1992446"
+  },
+  {
+    "title": "Recuerdos de Amor",
+    "artist": "Los Chankas",
+    "isrc": "FRX761536902"
+  },
+  {
+    "title": "Oiga Amiga",
+    "artist": "Doris Ferrer",
+    "isrc": "QZNW72330973"
+  },
+  {
+    "title": "Por Tu Culpa Cervecita",
+    "artist": "Flor Pileña",
+    "isrc": "ESA011526573"
+  },
+  {
+    "title": "Corderito de las Punas",
+    "artist": "Eusebio \"Chato\" Grados",
+    "isrc": "ES71G2208145"
+  },
+  {
+    "title": "Tomar para olvidarte",
+    "artist": "Sonia Morales",
+    "isrc": "US3DF2254357"
+  },
+  {
+    "title": "Luna",
+    "artist": "String Karma",
+    "isrc": "PESK31313007"
+  },
+  {
+    "title": "Tu Encanto",
+    "artist": "Gaby Del Perú",
+    "isrc": "QZHZ51911212"
+  },
+  {
+    "title": "Linda Andahuaylina",
+    "artist": "Los Campesinos",
+    "isrc": "ES71G1814951"
+  },
+  {
+    "title": "CHINA GUAPETONA",
+    "artist": "Los Tucos de Cajamarca",
+    "isrc": "ES71G2325866"
+  }
+]

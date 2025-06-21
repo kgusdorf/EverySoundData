@@ -1,0 +1,937 @@
+[
+  {
+    "title": "Truth",
+    "artist": "Korzus",
+    "isrc": "DEU601002959"
+  },
+  {
+    "title": "Pinu de Granada",
+    "artist": "Claustrofobia",
+    "isrc": "BRR6A1400005"
+  },
+  {
+    "title": "Raise Your Horns",
+    "artist": "Torture Squad",
+    "isrc": "BRWG61000002"
+  },
+  {
+    "title": "Living for the Night",
+    "artist": "Viper",
+    "isrc": "BRWKM1300011"
+  },
+  {
+    "title": "Breathe",
+    "artist": "Almah",
+    "isrc": "BREOX1300021"
+  },
+  {
+    "title": "Time to Forget",
+    "artist": "Hangar",
+    "isrc": "BRQAQ0900004"
+  },
+  {
+    "title": "Nocturnal Human Side",
+    "artist": "Noturnall",
+    "isrc": "BRQAQ1300002"
+  },
+  {
+    "title": "Eyes in Flames",
+    "artist": "Symbols",
+    "isrc": "BREOX1700009"
+  },
+  {
+    "title": "Futebol, Mulher & Rock'n Roll",
+    "artist": "Dr. Sin, Silvio Luiz",
+    "isrc": "BRNLO0500069"
+  },
+  {
+    "title": "Praise the Lord and Kill People",
+    "artist": "Desalmado",
+    "isrc": "FRX282132084"
+  },
+  {
+    "title": "Armageddon",
+    "artist": "Dark Avenger",
+    "isrc": "IT8SF1600322"
+  },
+  {
+    "title": "Dedicate My Soul",
+    "artist": "Bittencourt Project",
+    "isrc": "BRRZL0800002"
+  },
+  {
+    "title": "Steel Lord on Wheels",
+    "artist": "Hibria",
+    "isrc": "DEKS80439002"
+  },
+  {
+    "title": "Sacrifice",
+    "artist": "Edu Falaschi",
+    "isrc": "BREOX2300007"
+  },
+  {
+    "title": "Letting Go",
+    "artist": "Andre Matos",
+    "isrc": "BRARP0901165"
+  },
+  {
+    "title": "Change the Tide",
+    "artist": "Soulspell, Michael Vescera, Daísa Munhoz",
+    "isrc": "USDHM1216272"
+  },
+  {
+    "title": "I Am That Power",
+    "artist": "Hatefulmurder",
+    "isrc": "QZTRX2430446"
+  },
+  {
+    "title": "Bom Dia Senhor",
+    "artist": "Surra",
+    "isrc": "BXQLQ1900019"
+  },
+  {
+    "title": "The Attempt",
+    "artist": "Tribuzy",
+    "isrc": "GBSMU9128163"
+  },
+  {
+    "title": "Ritualistic",
+    "artist": "NervoChaos",
+    "isrc": "BRCOG1600063"
+  },
+  {
+    "title": "Erro +55",
+    "artist": "Project46",
+    "isrc": "BRYFE1400015"
+  },
+  {
+    "title": "Fairy Tale",
+    "artist": "Shaman",
+    "isrc": "US7VG1991249"
+  },
+  {
+    "title": "Cross of Shame",
+    "artist": "Andralls",
+    "isrc": "BRTIQ2400001"
+  },
+  {
+    "title": "Bala Perdida",
+    "artist": "Carro Bomba",
+    "isrc": "QZ5AB1648743"
+  },
+  {
+    "title": "Satã Clama Metal",
+    "artist": "Azul Limão",
+    "isrc": "BXC6D1600011"
+  },
+  {
+    "title": "Come by the Hills",
+    "artist": "Symfonia",
+    "isrc": "DEH841100104"
+  },
+  {
+    "title": "Dominate and Kill",
+    "artist": "Voodoopriest",
+    "isrc": "BXKK11400001"
+  },
+  {
+    "title": "Salém - Cidade das Bruxas",
+    "artist": "Harppia",
+    "isrc": "BRCEP1300002"
+  },
+  {
+    "title": "Blood of Lions",
+    "artist": "Krisiun",
+    "isrc": "US4E41168402"
+  },
+  {
+    "title": "Um Grito de Paz",
+    "artist": "Oitão",
+    "isrc": "BRO222200002"
+  },
+  {
+    "title": "Se Deus É 10, Satanás É 666",
+    "artist": "Gangrena Gasosa",
+    "isrc": "US7VG1509883"
+  },
+  {
+    "title": "Ants of Fire",
+    "artist": "Glory Opera",
+    "isrc": "QZ5AB1857549"
+  },
+  {
+    "title": "Time to Fly",
+    "artist": "Terra Prima",
+    "isrc": "BRGFP1000029"
+  },
+  {
+    "title": "Beber Até Morrer",
+    "artist": "Ratos De Porão",
+    "isrc": "BRELD0500198"
+  },
+  {
+    "title": "Bella Natura",
+    "artist": "Tuatha de Danann",
+    "isrc": "BRPRX0400472"
+  },
+  {
+    "title": "Epiphany",
+    "artist": "Eterna",
+    "isrc": "ES71G1727161"
+  },
+  {
+    "title": "Aside",
+    "artist": "Genocidio",
+    "isrc": "FR2X42479337"
+  },
+  {
+    "title": "Under the Sun",
+    "artist": "Age Of Artemis",
+    "isrc": "DEAR41428703"
+  },
+  {
+    "title": "Kamisama",
+    "artist": "Eyes Of Shiva",
+    "isrc": "DEAZ40500468"
+  },
+  {
+    "title": "Antípodas",
+    "artist": "Miasthenia",
+    "isrc": "BRI3D1600023"
+  },
+  {
+    "title": "And Let the Show Begin",
+    "artist": "Aquaria",
+    "isrc": "US7VG1737984"
+  },
+  {
+    "title": "Angel With Horns",
+    "artist": "Shadowside",
+    "isrc": "BR0N01100002"
+  },
+  {
+    "title": "TRADUÇÃO",
+    "artist": "Black Pantera",
+    "isrc": "BRDEP2400158"
+  },
+  {
+    "title": "Death!",
+    "artist": "Nervosa",
+    "isrc": "ATN261352008"
+  },
+  {
+    "title": "Unidos pelo Metal",
+    "artist": "Comando Nuclear",
+    "isrc": "US7VG1691777"
+  },
+  {
+    "title": "Reconectar",
+    "artist": "John Wayne, Jessica Waltrick",
+    "isrc": "BRQCK2300002"
+  },
+  {
+    "title": "Last Farewell",
+    "artist": "Armahda",
+    "isrc": "BRXYK1500001"
+  },
+  {
+    "title": "Metal Is The Law",
+    "artist": "Massacration",
+    "isrc": "BRDEP0500420"
+  },
+  {
+    "title": "Carry On",
+    "artist": "ANGRA",
+    "isrc": "BRBRI0500773"
+  },
+  {
+    "title": "Why Should We Say Goodbye?",
+    "artist": "Vandroya",
+    "isrc": "USDHM1222955"
+  },
+  {
+    "title": "Evil Strikes Again",
+    "artist": "Jackdevil",
+    "isrc": "BRTMM1500016"
+  },
+  {
+    "title": "Vision of the Condor",
+    "artist": "Tierramystica",
+    "isrc": "usx9p1336123"
+  },
+  {
+    "title": "Vencedores",
+    "artist": "Worst",
+    "isrc": "BR6DW1500002"
+  },
+  {
+    "title": "Midnight Queen",
+    "artist": "Sarcófago",
+    "isrc": "BRCOG0600047"
+  },
+  {
+    "title": "Deathraiser",
+    "artist": "Attomica",
+    "isrc": "BRCOG0300027"
+  },
+  {
+    "title": "Minha Droga é o Metal",
+    "artist": "Metalmorphose",
+    "isrc": "BRBIG0900006"
+  },
+  {
+    "title": "Enemy Within",
+    "artist": "Scelerata",
+    "isrc": "BR1CL0700012"
+  },
+  {
+    "title": "Dunning Kruger Effect",
+    "artist": "Inherence",
+    "isrc": "BX23M2200001"
+  },
+  {
+    "title": "Ordered to Thrash",
+    "artist": "Violator",
+    "isrc": "BRC770600044"
+  },
+  {
+    "title": "Reflective",
+    "artist": "Kiko Loureiro",
+    "isrc": "BRPOQ1200004"
+  },
+  {
+    "title": "Raising Hell",
+    "artist": "Chaos Synopsis",
+    "isrc": "BRF171700001"
+  },
+  {
+    "title": "Wake up the Blind",
+    "artist": "Eminence, Jean Patton",
+    "isrc": "BRANW2100004"
+  },
+  {
+    "title": "Vou Colocar o Seu Filho na Droga",
+    "artist": "Os Pedrero",
+    "isrc": "QZ5AB1843401"
+  },
+  {
+    "title": "Rock Na Veia",
+    "artist": "Motorocker",
+    "isrc": "BRUEO1000005"
+  },
+  {
+    "title": "Time to Rise",
+    "artist": "Woslom",
+    "isrc": "ushm91042953"
+  },
+  {
+    "title": "Santuário das Almas",
+    "artist": "Confronto",
+    "isrc": "BRFN30800047"
+  },
+  {
+    "title": "Só os Mortos Não Reclamam",
+    "artist": "Lobotomia",
+    "isrc": "ES71G1624883"
+  },
+  {
+    "title": "Ragnarok",
+    "artist": "Armored Dawn",
+    "isrc": "BRO221900004"
+  },
+  {
+    "title": "The Traveller",
+    "artist": "Válvera",
+    "isrc": "BXRC91700003"
+  },
+  {
+    "title": "What Will You Do?",
+    "artist": "Ancesttral",
+    "isrc": "BXLKD1600012"
+  },
+  {
+    "title": "Look at Yourself",
+    "artist": "Trayce",
+    "isrc": "US7VG1545882"
+  },
+  {
+    "title": "Nothing to Say (feat. Fernanda Lira & May Puertas)",
+    "artist": "Venomous, Fernanda Lira, May Puertas",
+    "isrc": "usdy41988546"
+  },
+  {
+    "title": "Huku Hêmba",
+    "artist": "Arandu Arakuaa",
+    "isrc": "BRZ4Q1800005"
+  },
+  {
+    "title": "Últimas Palavras",
+    "artist": "Eutenia",
+    "isrc": "TCACL1633206"
+  },
+  {
+    "title": "Princesa Do Prazer",
+    "artist": "Dorsal Atlântica",
+    "isrc": "QZ5AB1945710"
+  },
+  {
+    "title": "Rock Will Never Die - Studio",
+    "artist": "Edu Ardanuy",
+    "isrc": "USA6U1400001"
+  },
+  {
+    "title": "Wizard of the Tempest",
+    "artist": "Pandora 101",
+    "isrc": "US7VG1206647"
+  },
+  {
+    "title": "Ruptura",
+    "artist": "Aneurose",
+    "isrc": "BXWCL2100006"
+  },
+  {
+    "title": "Hobbits' Song",
+    "artist": "Lothlöryen",
+    "isrc": "DEAR41413859"
+  },
+  {
+    "title": "Roots Bloody Roots",
+    "artist": "Sepultura",
+    "isrc": "NLA329513650"
+  },
+  {
+    "title": "Scars Unveiled",
+    "artist": "In No Sense",
+    "isrc": "QZGLS2420987"
+  },
+  {
+    "title": "Far from Heaven...Close to Hell",
+    "artist": "Dragonheart",
+    "isrc": "CYA081503801"
+  },
+  {
+    "title": "Onde as Borboletas Descansam",
+    "artist": "Escória 13",
+    "isrc": "QZ5AB2474801"
+  },
+  {
+    "title": "Aos Pés da Cruz",
+    "artist": "Oficina G3",
+    "isrc": "BRMKP1300130"
+  },
+  {
+    "title": "Take It or Leave It",
+    "artist": "Indiscipline",
+    "isrc": "BRTWT1700002"
+  },
+  {
+    "title": "Vazio",
+    "artist": "A Pinga e o Diabo",
+    "isrc": "QZW9L2358545"
+  },
+  {
+    "title": "Bolso Secreto",
+    "artist": "Fodastic Brenfers",
+    "isrc": "BRVYH1700025"
+  },
+  {
+    "title": "Up the Sky",
+    "artist": "Blüe Barrel",
+    "isrc": "QZ5AB1873931"
+  },
+  {
+    "title": "Boyhood",
+    "artist": "Corona Kings",
+    "isrc": "BRXNZ1700001"
+  },
+  {
+    "title": "Back with the Fuck Up!",
+    "artist": "FireGun",
+    "isrc": "QZ5AB1823505"
+  },
+  {
+    "title": "Ciudad Gótica",
+    "artist": "Holocausto",
+    "isrc": "FR10S1459622"
+  },
+  {
+    "title": "Don't Mind",
+    "artist": "The Spacetime Ripples",
+    "isrc": "QZ5AB1873207"
+  },
+  {
+    "title": "Correria",
+    "artist": "Korzus",
+    "isrc": "DEU601103444"
+  },
+  {
+    "title": "Bastardos do Brasil",
+    "artist": "Claustrofobia",
+    "isrc": "BRR6A1400003"
+  },
+  {
+    "title": "Horror and Torture",
+    "artist": "Torture Squad",
+    "isrc": "BRWG61200022"
+  },
+  {
+    "title": "A Cry from the Edge",
+    "artist": "Viper",
+    "isrc": "BRWKM1300001"
+  },
+  {
+    "title": "Living and Drifting",
+    "artist": "Almah",
+    "isrc": "BREOX1100002"
+  },
+  {
+    "title": "Dreaming in Black Waves",
+    "artist": "Hangar",
+    "isrc": "BRQAQ0900007"
+  },
+  {
+    "title": "O Tempo Não Para",
+    "artist": "Noturnall, Ney Matogrosso",
+    "isrc": "BCPLK2200006"
+  },
+  {
+    "title": "The Traveller",
+    "artist": "Symbols",
+    "isrc": "BREOX1700012"
+  },
+  {
+    "title": "Emotional Catastrophe",
+    "artist": "Dr. Sin",
+    "isrc": "US7VG1321161"
+  },
+  {
+    "title": "Mass Mental Devolution",
+    "artist": "Desalmado",
+    "isrc": "FRX282132082"
+  },
+  {
+    "title": "Give a Chance",
+    "artist": "Dark Avenger",
+    "isrc": "IT8SF1600325"
+  },
+  {
+    "title": "Torment of Fate",
+    "artist": "Bittencourt Project",
+    "isrc": "BRRZL0800004"
+  },
+  {
+    "title": "Tiger Punch",
+    "artist": "Hibria",
+    "isrc": "DEKS80960001"
+  },
+  {
+    "title": "Tenochtitlán",
+    "artist": "Edu Falaschi",
+    "isrc": "BREOX2300006"
+  },
+  {
+    "title": "Separate Ways (Worlds Apart)",
+    "artist": "Andre Matos",
+    "isrc": "BRARP1700001"
+  },
+  {
+    "title": "My Heart Will Go On",
+    "artist": "Soulspell, Pedro Campos, Daísa Munhoz",
+    "isrc": "SEXEN2000901"
+  },
+  {
+    "title": "The Root Of Fear",
+    "artist": "Hatefulmurder",
+    "isrc": "QZTRX2430441"
+  },
+  {
+    "title": "Ultraviolência",
+    "artist": "Surra",
+    "isrc": "BXQLQ1900008"
+  },
+  {
+    "title": "Forgotten Time",
+    "artist": "Tribuzy",
+    "isrc": "GBSMU9128162"
+  },
+  {
+    "title": "Torn Apart",
+    "artist": "NervoChaos",
+    "isrc": "DKA512300107"
+  },
+  {
+    "title": "Rédeas",
+    "artist": "Project46",
+    "isrc": "QZ5AB1781732"
+  },
+  {
+    "title": "How Many Lives I Need to Die",
+    "artist": "Andralls",
+    "isrc": "BRTIQ2400002"
+  },
+  {
+    "title": "For Tomorrow",
+    "artist": "Shaman",
+    "isrc": "US7VG1991246"
+  },
+  {
+    "title": "Máquina",
+    "artist": "Carro Bomba",
+    "isrc": "US7VG1506912"
+  },
+  {
+    "title": "Não Vou Mais Falar",
+    "artist": "Azul Limão",
+    "isrc": "BXC6D1600014"
+  },
+  {
+    "title": "Fields of Avalon",
+    "artist": "Symfonia",
+    "isrc": "DEH841100103"
+  },
+  {
+    "title": "Mandu",
+    "artist": "Voodoopriest",
+    "isrc": "BXKK11400006"
+  },
+  {
+    "title": "Harpago",
+    "artist": "Harppia",
+    "isrc": "BRCEP1300001"
+  },
+  {
+    "title": "The Will to Potency",
+    "artist": "Krisiun",
+    "isrc": "US4E41168401"
+  },
+  {
+    "title": "Tiro na Rótula",
+    "artist": "Oitão",
+    "isrc": "QZGLS2046685"
+  },
+  {
+    "title": "Centro do Pica-Pau Amarelo",
+    "artist": "Gangrena Gasosa",
+    "isrc": "US7VG1509897"
+  },
+  {
+    "title": "Endless Sin",
+    "artist": "Glory Opera",
+    "isrc": "QZ5AB1857574"
+  },
+  {
+    "title": "Life Carries On",
+    "artist": "Terra Prima",
+    "isrc": "BRGFP1000036"
+  },
+  {
+    "title": "Expresso da Escravidão",
+    "artist": "Ratos De Porão",
+    "isrc": "BRDEP0600148"
+  },
+  {
+    "title": "Believe it's true!",
+    "artist": "Tuatha de Danann",
+    "isrc": "BRPRX0400479"
+  },
+  {
+    "title": "Working Man",
+    "artist": "Eterna",
+    "isrc": "ES71G1727327"
+  },
+  {
+    "title": "Kill Brazil",
+    "artist": "Genocidio",
+    "isrc": "BRTMM1300068"
+  },
+  {
+    "title": "Winding Road",
+    "artist": "Age Of Artemis",
+    "isrc": "DEAR41428701"
+  },
+  {
+    "title": "Alone - Cover",
+    "artist": "Eyes Of Shiva",
+    "isrc": "QZNJY2139581"
+  },
+  {
+    "title": "Entronizados na Morte",
+    "artist": "Miasthenia",
+    "isrc": "BRI3D1300038"
+  },
+  {
+    "title": "Firewings",
+    "artist": "Aquaria",
+    "isrc": "US7VG1737978"
+  },
+  {
+    "title": "Highlight",
+    "artist": "Shadowside",
+    "isrc": "BRSVN0500310"
+  },
+  {
+    "title": "PROVÉRBIOS",
+    "artist": "Black Pantera",
+    "isrc": "BRDEP2400157"
+  },
+  {
+    "title": "Endless Ambition",
+    "artist": "Nervosa",
+    "isrc": "ATN262319801"
+  },
+  {
+    "title": "Ritual Satânico",
+    "artist": "Comando Nuclear",
+    "isrc": "US7VG1691780"
+  },
+  {
+    "title": "Aliança, Pt. II",
+    "artist": "John Wayne, Yuri Lemes, Milton Aguiar",
+    "isrc": "BRQCK1800006"
+  },
+  {
+    "title": "Paiol Em Chamas",
+    "artist": "Armahda",
+    "isrc": "BRXYK1300007"
+  },
+  {
+    "title": "Evil Papagali",
+    "artist": "Massacration",
+    "isrc": "BRDEP0500415"
+  },
+  {
+    "title": "Wuthering Heights",
+    "artist": "ANGRA",
+    "isrc": "BRBRI0500780"
+  },
+  {
+    "title": "The Last Free Land",
+    "artist": "Vandroya",
+    "isrc": "USDHM1222951"
+  },
+  {
+    "title": "Age of Antichrist",
+    "artist": "Jackdevil",
+    "isrc": "BRTMM1400013"
+  },
+  {
+    "title": "Myths of Creation",
+    "artist": "Tierramystica",
+    "isrc": "usx9p1336125"
+  },
+  {
+    "title": "Left for Shit",
+    "artist": "Worst",
+    "isrc": "FR59R1857924"
+  },
+  {
+    "title": "Satanic Lust",
+    "artist": "Sarcófago",
+    "isrc": "BRCOG0500190"
+  },
+  {
+    "title": "The Chainsaw",
+    "artist": "Attomica",
+    "isrc": "BRCOG0300026"
+  },
+  {
+    "title": "Jamais Desista",
+    "artist": "Metalmorphose",
+    "isrc": "BRBIG1200001"
+  },
+  {
+    "title": "Leave Me Alone",
+    "artist": "Scelerata",
+    "isrc": "BR1CL0700014"
+  },
+  {
+    "title": "The Chosen One",
+    "artist": "Inherence",
+    "isrc": "QZ5AB1872652"
+  },
+  {
+    "title": "Addicted to Mosh",
+    "artist": "Violator",
+    "isrc": "BRC770600042"
+  },
+  {
+    "title": "No Gravity",
+    "artist": "Kiko Loureiro",
+    "isrc": "BRPOQ0400001"
+  },
+  {
+    "title": "Son of Light",
+    "artist": "Chaos Synopsis",
+    "isrc": "BRFI71200133"
+  },
+  {
+    "title": "Burn It Again",
+    "artist": "Eminence",
+    "isrc": "BRANW2100002"
+  },
+  {
+    "title": "Amor é muito Bom",
+    "artist": "Os Pedrero",
+    "isrc": "US7VG1102358"
+  },
+  {
+    "title": "Internally",
+    "artist": "Korzus",
+    "isrc": "BQV8D1100074"
+  },
+  {
+    "title": "Eu Quero É Que Se Foda",
+    "artist": "Claustrofobia",
+    "isrc": "BRR6A0500010"
+  },
+  {
+    "title": "Hell is Coming",
+    "artist": "Torture Squad",
+    "isrc": "BXYMP2300002"
+  },
+  {
+    "title": "To Live Again",
+    "artist": "Viper",
+    "isrc": "BRWKM1300021"
+  },
+  {
+    "title": "Beyond Tomorrow",
+    "artist": "Almah",
+    "isrc": "BREOX0800002"
+  },
+  {
+    "title": "The Infallible Emperor",
+    "artist": "Hangar",
+    "isrc": "BRQAQ0900001"
+  },
+  {
+    "title": "Fight the System",
+    "artist": "Noturnall",
+    "isrc": "BRQAQ1500004"
+  },
+  {
+    "title": "What Can I Do",
+    "artist": "Symbols",
+    "isrc": "BREOX1700002"
+  },
+  {
+    "title": "Fire",
+    "artist": "Dr. Sin",
+    "isrc": "BRNLO0400032"
+  },
+  {
+    "title": "Alone",
+    "artist": "Desalmado",
+    "isrc": "BXE952400004"
+  },
+  {
+    "title": "Morgana",
+    "artist": "Dark Avenger",
+    "isrc": "IT8SF1600333"
+  },
+  {
+    "title": "Holding Back the Fire",
+    "artist": "Bittencourt Project",
+    "isrc": "BRRZL0800003"
+  },
+  {
+    "title": "Living Under Ice",
+    "artist": "Hibria",
+    "isrc": "DEKS80439006"
+  },
+  {
+    "title": "The Ancestry",
+    "artist": "Edu Falaschi",
+    "isrc": "BREOX2100002"
+  },
+  {
+    "title": "Endeavour",
+    "artist": "Andre Matos",
+    "isrc": "BRARP0901174"
+  },
+  {
+    "title": "We Got the Right",
+    "artist": "Soulspell, Arjen Anthony Lucassen, Tim \"Ripper\" Owens, Blaze Bayley, Michael Vescera, Matt Smith, Daísa Munhoz, Jefferson Albert, Glauco Alves, Manuela Saggioro, Pedro Campos, Victor Emeka",
+    "isrc": "SEXEN2000301"
+  },
+  {
+    "title": "Crime & Castigo",
+    "artist": "Hatefulmurder",
+    "isrc": "QZTRX2430449"
+  },
+  {
+    "title": "Escorrendo Pelo Ralo",
+    "artist": "Surra",
+    "isrc": "BXQLQ1900006"
+  },
+  {
+    "title": "Beast In The Light",
+    "artist": "Tribuzy",
+    "isrc": "GBSMU9128169"
+  },
+  {
+    "title": "Ouroboros",
+    "artist": "NervoChaos",
+    "isrc": "DKA512300113"
+  },
+  {
+    "title": "Pode Pá",
+    "artist": "Project46",
+    "isrc": "QZ5AB1781735"
+  },
+  {
+    "title": "Escape from the Traps",
+    "artist": "Andralls",
+    "isrc": "BRTIQ2400003"
+  },
+  {
+    "title": "Innocence",
+    "artist": "Shaman",
+    "isrc": "BRDEP0400666"
+  },
+  {
+    "title": "Migalhas",
+    "artist": "Carro Bomba",
+    "isrc": "BCSCH2200033"
+  },
+  {
+    "title": "Sangue Frio",
+    "artist": "Azul Limão",
+    "isrc": "BXC6D1600012"
+  },
+  {
+    "title": "Don't Let Me Go",
+    "artist": "Symfonia",
+    "isrc": "DEH841100112"
+  },
+  {
+    "title": "Religion in Flames",
+    "artist": "Voodoopriest",
+    "isrc": "BXKK11400002"
+  },
+  {
+    "title": "A Ferro e Fogo",
+    "artist": "Harppia",
+    "isrc": "BRCEP1300004"
+  },
+  {
+    "title": "Combustion Inferno",
+    "artist": "Krisiun",
+    "isrc": "US4E40848605"
+  },
+  {
+    "title": "Borderless",
+    "artist": "Oitão, Brujeria",
+    "isrc": "BRO222300016"
+  },
+  {
+    "title": "Eu Não Entendi Matrix",
+    "artist": "Gangrena Gasosa",
+    "isrc": "US7VG1509886"
+  },
+  {
+    "title": "The Darkest Fear",
+    "artist": "Glory Opera",
+    "isrc": "QZ5AB1857550"
+  }
+]

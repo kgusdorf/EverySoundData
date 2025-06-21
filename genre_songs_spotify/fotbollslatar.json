@@ -1,0 +1,707 @@
+[
+  {
+    "title": "SUPA",
+    "artist": "De Vet Du, Bolaget",
+    "isrc": "SEWAW2200401"
+  },
+  {
+    "title": "Jag önskar jag brydde mig mer",
+    "artist": "Hov1",
+    "isrc": "SEUM72400481"
+  },
+  {
+    "title": "Ingen sommar utan reggae",
+    "artist": "Markoolio",
+    "isrc": "SEBMA0700023"
+  },
+  {
+    "title": "Pusselbitar",
+    "artist": "Anis Don Demina",
+    "isrc": "SE5752461113"
+  },
+  {
+    "title": "De e vi som e Hammarby",
+    "artist": "ZULU",
+    "isrc": "SE3KO1800103"
+  },
+  {
+    "title": "Grönvit fana",
+    "artist": "Thomas Pichler",
+    "isrc": "SEYXC1300601"
+  },
+  {
+    "title": "FREAKY",
+    "artist": "Ringnes-Ronny",
+    "isrc": "NO2DY2400041"
+  },
+  {
+    "title": "Från Södermalm (Skit i stan)",
+    "artist": "Sjuttisju",
+    "isrc": "SEYOK1624002"
+  },
+  {
+    "title": "Över gatorna på Södermalm",
+    "artist": "Söders Lag",
+    "isrc": "TCAGI2231420"
+  },
+  {
+    "title": "Guldet ska till Söder",
+    "artist": "Bajen Brothers",
+    "isrc": "SEVVF2009503"
+  },
+  {
+    "title": "Vi e Hammarby",
+    "artist": "Rabarberbajarna, C West",
+    "isrc": "TCACE1523777"
+  },
+  {
+    "title": "Gråt djyrgårn gråt",
+    "artist": "Bajen Deluxe",
+    "isrc": "SEYOK1949847"
+  },
+  {
+    "title": "Bajen va' namnet - 2004 års version",
+    "artist": "Hammarby Fotbollslag",
+    "isrc": "SEVGT0401501"
+  },
+  {
+    "title": "Heja Bajen (Hammarby)",
+    "artist": "Razamanaz",
+    "isrc": "SEYOK1209928"
+  },
+  {
+    "title": "Han är den bästa feat. Pengabrorsan",
+    "artist": "Grönvita Bandet, Pengabrorsan",
+    "isrc": "SEVGT1800145"
+  },
+  {
+    "title": "Sommar sommar sol",
+    "artist": "JLC",
+    "isrc": "SEBGA1700187"
+  },
+  {
+    "title": "Sparka på bollen",
+    "artist": "IJustWantToBeCool",
+    "isrc": "SEWDL6141775"
+  },
+  {
+    "title": "Ätaskitaspy",
+    "artist": "Tompafager",
+    "isrc": "SE5BU1758886"
+  },
+  {
+    "title": "Vi e Bajen Hammarby",
+    "artist": "Pajnt",
+    "isrc": "SEXOH2000301"
+  },
+  {
+    "title": "Ã…ka piketbuss igen",
+    "artist": "AIK Trubaduren",
+    "isrc": "GBLFP1532129"
+  },
+  {
+    "title": "Kämpa på Bajen",
+    "artist": "BajenBosse",
+    "isrc": "GBSMU7151780"
+  },
+  {
+    "title": "Bajen",
+    "artist": "Ebba Yen",
+    "isrc": "SE6I31988096"
+  },
+  {
+    "title": "ANNA BOOK",
+    "artist": "Frej Larsson, Young Earth Sauce, ODZ",
+    "isrc": "SE6A91944953"
+  },
+  {
+    "title": "Hem till Söder",
+    "artist": "Janne Svensson",
+    "isrc": "SE2XI0900109"
+  },
+  {
+    "title": "Jag Går Upp Och Håller Käften",
+    "artist": "Coca Carola",
+    "isrc": "SEYWF0000203"
+  },
+  {
+    "title": "Alla Dansar",
+    "artist": "Fakkboiz, Kuselofte, B3nte",
+    "isrc": "QZES91841319"
+  },
+  {
+    "title": "Sverige För Alla",
+    "artist": "Språk för alla, Toni Prince",
+    "isrc": "SEYOK1819820"
+  },
+  {
+    "title": "På min mammas gata",
+    "artist": "Lennart Skoglund",
+    "isrc": "SEBFO6103010"
+  },
+  {
+    "title": "Vägen tillbaka",
+    "artist": "Thomas Holst",
+    "isrc": "SEVJH0200204"
+  },
+  {
+    "title": "Once More",
+    "artist": "The Buckaroos",
+    "isrc": "SEVEO1501205"
+  },
+  {
+    "title": "Regn över Möllan",
+    "artist": "Richard Lindgren",
+    "isrc": "SEVJH0200213"
+  },
+  {
+    "title": "112Aina - feat. Mani",
+    "artist": "Robin Svensson",
+    "isrc": "SEYOK1319336"
+  },
+  {
+    "title": "Blinkar Blå",
+    "artist": "Adolphson & Falk",
+    "isrc": "SEAAA1000301"
+  },
+  {
+    "title": "Mr. Bo",
+    "artist": "Blå Blues",
+    "isrc": "SE38V2400114"
+  },
+  {
+    "title": "Vi ska tillbaks",
+    "artist": "Djurgårdshjälpen",
+    "isrc": "USA2P1353437"
+  },
+  {
+    "title": "Nu kom han loss igen",
+    "artist": "O'Hjalmar and his Lost Cords",
+    "isrc": "SEVJH0200214"
+  },
+  {
+    "title": "Ljusblå freak",
+    "artist": "Stry & Paleblue Freaks",
+    "isrc": "SEVJH0200205"
+  },
+  {
+    "title": "Laget som tillhör dej och mej",
+    "artist": "Klas Ahlund, Love Antell, Madi Banja, Rebeccka Scheja, Fiona Fitzpatrick",
+    "isrc": "SEVGT1800147"
+  },
+  {
+    "title": "Stå Upp För Peking",
+    "artist": "Vitblå Revolt",
+    "isrc": "TCACF1582288"
+  },
+  {
+    "title": "Tottesexuell",
+    "artist": "Guldstrupen",
+    "isrc": "SEXJJ2000101"
+  },
+  {
+    "title": "Hjärtat slår",
+    "artist": "De Överlevande",
+    "isrc": "SEYOK1222330"
+  },
+  {
+    "title": "Vid Rya Åsar Är Himlen Klar",
+    "artist": "Ryssby Klint",
+    "isrc": "GB-SMU-29-71902"
+  },
+  {
+    "title": "Hammarby",
+    "artist": "Stig Vig, Wille Crafoord",
+    "isrc": "SEVGT0604611"
+  },
+  {
+    "title": "Hemmafest - Radio Edit",
+    "artist": "Skånska Konsulatet",
+    "isrc": "SEWLR1500301"
+  },
+  {
+    "title": "Shooof!",
+    "artist": "Fotbollshuliganen",
+    "isrc": "SEBMC1800001"
+  },
+  {
+    "title": "Gula Väggen",
+    "artist": "Gula Väggen",
+    "isrc": "SE4KT1400186"
+  },
+  {
+    "title": "Global Fussball OK",
+    "artist": "Tyskarna Från Lund",
+    "isrc": "SEVAD0300103"
+  },
+  {
+    "title": "Ge mej ditt namn, ge mej ditt nummer (Give Me Your Name, Give Me Your Number)",
+    "artist": "Tonix",
+    "isrc": "SEPQM0716880"
+  },
+  {
+    "title": "Kalmar FF",
+    "artist": "1/2 Dr Oh Steel",
+    "isrc": "SE6QE2158102"
+  },
+  {
+    "title": "VI Älskar Bk Häcken (VI Är Från Hisingen)",
+    "artist": "Andra Generationen",
+    "isrc": "SEVXC1500201"
+  },
+  {
+    "title": "Den guldgula sången",
+    "artist": "Attackorkestern",
+    "isrc": "SEYOK1222331"
+  },
+  {
+    "title": "Bästa Laget Degerfors IF",
+    "artist": "Banan Brorsan och Jag",
+    "isrc": "QZHN62117786"
+  },
+  {
+    "title": "Degerfors if Hymn",
+    "artist": "BlakkPetter & RobInc.",
+    "isrc": "TCAFL2133663"
+  },
+  {
+    "title": "Granen Lyfter Bucklan (Komigen Sverige)",
+    "artist": "Bollkalle",
+    "isrc": "TCADQ1804702"
+  },
+  {
+    "title": "Rivierans blagula hjartan",
+    "artist": "Camp Riviera",
+    "isrc": "TCAFD2062579"
+  },
+  {
+    "title": "Kämpa Gul Och Blå (feat. Ola Lustig)",
+    "artist": "Camp Sweden, Ola Lustig",
+    "isrc": "TCABG1214787"
+  },
+  {
+    "title": "IF Elfsborg Oslagbara",
+    "artist": "Christian Lundgren",
+    "isrc": "GB-SMU-28-69419"
+  },
+  {
+    "title": "Dansa till våran sång",
+    "artist": "D-no.1",
+    "isrc": "QZK6G2207748"
+  },
+  {
+    "title": "Sjung för gamla Djurgår'n",
+    "artist": "Djurgårdens IF's Kör/Lars Bagges Orkester/Kisa Magnusson",
+    "isrc": "SEAMA1300336"
+  },
+  {
+    "title": "Sjung för gamla Djurgår'n",
+    "artist": "Djurgårdsfamiljen",
+    "isrc": "SEYOK1406362"
+  },
+  {
+    "title": "Ljusblåa vindar",
+    "artist": "Don Diego & Syndikatet",
+    "isrc": "SEVJH0200207"
+  },
+  {
+    "title": "Initium",
+    "artist": "Egonaut",
+    "isrc": "DKQ4A1717501"
+  },
+  {
+    "title": "Ända sen jag var liten",
+    "artist": "Fotbollsbandet",
+    "isrc": "SEYOK1516411"
+  },
+  {
+    "title": "Örebro",
+    "artist": "GAMLA FINA ÖREBRO, Norbert Lukacs, Johannes Räihä",
+    "isrc": "SEYOK2108322"
+  },
+  {
+    "title": "Di gule är vårt lag",
+    "artist": "Hellsborg",
+    "isrc": "SEYOK1222340"
+  },
+  {
+    "title": "Malmo FF",
+    "artist": "Liberator",
+    "isrc": "SEVHC0111190"
+  },
+  {
+    "title": "Vi är gulsvarta Elfsborg",
+    "artist": "LuLLiLoo Music",
+    "isrc": "SEYOK1222329"
+  },
+  {
+    "title": "Kalla drinkar och brunetter",
+    "artist": "Magnus Andersson",
+    "isrc": "SEVKF0601006"
+  },
+  {
+    "title": "The Wolverhampton Project: Love on Hartley Street",
+    "artist": "Mats Trondman, Cicci Landén",
+    "isrc": "SEVHR2400401"
+  },
+  {
+    "title": "Vi hänger me'",
+    "artist": "Nacka Skoglund",
+    "isrc": "SEAZC5801010"
+  },
+  {
+    "title": "Hon är från Lister",
+    "artist": "Nöjeskompaniet",
+    "isrc": "SEYOK2307832"
+  },
+  {
+    "title": "Känner Pressen",
+    "artist": "Osten af, Hiphophjältarna",
+    "isrc": "SE3XI2000101"
+  },
+  {
+    "title": "It Burns",
+    "artist": "Pat Poison",
+    "isrc": "QZHN82470166"
+  },
+  {
+    "title": "Euro 2012 Song for Ukraine Footbalni Kozaky - Football Cossacks",
+    "artist": "Stepan aka Ludwig",
+    "isrc": "GBKPL1252721"
+  },
+  {
+    "title": "Zlatan & jag",
+    "artist": "The Ballerinas & The Pendeletones",
+    "isrc": "SEVJH0200202"
+  },
+  {
+    "title": "Ola Toivonen (Vår ToiBoi)",
+    "artist": "ToiBois",
+    "isrc": "ushm21849926"
+  },
+  {
+    "title": "Jag och min Jan",
+    "artist": "Tutto Balutto",
+    "isrc": "QZHNB2115881"
+  },
+  {
+    "title": "Hjälmarens grund",
+    "artist": "Örebrosöner",
+    "isrc": "SEYOK1835148"
+  },
+  {
+    "title": "Helluva life",
+    "artist": "Hov1",
+    "isrc": "SE7N92400002"
+  },
+  {
+    "title": "Första Gången I En EPA",
+    "artist": "De Vet Du, B3nte, Ringnes-Ronny",
+    "isrc": "SEWAW2300201"
+  },
+  {
+    "title": "Sommar och sol",
+    "artist": "Markoolio",
+    "isrc": "SEAHC9810010"
+  },
+  {
+    "title": "Öka takten",
+    "artist": "ZULU",
+    "isrc": "SE3KO1800102"
+  },
+  {
+    "title": "Vem e som oss",
+    "artist": "Anis Don Demina",
+    "isrc": "SEPQA2000006"
+  },
+  {
+    "title": "Hjärtat é Söder",
+    "artist": "Thomas Pichler",
+    "isrc": "SEYXC1001401"
+  },
+  {
+    "title": "Bajen vann (Skit i stan)",
+    "artist": "Sjuttisju",
+    "isrc": "SEYOK1623992"
+  },
+  {
+    "title": "Valhalla",
+    "artist": "Ringnes-Ronny",
+    "isrc": "TCAEP2021607"
+  },
+  {
+    "title": "Över Gatorna På Södermalm",
+    "artist": "Söders Lag",
+    "isrc": "SE3OH1331501"
+  },
+  {
+    "title": "Vi står kvar",
+    "artist": "Bajen Brothers",
+    "isrc": "SEVVF2009501"
+  },
+  {
+    "title": "Kom igen Bajen",
+    "artist": "Rabarberbajarna, C West, Fredrik Isaksson, Uffe Grundberg",
+    "isrc": "TCACE1523770"
+  },
+  {
+    "title": "Dagen då vi vann",
+    "artist": "Bajen Deluxe",
+    "isrc": "SEYOK1784116"
+  },
+  {
+    "title": "Bajen va' namnet - 2004 års version - instrumental",
+    "artist": "Hammarby Fotbollslag",
+    "isrc": "SEVGT0401502"
+  },
+  {
+    "title": "Heja Bajen - Lång Version (Hammarby)",
+    "artist": "Razamanaz",
+    "isrc": "SEYOK1209929"
+  },
+  {
+    "title": "#Självis",
+    "artist": "IJustWantToBeCool",
+    "isrc": "TCABW1470833"
+  },
+  {
+    "title": "Hela vägen hem",
+    "artist": "JLC",
+    "isrc": "SEBGA1801153"
+  },
+  {
+    "title": "Som maggan hagström sa",
+    "artist": "Tompafager",
+    "isrc": "SE5752445010"
+  },
+  {
+    "title": "Hammarby har vunnit",
+    "artist": "Pajnt",
+    "isrc": "SEXOH2200101"
+  },
+  {
+    "title": "Huliganen",
+    "artist": "AIK Trubaduren",
+    "isrc": "GBLFP1532056"
+  },
+  {
+    "title": "Bajen från Söder",
+    "artist": "BajenBosse",
+    "isrc": "GX3HH2120964"
+  },
+  {
+    "title": "Bajen - Instrumental Version",
+    "artist": "Ebba Yen",
+    "isrc": "SE6I31988097"
+  },
+  {
+    "title": "Maddafakka",
+    "artist": "Frej Larsson, ODZ, Young Earth Sauce",
+    "isrc": "SE5BU1827567"
+  },
+  {
+    "title": "Vi kommer från Söder",
+    "artist": "Janne Svensson",
+    "isrc": "SE2XI1600201"
+  },
+  {
+    "title": "Stockholms Stolthet",
+    "artist": "Coca Carola",
+    "isrc": "QZHN82056565"
+  },
+  {
+    "title": "Folkfest",
+    "artist": "Fakkboiz, B3nte, Kuselofte",
+    "isrc": "QMPKX1865368"
+  },
+  {
+    "title": "Språk för alla",
+    "artist": "Språk för alla",
+    "isrc": "SE4XA1500114"
+  },
+  {
+    "title": "Jag kommer tillbaka",
+    "artist": "Lennart Skoglund",
+    "isrc": "SEAZG5901070"
+  },
+  {
+    "title": "Golvad",
+    "artist": "Thomas Holst",
+    "isrc": "CALVP1922605"
+  },
+  {
+    "title": "Break Up",
+    "artist": "The Buckaroos",
+    "isrc": "SEVEO1800902"
+  },
+  {
+    "title": "The Miserable Landlord",
+    "artist": "Richard Lindgren",
+    "isrc": "SEWXY2300709"
+  },
+  {
+    "title": "MFF-hymnen - 2005 Version",
+    "artist": "Robin Svensson, Johan Holmström, Bröderna Berggrensson, The Perfect Symphony",
+    "isrc": "SEVGT1501002"
+  },
+  {
+    "title": "Stockholmsserenad",
+    "artist": "Adolphson & Falk",
+    "isrc": "SEAAA1000306"
+  },
+  {
+    "title": "En Grej",
+    "artist": "Blå Blues",
+    "isrc": "SE38V1700201"
+  },
+  {
+    "title": "Klackledarens sång",
+    "artist": "Guldstrupen",
+    "isrc": "SEXJJ2200101"
+  },
+  {
+    "title": "Vi älskar vårat IFE",
+    "artist": "De Överlevande",
+    "isrc": "SEYOK1222338"
+  },
+  {
+    "title": "Hemmafest - Extended Mix",
+    "artist": "Skånska Konsulatet",
+    "isrc": "SEWLR1500302"
+  },
+  {
+    "title": "Allez Allez Allez (New Mix 2023)",
+    "artist": "Gula Väggen, Per Bredhammar",
+    "isrc": "ATR981285555"
+  },
+  {
+    "title": "Tanzen Mit Musik",
+    "artist": "Tyskarna Från Lund",
+    "isrc": "SEVAD0300106"
+  },
+  {
+    "title": "Kurragömma",
+    "artist": "Tonix",
+    "isrc": "SEPQM0612846"
+  },
+  {
+    "title": "I have got pictures of you in my head",
+    "artist": "1/2 Dr Oh Steel",
+    "isrc": "SE6QE2412111"
+  },
+  {
+    "title": "Kebabpizza Slivovitza",
+    "artist": "Andra Generationen",
+    "isrc": "SEPQA0752004"
+  },
+  {
+    "title": "Ingen står ensam",
+    "artist": "Attackorkestern",
+    "isrc": "SEYOK1222337"
+  },
+  {
+    "title": "Boyband Comeback",
+    "artist": "De Vet Du",
+    "isrc": "USA2P2420503"
+  },
+  {
+    "title": "Hon dansar vidare i livet",
+    "artist": "Hov1",
+    "isrc": "SEUM71800176"
+  },
+  {
+    "title": "Vi drar till fjällen",
+    "artist": "Markoolio",
+    "isrc": "SEVGT0405102"
+  },
+  {
+    "title": "Bara ett lag som gäller",
+    "artist": "ZULU",
+    "isrc": "SE3KO1800101"
+  },
+  {
+    "title": "Flaggan i topp - Sveriges Officiella EM-låt 2021",
+    "artist": "Anis Don Demina, SAMI",
+    "isrc": "SEPQA2100034"
+  },
+  {
+    "title": "Gamla Hjältar",
+    "artist": "Thomas Pichler",
+    "isrc": "SEYXC0901401"
+  },
+  {
+    "title": "Hat (Skit i stan)",
+    "artist": "Sjuttisju",
+    "isrc": "SEYOK1623999"
+  },
+  {
+    "title": "5 SHOTS",
+    "artist": "Ringnes-Ronny, Carina Dahl",
+    "isrc": "NO2DY2300234"
+  },
+  {
+    "title": "Vi tar guld i år",
+    "artist": "Bajen Brothers",
+    "isrc": "SEVVF2009505"
+  },
+  {
+    "title": "Rabarber",
+    "artist": "Rabarberbajarna, C West",
+    "isrc": "TCACE1523785"
+  },
+  {
+    "title": "Skål för Bajen",
+    "artist": "Bajen Deluxe",
+    "isrc": "SEYOK1949844"
+  },
+  {
+    "title": "Dave Is on the Road Again",
+    "artist": "Razamanaz",
+    "isrc": "EEAV19900028"
+  },
+  {
+    "title": "Kämpa Sverige",
+    "artist": "IJustWantToBeCool",
+    "isrc": "SEWDL6143905"
+  },
+  {
+    "title": "Friendzoned",
+    "artist": "JLC, Robin Bengtsson",
+    "isrc": "SEBGA1901192"
+  },
+  {
+    "title": "så typiskt bajen",
+    "artist": "Tompafager",
+    "isrc": "SE5751808879"
+  },
+  {
+    "title": "En sång för gamla Hammarby",
+    "artist": "Pajnt",
+    "isrc": "SEXHO2000701"
+  },
+  {
+    "title": "Ta mig med till Norra Stå",
+    "artist": "AIK Trubaduren",
+    "isrc": "GBLFP1532343"
+  },
+  {
+    "title": "FRAM",
+    "artist": "Frej Larsson, ODZ, Young Earth Sauce",
+    "isrc": "SE5751928406"
+  },
+  {
+    "title": "Bajen, bärs och en Söderböna",
+    "artist": "Janne Svensson",
+    "isrc": "SE2XI2300201"
+  },
+  {
+    "title": "Vi Är Djurgår´n",
+    "artist": "Coca Carola",
+    "isrc": "SEYWF1000304"
+  },
+  {
+    "title": "Om Sverige Vinner VM",
+    "artist": "Fakkboiz, Kuselofte, B3nte",
+    "isrc": "QZDA41892174"
+  }
+]

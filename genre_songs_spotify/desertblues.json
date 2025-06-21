@@ -1,0 +1,777 @@
+[
+  {
+    "title": "Afous Dafous",
+    "artist": "Tartit",
+    "isrc": "GBDTM1912001"
+  },
+  {
+    "title": "Tahra a Issasnane",
+    "artist": "Terakaft",
+    "isrc": "FR78Z0800009"
+  },
+  {
+    "title": "Toumast Tincha",
+    "artist": "Tinariwen",
+    "isrc": "FR9W11312701"
+  },
+  {
+    "title": "Miri",
+    "artist": "Bassekou Kouyate, Ngoni ba",
+    "isrc": "DECQ11903205"
+  },
+  {
+    "title": "Ai Du - with Ry Cooder",
+    "artist": "Ali Farka Touré, Ry Cooder",
+    "isrc": "GBBGU0640009"
+  },
+  {
+    "title": "Matinfa",
+    "artist": "Etran Finatawa",
+    "isrc": "GBDTM1371001"
+  },
+  {
+    "title": "Mawarniha Tartit",
+    "artist": "Tamikrest",
+    "isrc": "DETP61600111"
+  },
+  {
+    "title": "Bi Lamban",
+    "artist": "Toumani Diabaté, Ballaké Sissoko",
+    "isrc": "USRY29700860"
+  },
+  {
+    "title": "Chiri Hari",
+    "artist": "Samba Touré",
+    "isrc": "DEE351411749"
+  },
+  {
+    "title": "Alasidi",
+    "artist": "Afel Bocoum",
+    "isrc": "GBBGU9905301"
+  },
+  {
+    "title": "Alam'i",
+    "artist": "Koudede",
+    "isrc": "GBGRJ1700211"
+  },
+  {
+    "title": "A Lamèn",
+    "artist": "Lobi Traoré",
+    "isrc": "DEE351010748"
+  },
+  {
+    "title": "N'taki",
+    "artist": "Idrissa Soumaoro",
+    "isrc": "GBNRN1790746"
+  },
+  {
+    "title": "Tamiditine",
+    "artist": "Bombino",
+    "isrc": "USNO11300012"
+  },
+  {
+    "title": "Akaline",
+    "artist": "Kel Assouf",
+    "isrc": "BEZ251022305"
+  },
+  {
+    "title": "Kalan Nege",
+    "artist": "Issa Bagayogo",
+    "isrc": "US6DR0400667"
+  },
+  {
+    "title": "Sowa",
+    "artist": "Fatoumata Diawara",
+    "isrc": "GBBGU1186001"
+  },
+  {
+    "title": "Diby (L'ombre)",
+    "artist": "Nahawa Doumbia",
+    "isrc": "FR6V80303831"
+  },
+  {
+    "title": "Ikalane Walegh",
+    "artist": "Toumast",
+    "isrc": "FRW460600250"
+  },
+  {
+    "title": "Kiriké",
+    "artist": "Kassé-Mady Diabaté, Makan Tounkara, Vincent Ségal",
+    "isrc": "FR2W61400030"
+  },
+  {
+    "title": "Imoussanan",
+    "artist": "Alhousseini Anivolla",
+    "isrc": "GBDTM1267001"
+  },
+  {
+    "title": "Kulu",
+    "artist": "N'Gou Bagayoko",
+    "isrc": "FR6V80200765"
+  },
+  {
+    "title": "Goumou",
+    "artist": "Khaira Arby",
+    "isrc": "FR2X41946516"
+  },
+  {
+    "title": "African Blues",
+    "artist": "Majid Bekkas, Rachid Zeroual, Khalid Kouhen, Paolo Radoni, Marc Lelangue",
+    "isrc": "BEZ250116301"
+  },
+  {
+    "title": "Traveller",
+    "artist": "Baaba Maal",
+    "isrc": "USPA31500006"
+  },
+  {
+    "title": "Funeral for Justice",
+    "artist": "Mdou Moctar",
+    "isrc": "USMTD2300407"
+  },
+  {
+    "title": "Deri Faramandi",
+    "artist": "Ramata Diakité",
+    "isrc": "FR3GQ1129680"
+  },
+  {
+    "title": "Anou Malane",
+    "artist": "Abdallah Oumbadougou",
+    "isrc": "QZDZE1905301"
+  },
+  {
+    "title": "Mbambou",
+    "artist": "Sékouba Bambino",
+    "isrc": "GBNRN1790264"
+  },
+  {
+    "title": "Raoud",
+    "artist": "Daraa Tribes",
+    "isrc": "FR9W11709536"
+  },
+  {
+    "title": "Mido Waino",
+    "artist": "Daby Balde",
+    "isrc": "GBDTM0500413"
+  },
+  {
+    "title": "Alghafiat",
+    "artist": "Amanar",
+    "isrc": "USA2P1653539"
+  },
+  {
+    "title": "Blues du désert, Pt. 1",
+    "artist": "Ibrahim Djo Experience",
+    "isrc": "GBGRJ1700231"
+  },
+  {
+    "title": "Issa",
+    "artist": "Dobet Gnahoré",
+    "isrc": "USGFC0704603"
+  },
+  {
+    "title": "Nenibali",
+    "artist": "Mamani Keïta",
+    "isrc": "FR2W61100006"
+  },
+  {
+    "title": "Ligh Ezzaman",
+    "artist": "Tikoubaouine",
+    "isrc": "CH6541998188"
+  },
+  {
+    "title": "Fadma",
+    "artist": "TASUTA N-IMAL",
+    "isrc": "TCAFS2103455"
+  },
+  {
+    "title": "Ayitma",
+    "artist": "Tadalat",
+    "isrc": "GBGRJ1700218"
+  },
+  {
+    "title": "Djandélé",
+    "artist": "Adama Yalomba",
+    "isrc": "FR6V82427005"
+  },
+  {
+    "title": "Terminus",
+    "artist": "Sidiki Diabaté, Gazo",
+    "isrc": "FR8FB2321040"
+  },
+  {
+    "title": "Amidine",
+    "artist": "Hasso Akotey",
+    "isrc": "USA2P1653491"
+  },
+  {
+    "title": "Awa adounia",
+    "artist": "Liya Ag Ablil, Nadia Nid El Mourid, Abdallah Ag Ahmed, Mathias Vaguenez, Sanou Ag Ahmed, Yamina Nid El Mourid",
+    "isrc": "FRZ141136020"
+  },
+  {
+    "title": "Aman Wj Kawalnene - Live",
+    "artist": "Azawad",
+    "isrc": "GBGRJ1700184"
+  },
+  {
+    "title": "Mashi",
+    "artist": "Mamane Barka",
+    "isrc": "GBDTM0901401"
+  },
+  {
+    "title": "Yango",
+    "artist": "Mansour Seck",
+    "isrc": "GBNRN0607507"
+  },
+  {
+    "title": "Chetma",
+    "artist": "Touareg de Fewet",
+    "isrc": "FR6V80505252"
+  },
+  {
+    "title": "Tiris",
+    "artist": "Nayim Alal",
+    "isrc": "ESAAI0163075"
+  },
+  {
+    "title": "Mali Yafa",
+    "artist": "Zani Diabaté, Les Héritiers",
+    "isrc": "GBNRN1211302"
+  },
+  {
+    "title": "Sidi Musa",
+    "artist": "Hassan Hakmoun",
+    "isrc": "USA560772089"
+  },
+  {
+    "title": "Binaba",
+    "artist": "Zoumana Téréta",
+    "isrc": "QMBZ91303996"
+  },
+  {
+    "title": "Ay Hôra : My Dance",
+    "artist": "Sidi Touré",
+    "isrc": "USTJ21334701"
+  },
+  {
+    "title": "Je t'aime",
+    "artist": "Staff Benda Bilili",
+    "isrc": "BE6F50802320"
+  },
+  {
+    "title": "Cheyla ya Haiuune",
+    "artist": "Group Doueh",
+    "isrc": "QMQQH1200026"
+  },
+  {
+    "title": "Tiris Nibreeha - I Love Tiris",
+    "artist": "Tiris",
+    "isrc": "FR6V80790522"
+  },
+  {
+    "title": "Tassaloft",
+    "artist": "Imaran, Ahmed Chakali",
+    "isrc": "FR0FK9401070"
+  },
+  {
+    "title": "Red Ladies Tent Jam (Kaya Project Remix)",
+    "artist": "Tuareg Nomads Kiah Keya",
+    "isrc": "US4R30928694"
+  },
+  {
+    "title": "Mahi igdalan amerdeless",
+    "artist": "Hamid Ekawel",
+    "isrc": "GBGRJ1700207"
+  },
+  {
+    "title": "Ihama - Live",
+    "artist": "Kel Tin Lokiene",
+    "isrc": "USWR40302013"
+  },
+  {
+    "title": "Zinesdjou merghdem",
+    "artist": "Mohamed Ag Itlal",
+    "isrc": "GBGRJ1700208"
+  },
+  {
+    "title": "Tebadé",
+    "artist": "Moussa Bilalan Ag Ganta",
+    "isrc": "GBGRJ1700241"
+  },
+  {
+    "title": "Imuhar",
+    "artist": "Omar Moctar",
+    "isrc": "GBGRJ1700209"
+  },
+  {
+    "title": "Super 11 - Live",
+    "artist": "Takamba Super Onze",
+    "isrc": "USWR40302001"
+  },
+  {
+    "title": "Alilagh iridjwane",
+    "artist": "Tamkilwate",
+    "isrc": "GBGRJ1700246"
+  },
+  {
+    "title": "Issalalkas",
+    "artist": "Tarbiyat",
+    "isrc": "GBGRJ1700238"
+  },
+  {
+    "title": "Ariyalan - Live",
+    "artist": "Tidawt",
+    "isrc": "USWR40302011"
+  },
+  {
+    "title": "Wana - Live",
+    "artist": "Tindé",
+    "isrc": "USWR40302015"
+  },
+  {
+    "title": "Idinet",
+    "artist": "Atri N'Assouf",
+    "isrc": "FR6V80775246"
+  },
+  {
+    "title": "Porry",
+    "artist": "Sorry Bamba",
+    "isrc": "USLB10210715"
+  },
+  {
+    "title": "Sanehmentereng",
+    "artist": "Guelewar",
+    "isrc": "FR6V80592073"
+  },
+  {
+    "title": "Mogoya",
+    "artist": "Donso",
+    "isrc": "FRU191000267"
+  },
+  {
+    "title": "Kuni Majagani",
+    "artist": "Group Inerane",
+    "isrc": "QMQQH1200040"
+  },
+  {
+    "title": "Hamdawa, pt. 1",
+    "artist": "Hamdawa",
+    "isrc": "MAA051200120"
+  },
+  {
+    "title": "Moribiyassa",
+    "artist": "Kaba Blon",
+    "isrc": "USA2P1653543"
+  },
+  {
+    "title": "Amancam' Ncamu",
+    "artist": "Odadewethu",
+    "isrc": "USA2P1352291"
+  },
+  {
+    "title": "Comanchero (The Final) - The Final Edit",
+    "artist": "Tuareg, Raggio Di Luna",
+    "isrc": "DEZ170400253"
+  },
+  {
+    "title": "Tuareg Minstrels at Timbuktu with Two Lutes",
+    "artist": "Tuareg musicians",
+    "isrc": "USSF17269424"
+  },
+  {
+    "title": "Ichichila",
+    "artist": "Tartit",
+    "isrc": "DEU241124303"
+  },
+  {
+    "title": "Alghalem",
+    "artist": "Terakaft",
+    "isrc": "FR78Z1000001"
+  },
+  {
+    "title": "Nànnuflày",
+    "artist": "Tinariwen",
+    "isrc": "FRPH71600017"
+  },
+  {
+    "title": "Jama ko",
+    "artist": "Bassekou Kouyate",
+    "isrc": "DECQ11302101"
+  },
+  {
+    "title": "Icheraid Azaman",
+    "artist": "Etran Finatawa",
+    "isrc": "GBDTM1371003"
+  },
+  {
+    "title": "Ruby",
+    "artist": "Ali Farka Touré, Toumani Diabaté",
+    "isrc": "GBBGU0983001"
+  },
+  {
+    "title": "Tisnant an Chatma",
+    "artist": "Tamikrest",
+    "isrc": "DEE351311474"
+  },
+  {
+    "title": "Salaman",
+    "artist": "Toumani Diabaté, Ballaké Sissoko",
+    "isrc": "USRY20411315"
+  },
+  {
+    "title": "Ali Farka",
+    "artist": "Afel Bocoum, Alkibar",
+    "isrc": "BEW090601701"
+  },
+  {
+    "title": "Albala",
+    "artist": "Samba Touré",
+    "isrc": "DEE351311404"
+  },
+  {
+    "title": "Golf",
+    "artist": "Koudede",
+    "isrc": "FR6V81502352"
+  },
+  {
+    "title": "Mélodie Blues",
+    "artist": "Lobi Traoré",
+    "isrc": "DEE351010744"
+  },
+  {
+    "title": "Bèrèbèrè",
+    "artist": "Idrissa Soumaoro, Ali Farka Touré",
+    "isrc": "GBNRN1890007"
+  },
+  {
+    "title": "Amidinine",
+    "artist": "Bombino",
+    "isrc": "USNO11300001"
+  },
+  {
+    "title": "Tin Hinane",
+    "artist": "Kel Assouf",
+    "isrc": "BEZ251022303"
+  },
+  {
+    "title": "Toroya",
+    "artist": "Issa Bagayogo",
+    "isrc": "US6DR0100277"
+  },
+  {
+    "title": "Blonda Yirini",
+    "artist": "Nahawa Doumbia",
+    "isrc": "QMUGB2003901"
+  },
+  {
+    "title": "Nterini - A COLORS SHOW",
+    "artist": "Fatoumata Diawara",
+    "isrc": "DEXC81900063"
+  },
+  {
+    "title": "Tallyatidagh",
+    "artist": "Toumast",
+    "isrc": "FRW460600260"
+  },
+  {
+    "title": "Laban Djoro",
+    "artist": "Kassé-Mady Diabaté",
+    "isrc": "GBNRN0602503"
+  },
+  {
+    "title": "Asalam",
+    "artist": "Alhousseini Anivolla, Girum Mezmur",
+    "isrc": "DEL122007003"
+  },
+  {
+    "title": "Tandina",
+    "artist": "Khaira Arby",
+    "isrc": "QMPGD1500009"
+  },
+  {
+    "title": "Annabi",
+    "artist": "Majid Bekkas, Goran Kajfes, Jesper Nordenstrom, Stefan Pasborg",
+    "isrc": "DEA892000035"
+  },
+  {
+    "title": "Bouyel",
+    "artist": "Baaba Maal",
+    "isrc": "GBAAN0080083"
+  },
+  {
+    "title": "Maman",
+    "artist": "N'Gou Bagayoko",
+    "isrc": "FR6V80200770"
+  },
+  {
+    "title": "Imouhar",
+    "artist": "Mdou Moctar",
+    "isrc": "USMTD2300408"
+  },
+  {
+    "title": "Sonte saramala",
+    "artist": "Ramata Diakité",
+    "isrc": "QMDA61407900"
+  },
+  {
+    "title": "Thingalene",
+    "artist": "Abdallah Oumbadougou",
+    "isrc": "QZDZE1905304"
+  },
+  {
+    "title": "Gnangnini",
+    "artist": "Sékouba Bambino",
+    "isrc": "GBNRN1790533"
+  },
+  {
+    "title": "Koumbani",
+    "artist": "Daraa Tribes",
+    "isrc": "FR9W11807458"
+  },
+  {
+    "title": "Waino Blues",
+    "artist": "Daby Balde",
+    "isrc": "GBDTM0500405"
+  },
+  {
+    "title": "Majrad Ajen",
+    "artist": "Amanar",
+    "isrc": "USA2P1653457"
+  },
+  {
+    "title": "Anchar",
+    "artist": "Ibrahim Djo Experience",
+    "isrc": "GBGRJ1700236"
+  },
+  {
+    "title": "Palea",
+    "artist": "Dobet Gnahoré",
+    "isrc": "USGFC0704611"
+  },
+  {
+    "title": "Gagner l'argent français (Radio Edit)",
+    "artist": "Mamani Keïta",
+    "isrc": "FR2W61100002"
+  },
+  {
+    "title": "Riwaya",
+    "artist": "Tikoubaouine, El Dey",
+    "isrc": "DZA0F2000402"
+  },
+  {
+    "title": "Sigham Olinw",
+    "artist": "TASUTA N-IMAL",
+    "isrc": "TCAEO1916403"
+  },
+  {
+    "title": "Tamiditin",
+    "artist": "Tadalat",
+    "isrc": "GBGRJ1700220"
+  },
+  {
+    "title": "Africa",
+    "artist": "Adama Yalomba",
+    "isrc": "FR6V82427000"
+  },
+  {
+    "title": "Djedahi idji saman",
+    "artist": "Hasso Akotey",
+    "isrc": "GBGRJ1700206"
+  },
+  {
+    "title": "Fais moi confiance",
+    "artist": "Sidiki Diabaté",
+    "isrc": "FR0Z50027186"
+  },
+  {
+    "title": "Taddaza",
+    "artist": "Liya Ag Ablil, Mathias Vaguenez, Yamina Nid El Mourid, Nadia Nid El Mourid, Abdallah Ag Ahmed, Sanou Ag Ahmed",
+    "isrc": "FRZ141136110"
+  },
+  {
+    "title": "Groupe Adagh - Live",
+    "artist": "Azawad",
+    "isrc": "GBGRJ1700180"
+  },
+  {
+    "title": "Malloumi",
+    "artist": "Mamane Barka",
+    "isrc": "GBDTM0901410"
+  },
+  {
+    "title": "Almany Bocoum",
+    "artist": "Mansour Seck",
+    "isrc": "GBNRN0606101"
+  },
+  {
+    "title": "Tassaloft",
+    "artist": "Touareg de Fewet",
+    "isrc": "FR6V80505251"
+  },
+  {
+    "title": "Plegaria",
+    "artist": "Nayim Alal",
+    "isrc": "ES5899813403"
+  },
+  {
+    "title": "Ni Zani Mana",
+    "artist": "Zani Diabaté, Les Héritiers",
+    "isrc": "GBNRN1211304"
+  },
+  {
+    "title": "Ma'Bud Allah",
+    "artist": "Hassan Hakmoun, Adam Rudolph",
+    "isrc": "USFF29157104"
+  },
+  {
+    "title": "Falahou",
+    "artist": "Zoumana Téréta",
+    "isrc": "QMBZ91303994"
+  },
+  {
+    "title": "Bon koum",
+    "artist": "Sidi Touré, Dourra Cissé",
+    "isrc": "USTJ21125601"
+  },
+  {
+    "title": "Moziki",
+    "artist": "Staff Benda Bilili",
+    "isrc": "BE6F50802300"
+  },
+  {
+    "title": "Aïtma",
+    "artist": "Tartit",
+    "isrc": "DEU241124300"
+  },
+  {
+    "title": "Rastaman Aridal",
+    "artist": "Terakaft",
+    "isrc": "FR78Z0700003"
+  },
+  {
+    "title": "Sastanàqqàm",
+    "artist": "Tinariwen",
+    "isrc": "FRPH71600008"
+  },
+  {
+    "title": "The River Tune",
+    "artist": "Bassekou Kouyate, Ngoni ba",
+    "isrc": "DECQ10700706"
+  },
+  {
+    "title": "Tiguedimma",
+    "artist": "Etran Finatawa",
+    "isrc": "GBGRJ1700210"
+  },
+  {
+    "title": "Toumast anlet",
+    "artist": "Tamikrest",
+    "isrc": "DEE351311480"
+  },
+  {
+    "title": "Bonde - with Ry Cooder",
+    "artist": "Ali Farka Touré, Ry Cooder",
+    "isrc": "GBBGU0640001"
+  },
+  {
+    "title": "Bafoulabe",
+    "artist": "Toumani Diabaté, Ballaké Sissoko",
+    "isrc": "USRY20411316"
+  },
+  {
+    "title": "Mali Men",
+    "artist": "Afel Bocoum, Alkibar",
+    "isrc": "BEW090902301"
+  },
+  {
+    "title": "Be Ki Don",
+    "artist": "Samba Touré",
+    "isrc": "DEE351311399"
+  },
+  {
+    "title": "Taghlamt",
+    "artist": "Koudede",
+    "isrc": "FR6V81502351"
+  },
+  {
+    "title": "A'n' Deme n'kungo La",
+    "artist": "Lobi Traoré",
+    "isrc": "TCABM1312148"
+  },
+  {
+    "title": "Tilénén ya",
+    "artist": "Idrissa Soumaoro",
+    "isrc": "GBNRN1890011"
+  },
+  {
+    "title": "Imuhar",
+    "artist": "Bombino",
+    "isrc": "USNO11300003"
+  },
+  {
+    "title": "Afrik",
+    "artist": "Kel Assouf",
+    "isrc": "BEZ251022307"
+  },
+  {
+    "title": "Saye Mogo Bana",
+    "artist": "Issa Bagayogo",
+    "isrc": "US6DR0100278"
+  },
+  {
+    "title": "Kungo Sogoni",
+    "artist": "Nahawa Doumbia",
+    "isrc": "QMUGB1189702"
+  },
+  {
+    "title": "Innulamane",
+    "artist": "Toumast",
+    "isrc": "FRW460600270"
+  },
+  {
+    "title": "Sonkolon",
+    "artist": "Fatoumata Diawara",
+    "isrc": "GBBGU1186004"
+  },
+  {
+    "title": "Sinanon Saran",
+    "artist": "Kassé-Mady Diabaté",
+    "isrc": "FRUM70801080"
+  },
+  {
+    "title": "Tamiditin",
+    "artist": "Alhousseini Anivolla",
+    "isrc": "GBDTM1267008"
+  },
+  {
+    "title": "Al Jama'a Bisimillah",
+    "artist": "Khaira Arby",
+    "isrc": "QMPGD1500001"
+  },
+  {
+    "title": "Mrahba",
+    "artist": "Majid Bekkas, Rachid Zeroual, Khalid Kouhen, Paolo Radoni, Marc Lelangue",
+    "isrc": "BEZ250116302"
+  },
+  {
+    "title": "Freak Out",
+    "artist": "Baaba Maal, The Very Best",
+    "isrc": "GBX722200540"
+  },
+  {
+    "title": "Yaga",
+    "artist": "N'Gou Bagayoko",
+    "isrc": "FR6V80200762"
+  },
+  {
+    "title": "Takoba",
+    "artist": "Mdou Moctar",
+    "isrc": "USMTD2300409"
+  },
+  {
+    "title": "Noumouya",
+    "artist": "Ramata Diakité",
+    "isrc": "FR3GQ1129660"
+  }
+]

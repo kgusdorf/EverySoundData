@@ -1,0 +1,757 @@
+[
+  {
+    "title": "Hammersmith Palais",
+    "artist": "Demolition 23",
+    "isrc": "QMFMF2102071"
+  },
+  {
+    "title": "Brown Eyed Girl",
+    "artist": "Shooting Gallery",
+    "isrc": "FIWMA0800179"
+  },
+  {
+    "title": "How Come It Never Rains",
+    "artist": "The Dogs D'Amour",
+    "isrc": "GBAHS0401148"
+  },
+  {
+    "title": "Hot Girls",
+    "artist": "The Cherry Bombz",
+    "isrc": "FIFMF1234071"
+  },
+  {
+    "title": "So Alone",
+    "artist": "Soho Roses",
+    "isrc": "USA2B0770611"
+  },
+  {
+    "title": "Sweet Pretending",
+    "artist": "The Suicide Twins",
+    "isrc": "FIFMF1233983"
+  },
+  {
+    "title": "Dead, Jail Or Rock 'N' Roll",
+    "artist": "Michael Monroe",
+    "isrc": "USUM71012609"
+  },
+  {
+    "title": "Stay with Me",
+    "artist": "The Dictators",
+    "isrc": "USEE10240571"
+  },
+  {
+    "title": "No Way Out",
+    "artist": "D Generation",
+    "isrc": "USSM19600703"
+  },
+  {
+    "title": "Don't Wanna Dance",
+    "artist": "Trash Brats",
+    "isrc": "USY252033825"
+  },
+  {
+    "title": "Come Down Sister",
+    "artist": "The Throbs",
+    "isrc": "ushm90654852"
+  },
+  {
+    "title": "You Can't Put Your Arms Round a Memory",
+    "artist": "Johnny Thunders",
+    "isrc": "USWB10002358"
+  },
+  {
+    "title": "1975",
+    "artist": "Biters",
+    "isrc": "GBBPB1505240"
+  },
+  {
+    "title": "Inner Planet Love",
+    "artist": "Fallen Angels",
+    "isrc": "GBCST8432301"
+  },
+  {
+    "title": "You Oughtta' Know By Now",
+    "artist": "The Heart Attacks",
+    "isrc": "USHEL0607107"
+  },
+  {
+    "title": "Pill Box",
+    "artist": "The Joneses",
+    "isrc": "USA2B0856001"
+  },
+  {
+    "title": "Main Muscle",
+    "artist": "RMBLR",
+    "isrc": "ushm22102896"
+  },
+  {
+    "title": "Iona",
+    "artist": "The Ghosts of Lovers",
+    "isrc": "GB2W59000021"
+  },
+  {
+    "title": "Contraband",
+    "artist": "WYLDLIFE",
+    "isrc": "QMFMG1540138"
+  },
+  {
+    "title": "Up Around the Bend",
+    "artist": "Hanoi Rocks",
+    "isrc": "GBBBN0009207"
+  },
+  {
+    "title": "Seventeen",
+    "artist": "The CRY!",
+    "isrc": "QMBNQ1400014"
+  },
+  {
+    "title": "Personality Crisis",
+    "artist": "New York Dolls",
+    "isrc": "USPR37300026"
+  },
+  {
+    "title": "Which of the Two of Us Is Gonna Burn This House Down?",
+    "artist": "The Star Spangles",
+    "isrc": "uscgj1860639"
+  },
+  {
+    "title": "Dancing with Myself",
+    "artist": "Generation X",
+    "isrc": "GBAYK8100135"
+  },
+  {
+    "title": "Where Have All The Bootboys Gone?",
+    "artist": "Slaughter & The Dogs",
+    "isrc": "US54H0312677"
+  },
+  {
+    "title": "Number 10",
+    "artist": "Giuda",
+    "isrc": "GBSMU4891694"
+  },
+  {
+    "title": "Minus Celsius",
+    "artist": "Backyard Babies",
+    "isrc": "SEBMC0378010"
+  },
+  {
+    "title": "I Don't Need You",
+    "artist": "The Hip Priests",
+    "isrc": "QZHNC2455437"
+  },
+  {
+    "title": "I'm A Rat",
+    "artist": "Towers Of London",
+    "isrc": "USTV10600028"
+  },
+  {
+    "title": "Mutate With Me",
+    "artist": "The Humpers",
+    "isrc": "USEP40321204"
+  },
+  {
+    "title": "Another Day in the Life",
+    "artist": "Toilet Boys",
+    "isrc": "TCACM1607269"
+  },
+  {
+    "title": "Paint It Black",
+    "artist": "Smack",
+    "isrc": "FIZGN9700062"
+  },
+  {
+    "title": "You Can't Give Me Anything",
+    "artist": "The Chelsea Smiles, Todd Youth / Danzig, D-Generation",
+    "isrc": "US52Z0610019"
+  },
+  {
+    "title": "(I'm) Looking for a Heart",
+    "artist": "Terry & Louie",
+    "isrc": "TCADT1848869"
+  },
+  {
+    "title": "Fuck Off",
+    "artist": "Wayne County & The Electric Chairs",
+    "isrc": "GBXPL8230103"
+  },
+  {
+    "title": "Fun City",
+    "artist": "Tuff Darts",
+    "isrc": "USWB10200643"
+  },
+  {
+    "title": "Ronnie Is an Idiot",
+    "artist": "The Orphan Punks",
+    "isrc": "usdy41889709"
+  },
+  {
+    "title": "All My Friends Are Dead",
+    "artist": "Turbonegro",
+    "isrc": "SEVHC0502020"
+  },
+  {
+    "title": "House of Pain",
+    "artist": "Faster Pussycat",
+    "isrc": "USEE10140194"
+  },
+  {
+    "title": "Saigon",
+    "artist": "London Cowboys",
+    "isrc": "GBCST0994906"
+  },
+  {
+    "title": "I Love Rock 'N Roll",
+    "artist": "Joan Jett & the Blackhearts",
+    "isrc": "USBH18100118"
+  },
+  {
+    "title": "Linda Blair",
+    "artist": "Redd Kross",
+    "isrc": "USMRG2383501"
+  },
+  {
+    "title": "Take It Off",
+    "artist": "The Donnas",
+    "isrc": "USAT20202117"
+  },
+  {
+    "title": "Cruel Summer",
+    "artist": "Prima Donna",
+    "isrc": "QM6N21968366"
+  },
+  {
+    "title": "I Don't Ride Bitch",
+    "artist": "Motochrist",
+    "isrc": "QM9AA1505771"
+  },
+  {
+    "title": "She's A Loner",
+    "artist": "The Tough Shits",
+    "isrc": "QZNWS2025340"
+  },
+  {
+    "title": "If You Don't Want To Fuck (F*** Off)",
+    "artist": "Jayne County",
+    "isrc": "NL2XW1900076"
+  },
+  {
+    "title": "Fire It Up",
+    "artist": "Road Vultures",
+    "isrc": "USY250924124"
+  },
+  {
+    "title": "Crimes",
+    "artist": "Indonesian Junk",
+    "isrc": "QM4DW1502561"
+  },
+  {
+    "title": "Rocket Girl - Remaster 2020",
+    "artist": "Space Age Playboys",
+    "isrc": "QM6N22074561"
+  },
+  {
+    "title": "Drive Me Wild",
+    "artist": "Richmond Sluts",
+    "isrc": "ushm21603798"
+  },
+  {
+    "title": "Do The Zombie",
+    "artist": "The Eyeliners",
+    "isrc": "USTCF1067516"
+  },
+  {
+    "title": "St Pauli",
+    "artist": "The Sick Livers",
+    "isrc": "GBZYC0900049"
+  },
+  {
+    "title": "The Game",
+    "artist": "Starbenders",
+    "isrc": "USYFZ2326501"
+  },
+  {
+    "title": "Yeah! You Bother Me",
+    "artist": "Leaded Fuel",
+    "isrc": "uscgj0803995"
+  },
+  {
+    "title": "The Devil Made Me Do It",
+    "artist": "Wednesday 13's Frankenstein Drag Queens From Planet 13",
+    "isrc": "USRY20517917"
+  },
+  {
+    "title": "Teenage War",
+    "artist": "Flash Bastard",
+    "isrc": "QMW721100003"
+  },
+  {
+    "title": "Have Love Will Travel",
+    "artist": "Crazyhead",
+    "isrc": "GBAYF8800001"
+  },
+  {
+    "title": "Back Of My Hand",
+    "artist": "Danny Frye & The Devildolls",
+    "isrc": "ushm80321159"
+  },
+  {
+    "title": "As Long as I Got a Face",
+    "artist": "Eat Lipstick",
+    "isrc": "ushm91974217"
+  },
+  {
+    "title": "TYRE CHANGE MADE EASY",
+    "artist": "Garden Gang",
+    "isrc": "QM6MZ2440730"
+  },
+  {
+    "title": "Death to Disco",
+    "artist": "Jimi Lalumia & The Psychotic Frogs",
+    "isrc": "GBCST1752117"
+  },
+  {
+    "title": "On the Run",
+    "artist": "Jimmy B and the Death Rattles, Nick Bowman",
+    "isrc": "QMDA72229959"
+  },
+  {
+    "title": "Jill Was an Anarchist",
+    "artist": "Ming City Rockers",
+    "isrc": "usl4r2202831"
+  },
+  {
+    "title": "Natural Disaster",
+    "artist": "Mother Feather",
+    "isrc": "USMBR1511595"
+  },
+  {
+    "title": "Do Ya Wanna Be In My Gang?",
+    "artist": "Petty Youth",
+    "isrc": "GBLFP1669172"
+  },
+  {
+    "title": "The Leather, the Loneliness... - And Your Dark Eyes",
+    "artist": "René Berg",
+    "isrc": "GBDGN0900033"
+  },
+  {
+    "title": "Candyfloss Girl",
+    "artist": "Sparkling Bombs",
+    "isrc": "uscgj0527217"
+  },
+  {
+    "title": "I Don't Want To Change The World - Squad Five-0 Album Version",
+    "artist": "Squad Five-O",
+    "isrc": "USTN10115636"
+  },
+  {
+    "title": "One Hit Wonder",
+    "artist": "Texas Terri",
+    "isrc": "usx9p0671310"
+  },
+  {
+    "title": "Black Strawberry",
+    "artist": "The Mystery Addicts",
+    "isrc": "ushm20788462"
+  },
+  {
+    "title": "My Evil Girlfriend",
+    "artist": "The Traceelords",
+    "isrc": "DEZ900600476"
+  },
+  {
+    "title": "Hot For Teacher!",
+    "artist": "Thundertrain",
+    "isrc": "ushm80337797"
+  },
+  {
+    "title": "Fight for Yourself",
+    "artist": "Zex",
+    "isrc": "ushm91428312"
+  },
+  {
+    "title": "Nothin's Alright",
+    "artist": "Demolition 23",
+    "isrc": "QMFMF2102070"
+  },
+  {
+    "title": "Don't Never Leave Me",
+    "artist": "Shooting Gallery",
+    "isrc": "FIWMA0800174"
+  },
+  {
+    "title": "Drunk Like Me",
+    "artist": "The Dogs D'Amour",
+    "isrc": "GBAHS0401141"
+  },
+  {
+    "title": "House of Ecstasy",
+    "artist": "The Cherry Bombz",
+    "isrc": "FIFMF1234075"
+  },
+  {
+    "title": "Why D'ya Break My Heart",
+    "artist": "Soho Roses",
+    "isrc": "USA2B0770602"
+  },
+  {
+    "title": "Silver Missiles and Nightingales",
+    "artist": "The Suicide Twins",
+    "isrc": "FIFMF1234081"
+  },
+  {
+    "title": "Ballad Of The Lower East Side",
+    "artist": "Michael Monroe",
+    "isrc": "FIUM71300249"
+  },
+  {
+    "title": "California Sun",
+    "artist": "The Dictators",
+    "isrc": "USA560738272"
+  },
+  {
+    "title": "Helpless",
+    "artist": "D Generation",
+    "isrc": "USSM19802187"
+  },
+  {
+    "title": "Someday's Too Late",
+    "artist": "Trash Brats",
+    "isrc": "USY252033833"
+  },
+  {
+    "title": "Underground",
+    "artist": "The Throbs",
+    "isrc": "ushm90654851"
+  },
+  {
+    "title": "Great Big Kiss",
+    "artist": "Johnny Thunders",
+    "isrc": "USWB10002359"
+  },
+  {
+    "title": "Hang Around",
+    "artist": "Biters",
+    "isrc": "TCACM1696718"
+  },
+  {
+    "title": "Amphetamine Blue - 7\" version",
+    "artist": "Fallen Angels",
+    "isrc": "GBCST8432306"
+  },
+  {
+    "title": "Widowmaking",
+    "artist": "The Heart Attacks",
+    "isrc": "USHEL0607106"
+  },
+  {
+    "title": "Criminals",
+    "artist": "The Joneses",
+    "isrc": "USA2B0856003"
+  },
+  {
+    "title": "Name Game",
+    "artist": "RMBLR",
+    "isrc": "USFP71660602"
+  },
+  {
+    "title": "Tonight",
+    "artist": "The Ghosts of Lovers",
+    "isrc": "GB2W59000020"
+  },
+  {
+    "title": "Deadbeat",
+    "artist": "WYLDLIFE",
+    "isrc": "QMFMG1540136"
+  },
+  {
+    "title": "Don't You Ever Leave Me",
+    "artist": "Hanoi Rocks",
+    "isrc": "GBBBN0009534"
+  },
+  {
+    "title": "Shakin",
+    "artist": "The CRY!",
+    "isrc": "QMBNQ1400020"
+  },
+  {
+    "title": "I Live for Speed",
+    "artist": "The Star Spangles",
+    "isrc": "uscgj1860638"
+  },
+  {
+    "title": "Trash",
+    "artist": "New York Dolls",
+    "isrc": "USPR37300025"
+  },
+  {
+    "title": "Situations",
+    "artist": "Slaughter & The Dogs",
+    "isrc": "QM6XS1805801"
+  },
+  {
+    "title": "Roll On",
+    "artist": "Giuda",
+    "isrc": "GBSMU4891703"
+  },
+  {
+    "title": "Th1Rt3En Or Nothing",
+    "artist": "Backyard Babies",
+    "isrc": "SEVWR1500901"
+  },
+  {
+    "title": "Kiss Me Deadly - 2002 Remaster",
+    "artist": "Generation X",
+    "isrc": "GBAYK0200105"
+  },
+  {
+    "title": "Nadir Love",
+    "artist": "The Hip Priests",
+    "isrc": "QZHNC2455438"
+  },
+  {
+    "title": "Air Guitar",
+    "artist": "Towers Of London",
+    "isrc": "USTV10600026"
+  },
+  {
+    "title": "Steel-Toed Sneakers",
+    "artist": "The Humpers",
+    "isrc": "USEP40321301"
+  },
+  {
+    "title": "Party Starts Now",
+    "artist": "Toilet Boys",
+    "isrc": "TCACM1607227"
+  },
+  {
+    "title": "Run Rabbit Run",
+    "artist": "Smack",
+    "isrc": "FIZGN9700035"
+  },
+  {
+    "title": "Heart Attack",
+    "artist": "The Chelsea Smiles, Todd Youth / Danzig, D-Generation",
+    "isrc": "US52Z0610014"
+  },
+  {
+    "title": "(I'm) Lookin' for a Heart",
+    "artist": "Terry & Louie",
+    "isrc": "TCABZ1456301"
+  },
+  {
+    "title": "Max's Kansas City",
+    "artist": "Wayne County & The Electric Chairs",
+    "isrc": "GBXPL8230108"
+  },
+  {
+    "title": "All for the Love of Rock 'N Roll",
+    "artist": "Tuff Darts",
+    "isrc": "USWB10200644"
+  },
+  {
+    "title": "Pogo a Gogo",
+    "artist": "The Orphan Punks",
+    "isrc": "usdy41889705"
+  },
+  {
+    "title": "The Age Of Pamparius",
+    "artist": "Turbonegro",
+    "isrc": "DEF929972001"
+  },
+  {
+    "title": "Hook Line and Sinker",
+    "artist": "London Cowboys",
+    "isrc": "GBCST0829402"
+  },
+  {
+    "title": "Bathroom Wall",
+    "artist": "Faster Pussycat",
+    "isrc": "USEE10000461"
+  },
+  {
+    "title": "Candy Coloured Catastrophe",
+    "artist": "Redd Kross",
+    "isrc": "USA3D2440001"
+  },
+  {
+    "title": "Dancing with Myself - Single Version",
+    "artist": "The Donnas",
+    "isrc": "USAT20400850"
+  },
+  {
+    "title": "Bad Reputation",
+    "artist": "Joan Jett & the Blackhearts",
+    "isrc": "USBH18000101"
+  },
+  {
+    "title": "Atomic Love",
+    "artist": "Prima Donna",
+    "isrc": "QM4TW2152126"
+  },
+  {
+    "title": "Holiday",
+    "artist": "Motochrist",
+    "isrc": "US4EL0310121"
+  },
+  {
+    "title": "Burning In Paradise",
+    "artist": "The Tough Shits",
+    "isrc": "QZNWS2025388"
+  },
+  {
+    "title": "I Don't Fit in Anywhere",
+    "artist": "Jayne County, Am Taylor",
+    "isrc": "QM6XS2002132"
+  },
+  {
+    "title": "Leslie",
+    "artist": "Road Vultures",
+    "isrc": "USY250924127"
+  },
+  {
+    "title": "Mean Christine",
+    "artist": "Indonesian Junk",
+    "isrc": "QZFZ71918395"
+  },
+  {
+    "title": "Buzz On - Remaster 2020",
+    "artist": "Space Age Playboys",
+    "isrc": "QM6N22074559"
+  },
+  {
+    "title": "Sad City",
+    "artist": "Richmond Sluts",
+    "isrc": "ushm21603802"
+  },
+  {
+    "title": "You Crucified Me",
+    "artist": "Demolition 23",
+    "isrc": "QMFMF2102076"
+  },
+  {
+    "title": "Restless",
+    "artist": "Shooting Gallery",
+    "isrc": "FIWMA0800171"
+  },
+  {
+    "title": "I Don't Want You to Go",
+    "artist": "The Dogs D'Amour",
+    "isrc": "GBAHS0401159"
+  },
+  {
+    "title": "100 Degrees in the Shade",
+    "artist": "The Cherry Bombz",
+    "isrc": "FIFMF1234072"
+  },
+  {
+    "title": "I Want You",
+    "artist": "Soho Roses",
+    "isrc": "USA2B0770608"
+  },
+  {
+    "title": "Countrified Inner City Blues",
+    "artist": "The Suicide Twins",
+    "isrc": "FIFMF1234083"
+  },
+  {
+    "title": "Last Train To Tokyo",
+    "artist": "Michael Monroe",
+    "isrc": "UKKY81900169"
+  },
+  {
+    "title": "Who Will Save Rock And Roll?",
+    "artist": "The Dictators",
+    "isrc": "USA560738315"
+  },
+  {
+    "title": "Capital Offender",
+    "artist": "D Generation",
+    "isrc": "USSM19600702"
+  },
+  {
+    "title": "Time Don'T Wanna Tell",
+    "artist": "Trash Brats",
+    "isrc": "USY250915030"
+  },
+  {
+    "title": "It's Not The End Of The World",
+    "artist": "The Throbs",
+    "isrc": "ushm90654853"
+  },
+  {
+    "title": "Pipeline",
+    "artist": "Johnny Thunders",
+    "isrc": "USWB10002357"
+  },
+  {
+    "title": "Breakin' your Heart Again",
+    "artist": "Biters",
+    "isrc": "TCACM1696976"
+  },
+  {
+    "title": "Black & White World",
+    "artist": "Fallen Angels",
+    "isrc": "GBCST8432302"
+  },
+  {
+    "title": "Tearstained Letters",
+    "artist": "The Heart Attacks, Joan Jett & the Blackhearts",
+    "isrc": "USHEL0607110"
+  },
+  {
+    "title": "Graveyard Rock",
+    "artist": "The Joneses",
+    "isrc": "USA2B0856002"
+  },
+  {
+    "title": "Machine Gun",
+    "artist": "RMBLR",
+    "isrc": "ushm22195167"
+  },
+  {
+    "title": "Don't Be Afraid",
+    "artist": "The Ghosts of Lovers",
+    "isrc": "GB2W59000022"
+  },
+  {
+    "title": "Deathbed",
+    "artist": "WYLDLIFE",
+    "isrc": "QMFME1940178"
+  },
+  {
+    "title": "11th Street Kids",
+    "artist": "Hanoi Rocks",
+    "isrc": "USQY50824897"
+  },
+  {
+    "title": "Discotheque",
+    "artist": "The CRY!",
+    "isrc": "QMBNQ1400015"
+  },
+  {
+    "title": "Stay Away from Me",
+    "artist": "The Star Spangles",
+    "isrc": "uscgj1860642"
+  },
+  {
+    "title": "Looking For A Kiss",
+    "artist": "New York Dolls",
+    "isrc": "USPR37300040"
+  },
+  {
+    "title": "Cranked up Really High",
+    "artist": "Slaughter & The Dogs",
+    "isrc": "QMDA61405822"
+  },
+  {
+    "title": "Wild Tiger Woman",
+    "artist": "Giuda",
+    "isrc": "GB-SMU-15-01541"
+  },
+  {
+    "title": "Good Morning Midnight",
+    "artist": "Backyard Babies",
+    "isrc": "GBDHC1804002"
+  }
+]

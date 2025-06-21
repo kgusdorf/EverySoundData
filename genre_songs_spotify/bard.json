@@ -1,0 +1,922 @@
+[
+  {
+    "title": "Бери шинель, пошли домой (Из к/ф \"От зари до зари\")",
+    "artist": "Bulat Okudzhava",
+    "isrc": "UK2Y21313563"
+  },
+  {
+    "title": "Pesnja poljarnykh ljotchikov",
+    "artist": "Aleksandеr Gorodnitsky",
+    "isrc": "FR10S1650892"
+  },
+  {
+    "title": "Za tumanom",
+    "artist": "Juriy Kukin",
+    "isrc": "FR10S1560052"
+  },
+  {
+    "title": "Никого не будет в доме",
+    "artist": "Sergey Nikitin",
+    "isrc": "RUA0G1900239"
+  },
+  {
+    "title": "Милая моя",
+    "artist": "Yuri Vizbor",
+    "isrc": "TCAFC2087933"
+  },
+  {
+    "title": "Mokryy val's",
+    "artist": "Evgeniy Kljachkin",
+    "isrc": "FRX871535993"
+  },
+  {
+    "title": "С добрым утром, любимая",
+    "artist": "Oleg Mityaev, Konstantin Tarasov",
+    "isrc": "FRX281559671"
+  },
+  {
+    "title": "Chjornoe more",
+    "artist": "Juliy Kim",
+    "isrc": "FR10S1585269"
+  },
+  {
+    "title": "Na kraeshke leta",
+    "artist": "Aleksandr Dulov",
+    "isrc": "FRX871578647"
+  },
+  {
+    "title": "Na daljokoy Amazonke",
+    "artist": "Viktor Berkovskiy",
+    "isrc": "FR10S1584962"
+  },
+  {
+    "title": "Звёзды сошли с небес...",
+    "artist": "Nikolai Karachentsov",
+    "isrc": "GBLPF0039224"
+  },
+  {
+    "title": "Формула",
+    "artist": "Veronika Dolina",
+    "isrc": "USDJJ1404067"
+  },
+  {
+    "title": "Зеленая карета",
+    "artist": "Elena Kamburova",
+    "isrc": "RUA0G1600275"
+  },
+  {
+    "title": "Вальс-бостон",
+    "artist": "Alexander Rosenbaum",
+    "isrc": "UK2Y21311033"
+  },
+  {
+    "title": "Nochnoy razgovor v vagone-restorane",
+    "artist": "Aleksandr Galich",
+    "isrc": "FR6V82526558"
+  },
+  {
+    "title": "Перекресток - Из к/ф \"Перекресток\"",
+    "artist": "Andrey Makarevich",
+    "isrc": "FR6V82201151"
+  },
+  {
+    "title": "Семь тысяч над землёй",
+    "artist": "Valeriy Syutkin",
+    "isrc": "RUB731513279"
+  },
+  {
+    "title": "Плот",
+    "artist": "Yuriy Loza",
+    "isrc": "FRX202154584"
+  },
+  {
+    "title": "Мои года - моё богатство",
+    "artist": "Vakhtang Kikabidze",
+    "isrc": "GBLPF0107621"
+  },
+  {
+    "title": "Москва - Одесса",
+    "artist": "Владимир Высоцкий, Инструментальный ансамбль «Мелодия»",
+    "isrc": "UK2Y21304292"
+  },
+  {
+    "title": "Летний дождь",
+    "artist": "Igor Talkov",
+    "isrc": "RUB731523109"
+  },
+  {
+    "title": "Вартан и Джульетта",
+    "artist": "Timur Shaov",
+    "isrc": "FRX282184415"
+  },
+  {
+    "title": "Генералы песчаных карьеров",
+    "artist": "Neschastny Sluchai",
+    "isrc": "QMPU51217162"
+  },
+  {
+    "title": "Золушка",
+    "artist": "Lyudmila Senchina, Анатолий Бадхен, Ленинградский концертный оркестр",
+    "isrc": "RUAAX2001047"
+  },
+  {
+    "title": "Город Сочи",
+    "artist": "Sergey Trofimov",
+    "isrc": "RUZ520001735"
+  },
+  {
+    "title": "Никого не будет в доме",
+    "artist": "Mikael Tariverdiev, Sergey Nikitin",
+    "isrc": "FRX872201295"
+  },
+  {
+    "title": "Баба Яга",
+    "artist": "Alexander Gradsky",
+    "isrc": "FRX872195022"
+  },
+  {
+    "title": "Волки в тире",
+    "artist": "Юрий Шевчук, Dmitriy Emelianov",
+    "isrc": "RUB312308202"
+  },
+  {
+    "title": "Poputnaja pesenka",
+    "artist": "Vladimir Turijanskiy",
+    "isrc": "FR2X41532384"
+  },
+  {
+    "title": "Однажды Мир Прогнется под Нас",
+    "artist": "Mashina Vremeni",
+    "isrc": "FR6V81776698"
+  },
+  {
+    "title": "Ой, да не вечер (Казачья притча)",
+    "artist": "Zhanna Bichevskaya",
+    "isrc": "RUB731542716"
+  },
+  {
+    "title": "Песня про зайцев - А нам всё равно",
+    "artist": "Yuri Nikulin",
+    "isrc": "FR2X41623028"
+  },
+  {
+    "title": "Я Приглашаю Вас В Леса",
+    "artist": "Ада Якушева",
+    "isrc": "TCADA1740461"
+  },
+  {
+    "title": "Никита Рязанский",
+    "artist": "Boris Grebenshikov",
+    "isrc": "FR10S1437469"
+  },
+  {
+    "title": "Серенада Трубадура (Из м/ф \"По следам Бременских музыкантов\")",
+    "artist": "Muslim Magomayev, Oleg Tabakov, Инструментальный ансамбль п/у Константина Кримца",
+    "isrc": "UK2Y21306868"
+  },
+  {
+    "title": "Летел голубь",
+    "artist": "Elena Frolova",
+    "isrc": "RUA1D1922246"
+  },
+  {
+    "title": "Здесь и вместе",
+    "artist": "Ирина Богушевская",
+    "isrc": "FRX871571405"
+  },
+  {
+    "title": "Пить нельзя",
+    "artist": "Semyon Slepakov",
+    "isrc": "RUA1D1613241"
+  },
+  {
+    "title": "Спят усталые игрушки",
+    "artist": "Oleg Anofriyev, Инструментальный ансамбль п/у Бориса Фрумкина",
+    "isrc": "UK2Y21310879"
+  },
+  {
+    "title": "Romashki sprjatalis'",
+    "artist": "Olga Voronets",
+    "isrc": "FR59R1577304"
+  },
+  {
+    "title": "Течет река Волга",
+    "artist": "Lyudmila Zykina",
+    "isrc": "QMFMG1480549"
+  },
+  {
+    "title": "Генералы Гражданской войны",
+    "artist": "Zoya Yashchenko, Belaya Gvardiya",
+    "isrc": "FR2X41633974"
+  },
+  {
+    "title": "Novogodnjaja pesnja (Zolushka)",
+    "artist": "Novella Matveeva",
+    "isrc": "FR2X41532381"
+  },
+  {
+    "title": "Antimescanskaja",
+    "artist": "Mikhail Ancharov",
+    "isrc": "FR10S1560136"
+  },
+  {
+    "title": "Желаю",
+    "artist": "Elena Vaenga",
+    "isrc": "FR6V81484200"
+  },
+  {
+    "title": "Lebedinaja vernost'",
+    "artist": "Eugene Martynov",
+    "isrc": "FR59R1894624"
+  },
+  {
+    "title": "Вокализ",
+    "artist": "Трио Меридиан",
+    "isrc": "UK2Y21602355"
+  },
+  {
+    "title": "Барышня",
+    "artist": "Pavel Kashin",
+    "isrc": "RUB310309907"
+  },
+  {
+    "title": "Уходящему в горы",
+    "artist": "Александр Гейнц и Сергей Данилов",
+    "isrc": "TCABR1300587"
+  },
+  {
+    "title": "Pjatikopeechnaja moneta",
+    "artist": "Alina Mikhaylovskaja",
+    "isrc": "FRX761511044"
+  },
+  {
+    "title": "Dueht dlya skrIPki i al'ta",
+    "artist": "Myshelovka",
+    "isrc": "FRX761507456"
+  },
+  {
+    "title": "Terema",
+    "artist": "Boris Vakhnjuk",
+    "isrc": "FRX871577082"
+  },
+  {
+    "title": "Dym kostra sozdajot ujut",
+    "artist": "Aleksandr Evstigneev",
+    "isrc": "FRX761511043"
+  },
+  {
+    "title": "Ol'ga",
+    "artist": "Aleksandr Jastrebov",
+    "isrc": "FRX761507460"
+  },
+  {
+    "title": "Zelenaja kareta",
+    "artist": "Aleksandr Sukhanov",
+    "isrc": "FRX761507447"
+  },
+  {
+    "title": "Ne paday dukhom!",
+    "artist": "Anatoliy Zagot",
+    "isrc": "FRX871539632"
+  },
+  {
+    "title": "Vsyo lesa, lesa, lesa - Belarusiya",
+    "artist": "Arik Krupp",
+    "isrc": "FRX761511125"
+  },
+  {
+    "title": "Ostan'sya hot' ten'yu",
+    "artist": "Boris Vaykhanskiy",
+    "isrc": "FRX451599179"
+  },
+  {
+    "title": "Posledniy rytsar' na Arbate",
+    "artist": "Evgeniy Agranovich",
+    "isrc": "FRX761511072"
+  },
+  {
+    "title": "Mokryj dekabr'",
+    "artist": "Galina Vaykhanskaja, Boris Vaykhanskiy",
+    "isrc": "FRX761507450"
+  },
+  {
+    "title": "My sideli, skuchali",
+    "artist": "Gennadiy Shpalikov",
+    "isrc": "FRX451599184"
+  },
+  {
+    "title": "Osen'",
+    "artist": "Irina Levinzon",
+    "isrc": "FRX761507449"
+  },
+  {
+    "title": "Sand Ballad",
+    "artist": "Sergey Smirnov",
+    "isrc": "US5UL1538056"
+  },
+  {
+    "title": "Komsomol'skiy prospekt",
+    "artist": "Georgiy Lepskiy",
+    "isrc": "FRX451599079"
+  },
+  {
+    "title": "Uezzhay... Uezzhay. Uezzhay!",
+    "artist": "Igor' Mikhaljov",
+    "isrc": "FRX871539452"
+  },
+  {
+    "title": "On shjol iz Avin'ona",
+    "artist": "Juriy Lores",
+    "isrc": "FRX761511124"
+  },
+  {
+    "title": "Dorogi, kotorye ne vybirajut",
+    "artist": "Redkaja ptitsa",
+    "isrc": "FRX761511054"
+  },
+  {
+    "title": "Esli u vas netu teti",
+    "artist": "Sergey Sterkin",
+    "isrc": "FRX451599118"
+  },
+  {
+    "title": "Chto mne sutulit'sja vozle mosta",
+    "artist": "Aleksandr Nikiforov",
+    "isrc": "FRX451599084"
+  },
+  {
+    "title": "Kronshtadt",
+    "artist": "Aleksandr Scerbina",
+    "isrc": "FRX451599077"
+  },
+  {
+    "title": "Петербургский романс",
+    "artist": "Alexander Galich",
+    "isrc": "FR10S1984243"
+  },
+  {
+    "title": "Vozrascenie Aleksandra Vertinskogo",
+    "artist": "Andrey Korf",
+    "isrc": "FRX451599083"
+  },
+  {
+    "title": "Vniz po Zolotukhe",
+    "artist": "Andrey Kozlovskiy",
+    "isrc": "FRX451599076"
+  },
+  {
+    "title": "Karlson",
+    "artist": "Andrey Pavlov",
+    "isrc": "FRX451599062"
+  },
+  {
+    "title": "Marija",
+    "artist": "Ekaterina Boldyreva",
+    "isrc": "FRX451599078"
+  },
+  {
+    "title": "Solominka",
+    "artist": "Elena Reshetnjak",
+    "isrc": "FRX451599072"
+  },
+  {
+    "title": "Madagaskar",
+    "artist": "Ksenija Polteva",
+    "isrc": "FRX451599064"
+  },
+  {
+    "title": "Biznes dzhet",
+    "artist": "Lev Stepanov",
+    "isrc": "FRX451599068"
+  },
+  {
+    "title": "Soldatiki voyny",
+    "artist": "Nikita Dorofeev",
+    "isrc": "FRX451599067"
+  },
+  {
+    "title": "Igray",
+    "artist": "Pavel Fakhrtdinov",
+    "isrc": "FRX451599066"
+  },
+  {
+    "title": "Ne isci menja, pozhaluysta",
+    "artist": "Vera Matveeva",
+    "isrc": "FRX451599168"
+  },
+  {
+    "title": "Pamjati Kolchaka",
+    "artist": "Zoja Jascenko",
+    "isrc": "FRX451599074"
+  },
+  {
+    "title": "Белые туманы",
+    "artist": "Ярослав Сумишевский",
+    "isrc": "GBLPF0140115"
+  },
+  {
+    "title": "Старый рояль",
+    "artist": "Igor Sklyar, Olga Pirags, Оркестр \"Современник\" п/у Анатолия Кролла",
+    "isrc": "UK2Y21700740"
+  },
+  {
+    "title": "Loneliness",
+    "artist": "Alexander Dolsky",
+    "isrc": "USWMA9016426"
+  },
+  {
+    "title": "Мне оно не нравится",
+    "artist": "Георгий Иващенко",
+    "isrc": "RUB421306242"
+  },
+  {
+    "title": "Бандито, Гангстерито (Из сказки \"Приключения капитана Врунгеля\")",
+    "artist": "Георгий Кишко, Виктор Иваненко, Джаз-ансамбль Киевского театра эстрады",
+    "isrc": "UK2Y21501327"
+  },
+  {
+    "title": "Снег",
+    "artist": "Aleksandеr Gorodnitsky",
+    "isrc": "USDJJ1103422"
+  },
+  {
+    "title": "Beri shinel', poshli domoy",
+    "artist": "Bulat Okudzhava",
+    "isrc": "FR2X41738191"
+  },
+  {
+    "title": "Gorod (Город)",
+    "artist": "Juriy Kukin",
+    "isrc": "USDJJ1101949"
+  },
+  {
+    "title": "Снег идёт",
+    "artist": "Sergey Nikitin",
+    "isrc": "UK2Y21504149"
+  },
+  {
+    "title": "Ты у меня одна",
+    "artist": "Yuri Vizbor",
+    "isrc": "TCACZ1731264"
+  },
+  {
+    "title": "Pskov",
+    "artist": "Evgeniy Kljachkin",
+    "isrc": "FRX871539660"
+  },
+  {
+    "title": "Как здорово",
+    "artist": "Oleg Mityaev",
+    "isrc": "FRX281559850"
+  },
+  {
+    "title": "Na rassvete",
+    "artist": "Juliy Kim",
+    "isrc": "FR10S1560100"
+  },
+  {
+    "title": "Девушка пела в церковном хоре",
+    "artist": "Aleksandr Dulov",
+    "isrc": "UK2Y21701729"
+  },
+  {
+    "title": "Nu chto s togo, chto ja tam byl",
+    "artist": "Viktor Berkovskiy",
+    "isrc": "FR10S1584952"
+  },
+  {
+    "title": "Нет я не плачу. Белеет мой парус",
+    "artist": "Nikolai Karachentsov",
+    "isrc": "GBLPF0052938"
+  },
+  {
+    "title": "Я Сама Себе Открыла",
+    "artist": "Veronika Dolina",
+    "isrc": "USDJJ1404059"
+  },
+  {
+    "title": "Разлука - Из т/с \"Гардемарины, вперёд!\"",
+    "artist": "Elena Kamburova",
+    "isrc": "FR10S1697530"
+  },
+  {
+    "title": "Ау",
+    "artist": "Alexander Rosenbaum",
+    "isrc": "RUB731412481"
+  },
+  {
+    "title": "Kogda ja vernus'",
+    "artist": "Aleksandr Galich",
+    "isrc": "FR10S1560598"
+  },
+  {
+    "title": "В кейптаунском порту",
+    "artist": "Andrey Makarevich, Алексей Козлов",
+    "isrc": "FR6V82201010"
+  },
+  {
+    "title": "Москва-Нева",
+    "artist": "Valeriy Syutkin",
+    "isrc": "RUB731513369"
+  },
+  {
+    "title": "Чито-гврито (Из к/ф \"Мимино\")",
+    "artist": "Vakhtang Kikabidze, Орэра",
+    "isrc": "UK2Y21305050"
+  },
+  {
+    "title": "Сто часов",
+    "artist": "Yuriy Loza",
+    "isrc": "FR10S1645331"
+  },
+  {
+    "title": "Утренняя гимнастика",
+    "artist": "Владимир Высоцкий, Инструментальный ансамбль «Мелодия»",
+    "isrc": "UK2Y21502676"
+  },
+  {
+    "title": "Я вернусь",
+    "artist": "Igor Talkov",
+    "isrc": "RUB731526338"
+  },
+  {
+    "title": "Во глубине",
+    "artist": "Timur Shaov",
+    "isrc": "FRX282184446"
+  },
+  {
+    "title": "Если б не было тебя",
+    "artist": "Neschastny Sluchai",
+    "isrc": "QMPU51217408"
+  },
+  {
+    "title": "Тише, дети спят",
+    "artist": "Lyudmila Senchina, Анатолий Бадхен, Ленинградский концертный оркестр",
+    "isrc": "UK2Y21313387"
+  },
+  {
+    "title": "Я спросил у ясеня, где моя любимая",
+    "artist": "Mikael Tariverdiev, Sergey Nikitin",
+    "isrc": "TCACE1581922"
+  },
+  {
+    "title": "Песня Кащея (Бонус трек)",
+    "artist": "Alexander Gradsky, Инструментальный ансамбль «Мелодия»",
+    "isrc": "UK2Y21701937"
+  },
+  {
+    "title": "Московская песня",
+    "artist": "Sergey Trofimov",
+    "isrc": "RUB731302824"
+  },
+  {
+    "title": "Родина, вернись домой",
+    "artist": "Юрий Шевчук, Dmitriy Emelianov",
+    "isrc": "RUB312308201"
+  },
+  {
+    "title": "Geofizicheskoe tango",
+    "artist": "Vladimir Turijanskiy",
+    "isrc": "FR2X41532391"
+  },
+  {
+    "title": "Мы - русские",
+    "artist": "Zhanna Bichevskaya",
+    "isrc": "QMPU51251985"
+  },
+  {
+    "title": "Она Идет по Жизни, Смеясь",
+    "artist": "Mashina Vremeni",
+    "isrc": "FR6V81782047"
+  },
+  {
+    "title": "Камчатка",
+    "artist": "Ада Якушева",
+    "isrc": "TCADA1740465"
+  },
+  {
+    "title": "Если б я был султан",
+    "artist": "Yuri Nikulin",
+    "isrc": "FR2X41619793"
+  },
+  {
+    "title": "Бурлак",
+    "artist": "Boris Grebenshikov",
+    "isrc": "FR10S1437477"
+  },
+  {
+    "title": "Ты, да я, да мы с тобой",
+    "artist": "Elena Frolova",
+    "isrc": "RUA1D1706013"
+  },
+  {
+    "title": "Синяя вечность",
+    "artist": "Muslim Magomayev, Konstantin Krimets, Государственный Симфонический оркестр кинематографии",
+    "isrc": "RUAAX2002078"
+  },
+  {
+    "title": "Рио-рита",
+    "artist": "Ирина Богушевская",
+    "isrc": "FRX871571411"
+  },
+  {
+    "title": "Нефть",
+    "artist": "Semyon Slepakov",
+    "isrc": "RUA1D1613240"
+  },
+  {
+    "title": "Зачем вы, девочки, красивых любите?",
+    "artist": "Olga Voronets, Osipov State Russian Folk Orchestra",
+    "isrc": "UK2Y21304476"
+  },
+  {
+    "title": "На сопках Маньчжурии",
+    "artist": "Lyudmila Zykina",
+    "isrc": "QMFMG1480548"
+  },
+  {
+    "title": "Есть только миг - Из к/ф \"Земля Санникова\"",
+    "artist": "Oleg Anofriyev",
+    "isrc": "FR59R1736820"
+  },
+  {
+    "title": "Ах боже мой",
+    "artist": "Zoya Yashchenko, Belaya Gvardiya",
+    "isrc": "FR2X41633978"
+  },
+  {
+    "title": "Devushka iz kharchevni",
+    "artist": "Novella Matveeva",
+    "isrc": "FR2X41532377"
+  },
+  {
+    "title": "Tsyganochka",
+    "artist": "Mikhail Ancharov",
+    "isrc": "FR10S1560117"
+  },
+  {
+    "title": "Алёнушка",
+    "artist": "Eugene Martynov",
+    "isrc": "UK2Y21305044"
+  },
+  {
+    "title": "Курю",
+    "artist": "Elena Vaenga",
+    "isrc": "FR6V81477469"
+  },
+  {
+    "title": "Голос",
+    "artist": "Трио Меридиан",
+    "isrc": "UK2Y21602357"
+  },
+  {
+    "title": "Город",
+    "artist": "Pavel Kashin",
+    "isrc": "RUA591303104"
+  },
+  {
+    "title": "От тебя на юго-запад",
+    "artist": "Александр Гейнц и Сергей Данилов",
+    "isrc": "TCABR1304002"
+  },
+  {
+    "title": "Porto Franko",
+    "artist": "Alina Mikhaylovskaja",
+    "isrc": "FRX761510971"
+  },
+  {
+    "title": "Nu vot i vsjo...",
+    "artist": "Myshelovka",
+    "isrc": "FRX451599186"
+  },
+  {
+    "title": "Provodnitsa",
+    "artist": "Boris Vakhnjuk",
+    "isrc": "FRX871577088"
+  },
+  {
+    "title": "Svechi",
+    "artist": "Aleksandr Evstigneev",
+    "isrc": "FRX761507438"
+  },
+  {
+    "title": "Sredi mirov, v mertsanii svetil",
+    "artist": "Aleksandr Sukhanov",
+    "isrc": "FRX451599175"
+  },
+  {
+    "title": "Zimnjaja",
+    "artist": "Anatoliy Zagot",
+    "isrc": "FRX871539647"
+  },
+  {
+    "title": "Meteostantsija Khadata",
+    "artist": "Arik Krupp",
+    "isrc": "FRX761507459"
+  },
+  {
+    "title": "Ofitserskiy romans",
+    "artist": "Boris Vaykhanskiy",
+    "isrc": "FRX761510991"
+  },
+  {
+    "title": "YA v vesennem lesu",
+    "artist": "Evgeniy Agranovich",
+    "isrc": "FRX451599111"
+  },
+  {
+    "title": "Frantsuzskaja istorija",
+    "artist": "Galina Vaykhanskaja, Boris Vaykhanskiy",
+    "isrc": "FRX761511061"
+  },
+  {
+    "title": "Opolchenie",
+    "artist": "Irina Levinzon",
+    "isrc": "FRX761510996"
+  },
+  {
+    "title": "Sand Ballad - Original Mix",
+    "artist": "Sergey Smirnov",
+    "isrc": "ITH641803466"
+  },
+  {
+    "title": "Zimnjaja noch'",
+    "artist": "Georgiy Lepskiy",
+    "isrc": "FR96X1510850"
+  },
+  {
+    "title": "Chto-to nynche ne pojotsja",
+    "artist": "Igor' Mikhaljov",
+    "isrc": "FRX871539453"
+  },
+  {
+    "title": "Почему расстались",
+    "artist": "Aleksandеr Gorodnitsky",
+    "isrc": "FR10S1560618"
+  },
+  {
+    "title": "My za tsenoy ne postoim",
+    "artist": "Bulat Okudzhava",
+    "isrc": "FR2X41738189"
+  },
+  {
+    "title": "Parizh",
+    "artist": "Juriy Kukin",
+    "isrc": "FR10S1560054"
+  },
+  {
+    "title": "Резиновый ёжик",
+    "artist": "Sergey Nikitin, Татьяна Никитина",
+    "isrc": "RUAAX2002261"
+  },
+  {
+    "title": "Письма римскому другу",
+    "artist": "Evgeniy Kljachkin",
+    "isrc": "RUA1D1707483"
+  },
+  {
+    "title": "Ночная Дорога",
+    "artist": "Yuri Vizbor",
+    "isrc": "TCACZ1768855"
+  },
+  {
+    "title": "Ты у меня одна",
+    "artist": "Oleg Mityaev, Konstantin Tarasov",
+    "isrc": "FRX281559534"
+  },
+  {
+    "title": "Из пункта А",
+    "artist": "Juliy Kim",
+    "isrc": "FR2X41623297"
+  },
+  {
+    "title": "Памяти Герцена",
+    "artist": "Aleksandr Dulov",
+    "isrc": "QM6MZ1468192"
+  },
+  {
+    "title": "Grenada",
+    "artist": "Viktor Berkovskiy",
+    "isrc": "FR10S1584944"
+  },
+  {
+    "title": "Как близко ты и далеко",
+    "artist": "Nikolai Karachentsov, Olga Zarubina, Инструментальный ансамбль п/у Юрия Мартынова",
+    "isrc": "UK2Y21313855"
+  },
+  {
+    "title": "Мой Дом Летает",
+    "artist": "Veronika Dolina",
+    "isrc": "USDJJ1404089"
+  },
+  {
+    "title": "Спи, моя радость, усни",
+    "artist": "Elena Kamburova",
+    "isrc": "RUA0G1600273"
+  },
+  {
+    "title": "Налетела грусть",
+    "artist": "Alexander Rosenbaum",
+    "isrc": "UK2Y21311044"
+  },
+  {
+    "title": "O printsipial'nosti",
+    "artist": "Aleksandr Galich",
+    "isrc": "FR10S1560607"
+  },
+  {
+    "title": "Памяти В. Высоцкого",
+    "artist": "Andrey Makarevich",
+    "isrc": "FR6V82200079"
+  },
+  {
+    "title": "Далеко",
+    "artist": "Valeriy Syutkin",
+    "isrc": "RUB731513321"
+  },
+  {
+    "title": "Грузинская песня",
+    "artist": "Vakhtang Kikabidze",
+    "isrc": "GBLPF0107748"
+  },
+  {
+    "title": "Мать пишет",
+    "artist": "Yuriy Loza",
+    "isrc": "FRX762105505"
+  },
+  {
+    "title": "Вариации на цыганские темы",
+    "artist": "Владимир Высоцкий, Инструментальный ансамбль «Мелодия»",
+    "isrc": "UK2Y21502664"
+  },
+  {
+    "title": "Чистые пруды",
+    "artist": "Igor Talkov",
+    "isrc": "RUB731523015"
+  },
+  {
+    "title": "Суррогаты",
+    "artist": "Timur Shaov",
+    "isrc": "FR59R1637014"
+  },
+  {
+    "title": "Белый танец",
+    "artist": "Lyudmila Senchina",
+    "isrc": "FRX762105835"
+  },
+  {
+    "title": "Генералы (песчаных карьеров)",
+    "artist": "Neschastny Sluchai",
+    "isrc": "QMPU51217096"
+  },
+  {
+    "title": "По улице моей который год",
+    "artist": "Mikael Tariverdiev, Alla Pugacheva",
+    "isrc": "FRX872201297"
+  },
+  {
+    "title": "Наш старый дом",
+    "artist": "Alexander Gradsky",
+    "isrc": "FR59R1893853"
+  },
+  {
+    "title": "Снегири",
+    "artist": "Sergey Trofimov",
+    "isrc": "FR6V81502544"
+  },
+  {
+    "title": "Дрон",
+    "artist": "Юрий Шевчук, Dmitriy Emelianov",
+    "isrc": "RUB312308205"
+  },
+  {
+    "title": "Pro zolotuju devochku",
+    "artist": "Vladimir Turijanskiy",
+    "isrc": "FR2X41532385"
+  },
+  {
+    "title": "Русский марш",
+    "artist": "Zhanna Bichevskaya",
+    "isrc": "QMPU51251990"
+  },
+  {
+    "title": "Синяя птица",
+    "artist": "Mashina Vremeni",
+    "isrc": "FR2X41774976"
+  },
+  {
+    "title": "Город",
+    "artist": "Ада Якушева",
+    "isrc": "TCADA1740473"
+  },
+  {
+    "title": "Песня про зайцев",
+    "artist": "Yuri Nikulin",
+    "isrc": "QM4TW2192635"
+  },
+  {
+    "title": "Время N",
+    "artist": "Boris Grebenshikov",
+    "isrc": "FR10S1825104"
+  }
+]

@@ -1,0 +1,927 @@
+[
+  {
+    "title": "Ja myślę",
+    "artist": "Made In Poland",
+    "isrc": "PLB171000757"
+  },
+  {
+    "title": "Kosmos",
+    "artist": "Wieże Fabryk",
+    "isrc": "GB-SMU-13-68520"
+  },
+  {
+    "title": "Jezu jak się cieszę",
+    "artist": "Klaus Mitffoch",
+    "isrc": "PLB171000321"
+  },
+  {
+    "title": "To co czujesz, to co wiesz",
+    "artist": "Brygada Kryzys",
+    "isrc": "PLB171201167"
+  },
+  {
+    "title": "I znowu ktoś przestawił kamienie",
+    "artist": "Variete",
+    "isrc": "PLB171100332"
+  },
+  {
+    "title": "Nowa Aleksandria",
+    "artist": "Siekiera",
+    "isrc": "PLB171200657"
+  },
+  {
+    "title": "Martwi",
+    "artist": "Nagrobki",
+    "isrc": "GB-SMU-24-76435"
+  },
+  {
+    "title": "Kryształowa Noc",
+    "artist": "Hände",
+    "isrc": "QZFYY2080519"
+  },
+  {
+    "title": "Zakażony",
+    "artist": "Dehet Sinn",
+    "isrc": "GBSMU7196150"
+  },
+  {
+    "title": "Haj",
+    "artist": "Huta Plastiku",
+    "isrc": "SEYOK2023514"
+  },
+  {
+    "title": "VI",
+    "artist": "Schröttersburg",
+    "isrc": "PL76D2200019"
+  },
+  {
+    "title": "Stefan",
+    "artist": "Bielizna",
+    "isrc": "PLE781300476"
+  },
+  {
+    "title": "Sybilla (Może własnie Sybilla)",
+    "artist": "Madame",
+    "isrc": "PLB171100341"
+  },
+  {
+    "title": "Zostaje tylko serce",
+    "artist": "Ukryte Zalety Systemu",
+    "isrc": "PLG491900044"
+  },
+  {
+    "title": "Do wtóru i bez końca",
+    "artist": "Cieplarnia",
+    "isrc": "PLA590900315"
+  },
+  {
+    "title": "POZARAZIE",
+    "artist": "Blokowisko",
+    "isrc": "PL67B2300001"
+  },
+  {
+    "title": "Osobno",
+    "artist": "Już nie żyjesz",
+    "isrc": "PLH492222692"
+  },
+  {
+    "title": "Cierń (anioł bez oblicza)",
+    "artist": "1984",
+    "isrc": "PLG492000055"
+  },
+  {
+    "title": "Papierosy i zapałki",
+    "artist": "Gardenia",
+    "isrc": "PLB170700702"
+  },
+  {
+    "title": "Z siatką na motyle (With a butterfly net)",
+    "artist": "Psychoformalina",
+    "isrc": "QZES62364651"
+  },
+  {
+    "title": "Teraz i Jutro",
+    "artist": "dogs in trees",
+    "isrc": "GBSMU2284813"
+  },
+  {
+    "title": "Stan wojenny",
+    "artist": "KSY",
+    "isrc": "GX89G2276891"
+  },
+  {
+    "title": "Rower",
+    "artist": "Lech Janerka",
+    "isrc": "PLA330500003"
+  },
+  {
+    "title": "Spowiedz umarlego",
+    "artist": "Gówno",
+    "isrc": "PLG501200012"
+  },
+  {
+    "title": "Parki",
+    "artist": "Willa Kosmos",
+    "isrc": "QZES52089773"
+  },
+  {
+    "title": "Mam Dosc",
+    "artist": "Kryzys",
+    "isrc": "PLE951400564"
+  },
+  {
+    "title": "Butelki z benzyna i kamienie",
+    "artist": "Cool Kids Of Death",
+    "isrc": "PLA330200816"
+  },
+  {
+    "title": "Faust",
+    "artist": "metro",
+    "isrc": "QZK6N2287888"
+  },
+  {
+    "title": "Skóra",
+    "artist": "Aya RL",
+    "isrc": "PLA559100145"
+  },
+  {
+    "title": "Budzik",
+    "artist": "PAST",
+    "isrc": "GBMJG1716313"
+  },
+  {
+    "title": "W Tych Domach",
+    "artist": "BALZAM",
+    "isrc": "PLI361150070"
+  },
+  {
+    "title": "Berliner Vulkan I",
+    "artist": "Wędrowcy~Tułacze~Zbiegi",
+    "isrc": "QZHNB2009000"
+  },
+  {
+    "title": "Zwykły człowiek",
+    "artist": "Kryształ",
+    "isrc": "QZNWY2221975"
+  },
+  {
+    "title": "Krawężnik",
+    "artist": "Brudne Place Zabaw",
+    "isrc": "GX8KD2365359"
+  },
+  {
+    "title": "Cytadela",
+    "artist": "Cytadela",
+    "isrc": "DEAR41176691"
+  },
+  {
+    "title": "Obłąkany",
+    "artist": "Kineo RA",
+    "isrc": "PLB171100351"
+  },
+  {
+    "title": "Im jesteś wyżej, tym Ciebie mniej",
+    "artist": "Noże, Ofelia",
+    "isrc": "PLB172400002"
+  },
+  {
+    "title": "Granice",
+    "artist": "Higiena",
+    "isrc": "PLV072200182"
+  },
+  {
+    "title": "Ziemia Niczyja",
+    "artist": "ALLES",
+    "isrc": "ES71G1700691"
+  },
+  {
+    "title": "Jak Gdyby Nigdy Nic",
+    "artist": "Voo Voo",
+    "isrc": "PLA391592315"
+  },
+  {
+    "title": "Idź Spać!",
+    "artist": "KĀVE",
+    "isrc": "QZK6G2040235"
+  },
+  {
+    "title": "Dzisiaj Jeszcze Tańczę",
+    "artist": "Wczasy",
+    "isrc": "PLF101800482"
+  },
+  {
+    "title": "Krucjata",
+    "artist": "1984",
+    "isrc": "PLB171100629"
+  },
+  {
+    "title": "Zmory",
+    "artist": "Ostatnia Klatka",
+    "isrc": "GX38U2270273"
+  },
+  {
+    "title": "Scarlett - Remastered 2015",
+    "artist": "Closterkeller",
+    "isrc": "PLUM71500558"
+  },
+  {
+    "title": "Biała Flaga",
+    "artist": "Republika",
+    "isrc": "PLA391473012"
+  },
+  {
+    "title": "Ostatnia eskadra",
+    "artist": "19 Wiosen",
+    "isrc": "PLH492203941"
+  },
+  {
+    "title": "Zwiedzanie",
+    "artist": "Syndrom Paryski",
+    "isrc": "GB-SMU-56-02856"
+  },
+  {
+    "title": "Zwykłe Przyjemności",
+    "artist": "KORUS",
+    "isrc": "GXBDT2376519"
+  },
+  {
+    "title": "Gdy nie ma dzieci",
+    "artist": "Kult",
+    "isrc": "PLE781200194"
+  },
+  {
+    "title": "Oddech",
+    "artist": "Raduga",
+    "isrc": "PLG492100046"
+  },
+  {
+    "title": "Stroszek - CCS '85-86",
+    "artist": "PROCESSS",
+    "isrc": "PLV071900142"
+  },
+  {
+    "title": "TO, CO MIĘDZY NAMI",
+    "artist": "WaluśKraksaKryzys",
+    "isrc": "PLB822000635"
+  },
+  {
+    "title": "Jedwab",
+    "artist": "Róże Europy",
+    "isrc": "PLA889200008"
+  },
+  {
+    "title": "Szara Strefa",
+    "artist": "Renmin Ribao",
+    "isrc": "QZFZ72255676"
+  },
+  {
+    "title": "Wyspy Chłodne",
+    "artist": "Niemoc",
+    "isrc": "FR59R1716426"
+  },
+  {
+    "title": "Paradoxes",
+    "artist": "This Cold",
+    "isrc": "PLI364163780"
+  },
+  {
+    "title": "Szaroróżowe",
+    "artist": "Muchy, BELA, Jan Borysewicz",
+    "isrc": "PLA812100038"
+  },
+  {
+    "title": "Almost Frantic",
+    "artist": "Cabaret Grey",
+    "isrc": "QZHN62290955"
+  },
+  {
+    "title": "Papierosy",
+    "artist": "Nowomowa",
+    "isrc": "QZAMM1780131"
+  },
+  {
+    "title": "CYJAN",
+    "artist": "Happyboys",
+    "isrc": "GBSMU8475756"
+  },
+  {
+    "title": "Psalm",
+    "artist": "Jesień",
+    "isrc": "SE6I31976484"
+  },
+  {
+    "title": "Cykady na Cykladach - 2011 Remaster",
+    "artist": "Maanam",
+    "isrc": "PLA551100126"
+  },
+  {
+    "title": "Wracam do siebie",
+    "artist": "Mona Polaski",
+    "isrc": "PL78G2300805"
+  },
+  {
+    "title": "bogurodzica",
+    "artist": "Opozycja",
+    "isrc": "PLM571400003"
+  },
+  {
+    "title": "KOSZULA W KWIATY",
+    "artist": "Trupa Trupa",
+    "isrc": "FR2X42399682"
+  },
+  {
+    "title": "Wszystko zmieni się od jutra",
+    "artist": "Pretensje",
+    "isrc": "SE5752497076"
+  },
+  {
+    "title": "Tanz mit Kommune 1",
+    "artist": "The Kurws",
+    "isrc": "GB-SMU-13-69122"
+  },
+  {
+    "title": "Nightcall",
+    "artist": "The Shipyard",
+    "isrc": "PLA591500469"
+  },
+  {
+    "title": "Nordowi Môl",
+    "artist": "Kiev Office",
+    "isrc": "PL93C1800045"
+  },
+  {
+    "title": "Magiczne Słowa",
+    "artist": "Ziyo",
+    "isrc": "PLB080400252"
+  },
+  {
+    "title": "Wrecks",
+    "artist": "Aviaries",
+    "isrc": "QZES91824712"
+  },
+  {
+    "title": "Under the Waves",
+    "artist": "Hidden By Ivy",
+    "isrc": "usl4q2189728"
+  },
+  {
+    "title": "Transparentne koty",
+    "artist": "Nacht und Nebel [PL]",
+    "isrc": "GX4R52162313"
+  },
+  {
+    "title": "Fresh News - Larve",
+    "artist": "Holy Toy",
+    "isrc": "NOUM71400456"
+  },
+  {
+    "title": "Run North",
+    "artist": "baṣnia",
+    "isrc": "PL50S2200001"
+  },
+  {
+    "title": "The Others",
+    "artist": "Rendez Vous",
+    "isrc": "FR9W11416598"
+  },
+  {
+    "title": "Carte Blanche",
+    "artist": "Fair Weather Friends",
+    "isrc": "PLK761900002"
+  },
+  {
+    "title": "Szyfry (widma)",
+    "artist": "Dom Mody",
+    "isrc": "PLB170900289"
+  },
+  {
+    "title": "Rozhulantyna",
+    "artist": "Fort B.S.",
+    "isrc": "PLB170900291"
+  },
+  {
+    "title": "Dekoder",
+    "artist": "Nowo Mowa",
+    "isrc": "PLB170900292"
+  },
+  {
+    "title": "Na skrzyżowaniu ulic",
+    "artist": "Randez-Vous",
+    "isrc": "PLB170900296"
+  },
+  {
+    "title": "Efekt",
+    "artist": "Sstil",
+    "isrc": "PLB170900297"
+  },
+  {
+    "title": "Follow",
+    "artist": "Searching For Calm",
+    "isrc": "PLB820010113"
+  },
+  {
+    "title": "Pad Eye Remover",
+    "artist": "JAVVA",
+    "isrc": "PLG491900053"
+  },
+  {
+    "title": "Moja Lewa Ręka",
+    "artist": "Sni Sredstvom Za Uklanianie",
+    "isrc": "PLX211700071"
+  },
+  {
+    "title": "Ghost Of Rock&Roll",
+    "artist": "52UM",
+    "isrc": "PLE951300496"
+  },
+  {
+    "title": "Hold On to Me - Single Version",
+    "artist": "Dorian's Steaming Shadow",
+    "isrc": "QZDA42460169"
+  },
+  {
+    "title": "Hele Down To Hawaii Nei",
+    "artist": "Heart & Soul",
+    "isrc": "us4t70206501"
+  },
+  {
+    "title": "Distress Signal",
+    "artist": "Kryzys, Katharsys",
+    "isrc": "GB8KE1855084"
+  },
+  {
+    "title": "Dwa",
+    "artist": "Lastryko",
+    "isrc": "QZDA41973395"
+  },
+  {
+    "title": "Come Drown in My Ocean",
+    "artist": "₲ardeŋ ɵƒ",
+    "isrc": "GBSMU5792361"
+  },
+  {
+    "title": "Jedna kropla deszczu",
+    "artist": "Made In Poland",
+    "isrc": "PLB171000770"
+  },
+  {
+    "title": "Papieros",
+    "artist": "Wieże Fabryk",
+    "isrc": "GB-SMU-13-68900"
+  },
+  {
+    "title": "Klaszcząc W Dłonie",
+    "artist": "Variete",
+    "isrc": "PLL172000015"
+  },
+  {
+    "title": "Ty i tylko ty",
+    "artist": "Brygada Kryzys",
+    "isrc": "PLB171201166"
+  },
+  {
+    "title": "Misiowie puszyści - Szewc zabija szewca",
+    "artist": "Siekiera",
+    "isrc": "PLB171200666"
+  },
+  {
+    "title": "Konstytucje",
+    "artist": "Klaus Mitffoch, Lech Janerka",
+    "isrc": "PLB171000328"
+  },
+  {
+    "title": "Kolejny Rok W Urnie",
+    "artist": "Nagrobki",
+    "isrc": "GB-SMU-36-39288"
+  },
+  {
+    "title": "Nowy Wspaniały Świat",
+    "artist": "Hände",
+    "isrc": "QZHNB1991831"
+  },
+  {
+    "title": "Demon",
+    "artist": "Dehet Sinn",
+    "isrc": "GBSMU7196145"
+  },
+  {
+    "title": "Gdzie jest czas",
+    "artist": "Huta Plastiku",
+    "isrc": "SEYOK2023515"
+  },
+  {
+    "title": "Keter",
+    "artist": "Schröttersburg",
+    "isrc": "PL76D2100024"
+  },
+  {
+    "title": "Taniec lekkich goryli",
+    "artist": "Bielizna",
+    "isrc": "PLE781300483"
+  },
+  {
+    "title": "Głupi numer (dlaczego nie chcesz?)",
+    "artist": "Madame",
+    "isrc": "PLB170900290"
+  },
+  {
+    "title": "Dzień przyjaźni pozaziemskiej",
+    "artist": "Ukryte Zalety Systemu",
+    "isrc": "PLG491900050"
+  },
+  {
+    "title": "Czekałem",
+    "artist": "Cieplarnia",
+    "isrc": "PLA590900321"
+  },
+  {
+    "title": "Ćma",
+    "artist": "Blokowisko",
+    "isrc": "PL67B2000005"
+  },
+  {
+    "title": "Znikąd do nikąd",
+    "artist": "Już nie żyjesz",
+    "isrc": "PLH492222681"
+  },
+  {
+    "title": "Autostrady",
+    "artist": "1984",
+    "isrc": "PLG492000057"
+  },
+  {
+    "title": "Sobota czwarta rano",
+    "artist": "Gardenia",
+    "isrc": "PLB170700711"
+  },
+  {
+    "title": "Przesilenie (Solstice)",
+    "artist": "Psychoformalina",
+    "isrc": "QZDA52079365"
+  },
+  {
+    "title": "Krwi",
+    "artist": "dogs in trees",
+    "isrc": "GBSMU6755276"
+  },
+  {
+    "title": "Raj",
+    "artist": "KSY",
+    "isrc": "GX89G2276913"
+  },
+  {
+    "title": "Dupa Jak Sofa",
+    "artist": "Lech Janerka",
+    "isrc": "PLB822300206"
+  },
+  {
+    "title": "To nie ten",
+    "artist": "Gówno",
+    "isrc": "PLG501200008"
+  },
+  {
+    "title": "Chciałem czegoś więcej",
+    "artist": "Willa Kosmos",
+    "isrc": "QZHN32018320"
+  },
+  {
+    "title": "Swiety Szczyt",
+    "artist": "Kryzys",
+    "isrc": "PLE951400561"
+  },
+  {
+    "title": "Ciągle",
+    "artist": "Cool Kids Of Death",
+    "isrc": "PLB822400046"
+  },
+  {
+    "title": "Mięso",
+    "artist": "metro",
+    "isrc": "QZK6L2248260"
+  },
+  {
+    "title": "Cma",
+    "artist": "PAST",
+    "isrc": "GBMJG1808313"
+  },
+  {
+    "title": "Ksiezycowy Krok",
+    "artist": "Aya RL",
+    "isrc": "PLA559100135"
+  },
+  {
+    "title": "Mental Loneliness",
+    "artist": "BALZAM",
+    "isrc": "PLI361150140"
+  },
+  {
+    "title": "Berliner Vulkan II",
+    "artist": "Wędrowcy~Tułacze~Zbiegi",
+    "isrc": "QZHNB2009001"
+  },
+  {
+    "title": "Wieloryby",
+    "artist": "Kryształ",
+    "isrc": "QZNWQ2207516"
+  },
+  {
+    "title": "Civitas",
+    "artist": "Brudne Place Zabaw",
+    "isrc": "GX89G2456368"
+  },
+  {
+    "title": "Zenek",
+    "artist": "Cytadela",
+    "isrc": "DEAR41176033"
+  },
+  {
+    "title": "Choroba Mas",
+    "artist": "Higiena",
+    "isrc": "QZHN72078948"
+  },
+  {
+    "title": "Złe wychowanie",
+    "artist": "Noże",
+    "isrc": "PLB171900128"
+  },
+  {
+    "title": "Pył",
+    "artist": "ALLES",
+    "isrc": "ES71G1829074"
+  },
+  {
+    "title": "Gdybym",
+    "artist": "Voo Voo",
+    "isrc": "PLK681400106"
+  },
+  {
+    "title": "Marmur",
+    "artist": "KĀVE",
+    "isrc": "QZK6J2171586"
+  },
+  {
+    "title": "Jesteś Najlepszy",
+    "artist": "Wczasy",
+    "isrc": "PLF101800481"
+  },
+  {
+    "title": "Hva Faen",
+    "artist": "1984",
+    "isrc": "NOX9X3335317"
+  },
+  {
+    "title": "Przechodnie (Demo)",
+    "artist": "Ostatnia Klatka",
+    "isrc": "GX5MX2282152"
+  },
+  {
+    "title": "Kolorowa Magdalena",
+    "artist": "Closterkeller",
+    "isrc": "PLUM71700718"
+  },
+  {
+    "title": "Uciekłbym już w kosmos",
+    "artist": "19 Wiosen",
+    "isrc": "PLH492203935"
+  },
+  {
+    "title": "Mamona",
+    "artist": "Republika",
+    "isrc": "PLA559800388"
+  },
+  {
+    "title": "Sygnały Końca Pociągu",
+    "artist": "Syndrom Paryski",
+    "isrc": "QZHNA1976544"
+  },
+  {
+    "title": "Wiśniowy Amant",
+    "artist": "KORUS",
+    "isrc": "uscgj2394916"
+  },
+  {
+    "title": "Arahja",
+    "artist": "Kult",
+    "isrc": "PLE781200093"
+  },
+  {
+    "title": "Kolejny krok cywilizacji - CCS '85-86",
+    "artist": "PROCESSS",
+    "isrc": "PLV071900137"
+  },
+  {
+    "title": "COŚ NIECOŚ (feat. Zdechły Osa)",
+    "artist": "WaluśKraksaKryzys, Zdechły Osa",
+    "isrc": "PLB822300007"
+  },
+  {
+    "title": "Ubytek",
+    "artist": "Renmin Ribao",
+    "isrc": "QZFZ72255677"
+  },
+  {
+    "title": "Stańcie przed lustrami",
+    "artist": "Róże Europy",
+    "isrc": "PLB171100626"
+  },
+  {
+    "title": "Aureola",
+    "artist": "Niemoc",
+    "isrc": "GBPVV2400128"
+  },
+  {
+    "title": "Torn Apart",
+    "artist": "This Cold",
+    "isrc": "QZFZ62068455"
+  },
+  {
+    "title": "Szaroróżowe - Radio edit",
+    "artist": "Muchy, BELA, Jan Borysewicz",
+    "isrc": "PLA812120038"
+  },
+  {
+    "title": "Cold Calculations",
+    "artist": "Cabaret Grey",
+    "isrc": "QZHN62290954"
+  },
+  {
+    "title": "Hibernacja",
+    "artist": "Nowomowa",
+    "isrc": "QZAMM1780130"
+  },
+  {
+    "title": "zawitała",
+    "artist": "Happyboys",
+    "isrc": "GBSMU8475754"
+  },
+  {
+    "title": "Do Bozi",
+    "artist": "Jesień",
+    "isrc": "GB-SMU-51-14308"
+  },
+  {
+    "title": "Przystanek Alaska",
+    "artist": "Mona Polaski",
+    "isrc": "PL78G2300801"
+  },
+  {
+    "title": "To tylko kobieta",
+    "artist": "Made In Poland",
+    "isrc": "PLB171000759"
+  },
+  {
+    "title": "Jeszcze będzie czas",
+    "artist": "Wieże Fabryk",
+    "isrc": "GX8LD2378562"
+  },
+  {
+    "title": "Te dni (krzyż)",
+    "artist": "Variete",
+    "isrc": "PLB170900304"
+  },
+  {
+    "title": "Centrala",
+    "artist": "Brygada Kryzys",
+    "isrc": "PLB171000338"
+  },
+  {
+    "title": "Ludzie wschodu",
+    "artist": "Siekiera",
+    "isrc": "PLB171200653"
+  },
+  {
+    "title": "Powinność kurdupelka",
+    "artist": "Klaus Mitffoch",
+    "isrc": "PLB171000327"
+  },
+  {
+    "title": "SpowiedŹ Umarlego",
+    "artist": "Nagrobki",
+    "isrc": "TCAEL1904440"
+  },
+  {
+    "title": "Północ (Finlandia)",
+    "artist": "Hände",
+    "isrc": "QZFYY2080524"
+  },
+  {
+    "title": "Do widzenia",
+    "artist": "Dehet Sinn",
+    "isrc": "PLV072200138"
+  },
+  {
+    "title": "Historia",
+    "artist": "Huta Plastiku",
+    "isrc": "SEYOK2033647"
+  },
+  {
+    "title": "Dłonie",
+    "artist": "Schröttersburg",
+    "isrc": "PL76D2000262"
+  },
+  {
+    "title": "Prywatne życie kasjerki PKP",
+    "artist": "Bielizna",
+    "isrc": "PLE781300485"
+  },
+  {
+    "title": "Dzień narodzin",
+    "artist": "Madame",
+    "isrc": "PLB171100352"
+  },
+  {
+    "title": "Sposób użycia",
+    "artist": "Ukryte Zalety Systemu",
+    "isrc": "PLG491900045"
+  },
+  {
+    "title": "Pokochaj inercję",
+    "artist": "Cieplarnia",
+    "isrc": "PLA590900318"
+  },
+  {
+    "title": "Produkty",
+    "artist": "Blokowisko",
+    "isrc": "PL67B2400001"
+  },
+  {
+    "title": "Amen",
+    "artist": "Już nie żyjesz",
+    "isrc": "PLH492222690"
+  },
+  {
+    "title": "Ostatni pilot wimany",
+    "artist": "1984",
+    "isrc": "PLG492000056"
+  },
+  {
+    "title": "Siedem",
+    "artist": "Gardenia",
+    "isrc": "PLB170700707"
+  },
+  {
+    "title": "Ja-Pies (I-Dog)",
+    "artist": "Psychoformalina",
+    "isrc": "QZDA52079366"
+  },
+  {
+    "title": "Zamarza",
+    "artist": "dogs in trees",
+    "isrc": "GBSMU6755280"
+  },
+  {
+    "title": "Pluskwa",
+    "artist": "KSY",
+    "isrc": "GX89G2276902"
+  },
+  {
+    "title": "Omm",
+    "artist": "Lech Janerka",
+    "isrc": "PLB822300201"
+  },
+  {
+    "title": "Na zachodzie bez zmian",
+    "artist": "Gówno",
+    "isrc": "PLG501200005"
+  },
+  {
+    "title": "Homofob",
+    "artist": "Willa Kosmos",
+    "isrc": "QZHN32018321"
+  },
+  {
+    "title": "Wojny Gwiezdne",
+    "artist": "Kryzys",
+    "isrc": "PLE951400558"
+  },
+  {
+    "title": "Hej Chlopcze",
+    "artist": "Cool Kids Of Death",
+    "isrc": "PLB380600049"
+  },
+  {
+    "title": "Gwiazda",
+    "artist": "metro",
+    "isrc": "QZK6J2210778"
+  },
+  {
+    "title": "Tecza",
+    "artist": "PAST",
+    "isrc": "GBMJG1808320"
+  },
+  {
+    "title": "Unikaj zdjęć",
+    "artist": "Aya RL",
+    "isrc": "PLB171100340"
+  },
+  {
+    "title": "Ostatniego Wagonu",
+    "artist": "BALZAM",
+    "isrc": "PLI361150151"
+  },
+  {
+    "title": "Pierwsza siostra",
+    "artist": "Wędrowcy~Tułacze~Zbiegi",
+    "isrc": "QZHNA2274026"
+  }
+]

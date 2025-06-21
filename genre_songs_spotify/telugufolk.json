@@ -1,0 +1,762 @@
+[
+  {
+    "title": "Anademanantina Tirupathi",
+    "artist": "Laxmi",
+    "isrc": "INH412013210"
+  },
+  {
+    "title": "Bava O Sari Rava",
+    "artist": "Mounika",
+    "isrc": "ING642301463"
+  },
+  {
+    "title": "Saami Saami (From \"Pushpa - The Rise\")(Telugu)",
+    "artist": "Devi Sri Prasad, Mounika Yadav, Chandra Bose",
+    "isrc": "INA092117769"
+  },
+  {
+    "title": "Sittapata Sinukulaku",
+    "artist": "Prabha",
+    "isrc": "INM5B2007136"
+  },
+  {
+    "title": "Botla Botla Bonam Etti",
+    "artist": "Relare Rela Shyamala",
+    "isrc": "INH412104063"
+  },
+  {
+    "title": "Athagarintiki Kothagapothuna",
+    "artist": "Gaddam Ramesh, Velpula Shirisha",
+    "isrc": "FRX282087690"
+  },
+  {
+    "title": "Thinna Thiram Paduthale Male",
+    "artist": "Thirupathi Matla",
+    "isrc": "INH412015682"
+  },
+  {
+    "title": "TANDAKU POTHANDU",
+    "artist": "Telu Vijaya",
+    "isrc": "INH412019531"
+  },
+  {
+    "title": "Nalla Nagulamma - DJ Song",
+    "artist": "Akunuri Devaiah, Lavanya Potharaju, DJ Linga",
+    "isrc": "DGA0H2352896"
+  },
+  {
+    "title": "Chalo Chalo Kamalamma",
+    "artist": "SV Mallik Tej, Laxmi",
+    "isrc": "INH412002638"
+  },
+  {
+    "title": "Unguram",
+    "artist": "Mamidi Mounika, Sv Mallikteja",
+    "isrc": "FRX762102737"
+  },
+  {
+    "title": "Jwala Reddy",
+    "artist": "Shankar Babu, Mangli",
+    "isrc": "INA092117472"
+  },
+  {
+    "title": "Jai Bhim",
+    "artist": "Manukota Prasad, Gaddar Narsanna, Kalyan",
+    "isrc": "FR96X2242817"
+  },
+  {
+    "title": "Malle Chettu",
+    "artist": "Rama Devi",
+    "isrc": "INS231742161"
+  },
+  {
+    "title": "Nindu Punammi Vela",
+    "artist": "Suman Badanakal, Srinidhi Nerella",
+    "isrc": "FRX452261599"
+  },
+  {
+    "title": "Raye Raye Pillo Ramanamma",
+    "artist": "Boddu Dilip Kumar",
+    "isrc": "INM5B2007043"
+  },
+  {
+    "title": "Rela Rela (From \"Vimanam \")(Telugu)",
+    "artist": "Charan Arjun, Mangli",
+    "isrc": "INA092318655"
+  },
+  {
+    "title": "Dhaani Kudi Bhujam Meeda",
+    "artist": "Gajwel Venu",
+    "isrc": "INM5B2007279"
+  },
+  {
+    "title": "Kalisunna Rojulanni",
+    "artist": "Hanmanth Yadav",
+    "isrc": "FR2X42341680"
+  },
+  {
+    "title": "Bavalla Na Bavalla",
+    "artist": "Shirisha",
+    "isrc": "INH412106596"
+  },
+  {
+    "title": "Tdp Yellow Singam",
+    "artist": "Nalgonda Gaddar Narsanna",
+    "isrc": "USDY42451874"
+  },
+  {
+    "title": "Bagundalamma",
+    "artist": "Katike Ramu",
+    "isrc": "FR10S2277706"
+  },
+  {
+    "title": "Paatammathone Pranam Naaku Chaduvulammara",
+    "artist": "Rambabu Yasarapu",
+    "isrc": "INO412200010"
+  },
+  {
+    "title": "Nayi Doro Naa Sinni Dora DJ",
+    "artist": "Relare Ganga",
+    "isrc": "INO412200004"
+  },
+  {
+    "title": "Nimma Nimma Nimma Danimma Pandu Roo",
+    "artist": "Peddapuli Eshwar",
+    "isrc": "INM5B2006586"
+  },
+  {
+    "title": "Nee Soku Singaarame",
+    "artist": "A. Clement, Mohan Krishna",
+    "isrc": "INS920900777"
+  },
+  {
+    "title": "Kala Kalala Kada Rajamani",
+    "artist": "Parvathi Mahesh, Premalatha Chinnu",
+    "isrc": "FR2X42203638"
+  },
+  {
+    "title": "Edi Uma Maheshuni",
+    "artist": "Jadala Ramesh",
+    "isrc": "DGA0Q2315040"
+  },
+  {
+    "title": "Ayyappa Ani Pilichina Palakavu",
+    "artist": "Akhilesh Gogu, Velpula Mahesh",
+    "isrc": "FR10S2395810"
+  },
+  {
+    "title": "Thana Pere Saranga Dariya",
+    "artist": "Relare Rela Komali",
+    "isrc": "INM5B1903413"
+  },
+  {
+    "title": "Oho Jambiya",
+    "artist": "Goreti Venkanna, Rahul Sipligunj",
+    "isrc": "INH411912732"
+  },
+  {
+    "title": "Nindu Nimmala Kinda",
+    "artist": "Anilkumar",
+    "isrc": "INS231742147"
+  },
+  {
+    "title": "Anitha O Anitha",
+    "artist": "Nagaraju",
+    "isrc": "INA091113183"
+  },
+  {
+    "title": "Allalla Neradi Neriyalo",
+    "artist": "V.Anilkumar",
+    "isrc": "INS231636249"
+  },
+  {
+    "title": "Tungutuyyala Tungutuyyala",
+    "artist": "Kanakavva, Jaya Sri, Honey",
+    "isrc": "INA092106890"
+  },
+  {
+    "title": "Sanna Sanna Bandaala",
+    "artist": "Varam",
+    "isrc": "INM5B2107463"
+  },
+  {
+    "title": "Say You Won't Let Go (Telugu/English Mashup)",
+    "artist": "Sruthi Nanduri",
+    "isrc": "QZK6J2049316"
+  },
+  {
+    "title": "GalluMannadhe gajjala Patti",
+    "artist": "SaiChand Goud",
+    "isrc": "QZES92196100"
+  },
+  {
+    "title": "Mayadari Maisamma",
+    "artist": "P.N. Lingaraju",
+    "isrc": "IN-S23-09-32850"
+  },
+  {
+    "title": "Neetho Neeve",
+    "artist": "Spoorthi",
+    "isrc": "INH412013938"
+  },
+  {
+    "title": "Murikivadalo Mass Rajulam",
+    "artist": "Tarun Rana Pratap",
+    "isrc": "INA092006865"
+  },
+  {
+    "title": "Manduloda Ori Mayaloda",
+    "artist": "Veddepally Srinivas, Lalitha Sagari",
+    "isrc": "INH412002640"
+  },
+  {
+    "title": "Ugadi Song",
+    "artist": "Shankar Babu, Sharada Shankar",
+    "isrc": "FR10S2236052"
+  },
+  {
+    "title": "BAYATA SCOOTER UNNADO JANAREDDY",
+    "artist": "Lavanya",
+    "isrc": "INH412106597"
+  },
+  {
+    "title": "Makkala Raasi Meedha",
+    "artist": "Mukunda Priya",
+    "isrc": "INH412101311"
+  },
+  {
+    "title": "Mayadari Maisamma",
+    "artist": "Srikanth",
+    "isrc": "INA090209187"
+  },
+  {
+    "title": "O Nirmala",
+    "artist": "MMI",
+    "isrc": "QZKUS2127783"
+  },
+  {
+    "title": "Ee Touchali",
+    "artist": "Lakshmi",
+    "isrc": "INT131710431"
+  },
+  {
+    "title": "Nee Vanne Naa Vanne",
+    "artist": "Narsimlu, Prabha",
+    "isrc": "INM5B2107695"
+  },
+  {
+    "title": "Manasainadhi",
+    "artist": "Vaishali Prabhakar",
+    "isrc": "INM5B2007045"
+  },
+  {
+    "title": "Gowdu Barre",
+    "artist": "Shanker",
+    "isrc": "IN-S23-14-18344"
+  },
+  {
+    "title": "Naa Kanti Kalalani (From \"Gaalodu\")",
+    "artist": "Sahithi Galidevara, Bheems Ceciroleo",
+    "isrc": "INT132200607"
+  },
+  {
+    "title": "Bava Ninu Chudapothe DJ",
+    "artist": "Sandhya Koyyada",
+    "isrc": "INM5B1902480"
+  },
+  {
+    "title": "Yellindu Yellindu Ganapaiah",
+    "artist": "Chirla Ramu",
+    "isrc": "INM5B2107688"
+  },
+  {
+    "title": "YS Jagan (Adhipathi song)",
+    "artist": "Karthik Kodakandla",
+    "isrc": "QZFYX2242292"
+  },
+  {
+    "title": "Mandalola",
+    "artist": "A. Anasuya Devi, V. Seetha Devi, T.R. Jayadev, G. Anand, V. Ramakrishna, B.Gopalam, K. Mallikarjuna Rao",
+    "isrc": "INH100700889"
+  },
+  {
+    "title": "Sevalal Special Song 2021",
+    "artist": "Ashwini Rathod",
+    "isrc": "FR59R2215321"
+  },
+  {
+    "title": "Color T.V. Paduganu",
+    "artist": "Devayya, Shanker",
+    "isrc": "IN-S23-14-18340"
+  },
+  {
+    "title": "Charminar Chowrasta",
+    "artist": "Eshwar, Lalitha Sagari",
+    "isrc": "INE182437584"
+  },
+  {
+    "title": "Raave Janaki",
+    "artist": "Jeevan, Jai Sree",
+    "isrc": "INM5B2107709"
+  },
+  {
+    "title": "Pilla O Mounika",
+    "artist": "Jogula Venkatesh, Lavanya Potharaju",
+    "isrc": "DGA072231716"
+  },
+  {
+    "title": "Dothi Mida Dosapuvuloyi Maheshu",
+    "artist": "Kachu Mahesh",
+    "isrc": "FRX762166249"
+  },
+  {
+    "title": "Gangamani",
+    "artist": "Kammari Thirupathi, Lavanya Potharaju",
+    "isrc": "FR96X2213045"
+  },
+  {
+    "title": "Bagala Jaathiri Chori",
+    "artist": "Mothilal Banjara, Roja",
+    "isrc": "INM5B2107913"
+  },
+  {
+    "title": "Saani",
+    "artist": "Mounika Reddy, Nalgonda Gaddar Narsanna",
+    "isrc": "INMPT2500613"
+  },
+  {
+    "title": "Jataka Balam",
+    "artist": "Nagamani",
+    "isrc": "INM5B2007137"
+  },
+  {
+    "title": "Kamareddy Chinnadi",
+    "artist": "Paligiri Rajendar, Shruthi Patel",
+    "isrc": "INS182001566"
+  },
+  {
+    "title": "Pedda Puli",
+    "artist": "Pedda Pulli Eshwar, Madhu Priya",
+    "isrc": "INA091113001"
+  },
+  {
+    "title": "Snehitudu",
+    "artist": "Rajendra Prasad",
+    "isrc": "INH101302367"
+  },
+  {
+    "title": "Kamareddy Kada Muddugunnave Pilla",
+    "artist": "Rekha, Naveen.J",
+    "isrc": "INH412006979"
+  },
+  {
+    "title": "Nimmalu Kotteyro",
+    "artist": "Roja Ramani",
+    "isrc": "INM5B2108178"
+  },
+  {
+    "title": "Jathero Mara Sathero",
+    "artist": "Suhasini",
+    "isrc": "INH412107072"
+  },
+  {
+    "title": "Enduke Pilla",
+    "artist": "Swarna",
+    "isrc": "INS231636260"
+  },
+  {
+    "title": "Bonalu",
+    "artist": "Tell Vijaya, Kasarla Shyam",
+    "isrc": "INA091715657"
+  },
+  {
+    "title": "Gunna Gunna Maavulla",
+    "artist": "Thejashvini",
+    "isrc": "INM5B2107749"
+  },
+  {
+    "title": "Rangu Seethammo, Pt. 2",
+    "artist": "singer lavanya",
+    "isrc": "FRX282201482"
+  },
+  {
+    "title": "Thinna Thiram Paduthale",
+    "artist": "Laxmi",
+    "isrc": "INH412013279"
+  },
+  {
+    "title": "Ramula O Ramula",
+    "artist": "Mounika Yadav",
+    "isrc": "ING642301456"
+  },
+  {
+    "title": "Maaro Veera",
+    "artist": "Mounika",
+    "isrc": "INH412102444"
+  },
+  {
+    "title": "O Gangadari",
+    "artist": "Relare Rela Shyamala",
+    "isrc": "ESA012153617"
+  },
+  {
+    "title": "Thinduravayya Bukkeḍu",
+    "artist": "Prabha, Gajwel Venu",
+    "isrc": "INM5B2007162"
+  },
+  {
+    "title": "Athakoduka Mudhulamara Ellayya",
+    "artist": "Gaddam Ramesh, Velpula Shirisha",
+    "isrc": "FRX282019682"
+  },
+  {
+    "title": "Nee Valla O Pilla",
+    "artist": "Thirupathi Matla",
+    "isrc": "INA092218358"
+  },
+  {
+    "title": "Avvoniva Leka Avvoniva",
+    "artist": "Telu Vijaya",
+    "isrc": "INA091112983"
+  },
+  {
+    "title": "Andarani Andaraani",
+    "artist": "Akunuri Devaiah, Varam",
+    "isrc": "INM5B2107684"
+  },
+  {
+    "title": "Madhana Sundhari",
+    "artist": "Mamidi Mounika",
+    "isrc": "FRX762102736"
+  },
+  {
+    "title": "Lachimi Na Chinni Lachimi",
+    "artist": "Shankar Babu",
+    "isrc": "INS231742135"
+  },
+  {
+    "title": "Okka Rupayi Istha",
+    "artist": "Manukota Prasad, Gajvel Venu, Laxmidasa",
+    "isrc": "FR59R2212774"
+  },
+  {
+    "title": "Rama Rama Uyyalo",
+    "artist": "Rama Devi, Padmavathi",
+    "isrc": "IN-S23-15-42704"
+  },
+  {
+    "title": "AGAMMA AGARADHE RADHAMMA",
+    "artist": "Boddu Dilip Kumar",
+    "isrc": "DGA0H2316339"
+  },
+  {
+    "title": "KCR Katha Ganam",
+    "artist": "Charan Arjun, Vani Vollala, Mangli, Nalgonda Gaddar Narsanna",
+    "isrc": "INMPT2500618"
+  },
+  {
+    "title": "Neela Neelamma Chiralo Neela, Pt. 2",
+    "artist": "Suman Badanakal, Matla Srujana",
+    "isrc": "FR2X42207386"
+  },
+  {
+    "title": "Yadanesukapothivira Mava",
+    "artist": "Gajwel Venu, Janaki Srinivas",
+    "isrc": "INM5B2007065"
+  },
+  {
+    "title": "Situkesthe Poye Pranam, Pt.2",
+    "artist": "Hanmanth Yadav",
+    "isrc": "FRX452449674"
+  },
+  {
+    "title": "Yeme Pilla",
+    "artist": "Shirisha",
+    "isrc": "INH412018420"
+  },
+  {
+    "title": "Allahe Allaha",
+    "artist": "Katike Ramu",
+    "isrc": "FR96X2379701"
+  },
+  {
+    "title": "Matti Vasana",
+    "artist": "Nalgonda Gaddar Narsanna",
+    "isrc": "INMPT2500589"
+  },
+  {
+    "title": "Andhari Kosam Bahujana Jhanda",
+    "artist": "Rambabu Yasarapu",
+    "isrc": "FRX452364099"
+  },
+  {
+    "title": "Putta Midha Pala Pitta Dj",
+    "artist": "Relare Ganga",
+    "isrc": "INO412200013"
+  },
+  {
+    "title": "Podiseti Poddulona Mahankali",
+    "artist": "Peddapuli Eshwar",
+    "isrc": "INM5B1904839"
+  },
+  {
+    "title": "Do Joru Vaala",
+    "artist": "A. Clement, Mohan Krishna",
+    "isrc": "INS920900784"
+  },
+  {
+    "title": "Nani Dhoro Love's Rajamani",
+    "artist": "Parvathi Mahesh, Meghana",
+    "isrc": "FR2X42203637"
+  },
+  {
+    "title": "Veeradi Veerudu",
+    "artist": "Jadala Ramesh",
+    "isrc": "FRX202142676"
+  },
+  {
+    "title": "Mudhu Muthyaloda",
+    "artist": "Akhilesh Gogu, Pooja",
+    "isrc": "FRX452103065"
+  },
+  {
+    "title": "Rela Dhula",
+    "artist": "Goreti Venkanna, Chaitanya",
+    "isrc": "IN-S23-14-29588"
+  },
+  {
+    "title": "Gal Gala Sappulla",
+    "artist": "Anilkumar",
+    "isrc": "INS231742129"
+  },
+  {
+    "title": "DALLA KASENAKO HAYI KARELAGO YE KALO BANJARA LOVE SONG",
+    "artist": "Nagaraju, ROJA",
+    "isrc": "INV792201436"
+  },
+  {
+    "title": "Erra Cheera Kattu Koni",
+    "artist": "V.Anilkumar",
+    "isrc": "INS231726272"
+  },
+  {
+    "title": "Medaram Jathara Song 2022",
+    "artist": "Kanakavva, Chakati Ravi",
+    "isrc": "FR2X42216928"
+  },
+  {
+    "title": "Pere Paruvala Jaaji - Dhinaku Dhina Da",
+    "artist": "Varam, Sreedeep. K, Maruthi Kodimoju",
+    "isrc": "INH102201991"
+  },
+  {
+    "title": "Nannidisi Pettellinadey",
+    "artist": "Sruthi Nanduri",
+    "isrc": "INA091906857"
+  },
+  {
+    "title": "Gudekey aa gayam vesindae",
+    "artist": "SaiChand Goud",
+    "isrc": "QZMER2293170"
+  },
+  {
+    "title": "Ravamo Rangama",
+    "artist": "P.N. Lingaraju",
+    "isrc": "IN-S23-11-93628"
+  },
+  {
+    "title": "Nili Nilimisalodu",
+    "artist": "Spoorthi",
+    "isrc": "FRX281977163"
+  },
+  {
+    "title": "Paga Patte Aathma Kadidi",
+    "artist": "Tarun Rana Pratap",
+    "isrc": "INA091916735"
+  },
+  {
+    "title": "KCR Birthday Song 2021",
+    "artist": "Shankar Babu",
+    "isrc": "FR10S2236047"
+  },
+  {
+    "title": "RANGU SEETHAAMMO, Pt. 7",
+    "artist": "Lavanya",
+    "isrc": "DGA0M2367035"
+  },
+  {
+    "title": "Om Sri Sainathayanamaha",
+    "artist": "Srikanth, Venu Srirangam",
+    "isrc": "INS181207400"
+  },
+  {
+    "title": "Utti Meedha Kudu",
+    "artist": "MMI",
+    "isrc": "QZKUS2127712"
+  },
+  {
+    "title": "Ramesho",
+    "artist": "Lakshmi",
+    "isrc": "INM5B2007283"
+  },
+  {
+    "title": "Vachedhemo Vona Kaalamu",
+    "artist": "Narsimlu",
+    "isrc": "INM5B2107665"
+  },
+  {
+    "title": "Utti Meeda Kudu",
+    "artist": "Vaishali Prabhakar, Akiraj, Divya Sri",
+    "isrc": "FR2X42282156"
+  },
+  {
+    "title": "Prabhu Ke Darshan Sab Hi Karen",
+    "artist": "Shanker, Shambhu",
+    "isrc": "INS188310023"
+  },
+  {
+    "title": "Zanjeere",
+    "artist": "Sahithi Galidevara, Bheems Ceciroleo, Pujita Ponnada",
+    "isrc": "DGA072281056"
+  },
+  {
+    "title": "Etta Cheppanu Bava",
+    "artist": "Sandhya Koyyada, Nithu queen",
+    "isrc": "FR2X42295230"
+  },
+  {
+    "title": "Sri Rama Namamu",
+    "artist": "Chirla Ramu",
+    "isrc": "INM5B2107683"
+  },
+  {
+    "title": "Emi Jeddhune Avvo",
+    "artist": "Laxmi",
+    "isrc": "INH412204469"
+  },
+  {
+    "title": "Ma Gallilo Okkadu Poradu",
+    "artist": "Mounika Yadav",
+    "isrc": "DGA062262233"
+  },
+  {
+    "title": "Bava Iga Rava",
+    "artist": "Mounika",
+    "isrc": "INH412100456"
+  },
+  {
+    "title": "Gutta Gutta Tirigetoda",
+    "artist": "Relare Rela Shyamala",
+    "isrc": "INH412002614"
+  },
+  {
+    "title": "Bilabilaala Vaasana",
+    "artist": "Prabha",
+    "isrc": "INM5B2107847"
+  },
+  {
+    "title": "Ganga Oddu Ellu Dana",
+    "artist": "Gaddam Ramesh, Dasari Laxmi",
+    "isrc": "FRX282095913"
+  },
+  {
+    "title": "Nalla Nallani Kalladaana",
+    "artist": "Thirupathi Matla",
+    "isrc": "INH412107612"
+  },
+  {
+    "title": "Tambalapakesi Nade",
+    "artist": "Telu Vijaya",
+    "isrc": "INS231742365"
+  },
+  {
+    "title": "Parvathi Putrude Ganapayya",
+    "artist": "Akunuri Devaiah",
+    "isrc": "INM5B2107927"
+  },
+  {
+    "title": "Nemaleeya Raja",
+    "artist": "Mamidi Mounika, Vanila Gujjeti",
+    "isrc": "FRX202240777"
+  },
+  {
+    "title": "Golla Mallamma Kodala",
+    "artist": "Shankar Babu",
+    "isrc": "INS231742159"
+  },
+  {
+    "title": "Kaddaru sokka",
+    "artist": "Manukota Prasad, MOUNIKA YADAV",
+    "isrc": "FR10S2249123"
+  },
+  {
+    "title": "Nagali Dunneti Bangaru",
+    "artist": "Rama Devi, Laxman",
+    "isrc": "INS231742355"
+  },
+  {
+    "title": "Nayi Dhoro Rajamani Dj Song",
+    "artist": "Boddu Dilip Kumar, Lavanya Potharaju, Parvathi Mahesh",
+    "isrc": "DGA082264683"
+  },
+  {
+    "title": "Ravi Chettu Ragalu",
+    "artist": "Charan Arjun, Sowmya",
+    "isrc": "INMPT2500697"
+  },
+  {
+    "title": "Panchavanne",
+    "artist": "Suman Badanakal, Srinidhi Nerella",
+    "isrc": "FR59R2397102"
+  },
+  {
+    "title": "Pachha Dabbala Bandi",
+    "artist": "Gajwel Venu, Prabha",
+    "isrc": "INM5B2209670"
+  },
+  {
+    "title": "Yemoye Pilaga",
+    "artist": "Hanmanth Yadav",
+    "isrc": "INH412018500"
+  },
+  {
+    "title": "Podi Podi Vana",
+    "artist": "Shirisha",
+    "isrc": "INH412012920"
+  },
+  {
+    "title": "Nuv Matho Unte Chandrababu",
+    "artist": "Nalgonda Gaddar Narsanna",
+    "isrc": "USDY42451875"
+  },
+  {
+    "title": "Nuvvu Yadikosthe",
+    "artist": "Katike Ramu",
+    "isrc": "FR96X2212730"
+  },
+  {
+    "title": "Savitribai Phule",
+    "artist": "Rambabu Yasarapu",
+    "isrc": "FRX762311514"
+  },
+  {
+    "title": "Nayi Doro Naa Sinni Dora",
+    "artist": "Relare Ganga",
+    "isrc": "INO412200003"
+  },
+  {
+    "title": "Naku Vachina Gosa",
+    "artist": "Peddapuli Eshwar",
+    "isrc": "INM5B2007243"
+  },
+  {
+    "title": "Poola Poola Cheera Katti",
+    "artist": "A. Clement, Mohan Krishna",
+    "isrc": "INS920900786"
+  },
+  {
+    "title": "Manasu Galla Mahesh Dj Song",
+    "artist": "Parvathi Mahesh, Sampangi Rajeshwari, Dj Srikanth Chikatimamidi",
+    "isrc": "FR2X42203632"
+  }
+]

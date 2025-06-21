@@ -1,0 +1,752 @@
+[
+  {
+    "title": "El Zorzal",
+    "artist": "Chuito El De Bayamon",
+    "isrc": "USV291428638"
+  },
+  {
+    "title": "Que Bonita Bandera",
+    "artist": "Ramito",
+    "isrc": "QMYW20401448"
+  },
+  {
+    "title": "Una Noche En Borinquen",
+    "artist": "Los Pleneros del Quinto Olivo",
+    "isrc": "USZZR0811098"
+  },
+  {
+    "title": "Nuestra Tradición Cristiana",
+    "artist": "Grupo Mapeye",
+    "isrc": "QZTRX2275515"
+  },
+  {
+    "title": "¡Ay Patria, si yo pudiera!",
+    "artist": "Antonio Caban Vale",
+    "isrc": "ushm21020494"
+  },
+  {
+    "title": "No Se Llorar",
+    "artist": "Ramito y Maso",
+    "isrc": "QMYW20301361"
+  },
+  {
+    "title": "Idilio",
+    "artist": "Davilita",
+    "isrc": "QMYW20700083"
+  },
+  {
+    "title": "Esto Es Puerto Rico",
+    "artist": "Los Cantores de Puerto Rico, Nino Segarra",
+    "isrc": "QZQVV2100002"
+  },
+  {
+    "title": "Campo",
+    "artist": "Los Pleneros de la 21, Cojunto Melodia",
+    "isrc": "US7SF1355222"
+  },
+  {
+    "title": "Soy Boricua Hasta el Pelo",
+    "artist": "Luisito, Ramito, Moralito",
+    "isrc": "QMYW20500006"
+  },
+  {
+    "title": "Ciegos y Sordomudos",
+    "artist": "José Nogueras, Willie Colón",
+    "isrc": "GX3Q92403022"
+  },
+  {
+    "title": "Que Bonita Bandera",
+    "artist": "Plena Libre",
+    "isrc": "USASN1202985"
+  },
+  {
+    "title": "Caminan Las Nubes",
+    "artist": "Los Cantores de Bayamón",
+    "isrc": "TCABL1351166"
+  },
+  {
+    "title": "Nació En Mi Tierra",
+    "artist": "Angel Luis Torruellas",
+    "isrc": "US78T0505320"
+  },
+  {
+    "title": "Plegaria",
+    "artist": "Felipe \"La Voz\" Rodriguez, María Esther Pérez",
+    "isrc": "QMYW20300172"
+  },
+  {
+    "title": "De La Montaña Venimos",
+    "artist": "Maso Rivera",
+    "isrc": "QMYW20300680"
+  },
+  {
+    "title": "Plena del Solar",
+    "artist": "Los Pleneros de la 23 Abajo",
+    "isrc": "QM9A91639497"
+  },
+  {
+    "title": "Lamento Campesino",
+    "artist": "Tony Croatto",
+    "isrc": "QMYW20501144"
+  },
+  {
+    "title": "Puertorriqueños Primero",
+    "artist": "Luis Daniel Colón, Tony Croatto, Edwin Colon Zayas",
+    "isrc": "QMYW20500891"
+  },
+  {
+    "title": "Campanitas De Cristal",
+    "artist": "Joe Valle, Rafael Hernandez",
+    "isrc": "US78T0505821"
+  },
+  {
+    "title": "La Novia Nueva",
+    "artist": "Plenealo",
+    "isrc": "TCABI1229595"
+  },
+  {
+    "title": "El Ña",
+    "artist": "Herminio De Jesus",
+    "isrc": "TCAAS1094849"
+  },
+  {
+    "title": "Jíbaro hasta el hueso (Jíbaro to the Bone)",
+    "artist": "Ecos de Borinquen",
+    "isrc": "USSF10350603"
+  },
+  {
+    "title": "Antonia Martinez",
+    "artist": "Andrés Jiménez, El Jíbaro",
+    "isrc": "TCABK1292940"
+  },
+  {
+    "title": "Timba Timbo",
+    "artist": "Plena Adentro",
+    "isrc": "ushm21739629"
+  },
+  {
+    "title": "La Copa Rota",
+    "artist": "Trio Vegabajeño",
+    "isrc": "MXF551256501"
+  },
+  {
+    "title": "Buchipluma no Mas",
+    "artist": "Lucecita Benitez",
+    "isrc": "TCAEX2004940"
+  },
+  {
+    "title": "El Conde De Loiza",
+    "artist": "Hermanos Ayala",
+    "isrc": "USLE10252710"
+  },
+  {
+    "title": "la Reina Mia",
+    "artist": "Viento De Agua",
+    "isrc": "TCAAS1038011"
+  },
+  {
+    "title": "Ola de la Mar",
+    "artist": "Félix Alduén",
+    "isrc": "ushm80697652"
+  },
+  {
+    "title": "Mamá, cuídame a Belén",
+    "artist": "Paracumbé, Nelie Lebron Robles",
+    "isrc": "USHW30710036"
+  },
+  {
+    "title": "Candela",
+    "artist": "Zona de Bomba",
+    "isrc": "QMZM81500008"
+  },
+  {
+    "title": "El Llanto de un Angel",
+    "artist": "Cuarteto Mayari, Trio Los Condes, Trio Vegabajeño",
+    "isrc": "USMRE0814107"
+  },
+  {
+    "title": "Inyere",
+    "artist": "Yuba Ire",
+    "isrc": "ushm81114416"
+  },
+  {
+    "title": "Majestad Negra",
+    "artist": "La Familia Cepeda",
+    "isrc": "TCACO1622483"
+  },
+  {
+    "title": "La Llevo en Mis Venas / Bambulé a Paré / Dios Mío Si Yo Pudiera / Consuélala",
+    "artist": "Tambuyé",
+    "isrc": "ushm81377428"
+  },
+  {
+    "title": "Mil Besos",
+    "artist": "Cheito Gonzalez",
+    "isrc": "US78T0511430"
+  },
+  {
+    "title": "Me Estas Olvidando",
+    "artist": "Cuarteto Marcano",
+    "isrc": "QZKVY2000886"
+  },
+  {
+    "title": "Rayo de Sol",
+    "artist": "Los Pleneros de la Cresta, Christian Nieves Maldonado",
+    "isrc": "USCGJ2094875"
+  },
+  {
+    "title": "Noche de Locura",
+    "artist": "Felipe Y Davilita",
+    "isrc": "QMYW20300363"
+  },
+  {
+    "title": "Seis Milonguero",
+    "artist": "Edwin Colon Zayas y Su Taller Campesino",
+    "isrc": "USRO29405601"
+  },
+  {
+    "title": "Bombale",
+    "artist": "Bomba & Plena",
+    "isrc": "FR6V80976620"
+  },
+  {
+    "title": "Celos Sin Motivos",
+    "artist": "Odilio Gonzalez",
+    "isrc": "US78T0504639"
+  },
+  {
+    "title": "Boricua en la luna - En Vivo",
+    "artist": "Roy Brown",
+    "isrc": "USA2P1203453"
+  },
+  {
+    "title": "Mi Maria Luisa",
+    "artist": "La Tribu de Abrante",
+    "isrc": "USASN1600400"
+  },
+  {
+    "title": "Adios Adios",
+    "artist": "Jose Antonio Salaman",
+    "isrc": "USMRE0814501"
+  },
+  {
+    "title": "El Negro Bembón",
+    "artist": "Cortijo Y Su Combo, Ismael Rivera",
+    "isrc": "US78T0503195"
+  },
+  {
+    "title": "Que Feliz",
+    "artist": "Sexteto Borinquen",
+    "isrc": "QZKVY2001195"
+  },
+  {
+    "title": "Lluvia con Nieve",
+    "artist": "Mon Rivera",
+    "isrc": "USDBB0600922"
+  },
+  {
+    "title": "Loco Pero Feliz",
+    "artist": "Pirulo y la Tribu",
+    "isrc": "QMFN31300004"
+  },
+  {
+    "title": "Se Rompió la Cadena",
+    "artist": "El Super Trio",
+    "isrc": "QM4TW2455517"
+  },
+  {
+    "title": "Solavaya",
+    "artist": "Rafael Cortijo",
+    "isrc": "FR6V81419034"
+  },
+  {
+    "title": "Palabras de mujer",
+    "artist": "Trío San Juan, Agustín Lara",
+    "isrc": "CA5KR1810521"
+  },
+  {
+    "title": "Moliendo Cafe",
+    "artist": "Yomo Toro, Nieves Quintero",
+    "isrc": "USMRE0812201"
+  },
+  {
+    "title": "Dominó",
+    "artist": "Rafael Cortijo Y Su Bonche",
+    "isrc": "USDBB0602427"
+  },
+  {
+    "title": "Pa' Los Boricuas Ausentes",
+    "artist": "Cesar Concepcion, Joe Valle",
+    "isrc": "US78T0505319"
+  },
+  {
+    "title": "Mensaje (Vals)",
+    "artist": "Julito Rodriguez",
+    "isrc": "USV291479039"
+  },
+  {
+    "title": "Incomprendido",
+    "artist": "Ismael Rivera",
+    "isrc": "USDBB0600449"
+  },
+  {
+    "title": "La Pulguita",
+    "artist": "Manuel Jimenez Y Su Cuarteto",
+    "isrc": "QZKVY2000179"
+  },
+  {
+    "title": "Pica Pica",
+    "artist": "Cortijo Y Su Nuevo Combo",
+    "isrc": "QM6MZ2261397"
+  },
+  {
+    "title": "Un Tributo",
+    "artist": "Plenarium",
+    "isrc": "US3Z40700395"
+  },
+  {
+    "title": "Cómo Fue",
+    "artist": "Miguel Zenón, Luis Perdomo",
+    "isrc": "USME32001402"
+  },
+  {
+    "title": "En Bicicleta (Merengue)",
+    "artist": "Manuel Jiménez Y Su Orquesta, Tonín García",
+    "isrc": "USA371038678"
+  },
+  {
+    "title": "Destino",
+    "artist": "César Concepción Orchestra",
+    "isrc": "GRHR11005505"
+  },
+  {
+    "title": "A Puerto Rico (Salsa)",
+    "artist": "Barreto Y Su Plena",
+    "isrc": "TCABI1232270"
+  },
+  {
+    "title": "Tequila",
+    "artist": "Cortijo & Su Combo",
+    "isrc": "USA371027220"
+  },
+  {
+    "title": "El Doctor Guenaga",
+    "artist": "Grupo Afro Boriqua, Director William Cepeda",
+    "isrc": "USLE19851611"
+  },
+  {
+    "title": "Escondete",
+    "artist": "Herminio de Jesus",
+    "isrc": "QZES71833085"
+  },
+  {
+    "title": "Boricua Como El Coqui",
+    "artist": "Ivan Perez & Luis Rivera",
+    "isrc": "ushm90577428"
+  },
+  {
+    "title": "Que Le Den Pau Pau",
+    "artist": "Manuel Jimenez, Orquesta",
+    "isrc": "GRGCM1837618"
+  },
+  {
+    "title": "Paso a Paso",
+    "artist": "Mijo de la Palma",
+    "isrc": "uscgj1597451"
+  },
+  {
+    "title": "La Chicharra de Güanda",
+    "artist": "PlenaSon",
+    "isrc": "TCAFB2024373"
+  },
+  {
+    "title": "Rumbo A La Canada",
+    "artist": "Tamborazo Caliente",
+    "isrc": "USJ3V1076780"
+  },
+  {
+    "title": "El Jibaro Bruto",
+    "artist": "Chuito El De Bayamon",
+    "isrc": "QZKVY2000691"
+  },
+  {
+    "title": "No Cambio a Puerto Rico",
+    "artist": "Ramito",
+    "isrc": "QMYW20401446"
+  },
+  {
+    "title": "Cuando Sali De Collores",
+    "artist": "Los Pleneros del Quinto Olivo",
+    "isrc": "USZZR0811100"
+  },
+  {
+    "title": "Igual Que Mi Viejo",
+    "artist": "Grupo Mapeye",
+    "isrc": "USZZR0910887"
+  },
+  {
+    "title": "Así Es Como Vivo Yo",
+    "artist": "Antonio Caban Vale",
+    "isrc": "QMYW20401407"
+  },
+  {
+    "title": "Angeles del Cielo",
+    "artist": "Ramito y Maso",
+    "isrc": "QMYW20301363"
+  },
+  {
+    "title": "Al Paso - Pachanga",
+    "artist": "Davilita",
+    "isrc": "QMYW20300456"
+  },
+  {
+    "title": "Medley Navideño 2",
+    "artist": "Los Cantores de Puerto Rico",
+    "isrc": "TCACB1400137"
+  },
+  {
+    "title": "Campo (Land) / Yo cantaré esta bomba (I Will Sing This Bomba)",
+    "artist": "Los Pleneros de la 21",
+    "isrc": "USSF10551909"
+  },
+  {
+    "title": "Alla en la Altura",
+    "artist": "Luisito, Ramito, Moralito",
+    "isrc": "QMYW20500002"
+  },
+  {
+    "title": "Hormiga Brava - 2023 Remastered",
+    "artist": "José Nogueras",
+    "isrc": "QZTV32305166"
+  },
+  {
+    "title": "Medley De La Calle San Sebastian",
+    "artist": "Plena Libre",
+    "isrc": "GBAJC0404772"
+  },
+  {
+    "title": "Popurri la Muralla (Amanecer Borincano, El Buen Borincano)",
+    "artist": "Los Cantores de Bayamón",
+    "isrc": "QMEU31716154"
+  },
+  {
+    "title": "Soy Caribeña - Plena",
+    "artist": "Angel Luis Torruellas",
+    "isrc": "QMYW20700995"
+  },
+  {
+    "title": "Por Culpa Tuya",
+    "artist": "Felipe \"La Voz\" Rodriguez, Roberto Ledesma, Daniel Santos",
+    "isrc": "USMRE0811510"
+  },
+  {
+    "title": "Perfidia",
+    "artist": "Maso Rivera",
+    "isrc": "QMYW20500893"
+  },
+  {
+    "title": "Golpe de Plena",
+    "artist": "Los Pleneros de la 23 Abajo",
+    "isrc": "QM9A91639494"
+  },
+  {
+    "title": "Son Borinqueños",
+    "artist": "Tony Croatto",
+    "isrc": "QMYW20501148"
+  },
+  {
+    "title": "A Mi Patria y Su Cultura",
+    "artist": "Luis Daniel Colón, Tony Croatto, Edwin Colon Zayas",
+    "isrc": "QMYW20500887"
+  },
+  {
+    "title": "Cha cha cha Flamenco - Remastered",
+    "artist": "Joe Valle",
+    "isrc": "ES58A2003331"
+  },
+  {
+    "title": "Ojala",
+    "artist": "Plenealo",
+    "isrc": "TCADY1891856"
+  },
+  {
+    "title": "Asomate Al Balcon",
+    "artist": "Herminio De Jesus",
+    "isrc": "TCAAS1094053"
+  },
+  {
+    "title": "Nuestro amigo el flamboyán (Our Friend the Flame Tree)",
+    "artist": "Ecos de Borinquen",
+    "isrc": "USSF11557002"
+  },
+  {
+    "title": "Me Voy Pa'l Campo",
+    "artist": "Andrés Jiménez, El Jíbaro",
+    "isrc": "TCABK1293009"
+  },
+  {
+    "title": "Camino Galopante",
+    "artist": "Plena Adentro",
+    "isrc": "ushm21739630"
+  },
+  {
+    "title": "El Amor del Jibarito",
+    "artist": "Trio Vegabajeño",
+    "isrc": "QM6P41423358"
+  },
+  {
+    "title": "Raza Pura",
+    "artist": "Lucecita Benitez",
+    "isrc": "USBL10001861"
+  },
+  {
+    "title": "Rule Sonda",
+    "artist": "Hermanos Ayala",
+    "isrc": "USLE10252714"
+  },
+  {
+    "title": "Lo Que Le Gusta a la Gente",
+    "artist": "Viento De Agua",
+    "isrc": "TCAAS1038010"
+  },
+  {
+    "title": "Adiós que me voy",
+    "artist": "Félix Alduén",
+    "isrc": "ushm80697659"
+  },
+  {
+    "title": "Palo'e bandera",
+    "artist": "Paracumbé, Nelie Lebron Robles",
+    "isrc": "USHW30710047"
+  },
+  {
+    "title": "Bomba y Plena",
+    "artist": "Zona de Bomba",
+    "isrc": "QMZM81500002"
+  },
+  {
+    "title": "Continuacion a Cabellera Blanca",
+    "artist": "Cuarteto Mayari, Trio Los Condes, Trio Vegabajeño",
+    "isrc": "USMRE0813302"
+  },
+  {
+    "title": "Julieta",
+    "artist": "Yuba Ire",
+    "isrc": "ushm81190979"
+  },
+  {
+    "title": "Aqui el Roble",
+    "artist": "La Familia Cepeda",
+    "isrc": "TCACO1622448"
+  },
+  {
+    "title": "El Jardinero",
+    "artist": "Tambuyé",
+    "isrc": "ushm81377432"
+  },
+  {
+    "title": "Te Necesito",
+    "artist": "Cheito Gonzalez, Trío Casino de Santurce",
+    "isrc": "US78T0505299"
+  },
+  {
+    "title": "Bajo un Palmar",
+    "artist": "Cuarteto Marcano",
+    "isrc": "ES71G2211476"
+  },
+  {
+    "title": "Los de la Isla",
+    "artist": "Los Pleneros de la Cresta",
+    "isrc": "uscgj1572373"
+  },
+  {
+    "title": "Compra y Venta",
+    "artist": "Felipe Y Davilita",
+    "isrc": "QMYW20300362"
+  },
+  {
+    "title": "Seis Mariandá",
+    "artist": "Edwin Colon Zayas y Su Taller Campesino",
+    "isrc": "USRO29405612"
+  },
+  {
+    "title": "Baquine",
+    "artist": "Bomba & Plena",
+    "isrc": "FR6V80976618"
+  },
+  {
+    "title": "Por Retenerte",
+    "artist": "Odilio Gonzalez",
+    "isrc": "COF019502326"
+  },
+  {
+    "title": "Oubao-Moin",
+    "artist": "Roy Brown",
+    "isrc": "USA2P1203745"
+  },
+  {
+    "title": "Bámbula",
+    "artist": "La Tribu de Abrante",
+    "isrc": "US9PJ1601004"
+  },
+  {
+    "title": "Caminito Vecino",
+    "artist": "Jose Antonio Salaman",
+    "isrc": "USMRE0814503"
+  },
+  {
+    "title": "Campanitas de Cristal",
+    "artist": "Sexteto Borinquen, Mario Hernandez",
+    "isrc": "US6R21416271"
+  },
+  {
+    "title": "Quítate de la Via Perico",
+    "artist": "Cortijo Y Su Combo, Ismael Rivera",
+    "isrc": "US4XG9600314"
+  },
+  {
+    "title": "Tranquilito",
+    "artist": "Pirulo y la Tribu",
+    "isrc": "QMFN31700002"
+  },
+  {
+    "title": "En Casa De Pepe",
+    "artist": "Mon Rivera",
+    "isrc": "USDBB0600785"
+  },
+  {
+    "title": "Se Rompió La Cadena",
+    "artist": "El Super Trio",
+    "isrc": "US78T0507115"
+  },
+  {
+    "title": "Mi Gran Paseo",
+    "artist": "Chuito El De Bayamon",
+    "isrc": "QZKVY2001114"
+  },
+  {
+    "title": "Nuestros Pueblos",
+    "artist": "Ramito",
+    "isrc": "QMYW20401451"
+  },
+  {
+    "title": "El Zorzal",
+    "artist": "Los Pleneros del Quinto Olivo",
+    "isrc": "USZZR0811095"
+  },
+  {
+    "title": "De La Epifania",
+    "artist": "Grupo Mapeye",
+    "isrc": "USZZR0910877"
+  },
+  {
+    "title": "Antonia",
+    "artist": "Antonio Caban Vale",
+    "isrc": "USSF17803503"
+  },
+  {
+    "title": "Al Nacer la Aurora",
+    "artist": "Ramito y Maso",
+    "isrc": "QMYW20301362"
+  },
+  {
+    "title": "Yo También Soy Boricua - Bolero",
+    "artist": "Davilita",
+    "isrc": "QMYW20300787"
+  },
+  {
+    "title": "Cuando el Gallo Canta",
+    "artist": "Los Cantores de Puerto Rico",
+    "isrc": "TCABB1148353"
+  },
+  {
+    "title": "Plena De San Anton",
+    "artist": "Los Pleneros de la 21",
+    "isrc": "USHS19600302"
+  },
+  {
+    "title": "Divino Maestro",
+    "artist": "Luisito, Ramito, Moralito",
+    "isrc": "QMYW20500003"
+  },
+  {
+    "title": "Que Se Vaya Lo Malo y Que Venga Lo Bueno",
+    "artist": "José Nogueras, Gilberto Santa Rosa",
+    "isrc": "GBMA21944680"
+  },
+  {
+    "title": "Cantare a Puerto Rico",
+    "artist": "Plena Libre",
+    "isrc": "usl4q0719021"
+  },
+  {
+    "title": "Pa Ver Si Me Prendo",
+    "artist": "Los Cantores de Bayamón",
+    "isrc": "TCABC1122331"
+  },
+  {
+    "title": "El Pañuelo Colorao",
+    "artist": "Angel Luis Torruellas",
+    "isrc": "QMYW20800594"
+  },
+  {
+    "title": "No Corazon",
+    "artist": "Felipe \"La Voz\" Rodriguez, Roberto Ledesma, Daniel Santos",
+    "isrc": "USMRE0811507"
+  },
+  {
+    "title": "Hasta Aquí Llegamos",
+    "artist": "Maso Rivera",
+    "isrc": "QMYW20300682"
+  },
+  {
+    "title": "Cimarron",
+    "artist": "Los Pleneros de la 23 Abajo",
+    "isrc": "QM9A91639487"
+  },
+  {
+    "title": "Canción de la Serranía",
+    "artist": "Tony Croatto",
+    "isrc": "QMYW20401275"
+  },
+  {
+    "title": "Padre Mio",
+    "artist": "Luis Daniel Colón",
+    "isrc": "QMYW20500024"
+  },
+  {
+    "title": "Plazos Traicioneros",
+    "artist": "Joe Valle, Tito Puente, Tony Pabon, Adalberto Santiago, Vitin Aviles, Sal Cuevas",
+    "isrc": "USMRE0872207"
+  },
+  {
+    "title": "Atea (Prospera)",
+    "artist": "Plenealo",
+    "isrc": "QMFMF2359275"
+  },
+  {
+    "title": "El Coqui",
+    "artist": "Herminio De Jesus",
+    "isrc": "TCAAS1094047"
+  },
+  {
+    "title": "La herencia de mi papá (The Heritage of My Father)",
+    "artist": "Ecos de Borinquen",
+    "isrc": "USSF10350602"
+  },
+  {
+    "title": "Café Con Pan",
+    "artist": "Andrés Jiménez, El Jíbaro",
+    "isrc": "TCABB1195193"
+  },
+  {
+    "title": "La Calle San Sebastian",
+    "artist": "Plena Adentro",
+    "isrc": "uscgh2144333"
+  },
+  {
+    "title": "Sigamos Pecando",
+    "artist": "Trio Vegabajeño",
+    "isrc": "USJE61702560"
+  }
+]

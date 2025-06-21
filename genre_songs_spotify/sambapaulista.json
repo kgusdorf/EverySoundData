@@ -1,0 +1,807 @@
+[
+  {
+    "title": "Estrela",
+    "artist": "Eduardo Gudin, Vânia Bastos",
+    "isrc": "BRELD0500129"
+  },
+  {
+    "title": "Patrimônio da Humanidade",
+    "artist": "Quinteto em Branco e Preto, Maurilio de Oliveira",
+    "isrc": "BRTPA0700064"
+  },
+  {
+    "title": "Tristeza Pé No Chão",
+    "artist": "Fabiana Cozza",
+    "isrc": "BRFZA1300002"
+  },
+  {
+    "title": "A Comunidade Chora",
+    "artist": "Samba da Vela",
+    "isrc": "BRA910500020"
+  },
+  {
+    "title": "Pra Não Deixar Morrer",
+    "artist": "Yvison Pessoa",
+    "isrc": "QZ5AB2354735"
+  },
+  {
+    "title": "Ditado antigo",
+    "artist": "Memória do Samba Paulista",
+    "isrc": "BRASM0700063"
+  },
+  {
+    "title": "Diploma de Sambista",
+    "artist": "Dona Inah",
+    "isrc": "BRPOU1200041"
+  },
+  {
+    "title": "Por Liberdade",
+    "artist": "Graça Braga",
+    "isrc": "BRPOU0900002"
+  },
+  {
+    "title": "Sá Marina",
+    "artist": "Berço do Samba de São Mateus",
+    "isrc": "BR9GN1400364"
+  },
+  {
+    "title": "Tonalidade Original",
+    "artist": "Germano Mathias",
+    "isrc": "BXGAK2300025"
+  },
+  {
+    "title": "Maria de Vila Matilde",
+    "artist": "Douglas Germano",
+    "isrc": "BRD761500009"
+  },
+  {
+    "title": "Canto da Bisa - Ao vivo",
+    "artist": "Chapinha da Vela, Samba da Vela",
+    "isrc": "BRJZT1900005"
+  },
+  {
+    "title": "Fuzuê",
+    "artist": "Adriana Moreira",
+    "isrc": "BRPOU1200111"
+  },
+  {
+    "title": "Partido na Cozinha",
+    "artist": "Osvaldinho da Cuíca, Grupo Vai Vai",
+    "isrc": "BR03D1903960"
+  },
+  {
+    "title": "Manto da Verdade",
+    "artist": "Everson Pessoa",
+    "isrc": "BXLAT2300003"
+  },
+  {
+    "title": "Inconsequentes",
+    "artist": "Serginho Madureira, Festa da Raça",
+    "isrc": "QZGLM1942714"
+  },
+  {
+    "title": "Brasil recebe o mundo de braços abertos",
+    "artist": "Plínio Marcos",
+    "isrc": "BRWMB1100698"
+  },
+  {
+    "title": "Le Bolívia",
+    "artist": "Toinho Melodia",
+    "isrc": "BX3NV1800010"
+  },
+  {
+    "title": "Oya Oya",
+    "artist": "Roberta Oliveira, O Bando de Lá",
+    "isrc": "BCRBL2000001"
+  },
+  {
+    "title": "Milágrimas",
+    "artist": "Itamar Assumpção, As Orquídeas do Brasil",
+    "isrc": "BRCEP0300071"
+  },
+  {
+    "title": "Atraco",
+    "artist": "Rodrigo Campos, Mari Tavares",
+    "isrc": "BX0GC2100001"
+  },
+  {
+    "title": "Vovó Maria",
+    "artist": "Marquinhos Jaca",
+    "isrc": "BRMBH1000001"
+  },
+  {
+    "title": "Cartilha do Samba",
+    "artist": "Emerson Urso",
+    "isrc": "BRUJK1600076"
+  },
+  {
+    "title": "Maria Que Ninguém Queria",
+    "artist": "João Macacão",
+    "isrc": "BRPUI0200261"
+  },
+  {
+    "title": "Padê Onã",
+    "artist": "Kiko Dinucci, Bando Afromacarrônico",
+    "isrc": "BRTS60800002"
+  },
+  {
+    "title": "Povo Guerreiro",
+    "artist": "Pagode da 27",
+    "isrc": "BRA221001041"
+  },
+  {
+    "title": "Quilombo",
+    "artist": "Samba de Dandara, Roberta Kelly, Laura Santos, Amanda Lima, Aninha Batucada, Camila Trindade, Jana Cunha, Karina Oliveira, Paula Sanches, Railídia, Raquel Tobias, Roberta Oliveira",
+    "isrc": "BCAMN2000005"
+  },
+  {
+    "title": "O Amor - Ao Vivo",
+    "artist": "Deu Samba Na Cabeça",
+    "isrc": "QZHZ31955577"
+  },
+  {
+    "title": "Já Foi Meu Carnaval",
+    "artist": "Guilherme Lacerda, Geovana",
+    "isrc": "BRGAK1600007"
+  },
+  {
+    "title": "Nêgo dito",
+    "artist": "Branca Di Neve",
+    "isrc": "BRWMB9700727"
+  },
+  {
+    "title": "Preciso Desse Mel",
+    "artist": "Grupo Sensação",
+    "isrc": "FR2X41802042"
+  },
+  {
+    "title": "Império do Samba",
+    "artist": "Francineth, Batuqueiros e Sua Gente, Henrique Araújo",
+    "isrc": "BRPOU1800046"
+  },
+  {
+    "title": "Quando Eu For, Eu Vou Sem Pena",
+    "artist": "Chico Buarque",
+    "isrc": "BRPUI0200249"
+  },
+  {
+    "title": "O Navegante Negro",
+    "artist": "Ideval Anselmo",
+    "isrc": "BRASM1000068"
+  },
+  {
+    "title": "One Chance",
+    "artist": "Marcia",
+    "isrc": "BXCTR1900147"
+  },
+  {
+    "title": "Disfarce",
+    "artist": "Chiquinho Dos Santos, Soweto",
+    "isrc": "BRD070800006"
+  },
+  {
+    "title": "Vai Buscar Yaya",
+    "artist": "Comunidade Samba da Laje",
+    "isrc": "BXN5F2000002"
+  },
+  {
+    "title": "Inaraí",
+    "artist": "Katinguelê",
+    "isrc": "BRWMB9800123"
+  },
+  {
+    "title": "Kolombolo",
+    "artist": "T. Kaçula & Renato Dias",
+    "isrc": "BRSO10700337"
+  },
+  {
+    "title": "Desejo de Amar",
+    "artist": "Eliana de Lima",
+    "isrc": "BRJWC1800012"
+  },
+  {
+    "title": "Oyá - Sorriso Negro - Ao Vivo",
+    "artist": "Prettos, Magnu Sousá, Maurilio de Oliveira, Emicida",
+    "isrc": "BRGOZ1900023"
+  },
+  {
+    "title": "E Isso Ai",
+    "artist": "Paula Lima",
+    "isrc": "GBCLQ0000457"
+  },
+  {
+    "title": "Praça Clóvis",
+    "artist": "Ana Bernardo",
+    "isrc": "BRPUI0200240"
+  },
+  {
+    "title": "Beijo Geladinho",
+    "artist": "Negritude Junior",
+    "isrc": "BREMI9400314"
+  },
+  {
+    "title": "Trem Das Onze",
+    "artist": "Adoniran Barbosa",
+    "isrc": "BREMI7400232"
+  },
+  {
+    "title": "Tributo à Nenê",
+    "artist": "Velha Guarda do G.R.C.E.S. Nenê de Vila Matilde",
+    "isrc": "BRASM0800046"
+  },
+  {
+    "title": "Coisa Boa É para Sempre",
+    "artist": "Thobias Da Vai-Vai",
+    "isrc": "BRAPI0200409"
+  },
+  {
+    "title": "Sou Guerreira",
+    "artist": "Esmeralda Ortiz",
+    "isrc": "BRSC41500091"
+  },
+  {
+    "title": "Deus Sabe Quem Merece",
+    "artist": "Samba do Povo",
+    "isrc": "BX59Q2000007"
+  },
+  {
+    "title": "Simples Desejo",
+    "artist": "Luciana Mello",
+    "isrc": "QZ5AB1704033"
+  },
+  {
+    "title": "Não Vou Na Sua Casa",
+    "artist": "Trovadores Urbanos",
+    "isrc": "QMFMF1313008"
+  },
+  {
+    "title": "Encalacrado",
+    "artist": "Marco Mattoli, Fabiana Cozza",
+    "isrc": "BXDFR1600047"
+  },
+  {
+    "title": "Ainda Mais",
+    "artist": "Eduardo Gudin, Notìcias Dum Brasil",
+    "isrc": "BRSGL9800197"
+  },
+  {
+    "title": "Cordiais Saudações",
+    "artist": "Roberto Seresteiro",
+    "isrc": "BRPOU1400012"
+  },
+  {
+    "title": "Pra Ninar Você",
+    "artist": "Grazzi Brasil, Prettos",
+    "isrc": "BXZRQ2300005"
+  },
+  {
+    "title": "Olha o Peixe",
+    "artist": "Chocolatte da Vila Maria",
+    "isrc": "QZ5AB2017714"
+  },
+  {
+    "title": "Perfume De Flor",
+    "artist": "Dri Lima",
+    "isrc": "BCAVE2100003"
+  },
+  {
+    "title": "Trem Das Onze",
+    "artist": "Demonios Da Garoa",
+    "isrc": "BREMI9000172"
+  },
+  {
+    "title": "A Periferia Não Dormiu",
+    "artist": "Tiaraju Pablo",
+    "isrc": "BXTRJ1500007"
+  },
+  {
+    "title": "Tá Vendo Aquela Lua",
+    "artist": "Exaltasamba",
+    "isrc": "BRIAW1000013"
+  },
+  {
+    "title": "A Flor Colorida do Amor",
+    "artist": "Maíra da Rosa",
+    "isrc": "BRTHS1700147"
+  },
+  {
+    "title": "Presente para Iemanjá",
+    "artist": "Grupo Paranapanema",
+    "isrc": "BX3ZZ1800009"
+  },
+  {
+    "title": "Amigo",
+    "artist": "Tita Reis, Marcelo Jeneci",
+    "isrc": "BRRN42300005"
+  },
+  {
+    "title": "Filho de Vera",
+    "artist": "Nhocuné Soul",
+    "isrc": "BRHOX0700013"
+  },
+  {
+    "title": "Nossa Quebrada",
+    "artist": "Samba do Congo",
+    "isrc": "BR3W71600010"
+  },
+  {
+    "title": "Só Vai na Onda",
+    "artist": "João Borba",
+    "isrc": "BRDPA0900225"
+  },
+  {
+    "title": "Ela É Iansã",
+    "artist": "Paulinho Cuíca, Ully Costa, Charlie Diéf",
+    "isrc": "BXPUD1400008"
+  },
+  {
+    "title": "Ritos de Passagem",
+    "artist": "Juliana Amaral, Clarianas, Erica Navarro, Talita del Collado",
+    "isrc": "BXGTT2400022"
+  },
+  {
+    "title": "Molho de Boi",
+    "artist": "Choco / Latte, Alan Hetherington",
+    "isrc": "CA0O51300008"
+  },
+  {
+    "title": "Jardim de Flores - Ao Vivo",
+    "artist": "Cesinha Pivetta",
+    "isrc": "BRPOU1300017"
+  },
+  {
+    "title": "O que vier eu traço / Teco teco",
+    "artist": "Miriam Batucada",
+    "isrc": "BRWMB0200580"
+  },
+  {
+    "title": "Dia de São Nunca",
+    "artist": "Karina Ninni",
+    "isrc": "BRPOU1500010"
+  },
+  {
+    "title": "Ben Jhonson",
+    "artist": "Faeti",
+    "isrc": "BRKPA1800008"
+  },
+  {
+    "title": "Para um Grande Amor",
+    "artist": "Brau de Souza, Adryana Ribeiro",
+    "isrc": "BXM6P1700005"
+  },
+  {
+    "title": "A Morte de Chico Preto",
+    "artist": "Duo Balangulá, Alê Freire, Zé Esmerindo",
+    "isrc": "BR3T21500004"
+  },
+  {
+    "title": "Grama Verde",
+    "artist": "Elizah",
+    "isrc": "BRMUD0300017"
+  },
+  {
+    "title": "Igual a um Colibri",
+    "artist": "Tabajara Rosa, Anita Galvão Bueno",
+    "isrc": "BXTBJ1700006"
+  },
+  {
+    "title": "Ciclo das Águas",
+    "artist": "Teroca",
+    "isrc": "BRTZX1301303"
+  },
+  {
+    "title": "Passei em Angola",
+    "artist": "Tio Mario",
+    "isrc": "BRASM1000086"
+  },
+  {
+    "title": "Força de Cachoeira",
+    "artist": "Zuculin, Luana Bayô",
+    "isrc": "usl4q1838338"
+  },
+  {
+    "title": "Doido Varrido",
+    "artist": "Zé Eduardo",
+    "isrc": "BRPOU1600038"
+  },
+  {
+    "title": "Paulista",
+    "artist": "Eduardo Gudin, Vânia Bastos",
+    "isrc": "BRELD0500132"
+  },
+  {
+    "title": "Sempre Acesa (feat. Beth Carvalho)",
+    "artist": "Quinteto em Branco e Preto, Beth Carvalho",
+    "isrc": "BRUME0800029"
+  },
+  {
+    "title": "Alquimias",
+    "artist": "Fabiana Cozza, Ilessi",
+    "isrc": "BRPUI2300140"
+  },
+  {
+    "title": "O Povo da Vela",
+    "artist": "Samba da Vela",
+    "isrc": "BRA910500007"
+  },
+  {
+    "title": "Partido do Instituto",
+    "artist": "Yvison Pessoa",
+    "isrc": "BXYPR2200002"
+  },
+  {
+    "title": "Bolo de fubá",
+    "artist": "Memória do Samba Paulista",
+    "isrc": "BRASM0700064"
+  },
+  {
+    "title": "Velho Ateu",
+    "artist": "Dona Inah",
+    "isrc": "BRDPA0800041"
+  },
+  {
+    "title": "Fora do Baralho",
+    "artist": "Graça Braga",
+    "isrc": "BRECI1100030"
+  },
+  {
+    "title": "Coração de Bamba",
+    "artist": "Berço do Samba de São Mateus",
+    "isrc": "BR9GN1400365"
+  },
+  {
+    "title": "Requebrado Diferente",
+    "artist": "Germano Mathias, Manu Lafer, Mateus Aleluia",
+    "isrc": "BRMF62100006"
+  },
+  {
+    "title": "Recado aos Bambas - Ao vivo",
+    "artist": "Chapinha da Vela",
+    "isrc": "BRJZT1900001"
+  },
+  {
+    "title": "Tempo Velho",
+    "artist": "Douglas Germano",
+    "isrc": "BXQF21900008"
+  },
+  {
+    "title": "Precisava Me Cuidar",
+    "artist": "Adriana Moreira",
+    "isrc": "BRPOU1200113"
+  },
+  {
+    "title": "Va Cuidar da Sua Vida",
+    "artist": "Osvaldinho da Cuíca",
+    "isrc": "FR59R1722634"
+  },
+  {
+    "title": "Samba aos Nossos Ancestrais",
+    "artist": "Everson Pessoa",
+    "isrc": "BXLAT1900015"
+  },
+  {
+    "title": "Correr pelo Certo - Ao Vivo",
+    "artist": "Serginho Madureira",
+    "isrc": "QZGLM2005308"
+  },
+  {
+    "title": "Bloco do chora galo",
+    "artist": "Plínio Marcos",
+    "isrc": "BRWMB1100704"
+  },
+  {
+    "title": "Pretexto",
+    "artist": "Toinho Melodia",
+    "isrc": "BX3NV1800005"
+  },
+  {
+    "title": "Ogum Iê",
+    "artist": "Roberta Oliveira, O Bando de Lá",
+    "isrc": "BCRBL2000003"
+  },
+  {
+    "title": "Tua Boca",
+    "artist": "Itamar Assumpção, As Orquídeas do Brasil",
+    "isrc": "BRCEP0300076"
+  },
+  {
+    "title": "Califórnia Azul",
+    "artist": "Rodrigo Campos",
+    "isrc": "BRIND0900004"
+  },
+  {
+    "title": "Vaso Ruim",
+    "artist": "Marquinhos Jaca",
+    "isrc": "BRMBH1000007"
+  },
+  {
+    "title": "Saravá",
+    "artist": "Emerson Urso",
+    "isrc": "US7VG1210548"
+  },
+  {
+    "title": "Falso Boêmio",
+    "artist": "João Macacão",
+    "isrc": "BRPUI0200218"
+  },
+  {
+    "title": "Veneno",
+    "artist": "Kiko Dinucci, Rodrigo Ogi",
+    "isrc": "BRTRB2013458"
+  },
+  {
+    "title": "Mãe Dos Orixas",
+    "artist": "Pagode da 27",
+    "isrc": "BRBGX1200006"
+  },
+  {
+    "title": "Artimanhas",
+    "artist": "Samba de Dandara, Raquel Tobias, Roberta Kelly, Samuel da Silva, Angela Coltri, Laura Santos, Amanda Lima, Aninha Batucada, Camila Trindade, Jana Cunha, Karina Oliveira, Paula Sanches, Railídia, Roberta Oliveira",
+    "isrc": "BCAMN2000011"
+  },
+  {
+    "title": "E Se For - Ao Vivo",
+    "artist": "Deu Samba Na Cabeça",
+    "isrc": "QZHZ31955562"
+  },
+  {
+    "title": "Velhos Tempos",
+    "artist": "Guilherme Lacerda, Luiz Grande",
+    "isrc": "BRGAK1600018"
+  },
+  {
+    "title": "Kid brilhantina",
+    "artist": "Branca Di Neve",
+    "isrc": "BRWMB9700730"
+  },
+  {
+    "title": "Tal Dia É o Batizado",
+    "artist": "Francineth, Batuqueiros e Sua Gente, Zeca Pagodinho, Henrique Araújo",
+    "isrc": "BRPOU1800050"
+  },
+  {
+    "title": "Coral de anjos",
+    "artist": "Grupo Sensação",
+    "isrc": "BRWMB0000697"
+  },
+  {
+    "title": "Cara Limpa",
+    "artist": "Ana Bernardo",
+    "isrc": "BRPUI0200250"
+  },
+  {
+    "title": "Mutação",
+    "artist": "Ideval Anselmo",
+    "isrc": "BRASM1000065"
+  },
+  {
+    "title": "Ronda",
+    "artist": "Marcia",
+    "isrc": "BREMI7700037"
+  },
+  {
+    "title": "Momentos",
+    "artist": "Chiquinho Dos Santos, Pique Novo",
+    "isrc": "BRD070800009"
+  },
+  {
+    "title": "Daqui da Laje",
+    "artist": "Comunidade Samba da Laje",
+    "isrc": "BXN5F2000001"
+  },
+  {
+    "title": "Bolo de fubá",
+    "artist": "T. Kaçula & Renato Dias",
+    "isrc": "BRSO10700332"
+  },
+  {
+    "title": "Recado a minha amada",
+    "artist": "Katinguelê",
+    "isrc": "BRWMB9703402"
+  },
+  {
+    "title": "Volta Pra Ela",
+    "artist": "Eliana de Lima, Luiz Carlos",
+    "isrc": "BRRGE9400003"
+  },
+  {
+    "title": "Malandro Sou Eu - Menina de Aruanda - Ao Vivo",
+    "artist": "Prettos, Magnu Sousá, Maurilio de Oliveira",
+    "isrc": "BRGOZ1900014"
+  },
+  {
+    "title": "Meu Guarda-Chuva",
+    "artist": "Paula Lima",
+    "isrc": "BRMCA0300088"
+  },
+  {
+    "title": "Seu Barbosa",
+    "artist": "Ana Bernardo",
+    "isrc": "BRPUI0200216"
+  },
+  {
+    "title": "Cohab City / Música Incidental: ABC / Vem Pra Cá",
+    "artist": "Negritude Junior",
+    "isrc": "BREMI9500396"
+  },
+  {
+    "title": "Saudosa Maloca",
+    "artist": "Adoniran Barbosa",
+    "isrc": "BREMI5500005"
+  },
+  {
+    "title": "Casa Grande e Senzala",
+    "artist": "Velha Guarda do G.R.C.E.S. Nenê de Vila Matilde",
+    "isrc": "BRASM0800047"
+  },
+  {
+    "title": "Batucada Dos Nossos Tantãs",
+    "artist": "Thobias Da Vai-Vai",
+    "isrc": "BRAPI0200403"
+  },
+  {
+    "title": "Jorge Guerreiro / Salve Mandela",
+    "artist": "Esmeralda Ortiz",
+    "isrc": "BRSC41500096"
+  },
+  {
+    "title": "Amor Calmo",
+    "artist": "Samba do Povo, Cleverson Luiz",
+    "isrc": "BX59Q1900004"
+  },
+  {
+    "title": "Assim Que Se Faz",
+    "artist": "Luciana Mello",
+    "isrc": "QZ5AB1704034"
+  },
+  {
+    "title": "Carinha",
+    "artist": "Trovadores Urbanos",
+    "isrc": "BRPUI0200234"
+  },
+  {
+    "title": "Maldita",
+    "artist": "Marco Mattoli, Roberta Gomes",
+    "isrc": "BR02M1800007"
+  },
+  {
+    "title": "Das Flores",
+    "artist": "Eduardo Gudin, Notìcias Dum Brasil",
+    "isrc": "BRSGL9800192"
+  },
+  {
+    "title": "Consideração",
+    "artist": "Roberto Seresteiro, Junior Pita, Vitor Casagrande",
+    "isrc": "QM4TW2409016"
+  },
+  {
+    "title": "Verde",
+    "artist": "Eduardo Gudin, Vânia Bastos",
+    "isrc": "BRELD0500131"
+  },
+  {
+    "title": "Maria não volta mais",
+    "artist": "Quinteto em Branco e Preto",
+    "isrc": "BR56S1100007"
+  },
+  {
+    "title": "Ogã de Ogum",
+    "artist": "Fabiana Cozza",
+    "isrc": "BRFZA2000033"
+  },
+  {
+    "title": "Pra Vela Não Se Apagar",
+    "artist": "Samba da Vela",
+    "isrc": "BRA910500017"
+  },
+  {
+    "title": "Tambu e Candongueiro / Santo Antonio de Catigeró",
+    "artist": "Yvison Pessoa, Dulce Monteiro",
+    "isrc": "BXYPR2200027"
+  },
+  {
+    "title": "Kolombolo",
+    "artist": "Memória do Samba Paulista",
+    "isrc": "BRASM0700061"
+  },
+  {
+    "title": "Como É Que Eu Posso?",
+    "artist": "Dona Inah",
+    "isrc": "BRUME0400080"
+  },
+  {
+    "title": "Semba Dos Ancestrais - Ao Vivo",
+    "artist": "Graça Braga",
+    "isrc": "QM7282086442"
+  },
+  {
+    "title": "Cidade Tiradentes",
+    "artist": "Berço do Samba de São Mateus",
+    "isrc": "BR9GN1400366"
+  },
+  {
+    "title": "Maior Sou Eu",
+    "artist": "Germano Mathias",
+    "isrc": "BXGAK2300023"
+  },
+  {
+    "title": "Mania de Sofrer - Ao vivo",
+    "artist": "Chapinha da Vela, Carica",
+    "isrc": "BRJZT1900017"
+  },
+  {
+    "title": "Machado de Xangô",
+    "artist": "Adriana Moreira",
+    "isrc": "BRPOU1200101"
+  },
+  {
+    "title": "Marcha de Maria",
+    "artist": "Douglas Germano",
+    "isrc": "BXQF21900003"
+  },
+  {
+    "title": "Vinheta: Batuque de Pirapora (feat. Batuqueiros de Pirapora, D. Maria Ester)",
+    "artist": "Osvaldinho da Cuíca, Batuqueiros de Pirapora, D. Maria Ester",
+    "isrc": "BRUME1300193"
+  },
+  {
+    "title": "Divina Voz",
+    "artist": "Everson Pessoa, Péricles",
+    "isrc": "BXLAT1900018"
+  },
+  {
+    "title": "Correr pelo Certo",
+    "artist": "Serginho Madureira",
+    "isrc": "QZGLM1942715"
+  },
+  {
+    "title": "Aboio",
+    "artist": "Toinho Melodia, Adriana Moreira",
+    "isrc": "BRPOU2000009"
+  },
+  {
+    "title": "Águas e Ervas",
+    "artist": "Roberta Oliveira, O Bando de Lá",
+    "isrc": "BCRBL2000005"
+  },
+  {
+    "title": "Tristes Trópicos",
+    "artist": "Itamar Assumpção, As Orquídeas do Brasil",
+    "isrc": "BRCEP0300074"
+  },
+  {
+    "title": "Absurdo 5",
+    "artist": "Rodrigo Campos, Juçara Marçal, Gui Amabis",
+    "isrc": "BR6G71700004"
+  },
+  {
+    "title": "Número 1 do Brasil",
+    "artist": "Marquinhos Jaca",
+    "isrc": "BRMBH1000002"
+  },
+  {
+    "title": "Noites Madrigais",
+    "artist": "Emerson Urso, Márcio Prata, Luiz Carlos Da Vila",
+    "isrc": "QZW9L2392888"
+  },
+  {
+    "title": "Peito Vazio",
+    "artist": "João Macacão",
+    "isrc": "BRPOU1200121"
+  },
+  {
+    "title": "Engasga Gato",
+    "artist": "Kiko Dinucci, Bando Afromacarrônico",
+    "isrc": "BRTS60800001"
+  },
+  {
+    "title": "Minha Paz, Meu Acalanto",
+    "artist": "Pagode da 27",
+    "isrc": "BRX122100001"
+  },
+  {
+    "title": "Canta",
+    "artist": "Samba de Dandara, Samuel da Silva, Roberta Kelly, Laura Santos, Angela Coltri, Amanda Lima, Aninha Batucada, Camila Trindade, Jana Cunha, Karina Oliveira, Paula Sanches, Railídia, Raquel Tobias, Roberta Oliveira",
+    "isrc": "BCAMN2000003"
+  }
+]

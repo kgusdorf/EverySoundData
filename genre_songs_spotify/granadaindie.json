@@ -1,0 +1,842 @@
+[
+  {
+    "title": "Errante (Canción Mutante)",
+    "artist": "Niños Mutantes",
+    "isrc": "ES29B1000036"
+  },
+  {
+    "title": "Un Buen Dia",
+    "artist": "Los Planetas",
+    "isrc": "ES5020000465"
+  },
+  {
+    "title": "20 Versiones",
+    "artist": "Lagartija Nick",
+    "isrc": "ES6040713003"
+  },
+  {
+    "title": "Take on Me",
+    "artist": "Anni B Sweet",
+    "isrc": "ES6060972313"
+  },
+  {
+    "title": "La Persiana",
+    "artist": "Apartamentos Acapulco",
+    "isrc": "ES71G2317919"
+  },
+  {
+    "title": "Emborracharme",
+    "artist": "Lori Meyers",
+    "isrc": "ES5701201635"
+  },
+  {
+    "title": "Turn It",
+    "artist": "Neuman",
+    "isrc": "ES6061404401"
+  },
+  {
+    "title": "Déjame un rato",
+    "artist": "Colectivo Da Silva, La Plazuela",
+    "isrc": "ES6062397401"
+  },
+  {
+    "title": "Soy una Nube",
+    "artist": "Unidad y Armonía, Estrella Morente, Soleá Morente",
+    "isrc": "QMFME2000538"
+  },
+  {
+    "title": "La Vida Que Mala Es - Remasterizado",
+    "artist": "091",
+    "isrc": "ES5021501112"
+  },
+  {
+    "title": "No Pensar En Ti",
+    "artist": "Soleá Morente, La Casa Azul",
+    "isrc": "ES6642100148"
+  },
+  {
+    "title": "A Tiempo de Saltar",
+    "artist": "Los Pilotos",
+    "isrc": "DGA082295745"
+  },
+  {
+    "title": "Madrid, Pekín y el Sáhara",
+    "artist": "Checopolaco",
+    "isrc": "USA2P2140317"
+  },
+  {
+    "title": "Cuando el Ángel Decida Volver",
+    "artist": "Jose Ignacio Lapido",
+    "isrc": "ES79C1308001"
+  },
+  {
+    "title": "Ahora Todos Duermen",
+    "artist": "Verona",
+    "isrc": "ES73S2400060"
+  },
+  {
+    "title": "Nada va a cambiar el mundo",
+    "artist": "Antonio Arias, Popi González, Miguel Ríos, Lori Meyers, J, Pablo González",
+    "isrc": "ES71G2328036"
+  },
+  {
+    "title": "Torturas en los Bares",
+    "artist": "Trepàt",
+    "isrc": "ES09S1500170"
+  },
+  {
+    "title": "Nuestro Turno",
+    "artist": "Nievla",
+    "isrc": "QM4TW2327953"
+  },
+  {
+    "title": "El Novio de la Muerte",
+    "artist": "Fuerza Nueva, Los Planetas, Niño de Elche",
+    "isrc": "QM7281958540"
+  },
+  {
+    "title": "El Amor, a Veces Miedo",
+    "artist": "Toulouse",
+    "isrc": "ESA011636458"
+  },
+  {
+    "title": "Granada Surf",
+    "artist": "Carmencita Calavera",
+    "isrc": "ES39A1745007"
+  },
+  {
+    "title": "Dominar el Tiempo",
+    "artist": "Dolorosa, Raúl Bernal",
+    "isrc": "ES39A1642001"
+  },
+  {
+    "title": "lobo_hombre_en_París",
+    "artist": "Radio Palmer",
+    "isrc": "ES6062408701"
+  },
+  {
+    "title": "Leggins Rotos",
+    "artist": "Las Dianas",
+    "isrc": "QM4TW2163648"
+  },
+  {
+    "title": "En Latitudes Templadas",
+    "artist": "Elemento Deserto, Unidad y Armonía",
+    "isrc": "GBMJG2116352"
+  },
+  {
+    "title": "Amanecer Glorioso",
+    "artist": "Los Evangelistas",
+    "isrc": "QM6MZ2090137"
+  },
+  {
+    "title": "Con la Primavera a Cuestas",
+    "artist": "Manu Ferrón",
+    "isrc": "ES7121600012"
+  },
+  {
+    "title": "San John",
+    "artist": "Harakiri Beach",
+    "isrc": "ESA011718474"
+  },
+  {
+    "title": "Bailas",
+    "artist": "D'baldomeros",
+    "isrc": "ES5612073702"
+  },
+  {
+    "title": "Otra Letra Más",
+    "artist": "Fausto Taranto, Medina Azahara, Manuel Martínez",
+    "isrc": "QMBZ91973957"
+  },
+  {
+    "title": "Ahora",
+    "artist": "Alondra Galopa",
+    "isrc": "ES64E2457992"
+  },
+  {
+    "title": "Intentaré No Hacerlo Más",
+    "artist": "El Hombre Garabato, Eskorzo",
+    "isrc": "ES98G1000008"
+  },
+  {
+    "title": "Persona",
+    "artist": "Lorena Álvarez",
+    "isrc": "ES5701900128"
+  },
+  {
+    "title": "Otra Dirección",
+    "artist": "Nevada",
+    "isrc": "QM4TW2011879"
+  },
+  {
+    "title": "Monstruos",
+    "artist": "Margaux",
+    "isrc": "ESA011801477"
+  },
+  {
+    "title": "Hey Buddy",
+    "artist": "Papaya Club",
+    "isrc": "GBSMU6473804"
+  },
+  {
+    "title": "Avilipinti",
+    "artist": "María de Juan",
+    "isrc": "ES71G2306098"
+  },
+  {
+    "title": "Yo No Soy Basura",
+    "artist": "Nadie Canta, Escenautas - Navegantes de la Escena",
+    "isrc": "USDY42406320"
+  },
+  {
+    "title": "Keep It Down",
+    "artist": "The Fixed Trio",
+    "isrc": "CH6542389010"
+  },
+  {
+    "title": "L.O.V.E.M.E.",
+    "artist": "Sarajevo 84",
+    "isrc": "ES39A2162013"
+  },
+  {
+    "title": "Sé tú mi límite",
+    "artist": "Prado Negro, Soleá Morente",
+    "isrc": "GBMJG1910376"
+  },
+  {
+    "title": "Survivors",
+    "artist": "Los 300, Macaco, JJ Machuca",
+    "isrc": "ES71G2203178"
+  },
+  {
+    "title": "Morena",
+    "artist": "Vinila von Bismark, Sparrow & Barbossa, Francis Coletta",
+    "isrc": "FRX202108785"
+  },
+  {
+    "title": "Quiero Vermut",
+    "artist": "Indianápolis",
+    "isrc": "MX2831910212"
+  },
+  {
+    "title": "La Típica Canción de Desamor",
+    "artist": "Vita Insomne",
+    "isrc": "ES71G1726918"
+  },
+  {
+    "title": "El Todo Y La Nada",
+    "artist": "Estenopeica",
+    "isrc": "QZDA52458183"
+  },
+  {
+    "title": "Estamos Solos",
+    "artist": "Valparaíso",
+    "isrc": "FR96X1853972"
+  },
+  {
+    "title": "III / Ritual",
+    "artist": "RYM",
+    "isrc": "ESA011790323"
+  },
+  {
+    "title": "Murga para Jamie",
+    "artist": "Ramper",
+    "isrc": "QM6MZ2443726"
+  },
+  {
+    "title": "Gilipollas",
+    "artist": "Bonico",
+    "isrc": "QM4TX2499506"
+  },
+  {
+    "title": "La vela de mi barco",
+    "artist": "El Niño del Albayzín, Gordo Master, Jul Beats",
+    "isrc": "ES64E2471966"
+  },
+  {
+    "title": "La Partida",
+    "artist": "Javi Tejero, Jose Ignacio Lapido",
+    "isrc": "DGA0L2340379"
+  },
+  {
+    "title": "Un Sitio a Donde Ir",
+    "artist": "Martina Karsch",
+    "isrc": "ES39A1948012"
+  },
+  {
+    "title": "By Your Side",
+    "artist": "Lebend",
+    "isrc": "ushm21935952"
+  },
+  {
+    "title": "Serendipia",
+    "artist": "Ygritte",
+    "isrc": "CH6541895166"
+  },
+  {
+    "title": "A Little Bit of Lovin",
+    "artist": "Elastic Band",
+    "isrc": "ES23A0812302"
+  },
+  {
+    "title": "Al otro lado",
+    "artist": "José Bonaparte",
+    "isrc": "GBMJG1910576"
+  },
+  {
+    "title": "Helkinki",
+    "artist": "Perro Mojado",
+    "isrc": "FRX201707309"
+  },
+  {
+    "title": "On Hiatus",
+    "artist": "MOJØ",
+    "isrc": "ESA012004389"
+  },
+  {
+    "title": "A la Luz de la Alhambra",
+    "artist": "Oh My Rita!",
+    "isrc": "uscgh2279180"
+  },
+  {
+    "title": "Bollera por Despecho",
+    "artist": "Modelé Fatale",
+    "isrc": "QM4TX1957316"
+  },
+  {
+    "title": "Arte Caso",
+    "artist": "Trigo Sucio",
+    "isrc": "QM4DW1857645"
+  },
+  {
+    "title": "Bendita Soleá",
+    "artist": "Eledon",
+    "isrc": "GBSMU7314736"
+  },
+  {
+    "title": "Echoes Of The Past",
+    "artist": "Heleven",
+    "isrc": "DGA0Q2374160"
+  },
+  {
+    "title": "Helio Rey",
+    "artist": "Anardana",
+    "isrc": "ES39A2161001"
+  },
+  {
+    "title": "Vale, me duele",
+    "artist": "Cuestabajo Folk",
+    "isrc": "ESA011671857"
+  },
+  {
+    "title": "Indomable",
+    "artist": "Daniel Sánchez",
+    "isrc": "ARD461800152"
+  },
+  {
+    "title": "The Shelter",
+    "artist": "Dena Project",
+    "isrc": "QMFME1971941"
+  },
+  {
+    "title": "Fireproof",
+    "artist": "FTF",
+    "isrc": "QM6MZ1787242"
+  },
+  {
+    "title": "Dreamcatcher",
+    "artist": "Funkdacion, David Margam, Maria Romero",
+    "isrc": "usl4r2155825"
+  },
+  {
+    "title": "Lo Que Soy",
+    "artist": "Gravital",
+    "isrc": "ES39A2368001"
+  },
+  {
+    "title": "Canicas",
+    "artist": "Guille Santa-Olalla",
+    "isrc": "GBSMU8752210"
+  },
+  {
+    "title": "Cenizas",
+    "artist": "IN SITU",
+    "isrc": "GBMJG1810683"
+  },
+  {
+    "title": "Colores",
+    "artist": "Inés y los Inesperados",
+    "isrc": "QM6N21969987"
+  },
+  {
+    "title": "Laberintos",
+    "artist": "Jesús Peña",
+    "isrc": "QM6MZ1994319"
+  },
+  {
+    "title": "Multipolar",
+    "artist": "La Sudadera Del Manager",
+    "isrc": "ES5301969056"
+  },
+  {
+    "title": "Constantine",
+    "artist": "Moledirco",
+    "isrc": "QZHN32468806"
+  },
+  {
+    "title": "Winds",
+    "artist": "Montrouge",
+    "isrc": "ESA011907854"
+  },
+  {
+    "title": "Bang!",
+    "artist": "Renko, Sr López",
+    "isrc": "ESA011929637"
+  },
+  {
+    "title": "La Mujer Hormiga",
+    "artist": "RojoIndio",
+    "isrc": "QM4TW2039672"
+  },
+  {
+    "title": "Red Light",
+    "artist": "Without Lines",
+    "isrc": "GBMJG1903427"
+  },
+  {
+    "title": "Stony Road",
+    "artist": "Yetiblack",
+    "isrc": "ESA011966878"
+  },
+  {
+    "title": "Como Yo Te Amo",
+    "artist": "Niños Mutantes",
+    "isrc": "ES6170000005"
+  },
+  {
+    "title": "Nuevo Harlem",
+    "artist": "Lagartija Nick",
+    "isrc": "ES5029300763"
+  },
+  {
+    "title": "Que Puedo Hacer",
+    "artist": "Los Planetas",
+    "isrc": "ES5029400315"
+  },
+  {
+    "title": "Dos Días Contigo",
+    "artist": "Apartamentos Acapulco",
+    "isrc": "ES71G2328821"
+  },
+  {
+    "title": "Buen Viaje",
+    "artist": "Anni B Sweet",
+    "isrc": "ES6061952401"
+  },
+  {
+    "title": "Turn It - David Kano Remix",
+    "artist": "Neuman",
+    "isrc": "ES6061513901"
+  },
+  {
+    "title": "Mi Realidad",
+    "artist": "Lori Meyers",
+    "isrc": "ES5701000280"
+  },
+  {
+    "title": "Nos Vemos Luego",
+    "artist": "Colectivo Da Silva, dani dicostas",
+    "isrc": "ES6062178001"
+  },
+  {
+    "title": "Somos Excusa",
+    "artist": "Unidad y Armonía",
+    "isrc": "QM4TX2179777"
+  },
+  {
+    "title": "Fuego en mi oficina",
+    "artist": "091",
+    "isrc": "ES5018342001"
+  },
+  {
+    "title": "Cariño",
+    "artist": "Soleá Morente",
+    "isrc": "ES6642000001"
+  },
+  {
+    "title": "El Ciclo de las Mareas",
+    "artist": "Los Pilotos, Mula",
+    "isrc": "QM4TW2141916"
+  },
+  {
+    "title": "Algo que Decir",
+    "artist": "Checopolaco",
+    "isrc": "USA2P2136154"
+  },
+  {
+    "title": "Curados de espanto",
+    "artist": "Jose Ignacio Lapido",
+    "isrc": "ES79C2323001"
+  },
+  {
+    "title": "Que No",
+    "artist": "Verona",
+    "isrc": "ES71G2046681"
+  },
+  {
+    "title": "Hola Tierra",
+    "artist": "Antonio Arias, Anni B Sweet",
+    "isrc": "ES23A2116201"
+  },
+  {
+    "title": "Moverse",
+    "artist": "Trepàt",
+    "isrc": "QM4TW2024859"
+  },
+  {
+    "title": "El Hilo",
+    "artist": "Nievla",
+    "isrc": "CH6541902335"
+  },
+  {
+    "title": "La Canción de los Gitanos",
+    "artist": "Fuerza Nueva, Los Planetas, Niño de Elche",
+    "isrc": "QM7281960279"
+  },
+  {
+    "title": "Todo Cambia",
+    "artist": "Toulouse",
+    "isrc": "ESA011223170"
+  },
+  {
+    "title": "Superwoman Rockstar",
+    "artist": "Carmencita Calavera, JJ Machuca",
+    "isrc": "ES39A1745005"
+  },
+  {
+    "title": "La Vida Es Triangular",
+    "artist": "Dolorosa, Raúl Bernal",
+    "isrc": "ES39A1642003"
+  },
+  {
+    "title": "DÉJALA QUE ARDA",
+    "artist": "Radio Palmer, Rodol VX",
+    "isrc": "ES6062307101"
+  },
+  {
+    "title": "Putivuelta",
+    "artist": "Las Dianas",
+    "isrc": "QM6N22411470"
+  },
+  {
+    "title": "El Mambo Del Ansia",
+    "artist": "Elemento Deserto",
+    "isrc": "ATDY72100302"
+  },
+  {
+    "title": "Camino al Calvario",
+    "artist": "Los Evangelistas",
+    "isrc": "QM6MZ2090138"
+  },
+  {
+    "title": "No Es el Fin",
+    "artist": "Manu Ferrón",
+    "isrc": "ES7121600011"
+  },
+  {
+    "title": "SEXY PERO NO CHABACANO (EME-SX Remix)",
+    "artist": "Harakiri Beach, EME-SX",
+    "isrc": "GX8LE2428199"
+  },
+  {
+    "title": "Masa crítica",
+    "artist": "D'baldomeros",
+    "isrc": "GBMJG2305905"
+  },
+  {
+    "title": "Rumores y Juramentos",
+    "artist": "Fausto Taranto",
+    "isrc": "ES20D2000203"
+  },
+  {
+    "title": "Esperando la Respuesta",
+    "artist": "Alondra Galopa",
+    "isrc": "ES5302272859"
+  },
+  {
+    "title": "Si Cuesta Estar de Pie",
+    "artist": "El Hombre Garabato, Amparo Sánchez, Lichis, José Antonio García",
+    "isrc": "ES99D2000080"
+  },
+  {
+    "title": "Naino",
+    "artist": "Lorena Álvarez",
+    "isrc": "ES79A2217706"
+  },
+  {
+    "title": "Aviones",
+    "artist": "Nevada",
+    "isrc": "ESA011692359"
+  },
+  {
+    "title": "Canción fría",
+    "artist": "Margaux",
+    "isrc": "ESA011801475"
+  },
+  {
+    "title": "Un silencio muy",
+    "artist": "Papaya Club",
+    "isrc": "GBMJG2109504"
+  },
+  {
+    "title": "Qué poderío tendrá",
+    "artist": "María de Juan",
+    "isrc": "ES71G2241486"
+  },
+  {
+    "title": "Muerte de Amor",
+    "artist": "Nadie Canta, Escenautas - Navegantes de la Escena",
+    "isrc": "USDY42406334"
+  },
+  {
+    "title": "Talladega",
+    "artist": "The Fixed Trio",
+    "isrc": "CH6542367843"
+  },
+  {
+    "title": "The Cliff",
+    "artist": "Sarajevo 84",
+    "isrc": "ES39A2162012"
+  },
+  {
+    "title": "En el alto balcón",
+    "artist": "Prado Negro, Soleá Morente",
+    "isrc": "GBMJG1918704"
+  },
+  {
+    "title": "Sham Time",
+    "artist": "Los 300",
+    "isrc": "ES22C1200798"
+  },
+  {
+    "title": "Lo Que Vendrá",
+    "artist": "Indianápolis, Niños Mutantes",
+    "isrc": "MX2831910211"
+  },
+  {
+    "title": "Quiero Decirte al Oído",
+    "artist": "Vinila von Bismark, Ms Nina",
+    "isrc": "ESA081750140"
+  },
+  {
+    "title": "Señor Nadie - Unplugged At Wild Punk Records",
+    "artist": "Vita Insomne",
+    "isrc": "ES39A2052011"
+  },
+  {
+    "title": "Grito",
+    "artist": "Estenopeica",
+    "isrc": "QM6P41576544"
+  },
+  {
+    "title": "Valentina",
+    "artist": "Valparaíso",
+    "isrc": "FR96X1853974"
+  },
+  {
+    "title": "Mamba negra",
+    "artist": "RYM",
+    "isrc": "ESA011790324"
+  },
+  {
+    "title": "Amalola",
+    "artist": "Ramper",
+    "isrc": "GBMJG2004505"
+  },
+  {
+    "title": "El Ratas",
+    "artist": "Bonico",
+    "isrc": "QMDA72348327"
+  },
+  {
+    "title": "¡Foh mi Graná!",
+    "artist": "El Niño del Albayzín",
+    "isrc": "ESA011711308"
+  },
+  {
+    "title": "Cabaña en el bosque",
+    "artist": "Javi Tejero",
+    "isrc": "ES5302272410"
+  },
+  {
+    "title": "Nada Es Definitivo",
+    "artist": "Martina Karsch",
+    "isrc": "ES39A1748001"
+  },
+  {
+    "title": "Hologram",
+    "artist": "Lebend",
+    "isrc": "ushm91974954"
+  },
+  {
+    "title": "5G",
+    "artist": "Ygritte",
+    "isrc": "CH6542205878"
+  },
+  {
+    "title": "Boogie Beach Days",
+    "artist": "Elastic Band",
+    "isrc": "ES23A0812314"
+  },
+  {
+    "title": "Camino de vuelta",
+    "artist": "José Bonaparte, Cathy Claret",
+    "isrc": "GBMJG1910575"
+  },
+  {
+    "title": "No lo puedes ver",
+    "artist": "Lagartija Nick",
+    "isrc": "ES71G2325898"
+  },
+  {
+    "title": "No Puedo Más Contigo",
+    "artist": "Niños Mutantes",
+    "isrc": "ES6171360209"
+  },
+  {
+    "title": "Pesadilla En El Parque De Atracciones",
+    "artist": "Los Planetas",
+    "isrc": "ES5020200380"
+  },
+  {
+    "title": "Alguien Normal",
+    "artist": "Apartamentos Acapulco",
+    "isrc": "QMFME2010130"
+  },
+  {
+    "title": "Bye Fear / Hi Love",
+    "artist": "Neuman, Ken Stringfellow",
+    "isrc": "ES6061396501"
+  },
+  {
+    "title": "Capturing Images",
+    "artist": "Anni B Sweet",
+    "isrc": "ES6060972307"
+  },
+  {
+    "title": "El Tiempo Pasará",
+    "artist": "Lori Meyers",
+    "isrc": "ES5701201639"
+  },
+  {
+    "title": "Bolitas",
+    "artist": "Colectivo Da Silva",
+    "isrc": "ES6062068801"
+  },
+  {
+    "title": "En Otro Lugar",
+    "artist": "Unidad y Armonía",
+    "isrc": "QMFMF2320594"
+  },
+  {
+    "title": "Que Fue del Siglo XX - Remasterizado",
+    "artist": "091",
+    "isrc": "ES5021501106"
+  },
+  {
+    "title": "Baila Conmigo",
+    "artist": "Soleá Morente",
+    "isrc": "ES79A1812308"
+  },
+  {
+    "title": "Guerra en la tierra - Remix by Amable & Monoculture",
+    "artist": "Los Pilotos, Mexican Institute Of Sound, Amable & Monoculture",
+    "isrc": "FRX762291415"
+  },
+  {
+    "title": "El Batallon",
+    "artist": "Checopolaco",
+    "isrc": "ESA011400933"
+  },
+  {
+    "title": "¡Cuidado!",
+    "artist": "Jose Ignacio Lapido",
+    "isrc": "ES79C1717001"
+  },
+  {
+    "title": "Milán",
+    "artist": "Verona",
+    "isrc": "ES71G1940380"
+  },
+  {
+    "title": "Créeme",
+    "artist": "Antonio Arias, Popi González, Miguel Ríos, Lori Meyers, J, Pablo González",
+    "isrc": "ES71G2328039"
+  },
+  {
+    "title": "Retrofestiva",
+    "artist": "Trepàt",
+    "isrc": "ES09S1500172"
+  },
+  {
+    "title": "Nube de Agosto",
+    "artist": "Nievla",
+    "isrc": "QM4TX2380819"
+  },
+  {
+    "title": "La Cruz",
+    "artist": "Fuerza Nueva, Los Planetas, Niño de Elche",
+    "isrc": "QM6MZ1910245"
+  },
+  {
+    "title": "Bailando",
+    "artist": "Toulouse",
+    "isrc": "ESA011965341"
+  },
+  {
+    "title": "Moderna de Pueblo",
+    "artist": "Carmencita Calavera, JJ Machuca",
+    "isrc": "ES39A1745001"
+  },
+  {
+    "title": "Yo No Tengo Nada",
+    "artist": "Dolorosa, Raúl Bernal",
+    "isrc": "ES39A1842016"
+  },
+  {
+    "title": "Lo que te guste",
+    "artist": "Radio Palmer, Ant Cosmos",
+    "isrc": "USA2P2325011"
+  },
+  {
+    "title": "\"Hetero\"",
+    "artist": "Las Dianas",
+    "isrc": "QMDA62118290"
+  },
+  {
+    "title": "Pasos Largos",
+    "artist": "Elemento Deserto",
+    "isrc": "ATDY71900202"
+  },
+  {
+    "title": "Dice el Necio",
+    "artist": "Los Evangelistas",
+    "isrc": "QM6MZ2090141"
+  },
+  {
+    "title": "Secreto a Voces",
+    "artist": "Manu Ferrón",
+    "isrc": "ES7121300021"
+  },
+  {
+    "title": "Cine, Doritos y Besos",
+    "artist": "Harakiri Beach",
+    "isrc": "ESA011718478"
+  },
+  {
+    "title": "La Mejor Noche de Tu Vida",
+    "artist": "D'baldomeros",
+    "isrc": "ES5612276601"
+  }
+]

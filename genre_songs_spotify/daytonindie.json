@@ -1,0 +1,917 @@
+[
+  {
+    "title": "Beginning to Unfold",
+    "artist": "Neo-American Pioneers",
+    "isrc": "QMDUW1800101"
+  },
+  {
+    "title": "Turndt Awn",
+    "artist": "The Boxcar Suite",
+    "isrc": "QM7FC2000011"
+  },
+  {
+    "title": "This Old Town",
+    "artist": "The New Old-Fashioned",
+    "isrc": "ushm81867535"
+  },
+  {
+    "title": "We Know",
+    "artist": "Salvadore Ross",
+    "isrc": "QZHNC2480962"
+  },
+  {
+    "title": "Wait for Me",
+    "artist": "Heather Redman",
+    "isrc": "QZTAX2285786"
+  },
+  {
+    "title": "Keep Your Ways",
+    "artist": "Kyleen Downes",
+    "isrc": "usdy41664828"
+  },
+  {
+    "title": "Bouquet",
+    "artist": "TINO, DJ Marrrtin",
+    "isrc": "QZTB62256692"
+  },
+  {
+    "title": "Broke",
+    "artist": "Amber Hargett",
+    "isrc": "ushm81969095"
+  },
+  {
+    "title": "Failed Attempts and Cigarettes",
+    "artist": "Paige Beller",
+    "isrc": "QMZTB1600335"
+  },
+  {
+    "title": "Misery",
+    "artist": "Age Nowhere",
+    "isrc": "QZFSF1900003"
+  },
+  {
+    "title": "Holiday Inn",
+    "artist": "The 1984 Draft",
+    "isrc": "QM6MZ2406703"
+  },
+  {
+    "title": "If We Wait",
+    "artist": "Guided By Voices",
+    "isrc": "USMTD9618507"
+  },
+  {
+    "title": "Paid & Rowdy",
+    "artist": "Nightbeast",
+    "isrc": "TCACD1584561"
+  },
+  {
+    "title": "Strange Forces",
+    "artist": "Seth Canan & The Carriers",
+    "isrc": "QMAAK1924561"
+  },
+  {
+    "title": "I'm Not Ready",
+    "artist": "The Nautical Theme",
+    "isrc": "USL4R2362994"
+  },
+  {
+    "title": "F**king With The Altimiter",
+    "artist": "Brainiac",
+    "isrc": "USWU30600623"
+  },
+  {
+    "title": "Icarus",
+    "artist": "Scary Hotel",
+    "isrc": "QZTAS2203708"
+  },
+  {
+    "title": "Medicine",
+    "artist": "RIND",
+    "isrc": "TCAHP2320270"
+  },
+  {
+    "title": "Sorrow Drowns",
+    "artist": "David Payne",
+    "isrc": "QZK6F2460168"
+  },
+  {
+    "title": "Leaving You Behind",
+    "artist": "The Typical Johnsons",
+    "isrc": "ushm91921551"
+  },
+  {
+    "title": "Demolish Me",
+    "artist": "Me & Mountains",
+    "isrc": "usl4q1955513"
+  },
+  {
+    "title": "Continuity Errors",
+    "artist": "Life in Idle",
+    "isrc": "QZMEP2351155"
+  },
+  {
+    "title": "Shake Me",
+    "artist": "Seth Gilliam and the Fake News",
+    "isrc": "ushm81988854"
+  },
+  {
+    "title": "Valentimes",
+    "artist": "Motel Beds",
+    "isrc": "QZFZ32421297"
+  },
+  {
+    "title": "Golden Age",
+    "artist": "The Story Changes",
+    "isrc": "QM9A91808504"
+  },
+  {
+    "title": "More Than A Memory",
+    "artist": "Better Anyway, Jason Lancaster",
+    "isrc": "QZDA52459369"
+  },
+  {
+    "title": "The Half of It",
+    "artist": "Knavery",
+    "isrc": "QZES52404172"
+  },
+  {
+    "title": "Rearview",
+    "artist": "Leaving Off",
+    "isrc": "QZES92456348"
+  },
+  {
+    "title": "Heartburn",
+    "artist": "Heavyhead, Brandon Sorrell",
+    "isrc": "QZHN92252362"
+  },
+  {
+    "title": "Stifled Man Casino",
+    "artist": "Airport 5",
+    "isrc": "US37Y0400056"
+  },
+  {
+    "title": "Midwestern Waste",
+    "artist": "MOIRA",
+    "isrc": "USLZJ1559348"
+  },
+  {
+    "title": "You Satisfy Me",
+    "artist": "Boston Spaceships",
+    "isrc": "USNUM0810013"
+  },
+  {
+    "title": "Pop Zeus (2019 Remaster)",
+    "artist": "Robert Pollard, Doug Gillard",
+    "isrc": "USNUM1909303"
+  },
+  {
+    "title": "Sink Away",
+    "artist": "The Katawicks",
+    "isrc": "QMDJH1850666"
+  },
+  {
+    "title": "Edison's Airship",
+    "artist": "Cricketbows, Roger Joseph Manning, Jr.",
+    "isrc": "QZTB62249424"
+  },
+  {
+    "title": "Time Machines",
+    "artist": "Lexo and the Leapers",
+    "isrc": "US37Y9900016"
+  },
+  {
+    "title": "Royal Cyclopean",
+    "artist": "ESP Ohio",
+    "isrc": "USNUM1610046"
+  },
+  {
+    "title": "To My Beloved Martha",
+    "artist": "Tobin Sprout",
+    "isrc": "TCADB1719825"
+  },
+  {
+    "title": "No Lover",
+    "artist": "Jetty Bones",
+    "isrc": "USF289801697"
+  },
+  {
+    "title": "E-Cig",
+    "artist": "McGuff and the Dumpster Fires",
+    "isrc": "ushm81606041"
+  },
+  {
+    "title": "Mish Mash",
+    "artist": "Sadbox",
+    "isrc": "QZNWZ2132759"
+  },
+  {
+    "title": "Pull Up",
+    "artist": "Gabe Maas and the Bruins",
+    "isrc": "QZHN82474107"
+  },
+  {
+    "title": "Seven and Nine",
+    "artist": "Eyesinweasel",
+    "isrc": "US37Y0400201"
+  },
+  {
+    "title": "Alone",
+    "artist": "Weathervein",
+    "isrc": "QZ8LD1774554"
+  },
+  {
+    "title": "Annalucia",
+    "artist": "Human Cannonball",
+    "isrc": "ushm91250727"
+  },
+  {
+    "title": "Lamp Posts",
+    "artist": "Seth Gilliam",
+    "isrc": "ushm81748847"
+  },
+  {
+    "title": "Both of Us",
+    "artist": "You vs Yesterday",
+    "isrc": "TCACE1550271"
+  },
+  {
+    "title": "Do a Kickflip!",
+    "artist": "Raised by Wolves",
+    "isrc": "QZHN92163196"
+  },
+  {
+    "title": "Heyyeyaaeyaaaeyaeyaa",
+    "artist": "Beesly",
+    "isrc": "QZES81891398"
+  },
+  {
+    "title": "Ohio Is For Lovers",
+    "artist": "Hawthorne Heights",
+    "isrc": "USVIC0525008"
+  },
+  {
+    "title": "Crazy Days",
+    "artist": "John Dubuc's Guilty Pleasures",
+    "isrc": "QM7FC1900019"
+  },
+  {
+    "title": "Javelina Nowhere",
+    "artist": "Smug Brothers",
+    "isrc": "USDPX2412801"
+  },
+  {
+    "title": "Talking Nonsense",
+    "artist": "Minor 'Love",
+    "isrc": "QZES52130170"
+  },
+  {
+    "title": "Faulty Wires",
+    "artist": "The Paint Splats",
+    "isrc": "QZK6F2462788"
+  },
+  {
+    "title": "All Around the Underworld",
+    "artist": "Shrug",
+    "isrc": "uscgh0541740"
+  },
+  {
+    "title": "Sunday Night",
+    "artist": "Isicle",
+    "isrc": "ushm81903199"
+  },
+  {
+    "title": "The Badlands",
+    "artist": "Flyaway Minion",
+    "isrc": "ushm81075245"
+  },
+  {
+    "title": "Headstone",
+    "artist": "The Orphan The Poet",
+    "isrc": "QZHZ31981853"
+  },
+  {
+    "title": "Bought and Sold",
+    "artist": "Oh Condor",
+    "isrc": "QZHN52131742"
+  },
+  {
+    "title": "Into the Moss",
+    "artist": "The Werks",
+    "isrc": "uscgh1765523"
+  },
+  {
+    "title": "Don't Put Me Down",
+    "artist": "A Voice of Your Own",
+    "isrc": "QZFYY1965776"
+  },
+  {
+    "title": "Over the Garden Wall",
+    "artist": "Like Moths To Flames",
+    "isrc": "AUI442300176"
+  },
+  {
+    "title": "Bleach Daisy",
+    "artist": "Bomb Bunny",
+    "isrc": "QZNWT2391593"
+  },
+  {
+    "title": "Fox on the Run",
+    "artist": "Blue Moon Soup",
+    "isrc": "QZARB1865718"
+  },
+  {
+    "title": "Sockama",
+    "artist": "Captain of Industry",
+    "isrc": "uster0300005"
+  },
+  {
+    "title": "Carbonics",
+    "artist": "Human Reunion",
+    "isrc": "QM4DW1664865"
+  },
+  {
+    "title": "Follow the Light",
+    "artist": "Cinema Century",
+    "isrc": "TCADC1746769"
+  },
+  {
+    "title": "Tennessee",
+    "artist": "The Pullouts",
+    "isrc": "UST8K1412250"
+  },
+  {
+    "title": "Sweet Misery",
+    "artist": "Deadculture",
+    "isrc": "TCAHI2327103"
+  },
+  {
+    "title": "Could this Be Love",
+    "artist": "84 Nash",
+    "isrc": "US25T0614919"
+  },
+  {
+    "title": "Headlights",
+    "artist": "8-Bit Revival",
+    "isrc": "QM4DW1672468"
+  },
+  {
+    "title": "All the Good Teas Chai Young",
+    "artist": "Grenades!?",
+    "isrc": "QZDA61873491"
+  },
+  {
+    "title": "Flesh Hand",
+    "artist": "Astro Fang",
+    "isrc": "USA2P1548422"
+  },
+  {
+    "title": "SKYLINES",
+    "artist": "Idle Achiever, Oneacis",
+    "isrc": "QZK6G2364567"
+  },
+  {
+    "title": "Circles",
+    "artist": "The Zygotes",
+    "isrc": "QM9A81608261"
+  },
+  {
+    "title": "Body Snatcher",
+    "artist": "Body Harvest",
+    "isrc": "TCADN1827123"
+  },
+  {
+    "title": "About Time",
+    "artist": "Brat Curse",
+    "isrc": "uscgh1458468"
+  },
+  {
+    "title": "Fly Low",
+    "artist": "Cryztal Grid, Bugle Bot",
+    "isrc": "usl4q1830813"
+  },
+  {
+    "title": "It's Over, Go Home",
+    "artist": "Grigio",
+    "isrc": "QZ8LD1939071"
+  },
+  {
+    "title": "Neon",
+    "artist": "Jordan Hull",
+    "isrc": "QMDA71568759"
+  },
+  {
+    "title": "Mayday",
+    "artist": "Katius",
+    "isrc": "USQY50942131"
+  },
+  {
+    "title": "Dolphin Diving (Demo)",
+    "artist": "Mountain-House",
+    "isrc": "TCAEE1996381"
+  },
+  {
+    "title": "Gordy",
+    "artist": "Nasty Bingo",
+    "isrc": "uscgh1601304"
+  },
+  {
+    "title": "Babel",
+    "artist": "Noah Fogg",
+    "isrc": "TCAEK1907339"
+  },
+  {
+    "title": "Heavenly Hollow",
+    "artist": "Roley Yuma",
+    "isrc": "ushm91041050"
+  },
+  {
+    "title": "Can You Remember?",
+    "artist": "Ruetschle",
+    "isrc": "USYK40710012"
+  },
+  {
+    "title": "Still Need",
+    "artist": "Sleepybird",
+    "isrc": "uscgj1152447"
+  },
+  {
+    "title": "A Great Divorce",
+    "artist": "Starving in the Belly of the Whale",
+    "isrc": "uscgh1936191"
+  },
+  {
+    "title": "Indecisionism",
+    "artist": "Towhee",
+    "isrc": "uscgh0799861"
+  },
+  {
+    "title": "Ideas",
+    "artist": "XL427",
+    "isrc": "QMBZ91946039"
+  },
+  {
+    "title": "Thin Chalk Line",
+    "artist": "Neo-American Pioneers",
+    "isrc": "QMDUW1800106"
+  },
+  {
+    "title": "Vincent Price",
+    "artist": "The Boxcar Suite",
+    "isrc": "QM7FC2000015"
+  },
+  {
+    "title": "Dirty Summer Nights",
+    "artist": "The New Old-Fashioned",
+    "isrc": "QM9AA1559923"
+  },
+  {
+    "title": "The Meat",
+    "artist": "Salvadore Ross",
+    "isrc": "QZK6N2492893"
+  },
+  {
+    "title": "Everybody",
+    "artist": "Heather Redman",
+    "isrc": "QZTAX2285784"
+  },
+  {
+    "title": "Tell Me What I Want to Hear",
+    "artist": "Kyleen Downes",
+    "isrc": "usdy42235508"
+  },
+  {
+    "title": "Sample Sing",
+    "artist": "TINO, DJ Marrrtin",
+    "isrc": "QZTB62256693"
+  },
+  {
+    "title": "Carolina Blue",
+    "artist": "Amber Hargett",
+    "isrc": "ushm81969096"
+  },
+  {
+    "title": "So Much Water",
+    "artist": "Paige Beller",
+    "isrc": "QMZTB1600333"
+  },
+  {
+    "title": "Perfect Stranger",
+    "artist": "Age Nowhere",
+    "isrc": "QZFSF2100001"
+  },
+  {
+    "title": "Empty",
+    "artist": "The 1984 Draft",
+    "isrc": "QMDA62218612"
+  },
+  {
+    "title": "I Am A Scientist",
+    "artist": "Guided By Voices",
+    "isrc": "USA3M0400018"
+  },
+  {
+    "title": "Them Nasty Boys",
+    "artist": "Nightbeast",
+    "isrc": "TCAFL2171883"
+  },
+  {
+    "title": "Memories in the Sky",
+    "artist": "Seth Canan & The Carriers",
+    "isrc": "QMAAK1924565"
+  },
+  {
+    "title": "To the Flame",
+    "artist": "The Nautical Theme",
+    "isrc": "USL4R2362993"
+  },
+  {
+    "title": "V1NC3NT COM3 ON DOWN",
+    "artist": "Brainiac",
+    "isrc": "USTG39615503"
+  },
+  {
+    "title": "I've Never Not and Always Will",
+    "artist": "Scary Hotel",
+    "isrc": "QZHNA1927487"
+  },
+  {
+    "title": "Lap Dog",
+    "artist": "RIND",
+    "isrc": "TCAFB2012491"
+  },
+  {
+    "title": "Almost Morning",
+    "artist": "David Payne",
+    "isrc": "QM7FC1900041"
+  },
+  {
+    "title": "Drawing Blood",
+    "artist": "The Typical Johnsons",
+    "isrc": "ushm91826523"
+  },
+  {
+    "title": "Dances with the Devil",
+    "artist": "Me & Mountains",
+    "isrc": "usl4q1955515"
+  },
+  {
+    "title": "Ghosty",
+    "artist": "Life in Idle",
+    "isrc": "QZMEP2351153"
+  },
+  {
+    "title": "Lizard People",
+    "artist": "Seth Gilliam and the Fake News",
+    "isrc": "ushm81988851"
+  },
+  {
+    "title": "Smoke Your Homework",
+    "artist": "Motel Beds",
+    "isrc": "USA2B1401670"
+  },
+  {
+    "title": "You Took a Gamble",
+    "artist": "The Story Changes",
+    "isrc": "US9K81100005"
+  },
+  {
+    "title": "Detriment",
+    "artist": "Better Anyway",
+    "isrc": "QZWFQ2359125"
+  },
+  {
+    "title": "No Matter What",
+    "artist": "Knavery",
+    "isrc": "QZFYZ2464798"
+  },
+  {
+    "title": "No Help",
+    "artist": "Leaving Off",
+    "isrc": "QZK6K2331022"
+  },
+  {
+    "title": "Reminiscing in a Taco Bell Parking Lot at 3AM",
+    "artist": "Heavyhead",
+    "isrc": "QZK6L2108763"
+  },
+  {
+    "title": "Burns Carpenter, Man of Science",
+    "artist": "Airport 5",
+    "isrc": "US37Y0400048"
+  },
+  {
+    "title": "Blacking Out (feat. Tino)",
+    "artist": "MOIRA, TINO",
+    "isrc": "QMZTB1600392"
+  },
+  {
+    "title": "Let It Rest for a Little While",
+    "artist": "Boston Spaceships",
+    "isrc": "USNUM0910052"
+  },
+  {
+    "title": "Subspace Biographies",
+    "artist": "Robert Pollard",
+    "isrc": "USNUM1710004"
+  },
+  {
+    "title": "Out on the Water",
+    "artist": "The Katawicks",
+    "isrc": "QZK6P2063633"
+  },
+  {
+    "title": "Landing on the Moon",
+    "artist": "Cricketbows",
+    "isrc": "QM4DW1516534"
+  },
+  {
+    "title": "Alone, Stinking, and Unafraid",
+    "artist": "Lexo and the Leapers",
+    "isrc": "US37Y9900017"
+  },
+  {
+    "title": "Lithuanian Bombshells",
+    "artist": "ESP Ohio",
+    "isrc": "USNUM1610052"
+  },
+  {
+    "title": "The Last Man Well Known to Kingpin",
+    "artist": "Tobin Sprout",
+    "isrc": "TCADB1719844"
+  },
+  {
+    "title": "Sleeping with Snails",
+    "artist": "Jetty Bones",
+    "isrc": "QZK6J2461478"
+  },
+  {
+    "title": "Yellow Brick Hole",
+    "artist": "McGuff and the Dumpster Fires",
+    "isrc": "uscgh1901450"
+  },
+  {
+    "title": "Parasol",
+    "artist": "Sadbox",
+    "isrc": "QZRP42113848"
+  },
+  {
+    "title": "Don't Mind - Grizzly Version",
+    "artist": "Gabe Maas and the Bruins",
+    "isrc": "QZDA81825168"
+  },
+  {
+    "title": "Dusting Coattails",
+    "artist": "Eyesinweasel",
+    "isrc": "US37Y0400202"
+  },
+  {
+    "title": "Hurt Like Me",
+    "artist": "Weathervein",
+    "isrc": "QZNWY2070891"
+  },
+  {
+    "title": "Christmas",
+    "artist": "Human Cannonball",
+    "isrc": "ushm91250724"
+  },
+  {
+    "title": "Vitiligo",
+    "artist": "Seth Gilliam",
+    "isrc": "ushm81748848"
+  },
+  {
+    "title": "Hideaway",
+    "artist": "You vs Yesterday",
+    "isrc": "TCAFD2095933"
+  },
+  {
+    "title": "One in the Chamber",
+    "artist": "Raised by Wolves",
+    "isrc": "QZHNA2012723"
+  },
+  {
+    "title": "Twisted",
+    "artist": "Beesly",
+    "isrc": "QZ4JJ1851147"
+  },
+  {
+    "title": "Lovety Love",
+    "artist": "John Dubuc's Guilty Pleasures",
+    "isrc": "QM7FC1900025"
+  },
+  {
+    "title": "Let Me Know When It's Yes",
+    "artist": "Smug Brothers",
+    "isrc": "USDPX2312405"
+  },
+  {
+    "title": "Saying Sorry",
+    "artist": "Hawthorne Heights",
+    "isrc": "USVIC0626505"
+  },
+  {
+    "title": "If You Want To Leave",
+    "artist": "Minor 'Love",
+    "isrc": "GB-SMU-51-88270"
+  },
+  {
+    "title": "I Gutted My Vcr",
+    "artist": "The Paint Splats",
+    "isrc": "ushm91967343"
+  },
+  {
+    "title": "My Little Raincloud",
+    "artist": "Shrug",
+    "isrc": "QM7FC1900008"
+  },
+  {
+    "title": "Stay Awake",
+    "artist": "Isicle, Rachel Turner",
+    "isrc": "QZFZ22139286"
+  },
+  {
+    "title": "Moonsteps",
+    "artist": "Flyaway Minion",
+    "isrc": "ushm81075236"
+  },
+  {
+    "title": "Got Your Nose",
+    "artist": "Oh Condor",
+    "isrc": "QM4DW1661347"
+  },
+  {
+    "title": "Feelin' Good (Could Be Better)",
+    "artist": "The Orphan The Poet",
+    "isrc": "QZGLM2227171"
+  },
+  {
+    "title": "Better Than Before",
+    "artist": "The Werks",
+    "isrc": "TCABZ1483940"
+  },
+  {
+    "title": "Clean",
+    "artist": "A Voice of Your Own",
+    "isrc": "QZFYY1965774"
+  },
+  {
+    "title": "Pornhat",
+    "artist": "Bomb Bunny",
+    "isrc": "QZFYZ2312418"
+  },
+  {
+    "title": "Like the Young Guys Do",
+    "artist": "Neo-American Pioneers",
+    "isrc": "QMDUW2000101"
+  },
+  {
+    "title": "Living to Infinity",
+    "artist": "The Boxcar Suite",
+    "isrc": "QM7FC1800002"
+  },
+  {
+    "title": "Smalltown, Midwest, U.S.A.",
+    "artist": "The New Old-Fashioned",
+    "isrc": "ushm81867533"
+  },
+  {
+    "title": "Door to Nowhere (Skeleton Man)",
+    "artist": "Salvadore Ross",
+    "isrc": "QZK6J2478800"
+  },
+  {
+    "title": "Daydream",
+    "artist": "Heather Redman",
+    "isrc": "QZTAX2285787"
+  },
+  {
+    "title": "Left on the Pavement",
+    "artist": "Kyleen Downes",
+    "isrc": "USX9P2386893"
+  },
+  {
+    "title": "You Know",
+    "artist": "TINO",
+    "isrc": "TCAEX2032597"
+  },
+  {
+    "title": "Painting Pictures",
+    "artist": "Amber Hargett",
+    "isrc": "QZHN42022794"
+  },
+  {
+    "title": "Brautigan",
+    "artist": "Paige Beller",
+    "isrc": "QMZTB1600336"
+  },
+  {
+    "title": "Tear Stained Eye",
+    "artist": "Age Nowhere",
+    "isrc": "QZF8D2000232"
+  },
+  {
+    "title": "Erryday",
+    "artist": "The 1984 Draft",
+    "isrc": "QMDA62218610"
+  },
+  {
+    "title": "Cavemen Running Naked",
+    "artist": "Guided By Voices",
+    "isrc": "USNUM2412107"
+  },
+  {
+    "title": "She's Bad (So Wicked)",
+    "artist": "Nightbeast",
+    "isrc": "TCAFL2171840"
+  },
+  {
+    "title": "Watching Smoke Rise up to the Moon",
+    "artist": "Seth Canan & The Carriers",
+    "isrc": "QMAAK1924566"
+  },
+  {
+    "title": "Sisyphus",
+    "artist": "The Nautical Theme",
+    "isrc": "USL4R2362996"
+  },
+  {
+    "title": "Hot Metal Doberman's",
+    "artist": "Brainiac",
+    "isrc": "USWU30600621"
+  },
+  {
+    "title": "Feelings in the Attic",
+    "artist": "Scary Hotel",
+    "isrc": "QZHNA1927482"
+  },
+  {
+    "title": "Just Keep Running`",
+    "artist": "RIND",
+    "isrc": "TCAFB2012497"
+  },
+  {
+    "title": "Cheaper Than Therapy",
+    "artist": "David Payne",
+    "isrc": "ushm21755189"
+  },
+  {
+    "title": "Bear",
+    "artist": "The Typical Johnsons",
+    "isrc": "QM9A81604503"
+  },
+  {
+    "title": "Carry Me Home",
+    "artist": "Me & Mountains",
+    "isrc": "QM9AA1612971"
+  },
+  {
+    "title": "Realize",
+    "artist": "Life in Idle",
+    "isrc": "QZMEP2351154"
+  },
+  {
+    "title": "Misconstrued",
+    "artist": "Seth Gilliam and the Fake News",
+    "isrc": "ushm81988852"
+  },
+  {
+    "title": "Oh Me, Oh My",
+    "artist": "Motel Beds",
+    "isrc": "QZFZ32421300"
+  },
+  {
+    "title": "Crying Wolf",
+    "artist": "The Story Changes",
+    "isrc": "QM9A91808501"
+  },
+  {
+    "title": "To Love Again",
+    "artist": "Better Anyway",
+    "isrc": "QZHNB2415245"
+  },
+  {
+    "title": "Time Traveler",
+    "artist": "Knavery",
+    "isrc": "QZK6Q2487792"
+  },
+  {
+    "title": "Cut You Out",
+    "artist": "Leaving Off",
+    "isrc": "QZNWX2257840"
+  },
+  {
+    "title": "Dayjob",
+    "artist": "Heavyhead",
+    "isrc": "QZDA52081711"
+  },
+  {
+    "title": "Circle of Trim",
+    "artist": "Airport 5",
+    "isrc": "US37Y0400054"
+  },
+  {
+    "title": "Machines",
+    "artist": "MOIRA",
+    "isrc": "USLZJ1559346"
+  }
+]

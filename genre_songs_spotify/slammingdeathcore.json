@@ -1,0 +1,932 @@
+[
+  {
+    "title": "Twisted Perception",
+    "artist": "Wretched Tongues",
+    "isrc": "USCGJ2411978"
+  },
+  {
+    "title": "Godfear",
+    "artist": "Bound in Fear",
+    "isrc": "TCADI1721815"
+  },
+  {
+    "title": "Malleus Maleficarum",
+    "artist": "Exorcised Gods, Duncan Bentley",
+    "isrc": "QZFZ41915775"
+  },
+  {
+    "title": "Rise Leviathan",
+    "artist": "Gravewalker, Ben Duerr",
+    "isrc": "TCAEL1902855"
+  },
+  {
+    "title": "Deadweight Redux - Redux",
+    "artist": "Lowlife, Tom Barber, Rheese Peters, Ben Mason, Jordan James, Alex Terrible, Cj McCreery, Duncan Bently, Cj McMahon, Ben Duer, Jamie Hanks, Dan Watson, Misstiq",
+    "isrc": "QZDA62187445"
+  },
+  {
+    "title": "Defiler",
+    "artist": "Malcontent, Rheese Peters",
+    "isrc": "QZHN82220768"
+  },
+  {
+    "title": "Lust",
+    "artist": "Salem Burning",
+    "isrc": "QZFZ22013946"
+  },
+  {
+    "title": "Chaos",
+    "artist": "We Are Obscurity",
+    "isrc": "QZK6K2040528"
+  },
+  {
+    "title": "Perennial Agony",
+    "artist": "Osiah",
+    "isrc": "QM4DW1518838"
+  },
+  {
+    "title": "Chainbreaker",
+    "artist": "Shrine of Malice",
+    "isrc": "QM6N22019824"
+  },
+  {
+    "title": "I, Apollyon",
+    "artist": "To Obey a Tyrant",
+    "isrc": "QZTAZ2349855"
+  },
+  {
+    "title": "Black Communion",
+    "artist": "Hollow Prophet",
+    "isrc": "TCADJ1709858"
+  },
+  {
+    "title": "The Judge",
+    "artist": "SCUMFUCK",
+    "isrc": "QZTAS2193259"
+  },
+  {
+    "title": "Black Lotus",
+    "artist": "Crown Magnetar",
+    "isrc": "QZFZ42150174"
+  },
+  {
+    "title": "Mandinga (feat. Rok Rupnik)",
+    "artist": "Cannibal Grandpa, Rok Rupnik",
+    "isrc": "TCADG1732475"
+  },
+  {
+    "title": "Anomalies",
+    "artist": "Signs Of Omnicide",
+    "isrc": "QZNJX2181135"
+  },
+  {
+    "title": "Heritage (feat. Will Ramos of Lorna Shore)",
+    "artist": "Distant, Will Ramos, Lorna Shore",
+    "isrc": "GBDHC2336210"
+  },
+  {
+    "title": "Jackhammer Lobotomy",
+    "artist": "Gutrectomy, Paleface Swiss",
+    "isrc": "DEYW82000056"
+  },
+  {
+    "title": "Obsessis a Daemonio",
+    "artist": "Mental Cruelty",
+    "isrc": "GBDHC2338702"
+  },
+  {
+    "title": "Dead Sprawl",
+    "artist": "Mankind Grief",
+    "isrc": "CH6542240005"
+  },
+  {
+    "title": "Amongst the Low & Empty",
+    "artist": "Signs of the Swarm",
+    "isrc": "GBDHC2336303"
+  },
+  {
+    "title": "Nobody",
+    "artist": "Decayer",
+    "isrc": "QM6N22068999"
+  },
+  {
+    "title": "King Emesis",
+    "artist": "Vulvodynia, Alex Terrible, Slaughter to Prevail",
+    "isrc": "QM2PV1629226"
+  },
+  {
+    "title": "Shock Tactics (1000v)",
+    "artist": "To The Grave",
+    "isrc": "QM6N22305623"
+  },
+  {
+    "title": "Vile",
+    "artist": "Defilement, Ben Mason",
+    "isrc": "TCAEE1944955"
+  },
+  {
+    "title": "Break",
+    "artist": "Traitors",
+    "isrc": "QZQAY2471137"
+  },
+  {
+    "title": "Devora",
+    "artist": "Cries Ov Christ",
+    "isrc": "usdy41806392"
+  },
+  {
+    "title": "Damaged",
+    "artist": "Kanine",
+    "isrc": "CH6542377360"
+  },
+  {
+    "title": "Misanthropy",
+    "artist": "Lacerate Thy Maker",
+    "isrc": "QZB4J1804254"
+  },
+  {
+    "title": "Sacred Tongues",
+    "artist": "Betrayer, CJ McCreery",
+    "isrc": "QZES51969742"
+  },
+  {
+    "title": "Disillusion in a Discordant System",
+    "artist": "Acrania",
+    "isrc": "USERN1008840"
+  },
+  {
+    "title": "ANIMETAL",
+    "artist": "Within Destruction",
+    "isrc": "QZK6G2420195"
+  },
+  {
+    "title": "Hate",
+    "artist": "Whxrecrusher",
+    "isrc": "QZDA81993697"
+  },
+  {
+    "title": "Astronaut In The Ocean",
+    "artist": "Abyss Walker, AconRiffs, Sammy SlamDance",
+    "isrc": "QZK6P2163951"
+  },
+  {
+    "title": "Bloodless",
+    "artist": "Left to Drown",
+    "isrc": "QZ9Y21716203"
+  },
+  {
+    "title": "Leech",
+    "artist": "Angelmaker",
+    "isrc": "USCGJ1540811"
+  },
+  {
+    "title": "Paragon of Purity",
+    "artist": "Ingested",
+    "isrc": "USMBR2315980"
+  },
+  {
+    "title": "Ritualistic Deformities",
+    "artist": "Covidectomy",
+    "isrc": "TCAHP2352239"
+  },
+  {
+    "title": "The Heretic Prevails",
+    "artist": "Shadow of Intent",
+    "isrc": "TCACZ1734655"
+  },
+  {
+    "title": "Machine Gods",
+    "artist": "Planetkiller, Quinn McGraw, Ryan Card",
+    "isrc": "QZMER2158942"
+  },
+  {
+    "title": "Eclipse",
+    "artist": "Brand of Sacrifice",
+    "isrc": "TCADQ1867203"
+  },
+  {
+    "title": "Human Extinction",
+    "artist": "One Vote for Violence, Darius Tehrani",
+    "isrc": "QZFYX2026265"
+  },
+  {
+    "title": "Tainted Existence",
+    "artist": "Dimensional Decay, Randy Leung",
+    "isrc": "QZK6H2033517"
+  },
+  {
+    "title": "Human Warfare",
+    "artist": "Embrace Your Punishment",
+    "isrc": "CH6541984521"
+  },
+  {
+    "title": "Represent",
+    "artist": "Silent Generation, Matt Yakesh",
+    "isrc": "QZES82117121"
+  },
+  {
+    "title": "Anunnaki Sperm Shot",
+    "artist": "Phrymerial",
+    "isrc": "USCGH1961800"
+  },
+  {
+    "title": "God Complex",
+    "artist": "Portals, Duncan Bentley",
+    "isrc": "QZES91853969"
+  },
+  {
+    "title": "No Forgiveness",
+    "artist": "Hanger Abortion",
+    "isrc": "USJ3V2144942"
+  },
+  {
+    "title": "The Great Tribulation",
+    "artist": "I Watched Myself Sleep, Luke Griffin",
+    "isrc": "QZFZ31914610"
+  },
+  {
+    "title": "Unfinished Business",
+    "artist": "Curbstomp the Predator",
+    "isrc": "QZTBC2349065"
+  },
+  {
+    "title": "Burning God",
+    "artist": "Natural Selection",
+    "isrc": "QZES91953813"
+  },
+  {
+    "title": "Please End Me",
+    "artist": "Paleface Swiss",
+    "isrc": "FRX872348601"
+  },
+  {
+    "title": "Dip Shit",
+    "artist": "Dead Nerves, Hunter Courtright",
+    "isrc": "QZFYX2015345"
+  },
+  {
+    "title": "Stay Out of My Swamp",
+    "artist": "The Ogre Packet Slammers, Tre' Perdue",
+    "isrc": "QZES81970534"
+  },
+  {
+    "title": "I Won't Kneel",
+    "artist": "MAL, Ingested, Noiseast",
+    "isrc": "FR26V2076380"
+  },
+  {
+    "title": "Sedation Through Amputation",
+    "artist": "Vasculitis",
+    "isrc": "QZK6F2387572"
+  },
+  {
+    "title": "Pro-Pain",
+    "artist": "State of Filth",
+    "isrc": "QZK6Q2494071"
+  },
+  {
+    "title": "Generation",
+    "artist": "Angry Reacts Only",
+    "isrc": "QZ4JJ1917746"
+  },
+  {
+    "title": "Subconscious Deprivation",
+    "artist": "Flesh of the Lotus",
+    "isrc": "QZDA62453890"
+  },
+  {
+    "title": "Untitled",
+    "artist": "Disclaimer",
+    "isrc": "ushm91612564"
+  },
+  {
+    "title": "Niggurath",
+    "artist": "Creating the Godform",
+    "isrc": "QZAPG1889927"
+  },
+  {
+    "title": "Nephila",
+    "artist": "Chains Of Agony",
+    "isrc": "GBMJG2334624"
+  },
+  {
+    "title": "Demolisher",
+    "artist": "Slaughter to Prevail",
+    "isrc": "USYFZ2034901"
+  },
+  {
+    "title": "I,Cerberus",
+    "artist": "Obliterate",
+    "isrc": "QMZNK1800403"
+  },
+  {
+    "title": "Violent Visions",
+    "artist": "Manipulation of the Population, Duncan Bentley",
+    "isrc": "QZDA61928285"
+  },
+  {
+    "title": "Abuser",
+    "artist": "Detest",
+    "isrc": "QZFYX1969017"
+  },
+  {
+    "title": "Pity Party",
+    "artist": "Xerophthalmia",
+    "isrc": "QZMEM2096996"
+  },
+  {
+    "title": "The Sixth Fiend",
+    "artist": "Ode to the End",
+    "isrc": "QZES81955834"
+  },
+  {
+    "title": "The Cycle",
+    "artist": "Stomp of Typhon",
+    "isrc": "QZ9Y21741793"
+  },
+  {
+    "title": "Malignant Nihilism",
+    "artist": "Applaud the Impaler",
+    "isrc": "USERN1007516"
+  },
+  {
+    "title": "Skeletons",
+    "artist": "Cold Hearts",
+    "isrc": "QZFZ72299309"
+  },
+  {
+    "title": "Leeches",
+    "artist": "In Shackles",
+    "isrc": "QZFYY1902277"
+  },
+  {
+    "title": "A A",
+    "artist": "Initiate Jericho",
+    "isrc": "AUBEC1704703"
+  },
+  {
+    "title": "All I See Is Hell",
+    "artist": "Desecration of Sanctitude",
+    "isrc": "QZDA81885873"
+  },
+  {
+    "title": "Born Without Eyes",
+    "artist": "2nd and Archer",
+    "isrc": "TCADS1859693"
+  },
+  {
+    "title": "Delusions of Divine",
+    "artist": "Plague Shaman",
+    "isrc": "TCACT1624249"
+  },
+  {
+    "title": "When Curiosity Kills A Dog",
+    "artist": "Ennui Breathes Malice",
+    "isrc": "TCAAR1064405"
+  },
+  {
+    "title": "Illegal Dino Racing",
+    "artist": "Super Slam Bros.",
+    "isrc": "QZMEM2089363"
+  },
+  {
+    "title": "Scum",
+    "artist": "Sterilizing the Deceased",
+    "isrc": "TCACK1567211"
+  },
+  {
+    "title": "Vuurwerk",
+    "artist": "Knives to a Gunfight",
+    "isrc": "QZHN52472748"
+  },
+  {
+    "title": "Kill the Colony",
+    "artist": "Fail to Decay",
+    "isrc": "uscgh1682357"
+  },
+  {
+    "title": "Thirteen",
+    "artist": "RECON",
+    "isrc": "USEK70806508"
+  },
+  {
+    "title": "Domination Through Disembowelment",
+    "artist": "Angel Splitter",
+    "isrc": "QZDA81997833"
+  },
+  {
+    "title": "Prizm of Illusions",
+    "artist": "Echoes Of Misanthropy",
+    "isrc": "TCADK1756351"
+  },
+  {
+    "title": "Mosaic Warfare",
+    "artist": "Exanimate",
+    "isrc": "TCAFB2074948"
+  },
+  {
+    "title": "Lost Thoughts",
+    "artist": "Level Eighty",
+    "isrc": "TCAEJ1900701"
+  },
+  {
+    "title": "Inevitable",
+    "artist": "Nahkriin",
+    "isrc": "QZDA71907391"
+  },
+  {
+    "title": "Curbstomp Dentistry",
+    "artist": "Primordial Swarm",
+    "isrc": "QZFZ22098161"
+  },
+  {
+    "title": "Welcome to Purgatoria",
+    "artist": "Purgatoria",
+    "isrc": "QM4DW1826117"
+  },
+  {
+    "title": "More",
+    "artist": "SCOURGES, Mirosh of An Argency",
+    "isrc": "RUA3R1707595"
+  },
+  {
+    "title": "Gnashing of Teeth",
+    "artist": "Shxttered, CJ McCreery",
+    "isrc": "TCAEB1986666"
+  },
+  {
+    "title": "Where Humans Are Gods",
+    "artist": "The Eleventh Plague",
+    "isrc": "GBSMU6611577"
+  },
+  {
+    "title": "Abyss",
+    "artist": "The Glasgow Smile",
+    "isrc": "QZDA61930979"
+  },
+  {
+    "title": "Severance",
+    "artist": "Wretched Tongues",
+    "isrc": "ushm82058269"
+  },
+  {
+    "title": "Hate Circuit",
+    "artist": "Bound in Fear",
+    "isrc": "QM6MZ1980171"
+  },
+  {
+    "title": "Gottlos",
+    "artist": "Exorcised Gods, Blowback",
+    "isrc": "QZNWS2137424"
+  },
+  {
+    "title": "The Extermination Process",
+    "artist": "Gravewalker, Will Ramos",
+    "isrc": "TCADP1845206"
+  },
+  {
+    "title": "Godfiend",
+    "artist": "Lowlife",
+    "isrc": "QZES62181380"
+  },
+  {
+    "title": "Inspiritus Mortem",
+    "artist": "Malcontent, Stevie O'shaughnessy, Jake Aveyard",
+    "isrc": "QZHN82220767"
+  },
+  {
+    "title": "A Summoning",
+    "artist": "Salem Burning",
+    "isrc": "QZDA51999620"
+  },
+  {
+    "title": "The Cleansing",
+    "artist": "We Are Obscurity",
+    "isrc": "QZK6K2040529"
+  },
+  {
+    "title": "A Great Nothing",
+    "artist": "Osiah",
+    "isrc": "QMFME2336182"
+  },
+  {
+    "title": "Lord of Flies",
+    "artist": "Shrine of Malice, Tom Barber",
+    "isrc": "QZTAT2304343"
+  },
+  {
+    "title": "Ov Fire And Sulphur",
+    "artist": "To Obey a Tyrant, Dan Tucker",
+    "isrc": "QZNWQ2217964"
+  },
+  {
+    "title": "Infernal Cleansing",
+    "artist": "Hollow Prophet",
+    "isrc": "TCADJ1709854"
+  },
+  {
+    "title": "Rollcall",
+    "artist": "SCUMFUCK",
+    "isrc": "QZFYY1974232"
+  },
+  {
+    "title": "The Level Beneath",
+    "artist": "Crown Magnetar",
+    "isrc": "QM4TX2341398"
+  },
+  {
+    "title": "Drown in Silver",
+    "artist": "Cannibal Grandpa",
+    "isrc": "TCADG1732457"
+  },
+  {
+    "title": "Putrid Colonization",
+    "artist": "Signs Of Omnicide",
+    "isrc": "QZNJX2181136"
+  },
+  {
+    "title": "Slaughter the Innocent",
+    "artist": "Gutrectomy",
+    "isrc": "DEYW82000055"
+  },
+  {
+    "title": "Loveless Suffering",
+    "artist": "Distant",
+    "isrc": "GBDHC2448901"
+  },
+  {
+    "title": "Forgotten Kings",
+    "artist": "Mental Cruelty",
+    "isrc": "GBDHC2338703"
+  },
+  {
+    "title": "Awaken",
+    "artist": "Mankind Grief",
+    "isrc": "TCAEH1924955"
+  },
+  {
+    "title": "Your Shadow",
+    "artist": "Decayer",
+    "isrc": "QMDA62239873"
+  },
+  {
+    "title": "Malady",
+    "artist": "Signs of the Swarm",
+    "isrc": "GBDHC2336313"
+  },
+  {
+    "title": "Entabeni",
+    "artist": "Vulvodynia, PeelingFlesh",
+    "isrc": "QM6MZ2427111"
+  },
+  {
+    "title": "Terrorist Threat",
+    "artist": "To The Grave",
+    "isrc": "QMFMF2024085"
+  },
+  {
+    "title": "Short Fused",
+    "artist": "Traitors",
+    "isrc": "NOCWZ1800274"
+  },
+  {
+    "title": "Moralless",
+    "artist": "Cries Ov Christ",
+    "isrc": "ushm21934052"
+  },
+  {
+    "title": "Gangrene",
+    "artist": "Kanine",
+    "isrc": "CH6542224489"
+  },
+  {
+    "title": "Parasitosis",
+    "artist": "Lacerate Thy Maker",
+    "isrc": "QZHNA2133104"
+  },
+  {
+    "title": "Locust",
+    "artist": "Betrayer",
+    "isrc": "QZES51969741"
+  },
+  {
+    "title": "Gagged With Propaganda",
+    "artist": "Acrania",
+    "isrc": "TCADY1811154"
+  },
+  {
+    "title": "No Way Out",
+    "artist": "Within Destruction",
+    "isrc": "QZHN42077636"
+  },
+  {
+    "title": "Tighten the Noose",
+    "artist": "Whxrecrusher",
+    "isrc": "QZDA81993695"
+  },
+  {
+    "title": "1000 Rounds",
+    "artist": "Abyss Walker, Not Norman, Sammy SlamDance",
+    "isrc": "QZB4J1807466"
+  },
+  {
+    "title": "Cryogenic Slumber",
+    "artist": "Left to Drown",
+    "isrc": "QZ9Y21716204"
+  },
+  {
+    "title": "Endless Machine",
+    "artist": "Ingested",
+    "isrc": "USMBR2315981"
+  },
+  {
+    "title": "In Death",
+    "artist": "Angelmaker",
+    "isrc": "QZES91997623"
+  },
+  {
+    "title": "Angelic Anomalies",
+    "artist": "Covidectomy",
+    "isrc": "TCAHP2352243"
+  },
+  {
+    "title": "From Ruin... We Rise",
+    "artist": "Shadow of Intent",
+    "isrc": "FRX452190347"
+  },
+  {
+    "title": "Futility",
+    "artist": "Planetkiller",
+    "isrc": "QZPLR2161142"
+  },
+  {
+    "title": "Lifeblood",
+    "artist": "Brand of Sacrifice, Will Ramos",
+    "isrc": "FRX872120490"
+  },
+  {
+    "title": "State of Desperation",
+    "artist": "One Vote for Violence",
+    "isrc": "QZFYX2026256"
+  },
+  {
+    "title": "Gaslight",
+    "artist": "Dimensional Decay",
+    "isrc": "QZK6H2033514"
+  },
+  {
+    "title": "Made of Stone Part I",
+    "artist": "Embrace Your Punishment, Crowbar",
+    "isrc": "CH6542377067"
+  },
+  {
+    "title": "Ego Trip",
+    "artist": "Silent Generation",
+    "isrc": "QZMEM2173732"
+  },
+  {
+    "title": "C-137",
+    "artist": "Phrymerial",
+    "isrc": "USCGH1961806"
+  },
+  {
+    "title": "Apex",
+    "artist": "Portals",
+    "isrc": "QZES91824758"
+  },
+  {
+    "title": "Infamous Butchery",
+    "artist": "Hanger Abortion, Jack Kraanium",
+    "isrc": "USJ3V2017903"
+  },
+  {
+    "title": "Wyrd",
+    "artist": "I Watched Myself Sleep",
+    "isrc": "QZES62275435"
+  },
+  {
+    "title": "K.Y.L.R.",
+    "artist": "Curbstomp the Predator, Face Yourself",
+    "isrc": "QZTBC2349066"
+  },
+  {
+    "title": "GDL Slam",
+    "artist": "Natural Selection",
+    "isrc": "QZES91953817"
+  },
+  {
+    "title": "Brain Bleed",
+    "artist": "Dead Nerves",
+    "isrc": "QM4DW1852515"
+  },
+  {
+    "title": "Pain",
+    "artist": "Paleface Swiss",
+    "isrc": "FRX872150897"
+  },
+  {
+    "title": "Recreant",
+    "artist": "The Ogre Packet Slammers",
+    "isrc": "QZNWY2036343"
+  },
+  {
+    "title": "Martyr of Cordoba",
+    "artist": "MAL, Ingested",
+    "isrc": "FR26V2085593"
+  },
+  {
+    "title": "Acidic Bile-Filled Gut Expulsion",
+    "artist": "Vasculitis",
+    "isrc": "QZK6F2387573"
+  },
+  {
+    "title": "Endless Torment",
+    "artist": "State of Filth, Bashed in",
+    "isrc": "QZTB62373239"
+  },
+  {
+    "title": "Polidicks",
+    "artist": "Angry Reacts Only, Jacob Wallace",
+    "isrc": "QZES81967645"
+  },
+  {
+    "title": "Manifesting The End",
+    "artist": "Flesh of the Lotus",
+    "isrc": "QZHN42435606"
+  },
+  {
+    "title": "Regression",
+    "artist": "Disclaimer, Josh Frazier",
+    "isrc": "ushm91612565"
+  },
+  {
+    "title": "Miasmic Forms",
+    "artist": "Creating the Godform",
+    "isrc": "QZAPG1889934"
+  },
+  {
+    "title": "Imperium",
+    "artist": "Chains Of Agony",
+    "isrc": "GBMJG2330646"
+  },
+  {
+    "title": "Relentless (feat. Fred Beaulieu)",
+    "artist": "Obliterate, Fred Beaulieu",
+    "isrc": "ushm21442965"
+  },
+  {
+    "title": "Ascendancy",
+    "artist": "Wretched Tongues",
+    "isrc": "usdy42398371"
+  },
+  {
+    "title": "Sentenced",
+    "artist": "Bound in Fear",
+    "isrc": "QM6MZ2489122"
+  },
+  {
+    "title": "Abandon All Hope",
+    "artist": "Exorcised Gods",
+    "isrc": "QZNWS2137418"
+  },
+  {
+    "title": "Draconian",
+    "artist": "Gravewalker",
+    "isrc": "TCAFF2024234"
+  },
+  {
+    "title": "RIS",
+    "artist": "Lowlife",
+    "isrc": "QZES62181382"
+  },
+  {
+    "title": "Metamorphosis",
+    "artist": "Malcontent",
+    "isrc": "QZHN82220766"
+  },
+  {
+    "title": "Bringer of Plagues (Hastur)",
+    "artist": "Salem Burning",
+    "isrc": "QZMER2165759"
+  },
+  {
+    "title": "Hatred",
+    "artist": "We Are Obscurity",
+    "isrc": "QZK6K2040530"
+  },
+  {
+    "title": "Temporal Punishment",
+    "artist": "Osiah",
+    "isrc": "QM4TW2132903"
+  },
+  {
+    "title": "Carnal Beast",
+    "artist": "Shrine of Malice",
+    "isrc": "QZHN91929661"
+  },
+  {
+    "title": "Sanctus Infernum",
+    "artist": "To Obey a Tyrant, Kyler Cheek",
+    "isrc": "QZNWQ2217961"
+  },
+  {
+    "title": "Scumprophet",
+    "artist": "Hollow Prophet, SCUMFUCK",
+    "isrc": "TCADS1860713"
+  },
+  {
+    "title": "The Hammer",
+    "artist": "SCUMFUCK",
+    "isrc": "QZFYY1974233"
+  },
+  {
+    "title": "Everything Bleeds",
+    "artist": "Crown Magnetar",
+    "isrc": "QM4TX2341399"
+  },
+  {
+    "title": "Kingdom Under Your Feet (feat. Jose Manuel Tts)",
+    "artist": "Cannibal Grandpa, Jose Manuel TTS",
+    "isrc": "TCADG1732455"
+  },
+  {
+    "title": "Abhorrence",
+    "artist": "Signs Of Omnicide",
+    "isrc": "QZ5AB2297682"
+  },
+  {
+    "title": "Flatulence Violence",
+    "artist": "Gutrectomy, Mental Cruelty",
+    "isrc": "USL4Q1766701"
+  },
+  {
+    "title": "Argent Justice (feat. Suicide Silence, Emmure, Abbie Falls, Acranius, Angelmaker, Bodysnatcher, CABAL, Carcosa, Crown Magnetar, Paleface, ten56. & Worm Shepherd)",
+    "artist": "Distant, Suicide Silence, Emmure, Abbie Falls, Acranius, Angelmaker, Bodysnatcher, CABAL, Carcosa, Crown Magnetar, Paleface Swiss, ten56., Worm Shepherd",
+    "isrc": "GBDHC2336206"
+  },
+  {
+    "title": "Symphony of a Dying Star",
+    "artist": "Mental Cruelty",
+    "isrc": "GBDHC2338708"
+  },
+  {
+    "title": "Scourge of the Macrocosm",
+    "artist": "Mankind Grief",
+    "isrc": "CH6542224812"
+  },
+  {
+    "title": "Pray for Plagues",
+    "artist": "Decayer",
+    "isrc": "QMMUK1900168"
+  },
+  {
+    "title": "Tower of Torsos",
+    "artist": "Signs of the Swarm",
+    "isrc": "GBDHC2336304"
+  },
+  {
+    "title": "Nyaope (Feat. Martin Matousek, Gutalax)",
+    "artist": "Vulvodynia, Martin Matousek, Gutalax",
+    "isrc": "TCAEF1925865"
+  },
+  {
+    "title": "Cut off the Head",
+    "artist": "To The Grave",
+    "isrc": "QMDA62236700"
+  },
+  {
+    "title": "Menace to Society",
+    "artist": "Traitors",
+    "isrc": "QMFME2167690"
+  },
+  {
+    "title": "Surrection",
+    "artist": "Cries Ov Christ",
+    "isrc": "QZNWS2073466"
+  },
+  {
+    "title": "Snakepit",
+    "artist": "Kanine",
+    "isrc": "CH6542250611"
+  },
+  {
+    "title": "Psychopathic Engorgement",
+    "artist": "Lacerate Thy Maker",
+    "isrc": "QZB4J1802940"
+  },
+  {
+    "title": "Hearing Voices",
+    "artist": "Betrayer",
+    "isrc": "QZES51969743"
+  },
+  {
+    "title": "Exterminate the Liberated",
+    "artist": "Acrania",
+    "isrc": "TCADW1860346"
+  },
+  {
+    "title": "Survival",
+    "artist": "Within Destruction",
+    "isrc": "QMEU32203710"
+  }
+]

@@ -1,0 +1,977 @@
+[
+  {
+    "title": "Gul Rengdar in",
+    "artist": "Koma Gulen Xerzan",
+    "isrc": "TR0510600309"
+  },
+  {
+    "title": "Bahoz",
+    "artist": "Farqin",
+    "isrc": "TR0510802071"
+  },
+  {
+    "title": "Dayê",
+    "artist": "Nizamettin Ariç",
+    "isrc": "TR2081502439"
+  },
+  {
+    "title": "Gula Min",
+    "artist": "Koma Çiya",
+    "isrc": "TR0510640043"
+  },
+  {
+    "title": "Lawıke Metini",
+    "artist": "Karapete Xaço",
+    "isrc": "TR0510600626"
+  },
+  {
+    "title": "De Bila Be To",
+    "artist": "Çar Newa",
+    "isrc": "TR0390600197"
+  },
+  {
+    "title": "Reber",
+    "artist": "Koma Rewşen",
+    "isrc": "TR0510601347"
+  },
+  {
+    "title": "Newroz",
+    "artist": "Koma Rojhilat",
+    "isrc": "TR0511503692"
+  },
+  {
+    "title": "Ay Le Gule",
+    "artist": "Mihemed Şexo",
+    "isrc": "TR0510600824"
+  },
+  {
+    "title": "Heywax Daye",
+    "artist": "Ayşe Şan",
+    "isrc": "TR0510701899"
+  },
+  {
+    "title": "Car Caran",
+    "artist": "Xozan Comerd",
+    "isrc": "TR0510600869"
+  },
+  {
+    "title": "Mesele Ne Eva",
+    "artist": "Abbas Ahmed",
+    "isrc": "TR0390600011"
+  },
+  {
+    "title": "Sebra Dila",
+    "artist": "Xelil Xemgin",
+    "isrc": "TR0510601122"
+  },
+  {
+    "title": "Bablisok",
+    "artist": "Hivron",
+    "isrc": "TR0511002313"
+  },
+  {
+    "title": "Dera Sorê",
+    "artist": "Koma Denge Azadi",
+    "isrc": "TR0390600579"
+  },
+  {
+    "title": "Tesi",
+    "artist": "Koma Amed",
+    "isrc": "TR0510601533"
+  },
+  {
+    "title": "Sewdasıza Mın",
+    "artist": "Brader",
+    "isrc": "TR0520600491"
+  },
+  {
+    "title": "Derdê Duriyê",
+    "artist": "Xero Abbas",
+    "isrc": "FRX872270027"
+  },
+  {
+    "title": "Şer Şere",
+    "artist": "Hozan Şemdin",
+    "isrc": "TR0510600991"
+  },
+  {
+    "title": "Gelo Ew Ki Bu ?",
+    "artist": "Aram Tigran",
+    "isrc": "TR0510902330"
+  },
+  {
+    "title": "Lexe Gerilla",
+    "artist": "Rotinda",
+    "isrc": "NL4NL2160738"
+  },
+  {
+    "title": "Zînê",
+    "artist": "Lawje",
+    "isrc": "QZHN42206109"
+  },
+  {
+    "title": "Yaran",
+    "artist": "Tara Jaff",
+    "isrc": "TR0510600014"
+  },
+  {
+    "title": "Xıfşe",
+    "artist": "Mihemed Arif Cizrawi, Hesen Cizrawî",
+    "isrc": "TR0510601557"
+  },
+  {
+    "title": "Lı Xwe Baş Binere",
+    "artist": "Turan Şengül",
+    "isrc": "TR0510600072"
+  },
+  {
+    "title": "Zozan Zozan",
+    "artist": "Ahmed Xelil",
+    "isrc": "TR0521305468"
+  },
+  {
+    "title": "Esmer Emman",
+    "artist": "İbrahim Rojhilat",
+    "isrc": "TR0510600405"
+  },
+  {
+    "title": "Seyrani Me",
+    "artist": "Tahsin Taha",
+    "isrc": "TR0510600451"
+  },
+  {
+    "title": "Her Tişt Vire",
+    "artist": "Beytocan",
+    "isrc": "TR0860600112"
+  },
+  {
+    "title": "Pêşiya Malê",
+    "artist": "Mehmet Atlı",
+    "isrc": "TR0511403229"
+  },
+  {
+    "title": "Keça Delal",
+    "artist": "Şehriban",
+    "isrc": "TR0520600443"
+  },
+  {
+    "title": "Zilan",
+    "artist": "Delila",
+    "isrc": "TRAA40800099"
+  },
+  {
+    "title": "Gul Sînemê",
+    "artist": "Xanemir",
+    "isrc": "FRX762045130"
+  },
+  {
+    "title": "Kew Hêlun",
+    "artist": "Agit Işık",
+    "isrc": "TR0511403236"
+  },
+  {
+    "title": "Wey Malino",
+    "artist": "Kilamên Yêrêvanê, Şeroye Biro, Şebabê Egîd",
+    "isrc": "TR0510601650"
+  },
+  {
+    "title": "Dilo Yeman",
+    "artist": "Nilüfer Akbal",
+    "isrc": "FR2X41997413"
+  },
+  {
+    "title": "Cemila Mın",
+    "artist": "Ze Tije",
+    "isrc": "TRAPL1500081"
+  },
+  {
+    "title": "Delalê",
+    "artist": "Sivan Perwer",
+    "isrc": "TRACC1300217"
+  },
+  {
+    "title": "Çeme Çetele - De Xalo",
+    "artist": "Kawis Axa",
+    "isrc": "TR0510601728"
+  },
+  {
+    "title": "Poşman",
+    "artist": "Kerem Sevinç",
+    "isrc": "TR1591503373"
+  },
+  {
+    "title": "Gula Min",
+    "artist": "Trio Mara",
+    "isrc": "TR6791300094"
+  },
+  {
+    "title": "Dirok",
+    "artist": "Hozan Hogır",
+    "isrc": "TR0510601309"
+  },
+  {
+    "title": "Hevala Min",
+    "artist": "Zozan",
+    "isrc": "TR0510601786"
+  },
+  {
+    "title": "Xeribi - Remastered",
+    "artist": "Ciwan Haco",
+    "isrc": "FR59R1891611"
+  },
+  {
+    "title": "Çûme Cizîrê",
+    "artist": "Seîd Yusif",
+    "isrc": "TR2081500674"
+  },
+  {
+    "title": "Ogit",
+    "artist": "Bajar",
+    "isrc": "TR0330907066"
+  },
+  {
+    "title": "Be Te Nabe",
+    "artist": "Simar",
+    "isrc": "TR0521004942"
+  },
+  {
+    "title": "Yare Tu Zani",
+    "artist": "Erol Berxwedan",
+    "isrc": "TR0860900949"
+  },
+  {
+    "title": "Merdana Mına",
+    "artist": "Umut Altınçağ",
+    "isrc": "TR0510601457"
+  },
+  {
+    "title": "Lê Lê Rihê",
+    "artist": "Kilamên Êrivanê",
+    "isrc": "TR2081500462"
+  },
+  {
+    "title": "Nofa",
+    "artist": "Issa Hassan, Khalifé Bacha, Aziz Othman",
+    "isrc": "FRZ170710010"
+  },
+  {
+    "title": "İsyan Ateşi",
+    "artist": "Grup Munzur",
+    "isrc": "TR0390600450"
+  },
+  {
+    "title": "Barane",
+    "artist": "Maruf",
+    "isrc": "TR0510600486"
+  },
+  {
+    "title": "Naze",
+    "artist": "Koma Şirvan",
+    "isrc": "TR8761000878"
+  },
+  {
+    "title": "Çem Vano (Irmağın Şarkısı)",
+    "artist": "Mikail Aslan",
+    "isrc": "TR0331309361"
+  },
+  {
+    "title": "Nofa",
+    "artist": "Huseyne Omeri",
+    "isrc": "TR2081500483"
+  },
+  {
+    "title": "Ez Qurbana Wan Çaven Te",
+    "artist": "Cejno",
+    "isrc": "TR0520703302"
+  },
+  {
+    "title": "Ezi Kalim",
+    "artist": "Koma Xelîkan",
+    "isrc": "TR0510600246"
+  },
+  {
+    "title": "Dîtna Şêrîn - Hevaltî Pîroze",
+    "artist": "Berfin Aktay",
+    "isrc": "FRX282301158"
+  },
+  {
+    "title": "Evîn",
+    "artist": "Mem Ararat",
+    "isrc": "TRBKO2100012"
+  },
+  {
+    "title": "Em Bernadin",
+    "artist": "Kewê",
+    "isrc": "TR0520903808"
+  },
+  {
+    "title": "Hejayi - Kürtçe",
+    "artist": "Rojin",
+    "isrc": "TRA160300315"
+  },
+  {
+    "title": "Xale Cemil Eman Mehemede",
+    "artist": "Hüseyne Fari, Mahmut Kızıl",
+    "isrc": "FR2X41742208"
+  },
+  {
+    "title": "Ey Dilbere",
+    "artist": "Murat Bektaş",
+    "isrc": "TR0520601231"
+  },
+  {
+    "title": "Xoş E Hewreman",
+    "artist": "Kamkars Ensemble",
+    "isrc": "TR0390600542"
+  },
+  {
+    "title": "Sürüm Sürüm",
+    "artist": "Kürt Remzi",
+    "isrc": "FR96X2045592"
+  },
+  {
+    "title": "Gulamın",
+    "artist": "Şiyar",
+    "isrc": "TRBFA1700956"
+  },
+  {
+    "title": "Tembur (Heyder)",
+    "artist": "Cemil Koçgün",
+    "isrc": "TR0330906990"
+  },
+  {
+    "title": "Welate Me Kurdîstane E",
+    "artist": "Rençber Eziz",
+    "isrc": "TR2081200556"
+  },
+  {
+    "title": "Qumrike",
+    "artist": "Meyremxan",
+    "isrc": "TR0510601051"
+  },
+  {
+    "title": "Narine",
+    "artist": "Groupe Koma Zozan",
+    "isrc": "FRZ178210280"
+  },
+  {
+    "title": "Berxo",
+    "artist": "Gani Nar",
+    "isrc": "TR0390600287"
+  },
+  {
+    "title": "Kemal Pir",
+    "artist": "Kadir Çat",
+    "isrc": "TR0512006692"
+  },
+  {
+    "title": "Khosha Hawraman",
+    "artist": "The Kamkars",
+    "isrc": "NOLCA1093110"
+  },
+  {
+    "title": "Osmana",
+    "artist": "Alend Hazim",
+    "isrc": "QZK6Q2497748"
+  },
+  {
+    "title": "Qomrike",
+    "artist": "Bılınd Îbrahîm",
+    "isrc": "IQA001201079"
+  },
+  {
+    "title": "Sey Weli",
+    "artist": "Serdar",
+    "isrc": "FRX282284530"
+  },
+  {
+    "title": "Le Yarewe",
+    "artist": "Merziyeh Fareghi",
+    "isrc": "SEYOK1014861"
+  },
+  {
+    "title": "Besta Beleka",
+    "artist": "Rozerin Besta",
+    "isrc": "TR0510601209"
+  },
+  {
+    "title": "Turnam 2",
+    "artist": "Gülbahar",
+    "isrc": "TR0330600512"
+  },
+  {
+    "title": "Tadarak",
+    "artist": "Groupe Musical du Kurdistan",
+    "isrc": "FR0FK9301540"
+  },
+  {
+    "title": "Zemane Çende Ciwane",
+    "artist": "Mezher Xeliqi",
+    "isrc": "TR0390701057"
+  },
+  {
+    "title": "Lo Ezo Lo Ezizo",
+    "artist": "Ziyaddin Doğan",
+    "isrc": "TR0520703468"
+  },
+  {
+    "title": "Kizholai Kurdistani",
+    "artist": "Hasan Zirak",
+    "isrc": "GXCNM2400101"
+  },
+  {
+    "title": "Li Ser Reka Te",
+    "artist": "Xeyredin Ekrem",
+    "isrc": "TR0520803602"
+  },
+  {
+    "title": "Panja Rajan (Danse de joie)",
+    "artist": "Ensemble Razbar",
+    "isrc": "FRZ170110350"
+  },
+  {
+    "title": "Delalîyê",
+    "artist": "Esker Demirbaş",
+    "isrc": "FR2X42001995"
+  },
+  {
+    "title": "Yollarına Güller Dökem",
+    "artist": "Seher Dilovan",
+    "isrc": "FR2X41457884"
+  },
+  {
+    "title": "Dances of the East (feat. Serkan Cagri)",
+    "artist": "Hussein Zahawy, Serkan Çağrı",
+    "isrc": "USBBC0910029"
+  },
+  {
+    "title": "Gül Bahçesi",
+    "artist": "Ali Baran",
+    "isrc": "FR96X2076134"
+  },
+  {
+    "title": "Oh! My Black Eyes",
+    "artist": "Hakan",
+    "isrc": "USA370527611"
+  },
+  {
+    "title": "Çûme Mûşê",
+    "artist": "Koma Dep",
+    "isrc": "TR7881300008"
+  },
+  {
+    "title": "Mercan",
+    "artist": "Tuncer Özalp",
+    "isrc": "TR0520703311"
+  },
+  {
+    "title": "Welat Çı Qas Xweş Ü Rınd E",
+    "artist": "Şahiya Stranan",
+    "isrc": "TR0511102689"
+  },
+  {
+    "title": "Evdo",
+    "artist": "Koma Gulen Xerzan",
+    "isrc": "TR0510600310"
+  },
+  {
+    "title": "Diyarbekır Textê Te",
+    "artist": "Farqin",
+    "isrc": "TR0511503278"
+  },
+  {
+    "title": "Zînê",
+    "artist": "Nizamettin Ariç",
+    "isrc": "TR2081502449"
+  },
+  {
+    "title": "Tolhildan",
+    "artist": "Koma Çiya",
+    "isrc": "TR0510640046"
+  },
+  {
+    "title": "Evdale Zeyne",
+    "artist": "Karapete Xaço",
+    "isrc": "TR0510600614"
+  },
+  {
+    "title": "Bostano",
+    "artist": "Çar Newa",
+    "isrc": "TR0510600902"
+  },
+  {
+    "title": "Çıyaye Bezar",
+    "artist": "Koma Rewşen",
+    "isrc": "TR0450600094"
+  },
+  {
+    "title": "Lo Berde",
+    "artist": "Koma Rojhilat",
+    "isrc": "TR0510601582"
+  },
+  {
+    "title": "Eman Dılo",
+    "artist": "Mihemed Şexo",
+    "isrc": "TR0510600822"
+  },
+  {
+    "title": "Kirase Te Meles E",
+    "artist": "Ayşe Şan",
+    "isrc": "TR0510701894"
+  },
+  {
+    "title": "Ez Şehid İm",
+    "artist": "Xozan Comerd",
+    "isrc": "TR0510600872"
+  },
+  {
+    "title": "Keyne",
+    "artist": "Abbas Ahmed",
+    "isrc": "TR0390600026"
+  },
+  {
+    "title": "Yar Meleke",
+    "artist": "Xelil Xemgin, Diyar",
+    "isrc": "TR0510600240"
+  },
+  {
+    "title": "Çendı Bejım",
+    "artist": "Hivron",
+    "isrc": "TR0390601034"
+  },
+  {
+    "title": "Çavên Me Sondxwarine",
+    "artist": "Koma Denge Azadi",
+    "isrc": "TR2081501539"
+  },
+  {
+    "title": "Harun E Min",
+    "artist": "Brader",
+    "isrc": "TR0520600774"
+  },
+  {
+    "title": "Hoy Memo",
+    "artist": "Koma Amed",
+    "isrc": "TR0510601523"
+  },
+  {
+    "title": "Axîn",
+    "artist": "Xero Abbas",
+    "isrc": "TR0510600324"
+  },
+  {
+    "title": "Şev Çu",
+    "artist": "Aram Tigran",
+    "isrc": "TR0520600238"
+  },
+  {
+    "title": "Hezar Hezar",
+    "artist": "Hozan Şemdin",
+    "isrc": "TR0510600987"
+  },
+  {
+    "title": "Xem Neke",
+    "artist": "Rotinda, Kasım Taşdoğan",
+    "isrc": "GX5MY2157550"
+  },
+  {
+    "title": "Keçikê",
+    "artist": "Lawje",
+    "isrc": "QZHN72319140"
+  },
+  {
+    "title": "Her Warek Bi Bilbilek",
+    "artist": "Tara Jaff",
+    "isrc": "TR3431500671"
+  },
+  {
+    "title": "Xezal",
+    "artist": "Mihemed Arif Cizrawi, Hesen Cizrawî",
+    "isrc": "TR0510601556"
+  },
+  {
+    "title": "Nizanim",
+    "artist": "Turan Şengül",
+    "isrc": "TR0510600077"
+  },
+  {
+    "title": "Bigol Şewiti",
+    "artist": "Ahmed Xelil",
+    "isrc": "TR0521305474"
+  },
+  {
+    "title": "Ji Te Dûr Bûm",
+    "artist": "İbrahim Rojhilat",
+    "isrc": "TR0510701966"
+  },
+  {
+    "title": "Yar De Yar",
+    "artist": "Tahsin Taha",
+    "isrc": "TR0510601027"
+  },
+  {
+    "title": "Lo Dilo",
+    "artist": "Beytocan",
+    "isrc": "TR0860600117"
+  },
+  {
+    "title": "Bilhar Xweşe",
+    "artist": "Şehriban",
+    "isrc": "TR0520600386"
+  },
+  {
+    "title": "Se Jinen Azad",
+    "artist": "Delila",
+    "isrc": "TRAA40800100"
+  },
+  {
+    "title": "Ay Le Gule",
+    "artist": "Mehmet Atlı",
+    "isrc": "TR0510802124"
+  },
+  {
+    "title": "Mevanım",
+    "artist": "Xanemir",
+    "isrc": "TR0510601794"
+  },
+  {
+    "title": "Ber Derê Ki U Ki",
+    "artist": "Agit Işık",
+    "isrc": "TR0511403237"
+  },
+  {
+    "title": "Hekîmo",
+    "artist": "Kilamên Yêrêvanê, Şeroye Biro, Şebabê Egîd",
+    "isrc": "TR0510601647"
+  },
+  {
+    "title": "Bıhuye",
+    "artist": "Ze Tije",
+    "isrc": "TRAPL1500079"
+  },
+  {
+    "title": "Erê Gulê",
+    "artist": "Nilüfer Akbal",
+    "isrc": "FR2X41997414"
+  },
+  {
+    "title": "Genc Xelile",
+    "artist": "Kawis Axa",
+    "isrc": "TR0510601742"
+  },
+  {
+    "title": "Helebçe",
+    "artist": "Sivan Perwer",
+    "isrc": "TRACC1100121"
+  },
+  {
+    "title": "Bao",
+    "artist": "Kerem Sevinç",
+    "isrc": "TR1591503378"
+  },
+  {
+    "title": "Desmala Min",
+    "artist": "Trio Mara",
+    "isrc": "TR6791300096"
+  },
+  {
+    "title": "Axa Zerin",
+    "artist": "Hozan Hogır",
+    "isrc": "TR0510601312"
+  },
+  {
+    "title": "Megri Megri",
+    "artist": "Zozan",
+    "isrc": "TRBFA1701181"
+  },
+  {
+    "title": "Lê Lê Dînê",
+    "artist": "Ciwan Haco",
+    "isrc": "FR59R1883032"
+  },
+  {
+    "title": "Davet E Li Gundê Me",
+    "artist": "Seîd Yusif",
+    "isrc": "TR2081501697"
+  },
+  {
+    "title": "Serhıldan Jiyan E (Yaşamak Direnmektir)",
+    "artist": "Bajar",
+    "isrc": "TR0331209016"
+  },
+  {
+    "title": "Ciran",
+    "artist": "Simar",
+    "isrc": "TR0520600730"
+  },
+  {
+    "title": "Delala Dilê Min Yarê",
+    "artist": "Erol Berxwedan",
+    "isrc": "DEPI82219341"
+  },
+  {
+    "title": "Pusuya Düştüm",
+    "artist": "Umut Altınçağ",
+    "isrc": "TR1590600294"
+  },
+  {
+    "title": "Romanî",
+    "artist": "Kilamên Êrivanê",
+    "isrc": "TR5660900038"
+  },
+  {
+    "title": "Coxe Mino",
+    "artist": "Issa Hassan, Khalifé Bacha, Aziz Othman",
+    "isrc": "FRZ170710080"
+  },
+  {
+    "title": "Heseno Lo Lawo",
+    "artist": "Maruf",
+    "isrc": "TR0510600289"
+  },
+  {
+    "title": "Pukeleka",
+    "artist": "Grup Munzur",
+    "isrc": "TR0390600453"
+  },
+  {
+    "title": "Derde Dilan",
+    "artist": "Koma Şirvan",
+    "isrc": "TR0520600060"
+  },
+  {
+    "title": "Elqajiye",
+    "artist": "Mikail Aslan",
+    "isrc": "TR0330604965"
+  },
+  {
+    "title": "Werîn Sêva",
+    "artist": "Huseyne Omeri",
+    "isrc": "TR2081500491"
+  },
+  {
+    "title": "Merdine",
+    "artist": "Cejno",
+    "isrc": "TR0520703299"
+  },
+  {
+    "title": "Le Narine",
+    "artist": "Koma Xelîkan",
+    "isrc": "TR0510600249"
+  },
+  {
+    "title": "Naxwazim / Şirin Cane",
+    "artist": "Berfin Aktay",
+    "isrc": "QZFZ22364403"
+  },
+  {
+    "title": "Pîvok",
+    "artist": "Mem Ararat",
+    "isrc": "TRBKO1900009"
+  },
+  {
+    "title": "Gazin",
+    "artist": "Kewê",
+    "isrc": "TR0520903809"
+  },
+  {
+    "title": "İkimiz Bir Fidanız",
+    "artist": "Rojin",
+    "isrc": "TRA160400102"
+  },
+  {
+    "title": "Abdulkadir Çavuş Tu Xırabi",
+    "artist": "Hüseyne Fari, Mahmut Kızıl",
+    "isrc": "FR2X41742210"
+  },
+  {
+    "title": "Cane",
+    "artist": "Murat Bektaş",
+    "isrc": "TR0521305732"
+  },
+  {
+    "title": "Kolan Be Kolan",
+    "artist": "Kamkars Ensemble",
+    "isrc": "TR0390600556"
+  },
+  {
+    "title": "Sericiya Budare / Dağlar Başı Duman Olur",
+    "artist": "Kürt Remzi",
+    "isrc": "TR0140508600"
+  },
+  {
+    "title": "Baranê",
+    "artist": "Şiyar",
+    "isrc": "TRBFA1700962"
+  },
+  {
+    "title": "Roj We Be",
+    "artist": "Farqin",
+    "isrc": "TR0510802073"
+  },
+  {
+    "title": "Seltene",
+    "artist": "Koma Gulen Xerzan",
+    "isrc": "TR0510600307"
+  },
+  {
+    "title": "Da Welat Welat",
+    "artist": "Nizamettin Ariç",
+    "isrc": "TR2081502450"
+  },
+  {
+    "title": "Partizan",
+    "artist": "Koma Çiya",
+    "isrc": "TR0510640049"
+  },
+  {
+    "title": "Oy Oy Limin",
+    "artist": "Karapete Xaço, Sisa Mecid",
+    "isrc": "TR0510601614"
+  },
+  {
+    "title": "Ez Şivan Im",
+    "artist": "Çar Newa",
+    "isrc": "TR0390600201"
+  },
+  {
+    "title": "Leyla",
+    "artist": "Koma Rewşen",
+    "isrc": "TR0510601340"
+  },
+  {
+    "title": "Le Xanim / Deresore / Ax Wey Lo / Lorke",
+    "artist": "Koma Rojhilat, Koro, Ozan Mustafa, Zelal",
+    "isrc": "TR0510601590"
+  },
+  {
+    "title": "Dıl Perîşanım",
+    "artist": "Mihemed Şexo",
+    "isrc": "TR0510600807"
+  },
+  {
+    "title": "Xım Xımê Torivana",
+    "artist": "Ayşe Şan",
+    "isrc": "FR10S1794246"
+  },
+  {
+    "title": "Zulfiqar",
+    "artist": "Xozan Comerd",
+    "isrc": "TR0510600873"
+  },
+  {
+    "title": "Hejaro",
+    "artist": "Abbas Ahmed",
+    "isrc": "TR0390600016"
+  },
+  {
+    "title": "Eman Hey Le",
+    "artist": "Xelil Xemgin",
+    "isrc": "TR0510802047"
+  },
+  {
+    "title": "Şox U Şenge",
+    "artist": "Hivron",
+    "isrc": "TR0511002312"
+  },
+  {
+    "title": "Ez Xelef Im",
+    "artist": "Koma Denge Azadi",
+    "isrc": "TR0390600575"
+  },
+  {
+    "title": "Rengvano",
+    "artist": "Brader",
+    "isrc": "TR0520600462"
+  },
+  {
+    "title": "Zemano",
+    "artist": "Xero Abbas",
+    "isrc": "TR0510601416"
+  },
+  {
+    "title": "Çume Cızire",
+    "artist": "Koma Amed",
+    "isrc": "TR0510601524"
+  },
+  {
+    "title": "Şêrên Çiya",
+    "artist": "Hozan Şemdin",
+    "isrc": "FR2X42342500"
+  },
+  {
+    "title": "Ay Dilbere",
+    "artist": "Aram Tigran",
+    "isrc": "TR0520600881"
+  },
+  {
+    "title": "Hevalên Delal",
+    "artist": "Rotinda",
+    "isrc": "FR2X42490831"
+  },
+  {
+    "title": "Delala Dilê Min",
+    "artist": "Lawje",
+    "isrc": "QZES62138253"
+  },
+  {
+    "title": "Symfonyay Guman",
+    "artist": "Tara Jaff",
+    "isrc": "TR0510600021"
+  },
+  {
+    "title": "Eman Koçere",
+    "artist": "Mihemed Arif Cizrawi, Hesen Cizrawî",
+    "isrc": "TR0510601558"
+  },
+  {
+    "title": "Martı",
+    "artist": "Turan Şengül",
+    "isrc": "TR0510600069"
+  },
+  {
+    "title": "Ez Xelefim",
+    "artist": "Ahmed Xelil",
+    "isrc": "TR0520600531"
+  },
+  {
+    "title": "Xalxaloke",
+    "artist": "Tahsin Taha",
+    "isrc": "TR0510600452"
+  },
+  {
+    "title": "Hêvî",
+    "artist": "İbrahim Rojhilat",
+    "isrc": "TR0510701972"
+  },
+  {
+    "title": "Agir Ketiye Dile Min",
+    "artist": "Beytocan",
+    "isrc": "TR0860600118"
+  },
+  {
+    "title": "Malan Barkır",
+    "artist": "Şehriban, Murat Bektaş",
+    "isrc": "TR1751400282"
+  },
+  {
+    "title": "Şıno Nıno",
+    "artist": "Mehmet Atlı",
+    "isrc": "TR0510802120"
+  },
+  {
+    "title": "Benim Meskenim Dağlardır",
+    "artist": "Delila",
+    "isrc": "FR10S2118600"
+  },
+  {
+    "title": "Agir",
+    "artist": "Xanemir",
+    "isrc": "TR0520600703"
+  },
+  {
+    "title": "Çîroka Wê Bayê",
+    "artist": "Agit Işık",
+    "isrc": "QZFYZ2028272"
+  }
+]

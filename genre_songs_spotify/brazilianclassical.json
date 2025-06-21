@@ -1,0 +1,787 @@
+[
+  {
+    "title": "Valsinha",
+    "artist": "Francisco Mignone, Luiz de Moura Castro",
+    "isrc": "ESAAI0202682"
+  },
+  {
+    "title": "En nacelle",
+    "artist": "Henrique Oswald, Sergio Monteiro",
+    "isrc": "HKI191424519"
+  },
+  {
+    "title": "Dansa brasileira",
+    "artist": "Camargo Guarnieri, Yo-Yo Ma",
+    "isrc": "USSM10302464"
+  },
+  {
+    "title": "Melodia",
+    "artist": "Alberto Nepomuceno, Marcus Llerena",
+    "isrc": "BRNIK1500032"
+  },
+  {
+    "title": "Prelúdio No. 5",
+    "artist": "César Guerra-Peixe, Pedro Aguiar",
+    "isrc": "HKI191944316"
+  },
+  {
+    "title": "7 Paulistanas: Paulistana No. 1",
+    "artist": "Claudio Santoro, Arnaldo Cohen",
+    "isrc": "SEAEL0021020"
+  },
+  {
+    "title": "Romanceiro",
+    "artist": "Edino Krieger, Edelton Gloeden",
+    "isrc": "BXSVC2300011"
+  },
+  {
+    "title": "Bachianas brasileiras No. 5: I. Aria (Cantilena): Adagio",
+    "artist": "Heitor Villa-Lobos, Plínio Fernandes, Sheku Kanneh-Mason",
+    "isrc": "USUM72206064"
+  },
+  {
+    "title": "Missa pastoril para a noite de Natal: Kyrie eleison",
+    "artist": "José Maurício Nunes Garcia, Ensemble Turicum, Mathias Weibel, Luiz Alves Da Silva",
+    "isrc": "USB8U1700606"
+  },
+  {
+    "title": "Salvator Rosa: Act I: Mia piccirella",
+    "artist": "Carlos Gomes, Enrico Caruso, Josef Pasternack",
+    "isrc": "USBC10402571"
+  },
+  {
+    "title": "Sinfonia dos orixás: II. Manifestação dos orixás: No. 3, Oxalá I: O canto da luz",
+    "artist": "Almeida Prado, Orquestra Sinfônica do Estado de São Paulo, Neil Thomson",
+    "isrc": "HKI192307714"
+  },
+  {
+    "title": "Remexendo",
+    "artist": "Radamés Gnattali, Camerata Brasil",
+    "isrc": "GBAYC9902426"
+  },
+  {
+    "title": "Tango brasileiro",
+    "artist": "Alexandre Levy, Clelia Iruzun",
+    "isrc": "SEXMD9906112"
+  },
+  {
+    "title": "Poemeto",
+    "artist": "Osvaldo Lacerda, Marcelo Barboza, Lídia Bazarian",
+    "isrc": "GBABV0611137"
+  },
+  {
+    "title": "Poema lll, Op. 94",
+    "artist": "Marlos Nobre, Santiago Cañón-Valencia, Katherine Austin",
+    "isrc": "NZATO1800044"
+  },
+  {
+    "title": "Noturno, Op. 10",
+    "artist": "Leopoldo Miguez, Braz Velloso",
+    "isrc": "HKI191321315"
+  },
+  {
+    "title": "Salmo 150",
+    "artist": "Ernani Aguiar, Elisenda Carrasco, Lieder Càmera",
+    "isrc": "ES31D1700006"
+  },
+  {
+    "title": "Jobim: Road to the Sun",
+    "artist": "Antônio Carlos Jobim, Sharon Isbin",
+    "isrc": "GBAYC8801668"
+  },
+  {
+    "title": "Seul Un Urubu Solitaire",
+    "artist": "Gilberto Mendes, Vários, Betina Stegmann, Eduardo Monteiro, Nelson Rios, Robert Suetholz, Toninho Carrasqueira",
+    "isrc": "BRM2E1000004"
+  },
+  {
+    "title": "Salve Regina",
+    "artist": "Lobo de Mesquita, Coral Cidade dos Profetas, Herculano Amâncio, Orquestra Canto Livre",
+    "isrc": "QZ5AB1989040"
+  },
+  {
+    "title": "Gaucho - Tango Brasileiro",
+    "artist": "Francisca Gonzaga, Arnaldo Cohen",
+    "isrc": "SEAEL0021170"
+  },
+  {
+    "title": "Sabiá, coracoa de uma viola",
+    "artist": "Aylton Escobar, Calmus Ensemble",
+    "isrc": "DEB111904419"
+  },
+  {
+    "title": "Aria II – Já, Já me vai, Marilia, branquejando",
+    "artist": "Marcos Portugal, Osvaldo Lacerda, Katia Guedes, Evelyn Ulex",
+    "isrc": "DENB21510510"
+  },
+  {
+    "title": "Banzo",
+    "artist": "Hekel Tavares, murilo Araujo, Olga Praguer Coelho",
+    "isrc": "BRTRB1865759"
+  },
+  {
+    "title": "Sonho, Op. 5",
+    "artist": "Pattàpio Silva, Jean-Louis Beaumadier, Maria José Carrasqueira",
+    "isrc": "FRX740709208"
+  },
+  {
+    "title": "Ego enim accepi a Domino",
+    "artist": "José Joaquim Emérico Lôbo de Mesquita, Vox Brasiliensis, Ricardo Kanji",
+    "isrc": "USB8U1614832"
+  },
+  {
+    "title": "Ajubete jepe amo mbae",
+    "artist": "Liduino Pitombeira, Berlin Philharmonic Wind Quintet",
+    "isrc": "SEAEJ9852120"
+  },
+  {
+    "title": "Sonata No. 1 \"Delírio\" para piano e violino: I. Moderato",
+    "artist": "Glauco Velásquez, Emmanuele Baldini, Karin Fernandes",
+    "isrc": "BRKRF1300014"
+  },
+  {
+    "title": "Dança de Negros",
+    "artist": "Fructuoso Vianna, Cristian Budu",
+    "isrc": "BXSVC2300099"
+  },
+  {
+    "title": "A Sertaneja, Fantasia Característica, Op. 15",
+    "artist": "Brasílio Itiberê da Cunha, Sonia Rubinsky",
+    "isrc": "QM6MZ1859502"
+  },
+  {
+    "title": "Uirapurú",
+    "artist": "Waldemar Henrique, Rosenete Eberhardt, Marcus Llerena",
+    "isrc": "BRTMP0903017"
+  },
+  {
+    "title": "Prelude in F-Sharp Minor, Op. 32",
+    "artist": "Eduardo Dutra, Arnaldo Cohen",
+    "isrc": "SEAEL0021100"
+  },
+  {
+    "title": "Three Scenes from Childhood: 1. Run, Run",
+    "artist": "Octavio Pinto, Byron Janis",
+    "isrc": "NLA506201332"
+  },
+  {
+    "title": "Quadras ao Gosto Popular",
+    "artist": "Ernst Mahle, Rosenete Eberhardt, Marcus Llerena",
+    "isrc": "BRTMP0903011"
+  },
+  {
+    "title": "Veni Sancte Spiritus",
+    "artist": "André Da Silva Gomes, Ricardo Kanji",
+    "isrc": "BRTRB1910048"
+  },
+  {
+    "title": "ブラジル連邦共和国",
+    "artist": "Francisco Manuel Da Silva, Japan Air Self-Defense Force Central Band",
+    "isrc": "JPKI08914390"
+  },
+  {
+    "title": "Batucada",
+    "artist": "Isaías Sávio, Pedro Aguiar",
+    "isrc": "HKI191944318"
+  },
+  {
+    "title": "Nostalgia",
+    "artist": "José Siqueira, Guilherme Andreas, Gianne Ge Zhu",
+    "isrc": "QZUF32250007"
+  },
+  {
+    "title": "Valsa Lenta No. 4",
+    "artist": "Luiz Levy, Arnaldo Cohen",
+    "isrc": "SEAEL0021080"
+  },
+  {
+    "title": "from Solfejo Lessons: Lesson No. 24 in A Minor",
+    "artist": "Luiz Álvares Pinto, Arnaldo Cohen",
+    "isrc": "SEWDL9797615"
+  },
+  {
+    "title": "Batuque",
+    "artist": "Oscar Lorenzo Fernández, Orquestra Sinfonica di Venezuela, Theodore Kuchar",
+    "isrc": "NLY331209140"
+  },
+  {
+    "title": "Dança dos Meninos",
+    "artist": "Marco Antônio Guimarães, Uakti",
+    "isrc": "NLA509212502"
+  },
+  {
+    "title": "Buenos Aires siglo XX: V. Libertango (after A. Piazzolla)",
+    "artist": "Rufo Herrera, Orquestra Ouro Preto, Rodrigo Toffolo",
+    "isrc": "BRRRG1400139"
+  },
+  {
+    "title": "Contrafacta",
+    "artist": "Flo Menezes, Carlos Freitas",
+    "isrc": "BRXOW1300003"
+  },
+  {
+    "title": "Aboio",
+    "artist": "Splntrd Wood, Daniel Lim",
+    "isrc": "USSHD2000009"
+  },
+  {
+    "title": "Concerto para Flauta: Moderato",
+    "artist": "Aleh Ferreira, Ilia Lundin, Orquestra Sinfônica de Moscou, Gérman Céspedes",
+    "isrc": "BRTRB1873577"
+  },
+  {
+    "title": "Duo D'amour (Étude Pour Virtuose No. 6)",
+    "artist": "Arthur Napoleão, Karin Fernandes",
+    "isrc": "BRTRB2086800"
+  },
+  {
+    "title": "Minha Terra",
+    "artist": "Barrozo Netto, Nelson Freire",
+    "isrc": "GBF071201380"
+  },
+  {
+    "title": "Invocação, Canto e Dança: I. Invocação",
+    "artist": "Brasílio Itiberê da Cunha Luz, Sonia Rubinsky",
+    "isrc": "QM6MZ1859513"
+  },
+  {
+    "title": "Três Poemas - II Poema da Devastação",
+    "artist": "Bruno Kiefer, Diego Grendene",
+    "isrc": "BRAC01900013"
+  },
+  {
+    "title": "Outono - Versão Estendida",
+    "artist": "Celso Mojola, César Albino",
+    "isrc": "BRSJ31700007"
+  },
+  {
+    "title": "Lendas... E Nada Mais: O Curupira Pula na Brasa",
+    "artist": "Clarisse Leite, Cristian Budu",
+    "isrc": "BXSVC2300107"
+  },
+  {
+    "title": "Minha Marília",
+    "artist": "Cândido Inácio da Silva, Marília Vargas, Guilherme de Camargo",
+    "isrc": "BRUVV1000119"
+  },
+  {
+    "title": "Pobre Cega",
+    "artist": "Dinorá De Carvalho, Maria Livia Sao Marcos",
+    "isrc": "QM4TW2097345"
+  },
+  {
+    "title": "Salmo 150",
+    "artist": "Ernst Widmer, Syracuse University Singers, John Warren",
+    "isrc": "USVZX1412604"
+  },
+  {
+    "title": "Novos Cantares",
+    "artist": "Esther Scliar, Angiolina Sensale, Susie Georgiadis",
+    "isrc": "UKE9D1800028"
+  },
+  {
+    "title": "Música para Clarineta e Violão No. 1",
+    "artist": "Estércio Marquez Cunha, Helvis Costa, Miqueias Feitosa, Música Íntima",
+    "isrc": "BRTRB2307534"
+  },
+  {
+    "title": "Novena de Nossa Senhora do Pilar: Veni Sante Spiritus",
+    "artist": "Francisco Gomes da Rocha, Ricardo Kanji",
+    "isrc": "BRTRB1910039"
+  },
+  {
+    "title": "O Preto Serafim",
+    "artist": "Hans Joachim Koellreutter, Renato Mismetti, Maximiliano de Brito",
+    "isrc": "QMEU31410359"
+  },
+  {
+    "title": "Batuque (Choro)",
+    "artist": "Henrique Alves de Mesquita, Radamés Gnattali, Joel Nascimento, Camerata Carioca",
+    "isrc": "BRAPI0000095"
+  },
+  {
+    "title": "Valsa-Tango",
+    "artist": "Hubertus Hofmann, Natalia González Figueroa",
+    "isrc": "DENB21510538"
+  },
+  {
+    "title": "Queixumes de Amor",
+    "artist": "João Gomes de Araújo, Alberto Pacheco, Nicolas de Souza Barros",
+    "isrc": "BX6FK1900014"
+  },
+  {
+    "title": "Canto d'Amor",
+    "artist": "João Itiberê da Cunha, Sonia Rubinsky",
+    "isrc": "QM6MZ1859507"
+  },
+  {
+    "title": "Estudo, Op.1: No. 2",
+    "artist": "Julio Braga, Tamara Ujakova",
+    "isrc": "BRAC01900040"
+  },
+  {
+    "title": "Rapsódia Sertaneja",
+    "artist": "Luciano Gallet, Cristian Budu",
+    "isrc": "BXSVC2300090"
+  },
+  {
+    "title": "Te Deum (Reconstructed by J. Frisch)",
+    "artist": "Luís Alvares Pinto, Gemma Coma-Alabert, Jean Delescluse, Alain Thaî, Jean-baptiste Dumora, XVIII-21 Musique des Lumières, Jean-christophe Frisch",
+    "isrc": "USB8U1701775"
+  },
+  {
+    "title": "Magnificat",
+    "artist": "Manoel Dias de Oliveira, Gemma Coma-Alabert, Jean Delescluse, Alain Thaî, Jean-baptiste Dumora, XVIII-21 Musique des Lumières, Jean-christophe Frisch",
+    "isrc": "USB8U1701783"
+  },
+  {
+    "title": "Maria Mater Gratiae - Hino a 4",
+    "artist": "Marcos Coelho Neto, Edoardo de Guarnieri, Associação de Canto Coral, Orquestra Sinfônica Brasileira",
+    "isrc": "BX6IC2000086"
+  },
+  {
+    "title": "Preludio",
+    "artist": "Maria Helena Rosas Fernandes, Luciana Soares",
+    "isrc": "US8271010445"
+  },
+  {
+    "title": "Quatro Esboços para Oboé Solo: No. 2",
+    "artist": "Mario Ficarelli, Alexandre Ficarelli, Raïff Dantas Barreto",
+    "isrc": "BRARP2100071"
+  },
+  {
+    "title": "Symphony \"Metropolis\" - Ordo ab Chao, Op. 1: I. Adagio, feierlich langsam - Allegro moderato",
+    "artist": "Maximianno Cobra, Europa Philharmonia",
+    "isrc": "usl4q2209927"
+  },
+  {
+    "title": "O Sábio em Sol, No. 1: Allegretto",
+    "artist": "Nestor De Hollanda Cavalcanti, T'Rio",
+    "isrc": "BRAC01800019"
+  },
+  {
+    "title": "Margarida: I. Margarida",
+    "artist": "Patapio Silva, Marcelo Barboza, Lídia Bazarian",
+    "isrc": "GBABV0611145"
+  },
+  {
+    "title": "Moda Paulista",
+    "artist": "Sérgio de Vasconcellos Corrêa, Valdilice de Carvalho",
+    "isrc": "BRVLA1800006"
+  },
+  {
+    "title": "Um Poema de Amor - Ao Vivo",
+    "artist": "Wilson Fonseca, Orquestra Jovem Wilson Fonseca",
+    "isrc": "BXHSV1700006"
+  },
+  {
+    "title": "Paulinyi (2001)-Sonatina-Desafio II",
+    "artist": "Zoltan Paulinyi, Karla Oliveto",
+    "isrc": "BRZOL0500004"
+  },
+  {
+    "title": "Dansa negra",
+    "artist": "Camargo Guarnieri, Yo-Yo Ma",
+    "isrc": "USSM10302466"
+  },
+  {
+    "title": "Série brasileira: IV. Batuque",
+    "artist": "Alberto Nepomuceno, Minas Gerais Philharmonic Orchestra, Fabio Mechetti",
+    "isrc": "HKI191830905"
+  },
+  {
+    "title": "Meu Amor Me Disse Adeus",
+    "artist": "Claudio Santoro, Gisèle Santoro, Sheila Minatti, Pablo Marquine",
+    "isrc": "BRARP2200299"
+  },
+  {
+    "title": "Mourao para Orquestra de Cordas",
+    "artist": "César Guerra-Peixe, Solistas de Londrina, Evgenui Ratchev",
+    "isrc": "ATMA40500565"
+  },
+  {
+    "title": "Valsa de esquina No. 8",
+    "artist": "Francisco Mignone, Gustavo Tavares, Nelson Faria",
+    "isrc": "uscgh1288832"
+  },
+  {
+    "title": "Ritmata",
+    "artist": "Edino Krieger, Gabriele Leite",
+    "isrc": "BXPNP2300026"
+  },
+  {
+    "title": "Missa pastoril para a noite de Natal: Et incarnatus est",
+    "artist": "José Maurício Nunes Garcia, Martina Fausch, Vera Ehrensperger, Ensemble Turicum, Mathias Weibel, Luiz Alves Da Silva",
+    "isrc": "USB8U1700614"
+  },
+  {
+    "title": "Chôros No. 1",
+    "artist": "Heitor Villa-Lobos, Andrés Madariaga",
+    "isrc": "USHM92234842"
+  },
+  {
+    "title": "Quem Sabe ?",
+    "artist": "Carlos Gomes, Rosenete Eberhardt, Marcus Llerena",
+    "isrc": "BRTMP0903012"
+  },
+  {
+    "title": "Le livre magique de Xangô: II. Manifestation de Xangô",
+    "artist": "Almeida Prado, Emmanuele Baldini, Rafael Cesario",
+    "isrc": "HKI192240602"
+  },
+  {
+    "title": "Variaçoes Sobre o Samba do Urubu",
+    "artist": "Radamés Gnattali, Camerata Brasil",
+    "isrc": "GBAYC9902432"
+  },
+  {
+    "title": "Invocação e ponto",
+    "artist": "Osvaldo Lacerda, Paulo Ronqui",
+    "isrc": "BRCBA0400022"
+  },
+  {
+    "title": "Suite Bresilienne: IV. Samba",
+    "artist": "Alexandre Levy, Orquestra Sinfônica do Estado de São Paulo, Roberto Minczuk",
+    "isrc": "SEAEO1130030"
+  },
+  {
+    "title": "Valsa Lenta, Op. posth.",
+    "artist": "Henrique Oswald, Sergio Monteiro",
+    "isrc": "HKI191424518"
+  },
+  {
+    "title": "Frevo",
+    "artist": "Marlos Nobre, Richard Steinbach",
+    "isrc": "QM4TX1590889"
+  },
+  {
+    "title": "Suíte à antiga, Op. 25: III. Gavota",
+    "artist": "Leopoldo Miguez, English Chamber Orchestra, Neil Thomson",
+    "isrc": "HKI192220612"
+  },
+  {
+    "title": "4 Momentos No. 3: I. Tempo de Maracatu",
+    "artist": "Ernani Aguiar, Orquestra Ouro Preto, Rodrigo Toffolo",
+    "isrc": "BRRRG1400123"
+  },
+  {
+    "title": "Peça No. 4",
+    "artist": "Gilberto Mendes, Terão Chebl",
+    "isrc": "BRM2E0300016"
+  },
+  {
+    "title": "Missa em Fá Maior: Kyrie",
+    "artist": "Lobo de Mesquita, Coral Cidade dos Profetas, Herculano Amâncio, Orquestra Canto Livre",
+    "isrc": "QZ5AB1989016"
+  },
+  {
+    "title": "Lua Branca",
+    "artist": "Francisca Gonzaga, Catarina Domenici, Gabriella Di Laccio",
+    "isrc": "BKCC02300006"
+  },
+  {
+    "title": "No More Blues",
+    "artist": "Antônio Carlos Jobim, Johanna Grüssner, Miles Okazaki, Paul Pesonen, Hans Glawischnig, Hans Sanchez",
+    "isrc": "SEBAA0900304"
+  },
+  {
+    "title": "Nur ein lyrischer Moment (Apenas um Momento Lírico)",
+    "artist": "Aylton Escobar, Ensemble SP, Luis Afonso Montanha",
+    "isrc": "BXDDU1400002"
+  },
+  {
+    "title": "Missa Grande, P 01.09 V2: I. Kyrie I",
+    "artist": "Marcos Portugal, Coro de Câmara de Lisboa, Teresita Gutierrez Marques",
+    "isrc": "GBSMU7407591"
+  },
+  {
+    "title": "Dança do Caboclo",
+    "artist": "Hekel Tavares, Olga Praguer Coelho",
+    "isrc": "BXRHI1800031"
+  },
+  {
+    "title": "Valsa Amor Perdido - Arr. by Marcus Viana",
+    "artist": "Pattàpio Silva, Sebastião Vianna, Hely Drummond",
+    "isrc": "BRSOS0400076"
+  },
+  {
+    "title": "Bênçao das Cinzas e Missa para a Quarta-feira de Cinzas: Exaudi nos, Domine",
+    "artist": "José Joaquim Emérico Lôbo de Mesquita, Vox Brasiliensis, Ricardo Kanji",
+    "isrc": "USB8U1614833"
+  },
+  {
+    "title": "Jaguaribe No. 1: Desafio",
+    "artist": "Liduino Pitombeira, Paula Bujes, Pedro Huff",
+    "isrc": "UKE9D1700025"
+  },
+  {
+    "title": "Sonata No. 1 \"Delírio\" para piano e violino: II. Lento espressivo",
+    "artist": "Glauco Velásquez, Emmanuele Baldini, Karin Fernandes",
+    "isrc": "BRKRF1300015"
+  },
+  {
+    "title": "Homenagem a Sinhô",
+    "artist": "Fructuoso Vianna, Cristian Budu",
+    "isrc": "BXSVC2300098"
+  },
+  {
+    "title": "Le Jardin des Tropiques, Op. 27, No. 3",
+    "artist": "Brasílio Itiberê da Cunha, Sonia Rubinsky",
+    "isrc": "QM6MZ1859503"
+  },
+  {
+    "title": "Tamba Tajá",
+    "artist": "Waldemar Henrique, Rosenete Eberhardt, Marcus Llerena",
+    "isrc": "BRTMP0903015"
+  },
+  {
+    "title": "Cenas Infantis: March, little soldier!",
+    "artist": "Octavio Pinto, Arnaldo Cohen",
+    "isrc": "SEAEL0021110"
+  },
+  {
+    "title": "Suite Nordestina: I. Allegro moderato",
+    "artist": "Ernst Mahle, Capella Bydgostiensis, Jose Maria Florencio",
+    "isrc": "PLA161219010"
+  },
+  {
+    "title": "De Lamentatione: Jerusalem - En vivo",
+    "artist": "André Da Silva Gomes, Americantigua Ensemble",
+    "isrc": "QM4TW1776689"
+  },
+  {
+    "title": "Hino Nacional do Brasil",
+    "artist": "Francisco Manuel Da Silva, Joaquim Osório Duque Estrada, Diogenes Sidney, Coral Infantil",
+    "isrc": "BXDIY2200032"
+  },
+  {
+    "title": "Cenas Brasileiras: No. 1, Serões",
+    "artist": "Isaías Sávio, Gerald Garcia",
+    "isrc": "HKI199226806"
+  },
+  {
+    "title": "Três Estudos para Clarineta e Piano: I. Estudo",
+    "artist": "José Siqueira, Cristiano Alves, Tamara Ujakova",
+    "isrc": "BRPUI0500497"
+  },
+  {
+    "title": "Deuxième Rhapsodie Brésilienne, Op. 29",
+    "artist": "Luiz Levy, Jean Dube",
+    "isrc": "FRY222200037"
+  },
+  {
+    "title": "from Solfejo Lessons: Lesson No. 21 in D Minor",
+    "artist": "Luiz Álvares Pinto, Arnaldo Cohen",
+    "isrc": "SEWDL9797616"
+  },
+  {
+    "title": "Reisado do Pastoreio: III. Batuque",
+    "artist": "Oscar Lorenzo Fernández, Leonard Bernstein, New York Philharmonic",
+    "isrc": "USSM16300406"
+  },
+  {
+    "title": "Aluá",
+    "artist": "Marco Antônio Guimarães, Uakti",
+    "isrc": "NLA509212501"
+  },
+  {
+    "title": "Buenos Aires siglo XX: I. El Choclo (after A. Villoldo)",
+    "artist": "Rufo Herrera, Orquestra Ouro Preto, Rodrigo Toffolo",
+    "isrc": "BRRRG1400135"
+  },
+  {
+    "title": "Concerto para Clarinete: Adagio",
+    "artist": "Aleh Ferreira, Orquestra Sinfônica de Moscou, Anatoli Braznikov, Gérman Céspedes",
+    "isrc": "BRTRB1873579"
+  },
+  {
+    "title": "Étude No. 6, Duo d'amour",
+    "artist": "Arthur Napoleão, Karin Fernandes",
+    "isrc": "BRKRF2200006"
+  },
+  {
+    "title": "Suite Litúrgica Negra: II. Ogum",
+    "artist": "Brasílio Itiberê da Cunha Luz, Sonia Rubinsky",
+    "isrc": "QM6MZ1859517"
+  },
+  {
+    "title": "Música para Dois - Pequena Fuga",
+    "artist": "Bruno Kiefer, Diego Grendene",
+    "isrc": "BRAC01900019"
+  },
+  {
+    "title": "Norma Jeane",
+    "artist": "Celso Mojola, Paulo Mendonca, Maria Teresa Madeira",
+    "isrc": "BRTRB1982701"
+  },
+  {
+    "title": "Lendas... E Nada Mais: A Nuvem e o Lago",
+    "artist": "Clarisse Leite, Cristian Budu",
+    "isrc": "BXSVC2300108"
+  },
+  {
+    "title": "Uai Ni-Nim",
+    "artist": "Dinorá De Carvalho, Renato Mismetti, Maximiliano de Brito",
+    "isrc": "QMEU31410347"
+  },
+  {
+    "title": "Sonatina Op. 48: I. Andante",
+    "artist": "Ernst Widmer, Renato Wiedemann, Marija Bokor",
+    "isrc": "CHE272302163"
+  },
+  {
+    "title": "Modinha No. 1",
+    "artist": "Esther Scliar, Angiolina Sensale, Susie Georgiadis",
+    "isrc": "UKE9D1800029"
+  },
+  {
+    "title": "Piano momento No. 5",
+    "artist": "Camargo Guarnieri, Max Barros",
+    "isrc": "HKI192212425"
+  },
+  {
+    "title": "Brazilian Dances, Op. 13: No. 4, Galhofeira - Duo-Art 66560",
+    "artist": "Alberto Nepomuceno, Maria Carreras, Peter Phillips",
+    "isrc": "DEPI82322262"
+  },
+  {
+    "title": "Ouve o Silêncio",
+    "artist": "Claudio Santoro, Vinícius de Moraes, Sheila Minatti, Pablo Marquine",
+    "isrc": "BRARP2200286"
+  },
+  {
+    "title": "Symphonic Suite No. 2 \"Pernambucana\": IV. Frevo",
+    "artist": "César Guerra-Peixe, Goiás Philharmonic Orchestra, Neil Thomson",
+    "isrc": "HKI192213012"
+  },
+  {
+    "title": "Valsa de esquina No. 5",
+    "artist": "Francisco Mignone, Clelia Iruzun",
+    "isrc": "GBBZS1726510"
+  },
+  {
+    "title": "Passacalha para o Novo Milenio",
+    "artist": "Edino Krieger, Orquestra Sinfônica do Estado de São Paulo, Roberto Minczuk",
+    "isrc": "SEAEO1130100"
+  },
+  {
+    "title": "Missa pastoril para a noite de Natal: Credo in unum Deum",
+    "artist": "José Maurício Nunes Garcia, Martina Fausch, Ensemble Turicum, Mathias Weibel, Luiz Alves Da Silva",
+    "isrc": "USB8U1700613"
+  },
+  {
+    "title": "Prelude No.1 - Melodía lírica",
+    "artist": "Heitor Villa-Lobos, Pablo Sainz Villegas",
+    "isrc": "USHM11464902"
+  },
+  {
+    "title": "Ave Maria - Gomes",
+    "artist": "Carlos Gomes, ARNAUD KIENTZ",
+    "isrc": "CH6541887623"
+  },
+  {
+    "title": "Le livre magique de Xangô: I. Invocation I",
+    "artist": "Almeida Prado, Emmanuele Baldini, Rafael Cesario",
+    "isrc": "HKI192240601"
+  },
+  {
+    "title": "Valsas Para Piano: Valsa No. 1, Lento",
+    "artist": "Radamés Gnattali, Martin Jones",
+    "isrc": "GBAJU2300444"
+  },
+  {
+    "title": "Pequena Canção",
+    "artist": "Osvaldo Lacerda, Eudóxia De Barros",
+    "isrc": "BRCMP1700376"
+  },
+  {
+    "title": "Tango Brasileiro",
+    "artist": "Alexandre Levy, Nelson Freire",
+    "isrc": "GBF071201370"
+  },
+  {
+    "title": "Album, Op. 32: No. 3. Sérénade",
+    "artist": "Henrique Oswald, Sergio Monteiro",
+    "isrc": "HKI191424510"
+  },
+  {
+    "title": "3 Canções de Beiramar, Op. 21bis: I. Estrela do Mar (Arr. for Cello Ensemble and Soprano by Elias Arizcuren)",
+    "artist": "Marlos Nobre, Cello Octet Conjunto Ibérico, Elias Arizcuren, Pilar Jurado",
+    "isrc": "NLA460710537"
+  },
+  {
+    "title": "12 Pecas Caracteristicas: Pesa No. 8",
+    "artist": "Leopoldo Miguez, Arnaldo Cohen",
+    "isrc": "SEAEL0021140"
+  },
+  {
+    "title": "Salmo 150 (Version for Mixed Choir)",
+    "artist": "Ernani Aguiar, The St. Olaf Choir, Anton Armstrong",
+    "isrc": "USHM81083723"
+  },
+  {
+    "title": "Ulysses in Copacabana Surfing with James Joyce and Dorothy Lamour",
+    "artist": "Gilberto Mendes, North-South Chamber Orchestra, Max Lifchitz",
+    "isrc": "US3ES0900494"
+  },
+  {
+    "title": "Missa em Fá Maior: Credo",
+    "artist": "Lobo de Mesquita, Coral Cidade dos Profetas, Herculano Amâncio, Orquestra Canto Livre",
+    "isrc": "QZ5AB1989019"
+  },
+  {
+    "title": "Roda Ioiô",
+    "artist": "Francisca Gonzaga, Catarina Domenici, Gabriella Di Laccio",
+    "isrc": "BKCC02300007"
+  },
+  {
+    "title": "Chega de Saudade",
+    "artist": "Antônio Carlos Jobim, Yo-Yo Ma, Rosa Passos",
+    "isrc": "USSM10302461"
+  },
+  {
+    "title": "Poética IV para Clarinete Baixo e Eletrônica",
+    "artist": "Aylton Escobar, Vários, Luis Afonso Montanha",
+    "isrc": "BRM2E1000006"
+  },
+  {
+    "title": "Marília de Dirceu: Ah! Marília, Que Tormento.",
+    "artist": "Marcos Portugal, Orquestra e Coro Vox Brasiliensis, Ricardo Kanji",
+    "isrc": "BRTRB1911191"
+  },
+  {
+    "title": "Azulao - Arr. for Cello and Piano",
+    "artist": "Hekel Tavares, Clemens Malich, Ivone Bambirra, Piacello",
+    "isrc": "DEB420301800"
+  },
+  {
+    "title": "Polca, Zinha - Arr. by Marcus Viana",
+    "artist": "Pattàpio Silva, Sebastião Vianna, Hely Drummond",
+    "isrc": "BRSOS0400075"
+  },
+  {
+    "title": "Salve Regina",
+    "artist": "José Joaquim Emérico Lôbo de Mesquita, Cantoría de la Basílica de Nuestra Señora del Socorro",
+    "isrc": "FR6V80792455"
+  },
+  {
+    "title": "Jaguaribe No. 2: Cantiga",
+    "artist": "Liduino Pitombeira, Paula Bujes, Pedro Huff",
+    "isrc": "UKE9D1700026"
+  },
+  {
+    "title": "Sonata No. 1 \"Delírio\" para piano e violino: III. Agitato",
+    "artist": "Glauco Velásquez, Emmanuele Baldini, Karin Fernandes",
+    "isrc": "BRKRF1300016"
+  },
+  {
+    "title": "Danca de negros",
+    "artist": "Fructuoso Vianna, Clelia Iruzun",
+    "isrc": "SEXMD9906102"
+  },
+  {
+    "title": "Étude Concert, d'après C.P.E. Bach, Op. 33",
+    "artist": "Brasílio Itiberê da Cunha, Sonia Rubinsky",
+    "isrc": "QM6MZ1859506"
+  }
+]
