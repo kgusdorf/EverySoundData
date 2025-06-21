@@ -1,0 +1,887 @@
+[
+  {
+    "title": "Gimme A Second",
+    "artist": "Rich The Kid, Peso Pluma",
+    "isrc": "QZQAY2483432"
+  },
+  {
+    "title": "Snake",
+    "artist": "Lil Keed",
+    "isrc": "QMCE31902281"
+  },
+  {
+    "title": "Some Way",
+    "artist": "NAV, The Weeknd",
+    "isrc": "USUM71701371"
+  },
+  {
+    "title": "Selfish",
+    "artist": "PnB Rock",
+    "isrc": "USUYG1121848"
+  },
+  {
+    "title": "Audi.",
+    "artist": "Smokepurpp",
+    "isrc": "USUG11700729"
+  },
+  {
+    "title": "Leave Me Alone",
+    "artist": "Flipp Dinero",
+    "isrc": "QMKSC1800039"
+  },
+  {
+    "title": "Baby (Lil Baby feat. DaBaby)",
+    "artist": "Quality Control, Lil Baby, DaBaby",
+    "isrc": "USUG11900748"
+  },
+  {
+    "title": "Uber Everywhere",
+    "artist": "MadeinTYO",
+    "isrc": "QM4HH1610001"
+  },
+  {
+    "title": "Lust",
+    "artist": "Lil Skies",
+    "isrc": "USAT21705305"
+  },
+  {
+    "title": "HOTEL LOBBY (Unc & Phew)",
+    "artist": "Quavo, Takeoff",
+    "isrc": "USUG12202512"
+  },
+  {
+    "title": "Sticky Rice",
+    "artist": "Lil Gnar, MadeinTYO, Germ",
+    "isrc": "USJ3V2163145"
+  },
+  {
+    "title": "Envy Me",
+    "artist": "Calboy",
+    "isrc": "USHM91813257"
+  },
+  {
+    "title": "Miss The Rage",
+    "artist": "Trippie Redd, Playboi Carti",
+    "isrc": "QZJ842000983"
+  },
+  {
+    "title": "drive ME crazy!",
+    "artist": "Lil Yachty",
+    "isrc": "USUG12207176"
+  },
+  {
+    "title": "Blueberry Faygo",
+    "artist": "Lil Mosey",
+    "isrc": "USUM72001714"
+  },
+  {
+    "title": "No Flockin'",
+    "artist": "Kodak Black",
+    "isrc": "USAT21503800"
+  },
+  {
+    "title": "Lil Boat",
+    "artist": "88GLAM",
+    "isrc": "USUM71819079"
+  },
+  {
+    "title": "Drunk And Nasty (feat. Sharc)",
+    "artist": "Pi’erre Bourne, Sharc",
+    "isrc": "USUM72109088"
+  },
+  {
+    "title": "pick up the phone",
+    "artist": "Young Thug, Travis Scott",
+    "isrc": "USSM11604495"
+  },
+  {
+    "title": "This Could Be Us",
+    "artist": "Rae Sremmurd",
+    "isrc": "USUM71417486"
+  },
+  {
+    "title": "emotions",
+    "artist": "iann dior",
+    "isrc": "QMEU31903781"
+  },
+  {
+    "title": "Look Back at It",
+    "artist": "A Boogie Wit da Hoodie",
+    "isrc": "USAT21812667"
+  },
+  {
+    "title": "one of wun",
+    "artist": "Gunna",
+    "isrc": "USAT22403437"
+  },
+  {
+    "title": "The Box",
+    "artist": "Roddy Ricch",
+    "isrc": "USAT21906978"
+  },
+  {
+    "title": "Won't Be Late (feat. Drake)",
+    "artist": "Swae Lee, Drake",
+    "isrc": "USUM71916703"
+  },
+  {
+    "title": "Worth It",
+    "artist": "YK Osiris",
+    "isrc": "USUM71821752"
+  },
+  {
+    "title": "Perfect",
+    "artist": "Yung Pinch",
+    "isrc": "USSM11903705"
+  },
+  {
+    "title": "Murder on My Mind",
+    "artist": "YNW Melly",
+    "isrc": "QMCE31801827"
+  },
+  {
+    "title": "Saint",
+    "artist": "Huncho Jack, Travis Scott, Quavo",
+    "isrc": "USUM71714118"
+  },
+  {
+    "title": "500lbs",
+    "artist": "Lil Tecca",
+    "isrc": "USUM72309854"
+  },
+  {
+    "title": "Lost All My Feelings",
+    "artist": "SahBabii",
+    "isrc": "USLD91746444"
+  },
+  {
+    "title": "Slave",
+    "artist": "UnoTheActivist",
+    "isrc": "TLREW2221613"
+  },
+  {
+    "title": "Gassed Up",
+    "artist": "Nebu Kiniza",
+    "isrc": "TCACN1613658"
+  },
+  {
+    "title": "XO Tour Llif3",
+    "artist": "Lil Uzi Vert",
+    "isrc": "USAT21703440"
+  },
+  {
+    "title": "Killamonjaro",
+    "artist": "KILLY",
+    "isrc": "CADDX1700001"
+  },
+  {
+    "title": "ABG",
+    "artist": "Quando Rondo",
+    "isrc": "USAT21802659"
+  },
+  {
+    "title": "Calling My Phone",
+    "artist": "Lil Tjay, 6LACK",
+    "isrc": "USSM12100388"
+  },
+  {
+    "title": "Pull Up (feat. Key!)",
+    "artist": "Matt OX, KEY!",
+    "isrc": "USUM71818396"
+  },
+  {
+    "title": "Everyday We Lit (feat. PnB Rock)",
+    "artist": "YFN Lucci, PnB Rock",
+    "isrc": "USUYG1131733"
+  },
+  {
+    "title": "Comfortable",
+    "artist": "K CAMP",
+    "isrc": "USUM71507562"
+  },
+  {
+    "title": "Mo Reala",
+    "artist": "Zaytoven, Future",
+    "isrc": "USUM71803105"
+  },
+  {
+    "title": "Faygo Dreams",
+    "artist": "6 Dogs",
+    "isrc": "QZ5FA1751231"
+  },
+  {
+    "title": "Tommy Lee (feat. Post Malone)",
+    "artist": "Tyla Yaweh, Post Malone",
+    "isrc": "USSM12003633"
+  },
+  {
+    "title": "The Color Violet",
+    "artist": "Tory Lanez",
+    "isrc": "QZTGW2100275"
+  },
+  {
+    "title": "Mamacita",
+    "artist": "Smooky MarGielaa, A$AP Rocky",
+    "isrc": "QZW9N2236692"
+  },
+  {
+    "title": "Lonely",
+    "artist": "Speaker Knockerz",
+    "isrc": "TCABZ1449400"
+  },
+  {
+    "title": "Brothers (feat. Luh Kel)",
+    "artist": "Bankrol Hayden, Luh Kel",
+    "isrc": "USAT21906658"
+  },
+  {
+    "title": "EMOJI",
+    "artist": "RONNY J, XXXTENTACION",
+    "isrc": "CA5KR2379865"
+  },
+  {
+    "title": "W2LEEZY",
+    "artist": "Justin Rarri",
+    "isrc": "QMGR31917856"
+  },
+  {
+    "title": "Elimination",
+    "artist": "JayDaYoungan",
+    "isrc": "US6YF1800078"
+  },
+  {
+    "title": "Dark Out",
+    "artist": "Global Dan, Global AzN",
+    "isrc": "QM24S1804207"
+  },
+  {
+    "title": "Marvelous Day (feat. Lil Uzi Vert & Gunna)",
+    "artist": "Kap G, Lil Uzi Vert, Gunna",
+    "isrc": "USAT21704529"
+  },
+  {
+    "title": "WORST DAY :(",
+    "artist": "DC The Don",
+    "isrc": "USA2P2038663"
+  },
+  {
+    "title": "Pretty Little Fears (feat. J. Cole)",
+    "artist": "6LACK, J. Cole",
+    "isrc": "USUM71812666"
+  },
+  {
+    "title": "Who I Smoke",
+    "artist": "Yungeen Ace, Spinabenz, FastMoney Goon, Whoppa Wit Da Choppa",
+    "isrc": "QMKSC2101540"
+  },
+  {
+    "title": "Want Beef?",
+    "artist": "YSN Flow, BaeBae Savo",
+    "isrc": "QZ85M1925983"
+  },
+  {
+    "title": "Talkin In Screw (feat. That Mexican OT)",
+    "artist": "Maxo Kream, That Mexican OT",
+    "isrc": "QM4TW2488194"
+  },
+  {
+    "title": "QUESTIONABLE MORALITY",
+    "artist": "Thouxanbanfauni",
+    "isrc": "CA5KR2096016"
+  },
+  {
+    "title": "Roses - Imanbek Remix",
+    "artist": "SAINt JHN, Imanbek",
+    "isrc": "RUB421901499"
+  },
+  {
+    "title": "Lucid Dreams",
+    "artist": "Juice WRLD",
+    "isrc": "USUG11800685"
+  },
+  {
+    "title": "Slime Dreams",
+    "artist": "YNW BSlime",
+    "isrc": "QZFZ31914437"
+  },
+  {
+    "title": "Substance",
+    "artist": "03 Greedo",
+    "isrc": "USUYG1183222"
+  },
+  {
+    "title": "Aahhyeahh",
+    "artist": "Oliver Francis",
+    "isrc": "TCACZ1757580"
+  },
+  {
+    "title": "GONE (feat. Trippie Redd)",
+    "artist": "Paris Shadows, Trippie Redd",
+    "isrc": "QMCE31801736"
+  },
+  {
+    "title": "Live Up to My Name",
+    "artist": "Baka Not Nice",
+    "isrc": "USLD91702698"
+  },
+  {
+    "title": "Make It Right",
+    "artist": "Nessly, Joji",
+    "isrc": "USUM71802199"
+  },
+  {
+    "title": "enough",
+    "artist": "916frosty",
+    "isrc": "QZBRF1894467"
+  },
+  {
+    "title": "Back When I Was Broke",
+    "artist": "Skinnyfromthe9",
+    "isrc": "USUYG1192531"
+  },
+  {
+    "title": "Beautiful Nightmare",
+    "artist": "Lil Tracy",
+    "isrc": "QZJ4Z1900002"
+  },
+  {
+    "title": "I fucked up",
+    "artist": "convolk",
+    "isrc": "QM2PV1856590"
+  },
+  {
+    "title": "Fukk CodeRED",
+    "artist": "Lil West, Night Lovell",
+    "isrc": "QM4TW2433572"
+  },
+  {
+    "title": "Hills Have Eyes",
+    "artist": "POORSTACY",
+    "isrc": "QZJ842000736"
+  },
+  {
+    "title": "Hypnotized",
+    "artist": "Unodavid",
+    "isrc": "CA5KR1960535"
+  },
+  {
+    "title": "HighSchool",
+    "artist": "ION LIL GUT",
+    "isrc": "QZ4JJ1809246"
+  },
+  {
+    "title": "Party Girl",
+    "artist": "StaySolidRocky",
+    "isrc": "USSM12002247"
+  },
+  {
+    "title": "High Profile (feat. Gunna & Lil Gotit)",
+    "artist": "Danny Wolf, Gunna, Lil Gotit",
+    "isrc": "QMFME2178732"
+  },
+  {
+    "title": "I Had Some Help (Feat. Morgan Wallen)",
+    "artist": "Post Malone, Morgan Wallen",
+    "isrc": "USUM72404990"
+  },
+  {
+    "title": "Team",
+    "artist": "Xavier Weeks",
+    "isrc": "USAT21907076"
+  },
+  {
+    "title": "Falling",
+    "artist": "Trevor Daniel",
+    "isrc": "USUYG1221109"
+  },
+  {
+    "title": "No Worries",
+    "artist": "Lil Loski",
+    "isrc": "TCAEB1966676"
+  },
+  {
+    "title": "Attachments",
+    "artist": "Pressa, Taliban Glizzy",
+    "isrc": "CA6262202010"
+  },
+  {
+    "title": "Cashing Out Ft. Suigeneris",
+    "artist": "Kamrin Houser, Suigeneris",
+    "isrc": "CA5KR1819196"
+  },
+  {
+    "title": "Love None",
+    "artist": "Gee Yuhh",
+    "isrc": "QZES81862628"
+  },
+  {
+    "title": "Told You",
+    "artist": "Yung Tory, Nafe Smallz",
+    "isrc": "USUYG1233339"
+  },
+  {
+    "title": "Splash",
+    "artist": "Ty James, unheard",
+    "isrc": "QM24S1903246"
+  },
+  {
+    "title": "H'oil",
+    "artist": "Charlie Mase",
+    "isrc": "ushm82110909"
+  },
+  {
+    "title": "Kiss Touch",
+    "artist": "Mr.Chicken",
+    "isrc": "QZDA62489198"
+  },
+  {
+    "title": "Last Time",
+    "artist": "Tray Bndo, Robsan",
+    "isrc": "QZNWT2249924"
+  },
+  {
+    "title": "Plug Walk",
+    "artist": "Rich The Kid",
+    "isrc": "USUM71800892"
+  },
+  {
+    "title": "Turks (with Gunna & ft. Travis Scott)",
+    "artist": "NAV, Gunna, Travis Scott",
+    "isrc": "USUM72003472"
+  },
+  {
+    "title": "Nameless",
+    "artist": "Lil Keed",
+    "isrc": "QMCE31802138"
+  },
+  {
+    "title": "Do Not Disturb (feat. Lil Yachty & Offset)",
+    "artist": "Smokepurpp, Murda Beatz, Lil Yachty, Offset",
+    "isrc": "USUM71803787"
+  },
+  {
+    "title": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+    "artist": "PnB Rock, Kodak Black, A Boogie Wit da Hoodie",
+    "isrc": "USAT21700490"
+  },
+  {
+    "title": "How I Move (feat. Lil Baby)",
+    "artist": "Flipp Dinero, Lil Baby",
+    "isrc": "USSM11914254"
+  },
+  {
+    "title": "Leave Em Alone (Layton Greene, Lil Baby feat. City Girls, PnB Rock)",
+    "artist": "Quality Control, Layton Greene, Lil Baby, City Girls, PnB Rock",
+    "isrc": "USUG11900730"
+  },
+  {
+    "title": "Ned Flanders (feat. A$AP Ferg) (STWO Remix)",
+    "artist": "MadeinTYO, A$AP Ferg, Stwo",
+    "isrc": "QMRSZ1900392"
+  },
+  {
+    "title": "I",
+    "artist": "Lil Skies",
+    "isrc": "USAT21901411"
+  },
+  {
+    "title": "Death Note (feat. Lil Skies & Craig Xen)",
+    "artist": "Lil Gnar, Craig Xen, Lil Skies",
+    "isrc": "QMEU31908348"
+  },
+  {
+    "title": "Turn Yo Clic Up (feat. Future)",
+    "artist": "Quavo, Future",
+    "isrc": "USUG12300051"
+  },
+  {
+    "title": "Adam & Eve",
+    "artist": "Calboy",
+    "isrc": "USRC11901290"
+  },
+  {
+    "title": "Taking A Walk",
+    "artist": "Trippie Redd",
+    "isrc": "QMEU31814796"
+  },
+  {
+    "title": "Flex Up (feat. Future & Playboi Carti)",
+    "artist": "Lil Yachty, Future, Playboi Carti",
+    "isrc": "USUG12001712"
+  },
+  {
+    "title": "ZEZE (feat. Travis Scott & Offset)",
+    "artist": "Kodak Black, Offset, Travis Scott",
+    "isrc": "USAT21811523"
+  },
+  {
+    "title": "Bali",
+    "artist": "88GLAM, NAV",
+    "isrc": "TCADI1770701"
+  },
+  {
+    "title": "Noticed",
+    "artist": "Lil Mosey",
+    "isrc": "USUM71809565"
+  },
+  {
+    "title": "Hot (Remix) [feat. Gunna and Travis Scott]",
+    "artist": "Young Thug, Travis Scott, Gunna",
+    "isrc": "USAT21906512"
+  },
+  {
+    "title": "Drowning (feat. Kodak Black)",
+    "artist": "A Boogie Wit da Hoodie, Kodak Black",
+    "isrc": "USAT21701817"
+  },
+  {
+    "title": "Switching Lanes (feat. Playboi Carti)",
+    "artist": "Pi’erre Bourne, Playboi Carti",
+    "isrc": "USUM72109090"
+  },
+  {
+    "title": "Black Beatles",
+    "artist": "Rae Sremmurd, Gucci Mane",
+    "isrc": "USUM71603293"
+  },
+  {
+    "title": "Sick and Tired (feat. Machine Gun Kelly & Travis Barker)",
+    "artist": "iann dior, mgk, Travis Barker",
+    "isrc": "QZJ842000212"
+  },
+  {
+    "title": "fukumean",
+    "artist": "Gunna",
+    "isrc": "USAT22306575"
+  },
+  {
+    "title": "In The Dark (with Jhené Aiko)",
+    "artist": "Swae Lee, Jhené Aiko",
+    "isrc": "USUM72113050"
+  },
+  {
+    "title": "Nightmares (feat. Lil Skies)",
+    "artist": "Yung Pinch, Lil Skies",
+    "isrc": "USSM11807830"
+  },
+  {
+    "title": "Valentine",
+    "artist": "YK Osiris",
+    "isrc": "USUM71804498"
+  },
+  {
+    "title": "Down Below",
+    "artist": "Roddy Ricch",
+    "isrc": "USAT21811792"
+  },
+  {
+    "title": "Suicidal",
+    "artist": "YNW Melly",
+    "isrc": "QMCE31902585"
+  },
+  {
+    "title": "Dubai Shit",
+    "artist": "Huncho Jack, Travis Scott, Quavo, Offset",
+    "isrc": "USUM71714127"
+  },
+  {
+    "title": "Ransom",
+    "artist": "Lil Tecca",
+    "isrc": "QZ85M1940160"
+  },
+  {
+    "title": "Squidrific",
+    "artist": "SahBabii",
+    "isrc": "QZ5FA1752840"
+  },
+  {
+    "title": "WHAT",
+    "artist": "UnoTheActivist, Playboi Carti",
+    "isrc": "QZPEW2205645"
+  },
+  {
+    "title": "Coastin' (feat. TK Kravitz)",
+    "artist": "Nebu Kiniza, TK Kravitz",
+    "isrc": "TCADE1725293"
+  },
+  {
+    "title": "20 Min",
+    "artist": "Lil Uzi Vert",
+    "isrc": "USAT21704166"
+  },
+  {
+    "title": "No Sad No Bad",
+    "artist": "KILLY",
+    "isrc": "QZBRF1827838"
+  },
+  {
+    "title": "Bad Vibe (feat. A Boogie Wit da Hoodie & 2 Chainz)",
+    "artist": "Quando Rondo, 2 Chainz, A Boogie Wit da Hoodie",
+    "isrc": "USATV1903962"
+  },
+  {
+    "title": "Sex Sounds",
+    "artist": "Lil Tjay",
+    "isrc": "USSM11909049"
+  },
+  {
+    "title": "Jetlag (feat. Chief Keef)",
+    "artist": "Matt OX, Chief Keef",
+    "isrc": "USUM71817220"
+  },
+  {
+    "title": "Wet (She Got That…)",
+    "artist": "YFN Lucci",
+    "isrc": "USUYG1297281"
+  },
+  {
+    "title": "Slum Anthem",
+    "artist": "K CAMP",
+    "isrc": "USUM71416311"
+  },
+  {
+    "title": "Chase Down (feat. Lil Bean, Zaybang, Lil Yee & KxNG LLAMA)",
+    "artist": "Zaytoven, Fo15, Lil Bean, ZayBang, Lil Yee, KxNG LLAMA",
+    "isrc": "USUYG1365371"
+  },
+  {
+    "title": "Starfire (Teen Titans)",
+    "artist": "6 Dogs",
+    "isrc": "USLD91730630"
+  },
+  {
+    "title": "High Right Now (feat. Wiz Khalifa) - Remix",
+    "artist": "Tyla Yaweh, Wiz Khalifa",
+    "isrc": "USSM12000392"
+  },
+  {
+    "title": "Hurts Me",
+    "artist": "Tory Lanez, Trippie Redd, Yoko Gold",
+    "isrc": "QZJ842003380"
+  },
+  {
+    "title": "Stay '100'",
+    "artist": "Smooky MarGielaa",
+    "isrc": "TCADF1765447"
+  },
+  {
+    "title": "Freak Hoe",
+    "artist": "Speaker Knockerz",
+    "isrc": "TCABN1391127"
+  },
+  {
+    "title": "Cabo",
+    "artist": "Bankrol Hayden",
+    "isrc": "USAT22102587"
+  },
+  {
+    "title": "Banded Up (feat. XXXTENTACION)",
+    "artist": "RONNY J, XXXTENTACION",
+    "isrc": "USAT21800567"
+  },
+  {
+    "title": "STRONG (feat. Lil Poppa)",
+    "artist": "Justin Rarri, Lil Poppa",
+    "isrc": "USUM72002993"
+  },
+  {
+    "title": "Moving On",
+    "artist": "Global Dan, Lil Skies",
+    "isrc": "QZD5H1800002"
+  },
+  {
+    "title": "23 Island",
+    "artist": "JayDaYoungan",
+    "isrc": "USAT21904700"
+  },
+  {
+    "title": "I See You (feat. Chris Brown)",
+    "artist": "Kap G, Chris Brown",
+    "isrc": "USAT21700633"
+  },
+  {
+    "title": "Tell Shyanne",
+    "artist": "DC The Don",
+    "isrc": "US39N2310430"
+  },
+  {
+    "title": "PRBLMS",
+    "artist": "6LACK",
+    "isrc": "USUYG1102245"
+  },
+  {
+    "title": "Hardaway",
+    "artist": "Yungeen Ace, King Von",
+    "isrc": "QMKSC2101635"
+  },
+  {
+    "title": "UFO's",
+    "artist": "YSN Flow",
+    "isrc": "QZMWW2418446"
+  },
+  {
+    "title": "Meet Again",
+    "artist": "Maxo Kream",
+    "isrc": "USRC11803939"
+  },
+  {
+    "title": "AMERICAN MUSCLE",
+    "artist": "Thouxanbanfauni",
+    "isrc": "CA5KR2055140"
+  },
+  {
+    "title": "Dying for You (feat. YNW Melly)",
+    "artist": "YNW BSlime, YNW Melly",
+    "isrc": "QMFME1912137"
+  },
+  {
+    "title": "New Freezer (feat. Kendrick Lamar)",
+    "artist": "Rich The Kid, Kendrick Lamar",
+    "isrc": "USUM71708973"
+  },
+  {
+    "title": "Never Sleep (with Lil Baby feat. Travis Scott)",
+    "artist": "NAV, Lil Baby, Travis Scott",
+    "isrc": "USUM72214489"
+  },
+  {
+    "title": "She Know (feat. Lil Baby)",
+    "artist": "Lil Keed, Lil Baby",
+    "isrc": "QMCE32000371"
+  },
+  {
+    "title": "Tide Pen (feat. Jack Harlow)",
+    "artist": "Smokepurpp, Jack Harlow",
+    "isrc": "USUM72010777"
+  },
+  {
+    "title": "Notice Me",
+    "artist": "PnB Rock",
+    "isrc": "USUYG1121851"
+  },
+  {
+    "title": "No Option",
+    "artist": "Flipp Dinero",
+    "isrc": "USSM12108736"
+  },
+  {
+    "title": "100 Racks (Offset feat. Playboi Carti)",
+    "artist": "Quality Control, Offset, Playboi Carti",
+    "isrc": "USUG11900756"
+  },
+  {
+    "title": "Chucky Cheese",
+    "artist": "MadeinTYO",
+    "isrc": "QMRSZ1802091"
+  },
+  {
+    "title": "Red Roses (feat. Landon Cube)",
+    "artist": "Lil Skies, Landon Cube",
+    "isrc": "USAT21704162"
+  },
+  {
+    "title": "New Bugatti (feat. Ski Mask The Slump God, Chief Keef, DJ Scheme)",
+    "artist": "Lil Gnar, Ski Mask The Slump God, Chief Keef, DJ Scheme",
+    "isrc": "CA5KR2167869"
+  },
+  {
+    "title": "Potato Loaded (feat. Destroy Lonely)",
+    "artist": "Quavo, Destroy Lonely",
+    "isrc": "USUG12400076"
+  },
+  {
+    "title": "Chariot (feat. Meek Mill, Lil Durk & Young Thug)",
+    "artist": "Calboy, Meek Mill, Lil Durk, Young Thug",
+    "isrc": "USRC11901300"
+  },
+  {
+    "title": "Dark Knight Dummo (feat. Travis Scott)",
+    "artist": "Trippie Redd, Travis Scott",
+    "isrc": "QMEU31724288"
+  },
+  {
+    "title": "Pardon Me (Lil Yachty feat. Future & Mike WiLL Made-It)",
+    "artist": "Lil Yachty, Future, Mike WiLL Made-It",
+    "isrc": "USUG12001625"
+  },
+  {
+    "title": "12",
+    "artist": "88GLAM",
+    "isrc": "TCADI1752060"
+  },
+  {
+    "title": "Tunnel Vision",
+    "artist": "Kodak Black",
+    "isrc": "USAT21700379"
+  },
+  {
+    "title": "Stuck In A Dream (feat. Gunna)",
+    "artist": "Lil Mosey, Gunna",
+    "isrc": "USUM71911881"
+  },
+  {
+    "title": "The London (feat. J. Cole & Travis Scott)",
+    "artist": "Young Thug, J. Cole, Travis Scott",
+    "isrc": "USAT21903320"
+  },
+  {
+    "title": "Poof",
+    "artist": "Pi’erre Bourne",
+    "isrc": "USUM71910687"
+  },
+  {
+    "title": "Come Get Her",
+    "artist": "Rae Sremmurd",
+    "isrc": "USUM71417470"
+  },
+  {
+    "title": "gone girl (feat. Trippie Redd)",
+    "artist": "iann dior, Trippie Redd",
+    "isrc": "QMEU31911872"
+  },
+  {
+    "title": "My Shit",
+    "artist": "A Boogie Wit da Hoodie",
+    "isrc": "USAT21602047"
+  },
+  {
+    "title": "prada dem (feat. Offset)",
+    "artist": "Gunna, Offset",
+    "isrc": "USAT22401724"
+  },
+  {
+    "title": "Reality Check",
+    "artist": "Swae Lee",
+    "isrc": "USUM72011604"
+  },
+  {
+    "title": "20 Years Later",
+    "artist": "Yung Pinch",
+    "isrc": "USLD91722957"
+  },
+  {
+    "title": "High Fashion (feat. Mustard)",
+    "artist": "Roddy Ricch, Mustard",
+    "isrc": "USAT21906985"
+  },
+  {
+    "title": "Ride",
+    "artist": "YK Osiris, Kehlani",
+    "isrc": "USUM71915269"
+  },
+  {
+    "title": "772 Love",
+    "artist": "YNW Melly",
+    "isrc": "CA5KR1576665"
+  },
+  {
+    "title": "Black & Chinese",
+    "artist": "Huncho Jack, Travis Scott, Quavo",
+    "isrc": "USUM71714099"
+  },
+  {
+    "title": "Pull Up Wit Ah Stick (feat. Loso Loaded)",
+    "artist": "SahBabii, Loso Loaded",
+    "isrc": "USWB11700459"
+  }
+]

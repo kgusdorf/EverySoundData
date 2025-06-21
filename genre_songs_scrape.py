@@ -77,13 +77,6 @@ def process_genres(genres_json: str, limit: Optional[int] = None):
             logger.debug("Skipping %s (no href)", genre)
             continue
         url = href if href.startswith("http") else BASE_URL + href.lstrip("/")
-        html_text = fetch_url(url, session)
-        if html_text is None:
-            logger.error("Failed to download %s", url)
-            continue
-        songs = extract_songs_from_html(html_text)
-
-        # Determine filename from href pattern engenremap-<name>.html
         filename_slug = None
         m = re.search(r"engenremap-([^.]+)\.html", href or "")
         if m:
@@ -92,6 +85,16 @@ def process_genres(genres_json: str, limit: Optional[int] = None):
             filename_slug = sanitize_filename(genre)
 
         outfile = OUTPUT_DIR / f"{filename_slug}.json"
+        if outfile.exists():
+            logger.info("Skipping %s (already scraped)", genre)
+            continue
+
+        html_text = fetch_url(url, session)
+        if html_text is None:
+            logger.error("Failed to download %s", url)
+            continue
+        songs = extract_songs_from_html(html_text)
+
         with outfile.open("w", encoding="utf-8") as out_fp:
             json.dump(songs, out_fp, ensure_ascii=False, indent=2)
         logger.info("Saved %d songs for %s", len(songs), genre)

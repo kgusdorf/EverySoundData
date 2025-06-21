@@ -1,0 +1,677 @@
+[
+  {
+    "title": "Jack & Diane",
+    "artist": "John Mellencamp",
+    "isrc": "USJM18200001"
+  },
+  {
+    "title": "Life's Been Good",
+    "artist": "Joe Walsh",
+    "isrc": "USEE10901062"
+  },
+  {
+    "title": "Mary Jane's Last Dance",
+    "artist": "Tom Petty and the Heartbreakers",
+    "isrc": "USMC19341704"
+  },
+  {
+    "title": "Doctor My Eyes - 1997 Remaster",
+    "artist": "Jackson Browne",
+    "isrc": "USEE17100001"
+  },
+  {
+    "title": "Old Time Rock & Roll",
+    "artist": "Bob Seger",
+    "isrc": "USCA28600270"
+  },
+  {
+    "title": "Free Fallin'",
+    "artist": "Tom Petty",
+    "isrc": "USMC18925673"
+  },
+  {
+    "title": "The Joker",
+    "artist": "Steve Miller Band",
+    "isrc": "USCA29100532"
+  },
+  {
+    "title": "Centerfield",
+    "artist": "John Fogerty",
+    "isrc": "USDW10110142"
+  },
+  {
+    "title": "Bad To The Bone",
+    "artist": "George Thorogood & The Destroyers",
+    "isrc": "USEM38500069"
+  },
+  {
+    "title": "Dust in the Wind",
+    "artist": "Kansas",
+    "isrc": "USSM10103196"
+  },
+  {
+    "title": "The Weight - Remastered 2000",
+    "artist": "The Band",
+    "isrc": "USCA20000789"
+  },
+  {
+    "title": "The Way It Is",
+    "artist": "Bruce Hornsby and the Range",
+    "isrc": "USRC18507944"
+  },
+  {
+    "title": "Have A Little Faith In Me",
+    "artist": "John Hiatt",
+    "isrc": "USAM18704270"
+  },
+  {
+    "title": "Blue Bayou",
+    "artist": "Linda Ronstadt",
+    "isrc": "USEA20100040"
+  },
+  {
+    "title": "Odds of the Blues (feat. Bruce Springsteen)",
+    "artist": "Joe Ely, Bruce Springsteen",
+    "isrc": "QM4TW2496337"
+  },
+  {
+    "title": "Hotel California - 2013 Remaster",
+    "artist": "Eagles",
+    "isrc": "USEE11300353"
+  },
+  {
+    "title": "Indianapolis",
+    "artist": "The Bottle Rockets",
+    "isrc": "USAT20101113"
+  },
+  {
+    "title": "King Of California",
+    "artist": "Dave Alvin",
+    "isrc": "US2AH0402003"
+  },
+  {
+    "title": "Fruits Of My Labor",
+    "artist": "Lucinda Williams",
+    "isrc": "USMR10200541"
+  },
+  {
+    "title": "I Don't Want to Go Home",
+    "artist": "Southside Johnny And The Asbury Jukes",
+    "isrc": "USSM19912953"
+  },
+  {
+    "title": "Copperhead Road",
+    "artist": "Steve Earle",
+    "isrc": "USMC18826253"
+  },
+  {
+    "title": "New Madrid",
+    "artist": "Uncle Tupelo",
+    "isrc": "USRE10100697"
+  },
+  {
+    "title": "Keith Don't Go - Live",
+    "artist": "Nils Lofgren",
+    "isrc": "US37B0602938"
+  },
+  {
+    "title": "Walk Away Renee",
+    "artist": "Southside Johnny, The Jukes",
+    "isrc": "CAU111120949"
+  },
+  {
+    "title": "Forever",
+    "artist": "Little Steven",
+    "isrc": "USCA20902215"
+  },
+  {
+    "title": "Is She the One",
+    "artist": "Joe Grushecky",
+    "isrc": "US37B0602598"
+  },
+  {
+    "title": "Dancing In the Dark",
+    "artist": "Bruce Springsteen",
+    "isrc": "USSM18400416"
+  },
+  {
+    "title": "Stuck Between Stations",
+    "artist": "The Hold Steady",
+    "isrc": "QMRSZ1601174"
+  },
+  {
+    "title": "Smoke",
+    "artist": "Brian Fallon",
+    "isrc": "USUM71519191"
+  },
+  {
+    "title": "On The Dark Side",
+    "artist": "John Cafferty & the Beaver Brown Band",
+    "isrc": "USVR10400574"
+  },
+  {
+    "title": "If You're Here When I Get Back",
+    "artist": "John Eddie",
+    "isrc": "USMR10200554"
+  },
+  {
+    "title": "Pumping Iron",
+    "artist": "Iron City Houserockers",
+    "isrc": "QMWHB2424419"
+  },
+  {
+    "title": "I'm The Only One",
+    "artist": "Melissa Etheridge",
+    "isrc": "USIR19300002"
+  },
+  {
+    "title": "I Don't Wanna Be An Asshole Anymore",
+    "artist": "The Menzingers",
+    "isrc": "USEP41336001"
+  },
+  {
+    "title": "Shelter",
+    "artist": "Lone Justice",
+    "isrc": "USGF18612202"
+  },
+  {
+    "title": "He Can't Love You (Remastered)",
+    "artist": "Michael Stanley Band",
+    "isrc": "uscgj1642665"
+  },
+  {
+    "title": "\"45\"",
+    "artist": "The Gaslight Anthem",
+    "isrc": "GBUM71202587"
+  },
+  {
+    "title": "I Wish I Had a Girl",
+    "artist": "Henry Lee Summer",
+    "isrc": "USSM19913035"
+  },
+  {
+    "title": "Edge of Seventeen - 2016 Remaster",
+    "artist": "Stevie Nicks",
+    "isrc": "USRH11604198"
+  },
+  {
+    "title": "Separate Songs",
+    "artist": "Restorations",
+    "isrc": "USA6G1455002"
+  },
+  {
+    "title": "Hearts On Fire - From \"Rocky IV\" Soundtrack",
+    "artist": "John Cafferty",
+    "isrc": "USVR10200061"
+  },
+  {
+    "title": "Oklahoma Breakdown",
+    "artist": "Stoney LaRue",
+    "isrc": "US2760600536"
+  },
+  {
+    "title": "Strong",
+    "artist": "Will Hoge",
+    "isrc": "USG9K1308001"
+  },
+  {
+    "title": "Summertime Blues",
+    "artist": "Brian Setzer",
+    "isrc": "USRHD0900885"
+  },
+  {
+    "title": "Should've Known",
+    "artist": "Dolly Shine",
+    "isrc": "USLVZ1300023"
+  },
+  {
+    "title": "Summer Of '69",
+    "artist": "Bryan Adams",
+    "isrc": "USAM18490006"
+  },
+  {
+    "title": "Even If It Breaks Your Heart",
+    "artist": "Eli Young Band",
+    "isrc": "USUM71101202"
+  },
+  {
+    "title": "Jump Jive An' Wail",
+    "artist": "The Brian Setzer Orchestra",
+    "isrc": "USIR19801926"
+  },
+  {
+    "title": "Hold On (feat. Lauren Weintraub)",
+    "artist": "Brandon Ray, Lauren Weintraub",
+    "isrc": "USUYG1365192"
+  },
+  {
+    "title": "A Woman's Got the Power",
+    "artist": "The A's",
+    "isrc": "USAR10800887"
+  },
+  {
+    "title": "Ready or Not",
+    "artist": "Josh Dorr",
+    "isrc": "CAOA81700147"
+  },
+  {
+    "title": "We Got History",
+    "artist": "Mitchell Tenpenny",
+    "isrc": "US6XF2200239"
+  },
+  {
+    "title": "Paranoid",
+    "artist": "Royal Bliss",
+    "isrc": "USA2P1918250"
+  },
+  {
+    "title": "Americano",
+    "artist": "Roger Clyne & The Peacemakers",
+    "isrc": "USAGQ0500001"
+  },
+  {
+    "title": "Hard Livin",
+    "artist": "Andrew Cedermark",
+    "isrc": "USA561184382"
+  },
+  {
+    "title": "The Promise You Made",
+    "artist": "Cock Robin",
+    "isrc": "USSM18500369"
+  },
+  {
+    "title": "Don't Be Scared",
+    "artist": "David Childers",
+    "isrc": "US4BW1400004"
+  },
+  {
+    "title": "For Hire",
+    "artist": "David Zollo, The Body Electric",
+    "isrc": "ushm91405849"
+  },
+  {
+    "title": "Neon Pulse",
+    "artist": "Farmer",
+    "isrc": "DEH742416065"
+  },
+  {
+    "title": "Surface",
+    "artist": "Old Pike",
+    "isrc": "US4K30400011"
+  },
+  {
+    "title": "Ride the Sky",
+    "artist": "Revolution Mother",
+    "isrc": "TCACD1539603"
+  },
+  {
+    "title": "Hungover High",
+    "artist": "Skrizzly Adams",
+    "isrc": "QZS652288013"
+  },
+  {
+    "title": "Pink Flamingo",
+    "artist": "Terry Christopher",
+    "isrc": "uscgh1700368"
+  },
+  {
+    "title": "Coney Island High",
+    "artist": "The Everymen",
+    "isrc": "US9UP1201405"
+  },
+  {
+    "title": "Civil War Reenactor",
+    "artist": "The German Art Students",
+    "isrc": "ushm20423921"
+  },
+  {
+    "title": "Addiction",
+    "artist": "The Last Conspirators",
+    "isrc": "QMZU61500002"
+  },
+  {
+    "title": "Still in Love Song",
+    "artist": "The Stills",
+    "isrc": "USAT20302861"
+  },
+  {
+    "title": "Hurts So Good",
+    "artist": "John Mellencamp",
+    "isrc": "USJM18200002"
+  },
+  {
+    "title": "Learning To Fly",
+    "artist": "Tom Petty and the Heartbreakers",
+    "isrc": "USMC19135647"
+  },
+  {
+    "title": "Rocky Mountain Way",
+    "artist": "Joe Walsh",
+    "isrc": "USMC17344516"
+  },
+  {
+    "title": "Running on Empty",
+    "artist": "Jackson Browne",
+    "isrc": "USEE10900486"
+  },
+  {
+    "title": "Night Moves",
+    "artist": "Bob Seger",
+    "isrc": "USCA28500274"
+  },
+  {
+    "title": "I Won't Back Down",
+    "artist": "Tom Petty",
+    "isrc": "USMC18925675"
+  },
+  {
+    "title": "Rock'n Me",
+    "artist": "Steve Miller Band",
+    "isrc": "USCA28700297"
+  },
+  {
+    "title": "The Old Man Down The Road",
+    "artist": "John Fogerty",
+    "isrc": "USDW10110136"
+  },
+  {
+    "title": "One Bourbon, One Scotch, One Beer",
+    "artist": "George Thorogood & The Destroyers",
+    "isrc": "USRO27701303"
+  },
+  {
+    "title": "Carry on Wayward Son",
+    "artist": "Kansas",
+    "isrc": "USSM17600874"
+  },
+  {
+    "title": "Atlantic City",
+    "artist": "The Band",
+    "isrc": "USPY10610132"
+  },
+  {
+    "title": "Mandolin Rain",
+    "artist": "Bruce Hornsby and the Range",
+    "isrc": "USRC18507942"
+  },
+  {
+    "title": "Adios to California",
+    "artist": "John Hiatt",
+    "isrc": "US27Q1120610"
+  },
+  {
+    "title": "Don't Know Much (with Aaron Neville)",
+    "artist": "Linda Ronstadt, Aaron Neville",
+    "isrc": "USEE10170735"
+  },
+  {
+    "title": "The Road Goes On Forever",
+    "artist": "Joe Ely",
+    "isrc": "USMC19238470"
+  },
+  {
+    "title": "Smile",
+    "artist": "The Bottle Rockets",
+    "isrc": "USA361522708"
+  },
+  {
+    "title": "Take It Easy - 2013 Remaster",
+    "artist": "Eagles",
+    "isrc": "USEE11300314"
+  },
+  {
+    "title": "Harlan County Line",
+    "artist": "Dave Alvin",
+    "isrc": "USY1R1124601"
+  },
+  {
+    "title": "Can't Let Go",
+    "artist": "Lucinda Williams",
+    "isrc": "USMR19889012"
+  },
+  {
+    "title": "The Fever",
+    "artist": "Southside Johnny And The Asbury Jukes",
+    "isrc": "USSM11301794"
+  },
+  {
+    "title": "Guitar Town",
+    "artist": "Steve Earle",
+    "isrc": "USMC18519803"
+  },
+  {
+    "title": "Moonshiner",
+    "artist": "Uncle Tupelo",
+    "isrc": "USSM10200172"
+  },
+  {
+    "title": "Shine Silently",
+    "artist": "Nils Lofgren",
+    "isrc": "USAM17900303"
+  },
+  {
+    "title": "Captured",
+    "artist": "Southside Johnny, The Jukes",
+    "isrc": "CAU111120940"
+  },
+  {
+    "title": "Out Of The Darkness - 1999 Digital Remaster; 24 Bit Mastering",
+    "artist": "Little Steven",
+    "isrc": "USEM39900105"
+  },
+  {
+    "title": "Code of Silence",
+    "artist": "Joe Grushecky",
+    "isrc": "US37B0602597"
+  },
+  {
+    "title": "The Bear And the Maiden Fair",
+    "artist": "The Hold Steady",
+    "isrc": "USNLR1300367"
+  },
+  {
+    "title": "I'm On Fire",
+    "artist": "Bruce Springsteen",
+    "isrc": "USSM18400411"
+  },
+  {
+    "title": "Red Lights",
+    "artist": "Brian Fallon",
+    "isrc": "USUM71519189"
+  },
+  {
+    "title": "Tender Years",
+    "artist": "John Cafferty & the Beaver Brown Band",
+    "isrc": "USVR10400575"
+  },
+  {
+    "title": "Living Doll",
+    "artist": "John Eddie",
+    "isrc": "USSM18600672"
+  },
+  {
+    "title": "I Can't Take It",
+    "artist": "Iron City Houserockers",
+    "isrc": "QMWHB2424415"
+  },
+  {
+    "title": "Like The Way I Do",
+    "artist": "Melissa Etheridge",
+    "isrc": "USIR28800047"
+  },
+  {
+    "title": "After the Party",
+    "artist": "The Menzingers",
+    "isrc": "USEP41627012"
+  },
+  {
+    "title": "Ways To Be Wicked",
+    "artist": "Lone Justice",
+    "isrc": "USGF18506003"
+  },
+  {
+    "title": "My Town (Remastered)",
+    "artist": "Michael Stanley Band",
+    "isrc": "uscgj1642632"
+  },
+  {
+    "title": "The '59 Sound",
+    "artist": "The Gaslight Anthem",
+    "isrc": "USA6G0835802"
+  },
+  {
+    "title": "Hands On the Radio",
+    "artist": "Henry Lee Summer",
+    "isrc": "USSM19913036"
+  },
+  {
+    "title": "Field Recordings",
+    "artist": "Restorations",
+    "isrc": "TCAHW2422880"
+  },
+  {
+    "title": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
+    "artist": "Stevie Nicks, Tom Petty and the Heartbreakers",
+    "isrc": "USRH11604195"
+  },
+  {
+    "title": "On The Dark Side",
+    "artist": "John Cafferty",
+    "isrc": "USLZJ1635022"
+  },
+  {
+    "title": "Feet Don't Touch the Ground",
+    "artist": "Stoney LaRue",
+    "isrc": "US2760600535"
+  },
+  {
+    "title": "Middle of America",
+    "artist": "Will Hoge",
+    "isrc": "QMEHC1400002"
+  },
+  {
+    "title": "Rock Boys Rock",
+    "artist": "Brian Setzer",
+    "isrc": "USSFR2316001"
+  },
+  {
+    "title": "Spinning My Wheels",
+    "artist": "Dolly Shine",
+    "isrc": "USLVZ1300020"
+  },
+  {
+    "title": "Small Town",
+    "artist": "John Mellencamp",
+    "isrc": "USJM18500005"
+  },
+  {
+    "title": "American Girl",
+    "artist": "Tom Petty and the Heartbreakers",
+    "isrc": "USMC17641688"
+  },
+  {
+    "title": "A Life of Illusion",
+    "artist": "Joe Walsh",
+    "isrc": "USEE10100126"
+  },
+  {
+    "title": "Stay - Remastered",
+    "artist": "Jackson Browne",
+    "isrc": "USRH11800078"
+  },
+  {
+    "title": "Still The Same",
+    "artist": "Bob Seger",
+    "isrc": "USCA28600269"
+  },
+  {
+    "title": "Runnin' Down A Dream",
+    "artist": "Tom Petty",
+    "isrc": "USMC18925680"
+  },
+  {
+    "title": "Rock and Roll Girls",
+    "artist": "John Fogerty",
+    "isrc": "USDW10110135"
+  },
+  {
+    "title": "Take The Money And Run",
+    "artist": "Steve Miller Band",
+    "isrc": "USCA28700722"
+  },
+  {
+    "title": "Who Do You Love?",
+    "artist": "George Thorogood & The Destroyers",
+    "isrc": "USRO27802402"
+  },
+  {
+    "title": "Up On Cripple Creek",
+    "artist": "The Band",
+    "isrc": "USCA20000792"
+  },
+  {
+    "title": "The Valley Road",
+    "artist": "Bruce Hornsby and the Range",
+    "isrc": "USRC18805671"
+  },
+  {
+    "title": "Carry On Wayward Son",
+    "artist": "Kansas",
+    "isrc": "USSM17600638"
+  },
+  {
+    "title": "Crossing Muddy Waters",
+    "artist": "John Hiatt",
+    "isrc": "USTCF1082519"
+  },
+  {
+    "title": "You're No Good",
+    "artist": "Linda Ronstadt",
+    "isrc": "USCA28500304"
+  },
+  {
+    "title": "Musta Notta Gotta Lotta",
+    "artist": "Joe Ely",
+    "isrc": "USMC10200332"
+  },
+  {
+    "title": "Every Kinda Everything",
+    "artist": "The Bottle Rockets",
+    "isrc": "USA360300110"
+  },
+  {
+    "title": "Johnny Ace Is Dead",
+    "artist": "Dave Alvin",
+    "isrc": "USY1R1124602"
+  },
+  {
+    "title": "One of These Nights - 2013 Remaster",
+    "artist": "Eagles",
+    "isrc": "USEE11300344"
+  },
+  {
+    "title": "Car Wheels On A Gravel Road",
+    "artist": "Lucinda Williams",
+    "isrc": "USMR19889007"
+  },
+  {
+    "title": "Talk to Me",
+    "artist": "Southside Johnny And The Asbury Jukes",
+    "isrc": "USSM11301801"
+  },
+  {
+    "title": "The Galway Girl",
+    "artist": "Steve Earle",
+    "isrc": "USAR50010108"
+  },
+  {
+    "title": "No Depression",
+    "artist": "Uncle Tupelo",
+    "isrc": "USSM10109045"
+  },
+  {
+    "title": "Black Books - Live",
+    "artist": "Nils Lofgren",
+    "isrc": "US37B0602942"
+  }
+]

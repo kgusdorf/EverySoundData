@@ -114,9 +114,9 @@ def parse_file(html_path: str) -> Dict[str, Any]:
             data: Dict[str, Any] = {}
 
             # Preview URL
-            preview_url = div.get("preview_url")
-            if preview_url:
-                data["preview_url"] = preview_url
+            # preview_url = div.get("preview_url")
+            # if preview_url:
+            #     data["preview_url"] = preview_url
 
             # Genre page href (the «» link inside the div)
             nav = div.find("a", href=True)
@@ -128,9 +128,9 @@ def parse_file(html_path: str) -> Dict[str, Any]:
             data.update(_parse_style(style))
 
             # Preview title
-            preview_title = _extract_preview_title(div)
-            if preview_title:
-                data["preview_title"] = preview_title
+            # preview_title = _extract_preview_title(div)
+            # if preview_title:
+            #     data["preview_title"] = preview_title
 
             genres[name] = data
         except Exception as exc:

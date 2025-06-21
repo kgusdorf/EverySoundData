@@ -1,0 +1,3842 @@
+[
+  {
+    "title": "Tamma Tamma Again",
+    "artist": "Bappi Lahiri, Anuradha Paudwal, Badshah, Tanishk Bagchi, Indeevar",
+    "isrc": "INS181700233"
+  },
+  {
+    "title": "Sapne Mein (From \"Satya\")",
+    "artist": "Asha Bhosle, Suresh Wadkar",
+    "isrc": "INV110000461"
+  },
+  {
+    "title": "Koi Mil Gaya",
+    "artist": "Jatin-Lalit, Kavita Krishnamurthy, Udit Narayan, Alka Yagnik",
+    "isrc": "INS179900050"
+  },
+  {
+    "title": "San Sanana",
+    "artist": "Anu Malik, Alka Yagnik, Hema Sardesai",
+    "isrc": "INS170100005"
+  },
+  {
+    "title": "Mehbooba Mehbooba - From \"Sholay\"",
+    "artist": "R. D. Burman",
+    "isrc": "INP100300029"
+  },
+  {
+    "title": "Tere Ishq Mein",
+    "artist": "Gulzar",
+    "isrc": "USA560590198"
+  },
+  {
+    "title": "Likhe Jo Khat Tujhe (From \"Kanyadaan\")",
+    "artist": "Mohammed Rafi",
+    "isrc": "INH109343400"
+  },
+  {
+    "title": "Na Kajare Ki Dhar (From \"Mohra\")",
+    "artist": "Sadhana Sargam, Pankaj Udhas",
+    "isrc": "INV119400085"
+  },
+  {
+    "title": "Tujh Mein Rab Dikhta Hai",
+    "artist": "Salim–Sulaiman, Roop Kumar Rathod, Jaideep Sahni",
+    "isrc": "INY090800053"
+  },
+  {
+    "title": "Sukhkarta Dukhharta",
+    "artist": "Amitabh Bachchan",
+    "isrc": "INT132102443"
+  },
+  {
+    "title": "Wahan Kaun Hai Tera Musafir",
+    "artist": "S. D. Burman",
+    "isrc": "INH109637790"
+  },
+  {
+    "title": "Zindagi Kaisi Hai Paheli",
+    "artist": "Manna Dey, Salil Chowdhury",
+    "isrc": "INH109246010"
+  },
+  {
+    "title": "Woh Ladki Hai Kahan",
+    "artist": "Shaan, Kavita Krishnamurthy",
+    "isrc": "INS180131113"
+  },
+  {
+    "title": "Race Gurram",
+    "artist": "Usha Uthup",
+    "isrc": "INS181424883"
+  },
+  {
+    "title": "Main Koi Aisa Geet Gaoon (From \"Yes Boss\")",
+    "artist": "Abhijeet",
+    "isrc": "INV119900294"
+  },
+  {
+    "title": "Katiya Karun",
+    "artist": "Harshdeep Kaur",
+    "isrc": "INS181103500"
+  },
+  {
+    "title": "Main Agar Kahoon",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "isrc": "INS180705751"
+  },
+  {
+    "title": "Tera Chehra",
+    "artist": "Adnan Sami",
+    "isrc": "INS180241112"
+  },
+  {
+    "title": "Mitwa",
+    "artist": "Shankar-Ehsaan-Loy, Shankar Mahadevan, Caralisa Monteiro, Shafqat Amanat Ali",
+    "isrc": "INS170600224"
+  },
+  {
+    "title": "Chhupana Bhi Nahin Aata (From \"Baazigar\")",
+    "artist": "Pankaj Udhas",
+    "isrc": "INV119300499"
+  },
+  {
+    "title": "Bahut Pyar Karte Hai - Female Version",
+    "artist": "Anuradha Paudwal",
+    "isrc": "INV119300922"
+  },
+  {
+    "title": "Aa Re Pritam Pyaare",
+    "artist": "Sajid-Wajid, Mamta Sharma, Sarosh Sami",
+    "isrc": "INU151200022"
+  },
+  {
+    "title": "Agar Tum Saath Ho (From \"Tamasha\")",
+    "artist": "Alka Yagnik, Arijit Singh",
+    "isrc": "INS181501796"
+  },
+  {
+    "title": "Uff Teri Adaa",
+    "artist": "Shankar Mahadevan, Alyssa Mendonsa",
+    "isrc": "INS180907643"
+  },
+  {
+    "title": "Kokkorakko (From \"Gilli\")",
+    "artist": "Udit Narayan, Sujatha",
+    "isrc": "INF040400570"
+  },
+  {
+    "title": "Chappa Chappa",
+    "artist": "Vishal Bhardwaj, Hariharan, Suresh Wadkar",
+    "isrc": "INS171570332"
+  },
+  {
+    "title": "Main Pal Do Pal Ka Shair Hoon",
+    "artist": "Mukesh",
+    "isrc": "INH109539840"
+  },
+  {
+    "title": "Main Yahaan Hoon",
+    "artist": "Madan Mohan, Udit Narayan, Javed Akhtar",
+    "isrc": "INY090400016"
+  },
+  {
+    "title": "Maula Mere Maula",
+    "artist": "Roop Kumar Rathod",
+    "isrc": "INH100629786"
+  },
+  {
+    "title": "Lagi Aaj Sawan Ki",
+    "artist": "Suresh Wadkar, Anupama",
+    "isrc": "INH109240790"
+  },
+  {
+    "title": "Beqarar Karke Hamen Yun Na Jaiye",
+    "artist": "Hemant Kumar",
+    "isrc": "INH109243360"
+  },
+  {
+    "title": "Bade Achhe Lagte Hain",
+    "artist": "Amit Kumar, R. D. Burman",
+    "isrc": "INH109834410"
+  },
+  {
+    "title": "Guzarish",
+    "artist": "Javed Ali",
+    "isrc": "INS180809764"
+  },
+  {
+    "title": "Man Kyoon Behka Re Behka Aadhi Raat Ko",
+    "artist": "Laxmikant–Pyarelal, Lata Mangeshkar, Asha Bhosle",
+    "isrc": "INS171600191"
+  },
+  {
+    "title": "Chhupana Bhi Nahin Aata - From \"Baazigar- Hindi\"",
+    "artist": "Vinod Rathod",
+    "isrc": "INV119300501"
+  },
+  {
+    "title": "Maine Payal Hai Chhankai",
+    "artist": "Falguni Pathak",
+    "isrc": "INUM70502556"
+  },
+  {
+    "title": "Dil Ne Dil Ko Pukara",
+    "artist": "Babul Supriyo",
+    "isrc": "INH109940030"
+  },
+  {
+    "title": "Neend Churayee Meri",
+    "artist": "Kumar Sanu, Udit Narayan, Alka Yagnik, Kavita Krishnamurthy",
+    "isrc": "INS170000394"
+  },
+  {
+    "title": "O Mere Dil Ke Chain (From \"Mere Jeevan Saathi\")",
+    "artist": "Kishore Kumar",
+    "isrc": "INH109990260"
+  },
+  {
+    "title": "Mileya Mileya",
+    "artist": "Rekha Bhardwaj, Jigar Saraiya, Sachin-Jigar, Priya Saraiya",
+    "isrc": "GBSGZ1502721"
+  },
+  {
+    "title": "Senorita",
+    "artist": "Farhan Akhtar, Hrithik Roshan, Abhay Deol, Maria Del Mar Fernandez",
+    "isrc": "INS181101718"
+  },
+  {
+    "title": "Tum Agar Saath Dene Ka Vada Karo",
+    "artist": "Mahendra Kapoor",
+    "isrc": "INH100050040"
+  },
+  {
+    "title": "Jee Le Zaraa",
+    "artist": "Vishal Dadlani",
+    "isrc": "INS181204499"
+  },
+  {
+    "title": "Khuda Jaane",
+    "artist": "Vishal-Shekhar, KK, Shilpa Rao, Anvita Dutt Guptan",
+    "isrc": "INY090800026"
+  },
+  {
+    "title": "Aaj Ki Raat",
+    "artist": "Alisha Chinai, Mahalakshmi Iyer, Sonu Nigam",
+    "isrc": "INS180602961"
+  },
+  {
+    "title": "Chahun Main Ya Naa (From \"Aashiqui 2\")",
+    "artist": "Palak Muchhal, Arijit Singh",
+    "isrc": "INS181303033"
+  },
+  {
+    "title": "Hookah Bar",
+    "artist": "Himesh Reshammiya, Vineet Singh, Aaman Trikha",
+    "isrc": "INS181204580"
+  },
+  {
+    "title": "Jane Kahan Mera Jigar Gaya Ji",
+    "artist": "Geeta Dutt, Mohammed Rafi",
+    "isrc": "INH109240490"
+  },
+  {
+    "title": "Halka Halka (From \"Fanney Khan\")",
+    "artist": "Sunidhi Chauhan, Divya Kumar, Amit Trivedi",
+    "isrc": "INS181801579"
+  },
+  {
+    "title": "Hoshwalon Ko Khabar Kya",
+    "artist": "Jagjit Singh",
+    "isrc": "INT109900176"
+  },
+  {
+    "title": "Bheegey Hont - From \"Murder\"",
+    "artist": "Kunal Ganjawala, Anu Malik",
+    "isrc": "INH100450020"
+  },
+  {
+    "title": "Shree Hanuman Chalisa",
+    "artist": "Hariharan",
+    "isrc": "INS189210629"
+  },
+  {
+    "title": "Nainowale Ne",
+    "artist": "Neeti Mohan, Sanjay Leela Bhansali, Siddharth - Garima",
+    "isrc": "INS181800100"
+  },
+  {
+    "title": "Believe In Love Theme - Instrumental",
+    "artist": "Rajesh Roshan",
+    "isrc": "INH109940050"
+  },
+  {
+    "title": "Huzur Is Kadar",
+    "artist": "Bhupinder Singh, Suresh Wadkar, R. D. Burman",
+    "isrc": "INH100049560"
+  },
+  {
+    "title": "Meherbaan",
+    "artist": "Shilpa Rao, Ash King, Shekhar Ravjiani",
+    "isrc": "INZ031400143"
+  },
+  {
+    "title": "Saiyyan",
+    "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "isrc": "INS170709140"
+  },
+  {
+    "title": "Rang Lageya",
+    "artist": "Mohit Chauhan, Rochak Kohli",
+    "isrc": "INH102100164"
+  },
+  {
+    "title": "Ye Ishq Hai (From \"Jab We Met\")",
+    "artist": "Shreya Ghoshal",
+    "isrc": "INS180705983"
+  },
+  {
+    "title": "Sar Sukhachi Shravani",
+    "artist": "Abhijeet Sawant, Bela Shende",
+    "isrc": "INV271300021"
+  },
+  {
+    "title": "Wafa Na Raas Aayee Tujhe O Harjaee",
+    "artist": "Nitin Mukesh",
+    "isrc": "INS189510002"
+  },
+  {
+    "title": "Mere Khwabon Mein (From \"Dilwale Dulhania Le Jayenge\")",
+    "artist": "Lata Mangeshkar",
+    "isrc": "INH109537420"
+  },
+  {
+    "title": "Tum Hi Ho",
+    "artist": "Mithoon, Arijit Singh",
+    "isrc": "INS181303031"
+  },
+  {
+    "title": "Piya Aaye Na (From \"Aashiqui 2\")",
+    "artist": "Tulsi Kumar, KK",
+    "isrc": "INS181303036"
+  },
+  {
+    "title": "Sawaar Loon",
+    "artist": "Monali Thakur, Amit Trivedi",
+    "isrc": "INS181303932"
+  },
+  {
+    "title": "Main Shair To Nahin",
+    "artist": "Shailendra Singh, Laxmikant–Pyarelal",
+    "isrc": "INH109637830"
+  },
+  {
+    "title": "Itna Na Mujhse Tu Pyar Badha",
+    "artist": "Talat Mahmood, Lata Mangeshkar",
+    "isrc": "INH109437370"
+  },
+  {
+    "title": "Aasman Ko Chukar",
+    "artist": "Daler Mehndi, Hrishikesh, Neuman, FRANCO, Shazneen Arethna, Samantha, Sunayana, Tapas Relia",
+    "isrc": "INS180707609"
+  },
+  {
+    "title": "Ambarsariya",
+    "artist": "Sona Mohapatra",
+    "isrc": "INS181303807"
+  },
+  {
+    "title": "Right Now Now",
+    "artist": "Wajid, Sunidhi Chauhan, Suzanne D'Mello",
+    "isrc": "INS181200400"
+  },
+  {
+    "title": "Ucha Lamba Kad",
+    "artist": "Anand Raj Anand",
+    "isrc": "INT130700346"
+  },
+  {
+    "title": "Neele Neele Ambar Par - Male Version",
+    "artist": "Kalyanji-Anandji, Kishore Kumar",
+    "isrc": "INS171600310"
+  },
+  {
+    "title": "Kabhi Aar Kabhi Paar",
+    "artist": "Shamshad Begum",
+    "isrc": "INH109243700"
+  },
+  {
+    "title": "O Sanam",
+    "artist": "Lucky Ali",
+    "isrc": "INS171600840"
+  },
+  {
+    "title": "Chand Sifarish",
+    "artist": "Jatin-Lalit, Shaan, Kailash Kher, Prasoon Joshi",
+    "isrc": "INY090600009"
+  },
+  {
+    "title": "Sunn Raha Hai (Male Version)",
+    "artist": "Ankit Tiwari",
+    "isrc": "INS181303032"
+  },
+  {
+    "title": "Chupke Chupke Raat Din Aansoon Bahanayaad Hai",
+    "artist": "Ghulam Ali",
+    "isrc": "INH100374330"
+  },
+  {
+    "title": "Ajj Din Chadheya",
+    "artist": "Rahat Fateh Ali Khan, Pritam",
+    "isrc": "GBSGZ0900022"
+  },
+  {
+    "title": "Hil Hil Pori Hila",
+    "artist": "Usha Mangeshkar, Jaywant Kulkarni",
+    "isrc": "INH100505808"
+  },
+  {
+    "title": "Lat Lag Gayee",
+    "artist": "Benny Dayal, Shalmali Kholgade, Pritam",
+    "isrc": "INT101202571"
+  },
+  {
+    "title": "Tera Naam Liya",
+    "artist": "Manhar Udhas, Anuradha Paudwal, Laxmikant–Pyarelal",
+    "isrc": "INH109236040"
+  },
+  {
+    "title": "Kaun Mera",
+    "artist": "Papon",
+    "isrc": "INS181300030"
+  },
+  {
+    "title": "Iktara",
+    "artist": "Amit Trivedi, Kavita Seth, Amitabh Bhattacharya",
+    "isrc": "INS170900329"
+  },
+  {
+    "title": "Soch Na Sake",
+    "artist": "Amaal Mallik, Arijit Singh, Tulsi Kumar",
+    "isrc": "INS181502125"
+  },
+  {
+    "title": "Bolo Na (From \"12th Fail\")",
+    "artist": "Shantanu Moitra, Shaan, Shreya Ghoshal",
+    "isrc": "INH102314292"
+  },
+  {
+    "title": "O O Jaane Jaana",
+    "artist": "Kamaal Khan",
+    "isrc": "INS189810006"
+  },
+  {
+    "title": "Mere Liye Tum Kaafi Ho (From \"Shubh Mangal Zyada Saavdhan\")",
+    "artist": "Ayushmann Khurrana, Tanishk-Vayu",
+    "isrc": "INS182000319"
+  },
+  {
+    "title": "Ajab Si (From \"Om Shanti Om\")",
+    "artist": "KK",
+    "isrc": "INS180705748"
+  },
+  {
+    "title": "Nazar Na Lag Jaaye (From \"Stree\")",
+    "artist": "Ash King, Sachin-Jigar",
+    "isrc": "INS181801868"
+  },
+  {
+    "title": "Man Baniya",
+    "artist": "Javed Akhtar, Shabana Azmi, Puja Kulkarni, Gurmeet Kaur, Sancharee Saha, Mithila Lad, Meenal Jain, Anagh Banerjee, Bhai Jaswinder Singh, Harpreet",
+    "isrc": "INH101102224"
+  },
+  {
+    "title": "Tumse Milkar Na Jane (Male Version)",
+    "artist": "Shabbir Kumar",
+    "isrc": "INS188510612"
+  },
+  {
+    "title": "Dildaara (Stand By Me)",
+    "artist": "Vishal-Shekhar, Shafqat Amanat Ali, Kumaar",
+    "isrc": "INS181103371"
+  },
+  {
+    "title": "Jab Se Tere Naina",
+    "artist": "Monty Sharma, Shaan",
+    "isrc": "INS170709290"
+  },
+  {
+    "title": "Enakke Enakkaa",
+    "artist": "Unnikrishnan, S.P. Pallavi, Vairamuthu",
+    "isrc": "INN139800544"
+  },
+  {
+    "title": "Yun Zindagi Ki",
+    "artist": "Chitra Singh",
+    "isrc": "INH101003775"
+  },
+  {
+    "title": "Sawan Mein Lag Gayi Aag",
+    "artist": "Mika Singh, Payal Dev, Neha Kakkar, Badshah",
+    "isrc": "INS172002996"
+  },
+  {
+    "title": "Teri Mohabbat Meri Jawani",
+    "artist": "Salma Agha, Mohammed Aziz",
+    "isrc": "INS188910624"
+  },
+  {
+    "title": "O Maahi",
+    "artist": "Pritam, Arijit Singh, Irshad Kamil",
+    "isrc": "INS182303559"
+  },
+  {
+    "title": "Suraj Hua Maddham (From \"Kabhi Khushi Kabhie Gham\")",
+    "artist": "Sandesh Shandilya, Sonu Nigam, Alka Yagnik",
+    "isrc": "INS170100025"
+  },
+  {
+    "title": "Rait Zara Si (From \"Atrangi Re\")",
+    "artist": "A.R. Rahman, Arijit Singh, Shashaa Tirupati",
+    "isrc": "INS182115958"
+  },
+  {
+    "title": "O Podu 1",
+    "artist": "Anuradha Sriram",
+    "isrc": "INS390200038"
+  },
+  {
+    "title": "Tumse Hi Tumse",
+    "artist": "Vishal-Shekhar, Shekhar Ravjiani, Caralisa Monteiro",
+    "isrc": "INS181007760"
+  },
+  {
+    "title": "Dhruva Dhruva",
+    "artist": "Amit Mishra",
+    "isrc": "INA091615311"
+  },
+  {
+    "title": "Mujhe Tum Nazar Se Gira To Rahe Ho",
+    "artist": "Mehdi Hassan",
+    "isrc": "USA560922972"
+  },
+  {
+    "title": "Aaro Nee Aaro - From \"Urumi\"",
+    "artist": "Shweta Mohan, Kaithapram, K. J. Yesudas, Deepak Dev",
+    "isrc": "INM201101683"
+  },
+  {
+    "title": "Ankhiyon Ke Jharokhon Se - Part 1",
+    "artist": "Hemlata",
+    "isrc": "INH109351230"
+  },
+  {
+    "title": "Banjaara (From \"Ek Villain\")",
+    "artist": "Mohammed Irfan",
+    "isrc": "INS181401028"
+  },
+  {
+    "title": "Telephone Mani Pol",
+    "artist": "Harini, Hariharan",
+    "isrc": "FR96X1697769"
+  },
+  {
+    "title": "Anuraagalola (From \"Dhwani\")",
+    "artist": "Naushad, K. J. Yesudas, P. Susheela",
+    "isrc": "SM3202401221"
+  },
+  {
+    "title": "Dil To Pagal Hai",
+    "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+    "isrc": "INY099700001"
+  },
+  {
+    "title": "Kaadhal kaditham (From \"Jodi\")",
+    "artist": "Unni Menon, S. Janaki",
+    "isrc": "INN139900548"
+  },
+  {
+    "title": "Dil Diyan Gallan",
+    "artist": "Atif Aslam",
+    "isrc": "INY091700035"
+  },
+  {
+    "title": "Pachayathilu",
+    "artist": "Sujatha",
+    "isrc": "INS320501387"
+  },
+  {
+    "title": "Kisna Theme 2 - Instrumental",
+    "artist": "Ismail Darbar",
+    "isrc": "INT101402354"
+  },
+  {
+    "title": "Sotta Sotta",
+    "artist": "Srinivas, Vairamuthu",
+    "isrc": "INN139900578"
+  },
+  {
+    "title": "Furqat",
+    "artist": "Neha Bhasin, Sameer Uddin, JUNO",
+    "isrc": "USA2P2423190"
+  },
+  {
+    "title": "High Heels Te Nachche (From \"Ki &amp; Ka\") (feat. Jaz Dhami, Aditi Singh Sharma)",
+    "artist": "Meet Bros., Yo Yo Honey Singh, Jaz Dhami, Aditi Singh Sharma",
+    "isrc": "INS181600313"
+  },
+  {
+    "title": "Bol Do Na Zara",
+    "artist": "Armaan Malik",
+    "isrc": "INS181600615"
+  },
+  {
+    "title": "Ale Ale ( From \" Boys\" )",
+    "artist": "K. S. Chithra, Sivaraman, Karthik",
+    "isrc": "INS280300527"
+  },
+  {
+    "title": "Tera Rang Balle Balle",
+    "artist": "Jaspinder Narula, Sonu Nigam",
+    "isrc": "INT109800041"
+  },
+  {
+    "title": "Aasai Athigam (From \"Marupadiyum\")",
+    "artist": "S. Janaki",
+    "isrc": "FRX201631839"
+  },
+  {
+    "title": "Rang De Chunariya",
+    "artist": "Anup Jalota",
+    "isrc": "USA371426362"
+  },
+  {
+    "title": "Jhoom - R&B Mix",
+    "artist": "Ali Zafar",
+    "isrc": "QZN882212315"
+  },
+  {
+    "title": "Karpoora Bommai",
+    "artist": "P. Susheela",
+    "isrc": "INT522101393"
+  },
+  {
+    "title": "Apna Bana Le",
+    "artist": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya",
+    "isrc": "INZ031411736"
+  },
+  {
+    "title": "Taal Se Taal - Western Version",
+    "artist": "Sukhwinder Singh",
+    "isrc": "INT109900008"
+  },
+  {
+    "title": "Omane",
+    "artist": "Vijay Yesudas, Chinmayi, Rakshita Suresh",
+    "isrc": "FR96X2489197"
+  },
+  {
+    "title": "Unna Vida",
+    "artist": "Kamal Haasan, Shreya Ghoshal",
+    "isrc": "INS390400153"
+  },
+  {
+    "title": "Zara Zara",
+    "artist": "Bombay Jayashri",
+    "isrc": "INH100152390"
+  },
+  {
+    "title": "Rangi Saari",
+    "artist": "Kavita Seth, Kanishk Seth",
+    "isrc": "FR2X42039557"
+  },
+  {
+    "title": "Mann Mera",
+    "artist": "Gajendra Verma",
+    "isrc": "GBSGZ1200069"
+  },
+  {
+    "title": "Pehle to Kabhi Kabhi",
+    "artist": "Altaf Raja",
+    "isrc": "INV110001222"
+  },
+  {
+    "title": "Chittiyaan Kalaiyaan",
+    "artist": "Meet Bros Anjjan, Kanika Kapoor, Kumaar",
+    "isrc": "INS181427579"
+  },
+  {
+    "title": "Muqabala Muqabala",
+    "artist": "Mano, Swarnalatha",
+    "isrc": "INV119500194"
+  },
+  {
+    "title": "Tarari Tarari",
+    "artist": "Suraiya, Mohammed Rafi",
+    "isrc": "INH100362620"
+  },
+  {
+    "title": "Aattama Therottama",
+    "artist": "Swarnalatha",
+    "isrc": "INT522101183"
+  },
+  {
+    "title": "Kanne Kalaimaane",
+    "artist": "K. J. Yesudas",
+    "isrc": "INT522101305"
+  },
+  {
+    "title": "Hangover",
+    "artist": "Salman Khan, Meet Bros Anjjan, Shreya Ghoshal, Kumaar",
+    "isrc": "INS181401386"
+  },
+  {
+    "title": "Adigaa",
+    "artist": "Karthik",
+    "isrc": "INS182303579"
+  },
+  {
+    "title": "Sajni (From \"Laapataa Ladies\")",
+    "artist": "Ram Sampath, Arijit Singh, Prashant Pandey",
+    "isrc": "INS182400369"
+  },
+  {
+    "title": "Arabu Naadu",
+    "artist": "Haricharan, Yuvan Shankar Raja",
+    "isrc": "INH100703647"
+  },
+  {
+    "title": "Lovely",
+    "artist": "Kanika Kapoor, Ravindra Upadhyay, Miraya Varma, Fateh",
+    "isrc": "INS181402152"
+  },
+  {
+    "title": "Titli",
+    "artist": "Vishal-Shekhar, Chinmayi, Gopi Sundar",
+    "isrc": "INS181304488"
+  },
+  {
+    "title": "Kamariya",
+    "artist": "Aastha Gill, Sachin Sanghvi, Jigar Saraiya, Divya Kumar",
+    "isrc": "INS181801821"
+  },
+  {
+    "title": "Dilbar (From \"Satyameva Jayate\")",
+    "artist": "Neha Kakkar, Dhvani Bhanushali, Ikka, Tanishk Bagchi",
+    "isrc": "INS181801563"
+  },
+  {
+    "title": "Humnava Mere",
+    "artist": "Jubin Nautiyal, Manoj Muntashir",
+    "isrc": "INS181801175"
+  },
+  {
+    "title": "Papa Kehte Hain (From \"Srikanth\")",
+    "artist": "Anand-Milind, Udit Narayan, Aditya Dev, Majrooh Sultanpuri",
+    "isrc": "INS182401267"
+  },
+  {
+    "title": "Mujhse Pehli Si Mohabbat",
+    "artist": "Noor Jehan",
+    "isrc": "USA560689812"
+  },
+  {
+    "title": "Fevicol Se",
+    "artist": "Mamta Sharma, Wajid",
+    "isrc": "INS181207219"
+  },
+  {
+    "title": "Kisi Disco Mein Jaaye (From \"Bade Miyan Chote Miyan\") - Jhankar",
+    "artist": "Viju Shah, Alka Yagnik, Udit Narayan",
+    "isrc": "INT102000499"
+  },
+  {
+    "title": "Ve Kamleya - Asees Version",
+    "artist": "Asees Kaur, Pritam",
+    "isrc": "INH102312189"
+  },
+  {
+    "title": "Aajkal Tere Mere Pyar Ke Charche",
+    "artist": "Suman Kalyanpur, Mohammed Rafi",
+    "isrc": "INH109633530"
+  },
+  {
+    "title": "Hamari Adhuri Kahani (Title Track)",
+    "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+    "isrc": "INS171500730"
+  },
+  {
+    "title": "Rasathi Unnai",
+    "artist": "P. Jayachandran",
+    "isrc": "INT522101437"
+  },
+  {
+    "title": "Saiyaara",
+    "artist": "Sohail Sen, Mohit Chauhan, Tarannum Malik Jain, Kausar Munir",
+    "isrc": "INY091200027"
+  },
+  {
+    "title": "Arjunaru Villu",
+    "artist": "Vidyasagar, Kabilan, Sukhwinder Singh, Manikka Vinayagam",
+    "isrc": "IND292206438"
+  },
+  {
+    "title": "Title Music from Merchant Ivory's film BOMBAY TALKIE",
+    "artist": "Shankar Jaikishan",
+    "isrc": "USA170792070"
+  },
+  {
+    "title": "Muthe - From \"Amrutham\"",
+    "artist": "Madhu Balakrishnan, Sujatha",
+    "isrc": "INM200400283"
+  },
+  {
+    "title": "Ghagra (From \"Crew\")",
+    "artist": "Ila Arun, Romy, Srushti Tawade, Bharg, Juno",
+    "isrc": "INT102400926"
+  },
+  {
+    "title": "Satranga (From \"ANIMAL\")",
+    "artist": "Arijit Singh, Shreyas Puranik, Siddharth - Garima",
+    "isrc": "INS182303075"
+  },
+  {
+    "title": "Vettrikkodi Kattu",
+    "artist": "Palakad Sriram, A.R. Rahman, Vairamuthu",
+    "isrc": "INS289900170"
+  },
+  {
+    "title": "Oh Ho Ho Ho (Remix)",
+    "artist": "Sukhbir, Ikka",
+    "isrc": "INS181700709"
+  },
+  {
+    "title": "Bandeya - From \"Dil Juunglee\"",
+    "artist": "Shaarib Toshi, Arijit Singh",
+    "isrc": "INS171800482"
+  },
+  {
+    "title": "Vaaste",
+    "artist": "Dhvani Bhanushali, Nikhil D'Souza, Tanishk Bagchi",
+    "isrc": "INS181900798"
+  },
+  {
+    "title": "Say \"Shava Shava\"",
+    "artist": "Aadesh Shrivastava, Sudesh Bhosle, Alka Yagnik, Sunidhi Chauhan, Amitabh Bachchan, Udit Narayan",
+    "isrc": "INS170100026"
+  },
+  {
+    "title": "Munbe Vaa",
+    "artist": "Naresh Iyer, Shreya Ghoshal, Vaali",
+    "isrc": "INS280600717"
+  },
+  {
+    "title": "Jooma Chumma De De",
+    "artist": "Sudesh Bhosle, Kavita Krishnamurthy, Laxmikant–Pyarelal",
+    "isrc": "INH109238920"
+  },
+  {
+    "title": "Ankhon Hi Ankhon Mein",
+    "artist": "O. P. Nayyar, Jan Nisar Akhtar",
+    "isrc": "INH109240970"
+  },
+  {
+    "title": "Tum Hi Ho Bandhu",
+    "artist": "Neeraj Shridhar, Kavita Seth, Pritam",
+    "isrc": "GBSGZ1200008"
+  },
+  {
+    "title": "Soulmate",
+    "artist": "Badshah, Arijit Singh",
+    "isrc": "INUM72400228"
+  },
+  {
+    "title": "Naseeb Se (From \"Satyaprem Ki Katha\")",
+    "artist": "Payal Dev, Vishal Mishra, A.M. Turaz",
+    "isrc": "INS182301549"
+  },
+  {
+    "title": "Aasaiye Kaathule",
+    "artist": "S. P. Sailaja",
+    "isrc": "INI119430080"
+  },
+  {
+    "title": "Sun Saathiya",
+    "artist": "Divya Kumar, Priya Saraiya",
+    "isrc": "INZ031400628"
+  },
+  {
+    "title": "Zindagi Jab Bhi",
+    "artist": "Talat Aziz",
+    "isrc": "INH109339540"
+  },
+  {
+    "title": "Monta Re",
+    "artist": "Swanand Kirkire, Amitabh Bhattacharya, Amit Trivedi",
+    "isrc": "INS181303935"
+  },
+  {
+    "title": "Kahan Ho Tum",
+    "artist": "Bombay Vikings",
+    "isrc": "INUM70503425"
+  },
+  {
+    "title": "Ava Enna",
+    "artist": "Harris Jayaraj, Karthik, VV Prassanna",
+    "isrc": "INS170816335"
+  },
+  {
+    "title": "Lajjavathiye",
+    "artist": "Jassie Gift, Palani Bharathi",
+    "isrc": "INN130400101"
+  },
+  {
+    "title": "Ichu Ichu",
+    "artist": "Vijay Antony, Sangeetha Rajeshwaran",
+    "isrc": "INT201100311"
+  },
+  {
+    "title": "Hey Ya !",
+    "artist": "Clinton Cerejo, Shankar Mahadevan, Loy Mendonsa",
+    "isrc": "INS180907642"
+  },
+  {
+    "title": "Desi Kalakaar",
+    "artist": "Yo Yo Honey Singh",
+    "isrc": "INS181402052"
+  },
+  {
+    "title": "Coca Cola (From \"Luka Chuppi\")",
+    "artist": "Tony Kakkar, Neha Kakkar, Young Desi, Tanishk Bagchi",
+    "isrc": "INS181900274"
+  },
+  {
+    "title": "Kaattumalli",
+    "artist": "Ilaiyaraaja, Ananya Bhat",
+    "isrc": "INS172301045"
+  },
+  {
+    "title": "Nachi Jo Sade Naal",
+    "artist": "Hans Raj Hans",
+    "isrc": "QMBZ91703460"
+  },
+  {
+    "title": "Thamaranoolinal",
+    "artist": "G Venugopal, Gayatri Asokan",
+    "isrc": "INS320300794"
+  },
+  {
+    "title": "Toh Phir Aao",
+    "artist": "Mustafa Zahid",
+    "isrc": "INW262200034"
+  },
+  {
+    "title": "Kabhi Kabhi Aditi",
+    "artist": "Rashid Ali",
+    "isrc": "INS180804909"
+  },
+  {
+    "title": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
+    "artist": "Dhanush, Anirudh Ravichander",
+    "isrc": "QMBZ92277073"
+  },
+  {
+    "title": "Mere Rang Mein Rangne Wali",
+    "artist": "S. P. Balasubrahmanyam",
+    "isrc": "INH109440770"
+  },
+  {
+    "title": "Bing Bhi Piladi",
+    "artist": "Raj Kapoor",
+    "isrc": "INS232015305"
+  },
+  {
+    "title": "Oliyile Therivadhu",
+    "artist": "Bhavatharini, Karthik",
+    "isrc": "INM300100030"
+  },
+  {
+    "title": "Aattinkarayorathe - From \"Rasathanthram\"",
+    "artist": "Manjari",
+    "isrc": "INM200700135"
+  },
+  {
+    "title": "Raataan Lambiyan (From \"Shershaah\")",
+    "artist": "Tanishk Bagchi, Jubin Nautiyal, Asees Kaur",
+    "isrc": "INS172102667"
+  },
+  {
+    "title": "Hum Tumhen Chahte Hain - From \"Qurbani\"",
+    "artist": "Kanchan, Manhar, Anand",
+    "isrc": "INP100300041"
+  },
+  {
+    "title": "Mar Jawaan",
+    "artist": "Shruti Pathak, Salim Merchant",
+    "isrc": "INS180808433"
+  },
+  {
+    "title": "Mahiye Jinna Sohna",
+    "artist": "Darshan Raval",
+    "isrc": "INW262317735"
+  },
+  {
+    "title": "Tu Kaun Kahan Se Aayi Hai",
+    "artist": "Usha Khanna, Udit Narayan",
+    "isrc": "INS170300012"
+  },
+  {
+    "title": "Kadhal Sadugudu",
+    "artist": "S.P. Charan",
+    "isrc": "INH100219290"
+  },
+  {
+    "title": "Mohabbat Se Zyada",
+    "artist": "Nadeem Shravan, Monica Nath",
+    "isrc": "INS170400046"
+  },
+  {
+    "title": "Moon Rise",
+    "artist": "Guru Randhawa, Sanjoy",
+    "isrc": "INS182202831"
+  },
+  {
+    "title": "Tere Bin",
+    "artist": "Rabbi Shergill",
+    "isrc": "INO222200003"
+  },
+  {
+    "title": "Gham Diya Mustaquil",
+    "artist": "K. L. Saigal",
+    "isrc": "INH119400070"
+  },
+  {
+    "title": "Maze Maaher Pandhari - Pandit Bhimsen Joshi",
+    "artist": "Bhimsen Joshi",
+    "isrc": "INH100339310"
+  },
+  {
+    "title": "Ilzaam (From the Album 'Industry')",
+    "artist": "Arjun Kanungo, King",
+    "isrc": "FR2X42294415"
+  },
+  {
+    "title": "Kab Yaad Mein Tera Saath Nahin - Khaiyyam And Jagjit Kaur",
+    "artist": "Khayyam, Jagjit Kaur",
+    "isrc": "INH100443760"
+  },
+  {
+    "title": "Unakku Thaan - From \"Chithha\"",
+    "artist": "Santhosh Narayanan, Dhvani Kailas, Vivek",
+    "isrc": "INT202303848"
+  },
+  {
+    "title": "Offo",
+    "artist": "Aditi Singh Sharma, Amitabh Bhattacharya",
+    "isrc": "INS181400556"
+  },
+  {
+    "title": "Makhna - From \"Drive\"",
+    "artist": "Yasser Desai, Tanishk Bagchi, Asees Kaur",
+    "isrc": "INZ031406231"
+  },
+  {
+    "title": "Mere Rashke Qamar",
+    "artist": "Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan, Tanishk Bagchi, A1 Melody Master-Fana, Manoj Muntashir",
+    "isrc": "INS181701288"
+  },
+  {
+    "title": "Venmathiye",
+    "artist": "Tippu, AJX",
+    "isrc": "INH100081080"
+  },
+  {
+    "title": "Aika Dajiba",
+    "artist": "Vaishali Samant",
+    "isrc": "INS100200246"
+  },
+  {
+    "title": "Iski Uski",
+    "artist": "Akriti Kakar, Shahid Mallya",
+    "isrc": "INS181400604"
+  },
+  {
+    "title": "Ithale Nee",
+    "artist": "Najim Arshad",
+    "isrc": "INS182303597"
+  },
+  {
+    "title": "Etho Raathrimazha - Recreated Version",
+    "artist": "Rimi Tomy",
+    "isrc": "FRX872161167"
+  },
+  {
+    "title": "Kandaangi Kandaangi",
+    "artist": "Vijay, Shreya Ghoshal",
+    "isrc": "INS281300931"
+  },
+  {
+    "title": "Yaen Ennai Pirindhaai - Tamil",
+    "artist": "Sid Sriram, Radhan",
+    "isrc": "INA091916625"
+  },
+  {
+    "title": "Idhedho Bagundhe",
+    "artist": "Vijay Prakash, Anitha Karthikeyan",
+    "isrc": "INA091213855"
+  },
+  {
+    "title": "Seena Thana",
+    "artist": "Grace, Bharadwaj, Vairamuthu",
+    "isrc": "IND292205882"
+  },
+  {
+    "title": "Imaye Imaye",
+    "artist": "G. V. Prakash, Shakthisree Gopalan",
+    "isrc": "INT201300497"
+  },
+  {
+    "title": "Nee Mukilo - From \"Uyare\"",
+    "artist": "Gopi Sundar, Vijay Yesudas, Sithara Krishnakumar",
+    "isrc": "INM201910132"
+  },
+  {
+    "title": "Duur",
+    "artist": "Strings",
+    "isrc": "USCGJ1654964"
+  },
+  {
+    "title": "Ente Mavum Poothe",
+    "artist": "Vineeth Sreenivasan, Arun Alat, Shaan Rahman, Rzee",
+    "isrc": "INM201502759"
+  },
+  {
+    "title": "Malang Sajna",
+    "artist": "Sachet Tandon, Parampara Tandon, Kumaar, Sachet-Parampara",
+    "isrc": "INS182203702"
+  },
+  {
+    "title": "Enkeyoo Partha",
+    "artist": "Yuvan Shankar Raja, Udit Narayan",
+    "isrc": "INS171100436"
+  },
+  {
+    "title": "Dholna - From \"Pyar Ke Geet\"",
+    "artist": "Shubha Mudgal, Sukhwinder Singh",
+    "isrc": "INR329900002"
+  },
+  {
+    "title": "Vaseegara And Zara Zara Mashup",
+    "artist": "Jonita Gandhi",
+    "isrc": "INH102001263"
+  },
+  {
+    "title": "Heeriye (feat. Arijit Singh)",
+    "artist": "Jasleen Royal, Arijit Singh, Dulquer Salmaan",
+    "isrc": "INW262317690"
+  },
+  {
+    "title": "Chaleya",
+    "artist": "Anirudh Ravichander, Arijit Singh, Shilpa Rao, Kumaar",
+    "isrc": "INS182302348"
+  },
+  {
+    "title": "Dooba Dooba",
+    "artist": "Silk Route",
+    "isrc": "INS171600822"
+  },
+  {
+    "title": "Velmuruka",
+    "artist": "M. G. Sreekumar",
+    "isrc": "INM200700034"
+  },
+  {
+    "title": "Kya Loge Tum",
+    "artist": "B Praak, Jaani",
+    "isrc": "INUM72300286"
+  },
+  {
+    "title": "Melliname",
+    "artist": "Harish Raghavendra",
+    "isrc": "INS280100370"
+  },
+  {
+    "title": "Sa Ni Dha Pa",
+    "artist": "Colonial Cousins",
+    "isrc": "INM129600412"
+  },
+  {
+    "title": "Oo Solriya Oo Oo Solriya (From \"Pushpa - The Rise\")(Tamil)",
+    "artist": "Devi Sri Prasad, Andrea Jeremiah, Viveka",
+    "isrc": "INA092117887"
+  },
+  {
+    "title": "Nazm Nazm",
+    "artist": "Arko",
+    "isrc": "INZ031402593"
+  },
+  {
+    "title": "Ullam Uruguthaiyya",
+    "artist": "T. M. Soundararajan",
+    "isrc": "INH100604869"
+  },
+  {
+    "title": "Mera Dil Bhi Kitna Pagal Hai - Recreated Version",
+    "artist": "Stebin Ben",
+    "isrc": "INV111801700"
+  },
+  {
+    "title": "Pirai Thedum",
+    "artist": "Saindhavi, G. V. Prakash",
+    "isrc": "INS902000028"
+  },
+  {
+    "title": "Kattu Kattu",
+    "artist": "Manikka Vinayagam, Sumangaly",
+    "isrc": "INS280400564"
+  },
+  {
+    "title": "Suttum Vizhi",
+    "artist": "Sriram Parthasarathy, Bombay Jayashri",
+    "isrc": "INM300500155"
+  },
+  {
+    "title": "Kaalangalil Aval Vasantham",
+    "artist": "P. B. Srinivas",
+    "isrc": "INH100072430"
+  },
+  {
+    "title": "Ishq de Fanniyar - Female Version",
+    "artist": "Jyotica Tangri, Kumaar",
+    "isrc": "INZ031403009"
+  },
+  {
+    "title": "She Don't Know (From \"Blessed\")",
+    "artist": "Millind Gaba",
+    "isrc": "INS181900027"
+  },
+  {
+    "title": "Chikni Chameli",
+    "artist": "Ajay-Atul, Shreya Ghoshal",
+    "isrc": "INS171101346"
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "artist": "Vishal Mishra, Raj Shekhar",
+    "isrc": "INS182303389"
+  },
+  {
+    "title": "Akkad Bakkad",
+    "artist": "Sonu Kakkar",
+    "isrc": "INA090710976"
+  },
+  {
+    "title": "Enakkoru Snehidhi",
+    "artist": "S.A. Rajkumar, Hariharan, Mahalakshmi Iyer",
+    "isrc": "INM120000661"
+  },
+  {
+    "title": "Bijlee Bijlee",
+    "artist": "Harrdy Sandhu",
+    "isrc": "INUM72100076"
+  },
+  {
+    "title": "Yaar Azhaippadhu",
+    "artist": "Ghibran, Sid Sriram",
+    "isrc": "INT202002449"
+  },
+  {
+    "title": "Naane Naana",
+    "artist": "Vani Jairam",
+    "isrc": "INI119430550"
+  },
+  {
+    "title": "Poondamalli",
+    "artist": "L. R. Eswari, Solar Sai, Arun Vijay",
+    "isrc": "INH101201136"
+  },
+  {
+    "title": "Aaj Jane Ki Zid Na Karo - Coke Studio Season 8",
+    "artist": "Farida Khanum",
+    "isrc": "USHM21573486"
+  },
+  {
+    "title": "Pehli Baar",
+    "artist": "Sukriti Kakar, Siddharth Mahadevan",
+    "isrc": "INS181500716"
+  },
+  {
+    "title": "Enjoy Enjaami",
+    "artist": "Dhee, Arivu, Santhosh Narayanan",
+    "isrc": "TCAFK2171359"
+  },
+  {
+    "title": "Bandeh",
+    "artist": "Indian Ocean",
+    "isrc": "USA560538712"
+  },
+  {
+    "title": "Devadoothar Paadi - From \"Nna Thaan Case Kodu\"",
+    "artist": "Biju Narayanan, Ouseppachan",
+    "isrc": "INM252231803"
+  },
+  {
+    "title": "Naughty Naughty",
+    "artist": "Vishal-Shekhar, Anushka Manchanda",
+    "isrc": "INS180907914"
+  },
+  {
+    "title": "Ram Siya Ram (From \"Adipurush\")",
+    "artist": "Sachet-Parampara, Sachet Tandon, Parampara Tandon, Manoj Muntashir",
+    "isrc": "INS182301552"
+  },
+  {
+    "title": "Vaaya Veera",
+    "artist": "Shakthisree Gopalan, Leon James",
+    "isrc": "INS391500002"
+  },
+  {
+    "title": "Adayein Bhi Hain Mohabbat Bhi Hai",
+    "artist": "Super Cassettes Industries Private Limited",
+    "isrc": "INS189121256"
+  },
+  {
+    "title": "Thee Thalapathy (From \"Varisu\")",
+    "artist": "Silambarasan TR, Thaman S",
+    "isrc": "INS182203682"
+  },
+  {
+    "title": "Kaathil Thenmazhayaay (Female)",
+    "artist": "Salil Chowdhury, O. N. V. Kurup, K. S. Chithra",
+    "isrc": "AEA0E9208206"
+  },
+  {
+    "title": "Madhanya",
+    "artist": "Rahul Vaidya, Asees Kaur, Lijo George-Dj Chetas",
+    "isrc": "FR59R2188486"
+  },
+  {
+    "title": "Naina (From \"Crew\")",
+    "artist": "Diljit Dosanjh, Badshah, Raj Ranjodh",
+    "isrc": "INT102400827"
+  },
+  {
+    "title": "Wow Song - Ponnin Kanikkonna",
+    "artist": "Sithara Krishnakumar",
+    "isrc": "INS321704992"
+  },
+  {
+    "title": "Vasantha Mullai (From \"Pokkiri\")",
+    "artist": "Rahul Nambiar, Krishnamurthy",
+    "isrc": "INF040700851"
+  },
+  {
+    "title": "Channe Ke Khet Mein",
+    "artist": "Poornima",
+    "isrc": "INT109900139"
+  },
+  {
+    "title": "Ae Mohabbat Tere Anjam Pe",
+    "artist": "Begum Akhtar",
+    "isrc": "PKA062329099"
+  },
+  {
+    "title": "Gili Giligas",
+    "artist": "Devan Ekambaram, Andrea Jeremiah",
+    "isrc": "INA090610774"
+  },
+  {
+    "title": "Yaanji - From \"Vikram Vedha\"",
+    "artist": "Sam C.S., Anirudh Ravichander, Shakthisree Gopalan",
+    "isrc": "INT201701434"
+  },
+  {
+    "title": "Veyil Chilla",
+    "artist": "Jyotsna Radhakrishnan, Vishnu",
+    "isrc": "INM811457705"
+  },
+  {
+    "title": "Mujhko Peena Hain",
+    "artist": "Mohammed Aziz",
+    "isrc": "INS939301004"
+  },
+  {
+    "title": "Saayaali",
+    "artist": "Sathyaprakash, Chinmayi",
+    "isrc": "INS171807055"
+  },
+  {
+    "title": "Pottu Thakku",
+    "artist": "Srikanth Deva, Silambarasan, Roshini, Vaali",
+    "isrc": "IND291600793"
+  },
+  {
+    "title": "Badri Ki Dulhania (Title Track) [From \"Badrinath Ki Dulhania\"]",
+    "artist": "Dev Negi, Neha Kakkar, Monali Thakur, Ikka",
+    "isrc": "INS181700208"
+  },
+  {
+    "title": "Mujhko Apne Gale Laga Lo",
+    "artist": "Mubarak Begum, Mohammed Rafi",
+    "isrc": "INH109240550"
+  },
+  {
+    "title": "Ambadi Thannilorunni",
+    "artist": "P. Madhuri, Vayalar",
+    "isrc": "INH100303430"
+  },
+  {
+    "title": "Meri Madhubala",
+    "artist": "Avadhoot Gupte",
+    "isrc": "INS100400055"
+  },
+  {
+    "title": "Kodi Aruvi",
+    "artist": "Sean Roldan, Pradeep Kumar, Nithyashree Venkataramanan",
+    "isrc": "INT201801929"
+  },
+  {
+    "title": "Lahu Munh Lag Gaya",
+    "artist": "Shail Hada, Siddharth - Garima",
+    "isrc": "GBSGZ1300115"
+  },
+  {
+    "title": "Kabhi Na Kabhi",
+    "artist": "Aditya Narayan",
+    "isrc": "INS181000413"
+  },
+  {
+    "title": "Aap Jaisa Koi - From \"Qurbani\"",
+    "artist": "Nazia Hassan, Feroz Khan",
+    "isrc": "INUM70500478"
+  },
+  {
+    "title": "Tera Ban Jaunga (From \"Kabir Singh\")",
+    "artist": "Akhil Sachdeva, Tulsi Kumar",
+    "isrc": "INS181903758"
+  },
+  {
+    "title": "Water Girl",
+    "artist": "Zakir Hussain",
+    "isrc": "DEB338634903"
+  },
+  {
+    "title": "O Yaara We",
+    "artist": "Ram Shankar",
+    "isrc": "INV110000665"
+  },
+  {
+    "title": "Rabba (Lounge Mix)",
+    "artist": "Vishal-Shekhar, Richa Sharma",
+    "isrc": "INS180461135"
+  },
+  {
+    "title": "Aisi Raaton",
+    "artist": "Anupam Roy",
+    "isrc": "FRX202018801"
+  },
+  {
+    "title": "Chamma Chamma Baaje Re - Sapna Awasthi & Anu Malik Version",
+    "artist": "Sapna Awasthi, Anu Malik",
+    "isrc": "INT109800076"
+  },
+  {
+    "title": "Bhairavi",
+    "artist": "Amjad Ali Khan",
+    "isrc": "USA560856289"
+  },
+  {
+    "title": "Uljhi Hai Yeh Kis Jaal Mein Tu - Humko Aajkal Hai Intezaar",
+    "artist": "Anupama",
+    "isrc": "INH100253750"
+  },
+  {
+    "title": "Najariya Ki Mari",
+    "artist": "Rajkumari",
+    "isrc": "INH100253030"
+  },
+  {
+    "title": "Pardesi",
+    "artist": "Tochi Raina, Shellee, Amit Trivedi",
+    "isrc": "INS180810472"
+  },
+  {
+    "title": "Tu Mane Ya Na Mane",
+    "artist": "Wadali Brothers",
+    "isrc": "ATR981195471"
+  },
+  {
+    "title": "Chori Chori Dil Le Gaya (From \"Garam Masala\")",
+    "artist": "Hema Sardesai, Sukhwinder Singh",
+    "isrc": "INV110500480"
+  },
+  {
+    "title": "Vallabha Vallabha",
+    "artist": "Tanvi Shah",
+    "isrc": "INA090610729"
+  },
+  {
+    "title": "En Veetula - From \"Idharkuthaane Aasaipattai Balakumara\"",
+    "artist": "Gana Bala",
+    "isrc": "INT201500992"
+  },
+  {
+    "title": "Yeh Jism",
+    "artist": "Ali Azmat",
+    "isrc": "INS181202151"
+  },
+  {
+    "title": "Maaeri",
+    "artist": "Palash Sen, Euphoria",
+    "isrc": "INU252102358"
+  },
+  {
+    "title": "Railin Oligal - From \"Blue Star\"",
+    "artist": "Govind Vasantha, Pradeep Kumar, Shakthisree Gopalan",
+    "isrc": "INT202303777"
+  },
+  {
+    "title": "Chaap Tilak",
+    "artist": "Abida Parveen, Rahat Fateh Ali Khan",
+    "isrc": "QMEU31414330"
+  },
+  {
+    "title": "Aye Khuda",
+    "artist": "Salim Merchant",
+    "isrc": "INS181005536"
+  },
+  {
+    "title": "Do Naina Aur Ek Kahani",
+    "artist": "Aarti Mukherji, R. D. Burman",
+    "isrc": "INH100252660"
+  },
+  {
+    "title": "Jingunamani",
+    "artist": "Ranjith Govind, Sunidhi Chauhan",
+    "isrc": "INS281300930"
+  },
+  {
+    "title": "Lambi Judaai",
+    "artist": "Reshma, Laxmikant–Pyarelal",
+    "isrc": "INH100363790"
+  },
+  {
+    "title": "Tagaru Banthu Tagaru",
+    "artist": "DR. V. Nagendra Prasad, Anthony Daasan, Charanraj MR",
+    "isrc": "IND291705794"
+  },
+  {
+    "title": "Idhar Zindagi Ka",
+    "artist": "Munni Begum",
+    "isrc": "FR2X41973847"
+  },
+  {
+    "title": "Innisai - Remix",
+    "artist": "Mahathi, Saindhavi",
+    "isrc": "INS280600695"
+  },
+  {
+    "title": "Kathadikkuthu Kathadikkuthu",
+    "artist": "Deva, Sabesh, Krishnaraj",
+    "isrc": "INS2Y1700320"
+  },
+  {
+    "title": "Pottadhu Pathala",
+    "artist": "Velmurugan",
+    "isrc": "INS902000075"
+  },
+  {
+    "title": "Ami Cheye Cheye Dekhi",
+    "artist": "Shyamal Mitra",
+    "isrc": "INH100020260"
+  },
+  {
+    "title": "Jal Jal Jal Oosai - Soundtrack Version",
+    "artist": "Aalaap Raju, Surmukhi Raman",
+    "isrc": "INUM71200179"
+  },
+  {
+    "title": "Shakalakka Baby ( From \"Mudhalvan\")",
+    "artist": "Vasundhara Das, Pravin Mani",
+    "isrc": "INF049900249"
+  },
+  {
+    "title": "Paathiravaayi Neram",
+    "artist": "Minmini",
+    "isrc": "INW159300348"
+  },
+  {
+    "title": "Soja Zara",
+    "artist": "Madhushree, Manoj Muntashir",
+    "isrc": "INZ031402245"
+  },
+  {
+    "title": "Give Me Some Sunshine",
+    "artist": "Suraj Jagan, Sharman Joshi",
+    "isrc": "INZ031408965"
+  },
+  {
+    "title": "Tajaa Samachara - Female",
+    "artist": "Vandana Srinivasan",
+    "isrc": "INM6G1800139"
+  },
+  {
+    "title": "Nee Manimukilaadakal",
+    "artist": "P. Jayachandran, Alphons Joseph, Kaithapram",
+    "isrc": "IND292205318"
+  },
+  {
+    "title": "Vanga Machan Vanga (From \"Vantha Rajavathaan Varuven\")",
+    "artist": "P. Leela, Kaushik Krish, Hiphop Tamizha",
+    "isrc": "INH101900070"
+  },
+  {
+    "title": "Aro Kichhu Khan Na Hoy Rahite Kachhe (Mono)",
+    "artist": "Sandhya Mukherjee",
+    "isrc": "INH101200345"
+  },
+  {
+    "title": "Nenani Neevani",
+    "artist": "Shweta Pandit",
+    "isrc": "INA090811576"
+  },
+  {
+    "title": "Kaadhal Oru Kattukkadhai",
+    "artist": "SUVI, Rita, Yuvan Shankar Raja, Na.Muthukumar",
+    "isrc": "IND291601131"
+  },
+  {
+    "title": "Kaa...Karuppanukkum",
+    "artist": "Pop Shalini",
+    "isrc": "INS170800148"
+  },
+  {
+    "title": "Dreamum Wakeupum",
+    "artist": "Sowmya Raoh, Amit Trivedi",
+    "isrc": "INS181204073"
+  },
+  {
+    "title": "Dilli - 6",
+    "artist": "Blaaze, Benny Dayal, Viviane, Tanvi Shah, Claire, A.R. Rahman",
+    "isrc": "INS180900092"
+  },
+  {
+    "title": "Silir Silir Silirkkuthadi",
+    "artist": "Srilekha Parthasarathy",
+    "isrc": "INH100702351"
+  },
+  {
+    "title": "Paisa Paisa",
+    "artist": "Suzanne D'Mello, Humza, Pritam",
+    "isrc": "INT100600078"
+  },
+  {
+    "title": "Varam Nan Unai",
+    "artist": "Nithyasree Mahadevan",
+    "isrc": "INA090510067"
+  },
+  {
+    "title": "Nee Kalle Diwali (From \"Gaalodu\")",
+    "artist": "Shahid Mallya, Bheems Ceciroleo",
+    "isrc": "INT132200604"
+  },
+  {
+    "title": "Challa - Spotify Singles",
+    "artist": "Gurdas Maan, Diljit Dosanjh, Ikky",
+    "isrc": "INW262300319"
+  },
+  {
+    "title": "Dil Hoom Hoom Kare - Female Version",
+    "artist": "Bhupen Hazarika, Lata Mangeshkar",
+    "isrc": "INS171570450"
+  },
+  {
+    "title": "Oosupodu",
+    "artist": "Hemachandra Vedala",
+    "isrc": "INA091715507"
+  },
+  {
+    "title": "Maalai Saatrinaal",
+    "artist": "Traditional, Charulatha Mani",
+    "isrc": "ING110238404"
+  },
+  {
+    "title": "Jaya Jaya Japyajaye",
+    "artist": "Pankaj Mullick",
+    "isrc": "INH100615213"
+  },
+  {
+    "title": "Aga Bai",
+    "artist": "Shalmali Kholgade, Monali Thakur, Amit Trivedi",
+    "isrc": "INS181204075"
+  },
+  {
+    "title": "Bad Boyz",
+    "artist": "Priya Hemesh, Geetha Madhuri",
+    "isrc": "INA091113233"
+  },
+  {
+    "title": "Jumme Ki Raat",
+    "artist": "Aaman Trikha",
+    "isrc": "INS181402016"
+  },
+  {
+    "title": "Baarish",
+    "artist": "Shashaa Tirupati, Ash King",
+    "isrc": "INZ031402270"
+  },
+  {
+    "title": "Sui Tapak",
+    "artist": "V. Harikrishna, Sowmya Raoh, Pavan Wadeyar, Krishna Iyer",
+    "isrc": "IND311400024"
+  },
+  {
+    "title": "Evarulerani",
+    "artist": "Malavika",
+    "isrc": "INA090912315"
+  },
+  {
+    "title": "Benche Thakar Gaan",
+    "artist": "Rupam Islam, Anupam Roy",
+    "isrc": "INS2X1000037"
+  },
+  {
+    "title": "Telisiney Na Nuvvey - Telugu",
+    "artist": "L. V. Revanth, Radhan",
+    "isrc": "INA091715461"
+  },
+  {
+    "title": "Sooraj Ki Baahon Mein",
+    "artist": "Dominique Cerejo, Clinton Cerejo, Loy Mendonsa",
+    "isrc": "INS181101720"
+  },
+  {
+    "title": "Happy Birthday - From \"Naan Sirithal\"",
+    "artist": "Diwakar, Gana Balachandar, Hiphop Tamizha",
+    "isrc": "INT202002142"
+  },
+  {
+    "title": "Tum Todo Na (Female)",
+    "artist": "Bela Shende, Ash King",
+    "isrc": "INS181427610"
+  },
+  {
+    "title": "Nee Tholisariga",
+    "artist": "Usha",
+    "isrc": "INA090931906"
+  },
+  {
+    "title": "Mora Vinara",
+    "artist": "Priyadarshini",
+    "isrc": "INA091112815"
+  },
+  {
+    "title": "Minnudhu Minnudhu",
+    "artist": "Deepa Miriam",
+    "isrc": "INM811455399"
+  },
+  {
+    "title": "Devaru Bareda (from \"Neelakanta\")",
+    "artist": "Nanditha, S. P. Balasubrahmanyam",
+    "isrc": "INM401100753"
+  },
+  {
+    "title": "Door Hato Ae Duniyawalo",
+    "artist": "Amirbai Karnataki",
+    "isrc": "INH109442540"
+  },
+  {
+    "title": "Tan Jale Man Jalta Rahe",
+    "artist": "Dwijen Mukherjee, Salil Chowdhury",
+    "isrc": "INH109637180"
+  },
+  {
+    "title": "Hud Hud",
+    "artist": "Shabab Sabri, Divya Kumar, Sajid",
+    "isrc": "INS181905291"
+  },
+  {
+    "title": "Kuru Kuru",
+    "artist": "Sundar Narayana Rao",
+    "isrc": "INH101300483"
+  },
+  {
+    "title": "Mera Intkam Dekhegi",
+    "artist": "Krishna Beuraa",
+    "isrc": "INZ031402914"
+  },
+  {
+    "title": "Bisilu Kudureyondu",
+    "artist": "Rajesh Krishnan, Yogaraj Bhat",
+    "isrc": "IND311300023"
+  },
+  {
+    "title": "I Love You Jeeva Hoovagide",
+    "artist": "Rajkumar, S. Janaki",
+    "isrc": "INM158000474"
+  },
+  {
+    "title": "Mummy Returns",
+    "artist": "Sravana Bhargavi",
+    "isrc": "INA091615141"
+  },
+  {
+    "title": "Appa I Love You - From \"Chowka\"",
+    "artist": "Anuradha Bhat",
+    "isrc": "INA441600295"
+  },
+  {
+    "title": "Ya Nabi Salam Alaika",
+    "artist": "A. R. Reihana, Emil Mohammed, Zia Ul Haq, Jubair Muhammed, Abid Anwar, Raazi Mustafa",
+    "isrc": "INA982000488"
+  },
+  {
+    "title": "Saiyanji Baiyan Chhudake",
+    "artist": "Gayatri Iyer, Sneha Pant, Meghna Oberoi",
+    "isrc": "INS180461177"
+  },
+  {
+    "title": "Kya Hua Tera Vada",
+    "artist": "Sushma Shrestha, Mohammed Rafi, R. D. Burman",
+    "isrc": "INH109534740"
+  },
+  {
+    "title": "Jilka Jilkare",
+    "artist": "Indu Nagaraj",
+    "isrc": "INA441700256"
+  },
+  {
+    "title": "Mausam Mausam Lovely Mausam",
+    "artist": "Anwar Hussain, Sulakshana Pandit",
+    "isrc": "INH109938210"
+  },
+  {
+    "title": "Pal Mein Hi",
+    "artist": "Soham Chakraborty, Shreya Ghoshal",
+    "isrc": "INS180907332"
+  },
+  {
+    "title": "Ambalele Thambulele",
+    "artist": "B. R. Chaya, Shankar Shanbhag",
+    "isrc": "INA801600517"
+  },
+  {
+    "title": "Nazar Phero Na Humse",
+    "artist": "G. M. Durrani, Shamshad Begum",
+    "isrc": "INH100050850"
+  },
+  {
+    "title": "Chiragengu - Male Version",
+    "artist": "Alka Ajith",
+    "isrc": "INS321103916"
+  },
+  {
+    "title": "Mukto Karo Ma Muktakeshi",
+    "artist": "Dhananjay Bhattacharya",
+    "isrc": "INH100413140"
+  },
+  {
+    "title": "Yaare Nee Devatheya (From \"Ambari\")",
+    "artist": "Chetan Sosca",
+    "isrc": "INA311600029"
+  },
+  {
+    "title": "Zara Naino Se Naina",
+    "artist": "Kanan Devi",
+    "isrc": "INI111324242"
+  },
+  {
+    "title": "Aayiram Malargale (From \"Niram Maratha Pookkal\")",
+    "artist": "Jency Anthony, S. P. Sailaja, Malaysia Vasudevan",
+    "isrc": "INH100066370"
+  },
+  {
+    "title": "Pakado Pakado",
+    "artist": "Malgudi Subha, Devi Sri Prasad",
+    "isrc": "INA091213453"
+  },
+  {
+    "title": "Panchadaara",
+    "artist": "Anuj Gurwara, Rita Thyagarajan",
+    "isrc": "INA090912210"
+  },
+  {
+    "title": "Kahe Toh Se Sajna",
+    "artist": "Sharda Sinha",
+    "isrc": "INH100152980"
+  },
+  {
+    "title": "Gunturu Gunturu - From \"Arjun\"",
+    "artist": "Chaitra H. G., Jassie Gift, Tippu",
+    "isrc": "INA440800106"
+  },
+  {
+    "title": "Akhiyan Udeek Diyan",
+    "artist": "Master Saleem",
+    "isrc": "INS182101538"
+  },
+  {
+    "title": "Figure Dekha Ke - From \"Dattak Putra\"",
+    "artist": "Mohan Rathore, Aarohi Bhardwaj, Azad Singh",
+    "isrc": "INW132418054"
+  },
+  {
+    "title": "Khilli Re",
+    "artist": "Reena Bhardwaj",
+    "isrc": "INS181005804"
+  },
+  {
+    "title": "Mutyalamma",
+    "artist": "Prashanthini, Mohan Krishna, A. Clement",
+    "isrc": "INS920900773"
+  },
+  {
+    "title": "Jiya Jiya Ho Bihar Ke Lala",
+    "artist": "Mohan Rathod",
+    "isrc": "INW131614226"
+  },
+  {
+    "title": "Oyaa Oyaa",
+    "artist": "Kalpana Raghavendar",
+    "isrc": "INT201601257"
+  },
+  {
+    "title": "Mujhko Akela Chhod Diya",
+    "artist": "Damodar Raao",
+    "isrc": "USDCH1032445"
+  },
+  {
+    "title": "Ennakkaruppin Ezhazhaku Ente Kanmanikko Nirayazhaku",
+    "artist": "Pradip Somasundaran, Balabhaskar, East Coast Vijayan",
+    "isrc": "INE130300397"
+  },
+  {
+    "title": "Abhi Na Jao Chhod Kar",
+    "artist": "Asha Bhosle, Mohammed Rafi",
+    "isrc": "INH109241020"
+  },
+  {
+    "title": "Ooh La La",
+    "artist": "Vishal-Shekhar, Bappi Lahiri, Shreya Ghoshal",
+    "isrc": "INS181103851"
+  },
+  {
+    "title": "Agar Tum Na Hote - Male Version",
+    "artist": "R. D. Burman, Kishore Kumar",
+    "isrc": "INS171600334"
+  },
+  {
+    "title": "Oonchi Hai Building (From \"Judwaa\")",
+    "artist": "Anu Malik, Poornima",
+    "isrc": "INV119600109"
+  },
+  {
+    "title": "Singaar Ko Rehne Do (with Narration)",
+    "artist": "Gulzar, Shreya Ghoshal",
+    "isrc": "INH101503142"
+  },
+  {
+    "title": "Saajanji Ghar Aaye",
+    "artist": "Jatin-Lalit, Kumar Sanu, Alka Yagnik, Kavita Krishnamurthy",
+    "isrc": "INS179900051"
+  },
+  {
+    "title": "Gulabi Ankhen - From \"The Train\"",
+    "artist": "Mohammed Rafi, R. D. Burman",
+    "isrc": "INP100300038"
+  },
+  {
+    "title": "O Re Piya",
+    "artist": "Salim–Sulaiman, Rahat Fateh Ali Khan, Jaideep Sahni",
+    "isrc": "INY090700183"
+  },
+  {
+    "title": "Pyar Hua Iqrar Hua (From \"Shree 420\")",
+    "artist": "Manna Dey, Lata Mangeshkar",
+    "isrc": "INH109239630"
+  },
+  {
+    "title": "O Mere Majhi Mere Sajan Hai",
+    "artist": "S. D. Burman",
+    "isrc": "INH109236780"
+  },
+  {
+    "title": "Ganpati Aarti",
+    "artist": "Amitabh Bachchan",
+    "isrc": "GBSGZ1501245"
+  },
+  {
+    "title": "You're My Love",
+    "artist": "Shaan, Shweta Pandit, Suzi Q, Earl D'Souza",
+    "isrc": "INS180703282"
+  },
+  {
+    "title": "Saat Samundar Paar, Pt. 1",
+    "artist": "Sadhana Sargam",
+    "isrc": "INH109238030"
+  },
+  {
+    "title": "Auva Auva Koi Yahan Nache",
+    "artist": "Usha Uthup, Bappi Lahiri",
+    "isrc": "INH109939250"
+  },
+  {
+    "title": "Uff",
+    "artist": "Harshdeep Kaur, Benny Dayal",
+    "isrc": "INZ031400145"
+  },
+  {
+    "title": "Chaand Taare (From \"Yes Boss\")",
+    "artist": "Abhijeet",
+    "isrc": "INV119900296"
+  },
+  {
+    "title": "Sajde",
+    "artist": "Shankar-Ehsaan-Loy, Arijit Singh, Nihira Joshi Deshpande, Gulzar",
+    "isrc": "INY091400146"
+  },
+  {
+    "title": "Mujhe Neend Na Aaye",
+    "artist": "Anuradha Paudwal, Udit Narayan",
+    "isrc": "INS189010047"
+  },
+  {
+    "title": "Jeeye to Jeeye Kaise (From \"Saajan\")",
+    "artist": "Pankaj Udhas",
+    "isrc": "INV119300927"
+  },
+  {
+    "title": "Gela Gela Gela",
+    "artist": "Adnan Sami, Sunidhi Chauhan",
+    "isrc": "INT101402324"
+  },
+  {
+    "title": "Tumse Milke Dil Ka",
+    "artist": "Sonu Nigam, Sabri Brothers",
+    "isrc": "INS180461118"
+  },
+  {
+    "title": "Chandaniya - Lori Lori",
+    "artist": "Sajid-Wajid, Shreya Ghoshal",
+    "isrc": "INU151200025"
+  },
+  {
+    "title": "Jaadu Teri Nazar",
+    "artist": "Udit Narayan",
+    "isrc": "INH109338540"
+  },
+  {
+    "title": "Chhod Aaye Hum",
+    "artist": "Vishal Bhardwaj, Hariharan, Suresh Wadkar, Vinod Sehgal, KK",
+    "isrc": "INS171570344"
+  },
+  {
+    "title": "Tere Naina",
+    "artist": "Shankar Mahadevan, Shreya Ghoshal",
+    "isrc": "INS180809893"
+  },
+  {
+    "title": "Kahin Door Jab Din Dhal Jaye",
+    "artist": "Mukesh, Salil Chowdhury",
+    "isrc": "INH109246000"
+  },
+  {
+    "title": "Tere Liye",
+    "artist": "Madan Mohan, Lata Mangeshkar, Roop Kumar Rathod, Javed Akhtar",
+    "isrc": "INY090400015"
+  },
+  {
+    "title": "Hai Apna Dil To Aawara (Happy)",
+    "artist": "Hemant Kumar",
+    "isrc": "INH109245370"
+  },
+  {
+    "title": "Chura Ke Dil Mera (From \"Main Khiladi Tu Anari\")",
+    "artist": "Alka Yagnik, Kumar Sanu",
+    "isrc": "INV119400353"
+  },
+  {
+    "title": "Aur Is Dil Mein - Duet",
+    "artist": "Suresh Wadkar, Asha Bhosle, Kalyanji-Anandji",
+    "isrc": "INH100363980"
+  },
+  {
+    "title": "To Chalun (From \"Border\")",
+    "artist": "Roop Kumar Rathod",
+    "isrc": "INV119900169"
+  },
+  {
+    "title": "Aattuthottilil",
+    "artist": "Laxmikant–Pyarelal, M. G. Sreekumar, K. S. Chithra",
+    "isrc": "INM129600955"
+  },
+  {
+    "title": "Deewana Kar Raha Hai",
+    "artist": "Javed Ali",
+    "isrc": "INS181202495"
+  },
+  {
+    "title": "Jeena Nahi",
+    "artist": "Amit Kumar, Anuradha Paudwal",
+    "isrc": "INS188821538"
+  },
+  {
+    "title": "Koi Na Koi Chahiye - From \"Deewana\"",
+    "artist": "Vinod Rathod",
+    "isrc": "INV119200175"
+  },
+  {
+    "title": "Hamari Shaadi Mein",
+    "artist": "Babul Supriyo, Shreya Ghoshal",
+    "isrc": "INR320600004"
+  },
+  {
+    "title": "Saawan Mein",
+    "artist": "Falguni Pathak",
+    "isrc": "INUM70500089"
+  },
+  {
+    "title": "Sochenge Tumhe Pyar (From \"Deewana\")",
+    "artist": "Kumar Sanu",
+    "isrc": "INV119200170"
+  },
+  {
+    "title": "Pal Pal Dil Ke Paas - From \"Blackmail\"",
+    "artist": "Kishore Kumar",
+    "isrc": "INP100300046"
+  },
+  {
+    "title": "Chalo Ek Baar Phir Se",
+    "artist": "Mahendra Kapoor",
+    "isrc": "INH109635080"
+  },
+  {
+    "title": "Judaai",
+    "artist": "Sachin-Jigar, Rekha Bhardwaj, Arijit Singh, Priya Saraiya",
+    "isrc": "GBSGZ1500294"
+  },
+  {
+    "title": "One Two Three Four (Get On The Dance Floor)",
+    "artist": "Vishal-Shekhar, Vishal Dadlani, Hamsika Iyer",
+    "isrc": "INS181304489"
+  },
+  {
+    "title": "Socha Hai",
+    "artist": "Farhan Akhtar",
+    "isrc": "INS180908331"
+  },
+  {
+    "title": "Bebo",
+    "artist": "Alisha Chinai",
+    "isrc": "GBSGZ0900030"
+  },
+  {
+    "title": "Besharam Rang (From \"Pathaan\")",
+    "artist": "Vishal-Shekhar, Shilpa Rao, Caralisa Monteiro, Vishal Dadlani, Shekhar Ravjiani, Kumaar",
+    "isrc": "INY092200126"
+  },
+  {
+    "title": "Kaun Tujhe (From \"M.S.Dhoni - The Untold Story\")",
+    "artist": "Palak Muchhal",
+    "isrc": "INS181601425"
+  },
+  {
+    "title": "Babuji Dheere Chalna",
+    "artist": "Geeta Dutt",
+    "isrc": "INH109340290"
+  },
+  {
+    "title": "Sheila Ki Jawani",
+    "artist": "Vishal-Shekhar, Sunidhi Chauhan, Vishal Dadlani",
+    "isrc": "INS181009096"
+  },
+  {
+    "title": "Hothon Se Chhu Lo Tum - From \"Prem Geet\"",
+    "artist": "Jagjit Singh",
+    "isrc": "INP100300059"
+  },
+  {
+    "title": "Dil Kya Kare - The Unwind Mix",
+    "artist": "Rajesh Roshan, Arnab Chakraborty",
+    "isrc": "INS9B1400196"
+  },
+  {
+    "title": "Bewajah",
+    "artist": "Himesh Reshammiya",
+    "isrc": "GBSGZ1500561"
+  },
+  {
+    "title": "Neene Neene",
+    "artist": "Kunal Ganjawala, K Kalyan",
+    "isrc": "INM401100877"
+  },
+  {
+    "title": "Dil Dhundta Hai (From \"Mausam\")",
+    "artist": "Bhupinder Singh, Lata Mangeshkar",
+    "isrc": "INH109240950"
+  },
+  {
+    "title": "Teri Deewani",
+    "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "isrc": "INS170600102"
+  },
+  {
+    "title": "Kheech Meri Photo",
+    "artist": "Himesh Reshammiya, Neeti Mohan, AKASA, Darshan Raval",
+    "isrc": "GBSGZ1500560"
+  },
+  {
+    "title": "Jiya Laage Na",
+    "artist": "Shilpa Rao, Mohit Chauhan, Rochak Kohli",
+    "isrc": "INUM72400318"
+  },
+  {
+    "title": "Manwa Laage (From \"Happy New Year\")",
+    "artist": "Shreya Ghoshal, Arijit Singh",
+    "isrc": "INS181402147"
+  },
+  {
+    "title": "Pala Pala",
+    "artist": "Hariharan",
+    "isrc": "INS392204120"
+  },
+  {
+    "title": "Ishq Mitaye (From \"Amar Singh Chamkila\")",
+    "artist": "Mohit Chauhan, A.R. Rahman, Irshad Kamil",
+    "isrc": "INH102404019"
+  },
+  {
+    "title": "Maar Jawan Mit Jawan",
+    "artist": "Abhijeet Sawant, Sunidhi Chauhan",
+    "isrc": "INS180500073"
+  },
+  {
+    "title": "So Gaya Yeh Jahan",
+    "artist": "Nitin Mukesh, Alka Yagnik, Shabbir Kumar",
+    "isrc": "INS188821540"
+  },
+  {
+    "title": "Lag Ja Gale Se Phir (From \"Woh Kaun Thi\")",
+    "artist": "Lata Mangeshkar",
+    "isrc": "INH109238300"
+  },
+  {
+    "title": "Dil Jhoom",
+    "artist": "Mithoon, Arijit Singh, Sayeed Quadri",
+    "isrc": "INZ031413425"
+  },
+  {
+    "title": "Ye Hawa Ye Raat Ye Chandni, From ''Sangdil''",
+    "artist": "Talat Mahmood",
+    "isrc": "CA5KR2085352"
+  },
+  {
+    "title": "Hoga Tumse Pyara Kaun - From \"Zamaane Ko Dikhana Hai\"",
+    "artist": "Shailendra Singh, R. D. Burman",
+    "isrc": "INP100300055"
+  },
+  {
+    "title": "Naina",
+    "artist": "Sona Mohapatra, Armaan Malik",
+    "isrc": "INS181402137"
+  },
+  {
+    "title": "Zara Zara Touch Me",
+    "artist": "Monali Thakur, Earl Edgar, Pritam",
+    "isrc": "INT100700315"
+  },
+  {
+    "title": "Jalwa",
+    "artist": "Wajid",
+    "isrc": "INS180902921"
+  },
+  {
+    "title": "Tunak Tunak Tun",
+    "artist": "Daler Mehndi",
+    "isrc": "INM129800401"
+  },
+  {
+    "title": "Hum Mar Jayenge (From \"Aashiqui 2\")",
+    "artist": "Tulsi Kumar, Arijit Singh",
+    "isrc": "INS181303034"
+  },
+  {
+    "title": "Kiya Kiya",
+    "artist": "Anand Raj Anand, Shweta Pandit",
+    "isrc": "INT130700348"
+  },
+  {
+    "title": "Saiyyan Dil Mein Aana Re",
+    "artist": "Shamshad Begum, Shruti Rane",
+    "isrc": "INH102213229"
+  },
+  {
+    "title": "Ek Pal Ka Jeena",
+    "artist": "Lucky Ali",
+    "isrc": "INH109940060"
+  },
+  {
+    "title": "Tu Mungada Mungada",
+    "artist": "Usha Mangeshkar",
+    "isrc": "INH109636060"
+  },
+  {
+    "title": "Surili Akhiyon Wale",
+    "artist": "Rahat Fateh Ali Khan, Suzanne D'Mello",
+    "isrc": "GBSGZ0900119"
+  },
+  {
+    "title": "Teri Yaad Yaad Yaad",
+    "artist": "Ghulam Ali",
+    "isrc": "INT100400008"
+  },
+  {
+    "title": "Yaara Dildaara",
+    "artist": "Kalyanji-Anandji, Lijo George, Asha Bhosle, Harjot Kaur",
+    "isrc": "INS182400483"
+  },
+  {
+    "title": "Galliyan (From \"Ek Villain\")",
+    "artist": "Ankit Tiwari",
+    "isrc": "INS181401009"
+  },
+  {
+    "title": "Kaise Mujhe (From \"Ghajini\")",
+    "artist": "Benny Dayal, Shreya Ghoshal",
+    "isrc": "INS180809766"
+  },
+  {
+    "title": "Ae Kash Ke Hum",
+    "artist": "Jatin-Lalit, Kumar Sanu",
+    "isrc": "INS179900057"
+  },
+  {
+    "title": "Mujhe Kaise, Pata Na Chala",
+    "artist": "Papon, Meet Bros.",
+    "isrc": "INSD11900760"
+  },
+  {
+    "title": "Tu Kal Chala Jayega",
+    "artist": "Manhar Udhas, Mohammed Aziz, Laxmikant–Pyarelal",
+    "isrc": "INH100252900"
+  },
+  {
+    "title": "Behti Hawa Sa Tha Woh",
+    "artist": "Shantanu Moitra, Shaan",
+    "isrc": "INZ031408964"
+  },
+  {
+    "title": "Pani Da Rang - Male Vocals",
+    "artist": "Ayushmann Khurrana, Rochak Kohli",
+    "isrc": "GBSGZ1100026"
+  },
+  {
+    "title": "Main Rahoon Ya Na Rahoon",
+    "artist": "Amaal Mallik, Armaan Malik, Rashmi Virag",
+    "isrc": "INS181502052"
+  },
+  {
+    "title": "Naina Da Kya Kasoor",
+    "artist": "Amit Trivedi",
+    "isrc": "INZ031404092"
+  },
+  {
+    "title": "Kya Mujhe Pyar Hai (From \"Woh Lamhe\")",
+    "artist": "KK",
+    "isrc": "INS180602902"
+  },
+  {
+    "title": "Javed Akhtar Speak And Meri Aawaz Suno Film-Naunihal",
+    "artist": "Javed Akhtar, Mohammed Rafi",
+    "isrc": "INH101200053"
+  },
+  {
+    "title": "Bandook Meri Laila (From \"A Gentleman\") (feat. Raftaar, Sidharth Malhotra)",
+    "artist": "Ash King, Jigar Saraiya, Sachin-Jigar, Raftaar, Sidharth Malhotra",
+    "isrc": "INS181701573"
+  },
+  {
+    "title": "O Jaana (Dj Dance Remix)",
+    "artist": "Kamaal Khan, Udit Narayan, Alka Yagnik, KK",
+    "isrc": "INS180351565"
+  },
+  {
+    "title": "Mujhe Pine Ka Shauk Nahin - Coolie / Soundtrack Version",
+    "artist": "Shabbir Kumar, Laxmikant–Pyarelal, Anand Bakshi",
+    "isrc": "INUM70500677"
+  },
+  {
+    "title": "Darmiyaan",
+    "artist": "Shafqat Amanat Ali, Clinton Cerejo",
+    "isrc": "INS181200115"
+  },
+  {
+    "title": "Kaattrae En Vaasal - Wind",
+    "artist": "Unnikrishnan, Kavita Krishnamurthy",
+    "isrc": "INH100072980"
+  },
+  {
+    "title": "Yun Zindagi Ki Raah Mein",
+    "artist": "Chitra Singh, Jagjit Singh",
+    "isrc": "INH109632440"
+  },
+  {
+    "title": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
+    "artist": "Mika Singh, Nakash Aziz, Devi Sri Prasad, Raqueeb Alam",
+    "isrc": "INS182401375"
+  },
+  {
+    "title": "Kehna Na Tum Yeh Kisi Se",
+    "artist": "Salma Agha, Mohammed Aziz",
+    "isrc": "INS188910623"
+  },
+  {
+    "title": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "artist": "Pritam, Arijit Singh, Shreya Ghoshal, Shadab Faridi, Altamash Faridi, Amitabh Bhattacharya",
+    "isrc": "INH102310310"
+  },
+  {
+    "title": "Yoon Shabnami",
+    "artist": "Monty Sharma, Parthiv Gohil",
+    "isrc": "INS170709293"
+  },
+  {
+    "title": "You Are My Soniya (From \"Kabhi Khushi Kabhie Gham\")",
+    "artist": "Sandesh Shandilya, Sonu Nigam, Alka Yagnik",
+    "isrc": "INS170100024"
+  },
+  {
+    "title": "Enna Sona",
+    "artist": "A.R. Rahman, Arijit Singh",
+    "isrc": "INS171603185"
+  },
+  {
+    "title": "Lover Also Fighter Also",
+    "artist": "Shekhar Ravjiani",
+    "isrc": "INA091815740"
+  },
+  {
+    "title": "Ole Ole 2.0",
+    "artist": "Amit Mishra, Abhijeet, Tanishk Bagchi",
+    "isrc": "INT101903164"
+  },
+  {
+    "title": "Ishq Bina",
+    "artist": "Anuradha Sriram, Sujatha, A.R. Rahman, Sonu Nigam",
+    "isrc": "INT109900001"
+  },
+  {
+    "title": "Rafta Rafta Woh Meri Hasti Ka (From \"Zeenat\")",
+    "artist": "Mehdi Hassan",
+    "isrc": "QM4TW2256852"
+  },
+  {
+    "title": "Nuvvele Nuvvele",
+    "artist": "Shweta Mohan",
+    "isrc": "INT131711324"
+  },
+  {
+    "title": "Kai Din Se Mujhe",
+    "artist": "Hemlata, Shailendra Singh",
+    "isrc": "INH109443810"
+  },
+  {
+    "title": "Phir Mohabbat (From \"Murder 2\")",
+    "artist": "Mohammed Irfan, Arijit Singh, Saim Bhat",
+    "isrc": "INS181101313"
+  },
+  {
+    "title": "Suthi Suthi Vandhiga",
+    "artist": "Harini, S. P. Balasubrahmanyam, Vairamuthu",
+    "isrc": "INS289900168"
+  },
+  {
+    "title": "Mohe Bhool Gaye Sanwariya",
+    "artist": "Naushad, Shakeel Badayuni, Lata Mangeshkar",
+    "isrc": "QMBZ92332304"
+  },
+  {
+    "title": "Le Gayi",
+    "artist": "Uttam Singh, Asha Bhosle, Anand Bakshi",
+    "isrc": "INY099700009"
+  },
+  {
+    "title": "Poongatrile",
+    "artist": "Unni Menon, Swarnalatha",
+    "isrc": "INN139800576"
+  },
+  {
+    "title": "Jeena Jeena",
+    "artist": "Sachin-Jigar, Atif Aslam, Priya Saraiya",
+    "isrc": "GBSGZ1500292"
+  },
+  {
+    "title": "Silayil Ninnum",
+    "artist": "Sujatha",
+    "isrc": "INS320300807"
+  },
+  {
+    "title": "Woh Kisna Hai (Lofi Mix)",
+    "artist": "Ismail Darbar, Sukhwinder Singh, S. Shailja, Ayesha Darbar, Javed Akhtar",
+    "isrc": "INT102304111"
+  },
+  {
+    "title": "Cheliya",
+    "artist": "Srinivas, Harini",
+    "isrc": "INA090209202"
+  },
+  {
+    "title": "Attu Nuvve",
+    "artist": "Neha Bhasin",
+    "isrc": "INA090912190"
+  },
+  {
+    "title": "Ijazat (From \"One Night Stand\")",
+    "artist": "Meet Bros., Arijit Singh",
+    "isrc": "INS181600531"
+  },
+  {
+    "title": "Kehna Hi Kya - From \"Bombay\"",
+    "artist": "K. S. Chithra",
+    "isrc": "INP100300058"
+  },
+  {
+    "title": "Jab Tak",
+    "artist": "Armaan Malik",
+    "isrc": "INS181601485"
+  },
+  {
+    "title": "Tere Pyar Mein Main",
+    "artist": "Jaspinder Narula, Roop Kumar Rathod",
+    "isrc": "INT109900407"
+  },
+  {
+    "title": "Nenjinile",
+    "artist": "S. Janaki",
+    "isrc": "INN139800572"
+  },
+  {
+    "title": "Sarkar Sanware - Shyam Bhajan",
+    "artist": "Anup Jalota",
+    "isrc": "INS7A1557417"
+  },
+  {
+    "title": "Vatapatra (Happy)",
+    "artist": "P. Susheela",
+    "isrc": "INA090104404"
+  },
+  {
+    "title": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "artist": "Sachin-Jigar, Raghav Chaitanya, Varun Jain, Indraneel",
+    "isrc": "INS182400341"
+  },
+  {
+    "title": "Chaiyya Chaiyya (From \"Dil Se\")",
+    "artist": "Sukhwinder Singh, Sapna Awasthi",
+    "isrc": "INV119800029"
+  },
+  {
+    "title": "Etho Mazhayil",
+    "artist": "Vijay Yesudas, Shweta Mohan, Prince George",
+    "isrc": "INA981800376"
+  },
+  {
+    "title": "Mushk",
+    "artist": "Ali Zafar",
+    "isrc": "PKA0A2018121"
+  },
+  {
+    "title": "Vaseegara",
+    "artist": "Bombay Jayashri",
+    "isrc": "INH100211540"
+  },
+  {
+    "title": "Neela Vaanam (From \"Manmadan Ambu\")",
+    "artist": "Kamal Haasan, Priya Hemesh",
+    "isrc": "INV111000731"
+  },
+  {
+    "title": "Iktara - Lofi Flip",
+    "artist": "VIBIE, Amit Trivedi, Kavita Seth, Amitabh Bhattacharya, Bollywood Lofi",
+    "isrc": "INS172102366"
+  },
+  {
+    "title": "Dono Hi Mohabbat Ke",
+    "artist": "Altaf Raja",
+    "isrc": "INV119900509"
+  },
+  {
+    "title": "Baby Doll",
+    "artist": "Meet Bros Anjjan, Kanika Kapoor",
+    "isrc": "INS181400365"
+  },
+  {
+    "title": "Dil E Nadan Tujhe Hua Kya Hai",
+    "artist": "Suraiya, Talat Mahmood",
+    "isrc": "INH100265770"
+  },
+  {
+    "title": "Kadhoram Loolakku (From \"Chinna Mapillai\")",
+    "artist": "Mano, S. Janaki",
+    "isrc": "FR10S1795350"
+  },
+  {
+    "title": "Tera Ghata",
+    "artist": "Gajendra Verma",
+    "isrc": "INV421800029"
+  },
+  {
+    "title": "Poovoma Oorgolam",
+    "artist": "Swarnalatha, S. P. Balasubrahmanyam",
+    "isrc": "INT522101186"
+  },
+  {
+    "title": "Poove Sem Poove - Male",
+    "artist": "K. J. Yesudas",
+    "isrc": "INT522102964"
+  },
+  {
+    "title": "Main Hoon Hero Tera (Salman Khan Version)",
+    "artist": "Salman Khan",
+    "isrc": "INS181501272"
+  },
+  {
+    "title": "Vizhi Moodi",
+    "artist": "Karthik, Prashanthini",
+    "isrc": "INS392204123"
+  },
+  {
+    "title": "Lailakame",
+    "artist": "Haricharan, Rahul Raj, B.K. Harinarayanan",
+    "isrc": "INM811458249"
+  },
+  {
+    "title": "KOKA",
+    "artist": "Kanika Kapoor, Ria Sean",
+    "isrc": "USA2P2408969"
+  },
+  {
+    "title": "Asku Laska",
+    "artist": "Chinmayi, Vijay Prakash",
+    "isrc": "INS902000050"
+  },
+  {
+    "title": "O Saki Saki (From \"Batla House\")",
+    "artist": "Neha Kakkar, Tulsi Kumar, B Praak",
+    "isrc": "INS181904064"
+  },
+  {
+    "title": "Sanun Nahar Wale Pul",
+    "artist": "Noor Jehan",
+    "isrc": "USA560666730"
+  },
+  {
+    "title": "Shri Krishna Govind Hare Murari",
+    "artist": "Jubin Nautiyal",
+    "isrc": "INS182001442"
+  },
+  {
+    "title": "Hamein Tumse Hai Pyar (Instrumental)",
+    "artist": "Anand-Milind",
+    "isrc": "INS180485567"
+  },
+  {
+    "title": "Buzz (feat. Badshah)",
+    "artist": "Aastha Gill, Badshah",
+    "isrc": "INS171801132"
+  },
+  {
+    "title": "Munni Badnaam",
+    "artist": "Mamta Sharma, Aishwarya",
+    "isrc": "INS181007459"
+  },
+  {
+    "title": "Dil Le Gayi Teri Bindiya - Instrumental",
+    "artist": "Viju Shah",
+    "isrc": "INH100400878"
+  },
+  {
+    "title": "Jaan Ban Gaye - From \"Khuda Haafiz\"",
+    "artist": "Asees Kaur, Mithoon, Vishal Mishra",
+    "isrc": "INZ031408070"
+  },
+  {
+    "title": "Tumne Pukara Aur Hum Chale Aaye",
+    "artist": "Suman Kalyanpur, Mohammed Rafi",
+    "isrc": "INH109240580"
+  },
+  {
+    "title": "Ariyathe Ariyathe (From \"Ariyathe Ariyathe Duet\")",
+    "artist": "P. Jayachandran, K. S. Chithra",
+    "isrc": "INE130300162"
+  },
+  {
+    "title": "Khamoshiyan (From \"Khamoshiyan\")",
+    "artist": "Jeet Gannguli, Arijit Singh, Rashmi Virag",
+    "isrc": "INS171402465"
+  },
+  {
+    "title": "Dost Dost Na Raha - Instrumental",
+    "artist": "Shankar Jaikishan",
+    "isrc": "INH100620835"
+  },
+  {
+    "title": "Doubtwa (From \"Laapataa Ladies\")",
+    "artist": "Ram Sampath, Sukhwinder Singh, Divyanidhi Sharma",
+    "isrc": "INS182400368"
+  },
+  {
+    "title": "Isq Risk",
+    "artist": "Sohail Sen, Rahat Fateh Ali Khan, Irshad Kamil",
+    "isrc": "INY091100022"
+  },
+  {
+    "title": "Manathe",
+    "artist": "Madhu Balakrishnan, Rimi Tomy",
+    "isrc": "INS320601555"
+  },
+  {
+    "title": "Thamarai Poovukum",
+    "artist": "Vidyasagar, Krishnachandar, Sujatha",
+    "isrc": "INM129500250"
+  },
+  {
+    "title": "Gup Chup Gup Chup",
+    "artist": "Ila Arun, Alka Yagnik",
+    "isrc": "INT109200060"
+  },
+  {
+    "title": "Pattukotta Ammalu",
+    "artist": "Shankar - Ganesh, Vaali, Malaysia Vasudevan",
+    "isrc": "INK120905022"
+  },
+  {
+    "title": "OH HO HO HO (Original Song)",
+    "artist": "Sukhbir",
+    "isrc": "FR10S1862979"
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage (From \"Kabir Singh\")",
+    "artist": "Arijit Singh, Mithoon",
+    "isrc": "INS181902088"
+  },
+  {
+    "title": "Maahi",
+    "artist": "Shaarib Toshi, Toshi Sabri",
+    "isrc": "INS170816455"
+  },
+  {
+    "title": "Thank You God",
+    "artist": "Dhvani Bhanushali, Shloke Lal, David Arkwright",
+    "isrc": "INH562400011"
+  },
+  {
+    "title": "Mora Piya (From \"Raajneeti\")",
+    "artist": "Aadesh Shrivastava, Shashi, Rosalie Nicholson",
+    "isrc": "INS171000145"
+  },
+  {
+    "title": "Nenu Nuvvantu",
+    "artist": "Naresh Iyer, Nadeesh, U.V.Jackey",
+    "isrc": "INA091012543"
+  },
+  {
+    "title": "Yeh Hai Bombay Meri Jaan (Aye Dil Hai Mushkil Jeena Yahan)",
+    "artist": "O. P. Nayyar, Majrooh Sultanpuri",
+    "isrc": "INH109240470"
+  },
+  {
+    "title": "Ek Doosre Se Karte Hain Pyar Hum",
+    "artist": "Sudesh Bhosle, Mohammed Aziz, Udit Narayan, Alka Yagnik, Sonali Vajpayee, Laxmikant–Pyarelal",
+    "isrc": "INH100363870"
+  },
+  {
+    "title": "Tum Hi Aana (From \"Marjaavaan\")",
+    "artist": "Payal Dev, Jubin Nautiyal, Kunaal Vermaa",
+    "isrc": "INS181905004"
+  },
+  {
+    "title": "Chor Bazaari",
+    "artist": "Neeraj Shridhar, Sunidhi Chauhan, Pritam",
+    "isrc": "GBSGZ0900020"
+  },
+  {
+    "title": "Ab Kya Ghazal Sunaoon",
+    "artist": "Talat Aziz",
+    "isrc": "INUM70501699"
+  },
+  {
+    "title": "God Damn",
+    "artist": "Badshah, Karan Aujla, Hiten",
+    "isrc": "INUM72400156"
+  },
+  {
+    "title": "Jai Chiranjeeva",
+    "artist": "S. P. Sailaja",
+    "isrc": "INA090104025"
+  },
+  {
+    "title": "Kabhie Phool Dena (Pyar Ke Naam) - Rules - Pyar Ka Super Hit Formula / Soundtrack Version",
+    "artist": "Bombay Vikings",
+    "isrc": "INUM70500878"
+  },
+  {
+    "title": "Aal Izz Well",
+    "artist": "Swanand Kirkire, Sonu Nigam, Shaan",
+    "isrc": "INZ031408962"
+  },
+  {
+    "title": "Nenjukkul Peidhidum",
+    "artist": "Harris Jayaraj, Hariharan, Devan Ekambaram, VV Prassanna",
+    "isrc": "INS170816331"
+  },
+  {
+    "title": "Thattum Muttum",
+    "artist": "Jassie Gift, Deepak Dev, Sindhuja Rajaram",
+    "isrc": "INS320903292"
+  },
+  {
+    "title": "Ussumu Laresey",
+    "artist": "Vijay Antony, Emcee Jazz, Janaki Iyer",
+    "isrc": "INT201000180"
+  },
+  {
+    "title": "Yevandoi Nani Garu",
+    "artist": "Divya Kumar, Sravana Bhargavi",
+    "isrc": "INA091715620"
+  },
+  {
+    "title": "Inquilab Mera Khwab",
+    "artist": "Clinton Cerejo, Sanam",
+    "isrc": "INO131602327"
+  },
+  {
+    "title": "Love Dose",
+    "artist": "Yo Yo Honey Singh",
+    "isrc": "INS181402053"
+  },
+  {
+    "title": "Dil Chori Sada Ho Gaya",
+    "artist": "Hans Raj Hans",
+    "isrc": "INS180021418"
+  },
+  {
+    "title": "Thendral Vanthu Theendumbothu (From \"Avatharam\")",
+    "artist": "S. Janaki, Vaali, Ilaiyaraaja",
+    "isrc": "IND292204220"
+  },
+  {
+    "title": "Zindagi Bata De",
+    "artist": "Tony Kakkar",
+    "isrc": "USA2P2228690"
+  },
+  {
+    "title": "Maaya Manjalil",
+    "artist": "G Venugopal, Radhika Thilak",
+    "isrc": "INS320802521"
+  },
+  {
+    "title": "Tera Mera Rishta",
+    "artist": "Mustafa Zahid",
+    "isrc": "INW262200031"
+  },
+  {
+    "title": "Megham Karukatha",
+    "artist": "Dhanush, Anirudh Ravichander",
+    "isrc": "QM6N22298883"
+  },
+  {
+    "title": "Saathiya Tune Kya Kiya",
+    "artist": "S. P. Balasubrahmanyam, K. S. Chithra",
+    "isrc": "INV119100015"
+  },
+  {
+    "title": "Bolde Jai Jai Kare",
+    "artist": "Raj Kapoor",
+    "isrc": "INS232015306"
+  },
+  {
+    "title": "En Veetu Jannal (From \"Raman Abdullah\")",
+    "artist": "Bhavatharini, Arunmozhi",
+    "isrc": "INF049600007"
+  },
+  {
+    "title": "Kahin To",
+    "artist": "Rashid Ali, Vasundhara Das",
+    "isrc": "INS180804914"
+  },
+  {
+    "title": "Mazhayil",
+    "artist": "Manjari",
+    "isrc": "INS320601616"
+  },
+  {
+    "title": "Laila O Laila - From \"Qurbani\"",
+    "artist": "Kanchan, Amit Kumar",
+    "isrc": "INP100300002"
+  },
+  {
+    "title": "Bolna (From \"Kapoor & Sons (Since 1921)\")",
+    "artist": "Tanishk Bagchi, Arijit Singh, Asees Kaur",
+    "isrc": "INS171600165"
+  },
+  {
+    "title": "Jee Le",
+    "artist": "Shruti Pathak, Naresh Kamath",
+    "isrc": "INS180902840"
+  },
+  {
+    "title": "Mannat",
+    "artist": "Darshan Raval, Prakriti Kakar",
+    "isrc": "INW262318128"
+  },
+  {
+    "title": "Mubarakaan",
+    "artist": "Usha Khanna, Sunidhi Chauhan",
+    "isrc": "INS170300013"
+  },
+  {
+    "title": "Teri Aankhon Ka Andaz - Instrumental",
+    "artist": "Nadeem Shravan",
+    "isrc": "INT100200566"
+  },
+  {
+    "title": "Mellaga",
+    "artist": "S.P. Charan, Sumangaly",
+    "isrc": "INA090309751"
+  },
+  {
+    "title": "Lagdi Lahore Di (From \"Street Dancer 3D\")",
+    "artist": "Guru Randhawa, Tulsi Kumar",
+    "isrc": "INS182000105"
+  },
+  {
+    "title": "Main Kya Janu Kya Jaadoo Hai",
+    "artist": "K. L. Saigal",
+    "isrc": "INH119400220"
+  },
+  {
+    "title": "Tirtha Vithal Kshetra Vithal",
+    "artist": "Bhimsen Joshi",
+    "isrc": "INH100056530"
+  },
+  {
+    "title": "Aaya Na Tu",
+    "artist": "Arjun Kanungo, Momina Mustehsan, Kunaal Vermaa",
+    "isrc": "INUM71800013"
+  },
+  {
+    "title": "Kab Yaad Mein Tera Saath Nahin - Duet",
+    "artist": "Khayyam, Jagjit Kaur",
+    "isrc": "INH100443770"
+  },
+  {
+    "title": "Bulla Ki Jana",
+    "artist": "Rabbi Shergill",
+    "isrc": "INO222000055"
+  },
+  {
+    "title": "Maamadura - From \"Jigarthanda DoubleX\"",
+    "artist": "Santhosh Narayanan, Dhee, Vivek",
+    "isrc": "INT202303849"
+  },
+  {
+    "title": "Dil Ko Karaar Aaya (From \"Sukoon\")",
+    "artist": "Rajat Nagpal, Yasser Desai, Neha Kakkar, Rana Sotal",
+    "isrc": "FRX282015435"
+  },
+  {
+    "title": "Sochta Houn",
+    "artist": "Nusrat Fateh Ali Khan, A1Melodymaster",
+    "isrc": "GBUQQ1704203"
+  },
+  {
+    "title": "Oye Oye",
+    "artist": "Aditi Singh Sharma, Armaan Malik, Kalyanji-Anandji, Dj Chetas, Anand Bakshi",
+    "isrc": "INS181600646"
+  },
+  {
+    "title": "Gillie (From \"Gilli\")",
+    "artist": "Tippu",
+    "isrc": "INF040400571"
+  },
+  {
+    "title": "Cham Cham Karta",
+    "artist": "Vaishali Samant",
+    "isrc": "INS100500033"
+  },
+  {
+    "title": "Arikil",
+    "artist": "Najim Arshad, Sangeetha Sreekanth",
+    "isrc": "INS321604897"
+  },
+  {
+    "title": "Abhi Na Jao Chhod Kaar Unplugged - Female",
+    "artist": "Akriti Kakar, Subash Dash",
+    "isrc": "INH100629848"
+  },
+  {
+    "title": "Therirangum Mukile - Recreated Version",
+    "artist": "Rimi Tomy",
+    "isrc": "FRX452175756"
+  },
+  {
+    "title": "Nira - From \"Takkar\"",
+    "artist": "Sid Sriram, Gautham Vasudev Menon, Malvi Sundaresan, Nivas K Prasanna",
+    "isrc": "INT202002161"
+  },
+  {
+    "title": "Thanganiram (From \"Nenjinilea\")",
+    "artist": "Vijay, Swarnalatha",
+    "isrc": "INF049900229"
+  },
+  {
+    "title": "Guruvaram",
+    "artist": "Vijay Prakash",
+    "isrc": "INA091815747"
+  },
+  {
+    "title": "Unnodu Vazhatha",
+    "artist": "Bharadwaj, K. S. Chithra",
+    "isrc": "INS2Y1700253"
+  },
+  {
+    "title": "Pookkal Pookkum",
+    "artist": "G. V. Prakash, Roop Kumar Rathod, Harini, Andrea Jeremiah",
+    "isrc": "INS171100571"
+  },
+  {
+    "title": "Oru Kari Mukilinu - From \"Charlie\"",
+    "artist": "Gopi Sundar, Vijay Prakash, Rafeeq Ahammed",
+    "isrc": "INM811457467"
+  },
+  {
+    "title": "Sajni",
+    "artist": "Strings",
+    "isrc": "USCGJ1849386"
+  },
+  {
+    "title": "Anuraghathin Velayil",
+    "artist": "Vineeth Sreenivasan",
+    "isrc": "INS321204317"
+  },
+  {
+    "title": "Mere Sohneya (From \"Kabir Singh\")",
+    "artist": "Sachet Tandon, Parampara Tandon, Sachet-Parampara",
+    "isrc": "INS181903689"
+  },
+  {
+    "title": "Venmegam",
+    "artist": "Yuvan Shankar Raja, Hariharan",
+    "isrc": "INS171100414"
+  },
+  {
+    "title": "Ab Ke Saawan",
+    "artist": "Shubha Mudgal",
+    "isrc": "INV149904590"
+  },
+  {
+    "title": "Love Like That (feat. Ali Sethi)",
+    "artist": "Jonita Gandhi, Ali Sethi",
+    "isrc": "CAW112300498"
+  },
+  {
+    "title": "Thakilu Pukilu (From \"Ravanaprabhu\")",
+    "artist": "M. G. Sreekumar, Prabhakaran, Mohanlal, Sujatha, Radhika Thilak",
+    "isrc": "INE130300169"
+  },
+  {
+    "title": "Mann Bharryaa 2.0 (From \"Shershaah\")",
+    "artist": "B Praak, Jaani",
+    "isrc": "INS172102779"
+  },
+  {
+    "title": "Boondein",
+    "artist": "Silk Route",
+    "isrc": "INS171600825"
+  },
+  {
+    "title": "Devathaiya Kandein (From \"Kadhal Kondaen\")",
+    "artist": "Harish Raghavendra",
+    "isrc": "INF040300473"
+  },
+  {
+    "title": "Sang Rahiyo",
+    "artist": "Jasleen Royal, Ujjwal Kashyap",
+    "isrc": "INU251900567"
+  },
+  {
+    "title": "Hukum - Thalaivar Alappara",
+    "artist": "Anirudh Ravichander, Super Subu",
+    "isrc": "QMBZ92351475"
+  },
+  {
+    "title": "Krishna",
+    "artist": "Colonial Cousins",
+    "isrc": "INM129600414"
+  },
+  {
+    "title": "Dariya",
+    "artist": "Arko",
+    "isrc": "INZ031401552"
+  },
+  {
+    "title": "Vaada Vaada Nanba (From \"Brahman\")",
+    "artist": "Andrea Jeremiah, M.L.R. Karthikeyan",
+    "isrc": "INT131400100"
+  },
+  {
+    "title": "Karpanai Endralum",
+    "artist": "T. M. Soundararajan",
+    "isrc": "INH100604867"
+  },
+  {
+    "title": "Tu Mile Dil Khile",
+    "artist": "Stebin Ben, Asees Kaur",
+    "isrc": "INH102300047"
+  },
+  {
+    "title": "Mannarkudi Kalakalakka",
+    "artist": "Manikka Vinayagam, Rajlakshmi Devi, Chinna Ponnu, Pa. Vijay",
+    "isrc": "INH100629233"
+  },
+  {
+    "title": "Nenjukkulle",
+    "artist": "Saindhavi",
+    "isrc": "INT201200372"
+  },
+  {
+    "title": "Kaarkuzhal Kadavaiye",
+    "artist": "Sriram Parthasarathy, Vijaynarain, Ananthu, Santhosh Narayanan, Pradeep Kumar, Vivek",
+    "isrc": "IND291811607"
+  },
+  {
+    "title": "Ninaippathellaam Nadanthu",
+    "artist": "P. B. Sreenivas",
+    "isrc": "INH100229810"
+  },
+  {
+    "title": "Mungda",
+    "artist": "Jyotica Tangri, Shaan, Subhro Ganguly, Gourov-Roshin, Laxmikant–Pyarelal",
+    "isrc": "INH101900090"
+  },
+  {
+    "title": "Mein Teri Ho Gayi",
+    "artist": "Millind Gaba",
+    "isrc": "INM431700219"
+  },
+  {
+    "title": "Sapna Jahan (From \"Brothers\")",
+    "artist": "Ajay-Atul, Sonu Nigam, Neeti Mohan",
+    "isrc": "INS171501082"
+  },
+  {
+    "title": "Yeh Kasoor",
+    "artist": "Sonu Kakkar",
+    "isrc": "INS181202149"
+  },
+  {
+    "title": "Ennavo Ennavo",
+    "artist": "S.A. Rajkumar, Hariharan, Mahalakshmi Iyer",
+    "isrc": "INM120000662"
+  },
+  {
+    "title": "Enthaaraa Enthaaraa",
+    "artist": "Ghibran, Shadab Faridi, Chinmayi",
+    "isrc": "INT201300564"
+  },
+  {
+    "title": "Janiye (from the Netflix Film \"Chor Nikal Ke Bhaga\")",
+    "artist": "Vishal Mishra, Rashmeet Kaur",
+    "isrc": "QZ8BZ2304898"
+  },
+  {
+    "title": "Kya Baat Ay",
+    "artist": "Harrdy Sandhu, Jaani",
+    "isrc": "INS171806873"
+  },
+  {
+    "title": "Kavithai Kelungal Karuvil",
+    "artist": "Vani Jairam, P. Jayachandran",
+    "isrc": "INT522101431"
+  },
+  {
+    "title": "Avalukkenna (From \"Server Sundaram\")",
+    "artist": "L. R. Eswari, T. M. Soundararajan",
+    "isrc": "INH100071770"
+  },
+  {
+    "title": "Aaj Jane Ki Zid Na Karo (Live)",
+    "artist": "Farida Khanum",
+    "isrc": "USA560666944"
+  },
+  {
+    "title": "Saath Tere",
+    "artist": "Sukriti Kakar, Prakriti Kakar, Abhijay Sharma",
+    "isrc": "USA2P2418860"
+  },
+  {
+    "title": "Kandisa",
+    "artist": "Indian Ocean",
+    "isrc": "USA560567561"
+  },
+  {
+    "title": "O Sakkanoda (From \"Guru\")",
+    "artist": "Dhee, Santhosh Narayanan",
+    "isrc": "INS181700304"
+  },
+  {
+    "title": "Hridayam Thakarnnoru Naal",
+    "artist": "Biju Narayanan",
+    "isrc": "INM201810330"
+  },
+  {
+    "title": "Golmaal (Female Version)",
+    "artist": "Vishal-Shekhar, Anushka Manchanda, Vishal Dadlani",
+    "isrc": "INS180808615"
+  },
+  {
+    "title": "Kitaben Bahut Si (From \"Baazigar\")",
+    "artist": "Asha Bhosle, Vinod Rathod",
+    "isrc": "INV119300500"
+  },
+  {
+    "title": "Yaar Bina Chain Kanha Ray",
+    "artist": "Bappi Lahiri, S. Janaki",
+    "isrc": "INUM70500692"
+  },
+  {
+    "title": "Jal Bhar De",
+    "artist": "Gulzar, Bhupinder Singh",
+    "isrc": "INS170000113"
+  },
+  {
+    "title": "Roj Roj Aankhon Tale (From \"Jeeva\")",
+    "artist": "R. D. Burman, Asha Bhosle, Amit Kumar",
+    "isrc": "INS171600540"
+  },
+  {
+    "title": "Moh Moh Ke Dhaage (Female)",
+    "artist": "Anu Malik, Monali Thakur, Varun Grover",
+    "isrc": "INY091500022"
+  },
+  {
+    "title": "Hum Dil De Chuke Sanam",
+    "artist": "Kavita Krishnamurthy, Mohammad Salamat, Dominique",
+    "isrc": "INS189911117"
+  },
+  {
+    "title": "Main Zindagi Ka Saath Nibhata Chala Gaya",
+    "artist": "Mohammed Rafi",
+    "isrc": "INH109452390"
+  },
+  {
+    "title": "Saphal Hogi Teri Aradhana",
+    "artist": "S. D. Burman",
+    "isrc": "INH100049780"
+  },
+  {
+    "title": "Yeh Raat Bheegi Bheegi (From \"Chori Chori\")",
+    "artist": "Manna Dey, Lata Mangeshkar",
+    "isrc": "INH109239680"
+  },
+  {
+    "title": "Akkam Pakkam",
+    "artist": "Sadhana Sargam",
+    "isrc": "INS180908120"
+  },
+  {
+    "title": "Shree Siddhivinayak Mantra And Aarti",
+    "artist": "Amitabh Bachchan",
+    "isrc": "INT131600299"
+  },
+  {
+    "title": "Deewangi Deewangi",
+    "artist": "Vishal-Shekhar, Shaan, Udit Narayan, Shreya Ghoshal, Sunidhi Chauhan, Rahul Saxena",
+    "isrc": "INS180705750"
+  },
+  {
+    "title": "Hari Om Hari",
+    "artist": "Usha Uthup",
+    "isrc": "INH109530700"
+  },
+  {
+    "title": "Haule Haule",
+    "artist": "Salim–Sulaiman, Sukhwinder Singh, Jaideep Sahni",
+    "isrc": "INY090800054"
+  },
+  {
+    "title": "Bol Na Halke Halke",
+    "artist": "Shankar-Ehsaan-Loy, Rahat Fateh Ali Khan, Mahalakshmi Iyer, Gulzar",
+    "isrc": "INY090700151"
+  },
+  {
+    "title": "Dheere Dheere Se Meri Zindagi Mein Aana (From \"Aashiqui\")",
+    "artist": "Anuradha Paudwal, Kumar Sanu",
+    "isrc": "INS189010005"
+  },
+  {
+    "title": "Jhanjharia - Male Version",
+    "artist": "Abhijeet",
+    "isrc": "INT109600194"
+  },
+  {
+    "title": "Peer Vi Tu",
+    "artist": "Harshdeep Kaur, The Wedding Filmer, Amar Khandha, Mohan Kannan, Shahzan Mujeeb",
+    "isrc": "DGA052081991"
+  },
+  {
+    "title": "Dil Kya Kare",
+    "artist": "Adnan Sami",
+    "isrc": "INS180606920"
+  },
+  {
+    "title": "Mashallah",
+    "artist": "Sajid-Wajid, Wajid, Shreya Ghoshal, Kausar Munir",
+    "isrc": "INY091200024"
+  },
+  {
+    "title": "Ahista",
+    "artist": "Pankaj Udhas",
+    "isrc": "INUM70502798"
+  },
+  {
+    "title": "Dil Dooba",
+    "artist": "Sonu Nigam, Shreya Ghoshal",
+    "isrc": "INS180351142"
+  },
+  {
+    "title": "Dil Ne Yeh Kaha Hain Dil Se (From \"Dhadkan\")",
+    "artist": "Udit Narayan, Alka Yagnik",
+    "isrc": "INV110000484"
+  },
+  {
+    "title": "Darling",
+    "artist": "Vishal Bhardwaj, Usha Uthup, Rekha Bhardwaj",
+    "isrc": "INS171100001"
+  },
+  {
+    "title": "Enna Solla Pogirai",
+    "artist": "Shankar Mahadevan",
+    "isrc": "INH100154130"
+  },
+  {
+    "title": "Kisi Ki Muskurahaton Pe",
+    "artist": "Mukesh",
+    "isrc": "INH109237330"
+  },
+  {
+    "title": "Akhiyaan Milaoon Kabhi",
+    "artist": "Alka Yagnik, Udit Narayan",
+    "isrc": "INT109500060"
+  },
+  {
+    "title": "Do Pal",
+    "artist": "Madan Mohan, Lata Mangeshkar, Sonu Nigam, Javed Akhtar",
+    "isrc": "INY090400019"
+  },
+  {
+    "title": "Jane Woh Kaise Log The",
+    "artist": "Hemant Kumar",
+    "isrc": "INH109541280"
+  },
+  {
+    "title": "Sukh Karta Dukh Harta",
+    "artist": "Suresh Wadkar",
+    "isrc": "FR6V82299341"
+  },
+  {
+    "title": "Saanj Dhale Gagan Tale Hum Kitane Ekaki",
+    "artist": "Laxmikant–Pyarelal, Suresh Wadkar",
+    "isrc": "INS171600193"
+  },
+  {
+    "title": "Ek Din Teri Raahon",
+    "artist": "Javed Ali, Pritam",
+    "isrc": "INT100700189"
+  },
+  {
+    "title": "Kaisa Lagta Hai (From \"Baaghi\")",
+    "artist": "Amit Kumar, Anuradha Paudwal",
+    "isrc": "INV119200642"
+  },
+  {
+    "title": "Dil Ka Rishta - Sad Version",
+    "artist": "Babul Supriyo, Sarika Kapoor",
+    "isrc": "INT100300025"
+  },
+  {
+    "title": "Yaad Piya Ki Aane Lagi - From \"Pyaar Koi Khel Nahin\"",
+    "artist": "Falguni Pathak",
+    "isrc": "INUM70500727"
+  },
+  {
+    "title": "Dilko Tumse Pyar Hua",
+    "artist": "Roop Kumar Rathod",
+    "isrc": "INH100152400"
+  },
+  {
+    "title": "Tumsa Koi Pyaara",
+    "artist": "Kumar Sanu, Alka Yagnik",
+    "isrc": "INT109400199"
+  },
+  {
+    "title": "Ae Mere Humsafar (From \"Baazigar\")",
+    "artist": "Vinod Rathod, Alka Yagnik",
+    "isrc": "INV119300497"
+  },
+  {
+    "title": "Yeh Sham Mastani (From \"Kati Patang\")",
+    "artist": "Kishore Kumar",
+    "isrc": "INH109438860"
+  },
+  {
+    "title": "Dil Ki Yeh Arzoo Thi",
+    "artist": "Mahendra Kapoor, Salma Agha",
+    "isrc": "INH100164420"
+  },
+  {
+    "title": "Aise Kyun - Ghazal Version",
+    "artist": "Rekha Bhardwaj, Anurag Saikia, Raj Shekhar, Mismatched - Cast",
+    "isrc": "QZ8BZ2201990"
+  },
+  {
+    "title": "Tu Meri",
+    "artist": "Vishal Dadlani",
+    "isrc": "INZ031400142"
+  },
+  {
+    "title": "Rock On!!",
+    "artist": "Farhan Akhtar",
+    "isrc": "INS180908333"
+  },
+  {
+    "title": "Tinka Tinka",
+    "artist": "Vishal-Shekhar, Alisha Chinai",
+    "isrc": "INS180500088"
+  },
+  {
+    "title": "Nashe Si Chadh Gayi",
+    "artist": "Vishal-Shekhar, Arijit Singh, Caralisa Monteiro, Jaideep Sahni",
+    "isrc": "INY091600067"
+  },
+  {
+    "title": "Waqt Ne Kiya Kya Haseen Sitam",
+    "artist": "Geeta Dutt",
+    "isrc": "INH109350720"
+  },
+  {
+    "title": "Tum Itna Jo Muskura Rahe Ho",
+    "artist": "Jagjit Singh",
+    "isrc": "INH109632450"
+  },
+  {
+    "title": "Kashmir Main Tu Kanyakumari",
+    "artist": "Sunidhi Chauhan, Arijit Singh, Neeti Mohan",
+    "isrc": "INS181304646"
+  },
+  {
+    "title": "Fire",
+    "artist": "Rajesh Roshan, Vishal Dadlani, Anirudh Bhola, Anushka Manchanda",
+    "isrc": "INS181005606"
+  },
+  {
+    "title": "Dil Keh Reha Ha",
+    "artist": "Kunal Ganjawala",
+    "isrc": "INS180500012"
+  },
+  {
+    "title": "Jhalak Dikhla Ja",
+    "artist": "Himesh Reshammiya",
+    "isrc": "INS180500429"
+  },
+  {
+    "title": "Kabhie Kisi Ko Muqammal Jahan - Ahista Ahista / Soundtrack Version",
+    "artist": "Bhupinder Singh",
+    "isrc": "INUM70501383"
+  },
+  {
+    "title": "Meri Aashiqui (From \"Aashiqui 2\")",
+    "artist": "Palak Muchhal, Arijit Singh",
+    "isrc": "INS181303035"
+  },
+  {
+    "title": "Shaabaashiyaan - From \"Mission Mangal\"",
+    "artist": "Amit Trivedi, Shilpa Rao, Anand Bhaskar, Abhijeet Srivastava",
+    "isrc": "INZ031405953"
+  },
+  {
+    "title": "Galat Baat Hai",
+    "artist": "Neeti Mohan, Javed Ali",
+    "isrc": "INS181400515"
+  },
+  {
+    "title": "Piya Ghar Aavenge",
+    "artist": "Kailash Kher, Paresh Kamath, Naresh Kamath",
+    "isrc": "INS170900249"
+  },
+  {
+    "title": "Sunn Raha Hai (From \"Aashiqui 2\")",
+    "artist": "Shreya Ghoshal",
+    "isrc": "INS181303039"
+  },
+  {
+    "title": "Tujhe Bhula Diya",
+    "artist": "Vishal-Shekhar, Mohit Chauhan, Shekhar Ravjiani, Shruti Pathak",
+    "isrc": "INS181007761"
+  },
+  {
+    "title": "Sankatmochan Hanuman Ashtak",
+    "artist": "Hariharan",
+    "isrc": "INS189210630"
+  },
+  {
+    "title": "Lafzon Mein",
+    "artist": "Abhijeet Sawant, Biddu",
+    "isrc": "INS170500015"
+  },
+  {
+    "title": "So Gaya Yeh Jahan (From \"Bypass Road\")",
+    "artist": "Nitin Mukesh, Jubin Nautiyal, Saloni Thakkar, Raaj Aashoo",
+    "isrc": "INS181905049"
+  },
+  {
+    "title": "Tujhe Dekha To (From \"Dilwale Dulhania Le Jayenge\")",
+    "artist": "Lata Mangeshkar, Kumar Sanu",
+    "isrc": "INH109537390"
+  },
+  {
+    "title": "Zindagi Denewale Sun, Teri Duniya Se Dil Bhar Gaya, From ''Dil - E – Nadan''",
+    "artist": "Talat Mahmood",
+    "isrc": "CA5KR2085347"
+  },
+  {
+    "title": "Ham Ne Tum Ko Dekha",
+    "artist": "Shailendra Singh, R. D. Burman",
+    "isrc": "INH109340760"
+  },
+  {
+    "title": "Sanam Re (From \"Sanam Re\")",
+    "artist": "Mithoon, Arijit Singh",
+    "isrc": "INS181502139"
+  },
+  {
+    "title": "Tujhe Aksa Beach Ghuma Doon",
+    "artist": "Wajid, Amrita Kak",
+    "isrc": "INS180806129"
+  },
+  {
+    "title": "Jorse Jorse",
+    "artist": "Daler Mehndi, Geetha Madhuri",
+    "isrc": "INA090912208"
+  },
+  {
+    "title": "Tere Naal",
+    "artist": "Tulsi Kumar, Darshan Raval",
+    "isrc": "INS182000915"
+  },
+  {
+    "title": "Dil De Diya Hai",
+    "artist": "Anand Raj Anand",
+    "isrc": "INS180461175"
+  },
+  {
+    "title": "Bolo Na Radhika",
+    "artist": "Monali Thakur",
+    "isrc": "INS2X1900107"
+  },
+  {
+    "title": "Beda Paar",
+    "artist": "Sona Mohapatra, Ram Sampath, Prashant Pandey",
+    "isrc": "INS182400366"
+  },
+  {
+    "title": "Saiyan Dil Mein Aana Re",
+    "artist": "Shamshad Begum",
+    "isrc": "INH109243800"
+  },
+  {
+    "title": "Safarnama",
+    "artist": "Lucky Ali",
+    "isrc": "INS181501799"
+  },
+  {
+    "title": "Ganesh Stotra",
+    "artist": "Usha Mangeshkar",
+    "isrc": "ING902400048"
+  },
+  {
+    "title": "Hum Tere Shahar Me Aaye Hai",
+    "artist": "Ghulam Ali",
+    "isrc": "INU100901017"
+  },
+  {
+    "title": "Tere Bin (From \"Simmba\")",
+    "artist": "Rahat Fateh Ali Khan, Asees Kaur, Tanishk Bagchi",
+    "isrc": "INS181802846"
+  },
+  {
+    "title": "Tere Meri Prem Kahani",
+    "artist": "Kalyanji-Anandji, Kishore Kumar, Alka Yagnik",
+    "isrc": "INS171600486"
+  },
+  {
+    "title": "Tu Hai Ki Nahi",
+    "artist": "Ankit Tiwari, Abhendra Kumar Upadhyay",
+    "isrc": "INS181427587"
+  },
+  {
+    "title": "Besharmi Ki Height",
+    "artist": "Benny Dayal, Shalmali Kholgade",
+    "isrc": "INS181400468"
+  },
+  {
+    "title": "Aankhein Khuli",
+    "artist": "Jatin-Lalit, Lata Mangeshkar, Udit Narayan, Udbhav, Manohar Shetty, Ishaan, Shweta Pandit, Sonali Bhatawdekar, Pritha Mazumdar, Anand Bakshi",
+    "isrc": "INY090000004"
+  },
+  {
+    "title": "Tomar Kotha",
+    "artist": "Papon, Keshab Nayan",
+    "isrc": "INU252001690"
+  },
+  {
+    "title": "Gali Gali Mein",
+    "artist": "Manhar Udhas, Alka Yagnik",
+    "isrc": "INS188910009"
+  },
+  {
+    "title": "Bolo Na - Film Version",
+    "artist": "Shantanu Moitra, Medha Shankr",
+    "isrc": "INH102316263"
+  },
+  {
+    "title": "Chale Aana (From \"De De Pyaar De\")",
+    "artist": "Amaal Mallik, Armaan Malik, Kunaal Vermaa",
+    "isrc": "INS181900965"
+  },
+  {
+    "title": "Saadi Galli Aaja",
+    "artist": "Ayushmann Khurrana, Neeti Mohan",
+    "isrc": "INS181302177"
+  },
+  {
+    "title": "Dulhan Angiyan",
+    "artist": "Javed Akhtar, Shabana Azmi, Puja Kulkarni, Gurmeet Kaur, Sancharee Saha, Mithila Lad, Meenal Jain, Anagh Banerjee, Bhai Jaswinder Singh, Harpreet",
+    "isrc": "INH101102226"
+  },
+  {
+    "title": "Love You Zindagi",
+    "artist": "Amit Trivedi, Jasleen Royal, Kausar Munir",
+    "isrc": "INS171602536"
+  },
+  {
+    "title": "Beete Lamhein (From \"The Train\")",
+    "artist": "KK",
+    "isrc": "INS180702210"
+  },
+  {
+    "title": "Bumro",
+    "artist": "Kamaal Khan",
+    "isrc": "INS181900481"
+  },
+  {
+    "title": "Tum Todo Na (Male)",
+    "artist": "Ash King, Sunidhi Chauhan",
+    "isrc": "INS181427606"
+  },
+  {
+    "title": "I Don't Know What To Do",
+    "artist": "Shabbir Kumar, Sunidhi Chauhan",
+    "isrc": "INS181005586"
+  },
+  {
+    "title": "Poovukkul",
+    "artist": "Unnikrishnan, Sujatha, Vairamuthu",
+    "isrc": "INN139800542"
+  },
+  {
+    "title": "Yashomati Nandan Brijvara Nagar",
+    "artist": "Chitra Singh",
+    "isrc": "INS171600895"
+  },
+  {
+    "title": "Allah Waariyan",
+    "artist": "Shafqat Amanat Ali, Arko Pravo Mukherjee",
+    "isrc": "INS181306568"
+  },
+  {
+    "title": "Dil Ke Arman Ansuon Men Bah Gaye",
+    "artist": "Salma Agha",
+    "isrc": "INH109938280"
+  },
+  {
+    "title": "Mast Kalander",
+    "artist": "Mika Singh, Yo Yo Honey Singh",
+    "isrc": "INT131410257"
+  },
+  {
+    "title": "Tum Kya Mile (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+    "artist": "Pritam, Arijit Singh, Shreya Ghoshal, Amitabh Bhattacharya",
+    "isrc": "INH102309375"
+  },
+  {
+    "title": "Saawariya",
+    "artist": "Monty Sharma, Shail Hada",
+    "isrc": "INS170709289"
+  },
+  {
+    "title": "Deewana Hai Dekho (From \"Kabhi Khushi Kabhie Gham\")",
+    "artist": "Sandesh Shandilya, Alka Yagnik, Sonu Nigam, Kareena Kapoor",
+    "isrc": "INS170100029"
+  },
+  {
+    "title": "Kun Faya Kun",
+    "artist": "A.R. Rahman, Javed Ali, Mohit Chauhan",
+    "isrc": "INS181103501"
+  },
+  {
+    "title": "Shekhar Ravjiani's Hanuman Chalisa - Zee Music Devotional",
+    "artist": "Shekhar Ravjiani",
+    "isrc": "INZ031400049"
+  },
+  {
+    "title": "Majboor Tu Bhi Kahin",
+    "artist": "Amit Mishra, Chirantan Bhatt, Manoj Yadav",
+    "isrc": "INS181204314"
+  },
+  {
+    "title": "Elanthapalam Elanthapalam",
+    "artist": "Anuradha Sriram, Tippu",
+    "isrc": "INS280400550"
+  },
+  {
+    "title": "Ranjish Hi Sahi",
+    "artist": "Mehdi Hassan",
+    "isrc": "TCABD1241715"
+  },
+  {
+    "title": "Njan Kanavil - From \"Aagathan\"",
+    "artist": "Shweta Mohan",
+    "isrc": "INM200901309"
+  },
+  {
+    "title": "Jab Tak Pure Na Ho Phere Saat",
+    "artist": "Hemlata",
+    "isrc": "INH100407295"
+  },
+  {
+    "title": "Un Vizhigalil",
+    "artist": "Harini",
+    "isrc": "GBSGZ1400236"
+  },
+  {
+    "title": "Tu Ganga Ki Mauj",
+    "artist": "Naushad, Shakeel Badayuni, Lata Mangeshkar, Mohammed Rafi",
+    "isrc": "QMBZ92332284"
+  },
+  {
+    "title": "Dholna",
+    "artist": "Uttam Singh, Lata Mangeshkar, Udit Narayan, Anand Bakshi",
+    "isrc": "INY099700004"
+  },
+  {
+    "title": "Minnalai Pidithu",
+    "artist": "Unni Menon",
+    "isrc": "INS280100374"
+  },
+  {
+    "title": "Baarish",
+    "artist": "Mohammed Irfan, Gajendra Verma, Mithoon",
+    "isrc": "INS181306566"
+  },
+  {
+    "title": "Sotta Sotta",
+    "artist": "Sujatha, Vairamuthu",
+    "isrc": "INN139900585"
+  },
+  {
+    "title": "Tera Hone Laga Hoon",
+    "artist": "Atif Aslam, Alisha Chinai, Pritam",
+    "isrc": "INT100900021"
+  },
+  {
+    "title": "Serenade Of Love ( Theme )",
+    "artist": "Ismail Darbar",
+    "isrc": "INUM70503734"
+  },
+  {
+    "title": "Oru Poiyavathu (From \"Jodi\")",
+    "artist": "Srinivas, Sujatha",
+    "isrc": "INN139900547"
+  },
+  {
+    "title": "Pesugiraen",
+    "artist": "Neha Bhasin, Na.Muthukumar",
+    "isrc": "INA221000759"
+  },
+  {
+    "title": "Nachange Saari Raat (From \"Junooniyat\") (feat. Neeraj Shridhar, Tulsi Kumar)",
+    "artist": "Meet Bros., Neeraj Shridhar, Tulsi Kumar",
+    "isrc": "INS181600794"
+  },
+  {
+    "title": "Soul Of Varisu (From \"Varisu\")",
+    "artist": "K. S. Chithra, Thaman S",
+    "isrc": "INS182203813"
+  },
+  {
+    "title": "Kaun Tujhe (Armaan Malik Version)",
+    "artist": "Armaan Malik, Amaal Mallik",
+    "isrc": "INS181700031"
+  },
+  {
+    "title": "Sabki Baaratein Aayi",
+    "artist": "Jaspinder Narula",
+    "isrc": "INT109900023"
+  },
+  {
+    "title": "Aisi Laagi Lagan",
+    "artist": "Anup Jalota",
+    "isrc": "USA371426370"
+  },
+  {
+    "title": "Putham Puthu Kaalai",
+    "artist": "S. Janaki",
+    "isrc": "INUM70500995"
+  },
+  {
+    "title": "Kalaya Nijama",
+    "artist": "P. Susheela, Ilaiyaraaja",
+    "isrc": "INA090203633"
+  },
+  {
+    "title": "Dard - E - Disco",
+    "artist": "Vishal-Shekhar, Sukhwinder Singh, Marianne, Caralisa Monteiro, Nisha",
+    "isrc": "INS180705749"
+  },
+  {
+    "title": "Malare",
+    "artist": "Vijay Yesudas, Rajesh Murugesan",
+    "isrc": "INM811456901"
+  },
+  {
+    "title": "Voh Dekhnay Mein",
+    "artist": "Ali Zafar",
+    "isrc": "INS171200052"
+  },
+  {
+    "title": "Alwarpetyai Aaluda",
+    "artist": "Kamal Haasan, Vairamuthu, Bharadwaj",
+    "isrc": "INA221000431"
+  },
+  {
+    "title": "Jaa Bewafa Jaa",
+    "artist": "Altaf Raja",
+    "isrc": "INV110001226"
+  },
+  {
+    "title": "Beqarar Hai Koi",
+    "artist": "Suraiya, Mohammed Rafi",
+    "isrc": "INH109530350"
+  }
+]
